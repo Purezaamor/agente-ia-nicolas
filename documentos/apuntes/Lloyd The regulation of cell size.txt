@@ -1,0 +1,1196 @@
+=== Fuente: Lloyd The regulation of cell size.pdf ===
+
+Leading Edge
+Review
+The Regulation of Cell Size
+Alison C. Lloyd1,*
+1MRC Laboratory for Molecular Cell Biology and the UCL Cancer Institute, University College London, Gower Street, London WC1E 6BT, UK
+*Correspondence: alison.lloyd@ucl.ac.uk
+http://dx.doi.org/10.1016/j.cell.2013.08.053
+An adult animal consists of cells of vastly different size and activity, but the regulation of cell size
+remains poorly understood. Recent studies uncovering some of the signaling pathways important
+for size/growth control, together with the identiﬁcation of diseases resulting from aberrations in
+these pathways, have renewed interest in this ﬁeld. This Review will discuss our current under-
+standing of how a cell sets its size, how it can adapt its size to a changing environment, and how
+these processes are relevant to human disease.
+Introduction
+The adult animal represents an endpoint of sorts, consisting of
+the surviving cells from the extensive growth, proliferation, and
+remodeling that takes place during development. Many of these
+cells continue to proliferate during adulthood, but one trait that
+distinguishes most adults from developmental stages is that
+the adult aims to remain more or less the same, hence the
+term homeostasis. In the adult, homeostatic mechanisms main-
+tain cell number and size to preserve organ size and function.
+However, this outward appearance of stability belies the com-
+plex balance of positive and negative regulatory stimuli required
+to maintain tissues with the differing proliferative and metabolic
+activities that make up a complex organism.
+In unicellular organisms such as yeast, cell growth and prolif-
+eration are mostly controlled by the extracellular nutritional
+environment, which allows a direct coupling of resources to
+cell generation. In multicellular organisms, however, growth, pro-
+liferation, and survival need to be differentially regulated in
+different tissues, so additional levels of control are required.
+This is achieved by providing a more or less constant supply of
+nutrients systemically (by the bloodstream or its equivalent),
+but in addition, there is a requirement by each cell for an instruc-
+tive signal to grow, proliferate, and survive. Thus, a combination
+of multiple growth, mitogenic, and survival signals with cell-spe-
+ciﬁc responses provides the diverse signaling required to pro-
+duce and maintain a complex adult organism.
+Although the signaling pathways and processes regulating cell
+proliferation and cell survival pathways have been intensively
+studied, until recently, the regulation of cell growth has received
+much less attention. Several new lines of investigation have rein-
+vigorated this ﬁeld of study. Studies showing that cells require
+extracellular instructive signals to grow, coupled with the identi-
+ﬁcation of key signaling pathways, have provided tractable sys-
+tems for studying how cell growth is regulated. Moreover, the
+identiﬁcation of abnormalities in these pathways in diseases as
+diverse as cancer, cardiac hypertrophy and neurodevelopmental
+disorders have highlighted the critical importance of the tight
+regulation of these pathways and have identiﬁed potential new
+therapeutic strategies. In this Review, I will discuss our current
+understanding of how cells reach, retain, and adapt their size
+and how loss of these controls contributes to human pathologies.
+Cell Growth versus Cell Proliferation
+Cell growth (mass accumulation) and proliferation (cell division)
+are clearly separable processes. A cell can grow without dividing
+(for example, the growth of postmitotic neurons) and proliferate
+without growing (for example the cleavage divisions of a fertilized
+egg). Both processes require instructive signals, so a mamma-
+lian cell sitting in a culture dish surrounded by nutrients will not
+enter the cell cycle or add mass in the absence of a mitogen or
+growth factor, respectively (Conlon et al., 2001; Rathmell et al.,
+2000). These extracellular controls appear to be so stringent
+that, in the absence of a growth signal, a cell will ‘‘eat’’ itself
+rather than use the external supply of nutrients (Lum et al.,
+2005). However, despite both processes being regulated by
+extrinsic instructive signals, there are important differences be-
+tween growth and proliferation that need to be considered to un-
+derstand how they are regulated and coordinated.
+Progression through the cell cycle tends to be an all-or-
+nothing, unidirectional process triggered by a threshold level of
+mitogenic signaling. Thus, although the rate at which cells prog-
+ress through the cell cycle can vary, cells are either in the cycle as
+a result of mitogen stimulation or out of the cycle either because
+mitogen levels are too low or because the cell has permanently
+withdrawn from the cycle—for example, in terminally differenti-
+ated postmitotic cells. In contrast, most cells, whether in or out
+of the cycle—and many are permanently out of cycle for the
+entire adult lifespan—are constantly making and degrading
+macromolecules to maintain biological functions. The amount
+and type of biosynthetic activity can vary dramatically between
+cell types (compare rapidly dividing cells, nondividing secretory
+cells, metabolically active but postmitotic neurons, and quies-
+cent oocytes). Yet, each of these cells is set to make and
+degrade macromolecules at a rate suitable for its needs to either
+maintain homeostasis or respond to a stimulus. A cell’s size and
+growth rate is therefore determined by the balance between the
+rates of accumulation of macromolecules (by synthesis and up-
+take) and their loss (by degradation and secretion), which can
+vary in a graded fashion in response to changing levels of growth
+factor signaling.
+The notion that seemingly quiescent cells may actually be
+highly biosynthetically active was dramatically shown in a recent
+study of mammalian ﬁbroblasts in which biosynthetic activity
+1194 Cell 154, September 12, 2013 ª2013 Elsevier Inc.
+was compared between ﬁbroblasts removed from the cell cycle
+by contact inhibition and rapidly proliferating cells (Lemons
+et al., 2010). Remarkably, the contact-inhibited cells continued
+to synthesize proteins at the same rate as the proliferating cells,
+even though the contact-inhibited cells were apparently produc-
+ing much less net mass over a similar period of time. The expla-
+nation was that contact-inhibited cells had changed their
+metabolism, increasing the amount of protein degradation and
+secreting large amounts of extracellular matrix proteins.
+Although these ﬁndings probably reﬂect the differing physiolog-
+ical roles of dividing and nondividing ﬁbroblasts, they are also a
+potent reminder that intuitive assumptions about the biosyn-
+thetic rates of different cells may be highly inaccurate and that
+nongrowing, nonproliferating cells can be as biogenic as
+growing and proliferating cells.
+Establishing and Maintaining Cell Size
+The size of an adult organism is determined by both intrinsic
+developmental programs and by extracellular signals, which
+integrate to control cell number and cell size. Differences in an-
+imal size are mostly genetically determined and primarily reﬂect
+differences in cell number rather than differences in cell size
+(Conlon and Raff, 1999). However, despite the more or less ﬁxed
+target size of most organisms, external signals can still impinge
+on this genetic program. One clear example of this is the effects
+that nutrient levels can have during development. When in
+excess, nutrient levels do not appreciably affect maximal organ-
+ismal size, but when limited, they can have a dramatic effect. For
+example, it has been shown that extreme nutrient deprivation
+during development can decrease a ﬂy’s size to 15% of normal
+(Edgar, 2006).
+Thus, at least in well-nourished adult animals, tissue size tends
+to have been set by the balance between the proliferation and
+survival rates of stem and progenitor cells that established the
+tissue and the timing of when these cells left the cell cycle or
+when they reached a homeostatic state. However, this is not al-
+ways the case. Pioneering experiments in Drosophila showed
+that inhibiting cell division within half a developing wing disc
+had little effect on the ﬁnal size of the wing as the cell-cycle-
+arrested cells grew larger (Su and O’Farrell, 1998). Similarly,
+whereas pancreatic size is controlled by progenitor cell number,
+liver size is not, indicating that the ﬁnal size of a tissue can be
+determined by its total cell mass rather than cell number (Stanger
+et al., 2007).
+The size of the cells within a tissue will be the ‘‘readout’’ of their
+growth and proliferation rates, both during development and in
+the adult, which are controlled by intrinsic programs and the
+levels of extracellular mitogens and growth factors, as well as
+other factors that can impinge on these pathways such as
+nutrient levels, mechanical signals—which can act both posi-
+tively (such as stretching during periods of growth) and nega-
+tively (for example, crowding within a tissue)—and stress
+(Conlon and Raff, 1999; Tumaneng et al., 2012a). The lack of a
+ﬁxed cell-sizing mechanism and the separable and independent
+regulation of cell growth and proliferative pathways have been
+demonstrated in multiple cell types and are shown most clearly
+by the repeated ﬁnding that increasing the growth rate of cells
+usually has little effect on cell number but can dramatically in-
+crease cell size and hence tissue size (Edgar, 2006; Jorgensen
+and Tyers, 2004).
+On reaching adulthood, tissues and cells mostly maintain their
+size. This homeostatic maintenance of form is seen in rapidly re-
+newing epithelial tissues, postmitotic cells such as neurons and
+muscle, and regenerative cell types such as liver, endothelial,
+and Schwann cells, which can maintain their size for years but
+retain the capacity to renter the cell cycle, proliferate, and form
+new tissue of the appropriate size. The robustness yet ﬂexibility
+of the homeostatic state is likely to require robust but responsive
+regulatory networks, and defects of these controls will likely
+contribute to disease. Remarkably, these regulatory networks
+remain poorly understood even in possibly the simplest situation
+to consider, which is the maintenance of the size of a nondividing
+cell in the adult. As discussed above, a nondividing adult cell that
+maintains a constant size is not in the absence of a growth signal
+(it would atrophy) or biosynthetically inactive (it would fail to func-
+tion) but rather in a balanced state resulting from a deﬁned level
+of growth pathway signaling. In this homeostatic state, the rates
+of synthesis and degradation of macromolecules are balanced to
+result in no net change in the mass or volume of the cell. More-
+over, the water content of the cell must be controlled, requiring
+stringent controls of osmotic pressure (Koivusalo et al., 2009).
+This is all the more remarkable when considering the highly dy-
+namic nature of most cells and the rapid turnover of many cell
+components and organelles, yet this maintenance of cell size
+can last a lifetime. An indication of the controls involved and
+the importance of growth factors in their regulation were demon-
+strated by studies in sensory neurons, which concluded that syn-
+thesis and degradative pathways are coupled in order to main-
+tain cell size. In these experiments, the neurons were treated
+with the neurotrophin NGF (a growth factor for these cells) in
+the presence of increasing levels of an inhibitor of protein synthe-
+sis. Incredibly, cell size was maintained because of a propor-
+tional decrease in the degradative rates of long-lived proteins.
+In contrast, in the absence of NGF, the cells shrank (Franklin
+and Johnson, 1998). This coupling of protein synthesis and
+degradative pathways could be a general mechanism to provide
+robust homeostasis in the face of likely ﬂuctuations in growth
+factors, nutrient levels, or cellular damage.
+Growth Pathways—Controlling the Growth Rate
+Where signiﬁcant progress has been made in recent years is the
+identiﬁcation of many of the key regulatory pathways that control
+cell growth. The best-characterized example of which is the IGF/
+PI3K/AKT/mTORC1 pathway (Figure 1). This evolutionary
+conserved pathway has been shown to be a major regulator of
+cell growth and thus a key determinant of cell size; moreover,
+artiﬁcial activation of this pathway can promote additional
+growth in most cell types tested (Edgar, 2006; Laplante and Sa-
+batini, 2012; Tumaneng et al., 2012a). IGF is a classic example of
+a limiting growth factor that acts both systemically and at local
+tissue levels. Overexpression during development results in
+larger
+animals, mainly due to increases in cell size, and overex-
+pression in the adult can result in cell hypertrophy. Binding of
+IGF to its receptor activates multiple signaling pathways, but
+key to regulating cell growth is the activation of the PI3K/AKT/
+mTORC1 axis with mTORC1, a central mediator of the signal
+Cell 154, September 12, 2013 ª2013 Elsevier Inc. 1195
+from the growth factor to biogenic pathways. In addition,
+mTORC1 integrates inputs from at least four other major cues
+that can affect cell growth—stress, energy status, oxygen, and
+amino acid levels—and thus acts as a signaling node at which
+energetic and stress signals can modulate growth factor
+signaling (Laplante and Sabatini, 2012). For example, in the
+absence of amino acids, IGF is unable to activate mTORC1
+signaling. Although full amino acid deprivation is unlikely to occur
+in vivo, as animals aim to maintain relatively constant levels of
+metabolites, nutritional levels are likely to contribute subtly and
+have cell-speciﬁc roles in signaling through this pathway.
+Increased signaling through the mTORC1 pathway promotes
+multiple biogenic processes, including nutrient uptake and pro-
+tein and lipid biosynthesis, and modulates cellular metabolism
+to promote biogenesis; it also inhibits catabolic pathways such
+as autophagy (Locasale and Cantley, 2011). Importantly,
+mTORC1 activates a potent negative-feedback loop that, via
+IRS, acts to negatively regulate signaling by the IGF receptor,
+providing an example of how a biogenic pathway can be buff-
+ered to contribute to cell size homeostasis.
+Recently, however, it has become clear that mTOR is not
+required for the growth of some cell types, and these cell types
+seem to be those that are spared in response to nutrient depriva-
+tion (Cheng et al., 2011). Neuroblasts in developing Drosophila
+continue to grow in starvation conditions, whereas other ‘‘lower
+priority’’ tissues are growth restricted to various extents. The
+growth of these cells is independent of dTOR, yet requires
+both PI3K/AKT signaling and activation of the dTOR targets
+S6K and 4E-BP, indicating that these growth pathways have
+been ‘‘rewired’’ to make them less sensitive to nutrient levels.
+Moreover, these cells are also insensitive to decreasing levels
+of circulating insulin-like peptides because the receptor tyrosine
+Figure 1. Growth Pathways
+A highly simpliﬁed cartoon outlining the major
+known signaling pathways that regulate cell
+growth. For more mechanistic details, please see
+the following excellent reviews: Laplante and Sa-
+batini (2012), van Riggelen et al. (2010), and Yu
+and Guan (2013).
+kinase ALK is kept active by a ligand ex-
+pressed by the surrounding niche (Cheng
+et al., 2011).
+Another major regulator of biogenic
+pathways is the transcription factor
+Myc. Myc increases cell growth and cell
+size in multiple tissues and organisms,
+and this is associated with increased ri-
+bosomal RNA (rRNA) levels, nucleolar
+size, increased protein biogenesis, and
+the metabolic reprogramming required
+for cell growth (Grewal et al., 2005; Sau-
+cedo and Edgar, 2002; van Riggelen
+et al., 2010; Wang et al., 2011). Impor-
+tantly, Myc- and PI3K-dependent cell
+growth appears to be driven in part by
+distinct mechanisms. In Drosophila fat
+cells, overexpression of PI3K and Myc causes an equivalent in-
+crease in cell volume. However, the Myc cells appear more pro-
+tein and ribosome dense with an increase in nucleolar volume
+compared to the more lipid-rich PI3K-expressing cells (Saucedo
+and Edgar, 2002). This indicates that these two growth-promot-
+ing pathways differentially activate biogenic pathways, perhaps
+reﬂecting the requirement of cells to ‘‘grow’’ in different ways de-
+pending on their function.
+The Hippo pathway is also important in the control of tissue/or-
+gan size, mainly by regulating proliferation and apoptosis and
+thereby cell number (Tumaneng et al., 2012a). A major down-
+stream effector of this pathway is the transcriptional coactivator
+YAP1, which activates genes that promote proliferation and pro-
+tect against apoptosis. Activation of YAP1 in postnatal liver leads
+to a massive expansion of the tissue due to an increase in cell
+number; if YAP1 is then switched off, the liver returns to normal
+size as the excess cells die by apoptosis. Thus, the Hippo
+pathway not only controls the production of cells but sustains
+a level of mass perhaps by coordinately controlling both the pro-
+liferative and survival pathways (Dong et al., 2007). Producing
+and sustaining this mass, however, should also require
+increased signaling through a biogenic pathway. Perhaps not
+surprisingly, recent work in both Drosophila and mammals has
+shown crosstalk between the Hippo and mTOR signaling path-
+ways (with YAP1 activating mTOR by decreasing PTEN levels)
+and Myc, hence providing mechanisms whereby organ size
+can be determined and maintained by the coordinated regulation
+of proliferative, survival, and growth pathways (Csibi and Blenis,
+2012; Neto-Silva et al., 2010; Tumaneng et al., 2012b).
+Although it is clear that these growth pathways are important
+in all tissues tested, their roles in the maintenance of cell size
+are less clear. For example, some organs, such as liver and
+1196 Cell 154, September 12, 2013 ª2013 Elsevier Inc.
+muscle, atrophy following inhibition of mTOR. In contrast, inhib-
+iting mTOR activity in the adult prostate or in postnatal granule
+neurons of the cerebellum has little detectable effect on the
+size of these cells over substantial periods of time (Kwon et al.,
+2003; Nardella et al., 2009). They are not restrained at a particular
+size, however, as each can increase in size in response to a
+growth signal, and this growth is mTOR dependent, showing a
+differential requirement for mTOR in the growth versus mainte-
+nance of cell size. How cell size is maintained in these cells
+and how and if the metabolism of the cell is adapted to cope
+with the loss of this fundamental signaling pathway remain to
+be determined.
+Does a Cell ‘‘Know’’ Its Size?
+There is little evidence that a cell directly senses or uses some
+type of ruler to measure its size. Instead, cell size reﬂects a ho-
+meostatic level of signaling that produces a balance of anabolic
+and catabolic processes that maintain the size of both nonprolif-
+erating and proliferating cells. Yet, although cell size is mostly
+stable and predictable, it can be changed, indicating that a cell
+is constantly responsive to signals that establish and maintain
+its size. But what are the signals that set and maintain cell
+size? Although mostly poorly characterized, there are certain
+cell-speciﬁc examples that indicate how cell size can be estab-
+lished and that illustrate the importance of both systemic signals
+and local signals, as would be expected in order to coordinate
+the complex tissue architecture found in multicellular organisms.
+It is clear that both systemic and locally acting extracellular
+growth factors such as IGF1 can control cell size. These factors
+are often limiting and/or produced at higher levels during periods
+of growth. Therefore, simple models can be constructed in which
+a certain level of growth factor will set a certain cell size. For
+example, as a cell increases in size, the capacity to degrade
+Figure 2. Extracellular Signals that Regu-
+late Cell Size
+(A) A set level of growth factors can allow cells to
+grow to a speciﬁc size. One mechanism may be
+that, as a cell grows, it ingests and degrades more
+growth factor until an equilibrium is achieved be-
+tween the level of factor and the size of the cell.
+(B) The amount of NGF produced by the target
+tissue controls the size of the neurons that inner-
+vate the target.
+(C) The amount of ligand (green diamond) is pro-
+portional to the size of the axon and controls the
+growth of the surrounding Schwann cell.
+(D) Flow is detected by the primary cilium on kid-
+ney epithelial cells and negatively regulates cell
+size.
+the growth factor may also increase until
+the level of growth factor is lowered to a
+level that produces a stable cell size
+(Figure 2A).
+For some neurons, cell size can be
+determined by the level of growth factor
+produced by the target tissue (Figure 2B).
+Postmitotic neurons often extend very
+long axons to innervate their target
+tissue, a growth process stimulated by local neurotrophins and
+other signaling molecules that control the guidance of the axon
+(Bellon et al., 2010; Chilton, 2006). Upon target innervation, sig-
+nals from the target tissue inhibit further axonal extension (Moon
+and Birren, 2008), but then the level of growth factors expressed
+by the target tissue determines and maintains the size of the
+neuron (Fawcett and Keynes, 1990; Purves et al., 1988). This
+has been particularly well established for sympathetic neurons
+for which the level of NGF in the target tissue sets the size of
+the cell. During development, increasing or decreasing NGF
+levels can increase or shrink cell size, a mechanism that allows
+the neurons to increase in size in a coordinate fashion with the
+increasing size of a target tissue as the animal matures
+(Figure 2B). Moreover, this quantitative regulation persists in
+the adult, as manipulation of the target size or NGF levels in
+the adult can still cause corresponding changes in neuronal
+size, demonstrating that NGF both determines and maintains
+the size of the cell. This size maintenance, although robust, is
+also adaptable because, following injury, the neurons can regen-
+erate. Cutting the axons results in a separation from the target
+tissue, and the resulting loss of the homeostatic NGF signal
+causes dendritic retraction and cell body shrinkage. However,
+polarized growth is reinitiated in the axon, presumably in
+response to locally produced growth signals at the injury site until
+reinnervation re-establishes the NGF signal and the neuron is
+restored to its original size.
+A further example of how heterotypic cell interactions control
+cell size is also provided by the peripheral nervous system
+(PNS). Schwann cells interact with all neurons in the PNS, but
+they only myelinate those with a diameter greater than 1 mm.
+This requires the Schwann cell to ‘‘measure’’ the axonal diameter
+and make a distinct differentiation decision based on this mea-
+surement. Moreover, the ratio between axon diameter and myelin
+Cell 154, September 12, 2013 ª2013 Elsevier Inc. 1197
+sheath thickness (the g ratio) is ﬁxed at an optimal value that
+achieves the most efﬁcient nerve conduction. This means the
+larger the axon, the larger the Schwann cell and requires coordi-
+nated growth as the axons continue to grow as the animal ma-
+tures (Roberts and Lloyd, 2012). The level of a membrane-bound
+ligand neuregulin1 (NRG1) type III presented by the axon controls
+both whether an axon is myelinated (a threshold response) and
+also the thickness of the myelin sheath (a dose-dependent
+response). The larger the axon, the more NRG1 type III is ex-
+pressed, whereas the responsible receptor (the ErbB2/3 com-
+plex) appears to be in excess, so that increasing numbers of
+receptors are likely to be activated in response to a larger axon.
+The receptor activates both a biogenic pathway (the PI3K/AKT/
+mTOR pathway) and a negative-feedback loop (increasing the
+levels of the scaffold Dlg1 that act to stabilize PTEN), which are
+both important for stabilizing the size of the Schwann cell at a
+given level of the NRG1 signal, and provides a model for how a
+different level of receptor signaling can result in a new steady-
+state size rather than in perpetual growth (Figure 2C).
+A rather different type of signal that regulates cell size has
+been identiﬁed in the kidney (Boehlke et al., 2010). In polycystic
+kidneys, the cells lining the tubules are larger than normal. These
+genetic diseases are associated with defective cilia, and a num-
+ber of other mutations that disrupt primary cilia also result in an
+increase in the size of these cells. Fascinatingly, the role of cilia in
+this case is not to sense the level of an extracellular factor but to
+detect urine ﬂow and transduce this signal to the growth path-
+ways. This involves a mechanism by which the kinase Lkb1,
+which is localized within the cilium, is activated by ﬂow to in-
+crease the activity of AMPK, a negative regulator of the mTOR
+pathway (Figure 2D). Thus, increased ﬂow should maintain a
+smaller cell size and contribute to efﬁcient ﬂow through the
+tubules. This example of how a mechanical signal can contribute
+to cell size regulation demonstrates the myriad of signals that
+need to be considered in understanding how cell size may be
+controlled.
+Changing the Size of Nondividing Cells
+Theoretically, a cell can increase in size by several mechanisms.
+The biosynthetic rates can increase, the degradative rates can
+decrease, or both rates can change but the ratio between the
+synthetic and degradative rates increases. At ﬁrst thought, it
+may seem that the most energetically expedient way for a cell
+to grow would be to increase the synthesis rate while decreasing
+the degradative rate. However, in the rare cases in which this has
+been measured, it does not appear to be the case in that,
+following a growth stimulus, both synthesis and degradative
+rates of proteins often increase but the synthetic rate increases
+more, resulting in a net increase in protein mass (Conlon and
+Raff, 2003; Tipton and Wolfe, 1998). One obvious reason why
+degradative rates will increase with any increase in synthesis is
+because /C2430% of all polypeptides are rapidly degraded in the
+proteosome following synthesis, with this ‘‘molecular triaging’’
+representing /C2475% of all proteosome substrates (Schubert
+et al., 2000).
+Most nondividing cells don’t signiﬁcantly change their size
+upon reaching adulthood. However, one cell type that can
+change dramatically in size in the adult is the muscle cell (myo-
+cytes). Following exercise, particularly mechanical-load-incur-
+ring exercise, adult muscle will increase in size as a result of in-
+dividual cells growing in the absence of proliferation of either the
+myocytes themselves or the muscle stem cell population (satel-
+lite cells) (Braun and Gautel, 2011). Conversely, in adverse con-
+ditions such as starvation, disuse, or wasting pathological
+states, individual myocytes atrophy. Although muscle, like all tis-
+sues, is highly specialized, studies on the changes in size of this
+tissue give clues to how cell size can both be maintained and can
+change during adulthood.
+Two major pathways have been shown to be important for
+regulating the size of adult skeletal muscle. On the anabolic
+side is the IGF/PI3K/AKT/mTORC1 pathway, which controls
+multiple biogenic pathways, including protein translation. On
+the catabolic side is the myostatin/SMAD2/3 pathway (Otto
+and Patel, 2010). Myostatin is a member of the TGFb family, is
+secreted by muscle, and is thought to act mostly locally to nega-
+tively regulate muscle mass. Mutations in the myostatin gene
+have been shown to lead to a massive increase in muscle size
+in multiple species; indeed, cows selected for larger muscles
+contain mutations in this gene. Much of the effects of myostatin
+have been shown to take place during development by nega-
+tively regulating the proliferation, differentiation, and growth of
+muscle progenitor cells; however, myostatin is still produced in
+the adult and inhibition in adult muscle results in hypertrophy,
+showing that the pathway continues to inhibit adult muscle
+growth (Otto and Patel, 2010; Sartori et al., 2009). Similarly, inhi-
+bition of the AKT/mTORC1 pathway in the adult results in muscle
+atrophy, whereas activation of the pathway results in hypertro-
+phy (Schiafﬁno et al., 2013). There is negative feedback regula-
+tion in both pathways and crosstalk between them, with much
+of the ability of myostatin/SMAD2/3 to inhibit cell growth being
+dependent on modulation of AKT/mTOR signaling (Figure 3)
+(Sartori et al., 2009; Trendelenburg et al., 2009; Winbanks
+et al., 2012). The size of adult muscle cells will thus be the result
+of a balance between these two pathways, resulting in a synthe-
+sis and degradative balance such that there is no net growth.
+Following exercise, there is an increase in mTORC1 signaling
+that appears to be mostly independent of PI3K/AKT and involves
+force/stretch signaling mediated by mechanosensors
+embedded
+in the sarcomere (Bodine et al., 2001b; Miyazaki
+and Esser, 2009). In response to this signal, it appears that
+both protein synthesis and degradative rates increase, but syn-
+thetic rates increase disproportionally, resulting in muscle cell
+hypertrophy (Biolo et al., 1995; Tipton and Wolfe, 1998). A new
+size is reached, with further increases in size produced following
+further bouts of exercise. Interestingly, however, this increase in
+mass is not maintained unless the exercise is maintained (note
+the gym maxim ‘‘use it or lose it’’), indicating the importance of
+continuous signaling through the mTOR pathway to maintain
+muscle size.
+A further interesting observation is that, following a constitu-
+tive increase in signaling through the AKT/mTOR pathway, mus-
+cle cells increase in size (as would be expected following an
+increase in signaling through biogenic pathways) but do not
+continue to grow; rather, they stop at a larger size (Lai et al.,
+2004). This requires constant elevated signaling through this
+pathway but must also involve negative regulators (a parallel
+1198 Cell 154, September 12, 2013 ª2013 Elsevier Inc.
+increase in degradative pathways, for example) that will result in
+the maintenance of a larger cell size rather than continuous
+growth.
+Following starvation and in other pathological states, muscles
+can rapidly lose mass as a result of an increase in speciﬁc degra-
+dation pathways, which appear to have a minor role in maintain-
+ing normal muscle size. In this situation, proteins are targeted for
+degradation by both the ubiquitin-proteosome system and the
+lysosomal autophagic pathway. The regulation of the genes
+involved in triggering these processes—the so-called atrophy-
+related genes—are under the control of the AKT and mTOR
+signaling pathways, and these genes are switched on when
+the level of activity of the pathways drops below the basal ho-
+meostatic signaling level (Bodine et al., 2001b; Castets et al.,
+2013; Stitt et al., 2004). In particular, two of these genes, the
+ubiquitin ligases astrogin-1 and MuRF1, are regulated by
+FOXO3A, a transcription factor negatively regulated by AKT
+(Zhao et al., 2007)(Figure 3). Knockout of these genes produces
+mice with normal muscle, showing that the genes are not impor-
+tant in regulating normal muscle cell size, but the muscle is resis-
+tant to multiple signals capable of inducing muscle atrophy
+(Bodine et al., 2001a). The atrophy response most likely reﬂects
+a stress pathway by which muscle breakdown can transiently
+provide amino acids to the rest of the body; nevertheless,
+following refeeding, muscle cells return to their normal size.
+Maintaining and Changing the Size of Proliferating Cells
+The majority of studies on cell size control have been performed
+on rapidly proliferating populations of cells. These include expo-
+nentially proliferating populations of yeast cells or mammalian
+cancer cells, as well as developmental systems in which there
+is rapid cell proliferation such as the imaginal discs of the ﬂy.
+These cell systems have evolved to achieve rapid cell growth
+and proliferation, and they make tractable systems for address-
+ing many important questions about cell size control. It is useful
+to bear in mind, however, that in the adult mammal, this type of
+Figure 3. Regulation of Skeletal Muscle
+Size
+Simpliﬁed cartoon of the main signaling pathways
+that maintain and can change the size of skeletal
+muscle. Biogenic pathways are shown in blue,
+negative regulators are shown in cream, and the
+pathways activated during muscle atrophy are
+shown in green. Negative-feedback loops of both
+pathways are indicated.
+sustained, exponential proliferation is
+very rare. Therefore, these ﬁndings may
+have limited relevance.
+Observations of proliferating cells re-
+vealed that cell growth and cell division
+appear to be tightly coordinated in that
+cells usually double their mass before
+each division and, as a result, maintain a
+constant mean size over time. Although
+this apparent coordination might just
+reﬂect the ‘‘read-out’’ of speciﬁc but
+separable growth rates and cell-cycle times, theoretical consid-
+erations led to the hypothesis of a direct regulatory link between
+cell growth and the cell cycle, which came to be known as the
+‘‘cell size checkpoint.’’ The theoretical requirement for a prolifer-
+ating cell size checkpoint rested upon whether the addition of
+mass in an individual cell occurs in a linear or nonlinear manner
+(Conlon and Raff, 2003; Mitchison, 2003). Initial experiments in
+yeast determined that growth during the cycle is in fact exponen-
+tial in that, as a cell gets bigger, it adds mass at an exponentially
+greater rate, a ﬁnding that is easy to reconcile with an increase in
+ribosomes and other biogenic machinery as a cell increases in
+size (Elliott and McLaughlin, 1978). However, if growth in an indi-
+vidual cell is exponential, it means that, in a population of cells
+with a spread of cell sizes, the bigger cells within the population
+would add more mass over time than the smaller cells so that the
+size range of the population would increase over time. That this
+does not happen led to the suggestion of a process that can act
+to limit this divergence in size, and the search for this elusive ‘‘cell
+size checkpoint’’ has continued ever since. In contrast, if cells
+add mass in a linear fashion, cells would not require a sensing
+of size or a checkpoint mechanism to limit a divergence in cell
+size, but an equally mysterious mechanism would be needed
+to ‘‘measure’’ the addition of the same amount of mass in a
+manner that is independent of the size of the cell.
+Whether cells grow in a linear, exponential, or other manner
+and how cell size may be linked to the cell cycle remains contro-
+versial. Recent studies in yeast—in particular, the budding yeast
+S. cerevisiae—have re-explored these issues using single-cell
+analysis of mother and daughter cells as they transit through
+the cell cycle. Mother cells are much larger than daughter cells,
+and as daughter cells have been shown to progress through G1
+more slowly than mother cells, this led to the notion that they
+needed to reach a critical size before passing Start, the decision
+point for entry into S phase (Turner et al., 2012). Several ﬁndings
+are clear from these and some earlier studies: (1) there is not a
+critical cell size or ‘‘Sizer’’ that is the trigger for entry through
+Cell 154, September 12, 2013 ª2013 Elsevier Inc. 1199
+Start, as the daughter cells pass through at variable sizes (Lord
+and Wheals, 1981; Wheals, 1982); (2) there is no correlation be-
+tween the size of the mother cell and the time to passage through
+Start, implying that once over a certain size, a timer mechanism
+is employed (Di Talia et al., 2007; Lord and Wheals, 1983); and (3)
+there is a size-independent mechanism that explains why
+daughter cells pass Start more slowly than mother cells—as
+daughters still enter Start more slowly than similarly sized mother
+cells—which appears to be due to asymmetric distribution of
+transcription factors that negatively regulate the cell cycle (Di Ta-
+lia et al., 2007, 2009; Turner et al., 2012). However, there does
+appear to be a degree of size correlation between the daughter
+cells in the early period of G1 that suggests that the size of
+smaller cells is inﬂuencing the duration of passage through this
+period of the cell cycle. The mechanism is not clear but has
+been linked to the levels of the cyclin CLN3, which controls pas-
+sage through this early part of the cell cycle. However, although
+there does appear to be some correlation with size, the major
+cause of the variability in the time to passage this part of the
+cell cycle appears to be size independent and instead reﬂects
+transcriptional noise that causes cell-to-cell variability in the
+levels of the lowly expressed CLN3 transcript (Di Talia et al.,
+2007).
+Interestingly, two recent studies in S. pombe, a ﬁssion yeast,
+identiﬁed a direct mechanism that the cell uses to measure cell
+size that does directly impinge on the cell cycle (Martin and Ber-
+thelot-Grosjean, 2009; Moseley et al., 2009). S. pombe grow in a
+lengthwise manner, with mass added to the end or ends to
+create an increasingly longer cell as it progresses through the cy-
+cle. The localization of a dose-dependent inhibitor (Pom1) of the
+G2/M transition at the ends of the cell creates a spatial gradient
+whereby the level of the inhibitor decreases in the nucleus as the
+cell elongates, thus directly linking the size (length) of the cell to
+entry into mitosis. Whether this mechanism is sufﬁcient to control
+the size of proliferating cells and whether its use is limited to
+small, elongating, rather rigid cells remain to be clariﬁed.
+In mammalian cells, some studies have found that cell growth
+is linear, with both synthesis and degradation rates apparently
+increasing with cell size, providing a possible mechanism for
+adding a ﬁxed amount of mass per unit of time, independent of
+cell size (Brooks and Shields, 1985; Conlon and Raff, 2003; Hut-
+son and Mortimore, 1982). Other studies have found that growth
+is not linear and argue for the existence of a size checkpoint,
+although the mechanisms have remained unexplained (Dolznig
+et al., 2004; Zetterberg and Killander, 1965). Recently, a number
+of increasingly sophisticated methods to measure the mass and
+volume of individual cells as they progress through the cell cycle
+have been used to re-explore this issue (Godin et al., 2010; Kafri
+et al., 2013; Mir et al., 2011; Park et al., 2010; Son et al., 2012;
+Tzur et al., 2009). These studies have yet to provide a deﬁnitive
+answer, but they hint at greater complexities than were initially
+envisaged. Although not able to demonstrate either simple linear
+or exponential growth through the cell cycle, cells seem to in-
+crease their growth rate as they progress through the cell cycle;
+this increase is most obvious once cells have entered G2,
+perhaps because of the doubling of DNA in S phase. Interest-
+ingly, there appears to be a slowing of the growth rate as cells
+enter S phase, with a greater slowing in larger cells with a faster
+growth rate (Goranov et al., 2009; Kafri et al., 2013). This differ-
+ential slowing could act as a mechanism to limit cell size vari-
+ability, thus limiting the divergence in cell size without the need
+for a classical size sensing mechanism or checkpoint. A further
+possibility is that the slowdown in growth rate on entering S
+phase could reﬂect energy depletion associated with the sudden
+onset of the energetically expensive process of DNA replication,
+which might affect faster growing cells preferentially and may
+have less of an effect on cells proliferating in a more pedestrian
+manner or in more amenable nutrient conditions.
+Another important consideration is that, if there is a cell size
+checkpoint in yeast and/or mammals cells, it must be adaptable,
+i.e., there cannot be a ﬁxed intrinsic determinant that permits or
+triggers passage through the cell cycle at a speciﬁc cell size. This
+is because it is possible to vary the size of cells. For example,
+yeast are different sizes in distinct nutrient conditions, and it is
+easy to dramatically change the size of proliferating mammalian
+cells by simply varying mitogen and growth factor levels (Conlon
+et al., 2001; Echave et al., 2007). This variation in size also rules
+out a direct readout of growth rate rather than cell size to regulate
+entry into the cell cycle, as cells growing at different rates (such
+as yeast in rich versus poor medium) should maintain their size
+but just have a shorter cell cycle, which is not the case. In multi-
+cellular organisms in vivo, this simple mechanism to alter cell size
+by responding to changes in levels of extracellular growth factors
+and mitogens seems likely to be the predominant mechanism for
+controlling the size of proliferating cells in the animal. This mech-
+anism is consistent with in vitro studies and multiple genetic
+studies in ﬂies and mice. Importantly, it would provide the ﬂexi-
+bility to create the complex tissues, ﬁlled with cells of a variety
+and changing set of sizes, that are found within multicellular
+animals.
+Minimal and Maximal Cell Sizes
+Related to cell size checkpoints are possible minimal and
+maximal limits to cell size. There appear to be limits at both ex-
+tremes, but whether these constraints can be considered check-
+points and what their physiological relevance may be remain
+unclear. There is obviously a minimal limit to the size of a cell
+that is viable or that can enter the cell cycle, as a cell requires
+a minimum set of components to exist. Interestingly, in the
+Schwann cell, this lower limit seems surprisingly small in that,
+when cultured in the mitogen neuregulin but in the absence of
+growth factors, the cells continue to proliferate until they are so
+small that they no longer adhere to the dish (P. Echave and
+A.C.L., unpublished data; Conlon et al., 2001). However, there
+are examples in which very small cells appear to have to grow
+to a minimal size before they can enter the cell cycle. B lympho-
+cytes,
+genetically engineered to survive in the absence of sur-
+vival factors, shrink to an extremely small size following the
+removal of their growth factor, IL3, (which is also a mitogen);
+upon readdition of IL3, there is a clear lag, as the cells grow to
+a minimal size before entering the cell cycle (Lum et al., 2005).
+This in vitro ﬁnding mirrors the situation seen in various develop-
+mental situations when small cells produced by division in the
+absence of growth grow to a minimal size before re-entering
+the cell cycle. A clear example of this is seen during neuroblast
+development in Drosophila, when, following rapid early divisions
+1200 Cell 154, September 12, 2013 ª2013 Elsevier Inc.
+leading to the production of very small cells, there is a lag during
+which the cells grow to a larger size before entry into the next
+rounds of divisions (O’Farrell, 2004).
+Cell can also reach very large sizes. In particular, some ova
+can be 1 mm in diameter, whereas nerve cells can be 1.5 m in
+length in humans and up to 12 m long in the giant squid. Howev-
+er, these very large cells tend to use highly specialized mecha-
+nisms to allow them to grow so large. For example, neurons
+have specialized intracellular transport systems and use support
+cells to gain nourishment away from the cell body. In vivo, it ap-
+pears that most cells are not at their maximal size as they can get
+bigger following an increase in growth stimulation. In vitro, in the
+presence of saturating levels of growth factors, however, cell
+size plateaus at a maximal size. Whether this maximal size
+merely reﬂects a new steady-state size in response to the satu-
+rating levels of growth factors or whether there are real spatial or
+structural limitations remains unclear. It is easy to envisage
+numerous possible limitations: a decrease in surface area/vol-
+ume ratio as cell size increases could limit nutrient uptake or a
+limit to transcription or translation could stop further growth.
+Indeed, the saturation of any biogenic pathway could limit cell
+size.
+A limiting factor that is likely to be important is the ploidy of the
+cell. The evidence for cell ploidy affecting cell size and limiting
+cell growth is manifold. First, it has been known for decades
+that increasing the ploidy of a cell usually, but not always, in-
+creases the size of the cell proportionally (Lee et al., 2009). For
+example, tetraploid cells are twice the size of diploid cells. This
+does not necessarily mean that the size of a cell is limited by
+the genome. It could just reﬂect that doubling the output of
+everything from receptors to ribosomes to genes results in a
+doubling of cell size. It does, however, show how cell size can
+be inﬂuenced by output from the genome. More compelling is
+the ﬁnding that, in many organisms, large cells or very active
+cells tend to have undergone endoreduplication, suggesting
+that an increase in ploidy is required either to support a larger
+cell or to maintain a highly biosynthetically active cell (Lee
+Figure 4. Independent Regulation of Cell
+Growth and Cell Proliferation
+et al., 2009; Umen, 2005). In mammals,
+such cells include liver cells, heart muscle
+cells, and trophoblasts, and these endor-
+eduplication cycles appear to be impor-
+tant for function. In both Drosophila and
+C. elegans, many cells undergo endore-
+duplication to produce extremely large
+cells: for example, a whole muscle in
+Drosophila can consist of a single endor-
+eduplicated cell. Genetic studies show
+that endoreduplication is required for
+the Drosophila cells to grow so large,
+but whether endoreduplication alone is
+sufﬁcient to drive growth is not clear
+and may vary between tissues. In ﬂy
+muscle, it appears not to be sufﬁcient,
+because although myc induction is sufﬁcient to trigger poly-
+ploidy, it is not sufﬁcient to drive substantial cell growth. In
+contrast, in the fat body, there is a correlation between myc in-
+duction of polyploidy and cell growth, which is more consistent
+with an increase in polyploidy driving cell growth but could
+also indicate that myc can efﬁciently drive both processes in
+this tissue (Demontis and Perrimon, 2009; Pierce et al., 2004).
+Separation of Growth and Proliferative Pathways
+The ability to separately regulate the growth and proliferation
+pathways provides a simple mechanism to vary cell size and pro-
+vides the ﬂexibility needed to produce the great diversity of cell
+types found in the vast spectrum of multicellular organisms.
+Thus, in organisms as diverse as C. elegans, Drosophila, and
+mouse, cell growth and cell proliferation are frequently out of
+synchrony. This allows multiple cell divisions to occur without
+growth within an embryo isolated from nutrition and then to
+grow rapidly once nutrition is established but after the establish-
+ment of a basic body plan. Moreover, it is a simple mechanism to
+allow the continued growth of complex tissues during the matu-
+ration of many organisms (O’Farrell, 2004).
+This does not of course mean that the proliferative and growth
+pathways cannot or are not frequently coupled. For example, to
+produce a large number of identical cells rapidly—for instance
+during the clonal expansion of B or T cells following an infec-
+tion—it makes sense to couple the pathways (Figure 4). This
+need not require a cell-size-sensing mechanism, however, but
+only that the signals stimulating the response activate both
+growth and division pathways. The easiest way to achieve this
+is by the receptor for such a signal being wired to activate both
+pathways. This is clearly seen for IL-3, for example, a ligand
+that simultaneously activates the proliferative, growth, and sur-
+vival pathways in B cells, and is a simple way to produce a large
+number of similar cells (Lum et al., 2005). Conversely, however,
+other cells need to separate these processes. Schwann cells
+are a good example. They migrate along axons and exit the
+cell cycle prior to birth. They then grow massively, concentrically
+Cell 154, September 12, 2013 ª2013 Elsevier Inc. 1201
+wrapping around an axon and forming a myelinating cell. Howev-
+er, these myelinating cells are regenerative and can re-enter the
+cell cycle at any moment following an injury signal; thus, these
+cells are quiescent rather than postmitotic. This behavior re-
+quires a clear separation of the growth and proliferative path-
+ways to allow growth in a cell that is poised to enter the cell cycle.
+The separation of these pathways has been demonstrated
+in vitro in that distinct extracellular factors can differentially regu-
+late the growth and proliferative pathways. Thus, whereas a
+growth factor such as IGF can drive growth but not proliferation,
+the Schwann cell mitogen NRG can drive proliferation indepen-
+dently of growth (Roberts and Lloyd, 2012).
+Disease
+The development of a tumor does not only reﬂect loss of a cell’s
+normal proliferative controls but also reﬂects loss of normal
+growth and survival controls that are needed to produce and
+maintain the additional cell mass. All the main signaling pathways
+that, when mutated, are known to drive tumorigenesis have been
+linked to the regulation of growth control. In particular, the PI3K/
+AKT/mTOR pathway is activated in most tumors, for example, by
+activation of upstream regulators such as Ras or by the loss of
+negative regulators such as PTEN (Dazert and Hall, 2011). Myc
+is activated in many tumors and, recently, the Rb pathway has
+also been shown to be an important regulator of cell growth
+and, moreover, cooperates with oncogenic Ras/PI3K signaling
+to drive sustained growth (Collins et al., 2012). The realization
+of the universal deregulation of growth controls in tumors has
+led to the development of new therapeutics, which are based
+either on the direct targeting of the growth signaling path-
+ways—for example, mTOR inhibitors are now showing promise
+in the clinic—or by targeting the metabolic pathways that are
+differentially activated in growing cells (Zoncu et al., 2011).
+So, whereas cancer involves the loss of both cell growth and
+cell proliferation controls—albeit with the additional loss of tissue
+boundary controls that can lead to the invasion and metastasis of
+the expanding tumor mass—many other diseases are increas-
+ingly thought to involve the overgrowth of nonproliferating tis-
+sues. In other words, the deregulation of cell growth controls in
+any tissue is likely to result in disease, with too much signaling
+resulting in hyperactivity, hypertrophy, or cancer, whereas too
+little signaling will result in atrophy (Figure 5). This deregulation
+in cell growth controls can be caused by extrinsic or intrinsic
+mechanisms. For example, an increase in growth hormone
+signaling and hence elevated levels of IGF1 signaling in the adult
+result in acromegaly, whereas the deregulated growth seen in
+cancer is mostly driven by intrinsic genetic changes.
+Cardiac hypertrophy is a major health condition that involves
+deregulated growth. It is commonly brought about by a diseased
+cardiovascular system promoting a compensatory hypertrophy
+of cardiac myocytes that eventually leads to aberrant contractile
+function. More surprisingly, perhaps, a number of developmental
+brain disorders are likely to be the result of deregulated growth.
+This ﬁrst became clear when the genetic defects involved in a
+number of these disorders were identiﬁed and shown to be reg-
+ulators of growth pathways. These include Lhermitte-Duclos dis-
+ease (heterozygous PTEN mutations) and tuberous sclerosis
+(heterozygous TSC1 or TSC2 mutations), which both result in
+overactivation of the mTOR pathway. These disorders result in
+variable intellectual and behavioral disabilities, epilepsy, and
+often autism and are associated with a brain ‘‘overgrowth’’ pa-
+thology associated with large, dysmorphic neurons, hypertro-
+phic astrocytes, and giant cells, as well as defects in synaptic
+function (Crino, 2011). In many ways, these abnormal regions
+of the brain can be thought of as ‘‘tumors’’ of nondividing
+cells—a point reinforced by the observation that some affected
+parts of the brain have lost the second tumor suppressor allele
+(Kwon et al., 2001). These disorders are considered develop-
+mental disorders—brain abnormalities occurring during embryo-
+genesis—and they were considered irreversible. Remarkably,
+mouse genetic models that mimic the brain disorders both at
+the cellular and behavioral level can be largely ‘‘corrected’’ by
+treating the animals postnatally with rapamycin, an inhibitor of
+mTOR. Not only do these studies provoke rethinking of how
+these patients are regarded and might be treated, but they
+once more point to the dynamic nature of homeostatic cell size
+control. This is further exempliﬁed by the observation that the
+mice need to be continually treated, as the cells regrow to their
+pathological size following rapamycin withdrawal (Goto et al.,
+2011).
+Increasingly, defects in growth control and cell size homeosta-
+sis are being linked to aging (Zoncu et al., 2011). Although much
+of the aging process of an individual species is genetically deter-
+mined, organismal lifespan can be modulated by environmental
+signals. A good example is the effects of dietary restriction on
+lifespan. In organisms as diverse as C. elegans and mouse, a re-
+striction of speciﬁc components of the diet results in a
+Figure 5. Loss of Homeostatic Size Control in the Adult Results in
+Disease and Aging
+1202 Cell 154, September 12, 2013 ª2013 Elsevier Inc.
+substantial increase in the longevity of the organism, at least
+partly due to a reduction in IGF signaling (Niccoli and Partridge,
+2012). A current view is that increased biogenesis, as a result of
+elevated signaling through the IGF/PI3K/AKT/mTORC1
+pathway, eventually leads to cellular defects mostly associated
+with the accumulation of damaged macromolecules (Bove´
+et al., 2011; Zoncu et al., 2011). This has been hypothesized to
+result from both an overload of the biosynthetic apparatus—
+and an accumulation of improperly processed cell material and
+a defect in the degradative machinery—with an inhibition of
+cellular autophagy, causing the accumulation of defective
+cellular structures and organelles that can contribute to aging-
+related disorders such as Alzheimer’s (Figure 5).
+A recent fascinating study has also shown how other systemic
+signals that regulate cell size can contribute to the aging process
+(Loffredo et al., 2013). In mice (and humans), cardiac hypertro-
+phy is often observed in older animals. This is associated with
+a substantial increase in the size of individual cardiac myocytes,
+resulting in an overall increase in the size of the heart. Remark-
+ably, parabiotic association (the permanent joining of the blood-
+streams) of a young mouse with an old mouse resulted in the
+aged heart returning to its youthful size within 4 weeks. The sys-
+temic factor was identiﬁed as growth differentiation factor 11
+(GDF11), a member of the TGFb family, the levels of which
+drop precipitously in old animals. Similarly to myostatin in skel-
+etal muscle, GDF11 negatively regulates cardiac muscle cell
+size, presumably by a similar mechanism. This study further
+shows how apparently stable changes in cell size associated
+with a pathological disorder can be corrected by re-establishing
+the correct balance of signals that normally set the homeostatic
+cell size.
+Conclusions
+The regulation of cell size remains mostly a mysterious process.
+Highly dynamic cells can maintain their size for life but can also
+grow or shrink, requiring robust but adaptable controls. Cell-
+type-speciﬁc examples are starting to give clues to the mecha-
+nisms that control cell size and highlight the complexity and
+diversity of the pathways involved. Moreover, the loss of these
+controls can lead to a variety of diseases, emphasizing the
+importance of these controls. As technological improvements
+in areas such as mass spectrometry and imaging allow us to
+measure the dynamic turnover of cellular components with
+increasing sensitivity and precision, we can look forward to
+exciting new insights in this important ﬁeld of study.
+ACKNOWLEDGMENTS
+I apologize for citing many reviews rather than primary works due to space
+constraints. I would like to thank Sinead Roberts, Martin Raff, Nic Tapon,
+Ewa Paluch, Rob de Bruin, and Jody Rosenblatt for useful comments about
+the manuscript. My research is funded by a program grant from Cancer
+Research, UK.
+REFERENCES
+Bellon, A., Luchino, J., Haigh, K., Rougon, G., Haigh, J., Chauvet, S., and
+Mann, F. (2010). VEGFR2 (KDR/Flk1) signaling mediates axon growth in
+response to semaphorin 3E in the developing brain. Neuron 66, 205–219.
+Biolo, G., Maggi, S.P., Williams, B.D., Tipton, K.D., and Wolfe, R.R. (1995).
+Increased rates of muscle protein turnover and amino acid transport after
+resistance exercise in humans. Am. J. Physiol. 268, E514–E520.
+Bodine, S.C., Latres, E., Baumhueter, S., Lai, V.K., Nunez, L., Clarke, B.A.,
+Poueymirou, W.T., Panaro, F.J., Na, E., Dharmarajan, K., et al. (2001a). Iden-
+tiﬁcation of ubiquitin ligases required for skeletal muscle atrophy. Science
+294, 1704–1708.
+Bodine, S.C., Stitt, T.N., Gonzalez, M., Kline, W.O., Stover, G.L., Bauerlein, R.,
+Zlotchenko, E., Scrimgeour, A., Lawrence, J.C., Glass, D.J., and Yancopoulos,
+G.D. (2001b). Akt/mTOR pathway is a crucial regulator of skeletal muscle hy-
+pertrophy and can prevent muscle atrophy in vivo. Nat. Cell Biol. 3, 1014–1019.
+Boehlke, C., Kotsis, F., Patel, V., Braeg, S., Voelker, H., Bredt, S., Beyer, T.,
+Janusch, H., Hamann, C., Go¨ del, M., et al. (2010). Primary cilia regulate
+mTORC1 activity and cell size through Lkb1. Nat. Cell Biol. 12, 1115–1122.
+Bove´ , J., Martı´nez-Vicente, M., and Vila, M. (2011). Fighting neurodegenera-
+tion with rapamycin: mechanistic insights. Nat. Rev. Neurosci. 12, 437–452.
+Braun, T., and Gautel, M. (2011). Transcriptional mechanisms regulating skel-
+etal muscle differentiation, growth and homeostasis. Nat. Rev. Mol. Cell Biol.
+12, 349–361.
+Brooks, R.F., and Shields, R. (1985). Cell growth, cell division and cell size
+homeostasis in Swiss 3T3 cells. Exp. Cell Res. 156, 1–6.
+Castets, P., Lin, S., Rion, N., Di Fulvio, S., Romanino, K., Guridi, M., Frank, S.,
+Tintignac, L.A., Sinnreich, M., and Ru¨ egg, M.A. (2013). Sustained activation of
+mTORC1 in skeletal muscle inhibits constitutive and starvation-induced auto-
+phagy and causes a severe, late-onset myopathy. Cell Metab. 17, 731–744.
+Cheng, L.Y., Bailey, A.P., Leevers, S.J., Ragan, T.J., Driscoll, P.C., and Gould,
+A.P. (2011). Anaplastic lymphoma kinase spares organ growth during nutrient
+restriction in Drosophila. Cell 146, 435–447.
+Chilton, J.K. (2006). Molecular mechanisms of axon guidance. Dev. Biol. 292,
+13–24.
+Collins, M.J., Napoli, I., Ribeiro, S., Roberts, S., and Lloyd, A.C. (2012). Loss of
+Rb cooperates with Ras to drive oncogenic growth in mammalian cells. Curr.
+Biol. 22, 1765–1773.
+Conlon, I., and Raff, M. (1999). Size control in animal development. Cell 96,
+235–244.
+Conlon, I., and Raff, M. (2003). Differences in the way a mammalian cell and
+yeast cells coordinate cell growth and cell-cycle progression. J. Biol. 2,7.
+Conlon, I.J., Dunn, G.A., Mudge, A.W., and Raff, M.C. (2001). Extracellular
+control of cell size. Nat. Cell Biol. 3, 918–921.
+Crino, P.B. (2011). mTOR: A pathogenic signaling pathway in developmental
+brain malformations. Trends Mol. Med. 17, 734–742.
+Csibi, A., and Blenis, J. (2012). Hippo-YAP and mTOR pathways collaborate to
+regulate organ size. Nat. Cell Biol. 14, 1244–1245.
+Dazert, E., and Hall, M.N. (2011). mTOR signaling in disease. Curr. Opin. Cell
+Biol. 23, 744–755.
+Demontis, F., and Perrimon, N. (2009). Integration of Insulin receptor/Foxo
+signaling and dMyc activity during muscle growth regulates body size in
+Drosophila. Development 136, 983–993.
+Di Talia, S., Skotheim, J.M., Bean, J.M., Siggia, E.D., and Cross, F.R. (2007).
+The effects of molecular noise and size control on variability in the budding
+yeast cell cycle. Nature 448, 947–951.
+Di Talia, S., Wang, H., Skotheim, J.M., Rosebrock, A.P., Futcher, B., and
+Cross, F.R. (2009). Daughter-speciﬁc transcription factors regulate cell size
+control in budding yeast. PLoS Biol. 7, e1000221.
+Dolznig, H., Grebien, F., Sauer, T., Beug, H., and Mu¨ llner, E.W. (2004). Evi-
+dence
+for a size-sensing mechanism in animal cells. Nat. Cell Biol. 6, 899–905.
+Dong, J., Feldmann, G., Huang, J., Wu, S., Zhang, N., Comerford, S.A.,
+Gayyed, M.F., Anders, R.A., Maitra, A., and Pan, D. (2007). Elucidation of a uni-
+versal size-control mechanism in Drosophila and mammals. Cell 130, 1120–
+1133.
+Echave, P., Conlon, I.J., and Lloyd, A.C. (2007). Cell size regulation in mamma-
+lian cells. Cell Cycle 6, 218–224.
+Cell 154, September 12, 2013 ª2013 Elsevier Inc. 1203
+Edgar, B.A. (2006). How ﬂies get their size: genetics meets physiology. Nat.
+Rev. Genet. 7, 907–916.
+Elliott, S.G., and McLaughlin, C.S. (1978). Rate of macromolecular synthesis
+through the cell cycle of the yeast Saccharomyces cerevisiae. Proc. Natl.
+Acad. Sci. USA 75, 4384–4388.
+Fawcett, J.W., and Keynes, R.J. (1990). Peripheral nerve regeneration. Annu.
+Rev. Neurosci. 13, 43–60.
+Franklin, J.L., and Johnson, E.M. (1998). Control of neuronal size homeostasis
+by trophic factor-mediated coupling of protein degradation to protein synthe-
+sis. J. Cell Biol. 142, 1313–1324.
+Godin, M., Delgado, F.F., Son, S., Grover, W.H., Bryan, A.K., Tzur, A., Jorgen-
+sen, P., Payer, K., Grossman, A.D., Kirschner, M.W., and Manalis, S.R. (2010).
+Using buoyant mass to measure the growth of single cells. Nat. Methods 7,
+387–390.
+Goranov, A.I., Cook, M., Ricicova, M., Ben-Ari, G., Gonzalez, C., Hansen, C.,
+Tyers, M., and Amon, A. (2009). The rate of cell growth is governed by cell cycle
+stage. Genes Dev. 23, 1408–1422.
+Goto, J., Talos, D.M., Klein, P., Qin, W., Chekaluk, Y.I., Anderl, S., Malinowska,
+I.A., Di Nardo, A., Bronson, R.T., Chan, J.A., et al. (2011). Regulable neural pro-
+genitor-speciﬁc Tsc1 loss yields giant cells with organellar dysfunction in a
+model of tuberous sclerosis complex. Proc. Natl. Acad. Sci. USA 108,
+E1070–E1079.
+Grewal, S.S., Li, L., Orian, A., Eisenman, R.N., and Edgar, B.A. (2005). Myc-
+dependent regulation of ribosomal RNA synthesis during Drosophila develop-
+ment. Nat. Cell Biol. 7, 295–302.
+Hutson, N.J., and Mortimore, G.E. (1982). Suppression of cytoplasmic protein
+uptake by lysosomes as the mechanism of protein regain in livers of starved-
+refed mice. J. Biol. Chem. 257, 9548–9554.
+Jorgensen, P., and Tyers, M. (2004). How cells coordinate growth and division.
+Curr. Biol. 14, R1014–R1027.
+Kafri, R., Levy, J., Ginzberg, M.B., Oh, S., Lahav, G., and Kirschner, M.W.
+(2013). Dynamics extracted from ﬁxed cells reveal feedback linking cell growth
+to cell cycle. Nature 494, 480–483.
+Koivusalo, M., Kapus, A., and Grinstein, S. (2009). Sensors, transducers, and
+effectors that regulate cell size and shape. J. Biol. Chem. 284, 6595–6599.
+Kwon, C.H., Zhu, X., Zhang, J., Knoop, L.L., Tharp, R., Smeyne, R.J., Eberhart,
+C.G., Burger, P.C., and Baker, S.J. (2001). Pten regulates neuronal soma size:
+a mouse model of Lhermitte-Duclos disease. Nat. Genet. 29, 404–411.
+Kwon, C.H., Zhu, X., Zhang, J., and Baker, S.J. (2003). mTor is required for hy-
+pertrophy of Pten-deﬁcient neuronal soma in vivo. Proc. Natl. Acad. Sci. USA
+100, 12923–12928.
+Lai, K.M., Gonzalez, M., Poueymirou, W.T., Kline, W.O., Na, E., Zlotchenko, E.,
+Stitt, T.N., Economides, A.N., Yancopoulos, G.D., and Glass, D.J. (2004). Con-
+ditional activation of akt in adult skeletal muscle induces rapid hypertrophy.
+Mol. Cell. Biol. 24, 9295–9304.
+Laplante, M., and Sabatini, D.M. (2012). mTOR signaling in growth control and
+disease. Cell 149, 274–293.
+Lee, H.O., Davidson, J.M., and Duronio, R.J. (2009). Endoreplication: poly-
+ploidy with purpose. Genes Dev. 23, 2461–2477.
+Lemons, J.M., Feng, X.J., Bennett, B.D., Legesse-Miller, A., Johnson, E.L.,
+Raitman, I., Pollina, E.A., Rabitz, H.A., Rabinowitz, J.D., and Coller, H.A.
+(2010). Quiescent ﬁbroblasts exhibit high metabolic activity. PLoS Biol. 8,
+e1000514.
+Locasale, J.W., and Cantley, L.C. (2011). Metabolic ﬂux and the regulation of
+mammalian cell growth. Cell Metab. 14, 443–451.
+Loffredo, F.S., Steinhauser, M.L., Jay, S.M., Gannon, J., Pancoast, J.R., Yala-
+manchi, P., Sinha, M., Dall’Osso, C., Khong, D., Shadrach, J.L., et al. (2013).
+Growth differentiation factor 11 is a circulating factor that reverses age-related
+cardiac hypertrophy. Cell 153, 828–839.
+Lord, P.G., and Wheals, A.E. (1981). Variability in individual cell cycles of
+Saccharomyces cerevisiae. J. Cell Sci. 50, 361–376.
+Lord, P.G., and Wheals, A.E. (1983). Rate of cell cycle initiation of yeast cells
+when cell size is not a rate-determining factor. J. Cell Sci. 59, 183–201.
+Lum, J.J., Bauer, D.E., Kong, M., Harris, M.H., Li, C., Lindsten, T., and Thomp-
+son, C.B. (2005). Growth factor regulation of autophagy and cell survival in the
+absence of apoptosis. Cell 120, 237–248.
+Martin, S.G., and Berthelot-Grosjean, M. (2009). Polar gradients of the DYRK-
+family kinase Pom1 couple cell length with the cell cycle. Nature 459, 852–856.
+Mir, M., Wang, Z., Shen, Z., Bednarz, M., Bashir, R., Golding, I., Prasanth, S.G.,
+and Popescu, G. (2011). Optical measurement of cycle-dependent cell growth.
+Proc. Natl. Acad. Sci. USA 108, 13124–13129.
+Mitchison, J.M. (2003). Growth during the cell cycle. Int. Rev. Cytol. 226,
+165–258.
+Miyazaki, M., and Esser, K.A. (2009). Cellular mechanisms regulating protein
+synthesis and skeletal muscle hypertrophy in animals. J. Appl. Physiol. 106,
+1367–1373.
+Moon, J.I., and Birren, S.J. (2008). Target-dependent inhibition of sympathetic
+neuron growth via modulation of a BMP signaling pathway. Dev. Biol. 315,
+404–417.
+Moseley, J.B., Mayeux, A., Paoletti, A., and Nurse, P. (2009). A spatial gradient
+coordinates cell size and mitotic entry in ﬁssion yeast. Nature 459, 857–860.
+Nardella, C., Carracedo, A., Alimonti, A., Hobbs, R.M., Clohessy, J.G., Chen,
+Z., Egia, A., Fornari, A., Fiorentino, M., Loda, M., et al. (2009). Differential
+requirement of mTOR in postmitotic tissues and tumorigenesis. Sci. Signal.
+2, ra2.
+Neto-Silva, R.M., de Beco, S., and Johnston, L.A. (2010). Evidence for a
+growth-stabilizing regulatory feedback mechanism between Myc and Yorkie,
+the Drosophila homolog of Yap. Dev. Cell 19, 507–520.
+Niccoli, T., and Partridge, L. (2012). Ageing as a risk factor for disease. Curr.
+Biol. 22, R741–R752.
+O’Farrell, P.H. (2004). How metazoans reach their full size: the natural history of
+bigness. In Cell Growth: Control of Cell Size, M.N. Hall, R. Martin, and G.
+Thomas, eds. (Cold Spring Harbor, NY: Cold Spring Harbor Laboratory Press).
+Otto, A., and Patel, K. (2010). Signalling and the control of skeletal muscle size.
+Exp. Cell Res. 316, 3059–3066.
+Park, K., Millet, L.J., Kim, N., Li, H., Jin, X., Popescu, G., Aluru, N.R., Hsia, K.J.,
+and Bashir, R. (2010). Measurement of adherent cell mass and growth. Proc.
+Natl. Acad. Sci. USA 107, 20691–20696.
+Pierce, S.B., Yost, C., Britton, J.S., Loo, L.W., Flynn, E.M., Edgar, B.A., and
+Eisenman, R.N. (2004). dMyc is required for larval growth and endoreplication
+in Drosophila. Development 131, 2317–2327.
+Purves, D., Snider, W.D., and Voyvodic, J.T. (1988). Trophic regulation of nerve
+cell morphology and innervation in the autonomic nervous system. Nature 336,
+123–128.
+Rathmell, J.C., Vander Heiden, M.G., Harris, M.H., Frauwirth, K.A., and
+Thompson, C.B. (2000). In the absence of extrinsic signals, nutrient utilization
+by lymphocytes is insufﬁcient to maintain either cell size or viability. Mol. Cell 6,
+683–692.
+Roberts, S.A., and Lloyd, A.C. (2012). Aspects of cell growth control illustrated
+by the Schwann cell. Curr. Opin. Cell Biol. 24, 852–857.
+Sartori, R., Milan, G., Patron, M., Mammucari, C., Blaauw, B., Abraham, R.,
+and Sandri, M. (2009). Smad2 and 3 transcription factors control muscle
+mass in adulthood. Am. J. Physiol. Cell Physiol. 296, C1248–C1257.
+Saucedo, L.J., and Edgar, B.A. (2002). Why size matters: altering cell size.
+Curr. Opin. Genet. Dev. 12, 565–571.
+Schiafﬁno, S., Dyar, K.A., Ciciliot, S., Blaauw, B., and Sandri, M. (2013). Mech-
+anisms regulating skeletal muscle growth and atrophy. FEBS J. 280, 4294–
+4314.
+Schubert, U., Anto´ n, L.C., Gibbs, J., Norbury, C.C., Yewdell, J.W., and Ben-
+nink, J.R. (2000). Rapid degradation of a large fraction of newly synthesized
+proteins by proteasomes. Nature 404, 770–774.
+1204 Cell 154, September 12, 2013 ª2013 Elsevier Inc.
+Son, S., Tzur, A., Weng, Y., Jorgensen, P., Kim, J., Kirschner, M.W., and Man-
+alis, S.R. (2012). Direct observation of mammalian cell growth and size regula-
+tion. Nat. Methods 9, 910–912.
+Stanger, B.Z., Tanaka, A.J., and Melton, D.A. (2007). Organ size is limited by
+the number of embryonic progenitor cells in the pancreas but not the liver.
+Nature 445, 886–891.
+Stitt, T.N., Drujan, D., Clarke, B.A., Panaro, F., Timofeyva, Y., Kline, W.O., Gon-
+zalez, M., Yancopoulos, G.D., and Glass, D.J. (2004). The IGF-1/PI3K/Akt
+pathway prevents expression of muscle atrophy-induced ubiquitin ligases
+by inhibiting FOXO transcription factors. Mol. Cell 14, 395–403.
+Su, T.T., and O’Farrell, P.H. (1998). Size control: cell proliferation does not
+equal growth. Curr. Biol. 8, R687–R689.
+Tipton, K.D., and Wolfe, R.R. (1998). Exercise-induced changes in protein
+metabolism. Acta Physiol. Scand. 162, 377–387.
+Trendelenburg, A.U., Meyer, A., Rohner, D., Boyle, J., Hatakeyama, S., and
+Glass, D.J. (2009). Myostatin reduces Akt/TORC1/p70S6K signaling, inhibiting
+myoblast differentiation and myotube size. Am. J. Physiol. Cell Physiol. 296,
+C1258–C1270.
+Tumaneng, K., Russell, R.C., and Guan, K.L. (2012a). Organ size control by
+Hippo and TOR pathways. Curr. Biol. 22, R368–R379.
+Tumaneng, K., Schlegelmilch, K., Russell, R.C., Yimlamai, D., Basnet, H., Ma-
+hadevan, N., Fitamant, J., Bardeesy, N., Camargo, F.D., and Guan, K.L.
+(2012b). YAP mediates crosstalk between the Hippo and PI(3)K–TOR path-
+ways by suppressing PTEN via miR-29. Nat. Cell Biol. 14, 1322–1329.
+Turner, J.J., Ewald, J.C., and Skotheim, J.M. (2012). Cell size control in yeast.
+Curr. Biol. 22, R350–R359.
+Tzur, A., Kafri, R., LeBleu, V.S., Lahav, G., and Kirschner, M.W. (2009). Cell
+growth and size homeostasis in proliferating animal cells. Science 325,
+167–171.
+Umen, J.G. (2005). The elusive sizer. Curr. Opin. Cell Biol. 17, 435–441.
+van Riggelen, J., Yetil, A., and Felsher, D.W. (2010). MYC as a regulator of ribo-
+some biogenesis and protein synthesis. Nat. Rev. Cancer 10, 301–309.
+Wang, R., Dillon, C.P., Shi, L.Z., Milasta, S., Carter, R., Finkelstein, D., McCor-
+mick, L.L., Fitzgerald, P., Chi, H., Munger, J., and Green, D.R. (2011). The tran-
+scription factor Myc controls metabolic reprogramming upon T lymphocyte
+activation. Immunity 35, 871–882.
+Wheals, A.E. (1982). Size control models of Saccharomyces cerevisiae cell
+proliferation. Mol. Cell. Biol. 2, 361–368.
+Winbanks, C.E., Weeks, K.L., Thomson, R.E., Sepulveda, P.V., Beyer, C.,
+Qian, H., Chen, J.L., Allen, J.M., Lancaster, G.I., Febbraio, M.A., et al.
+(2012). Follistatin-mediated skeletal muscle hypertrophy is regulated by
+Smad3 and mTOR independently of myostatin. J. Cell Biol. 197, 997–1008.
+Yu, F.X., and Guan, K.L. (2013). The Hippo pathway: regulators and regula-
+tions. Genes Dev. 27, 355–371.
+Zetterberg, A., and Killander, D. (1965). Quantitative cytochemical studies on
+interphase growth. II. Derivation of synthesis curves from the distribution of
+DNA, RNA and mass values of individual mouse ﬁbroblasts in vitro. Exp. Cell
+Res. 39, 22–32.
+Zhao, J., Brault, J.J., Schild, A., Cao, P., Sandri, M., Schiafﬁno, S., Lecker,
+S.H., and Goldberg, A.L. (2007). FoxO3 coordinately activates protein degra-
+dation by the autophagic/lysosomal and proteasomal pathways in atrophying
+muscle cells. Cell Metab. 6, 472–483.
+Zoncu, R., Efeyan, A., and Sabatini, D.M. (2011). mTOR: from growth signal
+integration to cancer, diabetes and ageing. Nat. Rev. Mol. Cell Biol. 12, 21–35.
+Cell 154, September 12, 2013 ª2013 Elsevier Inc. 1205

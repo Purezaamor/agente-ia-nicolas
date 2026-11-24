@@ -1,0 +1,349 @@
+=== Fuente: 9_EDA.pdf ===
+
+ 83
+Análisis Exploratorio de Datos (univariados). (1) 
+ 
+ Con el nombre de Análisis Exploratorio de Datos (EDA) se denomina a ciertas 
+técnicas gráficas utilizadas para estudiar la distribución de los datos. 
+ El primer paso al examinar la información es hacer gráficos que permitan observar 
+la estructura general y la presencia o ausencia de tendencias o datos atípicos. 
+También podrán visualizarse ciertos comportamientos no esperados, que hubieran 
+pasado desapercibidos. 
+ 
+ 
+El gráfico de tallo y hoja (stem-and-leaf). 
+ 
+ Este gráfico posee todas las virtudes citadas y se puede construir y leer con 
+facilidad. Rápidamente puede visualizarse: 
+• cómo es de amplio el rango de los valores. 
+• dónde están concentrados los valores. 
+• cómo es la simetría de los datos (forma de la distribución). 
+• si hay valores alejados o atípicos, muy alejados (o extremos) del resto. 
+• si hay algunos valores que no están representados. 
+ 
+ En el gráfico de tallo y hoja, los datos aparecen ordenados en forma creciente. 
+Cada valor se divide en dos partes: un cierto número de dígitos al comienzo de cada 
+dato llamados dígitos principales (leading) que constituyen el tallo, y el resto de los 
+dígitos de la derecha o dígitos de arrastre (trailing), que forman las hojas. 
+ Podemos construir un gráfico de tallo y hojas realizando los siguientes pasos: 
+ 1. Elegir uno o varios dígitos principales y dividir todos los valores de acuerdo al 
+criterio elegido. 
+ 2. Escribir una columna con todos los posibles valores de los dígitos principales, 
+de menor a mayor, la que constituye el tallo. 
+ 3. Para cada dato se escribe el primero de los dígitos de arrastre, en el lugar del 
+tallo  correspondiente. Estas son las hojas, una hoja para cada observación. Si hubiera 
+más de un dígito de arrastre, éstos se ignoran. 1 
+ 
+ 
+Ejemplo del análisis exploratorio de datos. 
+ 
+Los siguientes valores corresponden a niveles de acidez en 26 muestras de 
+precipitaciones en la localidad de Allegheny, estado de Pennsylvania, de diciembre de 
+1973 a junio de 1974 (Velleman y Hoaglin, 1981). Los datos son valores de pH. Se 
+sospecha que la contaminación ambiental incrementa los niveles de acidez 
+(precipitación ácida): 
+ 
+4,57 - 5,62 - 4,12 - 5,29 - 4,64 - 4,31 - 4,30 - 4,39 - 4,45 - 5,67 - 4,39 - 4,52 - 4,26 - 
+4,26 - 4,40 - 5,78 - 4,73 - 4,56 - 5,08 - 4,41 - 4,12 - 5,51 - 4,82 - 4,63 - 4,29 - 4,60 - 
+ 
+ En el Gráfico 1 puede observarse el gráfico de tallo y hoja para los datos de 
+precipitación ácida. 
+                                                           
+(1) Pereyra, A. M., Abbiati, N. N. y Fernández, E. N. (1998) Manual de Estadística para        
+Proyectos de Investigación. U.N.L.Z.  
+ 
+ 84
+ 
+             Unidad=0,01  Prof 
+     41        22     2 
+     42 669   5 
+     43 1099   9 
+     44 501 12 
+     45 726 (3) 
+     46 430 11 
+     47 3   8 
+     48 2   7 
+     49 
+     50 8   6 
+     51 
+     52        9   5 
+     53 
+     54 
+     55   1   4 
+     56 27   3 
+     57 8   1 
+  
+ 
+Gráfico 1. Gráfico de tallo y hoja (stem-and-leaf) 
+ 
+ 
+La columna a la derecha del Gráfico 1 es la profundidad, que indica cuantas hojas 
+hay en esa línea, si es la de los extremos, o la cantidad de hojas acumuladas de los 
+extremos hacia el centro del gráfico. O sea, que el valor 5 de la segunda línea muestra 
+que hay 5 valores en entre esa línea y la anterior, los tres valores de la segunda línea 
+más dos de la primera. La profundidad aumenta, por lo tanto, desde los extremos 
+hacia el centro. El valor de la profundidad correspondiente a la mitad de los datos está 
+entre paréntesis, e indica el número de hojas de la línea que contiene al valor central 
+(la mediana). 
+ En el encabezamiento del gráfico de tallo y hoja están especificadas las unidades. 
+En el ejemplo anterior, las unidades son 0,01, o sea que 42 | 669 representa a los 
+valores 4,26 ; 4,26 y 4,29. 
+ El gráfico de tallo y hoja revela ciertas características de los valores de pH de las 
+precipitaciones: la mayoría de los valores forman un grupo que va de 4,1 a 4,8; hay 
+dos valores dispersos superiores a dicho grupo (5,08 y 5,29) y cuatro valores forman 
+un subgrupo (5,51 a 5,78). En estas cuatro ocasiones, las precipitaciones fueron, 
+notablemente, menos ácidas que en las otras fechas, hecho que hubiera pasado 
+desapercibido sin un gráfico. A diferencia del histograma, con el gráfico de tallo y hoja 
+no se pierde información, ya que está formado por los valores individuales, o sea, que 
+podemos identificar cualquier valor en particular, cuando entre tallo y hoja estén 
+indicados todos los dígitos. 
+ Pueden construirse distintos tipos de gráficos de tallo y hoja, usando dos líneas 
+para cada tallo ( * para los dígitos 0, 1, 2, 3, y 4 ; y  · para los dígitos 5, 6, 7, 8 y 9) o 
+cinco líneas para cada tallo ( *, T, F, S, · ) . 
+ El gráfico de tallo y hoja del ejemplo podría verse también como el del Gráfico 2. 
+ 
+ 
+ 
+ 
+ 
+ 85
+ 
+    
+ Unidad = 0,1                      Prof 
+    
+  4*    11                     2 
+  4T   3333222                9 
+  4F   545454                (6) 
+  4S   6766                    11 
+  4·   8                     7 
+  5*   0                     6 
+  5T   2                     5 
+  5F   5                     4 
+     5S       667                 3 
+ 
+ 
+  
+Gráfico 2. Gráfico de tallo y hoja (stem-and-leaf) 
+ 
+ 
+En el Gráfico 2, por ser la unidad = 0,1 la línea  4 | 11 representa a los valores 4,1 y 
+4,1. En este caso se ha perdido el último dígito de arrastre. 
+ 
+ 
+El gráfico de la caja (box plot). 
+ 
+ Representa gráficamente a los datos sin especificar todos los detalles. Está más 
+relacionado con el estudio de la simetría de la distribución e incorpora medidas de 
+tendencia central y de posición con el objeto de estudiar, también, la variabilidad de los 
+datos, la concentración de los mismos en las colas de la distribución y la presencia de 
+valores atípicos. 
+ Antes de ver como se construye e interpreta un box plot, es necesario presentar 
+algunos términos nuevos que son particulares del análisis exploratorio de datos. 
+ La mediana,  M,  es valor central de los datos ordenados de menor (x (1) ) a mayor 
+(x (n) ), de tal manera que deja a su izquierda o derecha el 50 % de las observaciones. 
+Coincide con el valor central si la serie tiene número impar de términos o con el 
+promedio de los dos centrales, si tiene número par de términos. La posición de la 
+mediana se calcula como: 
+ 
+2
+1+= nP(M)  
+ 
+ Los cuartos (fourth) inferior y superior, Fi y Fs , son aproximadamente el primer y 
+tercer cuartil (los cuartiles  dividen a la serie en cuatro partes, coincidiendo el segundo 
+cuartil con la mediana ). Su posición se determina como: 
+   [ ] 2 1+= P(M)P(F)  
+donde los corchetes significan parte entera. La ubicación de los cuartos en los datos o 
+en el stem-and-leaf se realiza comenzando desde el menor valor para Fi y desde el 
+mayor valor para  Fs. 
+ Los octavos (eights) inferior y superior, Ei y Es, son los valores centrales de los 
+cuartos inferior y superior, respectivamente. Su posición se calcula como: 
+ 86
+ [ ] 2 1+= P(F)P(E)  
+ 
+ Su ubicación en los datos o en el stem-and-leaf es similar a la de los cuartos, es 
+decir, se comienza siempre desde los extremos. 
+ Estos valores, la mediana, los cuartos y los octavos, son los primeros de la serie 
+de los valores letras (letter values), llamados de esta manera porque se los representa 
+con una letra: M, F y E. Los valores letra, más allá de los octavos, no se usan 
+frecuentemente. Generalmente, estos valores no tienen nombre y se los identifica con 
+una letra: D, C, B, A, Z, Y, X, W y así sucesivamente. La posición correspondiente a 
+estas letras se define de igual manera que para la mediana, los cuartos y los octavos. 
+La posición de la letra siguiente es la mitad de la anterior más uno. Así, para el valor 
+letra siguiente a los octavos, denominado D, la posición es: 
+ [ ] 2 1+= P(E)P(D)  
+                  
+ El proceso de identificación de los valores letra se continúa hasta obtener un valor 
+de posición igual a uno.  
+ Los valores extremos o alejados del conjunto de datos no tienen nombre, se los 
+identifica sólo por su posición. 
+ Una vez determinados los valores letra se los presenta en una tabla resumen, 
+Tabla 1. 
+ 
+Tabla 1. Tabla resumen 
+ 
+ 
+           # n              P              inferior              superior           promedio             rango 
+ 
+ 
+         M      P(M)                 M                                 M 
+  F  P(F)       F i                   F s          (F i+F s)/2         F s - F i 
+   E            P(E)       E i                   E s         (E i+E s)/2        E s - E i 
+          1       x (1)                    x (n)       (x (1) +x (n) )/2        x (n) -x(1) 
+ 
+  
+  
+  
+ La tabla se completa con los promedios de los valores letra y sus rangos. Por 
+estar los valores letra simétricamente ubicados en la misma posición, si sus promedios 
+coinciden con la mediana, podemos afirmar que la distribución es aproximadamente 
+simétrica respecto de la mediana. Por el contrario, si estos promedios se hacen cada 
+vez más grandes, los datos presentan una distribución asimétrica hacia la derecha y si 
+decrecen marcadamente, la asimetría es hacia la izquierda. 
+ Los rangos (spread) nos muestran la variabilidad de las observaciones. Cada 
+rango es la diferencia entre dos valores letra, el superior menos el inferior y se 
+denominan   según   el   valor  letra  al  que  corresponden, por  ejemplo F-rango es la 
+diferencia entre el cuarto superior y el cuarto inferior. La diferencia entre los valores 
+extremos se denomina simplemente rango. Cuanto más variables sean los datos, 
+mayor será la amplitud de los rangos. 
+ 87
+ En la Tabla 2 se indican los valores resumen para el ejemplo de los niveles de 
+acidez de las precipitaciones.  
+ 
+ 
+Tabla 2. Tabla resumen, para los datos de niveles de acidez de las 
+precipitaciones 
+ 
+  
+  # 26          P      inferior              superior       promedio         
+rango 
+   M    13,5         4,54      4,54 
+   F     7   4,31                 4,82              4,565             
+0,51 
+   E    4   4,26                 5,51              4,885             
+1,25 
+        1   4,12                 5,78              4,95               
+1,66 
+   
+  
+ 
+Como puede observarse, los valores de la columna promedio crecen a partir de la 
+mediana, evidenciando asimetría positiva (hacia la derecha). 
+ Se puede construir una tabla resumen más sencilla, que sólo contenga a la 
+mediana, los cuartos y los extremos, denominada resumen de 5 números, Tabla 3. 
+ 
+ 
+Tabla 3. Tabla resumen de 5 números, para los datos de niveles de acidez de las 
+precipitaciones 
+ 
+ 
+    
+    # 26      inferior                superior 
+    
+   M    13,5       4,54 
+   F       7      4,31                    4,82        
+         1      4,12                    5,78 
+       
+ 
+   
+ Con estos datos se construye un gráfico de la caja esquemático o esquelético, 
+dibujando una caja desde el cuarto inferior al superior, con una línea sólida que lo 
+atraviesa que representa a la mediana. Luego se trazan dos líneas, llamadas bigotes o 
+patillas (whiskers) que conectan a la caja con los valores extremos, tal como puede 
+observarse en el Gráfico 3.  
+ 
+ 
+ 88
+Gráfico 3. Box plot esquemático, para los datos de niveles de acidez de las 
+precipitaciones 
+ 
+De la observación del box plot del Gráfico 3 puede tenerse una idea general de la 
+dispersión, la simetría, los cuartos y los valores extremos. 
+ Algunos conjuntos de datos incluyen valores alejados o extremos (outliers), que 
+son tan bajos o tan altos que pareciera que no pertenecen al conjunto original. Estos 
+valores extremos pueden ser errores de medición, de copiado, etc., o simplemente 
+reflejar circunstancias inusuales. Cualquiera sea su origen, los valores alejados 
+requieren especial atención. Para obtener una mejor representación de los datos es 
+conveniente modificar el box plot esquemático, construyendo un nuevo gráfico 
+denominado box plot. Esto requiere tener en cuenta los cuartos, la diferencia entre 
+cuartos y el F-rango, en base al cual definimos los cercos o vallas internas (inner 
+fences) y los cercos o vallas externas (outer fences): 
+ 
+ cerco o valla interna inferior = F i - ( 1,5 . F-rango ) 
+ cerco o valla interna superior = F s + ( 1,5 . F-rango ) 
+       cerco o valla externa inferior = F i - ( 3 . F-rango ) 
+ cerco o valla externa superior = F s + ( 3 . F-rango ) 
+ 
+ Cualquier observación entre el cerco interno y el externo se denomina valor 
+alejado o atípico (mild outlier) y los valores más allá del cerco externo son los valores 
+muy alejados o muy atípicos (extreme outlier).  
+ Los valores adyacentes (adjacent value) son los valores más alejados de la caja 
+que no exceden a los cercos internos, o sea que: 
+ 
+ adyacente superior : es la mayor observación ≤ cerco interno superior 
+ adyacente inferior : es la menor observación ≥ cerco interno inferior 
+ Para el ejemplo: 
+ 
+ cerco interno inferior = 4,31 - ( 1,5 . 0,51 ) = 3,545  
+ cerco interno superior = 4,82 + ( 1,5 . 0,51 ) = 5,585 
+
+ 89
+ cerco externo inferior = 4,31 - ( 3 . 0,51 ) = 2,78 
+ cerco externo superior = 4,82 + ( 3 . 0,51 ) = 6,35 
+ 
+ Los valores adyacentes son: 4,12 y 5,51. Los valores 5,62 ; 5,67  y 5,78 son 
+valores alejados o atípicos (mild outlier). No se encuentran valores muy alejados o 
+muy atípicos. 
+ La construcción del gráfico de la caja comienza como en el box plot esquemático, 
+dibujando la caja y marcando la mediana. Los bigotes son más cortos que en el 
+anterior, llegan sólo hasta los valores adyacentes. Los valores extremos se indican con 
+( o ) si son alejados y con ( * ) si son muy alejados, Gráfico 4. 
+Gráfico 4. Box plot, para los datos de niveles de acidez de las precipitaciones 
+ 
+En el Gráfico 4 pueden observarse claramente tres valores alejados, aunque mirando 
+detenidamente los datos pareciera que el valor 5,51 también debiera ser considerado 
+un valor alejado. Existen pocas razones para considerar que los datos de precipitación 
+ácida han sido medidos con error. Al analizar las fechas en las que se han hecho las 
+mediciones, tres de las cuatro fechas fueron feriados y cayeron los lunes. Sucede algo 
+especial en los fines de semana largos?.  Recordemos que el estudio original estaba 
+motivado por la sospecha de que la contaminación ambiental contribuía a acidificar las 
+precipitaciones. Los outliers son las observaciones con menor nivel de acidez. El otro 
+valor alejado no corresponde a un fin de semana. Si se dispusiera de mayor cantidad 
+de observaciones podrían separarse los días hábiles de los fines de semana.  
+ Los “notches box plots” son aquellos en los que se ven graficados los intervalos 
+de confianza para la mediana. Son muy útiles para comparar varios box plots. 
+ 
+ 
+ 
+ 
+ 
+
+ 90
+Gráfico de probabilidad normal (Q-Q plot). 
+ 
+El gráfico cuantil-cuantil (Quantile-Quantile plot, Q-Q plot) se utilza para detectar la 
+falta de normalidad de los datos. Si éstos tienen distribución normal el gráfico cuantil-
+cuantil es aproximadamente una línea recta. Cuando la distribución de una variable es 
+asimétrica hacia la derecha, los valores altos tienden a estar alejados de la recta 
+teórica, mientras que las observaciones bajas tienden a estar cerca. Si la asimetría es 
+hacia la izquierda, sucede exactamente lo opuesto. 
+El cuantil o percentil de una distribución contínua es el valor xp tal que P(X ≤xp)=p. 
+Si el valor xp es la mediana (segundo cuartil), es el cuantil o percentil de p=0,50; si xp  
+es el primer cuartil, es el cuantil de p=0,25; si se trata del tercer cuartil, es el cuantil de 
+p=0,75.  Por otra parte, los cuantiles de la distribución normal (0;1) pueden obtenerse 
+fácilmente de la tabla de la distribución normal estandarizada. 
+Para la construcción de este gráfico, en un eje de coordenadas cartesianas 
+ortogonales se indican los valores ordenados de la variable (niveles de acidez) en el 
+eje de ordenadas y en la abscisa los valores de la distribución normal estandarizada 
+(z) correspondientes a las probabilidades acumuladas a dichos valores ordenados 
+corregidos, calculados como:       + −− 31n 31i1F  donde i es el orden de la observación y n el 
+tamaño de la muestra, Gráfico 5.  
+ 
+Gráfico 5. Gráfico cuantil-cuantil, para los datos de niveles de acidez 
+de las precipitaciones 
+ 
+ 
+Puede observarse falta de normalidad para estos datos, pues los puntos se alejan 
+notoriamente de la recta. 
+Otros ejemplos pueden encontrarse en Hoaglin et al (1983), Ott (1984) y Sokal y 
+Rohlf (1981). 
+ 

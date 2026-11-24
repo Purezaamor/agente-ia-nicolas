@@ -1,0 +1,597 @@
+=== Fuente: Heitschmidt R & Taylor C Chapter 7 Livestock Production.pdf ===
+
+Chapter 7 
+Livestock Production 
+R.K. Heitschmidt and C.A. Taylor, Jr. 
+ 
+ 
+Contents 
+Introduction 
+Concepts and Terminology 
+General Principles 
+- Number of Animals 
+- Kinds and Classes of Animals 
+- Spatial Distribution of Animals 
+- Temporal Distribution of Animals 
+ 
+Grazing Systems 
+ 
+- Concepts and Terminology 
+- Effects on Livestock Production 
+Conclusions 
+List of Figures 
+ 
+Introduction 
+Level of livestock production on a given site is an integrated measure of energy capture, 
+harvest, and conversion efficiencies (see Chapter 1). The principle factor affecting these 
+efficiencies, and therefore livestock production, is grazing intensity which varies as a 
+function of the: 
+1. temporal and 
+2. spatial distribution of various 
+3. kinds/classes and 
+4. number of livestock. 
+ 
+The objective of this chapter is to examine the relative effect of each of these four factors 
+on livestock production. 
+Concepts and Terminology 
+Livestock production is a dynamic process varying as a function of both plant and animal 
+factors. The use of several closely related, often confusing terms is required to 
+conceptualize and/or quantitatively describe the effects of these factors on livestock 
+production (Booysen 1967; Hodgson 1979; Scarnecchia and Kothmann 1982; Soc. Range 
+Manage. 1989). For the purposes of this chapter we use the following specific definitions: 
+Forage available (FA) is any herbage and/or browse available for grazing. 
+Forage demand (FD) is the amount of any specified forage required to meet the 
+nutrient requirements of an animal over a specified period of time. 
+Grazing pressure (GP) is the ratio of FD to FA for any specified forage at any 
+instant (i.e., FD/FA). 
+Stocking density (SD) is the number of specified animals/unit area of land at any 
+instant. 
+Animal-unit (AU) is any specified combination of animals with a total FD of 12 kg 
+of dry matter/day. 
+Stocking rate (SR) is the number of animals of a specified class or animal 
+units/unit area of land over a specified period of time (i.e., SD integrated over time). 
+ 
+The fundamental inter-relationships between these variables in a simple I- pasture, 1-herd 
+grazing regime are presented in Figure 7.1. Section A reflects the effect of varying numbers 
+and kinds of animals on SD and SR when SR is defined as number of a specific class of 
+animal species. Section B demonstrates the effect of varying levels of FD on SR when 
+expressed on an AU basis. For example, SR is equal (5 ha/AU/yr) for 1000 ewes or 200 
+cows if it is assumed the FD substitution ratio is 5. It is quite different, however, if the ratio 
+is otherwise. Section C shows that at equal FD, SR is equal. Section D demonstrates the 
+relative effects of changing levels of FA on GP. Section E demonstrates the effect of 
+preference, which is a relative term describing the discretionary behavior of animals in the 
+selection of various forages (Hodgson 1979), on GP if it is assumed sheep prefer forbs over 
+grass and cattle prefer grass over forbs (see Chapter 2 and Chapter 3). 
+Although the definition of GP used herein differs slightly from traditional definitions 
+(Hodgson 1979; Scarnecchia and Kothmann 1982; Soc. Range Manage. 1989), it is 
+
+conceptually appropriate because it incorporates the concept of preference at the plant-
+animal interface. This concept is critical to meeting the objectives of this chapter because of 
+the linkage between the basic principle of grazing management (i.e., control of the intensity 
+of defoliation of individual plants), the four general principles of grazing management as 
+outlined above, and traditional range condition concepts (see Chapter 5). 
+The concepts used to define and describe range condition have long been the subject of 
+lively debate among range ecologists (Humphrey 1949; Costello 1964; Tainton et al. 1980; 
+Smith 1988a; Wilson 1989; see Chapter 5), particularly with regard to the practical aspects 
+of quantitative assessment and monitoring (Soc. Range Manage. 1983; Westobv et al. 
+1989). A major issue of concern is the concept that as range condition improves, livestock 
+carrying capacity also improves (see definition of range improvement, Soc. Range Manage. 
+1989). Although this is an attractive concept because it seems intuitively reasonable and 
+appropriate in certain instances (Danckwerts and Aucamp 1986), it has been shown to be 
+inappropriate in many cases because it is not biologically possible to continually maximize 
+energy capture (i.e., excellent range condition) and harvest and conversion efficiencies 
+simultaneously (see Chapter 1). 
+In an attempt to avoid having to specifically address the absolute impact of range condition 
+on livestock production throughout this chapter, we specifically define range 
+improvement as any change in quantity and/or quality of available forage that facilitates 
+sustained livestock production. Central to this definition is that optimum range condition 
+in terms of the forage complex, is that which maximizes livestock production/unit area of 
+land on a sustained basis. 
+General Principles 
+Number of Animals 
+Determining the proper number of animals to be placed on an area is the principal factor 
+affecting the relative success of any grazing management strategy. This is so because 
+number of animals affects not only individual animal performance but also production/unit 
+area of land (see Chapter 1). Regardless of vegetation complex or the kind or class of 
+animal, number of animals occupying an area over a given period of time (stocking rate) 
+has a profound effect on livestock production because it affects GP directly by virtue of its 
+direct effect on FD and the subsequent effects of FD on FA. For example, at low rates of 
+stocking, individual animal performance is maximized (Fig. 7.2) relative to the quality of 
+forage available because GP is low. However, production/unit area is also necessarily low 
+because number of animals/unit area is low (Fig. 7.3). But as stocking rate is increased 
+(moderate GP), individual animal performance begins to decline because of restrictions 
+imposed on nutrient intake by either quantitative and/or qualitative declines in the forage 
+resource (see Chapter 2). The stocking rate at which this decline begins is commonly 
+referred to as the critical stocking rate (Hart 1978), and any increase in stocking rate 
+beyond this point normally results in a reduction in individual animal performance. 
+Production/unit area, however, continues to increase as stocking rate is increased from low 
+to moderate because of the increase in number of animals (Fig. 7.3). This increase 
+continues to some maximum as stocking rate is increased, but eventually it too decreases as 
+nutrient intake becomes progressively more restrictive. 
+The stocking rate at which maximum production/unit area is achieved varies as a function 
+of rate of decline in individual animal performance. Most often it is assumed for practical 
+reasons that rate of decline is linear (Hart 1978) because in such cases it can be shown that 
+the stocking rate at which maximum production/unit area is achieved is precisely one-half 
+of the stocking rate at which individual animal performance is zero. In reality, however, the 
+relationship between stocking rate and individual animal performance is probably 
+curvilinear (Peterson et al. 1965; Connolly 1976; Edwards 1981). The reason it is 
+curvilinear is because a linear decline in individual animal performance is only possible if 
+the decline in the net assimilation rate of the individual animals is uniformly linear. This is 
+doubtful particularly in multispecies extensive grazing systems because quantity and 
+quality of available forage (nutrients) are seldom uniformly distributed (vertically and 
+horizontally) over time. As a result, it is doubtful quantity and/or quality of forage 
+consumed (nutrient intake) declines in a linear fashion as stocking rate is increased. 
+Moreover, it is doubtful that the amount of energy expended per animal in search of 
+nutrients (grazing) remains constant as stocking rate increases. The resulting effect is that 
+as stocking rate is increased in extensive rangeland settings, rate of decline in individual 
+animal performance is accelerated (Fig. 7.2). 
+The stocking rate at which maximum production/unit area is achieved, when individual 
+animal gains-stocking rate responses are assumed to be curvilinear rather than linear, is 
+near that at which individual animal performance is one-half of maximum. In other words, 
+it is near the stocking rate that is halfway between the critical stocking rate and that at 
+which individual animal performance is zero. This is in contrast to an assumed linear 
+response as discussed earlier, wherein maximum production/unit area is achieved at the 
+stocking rate that is precisely one-half of the stocking rate at which individual animal 
+performance is zero. The relative differences in precision of estimates of optimal stocking 
+rates between linear (precise) and curvilinear (near) individual animal-stocking rate 
+response functions occurs because assumed linear responses are easily defined 
+mathematically, whereas curvilinear responses are often undefinable. 
+But regardless of the precise rate of stocking required to maximize production/unit area, the 
+basic problem in grazing management is that the relationships between rate of stocking and 
+livestock production are extremely complex and highly variable in anv livestock production 
+system because GP varies widely over time and space. This variation is the result primarily 
+of variations in quantity and quality of available forage (nutrients available) over time and 
+space as a result of both managerially uncontrollable variables, which are primarily abiotic, 
+and controllable variables, which are primarily biotic (see Chapter 1). Major abiotic 
+variables are climate and the inherent productivity potential of a site as defined by such 
+factors as soil fertility, slope, and aspect (range site). Thus, quantity and quality of available 
+forage vary seasonally, among years and range sites, and within and among geographical 
+regions (Sims and Singh 1978; Sala et al. 1988) regardless of the relative impact of any 
+biotic factors. 
+The major biotic factor affecting quantity and quality of available forage is grazing 
+intensity, of which stocking rate is a major determinant. Generally, as stocking rate is 
+increased, quantity of available forage declines on both a short- and long-term basis. On a 
+short-term basis, this decline occurs because rate of forage depletion exceeds rate of 
+accumulation. On a long-term basis, this decline results because of the interaction effects of 
+both abiotic and biotic factors on plant growth (see Chapter 4) and plant successional 
+processes (see Chapter 5). Grazing intensity is a major factor affecting the direction, 
+magnitude, and rate of vegetal change (range trend and condition) in rangeland ecosystems. 
+ 
+
+ 
+ 
+Stocking rate often affects quality of available forage also, but the relative effect varies 
+over time and space depending upon the specific situation. On a short-term basis, overall 
+forage quality often increases as grazing intensity increases because of the removal of low-
+quality (senesced) forage (Heitschmidt et al. 1987b, 1987c), whereas qualitv of available 
+forage over the long-term varies depending upon the quality of the replacement species 
+resulting from changes in species composition (see Chapter 5). 
+As a result of the integrated effects of abiotic and biotic factors on quantitv and quality of 
+available forage over time, and because of the relationship between GP and livestock 
+production, the quantitative relationships between stocking rate and livestock production 
+(Figure 7.2 and Figure 7.3) are situation specific in that they vary over time and space. As a 
+result, optimal rates of stocking vary over time and space depending upon season, year, site, 
+and management goals. Although such terms as under- and over-stocking are relative terms 
+that vary as a function of management goals, "proper" stocking can be defined as that 
+which maximizes energy capture, harvest, and conversion efficiencies within a given area 
+on a sustained basis when assumed management goals are oriented towards maximizing 
+livestock production over time. In this sense, under-stocking can be viewed as a tactic that 
+generally enhances efficiency of energy capture and stability of livestock production, 
+whereas over-stocking can be viewed as a tactic that generally reduces stability of livestock 
+production by suppressing energy capture (see Chapter 4 and Chapter 5) and/or energy 
+conversion efficiency (see Chapter 2). 
+
+The essence of the effects of stocking rate on livestock production is reflected in Figure 7.2 
+and Figure 7.3. In both figures, the upper curve reflects the functional relationship between 
+stocking rate and livestock production when nutrient availability/unit area of land is high 
+(low GP), while the lower curve reflects the relationship when nutrient availability/unit area 
+of land is low (high GP). The distance between the two curves reflects the potential effect 
+of varying levels of nutrient availability on livestock production at various rates of 
+stocking. At low rates of stocking, the effects are limited because differences in livestock 
+production are a function of quality of forage. However, potential differences increase 
+dramatically as stocking rate is increased because livestock production is affected by both 
+quantity and quality of forage available. In other words, as forage demand (stocking rate) 
+increases, stability of livestock production decreases. This is reflected by the general 
+increase in the standard deviations of annual means derived from a wide array of stocking 
+rate-livestock production studies as summarized in the margins of Figure 7.2 and Figure 
+7.3. 
+Unfortunately, quantity and quality of available forage in dynamic, multi-species rangeland 
+ecosystems often vary more as a function of the highly variable, managerially 
+uncontrollable abiotic factors, as discussed earlier, rather than the managerially controlled 
+biotic factors (Noble 1986; see Chapter 5). As a result, the optimal stocking rates for 
+livestock production in extensive rangeland settings vary widely among seasons, years, and 
+sites, within and among geographical regions (Morley 1966; McCown 1982). This concept 
+is reflected in Figure 7.2 and Figure 7.3 in that the optimal stocking rate for maximizing 
+livestock production when quantity and/or quality of forage available is low, Max 1, is less 
+than the optimal rate when quantity and/or quality of forage available is high, Max 2. It can 
+be concluded also that the probability that frequently occurring abiotic events, such as 
+drought, will become catastrophic, is related to rate of stocking. This is demonstrated in 
+Figure 7.2 and Figure 7.3 in that livestock production at the optimal rate of stocking during 
+periods of reduced forage production, Max 1, would be greater than at the heavier rate of 
+stocking required to maximize production during periods of ample forage production, Max 
+2. In other words, as rate of stocking increases so does frequency of occurrence of 
+catastrophic events (Noy-Meir and Walker 1986). Thus, proper rates of stocking for 
+sustained livestock production are necessarily moderate in virtually all range livestock 
+production systems. 
+Kinds and Classes of Animals 
+The concept of GP is related generally only to total forage demand/availability within a 
+given area (Hodgson 1979; Scamecchia and Kothmann 1982). But when forage demand is 
+defined so as to incorporate the concept of preference within the GP function (Figure 7.1, 
+section E), the underlying rationale for mixed animal grazing is easily grasped because: 
+1. Most grazing lands generally support a combination of forage classes (grasses, 
+forbs, shrubs, and trees); and 
+2. Dietary preference, nutrient requirements, and foraging abilities vary among 
+kinds and classes of animals (see Chapter 2 and Chapter 3). 
+Thus, GP varies among forage classes over time and space as a function of the unique 
+assemblage of plants and animals present. By matching the forage demand of various kinds 
+and classes of animals to the forage available, an overall increase in harvest and conversion 
+efficiencies can often be realized, thereby increasing livestock production. 
+The most common practice employing this strategy is multi-species grazing. The effects of 
+multi-species grazing on livestock production has been the subject of many studies 
+throughout the world (Aucamp et al. 1986). For example, in the Edwards Plateau region of 
+Texas such studies have continued without interruption for the past 38 years (Taylor 1985). 
+Vegetation in this region is a mixture of short and mid-grasses with an abundance of forbs 
+and a moderate overstory of browse. Grazing studies have focused on quantifying the 
+relative effects of various combinations of cattle, sheep, and goats on livestock production. 
+Yearlong grazing treatments stocked at equal rates of total FD include: cattle (100%); sheep 
+(100%); goats (100%); cattle (50%) + goats (50%); and cattle (50%) + goats (25%) + sheep 
+(25%). Results (Fig. 7.4) show that: 
+1. Production/animal was significantly greater for steers when grazed in 
+combination with sheep and goats than when grazed alone; 
+2. Production/ewe was significantly greater when sheep were grazed with cattle and 
+goats than when grazed alone; and 
+3. Production/goat was not affected by species mix. 
+ 
+The results from these studies reflect the relative effects of varying levels of GP on 
+livestock production. Previous research has clearly established that cattle prefer grass, 
+sheep prefer grass and forbs, and goats prefer browse and grass (see Chapter 2). Although 
+forage availability was not measured in these studies, results from diet studies (Taylor 
+1985) suggest that when cattle were replaced by goats and/or sheep, individual cattle 
+performance increased because FD for the grass component was reduced (lower GP). 
+Likewise, it can be assumed production/ewe increased when some sheep were replaced bv 
+cattle and goats because GP on the forb component declined. Production/goat was 
+presumably unaffected by species mix because rate of stocking was below the critical 
+stocking rate necessary to cause a shift in diet selection from a high-quality browse and 
+grass dominated diet to a lower quality diet. Selection of the proper kinds and classes of 
+animals is also related to environmental and economic constraints. Two examples of 
+variations in kinds and classes of animals relative to these constraints are the preponderance 
+of Bos indicus type cattle in the hot, arid regions of the world and the dominance of 
+growing rather than breeding livestock in regions with an abundance of annual cereal 
+grains. 
+ 
+Spatial Distribution of Animals 
+It is well known that livestock preferentially select various plants and plant parts during the 
+grazing process (see Chapter 2 and Chapter 3). They also preferentially select various 
+assemblages of plant species (plant communities) in which to graze (see Chapter 3). 
+Because the distribution of various plant communities varies spatially as a function of such 
+factors as toposequence, soil type, aspect, and past grazing history (see Chapter 5), GP 
+varies among plant communities depending upon livestock distributional patterns across a 
+landscape relative to the kinds and amounts of forage available. 
+Common practices utilized to enhance livestock distributional patterns are crossfencing and 
+strategic placement of salt, mineral, and watering facilities. There is also a strong 
+interaction between multi-species grazing and spatial grazing patterns. This interaction 
+effect is related primarily to the spatial distributional pattern of preferred and non-preferred 
+plant communities/forage classes across a landscape, the innate behavioral patterns of 
+various kinds and classes of animals, and the social interaction effects of various animal 
+species that promote the establishment of multiple herds of grazing animals. 
+ 
+Studies examining the potential impact of varying livestock distributional patterns on 
+livestock production have been reviewed previously (Squires 1981). More recently, 
+however, the basic effects of cattle distributional patterns on livestock production have 
+been demonstrated by Hart et al. (1988). At nearly equal rates of stocking and GP, they 
+reported that average daily gain (ADG) of yearling heifers in Wyoming in a 518-ha pasture 
+was significantly less than ADG in 24- and 34-ha pastures. Maximum distance to water was 
+5.4 km in the larger pasture and 1.4 km in the smaller pastures. Herbage utilization, a 
+measure of harvest efficiency, averaged 50% in the smaller pastures and was similar 
+
+regardless of distance from water. Utilization in the larger pasture averaged 41% and 
+ranged from 60% near water to 25% near the back of the pasture. 
+Temporal Distribution of Animals 
+Justification for temporal variation in livestock grazing strategies is related primarily to the 
+short- and long-term effects of defoliation on quantity of forage produced (efficiency of 
+energy capture) and consumed (harvest efficiency), and secondarily to the quality of forage 
+produced and consumed (efficiency of conversion). This conclusion is dictated by the first 
+law of thermodynamics (see Chapter 1) because the presence of forage (captured solar 
+energy) is a prerequisite to forage quality determinations. Still, the nutritional aspects of the 
+grazing animal should be considered (Launchbaugh et al. 1978) in light of the effect of 
+temporal variations in quantity and quality of forage available on livestock production. 
+There is essentially only one mechanism whereby an increase in livestock production can 
+be expected to result as a direct function of temporal adjustment of grazing events, i.e. 
+increased forage quality. Forage quality is seldom directly enhanced by deferment from 
+grazing although it may be indirectly enhanced if deferment induces a desirable qualitative 
+change in species composition (see Chapter 5). This long-term response is in contrast, 
+however, to the potential short-term effect of grazing on forage quality. For example, 
+Heitschmidt et al. (1987b) showed that forage quality [percentage crude protein (CP) and 
+organic matter digestibility (OMD)] in a north Texas grassland increased over the short-
+term as GP increased. But the increase was the result of a decline in relative amounts of 
+low-quality senesced forage rather than an absolute increase in amounts of high-quality, 
+actively growing forage. This concept is the underlying mechanism justifying the use of 
+such practices as early intensive stocking (EIS). Utilizing EIS tactics, Launchbaugh et al. 
+(1983) showed that in certain instances, cattle production/ha increased approximately 25% 
+over season- long grazing (SLG) when rate of stocking was increased 2-fold and length of 
+grazing season was halved. The apparent reason for this outcome was attributed to the 
+effect of seasonal changes in forage quality on steer conversion efficiency. This conclusion 
+was supported by the ADG of the steers which was nearly equal in both treatments during 
+the duration of the IES treatment (Mav 1-July 15) but declined thereafter in the SLG 
+treatment (May 1-October 1). 
+It should be noted, however, that the response in this study was mediated through an 
+adjustment in stocking rate in addition to manipulation of the temporal distribution of the 
+grazing season. The strategic timing of the shortened grazing season was selected primarily 
+in consideration of the nutritional aspects of the grazing animal; in short, the aim was to 
+enhance conversion efficiency rather than efficiencv of energy capture. This objective was 
+realized as evidenced by the 25% increase in production/ha with IES, although rate of 
+stocking in both treatments was equal when averaged across the 172-day duration of the 
+SLG treatment. However, it should be noted that the benefits of IES tactics would be 
+difficult to capture in a year-long operation stocked only with breeding animals. 
+A second example of a management practice designed in consideration of the nutritional 
+needs of grazing livestock is adjustment of breeding seasons (see Chapter 2) in accordance 
+with the cyclic dynamics of forage quality and the cyclic nutritional needs of breeding 
+animals. Because both the nutritional needs of breeding stock and quantity and quality of 
+available forage vary over time, livestock production can be enhanced by proper 
+manipulation of GP over time relative to nutrient demand and nutrient availability. The 
+relative benefits derived from this practice are similar, however, regardless of stocking rate 
+or grazing system because temporal growth patterns of vegetation in most rangeland 
+ecosystems are similar regardless of grazing regime. 
+Grazing Systems 
+Grazing systems are management tools designed to balance the conflicting relationships 
+between energy capture, harvest, and conversion efficiencies (see Chapter 1). They are 
+designed firstly to enhance livestock production over time by either improving and/or 
+stabilizing the quantity (efficiency of energy capture) and/or quality (efficiency of 
+conversion) of forage produced and/or consumed (efficiency of harvest). Production 
+improves if the benefits of rest or deferment exceed the detrimental impacts of grazing; 
+stabilization results if the benefits of rest exactly equal the detrimental impacts of grazing; 
+while degradation results when the benefits of rest are less than the detrimental impacts of 
+grazing. But regardless of the effects of a grazing system on the vegetation complex, its 
+effects on livestock production vary depending upon its direct effects on GP. 
+Concepts and Terminology 
+A grazing system is considered "a specialization of grazing management which defines 
+recurring periods of grazing and deferment for 2 or more pastures or management units" 
+(Soc. Range Manage. 1989). For the purposes of this chapter, we limit our discussion to 
+grazing systems stocked year-long. However, the basic ecological concepts and principles 
+presented herein apply equally well to seasonal grazing systems because they too include 
+recurring periods of grazing and deferment. The only difference between year-long and 
+seasonal grazing systems is the tactic utilized to attain desired periods of grazing and 
+deferment (number pastures > number of herds vs. buy/sell seasonally). 
+As defined earlier, grazing pressure (GP) is the ratio of forage demand (FD) to forage 
+available (FA) at any instant. This is a conceptually convenient definition when considering 
+the effects of GP on livestock production in a I-pasture, 1-herd, continuously grazed 
+treatment. But the conceptual analysis of the functional attributes of grazing systems 
+requires a refinement of this concept because at any instant at least one subdivision of all 
+grazing systems is rested. Thus, GP varies as a function of resource (forage or livestock) or 
+area (individual subdivision or total area) of interest. For example, in a 4-pasture, 1-herd 
+system (Figure 7.5)  livestock or subdivision GP will be four-fold greater than forage or 
+total GP because only one fourth of the total forage or area within the fenced boundaries of 
+the system is available to the animals at anv instant. In other words: 
+Livestock GP= 
+             forage-demand (FD)  
+ 
+ forage available (FA) in grazed   
+subdivisions(s) 
+Forage GP= 
+              forage-demand 
+ 
+forage present in all subdivisions 
+In concert with this concept, it can be seen that forage GP will not vary among grazing 
+systems, regardless of number of subdivisions, if total FA and FD are equal whereas 
+livestock GP will vary dramatically depending upon the effect each grazing system has on 
+stock density (Figure 7.5). Appreciation for this concept is paramount for the development 
+of an understanding of the potential impact of various grazing systems on livestock 
+production. 
+ 
+ 
+Effects on Livestock Production 
+The effects of various year-long grazing systems on livestock production have been 
+reviewed previously by many (Heady 1961; Driscoll 1967; Shiflet and Heady 1971; Herbel 
+1974; Gammon 1978; Pieper 1980). Although interpretive conclusions vary among these 
+and other reviewers, all tend to agree that the relative benefits derived from any grazing 
+system, in terms of livestock production, vary greatly over time and space thereby making 
+it difficult to make any definitive, universal conclusions concerning relative merits. This is 
+not surprising however, when the varied results are examined within the conceptual 
+framework presented earlier relative to the effect of GP on individual animal performance. 
+For example, it is easy to understand why individual animal performance generally 
+
+declines, or at least does not improve immediately following the establishment of any 
+grazing system (Wilson et al. 1984), unless rate of stocking is reduced (high livestock GP). 
+Moreover, it is easy to understand why improvement in livestock production is dependent 
+primarily on improvement in quantity and/or quality of forage available and/or consumed 
+over time or space. 
+Tactics. There are two fundamental management tactics utilized to enhance quantity and/or 
+quality of forage produced over time. These are commonly referred to as: 
+1. High utilization grazing (HUG); and 
+2. High performance or high production grazing (HPG) (Booysen and Tainton 
+1978). 
+The functional difference between these two tactics is related to the discretionary manner in 
+which they affect the competitive interactions of preferred (high GP) and non-preferred 
+(low GP) plant species. With HUG strategies, all plants are moderately to intensively 
+defoliated during a grazing period, whereas with HPG strategies only the preferred plants 
+are defoliated and then only at light to moderate intensities. Improvement with HUG tactics 
+stems from the discretionary effects moderate to heavy levels of defoliation have on the 
+competitive abilities (see Chapter 4) of the preferred and non-preferred species when both 
+are defoliated. Improvement with HPG tactics stems from the varying effects lenient levels 
+of defoliation have on the competitive abilities of the preferred plants relative to the 
+competitive abilities of the ungrazed, non-preferred plants. The on-going (immediate or 
+short-term) impact of these two tactics on livestock production are quite different because 
+HUG tactics necessarily require livestock consume non-preferred forages whereas HPG 
+tactics require consumption of only preferred forages. As a result, individual animal 
+performance is usually less with HUG than HPG tactics whereas animal production/unit 
+area is greater. 
+Implementation of a grazing system may also enhance livestock production if additional 
+fencing is required whereby improved livestock distribution patterns are realized. This 
+effect has been demonstrated by Hart et al. (I 988) in Wyoming. At equal rates of stocking, 
+they reported that ADGs of cattle were equal in an 8-pasture, 1-herd rotation system (24 
+ha/pasture) and a continuously grazed treatment if the continuously . grazed pastures (24 
+and 34 ha) were small, but were greater in the rotational system when the continuously 
+grazed pasture was large (518 ha). 
+ 
+Types of Grazing Systems. Functionally, there are four basic types of grazing systems 
+(Figure 7.6): 
+1. Deferred rotation (DR); 
+2. Rest rotation (RR); 
+3. High intensity-low frequency (HILF); and 
+4. Short duration (SD). 
+The functional aspects of each system center around the employment of either HPG or 
+HUG tactics. The major factor affecting such is stocking rate in that high rates of stocking 
+insure HUG tactics are employed rather than HPG regardless of type of system. However, 
+assuming rate of stocking is moderate the general features of each are as follows. 
+Deferred rotation (DR) systems are multi-pasture, multi-herd systems designed to maintain 
+or improve range condition utilizing HPG tactics. Stock density is moderate, length of 
+graze long, and length of rest moderate. An example of a DR system is the 4-pasture, 3-
+herd system developed by Merrill (1954) in the southern mixed- grass prairies of the U.S. 
+(Figure 7.6). 
+ 
+Rest rotation (RR) systems are either multi-pasture, multi-herd or multi-pasture, single 
+herd. They are designed to maintain or improve range condition utilizing a combination of 
+HPG and HUG tactics. Stock density ranges from moderate (multi- herd) to heavy (single 
+herd); length of graze ranges from short (HPG tactics) to long (HUG tactics), and length of 
+
+rest from long to short. An example of a RR system is the 3-pasture, 1-herd Santa Rita 
+system developed by Martin (1978) for the and desert grasslands of the southern U.S. 
+(Figure 7.6). 
+High-intensity, low-frequency (HILF) systems are multi-pasture systems usually stocked 
+with a single herd of livestock (Figure 7.6). They are designed to maintain or improve 
+range condition utilizing HUG tactics. Stock density is high, length of graze moderate, and 
+length of rest long. 
+Short duration (SD) systems are similar to HILF systems (Figure 7.6) except HPG rather 
+than HUG tactics are employed to maintain or improve range condition. This is achieved by 
+reducing length of graze and rest period while maintaining high stock densities. 
+Livestock Production. The relative effects of the four types of grazing systems discussed 
+above on livestock production are presented in Figure 7.7. These generalized response 
+curves are based on five important assumptions. 
+1. Vegetation complex is a multi-species, temporally variable grassland grazed year-
+long. 
+2. All systems are implemented using existing pastures. 
+3. Quantity and quality of available forage (i.e., range condition, our definition) is 
+equal in all systems. 
+4. Management skill is sufficient to insure that livestock production in the more 
+intensively managed type systems, particularly SD, is not unduly suppressed by 
+improper rotation schedules. 
+5. There are no kinds or classes of animal by grazing system interaction effects. 
+ 
+These assumptions are prerequisites for the development of livestock-stocking rate 
+response curves because of the differential effects that various grazing systems may elicit 
+relative to the four principles of grazing management. A major problem in grazing system 
+research in extensive rangeland settings lies in our inability to effectively employ multi-
+factor experimental designs to elucidate single-factor effects of a multitude of factors that 
+affect livestock production. For example, livestock production in a 1-herd, multi-paddock 
+RG system may vary as a function of a number of factors including stocking rate, number 
+of paddocks (i.e., stock density), and rate of rotation (i.e.. length of graze/rest periods. Thus 
+to properly evaluate such a system requires at least a twice replicated 3 x 3 factorially 
+designed experiment. Although such studies are desirable, they are often not feasible 
+because of resource limitations relative to land, labor, and capital. Thus, any interpretive 
+summary of the effects of various grazing systems on livestock production, such as that 
+presented in Figure 7.7, must be based on a general understanding of the potential impact 
+that the four types of grazing systems have on livestock GP over time and space. 
+
+Assumption # 1 is made to eliminate any confusion that may arise concerning the potential 
+impact of grazing systems on livestock production in tame pasturage and/or seasonal 
+grazing environments. For example, it may be argued that continuous grazing is superior to 
+rotational grazing when the early intensive stocking (EIS) strategy, discussed earlier, is 
+employed on an area of land. However, for the present purposes, we would simply argue 
+that seasonal grazing strategies such as EIS are functionally equivalent to year-long grazing 
+HILF type systems (Le., long graze, long rest). 
+Assumption #2 is necessary to eliminate the differential impact that various systems may 
+have on livestock production as a result of redistribution of animals from increased 
+subdivisions. This does not mean, however, that grazing systems do not enhance livestock 
+distribution patterns as a result of their effect on stock density, as hypothesized by 
+Kothmann (1980), Savory and Parsons (1980), and Malechek and Dwyer (1983). Certainly, 
+the data of Hart et al. (I 988), as discussed earlier, show stock density does not greatly 
+impact livestock performance when pastures are small. Likewise, studies by Gammon and 
+Roberts (1978), Kirby et al. (1986), and Walker et al. (1989c) tend to support the findings 
+of Hart et al. (1988). Still, there seems little doubt that such would be the case if pastures 
+were extremely large. Unfortunately, we know of no studies that clearly address this 
+hypothesis. 
+Assumption #3 is necessary to eliminate potential differences in livestock production that 
+may arise over time as a result of a change in quantity and/or quality of forage available 
+(i.e., range condition). As discussed earlier, the potential impact of various grazing systems 
+on range condition, and subsequently on livestock production, is a question that has not 
+been critically addressed (Gammon 1978; Malechek 1984; Hart and Norton 1988; 
+Holechek et al. 1989). We question, however, the value of addressing this issue on a broad 
+scale because desired condition varies depending upon management goals. Moreover, 
+because of regional differences in abiotic conditions and functional differences between 
+grazing systems, no one grazing system is universally the best. Optimal length and 
+sequential scheduling of graze-rest periods vary as a function of the interaction effects of 
+abiotic and biotic factors on plant growth (see Chapter 4) and successional processes 
+(see Chapter 5). Of major importance is the temporal precipitation pattern in a region 
+because the benefits derived from rest or deferment, in terms of range improvement, are 
+greatest during periods of ample rainfall. To improve the probability of encountering 
+favorable growing conditions during a period of deferment, length of rest must be 
+lengthened with increasing aridity. Thus, RR and HILF systems are designed 
+characteristically for regions having extended periods of drought, such as desert grasslands, 
+whereas DR and SD type systems are designed for areas where extended periods of drought 
+are uncommon, such as temperate grasslands. As a result, universal conclusions as to the 
+relative merits of various grazing systems, based on data from a wide array of studies 
+conducted across a broad array of regions, are inappropriate and of little practical value. 
+Assumption #4 is made to eliminate the impact that varying levels of management skill can 
+have on livestock production in any given system. Certainly, the greater the livestock GP 
+(Figure 7.5) the greater the precision of judgment necessary to attain satisfactory levels of 
+livestock production (Gammon 1978). 
+Assumption #5 is made because of potential differences among grazing systems in their 
+impact on livestock behavior. For example, there is little doubt that the probability of a 
+grazing system affecting offspring survivability is greater in SD than any other type of 
+system because of interference with the "mothering" process of breeding animals as a result 
+of frequent rotation. 
+In light of these assumptions and a basic understanding of the potential effects of livestock 
+GP on individual animal performance (HPG and HUG tactics), we believe Figure 7.7 
+approximates the short-term impacts of DR, RR, HILF, and SD type grazing systems on 
+livestock production at various rates of stocking. We believe generally that critical rates of 
+stocking (Hart 1978) will decrease in direct proportion to the manner in which each system 
+affects livestock GP (DR<RR<HILF) and/or energy expenditures (SD>others). In theory, 
+there is little reason to assume that high livestock GP will decrease individual animal 
+performance in an SD type system if rate of rotation is proper (Assumption #4). However, 
+previous research in SD type systems (Walker and Heitschmidt 1989) has shown that as 
+rate of rotation is accelerated, time spent trailing and distance walked increase, which leads 
+us to believe the lowest critical rate of stocking will most often be in SD type systems. 
+We also suggest that individual animal performance will be less in DR, RR, and HILF type 
+systems than under continuous grazing, at all rates of stocking in excess of the critical rate. 
+Depicted relative differences between these systems at any given stocking rate are based on 
+how frequently we suspect restrictive performance levels will be encountered as a result of 
+increased livestock GP. 
+The slower rate of decline in individual animal performance in the SD systems as rate of 
+stocking is increased reflects the potential interaction effect that frequency and/or intensity 
+of encounter of high livestock GP events may have on livestock performance. This 
+hypothesis centers around the assumption that frequent encounters of high livestock GP 
+events of short duration are cumulatively less restrictive to animal performance than 
+infrequent encounters of long duration (see Chapter 2). In other words, how forage is 
+rationed in situations where livestock GP is high can affect individual animal performance. 
+Although we know of no data in direct support of this hypothesis, we believe such is the 
+case based strictly on our personal experiences and observations (Taylor 1989; Heitschmidt 
+et al. 1990). 
+This generalization does not support, however, the claim that sustainable rates of stocking 
+in SD type systems are well above those under continuous grazing in year- long grazing 
+environments. This matter is currently the subject of lively debate throughout the world 
+(Savory and Parsons 1980; Heitschmidt and Walker 1982; Gammon 1984; Skoviin 1987; 
+Pieper and Heitschmidt 1988; Bryant et al. 1989; Taylor 1989), but the argument has little 
+merit unless it is assumed that SD type grazing systems consistently enhance rate of forage 
+production between grazing events. Although this is an exciting and attractive hypothesis 
+and probably true in certain situations (McNaughton 1978; Detling 1988; Heitschmidt 
+1990), it is also a well- researched, refuted hypothesis (see Chapter 1) relative to the 
+general effects of grazing on plant growth in multi-species, arid, and semi-arid rangelands 
+(Beisky 1986), and particularly in SD type grazing systems (Heitschmidt et al. 1987a, 
+1987c). 
+Based on the above generalization, it is easy to see why the results from various grazing 
+system studies are relevant only when examined within the designed objectives of the 
+study. Universal conclusions as to the relative merits of any particular grazing system are 
+generally of limited value and inappropriate. An understanding of the functional aspects of 
+various grazing systems suggests, however, that perhaps the major benefit derived from the 
+employment of a grazing system is directlv related to the forced use of moderate rates of 
+stocking. Moreover, it seems reasonable to assume that the use of a mix of various grazing 
+systems, in conjunction with continuous grazing, may be more appropriate for achieving 
+management goals rather than the continuous use of any single system strategy (Walker et 
+al. 1986a). 
+Conclusions 
+Livestock production is an integrated measure of energy capture, harvest, and conversion 
+efficiencies. The principal factor affecting livestock production is grazing pressure (GP), 
+which varies as a function of both abiotic and biotic factors. The principal abiotic factors 
+are climate and the inherent productivity potential of a site. The principal biotic factor is 
+grazing intensity, which varies as a function of the temporal and spatial distribution of 
+various kinds and numbers of grazing animals. Grazing systems are management tools 
+designed to enhance and stabilize livestock production over time. They are designed firstly 
+to enhance efficiency of solar energy capture as evidenced by the universal incorporation of 
+a period of deferment in the design of all grazing systems. The nutritional needs of 
+livestock are necessarily of secondary consideration in the design of all grazing systems, 
+the effects of which are mediated through the use of conservative rates of stocking. 
+Research has shown that the on- going effects of various grazing systems on livestock 
+production vary widely over time and space. As a result, no grazing system has been shown 
+to be universally superior to any other in terms of its ability to enhance livestock 
+production. 
+ 

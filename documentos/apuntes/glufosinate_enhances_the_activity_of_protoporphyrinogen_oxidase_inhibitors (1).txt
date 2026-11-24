@@ -1,0 +1,873 @@
+=== Fuente: glufosinate_enhances_the_activity_of_protoporphyrinogen_oxidase_inhibitors (1).pdf ===
+
+Weed Science
+www.cambridge.org/wsc
+Research Article
+Cite this article: Takano HK, Beffa R, Preston C,
+Westra P, Dayan FE (2020) Glufosinate
+enhances the activity of protoporphyrinogen
+oxidase inhibitors. Weed Sci. 68: 324–332.
+doi: 10.1017/wsc.2020.39
+Received: 18 March 2020
+Revised: 3 May 2020
+Accepted: 6 May 2020
+First published online: 12 May 2020
+Associate Editor:
+Vijay Nandula, USDA–ARS
+Keywords:
+Chlorophyll biosynthesis; fluxomics; herbicide
+synergism; isobole; protoporphyrin; reactive
+oxygen species; tank mixture
+Author for correspondence:
+Franck E. Dayan, Colorado State University,
+Department of Agricultural Biology, 1177
+Campus Delivery, Fort Collins, CO 80523.
+Email: franck.dayan@colostate.edu
+© Weed Science Society of America, 2020. This
+is an Open Access article, distributed under the
+terms of the Creative Commons Attribution
+licence (http://creativecommons.org/licenses/
+by/4.0/), which permits unrestricted re-use,
+distribution, and reproduction in any medium,
+provided the original work is properly cited.
+Glufosinate enhances the activity of
+protoporphyrinogen oxidase inhibitors
+Hudson K Takano1 , Roland Beffa2 , Christopher Preston3 , Philip Westra4
+and Franck E Dayan4
+1Postdoctoral Fellow, Department of Agricultural Biology, Colorado State University, Fort Collins, CO, USA; 2Team
+Leader Weed Resistance Research, Weed Resistance Research Centre, Bayer AG, Industriepark Hoechst, Frankfurt,
+Germany; 3Associate Professor, School of Agriculture, Food and Wine, University of Adelaide, Adelaide, South
+Australia, Australia and 4Professor, Department of Agricultural Biology, Colorado State University, Fort Collins, CO, USA
+Abstract
+Glufosinate inhibits glutamine synthetase (GS), a key enzyme for amino acid metabolism and
+photorespiration. Protoporphyrinogen oxidase (PPO) inhibitors block chlorophyll biosynthesis
+and cause protoporphyrin accumulation, a highly photodynamic intermediate. Both herbicides
+ultimately lead to plant death by a massive accumulation of reactive oxygen species (ROS)
+through different mechanisms. We investigated a potential synergistic effect by the mixture
+of the two herbicide mechanisms of action (MoAs). The tank mix between a low rate of
+glufosinate (280 g ai ha−1) with an ultra-low dose of saflufenacil (1 g ha−1) provided enhanced
+herbicidal activity compared with the products applied individually on Palmer amaranth
+(Amaranthus palmeri S. Watson). The synergism between the two herbicides was also
+confirmed by isobole analysis and field trials. The herbicide combination provided high levels
+of efficacy when applied at low temperature and low humidity. Mechanistically, glufosinate
+caused a transient accumulation of glutamate, the building block for chlorophyll biosynthesis.
+Consequently, inhibition of both GS and PPO resulted in greater accumulation of protopor-
+phyrin and ROS, forming the physiological basis for the synergism between glufosinate and
+PPO inhibitors. While the synergy between the two herbicide MoAs provided excellent efficacy
+on weeds, it caused low injury to PPO-resistant waterhemp [Amaranthus tuberculatus (Moq.)
+Sauer] and high injury to both glufosinate-resistant and glufosinate-susceptible soybean
+[Glycine max (L.) Merr.]. Glufosinate enhances the activity of PPO inhibitors through
+glutamate and protoporphyrin accumulation, leading to increased levels of ROS and lipid
+peroxidation. The synergism between the two herbicide MoAs can help to overcome environ-
+mental effects limiting the efficacy of glufosinate. Future research is needed to optimize the uses
+for this herbicidal composition across different cropping systems.
+Introduction
+Glufosinate is sold commercially as a racemic mixture of D-andL-phosphinothricin but only the
+L-isomer has herbicidal activity (Beriault et al. 1999). Glufosinate-resistant crops (Liberty Link®)
+are genetically engineered for phosphinothricin acetyltransferase (pat) expression to metabolize
+L-phosphinothricin into N-acetyl-L-phosphinothricin, a nonphytotoxic compound (Dröge et al.
+1992). To date, there have been only five cases of evolved glufosinate resistance in the world: goose-
+grass [Eleusine indica (L.) Gaertn.] from Malaysia, rigid ryegrass (Lolium rigidum Gaudin) from
+Greece, perennial ryegrass [Lolium perenne L. ssp. multiflorum (Lam.) Husnot] from
+New Zealand, L. perenne ssp. multiflorum from Oregon (USA), and L. perenne ssp. multiflorum
+from California (USA) (Brunharo et al. 2019; Ghanizadeh et al. 2015; Jalaludin et al. 2010;Karn
+et al. 2018; Travlos et al. 2018). Although glufosinate is an alternative tool to manage multiple
+herbicide-resistant weeds, it does not translocate well in plants, and weed efficacy is greatly affected
+by environmental conditions (low light, temperature, and humidity) and plant size (Coetzer et al.
+2001; Sellers et al. 2003; Steckel et al. 1997). Glufosinate is a fast-acting and broad-spectrum
+herbicide targeting glutamine synthetase (GS), a key enzyme for amino acid metabolism and
+photorespiration in plants (Bayer et al. 1972;Oliveiraetal.2002). GS catalyzes the incorporation
+of ammonia into glutamate to form glutamine (Bernard and Habash 2009). Glufosinate inhibits
+GS competing with glutamate for the active site. While GS inhibition leads to ammonia accumu-
+lation and changes in amino acid levels, the rapid phytotoxicity results from a massive light-
+dependent generation of reactive oxygen species (ROS) (Takano et al. 2019, 2020a).
+Fluxomics refers to small molecule fluxes and networks across different metabolic pathways
+in systems biology of living cells (Winter and Krömer 2013). Glutamate is an interesting exam-
+ple to study fluxomics, because it occupies a central position in amino acid metabolism. In addi-
+tion to its role as a substrate for GS, glutamate is also a precursor for proline, arginine,
+and chlorophyll biosynthesis (Forde and Lea 2007). Protoporphyrinogen oxidase (PPO) is
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.39
+Downloaded from https://www.cambridge.org/core. IP address: 181.230.251.244, on 20 Oct 2020 at 01:20:10, subject to the Cambridge Core terms of use, available at
+an important enzyme for the chlorophyll pathway, catalyzing the
+conversion of protoporphyrinogen (protogen) into protopor-
+phyrin (proto) (Lermontova et al. 1997). When PPO is inhibited,
+protogen leaks out of the chloroplast where the reaction takes
+place. In the cytoplasm, protogen is converted into proto.
+Therefore, inhibition of PPO leads to accumulation of proto, the
+product of the reaction (Lee et al. 1993; Matringe et al. 1989).
+Herbicides targeting PPO are also fast acting because proto gener-
+ates ROS in the presence of light, causing lipid peroxidation
+(Dayan et al. 2019b). Resistance to PPO inhibitors has been
+reported in 13 species around the world (Heap 2020). In a PPO-
+resistant waterhemp [Amaranthus tuberculatus (Moq.) Sauer]
+population, a codon deletion (ΔG210) affected herbicide binding
+to the active site and provided high levels of resistance to lactofen
+(Dayan et al. 2010; Patzoldt et al. 2006).
+Herbicide mixtures are commonly used in agriculture to
+improve efficacy, increase the spectrum of weed control, and mit-
+igate herbicide resistance (Busi et al. 2019; Zhang et al. 1995). The
+combination between two herbicides is synergistic when the com-
+bined effect is larger than predicted (Sørensen et al. 2007). The fact
+that glutamate is the precursor for both glutamine and chlorophyll
+biosynthesis suggests that inhibiting these two pathways at once
+could lead to catastrophic consequences in plants. We used a fluxo-
+mics approach to investigate the fate of glutamate under GS and
+PPO inhibition. Our hypothesis was that glutamate is diverted
+to the chlorophyll biosynthesis pathway following GS inhibition.
+If this is true, glufosinate could enhance the activity of PPO inhib-
+itors by diverting the carbon flow toward proto accumulation in
+the chlorophyll pathway. Thus, we investigated the interaction
+between glufosinate and PPO inhibitors, along with the physiologi-
+cal basis for the synergistic effect observed with the herbicide
+combination.
+Material and Methods
+Chemical Sources
+Glufosinate commercial formulation (Liberty® 280 g L−1) and ana-
+lytical D, L-glufosinate were provided by Bayer CropScience
+(Frankfurt, Germany). The PPO inhibitors were purchased from
+their respective manufacturers: saflufenacil (Sharpen® 297 g L−1,
+BASF, Raleigh, NC, USA), flumioxazin (Valor® 510 g kg−1,Valent,
+Walnut Creek, CA, USA), lactofen (Cobra® 240 g L−1,Valent),fome-
+safen (Reflex® 228 g L−1, Syngenta, Greensboro, NC, USA), pyraflu-
+fen (Venue® 20 g L−1, Nichino, Wilmington, DE, USA). Analytical
+L-amino acids, proto, nitro blue tetrazolium chloride (NBT), potas-
+sium phosphate monobasic, sodium azide, 3,3 0-diaminobenzidine
+(DAB) were purchased from Sigma-Aldrich (St Louis, MO, USA)
+or Fisher Scientific (Waltham, MA, USA).
+Plant Growth and Spraying Conditions
+Seeds of Palmer amaranth (Amaranthus palmeri S. Watson) were
+collected in eastern Colorado, and plants were susceptible to both
+glufosinate and PPO inhibitors. All plant species were grown in
+0.3-cm3 pots filled with soil (Sun Gro Horticulture, Agawam,
+MA, USA). Greenhouse conditions were 25/21 C day/night,
+16-h photoperiod with light intensity of 500 μmol m−2 s−1 and
+70% relative humidity (RH). For herbicide applications, a commer-
+cial chamber track sprayer (DeVries Manufacturing, Hollandale,
+MN, USA) equipped with an 8002EVS single even, flat-fan nozzle
+(TeeJet®, Spraying Systems, Denver, CO, USA) calibrated to deliver
+187 L ha−1 spray solution at the level of the plant canopy was used.
+Levels of Amino Acids and Glufosinate
+Plants of A. palmeri (6-leaf stage) were sprayed with 560 g ha−1
+glufosinate plus 20 g L−1 ammonium sulfate (AMS). Untreated
+plants were sprayed with AMS only, and samples were collected
+at 24 h after treatment (HAT). Leaf tissue (200 mg) was ground
+in liquid nitrogen with a mortar and pestle. The powder was
+homogenized with 10 ml methanol-water (75:25 [v/v]) and incu-
+bated in ultrasonic bath for 30 min before being centrifuged at
+4,000 × g for 10 min. The supernatant (1.5 ml) was filtered through
+a 0.2 μm nylon filter into an UHPLC vial, and 1 μl was injected for
+liquid chromatography–tandem mass spectrometry (LC-MS/MS)
+analysis (Shimadzu Scientific, Columbia, MD, USA).
+The LC–MS/MS system consisted of a Nexera X2 UPLC with
+2 LC-30 AD pumps, an SIL-30 AC MP autosampler, a
+DGU-20A5 Prominence degasser, a CTO-30A column oven,
+and an SPD-M30A diode array detector coupled to an 8040-quad-
+rupole mass spectrometer. Metabolites were separated on an
+iHILIC-Fusion column (100 by 2.1 mm, 3.5 μm; silica, Hilicon,
+Tampa, FL, USA) at a flow rate of 0.2 ml min−1 using a linear gra-
+dient of acetonitrile (B) and 25 mM ammonium acetate (A): 2 min,
+80% B; 8 min, 30% B; 12 min, 30% B; 12.1 min, 80% B. The multiple
+reaction monitoring (MRM) values were optimized to 181.95 >
+136.05, 147.95 >130.10, 147.10 > 130.00, 106.10 > 60.10, 116.15
+> 70.15, and 175.00 > 70.10 for glufosinate, glutamate, glutamine,
+serine, proline, and arginine, respectively. These MRMs were used
+to identify and quantify each amino acid based on standard curves
+generated with serial dilutions of authentic standards.
+Isobole Analysis
+Dose–response experiments were conducted for both the herbi-
+cides glufosinate and saflufenacil to estimate the dose for 50%
+reduction in dry shoot biomass (ED50). The doses were 0, 9, 17,
+35, 70, 140, 280, and 560 g ha−1 for glufosinate and 0, 0.5, 1, 2,
+4, 8, 16, and 32 g ha−1 for saflufenacil. Each treatment had three
+replications, and the same experiment was conducted twice. The
+variable response was shoot dry biomass (percentage relative to
+untreated plants at 21 d after treatment [DAT]). An isobole shows
+dose combinations of two herbicides providing the same effect. For
+example, if x gha−1 of glufosinate or y gha−1 of saflufenacil indi-
+vidually provided 50% injury, then 1/2x glufosinate þ 1/2y saflu-
+fenacil should also provide 50% injury. However, if the effect was
+synergistic or antagonistic, the output should be different than 50%
+injury. We tested five dose responses with different mixture ratios
+(Table 1) that were chosen based on the ED50 values obtained with
+Table 1. Proportion of glufosinate and saflufenacil doses used for the isobole
+analysis.a
+Proportion of each herbicide
+0% A 25% A 50% A 75% A 100% A
+gaiha−1
+Glufosinate (A) 0 100 200 300 400
+Saflufenacil (B) 20 14.4 9.6 4.8 0
+8X (A þ B) 20 114.4 209.6 304.8 400
+4X 10 57.2 104.8 152.4 200
+2X 5 28.6 52.4 76.2 100
+1X (ED50) 2.5 14.3 26.2 38.1 50
+1/2X 1.25 7.15 13.1 19.05 25
+1/4X 0.625 3.575 6.55 9.525 12.5
+1/8X 0.3125 1.7875 3.275 4.7625 6.25
+a Five different dose–response curves were obtained with different herbicide mixture
+combinations. X = estimated dose for 50% reduction in dry weight (ED50).
+Weed Science 325
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.39
+Downloaded from https://www.cambridge.org/core. IP address: 181.230.251.244, on 20 Oct 2020 at 01:20:10, subject to the Cambridge Core terms of use, available at
+the two herbicides tested individually. Then, the proportion of each
+herbicide required to achieve the ED50 was plotted in a scatter
+graph. An extension of the additive model was used to explain
+the interaction between the two herbicides and predict the shape
+of the isobole (Sørensen et al. 2007). If the shape is linear, the mix-
+ture effect is additive. If the curve is convex, the two herbicides are
+antagonistic to each other. Finally, a concave shape indicates that
+the mixture is synergistic (Streibig et al. 1998).
+Response of Protoporphyrinogen Oxidase–Resistant
+Amaranthus tuberculatus and Glufosinate-Resistant Soybean
+to Glufosinate and PPO Inhibitors
+To investigate whether glufosinate enhances PPO inhibitors or
+PPO inhibitors enhance glufosinate, we tested a PPO-resistant
+A. tuberculatus biotype and a glufosinate-resistant soybean variety
+(‘S120090’, Liberty LinkTM, Pioneer, IA, USA). The resistance
+mechanism in the PPO-resistant A. tuberculatus biotype had been
+previously described as a codon deletion in PPO2 (ΔG210), pro-
+viding 23-fold resistance to lactofen, and the seeds were collected
+in Adams County, IL (Dayan et al. 2010; Patzoldt et al. 2006).
+A glufosinate-susceptible soybean variety (‘P0007A43R’, Pioneer,
+IA, USA) and a PPO-susceptible A. tuberculatus biotype from
+Nebraska were also included for comparison. Plants were grown
+as described earlier and 6-leaf-stage plants were sprayed with half
+the rate of glufosinate (280 g ha−1), low dose (<5% field rate)
+of PPO inhibitor (lactofen at 5 g ha−1 for A. tuberculatus, and
+saflufenacil at 1 g ha−1 for soybean), or the tank mixture of the
+two herbicides for each plant species. Lactofen was tested on
+A. tuberculatus, because the resistance level was higher for this her-
+bicide compared with saflufenacil. Three replicates were evaluated,
+and the experiments were conducted twice. Response variables
+were visual injury (scale 0 to 100, where 0 means no effect and
+100 implies plant death), ROS accumulation, and proto levels
+for A. tuberculatus; and visual injury, proto levels, and glufosinate
+and glutamate concentration for soybean. Glufosinate and
+glutamate were quantified over time up to 24 HAT, whereas other
+variables were evaluated at 12 HAT only.
+Hydrogen peroxide (H2O2) and superoxide (O2−) were mea-
+sured by staining leaf disks in solutions containing DAB and
+NBT, respectively. The DAB solution contained 0.1 g DAB solubil-
+ized in 200 ml water at pH 3.8. The NBT solution was composed of
+0.1 g NBT, 13.6 g potassium phosphate monobasic, and 1.3 g
+sodium azide in 200 ml water. Sixteen leaf disks (5-mm diameter)
+from each treatment were placed in 20-ml glass tubes containing
+each staining solution. The samples were then shaken under 67 kPa
+vacuum for 1 h. Leaf disks were washed in distilled water and boiled
+in 70% (v/v) ethanol, which was replaced every 20 min for four cycles.
+Leaf disks were stored in 70% (v/v) ethanol for 12 h and scanned
+(Brother DCP-L2550DW, Bridgewater, NJ, USA). The levels
+of H2O2 or O2− were quantified using CS3 Photoshop (Adobe
+Systems, San Jose, CA, USA) by measuring the color intensity in each
+leaf disk and removing background levels (Dayan et al. 2019a;
+Mendes et al. 2020; Takano et al. 2019). Data were represented
+as relative intensity of treated samples compared with untreated
+samples (treated intensity − untreated intensity).
+Glufosinate and glutamate were extracted and quantified as
+previously described. Proto extraction and analysis followed a pro-
+tocol described elsewhere (Dayan et al. 2015). Leaf tissue (0.2 g)
+was ground to a powder in liquid nitrogen and homogenized in
+2mlmethanol:0.1MNH4OH (9:1) and centrifuged at 10,000 × g
+for 15 min. The supernatant was saved and the pellet rehomogenized
+in 1 ml methanol:0.1M NH4OH (9:1), then centrifuged again at
+10,000 × g for 15 min. Supernatants were pooled and then filtered
+through a 0.25-μm nylon syringe membrane filter before quantifica-
+tion with the LC-MS/MS system described earlier. Metabolites were
+separated in a biphenyl column (100 by 4.6 mm, 2.6 μm, 40 C) at a
+flow rate of 0.4 ml min−1 using a linear gradient of methanol (B) and
+10 mM ammonium acetate (A): 0 min, 50% B; 8 min, 70% B; 11 min,
+90% B; 13 min, 90% B; 13.5 min, 50% B; 17 min, 50% B. The MRM
+was optimized to 340.10 > 227.95 (Moulin et al. 2008). Standard
+curves generated with serial dilutions of authentic standards were
+used for quantification.
+Field Performance of Glufosinate + PPO Inhibitors on
+Kochia (Bassia scoparia)
+Two separate experiments were conducted to evaluate the burn-
+down effect in the field (Fort Collins, CO, 40.64°N, 104.99°W)
+between May 10 and June 20 of 2018 and 2019. Plants of kochia
+[Bassia scoparia (L.) A.J. Scott] were 15-cm tall in both years,
+and weed densities were 11 and 8 plants m−2 in 2018 and 2019,
+respectively. Weed density was assessed by randomly counting
+the number of plants in 1 m2 within each plot before herbicide
+application. The soil type was Satanta loam (fine-loamy, mixed,
+superactive, mesic Aridic Argiustolls) with 3.5% organic matter
+and 7.5 pH in the top 20 cm. Plots were 3-m wide and 7-m
+long with the central 18 m2 used for evaluations. Glufosinate
+(420 g ha−1) was applied alone or in tank mix with different
+PPO inhibitors (g ha−1): flumioxazin (2.5), saflufenacil (1),
+pyraflufen-ethyl (0.2), lactofen (4.2), and fomesafen (7.1).
+Methylated soybean oil (0.5% [v/v]) was added to all treatments,
+which were sprayed using a CO2-pressured backpack sprayer
+attached to a boom equipped with six flat spray nozzles (TeeJet®,
+Louisville, KY, USA) spaced 0.5 m from each other. Pressure
+was maintained at 25 kPa and speed at 3.2 km h−1,providing
+160 L ha−1 spray volume. Visual injury (%) was visually graded at
+21 DAT using a scale where 0 means no symptoms and 100 means
+death of all plants (Frans 1986).
+Efficacy of Glufosinate + Saflufenacil under Low
+Temperature and Humidity
+Plants of A. palmeri at the 6-leaf stage were incubated under
+either 25 C and 70% RH or 13 C and 30% RH for 24 h. Plants were
+sprayed with glufosinate (280 g ha−1), saflufenacil (1 g ha−1),
+or glufosinate þ saflufenacil (280 þ 1gha−1) and immediately
+returned to their respective environmental conditions. Visual
+injury was evaluated at 14 DAT using the same method previously
+described.
+Data Analysis
+All experiments were repeated in time. Graphs were created using
+Prism software (GraphPad v. 8.3.1, San Diego, CA, USA).
+Statistical analysis was performed with R software (R Studio v.
+3.6.1, Vienna, Austria). A four-parameter log-logistic regression
+was fit for the dose–response experiments considering the good-
+ness-of-fit values and the fact that it is by far the most used model
+for this type of data set (Ritz and Streibig 2014). Data normality
+and homogeneity of variance were checked by Q-Q plots and resid-
+uals versus fitted values, respectively. Treatments were considered
+fixed effects, and greenhouse experiments were conducted in a
+complete randomized design, while field experiments were con-
+ducted in a randomized complete block design. Differences
+326 Takano et al.: Glufosinate þ PPO inhibitors
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.39
+Downloaded from https://www.cambridge.org/core. IP address: 181.230.251.244, on 20 Oct 2020 at 01:20:10, subject to the Cambridge Core terms of use, available at
+between the two treatments were compared by t-test (P < 0.05).
+Data from experiments with more than two treatments were
+subjected to ANOVA, and means were compared using Tukey’s
+test (P < 0.05). The isobole analysis was performed based on
+previous literature (Sørensen et al. 2007; Streibig et al. 1998).
+Results and Discussion
+Amino Acid Levels
+Inhibition of GS by glufosinate depleted the levels of glutamine
+and glutamate, but increased proline and arginine at 24 HAT
+(Figure 1A). In most biochemical reactions, when the enzyme
+is inhibited, the substrate tends to accumulate, whereas the
+product is normally depleted. For instance, glyphosate inhibition
+of 5-enolpyruvylshikimate-3-phosphate synthase leads to the
+accumulation on shikimate to high levels (Shaner et al. 2005).
+Thus, glutamine levels are expected to decrease and glutamate
+to accumulate following glufosinate treatment. Instead, both glu-
+tamate and glutamine were depleted at 24 HAT. However, when
+glutamate levels were tracked over time after glufosinate treatment,
+a transient accumulation was observed (Figure 1B). Up to 3 HAT,
+glutamate levels were significantly higher in treated plants
+compared with the untreated plants. Therefore, glufosinate indu-
+ces a transient accumulation of glutamate in A. palmeri.
+Isobole Analysis
+The ED50 values for glufosinate and saflufenacil in A. palmeri were
+50 and 2.5 g ha−1, respectively (Figure 2A and B). These doses were
+used in the isobole analysis to evaluate the interaction between
+these two herbicides (Figure 2C; Supplementary Figure S1).
+Lower ED50 values were obtained with the mixture compared
+with the herbicides used individually. This means that lower
+mixture doses were required to provide the same effect of the
+two herbicides individually. The concave shape of the isobole
+indicates strong synergism between glufosinate and saflufenacil.
+In addition to A. palmeri, we also tested the effect of glufosinate
+and PPO inhibitors (individually or in combination) on
+A. tuberculatus, B. scoparia, L rigidum, johnsongrass [Sorghum
+halepense (L.) Pers.], and junglerice [Echinochloa colona (L.)
+Link] (Supplementary Figures S2 and S3). In general, the enhanced
+activity with the mixture was more evident for broadleaf than grass
+species.
+Effect of Glufosinate + Lactofen on Amaranthus tuberculatus
+resistant to PPO Inhibitors
+Half-rate of glufosinate (280 g ha−1) provided 20% injury on both
+PPO-susceptible and PPO-resistant A. tuberculatus at 12 HAT
+(Figure 3A–C). An ultra-low dose of lactofen (5 g ha−1) caused less
+than 5% injury on both biotypes. Conversely, the herbicide mixture
+provided 94% injury to the susceptible biotype, but only 20% injury
+to the resistant one. These results were consistent with the accumu-
+lation of ROS (Figure 3D). H2O2 and O2− accumulated to high lev-
+els in the susceptible biotype treated with glufosinate þ lactofen.
+Low levels of these free radicals were observed in both biotypes
+after glufosinate treatment, similar to the effect of the herbicide
+mixture on the PPO-resistant biotype. In contrast, proto levels
+increased up to 19 nmol g−1 in the susceptible biotype treated
+with glufosinate þ lactofen. Small quantities (<1 nmol g−1) were
+detected in the PPO-susceptible biotype treated with lactofen
+alone and in the PPO-resistant biotype treated with the herbicide
+mixture. Proto did not accumulate in either biotype treated
+with glufosinate. These results suggest that glufosinate enhances
+lactofen activity by increasing the accumulation of proto.
+Complementary data obtained with A. palmeri corroborated these
+findings (Supplementary Figure S2).
+Effect of Glufosinate + Saflufenacil on Glufosinate-Resistant
+Soybean
+Glufosinate (280 g ha−1) significantly caused more injury to glufo-
+sinate-susceptible (37%) than glufosinate-resistant (5%) soybean
+(Figure 4A). A very low dose of saflufenacil (1 g ha−1) provided less
+than 3% injury to both soybean varieties. The combination
+between these two herbicides, however, caused high levels of injury
+to glufosinate-resistant (68%) and even more to glufosinate-
+susceptible (82%) soybean. These injury levels provided by saflu-
+fenacil alone or in combination with glufosinate are consistent
+with proto accumulation (Figure 4B). Proto levels were very low
+(<0.5 nmol g−1) in plants treated with saflufenacil only. The addi-
+tion of glufosinate to saflufenacil enhanced proto accumulation in
+both varieties, especially for the glufosinate-susceptible soybean.
+Glufosinate levels increased over time in the glufosinate-
+susceptible soybean following treatment (Figure 4C). In contrast,
+glufosinate-resistant soybean had increased glufosinate levels until
+4 HAT and levels decreased after that, due to the metabolism into
+N-acetyl-L-phosphinothricin by the acetyltransferase activity. This
+spike in glufosinate levels at 4 HAT was likely enough to cause
+some GS inhibition and a transient accumulation of glutamate
+even for glufosinate-resistant soybean (Figure 4D). Glutamate
+levels significantly increased (2- to 3-fold) after glufosinate treatment
+in soybean. These results support the hypothesis that glufosinate
+synergizes PPO inhibitors by increasing the levels of glutamate,
+which is diverted into the accumulation of proto in the chlorophyll
+biosynthesis pathway.
+Field Performance of Glufosinate + PPO Inhibitors on Bassia
+scoparia
+Glufosinate (420 g ha−1) provided 25% injury on B. scoparia
+(Figure 5). Most of the PPO inhibitors (except flumioxazin)
+applied in low doses caused similar levels of injury compared with
+GlutamineGlutamateProlineArginine
+0
+10
+20
+30
+40
+Leaf concentration (µg g–1)
+untreated glufosinate
+*
+*
+*
+*
+(a)
+024681012
+0
+10
+20
+30
+40
+50
+Time after treatment (h)
+Glutamate (µg g–1)
+(b) glufosinateuntreated
+*
+*
+* *
+Figure 1. Glufosinate reshapes the levels of amino acids in Amaranthus
+palmeri. Levels of glutamine, glutamate, proline, and arginine in untreated (gray)
+and glufosinate-treated (blue) plants at 24 h after treatment (A). Levels of glutamate
+over time in untreated (gray) and glufosinate-treated (blue) plants (B). Asterisks (*)
+indicate means are significantly different by t-test (P < 0.05) between untreated
+and glufosinate-treated within each amino acid or time point. Error bars represent
+the standard deviations of the means.
+Weed Science 327
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.39
+Downloaded from https://www.cambridge.org/core. IP address: 181.230.251.244, on 20 Oct 2020 at 01:20:10, subject to the Cambridge Core terms of use, available at
+glufosinate alone, with no statistical differences (P < 0.05) among
+them. The addition of any PPO inhibitor to glufosinate signifi-
+cantly increased injury levels compared with glufosinate only.
+Glufosinate þ saflufenacil provided the highest levels of injury
+on B. scoparia but did not differ from glufosinate þ pyraflufen.
+These results support our findings obtained in the greenhouse
+and in the lab, demonstrating the enhanced activity with glufosi-
+nate þ PPO inhibitors compared with the two herbicides applied
+individually.
+Saflufenacil Alleviates the Lack of Efficacy by Glufosinate
+under Low Temperature and Low Humidity
+Both glufosinate (280 g ha−1) and glufosinate þ saflufenacil (280 þ
+1gha−1) provided 100% injury to A. palmeri under 25 C and 70%
+RH (Figure 6A) at 14 DAT. Glufosinate efficacy decreased to 60%
+under 13 C and 30% humidity. Less than 10% injury was obtained
+with saflufenacil under both conditions. The combination between
+glufosinate and saflufenacil, however, still provided 100% injury,
+even under low temperature and low relative humidity. These
+results suggest that a low dose of saflufenacil can help to overcome
+the negative effect of low temperature and humidity on glufosinate
+efficacy.
+In the light of an increased number of multiple herbicide–
+resistant weeds, enhancing the efficacy of alternative tools like
+glufosinate is needed. Glufosinate performance can vary in the
+field, because it does not translocate well in plants (Beriault
+et al. 1999; Everman et al. 2009; Kumaratilake et al. 2002;
+Takano et al. 2020b). Thus, we took a biochemical approach to
+enhance the activity of glufosinate. Both glufosinate and PPO
+inhibitors are fast-acting herbicides due to the accumulation of
+ROS and therefore could enhance each other’s activity. The isobole
+analysis confirmed our hypothesis that the mixture glufosinate þ
+saflufenacil is synergistic and stronger for glufosinate enhancing
+PPO inhibitor than PPO inhibitor enhancing glufosinate
+(Figure 2C). PPO inhibitors target chlorophyll biosynthesis by
++ lact
+0
+25
+50
+75
+100
+Visual injury (%)
+PPO-Resistant
+PPO-Susceptible
+(c)
+*
+*
++ lact
+0
+150000
+300000
+450000
+600000
+ROS (H2O2+O2–) PPO-Resistant
+PPO-Susceptible
+(d)
+*
+Control Gluf Lact Gluf Control Gluf Lact Gluf Control Gluf Lact Gluf 
++ lact
+0
+5
+10
+15
+20
+25Protoporphyrin (nmol g–1)
+PPO-Resistant
+PPO-Susceptible
+(e)
+*
+*
+Figure 3. Glufosinate enhances the activity of protoporphyrinogen oxidase (PPO) inhibitors, but the mixture is not effective on PPO-resistant Amaranthus tuberculatus. Response
+of PPO-susceptible (A) and PPO-resistant (B) A. tuberculatus to glufosinate (Gluf) and lactofen (Lact). Visual injury (C), reactive oxygen species (ROS) (D), and protoporphyrin
+(E) in PPO-susceptible (gray) and PPO-resistant (blue) A. tuberculatus following herbicide treatments. Asterisks (*) indicate means are significantly different by t-test
+(P < 0.05) between biotypes within each treatment. Error bars represent the standard deviations of the means.
+Figure 2. Enhanced herbicidal activity with glufosinate and saflufenacil. Dose response for glufosinate (A) and saflufenacil (B) in Amaranthus palmeri. Isobole analysis for the
+combination between the two herbicides in different proportions (C). The graph shows the proportion of each herbicide to achieve 50% reduction in dry biomass (ED50). If no
+synergism had been observed for the two compounds, data points were expected to fall into the red dashed line (additive effect). The concave shape of the isobole curve indicates
+high levels of synergism between the two herbicides. Error bars represent the standard deviations of the means.
+328 Takano et al.: Glufosinate þ PPO inhibitors
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.39
+Downloaded from https://www.cambridge.org/core. IP address: 181.230.251.244, on 20 Oct 2020 at 01:20:10, subject to the Cambridge Core terms of use, available at
+inhibiting PPO, a key enzyme in the pathway (Figure 7). Inhibition
+of PPO leads to proto accumulation, the product of the reaction
+catalyzed by the enzyme (Duke et al. 1991). The accumulation
+of proto is toxic, because it can absorb light energy and transfer
+to molecular oxygen, generating ROS and causing lipid peroxida-
+tion followed by cell death (Dayan et al. 2019b).
+The biochemical basis for the synergism observed with
+glufosinate þ saflufenacil relies on a change in glutamate flux
+by glufosinate, driving this amino acid toward chlorophyll synthe-
+sis, resulting in enhanced accumulation of proto with the addition
+of the PPO inhibitor (Figure 7). The synergism effect is stronger for
+glufosinate enhancing the activity of PPO inhibitors than
+the reverse. This is supported by the fact that PPO-resistant
+A. tuberculatus plants were not killed with the herbicide mixture
+and showed similar injury levels when glufosinate was sprayed
+alone (Figure 3). Glutamate, the substrate for GS, transiently accu-
+mulates shortly after glufosinate treatment, and it is diverted
+into other metabolic pathways including proline, arginine, and
+chlorophyll biosynthesis (Figures 1, 4, and 7). Proline and arginine
+accumulate after GS inhibition, supporting our hypothesis.
+Glufosinate-resistant soybean express the pat gene and metabo-
+lize glufosinate by adding an acetyl group to the herbicide molecule
+(Dröge et al. 1992; Strauch et al. 1988). Even though these plants
+are resistant to the herbicide, glufosinate concentration in the leaf
+tissue increased over the first 4 HAT and caused partial GS inhib-
+ition (Figure 4A). This is because uptake is probably faster than
+metabolic rates during the first few hours after treatment, leading
+to glufosinate accumulation (Carbonari et al. 2016). Consequently,
+glutamate levels also increased up to 4 HAT, enhancing proto accu-
+mulation in the presence of saflufenacil (Figure 4). An unknown
+compound with the same mass as glutamate-1-semialdehyde
+and glutamate-4-semialdehyde accumulates at high levels in glufo-
+sinate-treated plants (Supplementary Figure S4). These two metab-
+olites are precursors for chlorophyll and proline/arginine
+biosynthesis, respectively, supporting the fact that glufosinate syn-
+ergizes PPO-inhibitor activity by a transient glutamate accumula-
+tion. Proto accumulation at high levels leads to ROS generation
+and the catastrophic consequences of lipid peroxidation (Dayan
+et al. 2019b).
+Figure 5. Glufosinate enhances the activity of protoporphyrinogen oxidase (PPO)
+inhibitors in the field. Performance of glufosinate and PPO-inhibiting herbicides
+applied individually or in tank mix on Bassia scoparia. Gluf, glufosinate; flumi, flumiox-
+azin; saflu, saflufenacil; pyraflu, pyraflufen; lact, lactofen; fome, fomesafen. Means fol-
+lowed by the same letter do not differ according to Tukey’s test (P < 0.05). Error bars
+represent the standard deviations of the means.
+Control Glufosinate
+(280) 
+Saflufenacil
+(1) 
+Glufosinate
++
+saflufenacil
+(280+1)   
+0
+20
+40
+60
+80
+100Visual injury (%)
+Glufosinate-susceptible
+Glufosinate-resistant
+(a)
+*
+*
+Control Glufosinate 
+(280)
+Saflufenacil 
+(1)
+Glufosinate 
++ 
+saflufenacil 
+(280+1)
+0
+3
+6
+9
+12
+15Protoporphyrin (nmol g–1) Glufosinate-susceptible
+Glufosinate-resistant
+(b)
+*
+0
+5
+10
+15
+20
+25
+30
+35
+40
+HAT
+Glufosinate (µg g–1) Glufosinate-resistant
+Glufosinate-susceptible
+(c)
+*
+*
+*
+*
+*
+*
+0 4 8 12162024 04812162024 0
+10
+20
+30
+40
+HAT
+Glutamate (µg g–1) Glufosinate-resistant
+Glufosinate-susceptible
+(d)
+*
+*
+*
+*
+* *
+Figure 4. Glufosinate þ saflufenacil is toxic to glufosinate-resistant soybean due to a transient accumulation of glutamate and subsequent protoporphyrin accumulation. Visual
+injury (A) and protoporphyrin accumulation (B) in glufosinate-susceptible (red) and glufosinate-resistant (blue) soybean following glufosinate and saflufenacil treatments.
+Glufosinate (C) and glutamate (D) levels in glufosinate-susceptible (gray) and glufosinate-resistant (blue) soybean following glufosinate (280 gha−1) treatment. Asterisks (*)
+indicate means are significantly different by t-test (P < 0.05) between soybean varieties or time point. Error bars represent the standard deviations of the means. HAT, hours
+after treatment.
+Weed Science 329
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.39
+Downloaded from https://www.cambridge.org/core. IP address: 181.230.251.244, on 20 Oct 2020 at 01:20:10, subject to the Cambridge Core terms of use, available at
+To evaluate the applicability of the herbicide mixture, we tested
+glufosinate in combination with low doses of different PPO inhib-
+itors to control B. scoparia in the field. A tank mix with PPO inhib-
+itors provided increased injury levels compared with glufosinate
+only (Figure 5). The highest levels of injury were obtained with
+glufosinate þ saflufenacil, similar to levels seen with glufosinate þ
+pyraflufen-ethyl. While glufosinate efficacy can be strongly affected
+by low temperature and low humidity (Coetzer et al. 2001;
+Untreate
+d
+Gluf (
+280)
+Saflu (1)
+Gluf +
+ saflu (280+1)
+0
+25
+50
+75
+100Visual injury (%)
+aa
+b
+c
+Untreated Gluf ( 280) Saflu (1)
+Gluf +
+ saflu(280+1)
+0
+25
+50
+75
+100Visual injury (%)
+a
+b
+c
+d
+(a)
+(b)
+Figure 6. Saflufenacil (Saflu) at 1 g ha−1 can overcome the lack of efficacy by glufosinate (Gluf) at 280 g ha−1 on Amaranthus palmeri under low temperature and humidity. Visual
+injury provided with glufosinate þ saflufenacil compared with the two herbicides applied individually at high (A) and low (B) temperature and humidity. Means with the same letter
+do not differ according to Tukey’s test (P < 0.05). Error bars represent the standard deviations of the means.
+Figure 7. Visual observation and the physiological basis of the synergistic effect between glufosinate and protoporphyrinogen oxidase (PPO) inhibitors on Amaranthus palmeri.
+Glutamate is the precursor for the biosynthesis of glutamine, arginine, proline, and chlorophyll. Inhibition of glutamine synthetase (GS) diverges the fate of glutamate into proline/arginine
+and chlorophyll biosynthetic pathways. Inhibition of both GS and PPO leads to increased protoporphyrin accumulation and subsequent formation of reactive oxygen species (ROS).
+330 Takano et al.: Glufosinate þ PPO inhibitors
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.39
+Downloaded from https://www.cambridge.org/core. IP address: 181.230.251.244, on 20 Oct 2020 at 01:20:10, subject to the Cambridge Core terms of use, available at
+Kumaratilake and Preston 2005), this can be overcome with the addi-
+tion of a low dose of saflufenacil to the tank (Figure 6). Future
+research will investigate potential opportunities to mitigate resistance
+to PPO inhibitors with the herbicide mixture. Furthermore, while the
+tank mix of glufosinate and PPO inhibitors seems to be very prom-
+ising for burndown applications, it was not safe for glufosinate-
+resistant soybean POST. However, if used on crops tolerant to both
+glufosinate and PPO inhibitors, this approach could offer new oppor-
+tunities for better weed control, especially where resistant weeds
+are present. In this study, we used reduced doses of both glufosinate
+and PPO inhibitors because we wanted to prove the concept. Under
+real-world circumstances, full doses of the herbicides must be tested,
+especially when managing resistant weeds. Therefore, more data are
+needed to better understand the most appropriate uses for this
+herbicidal composition as well as potential technical adjustments
+(e.g., doses, active ingredients, weed species, cropping systems).
+The combination of glufosinate and PPO inhibitors provided
+enhanced herbicidal activity compared with the products applied
+individually. Inhibition of GS by glufosinate leads to a transient
+accumulation of glutamate, the precursor for chlorophyll biosyn-
+thesis in plants. Inhibition of chlorophyll biosynthesis by PPO
+inhibitors causes accumulation of proto, which is enhanced in
+the presence of glufosinate. Thus, the synergism observed with
+the mixture results from proto accumulation to higher levels when
+both GS and PPO are inhibited simultaneously. The herbicide
+combination provided improved weed control in the field and
+may help to overcome negative effects of environmental conditions
+on glufosinate performance.
+Supplementary material. To view supplementary material for this article,
+please visit https://doi.org/10.1017/wsc.2020.39
+Acknowledgments. This research was funded by BASF Corporation. No
+conflicts of interest have been declared. We thank Jens Streibig for his assistance
+with the isobole data analysis.
+References
+Bayer E, Gugel KH, Hägele K, Hagenmaier H, Jessipow S, König WA, Zähner H
+(1972) Stoffwechselprodukte von Mikroorganismen. 98. Mitteilung.
+Phosphinothricin und phosphinothricyl-alanyl-alanin. Helvetica Chimica
+Acta 55:224–239
+Beriault JN, Horsman GP, Devine MD (1999) Phloem transport of
+D,L-glufosinate and acetyl-L-glufosinate in glufosinate-resistant and
+-susceptible Brassica napus. Plant Physiol 121:619–627
+Bernard SM, Habash DZ (2009) The importance of cytosolic glutamine synthe-
+tase in nitrogen assimilation and recycling. New Phytol 182:608–620
+Brunharo CACG, Takano HK, Mallory-Smith CA, Dayan FE, Hanson BD
+(2019) Role of glutamine synthetase isogenes and herbicide metabolism
+in the mechanism of resistance to glufosinate in Lolium perenne L. spp.
+multiflorum biotypes from Oregon. J Agric Food Chem 67:8431–8440
+Busi R, Powles SB, Beckie HJ, Renton M (2019) Rotations and mixtures of
+soil-applied herbicides delay resistance. Pest Manag Sci 76:487–496
+Carbonari CA, Latorre DO, Gomes GLGC, Velini ED, Owens DK, Pan Z, Dayan
+FE (2016) Resistance to glufosinate is proportional to phosphinothricin
+acetyltransferase expression and activity in LibertyLink® and WideStrike®
+cotton. Planta 243:925–933
+Coetzer E, Al-Khatib K, Loughin TM (2001) Glufosinate efficacy, absorption,
+and translocation in amaranth as affected by relative humidity and
+temperature. Weed Sci 49:8–13
+Dayan FE, Barker A, Dayan L, Ravet K (2019a) The role of antioxidants in the
+protection of plants against inhibitors of protoporphyrinogen oxidase.
+Reactive Oxygen Species 7:55–63
+Dayan FE, Barker AL, Bough R, Ortiz M, Takano HK, Duke SO (2019b)
+Herbicide mechanisms of action and resistance. Pages 36–48 in
+Moo-Young M, ed. Comprehensive Biotechnology. Oxford: Pergamon
+Dayan FE, Daga PR, Duke SO, Lee RM, Tranel PJ, Doerksen RJ (2010)
+Biochemical and structural consequences of a glycine deletion in the
+α-8 helix of protoporphyrinogen oxidase. Biochim Biophys Acta 1804:
+1548–1556
+Dayan FE, Owens DK, Corniani N, Silva FML, Watson SB, Howell JL, Shaner
+DL (2015) Biochemical markers and enzyme assays for herbicide mode of
+action and resistance studies. Weed Sci 63:23–63
+Dröge W, Broer I, Pühler A (1992) Transgenic plants containing the
+phosphinothricin-N-acetyltransferase gene metabolize the herbicide
+L-phosphinothricin (glufosinate) differently from untransformed plants.
+Planta 187:142–151
+Duke SO, Lydon J, Becerril JM, Sherman TD, Lehnen LP, Matsumoto H (1991)
+Protoporphyrinogen oxidase-inhibiting herbicides. Weed Sci 39:465–473
+Everman WJ, Mayhew CR, Burton JD, York AC, Wilcut JW (2009) Absorption,
+translocation, and metabolism of 14C-glufosinate in glufosinate-resistant
+corn, goosegrass (Eleusine indica), large crabgrass (Digitaria sanguinalis),
+and sicklepod (Senna obtusifolia). Weed Sci 57:1–5
+Forde BG, Lea PJ (2007) Glutamate in plants: metabolism, regulation, and
+signalling. J Exp Bot 58:2339–2358
+Frans R (1986) Experimental design and techniques for measuring and analyz-
+ing plant responses to weed control practices. Pages 29–46 in Camper ND,
+ed. Research Methods in Weed Science. Champaign IL: Southern Weed
+Science Society
+Ghanizadeh H, Harrington KC, James TK (2015) Glyphosate-resistant Lolium
+multiflorum and Lolium perenne populations from New Zealand are also
+resistant to glufosinate and amitrole. Crop Prot 78:1–4
+Heap IM (2020) The International Survey of Herbicide Resistant Weeds. http://
+www.weedscience.org. Accessed: March 17, 2020
+Jalaludin A, Ngim J, Bakar BH, Alias Z (2010) Preliminary findings of poten-
+tially resistant goosegrass (Eleusine indica) to glufosinate-ammonium in
+Malaysia. Weed Biol Manag 10:256–260
+Karn E, Beffa R, Jasieniuk M (2018) Variation in response and resistance to
+glyphosate and glufosinate in California populations of Italian ryegrass
+(Lolium perenne ssp. multiflorum). Weed Sci 66:168–179
+Kumaratilake AR, Lorraine-Colwill DF, Preston C (2002) A comparative study
+of glufosinate efficacy in rigid ryegrass (Lolium rigidum) and sterile oat
+(Avena sterilis). Weed Sci 50:560–566
+Kumaratilake AR, Preston C (2005) Low temperature reduces glufosinate
+activity and translocation in wild radish (Raphanus raphanistrum). Weed
+Sci 53:10–16
+Lee HJ, Duke MV, Duke SO (1993) Cellular localization of protoporphyrinogen-
+oxidizing activities of etiolated barley (Hordeum vulgare L.) leaves (relationship
+to mechanism of action of protoporphyrinogen oxidase-inhibiting herbicides).
+Plant Physiol 102:881–889
+Lermontova I, Kruse E, Mock H-P, Grimm B (1997) Cloning and characteri-
+zation of a plastidal and a mitochondrial isoform of tobacco protoporphyri-
+nogen IX oxidase. Proceedings of the National Academy of Sciences USA
+94:8895–8900
+Matringe M, Camadro JM, Labbe P, Scalla R (1989) Protoporphyrinogen oxidase
+as a molecular target for diphenyl ether herbicides. Biochem J 260:231–235
+Mendes RR, Takano HK, Adegas FS, Oliveira Jr RS, Gaines TA, Dayan FE
+(2020) R128L target site mutation in PPO2 evolves in wild poinsettia
+(Euphorbia heterophylla L.) with cross-resistance to PPO-inhibiting herbi-
+cides. Weed Sci. DOI: 10.1017/wsc.2020.42
+Moulin M, McCormac AC, Terry MJ, Smith AG (2008) Tetrapyrrole profiling
+in Arabidopsis seedlings reveals that retrograde plastid nuclear signaling is
+not due to Mg-protoporphyrin IX accumulation. Proceedings of the
+National Academy of Sciences USA 105:15178–15183
+Oliveira IC, Brears T, Knight TJ, Clark A, Coruzzi GM (2002) Over-
+expression of cytosolic glutamine synthetase. Relation to nitrogen, light, and
+photorespiration. Plant Physiol 129:1170–1180
+Patzoldt WL, Hager AG, McCormick JS, Tranel PJ (2006) A codon deletion
+confers resistance to herbicides inhibiting protoporphyrinogen oxidase.
+Proceedings of the National Academy of Sciences USA 103:12329–12334
+Weed Science 331
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.39
+Downloaded from https://www.cambridge.org/core. IP address: 181.230.251.244, on 20 Oct 2020 at 01:20:10, subject to the Cambridge Core terms of use, available at
+Ritz C, Streibig JC (2014) From additivity to synergism—a modelling
+perspective. Synergy 1:22–29
+Sellers BA, Smeda RJ, Johnson WG (2003) Diurnal fluctuations and leaf angle
+reduce glufosinate efficacy. Weed Technol 17:302–306
+Shaner DL, Nadler-Hassar T, Henry WB, Koger CH (2005) A rapid in vivo
+shikimate accumulation assay with excised leaf discs. Weed Sci 53:
+769–774
+Sørensen H, Cedergreen N, Skovgaard IM, Streibig JC (2007) An isobole-based
+statistical model and test for synergism/antagonism in binary mixture
+toxicity experiments. Environ Ecol Stat 14:383–397
+Steckel GJ, Wax LM, Simmons FW, Phillips WH (1997) Glufosinate efficacy on
+annual weeds is influenced by rate and growth stage. Weed Technol 11:
+484–488
+Strauch E, Wohlleben W, Pühler A (1988) Cloning of a phosphinothricin
+N-acetyltransferase gene from Streptomyces viridochromogenes Tü494
+and its expression in Streptomyces lividans and Escherichia coli. Gene
+63:65–74
+Streibig JC, Kudsk P, Jensen JE (1998) A general joint action model for herbicide
+mixtures. Pestic Sci 53:21–28
+Takano HK, Beffa R, Preston C, Westra P, Dayan FE (2019) Reactive oxygen
+species trigger the fast action of glufosinate. Planta 249:1837–1849
+Takano HK, Beffa R, Preston C, Westra P, Dayan FE (2020a) A novel insight
+into the mechanism of action of glufosinate: how reactive oxygen species are
+formed. Photosynth Res 144:361–372
+Takano HK, Beffa RS, Preston C, Westra P, Dayan FE (2020b) Physiological
+factors affecting uptake and translocation of glufosinate. J Agric Food
+Chem 68:3026–3032
+Travlos IS, Cheimona N, De Prado R, Jhala AJ, Chachalis D, Tani E (2018) First
+case of glufosinate-resistant rigid ryegrass (Lolium rigidum Gaud.) in Greece.
+Agronomy 8:35
+Winter G, Krömer JO (2013) Fluxomics—connecting ‘omics analysis and
+phenotypes. Environ Microbiol 15:1901–1916
+Zhang J, Hamill AS, Weaver SE (1995) Antagonism and synergism between
+herbicides: trends from previous studies. Weed Technol 9:86–90
+332 Takano et al.: Glufosinate þ PPO inhibitors
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.39
+Downloaded from https://www.cambridge.org/core. IP address: 181.230.251.244, on 20 Oct 2020 at 01:20:10, subject to the Cambridge Core terms of use, available at

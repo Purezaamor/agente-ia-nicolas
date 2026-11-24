@@ -1,0 +1,1346 @@
+=== Fuente: Review.pdf ===
+
+Review
+Received: 16 May 2020 Revised: 16 June 2020 Accepted article published: 23 June 2020 Published online in Wiley Online Library:
+(wileyonlinelibrary.com) DOI 10.1002/ps.5965
+Glufosinate-ammonium: a review
+of the current state of knowledge
+Hudson K Takano* and Franck E Dayan
+Abstract
+Glufosinate is a key herbicide to manage glyphosate-resistant weeds mainly because it is a broad-spectrum herbicide, and
+transgenic glufosinate-resistant crops are available. Although glufosinate use has increased exponentially over the past
+decade, the treated area with this herbicide is far less than that with glyphosate. This is because glufosinate often provides
+inconsistent performance in the ﬁeld, which is attributed to several factors including environmental conditions, application
+technology, and weed species. Glufosinate is also highly hydrophilic and does not translocate well in plants, generally provid-
+ing poor control of grasses and perennial species. In the soil, glufosinate is rapidly degraded by microorganisms, leaving no
+residual activity. While there have been concerns regarding glufosinate toxicology, its proper use can be considered safe. Glu-
+fosinate is a fast-acting herbicide that was ﬁrst discovered as a natural product, and is the only herbicide presently targeting
+glutamine synthetase. The mode of action of glufosinate has been controversial, and the causes for the rapid phytotoxicity
+have often been attributed to ammonia accumulation. Recent studies indicate that the contact activity of glufosinate results
+from the accumulation of reactive oxygen species and subsequent lipid peroxidation. Glufosinate disrupts both photorespira-
+tion and the light reactions of photosynthesis, leading to photoreduction of molecular oxygen, which generates reactive oxy-
+gen species. The new understanding of the mode of action provided new ideas to improve the herbicidal activity of glufosinate.
+Finally, a very few weed species have evolved glufosinate resistance in the ﬁeld, and the resistance mechanisms are generally
+not well understood requiring further investigation.
+© 2020 Society of Chemical Industry
+Supporting information may be found in the online version of this article.
+Keywords: phosphinothricin; glutamine synthetase; reactive oxygen species; mode of action; herbicide resistance; genetically modiﬁed
+crops; glufosinate
+1 INTRODUCTION
+Glufosinate-ammonium (D,L-phosphinothricin or 2-amino-
+4-(hydroxymethylphosphinyl)butanoic acid) is a herbicide with a
+number of unique characteristics that have intrigued researchers
+for many years across different scientiﬁc areas. Glufosinate was
+discovered as a natural product once characterized as ‘anatural
+amino acid with unexpected herbicidal properties’.1 Glufosinate
+has an unusual physicochemical proﬁle compared to the majority
+of herbicides currently used in the world, and is the most important
+herbicide targeting glutamine synthetase (GS).2 The mode of action
+of glufosinate has been very controversial for almost 30 years since
+its ﬁrst introduction in 1993. Furthermore, environmental condi-
+tions can strongly affect glufosinate performance in the ﬁeld, and
+only a few weed species have evolved glufosinate resistance in
+the world. In this review, we discuss the most fascinating aspects
+of glufosinate as a herbicide, from its ﬁrst discovery to the complete
+mode-of-action elucidation and weed resistance evolution.
+2 DISCOVERY AND COMMERCIALIZATION
+Glufosinate was ﬁrst discovered by two different research groups
+investigating the actinomycetes Streptomyces hygroscopicus and
+S. viridochromogenes.3 Under fermentation culture conditions,
+these microorganisms can produce a tripeptide called bialaphos
+(4-[hydroxy(methyl)phosphinoyl]-L-homoalanyl-L-alanyl-L-alanine)
+(Fig. 1). The synthesis of bialaphos is not the focus of our manu-
+script, but it has been recently summarized in a comprehensive
+review.4 The entire process requires 18 steps from the building block
+phosphoenolpyruvate to the end product bialaphos. Bialaphos is
+currently used in eastern Asia as a broad-spectrum and non-selective
+herbicide. Once inside the plant, the tripeptide is metabolized
+through hydrolytic cleavage of the two alanine residues, releasing
+L-phosphinothricin, the actual phytotoxic molecule.2
+Glufosinate is formulated as a racemic mixture of
+D, L-phosphinothricin under different commercial brands. It is
+often referred to as glufosinate-ammonium because the
+ammonium-salt formulations are the most commonly used. At
+least ﬁve different chemical methods have been developed for
+the enantioselective synthesis of L-phosphinothricin.4 However,
+the cost to produce ﬁeld scale amounts of the pure L-isomer still
+remains substantially higher than that for the racemic mixture.
+However, a simpler method to convert D-phosphinothricin
+into L-phosphinothricin has also been proposed, providing an
+* Correspondence to: HK Takano, Postdoctoral Fellow, 1177 Campus Delivery,
+Department of Agricultural Biology, Colorado State University, Fort Collins,
+CO 80525, USA. E-mail: hudsontakano@gmail.com
+Department of Agricultural Biology, Colorado State University, Fort Collins,
+CO, USA
+Pest Manag Sci 2020 www.soci.org © 2020 Society of Chemical Industry
+1
+increased proportion of the active enantiomer (Fig. 2).5 The latter
+is a fairly simple process involving a two-step reaction: oxidation
+of the D-isomer into PPOB (4-methylphosphinico-2-oxo-butanoic
+acid), followed by a transamination or amino transferase
+yielding L-phosphinothricin. The conversion of PPOB into
+L-phosphinothricin can also be performed enzymatically through
+glutamate dehydrogenase, with optimized afﬁnity for glufosi-
+nate.6 More recently, another method has been proposed to
+increase the proportion of L-phosphinothricin at up to 96% by
+coupling the amidase-mediated hydrolysis of N-phenylacetyl-
+D,L-phosphinothricin with racemization of N-phenylacetyl-D-
+phosphinothricin.7 Field and laboratory experiments demonstrated
+that formulations with increased proportions of L-phosphinothricin
+provided similar levels of both grass and broadleaf weed control as
+well as lower crop injury for cotton and soybean compared to
+equivalent amounts of the L-isomer in the racemic mixture.5
+Glufosinate was ﬁrst commercialized in the United States and
+Canada in 1993–1994 as a non-selective herbicide with broad
+spectrum of weed control. The estimated treated area with glufo-
+sinate in the world was approximately 12 million hectares per year
+in 2014,9 following a substantial increase in the United States over
+the past decade (Fig. 3(a)). The main reason for this increase in use
+was to combat the ever increasing number of glyphosate-
+resistant weeds, as glufosinate works as an alternative herbicide
+to glyphosate, the most popular herbicide in the world. In addi-
+tion, glufosinate-resistant crops were rarely used before
+glyphosate-resistant weeds became a major problem in
+glyphosate-resistant crops, even though the two technologies
+became available around the same time. This is probably because
+glufosinate does not provide the same level of efﬁcacy and consis-
+tency as glyphosate for numerous reasons that will be discussed
+later in this manuscript. Thus, glufosinate is widely used in the
+Midwest and Southern United States where the majority of
+glufosinate-resistant soybean and cotton are planted in North
+America (Fig. 3(b)). Glufosinate is also widely used in South Amer-
+ica, especially due to the large adoption of no-till cropping sys-
+tems (e.g. glufosinate-resistant cotton in northeast Brazil).10 Rice,
+orchards, vineyards, minor crops and non-agricultural areas also
+represent a large portion of glufosinate use in western United
+States and other parts of the world. Glufosinate used to be regis-
+tered for use in Europe until 2018, but it has not been reapproved
+since then by the European Commission due to toxicology
+concerns.
+Glufosinate use will likely continue to increase in the near
+future for a number of reasons. First, glyphosate-resistance is
+widespread, and weeds continue to evolve multiple resistance
+to other postemergence herbicides such as protoporphyrino-
+gen oxidase (PPO) inhibitors and synthetic auxins (2,4-D and
+dicamba),aswellasmetabolicresistance to key preemergence
+herbicides (e.g. S-metolachlor).11 Furthermore, glufosinate is
+not considered volatile and the newer transgenic technologies
+for herbicide-resistant crops tend to stack multiple events,
+including glufosinate resistance as one of their traits in most
+varieties. Glufosinate will also continue playing an important
+role in tropical countries such as Brazil, where grasses are the
+biggest challenge for weed management12 and paraquat has
+recently been banned. Lastly, while there has been an
+increased effort to develop new herbicide modes of action,
+no new effective and non-selective herbicide is expected to
+launch in the next few years.13
+3 PHYSICOCHEMICAL PROPERTIES AND IN
+PLANTA BEHAVIOR
+Glufosinate (molecular weight 181.13 g mol−1) is a phosphinic
+acid belonging to the organophosphorus chemical family, unlike
+any other chemical class of herbicides.4 Glufosinate is the most
+hydrophilic herbicide (logKow: −4.0), with different ionization con-
+stant values (pKa: 2, 2.9, and 9.8) as a result of the amine and
+hydroxyl groups present in its structure (Table 1). It is not
+Figure 1 Bialaphos, a tripeptide (L-phosphinothricin + L-alanine + L-ala-
+nine), is naturally produced by Streptomyces sp. and metabolically bioacti-
+vated into L-phosphinothricin by plants. Glufosinate is currently
+formulated as a racemic mixture of D, L-phosphinothricin.
+Figure 2 Method to convert D-phosphinothricin into L-phosphinothricin.5 Both steps can be performed either enzymatically or chemically. Amino acids
+such as L-glutamate, L-glutamine, L-lysine, L-alanine, and L-phenylalanine work as the amino group donor in the second step. PPOB: 4-methylphosphinico-
+2-oxo-butanoic acid.
+www.soci.org HK Takano, FE Dayan
+wileyonlinelibrary.com/journal/ps © 2020 Society of Chemical Industry Pest Manag Sci 2020
+2
+considered volatile (vapor pressure: 10−4 Pa) and available formu-
+lations are typically the ammonium salt, which tends to dissociate
+in aqueous solution.14
+There are a number of factors affecting the uptake and translo-
+cation of glufosinate in plants.15–17 For instance, glufosinate
+uptake may be driven by an active transporter under low concen-
+trations, but at normal ﬁeld rates, absorption occurs mostly by cell
+to cell diffusion, that is, absorption is dependent on glufosinate con-
+centration gradient between the inside and outside of cells.15 In addi-
+tion, the presence of glutamine strongly decreases glufosinate
+absorption, suggesting that glufosinate and glutamine may compete
+for the same active transporter. Glufosinate translocation throughout
+the plant relies mostly on apoplastic translocation in the xylem, which
+depends on transpiration rates. Consequently, glufosinate molecules
+tend to accumulate in older leaves with higher transpiration rates as
+opposed to younger leaves and apical meristems.18 The fast action of
+glufosinate does not limit its own translocation. If that was the case,
+D-phosphinothricin (does not bind to GS) would translocate more
+efﬁciently than L-phosphinothricin or the racemic mixture, but poor
+translocation in plants has also been observed for the L-isomer.19
+A comparative study between glufosinate and glyphosate trans-
+location using artiﬁcial membranes demonstrated that both her-
+bicides are unlikely to move across lipophilic layers due to their
+high hydrophilicity (glyphosate logKow: −3.1).20 However, unlike
+glufosinate, glyphosate can easily translocate to different parts
+of the plant, especially from source to sink organs with the move-
+ment of photosynthates. This supports the hypothesis that glyph-
+osate possesses an effective active transporter to cross lipophilic
+cellular membranes.21 Indeed, glyphosate uptake was inhibited
+in the presence of phosphate, suggesting that they may compete
+for the same transporter. If the fast action of glufosinate does not
+self-limit translocation, the contact activity of glufosinate proba-
+bly results from the combination of its physicochemical character-
+istics and the lack of an effective active transporter.15
+4 GLUTAMINE SYNTHETASE, THE TARGET
+OF GLUFOSINATE
+Glufosinate targets GS, the second most abundant protein in
+plant leaves, that is essential for nitrogen metabolism by
+catalyzing the adenosine triphosphate (ATP)-dependent incor-
+poration of ammonia into glutamate to yield glutamine
+(Fig. 4).22,23 GS works in a two-step reaction, in which gluta-
+mate is ﬁrst phosphorylated into γ-glutamyl-phosphate using
+ATP, followed by ammonia assimilation yielding glutamine
+and releasing phosphate. Several end products of glutamine
+metabolism can allosterically regulate GS activity: serine,
+alanine, glycine, adenosine monophosphate, cytidine triphos-
+phate, tryptophan, histidine, carbamoyl phosphate, and
+glucosamine-6-phosphate.24 Each one of these inhibitors leads
+to partially inhibition of GS but can completely block enzyme
+activity when collectively.
+Once ammonia is incorporated into glutamate by GS, glutamine
+and 2-oxoglutarate can then be converted back into two gluta-
+mate molecules by glutamine 2-oxoglutarate aminotransferase
+(GOGAT) (Fig. 5). The two enzymes (GS/GOGAT) work in concert
+Figure 3 Glufosinate use in the United States has exponentially increased over the last decade and is intensively used in the Midwest and Southern
+regions where glufosinate-resistant crops are grown. Estimated use by year and crop from 1996 to 2016 in the United States (a). The category ‘other’
+includes vineyards, orchards, wheat, rice, pasture, vegetables, and non-agricultural areas. Estimated agricultural use for glufosinate across the United
+States in 2016 (b). Source: United States Geological Survey (USGS). Accessed in May 4, 2020. Available at: https://water.usgs.gov.
+Table 1 Glufosinate and its metabolite are highly water soluble. Physicochemical properties for glufosinate and its main metabolite MPP
+(3-[hydroxy(methyl)phosphinyl]propionic acid)
+Property Glufosinate MPP
+Vapor pressure (20 °C) No volatility No volatility
+Solubility in water 1370 g L−1 794 g L−1
+pH 5 >500 g L−1 —
+Solubility in buffer pH 7 >500 g L−1 —
+pH 9 >500 g L−1 —
+Partition coefﬁcient (Kow)pH7 <0.1 0.06
+Glufosinate review www.soci.org
+Pest Manag Sci 2020 © 2020 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+3
+to form the main route for ammonia assimilation into nitrogen
+organic compounds.22 Plants have two main isoforms: GS1, which
+is located in the cytoplasm, and GS2 functioning in the chloroplast.25
+Because glutamine can donate an amino group to other organic
+compounds in the plant, GS1 is essential for nitrogen export
+throughout the plant in form of glutamine.23 In contrast, GS2 plays
+a key role recycling ammonium from the photorespiration path-
+way.26 Plants can also take up nitrogen in the form of both
+ammonium or nitrate. In the cytosol, nitrate reductase converts
+nitrate into nitrite, which is then converted into ammonium by nitrite
+reductase before it can be incorporated into amino acids by GS.27
+In green leaves of C3 plants, GS2 is the predominant isoenzyme,
+but for some C4 and CAM (crassulacean acid metabolism) species,
+the contribution of GS1 to the total GS enzyme activity can reach
+up to 80%.28 Loss of function mutants have been described in Ara-
+bidopsis and barley for GS2 and GOGAT.29, 30 These mutants are
+unable to grow under normal air (400 ppm CO2; 21% O2), but they
+develop normally under non-photorespiratory conditions
+(1000 ppm; 2% CO2), demonstrating the importance of the
+GS/GOGAT pathway to photorespiration. In C4 species, while
+GS2 has a greater contribution to the total GS activity in bundle
+sheath, GS1 is predominant in mesophyll cells.31 In addition, both
+isoforms are slightly more tolerant to glufosinate in the bundle
+sheath cells than in the mesophyll, and GS2 less sensitive than
+GS1.31
+Glufosinate is an irreversible inhibitor of both GS1 and GS2 with
+an inhibitor dissociation constant (Ki) between 1.1 and 4.8 μmol L-1,
+depending on the plant species.32 It is a competitive inhibitor
+with respect of glutamate for the active site, and uncompetitive
+with the other substrates (ATP and ammonia). This is because
+phosphorylated L-phosphinothricin (phospho-L-phosphinothricin)
+shares a high level of structural similarities with γ-glutamyl-
+phosphate (phosphorylated glutamate). In addition to glufosinate,
+at least 13 glutamate analogs have been reported as GS inhibitors.
+Methionine sulfoximine is also a strong inhibitor of GS and, per-
+haps, the second most studied among them. In a comparison
+study, glufosinate was 2.2 times more powerful than methio-
+nine sulfoximine inhibiting both plant and bacterial GS.33
+Unlike glutamate competitors, the analogs of 3,5-dichlorophenyl-
+aminomethylenebisphosphonic acid display a different mecha-
+nism of GS inhibition. A kinetic characterization in maize GS
+showed that these phosphonic acids have a non-competitive
+mechanism against glutamate and an uncompetitive mechanism
+against ATP.34 Despite the numerous compounds with potential
+Figure 4 Glufosinate (L-phosphinothricin) inhibits the two-step reaction
+catalyzed by glutamine synthetase (GS). In the absence of the inhibitor,
+GS phosphorylates glutamate into γ-glutamyl-phosphate and incorpo-
+rates ammonia to yield glutamine. Glufosinate competes with glutamate
+for the active site. The enzyme phosphorylates glufosinate into
+phospho-L-phosphinothricin, but ammonia cannot be incorporated in
+the second step. This leads to the formation of an irreversible enzyme-
+inhibitor complex.
+Figure 5 The GS/GOGAT pathway is the principal mechanism of primary and secondary nitrogen assimilation into organic compounds in plants. Plants
+can uptake nitrogen in form of nitrate or ammonium, which are incorporated into glutamine by the cytosolic glutamine synthetase (GS1) and exported to
+other parts of the plant. In the chloroplast, GS2 recycles ammonium produced by the photorespiration pathway. Glutamate-oxoglutarate aminotransfer-
+ase (GOGAT) yields two molecules of glutamate out of glutamine and 2-oxoglutarate.
+www.soci.org HK Takano, FE Dayan
+wileyonlinelibrary.com/journal/ps © 2020 Society of Chemical Industry Pest Manag Sci 2020
+4
+for GS inhibition, glufosinate is the only one that has been devel-
+oped as a herbicide, possibly due to its stronger capacity to inhibit
+GS in plants.
+The inhibitory mechanism of glufosinate has been characterized
+in the crystal structure of maize GS1.35 A homology model of
+Amaranthus palmeri GS2 revealed that glufosinate interacts with
+exactly the same residues as in maize (Fig. 6). Glufosinate binding
+involves H-bond interactions with Glu131, Glu192, Arg332,
+Gly245, His249, Arg291 and Arg311, as well interactions between
+the phosphate group and manganese atoms. The binding of ATP
+in the catalytic domain involves hydrogen-bond interactions with
+Glu129, Ser187, Ser253, Arg311, Arg316 and Glu330, as well as π–π
+interactions between the adenosine ring with Tyr328 and interac-
+tions between the diphosphate groups and manganese atoms.
+Residues Glu297 and Asp56 are conserved among several plant
+GSs and play a role as a ﬂap to guard the substrate glutamate
+entrance to the active site and to bind ammonium substrate,
+respectively.36 In addition, His249 was identiﬁed by site-directed
+mutagenesis as a key residue for the differential stability of the
+substrates on GS.35 Changing amino acids in these positions or
+in allosteric sites would likely affect the binding of glufosinate as
+well as glutamate.
+5 GLUFOSINATE TOXICOLOGY
+The target of glufosinate, GS, is present both in plants and ani-
+mals. Consequently, the toxicity of the active ingredient has
+been extensively studied.37 Exposure to high levels of glufosi-
+nate can cause a reversible reduction in glutamine concentra-
+tions in mammalian tissues. However, there is no evidence for
+accumulation of glufosinate in mammals, as it is a highly water
+soluble compound.38 The acute toxicity of both oral and
+dermal exposures to glufosinate were very low in rats
+and slightly higher in mice (Supporting Information
+Table S1). This difference is probably associated with
+divergences in kinetics and bioavailability between these
+species.Therewasalsonosex-speciﬁc differences from any
+route of administration.1
+In the same study, glufosinate was non-sensitizing to dermal or
+eye exposure, but was moderately irritating to the eyes due to
+some of the adjuvants in the formulation. In contrast, glufosinate
+exposure to eyes increased intralocular pressure in mice suggest-
+ing that the herbicide could damage the optic nerves when
+improperly handled.39 The sub-chronic feeding studies of glufosi-
+nate were carried out over 3 months at various concentrations
+using rats (up to 4000 mg kg−1 diet), mice (up to 1280 mg kg−1
+diet), and dogs (up to 256 mg kg−1 diet).40 The ‘no observed
+adverse effect levels’ were 2–4mgkg−1 d−1 for dogs, 4.1 for rats
+and 17 for mice. A chronic toxicity and oncogenicity study
+showed that at very high concentrations (between 140 and
+500 mg kg−1 diet), only slight effects were observed on mortality
+of female rats, kidney weights, anemia in both sexes, GS activity in
+liver and kidneys, and glutathione level in liver and blood.40 There
+was no glufosinate-related non-neoplastic or neoplastic lesions,
+resulting in ‘no observed adverse effect levels’ of 40 mg kg−1 diet.
+Exposing mice to glufosinate prenatally reduced locomotor
+activity, impaired memory formation and autism-like behaviors.
+This was associated to a signiﬁcant alteration in gut microbiome,
+which could be the cause of the behavioral abnormalities.41
+Another study reported no effect on body-weight gains in the par-
+ent or offspring, nor on the survival of the offspring.38 Another
+factor contributing to the safety of glufosinate on animal systems
+is the rapid rate of metabolic degradation of the active ingredient,
+Figure 6 The catalytic domain of glutamine synthetase (GS) on the left, and the amino acid residues interacting with glufosinate and adenosine diphos-
+phate (ADP) on the right.35 Glufosinate is phosphorylated (phospho-L-phosphinothricin) by adenosine triphosphate (ATP) and irreversibly binds to
+GS. Three manganese (purple spheres) ions work as cofactors and help to stabilize the transfer of phosphate from ATP to glufosinate.
+Glufosinate review www.soci.org
+Pest Manag Sci 2020 © 2020 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+5
+with most of the product and/or its metabolites excreted through
+urine and feces. Since the toxicological data indicated no geno-
+toxic, carcinogenic, or teratogenic potential or other special toxi-
+cological hazards, a safety factor of 100 was sufﬁciently
+conservative to establish an acceptable daily intake value of
+0.02 mg glufosinate kg−1 d−1.40 In contrast, a retrospective cohort
+study conducted with 253 patients for almost 20 years indicated
+13% of mortality due to acute poisoning resulting from improper
+handling of the herbicide. The causes of death were associated
+with decreased Glasgow coma scale and bicarbonate, use of
+mechanical ventilator, and vasopressors.42 Therefore, the inges-
+tion of a large amount of glufosinate by humans can cause intox-
+ication problems, but the proper use of glufosinate as a herbicide
+can be considered safe when guidelines are followed.43
+6 GLUFOSINATE IN THE ECOSYSTEM
+The increased use of glufosinate in the recent years results from a
+larger treated area with the herbicide rather than higher rates per
+area. Currently, the maximum application rate for the active ingre-
+dient is 1470 g ha−1 yr-1 although most farmers perform only one
+post-emergence application at 420–655 g ha−1, depending on
+the crop. Therefore, glufosinate residue levels in the food chain
+are not expected to rise as glufosinate use increases. A study
+on glufosinate metabolism and translocation in transgenic
+glufosinate-resistant crops concluded that postemergence appli-
+cations (670 g ha−1) pose minimal risk to the consumer. This
+was supported by the fact that most of the applied herbicide
+was lost by precipitation and microbial activity. The remaining res-
+idue in the plant reach the soil when the leaves fall off before har-
+vesting. In addition, glufosinate applications in the ﬁeld are
+normally performed early in the season, providing enough time
+for residues to dissipate. The ﬁnal glufosinate concentration in
+the grain was less than 0.1 mg kg−1 (< 0.3% of the total
+applied).44 Alternatively, switching from the racemate to the sin-
+gle enantiomer could reduce by half the total amount of glufosi-
+nate applied to the environment. A recent study has shown that
+L-phosphinothricin was favored in an efﬁcacy-risk assessment by
+better inhibiting weed growth and less early life toxicity to off-
+target organisms compared to the racemic mixture.45 Since glufo-
+sinate and its metabolites are highly water soluble, they neither
+volatilize nor accumulate in the food chain (Table 1).1 Glufosinate
+does not remain in the soil because it is rapidly degraded by soil
+bacteria, resulting in no residual activity nor crop rotation restric-
+tions.46 Glufosinate persistence in the environment was the short-
+est compared to four other herbicides (glyphosate,
+phenmedipham, ethofumesate and metamitron), and no indica-
+tion for potential groundwater pollution risk was observed.47
+Dissipation of glufosinate in the soil occurs primarily via oxida-
+tion, transamination, and acetylation reactions by soil microbes.
+The half-life of glufosinate in the ﬁeld varies between 1 and
+4 days, but it can be substantially increased in sterile soils.46 In
+addition, L-phosphinothricin was preferentially degraded as
+opposed to the D-isomer, and both enantiomers were considered
+stable in water.48 Glufosinate oxidation is irreversible and ulti-
+mately results in the release of carbon dioxide. Glufosinate can
+be susceptible to leaching from the soil surface a few hours after
+spraying.49 However, organic residues are often present within
+the top 20 cm, which ensures complete dissipation of glufosinate
+before it can be transported to lower layers in the soil proﬁle.50
+Glufosinate provides minimal concern on aquatic ecosystems.
+In fact, most effects reported are due to some of the adjuvants
+in the commercial formulation and not associated with the active
+ingredient.50 Glufosinate-based inhibition of GS in plants may
+lead to a transient release of ammonium into the soil and atmo-
+sphere, and a subsequent short-lived stimulation of oxygen con-
+sumption in the soil.51 However, its rapid metabolic degradation
+helps to prevent meaningful exposure to earthworms, beneﬁcial
+arthropods, bees, and mammals.50 Using newer microbe
+sequencing technologies, a study concluded that glufosinate
+application had no adverse effects on the rhizosphere bacterial
+community composed by a wide variety of phyla, including pro-
+teobacteria, bacteroidetes, acidobacteria, gemmatimonadetes
+and actinobacteria.52
+In summary, glufosinate reaching the soil surface following
+postemergence application is rapidly metabolized by soil
+microbes and dissipates to trace amounts within 1–7 days after
+treatment, depending on environmental conditions and soil char-
+acteristics. Both glufosinate and its metabolites do not volatilize
+nor accumulate in the fatty tissue of ﬁsh or other animals. For this
+reason, there is no concern of bioaccumulation of residues in the
+environment. The toxic threshold levels for all tested representa-
+tives of non-target organisms are extremely higher than the
+expected worst-case environmental concentrations that no harm-
+ful effects can occur. Regardless of the above, proper pesticide
+management of any kind are always encouraged to mitigate
+potential risks for both the environment and human health.
+7 MODE OF ACTION IN PLANTS
+7.1 Relationship between GS inhibition, ammonia
+accumulation and carbon assimilation
+The mode of action (MoA) of glufosinate has been controversial
+for many years. While glufosinate is a potent inhibitor of GS, the
+rapid phytotoxicity does not result from a reduction in glutamine
+pool levels. If amino acid depletion was the phytotoxic factor,
+plants would likely show a slow response to the herbicide similar
+to what is observed for glyphosate and acetolactate synthase
+inhibitors.2 In contrast, susceptible plants develop foliar injury
+within a few hours after glufosinate treatment. Inhibition of GS
+causes a dramatic accumulation of ammonia, and this has been
+proposed as the main driver for the fast response to glufosinate
+(Fig. 7). Previous studies have demonstrated that more than
+60% of the total accumulated ammonia comes from photorespi-
+ration.53 In fact, evidence shows that the catastrophic conse-
+quences of GS inhibition by glufosinate is associated with
+reduced capacity to cope with photorespiration.54,55
+In addition to the accumulation of ammonia, glufosinate can
+also inhibit carbon assimilation.56,57 The effect of glufosinate on
+carbon assimilation was stronger at 21% O2 and 400 ppm CO2
+(photorespiratory conditions) compared to 2% O2 and 1000 ppm
+CO2 (non-photorespiratory conditions).54 Under photorespiratory
+conditions, plants cannot reach their compensation point
+because rubisco (ribulose-1,5-bisphosphate carboxylase/oxyge-
+nase) uses a signiﬁcant amount of O2 relative to CO2. Furthermore,
+C3 plants generally show stronger inhibition of carbon assimila-
+tion than C4 plants.54 This is because C4 plants have a modiﬁed
+bundle sheath cells that concentrates CO2 in the mesophyll where
+rubisco is located. These ﬁndings indicate that photorespiration is
+connected to carbon assimilation inhibition by glufosinate.56
+While ammonia accumulation is a physiological consequence of
+GS inhibition, several reasons indicate that this is not the main
+cause of phytotoxicity. Ammonia toxicity causes severe chlorosis
+of leaves, suppression of growth, and eventually plant death,8
+www.soci.org HK Takano, FE Dayan
+wileyonlinelibrary.com/journal/ps © 2020 Society of Chemical Industry Pest Manag Sci 2020
+6
+which differ from the rapid necrosis observed with glufosinate
+treatment. Ammonia accumulated to high levels in glufosinate-
+treated plants exogenously supplied with glutamine and in
+glufosinate-treated plants under low light, but no apparent rapid
+phytotoxicity was observed in either treatment.15,58,59 A physiolog-
+ical comparison between mature and young leaves demonstrated
+that ammonia accumulated in both leaf types, but rapid phytotox-
+icity was observed only in older leaves.58 Likewise, the addition of
+low doses of atrazine to glufosinate prevented the rapid phytotox-
+icity, but ammonia still accumulated to high levels in these plants.59
+Ammonia and other amines have been proposed as uncouplers of
+photophosphorylation in the light reactions of photosynthesis, ulti-
+mately decreasing carbon assimilation rates.60 Photosynthetic
+uncouplers disrupt the coupling between the electron transport
+and phosphorylation reactions and thus inhibit ATP synthesis with-
+out affecting the respiratory chain and ATP synthase.61 However,
+while adding ammonia to chloroplasts decreased the formation
+of ATP, no inhibition of ferricyanide reduction was observed, nor
+electron ﬂow inhibition.60 Finally, ammonia accumulation under
+non-photorespiratory conditions (high CO2 and low O2) did not
+cause inhibition of carbon assimilation.53 In addition, carbon assim-
+ilation inhibition did not correlate with ammonia accumulation nor
+the development of symptoms in different weeds.58 In fact, the
+early studies reporting inhibition of carbon assimilation by glufosi-
+nate treatment never mentioned such a correlation with
+phytotoxicity.53–55 Therefore, ammonia accumulation to high levels
+can be toxic to plants, which may contribute only in part for
+glufosinate herbicidal activity. However, ammonia accumulation
+is not consistent with the rapid development of symptoms and
+cannot explain per se the mode of action of glufosinate.
+7.2 The role of reactive oxygen species
+A recent breakthrough research challenged the long-accepted
+paradigm regarding the mode of action of glufosinate.58, 59 There
+is now strong evidence that reactive oxygen species (ROS) are the
+main driver for the rapid phytotoxicity observed in glufosinate-
+treated plants. The massive light-dependent production of ROS
+causes the catastrophic lipid peroxidation of the cell membranes,
+and consequently, rapid cell death. This was supported by the
+glufosinate-induced accumulation of malondialdehyde, a bypro-
+duct of oxidative stress through lipid peroxidation.
+Based on a detailed series of investigations, a new model has now
+been proposed to illustrate the relationship between GS inhibition
+and ROS accumulation (Fig. 7).59 First, glufosinate inhibits GS, lead-
+ing to glutamine and glutamate depletion, and photorespiratory
+ammonia accumulation. Consequently, glyoxylate is not converted
+into glycine by the glutamate-dependent aminotransferase, which
+leads to glycolate and glyoxylate accumulation.55,59 This leads to a
+feedback inhibition of the photorespiration pathway and subse-
+quent inactivation of the Calvin cycle.62 If both photorespiration
+and the Calvin cycle are disrupted, the equilibrium between energy
+generation and consumption is broken, leading to a massive oxida-
+tive stress in the chloroplasts. Under these conditions, the photo-
+systems are still able to capture energy from the sunlight to
+Figure 7 The mode of action of glufosinate. Inhibition of GS disrupts Rubisco's carboxylase and oxygenase activity, a major sink for chemical energy
+(NADPH and ATP) produced in the light reactions of photosynthesis. The excess of electrons overwhelms the antioxidant system (water–water cycle)
+and is accepted by molecular oxygen leading to oxidative stress and rapid cell death. Reactive oxygen species (ROS) generation sites are highlighted
+in blue. NADPH, nicotinamide adenine dinucleotide phosphate; ATP, adenosine triphosphate; 2-PG, phosphoglycolate; 3-PGA, phosphoglycerate; APX,
+ascorbate peroxidase; CAT, catalase; Fd, ferredoxin; GO, glycolate oxidase; GOGAT, glutamate oxoglutarate aminotransferase; GS, glutamine synthetase;
+PS, photosystem; Rubisco, ribulose-1,5-biphosphate carboxylase/oxygenase; RuBP, ribulose-1,5-biphosphate; SOD, superoxide dismutase.
+Glufosinate review www.soci.org
+Pest Manag Sci 2020 © 2020 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+7
+maintain the ﬂow of electrons, but nicotinamide adenine dinucleo-
+tide phosphate (NADPH) and ATP are not being consumed. Conse-
+quently, the excess of electrons is accepted by molecular oxygen,
+leading to ROS accumulation, especially under full sunlight. The
+massive buildup of ROS in the chloroplast thylakoids leads to the
+catastrophic consequences of cell membrane peroxidation.58,63 A
+simpler alternative model is based on the hypothesis that glufosi-
+nate could play a second role as an uncoupler through either
+ammonia accumulation or another physiological factor.64 In fact,
+plants accumulated higher levels of ROS when sprayed with glufo-
+sinate plus a low dose of dinoseb (a known uncoupler of photosyn-
+thesis) compared to glufosinate only.59 However, the uncoupling
+activity of glufosinate and its physiological consequences remains
+to be proven.
+Regardless the mechanism by which ROS are formed, the rapid
+phytotoxicity in glufosinate-treated plants originates from a mas-
+sive light-dependent oxidative stress. Plants react to the nascent
+ROS-driven oxidative stress by increasing the activity of antioxi-
+dant enzymes such as superoxide dismutase, ascorbate peroxi-
+dase, glutathione reductase and catalase following glufosinate
+treatment.59, 65 In addition, glufosinate treatment induced the
+expression of senescence-related transcription factors, involved
+in other ROS-driven processes such as self-destruction and pro-
+grammed cell death66 Thus, glufosinate disrupts the balance
+between generation and scavenging of ROS. Hydrogen peroxide
+is partially generated by the glycolate oxidase activity in the per-
+oxisome (Fig. 7). Inhibition of GS disrupts the photorespiration
+pathway and linear electron ﬂow in the light reactions of photo-
+synthesis. When plants are treated at full sunlight, the antioxidant
+system is overwhelmed, and electrons are then accepted by O2
+coming from the breakdown of water in photosystem II. The sub-
+sequent ROS accumulation leads to a catastrophic lipid peroxida-
+tion and forms the basis for the fast action of glufosinate.58, 59
+8 TRANSGENIC CROPS FOR GLUFOSINATE
+RESISTANCE
+The ﬁrst glufosinate-resistant crop was developed for canola in
+1995, followed by corn in 1997, cotton in 2004, and soybean in
+2011. Other crops such as rice, sugar beet and wheat have also
+been genetically modiﬁed for glufosinate resistance but are not
+currently available for agricultural use. Glufosinate-resistant crops
+can metabolize glufosinate by expressing the phosphinothricin
+acetyltransferase (pat) gene, which is also known as bialaphos
+resistance (bar) gene. These plants rapidly convert L-
+phosphinothricin into N-acetyl- L-phosphinothricin, a non-
+phytotoxic metabolite of glufosinate (Fig. 8). Expression of pat or
+bar at high levels allows the application of glufosinate postemer-
+gence in glufosinate-resistant crops such as soybean, cotton, corn
+and canola.67 Other methods to obtain glufosinate resistant
+plants have been reported such as GS overexpression and
+mutations,36,68,69 but only the pat and bar genes have been used
+to develop glufosinate-resistant crops.
+In addition to glufosinate-resistant crops, the pat and bar genes
+have been employed as selectable markers for countless plant
+transformation protocols. Transformed plants with those genes
+can survive glufosinate treatment, providing an excellent system
+to screen a large number of plants with a single treatment. For
+those reasons, glufosinate plays an essential role in plant bio-
+chemistry, genetic regulation, and molecular biology research.
+For instance, transgenic cotton cultivars expressing cry genes for
+insect resistance were developed using the pat gene as a
+selectable marker. These commercial cultivars retain low levels
+of pat expression providing crop tolerance to ﬁeld rates of glufo-
+sinate. Consequently, farmers have often been applying glufosi-
+nate to these cotton cultivars for postemergence control of
+weeds, especially for managing glyphosate-resistant Amaranthus
+palmeri. However, the low messenger RNA (mRNA) expression
+level of the pat gene in those cultivars does not provide the same
+level of protection against glufosinate as of that achieved with the
+high expression of the bar gene in glufosinate-resistant cotton.67
+Therefore, even though this practice has been widely adopted,
+farmers should avoid using glufosinate on cotton cultivars not
+expressly designed as resistant to this herbicide because the
+safety margin to glufosinate is considerably lower.
+9 GLUFOSINATE METABOLISM IN WEEDS
+Non-transgenic plants can convert glufosinate into ﬁve main metab-
+olites: PPOB; 3-(hydroxymethylphosphinyl) propionic acid (MPP);
+2-methylphosphinicoacetic acid(MPA);4-methylphosphinico-
+2-hydroxybutanoic acid (MHB); 4-methylphosphinicobutanoic acid
+(MPB) (Fig. 8). While there have been a number of studies investigat-
+ing glufosinate metabolism in different species, the conclusions are
+not always consistent among them. Most of the older literature
+report extremely low rates of glufosinate metabolism, considering
+the parent molecule fairly stable across most weed species.70 For
+instance, in a study with 20 different weed species, very low amounts
+of MPP and MHB were present in at least 14 species, and no other
+metabolites were detected.71 In contrast, more recent publications
+report relatively high rates of glufosinate metabolism in several weed
+species (Table 2). Interestingly, several of those species are able to
+metabolize glufosinate at similar rates to that of glufosinate-resistant
+crops (e.g. soybean, cotton and corn) at 48 h after treatment (HAT).
+However, most of these weeds are not able survive glufosinate
+Figure 8 Metabolism of L-phosphinothricin into N-acetyl- L-phosphinothricin
+by bialaphos resistance (bar) or phosphinothricin acetyltransferase (pat)
+genes in glufosinate-resistant crops (green). D-Phosphinothricin cannot
+be metabolized by these genes. Metabolism of L-phosphinothricin in
+non-transgenic plants (blue). PPOB, 4-methylphosphinico-2-oxo-
+butanoic acid; MPP, 3-(hydroxymethylphosphinyl)propionic acid; MPA,
+2-methylphosphinicoacetic acid; MHB, 4-methylphosphinico-
+2-hydroxybutanoic acid; MPB, 4-methylphosphinicobutanoic acid.44
+www.soci.org HK Takano, FE Dayan
+wileyonlinelibrary.com/journal/ps © 2020 Society of Chemical Industry Pest Manag Sci 2020
+8
+application at the ﬁeld rate even though their herbicide metab-
+olism rates are high. Differential metabolism of glufosinate
+across different species can contribute for plant survival in
+the ﬁeld and potentially evolve as a mechanism of resistance
+to glufosinate.
+10 DIFFERENTIAL SENSITIVITY TO
+GLUFOSINATE IN WEEDS
+Glufosinate performance substantially differs across weed
+species in Supporting Information Table S2. For instance, the
+estimated dose (ED50) to achieve 50% reduction in dry bio-
+mass can vary from 26 g ha−1 in Erigeron canadensis L. to
+763 g ha−1 in Lolium rigidum.Onaverage,grassspeciestend
+to be less susceptible to glufosinate than broadleaves, with a
+few exceptions such as Chenopodium album, which is not very
+sensitive to the herbicide. In addition, some weed species
+tend to develop symptoms faster than others, which may sug-
+gest the existence of different phytotoxic mechanisms or var-
+iable capacity to cope with ROS accumulation.58 While there
+are several factors contributing to differential weed response
+to glufosinate, the amount of herbicide reaching the target
+site seems to be one of the most important. Glufosinate does
+not translocate well to meristematic organs, and monocot
+species tend to have multiple meristems in one single plant,
+which makes grasses generally more capable to survive than
+broadleaves. Glufosinate efﬁcacy was proportional to the con-
+centration of the herbicide in the leaf tissue of ﬁve different
+weeds (Fig. 9). For example, lower amounts of glufosinate
+were detected in tolerant weeds (L. rigidum)comparedtosen-
+sible species (Amaranthus palmeri) after treatment with the
+same herbicide rate.58 The levels of remaining glufosinate in
+the plant tissue depends on the ratio between uptake and
+metabolism rates by a particular weed species, which are both
+known to vary across different plants (Fig. 10). In addition,
+weed species have different morphologies, which also con-
+tribute to the differential interception of spray droplets,
+directly affecting glufosinate uptake.77 Dicot species normally
+have horizontal broad leaves, which are more prone to inter-
+cept spray droplets compared to vertical narrow leaves in
+monocot weeds.
+11 INCONSISTENT PERFORMANCE IN THE
+FIELD
+Glufosinate is a contact herbicide with limited translocation mak-
+ing it effective primarily on annual weed species.78 It also tends to
+provide lower activity on larger weeds compared to seedlings,
+and it is recommended to spray on small weeds (Fig. 10).83 For
+example, glufosinate was more effective when applied at the
+10-cm weed height compared to 15-cm in four different species.78
+Furthermore, a number of interspeciﬁc factors can decrease the
+efﬁcacy of glufosinate (e.g. growth stage, leaf type and angle,
+cuticular waxes). More importantly, while glufosinate can work
+as an effective herbicide for glyphosate-resistant weeds, its ﬁeld
+performance is strongly suppressed by inappropriate environ-
+mental conditions, particularly low temperature and low humidity
+around the time of application (Fig. 10).16,84
+Table 2 High rates of glufosinate metabolism in weeds that are comparable to transgenic glufosinate-resistant crops. Glufosinate metabolism in
+crops and weeds at 48 h after treatment
+Speciesa Percent glufosinate (%) Percent metabolites (%)b Reference
+T Glycine max 56 44 72
+T Gossypium hirsutum 32 68 73
+T Zea mays 61 39 74
+Amaranthus palmeri 38–48 52–62 73, 75
+Digitaria sanguinalis 43 57 74
+Echinochloa crus-galli 47 53 75
+Eleusine indica 40 60 74
+Ipomoea lacunosa 75 25 73
+Lolium perenne ssp. multiﬂorum 52 48 76
+GR Lolium perenne ssp. multiﬂorum 21 79 76
+Senna obtusifolia 51 49 74
+aT, Transgenic glufosinate-resistant; GR, glufosinate-resistant.
+bMetabolites are N-acetyl-L-phosphinothricin, 3-(hydroxymethylphosphinyl)propionic acid, and 4-methylphosphinico-2-hydroxybutanoic acid.
+Figure 9 Glufosinate efﬁcacy is proportional to the herbicide concentra-
+tion in the leaf tissue. Positive correlation between glufosinate concentra-
+tion within the leaf tissue and visual injury across four weed species. Data
+points represent different observation within each species.58
+Glufosinate review www.soci.org
+Pest Manag Sci 2020 © 2020 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+9
+There have been a number of studies attempting to determine
+the reasons for the variable responses of plant species to glufosi-
+nate. While leaf cuticular structure probably plays a role in the var-
+iable response of weed species to the herbicide, differential
+translocation is even more important. For instance, L. rigidum
+was signiﬁcantly more tolerant to glufosinate compared to Avena
+fatua. The difference in sensitivity was consistent with a signiﬁ-
+cant reduction in glufosinate translocation from treated leaves
+to the rest of the plant.85
+Studies on the impact of relative humidity show that glufosi-
+nate efﬁcacy is greater at higher humidity in the air. This is
+because under low humidity, herbicide droplets dry before sufﬁ-
+cient glufosinate can be absorbed. There is some evidence sug-
+gesting that adding humectants to the spray solution can delay
+droplet dryness and increase glufosinate uptake, but this has not
+been used in the ﬁeld.84 Another study demonstrated that
+control levels of three Amaranthus species was higher at 90%
+humidity than at 35% humidity. This was correlated with a large
+difference in leaf uptake and glufosinate translocation out of the
+treated leaves.16 Studies on temperature effects on control of
+weeds with glufosinate have consistently shown lower control
+under low temperatures. Raphanus raphanistrum control was
+greatly affected by temperature. Complete control could be
+achieved with 500 g ha−1 at 25 °C/20 °C, but the same rate of
+glufosinate provided less than 20% control at 10 °C/5 °C. This
+difference in sensitivity was correlated with an increase in the
+amount of glufosinate translocated out of the treated leaf at
+the higher temperature.17
+12 TIME-OF-DAY EFFECT ON
+GLUFOSINATE EFFICACY
+Because glufosinate is a light-dependent herbicide,58 weed con-
+trol also depends on the time of day of spraying (Fig. 10).77 Early
+morning and late afternoon applications usually provide lower
+levels of weed control than midday applications. For example,
+glufosinate treatment at noon provided, on average, 40% higher
+levels of weed control compared to applications performed at
+4 h after sunrise or before sunset.79 Under greenhouse condi-
+tions, glufosinate application at 1 pm provided a substantially
+higher performance and consistency compared to 10 p.m.
+(Fig. 11(a)). The turnover of GS following glufosinate treatment
+at 1 PM versus at 10 p.m. provides interesting insights on why
+plants tend to survive applications in the dark (Fig. 11(b)). In
+the absence of light at the time of application (10 p.m.), plants
+are not affected by the massive ROS-driven burst since it is a
+light-dependent process. Consequently, plants are able to
+recover GS activity within 24 HAT, allowing survival and
+regrowth in the following days. Interestingly, higher levels of
+glufosinate uptake are observed in dark-treated plants com-
+pared to light-treated plants. However, higher glufosinate con-
+centrations in the leaf tissue of dark-treated plants does not
+translate into higher phytotoxicity levels. This suggests when
+applications are followed by a dark period (sunset), plants could
+compartmentalize glufosinate somewhere in the cell
+(e.g. vacuole, apoplast) where it can no longer bind to GS even
+after the sunrise in the next morning. For these reasons, glufosi-
+nate applications are typically recommended under full sunlight,
+warm temperatures, and high humidity (Fig. 10).
+Figure 10 Glufosinate efﬁcacy depends on several factors related to the
+spraying conditions, air temperature and humidity, and the target
+weeds. A good application technology and weather conditions can
+increase uptake levels, but the ﬁnal concentration of glufosinate in
+leaves depends on metabolism rates. A greater concentration in the tis-
+sue will translate into increased ROS accumulation at full sunlight, ulti-
+mately leading to a better efﬁcacy. AMS, ammonium sulfate; ROS,
+reactive oxygen species.15,58,59,77–82
+Figure 11 Glufosinate is a light-dependent herbicide and more effective when sprayed at full sunlight compared to night application. Time of day effect
+on glufosinate efﬁcacy (a) and the turnover of glutamine synthetase (b) following glufosinate treatment at 1 or 10 p.m.
+www.soci.org HK Takano, FE Dayan
+wileyonlinelibrary.com/journal/ps © 2020 Society of Chemical Industry Pest Manag Sci 2020
+10
+13 OTHER FACTORS AFFECTING THE
+EFFICACY OF GLUFOSINATE
+Several factors associated with the application conditions can also
+affect glufosinate efﬁcacy (Fig. 10). Carrier water hardness and
+basic pH have shown antagonism for weak-acid herbicides such
+as glufosinate and glyphosate. Optimum levels of glufosinate efﬁ-
+cacy on Ambrosia triﬁda, Erigeron canadensis and Amaranthus pal-
+meri were obtained using an acidic carrier water (pH 4–6) that was
+free of hardness and metal cations such as iron, copper, and mag-
+nesium.80 Ammonium sulfate is a well-known adjuvant for weak
+acid herbicides as it can increase uptake rates. While most glufo-
+sinate products are already formulated with surfactants, the addi-
+tion of ammonium sulfate to the tank increases efﬁcacy on most
+weed species signiﬁcantly, and its use is widely recommended.81
+Finally, application technology is also an important factor limiting
+glufosinate efﬁcacy and, applications are normally performed
+with spray volume higher than 140 L ha−1 using ﬁne to medium
+size spray droplets, depending on the target weed species to
+achieve optimum coverage and performance. Though these con-
+ditions may change if glufosinate is sprayed in tank-mix with her-
+bicides that are more prone to off-target movement such as the
+synthetic auxin herbicides, requiring larger spray droplet size.82
+14 OPPORTUNITIES TO IMPROVE THE
+EFFICACY OF GLUFOSINATE
+14.1 Synergism between glufosinate and
+protoporphyrinogen oxidase inhibitors
+The new understanding on the mode of action of glufosinate has
+generated new ideas to enhance herbicidal activity. Since the
+rapid action of glufosinate is dependent on light activation of
+ROS, tank mixing it with other herbicides with similar physiologi-
+cal responses could lead to improved weed control. Herbicides
+targeting PPO cause protoporphyrin IX accumulation, which is a
+photodynamic compound that leads to ROS generation.2 The
+tank mix of PPO-inhibitors and glufosinate provides enhanced
+herbicidal activity compared to the products applied individu-
+ally.86 The synergistic effect originates from the inhibition of GS
+by glufosinate leading to a transient accumulation of glutamate,
+the precursor for chlorophyll biosynthesis in plants. Inhibition of
+chlorophyll biosynthesis by PPO-inhibitors causes accumulation
+of protoporphyrin IX, which is enhanced by the accumulation of
+glutamate in the presence of glufosinate. Thus, the synergism
+observed with the mixture between glufosinate and PPO-
+inhibitors results from protoporphyrin IX accumulation to higher
+levels when both GS and PPO are inhibited simultaneously. The
+herbicide combination also provided improved weed control in
+the ﬁeld, and may help to overcome negative effects of environ-
+mental conditions on glufosinate performance.86 While this com-
+bination has potential to be widely adopted, the effect seems to
+vary across species, doses, and PPO chemistry. Thus, more
+research is needed to identify the best combination for each par-
+ticular situation to maximize the synergistic effect on weed
+control.
+14.2 Glufosinate interaction with other herbicides and
+inhibitors
+Synergistic herbicidal compositions have also been reported for
+the combination of glufosinate and sulfonylurea herbicides.87
+Tank-mixing glufosinate with 2,4-D or dicamba also provided
+additive or synergistic effect controlling glyphosate-resistant
+broadleaf weeds and might be largely adopted in transgenic glu-
+fosinate + dicamba and glufosinate +2,4-D resistant crops.88 How-
+ever, glufosinate mixtures with other herbicides have not always
+worked well. For example, glufosinate antagonized acetyl CoA
+carboxylase inhibitors for Eleusine indica control.89 Glufosinate
+also antagonized glyphosate efﬁcacy on Setaria faberi and Abuti-
+lon theophrasti by reducing the translocation of glyphosate.90 Glu-
+fosinate efﬁcacy was reduced by adding monosodium methyl
+arsenate to the tank.91 Therefore, glufosinate mixtures with other
+herbicides must be used carefully to minimize potential antago-
+nistic effects and optimize herbicidal efﬁcacy on weeds.
+The use of compounds interfering with the plant capacity to
+detoxify ROS could also synergize glufosinate. For instance,
+dithiocarbamates chelators can suppress the activity of superox-
+ide dismutase by removing copper from the enzyme. These com-
+pounds provided synergistic activity with paraquat as well as
+lactofen, herbicides generating ROS by different mechanisms.92
+However, the actual effect of dithiocarbamates as synergists of
+glufosinate has not been reported. Preliminary ﬁndings have
+recently suggested a potential enhancement of glufosinate efﬁ-
+cacy by 4-chloro-7-nitrobenzoxadiazole (NBD-Cl) under ﬁeld con-
+ditions. The addition of 17 g ha−1 NBD-Cl to 656 g ha−1
+glufosinate provided almost 100% control on 1 m-tall Amaranthus
+palmeri plants even when applications were performed in the
+dark (10 pm).93 NBD-Cl can inhibit glutathione-S-transferases
+(GST) and has already proven to reverse metabolism-based herbi-
+cide resistance via GST conjugation.94 Even though GST overex-
+pression has been found in an Amaranthus palmeri population
+with reduced sensitivity to glufosinate,95 the capacity for herbi-
+cide conjugation and its subsequent inhibition by NBD-Cl remains
+to be proven.
+15 EVOLUTION OF GLUFOSINATE
+RESISTANCE IN WEEDS
+To date, only ﬁve cases of glufosinate resistance in the ﬁeld have
+been reported worldwide (Table 3).11 Glufosinate resistance was
+ﬁrst documented in a Eleusine indica ﬁeld population from Malay-
+sia, and the resistance mechanism in this population was not asso-
+ciated with target site alterations, herbicide metabolism, nor
+reduced uptake and translocation.96 A potential glufosinate-
+resistance mechanism that has not been investigated in Eleusine
+indica is vacuolar sequestration, similar to what has been
+observed for glyphosate in Erigeron and Lolium species.103 In addi-
+tion, given that the herbicidal activity of glufosinate results from a
+massive oxidative stress, an increased antioxidant capacity
+could provide reduced sensitivity to glufosinate in plants, similar
+to other ROS-based herbicides such as PPO-inhibitors.104 A
+L. perenne ssp. multiﬂorum population from Oregon showed
+enhanced levels of glufosinate metabolism (79%) compared to
+susceptible plants (48%), but the metabolites and enzymes
+involved are yet to be determined.76 Other glufosinate-resistant
+L. perenne and L. rigidum populations have been identiﬁed, but
+their resistance mechanisms have not been investigated.98,102
+More recently, an Amaranthus palmeri population from Arkansas
+showed reduced sensitivity to glufosinate along with increased
+expression of genes associated to detoxiﬁcation enzymes such
+as GST and cytochrome P450 monooxygenases.95 However, the
+direct association between these enzymes, herbicide metabolism,
+and the lower sensitivity to glufosinate in Amaranthus palmeri
+requires further investigation.
+Glufosinate review www.soci.org
+Pest Manag Sci 2020 © 2020 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+11
+In addition to increased metabolism rates conferring glufosi-
+nate resistance in L. perenne ssp. multiﬂorum, a target site muta-
+tion (Asp173Asn) had been associated with glufosinate
+resistance in a different population.105 While this mutation segre-
+gated with the resistance phenotype, it was shown to be located
+far away from the catalytic site of GS.76 A protein homology model
+of L. perenne ssp. multiﬂorum GS2 shows that Asp173Asn is
+located 19.8 and 18.1 Å away from glufosinate and ATP binding
+sites, respectively (Fig. 12). The mutation is positioned on a ⊍-helix
+that is separated from the catalytic site by a ⊎-sheet in between.
+The fact that GS is a highly allosteric enzyme suggests that even
+those mutations outside of the catalytic site could reduce glufosi-
+nate afﬁnity. However, in vitro GS assays showed that the
+Asp173Asn mutation did not decrease the enzyme sensitivity to
+glufosinate, which proves that glufosinate resistance is not caused
+by that.76 The assembled view of multiple GS chains forming a
+decamer further conﬁrms that Asp173Asn is unlikely to affect
+the binding of glufosinate on its target site.
+Amino acid substitutions affecting the residues that are critical
+for glufosinate stability in GS could potentially lead to a
+glufosinate-insensitive form of the enzyme (Fig. 6). For example,
+glufosinate-resistant soybean cells were obtained with an amino
+acid substitution (His249Tyr), providing 50-fold resistance at the
+cellular level.69 In vitro enzyme activity assays showed that resis-
+tance in soybean cells was due to reduced GS sensitivity to
+herbicide inhibition. Amino acid alterations on residues Glu297
+and Asp56 have also provided a glufosinate-insensitive GS by
+site-direct mutagenesis in dry beans.36 While these target site
+mutations alter glufosinate binding to GS, they are also likely
+to affect the interaction of GS with glutamate, given the struc-
+tural similarities between them. This would cause a considerable
+ﬁtness penalty to resistant plants, given the essential role of GS
+for plant metabolism. In addition, artiﬁcial overexpression of GS
+provided glufosinate resistance to alfalfa and tobacco, and thus,
+could also evolve in weeds as a survival strategy.68 Therefore,
+the evolution of target site resistance mechanisms leading to
+glufosinate resistance in weeds are possible as long as there is
+enough selection pressure by repeated use of this herbicide.
+Furthermore, the allosteric nature of GS increases the chances
+for the evolution of amino acid alterations leading to glufosi-
+nate resistance.
+16 FINAL COMMENTS
+In the light of the increasing number of herbicide resistant weeds,
+glufosinate plays an important role in weed management world-
+wide. With the development of genetically modiﬁed crops resistant
+to multiple herbicides, the use of glufosinate will likely continue to
+grow. While glufosinate performance can be affected by several fac-
+tors associated to the weed species, the environment, and the appli-
+cation conditions, recent discoveries regarding how glufosinate
+works have paved the way for future research on different
+approaches to enhance the efﬁcacy of glufosinate. The unique char-
+acteristics of glufosinate have intrigued scientists for many years and
+yet there is more to be discovered about this ‘amino acid with unex-
+pected herbicidal properties’.1 The combination of glufosinate with
+PPO-inhibitors is one research area that requires additional studies
+to optimize the synergistic effect on different weed species and
+crops. Likewise, glufosinate resistance mechanisms require further
+investigation as the current understanding is not clear for most resis-
+tant populations. Lastly, even though glufosinate resistance has not
+evolved in many species, diverse strategies should be considered to
+preserve the efﬁcacy of this herbicide and mitigate the evolution of
+multiple herbicide resistance.
+ACKNOWLEDGEMENTS
+This research was funded by BASF Corporation.
+CONFLICT OF INTEREST
+The authors declare no conﬂict of interest.
+Table 3 A limited number of weed species have evolved resistance to glufosinate.11 Cases of glufosinate resistance in the world and their respec-
+tive resistance mechanism and multiple resistance proﬁle
+Species Year RF Resistance mechanism Multiple or cross-resistance Reference
+Eleusine indica 2009 11 Unknown EPSPS/PSI/ACCase 96, 97
+Lolium perenne 2015 6.2 Unknown EPSPS/PPO/amitrole 98, 99
+Lolium perenne ssp. multiﬂorum 2010
+2015
+2.8
+5.5
+Metabolism/unknown EPSPS 76, 100
+Lolium multiﬂorum 2017 11.8 Unknown EPSPS/PPO 99, 101
+Lolium rigidum 2017 7.4 Unknown EPSPS/PPO 98, 99, 102
+RF, resistance factor (based on lethal dose to achieve 50% reduction in growth or survival); EPSPS, 5-enolpyruvylshikimate-3-phosphate synthase
+inhibitor; PSI, photosystem I inhibitors; ACCase, acetyl-CoA carboxylase inhibitors; PPO, protoporphyrinogen oxidase inhibitors.
+Figure 12 Previously reported target site mutation (Asp173Asn) does not
+provide glufosinate resistance. Structure of Lolium perenne ssp. multi-
+ﬂorum GS2 complexed with adenosine diphosphate (ADP) and phosphor-
+ylated glufosinate and its position relative to the location of the
+Asp173Asn mutation (red spheres). This mutation is between at least
+18 Å away from that domain and unlikely to provide glufosinate resis-
+tance. This is also supported by in vitro enzyme assays.76
+www.soci.org HK Takano, FE Dayan
+wileyonlinelibrary.com/journal/ps © 2020 Society of Chemical Industry Pest Manag Sci 2020
+12
+SUPPORTING INFORMATION
+Supporting information may be found in the online version of this
+article.
+REFERENCES
+1 Hoerlein G, Glufosinate (phosphinothricin), a natural amino acid with
+unexpected herbicidal properties. Rev Environ Contam Toxicol 138:
+73–147 (1994).
+2 Dayan FE, Barker AL, Bough R, Ortiz M, Takano HK and Duke SO, Her-
+bicide mechanisms of action and resistance, in Comprehensive Bio-
+technology, ed. by Moo-Young M. Pergamon, Oxford, pp. 36–48
+(2019).
+3 Bayer E, Gugel KH, Hägele K, Hagenmaier H, Jessipow S, König WA
+et al., Stoffwechselprodukte von Mikroorganismen. 98. Mitteilung.
+Phosphinothricin und phosphinothricyl-alanyl-alanin. Helv Chim
+Acta 55:224–239 (1972).
+4 Zhou C, Luo X, Chen N, Zhang L and Gao J, C–P natural products as
+next-generation herbicides: chemistry and biology of glufosinate.
+J Agric Food Chem 68:3344–3353 (2020).
+5 Green BM and Gradley ML, Methods for making L-glufosinate. US Pat-
+ents US20180030487A1: United States (2018).
+6 Cheng F, Li H, Zhang K, Li Q-H, Xie D, Xue Y-P et al., Tuning amino acid
+dehydrogenases with featured sequences for L-phosphinothricin
+synthesis by reductive amination. J Biotechnol 312:35–43 (2020).
+7 Xu J-M, Li F-L, Xue Y-P and Zheng Y-G, Efﬁcient racemization of N-
+phenylacetyl-D-glufosinate for L-glufosinate production. Chirality
+31:513–521 (2019).
+8 Britto DT and Kronzucker HJ, NH4 + toxicity in higher plants: a critical
+review. J Plant Physiol 159:567–584 (2002).
+9 Busi R, Goggin DE, Heap IM, Horak MJ, Jugulam M, Masters RA et al.,
+Weed resistance to synthetic auxin herbicides. Pest Manag Sci 74:
+2265–2276 (2018).
+10 Braz GBP, Oliveira RS Jr, Constantin J, Raimondi MA, Franchini LHM,
+Biffe DF et al., Selectivity of ammonium-glufosinate applied alone
+or in mixture with pyrithiobac sodium in transgenic liberty link cot-
+ton. Planta Daninha 30:853–860 (2012).
+11 Heap IM, International Survey of Herbicide Resistant Weeds. Available:
+http://www.weedscience.org/ [17 March 2020].
+12 Takano HK, Ovejero RFL, Belchior G, Maymone G and Dayan FE,
+ACCase-inhibiting herbicides: mechanism of action, resistance evo-
+lution and stewardship. Sci Agric 78:e20190102 (2021).
+13 Dayan FE, Current status and future prospects in herbicide discovery.
+Plan Theory 8:341 (2019).
+14 Shaner DL, in Herbicide Handbook, Vol. 10, ed. by Shaner DL. Weed
+Science Society of America, Champaign, IL, p. 513 (2014).
+15 Takano HK, Beffa RS, Preston C, Westra P and Dayan FE, Physiological
+factors affecting uptake and translocation of glufosinate. J Agric
+Food Chem 68:3026–3032 (2020).
+16 Coetzer E, Al-Khatib K and Loughin TM, Glufosinate efﬁcacy, absorp-
+tion, and translocation in amaranth as affected by relative humidity
+and temperature. Weed Sci 49:8–13 (2001).
+17 Kumaratilake AR and Preston C, Low temperature reduces glufosinate
+activity and translocation in wild radish (Raphanus raphanistrum).
+Weed Sci 53:10–16 (2005).
+18 Shelp BJ, Swanton CJ and Hall JC, Glufosinate (phosphinothricin)
+mobility in young soybean shoots. J Plant Physiol 139:626–628
+(1992).
+19 Beriault JN, Horsman GP and Devine MD, Phloem transport of D,L-
+glufosinate and acetyl-L-glufosinate in glufosinate-resistant and
+-susceptible Brassica napus. Plant Physiol 121:619–627 (1999).
+20 Takano HK, Patterson EL, Nissen SJ, Dayan FE and Gaines TA, Predict-
+ing herbicide movement across semi-permeable membranes using
+three phase partitioning. Pest Biochem Physiol 159:22–26 (2019).
+21 Shaner DL, Role of translocation as a mechanism of resistance to
+glyphosate. Weed Sci 57:118–123 (2009).
+22 Lea PJ and Miﬂin BJ, Nitrogen assimilation and its relevance to crop
+improvement. Ann Plant Rev 42:1–40 (2018).
+23 Bernard SM and Habash DZ, The importance of cytosolic glutamine
+synthetase in nitrogen assimilation and recycling. New Phytol 182:
+608–620 (2009).
+24 Woolfolk CA and Stadtman ER, Regulation of glutamine synthetase: III
+Cumulative feedback inhibition of glutamine synthetase from
+Escherichia coli. Arch Biochem Biophys 118:736–755 (1967).
+25 Ishiyama K, Inoue E, Watanabe-Takahashi A, Obara M, Yamaya T and
+Takahashi H, Kinetic properties and ammonium-dependent regula-
+tion of cytosolic isoenzymes of glutamine synthetase in Arabidopsis.
+J Biol Chem 279:16598–16605 (2004).
+26 Edwards JW and Coruzzi GM, Photorespiration and light act in con-
+cert to regulate the expression of the nuclear gene for chloroplast
+glutamine synthetase. Plant Cell 1:241 (1989).
+27 Weber A and Flügge UI, Interaction of cytosolic and plastidic nitrogen
+metabolism in plants. J Exp Bot 53:865–874 (2002).
+28 McNally SF, Hirel B, Gadal P, Mann AF and Stewart GR, Glutamine syn-
+thetases of higher plants. Plant Physiol 72:22–25 (1983).
+29 Blackwell RD, Murray AJS and Lea PJ, Inhibition of photosynthesis in
+barley with decreased levels of chloroplastic glutamine synthetase
+activity. J Exp Bot 38:1799–1809 (1987).
+30 Somerville CR and Ogren WL, Inhibition of photosynthesis in Arabi-
+dopsis mutants lacking leaf glutamate synthase activity. Nature
+286:257–259 (1980).
+31 González-Moro B, Mena-Petite A, Lacuesta M, González-Murua C and
+Muñoz-Rueda A, Glutamine synthetase from mesophyll and bundle
+sheath maize cells: isoenzyme complements and different sensitivi-
+ties to phosphinothricin. Plant Cell Rep 19:1127–1134 (2000).
+32 Forlani G, Obojska A, Berlicki Ł and Kafarski P, Phosphinothricin ana-
+logues as inhibitors of plant glutamine synthetases. J Agric Food
+Chem 54:796–802 (2006).
+33 Evstigneeva ZG, Solov'eva NA and Sidel'nikova LI, Methionine sulfox-
+imine and phosphinothrycin: a review of their herbicidal activity and
+effects on glutamine synthetase. Appl Biochem Microbiol 39:539–543
+(2003).
+34 Occhipinti A, Berlicki Ł, Giberti S, Dziȩdzioła G, Kafarski P and
+Forlani G, Effectiveness and mode of action of phosphonate inhibi-
+tors of plant glutamine synthetase. Pest Manag Sci 66:51–58 (2010).
+35 Unno H, Uchida T, Sugawara H, Kurisu G, Sugiyama T, Yamaya T et al.,
+Atomic structure of plant glutamine synthetase a key enzyme for
+plant productivity. J Biol Chem 281:29287–29296 (2006).
+36 Clemente MT and Márquez AJ, Functional importance of Asp56 from
+the ⊍-polypeptide of Phaseolus vulgaris glutamine synthetase. Eur J
+Biochem 264:453–460 (1999).
+37 Hack R, Ebert E, Ehling G and Leist KH, Glufosinate ammonium—
+some aspects of its mode of action in mammals. Food Chem Toxicol
+32:461–470 (1994).
+38 Schulte-Hermann R, Wogan GN, Berry SC, Brown NA, Czeizel A,
+Giavini E et al., Analysis of reproductive toxicity and classiﬁcation
+of glufosinate-ammonium. Regul Toxicol Pharmacol 44:1–76 (2006).
+39 Çomaklı S, Sevim Ç, Kontadakis G, Doğan E, Taghizadehghalehjoughi A,
+Özkaraca M et al., Acute glufosinate-based herbicide treatment in rats
+leads to increased ocular interleukin-1⊎ and c-Fos protein levels, as
+well as intraocular pressure. Toxicol Rep 6:155–160 (2019).
+40 Ebert E, Leist KH and Mayer D, Summary of safety evaluation toxicity
+studies of glufosinate ammonium. Food Chem Toxicol 28:339–349
+(1990).
+41 Dong T, Guan Q, Hu W, Zhang M, Zhang Y, Chen M et al., Prenatal
+exposure to glufosinate ammonium disturbs gut microbiome and
+induces behavioral abnormalities in mice. J Hazard Mater 389:
+122152 (2020).
+42 Lee JH and Kim YW, Prognostic factor determination mortality of
+acute glufosinate-poisoned patients. Human Exp Toxicol 38:
+129–135 (2018).
+43 Park S, Kim DE, Park SY, Gil HW and Hong SY, Seizures in patients with
+acute pesticide intoxication, with a focus on glufosinate ammonium.
+Human Exp Toxicol 37:331–337 (2017).
+44 Ruhland M, Engelhardt G and Pawlizki K, Distribution and metabolism
+of D/L-, L- and D-glufosinate in transgenic, glufosinate-tolerant
+crops of maize (Zea mays L) and oilseed rape (Brassica napus L). Pest
+Manag Sci 60:691–696 (2004).
+45 Yue S, Kong Y, Shen Q, Cui Q, Chen Y and Zhao M, Assessing the
+efﬁcacy-risk of the widely used chiral glufosinate: switch from the
+racemate to the single enantiomer? Environ Sci Technol Lett 7:
+143–148 (2020).
+46 Bartsch K and Tebbe CC, Initial steps in the degradation of phosphi-
+nothricin (glufosinate) by soil bacteria. Appl Environ Microbiol 55:
+711–716 (1989).
+Glufosinate review www.soci.org
+Pest Manag Sci 2020 © 2020 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+13
+47 Laitinen P, Siimes K, Eronen L, Rämö S, Welling L, Oinonen S et al., Fate
+of the herbicides glyphosate, glufosinate-ammonium, phenmedip-
+ham, ethofumesate and metamitron in two Finnish arable soils. Pest
+Manag Sci 62:473–491 (2006).
+48 JiaG,XuJ,LongX,GeS,ChenL,HuDet al., Enantioselective degra-
+dation and chiral stability of glufosinate in soil and water samples
+and formation of 3-methylphosphinicopropionic acid and N-ace-
+tyl-glufosinate metabolites. J Agric Food Chem 67:11312–11321
+(2019).
+49 Behrendt H, Matthies M, Gildemeister H and Görlitz G, Leaching and
+transformation of glufosinate-ammonium and its main metabolite
+in a layered soil column. Environ Toxicol Chem 9:541–549 (1990).
+50 Dorn E, Goerlitz G, Heusel R and Stumpf K, Behaviour of glufosinate-
+ammonium in the environment-degradation in and effects on the
+ecosystem. ZPﬂanz Pﬂanzenpath Pﬂanzensch Sond 13:459–468
+(1992).
+51 Manderscheid R, Schaaf S, Mattsson M and Schjoerring JK, Glufosi-
+nate treatment of weeds results in ammonia emission by plants.
+Agric Ecosyst Environ 109:129–140 (2005).
+52 Tang T, Chen G, Liu F, Bu C, Liu L and Zhao X, Effects of transgenic
+glufosinate-tolerant rapeseed (Brassica napus L.) and the associated
+herbicide application on rhizospheric bacterial communities. Physiol
+Mol Plant Pathol 106:246–252 (2019).
+53 Wild A, Sauer H and Rühle W, The effect of phosphinothricin (glufosi-
+nate) on photosynthesis I. Inhibition of photosynthesis and accumu-
+lation of ammonia. Zeitsch Naturfor 42:263–269 (1987).
+54 Wendler C, Barniske M and Wild A, Effect of phosphinothricin (glufo-
+sinate) on photosynthesis and photorespiration of C3 and C4 plants.
+Photosynth Res 24:55–61 (1990).
+55 Wild A and Wendler C, Inhibitory action of glufosinate on photosyn-
+thesis. Zeitsch Naturfor 48:369–373 (1993).
+56 Wendler C, Putzer A and Wild A, Effect of glufosinate (phosphinothri-
+cin) and inhibitors of photorespiration on photosynthesis and
+ribulose-1,5-bisphosphate carboxylase activity. J Plant Physiol 139:
+666–671 (1992).
+57 Coetzer E and Al-Khatib K, Photosynthetic inhibition and ammonium
+accumulation in palmer amaranth after glufosinate application.
+Weed Sci 49:454–459 (2001).
+58 Takano HK, Beffa R, Preston C, Westra P and Dayan FE, Reactive oxy-
+gen species trigger the fast action of glufosinate. Planta 249:
+1837–1849 (2019).
+59 Takano HK, Beffa R, Preston C, Westra P and Dayan FE, A novel insight
+into the mechanism of action of glufosinate: how reactive oxygen
+species are formed. Photosynth Res 144:361–372 (2020).
+60 Good NE, Activation of the hill reaction by amines. Biochim Biophys
+Acta 40:502–517 (1960).
+61 Younis HM and Mohanty P, Inhibition of electron ﬂow and energy
+transduction in isolated spinach chloroplasts by the herbicide dino-
+seb. Chem Biol Interact 32:179–186 (1980).
+62 Lu Y, Li Y, Yang Q, Zhang Z, Chen Y, Zhang S et al., Suppression of gly-
+colate oxidase causes glyoxylate accumulation that inhibits photo-
+synthesis through deactivating Rubisco in rice. Physiol Plant 150:
+463–476 (2014).
+63 Demidchik V, Mechanisms of oxidative stress in plants: from classical
+chemistry to cell biology. Environ Exp Bot 109:212–228 (2015).
+64 Ullrich WR, Ullrich-Eberius CI and Köcher H, Uptake of glufosinate and
+concomitant membrane potential changes in Lemna gibba G1. Pest
+Biochem Physiol 37:1–11 (1990).
+65 Zhang Q, Cui Q, Yue S, Lu Z and Zhao M, Enantioselective effect of
+glufosinate on the growth of maize seedlings. Environ Sci Pollut Res
+26:171–178 (2019).
+66 Abdeen A and Miki B, The pleiotropic effects of the bar gene and glu-
+fosinate on the Arabidopsis transcriptome. Plant Biotechnol J 7:
+266–282 (2009).
+67 Carbonari CA, Latorre DO, Gomes GLGC, Velini ED, Owens DK, Pan Z
+et al., Resistance to glufosinate is proportional to phosphinothricin
+acetyltransferase expression and activity in LibertyLink® and Wide-
+Strike® cotton. Planta 243:925–933 (2016).
+68 Eckes P, Schmitt P, Daub W and Wengenmayer F, Overproduction of
+alfalfa glutamine synthetase in transgenic tobacco plants. Mol Gen
+Genet 217:263–268 (1989).
+69 Pornprom T, Prodmatee N and Chatchawankanphanich O, Glutamine
+synthetase mutation conferring target-site-based resistance to glu-
+fosinate in soybean cell selections. Pest Manag Sci 65:216–222
+(2009).
+70 Skora Neto F, Coble HD and Corbin FT, Absorption, translocation, and
+metabolism of 14C-glufosinate in Xanthium strumarium, Commelina
+difusa, and Ipomoea purpurea. Weed Sci 48:171–175 (2000).
+71 Jansen C, Schuphan I and Schmidt B, Glufosinate metabolism in
+excised shoots and leaves of twenty plant species. Weed Sci 48:
+319–326 (2000).
+72 Pline WA, Wu J and Hatzios KK, Absorption, translocation, and metab-
+olism of glufosinate in ﬁve weed species as inﬂuenced by ammo-
+nium sulfate and pelargonic acid. Weed Sci 47:636–643 (1999).
+73 Everman WJ, Thomas WE, Burton JD, York AC and Wilcut JW, Absorp-
+tion, translocation, and metabolism of glufosinate in transgenic and
+nontransgenic cotton, Palmer amaranth (Amaranthus palmeri), and
+pitted morningglory (Ipomoea lacunosa). Weed Sci 57:357–361
+(2009).
+74 Everman WJ, Mayhew CR, Burton JD, York AC and Wilcut JW, Absorp-
+tion, translocation, and metabolism of 14C-glufosinate in
+glufosinate-resistant corn, goosegrass (Eleusine indica), large crab-
+grass (Digitaria sanguinalis), and sicklepod (Senna obtusifolia). Weed
+Sci 57:1–5 (2009).
+75 Meyer CJ, Peter F, Norsworthy JK and Beffa R, Uptake, translocation,
+and metabolism of glyphosate, glufosinate, and dicamba mixtures
+in Echinochloa crus-galli and Amaranthus palmeri. Pest Manag Sci
+(2020). https://doi.org/10.1002/ps.5859 in press.
+76 Brunharo CACG, Takano HK, Mallory-Smith CA, Dayan FE and
+Hanson BD, Role of glutamine synthetase isogenes and herbicide
+metabolism in the mechanism of resistance to glufosinate in Lolium
+perenne L. spp. multiﬂorum biotypes from Oregon. J Agric Food Chem
+67:8431–8440 (2019).
+77 Sellers BA, Smeda RJ and Johnson WG, Diurnal ﬂuctuations and leaf
+angle reduce glufosinate efﬁcacy. Weed Technol 17:302–306 (2003).
+78 Steckel GJ, Wax LM, Simmons FW and Phillips WH, Glufosinate efﬁ-
+cacy on annual weeds is inﬂuenced by rate and growth stage. Weed
+Technol 11:484–488 (1997).
+79 Martinson KB, Durgan BR, Gunsolus JL and Sothern RB, Time of day of
+application effect on glyphosate and glufosinate efﬁcacy. Crop Man-
+age 4:1–6 (2005).
+80 Devkota P and Johnson WG, Glufosinate efﬁcacy as inﬂuenced by car-
+rier water pH, hardness, foliar fertilizer, and ammonium sulfate.
+Weed Technol 30:848–859 (2016).
+81 Maschhoff JR, Hart SE and Baldwin JL, Effect of ammonium sulfate on
+the efﬁcacy, absorption, and translocation of glufosinate. Weed Sci
+48:2–6 (2000).
+82 Butts TR, Samples CA, Franca LX, Dodds DM, Reynolds DB, Adams JW
+et al., Spray droplet size and carrier volume effect on dicamba and
+glufosinate efﬁcacy. Pest Manag Sci 74:2020–2029 (2018).
+83 Tharp BE, Schabenberger O and Kells JJ, Response of annual weed
+species to glufosinate and glyphosate. Weed Technol 13:542–547
+(1999).
+84 Ramsey RJL, Stephenson GR and Hall JC, Effect of humectants on the
+uptake and efﬁcacy of glufosinate in wild oat (Avena fatua) plants
+and isolated cuticles under dry conditions. Weed Sci 54:205–211
+(2006).
+85 Kumaratilake AR, Lorraine-Colwill DF and Preston C, A comparative
+study of glufosinate efﬁcacy in rigid ryegrass (Lolium rigidum) and
+sterile oat (Avena sterilis). Weed Sci 50:560–566 (2002).
+86 Takano HK, Beffa R, Preston C, Westra P and Dayan FE, Glufosinate
+enhances the activity of protoporphyrinogen oxidase inhibitors. Weed
+Sci 68:324–332 (2020). https://doi.org/10.1017/wsc.2020.1039.
+87 Hacker E, Rottele M, Dannigkeit W, Hess M and Schumacher H, Syner-
+gistic herbicidal compositions comprising glyphosate or glufosinate
+in combination with a sulfonylurea herbicide. US Patents
+US5599769A: United States (1997).
+88 Joseph DD, Marshall MW and Sanders CH, Efﬁcacy of 2,4-D, dicamba,
+glufosinate and glyphosate combinations on selected broadleaf
+weed heights. Am J Plant Sci 9:1321–1333 (2018).
+89 Burke IC, Askew SD, Corbett JL and Wilcut JW, Glufosinate antago-
+nizes clethodim control of goosegrass (Eleusine indica). Weed Tech-
+nol 19:664–668 (2005).
+90 Besançon TE, Penner D and Everman WJ, Reduced translocation is
+associated with antagonism of glyphosate by glufosinate in giant
+foxtail (Setaria faberi) and velvetleaf (Abutilon theophrasti). Weed
+Sci 66:159–167 (2018).
+91 Koger CH, Burke IC, Miller DK, Kendig JA, Reddy KN and Wilcut JW,
+MSMA antagonizes glyphosate and glufosinate efﬁcacy on broad-
+leaf and grass weeds. Weed Technol 21:159–165 (2007).
+www.soci.org HK Takano, FE Dayan
+wileyonlinelibrary.com/journal/ps © 2020 Society of Chemical Industry Pest Manag Sci 2020
+14
+92 Rogachev I, Kampel V, Gusis V, Cohen N, Gressel J and Warshawsky A,
+Synthesis, properties, and use of copper-chelating amphiphilic
+dithiocarbamates as synergists of oxidant-generating herbicides.
+Pestic Biochem Physiol 60:133–145 (1998).
+93 Priess GL and Norsworthy JK, Making a better glufosinate: improving
+efﬁcacy and alleviating environmental variability, in WSSA/WSWS
+joint meeting, WSSA. WSSA, Maui, HI (2020).
+94 Cummins I, Wortley DJ, Sabbadin F, He Z, Coxon CR, Straker HE et al.,
+Key role for a glutathione transferase in multiple-herbicide resis-
+tance in grass weeds. PNAS 110:5812–5817 (2013).
+95 Salas-Perez RA, Saski CA, Noorai RE, Srivastava SK, Lawton-Rauh AL,
+Nichols RL et al., RNA-Seq transcriptome analysis of Amaranthus pal-
+meri with differential tolerance to glufosinate herbicide. PLoS One
+13:e0195488 (2018).
+96 Jalaludin A, Yu Q, Zoellner P, Beffa R and Powles SB, Characterisation
+of glufosinate resistance mechanisms in Eleusine indica. Pest Manag
+Sci 73:1091–1100 (2017).
+97 Jalaludin A, Ngim J, Bakar BH and Alias Z, Preliminary ﬁndings of
+potentially resistant goosegrass (Eleusine indica) to glufosinate-
+ammonium in Malaysia. Weed Biol Manage 10:256–260 (2010).
+98 Ghanizadeh H, Harrington KC and James TK, Glyphosate-resistant Lolium
+multiﬂorum and Lolium perenne populations from New Zealand are also
+resistant to glufosinate and amitrole. Crop Prot 78:1–4 (2015).
+99 Fernández P, Alcántara R, Osuna MD, Vila-Aiub MM and Prado RD, For-
+ward selection for multiple resistance across the non-selective
+glyphosate, glufosinate and oxyﬂuorfen herbicides in Lolium weed
+species. Pest Manag Sci 73:936–944 (2017).
+100 Avila-Garcia WV and Mallory-Smith C, Glyphosate-resistant Italian rye-
+grass (Lolium perenne) populations also exhibit resistance to glufosi-
+nate. Weed Sci 59:305–309 (2011).
+101 Ichihara M, Tominaga T, Yamashita M and Sawada H, Emergence of
+glyphosate- and glufosinate-resistant Italian ryegrass (Lolium multi-
+ﬂorum) populations in Japanese pear orchards in Japan and their
+responses to several foliar-applied herbicides. Japan Agric Res Q
+54:129–135 (2020).
+102 Travlos IS, Cheimona N, De Prado R, Jhala AJ, Chachalis D and Tani E,
+First case of glufosinate-resistant rigid ryegrass (Lolium rigidum
+gaud.) in Greece. Agronomy 8:35 (2018).
+103 Ge X, d'Avignon DA, Ackerman JJH and Sammons RD, In vivo P-
+nuclear magnetic resonance studies of glyphosate uptake, vac-
+uolar sequestration, and tonoplast pump activity in
+glyphosate-resistant horseweed. Plant Physiol 166:1255–1268
+(2014).
+104 Dayan FE, Barker A, Dayan L and Ravet K, The role of antioxidants in
+the protection of plants against inhibitors of protoporphyrinogen
+oxidase. React Oxygen Species 7:55–63 (2019).
+105 Avila-Garcia WV, Sanchez-Olguin E, Hulting AG and Mallory-Smith C,
+Target-site mutation associated with glufosinate resistance in Italian
+ryegrass (Lolium perenne L. ssp. multiﬂorum). Pest Manag Sci 68:
+1248–1254 (2012).
+Glufosinate review www.soci.org
+Pest Manag Sci 2020 © 2020 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+15

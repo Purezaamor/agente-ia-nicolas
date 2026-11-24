@@ -1,0 +1,708 @@
+=== Fuente: Mills et al_EurJAgro2009_Quantifying the effect of N on productivity of Dactylis glomerata.pdf ===
+
+Europ. J. Agronomy 30 (2009) 63–69
+Contents lists available at ScienceDirect
+European Journal of Agronomy
+journal homepage: www.elsevier.com/locate/eja
+Quantifying the effect of nitrogen on productivity of cocksfoot
+(Dactylis glomerata L.) pastures
+A. Mills a,∗, D.J. Moot a, P.D. Jamieson b
+a Agriculture and Life Sciences Division, Lincoln University, PO Box 84, Canterbury 7647, New Zealand
+b Crop & Food Research, Private Bag 4704, Christchurch 8140, New Zealand
+article info
+Article history:
+Received 27 November 2007
+Received in revised form 26 June 2008
+Accepted 28 July 2008
+Keywords:
+Cocksfoot
+Dactylis glomerata L.
+Nitrogen
+Nitrogen nutrition index
+Orchardgrass
+Radiation use efﬁciency
+Thermal time
+Water use efﬁciency
+abstract
+Inorganic nitrogen fertilisers are commonly applied to crops and pastures to increase or maintain produc-
+tivity. The beneﬁts of N application must be balanced with the potential for environmental damage. At
+Lincoln University, Canterbury, New Zealand a split plot experiment with two irrigation levels (irrigated
+and dryland) and two N fertiliser application rates (0 and 800 kg N/ha/y (2003/2004) or 1600 kg N/ha/y
+(2004/2005) was established on a 9-year-old cocksfoot (Dactylis glomerata L.) dominant pasture to vali-
+date the N dilution curve for temperate grass species. The extent of N deﬁciency of pastures which had
+suboptimal N was quantiﬁed by calculation of a ratio between measured N% of herbage and optimum
+N% from the N dilution curve. The N dilution curve had the form N% = 4.8 DM−0.35 (R2 = 0.65) and the NNI
+ranged from a maximum of 1.2, which indicated luxury uptake, to a minimum of 0.2, which has been
+proposed as the minimum NNI required to result in net growth. When moisture was adequate for growth,
+the main cause of yield differences between +N and −N pastures was radiation use efﬁciency with −N
+pastures producing 0.54 g DM/MJ PAR in spring or less than half that of +N pastures (1.16 g DM/MJ PAR).
+The intrinsic link between water availability and N uptake in dryland and irrigated pastures was explained
+(R2 = 0.88) by the relationship between the water use efﬁciency and N uptake ratio. Periods of low N uptake
+(N deﬁciency) were associated with low water use efﬁciency.
+© 2008 Elsevier B.V. All rights reserved.
+1. Introduction
+Suboptimal nitrogen (N) is the most limiting nutrient for dry
+matter (DM) production in plants (Grindlay, 1997; Azam, 2002;
+Galloway et al., 2003). It reduces productivity indirectly through
+restriction of leaf size and consequently canopy light interception
+(Belanger, 1998) and directly by reducing photosynthesis rates per
+unit leaf area (Novoa and Loomis, 1981; Peri et al., 2002). To over-
+come N limitations inorganic fertilisers are used intensively for crop
+and pasture production. The need to increase or maintain produc-
+tion must then be balanced with the potential effects of N losses
+because leaching of NO3− to groundwater pollutes waterways and
+gaseous loss of N2O contributes to stratospheric ozone depletion
+(IPCC, 2001; Oenema et al., 2005).
+The FAO (2000) reported 65–80% of the N2O component of
+greenhouse gas emissions resulted from agricultural activity and
+estimated 58% was contributed by OECD countries (IPCC, 2001).
+Global N2O emissions from agriculture have been predicted to
+increase 35–60% by 2030, compared with emissions in 2000, due
+∗ Corresponding author.
+E-mail address: millsa@lincoln.ac.nz (A. Mills).
+to increased N fertiliser use and urine returns by grazing livestock.
+To reduce the potential for environmental damage by NO3− and
+N2O, mitigation strategies for N management are required. These
+include increasing N use efﬁciency by using nitriﬁcation inhibitors,
+use of slow release N fertilisers, improving timing of N applications
+and avoiding N applications in excess of plant demand (McSwiney
+and Robertson, 2005; IPCC, 2007). In on-farm pasture management
+these last two represent a low cost opportunity to minimise N
+losses.
+Nitrogen use efﬁciency (kg DM/kg N) is commonly used to deter-
+mine agricultural efﬁciency. However, diminishing response curves
+between DM yield and the rate of applied N fertiliser are agro-
+nomic descriptions. These approaches are environment speciﬁc,
+highly variable and dependent on the time of application and form
+of N fertiliser used (Novoa and Loomis, 1981; Smith et al., 2000).
+Extrapolation of these results may induce N applications in excess
+of plant requirements due to the differences in the main environ-
+mental drivers of temperature, rainfall and solar radiation receipts
+between sites, seasons and years.
+Quantiﬁcation of expected DM responses to applied N may be
+improved using a nitrogen nutrition index (NNI). This accounts for
+the decrease in herbage N concentration (%N) as yield accumu-
+lates (Lemaire et al., 1989), which has previously been incorrectly
+1161-0301/$ – see front matter © 2008 Elsevier B.V. All rights reserved.
+doi:10.1016/j.eja.2008.07.008
+64 A. Mills et al. / Europ. J. Agronomy 30 (2009) 63–69
+attributed to plant age (Lemaire et al., 2007). This decline rep-
+resents the increase in the ratio of structural (low N content) to
+non-structural (metabolic tissue of high N content) material as
+biomass accumulates throughout regrowth (Caloin and Yu, 1984;
+Greenwood et al., 1990; Lemaire and Gastal, 1997; Belanger and
+Gastal, 2000; Jamieson and Semenov, 2000). It can be quantiﬁed
+with a N dilution curve which shows the reduction in herbage N%
+as DM yield (t DM/ha) accumulates for a vegetative crop supplied
+with non-limiting N and sufﬁcient water for growth.
+N(%) = a(DM)−b (1)
+The ‘a’ coefﬁcient represents the optimum N concentration for a
+1.0 t/ha yield and the ‘b’ coefﬁcient describes the decrease in N% as
+DM yield accumulates (Belanger and Gastal, 2000). This relation-
+ship allows the optimum N concentration (Nopt) for a known yield
+to be identiﬁed. These relationships are usually generated from
+sequential harvests within a deﬁned regrowth cycle. For cocksfoot,
+the form of this relationship was reported as N% = 4.8 (DM)−0.32
+(Lemaire et al., 1989).
+This equation provides a stable relationship between N% and DM
+yield across a range of environments but may be species speciﬁc
+(Justes et al., 1994; Lemaire et al., 2007). An NNI is then calculated
+as the ratio between measured N concentration (Nact) and (Nopt)
+for a known yield identiﬁed from the N dilution curve (Belanger
+and Gastal, 2000). The extent of any N deﬁciency is then quan-
+tiﬁed and, if necessary, amendment N applications can be made.
+An NNI of 1.0 indicates optimum N nutrition, values ≥1.0 rep-
+resent luxury consumption (Justes et al., 1994) which gives no
+additional increase in DM yield for the higher N concentration. Val-
+ues <1.0 indicate DM production is compromised by N deﬁciency
+(Belanger and Gastal, 2000). Farruggia et al. (2004) deﬁned the
+‘adequate’ NNI range for growth between 0.8 and 1.0 and Lemaire
+and Gastal (1997) indicated the minimum NNI for net growth was
+0.2.
+Practical application of an NNI for fertiliser management
+requires the ability to combine it with the other drivers of produc-
+tion. For example, temperature has a major inﬂuence on seasonal
+DM production, when soil moisture is nonlimiting. Thus, the objec-
+tives of this study were to (1) validate the form of the nitrogen
+dilution curve proposed for cocksfoot and then subsequently cal-
+culate the NNI, (2) identify the mechanisms responsible for yield
+differences between +N and −N pastures and (3) create an N
+uptake ratio to explain the interaction between soil moisture and
+nitrogen availability. The practical application of these results will
+be improved by matching of fertiliser-N application with pasture
+demand, thus reducing the potential for adverse environmental
+impacts.
+2. Materials and methods
+A split plot experiment was imposed on a 9-year-old ‘Wana’
+cocksfoot dominant monoculture at Lincoln University, Canterbury,
+New Zealand (43◦38′S and 172◦28′E, 11 m a.s.l.) on 30 September
+2003. The soil was a templeton silt loam (Udic Ustochrept, USDA
+Soil Taxonomy) of 0.6–0.8 m depth overlying alluvial gravels (Cox,
+1978; U.S.D.A., 1984; Watt and Burgham, 1992).
+Main plot treatments were dryland (D) or fully irrigated (I) to
+maintain the actual soil moisture deﬁcit at <50 mm in the top 0.5 m
+of the soil proﬁle. Irrigation was applied with a removable over-
+head sprinkler system ﬁtted with a ﬂow meter. Soil moisture was
+measured with TDR (0–0.2 m) (Trace Systems, Model 6050X1, Soil
+Moisture Equipment, Santa Barbara, CA, USA) and neutron probe
+(0.2–2.3 m) (Troxler Electronic Industries Inc., Triangle Research
+Park, NC, USA) every 7–14 d. Subplots were N fertiliser, applied as
+urea, at 0 kg N/ha/y (−N) or 800 kg N/ha/y (+N) in the 2003/2004
+Table 1
+Monthly total rainfall (mm) and mean monthly air temperature (MAT, ◦ C) in 2003,
+2004 and 2005 recorded at the Broadﬁelds Meteorological Station located 2 km
+north of the experiment. Long-term means (LTM) are for the period 1975–2002
+Month Rainfall MAT
+LTM 2003 2004 2005 LTM 2003 2004 2005
+January 51 32 21 34 16.5 16.0 17.9 16.3
+February 41 15 44 19 16.3 15.9 15.2 17.3
+March 50 44 37 37 14.7 15.2 14.0 15.0
+April 46 75 60 52 12.0 10.4 10.6 11.3
+May 50 23 61 7 9.1 10.0 10.4 11.7
+June 64 15 8 19 6.5 8.7 8.4 6.0
+July 64 61 41 18 6.1 5.4 5.2 7.6
+August 62 48 137 14 7.4 7.2 6.2 9.0
+September 43 87 34 39 9.2 9.3 9.0 9.5
+October 51 29 25 41 11.4 10.6 10.8 11.1
+November 52 36 45 45 12.8 12.7 13.8 13.0
+December 50 1 132 33 15.4 15.8 12.1 16.6
+Annual 624 466 645 358 11.4 11.4 11.1 12.0
+growth season (30 September 2003 to 5 October 2004) applied in
+split applications of 100 kg N/ha at the start of 8 of 11 regrowth
+cycles. The rate of N fertiliser was increased to 1600 kg N/ha/y
+for the second growth season based on results from the ﬁrst
+year. Speciﬁcally, 100 kg N/ha was applied for the rotation end-
+ing 8 November 2004 and 150 kg N/ha for all others. Plots were
+6.0 m × 6.0 m and the four treatments (I+N, I−N, D+N and D−N)
+were replicated three times.
+Temperature and rainfall were recorded at the Broadﬁelds
+Meteorological Station located 2 km north of the experiment
+(Table 1). Mean monthly air temperature followed the long-term
+trend and was highest in January 2004 (17.9 ◦C) and lowest in
+July 2004 (5.2 ◦C). Rainfall totalled 515 mm in the ﬁrst growth
+season (30 September 2003 to 5 October 2004) and 523 mm
+in the second (6 October 2004 to 17 October 2005). Total
+irrigation applied was 447 mm in 2003/2004 and 256 mm in
+2004/2005. This difference reﬂects that 66 mm of rainfall fell
+from December–February in 2003/2004 compared with 184 mm in
+2004/2005. As a consequence, irrigated pastures received 262 mm
+of irrigation water in summer 2003/2004 compared with 114 mm
+in 2004/2005.
+In response to initial soil test results (Table 2) 400 kg/ha of sin-
+gle superphosphate and 5.0 t/ha of lime were applied. In 2004,
+Table 2
+Soil test results (0–75 mm) from pure cocksfoot pastures at H18, Lincoln University,
+Canterbury, New Zealand
+Year Treatment pH Olsen P SO4 –S Ca2+ K+ Mg2+ Na+
+(H2 O) (/H9262g/ml) (/H9262g/g) (meq/100 g)
+2003 5.6 14 7 7 13 16 9
+2004 I+N 6.3 19 2 9 6 15 5
+I−N 6.6 21 5 9 7 16 7
+D+N 6.0 30 6 8 7 13 6
+D−N 6.5 26 4 8 9 16 7
+2005 I+N 5.3 17 3 6 4 9 6
+I−N 6.8 20 6 10 7 17 8
+D+N 5.3 27 3 7 4 10 7
+D−N 6.7 27 5 9 9 17 8
+Effect N ns ns N N ns ns
+Signiﬁcance *** * *
+Note: Soil samples were analysed using Ministry of Agriculture and Fisheries
+Quicktest (MAF QT) procedures. Results from replicated soil tests in 2005 are
+ns = non signiﬁcant or N = main effect of nitrogen. Signiﬁcance levels are *p ≤ 0.05 or
+***p ≤ 0.001.
+A. Mills et al. / Europ. J. Agronomy 30 (2009) 63–69 65
+soil tests were bulked across replicates and 100 kg/ha of potas-
+sium sulphate was applied. In 2005, soil tests were made in each
+plot to allow analysis of soil fertility levels at the end of the
+experiment.
+Regrowth periods were ∼25–35 d during active growth and
+extended to a maximum of 52 d over winter. At the end of every
+rotation DM cuts were taken from a 0.2 m2 quadrat with a set of
+electric shears to a residual pasture height of 30 mm. The remainder
+of each plot was then mown to a 30 mm residual height and herbage
+removed. Botanical composition was determined from subsam-
+ples at every harvest. Subsamples of green cocksfoot herbage were
+retained and ground to pass through a 1 mm stainless steel sieve
+(Cyclotec Mill, USA). Nitrogen concentration was determined by
+near infrared spectroscopy (NIRS) by the Agriculture and Life Sci-
+ences Division, Lincoln University.
+To account for seasonal temperature variation, DM production
+was summarised using thermal time (◦Cd) calculated after the iden-
+tiﬁcation of an appropriate base air temperature (Jones and Kiniry,
+1986). Annual thermal time accumulation was calculated for the
+period 30 September 2003 to 5 October 2004 for the 2003/2004
+growth season and from 6 October 2004 to 17 October 2005 for
+the 2004/2005 season. This allowed growth rate to be described
+in a standardised form (kg DM/◦Cd/ha) to allow extrapolation
+of results to environments with different seasonal temperature
+regimes.
+Interception of photosynthetically active radiation (MJ inter-
+cepted PAR/m2) by the canopy was measured at ground level with
+a Sunscan plant canopy analysis system ﬁtted with a BF2 beam
+fraction sensor. This allows simultaneous measurement of inci-
+dent and transmitted PAR (Delta-T Devices Ltd, Burwell, Cambridge,
+UK). System settings were a leaf absorption parameter of 0.85 and
+an ellipsoidal leaf angle distribution parameter of 1.0 indicating a
+canopy tending towards randomness, or equivalent to an extinction
+coefﬁcient of 0.57 (Belanger et al., 1992).
+To allow the Sunscan sensor measurements to be made at
+ground level, and prevent the sensor from disturbing the canopy,
+metal channels (1.0 m × 0.04 m × 0.03 m) were installed in a rep-
+resentative area of each plot. Measurements were initiated 6
+weeks after installation, which allowed the surrounding pasture
+to recover, and continued at 7–14 d intervals from 01/2004. At the
+start of each regrowth cycle, measurements were made to quan-
+tify light interception by residual biomass (leaf, pseudostem and
+dead material) which commonly exceeded 70% of incident PAR, and
+represented a plant area index of ≥2.0 (Mills, 2007), except when
+dryland pastures were exposed to periods of water stress. Changes
+in PAR interception between sequential measurements throughout
+each regrowth cycle were then interpolated to calculate the daily
+rate of increase in canopy interception. Incident total solar radia-
+tion (MJ/m2) was recorded daily at the Broadﬁelds Meteorological
+Station and multiplied by 0.5 (Monteith, 1972) to determine daily
+PAR.
+Because of the intrinsic link between moisture availability and
+N uptake from the soil an N uptake ratio was calculated between N
+recovered in herbage per mm of water consumed (kg N/mm) from
+the 0–1.2 m soil layers. The N uptake ratio was then used as a pre-
+dictor of water use efﬁciency (WUE, kg DM/mm/ha) to quantify
+the combined effect of insufﬁcient soil moisture for growth and N
+deﬁciency on DM production.
+3. Statistics
+Curve ﬁtting procedures, used to describe the decrease in N% as
+DM yield increased, were performed in SYSTAT 9 (SPSS Inc., 1998)
+and analysis of variance (ANOVA) and linear regression were per-
+formed with Genstat 9.0 (Lawes Agricultural Trust, 2006). Radiation
+Table 3
+Total annual DM yield (t DM/(ha y)) of ‘Wana’ cocksfoot pastures at Lincoln Univer-
+sity, Canterbury, New Zealand
+Treatment 2003/2004 2004/2005
+I+N 22.6 (79%) 21.1 (86%)
+I−N 10.5 (79%) 9.1 (84%)
+D+N 15.1 (82%) 16.4 (85%)
+D−N 7.5 (61%) 5.0 (78%)
+Effect I × N × Y
+Signiﬁcance p ≤ 0.05
+S.E.M 0.56
+LSD (˛ = 0.05) 1.82
+Signiﬁcance level, standard error of the mean (SEM) and LSD are reported for the
+I × N × Y interaction. Values in brackets are the percentage of total yield contributed
+by green cocksfoot herbage.
+use efﬁciency (g DM/MJ intercepted PAR) was calculated by linear
+regression between total DM yield and cumulative intercepted PAR
+for each rotation. When ANOVA was signiﬁcant means were sep-
+arated by Fishers protected least signiﬁcant difference (LSD) test
+at ˛ = 0.05 level. The most conservative LSD was used for separa-
+tions of interaction means. Interactions were attributed to main
+effects when ‘F’ ratios for main effects were two orders of magni-
+tude greater than the ‘F’ ratio for the interaction term.
+4. Results
+4.1. Yield
+Total annual yield and yield of the green cocksfoot component
+are shown in Table 3. Total annual DM yield (t DM/ha/y) was 21.9
+(I+N), 9.8 (I−N) and 15.3 t DM/ha/y from D+N pastures. The three
+way interaction (p ≤ 0.05) between irrigation (I), nitrogen (N) and
+year (Y) was caused by D−N pastures which produced 7.5 t DM/ha
+in 2003/2004 compared with 5.0 t DM/ha in 2004/2005. The main
+effect of N accounted for 79% of the total sums of squares compared
+with 1% for the interaction.
+4.2. Accounting for seasonal temperature variation
+To account for seasonal temperature variations, thermal time
+(Tt) was used as a predictor of DM yield. The base air temperature
+(Tb) for growth, which corresponded to the lowest CV and had a
+slope closest to zero (Draper and Smith, 1998), was 3 ◦C. The opti-
+mum temperature for growth was set at 23 ◦C(Mills, 2007) which
+was within the temperature range of 19–23 ◦C measured for maxi-
+mum cocksfoot leaf photosynthesis (Peri et al., 2002).
+The impact of temperature on DM production was summarised
+through accumulated Tt for irrigated pastures (Fig. 1). The effects
+and timing of water stress on DM production of the dryland pas-
+tures were explained previously (Mills et al., 2006) and subsequent
+analysis showed that both +N pastures produced DM at a near con-
+stant rate of 7.0 kg DM/◦Cd/ha above Tb when periods of water stress
+were excluded. For −N pastures the rate was 56% lower (p ≤ 0.001)
+at 3.3 kg DM/◦Cd/ha.
+4.3. The N dilution curve
+The N dilution curve (Fig. 2) is similar to the curve pro-
+duced by Lemaire et al. (1989). The response curve indicates
+that for a 1.0 t DM/ha yield of green cocksfoot herbage the Nopt
+was 4.8%. At 3.0 t DM/ha the Nopt is 3.3%, or 99 kg N/ha in green
+herbage.
+66 A. Mills et al. / Europ. J. Agronomy 30 (2009) 63–69
+Fig. 1. Dry matter (DM) accumulation of I+N (/H17033) and I−N(©) pastures against accu-
+mulated thermal time (Tt) with a base air temperature of 3 ◦ C for a ‘Wana’ cocksfoot
+monoculture at Lincoln University, Canterbury New Zealand. Regression of I+N (—)
+was y = 7.0(0.1)x (R2 = 0.97) and I−N(···)wasy = 3.3 (0.1)x (R2 = 0.95) with stan-
+dard error of the slope given for each regression. Values are the 2-year average
+accumulated from end of rotation harvests.
+4.4. Quantifying the extent of N deﬁciency
+The NNI (Fig. 3) showed that pastures which received no N
+fertiliser were consistently N deﬁcient (NNI < 1.0). In both growth
+seasons, the NNI of dryland pastures deviated from their respec-
+tive irrigated control pastures during periods of water stress. After
+rainfall decreased the actual soil moisture deﬁcit to less than the
+critical limiting deﬁcit of 78 mm (0–0.8 m) (Mills et al., 2006) the
+NNI of dryland pastures recovered to similar or greater values to
+those of irrigated control pastures. Interactions between irrigation
+and N occurred as the soil moisture deﬁcit increased in dryland pas-
+tures in both years. Speciﬁcally, only the I + N pastures maintained
+an NNI ≥ 0.8. All other pastures showed N was deﬁcient with NNI
+between 0.2 and 0.5.
+Fig. 2. Herbage nitrogen content (%) against dry matter (DM) yield of harvested
+green ‘Wana’ cocksfoot above cutting height for I+N pastures grown at Lincoln Uni-
+versity, Canterbury, New Zealand. Rotations when N fertiliser was not applied were
+excluded from analysis. The parameters of the model (–) were y = 4.8(0.16)x−0.35(0.05)
+(R2 = 0.65) ﬁtted to data from 2003/2004 (/H17033) and 2004/2005 (©). Standard errors of
+parameters are shown in brackets. The solid line is the dilution curve (N% = 4.8x−0.32 )
+of Lemaire et al. (1989).
+Fig. 3. Nitrogen nutrition index (NNI) in (a) 2003/2004 and (b) 2004/2005 for I+N
+(/H17033, ©), I−N(■, □), D+N (▼, ▽) and D−N(◆, ♦) treatments imposed on a ‘Wana’
+cocksfoot monoculture at Lincoln University, Canterbury, New Zealand. Closed sym-
+bols represent end of rotation harvests and open symbols are mid rotation harvests.
+Arrows indicate three rotations in 2003/2004 when no N was applied to I+N or D+N
+pastures. The horizontal line indicates the optimal NNI (1.0) at, or above which, N
+is nonlimiting to DM production. Error bars are maximum SEM for (i) I, (ii) N and
+(iii) I × N effects. Gray lines and arrows show periods of moisture stress in dryland
+pastures (Mills et al., 2006).
+4.5. Shoot radiation use efﬁciency (RUE)
+Shoot RUE was averaged for each season and was 1.16, 1.00,
+0.80 and 0.89 g DM/MJ PAR in spring, summer, autumn and win-
+ter, respectively, for the I+N pasture (Fig. 4). For all pastures, RUE in
+autumn was lower than all other seasons. Absolute values ranged
+from 0.26 (D−N pastures in autumn) to 1.27 g DM/MJ PAR (D+N
+pastures in winter). In all seasons, RUE was affected by irrigation,
+N-supply, or their interaction but the effect of N was greatest. The
+NNI obtained from the green cocksfoot herbage was a strong predic-
+tor (R2 = 0.80) of the effect of N on pasture production (Fig. 5). The
+form of the relationship was RUE = −0.23 (0.08) + 1.26(0.10) × NNI.
+4.6. Relationship between N uptake and water availability
+The effect of water stress on pasture production can be described
+by the relationship between relative yield and the actual soil mois-
+ture deﬁcit (Mills et al., 2006). To examine the interaction between
+water use and N uptake, the relationship between the N uptake
+ratio and WUE was assessed (Fig. 6). The relationship (WUE = 6.7
+(0.68) + 20.0(0.80)x; R2 = 0.88) was similar for all pastures. The max-
+imum of 2.4 kg N per mm of water was measured in D+N pastures
+A. Mills et al. / Europ. J. Agronomy 30 (2009) 63–69 67
+Fig. 4. Seasonal patterns of shoot radiation use efﬁciency (RUE, g DM/MJ) of I+N
+(■), I−N(□), D+N (
+ ) and D−N(
+ ) pastures averaged over two growth seasons.
+Error bars are LSD (p ≤ 0.05) for the effect of N in spring and autumn and for I × N
+interactions in summer and winter.
+Fig. 5. Relationship between shoot radiation use efﬁciency (RUE, g DM/MJ PAR) and
+the nitrogen nutrition index (NNI) for I+N (/H17033), I−N(©), D+N (▼) and D−N(▽) pas-
+tures. Data from known periods of water stress were excluded from the analysis.
+The regression was RUE = −0.23(0.08) + 1.26(0.10)*NNI (R2 = 0.80). Standard errors
+of parameters are shown in brackets.
+in autumn when water stress was alleviated. With increasing soil
+moisture deﬁcits the N uptake ratio decreased which consequently
+reduced WUE.
+5. Discussion
+The N dilution curve provided an appropriate basis for analysing
+nitrogen response (Fig. 2). The derived curve was similar to the
+general relationship previously published for temperate C3 grass
+species (Lemaire et al., 1989; Greenwood et al., 1990; Belanger
+and Gastal, 2000). Our study used N concentrations determined
+from green cocksfoot herbage, typical of the situation in a rota-
+tionally grazed pasture. It is not recommended that reproductive
+crops/pastures are evaluated by this method (Duru et al., 1997).
+This is because of changes in partitioning and/or remobilisation of
+root reserves which occurs as pastures change from the vegetative
+to reproductive phase (Parsons and Robson, 1981). This results in a
+‘summer slump’ in pasture productivity (Radcliffe and Baars, 1987)
+caused by low vegetative tiller populations. In this study the repro-
+Fig. 6. Relationship between N uptake ratio (kg N/mm) and water use efﬁciency
+(WUE, kg DM/mm/ha) for I+N (/H17033), I−N(©), D+N (▼) and D−N(▽) ‘Wana’ cocksfoot
+pastures at Lincoln University, Canterbury, New Zealand. Form of the regression was
+WUE = 6.7(0.68) + 20.0(0.80)x (R2 = 0.88). Standard errors of parameters are shown
+in brackets.
+ductive phase was minimised by cutting which removed emerging
+seedheads. The relationship then accounted for variations caused
+by site, season and across years (Lemaire et al., 2007) making it
+more robust for extrapolating results to regions outside of those
+used for derivation than purely agronomic approaches.
+Thermal time proved to be a useful way of accounting for the
+effects of seasonal temperature variation when water was nonlim-
+iting to growth (Fig. 1). The 7.0 kg DM/◦Cd/ha (I + N) was about half
+that reported for vegetative spring growth by Lemaire and Salette
+(1982). Data for the current experiment summarised the annual
+response froma9to10-year-old prostrate ‘Wana’ cocksfoot sward.
+In contrast, Lemaire and Salette (1982) reported only spring pro-
+duction from a 2 to 3-year-old ‘Lucifer’ cocksfoot pasture. In both
+studies the strong linear relationship between accumulated DM
+production and thermal time supports its use to summarise the pro-
+cesses associated with carbon supply and demand. Speciﬁcally, leaf
+appearance (carbon demand) is intrinsically linked to carbon sup-
+ply, through canopy expansion and radiation interception, driving
+vegetative growth.
+Seasonally, RUE of the I+N pastures ranged from 0.80 to 1.16 g
+DM/MJ PAR (Fig. 4). Generally, RUE of all pastures was highest
+in spring and lowest in autumn. Belanger et al. (1994) showed
+shoot RUE of tall fescue (Festuca arundinacea Schreb.) varied season-
+ally however, RUE based on total biomass (root + shoot) was stable
+throughout the year. This indicates that seasonal RUE variation is
+associated with partitioning between roots and shoots.
+Our calculated RUE values are lower than those previously pub-
+lished (Belanger et al., 1994; Yunusa et al., 1995). This probably
+reﬂects differences in methodology and the inherent difﬁculty in
+accurate measurement of intercepted radiation. In this study PAR
+interception was estimated from all canopy components because
+the equipment did not differentiate between green and non-green
+material. Also, placing the Sunscan sensor at ground level we were
+able to estimate PAR interception by residual biomass. At times this
+was predominantly leaf lamina with a high photosynthetic capac-
+ity. At other times, and in different treatments, it was pseudostem
+and senescing or dead material. Lamina N% on 17 October 2005 was
+5.0% for +N pastures compared with 2.7% for −N pastures. Similarly,
+pseudostem contained 3.8 and 1.2% N for the +N and −N pastures,
+respectively. These differences can be expected to affect photosyn-
+thetic capacity (Peri et al., 2002) and therefore RUE. It is likely that
+68 A. Mills et al. / Europ. J. Agronomy 30 (2009) 63–69
+true RUE of established pastures lie somewhere in between the
+conservative values presented for this study and the higher values
+published elsewhere.
+A major effect of insufﬁcient N, when soil moisture was nonlim-
+iting, was to reduce RUE. The RUE of the I−N pastures was less than
+half that of the I+N pastures in all seasons. It is likely that insufﬁcient
+NinI−N pastures reduced canopy photosynthesis as highlighted
+by Peri et al. (2002). In contrast, during periods of water stress
+there were interactions between water availability and N nutri-
+tion. Fig. 3 shows that as water stress developed the NNI of both
+D+N and D−N pastures declined relative to their respective irri-
+gated control pastures. Reduced N availability would have caused
+photosynthesis per unit area to decline (Novoa and Loomis, 1981;
+Greenwood et al., 1990) while water stress reduced canopy expan-
+sion, though effects on individual leaf expansion and suppression
+of tillering (Mills, 2007). The cumulative effect is a reduced surface
+area available for canopy photosynthesis and gas exchange.
+A comparison of N uptake ratio with WUE conﬁrmed that water
+stress limited N uptake (Fig. 6) and DM production. The I−N pas-
+tures generally had lower WUE and N uptake ratios than the I+N
+pastures. This indicates that N deﬁcient pastures used available
+water less efﬁciently in the production of DM than pastures sup-
+plied with nonlimiting N. In addition, as the soil dried the N uptake
+ratio and WUE of dryland pastures declined relative to their irri-
+gated control pastures. This was expected because both factors are
+intrinsically linked which can make it difﬁcult to attribute results
+to an individual factor (Stark and Firestone, 1995). As the soil dries,
+symptoms of N deﬁciency may be observed because nutrient supply
+from soil solution is unable to meet plant demand. The majority of
+N was stored in the top 0–0.2 m of the soil (Mills, 2007). Therefore,
+even if sufﬁcient water for growth can be extracted from deeper
+soil layers, N deﬁciency may occur as the topsoil dries (Garwood
+and Williams, 1967).
+High WUE values (>49 kg DM/mm/ha) from the D+N pastures
+(Fig. 6) consistently occurred after water stress conditions were
+alleviated. This resulted from a higher tiller population (Mills, 2007)
+and RUE (Fig. 5) than the I+N pasture which resulted in rapid
+canopy expansion and uptake of previously unavailable N (Fig. 3).
+This produced a greater surface area for photosynthesis. These
+results are consistent with Volaire et al. (1998) who showed water
+stressed cocksfoot had increased leaf appearance, leaf expansion
+and tiller population than irrigated plants when growth resumed
+post-drought. In addition, a reduction in the evaporation compo-
+nent of evapotranspiration associated with stomatal closure may
+have resulted in greater apparent WUE when soil moisture was
+still insufﬁcient to match pasture demand in the recovery phase
+(Hsiao, 1973; Silcock and Wilson, 1981). It is possible that the high-
+est WUE (60 kg DM/mm/ha) for the D+N pasture in autumn 2005
+was an artefact of the weekly measurement period. During the ﬁve
+weeks of regrowth 103 mm of rain fell with 40 mm over a three day
+period. Of this total ∼35 mm was attributed to drainage to depths
+below the rooting zone based on preferential ﬂow (Brown, 2004).
+If 15 mm of this water actually contributed to growth rather than
+drainage then the WUE of the D+N pasture in this rotation would
+have dropped to 31 kg DM/mm/ha. Soil moisture was not measured
+daily and therefore, it is not possible to determine an accurate value
+for WUE.
+In 2003/2004, annual yield of green cocksfoot herbage of −N
+pastures was 8.3 t DM/ha/y when irrigated and 4.6 t DM/ha/y for
+dryland pastures (Table 3). Nitrogen recovered in herbage indicated
+that I−N pastures accounted for 282 kg N/ha/y in green herbage
+while D−N pastures contained 196 kg N/ha/y (Mills, 2007). This
+amount represents the annual contribution of soil N mineralisation.
+The N dilution curve and cocksfoot yields from individual regrowth
+cycles were used to calculate the amount of N necessary to pro-
+duce these DM yields with nonlimiting N conditions. This showed
+that pastures which received no N fertiliser in 2003/2004 contained
+∼66% of the N required. Effectively soil N supply to −N pastures
+from mineralisation was insufﬁcient for the DM yields produced.
+This suggests that the metabolic N pool, associated with N storage,
+cell division and formation of the photosynthetic system within
+the plant (Caloin and Yu, 1984; Jamieson and Semenov, 2000), was
+reallocated at the expense of photosynthetic efﬁciency to support
+structural/non-photosynthetic N requirements, above a critical
+minimum threshold when moisture was adequate for growth.
+The rate of N fertiliser applied to +N pastures in the second year
+was more than double that required for the yield achieved. How-
+ever, the objective of the study was to ensure that N was not a
+limitation to growth at any time and 12 months later visual differ-
+ences were still present at the site. In the ﬁrst year pH increased in
+all pastures as a result of lime application. The pH of the +N pas-
+tures declined from 6.4 to 5.3 (Table 2) in the second year, which
+was expected as urea fertiliser acidiﬁes soil during nitriﬁcation
+(McLaren and Cameron, 1996).
+In practice, if N fertiliser is applied, a change of approach to graz-
+ing management is required for both irrigated and dryland farming
+systems to reduce the potential for N loss to the environment. Use
+of a combination of growth rate summarised with thermal time
+and the NNI will allow strategic N applications. This will reduce the
+potential for environmental damage which may occur when N is
+applied in excess of plant growth requirements (Reay et al., 2003;
+McSwiney and Robertson, 2005; IPCC, 2007).
+These results have important implications for both irrigated and
+dryland pastoral farming systems. Relationships between DM yield
+and either intercepted radiation or water use are physiological con-
+cepts used to explain productivity. As both concepts can be used to
+explain DM production they are indirectly related. Radiation use
+efﬁciency, as an indirect measure of net canopy photosynthesis,
+was the main cause of yield differences of pastures exposed to sub-
+optimal levels of N nutrition. The water used during that growth
+was used less efﬁciently in the production of DM and emphasises
+the importance of adequate N nutrition when water is available
+for growth. In dryland systems this will be in early spring, as tem-
+peratures increase prior to water stress, and in late summer/early
+autumn when rainfall alleviates drought conditions but before tem-
+perature becomes the main constraint to pasture production in
+winter.
+6. Conclusions
+• The optimum N requirements for cocksfoot growth were
+explained by the relationship between N% and yield. The rela-
+tionship had the form N% = 4.8 × DM−0.35.
+• The main inﬂuence of N deﬁciency was due to differences in RUE
+and this was adequately explained by relating RUE to the NNI
+when water was nonlimiting.
+• The intrinsic link between water availability and N uptake was
+used to explain variation in WUE. The ratio showed regrowth
+periods when N uptake was low also had low WUE. This acknowl-
+edges the link between water uptake and mineral nutrition as the
+soil dries which can confound results in ﬁeld-based studies.
+• The NNI exceeded 1.0 in early spring and after alleviation of water
+stress conditions. The minimum of 0.2 supports the proposal that
+an NNI of 0.2 is the minimum required for growth to occur.
+Acknowledgements
+A. Mills acknowledges ﬁnancial support from AGMARDT, Lincoln
+University, the Cocksfoot Growers Association and Meat & Wool
+New Zealand Ltd.
+A. Mills et al. / Europ. J. Agronomy 30 (2009) 63–69 69
+References
+Azam, F., 2002. Added nitrogen interaction in the soil-plant system—a review. Pak-
+istan Journal of Agronomy 1, 54–59.
+Belanger, G., 1998. Morphogenetic characteristics of timothy grown with varying N
+nutrition. Canadian Journal of Plant Science 78, 103–108.
+Belanger, G., Gastal, F., 2000. Nitrogen utilization by forage grasses. Canadian Journal
+of Plant Science 80, 11–20.
+Belanger, G., Gastal, F., Lemaire, G., 1992. Growth analysis of a tall fescue sward
+fertilised with different rates of nitrogen. Crop Science 32, 1371–1376.
+Belanger, G., Gastal, F., Warembourg, F.R., 1994. Carbon balance of tall fescue (Festuca
+arundinacea Schreb): effects of nitrogen fertilisation and the growing season.
+Annals of Botany 74, 653–659.
+Brown, H.E., 2004. Understanding yield and water use of dryland forage crops in
+New Zealand. Unpublished Ph.D Thesis, Lincoln University, Lincoln, Canterbury.
+288 pp.
+Caloin, M., Yu, O., 1984. Analysis of the time course of change in nitrogen content
+in Dactylis glomerata L. using a model of plant growth. Annals of Botany 54,
+69–76.
+Cox, J.E., 1978. Soils and agriculture of Paparua County, Canterbury, New Zealand.
+New Zealand Soil Bureau Bulletin, 34.
+Draper, N.R., Smith, H., 1998. Applied Regression Analysis, 3rd ed. John Wiley & Sons
+Inc., New York, p. 706.
+Duru, M., Lemaire, G., Cruz, P., 1997. Grasslands. In: Lemaire, G. (Ed.), Diagnosis of
+the Nitrogen Status in Crops. Springer Verlag, Berlin, pp. 59–72.
+FAO, 2000. Fertiliser requirements in 2015 and 2030. Retrieved 24 Jully 2007 2000,
+from, updated 2000: ftp://ftp.fao.org/agl/agll/docs/barﬁnal.pdf.
+Farruggia, A., Gastal, F., Scholeﬁeld, D., 2004. Assessment of the nitrogen status of
+grassland. Grass and Forage Science 59, 113–120.
+Galloway, J.N., Aber, J.D., Erisman, J.W., Seitzinger, S.P., Howarth, R.W., Cowling, E.B.,
+Cosby, B.J., 2003. The nitrogen cascade. BioScience 53 (4), 341–356.
+Garwood, E.A., Williams, T.E., 1967. Growth, water use and nutrient uptake from
+subsoil by grass swards. Journal of Agricultural Science 69, 125–130.
+Greenwood, D.J., Lemaire, G., Gosse, G., Cruz, P., Draycott, A., Neeteson, J.J., 1990.
+Decline in percentage N of C3 and C4 crops with increasing plant mass. Annals
+of Botany 66, 425–436.
+Grindlay, D.J.C., 1997. Towards an explaination of crop nitrogen demand based on the
+optimization of leaf nitrogen per unit leaf area. Journal of Agricultural Science
+128, 377–396.
+Hsiao, T.C., 1973. Plant responses to water shortages. Annual Review of Plant Physi-
+ology 24, 519–570.
+IPCC, 2001. Climate Change 2001: The Scientiﬁc Basis. In: Houghton J. T., Ding
+Y., Griggs D. J., Noguer M., van der Linden P. J., Xiaosu D. (Eds.), Contribution
+of Working Group I to the Third Assessment Report of the Intergovernmen-
+tal Panel on Climate Change (IPCC). Cambridge, Cambridge University Press,
+398 pp.
+IPCC, 2007. Climate Change 2007: Mitigation. In: Metz, B., Davidson, O.R., Bosch,
+P.R., Dave, R., Meyer, L.A. (Eds.), Contribution of Working Group III to the Fourth
+Assessment Report of the Intergovernmental Panel on Climate Change. Cam-
+bridge University Press, Cambridge, United Kingdom and New York, NY, USA.,
+851 pp.
+Jamieson, P.D., Semenov, M.A., 2000. Modelling nitrogen uptake and redistribution
+in wheat. Field Crops Research 68, 21–29.
+Jones, C.A., Kiniry, J.R., 1986. CERES-Maize: A Simulation Model of Maize Growth and
+Development. A&M University Press, College Station, Tx, pp. 194.
+Justes, E., Mary, B., Meynard, J.M., Machet, J.M., Thelier-Hucher, L., 1994. Determina-
+tion of a critical nitrogen dilution curve for winter wheat crops. Annals of Botany
+74, 397–407.
+Lemaire, G., Salette, J., 1982. The effects of temperature and fertiliser nitrogen on the
+spring growth of tall fescue and cocksfoot. Grass and Forage Science 37, 191–198.
+Lemaire, G., Gastal, F., 1997. N uptake and distribution in plant canopies. In: Lemaire,
+G. (Ed.), Diagnosis of the Nitrogen Status in Crops. Springer Verlag, Berlin, pp.
+3–43.
+Lemaire, G., Gastal, F., Salette, J., 1989. Analysis of the effect of N nutrition on dry
+matter yield of a sward by reference to potential yield and optimum N content.
+In: Proceedings of the XVI International Grassland Congress, October 4–11, 1989,
+Nice, France, pp. 179–180.
+Lemaire, G., van Oosterom, E., Sheehy, J.E., Jeuffroy, M.H., Massignam, A., Rossato, L.,
+2007. Is crop N demand more closely related to dry matter accumulation or leaf
+area expansion during vegetative growth? Field Crops Research 100, 91–106.
+McLaren, R.G., Cameron, K.C., 1996. Soil science: an introduction to the proper-
+ties and management of New Zealand soils, 2nd Ed. Oxford University Press,
+Auckland, New Zealand, p. 294.
+McSwiney, C.P., Robertson, G.P., 2005. Nonlinear response of N2 O ﬂux to incremental
+fertiliser addition in a continuous maize (Zea mays L.) cropping system. Global
+Change Biology 11, 1712–1719.
+Mills A. 2007. Understanding constraints to cocksfoot (Dactylis glomerata L.) -based
+pasture production. Unpublished thesis, Ph.D Thesis. Lincoln University, Can-
+terbury. Online access: http://researcharchive.lincoln.ac.nz/dspace/bitstream/
+10182/32/1/mills phd.pdf. 202 p.
+Mills, A., Moot, D.J., McKenzie, B.A., 2006. Cocksfoot pasture production in rela-
+tion to environmental variables. In: Proceedings of the New Zealand Grassland
+Association 68, pp. 89–94.
+Monteith, J.L., 1972. Solar radiation and productivity in tropical ecosystems. Journal
+of Applied Ecology 9, 747–766.
+Novoa, R., Loomis, R.S., 1981. Nitrogen and plant production. Plant and Soil 58,
+177–204.
+Oenema, O., Wrage, N., Velthof, G.L., Groenigen, J.W.V., Dolﬁng, J., Kuikman, P.J.,
+2005. Trends in global nitrous oxide emissions from animal production systems.
+Nutrient Cycling in Agroecosystems 72 (1), 51–65.
+Parsons, A.J., Robson, M.J., 1981. Seasonal changes in the physiology of S24 perennial
+ryegrass (Lolium perenne L.) 3. Partition of assimilates between root and shoot
+during the transition from vegetative to reproductive growth. Annals of Botany
+48 (5), 733–744.
+Peri, P.L., Moot, D.J., McNeil, D.L., Varella, A.C., Lucas, R.J., 2002. Modelling net pho-
+tosynthetic rate of ﬁeld-grown cocksfoot leaves under different nitrogen, water
+and temperature regimes. Grass and Forage Science 57, 61–71.
+Radcliffe, J.E., Baars, J.A., 1987. The productivity of temperate grasslands. In: Snaydon,
+R.W. (Ed.), Ecosystems of the World Managed Grasslands: Analytical Studies,
+17B. Elsevier Science Publishers B.V, Amsterdam, pp. 7–17.
+Reay, D.S., Smith, K.A., Edwards, A.C., 2003. Nitrous oxide emission from agricultural
+drainage waters. Global Change Biology 9 (2), 195–203.
+Silcock, R.G., Wilson, D., 1981. Effect of watering regime on yield and leaf conduc-
+tance of seven Festuca species with contrasting leaf ridging. New Phytologist 89,
+569–580.
+Smith, L.C., Morton, J.D., Catto, W.D., Trainor, K.D., 2000. Nitrogen responses on pas-
+tures in the southern South Island of New Zealand. In: Proceedings of the New
+Zealand Grassland Association 62, pp. 19–23.
+Stark, J.M., Firestone, M.K., 1995. Mechanisms for soil moisture effects on activity of
+nitrifying bacteria. Applied and Environmental Microbiology 61, 218–221.
+U.S.D.A., 1984. Soil taxonomy: a basic system of soil classiﬁcation for making and
+interpreting 446 soil surveys. New York, John Wiley & Sons, Inc. 754 pp.
+Volaire, F., Thomas, H., Lelievre, F., 1998. Survival and recovery of perennial forage
+grasses under prolonged Mediterranean drought: growth, death, water relations
+and solute content in herbage and stubble. New Phytologist 140, 439–449.
+Watt, J.P.C., Burgham, S.J., 1992. Physical properties of eight soils of the Lincoln area
+Canterbury. DSIR Land Resources Technical Record, 103.
+Yunusa, I.A.M., Mead, D.J., Lucas, R.J., Pollock, K.M., 1995. Process studies in a Pinus
+radiata-pasture agroforestry system in a subhumid temperature environment II.
+Analysis of dry matter yields in the third year. Agroforestry Systems 32, 185–204.

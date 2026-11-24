@@ -1,0 +1,1066 @@
+=== Fuente: garbulsky et al_Recent advances in the estimation of photosynthetic stress for terrestrial ecosystem services related to carbon uptake.pdf ===
+
+39
+3
+Recent Advances in the Estimation of 
+Photosynthetic Stress for Terrestrial 
+Ecosystem Services Related to Carbon Uptake
+M. F. Garbulsky
+University of Buenos Aires, Argentina
+I. Filella and J. Peñuelas
+Center for Ecological Research and Forestry Applications (CREAF), Spain
+Contents
+3.1 Introduction .................................................................................................. 40
+3.2  Alternative Ways to Remotely Estimate Photosynthetic Stress of 
+Terrestrial Vegetation ..................................................................................42
+3.2.1 Leaf Pigments ...................................................................................42
+3.2.1.1 Chlorophyll Content .........................................................42
+3.2.1.2 Leaf Pigment Cycles and the Photochemical 
+Reflectance Index ..............................................................44
+3.2.1.3 Drawbacks, Caveats, and Cautionary Remarks ............47
+3.2.2 Chlorophyll Fluorescence ...............................................................49
+3.2.2.1 Basics, Origin, and Characteristics of Fluorescence.....49
+3.2.2.2 Recent Advancements ......................................................51
+3.2.2.3 Future of Chlorophyll Fluorescence ...............................52
+3.2.2.4 Final Comments on Chlorophyll Fluorescence 
+from Space ..........................................................................54
+3.3 Final Considerations ....................................................................................54
+Acknowledgments ................................................................................................56
+References ...............................................................................................................56
+K14591_C003.indd   39 28/08/13   9:10 PM
+40 Earth Observation of Ecosystem Services
+3.1 Introduction
+Estimation of the carbon uptake of terrestrial vegetation is still a major 
+ challenge in evaluating ecosystem services. In general, these services are 
+the direct and indirect contribution of ecosystems to human well-being or, 
+in other terms, the goods and services provided by ecosystems. Because 
+ photosynthesis is the key process mediating 90% of carbon and water fluxes 
+(Joiner et al. 2011), it is one of the main drivers of many of the services  provided 
+by the ecosystems, such as climate regulation, carbon sequestration, carbon 
+storage, food, or livestock grassland production (Costanza et  al. 1997; de 
+Groot et al. 2002; Naidoo et al. 2008). The integrity of ecosystem  services is 
+thus fundamental to human well-being. We need to understand the links 
+between these services and the ecosystem processes. Estimating their mag -
+nitude at the local, regional, and global scales is crucial for  maintaining them 
+over time (Haines-Young and Potschin 2010).
+The distribution of photosynthetic tissues changes across spatial and tem-
+poral scales and across different land uses (e.g., Paruelo et al. 2004). Traditional 
+remote sensing techniques allow the assessment of green plant biomass and, 
+therefore, plant photosynthetic capacity. However, detecting how much of 
+this capacity is actually realized is a more  challenging  goal  that is neces -
+sary to estimate photosynthetic carbon fluxes or the gross primary produc -
+tivity (GPP), the ecosystem level expression of the photosynthetic carbon 
+uptake. The efficiency involved in the conversion of absorbed light by plant 
+photosynthetic tissues into organic compounds (i.e., light use efficiency [LUE] 
+of terrestrial vegetation) also varies in time and space (Runyon et al. 1994; 
+Gamon et al. 1995; Garbulsky et al. 2010) due to the periodic  environmental 
+and physiological limitations of photosynthesis. Contrasting functional 
+types (Gamon et al. 1997; Huemmrich et al. 2010), drought and temperature 
+extremes (Landsberg and Waring 1997; Sims et al. 2006), and nutrient levels 
+(Gamon et al. 1997; Ollinger et al. 2008) are the factors that contribute to this 
+variability.
+In various forms, the simple relationships between primary productivity 
+and the product between absorbed radiation by vegetation and the efficiency 
+that plants convert radiation into biomass (Monteith 1977), have been the basis 
+for many evaluations of photosynthesis and primary production from the 
+canopy scale to the global scale (Field et al. 1995; Running et al. 2004). Monteith 
+(1977) originally proposed this relationship for the estimation of the net pri-
+mary productivity (NPP). However, production efficiency models (PEMs) are 
+based on the theory of LUE for GPP, which states that a relatively constant 
+relationship exists between photosynthetic carbon uptake and radiation 
+absorbed by the canopy. Different approaches for estimating carbon uptake 
+are based on this model of LUE. Many of these approaches have assumed a 
+constant efficiency (Myneni et al. 1995) or derived this term from constant 
+values by biome, cited in the literature (Ruimy et al. 1994). Another approach 
+K14591_C003.indd   40 28/08/13   9:10 PM
+41Recent Advances in the Estimation of Photosynthetic Stress
+is to downregulate the maximum efficiency by biome using  meteorological 
+variables, such as vapor pressure deficit (VPD) and temperature, as surro -
+gates for photosynthetic stresses (Running et  al. 2004). Because VPD and 
+temperature alone are not always good surrogates of reduced efficiency 
+(Garbulsky et al. 2010), meteorologically based  methods may not always ade-
+quately explain efficiency variation. Therefore, other methods of determin -
+ing photosynthetic stress or LUE for carbon uptake estimations are needed 
+to produce better assessments of the derived ecosystem services. A direct 
+remote estimation of LUE may thus be of great importance and may have 
+multiple applications, such as estimation of productivity (CO 2 fi xation) or 
+detection of effects of environmental stress on vegetation carbon uptake, that 
+may precede reduction in leaf area (Garbulsky et al. 2008b).
+Since concerns have recently been voiced by the scientific community 
+and the society at large regarding the global effects of the alteration in car -
+bon cycle, important improvements in our capacity to remotely estimate 
+LUE have occurred (Grace et al. 2007). The approaches to remotely estimate 
+LUE are linked to how we can gather a signal of the photosynthetic effi -
+ciency from reflected light, heat, or chlorophyll  fluorescence (Figure  3.1). 
+Although the theory of developing remotely sensed  estimations from these 
+pathways seems clear enough and estimations are made at different scales, 
+Reflected light 
+Incident light 
+Heat
+Transmitted light 
+Chlorophyll 
+Fluorescence
+Photosynthesis
+Absorbed light 
+FIGURE 3.1 (see color insert.)
+The incidental sunlight reaching the leaves and the complementary pathways of absorbed 
+light after the interception by the canopy. Absorbed light by chlorophylls can be used to drive 
+photochemistry, a process that can use up to 80% of the absorbed radiation. Alternatively, 
+it can be lost as fluorescence (between 0.5% and 2% of absorbed radiation) or as heat (18%–
+98%). Photosynthesis, chlorophyll fluorescence, and heat loss are closely linked and in direct 
+ competition; thus, the increase of the rate of one process will unfailingly decrease the rate of 
+the others.
+K14591_C003.indd   41 28/08/13   9:10 PM
+42 Earth Observation of Ecosystem Services
+complications still are being resolved as new platforms and sensors become 
+available.
+The main challenge related to the remote estimation of carbon uptake and 
+primary productivity is to elucidate how to scale up the signal from leaves 
+to the entire ecosystem and, therefore, how remote sensors can make assess-
+ments from foliar to ecosystem functional traits. In particular, the challenge 
+is to estimate the actual photosynthetic performance or leaf photosynthesis 
+stress and to scale up this to the ecosystem level. In this chapter, we review 
+and synthesize recent approaches to remotely estimating LUE (i.e., the 
+ photosynthetic efficiency of carbon uptake) using current and future data. 
+We present state-of-the-art methods of estimating LUE and recent advances 
+in available remote sensing technologies and data.
+3.2  Alternative Ways to Remotely estimate 
+Photosynthetic stress of terrestrial Vegetation
+3.2.1 Leaf Pigments
+Leaf pigment variation is a key tool for diagnosing a range of plant 
+ physiological properties and processes (Peñuelas and Filella 1998; Blackburn 
+2007). Different approaches related to contents and cycles of leaf pigments 
+that try to estimate carbon uptake efficiency are based on the relationship 
+with  biochemical processes at the leaf level.
+3.2.1.1 Chlorophyll Content
+This approach is based on the remote estimation of the crop chlorophyll 
+content (Chl) of vegetation as an estimator of GPP. In annual crops, because 
+long- or medium-term changes in canopy Chl are related to crop phenol -
+ogy, canopy stresses, and photosynthetic capacity of the vegetation (e.g., 
+Ustin et al. 1998; Zarco-Tejada et al. 2002), these can also be related to GPP. 
+At the canopy level, Chl may appear to be the community property most 
+relevant for the prediction of productivity (Dawson et al. 2003). Chlorophyll 
+content is not a surrogate of LUE, but it estimates the total photosynthesis 
+capacity. This approach does not precisely depend on LUE estimation, but 
+it assumes that Chl is equivalent to the product of the fraction of absorbed 
+ photosynthetically active radiation (fAPAR) × LUE. In principle, it does not 
+depend on the relationship between the widely used Normalized Difference 
+Vegetation Index (NDVI), a spectral index derived from the red and infrared 
+reflectances of the canopy, and fAPAR. In this context, it is proposed that the 
+LUE model can be written as GPP = VI × PAR, where VI is a spectral index 
+proxy of Chl.
+K14591_C003.indd   42 28/08/13   9:10 PM
+43Recent Advances in the Estimation of Photosynthetic Stress
+The previously mentioned vegetation indices (VIs) are based on reflec -
+tance (ρ) in two spectral channels: the near-infrared (NIR) and either the 
+green or the red edge. Several VIs, such as the MERIS Terrestrial Chlorophyll 
+Index (MTCI = [ ρNIR−ρred edge]/[ρred edge−ρred]) and chlorophyll indi -
+ces (CIgreen = ρNIR/ρgreen−1; CIred edge = ρ NIR/ρred edge−1) have been 
+specifically proposed to estimate total Chl content (Gitelson et al. 2003, 2005; 
+Dash and Curran 2004). In annual crops, such as maize, the relationships 
+between total Chl content and VIs showed that some VIs could explain 
+more than 87% of Chl content variation (Peng et al. 2011). The determina -
+tion coefficient of the relationship between CIgreen or CIred edge and total 
+Chl in maize and soybean exceeded 0.92 (Gitelson et al. 2005). Thus, these 
+ chlorophyll- and green Leaf Area Index (LAI)-related VIs can be used as 
+a proxy for Chl in the model GPP = VI × PAR, specifically for herbaceous 
+annual crops in which water or nutritional stresses will lead to a fast decrease 
+in carbon uptake through total chlorophyll loss. At the ecosystem level, 
+across 15 eddy covariance  towers encompassing a wide variation in North 
+American vegetation composition, the relationship between MTCI and 
+tower GPP was stronger than that between either the Moderate Resolution 
+Imaging Spectroradiometer (MODIS) GPP or Enhanced Vegetation Index 
+(EVI) and tower GPP in croplands and deciduous forests, and to a lesser 
+degree in grasslands. However, this was not the case in evergreen forests 
+(Harris and Dash 2010) or in peatlands (Harris and Dash 2011). These analy-
+ses suggest that data from the MERIS sensor can be used as an alternative to 
+MODIS for estimating carbon fluxes. Correlations between tower GPP and 
+both vegetation indices (EVI and MTCI) were similar only for deciduous 
+vegetation, indicating that physiologically driven spectral indices, such as 
+the MTCI, may also complement existing structurally based indices in satel-
+lite-based carbon flux modeling efforts. The relationship between GPP and 
+any chlorophyll index may thus be highly dependent in its parameters and 
+its strength for different vegetation functional types (Figure 3.2).
+The last evaluations of the model that relied on total Chl content and inci-
+dent PAR showed that it can be applied to accurately estimate GPP in irrigated 
+and rain-fed maize and soybean (Peng and Gitelson 2012). Due to differences 
+in leaf structures and canopy architectures, the algorithms for GPP estima -
+tion are species-specific for maize and soybean, especially when using VIs 
+with NIR and either red or green reflectance. However, it is possible to apply 
+a unified algorithm for GPP estimation in both maize and soybean using 
+CIred edge, MTCI, and red edge NDVI with MERIS spectral bands, which 
+are least sensitive to different crop species. CIred edge and red edge NDVI 
+with the red edge band around 720 nm were found to be non-species-specific 
+for maize and soybean and to be very accurate in the estimation of GPP in 
+maize and soybean combined.
+This technique can provide accurate estimations of midday GPP in maize 
+and soybean crops, and perhaps other annual crops, under rainfed and 
+irrigated conditions because of a rather constant relationship between LUE 
+K14591_C003.indd   43 28/08/13   9:10 PM
+44 Earth Observation of Ecosystem Services
+and chlorophyll content. In contrast, there is little evidence for the utility of 
+this approach in ecosystem types such as evergreen forest or other drought-
+adapted canopies. Further studies used the green CI (CIgreen)—mainly 
+proposed for the estimation of canopy chlorophyll content (Gitelson et  al. 
+2005)—as an estimator of midday LUE using cloud-free MODIS images 
+(500 m) and flux measurements in maize (Wu et al. 2012). This relationship 
+was then successfully applied for the estimation of midday LUE for conifer -
+ous forest and grassland.
+3.2.1.2 Leaf Pigment Cycles and the Photochemical Reflectance Index
+One proven pathway for detecting the spatial and temporal variations in 
+LUE is the remote sensing of plant pigment cycles. The foundation of this 
+remote sensing approach for estimating LUE is the de-epoxidation state of 
+the xanthophyll cycle, which is linked to heat dissipation of leaves (Demmig-
+Adams and Adams 1996). This is a decay process of excited chlorophyll that 
+competes with and is complementary to photosynthetic electron transport 
+(Niyogi 1999). Hyperspectral remote sensing has been used to develop tech-
+nologies and analytical methods for quantifying pigments nondestructively 
+and repeatedly across a range of spatial scales. The recent progress in deriv-
+ing predictive relationships among various characteristics and transforma -
+tions of hyperspectral reflectance data related to plant pigments showed an 
+expanding range of applications in the ecophysiological, environmental, 
+agricultural, and forestry sciences (Blackburn 2007; Nichol et al. 2012).
+15GPP
+Grasslands
+Evergreenforests
+Deciduousforests
+Crops
+0
+0 1 23456
+Chlorophyll index
+FIGURE 3.2
+Schematic relationships between midday gross primary productivity (GPP) and a chlorophyll 
+index in ecosystems with contrasting phenologies and GPP dynamics. Although the relation -
+ships for crops and deciduous forests are well supported by the literature, those for grasslands 
+and evergreen forests are not because of the lower strength and high dispersion of the data 
+symbolized by the ellipses.
+K14591_C003.indd   44 28/08/13   9:10 PM
+45Recent Advances in the Estimation of Photosynthetic Stress
+During the 1990s, a series of studies at the leaf and close canopy levels 
+using close-range remote sensing from the ground or from low platforms 
+were able to assess this efficiency parameter (LUE) based on concurrent 
+ xanthophyll pigment changes (Gamon et al. 1990, 1992, 1997; Peñuelas et al. 
+1994, 1995, 1997, 1998; Filella et al. 1996; Gamon and Surfus 1999). Because 
+reflectance at 531 nm is functionally related to the de-epoxidation state of 
+the xanthophyll cycle (Gamon et al. 1990, 1992; Peñuelas et al. 1995), a pho -
+tochemical reflectance index (PRI; typically calculated as [R531 − R570]/
+[R531 + R570], where R indicates reflectance and numbers indicate wave -
+length nanometers at the center of the bands) was developed as a method 
+to remotely assess photosynthetic efficiency using narrow-band reflectance 
+(Gamon et al. 1992; Peñuelas et al. 1995).
+PRI measures the relative reflectance on either side of the green reflec -
+tance peak (550 nm, Figure 3.3); therefore, it also compares the reflectance 
+in the blue (chlorophyll and carotenoids absorption) region of the spec -
+trum with the reflectance in the red (chlorophyll absorption only) region 
+(Peñuelas et al. 2011). Consequently, it can serve as an index of relative chlo-
+rophyll/carotenoid levels, often referred to as bulk pigment ratios. Over 
+longer time scales (weeks–months), changes in bulk pigment content and 
+ratios due to leaf development, aging, or chronic stress have been reported 
+to play a  significant role together with the xanthophyll pigment epoxida -
+tion in the PRI signal (Peñuelas et al. 1997; Gamon et al. 2001; Stylinski et al. 
+2002). Thus, PRI is also often related to carotenoid/chlorophyll ratios in 
+400 500 600 700 800
+Light use efficiencyPRI = (R531 – R570) (R531 + R570)
+900
+Wavelength (nm)
+0.1
+0
+0.2
+0.3
+531 570 
+0.5
+0.4
+Heat dissipation of excess PAR
+not used for photosynthesis 
+Zeaxanthin in the xanthophyll cycle
+carotenoids/chlorophyll
+Decreased
+reflectance
+at 531 nm
+Reference
+FIGURE 3.3
+The pigments cycle approach to remotely sense gross light use efficiency (LUE) in terrestrial 
+vegetation by means of the photochemical reflectance index (PRI). The remote sensing of the 
+xantophyll cycle provides a surrogate for the estimation of dissipation of excess radiation not 
+used for photosynthesis from leaf to primary productivity at regional scales. Dark gray for the 
+arrows and reflectance spectrum are indicative of conditions with excess radiation and there -
+fore low LUE while the gray spectrum around 531 nm indicates the conditions with high LUE.
+K14591_C003.indd   45 28/08/13   9:10 PM
+46 Earth Observation of Ecosystem Services
+leaves across a large number of species, ages, and conditions (Stylinski et al. 
+2002; Filella et al. 2009). Therefore, to the extent that photosynthetic  activity 
+ correlates with changing chlorophyll/carotenoid ratios in response to stress, 
+ontogeny, or senescence, PRI may provide an effective measure of rela -
+tive  photosynthetic rates. Seasonally varying pigment levels also strongly 
+affect PRI. This  seasonal variation may actually help explain the good 
+performance of PRI to predict LUE because of the covarying  chlorophyll/
+carotenoid ratios with xanthophyll pigment levels. All the relationships 
+described here show that this approach offers great possibilities for signifi-
+cantly improving the monitoring of CO 2 uptake in terrestrial ecosystems 
+globally as well as regionally.
+Although the mechanics of these wavelength selections have been fully 
+explored at the leaf scale (Gamon et al. 1993), there is less support at a can -
+opy or greater scale, where a variety of alternate wavebands have been used 
+that are often based on statistical correlations (Gamon et al. 1992; Inoue et al. 
+2008) or determined by instrument limitations (Garbulsky et al. 2008b). The 
+lack of a clear consensus in the literature on which PRI wavelengths best 
+estimate LUE has hindered cross-study comparisons. Consequently, it is not 
+entirely clear if the best wavelengths for measuring this feature at the leaf 
+scale (531 and 570 nm) are necessarily the best wavelengths at progressively 
+larger scales, where multiple scattering and other confounding effects may 
+alter the spectral response of the xanthophyll cycle feature, much in the way 
+that pigment absorption peaks can vary depending upon their chemical 
+and scattering medium. More work, therefore, may be needed to determine 
+the ideal PRI algorithm for airborne or spaceborne platforms; these studies 
+have been hampered by the limited availability and high costs of suitable 
+airborne and spaceborne instruments.
+Together, these responses to the de-epoxidation state of the xantho -
+phyll cycle and to carotenoid/chlorophyll ratios ensure that PRI scales 
+with  photosynthetic efficiency vary across a wide range of conditions, 
+species, and functional types. The available evidence shows that the PRI 
+is a reliable estimator of ecophysiological variables closely related to the 
+photosynthetic efficiency at the leaf and canopy levels over a wide range 
+of species, plant functional types, and temporal scales (see cites herein; 
+Garbulsky et al. 2011).
+Since 2000, the availability of global data provided by the MODIS sensor 
+has been the primary tool for testing the utility of PRI at the ecosystem level. 
+The 530-nm (526–536) waveband provided by the satellite-borne MODIS 
+sensor was used as a LUE indicator at the ecosystem scale across different 
+vegetation types with significant success (Rahman et al. 2004; Drolet et al. 
+2005, 2008; Garbulsky et  al. 2008a, 2008b; Goerner et  al. 2009). Currently, 
+there are few spaceborne remote sensing instruments of high spectral reso-
+lution. (Note that Hyperion and CHRIS/PROBA are exceptions, but these 
+are demonstration instruments with limited accessibility.) But these types 
+of data can now be collected from a range of novel helicopter and aircraft 
+K14591_C003.indd   46 28/08/13   9:10 PM
+47Recent Advances in the Estimation of Photosynthetic Stress
+instruments (Malenovsky et  al. 2009) and from the planned new satellite 
+data. Apart from the sensors already in orbit, there are various others com-
+ing up (Table 3.1) that will provide better data for estimating LUE from space 
+based on pigment physiology. The launching of new image spectrometers, 
+such as the HyspIRI by NASA or the EnMAP project led by the German 
+Aerospace Centre (DLR), will allow the calculation of PRI at high spatial 
+resolution, thus offering great new potential for remote sensing of the veg -
+etation pigment cycle.
+3.2.1.3 Drawbacks, Caveats, and Cautionary Remarks
+There are different problems that still prevent the generalization of PRI use 
+for ecosystem and biospheric scales and its global and operational use as a 
+LUE estimator (Grace et al. 2007). Possible multiple biochemical, ecological, 
+and physical confounding factors operating at several levels of aggregation 
+in the LUE–PRI relationship emerge from the literature review (Garbulsky 
+et al. 2011). At the leaf level, biochemical processes, including photorespira -
+tion, PSI cyclic electron transport, and nitrate reduction, can compete with 
+CO2 fixation for reductant generated by photosynthetic electron transport 
+(Niyogi 1999). This can cause PSII (Photosystem II) efficiency (PRI) and CO 2 
+assimilation to diverge. There are even other pigment cycles, such as those 
+included in the lutein epoxide cycle of tropical trees (Matsubara et al. 2008; 
+Esteban et al. 2009) that could also produce noise in the PRI signal. Despite 
+these  potential complications, it appears that the overall photosynthetic 
+system is often  sufficiently regulated to maintain consistent relationships 
+between PSII  processes and CO2 fixation (Gamon et al. 1997; Stylinski et al. 
+2002). On the other hand, to the extent that pigment ratios are not closely 
+related to LUE, changing pigment ratios would be a confounding variable, 
+as mentioned earlier.
+At the canopy level, the problems are related to the structural differ -
+ences of the canopies, the varying background effects of the satellite data 
+(e.g., soil color, moisture, shadows, or presence of other non-green landscape 
+ components), the different reflectance signals derived from illumination and 
+viewing angle variations (Filella et al. 2004; Sims et al. 2006; Hilker et al. 2010), 
+or other physical effects of canopy and stand structure (e.g., LAI changes), 
+such as leaf movement, sun and viewing angles, soil background, and shad-
+ows that can significantly influence the PRI signal (Barton and North 2001; 
+Gamon et al. 1995). Different studies showed that PRI reflectance could be 
+affected by sun–target–sensor geometry and by stand structure (Asner 1998; 
+Barton and North 2001; Drolet et al. 2005; Hall et al. 2008; Hilker et al. 2008). 
+Recent advances (from the analysis of multiangular satellite observations 
+from the CHRIS sensor on board the PROBA satellite at 34-m spatial reso -
+lution) showed that PRI depends on the canopy shadow fractions for low 
+levels of LUE across evergreen or mixed forest sites. A negative logarith -
+mic relationship was found between the slope of the relationship between 
+K14591_C003.indd   47 28/08/13   9:10 PM
+48 Earth Observation of Ecosystem Services
+TABLE 3.1
+Current and Future Satellite Tools for Estimating Photosynthetic Efficiency through Plant Pigments
+satellite sensor
+Launching/service 
+Period Reference Main Features of the Data
+Earth Observing -1 
+(EO-1)
+Hyperion November 2000 http://eo1.gsfc.nasa.
+gov
+Descending polar orbit with an equatorial crossing 
+time of 10:03. High-resolution hyperspectral 
+imager with 220 spectral bands (from 400 to 
+2500 nm) at 30-m resolution with a revisit period of 
+16 days.
+PROBA (Project for 
+On-Board 
+Autonomy)
+CHRIS (Compact 
+High Resolution 
+Imaging 
+Spectrometer)
+October 22, 2001 https://earth.esa.int/
+web/guest/missions/
+esa-operational-eo-
+missions/proba
+Sun-synchronous orbit with a revisit of seven days. 
+Depending on the setting mode, spatial resolution 
+is 18 or 34 m at nadir setting. Along track narrow-
+band spectrometric observations of PRI of up to 
+five angles.
+TERRA–AQUA MODerate 
+resolution 
+Imaging 
+Spectroradiometer 
+(MODIS) 
+TERRA: January 
+2000
+AQUA: May 2002
+http://modis.gsfc.
+nasa.gov
+Same sensor on board two satellites. Two revisits a 
+day (morning and afternoon) for 16 spectral bands 
+from 400 to 1000 nm at 250-m, 500-m, and 1000-m 
+spatial resolution and 10-nm bandwidth.
+ADvanced Earth 
+Observing Satellite II 
+(ADEOS-2)
+GLobal Imager 
+(GLI)
+December 2002–
+October 2003
+http://sharaku.eorc.
+jaxa.jp/ADEOS2
+Six 250-m resolution channels and 30 other 1-km 
+resolution channels and four-day revisit.
+Environmental 
+Mapping and 
+Analysis Program 
+(EnMAP)
+HyperSpectral 
+Imager (HSI)
+Planned for 2015 http://www.enmap.
+org
+Sun-synchronous orbit with a revisit of four days 
+and a spatial resolution of 30 m × 30 m; 94 bands 
+between 420 and 1000 nm.
+Hyperspectral 
+Infrared Imager 
+(HyspIRI)
+VSWIR Currently in the 
+study stage
+http://hyspiri.jpl.
+nasa.gov
+380 to 2500 nm in 10-nm contiguous bands with a 
+spatial resolution of 60 m at nadir and a revisit of 
+19 days.
+K14591_C003.indd   48 28/08/13   9:10 PM
+49Recent Advances in the Estimation of Photosynthetic Stress
+PRI and the canopy shadow fraction with the gross LUE (Hilker et al. 2011). 
+In  contrast, other recent analysis showed that MODIS, PRI, and also NDVI, in 
+contrast to EVI, were not affected by view angle across a 10-year period in 
+three forest sites (Sims et  al. 2011), results that may be contradictory with 
+other studies. In any case, shadow fraction could be a variable affecting 
+ spatial resolution of the data.
+The consistency of the relationship between PRI, LUE, and CO 2 uptake 
+that is increasingly found in different studies across ecosystems (Garbulsky 
+et al. 2011; Hilker et al. 2011; Peñuelas et al. 2011) suggests a great degree of 
+functional convergence of biochemical, physiological, and structural com -
+ponents affecting ecosystem C fluxes between ecosystem types (Field 1991). 
+Emergent ecosystem properties may allow exploration of their complex 
+photosynthetic behavior using simple spectral methods such as measure -
+ment of the plant pigment cycle through the PRI. Understanding the basis 
+for this convergence (and finding the ecophysiological principles governing 
+these responses) remains a primary goal of current research. Meanwhile, 
+PRI, which is more important for the pragmatic empirical remote sensing of 
+CO2 uptake, especially from near-nadir satellite observations (Goerner et al. 
+2010) and with multiangular atmospheric correction (Lyapustin and Wang 
+2009; Hilker et al. 2010), can become an excellent tool for continuous global 
+monitoring of GPP, which is essential to follow the C sequestration under 
+changing climate.
+The use of uniform protocols is needed to generate comparable data 
+and, at the end, a possible general calibration of the PRI–LUE relationship 
+(Peñuelas et al. 2011). Further studies are also needed to disentangle the sev-
+eral drivers of the PRI signal and to resolve the potentially confounding fac-
+tors to improve the assessment of CO2 fluxes in many different biomes using 
+hyperspectral or narrow-band remote sensing.
+3.2.2 Chlorophyll Fluorescence
+Estimating LUE and carbon uptake from chlorophyll fluorescence viewed 
+from space is undoubtedly a field of knowledge where great advancements 
+have taken place in recent years. Remote sensing of terrestrial vegetation 
+fluorescence from space is of great interest because it can provide global 
+information on the functional status of vegetation including LUE and GPP. 
+Global retrieval of solar-induced fluorescence emitted by terrestrial vegeta -
+tion is beginning to provide an unprecedented measure for photosynthetic 
+efficiency.
+3.2.2.1 Basics, Origin, and Characteristics of Fluorescence
+Improvements in fluorescence measuring techniques have made the fluo -
+rescence method an important tool for basic and applied plant physiology 
+research (Krause and Weis 1991). The fluorescence signal originates in the 
+K14591_C003.indd   49 28/08/13   9:10 PM
+50 Earth Observation of Ecosystem Services
+core of the photosynthetic apparatus, where absorbed photosynthetically 
+active radiation (APAR) is converted into chemical energy. Fluorescence 
+reflects the competition among several pathways for the excitation captured 
+in the antenna. When photochemistry occurs with maximal efficiency, exci -
+tation is passed mainly to the photoreactions. When the photochemical traps 
+are closed, excitation is lost because of a competition between fluorescence 
+and nonradiative dissipative pathways, the latter converting the energy to 
+heat. Because the fluorescence yield varies inversely with the fraction of open 
+reaction centers, it provides a useful tool for investigation of photosynthetic 
+processes. A small part of the light absorbed by chlorophyll in an assimilat -
+ing leaf can be reemitted as fluorescence by the chlorophyll molecules of 
+the photosystem II, which adds a weak signal to reflected solar radiation. 
+Because these processes occur in competition, by measuring chlorophyll 
+fluorescence we can also know the efficiency of photochemistry and heat 
+dissipation, which is linked to CO2 assimilation (Baker 2008).
+Chlorophyll fluorescence measurements are traditionally made at the leaf 
+level using an external source of light. The fluorescence spectrum peak is of 
+a longer wavelength than the absorbed light; therefore, fluorescence yield 
+can be quantified by exposing a leaf to light of a defined wavelength and 
+measuring the amount of light reemitted at longer wavelengths when the 
+light is turned off. This technique allows the quantifying of different param-
+eters related to the light phase of carbon fixation. Extensive experimental 
+and theoretical studies demonstrate that chlorophyll fluorescence is a proxy 
+to actual photosynthesis and as such directly related to LUE and CO2 uptake 
+(Seaton and Walker 1990); it also behaves as an indicator of plant vitality 
+and plant stress because fluorescence emission competes with adaptation/
+protection mechanisms set up by the plant. Hence, measuring fluorescence 
+can provide access to missing information regarding photosynthesis perfor-
+mance variables (Maxwell and Johnson 2000).
+This laboratory measurement methodology is far from the  requirements 
+necessary to estimate fluorescence of an ecosystem scale; therefore, new 
+methods are needed to measure Chl fluorescence from space. Solar-induced 
+Chl fluorescence (F) can provide an early and direct approach for the eval -
+uation of the actual functional status of vegetation because of the rapid 
+response to perturbations in the environmental conditions such as light 
+and water stress; therefore, F can detect stress conditions before significant 
+reductions in Chl content or LAI have occurred. The fluorescence of green 
+vegetation consists of blue-green fluorescence (maxima at 440 and 520 nm) 
+and of red and far-red chlorophyll fluorescence (maxima at 690 and 740 nm). 
+To monitor vegetation photosynthesis, it is necessary to analyze the red and 
+far-red chlorophyll fluorescence from the photosynthetically active parts 
+of the leaf tissues. The magnitude of the two broad peaks with maxima 
+around 685 and 740 nm can be related to photosynthetic efficiency. Because 
+the magnitude of solar radiation reflected by vegetation and by atmosphere 
+can be 100 to 150 times more intense than F at the top of the atmosphere, 
+K14591_C003.indd   50 28/08/13   9:10 PM
+51Recent Advances in the Estimation of Photosynthetic Stress
+the main challenge in achieving an F estimation from remote sensing 
+ passive  measurements is to decouple the F signal from the solar radiation 
+(Meroni et al. 2009).
+3.2.2.2 Recent Advancements
+Even though the first attempts to quantify chlorophyll on terrestrial 
+ vegetation without an artificial excitation source date back to the 1970s, the 
+remote sensing of chlorophyll fluorescence is still in a developmental stage, 
+but research is advancing. The F signal can be detected passively in nar -
+row absorption lines (≈2–3 nm) of the solar and atmospheric spectrum in 
+which irradiance is strongly reduced (i.e., the Fraunhofer lines). Three main 
+Fraunhofer lines in the visible and NIR have been used for F estimation: Hα 
+due to hydrogen (H) absorption in the solar atmosphere centered at 656.4 nm 
+and two telluric oxygen (O 2) absorption bands in the Earth’s atmosphere: 
+O2-B centered at 687.0 nm and O2-A at 760.4 nm. A combination of Fraunhofer 
+lines and O 2 lines would make it possible to measure all the main fluores -
+cence bands. The two O2 bands (A and B) and the H α bands are considered 
+the most useful (Meroni et al. 2009).
+Radiance measurements at high spectral resolution exploit the Fraunhofer 
+line to decouple F from the reflected flux. F retrieval in solar Fraunhofer lines 
+is based on the evaluation of the in-filling of the Fraunhofer lines due to F 
+and hereafter. Because the fractional depth of Fraunhofer lines is not affected 
+by atmospheric scattering and by absorption in narrow spectral windows 
+free from telluric absorption features, the atmospheric modeling required is 
+much simpler than with atmospheric bands.
+Although there have been many measurements of fluorescence, espe -
+cially recently, from ground- and airborne-based instruments (Meroni 
+et  al. 2009), there has been scant information available from satellites. 
+The first space-based estimation of F (Guanter et al. 2007) was performed 
+using data from the O 2-A absorption band provided by the ENVISAT 
+MEdium Resolution Imaging Spectrometer (MERIS). The MERIS-derived 
+fluorescence correlated well (R2 = 0.85) with data acquired by the Compact 
+Airborne Spectrographic Imager (CASI-1500) sensor and ground-based esti-
+mates. Recent studies (Joiner et al. 2011; Frankenberg et al. 2011b) presented 
+the first results at the global scale from the use of high spectral resolution 
+data from the Thermal And Near-infrared Sensor for carbon Observation–
+Fourier Transform Spectrometer (TANSO–FTS/GOSAT). These two studies 
+used different approaches. The method used by Joiner et al. (2011) makes 
+use of one strong Fraunhofer line (K I at 770.1 nm). It employs real solar irra-
+diance measurements from the TANSO–FTS in order to avoid the explicit 
+modeling of the instrument line shape function (ILSF). In turn, the method 
+proposed in Frankenberg et al. (2011a) extends this single-line approach to 
+two broader spectral windows centered at 755 and 770 nm. This retrieval, 
+making use of broader spectral windows containing several Fraunhofer 
+K14591_C003.indd   51 28/08/13   9:10 PM
+52 Earth Observation of Ecosystem Services
+lines, is expected to be less sensitive to instrumental noise than that based 
+on one single line, whereas retrievals performed for the two separate win -
+dows provide more independent measurements to be used to enhance the 
+ signal-to-noise ratio of the final F products. At present, data from a 22-month 
+series have shown an accurate comparison of F intensity levels and spatial 
+patterns with physically based Fs retrieval approach. However, there is a 
+need for a  biome-dependent scaling from Fs to gross primary production 
+(Guanter et al. 2012).
+3.2.2.3 Future of Chlorophyll Fluorescence
+Several projects are underway to develop satellite platforms and sensors to 
+remotely determine chlorophyll fluorescence for the estimation of the carbon 
+cycle of terrestrial vegetation (Table 3.2). Because vegetation fluorescence can 
+be converted into an indicator of photosynthetic activity, by using fluores -
+cence data we can achieve a better understanding of how much carbon is 
+being taken up by plants and their role in the carbon and water cycles. In 
+addition to the sensors in orbit at the time of this publication, there are a 
+number of satellite projects related to the measurements of vegetation fluo -
+rescence. The availability of fluorescence data at detailed levels from regional 
+to global scales is a great step forward and will represent a huge increase in 
+the capability of PEMs to assess the spatial and temporal variability of car -
+bon uptake by terrestrial vegetation. One of the major and more ambitious 
+satellite projects, scheduled to be in orbit in 2018, is led by the European 
+Space Agency. Called the FLuorescence EXplorer (FLEX), its objective is to 
+observe photosynthesis for a better understanding of the carbon cycle and to 
+provide global maps of vegetation fluorescence. The main instrument is the 
+fluorescence imaging spectrometer (FIS) that covers the O 2-A (760 nm) and 
+O2-B (687 nm) absorption lines with a spectral band of 20 nm. The ground 
+spatial resolution at nadir will be 300 m, and the revisiting period will be 
+seven days.
+Another important projected satellite is NASA’s Orbiting Carbon 
+Observatory-2 (OCO-2) that will be specifically dedicated to studying 
+ atmospheric carbon dioxide from space. Three high-resolution grating 
+spectrometers (Day et  al. 2011)—one for each spectral band located at O 2 
+A-Band (757–772 nm), weak CO2 Band (1590–1621 nm), and strong CO2 Band 
+(2041–2082 nm)—will be combined with meteorological observations and 
+ground-based CO2 measurements to characterize CO 2 sources and sinks on 
+regional scales at monthly intervals for two years at 1.29 km × 2.25 km spatial 
+resolution.
+The Geostationary Carbon Process Mapper (GCPM) has three proposed 
+geostationary platforms. This project aims to measure key atmospheric 
+trace gases and process tracers related to climate change and human activ-
+ity at high temporal resolution. This understanding comes from contigu -
+ous maps of carbon dioxide (CO 2), methane (CH 4), carbon monoxide (CO), 
+K14591_C003.indd   52 28/08/13   9:10 PM
+53Recent Advances in the Estimation of Photosynthetic Stress
+TABLE 3.2 
+Remote Sensing Tools for Chlorophyll Fluorescence Assessment from Space
+satellite sensor Launch/in orbit Reference Main Features of the Data
+ENVISAT MEdium Resolution 
+Imaging Spectrometer 
+(MERIS) 
+From March 2002 to 
+April 2012
+http://wdc.dlr.de/
+sensors/meris
+Spatial resolution: 260 m × 300 m
+Two channels near the O2-A-bands 
+centered at 753.8 and 760.6 nm; 
+bandwidths = 7.5 and 3.75 nm, 
+respectively.
+ENVISAT SCanning Imaging 
+Absorption spectroMeter 
+for Atmospheric 
+CHartographY 
+(SCIAMACHY)
+From March 2002 to 
+April 2012
+http://www.
+sciamachy.org
+wdc.dlr.de/sensors/
+sciamachy
+From 0.2 to 0.5 nm, from 240 nm to 
+1700 nm, and from 2000 to 2400 nm, 
+Limb vertical 3 km × 132 km, Nadir 
+horizontal 32 km × 215 km.
+GOSAT (Greenhouse 
+gases Observing 
+SATellite) 
+Thermal And Near-infrared 
+Sensor for carbon 
+Observation–Fourier 
+Transform Spectrometer 
+(TANSO-FTS)
+January 23, 2009 http://www.gosat.
+nies.go.jp
+Sun-synchronous orbit with an 
+equator crossing time 13:00, revisiting 
+in three days.
+OCO-2 (Orbiting 
+Carbon Observatory)
+Single instrument with three 
+classical grating 
+spectrometers
+July 2014 http://oco.jpl.nasa.gov Sun-synchronous crossing equator at 
+noon; three measurement angles.
+Earth Explorer 8 FLuorescence EXplorer 
+(FLEX)
+Fluorescence Imaging 
+Spectrometer (FIS)
+2018 or later, now in 
+development
+http://esamultimedia.
+esa.int/docs/
+SP1313-4_FLEX.pdf
+Descending sun-synchronous orbit 
+with an equator crossing time 10:00.
+Geostationary Carbon 
+Process Mapper 
+(GCPM)
+Geostationary Fourier 
+Transform Spectrometer 
+(GeoFTS)
+In project phase Key et al. 2012 Geostationary: 10 times per day at 
+~4 km × 4 km.
+K14591_C003.indd   53 28/08/13   9:10 PM
+54 Earth Observation of Ecosystem Services
+and F collected up to 10 times per day at relatively high  spatial resolution 
+(~4 km × 4 km) from geostationary orbit (GEO). These measurements will 
+capture the spatial and temporal variability of the carbon cycle across 
+diurnal, synoptic, seasonal, and interannual time scales. The  combination 
+of high-resolution mapping and high measurement frequency provides 
+quasi-continuous monitoring, effectively eliminating atmospheric trans -
+port uncertainties from source/sink inversion modeling. The CO 2/CH4/
+CO/CF measurements could also provide the information needed to dis -
+entangle natural and anthropogenic contributions to atmospheric carbon 
+concentrations.
+3.2.2.4 Final Comments on Chlorophyll Fluorescence from Space
+Currently, there are a number of new, encouraging results and ongoing 
+ projects on the estimation of carbon uptake by vegetation from chlorophyll 
+fluorescence from space. The retrieval of chlorophyll fluorescence from space 
+is feasible through the Fraunhofer line retrieval method, which is simple, fast, 
+and robust, and is now verified with real data on the ground. Fluorescence 
+appears to display information that is independent of  reflectance data 
+(e.g., fAPAR). Chlorophyll fluorescence retrievals from the GOSAT and the 
+OCO-2, in conjunction with their global atmospheric CO 2 measurements, 
+will provide an exceptional combination of a vegetation and atmospheric 
+perspective on the global carbon budget, constraining our model predic -
+tions for future atmospheric CO2 abundance. Most importantly, this method 
+is largely unaffected by atmospheric scattering and is even able to sense F 
+through thin clouds.
+Although this approach seems promising, different problems also arise 
+from the available data. The strong correlation between F and GPP displayed 
+is not as strong in boreal summers because of the overestimation produced 
+in savannas and croplands and the underestimation produced in boreal 
+needleleaf forests. Therefore, additional research is needed to disentangle 
+the effect of disturbance factors such as illumination, canopy structure, 
+and temporal and spatial resolution of the satellite data on the relationship 
+between sun-induced fluorescence and photosynthesis.
+3.3 Final Considerations
+Although eddy covariance towers represent the current standard for 
+ ecosystem carbon flux estimation of GPP, we must learn to properly calibrate 
+these estimations with the new remote sensing products, if our objective 
+is to develop reliable remote sampling methods for ecosystem carbon flux. 
+K14591_C003.indd   54 28/08/13   9:10 PM
+55Recent Advances in the Estimation of Photosynthetic Stress
+This remains a significant challenge because flux towers   sample through 
+time, whereas remotely sensed imagery samples through space (Rahman 
+et  al. 2001). To make this calibration, we should blend these sampling 
+domains by applying remote sensing aircraft and satellite measurements 
+at the same temporal and spatial scales as flux tower footprint measure -
+ments, which is rarely done. Therefore, coordinated flux and optical data 
+acquisition from different biomes are needed. In addition, standardized 
+ground-based optical sampling programs at flux towers (Gamon et  al. 
+2006) should be expanded. We have to properly calibrate the surrogates for 
+LUE for different ecosystems or vegetation types, and then we will be able 
+to apply remote sensing to extrapolate in time and space from tower sites. 
+Actual widespread location of the towers across vegetation types (the long-
+term goal of this methodology) and the increasing availability of remote 
+sensing tools at different spatial, temporal, and spectral resolutions are 
+the main advantages and the reasons to conduct further research along 
+this avenue.
+The different approaches outlined in this chapter highlight how remote 
+estimation of chlorophyll fluorescence will provide accurate global esti -
+mations of LUE in the near future. Although research efforts to generate 
+estimates of chlorophyll fluorescence outweigh all other approaches, chlo-
+rophyll fluorescence estimation seems to be less ecosystem dependant than 
+the other approaches. The temporal reaction of each of the remote sensing 
+approaches is one issue to be considered in the estimations of LUE consid-
+ering the objectives of GPP estimations. Although chlorophyll fluorescence 
+has a very short reaction time (in the order of milliseconds) in relation to 
+the changes in environmental conditions regulating photosynthesis, chlo -
+rophyll content change as a response to stress is a process that can take 
+up to three days in herbaceous crops (Houborg et al. 2011). The proposed 
+geostationary constellation of satellite platforms to capture chlorophyll 
+fluorescence (Table  3.2) will provide, in contrast, an extraordinary daily 
+temporal resolution database.
+Even though important, specifically designed missions are providing and 
+will provide data on LUE, it is interesting to note that three new satellite 
+missions—Suomi National Polar-orbiting Partnership (NPP), Landsat 8, and 
+Sentinel—will not give much information on LUE spatial and temporal vari-
+ability. In the case of the Suomi NPP, as the continuity of MODIS missions, it 
+is not designed to provide the bands to calculate PRI. In any case, there is a 
+wide and promising avenue for the estimation of terrestrial vegetation LUE 
+from satellite data.
+In this chapter, we presented and analyzed the most recent advances 
+related to the quantification of services related to carbon uptake by terres -
+trial ecosystems. The cascade effects of GPP, as the main energy input that 
+determines many ecosystem services, warrants accurate estimation of these 
+fluxes in time and space. Remote sensing technologies are providing new 
+methodologies for such estimations.
+K14591_C003.indd   55 28/08/13   9:10 PM
+56 Earth Observation of Ecosystem Services
+Acknowledgments
+This research was supported by the University of Buenos Aires project 
+UBACyT 01/F362, the Spanish Government projects CGC2010-17172 and 
+Consolider Ingenio Montes (CSD2008-00040), and the Catalan Government 
+project SGR 2009-458.
+References
+Asner, G. P. 1998. Biophysical and biochemical sources of variability in canopy reflec-
+tance. Remote Sensing of Environment 64:234−253.
+Baker, N. R. 2008. Chlorophyll fluorescence: A probe of photosynthesis in vivo. Annual 
+Review of Plant Biology 59:89–113.
+Barton, C. V. M., and P. R. J. North. 2001. Remote sensing of canopy light use efficiency 
+using the photochemical reflectance index—Model and sensitivity analysis. 
+Remote Sensing of Environment 78:264−273.
+Blackburn, G. A. 2007. Hyperspectral remote sensing of plant pigments. Journal of 
+Experimental Botany 58:855–867.
+Costanza, R., R. d’Arge, R. de Groot, et al. 1997. The value of the world’s ecosystem 
+services and natural capital. Nature 387:253–260.
+Dash, J., and P. J. Curran. 2004. The MERIS terrestrial chlorophyll index. International 
+Journal of Remote Sensing 25:5003–5013.
+Dawson, T. P., P. R. J. North, S. E. Plummer, and P. J. Curran. 2003. Forest ecosystem 
+chlorophyll content: Implications for remotely sensed estimates of net primary 
+productivity. International Journal of Remote Sensing 24:611–617.
+Day, J. O., C. W. O’Dell, R. Pollock, et al. 2011. Preflight spectral calibration of the 
+Orbiting Carbon Observatory. IEEE Transactions on Geoscience and Remote Sensing 
+49:2793–2801.
+de Groot, R. S., M. A. Wilson, and R. M. J. Boumans. 2002. A typology for the classi-
+fication, description and valuation of ecosystem functions, goods and services. 
+Ecological Economics 41:393–408.
+Demmig-Adams, B. B., and W. W. Adams. 1996. The role of xanthophyll cycle 
+ carotenoids in the protection of photosynthesis. Trends in Plant Science 1:21–26.
+Drolet, G. G., K. F. Huemmrich, F. G. Hall, et al. 2005. A MODIS-derived photochemi-
+cal reflectance index to detect inter-annual variations in the photosynthetic 
+light-use efficiency of a boreal deciduous forest. Remote Sensing of Environment 
+98:212−224.
+Drolet, G. G., E. M. Middleton, K. F. Huemmrich, et al. 2008. Regional mapping of 
+gross light-use efficiency using MODIS spectral indices. Remote Sensing of 
+Environment 112:3064–3078.
+Esteban, R., J. M. Olano, J. Castresana, et  al. 2009. Distribution and evolutionary 
+trends of photoprotective isoprenoids (xanthophylls and tocopherols) within the 
+plant kingdom. Physiologia Plantarum 135:379−389.
+K14591_C003.indd   56 28/08/13   9:10 PM
+57Recent Advances in the Estimation of Photosynthetic Stress
+Field, C. B. 1991. Ecological scaling of carbon gain to stress and resource availability. 
+In Response of plants to multiple stresses, eds. H. A. Mooney, W. E. Winner, and 
+E. J. Pell, 35−65. San Diego, CA: Academic Press.
+Field, C. B., J. T. Randerson, and C. M. Malmstrom. 1995. Global net primary production: 
+Combining ecology and remote sensing. Remote Sensing of Environment 51:74–88.
+Filella, I., T. Amaro, J. L. Araus, and J. Peñuelas. 1996. Relationship between pho-
+tosynthetic radiation-use efficiency of barley canopies and the photochemical 
+reflectance index (PRI). Physiologia Plantarum 96:211–216.
+Filella, I., J. Peñuelas, L. Llorens, and M. Estiarte. 2004. Reflectance assessment of 
+seasonal and annual changes in biomass and CO 2 uptake of a Mediterranean 
+shrubland submitted to experimental warming and drought. Remote Sensing of 
+Environment 90:308−318.
+Filella, I., A. Porcar-Castell, S. Munné-Bosch, J. Bäck, M. F. Garbulsky, and J. Peñuelas. 
+2009. PRI assessment of long-term changes in carotenoids/chlorophyll ratio and 
+short-term changes in de-epoxidation state of the xanthophyll cycle. International 
+Journal of Remote Sensing 30:4443–4455.
+Frankenberg, C., A. Butz, and G. C. Toon. 2011a. Disentangling chlorophyll 
+fluorescence from atmospheric scattering effects in O 2 A-band spectra of 
+reflected sunlight. Geophysical Research Letters 38:L03801.
+Frankenberg, C., J. B. Fisher, J. Worden, et al. 2011b. New global observations of the 
+terrestrial carbon cycle from GOSAT: Patterns of plant fluorescence with gross 
+primary productivity. Geophysical Research Letters 38:L17706.
+Gamon, J. A., C. B. Field, W. Bilger, O. Björkman, A. Fredeen, and J. Peñuelas. 1990. 
+Remote sensing of the xanthophyll cycle and chlorophyll fluorescence in 
+ sunflower leaves and canopies. Oecologia 85:1–7.
+Gamon, J. A., C. B. Field, A. L. Fredeen, and S. Thayer. 2001. Assessing photosyn-
+thetic downregulation in sunflower stands with an optically-based model. 
+Photosynthesis Research 67:113–125.
+Gamon, J. A., C. B. Field, M. Goulden, et al. 1995. Relationships between NDVI, can-
+opy structure, and photosynthetic activity in three Californian vegetation types. 
+Ecological Applications 5:28–41.
+Gamon, J. A., I. Filella, and J. Peñuelas. 1993. The dynamic 531-nanometer delta reflec-
+tance signal: A survey of twenty angiosperm species. In Photosynthetic responses 
+to the environment, eds. H. Yamamoto and C. Smith, 172–177. Rockville, MD: 
+American Society of Plant Physiologists.
+Gamon, J. A., J. Peñuelas, and C. B. Field. 1992. A narrow-waveband spectral index 
+that tracks diurnal changes in photosynthetic efficiency. Remote Sensing of 
+Environment 41:35–44.
+Gamon, J. A., A. F. Rahman, J. L. Dungan, M. Schildhauer, and K. F. Huemmrich. 2006. 
+Spectral Network (SpecNet). What is it and why do we need it? Remote Sensing 
+of Environment 103:227–235.
+Gamon, J. A., L. Serrano, and J. S. Surfus. 1997. The photochemical reflectance index: 
+An optical indicator of photosynthetic radiation use efficiency across species, 
+functional types, and nutrient levels. Oecologia 112:492–501.
+Gamon, J. A., and J. S. Surfus. 1999. Assessing leaf pigment content and activity with 
+a reflectometer. New Phytologist 143:105–117.
+Garbulsky, M. F., J. Peñuelas, J. A. Gamon, Y. Inoue, and I. Filella. 2011. The photo-
+chemical reflectance index (PRI) and the remote sensing of leaf, canopy and 
+K14591_C003.indd   57 28/08/13   9:10 PM
+58 Earth Observation of Ecosystem Services
+ecosystem radiation use efficiencies: A review and meta-analysis. Remote Sensing 
+of Environment 115:281–297.
+Garbulsky, M. F., J. Peñuelas, J. M. Ourcival, and I. Filella. 2008a. Estimación de la 
+eficiencia del uso de la radiación en bosques mediterráneos a partir de datos 
+MODIS. Uso del Índice de Reflectancia Fotoquímica (PRI) [Radiation use 
+efficiency estimation in Mediterranean forests using MODIS Photochemical 
+Reflectance Index (PRI)]. Ecosistemas 17:89–97.
+Garbulsky, M. F., J. Peñuelas, D. Papale, and I. Filella. 2008b. Remote estimation of car-
+bon dioxide uptake of a Mediterranean forest. Global Change Biology 14:2860–2867.
+Garbulsky, M. F., J. Peñuelas, D. Papale, et al. 2010. Patterns and controls of the vari-
+ability of radiation use efficiency and primary productivity across terrestrial 
+ecosystems. Global Ecology and Biogeography 19:253–267.
+Gitelson, A. A., S. B. Verma, A. Viña, et al. 2003. Novel technique for remote estima-
+tion of CO2 flux in maize. Geophysical Research Letter 30:1486.
+Gitelson, A. A., A. Viña, V. Ciganda, D. C. Rundquist, and T. J. Arkebauer. 2005. 
+Remote estimation of canopy chlorophyll content in crops. Geophysical Research 
+Letter 32:L08403.
+Goerner, A., M. Reichstein, and S. Rambal. 2009. Tracking seasonal drought effects 
+on ecosystem light use efficiency with satellite-based PRI in a Mediterranean 
+ forest. Remote Sensing of Environment 113:1101–1111.
+Goerner, A., M. Reichstein, E. Tomelleri, et al. 2010. Remote sensing of ecosystem light 
+use efficiency with MODIS-based PRI—The DOs and DON’Ts. Biogeosciences 
+Discusssion 7:6935–6969.
+Grace, J., C. Nichol, M. Disney, P. Lewis, T. Quaife, and P. Bowyer. 2007. Can we mea-
+sure terrestrial photosynthesis from space directly, using spectral reflectance 
+and fluorescence? Global Change Biology 13:1484–1497.
+Guanter, L., L. Alonso, L. Gómez-Chova, J. Amorós, J. Vila, and J. Moreno. 2007. 
+Estimation of solar-induced vegetation fluorescence from space measurements. 
+Geophysical Research Letters 34:L08401.
+Guanter, L., C. Frankenberg, A. Dudhia, et al. 2012. Retrieval and global assessment of 
+terrestrial chlorophyll fluorescence from GOSAT space measurements. Remote 
+Sensing of Environment 121:236–251.
+Haines-Young, R., and M. Potschin. 2010. The links between biodiversity, ecosystem 
+services and human well-being. In Ecosystem ecology: A new synthesis, eds. D. G. 
+Raffaelli and C. L. J. Frid, 110–139. Cambridge, UK: Cambridge University Press.
+Hall, F. G., T. Hilker, N. C. Coops, et al. 2008. Multi-angle remote sensing of forest 
+light use efficiency by observing PRI variation with canopy shadow fraction. 
+Remote Sensing of Environment 112:3201−3211.
+Harris, A., and J. Dash. 2010. The potential of the MERIS Terrestrial Chlorophyll 
+Index for carbon flux estimation. Remote Sensing of Environment 114:1856–1862.
+Harris, A., and J. Dash. 2011. A new approach for estimating northern peatland gross 
+primary productivity using a satellite-sensor-derived chlorophyll index. Journal 
+of Geophysical Research-Biogeosciences 116:G04002.
+Hilker, T., N. C. Coops, F. G. Hall, et al. 2008. Separating physiologically and direction-
+ally induced changes in PRI using BRDF models. Remote Sensing of Environment 
+112:2777–2788.
+Hilker, T., N. C. Coops, F. G. Hall, et  al. 2011. Inferring terrestrial photosynthetic 
+light use efficiency of temperate ecosystems from space. Journal of Geophysical 
+Research 116:G03014.
+K14591_C003.indd   58 28/08/13   9:10 PM
+59Recent Advances in the Estimation of Photosynthetic Stress
+Hilker, T., F. G. Hall, N. C. Coops, et  al. 2010. Remote sensing of photosynthetic 
+ light-use efficiency across two forested biomes: Spatial scaling. Remote Sensing 
+of Environment 114:2863–2874.
+Houborg, R., M. C. Anderson, C. S. T. Daughtry, W. P. Kustas, and M. Rodell. 2011. 
+Using leaf chlorophyll to parameterize light-use-efficiency within a thermal-
+based carbon, water and energy exchange model. Remote Sensing of Environment 
+115:1694–1705.
+Huemmrich, K. F., J. A. Gamon, C. E. Tweedie, et al. 2010. Remote sensing of tundra 
+gross ecosystem productivity and light use efficiency under varying tempera-
+ture and moisture conditions. Remote Sensing of Environment 114:481–489.
+Inoue, Y., J. Peñuelas, A. Miyata, and M. Mano. 2008. Normalized difference spectral 
+indices for estimating photosynthetic efficiency and capacity at a canopy scale 
+derived from hyperspectral and CO2 flux measurements in rice. Remote Sensing 
+of Environment 112:156–172.
+Joiner, J., Y. Yoshida, A. P. Vasilkov, Y. Yoshida, L. A. Corp, and E. M. Middleton. 2011. 
+First observations of global and seasonal terrestrial chlorophyll fluorescence 
+from space. Biogeosciences 8:637–651.
+Key, R., S. Sander, A. Eldering, et al. 2012. The Geostationary Carbon Process Mapper. 
+IEEE Aerospace Conference Proceedings. Big Sky, MT. 3–10 March 2012. Article no. 
+6187029.
+Krause, G., and E. Weis. 1991. Chlorophyll fluorescence and photosynthesis: The 
+basics. Annual Review of Plant Biology 42:313–349.
+Landsberg, J. J., and R. H. Waring. 1997. A generalised model of forest productivity 
+using simplified concepts of radiation-use efficiency, carbon balance and parti-
+tioning. Forest Ecology and Management 95:209–228.
+Lyapustin, A., and Y. Wang. 2009. The time series technique for aerosol retrievals over 
+land from MODIS. In Satellite aerosol remote sensing over land, eds. A. Kokhanovky 
+and G. De Leeuw, 69–99. Heidelberg, Berlin: Springer.
+Malenovsky, Z., K. B. Mishra, F. Zemek, U. Rascher, and L. Nedbal. 2009. Scientific 
+and technical challenges in remote sensing of plant canopy reflectance and fluo-
+rescence. Journal of Experimental Botany 60:2987−3004.
+Matsubara, S., G. H. Krause, M. Seltmann, et al. 2008. Lutein epoxide cycle, light har-
+vesting and photoprotection in species of the tropical tree genus Inga. Plant, Cell 
+and Environment 31:548−561.
+Maxwell, K., and G. N. Johnson. 2000. Chlorophyll fluorescence—A practical guide. 
+Journal of Experimental Botany 51:659–668.
+Meroni, M., M. Rossini, L. Guanter, et al. 2009. Remote sensing of solar-induced chlo-
+rophyll fluorescence: Review of methods and applications. Remote Sensing of 
+Environment 113:2037–2051.
+Monteith, J. L. 1977. Climate and the efficiency of crop production in Britain. 
+Philosophical Transactions of the Royal Society—Biological Sciences 281:277–294.
+Myneni, R. B., S. O. Los, and G. Asrar. 1995. Potential gross primary productivity of 
+terrestrial vegetation from 1982–1990. Geophysical Research Letters 22:2617–2620.
+Naidoo, R., A. Balmford, R. Costanza, et al. 2008. Global mapping of ecosystem ser -
+vices and conservation priorities. Proceedings of the National Academy of Sciences 
+of the United States of America 105:9495–9500.
+Nichol, C. J., R. Pieruschka, K. Takayama, et al. 2012. Canopy conundrums: Building 
+on the Biosphere 2 experience to scale measurements of inner and outer canopy 
+photoprotection from the leaf to the landscape. Functional Plant Biology 39:1–24.
+K14591_C003.indd   59 28/08/13   9:10 PM
+60 Earth Observation of Ecosystem Services
+Niyogi, K. K. 1999. Photoprotection revisited: Genetic and molecular approaches. 
+Annual Review Plant Physiology and Plant Molecular Biology 50:333−359.
+Ollinger, S. V., A. D. Richardson, M. E. Martin, et al. 2008. Canopy nitrogen, carbon 
+assimilation, and albedo in temperate and boreal forests: Functional relations 
+and potential climate feedbacks. Proceedings of the National Academy of Sciences of 
+the United States of America 105:19335–19340.
+Paruelo, J. M., M. F. Garbulsky, J. P. Guerschman, and E. G. Jobbagy. 2004. Two 
+decades of Normalized Difference Vegetation Index changes in South America: 
+Identifying the imprint of global change. International Journal of Remote Sensing 
+25:2793–2806.
+Peng, Y., and A. Gitelson. 2012. Remote estimation of gross primary productivity in 
+soybean and maize based on total crop chlorophyll content. Remote Sensing of 
+Environment 117:440–448.
+Peng, Y., A. Gitelson, G. Keydan, D. C. Rundquist, and W. Moses. 2011. Remote 
+estimation of gross primary production in maize and support for a new para-
+digm based on total crop chlorophyll content. Remote Sensing of Environment 
+115:978–989.
+Peñuelas, J., and I. Filella. 1998. Visible and near-infrared reflectance techniques for 
+diagnosing plant physiological status. Trends in Plant Science 3:151–156.
+Peñuelas, J., I. Filella, and J. A. Gamon. 1995. Assessment of photosynthetic radiation-
+use efficiency with spectral reflectance. New Phytologist 131:291–296.
+Peñuelas, J., I. Filella, J. A. Gamon, and C. Field. 1997. Assessing photosynthetic 
+ radiation-use efficiency of emergent aquatic vegetation from spectral reflec-
+tance. Aquatic Botany 58:307–315.
+Peñuelas, J., I. Filella, J. Llusia, D. Siscart, and J. Piñol. 1998. Comparative field 
+study of spring and summer leaf gas exchange and photobiology of the 
+Mediterranean trees Quercus ilex and Phillyrea latifolia. Journal of Experimental 
+Botany 49:229–238.
+Peñuelas, J., J. A. Gamon, A. L. Fredeen, J. Merino, and C. B. Field. 1994. Reflectance 
+indexes associated with physiological changes in nitrogen-limited and water-
+limited sunflower leaves. Remote Sensing of Environment 48:135–146.
+Peñuelas, J., M. F. Garbulsky, and I. Filella. 2011. Photochemical reflectance index 
+(PRI) and remote sensing of plant CO2 uptake. New Phytologist 191:596–599.
+Rahman, A. F., V. D. Cordova, J. A. Gamon, H. P. Schmid, and D. A. Sims. 2004. 
+Potential of MODIS ocean bands for estimating CO2 flux from terrestrial vegeta-
+tion: A novel approach. Geophysical Research Letters 31:L10503.
+Rahman, A. F., J. A. Gamon, D. A. Fuentes, D. A. Roberts, and D. Prentiss. 2001. 
+Modeling spatially distributed ecosystem flux of boreal forest using hyperspec-
+tral indices from AVIRIS imagery. Journal of Geophysical Research—Atmospheres 
+106:33579–33591.
+Ruimy, A., B. Saugier, and G. Dedieu. 1994. Methodology for the estimation of terres-
+trial net primary production from remotely sensed data. Journal of Geophysical 
+Research 99:5263–5283.
+Running, S. W., R. R. Nemani, F. A. Heinsch, M. Zhao, M. Reeves, and H. Hashimoto. 
+2004. A continuous satellite-derived measure of global terrestrial primary pro-
+duction. BioScience 54:547–560.
+Runyon, J., R. H. Waring, S. N. Goward, and J. M. Welles. 1994. Environmental limits 
+on net primary production and light-use efficiency across the Oregon transect. 
+Ecological Applications 4:226–237.
+K14591_C003.indd   60 28/08/13   9:10 PM
+61Recent Advances in the Estimation of Photosynthetic Stress
+Seaton, G. G. R., and D. A. Walker. 1990. Chlorophyll fluorescence as a measure of 
+photosynthetic carbon assimilation. Proceedings of the Royal Society of London 
+242:29–35.
+Sims, D. A., H. Luo, S. Hastings, W. C. Oechel, A. F. Rahman, and J. A. Gamon. 2006. 
+Parallel adjustments in vegetation greenness and ecosystem CO 2 exchange 
+in response to drought in a Southern California chaparral ecosystem. Remote 
+Sensing of Environment 103:289–303.
+Sims, D. A., A. F. Rahman, E. F. Vermote, and Z. Jiang. 2011. Seasonal and inter-annual 
+variation in view angle effects on MODIS vegetation indices at three forest sites. 
+Remote Sensing of Environment 115:3112–3120.
+Stylinski, C. D., J. A. Gamon, and W. C. Oechel. 2002. Seasonal patterns of reflectance 
+indices, carotenoid pigments and photosynthesis of evergreen chaparral spe-
+cies. Oecologia 131:366–374.
+Ustin, S. L., D. A. Roberts, J. Pinzón, et  al. 1998. Estimating canopy water content 
+of chaparral shrubs using optical methods. Remote Sensing of Environment 
+65:280–291.
+Wu, C., Z. Niu, and S. Gao. 2012. The potential of the satellite derived green chlo-
+rophyll index for estimating midday light use efficiency in maize, coniferous 
+forest and grassland. Ecological Indicators 14:66–73.
+Zarco-Tejada, P. J., J. R. Miller, G. H. Mohammed, T. L. Noland, and P. H. Sampson. 
+2002. Vegetation stress detection through chlorophyll a + b estimation and 
+fluorescence effects on hyperspectral imagery. Journal of Environmental Quality 
+31:1433–1441.
+K14591_C003.indd   61 28/08/13   9:10 PM
+K14591_C003.indd   62 28/08/13   9:10 PM

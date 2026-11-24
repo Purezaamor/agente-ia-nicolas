@@ -1,0 +1,1075 @@
+=== Fuente: 15_DBCA.pdf ===
+
+ 1 
+Diseño en Bloques Completos Aleatorizados.  
+Ana M. Pereyra, N. Nora Abbiati y E. Fernández 
+ 
+Cuando el material experimental es heterogéneo, el diseño completamente aleatorizado 
+no es el más apropiado, pues la variabilidad del error puede ser muy grande y no permitir 
+detectar diferencias importantes entre tratamientos. Si podemos agrupar el material 
+experimental en conjuntos (bloques) de tantas unidades homogéneas como tratamientos se 
+analicen, el diseño más apropiado es el Diseño en Bloques Completos Aleatorizados. Si el 
+número de unidades experimentales homogéneas en cada bloque es inferior al número de 
+tratamientos el diseño se llama Diseño en Bloques Incompletos. En cambio, si el número de 
+unidades experimentales homogéneas en cada bloque es superior al número de 
+tratamientos (múltiplo del número de tratamientos) el diseño se denomina Diseño en 
+Bloques Aleatorios Generalizados. 
+El Diseño en Bloques Completos Aleatorizados (D.B.C.A.) consiste en asignar los 
+tratamientos en forma completamente aleatoria a las unidades experimentales, dentro de 
+cada bloque (ver PROC PLAN). Por ejemplo, si suponemos que las distintas formas 
+geométricas forman unidades experimentales heterogéneas, un posible esquema de 
+aleatorización para un diseño con 4 bloques y 3 tratamientos podría ser el que se indica en 
+la Figura 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 1.  Esquema de aleatorización para un D.B.C.A. 
+ 
+ 
+  Este diseño mejora la precisión en la comparación de las medias de los tratamientos al 
+eliminar la variabilidad entre bloques, si existe, del error experimental. Para que sea 
+eficiente, se requiere que: 
+• Las unidades experimentales dentro de los bloques sean lo más homogéneas 
+posible. 
+• Los bloques, entre si, deben ser lo más heterogéneos posible. 
+Las desventajas para la aplicación de este diseño son: 
+Población de unidades 
+muestrales heterogéneas 
+2 1 3 
+3 2 1 
+1 2 3 
+Bloque 1 
+Bloque 2 
+Bloque 3 
+Bloque 4 
+Esquema de aleatorización 
+3 1 2 
+ 2 
+• Si el número de tratamientos es grande, puede resultar dificultoso encontrar bloques 
+de unidades experimentales homogéneas. 
+• Si los efectos de los tratamientos y los bloques no son aditivos, los resultados de las 
+pruebas de hipótesis se invalidan. 
+ 
+El modelo que describe la información puede expresarse como: 
+donde: 
+yi j     es la respuesta correspondiente al j-ésimo bloque y el tratamiento i-ésimo,  
+μ     es el promedio general si no se hubiese aplicado ningún tratamiento,  
+τ i    es el efecto del tratamiento i,  
+β j    es el efecto del j-ésimo bloque,  
+ε i j    es el error aleatorio correspondiente al bloque j-ésimo y el tratamiento i-ésimo  y  
+       jiε ~ iid N ( 0 , 
+2
+εσ  ) 
+      t es el número de tratamientos y b el número de bloques (repeticiones). 
+ 
+Las pruebas de hipótesis que se pueden efectuar dependen del tipo de modelo 
+empleado.  
+Si el modelo es de Efectos Fijos o Mixto  (un efecto fijo y el otro aleatorio) siendo los 
+tratamientos fijos, es decir, son elegidos ex profeso por el investigador, las hipótesis que se 
+prueban y las conclusiones para los tratamientos son similares a los de un D.C.A.: 
+ 
+a.- No hay diferencias entre las medias de los tratamientos. 
+ 
+b.- Hay diferencias entre las medias de los tratamientos. 
+ 
+             H 1 : Al menos un τi difiere de los restantes 
+ 
+También en este caso, si se observan diferencias entre medias de tratamientos, se 
+puede acudir a pruebas de comparaciones múltiples para detectar que tratamientos difieren 
+en promedio. 
+Estas conclusiones pueden estar sujetas a error:  
+• Error de Tipo I : rechazar la igualdad de las medias de los tratamientos cuando 
+éstas no difieren entre si.  
+• Error de Tipo II : no rechazar la igualdad de las medias de los tratamientos cuando 
+éstas difieren entre si. 
+ 
+Si el modelo es de Efectos Aleatorios o Mixto  y los tratamientos son elegidos en forma 
+aleatoria por el investigador, las hipótesis que se prueban y las conclusiones para los 
+tratamientos son similares a los de un D.C.A., es decir: 
+ 
+a.- No hay diferencias en la variabilidad de los tratamientos. 
+b.- Hay diferencias en la variabilidad de los tratamientos. 
+ 
+Estas conclusiones pueden estar sujetas a los mismos tipos de error que en el Modelo I.  
+• Error de Tipo I : rechazar la igualdad de los tratamientos, comparados a través de su 
+variabilidad, cuando ésta es nula.  
+tit ...,,121 =τ==τ=τ L:H0
+02 =σ τ:H0
+02 >σ τ:H1
+)1(...,,1...,,1 bjtiy jijiji ==ε+β+τ+μ=
+ 3 
+• Error de Tipo II : no rechazar la igualdad de los tratamientos cuando se presenta 
+variabilidad a nivel poblacional.  
+ 
+En este diseño no es apropiado efectuar pruebas de hipótesis con relación a los efectos 
+de los bloques.  
+ 
+1. Análisis de Varianza (ANVA) 
+ 
+La metodología de análisis a emplear es el ANVA a dos criterios de clasificación. En este 
+caso, el análisis de varianza particiona la variabilidad total de la información en tres 
+componentes: una primera debida al efecto de los tratamientos (Suma de Cuadrados Entre 
+Tratamientos), la segunda debida al efecto de los bloques (Suma de Cuadrados de 
+Bloques), y finalmente el Error Experimental (Suma de Cuadrados del Error). En forma 
+similar también particiona los grados de libertad (Tabla 1), es decir: 
+ 
+S. C. Total Corregida = S. C. de Tratamientos + S. C. de Bloques + S. C. del Error 
+                t b  – 1         =                 t – 1             +       b – 1               +  ( t – 1) ( b - 1) 
+ 
+Tabla 1.  Tabla de ANVA para un Diseño en Bloques Completos Aleatorizado. 
+ 
+FV SC GL Efectos fijos E(CM) Efectos Aleatorios E(CM) 
+Bloques ( )∑
+=
+−
+b
+j
+j YYt
+1
+2
+...  b -1          ∑
+=
+β−
+b
+j
+j
+b
+t
+1
+2
+1
+        2 βσt  
+Tratamientos ( )∑
+=
+−
+t
+i
+i YYb
+1
+2
+...  t -1 ∑
+=
+τ−+σ
+t
+i
+i
+t
+b
+1
+22
+1
+ 
+22
+τσ+σ b  
+Error 
+experimental 
+ 
+( )∑∑
+= =
++−−
+t
+i
+b
+j
+jiij YYYy
+1 1
+2
+....
+ 
+(b -1)( t -1)   2σ    2σ  
+Total ( )∑∑
+= =
+−
+t
+i
+b
+j
+ij Yy
+1 1
+2
+..   tb -1   
+ 
+ 
+En cualquiera de los modelos mencionados, el rechazo o no de la hipótesis nula 
+depende del valor del estadístico F: 
+ 
+F = (S. C. de Tratamientos / t - 1) / (S. C. del Error / ( t - 1) ( b - 1)) 
+ 
+La hipótesis nula (igualdad de las medias o igualdad en la variabilidad de los 
+tratamientos) se rechaza cuando: 
+F  >  F ( α, t - 1, ( t - 1) ( b - 1)) 
+ 
+donde F ( α, t - 1, ( t - 1) ( b - 1)) es el valor obtenido a través de la tabla de Fisher para un 
+nivel de significación del 100 α % (ej.: 5%) con grados de libertad para el numerador igual al 
+número de tratamientos menos uno y para el denominador igual a los grados de libertad 
+correspondientes a la Suma de Cuadrados del Error Experimental. 
+Si el modelo es de efectos fijos y se rechaza la igualdad de las medias de los 
+tratamientos, es conveniente efectuar una prueba de comparaciones múltiples para 
+determinar cuales medias de tratamientos difieren entre si. 
+ 4 
+En cambio, si el modelo es de efectos aleatorios, se puede estimar la variabilidad de los 
+tratamientos (Estimación de los Componentes de Varianza). Una forma estimar esa 
+variabilidad es a través de la siguiente expresión: 
+ 
+ 
+2. Supuestos. 
+ 
+Esta prueba es válida si se cumplen ciertos supuestos. Ellos son:  
+• El diseño se aplicó en forma adecuada, es decir se asignaron los tratamientos en 
+forma aleatoria a las unidades experimentales dentro de cada bloque, efectuándose 
+la aleatorización mediante un método objetivo. 
+• Los efectos de los tratamientos y los bloques son aditivos, es decir, no hay 
+interacción entre ellos. 
+• La variabilidad de los errores es la misma para todos los tratamientos y los bloques 
+(hay igualdad de varianzas de las observaciones). 
+• Los errores se distribuyen independientes, en forma normal con media cero. 
+ 
+De todos los supuestos, los tres primeros son los más importantes y su falta de 
+cumplimiento puede distorsionar severamente el nivel de significación y la probabilidad de 
+cometer error de tipo II de las pruebas de hipótesis, cuando el modelo es de efectos fijos. Si 
+el modelo es de efectos aleatorios o mixtos, todos los supuestos son importantes. 
+Los supuestos se pueden verificar mediante métodos gráficos basados en los residuales 
+y los valores estimados por el modelo. Para este diseño, el valor estimado para la 
+observación del i-ésimo tratamiento y el j-ésimo bloque se basa en las medias muestrales de 
+los tratamientos, los bloques y la media general, es decir: 
+ 
+ 
+y el residual correspondiente: 
+ 
+La homogeneidad de varianzas de los errores se puede estudiar, en forma similar que 
+para el diseño completamente aleatorizado, mediante el gráfico de los residuos vs. los 
+valores estimados por el modelo, o la prueba de hipótesis de Levene. 
+La normalidad de los errores, también, se puede verificar gráficamente mediante un 
+gráfico de probabilidad normal de los residuos. 
+Cuando no se cumple alguno de los supuestos (homogeneidad de varianzas o 
+normalidad) se aconseja tratar de encontrar una transformación de los datos, por ejemplo 
+logaritmo, raíz cuadrada, etc. que corrija el problema. 
+ 
+3. El supuesto de aditividad entre bloques y tratamientos.  
+ 
+El supuesto de aditividad entre bloques y tratamientos significa que las diferencias entre 
+las medias de los tratamientos se mantienen constantes en todos los bloques. Por ejemplo, 
+si en un ensayo sobre bovinos donde se comparan varias dietas (A, B, C), se pretende usar 
+la raza como factor de bloqueo, no debiera haber una raza donde la dieta A produce mayor 
+engorde promedio que las restantes, y, otra raza donde la dieta B sea la que proporcione el 
+mayor engorde. Si éste es el caso, la raza no debe emplearse como factor de bloqueo, sino 
+como otro factor, por ejemplo, en un arreglo factorial de los tratamientos.  
+A modo de ejemplo, supongamos un diseño con 2 bloques y 2 tratamientos, donde se 
+presentan los siguientes casos:  
+)3(...,,1...,,1ˆ .... bjtiYYYyestimadovalor jiijji ==−+==
+)4(...,,1...,,1ˆ .... bjtiYYYyyyr jijiijijji ==+−−=−=
+)2()1()1(/...)1(/...2ˆ b btErrorCStTratCSotratamientdelestimadaadVariabilid −−−−=τσ=
+ 5 
+ 
+Tabla 2.  Modelos aditivos y no aditivos en un D. B. C. A. 
+Modelo Aditivo No aditivo 1 No aditivo 2 
+Bloque  1           2   1             2   1            2   
+Tratamiento 1  
+Tratamiento 2  
+10 20 
+30         40 
+10          20 
+30          60 
+10 40 
+30         20 
+ 
+El primer modelo es aditivo, pues la diferencia entre el  tratamiento 2 y el 1 (20) se 
+mantiene igual en ambos bloques; en cambio no sucede lo mismo en los otros dos modelos, 
+en el modelo no aditivo 1 la diferencia se incrementa de 20 a 40 al pasar del bloque1 al 
+bloque 2; en el modelo no aditivo 2 las diferencias directamente cambian de signo, indicando 
+que en el bloque 1 el tratamiento con mayor media es el 2, al contrario de lo que sucede en 
+el bloque 2. Un modelo aditivo muestra paralelismo, en cambio uno que no lo es muestra 
+falta de paralelismo, Gráfico 1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gráfico 1. Ejemplos de modelos aditivo y no aditivo. 
+  
+ El modelo no aditivo 1 puede solucionarse a veces mediante una transformación; para 
+el caso del ejemplo, la transformación apropiada es el logaritmo. En cambio, el modelo no 
+aditivo 2 no tiene solución.  
+ El supuesto de aditividad se puede analizar efectuando un gráfico similar a los 
+anteriores; dado que se trabaja con datos sujetos a error, una falta de paralelismo ligera no 
+es indicadora de falta de aditividad. 
+ También se puede acudir a las pruebas de hipótesis de falta de aditividad de Tukey o de 
+Mandel, que plantean un modelo multiplicativo lineal para la interacción bloque por 
+tratamiento  ( θ* βj * τi para la prueba de Tukey y  θi * βj * τi para la prueba de Mandel). El no 
+rechazo de las hipótesis de aditividad multiplicativa de estas pruebas no indican que no haya 
+otro tipo de falta de aditividad, lo que sucede es que la falta de aditividad multiplicativa es 
+una de las más comunes. Dado que estas pruebas no nos aseguran falta de aditividad en 
+general, se sugiere complementarlas con los gráficos de los datos. 
+ 
+Modelo aditivo
+0
+10
+20
+30
+40
+50
+Bloque 1 Bloque 2
+Trat. 1
+Trat. 2
+Modelo no aditivo 1
+0
+20
+40
+60
+80
+Bloque 1 Bloque 2
+Trat. 1
+Trat. 2
+Modelo no aditivo 2
+0
+10
+20
+30
+40
+50
+Bloque 1 Bloque 2
+Trat. 1
+Trat. 2
+ 6 
+ 
+4. Eficiencia relativa del diseño en bloques completos aleatorizados con respecto 
+a un diseño completamente aleatorizado.  
+ 
+El D.B.C.A. es eficiente (reduce el error experimental) cuando la variabilidad entre los 
+bloques es mucho mayor que la variabilidad dentro de los bloques; caso contrario, es 
+recomendable emplear un D.C.A., pues tiene más grados de libertad para el error (mayor 
+información independiente para estimar el error). Una manera de verificar si el diseño en 
+bloques empleado fue eficiente, es calcular su eficiencia relativa con relación a un D.C.A.. Si 
+el diseño en bloques no fue eficiente, la recomendación es no volverlo a emplear en una 
+repetición de la experiencia. Aunque el diseño no sea eficiente, el análisis debe realizarse de 
+acuerdo con el diseño empleado. 
+La eficiencia relativa ( ER ) es una medida de la precisión de las estimaciones, en este 
+caso, de un D.B.C.A. comparado con un D.C.A, y se obtiene comparando las varianzas de 
+las medias de tratamientos (C.M.Error) para los dos diseños.  
+)5(1
+1
+...
+....
+2
+....
+2
+...
+2
+...
+2
+....
+.......
+ACBD
+ACD
+ACD
+ACBD
+ACDvsACBD
+ACDdeleficiencia
+ACBDdeleficienciaER
+σ
+σ=
+σ
+σ==  
+ 
+Como solo se obtienen los datos bajo un D.B.C.A., hay que estimar el C.M. Error. bajo 
+un D.C.A.. Para ello, se considera un ensayo de uniformidad, en el cual todas las unidades 
+experimentales reciben el mismo tratamiento. Se asume, entonces, que no hay efecto de 
+tratamiento, por lo que la S.C. Trat. puede combinarse con la S.C. Error. Como el 
+experimento se realizó como un D.C.A., la S.C. Bloques forma parte de la S.C. Error. Por lo 
+tanto, el C.M.  Error para un D.C.A. estimado a partir de un D.B.C.A. es: 
+ 
+ 
+)6()1)(1()1()1( ..)1)(1(..)1(..)1(.. ... −−+−+− −−+−+−= tbtb ErrorMCtbErrorMCtBloquesMCbErrorMC ACD
+ 
+y 
+)7(1 ..)1(..)1(.. ... − −+−= tb ErrorMCtbBloquesMCbErrorMC ACD  
+ 
+ 
+Para un D.B.C.A., el C.M. Error es el obtenido a partir del análisis de varianza. Por lo 
+tanto, la eficiencia relativa ( ER ) es: 
+ 
+)8(..)1( ..)1(..)1(
+1
+..)1(..)1(
+1
+..
+1
+ˆ
+ErrorMCtb
+ErrorMCtbBloquesMCb
+tb
+ErrorMCtbBloquesMCb
+ErrorMCRE − −+−=
+−
+−+−
+=
+ 
+Suele utilizarse la siguiente expresión corregida por los grados de libertad para calcular 
+la ER :  
+donde: 
+)9(../..)1..()3..( ˆ)3..()1..(ˆ 2 bab aab lgErrorCSlglg lglgRE ++ σ++=
+ 7 
+g. l. a : son los grados de libertad del error de un diseño completamente aleatorizado ( t* (r -1)) 
+g. l. b : son los grados de libertad del error de un diseño en bloques (( t -1)*( b -1)) 
+ 
+y 
+ 
+Si el valor de ER  fuera mayor que 1, por ejemplo 3, significaría que hubiéramos 
+necesitado 3 * r  repeticiones en un D.C.A. para lograr la misma precisión que con el diseño 
+en bloques. En cambio, si ER  es menor que 1 o próximo a 1, estaría indicando que el 
+D.B.C.A. no fue eficiente. 
+ 
+ 
+5. Ejemplo del análisis de un diseño en Bloques Completos Aleatorizados para un 
+modelo de efectos fijos.  
+ 
+En las primeras etapas de procesamiento, las fibras naturales tales como la lana 
+requieren limpieza. Un especialista textil investigó cuatro procesos de limpieza para lana. 
+Como la lana recibida provino de 5 lotes diferentes (distintos proveedores), se consideró  a 
+cada lote como un bloque. Después de remover impurezas, la lana de cada lote fue 
+mezclada y separada en porciones iguales recibiendo cada porción un proceso de limpieza 
+diferente, asignado en forma aleatoria. La variable medida fue la pérdida en peso (mg) 
+después del lavado. Dado que el investigador está interesado sólo en investigar los 4 
+procesos de limpieza, los efectos de los tratamientos son fijos. Los bloques pueden 
+considerarse aleatorios si se asume que los proveedores son una muestra de posibles 
+proveedores o fijos, si se asume que son los únicos proveedores posibles; en cualquiera de 
+los dos casos los resultados no se ven afectados, pues las conclusiones sólo involucran a 
+las medias de los tratamientos. Se trabaja con un nivel de significación del 5%. En la Tabla 3 
+figuran los datos. 
+ 
+Tabla 3.  Valores de pérdida de peso de la lana después del lavado. 
+Lote 1 2 3 4 5 Media 
+Proceso 1  
+Proceso 2  
+Proceso 3  
+Proceso 4  
+21 
+26 
+16 
+28 
+32 
+38 
+27 
+38 
+25 
+25 
+22 
+28 
+19 
+22 
+18 
+22 
+22 
+26 
+21 
+24 
+23,8 
+27,8 
+20,4 
+28,0 
+Media 22,75 33,75 25,00 22,75 23,25 25,0 
+ 
+Programa SAS 
+data  impurezas; 
+ input lote proceso peso; 
+cards; 
+1    1   21 
+1    2   26 
+1    3   16  
+1    4   28 
+..........  
+5    1   22  
+5    2   26 
+5    3   21 
+5    4   24  
+; 
+proc  glm ; 
+  class lote proceso; 
+)10(1* ../..)1(..ˆ 2 − −+=σ bt lgErrorCStbBloquesCS b a
+ 8 
+  model peso= lote proceso; 
+means proceso /tukey; 
+  output out=resi r=res p=pred; run ; 
+data  levene; 
+set resi; 
+z=abs(res); 
+proc  glm ; 
+class lote proceso; 
+model z= lote proceso; 
+symbol1 v=dot c=red; 
+proc  gplot  ; 
+ plot res*pred/vref= 0; run ; 
+proc  univariate  plot normal ; 
+ QQPLOT/NORMAL (mu=est sigma=est) ; 
+ var res;  run ; 
+symbol1 v=diamond c=red i=join;    symbol2 v=plus c=black i=join; 
+symbol3 v=dot h= .6  c=green i=join; symbol4 v=star c=blue i=join;  
+proc  gplot  ; 
+ plot peso*lote=proceso; run ; 
+ 
+A continuación se incluyen los gráficos de residuos y de probabilidad normal, los 
+mismos permiten asumir que se cumplen los supuestos de homogeneidad de varianzas y de 
+normalidad. 
+ 
+Gráfico 2 . Residuos vs. valores estimados. 
+ 
+Gráfico 3 . Gráfico de probabilidad normal sobre los residuos. 
+Residuos
+-3
+-2
+-1
+0
+1
+2
+3
+Valores estimados
+10 20 30 40
+Res.
+-3
+-2
+-1
+0
+1
+2
+3
+Z
+-2 -1 0 1 2
+ 9 
+Tabla 4. Prueba de Levene. 
+ 
+Fuentes  de 
+Variación 
+Grados de 
+Libertad 
+Sumas  de 
+Cuadrados 
+Cuadrados 
+Medios 
+Prueba 
+F 
+Valor 
+P 
+Bloques 4 1.0480 0.26200 0.42 0.7937 
+Tratamientos 3 6.1775 2.05917 3.27 0.0589 
+Error 12 7.5500 0.62917   
+Total 19 14.7755    
+ 
+  
+Con un nivel de significación del 5%, no se rechaza la igualdad de las varianzas de los 
+errores, pues los valores P  son superiores a 0,05 (valor P  correspondiente a los bloques: 
+0,7937 y valor P  de los tratamientos: 0,0589).  
+ 
+ 
+Tabla 5. Pruebas de Aditividad de Tukey y de Mandel. 
+ 
+Fuentes de 
+ Variación 
+Grados de 
+Libertad 
+Suma de 
+ Cuadrados Valor de F Prob > F 
+LOTE 4 429.000 26.92469 0.00001 
+PROCESO 3 169.200 14.15900 0.00030 
+ERROR 12  47.800   
+RESIDUAL            9        34.795   
+ADIT MAN            3        13.005 1.12124 0.39077  
+ADIT TUK               1                 12.642 3.95529 0.07218  
+DESV  REG                2                   0.363   
+TOTAL 19 646.000   
+ 
+Dado que los valores P  para las pruebas de no aditividad de Tukey (0,07218) y de 
+Mandel (0,39077) superan el nivel de significación, no se rechaza que haya aditividad entre 
+bloques y tratamientos (recordar que las pruebas estudian solo aditividad multiplicativa). 
+Para cerciorarnos que no hay falta de aditividad severa de otra naturaleza, se efectúa el 
+gráfico de las observaciones. 
+ 
+ 
+Gráfico 4 . Datos observados vs. lotes. 
+Proceso 1 2 3 4
+Obs.
+10
+20
+30
+40
+Lote
+1 2 3 4 5
+ 10  
+Como se trabaja con datos muestrales, los cruces observados en el gráfico no deben 
+ser considerados indicadores de falta de aditividad severa entre los bloques y los 
+tratamientos. 
+ 
+Tabla 6. Análisis de la varianza. 
+ 
+Fuentes  de 
+Variación 
+Grados de  
+Libertad 
+Sumas  de 
+Cuadrados 
+Cuadrados 
+Medios 
+Prueba 
+F 
+Valor 
+P 
+Bloques 4 429.00000 107.25000    
+Tratamientos 3 169.20000   56.40000  14.16 0.0003 
+Error 12 47.80000    3.98333   
+Total 19 646.00000    
+ 
+Como el valor P  es inferior a 0,05 se rechaza la hipótesis de la igualdad de las medias 
+de los procesos de lavado de la lana (con un nivel de significación del 5%). 
+Para determinar cuales procesos difieren con relación a su media, se efectuó la prueba 
+de comparaciones múltiples de Tukey.  
+ 
+Tabla 7.  Estadísticos para la prueba de Tukey. 
+ 
+Alpha  0.05  
+Error Degrees of Freedom  12  
+Error Mean Square  3.983333  
+Critical Value of Studentized Range  4.19852  
+Minimum Significant Difference  3.7474  
+ 
+Tabla 8.  Resultados de la prueba de Tukey.  
+   
+Means with the same letter 
+are not significantly different.  
+Tukey Grouping  Mean  N trat 
+  A 28.000  5 4 
+B A 27.400  5 2 
+B C 23.800  5 1 
+  C 20.800  5 3 
+ 
+ 
+En este caso, la prueba de Tukey no es contundente, pues por un lado nos informa que 
+las medias de los tratamientos 2 y 4 no difieren entre si, tampoco lo hacen las medias de los 
+procesos 1 y 3, pero a su vez los procesos 1 y 2 no difieren entre si. Si interesa obtener más 
+información sobre el comportamiento de las medias de los procesos de lavado 1 y 2, debería 
+efectuarse una nueva experiencia. 
+La eficiencia relativa del diseño en bloques con respecto a haber empleado un D.C.A. 
+es 6,26; esto indica que fue muy eficiente bloquear, pues con un D.C.A., se hubieran 
+ 11  
+requerido 6,26 * 5 = 31,3, o sea 32 repeticiones para obtener la misma precisión que con 
+este diseño.  
+Otros ejemplos se pueden encontrar en los libros de Montgomery (1991, capítulo 5), 
+Lentner (1986, capítulo 6) y Steel y Torrie (1989, capítulo 9). 
+ 
+ 
+6. Diseño en Bloques Completos Aleatorizados con Submuestreo.  
+ 
+El concepto sobre submuestreo es similar al visto en D.C.A., en el cual, las unidades 
+experimentales son grandes, por lo que se evalúan solo algunas “porciones” o submuestras 
+de ellas.  El modelo es: 
+ 
+ 
+donde: 
+ 
+yi j k   es la respuesta correspondiente al j-ésimo bloque, al tratamiento i-ésimo y la 
+submuestra k- ésima,  
+μ         es el promedio general si no se hubiese aplicado ningún tratamiento,  
+τ i        es el efecto del tratamiento i,  
+β j        es el efecto del j-ésimo bloque,  
+ε i j        es el error aleatorio correspondiente al bloque j-ésimo y el tratamiento i-ésimo,  y 
+           jiε ~ iid N ( 0 , 
+2
+εσ  ), 
+ηi j k    es el error de submuestreo, ηi j k  ~ iid N ( 0 , 
+2
+ησ  ) que explica la variación entre   
+submuestras dentro de las unidades experimentales, 
+ε i j   y ηi j k  son independientes, 
+ 
+t es el número de tratamientos, b el número de bloques (repeticiones) y s el número de   
+submuestras por unidad experimental. 
+ 
+Las pruebas de hipótesis que se pueden efectuar dependen del tipo de modelo 
+empleado y son similares a las del D.B.C.A..  
+ 
+Si el modelo es de Efectos Fijos o Mixto  (un efecto fijo y el otro aleatorio) siendo los 
+tratamientos fijos: 
+             H1 :   Al menos un τi difiere de los restantes  
+ 
+Si el modelo es de Efectos Aleatorios o Mixto  y los tratamientos son elegidos en forma 
+aleatoria por el investigador, las hipótesis que se prueban son: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+)11(...,,1...,,1...,,1 skbjtiy kjijijikji ===η+ε+β+τ+μ=
+tit ...,,121 =τ==τ=τ L:H0
+02 =σ τ:H0
+02 >σ τ:H1
+ 12  
+Tabla 7.  Tabla de ANVA para un Diseño en Bloques Completos Aleatorizado con 
+Submuestreo. 
+ 
+FV SC GL Efectos fijos E(CM) Efectos Aleatorios E(CM) 
+Bloques ( )∑
+=
+−
+b
+j
+j YYst
+1
+2
+.....  b -1 ∑
+=
+β−
+b
+j
+j
+b
+ts
+1
+2
+1
+        2 βσts  
+Tratamientos  ( )∑
+=
+−
+t
+i
+i YYsb
+1
+2
+.....  t -1 ∑
+=
+εη τ−+σ+σ
+t
+i
+i
+t
+bss
+1
+222
+1
+ 
+222
+τεη σ+σ+σ bss  
+Error 
+experimental  
+ 
+( )∑∑
+= =
++−−
+t
+i
+b
+j
+jiij YYYYs
+1 1
+2
+........
+ 
+(b -1)( t -1)    
+22
+εη σ+σ s     22 εη σ+σ s  
+Error de 
+submuestreo  ( )∑∑∑ = = = −
+t
+i
+b
+j
+s
+k
+ijijk Yy
+1 1 1
+2
+.  b  t ( s -1)    2 ησ      2 ησ  
+Total ( )∑∑∑
+= = =
+−
+t
+i
+b
+j
+s
+k
+ijk Yy
+1 1 1
+2
+...  b t  -1   
+ 
+ 
+En este modelo, el rechazo o no de la hipótesis nula depende del valor del estadístico F: 
+ 
+F = (S. C. de Tratamientos / t - 1) / (S. C. del Error / ( t - 1) ( b - 1)) 
+ 
+La hipótesis nula (igualdad de las medias) se rechaza cuando  F  >  F ( α, t - 1, ( t - 1) ( b - 
+1)),  donde F ( α, t - 1, ( t - 1) ( r - 1)) es el valor obtenido a través de la tabla de Fisher para un 
+nivel de significación del 100 α % (ej.: 5%) con grados de libertad para el numerador igual al 
+número de tratamientos menos uno y para el denominador igual a los grados de libertad 
+correspondientes a la Suma de Cuadrados del Error Experimental. 
+Si el modelo es de efectos fijos y se rechaza la igualdad de las medias de los 
+tratamientos, es conveniente efectuar una prueba de comparaciones múltiples para 
+determinar cuales medias de tratamientos difieren entre si. 
+En cambio, si el modelo es de efectos aleatorios, se puede estimar la variabilidad de los 
+tratamientos (Estimación de los Componentes de Varianza). 
+ 
+ 
+7. Diseño en Bloques Completos Generalizados.  
+ 
+El Diseño en Bloques Completos Generalizados (D.B.C.G.) es una extensión del Diseño 
+en Bloques Completos al Azar, donde el tamaño de cada bloque ya no es t, sino m * t , 
+donde m >1 y entero. Permite al experimentador investigar el efecto de la interacción bloque 
+* tratamiento. 
+Para conservar el balance es necesario que cada tratamiento esté presente en m 
+unidades experimentales dentro de cada bloque. La asignación de los tratamientos es 
+aleatoria dentro de cada bloque. 
+Aunque es una modificación del D.B.C.A., su uso no es muy extendido, debido a la 
+dificultad de encontrar bloques homogéneos de m * t   unidades experimentales.  
+ 13  
+El modelo es: 
+ 
+donde: 
+ 
+yi j k       es la respuesta correspondiente al j-ésimo bloque y al tratamiento i-ésimo,  
+μ         es el promedio general si no se hubiese aplicado ningún tratamiento,  
+τ i         es el efecto del tratamiento i,  
+β j        es el efecto del j-ésimo bloque,  
+τ β i j     es la interacción  entre e l bloque j-ésimo y el tratamiento i-ésimo, 
+ε i j k      es el error aleatorio correspondiente al bloque j-ésimo y el tratamiento i-ésimo,  y 
+           kjiε ~ iid N ( 0 , 
+2
+εσ  ), 
+ 
+t  es el número de tratamientos, b el número de bloques (repeticiones) y m el número de   
+veces que están presentes los tratamientos en los bloques. 
+ 
+Es importante señalar las diferencias entre D.B.C.G. y el D.B.C.A. con submuestreo. El 
+D.B.C.G. tiene m * t  unidades experimentales en cada bloque y se obtiene una sola 
+observación de cada unidad experimental. Por el contrario, el D.B.C.A. con submuestreo 
+tiene t unidades experimentales en cada bloque y cada tratamiento se asigna aleatoriamente 
+a una unidad experimental dentro de cada bloque, y de cada unidad experimental se 
+obtienen s observaciones o submuestras. En cada diseño se obtienen t* b* s  = t* b* m  
+observaciones, pero de diferente manera. El diseño con submuestreo no permite investigar 
+el efecto de la interacción bloque*tratamiento. 
+Las pruebas de hipótesis que se pueden efectuar dependen del tipo de modelo 
+empleado. 
+Si el modelo es de Efectos Fijos las hipótesis son: 
+a.- para la interacción:  
+        H0 :    (τβ)11    =  (τβ)12  = (τβ)21  = . . . =  (τβ)tb                  i = 1,…, t    j = 1,…, b 
+        H 1 :    Al menos un ( τβ)ij  difiere de los restantes 
+ 
+b.- para los tratamientos: 
+                H1 :    Al menos un  τi difiere de los restantes  
+ 
+Si el modelo es Mixto  (un efecto fijo y el otro aleatorio) siendo los tratamientos fijos: 
+ 
+a.- para la interacción:  
+ 
+b.- para los tratamientos: 
+                 H1 :    Al menos un τi difiere de los restantes 
+ 
+ 
+ 
+ 
+ 
+ 
+)12(,...,1...,,1...,,1)( mkbjtiy kjijijikji ===ε+βτ+β+τ+μ=
+tit ...,,121 =τ==τ=τ L:H0
+tit ...,,121 =τ==τ=τ L:H0
+02 =σ τβ:H0
+02 >σ τβ:H1
+ 14  
+ 
+Tabla 8.  Tabla de ANVA para un Diseño en Bloques Completos Generalizados. 
+ 
+FV SC GL Efectos fijos E(CM) 
+Bloques ( )∑
+=
+−
+b
+j
+j YYtm
+1
+2
+.....  b -1          ∑
+=
+β−
+b
+j
+j
+b
+mt
+1
+2
+1
+ 
+Tratamientos ( )∑
+=
+−
+t
+i
+i YYbm
+1
+2
+.....  t -1 ∑
+=
+τ−+σ
+t
+i
+i
+t
+mb
+1
+22
+1
+ 
+Bloques * 
+Tratamientos ( )∑∑ = = +−−
+t
+i
+b
+j
+jiij YYYYm
+1 1
+2
+........  (b -1)( t -1) ∑∑
+= =
+τβ−−+σ
+t
+i
+b
+j
+ij
+tb
+m
+1 1
+22 )()1)(1(  
+Error 
+experimental ( )∑∑∑ = = = −
+t
+i
+b
+j
+m
+k
+ijijk Yy
+1 1 1
+2
+.  b t  ( m –1) 
+2σ  
+Total ( )∑∑∑
+= = =
+−
+t
+i
+b
+j
+m
+k
+ijk Yy
+1 1 1
+2
+...  b t  m -1  
+ 
+ 
+FV GL Efecto Aleatorio de Bloque E(CM) 
+Bloques b -1        2 βσmt  
+Tratamientos t -1   ∑
+=
+βτ τ−+σ+σ
+t
+i
+i
+t
+mbm
+1
+222
+1
+ 
+Bloques * 
+Tratamientos (b -1)( t -1)   
+22
+βτσ+σ m  
+Error 
+experimental b t  ( m –1)    2σ  
+Total b t  m -1  
+ 
+ 
+En cualquiera de los modelos mencionados, el rechazo o no de la hipótesis nula 
+depende del valor del estadístico F. Para el Modelo de Efectos Fijos : 
+ 
+a.-  F  =  (S. C. de Bloque*Tratamientos / ( t - 1) ( b - 1)) / (S. C. del Error / b t  ( m - 1)) 
+ 
+La hipótesis nula se rechaza cuando,  F  >  F ( α, ( t - 1) ( b - 1), b t  ( m - 1)), donde                  
+F ( α, ( t - 1) ( b - 1), b t  ( m - 1)) es el valor obtenido a través de la tabla de Fisher para un nivel 
+de significación del 100 α % (ej.: 5%).  
+ 
+b.-   F  =  ((S. C. de Tratamientos / t - 1) / (S. C. del Error / ( t - 1) ( b - 1)) 
+ 
+La hipótesis nula (igualdad de las medias) se rechaza cuando, F > F ( α, t-1, ( t -1) ( b-1)), 
+donde  F ( α, t -1, ( t -1) ( b-1)) es el valor obtenido a través de la tabla de Fisher para un nivel 
+de significación del 100 α % (ej.: 5%).  
+ 15  
+ 
+Para el Modelo  Mixto : 
+ 
+a.-     F = (S. C. de Bloque*Tratamientos / ( t - 1) ( b - 1)) / (S. C. del Error / b t  ( m - 1)) 
+ 
+La hipótesis nula se rechaza cuando,  F  >  F ( α, ( t - 1) ( b - 1), b t  ( m - 1)), donde                   
+F ( α, ( t - 1) ( b - 1), b t  ( m - 1)) es el valor obtenido a través de la tabla de Fisher para un nivel 
+de significación del 100 α % (ej.: 5%).  
+ 
+b.-      F = (S. C. de Tratamientos / t - 1) / (S. C. de Bloque*Tratamiento / ( t - 1) ( b - 1)) 
+ 
+La hipótesis nula (igualdad de las medias) se rechaza cuando: F > F ( α, t -1, ( t -1) ( b -1)) 
+donde F ( α, t - 1, ( t - 1) ( r - 1)) es el valor obtenido a través de la tabla de Fisher para un 
+nivel de significación del 100 α % (ej.: 5%).  
+ 
+ 
+Si la conclusión es rechazar la hipótesis nula para la interacción, entonces hay 
+evidencia que la interacción es significativa e indica que los tratamientos tienen 
+comportamientos diferentes según el bloque en que estén ubicados, o sea que los efectos 
+de los tratamientos dependen del bloque en que se encuentren, y en consecuencia, es 
+necesario individualizar en que bloque. En este caso, no se prueba la hipótesis sobre los 
+tratamientos, sino que el análisis se debe continuar estudiando la respuesta de los 
+tratamientos dentro de cada bloque. Por el contrario, si la hipótesis nula para la interacción 
+no es rechazada, se prueba la hipótesis sobre los tratamientos. 

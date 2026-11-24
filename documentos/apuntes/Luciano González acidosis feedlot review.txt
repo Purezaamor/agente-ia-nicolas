@@ -1,0 +1,790 @@
+=== Fuente: Luciano González acidosis feedlot review.pdf ===
+
+Animal Feed Science and Technology 172 (2012) 66– 79
+Contents lists available at SciVerse ScienceDirect
+Animal Feed Science and Technology
+journal homepage: www.elsevier.com/locate/anifeedsci
+Ruminal acidosis in feedlot cattle: Interplay between feed ingredients,
+rumen
+ function and feeding behavior (a review)/H22845
+L.A. González a,∗, X. Manteca b, S. Calsamiglia b, K.S. Schwartzkopf-Genswein c, A. Ferret b
+a Department of Animal Science, University of Manitoba, Winnipeg, Manitoba, R3T 2N2, Canada
+b Animal Nutrition, Management, and Welfare Research Group, Department of Animal and Food Sciences, Universitat Autònoma de Barcelona,
+08193-Bellaterra,
+ Spain
+c Agriculture and Agri-Food Canada, Lethbridge Research Centre, Lethbridge, Alberta T1J 4B1, Canada
+a r t i c l e i n f o
+Keywords:
+Feedlot
+ cattle
+Ruminal
+ acidosis
+Feeding
+ behavior
+a b s t r a c t
+Ruminal acidosis in feedlot cattle is a common metabolic disorder of digestive origin with
+signiﬁcant
+ economic and welfare implications. The main risk factors are high grain, low
+roughage
+ diets because of their high rate and extent of degradation by rumen microbes.
+Diet
+ formulation should therefore consider the proportion, method of processing and type
+of
+ grain; the proportion, ﬁber concentration and particle size of forages; and the use of
+feed
+ additives. Grain and forage characteristics, and feed additives, may determine the
+rate
+ and amount of organic acids produced in the rumen. In addition, diet formulation
+may
+ also affect feeding behavior, i.e. feed intake and chewing behaviors, which has a great
+inﬂuence
+ on ruminal ﬂuid acid–base balance. Feeding characteristics associated with low
+ruminal
+ ﬂuid pH are: high dry matter intake and ingestion of large meals because of the
+greater
+ amount of acid production per period of time, high eating rate because of lower
+feed
+ ensalivation, short time spent chewing while eating and ruminating because of lower
+daily
+ saliva production, and large variations in feeding behavior patterns throughout the
+day
+ such as less frequent meals and rumination. The ruminal acid–base balance requires
+synchronization
+ in time between acid production and neutralization through saliva, as well
+as
+ elimination through absorption, wash-out from the rumen, and metabolization. Greater
+proportions
+ of roughage in the diet and greater particle size leads to slower eating rate and
+longer
+ chewing time which favors saliva production, and smaller meals which reduce the
+amount
+ of acid production. Adaptation of feeding behavior to diets with greater proportion
+of
+ concentrates also plays an important role, as smaller meals and more even distribution
+of
+ intake throughout the day lead to a better synchronization in time between acid pro-
+duction
+ and elimination or neutralization. Monensin increases the frequency of meals and
+reduces
+ meal size which is beneﬁcial for ruminal ﬂuid pH, whereas sodium bicarbonate at
+high
+ concentrations produces the opposite effects and reduces rumination. In addition to
+diet
+ formulation, feeding management and the social environment may also affect feed-
+ing
+ behavior and consequently, ruminal ﬂuid pH. Delivering the feed twice daily results in
+better
+ synchronization in time between feed intake (acid production), rumination (saliva
+production),
+ and elimination of fermentation products from the rumen. In contrast, feeding
+Abbreviations: DM, dry matter; DMI, dry matter intake; Msize, meal size; NDF, neutral detergent ﬁber; SB, sodium bicarbonate; TCT, total chewing
+time;
+ VFA, volatile fatty acid.
+/H22845 This paper is part of the special issue entitled: Rumen Health: A 360◦ Analysis, Guest Edited by A. Van Vuuren, S. Calsamiglia and Editor for Animal
+Feed
+ Science and Technology, P. Udén.
+∗ Corresponding author. Present address: CSIRO Livestock Industries, PMB P.O., Townsville QLD 4810, Australia. Tel.: +61 7 4753 8559; fax: +61 7 4753
+8600.
+E-mail address: LucianoAdrian.Gonzalez@gmail.com (L.A. González).
+0377-8401/$ – see front matter ©  2011 Elsevier B.V. All rights reserved.
+doi:10.1016/j.anifeedsci.2011.12.009
+L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79 67
+programs that restrict feed amount and time available allow animals to become hungry,
+whereas
+ restricted feeding space increases competition among group mates. Both situa-
+tions
+ lead to fewer and larger meals eaten at a faster rate, and consequently, greater risk of
+ruminal
+ acidosis.
+© 2011 Elsevier B.V. All rights reserved.
+1. Introduction
+Ruminal acidosis is a nutritional disorder of cattle which receives a lot of attention by the feedlot industry even though it
+occurs with relatively low frequency. Monitoring services of animal health in North American feedlots report that only 1.9%
+of animals housed in the feedlots develop digestive diseases (USDA, 2000) and the average cost of each treatment is $6.20
+US (USDA, 2001). Monthly mortality rates in North American feedlots range between 0.17% and 0.42% of the animals and
+digestive disorders are responsible for 30–42% of these deaths (Smith, 1998; Galyean and Rivera, 2003). In addition, ruminal
+acidosis and feeding of acidogenic diets have been associated with a reduction in feed intake (Britton and Stock, 1989; Stock
+et al., 1995), damage of the digestive tract tissue (Aslan et al., 1995; Nocek, 1997), liver abscesses (Nagaraja and Chengappa,
+1998; Nagaraja and Titgemeyer, 2007), laminitis (Nocek, 1997), and inﬂammatory responses (Plaizier et al., 2009). All these
+effects may not only reduce animal production and proﬁtability but also welfare.
+A lot of research has been conducted to study the effects of diet, management, cattle genetics, and the environment
+on rumen function and metabolic processes. Previous reviews on ruminal acidosis have focused on rumen microbiology
+(Nagaraja and Titgemeyer, 2007), nutrition and diet formulation (Krause and Oetzel, 2006; Plaizier et al., 2009), bunk man-
+agement (Schwartzkopf-Genswein et al., 2003), and metabolic and histological changes (Penner et al., 2011). However, the
+effects of feeding and social behaviors on gastrointestinal function in cattle are less understood and research in this area is
+scarce (Galyean and Rivera, 2003). Daily feed intake determines acid production whereas chewing determines saliva (and
+thus buffer) production (Beauchemin et al., 1994). Therefore, these two components of feeding behavior (i.e. intake and
+chewing) throughout the day are closely related to the course of ruminal ﬂuid pH or acid–base balances. The present review
+focuses on the inﬂuence of feeding behavior on ruminal ﬂuid acid–base balance and expands on recent ﬁndings on the
+relationships between feeding behavior and ruminal acidosis. Short-term feed intake behavior can be summarized by meal
+size and frequency, eating rate and distribution of intake throughout the day (Nielsen, 1999; Tolkamp et al., 2000). It is
+important to note, that the method used to calculate these short-term feeding behavior measurements (e.g. deﬁnition of a
+meal) may have a great inﬂuence in the outcomes (Tolkamp et al., 2000). Therefore, caution should be taken when comparing
+results among studies as discrepancies maybe due to this issue. Short-term chewing behavior can also be assessed through
+the frequency and distribution of chewing bouts throughout the day. The interrelationships between feed intake behavior,
+chewing behavior and rumen function can be studied over long (i.e. from day to day) or short (within a day) time spans. In
+addition, such interrelationships also depend on diet characteristics and management.
+The objective of this review is to expose the current knowledge about the interplay between rumen function, short-term
+feeding and chewing behaviors, feed ingredients, and management.
+2. Ruminal acidosis and the relationship with feed intake
+Acidosis is often categorized in several forms, including acute and sub-acute types often called clinical and sub-clinical,
+respectively. Animals exhibit acute acidosis as an overt illness following consumption of readily fermentable carbohydrates
+in sufﬁcient amounts to threaten life (Nagaraja and Titgemeyer, 2007). With sub-acute acidosis, feed intake and performance
+might be reduced but animals do not appear sick (Owens et al., 1998). However, the economic impact caused by the effects
+of sub-clinical acidosis on animal performance could be greater than those of acute acidosis (Britton and Stock, 1989).
+Ruminal ﬂuid pH of 5.6 or lower is considered the benchmark for sub-acute ruminal acidosis whereas a pH below 5.0 is
+considered the benchmark for acute acidosis (Owens et al., 1998; Krause and Oetzel, 2006; Nagaraja and Titgemeyer, 2007).
+In acute acidosis, ruminal ﬂuid pH reaches such low levels because of the accumulation of lactic acid as a result of increased
+production while its utilization by ruminal microbes is reduced because lactic acid is not fermented any more (Nagaraja and
+Titgemeyer, 2007). Subsequent absorption of organic acids into the bloodstream might overwhelm the bicarbonate buffering
+system, the excretion rate of acids, and the capacity of tissues and organs to metabolize acids resulting in systemic acidosis
+(Brown et al., 2000). In sub-clinical acidosis, the reason for pH dropping below 5.6 is the accumulation of volatile fatty acids.
+Although lactic acid is produced during sub-clinical acidosis, it does not accumulate because lactate-fermenting bacteria
+remain active (Goad et al., 1998) and rapidly metabolize it to volatile fatty acids. Ruminal ﬂuid pH does not always explain
+the typical signs and symptoms of ruminal acidosis although it is the most commonly used indicator (Huber, 1976). Both
+a reduction in feed intake and variation in feed intake among days have been used as indexes of subclinical acidosis based
+on the concept that an increased variability from day to day is associated with feeding acidogenic diets (Britton and Stock,
+1989; Stock et al., 1995; Bevans et al., 2005). However, the reduction in feed intake in acidotic cattle is inconsistent and
+may depend on the extent and convergence of multiple factors associated with low ruminal pH and the control mechanisms
+of feed intake. Many theories for the reduction of dry matter intake during sub-clinical acidosis have been hypothesized:
+low ruminal ﬂuid pH, high concentration of fermentation products (volatile fatty acid, VFA), high osmolality, inﬂammatory
+68 L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79
+(acute-phase) responses, reduced rumen motility, and reduced ﬁber digestion. These changes might be detected by sensors
+in the rumen wall, or within the body after the changes become systemic through the blood and sensed by the brain or
+different organs such as the liver (Forbes and Barrio, 1992; Allen et al., 2005). Also, low pH of the rumen ﬂuid may reduce
+ﬁber digestion which reduces rate of passage and may eventually reduce feed intake (Plaizier et al., 2009). However, this
+theory is less likely in feedlot cattle because of the low ﬁber content of their rations.
+In the ﬁrst theory, the accumulation of organic acids in the rumen results in low ﬂuid pH and chemical receptors in the
+epithelium send a feedback signal to the brain to reduce intake (Forbes and Barrio, 1992). Alternately, low ﬂuid pH reduces
+rumen motility and consequently the rate of passage of feed, which leads to a reduction of feed intake (Dougherty et al.,
+1975; Slyter, 1976; Forbes and Barrio, 1992). Fulton et al. (1979b) were able to increase feed intake in steers experiencing
+acidosis by maintaining ruminal pH above 5.75, with ruminal infusions of NaOH, compared with control steers with ruminal
+pH below 5.35. Nevertheless, recent research in dairy cows (Khaﬁpour et al., 2009a,b) and beef cattle (Faleiro et al., 2011)
+indicate that ruminal ﬂuid pH per se is not responsible for the reduction in feed intake. In a second theory, Owens et al.
+(1998) suggested that the accumulation of organic acids and glucose increases the osmolality of the ruminal ﬂuid which
+is responsible for the reduction of feed intake in acidotic cattle. Ruminal osmolality between 300 and 700 mOsm/kg were
+reported in acidotic animals and seem to be related to the accumulation of organic acids and low pH in the ruminal ﬂuid
+(Andersen et al., 1994; Khaﬁpour et al., 2009a,b). Absorption of organic acids into the bloodstream and water ﬂux from
+the bloodstream across the rumen wall increases blood osmolality. Both high ruminal ﬂuid and blood osmolality have also
+been linked to the control of feed intake in ruminants (Carter and Grovum, 1990; Forbes and Barrio, 1992; Langhans et al.,
+1995). However, these hypotheses are difﬁcult to test in in vivo experiments because animals cease eating to avoid a further
+reduction in pH or an increase in osmolality and differences are therefore not observed.
+In the third theory, high production rate of fermentation products, particularly propionate, leads to an accumulation in
+the rumen ﬂuid and subsequently in the blood. Fermentation products are then transported to tissues or organs, e.g. the
+liver, where oxidation or metabolization into larger molecules takes place. Eventually, saturation of the rate of oxidation
+or gluconeogenesis of organic acids in the liver sends a feedback signals to the central nervous system which triggers the
+behavioral mechanisms to stop feed intake even within the course of a meal (Britton and Stock, 1989; Allen et al., 2005). In
+another theory, certain factors arising during low pH phases within the rumen, such as bacterial endotoxins and histamine,
+may also reduce the frequency and amplitude of ruminal contractions or have a systemic effect potentially linked with the
+reduction in feed intake (Dougherty et al., 1975; Andersen, 2003; Plaizier et al., 2009). Chronic inﬂammation caused either
+by bacterial endotoxins entering the bloodstream or by damage of the rumen epithelium under sub-clinical acidosis may
+antagonize intake and growth by releasing cytokines and triggering an immune response (Kleen et al., 2003). This hypothesis
+is supported by recent ﬁndings in which acidosis challenges induced by both grain and alfalfa pellet were equally successful
+in reducing ruminal ﬂuid pH (Khaﬁpour et al., 2009a,b). However, the grain-induced acidosis resulted in lower daily feed
+intake whereas the alfalfa pellet-induced challenge resulted in greater feed intake. Interestingly, blood lipopolysaccharides
+(LPS) and haptoglobin increased in the grain-induced but not in the alfalfa pellet-induced challenge. The reduction in DMI of
+acidotic cattle may therefore be linked to the acute phase response. Similar observations were made by our research group
+as a reduction in concentrate DMI and ruminal ﬂuid pH was accompanied by an increase in blood haptoglobin (González
+et al., 2008c). However, elimination of forage (straw) from the diet led to a large reduction in ruminal ﬂuid pH but no effects
+were observed in concentrate intake or blood haptoglobin (Faleiro et al., 2011).
+3. Acid–base balance in the rumen
+The process of eating and the fate of ingested feed in ruminants have a great inﬂuence on the acid–base balance of rumen
+ﬂuid. After being chewed in the mouth, the ingested feed goes to the reticulorumen where fermentation by microbes results
+in the production of organic acids (Fig. 1). The amount of organic acids produced at a given point in time after ingestion
+depends on the amount of feed ingested (meal size), and the rate and extent of degradation of feed by the rumen microbes.
+After dissociation, these organic acids liberate protons which may decrease ruminal ﬂuid pH (Fig. 1). However, this reduction
+in pH depends on the amount of saliva added to the feed while eating (which neutralizes the acids) and the existing buffering
+capacity of the ruminal ﬂuid (resistance to pH change). Feed is chewed in the mouth to reduce particle size, moisten it and
+form the bolus for easy swallowing. The length of time spent chewing per unit of feed depends on the type of feed, eating rate
+and determines feed ensalivation (mL of saliva added per gram of feed). The greater the eating rate, the lower the amount
+of saliva per unit of feed is added (Fig. 2). Eating rate is inﬂuenced by the proportion of forage, particle length and initial
+moisture content of feedstuffs (Bailey, 1961; Beauchemin et al., 2008) but also by other factors such as hunger, feeding
+management (Carter et al., 1990), competition for feed or social pressure from pen-mates (Olofsson, 1999) and even the
+presence of predators (Illius and Fitzgibbon, 1994). Ruminants also regurgitate the feed from the rumen back to the mouth to
+chew it again and further reduce particle size until particles are small enough to pass from the rumen to the lower digestive
+tract (Allen, 1997). The rate of saliva secretion during rumination (25 mL/min) is similar to that during eating (20 mL/min)
+and about 2 times greater than during resting in cattle (10 mL/min in steers; Bailey and Balch, 1961). Saliva production is
+very important for rumen function because it has high buffering capacity as a result of high concentration of bicarbonate
+(125 mEq/mL) and phosphate (20 mEq/mL of phosphate; Bailey and Balch, 1961). Saliva production during eating, ruminating
+and resting contributes to neutralizing around 0.30 of the acids produced daily in dairy cows (Erdman, 1988; Allen, 1997;
+Russell, 2002; Fig. 1). However, this ﬁgure should be lower in feedlot cattle because of shorter chewing time and consequently,
+L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79 69
+Fig. 1. Pathways affecting acid–base balance in the ruminal ﬂuid. The main pathways for elimination of acids from the rumen are absorption, neutralization
+by
+ buffers from saliva, and passage from the rumen (values within brackets indicate the proportion of total acids removed by each pathway). Feeding
+behavior
+ affects the synchronization in time between acid production and elimination.
+Fig. 2. Feed ensalivation according to the rate of eating of different feedstuffs in steers (Bailey, 1961) and dairy cows (Beauchemin et al., 2008), and in
+sheep
+ fed the same diet in which eating rate decreased with more frequency of feeding (Carter et al., 1990).
+lower saliva production per day. In addition to neutralization by saliva, acids produced during fermentation are eliminated
+from the rumen by absorption through the ruminal epithelium, which eliminates around 0.50 of the total acids produced
+daily (Allen, 1997; Russell, 2002). Moreover, liquid and solids passing out from the reticulorumen wash out approximately
+0.15–0.20 of the protons produced daily from which 0.10 pass associated to phosphates (Allen, 1997; Fig. 1). In addition
+to chewing time and meal size, the distribution of daily feed intake throughout the day and meal frequency also play an
+important role on ruminal acid–base balance. Greater meal frequency and wider distribution of daily intake throughout
+the day lead to a better synchronization in time between bouts of acid production and saliva production (particularly if
+rumination occurs between meals), and absorption and passage of organic acids from the rumen. Furthermore, time periods
+between feeding events allow timely metabolization of acids (e.g. oxidation in the liver) and elimination through the urine
+of protons absorbed from the rumen.
+4. Factors affecting feeding behavior and ruminal ﬂuid pH
+This section describes several factors that may affect feeding behavior in feedlot cattle and therefore cause or help
+to prevent ruminal acidosis. Understanding such factors is useful in developing preventive strategies and to explain the
+underlying mechanisms affecting rumen ﬂuid pH where multiple factors converge. Factors affecting feeding behavior, and
+consequently ruminal ﬂuid pH, can be divided into those related to feed characteristics, feeding or animal management, and
+the environment.
+70 L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79
+4.1. Feed related factors affecting feeding behavior and rumen function
+From a practical point of view, only two strategies related to feed formulation can be useful to prevent ruminal acidosis.
+The ﬁrst is related to diet formulation including the choice of grain and forage in terms of type and proportion in the diet. The
+second involves the use of feed additives such as buffers, natural plant extracts, ionophores, yeasts, direct-fed microbials,
+organic acids or polyclonal antibodies against Streptococcus bovis.
+4.1.1. Amount and type of grain
+Feedlot
+ diets are commonly based on high-concentrate diets where cereal grains are the main ingredient and the content
+of non-structural carbohydrates is high. Structural carbohydrates have slow rumen degradation rates as opposed to the
+fast rate of starch, sugars and pectins. Acidosis is most prevalent following ingestion of large amounts of starch present
+in cereal grains. The contribution of starch to the acidogenic power of a diet depends on the starch content and its rate
+of degradation in the rumen. According to starch content, grains are ranked in decreasing order as follows: wheat (0.78),
+corn and sorghum (0.72), and barley and oats (0.58), whereas NDF content follows the opposite pattern (Huntington et al.,
+2006). There is a strong negative correlation (r = −0.97) between ruminal ﬂuid pH and digestible starch content of a diet
+(Sauvant et al., 1999). The rate of cleavage of starch to glucose is related to the ruminal degradation rate and varies with
+grain source, grain processing, and starch type (Owens et al., 1997; Huntington et al., 2006). In general, metabolizable energy
+from grains increases with both ruminal degradation and total tract digestion. Ruminal degradation rate and extent depends
+on the chemical and physical structure of starch granules such as size, shape and embedment within the protein matrix.
+Both concentration of the soluble fraction and the fractional degradation rate of starch have a great inﬂuence on ruminal
+degradability, both being greater for rapidly degrading starch feedstuffs (Offner et al., 2003). Several processing methods are
+known to increase ruminal degradability of starch such as reduction of particle size, thermal treatment (e.g. steam ﬂaking)
+and shear forces (e.g. extrusion). Based on ruminal starch degradation rate, grains are ranked from fastest to slowest as
+follows: oats, wheat, barley, high moisture corn, steam ﬂaked corn, dry rolled corn, dry whole corn, and dry whole milo
+(Herrera-Saldana et al., 1990; Huntington, 1997; Offner et al., 2003; Huntington et al., 2006). The choice of grain type and
+processing is therefore one of the most important considerations to prevent ruminal acidosis. It is desirable to increase the
+extent of grain digestion without increasing the risk for ruminal acidosis and causing a reduction of DMI (Owens et al., 1997).
+New grain varieties or hybrids are therefore becoming available in the market with characteristics such as harder or more
+vitreous endosperm (e.g. ﬂint vs. dent or ﬂoury corn) resulting in a slower rate and extent of ruminal digestion and therefore,
+higher ruminal ﬂuid pH (Taylor and Allen, 2005a; Jaeger et al., 2006). However, processing such as steam ﬂaking or high
+moisture corn might eliminate such differences in ruminal degradability of starch among hybrids (Harrelson et al., 2009).
+The acidogenic effect of a diet increases with the proportion of concentrate and rate and extent of ruminal degradability
+of the ingredients (Fulton et al., 1979a; Murphy et al., 1994). However, other factors not related to the rate of acid production
+in the rumen also play an important role in the acid–base balance. First, diets with lower proportions of forages and smaller
+particle sizes have greater density allowing faster eating rate and therefore lower feed ensalivation (Beauchemin et al., 2008),
+and result in larger meals of both total and ruminally degradable DM (Dado and Allen, 1995; Tolkamp et al., 2002). Similarly,
+eating rate is faster, time spent eating is shorter and feed ensalivation lower for whole wheat compared to whole corn
+(Beauchemin et al., 1994), and time spent eating is shorter for vitreous compared with ﬂoury corn (Taylor and Allen, 2005b).
+Second, time spent ruminating per day and per unit of intake is also reduced more in diets with higher concentrate propor-
+tion (Faleiro et al., 2011). Presentation of the diet is also an important factor affecting feeding behavior and ruminal ﬂuid pH.
+For instance, feeding mixed rations, as opposed to ingredients fed in separate containers, promotes better synchronization
+in time between acid production and neutralization and elimination. Mixed rations avoid the ingestion of large amounts
+of concentrates shortly after feed delivery which is typical of feeding separate ingredients, and reduces daily eating rate
+(DeVries and von Keyserlingk, 2009a) which is expected to increase feed ensalivation. However, feedlot cattle fed a mixed
+ration with 100 g/kg of corn silage DM showed similar ruminal pH to those fed free choice of the ingredients allowed for ad
+libitum consumption (Moya et al., 2011). However, animals fed free choice of ingredients consumed a greater proportion of
+corn silage (200 g/kg of DM) and had longer and fewer meals per day with more frequent visits per meal compared those fed
+the diet containing 100 g/kg of corn silage DM. Third, adaptations to acidogenic diets have to occur at several levels of the
+animal: rumen microbial populations, epithelium of the digestive tract, metabolism, and behavior. Adaptations in the rumen
+epithelium help to improve the absorption and metabolism of organic acids whereas other metabolic or physiologic adap-
+tations of the animal help to eliminate acids by oxidation (e.g. in the liver), synthesis of larger molecules, and neutralization
+and excretion of protons (Aschenbach et al., 2011; Penner et al., 2011). However, excessive acid production may also lead to
+parakeratosis and hyperkeratosis which may consequently reduce the absorption of acids (Dirksen et al., 1985). Adaptation
+of the rumen microbial populations includes maintaining active lactate-fermenting and reducing lactate-producing bacte-
+ria (Nagaraja and Titgemeyer, 2007). Behavioral adaptations to cope with acidotic diets are also very important although
+research in this area is scarce. For instance, animals consuming a high-forage diet may be adapted to eat a large meal after
+feed delivery in the morning as they can deal with the low acid production. However, the acidogenic effect of such meals
+increases with the proportion of concentrate and ruminal degradability. Therefore, animals need to change their feeding
+behavior toward smaller, more frequent meals to avoid the ‘harmful’ effect of large meals from more fermentable diets. The
+animal needs ﬁrst to understand the post-ingestive consequences of diets that are more fermentable (such as unpleasant
+L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79 71
+Table
+ 1
+Effect
+ of repeated ruminal acidosis challenges in dairy cows on ruminal pH, feed intake and feeding behavior.
+Baseline Challenge numberb
+12 3
+Mean ruminal pH 6.07 5.82 5.75 5.59
+Feed
+ intake (kg DM/d) 22.0 22.3 20.8 20.0
+Meal
+ frequency (no./d) 9.8 12.0 10.5 10.0
+Meal
+ size (kg DM/d) 2.50 1.86 1.98 2.00
+Adapted from Dohme et al. (2008) and DeVries et al. (2009).a
+a Acidosis challenge consisted of a reduction to 0.50 of ad libitum feed intake for a day followed the next day by feeding 4 kg of ground wheat and barley
+and
+ a mixed ration 1 h after.
+b The acidosis challenge was repeated on the same animals for 3 consecutive times separated by 14 d.
+sensations due to damage in the rumen tissue or high osmolality) to develop the ability to self-regulate and avoid a ‘lethal
+meal’.
+The behavioral adaptations to more acidogenic diets are evident from the pioneering work done by Fulton et al. (1979a).
+These authors fed during 5 d each of 4 step-up diets containing increasing amounts of grains with 350, 550, 750, and 900 g/kg
+of DM of either corn or wheat. Animals fed the corn diet increased feed intake whereas those fed the wheat diet decreased feed
+intake as the proportion of concentrate increased. Animals adapted to rations containing greater proportion of concentrates
+by reducing the amount of feed consumed during the ﬁrst 2 h after feeding and increasing the amount consumed later
+in the day. This reduction was greater in the more acidogenic wheat (from 2.40 to 0.35 kg/h) than in the corn diet (from
+2.45 to 1.25 kg/h as the proportion of corn in the diet increased from 350 to 900 g/kg of DM, respectively). The daily intake
+pattern disappeared completely when the proportion of wheat reached 900 g/kg of the diet DM (daily intake was equally
+spread throughout the day). Interestingly, calculations from the NRC (2000) model indicate that the amount of the A plus
+B1 fractions ingested within the ﬁrst 2 h after feeding increased from 0.61 to 0.83 kg/h as the proportion of corn increased
+from 350 to 900 g/kg of DM. However, that amount of feed ingested decreased from 0.61 to 0.24 kg/h as the proportion of
+wheat increased from 350 to 900 g/kg of diet DM. The A and B1 fractions of the NRC (2000) model are the most rapidly
+degradable fractions of the diet and the most likely to contribute to the short-term drop in ruminal ﬂuid pH. Despite these
+striking behavioral adaptations and lower daily feed intake, daily mean ruminal ﬂuid pH was lower and the post-prandial
+drop greater in the wheat compared with the corn diet. Therefore, the modiﬁcation in feeding behavior helped to maintain
+ruminal ﬂuid pH while adapting to greater proportions of corn in the diet but it was not sufﬁcient in the wheat diet. These
+data indicate that daily feed intake is reduced when adaptations in feeding behavior and metabolism are not enough to avoid
+a build-up of organic acids.
+The previously described behavioral adaptations during the step-up period attempt to avoid an overload of organic acids
+that could potentially overwhelm the capacity of the animal. However, these behavioral adaptations may disappear after
+that other physiological or microbiological adaptations have taken place and the animal is able to deal with greater acid
+loads. This hypothesis is supported by recent research in dairy cows which consisted of a 1-d acidosis challenge (change to
+diets with more concentrates) repeated for 3 consecutive times at 14-d intervals. The acidosis challenge reduced the pH of
+the ruminal ﬂuid and this reduction was greater as the challenge was repeated (Dohme et al., 2008; Table 1). This suggests
+that there are physiological adaptations over time that allows animals to deal with lower ruminal ﬂuid pH such as epithelial
+cell morphology and function for improved absorption and metabolization of acids (Penner et al., 2011). During the day of
+the acidosis challenge, animals responded to low ruminal ﬂuid pH with an increase in meal frequency and a reduction in
+meal size (DeVries et al., 2009). However, these behavioral adaptations (meal size and frequency) tended to disappear as the
+animals’ physiological adaptation was able to cope with lower ruminal ﬂuid pH in the second and third challenges (Table 1).
+4.1.2. Feed additives
+Feed additives may have direct or indirect effects on ruminal ﬂuid pH. Direct effects of feed additives on ruminal ﬂuid
+pH may be the result of changes in microbial populations or in the physicochemical conditions of the rumen (e.g. buffering
+capacity and rate of passage). Polyclonal antibody preparations against S. bovis is one example with a direct effect on ruminal
+pH through a reduction in rumen lactate-producing microbial populations (DiLorenzo et al., 2006; Blanch et al., 2009). Mineral
+salts used as feed additives may have a direct effect on ruminal pH through changes in the physical environment as they
+increase water consumption and therefore the rate of dilution or passage in the rumen, which contributes to greater wash
+out of small feed (starch) particles reducing organic acid production (Russell and Chow, 1993). Buffers, such as sodium
+bicarbonate, have a direct effect on rumen ﬂuid pH through chemical changes in the rumen because they neutralize acidity
+through H+ sequestration and increase buffering capacity of ruminal ﬂuid (Kohn and Dunlap, 1998). Indirect effects of feed
+additives on rumen ﬂuid pH include those derived from changes in feeding behavior such as meal size or frequency. These
+effects of feed additives on feeding behavior may be a result of changes in ﬂavor, or in the concentration of nutrients,
+metabolites (VFA), pH or osmolality in body ﬂuids and organs. Such changes might act as feedback signals to determine the
+onset and termination of meals through the central nervous system. Therefore, feed additives may modify feeding behavior
+which may eventually affect ruminal ﬂuid pH patterns in addition to their direct effect on the rumen (microbial populations,
+or physical  and  chemical  conditions).  The  following  section  describes  changes  in  feeding  behavior  induced  by  two  of  the
+72 L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79
+Fig. 3. Distribution throughout the day of feed intake expressed as amount of feed remaining on the feeder (solid line), time spent ruminating (broken line
+with
+ shaded bars), and ruminal ﬂuid pH (triangles) for the same heifer fed a concentrate containing 12.5 and 50 g of sodium bicarbonate/kg of DM with free
+access
+ to straw. Daily average ruminal ﬂuid pH was 6.30 and 6.08, and time below 5.6 was 0 and 6.4 h/d for the diet with 12.5 and 50 g of bicarbonate/kg
+of
+ DM, respectively. Time spent ruminating was summed for each interval of time between ruminal ﬂuid samplings, i.e. 0–2, 2–4, 4–8, 8–12, 12–16 and
+16–24
+ h after-feeding.
+Adapted
+ from González et al. (2008a,b).
+most commonly used feed additives in ruminant diets. Monensin and sodium bicarbonate are such additives known to
+induce opposite changes on feeding behavior and therefore on ruminal pH.
+Monensin is an ionophore widely used as a feed additive in ruminants’ diets around the world although it is currently
+banned in Europe. This antibiotic has a direct effect on the ruminal microbial populations leading to changes in the amount
+and proﬁle of organic acid production, increasing propionate while reducing acetate, and improving feed efﬁciency (Bergen
+and Bates, 1984). Propionate has hypophagic effects in cattle because it triggers early satiation mechanisms when oxidized in
+the liver leading to smaller meals and lower daily feed intake (Allen et al., 2005). Feeding behavior of monensin-supplemented
+steers was characterized by more frequent (7.1 vs. 6.2 ± 0.50 meals/d) and smaller meals (2.2 vs. 3.7 ± 0.4 kg/meal) that were
+eaten at a slower rate than control counterparts (0.23 vs. 0.27 ± 0.019/h for monensin vs. control, respectively, assuming an
+exponential curve; Erickson et al., 2003). This has led to more stable ruminal fermentation patterns throughout the day, lower
+variance (0.14 vs. 0.21 ± 0.02) and lower post-prandial drop (1.3 vs. 1.5 ± 0.13 pH units) of ruminal ﬂuid pH in monensin-fed
+compared with control-fed animals, respectively. Lower feed intake variation was not only observed within the day but also
+among days with the use of monensin (Stock et al., 1995). Similarly, Bach et al. (2007) suggested that greater meal frequency
+of yeast supplemented dairy cows was involved in greater ruminal ﬂuid pH compared with no yeast supplementation. A
+deeper discussion on the effect of yeast supplementation on ruminal ﬂuid pH can be found in this special issue (Calsamiglia
+et al., 2012). In conclusion, monensin changes microbial populations and increases propionate production which affects
+hunger-satiety mechanisms reducing the size and increasing the frequency of meals. These changes in feeding behavior
+contribute to more stable ruminal fermentation and pH throughout the day.
+Bicarbonate is the dominant natural ruminal buffer secreted through saliva and traditionally added to diets to moderate
+ruminal ﬂuid pH. Sodium bicarbonate was extensively studied for several decades as a feed additive, although responses
+are contradictory and confusion in the interpretation of results exist (Russell and Chow, 1993). Despite the large amount
+of research with this feed additive, feed intake and chewing behaviors have not received much attention until recently.
+González et al. (2008a,b) fed diets containing bicarbonate at 0, 12.5, 25, and 50 g/kg DM of the concentrate with ad libitum
+access to both concentrate and straw. Heifers ate the most concentrate when fed the 12.5 and the least when fed the 50 g/kg
+DM bicarbonate diet (7.7 vs. 5.7 ± 0.7 kg DM/d for the 12.5 and 50 g/kg DM bicarbonate diets respectively; P<0.05), with no
+differences among the rest of the treatments. Addition of bicarbonate at any level reduced the number of hours with ruminal
+pH below 5.8 from 12 to 3 h/d. The addition of sodium bicarbonate at concentrations greater than 12.5 g/kg of DM had no
+further beneﬁt on ruminal pH and may reduce feed intake. The best treatment (12.5 g/kg DM) achieved a balance between
+high intake and good rumen function through a distribution of the daily intake in several small meals throughout the day
+(Fig. 3) and the longest time spent ruminating (5.4 vs. 3.9 ± 0.60 min/d for the 12.5 vs. 50 g/kg DM bicarbonate). Sodium
+bicarbonate at 10 g/kg of diet DM has also reduced rumination in dairy cows (Mooney and Allen, 2007). In addition, heifers
+fed the 50 g/kg of DM bicarbonate ate larger meals shortly after feed delivery (1.2 vs. 1.9 ± 0.26 kg DM/meal in the 12.5 vs.
+50 g/kg DM bicarbonate during the ﬁrst 2 h after feeding; González et al., 2008b). Such large meals (58% larger on average)
+after feed delivery resulted in a large reduction in ruminal ﬂuid pH although the nadir was reached at 12 h after feeding.
+Fig. 3 shows the feeding behavior and ruminal ﬂuid pH of the same heifer fed the 12.5 and 50 g of bicarbonate/kg of diet
+DM. The diet containing 12.5 g of bicarbonate/kg resulted in numerous small meals whereas the 50 g of bicarbonate/kg DM
+of bicarbonate resulted in a very large meal after delivery with the consequence of a continuous decrease in rumen ﬂuid
+pH until 12 h after and ceasing feed intake and rumination for the rest of the day. Nevertheless, ruminal pH at 2 and 4 h
+after feeding  was  greatest  for  the  50  g/kg  DM  bicarbonate  despite  larger  meals,  which  suggests  that  the  buffer  alleviated  the
+L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79 73
+after feeding pH depression (González et al., 2008a). Larger meals at 50 g/DM bicarbonate level may be the result of delayed
+satiety within the course of a meal due to lower propionate concentration and proportion in the rumen (González et al.,
+2008a).
+These studies demonstrate the complex relationships between rumen function, feed additives, feeding behavior, and
+feeding management. This is further supported through results of a multiple regression equation obtained using a mixed-
+effects model with heifer and period as random effects from González et al. (2008a,b). The intercept and coefﬁcients of
+regression (SE) explaining daily mean ruminal pH are (Unadjusted R2 = 0.845; adjusted R2 = 0.789):
+pH = 6.33 (0.34) + 0.109 (0.030) [SB] − 0.124 (0.034) [DMI] − 0.526 (0.164) [MSize] + 0.143 (0.052) [TCT]
+where pH is daily mean ruminal ﬂuid pH; SB is sodium bicarbonate concentration in concentrate (% of DM; R2 = 0.20; P=0.004),
+DMI is daily dry matter intake (kg DM/d; R2 = 0.16; P=0.004), MSize is daily average meal size (kg DM/meal; R2 = 0.22;
+P=0.008), and TCT is total chewing time or the sum of eating plus ruminating (h/d; R2 = 0.17; P=0.02). The remaining 0.10
+of the variability is explained by the random effects. Results from this analysis suggest that feeding behavior plays a more
+important role in daily mean ruminal ﬂuid pH than diet bicarbonate concentration per se whose positive effect as a rumen
+buffer is counterbalanced by the negative effects of bicarbonate on feeding behavior, i.e. reduced rumination and increased
+meal size. In conclusion, bicarbonate addition produced changes in feeding behavior that are detrimental for rumen function
+such as greater meal size and shorter ruminating time at critical times of the day. However, it is worth noting that factors
+affecting ruminal pH within a day change over the course of the day (González, 2007). For instance, ruminal ﬂuid pH from 0
+to 2 h after feeding increased with the greater amount of water drunk (0.11 ± 0.03 pH units/L of water; P<0.01) and decreased
+with the amount of feed eaten (−0.38 ± 0.09 pH units/kg DM ingested; P<0.01). However, water consumption had no effect
+on the ruminal pH change from 2 to 4 h after feeding (P>0.10) but continued to decrease with the amount of feed eaten
+(−0.43 ± 0.20 pH units/kg DM ingested; P<0.05).
+4.2.
+ Feeding management
+Feeding management is an important consideration in animal production because it may affect production costs and
+animal performance. Feeding behavior is particularly sensitive to feeding management and may therefore disrupt or help to
+maintain the acid–base balance in the rumen. For example, feeding practices that reduce meal size and eating rate, increase
+meal frequency, or result in more uniform feed intake throughout the day are desirable because the risk of ruminal acidosis is
+reduced. Feeding regimes that act in harmony with feeding behavior and allow the maintenance of ruminal acid–base balance
+are desirable whereas those that disrupt the feeding pattern should be avoided. The following section shows examples of
+feeding management strategies leading to effects on ruminal pH that are positive, such as feeding frequency, or negative
+such as clean bunk management or restricted feeding.
+4.2.1.
+ Feeding frequency
+Increasing the frequency of feed delivery during the day might decrease acidosis problems by favoring more stable acid
+production throughout the day and improving the synchronization with saliva production, and absorption and passage of
+acids from the rumen. To achieve this, feeding management should promote greater meal frequency or more even distribution
+of feed intake, reduce meal size particularly of large meals typically occurring after the delivery, and promote rumination
+at times of the day with low ruminal ﬂuid pH. Several studies have reported that more frequent feeding leads to more
+stable ruminal pH with fewer daily ﬂuctuations (e.g. Soto-Navarro et al., 2000). In theory, more frequent feed delivery is
+more important for diets with medium to high rates of degradation, during adaptation to more concentrate diets, and poor
+feeding management including large day-to-day variation in the proportion of forage of the diet or in the amount of feed
+delivered (Grant and Albright, 1995). Cattle being adapted to higher concentrate diets exhibited greater feed intake when
+the frequency of feeding increased from 1 to 4 times per day which may be attributed to a reduction of acidosis (Tremere
+et al., 1968). Multiple feedings may also reduce the magnitude of feeding errors and abnormal feeding patterns, or promote
+the self-regulation of short-term feed intake of cattle (Pritchard and Bruns, 2003). In addition, more frequent feeding may
+reduce social competition for feed and aggression after delivery (DeVries et al., 2005).
+A study carried out by Robles et al. (2007) increased the frequency of feeding from 1 to 4 times per day in beef cattle
+fed concentrate and straw to allow ad libitum consumption. Increasing the frequency of feeding did not affect intake, meal
+frequency or size, mean ruminal pH or fermentation proﬁle as daily averages. However, feed intake and chewing patterns
+were drastically changed by treatments. Eating rate and the amount of feed consumed (−31%) during the 2 h after the ﬁrst
+morning feeding decreased linearly with feeding frequency, which may indicate lower motivation for feeding. Twice daily
+feeding showed two similar peaks of feed intake after each feed delivery and delayed the second peak of feeding typically
+observed around sunset in heifers fed once daily (Fig. 4). This led to 2 equal peaks in ruminal ﬂuid pH before each feeding
+with the second one being 0.85 pH units greater at 12 h post-feeding compared with the once daily feeding. The second peak
+in ruminal pH was the result, in part, of a build up of buffering capacity in the rumen from saliva production as animals
+spent more time ruminating during the 2 h previous to the second feed delivery while waiting for the feed (Fig. 4). Ruminal
+ﬂuid pH of heifers fed four times per day fell steadily from the ﬁrst morning feeding until 12 h post-feeding (Robles et al.,
+2007). In summary, frequency of feed delivery changes both feed intake and rumination patterns throughout the day, which
+74 L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79
+Fig. 4. Ruminal ﬂuid pH (a), time spent ruminating (b), and feed intake (c) of heifers fed once or twice daily to allow ad libitum intake. *Within time, means
+differ
+ (P<0.05). 1 Intervals of time start upon ﬁrst feed delivery at 08:00 and last for 2 h each.
+Adapted
+ from Robles et al. (2007) with permission from Journal of Animal Science.
+promotes a better synchronization in time between acid production and neutralization by saliva or elimination by absorption
+and passage from the rumen.
+4.2.2.
+ Feed bunk management
+Feed can be delivered following different approaches in feedlots, which is usually done by varying the amount of feed
+offered or the length of time that feed is available each day, or both. There are 3 main types of feed delivery methods or
+feeding programs: ad libitum or traditional, restricted or limit feeding, and clean bunk management. Ad libitum or traditional
+feed bunk management aims at achieving minimal amounts of feed remaining by the time of the next feed delivery to
+avoid removal of remaining feed to maintain bunk hygiene while animals are allowed to consume feed without restrictions
+(Erickson et al., 2003; Schwartzkopf-Genswein et al., 2003). Another less frequent ad libitum feeding method involves using
+self-feeders where animals are allowed unrestricted access to feed at all times and little human intervention is required
+because hoppers are ﬁlled with concentrate at time intervals frequently exceeding several days. Restricted or limit feeding
+systems, often called programmed feeding, aims at achieving a proportion of 0.05–0.10 lower feed intake than expected
+with ad libitum consumption (Pritchard and Bruns, 2003). This method is believed to promote more consistent day-to-
+day dry matter intake, facilitates feed delivery schedules, reduces feed wastage and sorting behavior, and improves feed
+conversion efﬁciency (Loerch and Fluharty, 1998; Pritchard and Bruns, 2003). Finally, clean bunk management programs
+attempt achieving empty feed bunks at certain times of the day and feed is therefore not available for 8–12 h/d (Erickson
+et al., 2003). This management allows cattle to achieve long-term average intake that will meet or exceed that of cattle
+fed ad libitum but training of animals and keeping feeding records is critical (Pritchard and Bruns, 2003). The greatest
+criticism of limit feeding and clean bunk management systems, compared with the traditional, is that animals may become
+meal eaters, consuming a few large meals each day, which may result in greater within day variability in ruminal ﬂuid pH
+(Schwartzkopf-Genswein et  al.,  2003).
+L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79 75
+This hypothesis is supported by results from Erickson et al. (2003) who fed steers under the traditional ad libitum and
+the clean bunk management program. Feed intake did not differ among treatments but steers consumed fewer (5.5 vs.
+8.3 ± 0.4 meals/d) and larger meals (3.7 vs. 1.6 ± 0.4 kg/meal) at faster rate (0.30 vs. 0.18 ± 0.02/h) under clean bunk compared
+with the ad libitum program. These behavioral trends were associated with greater post-prandial changes in ruminal ﬂuid pH
+(1.5 vs. 1.1 ± 0.13 pH units) and daily variance (0.21 vs. 0.05 ± 0.02) in cattle fed with clean bunk compared with the traditional
+ad libitum system. Similar behavioral changes were reported in beef cattle fed high-concentrate diets by Soto-Navarro et al.
+(2000) and Schwartzkopf-Genswein et al. (2002). These alterations in feeding behavior are likely due to hunger and anxiety
+experienced by the animals as feed is not available for variable periods of time each day. Upon feed delivery, cattle have
+greater motivation for feeding, which drives them to eat larger meals at a faster rate leading to greater post-prandial drop
+and within-day variation in ruminal ﬂuid pH.
+4.2.3. Consistency of feeding
+In addition to the aforementioned ‘planned’ periods of time of feed deprivation each day, animals could accidentally
+become hungry as a consequence of mistakes in the amount of feed delivered or poor bunk management such as delays in
+feed delivery. Furthermore, it is known that subordinate animals within a group have limited access to feed, particularly after
+feed delivery, because socially dominant animals have priority of access (DeVries et al., 2004). As a consequence, cattle may
+ingest large quantities of feed during a short time period once feed becomes available. However, experimental simulations
+of these situations do not support this hypothesis. González et al. (2009) delayed the time of feed delivery (in regard to
+the routine time) to some experimental animals while others in adjacent stalls received the feed as per the normal routine.
+Delaying feed delivery time was not detrimental to ruminal ﬂuid pH because a stress response was triggered (increased
+cortisol), which led to reduced concentrate intake, eating rate, and size of ﬁrst meal, and increased straw intake. Withholding
+feed or delaying feed delivery with respect to the routine time has also been used as a model to induce ruminal acidosis
+(Nagaraja and Titgemeyer, 2007). However, evidence suggests that ruminal acidosis might not be induced by short periods
+of delays in feed delivery time of individually housed animals. Erickson et al. (2003) used a model of acidosis challenge
+consisting of feeding 1.25 of the previous day’s intake at 4 h later than the routine feeding time. The authors did not succeed
+in inducing ruminal acidosis and concluded that their intake challenge may not have been severe enough to cause acidosis
+symptoms or effects on the animal. Interestingly, meal size (2.8 vs. 3.5 ± 0.5 kg/meal) and eating rate (0.17 vs. 0.32 ± 0.17/h)
+were apparently reduced during the challenge compared with the pre-challenge phase, respectively, when animals were fed
+under a clean bunk management program. These results are in agreement with those recently reported by González et al.
+(2009). Day-to-day variations in the amount of feed offered have also been considered as a risk factor of ruminal acidosis
+(Schwartzkopf-Genswein et al., 2003, 2004). However, some studies testing this hypothesis do not support this theory (Soto-
+Navarro et al., 2000) or obtained contradictory results among trials (Cooper et al., 1999). It is likely that some discrepancies
+are due to changes induced in feeding behavior and consequently from feeding management and feed intake.
+4.3. Environmental factors affecting feeding behavior
+The external environment surrounding feedlot cattle includes the physical environment, such as space or weather, and
+the social environment such as group or herd mates. It has been hypothesized that changes in weather conditions are a
+risk factor for ruminal acidosis because animals reduce feed intake under abnormal weather conditions (e.g. excessive heat
+or storms) and the high motivation for feeding upon improvement of weather conditions may lead to aberrant feeding
+behavior (Huber, 1976; Elam, 1976). High ambient temperature, low relative humidity and low wind speed were associated
+with shorter time at the feed bunk but more research in this area is needed (Schwartzkopf-Genswein et al., 2003b). Data
+regarding the effect of weather changes on feeding behavior concurrent with ruminal ﬂuid pH data is lacking. Therefore, this
+section deals with the social environment, feeding behavior, and rumen function because a larger amount of information
+has been reported in the literature.
+4.3.1. Social environment: feeding space
+Cattle are social animals that live in groups under natural or feral conditions and organized in social hierarchies (Reinhardt
+et al., 1986). Hierarchies are established through social interactions or dominant-subordinate relationships such as physical
+aggression, threats, fear and avoidance (Miller and Wood-Gush, 1991). The rank in the social hierarchy determines the priority
+of access to resources, such as feed or receptive females, for which competition among group mates occurs (González et al.,
+2008c). In intensive housing of commercial feedlots, feed (or feeding space) is commonly the resource leading to the greatest
+competition among animals. Therefore, a great amount of aggression and exhibition of social dominance behavior is observed
+in the feeding area. Competition increases as the amount of feed available becomes more limiting in which case aggression
+is observed shortly after feed delivery. In addition, competition increases as feeding space becomes limiting, even with ad
+libitum intake, in which case aggressions are greatest at peak feeding times such as sunset and sunrise. Competition might
+be exacerbated in situations where both restricted feeding programs and limited feed bunk space converge. Competition for
+feed results in shorter time spent feeding per day and increases eating rate (Harb et al., 1985; Olofsson, 1999). DeVries and
+von Keyserlingk (2009b) reported that increasing competition from 1 to 2 heifers/feeding station did not affect feed intake
+but tended to increase eating rate, and led to fewer and larger meals. Switching social pressure from 7.5 to 15 heifers/feeding
+station, by feeding groups of 15 growing heifers in 2 or 1 feeders per pen (n = 120), resulted in a reduction of time spent
+76 L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79
+feeding per day (94 vs. 59 ± 2.2 min/d), while feed intake increased (10.7 vs. 11.2 ± 0.24 kg DM/d). Heifers compensated
+shorter daily feeding times by eating at a 75% faster rate of a 43:57 barley grain to barley silage diet offered to allow ad
+libitum consumption (120 vs. 211 ± 4.6 min/d; González and Schwartzkopf-Genswein, unpublished data). Such an increase
+in eating rate would result in a reduction of feed ensalivation from around 3 to 1 mL/g DM ingested (Fig. 2) and 22 L/d
+reduction in daily saliva production. In addition, competition increases the variability in feeding behavior among individuals
+within a group because individual animals are affected to a greater extent and use different coping strategies (González
+et al., 2008c; DeVries and von Keyserlingk, 2009b). It was also hypothesized that such ‘aberrant’ feeding patterns as a result
+of competition may increase ruminal acidosis, and consequently lameness and liver abscesses (Cook et al., 2004; Nagaraja
+and Chengappa, 1998).
+González et al. (2008c) studied the effects of increasing social pressure with 2, 4 and 8 heifers per feeding place in the
+concentrate feeder on behavior, performance and ruminal fermentation from samples obtained monthly by rumenocentesis
+at 8 h after feeding (8 animals/pen; 9 pens; 7 months duration). As expected, social pressure increased competition for feed
+as evidenced by over a 3-fold increase in the number of aggressive displacements from the concentrate feeders and large
+modiﬁcations in feeding behavior. Competition increased the concentration of lactate in ruminal ﬂuid and the proportion
+of heifers exhibiting sub-acute ruminal acidosis with ruminal ﬂuid pH below 5.6 (53, 62 and 74 ± 10% of heifers for 2, 4
+and 8 heifers/place, respectively). However, pen average ruminal ﬂuid pH was lower only at the beginning of the growth
+period (ﬁrst 4 months after arrival to the feedlot when animals weighed between 120 and 220 kg of body weight). A pH
+lower than 5.0 in the ruminal ﬂuid, the threshold below which acute acidosis might occur, was observed in 1.8% of the 500
+samples taken but there were no mortalities or veterinary treatments for acidosis-related problems. Subordinate animals
+within a group usually experience the greatest alteration of feeding behavior as a result of competition such as greater eating
+rate (Harb et al., 1985; Olofsson, 1999; DeVries and von Keyserlingk, 2009b). As a result, competition may have a greater
+detrimental impact on digestive function of subordinate animals as they showed the greatest increase in blood haptoglobin
+concentration (González et al., 2008c). However, both subordinate and dominant animals exhibited lower ruminal ﬂuid pH
+regardless of social pressure. Dominant animals may show lower ruminal ﬂuid pH because their priority of access to feeders
+allows them to eat the most desirable ingredients ﬁrst (concentrate in this case), and eat uninterrupted which results in
+larger meals (González et al., 2008c).
+Health status of the animals is another factor that has a great inﬂuence on feeding behavior and may consequently affect
+rumen function (González et al., 2008d). For instance, lameness and other locomotory problems are painful and stressful
+to cattle both while walking and standing. This condition leads to signiﬁcant changes in feeding behavior that may be
+detrimental for rumen function. Lame animals cope with the pain caused by walking through a reduction in the number of
+feeding visits per day and visits per meal (González et al., 2008d). Similarly, standing per se might also be a painful activity
+in lame animals, who cope by reducing the time spent feeding per day by over 3-fold. Lame cattle compensate fewer meals
+with larger meals, and shorter daily feeding time with faster eating rate (often over 3-fold faster) while daily feed intake
+remains unaltered or is less affected (González et al., 2008d). Both of these changes in feeding behavior are known to be
+detrimental for rumen ﬂuid pH. Therefore, feedlots or herds with high incidence of locomotory problems such as laminitis,
+foot rot, and claw lesions might be more likely to experience ruminal acidosis.
+5. Conclusions
+Factors affecting feeding behavior should be considered in addition to diet chemical and physical composition when
+attempting to reduce the problems associated with ruminal acidosis. Feed ingredients, feed additives, feeding management
+(presentation and delivery), design of feeding facilities and the environment should work in synchrony to maintain rumen
+function by promoting timely synchronization between acid production and neutralization/elimination. Such balance is
+promoted with smaller meal size, slower eating rate, longer chewing time, and more homogeneously distribution of intake
+and chewing throughout the day. Larger meals in short time periods result in greater acid production without a timely
+neutralization through saliva and elimination through absorption and passage from the rumen. For example, highly fer-
+mentable ingredients, which are ﬁnely ground, are eaten at a faster rate and thus are ensalivated at a lower extent and lead
+to short chewing time result in lower daily saliva production. Therefore, such ingredients should be mixed with others which
+result in slower eating rate and smaller meals of degradable fractions. The presentation of the ingredients could also help
+achieving this by, for instance, avoiding separate ingredient feeding, excessive sorting by the animals, or feed quality to be
+reduced throughout the day. Feed additives, such as monensin, could also be used to help regulate feed intake by improving
+the distribution of intake throughout the day. Testing of existing and development of new additives to achieve desirable
+feeding behavior should also be encouraged. Feeding programs should also be considered together with diet formulation
+and those that restrict the amount or the time of feed availability should be avoided because animals become hungry. In
+this sense, increasing feeding frequency and ad libitum feed delivery may help. Competition for feed and health problems
+associated with locomotion (e.g. lameness) are also known to increase eating rate and reduce feeding time. Thus, sufﬁcient
+feed bunk space special diets for lame animals may help reducing acidosis problems. Several factors play an important role
+in the prevalence of ruminal acidosis which should be considered together in order to reduce their detrimental effects. These
+include diet formulation, feeding management, design of facilities, and animal health status.
+L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79 77
+Conﬂict of interest
+None.
+References
+Allen, M.S., 1997. Relationship between fermentation acid production in the rumen and the requirement for physically effective ﬁber. J. Dairy Sci. 80,
+1447–1462.
+Allen, M.S., Bradford, B.J., Harvatine, K.J., 2005. The cow as a model to study food intake regulation. Ann. Rev. Nutr. 25, 523–547.
+Andersen, P.H., Bergelin, B., Christensent, K.A., 1994. Effect of feeding regimen on concentration of free endotoxin in ruminal ﬂuid of cattle. J. Anim. Sci. 72,
+487–491.
+Andersen, P.H., 2003. Bovine endotoxicosis—some aspects of relevance to production diseases. A review. Acta Vet. Scand. 98 (Suppl.), 141–155.
+Aschenbach, J.R., Penner, G.B., Stumpff, F., Gabel, G., 2011. Ruminant nutrition symposium: role of fermentation acid absorption in the regulation of ruminal
+pH. J. Anim. Sci. 89, 1092–1107.
+Aslan, V., Thamsborg, S.M., Jorgensen, R.J., Basse, A., 1995. Induced acute ruminal acidosis in goats treated with yeast (Saccharomyces cerevisiae) and
+bicarbonate. Acta Vet. Scand. 36, 65–77.
+Bach, A., Iglesias, C., Devant, M., 2007. Daily rumen pH pattern of loose-housed dairy cattle as affected by feeding pattern and live yeast supplementation.
+Anim. Feed Sci. Technol. 136, 146–153.
+Bailey, C.B., 1961. Saliva secretion and its relation to feeding in cattle. 3. The rate of secretion of mixed saliva in the cow during eating, with an estimate of
+the magnitude of the total daily secretion of mixed saliva. Br. J. Nutr. 15, 443–451.
+Bailey, C.B., Balch, C.C., 1961. Saliva secretion and its relation to feeding in cattle. 1. The composition and rate of secretion of parotid saliva in a small steer.
+Br. J. Nutr. 15, 371–382.
+Beauchemin, K.A., McAllister, T.A., Dong, Y., Farr, B.I., Cheng, K.J., 1994. Effects of mastication on digestion of whole cereal grains by cattle. J. Anim. Sci. 72,
+236–246.
+Beauchemin, K.A., Eriksen, L., Nørgaard, P., Rode, L.M., 2008. Short communication: salivary secretion during meals in lactating dairy cattle. J. Dairy Sci. 91,
+2077–2081.
+Bevans, D.W., Beauchemin, K.A., Schwartzkopf-Genswein, K.S., McKinnon, J.J., McAllister, T.A., 2005. Effect of rapid or gradual grain adaptation on subacute
+acidosis and feed intake by feedlot cattle. J. Anim. Sci. 83, 1116–1132.
+Bergen, W.G., Bates, D.B., 1984. Ionophores: their effect on production efﬁciency and mode of action. J. Anim. Sci. 58, 1465–1483.
+Blanch, M., Calsamiglia, S., DiLorenzo, N., DiCostanzo, A., Muetzel, S., Wallace, R.J., 2009. Physiological changes in rumen fermentation during acidosis
+induction and its control using a multivalent polyclonal antibody preparation in heifers. J. Anim. Sci. 87, 1722–1730.
+Britton, R., Stock, R., 1989. Acidosis: a continual problem in cattle fed high grain diets. In: Proceedings of the Cornell Nutrition Conference for Feed
+Manufacturers, Cornell University, Ithaca, NY, pp. 9–15.
+Brown, M.S., Krehbiel, C.R., Galyean, M.L., Remmenga, M.D., Peters, J.P., Hibbard, B., Robinson, J., Moseley, W.N., 2000. Evaluation of models of acute and
+subacute acidosis on dry matter intake, ruminal fermentation, blood chemistry, and endocrine proﬁles of beef steers. J. Anim. Sci. 78, 3155–3168.
+Calsamiglia, S., Blanch, M., Ferret, A., Moya, D., 2012. Is subacute ruminal acidosis a pH related problem? Causes and tools for its control. Anim. Feed Sci.
+Technol., in press.
+Carter, R.R., Grovum, W.L., 1990. A review of the physiological signiﬁcance of hypertonic body ﬂuids on feed intake and ruminal function: salivation, motility
+and microbes. J. Anim. Sci. 68, 2811–2832.
+Carter, R.R., Allen, O.B., Grovum, W.L., 1990. The effect of feeding frequency and meal size on amounts of total and parotid saliva secreted by sheep. Br. J.
+Nutr. 63, 305–318.
+Cook, N.B., Nordlund, K.V., Oetzel, G.R., 2004. Environmental inﬂuences on claw horn lesions associated with laminitis and subacute ruminal acidosis in
+dairy cows. J. Dairy Sci. 87, E36–46E.
+Cooper, R.J., Klopfenstein, T.J., Stock, R.A., Milton, C.T., Herold, D.W., Parrott, J.C., 1999. Effects of imposed feed variation on acidosis and performance of
+ﬁnishing steers. J. Anim. Sci. 77, 1093–1099.
+Dado, R.G., Allen, M.S., 1995. Intake limitations, feeding behavior, and rumen function of cows challenged with rumen ﬁll from dietary ﬁbre or inert bulk.
+J. Dairy Sci. 78, 118–133.
+DeVries, T.J., von Keyserlingk, M.A.G., Weary, D.M., 2004. Effect of feeding space on the inter-cow distance, aggression, and feeding behavior of free-stall
+housed lactating dairy cows. J. Dairy Sci. 87, 1432–1438.
+DeVries, T.J., von Keyserlingk, M.A.G., Beauchemin, K.A., 2005. Frequency of feed delivery affects the behavior of lactating dairy cows. J. Dairy Sci. 88,
+3553–3562.
+DeVries, T.J., von Keyserlingk, M.A.G., 2009a. Short communication: feeding method affects the feeding behavior of growing dairy heifers. J. Dairy Sci. 92,
+1161–1168.
+DeVries, T.J., von Keyserlingk, M.A.G., 2009b. Competition for feed affects the feeding behavior of growing dairy heifers. J. Dairy Sci. 92, 3922–3929.
+DeVries, T.J., Beauchemin, K.A., Dohme, F., Schwartzkopf-Genswein, K.S., 2009. Repeated ruminal acidosis challenges in lactating dairy cows at high and
+low risk for developing acidosis: feeding, ruminating, and lying behaviour. J. Dairy Sci. 92, 5067–5078.
+DiLorenzo, N., Diez-Gonzalez, F., DiCostanzo, A., 2006. Effects of feeding polyclonal antibody preparations on ruminal bacterial populations and ruminal
+pH of steers fed high-grain diets. J. Anim. Sci. 84, 2178–2185.
+Dirksen, G.U., Liebich, H.-G., Mayer, E., 1985. Adaptive changes of the ruminal mucosa and their functional and clinical signiﬁcance. Bovine Pract. 20,
+116–120.
+Dohme, F., DeVries, T.J., Beauchemin, K.A., 2008. Repeated ruminal acidosis challenges in lactating dairy cows at high and low risk for developing acidosis:
+ruminal pH. J. Dairy Sci. 91, 3554–3567.
+Dougherty, R.W., Riley, J.L., Baetz, A.L., Cook, H.M., Coburn, K.S., 1975. Physiologic studies of experimentally grain-engorged cattle and sheep. Am. J. Vet.
+Res. 36, 833–835.
+Elam, C.J., 1976. Acidosis in feedlot cattle: practical observations. J. Anim. Sci. 43, 898–901.
+Erdman, R.A., 1988. Dietary buffering requirements of the lactating dairy cow: a review. J. Dairy Sci. 71, 3246–3266.
+Erickson, G.E., Milton, C.T., Fanning, K.C., Cooper, R.J., Swingle, R.S., Parrot, J.C., Vogel, G., Klopfenstein, T.J., 2003. Interaction between bunk management
+and monensin concentration on ﬁnishing performance, feeding behaviour, and ruminal metabolism during an acidosis challenge with feedlot cattle. J.
+Anim. Sci. 81, 2869–2879.
+Faleiro, A.G., González, L.A., Blanch, M., Cavini, S., Castells, L., Ruíz de la Torre, J.L., Manteca, X., Calsamiglia, S., Ferret, A., 2011. Performance, ruminal changes,
+behaviour and welfare of growing heifers fed a concentrate diet with or without barley straw. Animal 5, 294–303.
+Forbes, J.M., Barrio, J.P., 1992. Abdominal chemo- and mechanosensitivity in ruminant and its role in the controlo f food intake. Exp. Physiol. 77, 27–50.
+Fulton, W.R., Klopfenstein, T.J., Britton, R.A., 1979a. Adaptation to high concentrate diets by beef cattle. I. Adaptation to corn and wheat diets. J. Anim. Sci.
+49, 775–784.
+Fulton, W.R., Klopfenstein, T.J., Britton, R.A., 1979b. Adaptation to high concentrate diets by beef cattle. II. Effect of ruminal pH alteration on rumen
+fermentation and voluntary intake of wheat diets. J. Anim. Sci. 49, 785–789.
+Galyean, M.L., Rivera, J.D., 2003. Nutritionally related disorders affecting feedlot cattle. Can. J. Anim. Sci. 83, 13–20.
+78 L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79
+Goad,
+ D.W., Goad, C.L., Nagaraja, T.G., 1998. Ruminal microbial and fermentative changes associated with experimentally induced subacute acidosis in
+steers. J. Anim. Sci. 76, 234–241.
+González, L.A., 2007. Inﬂuence of feeding and social behaviors, and the use of sodium bicarbonate on the ruminal pH of beef cattle fed high concentrate diets.
+PhD thesis. Universitat Autonoma de Barcelona. Barcelona, Spain. Available at: http://ddd.uab.cat/pub/tesis/2007/tdx-1114108-114206/lag1de1.pdf.
+González, L.A., Ferret, A., Manteca, X., Calsamiglia, S., 2008a. Increasing sodium bicarbonate level in high-concentrate diets for heifers. I. Effects on intake,
+water consumption and ruminal fermentation. Animal 2, 705–712.
+González, L.A., Ferret, A., Manteca, X., Calsamiglia, S., 2008b. Increasing sodium bicarbonate level in high-concentrate diets for heifers. II. Effects on chewing
+and feeding behaviors. Animal 2, 713–722.
+González, L.A., Ferret, A., Manteca, X., Ruíz-de-la-Torre, J.L., Calsamiglia, S., Devant, M., Bach, A., 2008c. Performance, behavior, and welfare of Friesian heifers
+housed in pens with two, four and eight individuals per concentrate feeding place. J. Anim. Sci. 86, 1446–1458.
+González, L.A., Tolkamp, B.J., Coffey, M.P., Ferret, A., Kyriazakis, I., 2008d. Changes in feeding behavior as possible indicators for the automatic monitoring
+of health disorders in dairy cows. J. Dairy Sci. 91, 1017–1028.
+González, Correa, L.A., Ferret, L.B., Manteca, A., Ruíz-de-la-Torre, X., Calsamiglia, J.L., 2009. Intake, water consumption, ruminal fermenattion, and stress
+response of beef heifers fed alter different lengths of delays in the daily feed delivery time. J. Anim. Sci. 87, 2709–2718.
+Grant, R.J., Albright, J.L., 1995. Feeding behaviour and management factors during the transition period in dairy cattle. J. Anim. Sci. 73, 2791–2803.
+Harb, M.Y., Reynolds, V.S., Campling, R.C., 1985. Eating behavior, social dominance and voluntary intake of silage in group-fed milking cattle. Grass Forage
+Sci. 40, 113–118.
+Harrelson, F.W., Luebbe, M.K., Meyer, N.F., Erickson, G.E., Klopfenstein, T.J., Jackson, D.S., Fithian, W.A., 2009. Inﬂuence of corn hybrid and processing method
+on nutrient digestibility, ﬁnishing performance, and carcass characteristics. J. Anim. Sci. 87, 2323–2332.
+Herrera-Saldana, R., Huber, J.T., Poore, M.H., 1990. Dry matter, crude protein and starch degradability of ﬁve cereals grains. J. Dairy Sci. 73, 2386–2393.
+Huber, T.L., 1976. Physiological effects of acidosis on feedlot cattle. J. Anim. Sci. 43, 902–909.
+Huntington, G.B., 1997. Starch utilization by ruminants: from basics to the bunk. J. Anim. Sci. 75, 852–867.
+Huntington, G.B., Harmon, D.L., Richards, C.J., 2006. Sites, rates, and limits of starch digestion and glucose metabolism in growing cattle. J. Anim. Sci. 84,
+E14–E24.
+Illius, A.W., Fitzgibbon, C., 1994. Costs of vigilance in foraging ungulates. Anim. Behav. 47, 481–484.
+Jaeger, S.L., Luebbe, M.K., Macken, C.N., Erickson, G.E., Klopfenstein, T.J., Fithian, W.A., Jackson, D.S., 2006. Inﬂuence of corn hybrid traits on digestibility and
+the efﬁciency of gain in feedlot cattle. J. Anim. Sci. 84, 1790–1800.
+Khaﬁpour, E., Krause, D.O., Plaizier, J.C., 2009a. A grain-based subacute ruminal acidosis challenge causes translocation of lipopolysaccharide and triggers
+inﬂammation. J. Dairy Sci. 92, 1060–1070.
+Khaﬁpour, E., Krause, D.O., Plaizier, J.C., 2009b. Alfalfa pellet-induced subacute ruminal acidosis in dairy cows increases bacterial endotoxin in the rumen
+without causing inﬂammation. J. Dairy Sci. 92, 1712–1724.
+Kleen, J.L., Hooijer, G.A., Rehage, J., Noordhuizen, J.P.T.M., 2003. Subacute ruminal acidosis (SARA): a review. J. Vet. Med. A 50, 406–414.
+Kohn, R.A., Dunlap, T.F., 1998. Calculation of the buffering capacity of bicarbonate in the rumen and in vitro. J. Anim. Sci. 76, 1702–1709.
+Krause, K.M., Oetzel, G.R., 2006. Understanding and preventing subacute ruminal acidosis in dairy herds: a review. Anim. Feed Sci. Technol. 126, 215–236.
+Langhans, W., Rossi, R., Scharrer, E., 1995. Relationships between feed and water intake in ruminants. In: Englehardt, W.V., Leonhard-Marek, S., Breves,
+G., Giesecke, D. (Eds.), Ruminant Physiology, Digestion, Metabolism, Growth and Reproduction. Proceedings of the 8th International Symposium on
+Ruminant Physiology. Stuttgart, Germany, pp. 199–216.
+Loerch, S.C., Fluharty, F.L., 1998. Effects of programming intake on performance and carcass characteristics of feedlot cattle. J. Anim. Sci. 76, 371–377.
+Mooney, C.S., Allen, M.S., 2007. Effect of dietary strong ions on chewing activity and milk production in lactating dairy cows. J. Dairy Sci. 90, 5610–5618.
+Miller, K., Wood-Gush, D.G.M., 1991. Some effects of housing on the social behaviour of dairy cows. Anim. Prod. 53, 271–278.
+Moya, D., Mazzenga, A., Holtshausen, L., Cozzi, G., González, L.A., Calsamiglia, S., Gibb, D.G., McAllister, T.A., Beauchemin, K.A., Schwartzkopf-Genswein, K.S.,
+2011. Feeding behavior and ruminal acidosis in beef cattle offered a total mixed ration or dietary components separately. J. Anim. Sci. 89, 520–530.
+Murphy, T.A., Fluharty, F.L., Loerch, S.C., 1994. The inﬂuence of intake level and corn processing on digestibility and ruminal metabolism in steers fed
+all-concentrate diets. J. Anim. Sci. 72, 1608–1615.
+Nagaraja, T.G., Chengappa, M.M., 1998. Liver abscesses in feedlot cattle: a review. J. Anim. Sci. 76, 287–298.
+Nagaraja, T.G., Titgemeyer, E.C., 2007. Ruminal acidosis in beef cattle: the current microbiological and nutritional outlook. J. Dairy Sci. 90, E17–E38.
+Nielsen, B.L., 1999. On the interpretation of feeding behaviour measures and the use of feeding rate as an indicator of social constraint. Appl. Anim. Behav.
+Sci. 63, 79–91.
+Nocek, J.E., 1997. Bovine acidosis: implications on laminitis. J. Dairy Sci. 80, 1005–1028.
+NRC (National Research Council), 2000. Nutrient Requirements of Beef Cattle, 7th rev. ed. National Academy of Science, Washington, DC (Update 2000).
+Offner, A., Bach, A., Sauvant, D., 2003. Quantitative review of in situ starch degradation in the rumen. Anim. Feed Sci. Technol. 106, 81–93.
+Olofsson, J., 1999. Competition for total mixed diets fed for ad libitum intake using one or four cows per feeding station. J. Dairy Sci. 82, 69–79.
+Owens, F.N., Secrist, D.S., Hill, W.J., Gill, D.R., 1997. The effect of grain source and grain processing on performance of feedlot cattle: a review. J. Anim. Sci.
+75, 868–879.
+Owens, F.N., Secrist, D.S., Hill, W.J., Gill, D.R., 1998. Acidosis in cattle: a review. J. Anim. Sci. 76, 275–286.
+Penner, G.B., Steele, M.A., Aschenbach, J.R., McBride, B.W., 2011. Ruminant nutrition symposium: molecular adaptation of ruminal epithelia to highly
+fermentable diets. J. Anim. Sci. 89, 1108–1119.
+Plaizier, J.C., Krause, D.O., Gozho, G.N., McBride, B.W., 2009. Subacute ruminal acidosis in dairy cows: the physiological causes, incidence and consequences.
+Vet. J. 176, 21–31.
+Pritchard, R.H., Bruns, K.W., 2003. Controlling variation in feed intake through bunk management. J. Anim. Sci. 81 (E. Suppl. 2), E133–E138.
+Reinhardt, C., Reinhardt, A., Reinhardt, V., 1986. Social behaviour and reproductive performance in semi-wild Scottish Highland cattle. Appl. Anim. Behav.
+Sci. 15, 125–136.
+Robles, V., González, L.A., Ferret, A., Mantexa, X., Calsamiglia, S., 2007. Effects of feeding frequency on intake, ruminal fermentation, and feeding behavior
+in heifers fed high-concentrate diets. J. Anim. Sci. 85, 2538–2547.
+Russell, J.R., Chow, J.M., 1993. Another theory for the action of ruminal buffer salts, decreased starch fermentation and propionate production. J. Anim. Sci.
+75, 1069–1077.
+Russell, J.B., 2002. Rumen Microbiology and its Role in Ruminant Nutrition. James B. Russell, Ithaca, NY.
+Sauvant, D., Meschy, F., Mertens, D., 1999. Les composantes de l’acidose ruminale et les effets acidogènes des rations. INRA Prod. Anim. 12, 49–60.
+Schwartzkopf-Genswein, K.S., Atwood, S., McAllister, T.A., 2002. Relationships between bunk attendance, intake and performance of steers and heifers on
+varying feeding regimes. Appl. Anim. Behav. Sci. 76, 179–188.
+Schwartzkopf-Genswein, K.S., Beauchemin, K.A., Gibb, D.J., Crews, D.H., Hickman, D.D., Streeter, M., McAllister, T.A., 2003. Effect of bunk management on
+feeding behaviour, ruminal acidosis and performance of feedlot cattle: a review. J. Anim. Sci. 81, E149–E158.
+Schwartzkopf-Genswein, K.S., Beauchemin, K.A., McAllister, T.A., Gibb Streeter, M., Kennedy, A.D., 2004. Effect of feed delivery ﬂuctuations and feeding
+time on ruminal acidosis, growth performance, and feeding behaviour of feedlot cattle. J. Anim. Sci. 82, 3357–3365.
+Schwartzkopf-Genswein, K.S., Silasi, R., McAllister, T.A., 2003b. Use of remote bunk monitoring to record effects of breed, feeding regime and weather on
+feeding behaviour and growth performance of cattle. Can. J. Anim. Sci. 83, 29–38.
+Slyter, L.L., 1976. Inﬂuence of acidosis on rumen function. J. Anim. Sci. 43, 910–929.
+Smith, R.A., 1998. Impact of disease on feedlot performance: a review. J. Anim. Sci. 76, 272–274.
+L.A. González et al. / Animal Feed Science and Technology 172 (2012) 66– 79 79
+Soto-Navarro,
+ S.A., Duff, G.C., Krehbiel, C.-R., Galyean, M.L., Malcom-Callis, K.J., 2000. Inﬂuence of feed intake ﬂuctuation, feeding frequency, time of feeding
+and rate gain on performance by limit-fed steers. Prof. Anim. Sci. 16, 13–20.
+Stock, R.A., Laudert, S.B., Stroup, W.W., Larson, E.M., Parrott, J.C., Britton, R.A., 1995. Effect of monensin and monensin and tylosin combination on feed
+intake variation of feedlot steers. J. Anim. Sci. 73, 39–44.
+Taylor, C.C., Allen, M.S., 2005a. Corn grain endosperm type and brown midrib 3 corn silage: ruminal fermentation and n partitioning in lactating cows. J.
+Dairy Sci. 88, 1434–1442.
+Taylor, C.C., Allen, M.S., 2005b. Corn grain endosperm type and brown midrib 3 corn silage: feeding behavior and milk yield of lactating cows. J. Dairy Sci.
+88, 1425–1433.
+Tolkamp, B.J., Schweitzer, D.P., Kyriazakis, I., 2000. The biologically relevant unit for the analysis of short-term feeding behavior of dairy cows. J. Dairy Sci.
+83, 2057–2068.
+Tolkamp, B.J., Friggens, N.C., Emmans, G.C., Kyriazakis, I., Oldham, J.D., 2002. Meal patterns of dairy cows consuming mixed foods with a high or a low ratio
+of concentrate to grass silage. Anim. Sci. 74, 369–382.
+Tremere, A.W., Merill, W.G., Loosli, J.K., 1968. Adaptation to high concentrate feeding as related to acidosis and digestive disturbances in dairy heifers. J.
+Dairy Sci. 51, 1065–1072.
+USDA (United States Department of Agriculture), 2000. National Animal Health Monitoring System. Part III. Health Management and Biosecurity in U.S.
+Feedlots, 1999. USDA, APHIS, Veterinary Services.
+USDA (United States Department of Agriculture), 2001. Info Sheet: Treatment of Respiratory Disease in U.S Feedlots. USDA, APHIS, Veterinary Services,
+Available at: http://nahms.aphis.usda.gov/feedlot/feedlot99/Feedlot99 is TreatResp.pdf.

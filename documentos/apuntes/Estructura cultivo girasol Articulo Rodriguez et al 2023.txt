@@ -1,0 +1,1066 @@
+=== Fuente: Estructura cultivo girasol Articulo Rodriguez et al 2023.pdf ===
+
+Field Crops Research 300 (2023) 108986
+Available online 9 June 2023
+0378-4290/© 2023 Published by Elsevier B.V.
+Fine-tuning the CROPGRO-Sunflower model and its application to the 
+quantification of crop responses to environmental and 
+management variables 
+Ignacio M. Rodriguez a,*, Jorge L. Mercau b, Pablo A. Cipriotti c, Antonio J. Hall c, 
+Juan P. Monzon a,d 
+a UIB-INTA Balcarce - Facultad de Ciencias Agrarias, Universidad Nacional de Mar del Plata, Argentina, Ruta 226 km 73,5 (7620) Balcarce, Buenos Aires, Argentina 
+b Instituto Nacional de Tecnología Agropecuaria (INTA), Argentina 
+c IFEVA, Facultad de Agronomía-Universidad de Buenos Aires/CONICET, Av. San Martín 4453, 1417 C.A. de Buenos Aires, Argentina 
+d Consejo Nacional de Investigaciones Científicas y T´ecnicas (CONICET), Unidad Integrada Balcarce, Balcarce, Buenos Aires, Argentina   
+ARTICLE INFO  
+Keywords: 
+Sunflower 
+Helianthus annuus 
+Crop modelling 
+Decision Support System for Agrotechnology 
+Transfer (DSSAT) 
+ABSTRACT  
+Problem: The Decision Support System for Agrotechnology Transfer (DSSAT) contains a sunflower model based 
+on CROPGRO. This model assumes some parameters values out of the crop species variability. Besides, this model 
+has not been assessed for simulating grain yield and grain oil content in contrasting environments. 
+Objective: The main goal of this study was to generate and test a revised CROPGRO-Sunflower model. In addition, 
+we used the revised CROPGRO-Sunflower to quantify crop responses to environmental and management 
+variables. 
+Methods: Three sunflower models: a revised CROPGRO-Sunflower, the original CROPGRO-Sunflower and the 
+OILCROP-SUN were calibrated and evaluated across contrasting environments. We compared the revised 
+CROPGRO-Sunflower with the original CROPGRO-Sunflower and OILCROP-SUN in terms of ability to simulate 
+crop development, growth, grain yield and grain oil content. Crop responses to soil depth, sowing date, and El 
+Ni˜no-Southern Oscillation (ENSO) effects were quantified using the revised CROPGRO-Sunflower in combination 
+with climatic records for 37 growing seasons to simulate yield in two contrasting environments of Argentina: 
+Balcarce and Reconquista. 
+Results: Crop growth, grain yield and grain oil content were better simulated by the revised CROPGRO-Sunflower 
+than by OILCROP-SUN. Simulated yield had a root mean square error (RMSE) of 48 g m-2 with revised 
+CROPGRO-Sunflower and of 119 g m-2 with OILCROP-SUN. Moreover, RMSE for simulated grain oil concen-
+tration was 2% for revised CROPGRO-Sunflower and 11% for OILCROP-SUN. Deep soils and late sowing dates 
+resulted in higher grain yield at Balcarce. Sowing date did not affect grain yield at Reconquista. An effect of the 
+ENSO phases on sunflower grain yield was found. "La Ni˜na" phase was associated with the lowest grain yields at 
+both sites. 
+Conclusions: Modifications made to the original CROPGRO-Sunflower improved model performance. The revised 
+CROPGRO-Sunflower model can be utilized to simulate crop phenology, growth, grain yield and grain oil con-
+centration over a wide range of environmental conditions. 
+Implications: This calibrated and evaluated crop simulation model will allow to advance in the quantification of 
+yield gaps and to study the impact of other management practices on sunflower crop production.   
+1. Introduction 
+Sunflower is an annual crop grown in temperate environments and is 
+the fourth largest source of vegetable oil in the world (USDA, 2022). 
+Argentina is the fourth main sunflower producing country and the crop 
+is sown all across it cropping area (Hall et al., 1992; Mercau et al., 2001; 
+Chapman and de la Vega, 2002; USDA, 2022). Sunflower sowing date 
+extends from July in the northern region to mid-December in the 
+* Corresponding author. 
+E-mail address: rodriguezmignacio08@gmail.com (I.M. Rodriguez).  
+Contents lists available at ScienceDirect 
+Field Crops Research 
+journal homepage: www.elsevier.com/locate/fcr 
+https://doi.org/10.1016/j.fcr.2023.108986 
+Received 30 August 2022; Received in revised form 2 May 2023; Accepted 25 May 2023   
+Field Crops Research 300 (2023) 108986
+2
+southern region exposing the crop to different photoperiod, tempera-
+ture, radiation and precipitation regimes (Casta˜no, 2018), making 
+Argentina an excellent place to evaluate a crop model. 
+Assessment of potential extra production (i.e., yield gap) for sun-
+flower requires robust estimates of the grain yield. Crop simulation 
+models are suitable tools to quantify yield gaps and to study the impact 
+of different management practices on crop production (Boote et al., 
+1996; Grassini et al., 2015; He et al., 2015). The Decision Support Sys-
+tem for Agrotechnology Transfer (DSSAT) is a collection of programs 
+that operate together using shared databases of climate, soil, manage-
+ment practices and genotypes (Jones et al., 2003). Two distinct types of 
+crop models can be delineated within DSSAT (i) the CROPGRO models 
+and (ii) the CERES-style models, which share the same soil-water and 
+nitrogen routines. Both types include a model to simulate sunflower, 
+CROPGRO Sunflower (Tariq et al., 2018) and OILCROP-SUN (Villalobos 
+et al., 1996), respectively. It is relevant to point out that other sunflower 
+simulation models have been developed but are not available in DSSAT 
+(Kiniry et al., 1992; Chapman et al., 1993; Pereyra-Irujo and Aguir-
+rez´abal, 2007; Casadebaig et al., 2011). 
+The CROPGRO is a generic model in the sense that there is one 
+common FORTRAN code to predict the growth of a number of different 
+grain legumes (Boote et al., 1998a, 1998b), Boote et al. (2002), Hart-
+kamp et al. (2002a), (2002b)) as well as non-leguminous crops (Schol-
+berg et al., 1997; Singh et al., 2016). However, the current 
+CROPGRO-Sunflower parameterization, used to simulate this crop in 
+particular environments (Tariq et al., 2018; Awais et al., 2020; Gurkan 
+et al., 2020; Zhang et al., 2021), assumes some values out of the crop 
+species variability. Some examples are: maximum specific leaf area 
+(SLA) of 580 cm2 g–1, when the maximum sunflower reported SLA is 210 
+cm2 g–1 (Trapani et al., 1988); maximum size of the leaf (SIZLF) is set at 
+200 cm2 (soybean value), when for sunflower this varies between 1200 
+and 1500 cm2 (Villalobos et al., 1996); and a parameterization of root 
+growth that underestimates sunflower ability to use resources in deep 
+soil horizons (Dardanelli et al., 1997; Andriani, 2003). It is therefore 
+necessary to update CROPGRO-Sunflower parameters based on current 
+understanding of sunflower ecophysiology; and evaluate the ability of 
+CROPGRO-Sunflower to predict grain yield and grain oil content in 
+contrasting environments. 
+The OILCROP-SUN model for sunflower is a CERES-type model with 
+important process modifications needed to simulate the sunflower crop 
+(Villalobos et al., 1996). This model has a parameterization based on 
+radiation use efficiency and to improve its performance a reparamete-
+rization of the model based on photosynthesis and respiration as two 
+separate processes is needed. This model simulates crop growth and 
+yield (Grassini et al., 2009) but has a very simple and poorly functional 
+form of predicting grain oil content, an essential component of sun-
+flower yield, for which it generally gives poor predictions (Mercau and 
+Hall, pers. comm., 2019). Furthermore, OILCROP-SUN is available in 
+DSSAT 4.6, as an older DOS-based legacy model, currently not coupled 
+with the new DSSAT software features (Singh et al., 2016; G. Hoo-
+genboom, pers. comm., 2019) precluding its extensive use among re-
+searchers and managers. 
+As in other similar crop models, variations in process parametriza-
+tion of CROPGRO- Sunflower could affect the simulated results and may 
+lead to different results and decisions (Mercau et al., 2007; Monzon 
+et al., 2012). Sunflower grain yield interannual variability in rainfed 
+systems across Argentina are conditioned by soil, crop management, 
+climatic variability and their interactions. In the southern sunflower 
+region of Argentina soil depth has a strong effect on availability of water 
+and grain yield (Sadras and Calvi˜no, 2001), while in the northern sun-
+flower region, the availability of water in the soil prior to sowing has a 
+strong impact on grain yield (Mercau, 2010). Sowing date is a man-
+agement decision with a big effect on yield. When the optimum sowing 
+date is delayed, sunflower yield is reduced (de la Vega and Hall, 2002a; 
+de la Vega and Hall, 2002b). Sowing date modifies crop water avail-
+ability and is used as a management practice to avoid water deficits that 
+cause yield losses (Otegui and L´opez Pereira, 2004; Cerrudo et al., 2013; 
+Rotili et al., 2019). El Ni˜no – Southern Oscillation (ENSO) is a climate 
+phenomenon that occurs across the tropical Pacific Ocean characterized 
+by variations in the temperature of the ocean surface and in the air 
+surface pressure in the tropical western Pacific with impacts on rainfall 
+patterns across the world. Agronomically important aspects across 
+cropping regions of the world are related to ENSO (Podest´a et al., 2002; 
+Monzon et al., 2012; Aramburu Merlos et al., 2015), but it impact has 
+not been explored yet for sunflower cropping areas of Argentina. 
+A rigorous evaluation and adjustment of the current DSSAT crop 
+models for sunflower is missing. Here we calibrated and tested the 
+revised CROPGRO-Sunflower and compared it with the original 
+CROPGRO-Sunflower to assess the impact of the modifications made to 
+the model. Then we compared revised CROPGRO-Sunflower with 
+OILCROP-SUN in their capacities to simulate crop development, growth, 
+grain yield and grain oil concentration. We used a detailed database 
+including ad-hoc experiments across a wide range of environments in 
+Argentina. Finally, with the revised CROPGRO-Sunflower, we quantified 
+crop responses to environmental and management variables. 
+2. Materials and methods 
+2.1. Weather and soil data to run models 
+Daily maximum and minimum temperature, dew point, wind and 
+precipitation data were derived from INTA (http://siga2.inta.gov.ar/) 
+and SMN (National Weather Service; http://www.smn.gov.ar/) weather 
+stations. Data from NASA-POWER (http://power.larc.nasa.gov/) were 
+used as source of daily incident solar radiation. Evaluations of the NASA- 
+POWER solar radiation data indicate good agreement with ground- 
+measured solar radiation data for Argentina (Aramburu Merlos et al., 
+2015). 
+Functional soil properties required to run crop simulation models (e. 
+g., water content at field capacity and wilting point) were derived from 
+soil series descriptions of Ritchie and Crum (1989), according to the 
+revisions made by Gijsman et al. (2002). 
+2.2. Calibration and error evaluation of CROPGRO-Sunflower 
+In this study, we opted to use the term error evaluation instead of 
+validation, based on the definitions presented in Oreskes et al. (1994). 
+2.2.1. Model calibration approach 
+We addressed the calibration procedure for three sunflower model 
+versions: i) a revised CROPGRO-Sunflower (this article), ii) the original 
+CROPGRO-Sunflower (Tariq et al., 2018), and iii) the OILCROP-SUN 
+(Villalobos et al., 1996). Three cultivars (SYN3970; DK3880; Paraiso 
+68) were used for all the models. 
+The genetic attributes of CROPGRO-Sunflower are contained in 3 
+files, namely species (SUGRO047. SPE), cultivar (SUGRO047. CUL) and 
+ecotype files (SUGRO047. ECO). The species file contains all parameters 
+and parameterized relationships for the sensitivity of different processes 
+(leaf appearance rate, rate of reproductive progress, photosynthesis, 
+respiration, leaf area expansion, protein mobilization, seed number 
+determination and seed growth rate) to temperature, chemical compo-
+sition of plant organs and tissues, and many other parameters (Boote, 
+2019). The parameters of the phenology and the yield definition strategy 
+of each cultivar of sunflower are in the cultivar and ecotype files of 
+CROPGRO-Sunflower. Both files (cultivar and ecotype) contain a set of 
+parameters that allow the model to simulate the behavior of the different 
+cultivars, maintaining a fixed set of parameters in the species file. 
+In the revised CROPGRO-Sunflower parameters in (SUGRO047. 
+CUL), (SUGRO047. SPE) and (SUGRO047. ECO) were adjusted using our 
+dataset (Table 1) and literature data using a trial-error approach which 
+allowed us to minimize errors in the prediction of observed data. First, 
+values such as base, optimum and maximum temperature for some 
+I.M. Rodriguez et al.                                                                                                                                                                                                                           
+Field Crops Research 300 (2023) 108986
+3
+processes (for example cardinal temperatures to calculate crop devel-
+opment) were inputted in the species file based on literature data. Sec-
+ond, photothermal days and coefficients related to duration of the 
+intervals between starburst to anthesis, anthesis to first seed, and time 
+from first seed to physiological maturity were adjusted to simulate the 
+crop cycle length in the cultivar and ecotype files. Third, parameters in 
+the species and cultivar files that affect leaf and canopy photosynthesis 
+and vegetative partitioning were optimized by comparing simulated 
+LAI, intercepted PAR, root growth and above ground dry matter (ADM) 
+with observed data. Fourth, parameters of seed size, seeds per achene 
+(see section 3.6), seed growth, and seed filling duration were adjusted in 
+the cultivar file. 
+In the original CROPGRO-Sunflower and in the OILCROP-SUN we 
+only adjusted phenology and grain oil content coefficients in the cultivar 
+file. We assumed that species and ecotype files (only in original 
+CROPGRO-Sunflower) were appropriate. It should be noted that the 
+OILCROP-SUN model only contains a species file and a cultivar file. 
+2.2.2. Data sources for model calibration and evaluation 
+The dataset used for the calibration and evaluation of crop models is 
+summarized in Table 1 (the completed dataset is available in supple-
+mentary “sunflower_data.csv” file). Sources of variation in sunflower 
+growth and yield in these studies included location and soil type, water 
+availability, tillage system, sowing date and cultivar cycle length. 
+Specifically, to calibrate leaf area index (LAI), intercepted photo-
+synthetically active radiation (PAR) and aboveground dry matter (ADM) 
+a field experiment (Exp.1) was conducted at Balcarce (37◦45’ S, 58◦18’ 
+W; 130 m a.s.l.), Argentina at the National Institute of Agricultural 
+Technology (INTA) – Balcarce experimental station, during 2018–2019 
+cropping season. In the Exp. 1 we used four sowing dates to generate 
+contrasting environments for temperature, radiation and photoperiod at 
+a single site without water and nutrient limitations. The soil at the 
+experiment site is classified as a fine-loamy typic argiudol (Soil, 1999), 
+with 5.6% topsoil organic matter, 51 mg kg-1 Bray P-I and an effective 
+soil depth of 1.8 m. Plots comprised ten rows and row length was 12 m. 
+We used a full-season cultivar, widely sowed in the southern region and 
+in the northern region (SYN3970), plant density was 7 pl m-2 sown at 
+Table 1 
+Description of sources of data used in calibration and error evaluation of the models. Crop variables include: leaf area index (LAI), intercepted photosynthetically active 
+radiation (PAR) and aboveground dry matter (ADM). The last column (“Size of database”) indicates the number of databases in each experiment or report and the way 
+these were separated for use in the procedures for either calibration or error evaluation. The supplementary file “sunflower_data.csv” includes the data.  
+Experiment Sources of variation      Size of database  
+Location, water Sowing dates Sunflower 
+yield 
+Cultivar Crop variables Total Calibration Error  
+availability and and range (g m-2)     evaluation  
+tillage conditions sowing year       
+Exp. 1 Balcarce, irrigated, Mid October to 247–414 SYN3970 ADM (g m-2), LAI, 4 4   
+no tillage Mid December. 
+2018   
+intercepted         
+PAR (MJ m  2 day  1),         
+grain yield (g m-2),         
+grain weight (mg grain  1),         
+grain number (grains m  2),         
+grain oil concentration (%), flowering 
+and         
+maturity date (days)    
+Coll et al., Balcarce, irrigated, October 302–315 DK3880 ADM (g m-2), 4 2 2 
+2012 Tillage 0.2005, 2006   grain yield (g m-2),         
+grain oil concentration         
+(%), flowering and         
+maturity date (days)    
+Andrade et Balcarce, irrigated Mid October. 142–358 Paraiso 68 ADM (g m-2), 6 3 3 
+al., and rainfed, 2007,   grain yield (g m-2),    
+2012 tillage 2008   grain oil concentration    
+Andrade,     (%), flowering and    
+unpublished     maturity date (days)    
+Red de Anguil, Balcarce, August to 205–370 SYN3970 Grain yield (g m-2), grain 17 4 13 
+evaluaci´on Barrow, January. 2012 to   oil concentration (%),    
+de cultivares Reconquista, 2018   flowering and maturity    
+INTA- Ceres, Coronel    date (days)    
+ASAGIR Suarez,         
+rainfed, no tillage        
+Echarte et al., Balcarce, irrigated, October. 209–356 DK3880 ADM (g m-2), 5  5 
+2011 tillage 2005, 2006   grain yield (g m-2),    
+Echarte et al.,     and grain oil    
+2020     concentration (%),    
+Echarte,     flowering and    
+unpublished     maturity date (days)    
+Red de Barrow, August to  SYN3970 Flowering and 2  2 
+Evaluaci´on Reconquista, December. 2013   maturity date (days)    
+de cultivares rainfed, no tillage to       
+INTA-  2015       
+ASAGIR         
+Red de Anguil, Balcarce, Mid August to Mid  SYN3970 Flowering date 10  10 
+evaluaci´on de Barrow,Ceres, November.   (days)    
+cultivares Reconquista, 2012–2017       
+INTA- 
+ASAGIR 
+Coronel         
+Suarez, Tandil,         
+rainfed, no tillage         
+I.M. Rodriguez et al.                                                                                                                                                                                                                           
+Field Crops Research 300 (2023) 108986
+4
+0.52 m between rows. Sowing dates were 10/18/2018; 11/22/2018; 
+12/17/2018 and 01/07/2019 (The intervals between sowing dates were 
+a fixed number of growing degree-days). 
+The phenological stages of crop development were recorded every 
+two days on 5 plants of each plot according to the scale of Schneiter and 
+Miller (1981). ADM was estimated by harvesting 8–10 contiguous plants 
+at ground level (to avoid errors due to edge effects, between successive 
+harvests 3–4 plants per row were discarded and only plants from the 5 
+central rows were harvested) from emergence to physiological maturity 
+of the crop (a total of 6 ADM estimations). Leaf area of each sample 
+(8–10 plants) was measured with an area meter (model LI-3000, Li-Cor 
+Inc., Lincoln, NE). To estimate grain yields, sunflower heads were har-
+vested from an area of 10 m2 separated from plot edges by at least one 
+row and by at least one plant from gaps left by previous samples and plot 
+end. The experiment was conducted under a randomized complete block 
+design with 4 replicates. 
+More data for calibration and error evaluation of the models were 
+derived from Echarte et al. (2011); Coll et al. (2012); Andrade et al. 
+(2012); Echarte et al. (2020).; unpublished data from well-managed 
+experiments and from the National Sunflower Cultivar Assessment 
+Network (Red de evaluaci´on de cultivares) (Table 1). This testing 
+network, coordinated by INTA and ASAGIR (Argentine Sunflower As-
+sociation) has as its main objective the evaluation of commercial sun-
+flower cultivars in Argentina. To this end, the different seed companies 
+participate and the breeders of the companies are the ones who choose 
+the cultivar that will be evaluated in each of the sunflower regions of 
+Argentina. The information produced helps farmers to choose the most 
+adequate cultivar. It is important to highlight that, for certain locations 
+and/or years, the National Sunflower Cultivar Assessment Network 
+INTA-ASAGIR did not have complete information for the cultivar of 
+interest (i.e., grain yield and grain oil concentration data were missing), 
+(Table 1, Supplementary “sunflower_data.csv”). 
+2.2.3. Statistical evaluation 
+The models were evaluated by comparing observed (Oi) vs. simu-
+lated (Si) data. Model accuracy was described using the root mean 
+square error (RMSE); the index of agreement (d) (Willmott et al., 1985); 
+the mean bias error (MBE); and the normalized root mean square error 
+(NRMSE). 
+RMSE indicates simulation accuracy in absolute terms and was 
+computed using the following equation: 
+RMSE =
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+1
+n
+∑n
+i=1
+(Si  Oi)2
+√
+The index of agreement (d) was used to describe the model accuracy 
+in relative units and was calculated as follows: 
+d = 1  
+⎡
+⎢⎢⎣
+∑n
+i=1
+(Si  Oi)2
+∑n
+i=1
+(|Si  O|+|Oi  O|)2
+⎤
+⎥⎥⎦ 0 ≤ d ≤ 1  
+Where O is the mean of the observed data. This coefficient can take 
+values from 0 to 1, and indicates the degree to which the observed data 
+is accurately estimated by the model (a value of 1 indicates a perfect 
+agreement and a value of 0 a complete disagreement between observed 
+and simulated values). 
+MBE is used to estimate the average bias of the model. MBE captures 
+the average bias in the simulation. A positive bias in a variable repre-
+sents that the observed data is being overestimated by the simulated 
+data. MBE was calculated as follow: 
+MBE = 1 n ∑n i=1 (Si  Oi)
+where Oi is the observation value and Si is the simulated value. 
+The NRMSE facilitates the comparison between models with 
+different scales and was calculated using the following equation: 
+NRMSE = RMSE O 
+The final value is expressed as a percentage. 
+2.3. Quantification of crop responses to soil depth, sowing date, soil water 
+content at sowing and the effects of El Ni˜no-Southern Oscillation (ENSO) 
+The revised CROPGRO-Sunflower was used in combination with 
+climatic records from 1983–2019 to simulate rainfed grain yield in two 
+contrasting environments representative of the extremes of the wide 
+sunflower production regions in Argentina: Balcarce, in the southwest of 
+Buenos Aires (37◦45’ S, 58◦18’ W; 130 m a.s.l.) and Reconquista, in 
+northern Santa Fe (29◦08’ S, 59◦38’ W; 46 m a.s.l.). The Balcarce 
+environment is classified as humid temperate without a dry season, with 
+a mean annual temperature of 13.8◦C and mean annual precipitation of 
+950 mm. Most common soils are typic petrocalcic argiudol soils, with 
+soil depth limited by a caliche layer (Pazos and Mestelan, 2002). The 
+Reconquista environment is classified as humid, with an average annual 
+temperature of 20◦C and a mean annual precipitation of 1250 mm. 
+Most common soils are typic argiudoll with no soil depth restrictions 
+(Panigatti, 2010). 
+In Balcarce a combination of two sowing dates (early, October 8, and 
+late, November 25) and 6 soil depths (60, 80, 100, 120, 140 and 180 cm) 
+were simulated. In all cases, the simulations began with the soil water 
+content set at field capacity at the time of sowing. In Reconquista a 
+combination of two sowing dates (early, August 10, and late, September 
+15) and three different soil water contents at sowing (WP, 50% and 
+100% of field capacity) were simulated. For all soil water contents, we 
+assumed that the upper 20 cm of soil was at field capacity at sowing to 
+ensure crop emergence. We used for both sites a plant density of 6 plants 
+m-2. 
+In order to assess the influence of the ENSO on crop performance, 
+simulated years were classified in: Neutral, El Ni˜no, and La Ni˜na phases, 
+based on the Oceanic Ni˜no Index of the Climate Prediction Center from 
+NOAA’s National Weather Service (ERSST v.3b, www.cpc.ncep.noaa. 
+gov). Simulated grain yield differences between the ENSO phases were 
+evaluated using ANOVA and Tukey test procedures using the R statis-
+tical software (RStudio Team, 2020). 
+3. Results 
+3.1. Impact on revised CROPGRO of the modifications associated with 
+calibration and evaluation errors 
+The revised and original models predicted accurately the time of the 
+R5 and R9 stages (Table 2). The revised model decreased the RMSE of 
+the LAI, intercepted PAR and root growth simulations for the calibration 
+dataset in comparison with the original model. Regarding root growth it 
+is important to note that the original model only simulated root growth 
+up to 1.2 m depth (Fig. 2). The revised model also simulated ADM, grain 
+yield and grain oil content with a lower RMSE than the original model 
+for both the calibration and evaluation datasets (Table 2). 
+3.1.1. Cardinal temperatures and phase durations for vegetative and 
+reproductive development 
+The species file of the CROPGRO-Sunflower model requires four 
+points of cardinal temperatures, base temperature (Tb), first optimum 
+(Topt1), second optimum (Topt2) and maximum (Tmax) to calculate 
+crop development (Boote et al., 1998b). The cardinal temperatures for 
+the calculation of thermal time in crop development of the model were 
+those estimated by Villalobos and Ritchie (1992) i.e. 4, 28, 30 and 40◦C 
+were used as Tb, Topt1, Topt2, and Tmax (Table S1). 
+Sunflower has a juvenile phase, in which it is insensitive to 
+I.M. Rodriguez et al.                                                                                                                                                                                                                           
+Field Crops Research 300 (2023) 108986
+5
+photoperiod (Marc and Palmer, 1978, 1981), and a phase of photope-
+riodic sensitivity for the floral initiation process (Marc and Palmer, 
+1981; Rawson and Hindmarsh, 1982). The duration of the juvenile 
+phase varies between 250◦ and 450◦Cd according to Villalobos et al. 
+(1996), this information was taken into account for the calibration of the 
+V1-JU coefficient in the ecotype file (time required from first true leaf to 
+end of juvenile phase) (Table S2). Time required for floral induction 
+(JU-R0) was calibrated at 3 photothermal days according to Villalobos 
+et al. (1996). since it refers to the minimum number of days for floral 
+induction under optimal temperature and daylengths. We assumed that 
+the cultivars has a long-day plant response, and maximum day length 
+was set to 15 h (Andrade et al., 2000) for all cultivars (Table S3). 
+Our first objective was to predict as accurately as possible the 
+phenology of each sunflower cultivar, because if the phenology is not 
+predicted correctly, this will simulate with error all growth variables. 
+The model was calibrated to predict with the lowest possible error the 
+emergence, starburst, anthesis and physiological maturity stages. 
+Anthesis is the most important phenological stage in sunflower, since the 
+critical period for yield determination is located around it (Connor and 
+Sadras, 1992). That is why this stage should be simulated with the 
+lowest possible error. Crop phenology was well simulated by both 
+models, slightly better for anthesis than for physiological maturity 
+(Fig. 1 and Table 3). 
+3.1.2. Dynamics of leaf area index and PAR intercepted 
+Leaf growth parameters in the revised CROPGRO-Sunflower species 
+file were modified to improve canopy leaf area expansion. We modified 
+specific leaf area (SLAREF) and size of the leaf (SIZREF) from 240 to 
+210 cm2 g–1 and from 200 to 1000 cm2 respectively. Upper (SLAMAX) 
+and lower (SLAMIN) limit of specific leaf area (against limiting low and 
+saturating high solar radiation, respectively) were set at 280 and 
+210 cm2 g–1, respectively, according to Trapani et al. (1988) and Villa-
+lobos et al. (1996) (Table S4). 
+Additionally, the ecotype file was modified. In revised CROPGRO- 
+Sunflower phyllochron is 43◦Cd, from leaf 1 to leaf 6 and 23 ◦Cd, 
+from leaf 7 and upward (Villalobos and Ritchie, 1992). As a thermal day 
+(TD) is equal to a 24◦Cd (Topt1 = 28◦C and Tb = 4◦C), those values are 
+equivalent to a rate of leaf appearance on the stem (TRIFL) of 
+0.5–1.0 leaf per thermal day (TD), respectively. As CROPGRO assumes a 
+constant value of TRIFL, it was set at 0.6 leaf per TD, based on the 
+number of leaves observed in Exp. 1 (Table 1). The time from first flower 
+to last leaf on stem (FL-VS) was set to terminate the leaf development on 
+the stem at 19 photothermal days, in R5 stage (Schneiter and Miller, 
+1981) (Table S2). 
+Lastly, in the cultivar file the SLA of cultivar (SLAVR) was calibrated 
+to 240 cm2 g–1 and size of the full leaf (SIZLF) was calibrated to 
+1000 cm2 to achieve a good fit for the leaf area index. According to 
+Villalobos et al. (1996) maximum size of the full leaf (SIZLF) can vary 
+between 1200 and 1400 cm2 depending on the cultivar. End of leaf 
+expansion after first flower (FL-LF) was set to 23 photothermal days, 
+between R5 and R6 (Table S3). The LAI was more accurately simulated 
+by revised CROPGRO-Sunflower than by OILCROP-SUN (Table 3), 
+largely due to poor simulation of the last sowing date at Balcarce 
+(Table 1 - Exp. 1; Fig. S1). After LAI calibration the radiation intercep-
+tion also was more accurately simulated by revised 
+CROPGRO-Sunflower than by OILCROP-SUN (Table 3; Fig. S2). 
+Table 2 
+Comparison of the root mean square error (RMSE) of the original and revised CROPGRO-Sunflower models across different variables (Crop development stages R5 and 
+R9; LAI; Intercepted PAR; ADM; Grain yield; Grain oil concentration) for all calibrated and evaluated datasets. RMSE improvement was calculated as RMSE 
+improvement= 1-RMSE revised/ RMSE original, the final value is expressed as a percentage and shows the percentage decrease in the RMSE when going from the 
+original to the revised model.   
+RMSE original RMSE revised RMSE improvement 
+Variable Calibration dataset Evaluation dataset Calibration dataset Evaluation dataset Calibration dataset Evaluation dataset 
+Crop development 
+- R5 - (Day) 
+5.5 5.6 5.3 5.6 - - 
+Crop development - R9 - (Day) 9.8 8.6 9.5 8.7 - - 
+LAI 1.3  0.5  60%  
+Intercepted PAR (%) 19.5  16.4  16%  
+ADM 
+(g m-2) 
+131 2920 129 136 1% 95% 
+Root growth (m) 0.70  0.27  62%  
+Grain yield 
+(g m-2) 
+158 143 48 71 70% 50% 
+Grain oil 
+concentration (%) 
+3.1 3.0 2.0 2.7 35% 10%  
+Fig. 1. Observed and simulated sunflower 
+phenology (days after sowing, DAS). Revised 
+CROPGRO-Sunflower model (left), and 
+OILCROP-SUN model (right). Red symbols are 
+from the calibration (c) dataset and black 
+symbols are from the error evaluation (e) 
+dataset. Circles indicate anthesis and triangles 
+physiological maturity (R5 and R9 stages, 
+respectively, Schneiter and Miller, 1981). Solid 
+diagonal line indicates y = x. Dotted line in-
+dicates a + /- 5 days deviation of the y = x line. 
+Root mean square error (RMSE) for the cali-
+bration “RMSE c” and “RMSE e” for error 
+evaluation values are also shown.   
+I.M. Rodriguez et al.                                                                                                                                                                                                                           
+Field Crops Research 300 (2023) 108986
+6
+3.1.3. Root growth dynamics 
+Modifications were introduced to the revised CROPGRO-Sunflower 
+species file to mimic sunflower root growth in soils with no depth re-
+striction (Dardanelli et al., 1997; Andriani, 2003). In the root parameters 
+section the rate of advance of rooting front (YRTFAC) and the leaf 
+number from which YRTFAC is applied (XRTFAC, Table S4), were 
+modified to set the rate of advance of rooting front at 4.8 cm per thermal 
+day (Tb= 4◦C) according to Villalobos et al. (1996). This estimate was 
+based on measurements of advance of the water extraction front made 
+by ´Alvarez del Toro (1987) and of rates of rooting depth advance made 
+by Sadras et al. (1989). We also modified the RWUEP1 parameter, which 
+is defined as the relationship between water available in the roots and 
+atmospheric demand, setting it at 2.5 according to what was observed by 
+Villalobos et al. (1996). Among others, the effect of this parameter on 
+the simulations of leaf expansion is reduced when the ratio (water 
+available in the roots/ atmospheric demand) falls below the RWUEP1 
+value (Table S4). 
+After the modifications, revised CROPGRO-Sunflower simulatesd 
+root growth more accurately than OILCROP-SUN (Table 3). We high-
+light the facts that OILCROP-SUN does not explore root growth to depths 
+greater than 2 m and that the original CROPGRO-Sunflower only sim-
+ulates root penetration up to 1.2 m (Fig. 2). 
+3.1.4. Biomass accumulation dynamic and biomass partitioning 
+In the photosynthesis parameters section of the species file, only the 
+light extinction coefficient (KCAN) was modified, the value of this 
+parameter was increased from 0.74 to 0.86 (Orgaz et al., 1992; Trapani 
+et al., 1992). Vegetative partitioning parameters were modified based on 
+Table S5 (taken from Villalobos et al., 1996), which translates in more 
+accurate simulation of ADM (Table 3). The new vegetative partitioning 
+parameters of the species file after calibration are presented in Table S6. 
+Lastly the maximum leaf photosynthesis (LFMAX) in the cultivar file 
+was modified from 1.90 to 2.10 mg CO2 m-2 s-1 (default values of the 
+different genotypes) to 1.70 or 1.50 mg CO2 m-2 s-1 depending on the 
+Table 3 
+Model accuracy estimates (RMSE, d, MBE and NRMSE) calculated for all calibrated and evaluated variables (Crop development stages R5 and R9; LAI; Intercepted PAR; 
+ADM; Grain yield; Grain oil concentration) for the revised CROPGRO-Sunflower and OILCROP-SUN models. For LAI, intercepted PAR and root growth the error 
+evaluation was not carried out, which is why the accuracy estimates for these variables are not shown.   
+revised CROPGRO-Sunflower OILCROP-SUN 
+Variable Accuracy estimate Calibration 
+dataset 
+Evaluation 
+dataset 
+Calibration 
+dataset 
+Evaluation 
+dataset 
+R5 Stage- (DAS) RMSE 5.3 5.6 7.2 4.7 
+d 0.71 0.84 0.77 0.89 
+MBE 1.93 1.72 -0.22 -0.03 
+NRMSE 28% 18% 25% 15% 
+R9 Stage- (DAS) RMSE 9.5 8.7 11.7 8.7 
+d 0.46 0.54 0.36 0.59 
+MBE -2.35 1.70 -1.40 -2.44 
+NRMSE 35% 26% 42% 24% 
+LAI RMSE 0.5  0.8  
+d 0.97  0.94  
+MBE -0.12  0.43  
+NRMSE 11%  17%  
+Intercepted PAR (%) RMSE 16  19  
+d 0.91  0.86  
+MBE -5.54  12.00  
+NRMSE 18%  21%  
+ADM (g m-2) RMSE 129 136 117 297 
+d 0.98 0.95 0.99 0.76 
+MBE -68.40 10.10 -16.50 190.00 
+NRMSE 7% 18% 6% 40% 
+Root growth (m) RMSE 0.27  0.19  
+d 0.97  0.98  
+MBE 0.25  0.21  
+NRMSE 11%  8%  
+Grain yield (g m-2) RMSE 48 71 119 140 
+d 0.91 0.77 0.45 0.37 
+MBE 10.75 26.20 52.20 88.60 
+NRMSE 17% 28% 44% 56% 
+Grain oil 
+concentration (%) 
+RMSE 2.0 2.7 10.9 12.1 
+d 0.72 0.85 0.29 0.32 
+MBE 1.37 1.57 -10.11 -11.25 
+NRMSE 35% 16% 185% 70%  
+Fig. 2. Root depth dynamics of sunflower in an entic hapludoll soil (Panigatti, 
+2010). Red symbols are observed dataset (Andriani, 2003), solid green line is 
+from original CROPGRO-Sunflower, two dash grey line is from OILCROP-SUN 
+and long dash black line is from revised CROPGRO-Sunflower. Original 
+CROPGRO-Sunflower simulates root growth only up to 1.2 m. 
+I.M. Rodriguez et al.                                                                                                                                                                                                                           
+Field Crops Research 300 (2023) 108986
+7
+cultivar calibrated, to fit within the range reported in the literature 
+(Connor et al., 1993) (Table S3). 
+Independent data were used to evaluate the performances of the two 
+models to simulate ADM (Fig. 3A) and the performance of the revised 
+CROPGRO-Sunflower was better than that of OILCROP-SUN (Table 3, 
+Evaluation dataset). The ADM of Exp.1 (Fig. S3) was simulated with 
+greater accuracy by the OILCROP-SUN than by revised CROPGRO- 
+Sunflower if the model accuracy indicators are observed (Table 3, 
+Calibration dataset), but OILCROP-SUN poorly simulates the last sowing 
+date at Balcarce. 
+3.1.5. Yield and its components 
+In the species file seed growth cardinal temperatures were modified 
+based on Villalobos et al. (1996). The temperature values were set at 4, 
+24, 32 and 45◦C for Tb, Topt1, Topt2, and Tmax, respectively 
+(Table S4). 
+Fig. 3. Observed vs. simulated aboveground dry matter (A), grain yield (B) and grain oil concentration (C) for the revised CROPGRO-Sunflower model (left), and 
+OILCROP-SUN model (right). Red symbols are from the calibration (c) dataset and black symbols are error evaluation (e) dataset. Solid diagonal line indicates y = x. 
+Root mean square error (RMSE) for the calibration (RMSE c) and for error valuation (RMSE e) are also shown. 
+I.M. Rodriguez et al.                                                                                                                                                                                                                           
+Field Crops Research 300 (2023) 108986
+8
+According to Villalobos et al. (1996) the R3 stage (Schneiter and 
+Miller, 1981) occurs 180 ◦Cd (7.5 TD) before R5 stage. This information 
+was considered for the calibration of the interval between starburst and 
+R3 stage “FL-SH” in the cultivar file (Table S3). The parameter FL-SD 
+(Time between starburst to anthesis) was calibrated to reflect the in-
+terval between starburst and R5 stage (Schneiter and Miller, 1981). The 
+interval between the R5 and physiological maturity stages (SD-PM), was 
+adjusted based on the duration of the grain filling period for each 
+cultivar. The parameter SDPDV, that in soybean refers to average seed 
+number per pod under standard growing conditions, was modified in 
+sunflower from 2 to 1, because sunflower only has one seed per achene. 
+Time required for a cultivar to reach final achene number load under 
+optimal conditions (PODUR) also was calibrated to reflect the most 
+common duration between R5 and R6 reported for sunflower (Red de 
+evaluaci´on de cultivares). After the modifications mentioned above, 
+yield was very well simulated by the revised CROPGRO-Sunflower and 
+improved with respect to OILCROP-SUN predictions (Fig. 3B, Table 3). 
+The sunflower grain has an oil content between 42% and 56% and a 
+protein content between 9% and 20% of the dry weight of the grain. The 
+weight of the grain ranges between 35 and 70 mg (Passarella and Savin, 
+2004). We therefore modified the fruit tissue composition parameters 
+within the cultivar file to reflect these limits. We changed seed lipid 
+(SDLIP) and seed protein (SDPRO) values based on observed data in Exp 
+1 and Red-INTA-ASAGIR (Table 1) and published literature (Diovisalvi 
+et al., 2018). SDLIP changed from 43-45% to 48–58% and SDPRO from 
+14% to 18% (Table S3). After these modifications, the revised 
+CROPGRO-Sunflower predictions for grain oil concentration improved 
+with respect to OILCROP-SUN predictions (Fig. 3C and Table 3). 
+3.1.6. Impact on grain yield of sowing dates and soil depths at Balcarce, 
+Buenos Aires, Argentina 
+Soil depth and sowing date affected sunflower grain yield (P < 0.01 
+and P < 0.01) (Fig. 4A), but no interaction between these two factors 
+was found (P = 0.43). Soil depth explained more of the grain yield 
+variation than sowing date at Balcarce and in this context [sum of 
+squares for soil depth= 24%, sum of squares for sowing date= 1.6% 
+(percentage respect to the total sum of squares)]. Grain yield decreased 
+from maximum soil depth (180 cm) to minimum depth (60 cm) by 56% 
+at the early sowing date and by 49% at the late sowing date. Deep soils 
+and late sowing date resulted in a higher grain yield. Lower variability in 
+grain yield was also observed for the late sowing date compared to the 
+early sowing date, for all soil depths except for 60 cm, where variability 
+is higher at the late sowing date (Fig. 4A). It is important to note that this 
+analysis would have given a different result by not incorporating the 
+modifications in rooting depth dynamics (Figs. 2 and S4). 
+The effect of the ENSO phases on grain yield was also significant 
+(P < 0.01) (Fig. 4 B) and an interaction was found between ENSO phases 
+and sowing date (P = 0.03), but no interaction was found between ENSO 
+phases and soil depth (P = 0.70). In the early sowing date, the lowest 
+grain yield was obtained in the La Ni˜na phase, which differed signifi-
+cantly from the Neutral phase. For that sowing date, the grain yield of 
+the La Ni˜na phase was on average 35% lower than the grain yield of the 
+Neutral phase. In the late sowing date, the lowest grain yield was also 
+obtained in the La Ni˜na phase. At this sowing date, the grain yield of the 
+La Ni˜na phase was on average 6% and 30% lower than the grain yield of 
+the El Ni˜no and Neutral phases (respectively) (Fig. 4 B). 
+Fig. 4. A) Simulated rain-fed grain yields at 
+Balcarce for two sowing dates (early [8th Oct] 
+and late [25th Nov]) for different soil depths. B) 
+simulated rain-fed grain yields for early and 
+late sowings dates for soil depth of 100 cm 
+(Pazos and Mestelan, 2002) and ENSO phases: 
+Neutral, El Ni˜no, and La Ni˜na. Same letters in 
+each sowing date indicate non-significant dif-
+ferences between means (Tukey, α= 0.05). In 
+the boxplot the box is defined by the first 
+quartile and third quartile, the interval between 
+the two limits is the interquartile range, the 
+dark red diamond indicates the average, and 
+the black horizontal line inside the box in-
+dicates the median. Outliers are shown as gray 
+circles.   
+I.M. Rodriguez et al.                                                                                                                                                                                                                           
+Field Crops Research 300 (2023) 108986
+9
+3.1.7. Impact on grain yield of sowing dates and soil water content at 
+sowing at Reconquista, Santa Fe, Argentina 
+No effect of sowing date on grain yield was detected (P = 0.72), but 
+the effect of soil water content at sowing on grain yield was evident 
+(P < 0.01) (Fig. 5A). The grain yield at WP soil water content at sowing 
+was the lowest compared against the 50 or 100% of FC soil water content 
+at sowing. For both sowing dates, the grain yield when soil water con-
+tent set at sowing at WP was 37.5% lower than the grain yield obtained 
+with soil water content set at 100% FC at sowing. 
+The effect of ENSO phases on grain yield was significant (P < 0.01) 
+and an interaction between ENSO phases and soil water content at 
+sowing was found (P < 0.01) (Fig. 5B). When soil water content was set 
+at sowing at WP and 50% FC the lowest grain yield were obtained with 
+La Ni˜na phase w, but when soil water content was set at 100% FC there 
+were no differenes between ENSO phases (Tukey test, α= 0.05, Fig. 5 
+B). 
+4. Discussion 
+Our extensive and heterogeneous dataset for the calibration and 
+evaluation of sunflower crop models allowed us to explore a wide range 
+of environmental conditions including: latitudes from 29◦8’ S to 38◦18’ 
+S, photoperiods from 10.5 to almost 16 h, mean monthly temperatures 
+from 12.5◦C to 27◦C and soils with available soil water holding ca-
+pacity from 70 to 300 mm. 
+The revised CROPGRO-Sunflower and OILCROP-SUN models accu-
+rately predict anthesis (R5 stage) and physiological maturity (R9 stage) 
+(Fig. 1). The revised CROPGRO-Sunflower can capture the main features 
+of seasonal dynamics for crop LAI, intercepted PAR, root growth, and 
+ADM (Figs. 2 and S1, S2 and S3). Previous studies focussed on estimating 
+phenology (Tariq et al., 2018), and when estimating LAI they used 
+values for rate of leaf appearance, of specific leaf area, and of leaf size 
+that are outside the range of sunflower variability for these variables 
+(Awais et al., 2020; Zhang et al., 2021). 
+The revised CROPGRO-Sunflower outperformed the original model 
+and OILCROP-SUN when estimating root growth. Original CROPGRO- 
+Sunflower underestimates sunflower’s ability to explore deep horizons 
+when the soil has no impedances and OILCROP-SUN underestimates 
+sunflower’s ability to explore deep horizons (>2 m, Fig. 2). 
+Revised CROPGRO-Sunflower simulated ADM with a low error, as a 
+result of the modifications made in dynamics of leaf area index and PAR 
+intercepted, photosynthesis parameters in cultivar file, vegetative par-
+titioning parameters and root growth. Also, Zhang et al. (2021) accu-
+rately estimated the ADM of sunflower but they used coefficients out of 
+the species biological range. 
+After modifications in the species and the cultivar file (see Section 
+3.6), the revised CROPGRO-Sunflower outperformed the original 
+CROPGRO-Sunflower and OILCROP-SUN when simulating grain yield 
+and grain oil concentration. Grain yield was simulated with original 
+CROPGRO Sunflower only by Awais et al. (2020), Gurkan et al. (2020) 
+and Zhang et al. (2021) but they did not mention modifications similar 
+to those made by us. Furthermore, these authors did not explore a wide 
+range of environmental conditions. 
+In Balcarce, sunflower. Grain yield decreased as soil depth decreased. 
+A similar effect of soil depth on sunflower yield was described by Sadras 
+and Calvi˜no (2001). Interestingly, late sowing dates appear as a man-
+agement practice that can allow farmers to increase grain yield and to 
+reduce yield variability in comparison to the usual early sowings 
+Fig. 5. A) Simulated rain-fed grain yields at 
+Reconquista for two sowing dates (early [10th 
+Aug] and late [15th Sept]), at three soil water 
+contents at sowing wilting point (WP), 50% 
+field capacity (50% FC) and 100% field capac-
+ity (100% FC). B) simulated rain-fed grain 
+yields for early and late sowing date for the 
+three ENSO phases: Neutral, El Ni˜no, and La 
+Ni˜na. Same letters within each soil water con-
+tent indicate non-significant differences be-
+tween means (Tukey, α= 0.05). In the boxplot 
+the box is defined by the first quartile and third 
+quartile, the interval between the two limits is 
+the interquartile range, the dark red diamond 
+indicates the average, and the black horizontal 
+line inside the box indicates the median. Out-
+liers are shown as gray circles.   
+I.M. Rodriguez et al.                                                                                                                                                                                                                           
+Field Crops Research 300 (2023) 108986
+10
+(Fig. 4A). Cerrudo et al. (2013) and Rotili et al. (2019), observed for 
+maize in this area, that delays in sowing date can also lead to higher 
+grain yields, especially in shallow soils. But the high incidence of fungal 
+diseases (for example, Sclerotinia sclerotiorum in Buenos Aires southeast 
+(Pereyra and Escande, 1994)) at late sowing dates in sunflower crops has 
+been a limitation to adopt it. Simulated grain yield in Balcarce was 
+lowest during La Ni˜na years; these results did not coincide with those of 
+Podest´a et al. (2002), who observed that sunflower grain yield at the 
+farm level did not show a significant response to ENSO phases. In La 
+Ni˜na years (dry scenarios) it is likely that a lower disease pressure 
+counterbalanced the negative effect of water shortages (Chapman and 
+de la Vega, 2002; Quiroz, 2015). It should be emphasized that the 
+CROPGRO-Sunflower model does not take into account the impacts of 
+crop diseases. 
+In Reconquista, no effect of sowing date on grain yield was detected. 
+These results did not agree with what was observed by Mercau (2010) 
+using the OILCROP-SUN, who reports that higher grain yield were ob-
+tained at the early sowing date than at the late sowing date. However, 
+the effect of water at sowing on sunflower grain yield that was found 
+here coincides with that reported by Mercau (2010). Grain yield 
+response to ENSO phases in Reconquista was mediated by soil water 
+content at sowing. The grain yield response to ENSO phases was highest 
+when soil water content at sowing was at WP. 
+In the El Ni˜no phase, sunflower crops kept free from diseases also 
+showed reduced yields when exposed to waterlogging in these latitudes 
+(Grassini et al., 2007). Also, in the El Ni˜no phase the increase of rainfalls 
+during November and December affects the grain filling period, espe-
+cially in hybrids of long cycle life (Moschini et al., 2002). 
+5. Conclusions 
+Modifications made to the original CROPGRO-Sunflower improved 
+model performance. Revised CROPGRO-Sunflower outperformed 
+OILCROP-SUN especially when simulating grain yield and grain oil 
+concentration. Revised CROPGRO-Sunflower can be used to simulate 
+crop phenology, growth, grain yield and grain oil concentration over a 
+wide range of environmental conditions. 
+Declaration of Competing Interest 
+The authors declare no conflict of interest. The paper contents have 
+not been previously published nor are under consideration for publica-
+tion elsewhere. All co-authors have contributed to the paper and have 
+agreed to be listed as co-authors. 
+Data availability 
+Data will be made available on request. 
+Acknowledgments 
+We would like to thank Laura Echarte, Anibal Cerrudo, Leonardo 
+Coll and Jose Andrade, for providing data, Marino Hernandez, Emiliano 
+Veliz and Diego Gait´an for their fieldwork assistance, and Sebastian Zuil, 
+Carolina Troglia and Facundo Quiroz for their support on the National 
+Sunflower Cultivar Assessment Network INTA-ASAGIR. Fernando 
+Andrade and Anibal Cerrudo for writing advice and Juan Pablo Edwards 
+Molina for his support on R software. This work was supported by the 
+Agencia Nacional de Promoci´on Científica y Tecnol´ogica (ANPCyT), the 
+Argentine Sunflower Association (ASAGIR), the INTA (the National 
+Institute for Agricultural Technology in Argentina) and the Research 
+Council of Argentina (CONICET). This work is part of the Proyecto de 
+Investigaci´on y Desarrollo (PID) N◦2016–0005 “An´alisis de las causas de 
+las brechas de rendimiento para el cultivo de girasol en Argentina". This 
+work is part of a thesis by Ignacio M. Rodriguez in partial fulfillment of 
+the requirements for a Doctor’s degree (Facultad de Ciencias Agrarias, 
+Universidad Nacional de Mar del Plata, Argentina). 
+Appendix A. Supporting information 
+Supplementary data associated with this article can be found in the 
+online version at doi:10.1016/j.fcr.2023.108986. 
+References 
+´Alvarez del Toro, J., 1987, Respuesta del girasol (heliantus annus l.) a un suministro 
+variable de agua de riego y de nitr´ogeno (http://purl.org/dc/dcmitype/Text). 
+Universidad de C´ordoba (ESP). 
+Andrade, F.H., Sadras, V.O., Aguirrez´abal, L.A., Alvarez Castillo, H.A., Bedmar, F., Cirilo, 
+A.G., Della Maggiora, A.I., Echeverría, H.E., Escande, A.R., Eyherabide, J.J., 2000, 
+Bases para el manejo del maíz, el girasol y la soja. 
+Andrade, J.F., Cerrudo, A., Rizzalli, R.H., Monzon, J.P., 2012. Sunflower–soybean 
+intercrop productivity under different water conditions and sowing managements. 
+Agron. J. 104, 1049–1055. https://doi.org/10.2134/agronj2012.0051. 
+Andriani, J., 2003, Crecimiento de las raíces de los principales cultivos extensivos en 
+suelos hapludoles de la provincia de Santa Fe. 
+Aramburu Merlos, F., Monzon, J.P., Mercau, J.L., Taboada, M., Andrade, F.H., Hall, A.J., 
+Jobbagy, E., Cassman, K.G., Grassini, P., 2015. Potential for crop production increase 
+in Argentina through closure of existing yield gaps. Field Crops Res 184, 145–154. 
+https://doi.org/10.1016/j.fcr.2015.10.001. 
+Awais, M., Anwar-ul-Haq, M., Mubeen, M., Akhtar, J., Wajid, S.A., 2020. Adaptation 
+strategies for sunflower production under climate change for arid environment by 
+using CROPGRO and APSIM-Sunflower models. Pak. J. Agric. Sci. 57. 
+Boote, K. (Ed.), 2019, Advances in crop modelling for a sustainable agriculture. Burleigh 
+Dodds Science Publishing, London. https://doi.org/10.1201/9780429266591. 
+Boote, K.J., Jones, J.W., Hoogenboom, G., Pickering, N.B., 1998b, The CROPGRO model 
+for grain legumes, in: Tsuji, G.Y., Hoogenboom, Gerrit, Thornton, P.K. (Eds.), 
+Understanding Options for Agricultural Production, Systems Approaches for 
+Sustainable Agricultural Development. Springer Netherlands, Dordrecht, pp. 
+99–128. https://doi.org/10.1007/978–94-017–3624-4_6. 
+Boote, K.J., Jones, J.W., Pickering, N.B., 1996. Potential uses and limitations of crop 
+models. Agron. J. 88, 704–716. https://doi.org/10.2134/ 
+agronj1996.00021962008800050005x. 
+Boote, K.J., Mínguez, M.I., Sau, F., 2002. Adapting the CROPGRO legume model to 
+simulate growth of faba bean. Agron. J. 94, 743–756. https://doi.org/10.2134/ 
+agronj2002.7430. 
+Boote, Kenneth J., Jones, J.W., Hoogenboom, G., 1998a, Simulation of Crop Growth: 
+CROPGRO Model, in: Agricultural Systems Modeting and Simulation. CRC Press. 
+Casadebaig, P., Guilioni, L., Lecoeur, J., Christophe, A., Champolivier, L., Debaeke, P., 
+2011. SUNFLO, a model to simulate genotype-specific performance of the sunflower 
+crop in contrasting environments. Agric. . Meteorol. 151, 163–178. https://doi.org/ 
+10.1016/j.agrformet.2010.09.012. 
+Casta˜no, F.D., 2018. The sunflower crop in Argentina: past, present and potential future. 
+OCL 25, D105. https://doi.org/10.1051/ocl/2017043. 
+Cerrudo, A.A., Monzon, J.P., Di Matteo, J.A., Aramburu, F., Rizzalli, R.H., Andrade, F.H., 
+2013, Manejo del cultivo de maíz en ambientes con restricciones hídricas. 
+Chapman, S.C., de la Vega, A.J., 2002. Spatial and seasonal effects confounding 
+interpretation of sunflower yields in Argentina. Field Crops Res 73, 107–120. 
+https://doi.org/10.1016/S0378-4290(01)00185-X. 
+Chapman, S.C., Hammer, G.L., Meinke, H., 1993. A crop simulation model for sunflower. 
+I. Model development. Agron. J. 85, 725–735. 
+Coll, L., Cerrudo, A., Rizzalli, R., Monzon, J.P., Andrade, F.H., 2012. Capture and use of 
+water and radiation in summer intercrops in the south-east Pampas of Argentina. 
+Field Crops Res 134, 105–113. https://doi.org/10.1016/j.fcr.2012.05.005. 
+Connor, D.J., Sadras, V.O., 1992. Physiology of yield expression in sunflower. Field Crops 
+Res 30, 333–389. https://doi.org/10.1016/0378-4290(92)90006-U. 
+Connor, D.J., Hall, A.J., Sadras, V.O., 1993. Effect of Nitrogen Content on the 
+Photosynthetic Characteristics of Sunflower Leaves. Funct. Plant Biol. 20, 251–263. 
+https://doi.org/10.1071/pp9930251. 
+Dardanelli, J.L., Bachmeier, O.A., Sereno, R., Gil, R., 1997. Rooting depth and soil water 
+extraction patterns of different crops in a silty loam Haplustoll. Field Crops Res 54, 
+29–38. https://doi.org/10.1016/S0378-4290(97)00017-8. 
+Diovisalvi, N., Calvo, N.R., Izquierdo, N., Echeverría, H., Divito, G.A., García, F., 2018. 
+Effects of genotype and nitrogen availability on grain yield and quality in sunflower. 
+Agron. J. 110, 1532–1543. https://doi.org/10.2134/agronj2017.08.0435. 
+Echarte, L., Maggiora, A.D., Cerrudo, D., Gonzalez, V.H., Abbate, P., Cerrudo, A., 
+Sadras, V.O., Calvi˜no, P., 2011. Yield response to plant density of maize and 
+sunflower intercropped with soybean. Field Crops Res 121, 423–429. https://doi. 
+org/10.1016/j.fcr.2011.01.011. 
+Echarte, L., Echarte, M. m, Cerrudo, D., Gonzalez, V. h, Alfonso, C., Cambareri, M., 
+Hernandez, M. d, Nagore, M. l, Maggiora, A.D., 2020. Sunflower evapotranspiration 
+and water use efficiency in response to plant density. Crop Sci. 60, 357–366. https:// 
+doi.org/10.1002/csc2.20001. 
+Gijsman, A.J., Jagtap, S.S., Jones, J.W., 2002. Wading through a swamp of complete 
+confusion: how to choose a method for estimating soil water retention parameters 
+for crop models. Eur. J. Agron., Process Simul. Appl. Crop. Syst. Models 18, 77–106 
+https://doi.org/10.1016/S1161-0301(02)00098-9.  
+Grassini, P., Indaco, G.V., Pereira, M.L., Hall, A.J., Tr´apani, N., 2007. Responses to short- 
+term waterlogging during grain filling in sunflower. Field Crops Res 101, 352–363. 
+I.M. Rodriguez et al.                                                                                                                                                                                                                           
+Field Crops Research 300 (2023) 108986
+11
+Grassini, P., Hall, A., Mercau, J., 2009. Benchmarking sunflower water productivity in 
+semiarid environments. Field Crops Res 110, 251–262. https://doi.org/10.1016/j. 
+fcr.2008.09.006. 
+Grassini, P., van Bussel, L.G.J., Van Wart, J., Wolf, J., Claessens, L., Yang, H., 
+Boogaard, H., de Groot, H., van Ittersum, M.K., Cassman, K.G., 2015. How good is 
+good enough? Data requirements for reliable crop yield simulations and yield-gap 
+analysis. Field Crops Res 177, 49–63. https://doi.org/10.1016/j.fcr.2015.03.004. 
+Gurkan, H., Shelia, V., Bayraktar, N., Yildirim, Y.E., Yesilekin, N., Gunduz, A., Boote, K., 
+Porter, C., Hoogenboom, G., 2020. Estimating the potential impact of climate change 
+on sunflower yield in the Konya province of Turkey. J. Agric. Sci. 158, 806–818. 
+https://doi.org/10.1017/S0021859621000101. 
+Hall, A.J., Rebella, C.M., Ghersa, C.M., Culot, J.P., 1992. Field-crop systems of the 
+Pampas. Field-Crop Syst. Pampas 18, 413–450. 
+Hartkamp, A.D., Hoogenboom, G., Gilbert, R.A., Benson, T., Tarawali, S.A., Gijsman, A. 
+J., Bowen, W., White, J.W., 2002a. Adaptation of the CROPGRO growth model to 
+velvet bean (Mucuna pruriens): II. Cultivar evaluation and model testing. Field Crops 
+Res 78, 27–40. https://doi.org/10.1016/S0378-4290(02)00090-4. 
+Hartkamp, A.D., Hoogenboom, G., White, J.W., 2002b. Adaptation of the CROPGRO 
+growth model to velvet bean (Mucuna pruriens): I. Model development. Field Crops 
+Res 78, 9–25. https://doi.org/10.1016/S0378-4290(02)00091-6. 
+He, L., Asseng, S., Zhao, G., Wu, D., Yang, X., Zhuang, W., Jin, N., Yu, Q., 2015. Impacts 
+of recent climate warming, cultivar changes, and crop management on winter wheat 
+phenology across the Loess Plateau of China. Agric. . Meteorol. 200, 135–143. 
+https://doi.org/10.1016/j.agrformet.2014.09.011. 
+Jones, J.W., Hoogenboom, G., Porter, C.H., Boote, K.J., Batchelor, W.D., Hunt, L.A., 
+Wilkens, P.W., Singh, U., Gijsman, A.J., Ritchie, J.T., 2003. The DSSAT cropping 
+system model. Eur. J. Agron., Model. Crop. Syst.: Sci., Softw. Appl. 18, 235–265 
+https://doi.org/10.1016/S1161-0301(02)00107-7.  
+Kiniry, J.R., Blanchet, R., Williams, J.R., Texier, V., Jones, C.A., Cabelguenne, M., 1992. 
+Sunflower simulation using the EPIC and ALMANAC models. Field Crops Res 30, 
+403–423. 
+Marc, J., Palmer, J.H., 1978. Determination of the Length of the Vegetative and Pre-floral 
+Stages in the Day-Neutral Plant Helianthus annuus by Chilling Pulses. J. Exp. Bot. 29, 
+367–373. https://doi.org/10.1093/jxb/29.2.367. 
+Marc, J., Palmer, J.H., 1981. Photoperiodic sensitivity of inflorescence initiation and 
+development in sunflower. Field Crops Res 4, 155–164. https://doi.org/10.1016/ 
+0378-4290(81)90065-4. 
+Mercau, J.L., 2010, El agua y la temperatura como limitantes del rendimento de girasol 
+bajo planteos de alta tecnología en el NEA. 
+Mercau, J.L., Sadras, V.O., Satorre, E.H., Messina, C., Balbi, C., Uribelarrea, M., Hall, A. 
+J., 2001. On-farm assessment of regional and seasonal variation in sunflower yield in 
+Argentina. Agric. Syst. 67, 83–103. https://doi.org/10.1016/S0308-521X(00) 
+00048-2. 
+Mercau, J.L., Dardanelli, J.L., Collino, D.J., Andriani, J.M., Irigoyen, A., Satorre, E.H., 
+2007. Predicting on-farm soybean yields in the pampas using CROPGRO-soybean. 
+Field Crops Res 100, 200–209. https://doi.org/10.1016/j.fcr.2006.07.006. 
+Monzon, J.P., Sadras, V.O., Andrade, F.H., 2012. Modelled yield and water use efficiency 
+of maize in response to crop management and Southern Oscillation Index in a soil- 
+climate transect in Argentina. Field Crops Res 130, 8–18. https://doi.org/10.1016/j. 
+fcr.2012.02.001. 
+Moschini, R.C., Damiano, F., Escande, A.R., Pereyra, V.R., Troglia, C.B., Pedraza, M.V., 
+Quiroz, F.J., 2002, An´alisis probabilístico de la incidencia de la podredumbre blanda 
+del capítulo de girasol en funci´on del ambiente pre-post principio de floraci´on en 
+Balcarce. Reuni´on Argent. Agrometeorol. 9 2002 09 18–20 18–20 Septiembre 
+2002Vaquería C´ordoba AR. 
+Oreskes, N., Shrader-Frechette, K., Belitz, K., 1994. Verification, Validation, and 
+Confirmation of Numerical Models in the Earth Sciences. Science 263, 641–646. 
+https://doi.org/10.1126/science.263.5147.641. 
+Orgaz , F. , Villalobos , F.J. , Gimenez , C. , Fereres , E. , 1992, Radiation use efficiency of 
+sunflower genotypes, in: Proc. 13th Int. Sunflower Conference, Pisa, Italy. pp. 
+268–273. 
+Otegui, M.E., L´opez Pereira, M., 2004, Fecha de siembra, in: Producci´on de Granos. Bases 
+Funcionales Para Su Manejo. Editorial Facultad de Agronomía, Buenos Aires, 
+Argentina, pp. 259–278. 
+Panigatti, J.L., 2010. Argentina: 200 a˜nos, 200 suelos. Ministerio de Agricultura. 
+Ganadería y Pesca, Buenos Aires, Argentina.  
+Passarella, V.S., Savin, R., 2004. Características físico-químicas de los granos y usos 
+principales. In: Producci´on de Granos. Editorial Facultad de Agronomía. Buenos 
+Aires, Argentina, pp. 7–46. 
+Pazos, M.S., Mestelan, S.A., 2002. Variability of Depth to Tosca in Udolls and Soil 
+Classification, Buenos Aires Province, Argentina. Soil Sci. Soc. Am. J. 66, 
+1256–1264. https://doi.org/10.2136/sssaj2002.1256. 
+Pereyra, V.R., Escande, A.R., 1994, Enfermedades del girasol en la Argentina: manual de 
+reconocimieto. 
+Pereyra-Irujo, G.A., Aguirrez´abal, L.A.N., 2007. Sunflower yield and oil quality 
+interactions and variability: Analysis through a simple simulation model. Agric. . 
+Meteorol. 143, 252–265. https://doi.org/10.1016/j.agrformet.2007.01.001. 
+Podest´a, G., Letson, D., Messina, C., Royce, F., Ferreyra, R.A., Jones, J., Hansen, J., 
+Llovet, I., Grondona, M., O’Brien, J.J., 2002. Use of ENSO-related climate 
+information in agricultural decision making in Argentina: a pilot experience. Agric. 
+Syst. 74, 371–392. https://doi.org/10.1016/S0308-521X(02)00046-X. 
+Quiroz, F.J., 2015, Impacto de enfermedades foliares del girasol y herramientas para el 
+manejo de Alternaria helianthi y Phoma macdonaldii en el Sudeste Bonaerense. (PhD 
+Thesis). Universidad Nacional de Mar del Plata; Facultad de Ciencias Agrarias. 
+Rawson, H.M., Hindmarsh, J.H., 1982. Effects of Temperature on Leaf Expansion in 
+Sunflower. Funct. Plant Biol. 9, 209–219. https://doi.org/10.1071/pp9820209. 
+Red de evaluaci´on de cultivares INTA- ASAGIR [WWW Document], n.d. ASAGIR - Asoc. 
+Argent. Girasol. URL http://www.asagir.org.ar/acerca-de-evaluacion-de-cultivares- 
+463 (accessed 10.19.21). 
+Ritchie, J.T., Crum, J., 1989, Converting soil survey characterization data into IBSNAT 
+crop model input. Presented at the Symposium organized by the International 
+Society of Soil Science (ISSS), Wageningen (Netherlands), 22–26 Aug 1988, Pudoc. 
+Rotili, D.H., Giorno, A., Tognetti, P.M., Maddonni, G.´A., 2019. Expansion of maize 
+production in a semi-arid region of Argentina: Climatic and edaphic constraints and 
+their implications on crop management. Agric. Water Manag 226, 105761. https:// 
+doi.org/10.1016/j.agwat.2019.105761. 
+Sadras, V.O., Calvi˜no, P.A., 2001. Quantification of Grain Yield Response to Soil Depth in 
+Soybean, Maize, Sunflower, and Wheat. Agron. J. 93, 577–583. https://doi.org/ 
+10.2134/agronj2001.933577x. 
+Sadras, V.O., Hall, A.J., Trapani, N., Vilella, F., 1989. Dynamics of rooting and root- 
+length: leaf-area relationships as affected by plant population in sunflower crops. 
+Field Crops Res 22, 45–57. https://doi.org/10.1016/0378-4290(89)90088-9. 
+Schneiter, A.A., Miller, J.F., 1981. Description of Sunflower Growth Stages1. 
+cropsci1981.0011183X002100060024x Crop Sci. 21. https://doi.org/10.2135/ 
+cropsci1981.0011183X002100060024x. 
+Scholberg, J.M.S., Boote, K.J., Jones, J.W., McNeal, B.L., 1997, Adaptation of the 
+CROPGRO model to simulate the growth of field-grown tomato, in: Kropff, M.J., 
+Teng, P.S., Aggarwal, P.K., Bouma, J., Bouman, B.A.M., Jones, J.W., van Laar, H.H. 
+(Eds.), Applications of Systems Approaches at the Field Level: Volume 2 Proceedings 
+of the Second International Symposium on Systems Approaches for Agricultural 
+Development, Held at IRRI, Los Ba˜nos, Philippines, 6–8 December 1995, Systems 
+Approaches for Sustainable Agricultural Development. Springer Netherlands, 
+Dordrecht, pp. 135–151. https://doi.org/10.1007/978–94-017–0754-1_9. 
+Singh, S., Boote, K.J., Angadi, S.V., Grover, K., Begna, S., Auld, D., 2016. Adapting the 
+CROPGRO Model to Simulate Growth and Yield of Spring Safflower in Semiarid 
+Conditions. Agron. J. 108, 64–72. https://doi.org/10.2134/agronj15.0272. 
+Soil, S.S., 1999, Keys to soil taxonomy. 
+Tariq, M., Ahmad, S., Fahad, S., Abbas, G., Hussain, S., Fatima, Z., Nasim, W., 
+Mubeen, M., Rehman, M.H. ur, Khan, M.A., Adnan, M., Wilkerson, C.J., 
+Hoogenboom, G., 2018. The impact of climate warming and crop management on 
+phenology of sunflower-based cropping systems in Punjab, Pakistan. Agric. . 
+Meteorol. 256–257, 270–282. https://doi.org/10.1016/j.agrformet.2018.03.015. 
+Team, R.Studio, 2020. RStudio Team. 
+Trapani, N., Sadras, V.O., Vilella, F., Hall, A.J., 1988, A physiological analysis of the 
+growth and yield of two sunflower cultivars, in: Proceedings 12th International 
+Sunflower Conference Novi Sad, Yugoslavia. pp. 63–68. 
+Trapani, N., Hall, A.J., Sadras, V.O., Vilella, F., 1992. Ontogenetic changes in radiation 
+use efficiency of sunflower (Helianthus annuus L.) crops. Field Crops Res 29, 
+301–316. https://doi.org/10.1016/0378-4290(92)90032-5. 
+USDA - National Agricultural Statistics Service Homepage [WWW Document], n.d. URL 
+https://www.nass.usda.gov/Publications/Ag_Statistics/ (accessed 5.4.21). 
+de la Vega, A.J., Hall, A.J., 2002a. Effects of planting date, genotype, and their 
+interactions on sunflower yield. Crop Sci. 42, 1191–1201. https://doi.org/10.2135/ 
+cropsci2002.1191. 
+de la Vega, A.J., Hall, A.J., 2002b. Effects of planting date, genotype, and their 
+interactions on sunflower yield. Crop Sci. 42, 1202–1210. https://doi.org/10.2135/ 
+cropsci2002.1202. 
+Villalobos, F.J., Ritchie, J.T., 1992. The effect of temperature on leaf emergence rates of 
+sunflower genotypes. Field Crops Res 29, 37–46. https://doi.org/10.1016/0378- 
+4290(92)90074-J. 
+Villalobos, F.J., Hall, A.J., Ritchie, J.T., Orgaz, F., 1996. OILCROP-SUN: A Development. 
+Growth, Yield Model Sunflower Crop. Agron. J. 88, 403–415. https://doi.org/ 
+10.2134/agronj1996.00021962008800030008x. 
+Willmott, C.J., Ackleson, S.G., Davis, R.E., Feddema, J.J., Klink, K.M., Legates, D.R., 
+O’Donnell, J., Rowe, C.M., 1985. Statistics for the evaluation and comparison of 
+models. J. Geophys. Res. Oceans 90, 8995–9005. https://doi.org/10.1029/ 
+JC090iC05p08995. 
+Zhang, J., Zhang, H., Sima, M.W., Trout, T.J., Malone, R.W., Wang, L., 2021. Simulated 
+deficit irrigation and climate change effects on sunflower production in Eastern 
+Colorado with CSM-CROPGRO-Sunflower in RZWQM2. Agric. Water Manag 246, 
+106672. https://doi.org/10.1016/j.agwat.2020.106672. 
+I.M. Rodriguez et al.                                                                                                                                                                                                                           

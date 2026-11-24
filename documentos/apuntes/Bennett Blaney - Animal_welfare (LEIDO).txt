@@ -1,0 +1,823 @@
+=== Fuente: Bennett Blaney - Animal_welfare (LEIDO).pdf ===
+
+Social consensus, moral intensity and
+willingness to pay to address a farm
+animal welfare issue
+Richard Bennett *, Ralph Blaney
+Department of Agricultural and Food Economics, The University of Reading, P.O. Box237 Reading,
+RG6 6AR, UK
+Received 25 October 2000; received in revised form 8March 2002; accepted 4 April 2002
+Abstract
+An experimental contingent valuation (CV) survey of university students was undertaken
+to explore the impact of social consensus information on people’s stated willingness to pay
+(wtp) to address a farm animal welfare issue. The survey found that additional information
+presented to respondents on social consensus concerning the moral dimensions of the issue
+led to a greater perception of social consensus by respondents. This greater perception of so-
+cial consensus appeared to result in a higher level of moral intensity associated with the issue
+and a higher stated wtp by respondents for policy to address the issue. However, as for many
+CV studies of public goods, a question remains as to whether the estimated wtp is a true mea-
+sure of people’s preferences and relative values or merely a measure of attitudes on an arbi-
+trary monetary scale. /C211 2002 Elsevier Science B.V. All rights reserved.
+PsycINFO classiﬁcation: 3920
+JEL classiﬁcation: B41
+Keywords: Social consensus; Moral intensity; Willingness to pay; Farm animal welfare
+1.Introduction
+The importance of moral considerations in decision making has long been recogn-
+ised by economists (Bentham, 1789; Marshall, 1947; Mill, 1848; Sen, 1977; Smith,
+Journal of Economic Psychology 23 (2002) 501–520
+www.elsevier.com/locate/joep
+*Corresponding author. Tel.: +44-118975-6467; fax: +44-118931-6478.
+E-mail address: r.m.bennett@reading.ac.uk (R. Bennett).
+0167-4870/02/$ - see front matter /C211 2002 Elsevier Science B.V. All rights reserved.
+PII: S0167-4870(02)00098-3
+1759, amongst others) and various approaches to incorporating moral consider-
+ations into economic analyses have been put forward (for example Dowell, Gold-
+farb, & Griﬃth, 1998). There has been considerable debate as to how moral
+considerations should be taken into account within economics (Sen, 1987). More-
+over, researchers have explored whether the contingent valuation (CV) method for
+valuing non-market goods can be used to elicit the value that people place on goods
+that have a moral dimension (for example actions to reduce environmental pollution,
+conserve species and habitats or improve animal welfare). Spash (2000) provides
+a useful critique of the use of the CV method where moral issues are involved. He
+notes that human value formation (with respect to goods that have moral dimen-
+sions) combines ethical and economic aspects in a more complex way than most
+economists have assumed.
+There are various social psychological models of behaviour that attempt to ex-
+plain how moral considerations aﬀect both behavioural intentions and decision mak-
+ing (see Plous, 1993; Ranyard, Crozier, & Svenson, 1997). For example, Schwartz
+(1977) considers diﬀerent types of explanation for prosocial behaviour within a
+framework that states that such behaviour is inﬂuenced by the intensity of moral
+(personal) behaviour which is determined by an individual’s cognitive structure of
+norms and values and, prior to overt action, may be mitigated by defences of the ap-
+propriateness of the obligation. Jones (1991) puts forward an issue-contingent model
+of ethical decision-making containing characteristics of the moral issue itself, which
+he also collectively refers to as moral intensity. He argues that six characteristics of a
+moral issue – social consensus, temporal immediacy, probability of eﬀect, concentra-
+tion of eﬀect, proximity and magnitude of consequences – will determine the level of
+moral intensity associated with it (Jones, 1991).
+This paper presents the method and results of an experimental survey designed to
+explore the link between social consensus, moral intensity and people’s willingness to
+pay (wtp) in the context of animal welfare. The hypotheses to be tested are (i) the
+greater the perceived social consensus concerning a moral issue then the greater
+the moral intensity people attach to that issue and (ii) the higher the level of moral
+intensity associated with an issue then the higher people’s wtp will be for a policy
+measure to address the issue.
+2.Backgroundtotheresearch
+There are three main inter-related aspects of the research reported here. These
+are: (i) animal welfare as a moral issue; (ii) the use of the CV method of eco-
+nomic valuation, speciﬁcally where moral issues are involved; (iii) the incorpora-
+tion of moral considerations in decision making, speciﬁcally the concept of moral
+intensity and the importance of social consensus. Each of these is a major area of
+debate and research and it is not within the scope of this paper to provide a com-
+prehensive review of the substantial literature on each of these areas. Rather, the
+aim is to put the research reported here into context with respect to these three main
+aspects.
+502 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520
+2.1. Animal welfare as a moral (and economic) issue
+Human treatment and welfare of animals has long been debated. The current
+debate largely revolves around animal sentience and cognition, various forms of
+contractualism and utilitarianism, and how they relate to the question of rights.
+Scientists such as Dawkins (1980, 1998) and Rollin (1992) present both scientiﬁc ev-
+idence and cogent argument of the ability of many animals to experience both plea-
+sure and pain. The contractualism argument does not hinge on the issue of sentience.
+It is highlighted by Carruthers (1992) who argues that animals are not rational
+agents capable of agreeing rules, cannot enter into contracts with duties and respon-
+sibilities and so lack moral standing and moral rights. The issue of animal sentience
+is an important one for the utilitarian argument (which is, for example, the basis of
+Singer’s, 1989, ‘equal consideration of interests’ concept). Indeed, the importance of
+the acceptance of animal sentience has been highlighted within the European Union
+by changes to legislation (agreed in 1997 as part of the Treaty of Amsterdam) in the
+form of revision to the Treaty of Rome (which established the European Community
+in 1957) by means of a Protocol on Animal Welfare which states the need to ‘ensure
+improved protection and respect for the welfare of animals as sentient beings’.
+The utilitarian argument for improving animal welfare is one that is potentially
+compatible with neoclassical economic theory and the concept of wtp. McInerney
+(1993) notes that, within an economic framework, animal welfare is just a subset
+of human welfare since it aﬀects human utility (i.e. there is no explicit framework
+for incorporating the utilities of other species). However, Blackorby and Donaldson
+(1992) go as far as considering how animal utility functions could be incorporated
+into a social value function. Bennett (1995) considers how human concerns for ani-
+mal welfare might be considered within an economic framework, whilst Bennett and
+Larson (1996) explore the use of the CV method to measure the value that people
+place on improvements to animal welfare.
+2.2. CV and moral issues
+CV is a widely-employed technique used for providing an indication of the value
+of non-market goods by eliciting people’s wtp for them using hypothetical markets
+(Mitchell & Carson, 1989). Carson, Flores, and Meade (2000) provide a useful recent
+overview of the merits and limitations of the CV method (whilst Carson, Wright,
+Carson, Alberini, & Flores, 1995, provide a bibliography of CV applications). There
+has been much debate amongst economists and others as to whether the CV method
+is an appropriate one to use to value complex goods with moral dimensions (e.g. see
+Milgrom, 1993). Certainly it has been used for that purpose. However, a number of
+researchers have questioned the validity of wtp estimates from such CV studies. For
+example, Kahneman, Ritov, Jacowitz, and Grant (1993) conclude that wtp for 16
+diﬀerent environmental issues were ‘expressions of attitudes rather than indications
+of economic value’. A similar conclusion is also reached by Spash (2000) who found
+that half of respondents giving a positive wtp bid held rights-based views that endan-
+gered birds have the right to protection, which he stated was inconsistent with
+R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520 503
+providing a money value to achieve that protection. Kahnemann and Knetsch (1992)
+conclude that responses in a CV study reﬂected wtp for the moral satisfaction of con-
+tributing to public goods, not the economic value of the goods. Diamond and Haus-
+man (1994) state that ‘to date CV surveys do not measure the preferences they
+attempt to measure’ and do not provide economic values but rather expressions of
+attitudes on a dollar scale. These and other studies question the ability of CV to elicit
+wtp measures that are a true reﬂection of preferences, especially where moral dimen-
+sions are involved.
+2.3. Moral intensity and social consensus
+Moral intensity (Jones, 1991) is a construct that captures the extent of issue-
+related moral imperative in a situation and its component parts are the six charac-
+teristics identiﬁed above, including social consensus. Moral intensity is likely to vary
+substantiallyfrom one issue to another and will generally increase with an increase in
+any one or more of its components. Components are expected to have interactive ef-
+fects and there may be threshold levels for components that must be reached before
+moral intensity varies signiﬁcantly. The social consensus characteristic is ‘the degree
+of social agreement that a proposed act is evil’ (Jones, 1991). These social references
+may come from anumberofsources, suchas existing national laws, pronouncements
+from experts, public ﬁgures, or pressure groups. Some people might refer to pub-
+lished opinion polls, or the opinions of acquaintances. It is possible that information
+from sources that the individual does not identify with could be discounted. How-
+ever, a high degree of social consensus about the morality of an act will reduce
+any ambiguity that an individual might feel about what is deemed an ethical way
+to act (Jones, 1991). Social consensus can also act in a more subtle way by inﬂuenc-
+ing the way people perceive the other aspects of moral intensity, especially where
+there is limited information available, such as magnitude of consequences and prob-
+ability of eﬀect.
+Research within psychology suggests that the perceived level of consensus on an
+issue greatly inﬂuences people’s decision-making processes (Baron, 1994). Morris
+and McDonald (1995) found that perceived social consensus was a very important
+element of the moral intensity associated with ethical issues in business. Economists
+have sometime previously noted the importance of the social consensus element. For
+example, Smith (1759) notes the importance ofpropriety (i.e. the standards ofbehav-
+iour considered correct within society) in the decision making of individual economic
+agents.
+3.Methods
+Following pilot surveys a CV survey of 164 students at The University of Reading
+was conducted. The student sample consisted of two undergraduate classes, one each
+from the Department of Economics and the Department of Psychology, and a ran-
+dom sample of students. The students from the classes were given the questionnaire
+504 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520
+to complete in class. The students from the random sample were interviewed face-to-
+face. The latter enabled some assessment of respondents’ interpretation and under-
+standing of the questions presented to them and a check that classroom responses
+did not diﬀer radically from face-to-face interviews.
+Following a small preliminary survey of people’s concerns about farm animalwel-
+fare, the scenario chosen for consideration concerned the slaughter of pigs. A ques-
+tionnaire was designed that consisted of three sections. The ﬁrst section contained
+questions about age, sex, nationality, and existing purchasing behaviour with regard
+to animal products. It then asked respondents to score on a scale of 0–10 the impor-
+tance of eight farm animal welfare issues, with 10 being ‘very important’. The second
+section provided information about the existing pig slaughtering techniques used in
+the UK, including some of the potential animal welfare problems, and an alternative
+‘humane’ slaughter technique known as the Head to Back system. This system kills
+pigs instantly by using a high voltage electrical current that induces cardiac arrest.
+Respondents were asked whether they would support government legislation to
+make it compulsory for slaughterhouses to use the Head to Back system. Following
+a reminder concerning budget constraints, they were then asked the amount of
+money they would be willing to pay, as an increase in their weekly food bill, to sup-
+port this legislation (this payment vehicle reﬂects the public good nature of the
+legislation, rather than being tied to pig meat consumption). A single-bounded
+dichotomous choice format was used for the wtp question (i.e. would you be willing
+to pay £x, yes or no?), with amounts ranging from 25 pence to £2, which were chosen
+after pre-testing using open-ended responses (i.e. how much would you be willing
+to pay?). This is a common and recommended elicitation method for CV studies
+(Arrow et al., 1993). The third section asked eight, related, attitudinal questions
+(see Table 1), which respondents were asked to score on a scale of 0–10, with 10
+being ‘very much like my way of thinking’. These attitudinal questions also included
+questions about the morality of the pig slaughtering techniques. Finally, respondents
+were asked to give some rationale for their wtp responses and their considerations
+behind the scores they gave to the attitudinal questions.
+There were two versions of the questionnaire, a high social consensus and low so-
+cial consensus version. They were identical except for the social consensus informa-
+tion provided in relation to the pig slaughter scenario. Both had the same factual
+Table 1
+Attitude statements used in the questionnaire
+(a) Pigs have a right to die in as painless way as possible.
+(b) It does not matter how pigs are killed.
+(c) The present method of slaughtering pigs is wrong because of the potential welfare problems
+involved.
+(d) Despite potential welfare problems the present method of slaughtering pigs is acceptable.
+(e) The present method of slaughtering pigs has fewer beneﬁts for society than the alternative ‘Head
+to Back’ method.
+(f) It is better for society to keep the present method of slaughtering pigs.
+(g) Current opinion is that the present method of slaughtering pigs is wrong.
+(h) Current opinion is that the present method of slaughtering pigs is acceptable.
+R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520 505
+information about the scenario, such as existing legislation, the number of pigs
+slaughtered, the present method, the possible problems with this method, alternative
+slaughter methods, the fact that most farmers are against new slaughter legislation,
+and that food prices would rise with new legislation to improve welfare at slaughter.
+However, the low consensus questionnaire contained the following social consensus
+information about the scenario: ‘‘There is some evidence that a high proportion of
+pigs in the UK might not be adequately stunned before slaughtering. However, some
+scientists state that both gas and electrical stunning are acceptable methods’’.
+The high consensus questionnaire contained the following sentences about social
+consensus: ‘‘A recent report from the Compassion in World Farming Trust stated
+that a high proportion of pigs in the United Kingdom might not be adequately
+stunned before slaughtering. Researchers from Bristol University found the electrical
+stunning of pigs to have serious animal welfare consequences, also a number of in-
+dustry veterinary surgeons and Dr. N. Gregory (Britain’s leading slaughter expert)
+reported that gas stunning of pigs, in itself, is inhumane. The alternative ‘Head to
+Back’ system is favoured by the R.S.P.C.A., and most organic pig farmers are in fa-
+vour of it. A recent national opinion poll found that 67% of consumers wanted pig
+meat produced by cruelty-free methods (this included slaughter techniques), and
+were willing to pay more for it. Many consumers throughout Britain have signed
+a petition to ban present slaughter techniques and replace them with ‘Head to Back’.
+Acting on an oﬃcial report the UK government are now considering possible regu-
+lations which would require slaughterhouses to use the ‘Head to Back’ system’’.
+The questionnaires were distributed at random, and an equal number of high and
+low consensus questionnaires were completed. Sample copies of the two versions of
+the questionnaire can be obtained from the authors by request. The coded data was
+analysed using the SAS program (Statistical Analysis Systems Institute Inc., 1989).
+4.Results
+Of the three groups sampled, 64 psychology students, 48economics students, and
+52 random students completed the questionnaires. The age range of the students was
+18–55 years, with a mean of 21 years. Nine percent of the students were from outside
+the UK, and 7% were vegetarian. The gender proﬁle was 56% female, 44% male.
+One-third of the students lived in university halls and half of the students sampled
+were in receipt of a grant. The mean expenditure on food consumption was £21.73
+a week, but this excludes the portion ofhall fees paidby students in catered halls that
+is allocated for meals. Nearly 49% of the sample population avoided buying some
+animal products because of their concerns about the welfare of the animals involved
+in making those products, 34% avoided eggs from hens kept in battery cages and
+23% avoided fur. The two most important animal welfare issues (out of the eight is-
+sues presented to respondents) were identiﬁed as hens kept in battery cages, and the
+slaughter of pigs without adequate stunning.
+Just over 61% of the sample population supported the proposed pig slaughter leg-
+islation and 12% were against (27% expressed no opinion). In terms of the two levels
+506 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520
+of social consensus information, just 5% were against the legislation with the high
+social consensus information and 21% for the low social consensus information with
+a similar level of ‘no opinion’ responses for both. Chi-square analysis indicates that
+the degree of support for the legislation is related to whether the respondent is given
+high or low social consensus information (P < 0:01).
+Student’s t-tests were carried out on a number of variables, and where there were
+unequal variances the Cochran test statistic was used. In terms of the attitudinal
+variables (Table 1), statements (a) and (b) were negatively correlated (P < 0:0001),
+as were (c) and (d) (P < 0:0001). This is as expected since they are opposites. Surpris-
+ingly perhaps, there was little correlation between (a) or (b) and the other state-
+ments, (e) or (f) and the other statements or (g) or (h) and the other statements.
+However, for the high consensus sample there was a correlation between (c) and
+(g) (P < 0:0001). These last two attitudes are important as they show the link be-
+tween the perceived opinion and the individual’s own views. Indeed, a comparison
+of high and low social consensus groups shows a strong correlation between social
+consensus and scoring on statement (g) (5.17 v. 6.68; P < 0:0001) and social consen-
+sus and scoring on statement (a) (7.93 v. 8.11; P < 0:0001) (i.e. those respondents
+given the high social consensus questionnaires gave a higher score of agreement).
+This indicates that the respondents were interpreting the social consensus infor-
+mation as was expected. The rationale given by respondents (in response to the
+open-ended debrieﬁng questions contained within the questionnaire), as to why they
+had answered the wtp and attitudinal questionsthe way they had,generally exhibited
+a logical and consistent reasoning behind their responses. Spearman correlation
+analysis indicated correlations between wtp and age-group (P < 0:0006), belief that
+pigs have a right to aspainless death aspossible (P < 0:0001), beliefthat public opin-
+ion is that current pig slaughter techniques are wrong (P < 0:0001), and concern
+about other farm animal welfare issues (P < 0:0004).
+Further analysis of the ‘no opinion’ responses concerning support of the legisla-
+tion revealed (i) a lack of internal consistency of responses to the attitudinal ques-
+tions (ii) low scores/expressions of concern about the eight animal welfare issues
+(iii) a relatively low response rate and diversity of comments to the debrieﬁng ques-
+tions. Twenty-one percent of ‘no opinion’ responses were from overseas students,
+presumably reﬂecting a perceived lack of relevance of UK animal welfare issues to
+them. A higher proportion of low consensus compared to high consensus respon-
+dents did not respond to the debrieﬁng question.
+Table 2 shows responses to the wtp questions according to bid level. To estimate
+wtp various parametric and non-parametric techniques can be employed (see Hane-
+mann & Kanninen, 1999 for a detailed exploration of the statistical analysis of wtp
+using the dichotomous choice elicitation format).
+The procedure chosen to estimate wtp, using maximum likelihood estimation, fol-
+lows Cameron’s (1988) approach. In this instance alogit model (i.e. one that assumes
+a standard logistic distribution function) was used to predict the wtp values. The
+speciﬁed model allowed negative wtp, and was chosen as it was assumed that some
+people might feel disutility at the perceived restrictions in freedom by the intro-
+duction of legislation. The estimation process was conducted using the standard
+R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520 507
+procedures available in the SAS program (Statistical Analysis Systems Institute Inc.,
+1989).
+Price (i.e. bid), preference (e.g. statements of concern) and income (in this case ex-
+penditure) variables were included in the model since economic theory would expect
+these variables to inﬂuence responses to wtp questions. After extensive testing the
+variables in Table 3 were found to result in a model with best predictive ability.
+ECON is a dummy variable denoting whether the respondent was studying econom-
+ics. BID is the presented bid value. COPWRONG is the score (0 to 10) given by
+respondents to the statement ‘Current opinion is that the present method of slaugh-
+tering pigs is wrong’. AHFOOD represents people’s weekly expenditure on food and
+drinks. WELFARE is the combination of three variables indicating animal welfare
+concerns.
+The test statistics for the model were acceptable, and the association of predicted
+and observed responses (i.e. pairs of observations with diﬀerent responses in which
+the larger response has a higher probability than the smaller response) were 90.5%
+concordant. All of the variables in the model are highly signiﬁcant. ECON has a neg-
+ative sign, meaning, in terms of an estimate of wtp, that if the respondent was study-
+ing economics this reduced their wtp. BID also has a negative sign (i.e. the higher the
+bid level the less likely people were willing to pay the amount). COPWRONG is pos-
+itive,meaning that a belief that current opinion is that the pig slaughtering practice is
+wrong increased wtp. WELFARE and AHFOOD are also positive. These are all
+consistent with prior expectations. Mean wtp for the whole sample is estimated at
+£1.37 per week.
+Table 3
+Whole sample model of wtp for pig slaughter legislation
+Variable Coeﬃcient Std. error P > Chi
+Intercept /C07.3391 1.4192 0.0001
+BID /C00.0134 0.0046 0.0032
+ECON /C01.9786 0.5892 0.0008
+COPWRONG 0.2995 0.12180.0140
+AHFOOD 0.0826 0.0260 0.0015
+WELFARE 0.12980.02780.0001
+Table 2
+Wtp responses by bid value
+Wtp bid (£) Yes No Non-response
+0.25 184 0
+0.50 9 9 1
+0.75 12 80
+1.00 13 9 1
+1.25 12 5 2
+1.50 11 82
+1.75 7 14 1
+2.00 10 6 2
+508 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520
+Two further logit models were speciﬁed and wtp estimated – one for respondents
+given the high consensus information and one for those given the low consensus in-
+formation. These models are shown in Tables 4 and 5 respectively. For the high con-
+sensus model, NO MATTER is the score (0–10) denoting the extent of agreement
+to the statement ‘It does not matter if farm animals experience some pain and injury
+for the purpose of producing food’. COURSE is the degree course that students
+were on (economics, psychology or other). FOOD is weekly food expenditure and
+SLAUGHTER WRONG is the score (0–10) denoting the extent of agreement to
+the statement ‘The present method of slaughtering pigs is wrong because of the po-
+tential welfare problems involved’. All variables have the expected signs. Three vari-
+ables are statistically signiﬁcant at the 5% level (with the two attitudinal variables
+being most signiﬁcant), BID is signiﬁcant at the 10% but not 5% level, and FOOD
+is not signiﬁcant. The predictive ability of the model is just over 74%. Mean wtp es-
+timated from the model is £2.75 per week. For the low consensus model, GRANT is
+whether the respondent received a grant toward their study costs, INCOME is
+whether the respondent had income that was not a grant, PURCHASE is whether
+the respondent avoided purchasing certain animal products because of animal wel-
+fare concerns, HIGH YIELD is the importance score (0–10) given to the issue
+‘The use of high-yielding breeds of dairy cows in the UK’ and DRAFT ANIMALS
+is the importance score (0–10) given to the issue ‘The use of sick or poorly nourished
+draft animals in parts of East Asia’. All variables are statistically signiﬁcant (espe-
+cially BID and PURCHASE) and have expected signs (except for HIGH YIELD
+where the negative sign on HIGH YIELD means that a lower importance score
+for this issue was associated with a higher wtp for the pig slaughter issue). Mean
+Table 4
+High consensus sample model of wtp for pig slaughter legislation
+Variable Coeﬃcient Std. error P > Chi
+BID /C00.007747 0.004186 0.0642
+NO MATTER /C00.354203 0.121384 0.0035
+COURSE 0.7621480.363699 0.0361
+FOOD 0.000789 0.001376 0.5665
+SLAUGHTER
+WRONG
+0.211673 0.078740 0.0072
+Percentage correct ¼ 74:4%.
+Table 5
+Low consensus sample model of wtp for pig slaughter legislation
+Variable Coeﬃcient Std. error P > Chi
+BID /C00.018793 0.005177 0.0003
+GRANT 1.070615 0.554259 0.0534
+INCOME 1.159254 0.601985 0.0541
+PURCHASE 1.552336 0.599381 0.0096
+HIGH YIELD /C00.226044 0.117714 0.0548
+DRAFT ANIMALS 0.230462 0.1174080.0497
+Percentage correct ¼ 71:8%.
+R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520 509
+wtp estimated from the low consensus model is £1.09 per week. This is somewhat less
+than half the wtp for the sample given the high consensus information and this dif-
+ference between the two means is statistically signiﬁcant (P < 0:0001).
+5.Discussion
+Some tentative conclusions can be drawn from the results of the experiment out-
+lined above: (i) additional information on social consensus concerning the moral di-
+mensions of an issue presented to respondents in a CV study leads to a greater
+perception of social consensus by respondents; (ii) this greater perception of social
+consensus appears to result in a higher level of moral intensity associated with the
+issue and (iii) the higher level of perceived social consensus and resultant increase
+in moral intensity gives rise to a higher wtp by respondents to address the issue. Ev-
+idence to support these conclusions include: (i) results showed a strong, statistically
+signiﬁcant correlation between the level of social consensus information supplied to
+respondents and their perceived level of social consensus, shown, for example, by re-
+sponse scores to the statement ‘Current opinion is that the present method of slaugh-
+tering pigs is wrong’; (ii) respondents with the high social consensus information had
+statistically signiﬁcant higher levels of agreement to moral statements such as ‘Pigs
+have a right to die in as painless a death as possible’ than those with the low consen-
+sus information; (iii) in the behavioural models of wtp, moral variables were more
+important in explaining wtp in the high social consensus model than in the low social
+consensus one and, estimated wtp to address the issue was around two and a half
+times higher for the high consensus respondents than for the low consensus ones.
+The question is how should these ﬁndings be interpreted? Does a higher wtp truly
+reﬂect a higher level of moral intensity associated with the issue because of increased
+social consensus and does that wtp provide a measure of value of the proposed leg-
+islation or is it distorted by a ‘warm glow’ (Andreoni, 1990; Kahnemann & Knetsch,
+1992) or other bias? The diﬃculty is in fully understanding the cognitive processes
+involved in the formulation of people’s wtp responses. Green and Tunstall (1999)
+provide a critical assessment of the CV method and its application from a psycholog-
+ical perspective (drawing attention to what they call the untestable and na€ııve theories
+of psychology and sociology invented by economists). Schkade and Payne (1993)
+used thetechnique of verbal protocol analysis tobetter understand the cognitive pro-
+cesses involved in responding to CV questions and found that people referred to
+many diverse considerations when trying to decide on their responses to wtp ques-
+tions. Baron (2001) notes that responses to wtp questions (and weightings given to
+non-monetary attributes) are often ‘internally inconsistent’ and, in particular, insen-
+sitive to quantity.
+There is much evidence in the CV literature concerning information bias and it’s
+impact on wtp (e.g. Bergstrom, Stoll, & Randall, 1989, 1990; Munro & Hanley,
+1999). Changes in the information supplied to respondents concerning an issue
+can result in substantial changes to wtp. The higher wtp could be simply explained
+as an upward information bias caused by the social consensus information. Clearly,
+510 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520
+this information had a relatively large impact on wtp, which begs the question as to
+whether such information should be presented to respondents in CV studies (given
+that there is the potential for ‘bias’ of wtp responses depending on exactly what
+and how information is given).
+However the diﬀerence in wtp responses is explained, the apparent increase in
+moral intensity with thehigh consensus information suggeststhat a complex decision
+making process is involved. Clearly, people’s stated wtp appears to reﬂect this in-
+crease in moral intensity caused by the high consensus information but on what
+scale? Is the higher wtp merely a measure of attitudes on an arbitrary monetary scale
+rather than a true measure of preferences that reﬂects relative values (Kahneman &
+Ritov, 1993)? There was some evidence of economic rationality in responses. For ex-
+ample, wtp varied with bid amount, preferences and beliefs (as exhibited by stated
+levels of concern etc.) and by expenditure variables. However, the latter inﬂuence
+was relatively weak and the other factors would also inﬂuence wtp responses that
+were based on attitude statements rather than resource values.
+There is likely to be a varying and complex set of attitudes and beliefs concerning
+the moral aspects of animal welfare which people may ﬁnd diﬃcult or inappropriate
+to articulate within the CV method of wtp elicitation. The number of ‘no opinion’
+responses may be an indicator of this. No speciﬁc tests for embeddedness, warm
+glow or other potential problems of the CV method were undertaken within the ex-
+periment. Thus, although the experiment clearly shows the links between social con-
+sensus information, moral intensity and wtp, there is no conclusive evidence that wtp
+responses constitute a true measure of wtp (in common with many other CV studies).
+6.Conclusion
+The experimental survey outlined in this paper found that additional information
+on social consensus concerning the moral dimensions of an animal welfare issue pre-
+sented to respondents in a CV study gave rise to a greater perception of social con-
+sensus by respondents. Furthermore, this greater perception of social consensus
+appeared to result in a higher level of moral intensity (moral imperative) associated
+with the issue, which in turn was reﬂected by a higher wtp for policy to address the
+issue. The study shows the substantial inﬂuence of social consensus information on
+wtp and suggests that social consensus information aﬀects the moral intensity of an
+issue, which in turn is reﬂected in elicited wtp. However, as for many CV studies of
+public goods, a questionremainsas towhetherthe estimatedwtp is a true measureof
+people’s preferences and relative values or merely a measure of attitudes on an arbi-
+trary monetary scale.
+SURVEYONSTUDENTS’ATTITUDESTOWARDSANIMALS(LSC)
+This short survey will not take you long to complete, as most of the questions
+only require you to circle your response choice. However, we would be grateful
+R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520 511
+if you could take your time to make considered answers to the questions. Please feel
+free to write on the questionnaire if you feel this provides additional information
+or clariﬁcation. We would ﬁrst like to ask you for some background informa-
+tion which will enable us to place responses into diﬀerent categories in the data
+analysis.
+YOUR RESPONSES TO THIS QUESTIONNAIRE WILL BE TREATED WITH
+COMPLETE CONFIDENTIALITY
+If YES, what products? ......................................................
+.................................................................................
+...... ............ .................. ........................ .....................
+1 What is your sex? M F
+2 What is your age? .................. YEARS
+3 Are you a UK or overseas student? UK OVERSEAS
+4 Do you live in catered halls (i.e.: all/most of your meals are
+provided)? YES NO
+5 Do you receive a grant? YES NO
+6 Do you have another source of income (excluding student loan)? YES NO
+7 Approximately how much do you spend in total each week for food
+consumption (including restaurants/take-aways etc.)? £...............
+8To what extent are you concerned that farm animals may be mistreated or may
+suﬀer in the process of producing food/agricultural products?
+(i) Very concerned, (ii) Somewhat concerned, (iii) Neither concerned nor
+unconcerned, (iv) Not really concerned, (v) Not at all concerned.
+9 Do you avoid purchasing any particular animal products because of your
+concern for the welfare of the animals involved (e.g.: veal, battery eggs,
+fur)? YES NO
+10 Please score on a scale of 0–10 the extent to which you think the following
+statements reﬂect your way of thinking. Circle a number below for each
+statement on the scale which stretches from ‘‘not at all like my way of
+thinking’’ to ‘‘very much like my way of thinking’’.
+(a) It is morally wrong to cause farm animals any pain or injury for the purposes
+of producing food.
+(not at all like my way of thinking)  ---! (very much like my way of thinking)
+012345 678910
+(b) It does not matter if farm animals experience some pain and injury for the
+purposes of producing food.
+(not at all like my way of thinking)  ---! (very much like my way of thinking)
+012345 678910
+512 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520
+Pig slaughtering techniques in the UK
+• The slaughterhouses Act 1974 provides that animals must be stunned before they
+are killed to render the animal insensible to pain until death supervenes.
+• Pigs are usually killed in a two-stage process. Firstly they are stunned, either by
+using two electrodes applied to the head or by immersion in a tank of carbon di-
+oxide gas. Secondly, their necks are cut. Death is then caused by loss of blood.
+• There are over 13 million pigs slaughtered in the UK every year.
+• There is some evidence that a high proportion of pigs in the UK might not be ad-
+equately stunned before slaughtering. However, some scientists state that both gas
+and electrical stunning are acceptable methods.
+• An alternative method of slaughter called ‘Head to Back’ stunning kills the ani-
+mals by cardiac arrest, resulting in a quicker death and eliminating the risk of
+the animal regaining consciousness.
+• The ‘Head to Back’ system is little used by the industry as it can lead to carcass
+damage, and consequently farmers are also against the use of the ‘Head to Back’
+system as it would reduce their proﬁts.
+• The consequences of enforcing this system in replacement of the current system
+would mean that food prices would increase.
+11 Please score on a scale of 0–10 the importance, in your view, of each of the
+following issues that British society has to address. Circle a number on the
+scale below where 0 stands for ‘‘not an important issue’’ and 10 stands for
+‘‘very important issue’’.
+(not an important issue)  ---! (very important issue)
+a. The castration of lambs using rubber rings in the UK
+012345 678910.
+b. The use of nose-rings in UK pigs to limit ﬁeld damage by pigs’ rooting
+behaviour
+012345 678910.
+c. The keeping of egg-laying hens in battery cages in the UK
+012345 678910.
+d. The export of live animals from the UK to continental Europe
+012345 678910.
+e. The slaughtering of pigs without adequate stunning in the UK
+012345 678910.
+f. The use of high-yielding breeds of dairy cows in the UK
+012345 678910.
+g. The branding of cattle in some areas of the United States of America
+012345 678910.
+h. The use of sick or poorly nourished draft animals in parts of East Asia
+012345 678910.
+R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520 513
+Please note: While considering your answers to the following questions, please bear in
+mindthattheremaybemanyissuesthatyoufeelstronglyaboutand,inprinciple,might
+be willing to pay something toward. However, your budget is limited and any payment
+toward one issue means that there is less money available to you to contribute to other
+issues or to buy things that you would like.
+Please explain the reasoning behind your response: ........................
+.................................................................................
+.................................................................................
+Please explain the reasoning behind your response: ........................
+.................................................................................
+.................................................................................
+12 Suppose that the UK government is willing to introduce legislation this year
+to make it compulsory for slaughterhouses to use the ‘Head to Back’ system
+by the end of 1999 if the UK population is willing to support such
+legislation. Would you support this legislation?
+YES NO NO OPINION
+13 Would you be willing to pay £2.00 a week to support the legislation (i.e. as
+an increase in your weekly food bill)?
+YES NO
+14 Please score on a scale of 0–10 the extent to which you think the following
+statements reﬂect your way of thinking. For each statement circle a number
+on the scale which stretches from ‘‘not at all like my way of thinking’’ to
+‘‘very much like my way of thinking’’:
+(not at all like my way of thinking)  ---! (very much like my way of thinking)
+(a) Pigs have a right to die in as painless way as possible
+012345678910.
+(b) It does not matter how pigs are killed
+012345678910.
+(c) The present method of slaughtering pigs is wrong because of the potential
+welfare problems involved
+012345 678910.
+(d) Despite potential welfare problems the present method of slaughtering pigs
+is acceptable
+012345 678910.
+(e) The present method of slaughtering pigs has fewer beneﬁts for society than
+the alternative ‘Head to Back’ method
+012345 678910.
+(f) It is better for society to keep the present method of slaughtering pigs
+012345 678910.
+514 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520
+Please explain your considerations behind the scores: ........................
+.................................................................................
+.................................................................................
+.................................................................................
+SURVEYONSTUDENTS’ATTITUDESTOWARDSANIMALS(HSC)
+This short survey willnot take youlongtocomplete, as most ofthe questionsonly
+require you to circle your response choice. However, we would be grateful if you
+could take your time to make considered answers to the questions. Please feel free
+to write on the questionnaire if you feel this provides additional information or clar-
+iﬁcation. We would ﬁrst like to ask you for some background information which will
+enable us to place responses into diﬀerent categories in the data analysis.
+YOUR RESPONSES TO THIS QUESTIONNAIRE WILL BE TREATED WITH
+COMPLETE CONFIDENTIALITY
+If YES, what products?............... ..........................................
+.................................................................................
+...... ...........................................................................
+1 What is your sex? M F
+2 What is your age? .................. YEARS
+3 Are you a UK or overseas student? UK OVERSEAS
+4 Do you live in catered halls (i.e.: all/most of your meals are
+provided)? YES NO
+5 Do you receive a grant? YES NO
+6 Do you have another source of income (excluding student loan)? YES NO
+7 Approximately how much do you spend in total each week for food
+consumption (including restaurants/take-aways etc.)? £...............
+8To what extent are you concerned that farm animals may be mistreated or may
+suﬀer in the process of producing food/agricultural products?
+(i) Very concerned, (ii) Somewhat concerned, (iii) Neither concerned nor
+unconcerned, (iv) Not really concerned, (v) Not at all concerned.
+9 Do you avoid purchasing any particular animal products because of your
+concern for the welfare of the animals involved (e.g.: veal, battery eggs,
+fur)? YES NO
+(g) Current opinion is that the present method of slaughtering pigs is wrong
+012345 678910.
+(h) Currentopinionisthatthepresentmethodofslaughteringpigsisacceptable
+012345 678910.
+R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520 515
+Pig slaughtering techniques in the UK
+• The slaughterhouses Act 1974 provides that animals must be stunned before they
+are killed to render the animal insensible to pain until death supervenes.
+• Pigs are usually killed in a two-stage process. Firstly they are stunned, either by
+using two electrodes applied to the head or by immersion in a tank of carbon di-
+oxide gas. Secondly, their necks are cut. Death is then caused by loss of blood.
+10 Please score on a scale of 0–10 the extent to which you think the following
+statements reﬂect your way of thinking. Circle a number below for each
+statement on the scale which stretches from ‘‘not at all like my way of
+thinking’’ to ‘‘very much like my way of thinking’’.
+(a) It is morally wrong to cause farm animals any pain or injury for the purposes
+of producing food.
+(not at all like my way of thinking)  ---! (very much like my way of thinking)
+012345 678910
+(b) It does not matter if farm animals experience some pain and injury for the
+purposes of producing food.
+(not at all like my way of thinking)  ---! (very much like my way of thinking)
+012345 678910
+11 Please score on a scale of 0–10 the importance, in your view, of each of the
+following issues that British society has to address. Circle a number on the
+scale below where 0 stands for ‘‘not an important issue’’ and 10 stands for
+‘‘very important issue’’.
+(not an important issue)  ---! (very important issue)
+a. The castration of lambs using rubber rings in the UK
+012345 678910.
+b. The use of nose-rings in UK pigs to limit ﬁeld damage by pigs’ rooting
+behaviour
+012345 678910.
+c. The keeping of egg-laying hens in battery cages in the UK
+012345 678910.
+d. The export of live animals from the UK to continental Europe
+012345 678910.
+e. The slaughtering of pigs without adequate stunning in the UK
+012345 678910.
+f. The use of high-yielding breeds of dairy cows in the UK
+012345 678910.
+g. The branding of cattle in some areas of the United States of America
+012345 678910.
+h. The use of sick or poorly nourished draft animals in parts of East Asia
+012345 678910.
+516 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520
+• There are over 13 million pigs slaughtered in the UK every year.
+• A recent report from the Compassion in World Farming Trust stated that a high
+proportion of pigs in the UK might not be adequately stunned before slaughter-
+ing.
+• Researchers from Bristol University found the electrical stunning of pigs to have
+serious animal welfare consequences, also a number of industry Veterinary Sur-
+geons and Dr N. Gregory (Britain’s leading slaughter expert) reported that gas
+stunning of pigs, in itself, is inhumane.
+• An alternative method of slaughter (favoured by the R.S.P.C.A.) is called ‘Head
+to Back’ stunning. It kills the animals by cardiac arrest, resulting in a quicker
+death and eliminating the risk of the animal regaining consciousness.
+• This method is little used by the industry as it can lead to carcass damage. There-
+fore, some farmers are against the use of the ‘Head to Back’ system, as it would
+reduce their proﬁts. However, most organic pig-farmers are in favour of it.
+• A recent national opinion poll found that 67% of consumers wanted pig meat pro-
+duced by cruelty-free methods (this included slaughter techniques), and were will-
+ing to pay more for it. Many consumers throughout Britain have signed a petition
+to ban present slaughter techniques and replace them with ‘Head to Back’.
+• Acting on an oﬃcial report the UK government are now considering possible reg-
+ulations which would require slaughterhouses to use the ‘Head to Back’ system.
+• The consequences of enforcing this system in replacement of the current system
+would mean that food prices would increase.
+Please note: While considering your answers to the following questions, please bear in
+mindthattheremaybemanyissuesthatyoufeelstronglyaboutand,inprinciple,might
+be willing to pay something toward. However, your budget is limited and any payment
+toward one issue means that there is less money available to you to contribute to other
+issues or to buy things that you would like.
+Please explain the reasoning behind your response: ...........................
+.................................................................................
+..................................................................................
+Please explain the reasoning behind your response: ...........................
+.................................................................................
+.................................................................................
+12 Suppose that the UK government is willing to introduce legislation this year
+to make it compulsory for slaughterhouses to use the ‘Head to Back’ system
+by the end of 1999 if the UK population is willing to support such
+legislation. Would you support this legislation?
+YES NO NO OPINION
+13 Would you be willing to pay £2.00 a week to support the legislation (i.e. as
+an increase in your weekly food bill)?
+YES NO
+R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520 517
+Please explain your considerations behind the scores: .....................
+.................................................................................
+.................................................................................
+.................................................................................
+References
+Andreoni, J. (1990). Impure altruism and donations to public goods: a theory of warm-glow giving. The
+Economic Journal, 100, 464–477.
+Arrow, K., Solow, R., Portney, P. R., Leamer, E. E., Radner, R., & Schuman,H. (1993).ReportoftheUS
+National Oceanic and Atmospheric Administration Panel on Contingent Valuation. January 11th, 1993.
+Washington, DC, USA: Resources for the Future.
+Baron, J. (1994). Thinking and deciding. Cambridge: Cambridge University Press.
+Baron, J. (2001). Measuring value tradeoﬀs: problems and some solutions. In E. U. Weber, J. Baron, & G.
+Loomes (Eds.), Conﬂict and tradeoﬀs in decision making (pp. 231–258). Cambridge: Cambridge
+University Press.
+Bennett, R. M. (1995). The value of farm animal welfare. Journal of Agricultural Economics, 46, 46–60.
+Bennett, R. M., & Larson, D. (1996). Contingent valuation of the perceived beneﬁts of farm animal
+welfare legislation: an exploratory survey. Journal of Agricultural Economics, 47, 224–235.
+14 Please score on a scale of 0–10 the extent to which you think the following
+statements reﬂect your way of thinking. For each statement circle a number
+on the scale which stretches from ‘‘not at all like my way of thinking’’ to
+‘‘very much like my way of thinking’’:
+(not at all like my way of thinking)  ---! (very much like my way of thinking)
+(a) Pigs have a right to die in as painless way as possible
+012345678910.
+(b) It does not matter how pigs are killed
+012345678910.
+(c) The present method of slaughtering pigs is wrong because of the potential
+welfare problems involved
+012345 678910.
+(d) Despite potential welfare problems the present method of slaughtering pigs
+is acceptable
+012345 678910.
+(e) The present method of slaughtering pigs has fewer beneﬁts for society than
+the alternative ‘Head to Back’ method
+012345 678910.
+(f) It is better for society to keep the present method of slaughtering pigs
+012345 678910.
+(g) Current opinion is that the present method of slaughtering pigs is wrong
+012345 678910.
+(h) Currentopinionisthatthepresentmethod ofslaughteringpigsisacceptable
+012345 678910.
+518 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520
+Bentham, J. (1789). Introduction to the principles of morals and legislation. 1996 Imprint. Oxford:
+Clarendon Press.
+Bergstrom, J., Stoll, J., & Randall, A. (1989). Information eﬀects in contingent markets. AmericanJournal
+of Agricultural Economics, 72, 685–691.
+Bergstrom, J., Stoll, J., & Randall, A. (1990). The impact of information on environmental commodity
+valuation decisions. American Journal of Agricultural Economics, 72, 614–621.
+Blackorby, C., & Donaldson, D. (1992). Pigs and guinea pigs: a note on the ethics of animal exploitation.
+The Economics Journal, 102, 1345–1369.
+Cameron, T. A. (1988). A new paradigm for valuing non-market goods using referendum data: maximum
+likelihood estimation by censored logistic regression. Journal of Environmental Economics and
+Management, 15, 355–379.
+Carruthers, P. (1992). The animals issue. Moral theory in practice. Cambridge: Cambridge University
+Press.
+Carson, R. T., Flores, N. E., & Meade, N. F. (2000). Contingent valuation: controversies and evidence.
+Washington, DC: National Oceanic and Atmosphere Administration, US Department of Commerce.
+Carson, R. T., Wright, J. L., Carson, N. J., Alberini, A., & Flores, N. E. (1995). A bibliography of
+contingent valuation studies and papers. La Joola, CA: NRDA, Inc.
+Dawkins, M. S. (1980). Animal suﬀering: the science of animal welfare. London: Chapman and Hall.
+Dawkins, M. S. (1998). Through our eyes only? The search for animal consciousness. Oxford: Oxford
+University Press.
+Diamond, P. A., & Hausman, J. A. (1994). Contingent valuation: is some number better than no number?
+Journal of Economic Perspectives, 8, 45–64.
+Dowell, R. S., Goldfarb, R. S., & Griﬃth, W. B. (1998). Economic man as a moral individual. Economic
+Inquiry, 36, 645–653.
+Green, C., & Tunstall, S. (1999). A psychological perspective. In I. J. Bateman, & K. G. Willis (Eds.),
+Valuingenvironmentalpreferences:theoryandpracticeofthecontingentvaluationmethodintheUS,EU,
+and developing countries (pp. 207–257). Oxford: Oxford University Press.
+Hanemann, M., & Kanninen, B. (1999). The statistical analysis of discrete-response cv data. In I. J.
+Bateman,&K.G. Willis(Eds.),Valuingenvironmentalpreferences:theoryandpracticeofthecontingent
+valuation method in the US, EU, and developing countries (pp. 302–441). Oxford: Oxford University
+Press.
+Jones, T. M. (1991). Ethical decision making by individuals in organisations: an issue-contingent model.
+Academy of Management Review, 12(2), 366–395.
+Kahnemann, D., & Knetsch, J. (1992). Valuing public goods: the purchase of moral satisfaction. Journal
+of Environmental Economics and Management, 22, 57–70.
+Kahneman, D., & Ritov, I. (1993). Determinants of statedwillingnessto payforpublicgoods:a studyinthe
+headline method. Berkeley: Department of Psychology, University of California.
+Kahneman, D., Ritov, I., Jacowitz, K. E., & Grant, P. (1993).Stated willingness to pay for public goods: a
+psychological perspective. Psychological Science, 4, 310–315.
+Marshall, A. (1947). Principles of economics (Reprint of eighth ed.). London: Macmillan and Co. Limited.
+McInerney, J. P. (1993). Animal welfare: an economic perspective. Paper presented at the Agricultural
+Economics Society Conference, Oxford, UK.
+Milgrom, P. (1993). Is sympathy an economic value? Philosophy, economics, and the contingent valuation
+method. In J. A. Hausman (Ed.), Contingent valuation. A critical assessment (pp. 417–435).
+Amsterdam: Elsevier Science Publishers BV.
+Mill, J. S. (1848). Principles of political economy (First ed.). London: Parker and Co. Limited.
+Mitchell, R. C., Carson, R. T. (1989). Usingsurveysto valuepublicGoods.thecontingentvaluationmethod.
+Washington, DC: Resources for the Future.
+Morris, S. A., & McDonald, R. A. (1995). The role of moral intensity in moral judgments: an empirical
+investigation. Journal of Business Ethics, 14, 715–726.
+Munro, A., & Hanley, N. (1999). Information, uncertainty, and contingent valuation. In I. J. Bateman, &
+K. G. Willis (Eds.), Valuing environmental preferences: theory and practice of the contingent valuation
+method in the US, EU, and developing countries (pp. 258–301). Oxford: Oxford University Press.
+R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520 519
+Plous, S. (1993). The psychology of judgement and decision making. New York: McGraw-Hill Inc.
+Ranyard, R., Crozier, W. R., & Svenson, O. (Eds.). (1997). Decision making. Cognitive models and
+explanations. London, New York: Routledge.
+Rollin, B. E. (1992). Animal rights and human morality. Revised ed. New York: Prometheus Books.
+Schkade, D. A., & Payne, J. W. (1993). Where do the numbers come from? How people respond to
+contingent valuation questions. In J. Hausman (Ed.), Contingent valuation: a critical assessment (pp.
+271–304). Amsterdam: Elsevier Science Publishers BV.
+Schwartz, S. H. (1977). Normative inﬂuenceson altruism.AdvancesinExperimentalSocialPsychology,10,
+1–65.
+Sen, A. (1977). Rational fools: a critique of the behavioural foundations of economic theory. Philosophy
+and Public Aﬀairs, 16, 317–344.
+Sen, A. (1987). On ethics and economics. Oxford: Basil Blackwell.
+Singer, P. (1989). All animals are equal. In T. Regan, & P. Singer (Eds.), Animal rights and human
+obligations (second ed., pp. 73–86). Englewood Cliﬀs, NJ: Prentice Hall.
+Smith, A. (1759). The Theory of Moral Sentiments. Reprint 1966. New York: Augustus M. Kelly.
+Spash, C. L. (2000). Multiple value expression in contingent valuation: economics and ethics.
+Environmental Science and Technology, 34, 1433–1438.
+Statistical Analysis Systems Institute Inc. (1989). SAS/STAT user’s guide, Version 6. Fourth Ed. Cary,
+USA: SAS Inc.
+520 R. Bennett, R. Blaney / Journal of Economic Psychology 23 (2002) 501–520

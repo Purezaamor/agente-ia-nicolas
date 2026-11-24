@@ -1,0 +1,996 @@
+=== Fuente: (5) Han et al 2017.pdf ===
+
+ORIGINAL ARTICLE
+A double EPSPS gene mutation endowing glyphosate resistance
+shows a remarkably high resistance cost
+Heping Han1 | Martin M. Vila‐Aiub1,2 | Adam Jalaludin1 | Qin Yu1 | Stephen B. Powles1
+1 Australian Herbicide Resistance Initiative
+(AHRI)–School of Agriculture and
+Environment, University of Western Australia
+(UWA), Perth, Australia
+2 IFEVA–CONICET–Faculty of Agronomy,
+Department of Ecology, University of Buenos
+Aires (UBA), Buenos Aires, Argentina
+Correspondence
+Martin M. Vila‐Aiub, IFEVA‐CONICET‐Faculty
+of Agronomy, Department of Ecology,
+University of Buenos Aires (UBA), Buenos
+Aires, Argentina
+Email: vila@ifeva.edu.ar
+Funding information
+Australian Research Council (ARC)
+Abstract
+A novel glyphosate resistance double point mutation (T102I/P106S, TIPS) in the 5‐
+enolpyruvylshikimate‐3‐phosphate synthase (EPSPS) gene has been recently identified for the
+first time only in the weed species Eleusine indica. Quantification of plant resistance cost associ-
+ated with the TIPS and the often reported glyphosate resistance single P106S mutation was per-
+formed. A significant resistance cost (50% in seed number currency) associated with the
+homozygous TIPS but not the homozygous P106S EPSPS variant was identified in E. indica plants.
+The resistance cost associated with the TIPS mutation escalated to 85% in plants under resource
+competition with rice crops. The resistance cost was not detected in nonhomozygous TIPS plants
+denoting the recessive nature of the cost associated with the TIPS allele. An excess of 11‐fold
+more shikimate and sixfold more quinate in the shikimate pathway was detected in TIPS plants
+in the absence of glyphosate treatment compared to wild type, whereas no changes in these com-
+pounds were observed in P106S plants when compared to wild type. TIPS plants show altered
+metabolite levels in several other metabolic pathways that may account for the expression of
+the observed resistance cost.
+KEYWORDS
+aromatic amino acids, glyphosate resistance cost, Pro‐106‐Ser, TIPS
+1 | INTRODUCTION
+Agro‐ecosystems for crop growth are fertile productive environments
+and this is why infestation by weedy plant species is a constant prob-
+lem. In the modern era, crop‐infesting weeds are mostly battled with
+herbicides. However, herbicides impose strong evolutionary selection
+pressure, and consequently, herbicide resistant weed populations have
+evolved worldwide.
+The evolutionary trajectory of herbicide resistant weed popula-
+tions is very dependent on herbicide selection regimes, characteristics
+of particular herbicide resistance alleles as well as being influenced by
+several molecular, genetic, physiological, and agro‐ecological factors
+(see reviews by Beckie & Tardif, 2012, Jasieniuk, Brûlé‐Babel, & Mor-
+rison, 1996, Maxwell & Mortimer, 1994, Powles & Yu, 2010, Vila‐Aiub,
+Neve, & Powles, 2009b, Yu & Powles, 2014). Herbicide resistance‐
+endowing gene traits obviously confer a benefit in the presence of
+the herbicide (resistance benefit) but can, in some cases, confer a cost
+(resistance cost) in the absence of herbicide. Resistance benefit and
+resistance cost strongly influence the evolutionary trajectory of resis-
+tance alleles (Maxwell & Mortimer, 1994; Simms & Rausher, 1987).
+Herbicide resistance‐endowing mutations/alleles may be associ-
+ated with a resistance cost (also termed reduced fitness) when com-
+pared to herbicide susceptible wild‐type alleles in the absence of
+herbicide selection (see reviews by Bergelson & Purrington, 1996,
+Herms & Mattson, 1992, Vila‐Aiub et al., 2009b). Costs have been
+shown to arise depending on the particular resistance gene and
+mutation, number of mutant alleles, genetic background, and abi-
+otic/biotic environmental conditions (Beckie & Tardif, 2012;
+Bergelson & Purrington, 1996; Bostamam, Malone, Dolman,
+Boutsalis, & Preston, 2012; Christopher, Powles, Liljegren, & Holtum,
+1991; Han et al., 2012; Preston & Powles, 1998; Purba, Preston, &
+Powles, 1995; Roux, Gasquez, & Reboud, 2004; Roux, Matéjicek,
+Gasquez, & Reboud, 2005; Tardif & Powles, 1994; Vila‐Aiub et al.,
+2009b; Vila‐Aiub, Gundel, Yu, & Powles, 2013; Vila‐Aiub, Neve, &
+Roux, 2011; Vila‐Aiub, Neve, Steadman, & Powles, 2005; Yu et al.,
+2012; Yu, Han, Vila‐Aiub, & Powles, 2010).
+Received: 7 May 2017 Revised: 24 August 2017 Accepted: 28 August 2017
+DOI: 10.1111/pce.13067
+Plant Cell Environ. 2017;40:3031–3042. © 2017 John Wiley & Sons Ltdwileyonlinelibrary.com/journal/pce 3031
+Rapid herbicide resistance evolution is expected if the resistance
+mutation endows clear resistance benefit under herbicide selection
+but shows no or negligible resistance cost in herbicide free environ-
+ments (e.g., many of the acetolactate synthase [ALS] gene mutations
+endowing resistance to ALS‐inhibiting herbicides). However, if the
+resistance‐endowing mutation incurs a significant resistance cost, then
+resistance evolution will be slower.
+Glyphosate (N‐[phosphonomethyl]‐glycine) is a broad spectrum,
+globally dominant herbicide (Duke & Powles, 2008) that inhibits the
+chloroplastic enzyme 5‐enolpyruvylshikimate‐3‐phosphate synthase
+(EPSPS), a key enzyme involved in the synthesis of aromatic amino
+acids (Herrmann & Weaver, 1999; Steinrücken & Amrhein, 1980). As
+a result of intense glyphosate use, glyphosate resistance has evolved
+in many weed species (Heap, 2014; Powles, 2008; Sammons & Gaines,
+2014). Glyphosate resistance can be endowed by one or more of sev-
+eral different resistance mechanisms, including target site resistance
+due to specific EPSPS gene mutations. Target‐site mutations at EPSPS
+Pro‐106 (changing Pro106 to any of Ala/Leu/Ser/Thr) are known to
+endow moderate glyphosate resistance in a number of field evolved
+resistant weed species (Baerson et al., 2002; Sammons & Gaines,
+2014). Given the competitive nature between glyphosate and the
+EPSPS substrate phosphoenolpyruvate for binding at the EPSPS cata-
+lytic site, the above mentioned amino acid substitutions at the EPSPS
+Pro‐106 only confer moderate level resistance benefit (typically two‐
+to fourfold relative to the susceptible counterpart). At normal field
+glyphosate doses, population survival rates of plants possessing Pro‐
+106 resistance‐endowing mutations vary dependent on the weed spe-
+cies, specific EPSPS 106 mutation, heterozygous or homozygous sta-
+tus of the mutation and environmental condition (Kaundun et al.,
+2008; Kaundun et al., 2011; Wakelin & Preston, 2006). Estimation of
+the resistance cost endowed by these specific target site EPSPS gene
+mutations evolved in arable weeds has not been reported.
+Early site‐directed mutagenesis work revealed a double EPSPS
+gene mutation (Thr‐102‐Ile + Pro‐106‐Ser, hereinafter termed TIPS)
+endowing high level glyphosate resistance in a commercial corn line
+(GA21). Now, this double EPSPS TIPS resistance mutation has evolved
+in a field Eleusine indica population under intense glyphosate selection
+(Yu et al., 2015). Here, we assess the resistance cost associated with
+both the naturally evolved double TIPS and single Pro‐106‐Ser
+(P106S) EPSPS glyphosate resistance‐endowing gene mutations. The
+results of this study enable an understanding of the physiological and
+ecological bases of resistance cost associated with EPSPS target site
+resistance alleles endowing glyphosate resistance in a global agricul-
+tural weed species.
+2 | MATERIALS AND METHODS
+2.1 | Plant material: Purification and selection of
+glyphosate resistance EPSPS variants
+All work reported here was conducted with a field evolved glyphosate
+resistant E. indica population (Jalaludin, Ngim, Bakar, & Alias, 2010;
+Jalaludin, Yu, & Powles, 2014; Yu et al., 2015). Plants were grown out-
+doors simulating field conditions at the University of Western Australia
+(31°58′52″S, 115°49′11″E).
+Individuals within the E. indica population with the normal glypho-
+sate susceptible wild type (Thr‐102/Pro‐106 [WT]) or either of the two
+resistant mutant EPSPS alleles 102‐Ile/106‐Ser (termed R because of
+strong resistance) or Thr‐102/106‐Ser (termed r because of weak
+resistance) were identified by DNA sequencing and dCAPS markers
+(Yu et al., 2015). About 200 plants were individually genotyped, and
+four genotypes were identified and purified (Table 1): plants
+possessing susceptible Pro‐106 WT (16%), homozygous resistant
+106‐Ser (rr, 33%) or homozygous resistant TIPS (RR, 2%) alleles. A
+fourth compound heterozygous genotype (Rr) segregating only at
+Thr‐102 was identified in 49% of the plants within the field collected
+glyphosate resistant E. indica population (Table 1; Yu et al., 2015).
+The RR TIPS mutation has been shown to endow a higher glyphosate
+resistance level (LD50‐based resistance factor > 182) than the single
+P106S mutation (LD50 = 5.6) in E. indica (Yu et al., 2015). The com-
+pound heterozygous Rr TIPS plants exhibit similar survival (100%) to
+plants with the homozygous RR TIPS mutation when exposed to
+glyphosate recommended field dose (1,080 g/ha) to control E. indica
+(data not shown).
+The genotyped homozygous plants were bulked in isolation in
+glasshouse conditions to produce seeds that resulted in three purified
+subpopulations containing plants with homozygous genotypes of WT,
+106‐Ser (rr) or TIPS (RR; Table 1). Progeny plants (n = 12) from each of
+the purified genotypic populations were randomly marker‐analysed to
+confirm their genotype and homozygosity prior to use for subsequent
+studies. The Rr TIPS individuals were identified (Yu et al., 2015) in
+seedlings derived from a bulked progeny of Rr x Rr crossing and imme-
+diately used for subsequent experiments.
+2.2 | Estimation of resistance cost
+To evaluate the expression of a glyphosate resistance cost associated
+with the three glyphosate resistant EPSPS genotypes (RR, Rr TIPS,
+and P106S) various experiments were conducted to assess the
+TABLE 1 EPSPS genotypes, alleles, and mutations found in glyphosate resistant Eleusine indica used in this study after genotyping 200 plants
+Mutation Allele
+Genotype*
+(%) Zygosity Subpopulation
+Thr‐102/Pro‐106 (WT) WT (16) Homozygous WT
+Pro‐106‐Ser Thr‐102/106‐Ser (r) rr (33) Homozygous P106S (rr)
+Thr‐102‐Ile/Pro‐106‐Ser 102‐Ile/106‐Ser (R) RR (2) Homozygous TIPS (RR)
+Thr‐102‐Ile/Pro‐106‐Ser Pro‐106‐Ser 102‐Ile/106‐Ser (R) Thr‐102/106‐Ser (r) Rr (49) Compound heterozygous TIPS (Rr)
+Note: WT = wild type; TIPS = Thr‐102‐Ile + Pro‐106‐Ser.
+*Numbers in brackets denote the genotypic frequency found in the genotyped natural field collected E. indica population.
+3032 HAN ET AL.
+
+vegetative and reproductive growth and compared to the WT geno-
+type in the absence of glyphosate selection. The magnitude (%) of a
+resistance cost was estimated as (Vila‐Aiub, Gundel, & Preston, 2015)
+RC ¼ 1−WR
+WS
+x 100 (1)
+where W denotes the quantitative estimation of a fitness trait of resis-
+tant (WR) rr, RR, or Rr TIPS and susceptible (WS) WT EPSPS gene
+variants.
+2.3 | Physiological resistance cost
+Direct or physiological resistance costs originate directly from pleiotro-
+pic effects of the resistance trait itself on resource allocation patterns
+that compromise growth and reproduction (Strauss, Rudgers, Lau, &
+Irwin, 2002). Plants were grown from seedling to maturity in the
+absence of competitive interactions, and resource allocation to vegeta-
+tive and reproductive biomass was estimated. One‐way analysis of var-
+iance (ANOVA) was performed to determine main genotype effects on
+vegetative and reproductive growth traits (α = 0.05).
+2.4 | Early seedling growth
+Seeds of similar size from the purified WT, RR TIPS, and P106S were
+germinated on 0.6% (w/v) agar and incubated at fluctuating tempera-
+ture regime of 30/20 °C with 12 hr photoperiod at photosynthetically
+active radiation (PAR) of 530 μmol·m−2·s−1. At the two‐leaf stage,
+seedlings from each genotype were transferred to petri dishes
+(120 mm × 120 mm) containing 0.8% (w/v) agar and half strength
+nutrient solution containing 200 μMK2SO4, 100 μM MgCl2, 100 μM
+NH4NO3, 700 μM Ca(NO3)2,20μMKH2PO4, 500 μM MES, 20 μM
+FeNaEDTA, 2 μMH3BO3, 0.25 μM MnSO4, 0.3 μM ZnSO4, 0.1 μM
+CuSO4, 0.03 μMNa2MoO4, 0.2 μM CoSO4, and 0.1 μM NiSO4 (pH
+to 5.5–6.0). Seedlings (seven seedlings per petri dish) were incubated
+at the same environmental conditions as described above. Seedling
+fresh weight was evaluated 11 and 15 days after germination. Five
+to eight replicates per treatment were used.
+2.5 | Dynamics of vegetative plant growth
+Seeds of WT, P106S, and RR TIPS plants were germinated as described
+above. Two‐leaf stage seedlings were transplanted into pots contain-
+ing a substrate of composted fine pine bark (50%), coco‐peat (30%),
+and washed river sand (20%) and grown in glasshouse conditions dur-
+ing the summer growing season (fluctuating temperature of 30/24 °C).
+A total of 25 individual plants per genotype were grown in pots
+(Ø = 20 cm, height = 20 cm) and relative growth rate (RGR) of
+above‐ground biomass (leaf and stem) during the vegetative stage
+was weekly estimated during a 34‐day growing period after seedling
+transplanting. The unbiased formula proposed by Hoffmann and
+Poorter (2002) was used to determine the RGR for each genotype.
+The variance (V) associated with RGR was estimated according to
+Causton and Venus (1981).
+Resource allocation to vegetative biomass was estimated by
+weighing harvested plants that had been oven‐dried at 60 °C for
+3 days. Plants were daily watered and fertilized and frequently
+rearranged to randomize environmental differences in the glasshouse.
+Final resource allocation to vegetative tissues was estimated at the
+end of the growth cycle in single plants (n = 25) of each genotype
+growing in pots (Ø = 30 cm, height = 30 cm) containing the above men-
+tioned substrate.
+2.6 | Plant growth at maturity
+Repeated experiments under glasshouse (n = 25; WT vs. P106S vs. RR
+TIPS) and outdoors summer (n = 10; WT vs. RR TIPS vs. Rr TIPS) con-
+ditions were conducted to assess the reproductive growth of individual
+plants growing in the above mentioned substrate.
+Inflorescences produced by individuals from each genotype were
+sequentially collected from first maturity. Inflorescences from each
+individual plant were threshed to separate the seed from chaff and
+rachis material, and total seed mass was quantified. The number of
+seeds (Sn) produced per E. indica plant was estimated as
+Sn ¼ TSw 100 Sw (2)
+where TSw denotes the total seed weight produced per plant, and Sw
+represents the weight of 100 seeds per plant (n = 3).
+The relative proportion of resources allocated to seeds (i.e., repro-
+ductive effort) in individual plants of each genotype was estimated
+according to Reekie and Bazzaz (2005):
+RE %ðÞ¼Sb Tb 100 (3)
+where Sb denotes the biomass contained in all seeds produced, and Tb
+is the total (stems, leaves, inflorescences, and seeds) biomass produced
+per plant.
+The experimental design enabled the quantification of the domi-
+nance (h) of the resistance cost (Menchari, Chauvel, Darmency, &
+Delye, 2008; Roux et al., 2004) associated with the EPSPS resistance
+allele 102‐Ile/106‐Ser (R). By convention, the resistance TIPS allele
+(R) is dominant, semidominant, or recessive when h approaches to 1,
+0.5, or 0, respectively. The dominance (h) is calculated as
+h ¼ WWT−WRrTIPS
+WWT−WRR TIPS
+(4)
+where WWT,WRrTIPS, and WRRTIPS is the mean fitness trait of the WT,
+Rr, and RR TIPS genotypes, respectively.
+2.7 | Ecological resistance cost
+Ecological resistance costs arise when ecological interactions such as
+competition or herbivory trigger or amplify the expression of resis-
+tance costs (Strauss et al., 2002). Plants were grown from seedlings
+to maturity under competition from a rice crop, and estimation of
+resource allocation to vegetative and reproductive biomass was con-
+ducted. One‐way ANOVA was performed to determine main genotype
+effects on vegetative and reproductive growth traits (α = 0.05).
+A target‐neighbourhood design was conducted to evaluate the
+competitive responses of P106S and RR TIPS plants under crop com-
+petition in an experimental garden under the normal summer growing
+HAN ET AL. 3033
+
+conditions for this species. This experimental design evaluates the veg-
+etative and/or reproductive growth of a target plant under increasing
+density of neighbour crop plants (Goldberg & Werner, 1983; Weiner,
+1982). In the absence of neighbour plants, the response of the target
+plant is expected to be maximum, and the continuous increase of
+neighbour density/biomass is likely to reduce the target plant
+response. The experimental design allows the quantification of ecolog-
+ical resistance costs associated with the particular E. indica EPSPS gene
+variants (Vila‐Aiub, Neve, & Powles, 2009a). To achieve this goal, veg-
+etative and reproductive growth of individuals from the EPSPS vari-
+ants (RR TIPS, P106S) and WT under size symmetric competition
+with a rice (Oriza sativa) crop (Yunlu 29 cv.) was assessed. Experiments
+were conducted outdoors during the normal summer growing season.
+Rice seeds were soaked in tap water overnight and germinated
+on 0.6% (w/v) agar for 6 days at fluctuating temperature 30/20 °C
+with 12 hr photoperiod and PAR of 200 μmol·m−2·s−1. Two days
+later, seeds of WT, P106S, and RR TIPS plants were also germinated
+in the same environmental conditions. Two rice densities (0, 5 in each
+experimental unit), which equal to 0, 71 rice plants m−2, were spa-
+tially arranged (Supporting Information). Two days later, after rice
+transplanting, individual two‐leaf stage E. indica seedlings were
+transplanted into single plastic pots (Ø = 30 cm, height = 30 cm) con-
+taining the above mentioned organic substrate. Plants were regularly
+watered and fertilized.
+Above‐ground vegetative biomass of target plants (WT, P106S,
+and RR TIPS genotypes) competing with neighbouring rice plants was
+evaluated at maturity. Biomass of target plants was oven‐dried as pre-
+viously described. Treatments (3 genotypes × 2 rice densities) were
+replicated nine times comprising 54 experimental units. Reproductive
+biomass produced by individuals from each genotype (WT, P106S,
+and RR TIPS) was sequentially collected from first maturity, up to
+99 days after seed germination. Seed heads produced from E. indica
+genotypes were collected and reproductive traits estimated as
+described above.
+2.8 | GC‐MS analysis of polar metabolites, in
+particular phenylalanine, tyrosine, tryptophan, shikimic
+acid, and quinic acid
+Plants of the three genotypes (WT, P106S, and RR TIPS) were grown in
+a phytotron room under 30/25 °C day/night temperature and light
+intensity of 300 μmol·m−2·s−1. The six to seven leaf stage plants were
+harvested from above‐ground and snap‐frozen in liquid N2. There are
+four biological replicates each with eight to 10 plants. Plant material
+(2 g) from each genotype was ground in liquid N2 with a mortar and
+pestle into fine powder. About 50 mg was subsampled into 2 ml
+Eppendorf extraction tubes and kept in liquid nitrogen until extraction.
+Chloroform (100 μl) was added to the tubes and vortexed for 30 sec in
+a MultiTube‐Vortexer and followed by addition of 300 μl of 90%
+methanol containing three internal standards (100 μM 13C5, 15N‐
+valine, 10 μM 13C6‐sorbitol and 10 μM ribitol). The samples were
+vortexed for 1 min and incubated with shaking for 15 min at
+500 rpm. Then 200 μl of water was added and vortexed for 1 min
+and centrifuged for 3 min at 20,800 g. The aqueous supernatant
+(100 μl) was transferred into a 300 μl glass insert in a 2 ml GC vial
+and evaporated to dryness for 3 hr in a vacuum evaporator. The vials
+were capped with magnetic crimp tops.
+2.9 | TMS derivatization for the analysis of polar
+metabolites, in particular shikimic acid and quinic acid
+A calibration curve of pure standards was prepared for the organic
+shikimic and quinic acids with a concentration range of 0, 0.2, 1, 5,
+20, and 50 nmol/mg fresh weight and extracted as described above.
+Samples were derivatized using a CTC autosampler, and 20 μlof
+methoxylamine hydrochloride (20 mg/ml) in pyridine was added.
+The samples were incubated at 37 °C for 2 hr with agitation at
+750 rpm. Then 20 μlN‐methyl‐N‐(trimethylsilyl) trifluoroacetamide
+was added and incubated at 37 °C for 30 min with agitation. After
+1 hr, incubation at RT 1 μl sample extract was injected onto the
+GC/MS in the splitless mode.
+The samples were analysed on a 7890A GC coupled to a 5975C
+MSD (Agilent). The column used was a VF 5 ms 30 m × 250 μm × 0.25 μm
+with a 10 m guard column (Agilent J&W). The carrier gas was helium,
+and the column flow was 1 ml/min. The temperature gradient of the
+oven was 70 °C for 1 min, then 7 °C per minute to 325°C. The inlet,
+thermal auxiliary, MS source, and MS quadrupole temperatures were
+set to 250 °C, 280 °C, 230 °C, and 150 °C, respectively. The scan range
+was m/z 50–600. One‐way ANOVA was performed to determine
+differences in shikimic and quinic acid concentration among WT,
+P106S, and TIPS genotypes (α = 0.05).
+2.10 | TBS derivatization for the analysis of amino
+acids, in particular phenylalanine, tyrosine, and
+tryptophane
+A calibration curve of pure standards was prepared for the amino acids
+phenylalanine (Phe), tyrosine (Tyr), and tryptophan (Trp) with a
+concentration range of 0, 1, 2, 5, 10, 15, and 20 nmol/mg fresh weight
+and extracted as described above. The samples were derivatized using
+a CTC autosampler, and 20 μ of methoxylamine hydrochloride (20 mg/
+ml) in pyridine was added. The samples were incubated at 75 °C for
+20 min with agitation at 750 rpm. Then 40 μlN‐tert‐Butyldimethyl-
+silyl‐N‐methyltrifluoroacetamide with 1% tert‐butyldimethyl-
+chlorosilane was added and incubated at 75 °C for 20 min with
+agitation. After 1 hr, incubation at RT 1 μl sample extract was injected
+onto the GC/MS in the splitless mode. The temperature gradient of the
+oven was 70 °C for 1 min, then 1 °C per minute to 75 °C and finally
+6 °C per minute to 325 °C for 5 min. The inlet, thermal auxiliary, MS
+source, and MS quadrupole temperatures were set to 300 °C,
+250 °C, 230 °C, and 150 °C, respectively. The scan range was m/z
+70–650. One‐way ANOVA was performed to determine differences
+in Phe, Tyr, and Trp pools among WT versus P106S and TIPS
+genotypes (α = 0.05).
+Polar metabolites were identified in ADMIS Version 2.72 (NIST)
+using the Metabolomics Australia in‐house library and NIST 14 library
+Version 2.2 for mass spectral comparison, and quantified in
+MassHunter Workstation Software Quantitative Analysis Version
+B.06.00 for GCMS (Agilent). Eighty‐two compounds were identified
+or putatively identified in AMDIS and used for statistical analysis.
+3034 HAN ET AL.
+
+Statistical and metabolic pathway analysis was performed using the
+online software MetaboAnalyst 3.0 (Xia Lab/McGill University). All
+data were normalized to the three internal standards and the fresh
+weight, log transformed and auto‐scaled (mean‐centred and divided by
+the standard deviation of each variable). Compounds with fold change
+≥2andp ≤ .05 in the t test performed for P106S versus WT, and RR
+TIPS versus WT data set were visualized via Volcano Plot analysis.
+3 | RESULTS
+In a series of experiments in both glasshouse and field conditions, the
+vegetative and reproductive growth of E. indica plants was quantified
+without any glyphosate treatment. This enabled assessment of the
+expression of ecophysiological resistance costs associated with the
+homozygous RR and compound heterozygous Rr TIPS and P106S
+glyphosate resistance genotypes.
+3.1 | Physiological resistance cost
+3.1.1 | Plant growth at early seedling stage
+Despite optimal growing conditions (nutrient, temperature and light,
+no competition), the RR TIPS seedlings produced much less biomass
+than the WT or the P106S resistant plants during early vegetative
+growth (Table 2). Just 11 days after seed germination, RR TIPS seed-
+lings exhibited 30% less total biomass than WT and P106S seedlings
+(Table 2). Over the first 35 days of growth (glasshouse, summer
+growing season, 30/24 °C), the RR TIPS plants displayed a signifi-
+cantly (p < .001) lower RGR (0.25/day) than WT (0.31/day) or
+P106S (0.32/day) plants (Figure 1). As a result, RR TIPS plants
+showed a reduction in the amount of resources allocated to
+above‐ground vegetative biomass compared to both WT and
+P106S plants that showed similar resource acquisition (Figure 1).
+After 35 growing days, the RR TIPS plants produced 1 g of above‐
+ground biomass whereas both the WT and P106S plants exhibited
+4 g biomass (Figures 1 and 2).
+3.1.2 | Plant growth at maturity
+As experiments under glasshouse and field conditions yielded similar
+results, only glasshouse results are shown. At plant maturity (105
+growing days), remarkable differences in the vegetative and repro-
+ductive growth were evident among the EPSPS gene variants
+(Figure 3). The RR TIPS plants produced only half of the above‐
+ground biomass and only a third of the number of seeds compared
+to the WT or the P106S plants (Figure 3). Considering the number
+of produced seeds, a glyphosate resistance cost of 69% was associ-
+ated with the RR TIPS plants. It is noteworthy that RR TIPS plants
+also showed a change in the reproductive effort denoted by 5% less
+resources allocated to reproductive organs compared to P106S plants
+that exhibited a similar RE to WT plants (Figure 3). Resource alloca-
+tion patterns to vegetative and reproductive organs of the WT and
+P106S plants were similar (Figure 3).
+Remarkably, especially given the strong resistance cost of the
+RR homozygous TIPS double mutation, the compound heterozygous
+Rr TIPS plants exhibited similar vegetative and reproductive growth
+estimates to the WT denoting the absence of any glyphosate resis-
+tance cost (Figure 4). The Rr TIPS variant showed no decrease in
+the size of plants, number of inflorescences and seeds, and repro-
+ductive effort when compared to the WT variant (Figure 4). The
+dominance index of the resistance cost (h) associated with the
+102‐Ile/106‐Ser TIPS alleles approached zero for all estimated
+growth traits, highlighting that the resistance cost associated with
+TIPS EPSPS gene mutation is expressed when only in the
+homozygous state.
+3.1.3 | Ecological resistance cost
+The effect of resource competition from a competing rice crop on the
+vegetative and reproductive growth of WT, RR TIPS, and P106S plants
+grown under field conditions was evaluated in a glyphosate free envi-
+ronment. During the course of the experiment and as a measure of the
+intensity of the plant competition for light, PAR reaching the E. indica
+EPSPS variants was quantified. Only 80% and 5% of the PAR observed
+in competition free plants (1,650 μmol·m−2·s−1) was available for
+TABLE 2 Estimated growth of Eleusine indica seedlings in absence of
+glyphosate selection carrying the wild type, P106S, and RR TIPS EPSPS
+gene variants
+Genotype
+Total biomass (mg/plant)
+Days since germination
+11 15
+WT 108a (10) 209 a (9)
+P106S 104a (12) 275a (35)
+RR TIPS 70b (4) 151b (12)
+p .02 .002
+Note. Growth was assessed as individual total fresh weight after 2 weeks
+since germination at fluctuating 30/20 °C (12 h photoperiod) temperature.
+Values are mean fresh weight (n =5–8) ± SE in brackets; p values after
+ANOVA. Different letters indicate significant differences between geno-
+types within each growth time, according to Tukey's honest significant dif-
+ference (HSD) test (α = 5%). WT = wild type; TIPS = Thr‐102‐Ile + Pro‐106‐
+Ser; R = 102‐Ile/106‐Ser; r = Thr‐102/106‐Ser.
+Different letters indicate significant differences between genotypes within
+each growth time, according to Tukey's honest significant difference test
+(α = 5%)
+FIGURE 1 Estimated vegetative biomass and relative growth rate
+(RGR) of Eleusine indica plants under no glyphosate treatment
+carrying the wild type (WT [○]), P106S (▲), and homozygous RR TIPS
+(●) EPSPS gene mutations over 4 weeks since seed germination under
+glasshouse conditions (January–February 2014). Data are mean
+(n =19–25) with standard errors as vertical bars
+HAN ET AL. 3035
+
+E. indica plants competing under the rice canopy during the vegetative
+and reproductive stage, respectively (Supporting Information).
+Understandably, regardless of genotype, rice crop competition
+was a major force (p < .001) in determining overall E. indica vegetative
+and reproductive growth (Figure 5). After nearly 100 days of growth in
+competition from a rice crop, total above‐ground biomass,
+inflorescence biomass, and seed number were reduced in all the three
+E. indica genotypes. Rice competition reduced the relative proportion
+of resources allocated to E. indica reproductive tissues (i.e., reproduc-
+tive effort) in RR TIPS but not in P106S and WT plants (Figure 5).
+Despite the large rice competition effect, E. indica WT, P106S, and
+RR genotypes showed significant differences in their vegetative and
+(a)
+(b)
+FIGURE 2 (a) Vegetative growth of Eleusine indica wild type, P106S, and homozygous RR TIPS plants, 24 days and (b) 34 days after germination
+growing outdoor under summer conditions in the absence of glyphosate treatment [Colour figure can be viewed at wileyonlinelibrary.com]
+FIGURE 3 Fitness traits of Eleusine indica wild type (WT), P106S, and RR TIPS in a glyphosate free environment. Traits were estimated at plant
+maturity (105 days of growth since germination) under glasshouse conditions. Vertical bars denote standard errors of the mean (n =25–26).
+Different letters indicate significant differences according to Tukey's multiple comparison test (α = 0.01, except for the reproductive effort trait,
+α = 0.05)
+3036 HAN ET AL.
+
+reproductive growth (Figure 5). As observed in previous experiments
+under controlled (Table 2), glasshouse (Figures 1--3) and field
+(Figure 4) conditions, the total vegetative above‐ground biomass, inflo-
+rescence biomass, number of seeds produced, and overall amount of
+resources allocated to reproduction were significantly impaired in RR
+TIPS plants compared to WT and P106S plants growing without rice
+competition (Figure 5).
+The impaired growth in RR TIPS plants constituted a significant
+resistance fitness cost that was magnified in the presence of a
+competitive rice crop (Table 3). When considering the biomass of
+inflorescences and number of seeds produced under no competi-
+tion, a resistance cost of approximately 30% and 50% in RR TIPS
+plants was, respectively, identified (Table 3). However, this cost
+increased significantly under rice competition, accounting for
+approximately 90% and 85% in both reproductive traits, respec-
+tively (Table 3). Similarly, the glyphosate resistance cost increased
+up to 90% and 40% from 23% and 16% for vegetative growth
+and reproductive effort, respectively (Table 3). On the contrary,
+the P106S plants had no resistance cost evident either with or
+without rice competition (Table 3).
+FIGURE 4 Fitness traits of Eleusine indica plants with the RR TIPS or Rr TIPS EPSPS gene mutations compared to wild type (WT) under no
+glyphosate treatment. Fitness traits were estimated at plant maturity (103 days of growth since germination) under natural conditions. Vertical
+bars denote standard errors of the mean (n = 10). Different letters indicate significant differences among genotypes according to Tukey's honest
+significant difference test (α = 5%). TIPS = Thr‐102‐Ile + Pro‐106‐Ser; R = 102‐Ile/106‐Ser; r = Thr‐102/106‐Ser
+FIGURE 5 Fitness traits of Eleusine indica wild type (WT [ ]), P106S (□), and homozygous RR TIPS (■) plants under resource competition from
+rice in a glyphosate free environment. Traits were estimated at plant maturity after 98 days of growth since germination under field conditions
+(November 2014–February 2015). Vertical bars denote standard errors of the mean (n = 10, except for reproductive effort n = 5). Different letters
+indicate significant differences according to Tukey's multiple comparison test (α = 0.05)
+HAN ET AL. 3037
+
+3.1.4 | GC‐MS analysis of polar metabolites, in particular
+phenylalanine, tyrosine, tryptophan, shikimic, and quinic acid
+EPSPS is a key enzyme in the shikimate pathway and target of
+glyphosate herbicide (Herrmann & Weaver, 1999). As the TIPS muta-
+tion has been shown to significantly reduce EPSPS Vmax (Yu et al.,
+2015), potential changes in metabolite levels in the shikimate pathway
+likely have a causal effect on the resistance cost observed in RR TIPS
+plants. Eighty‐two polar metabolites were analysed in RR TIPS,
+rrP106S, and WT, with particular attention to those involved in the
+shikimate pathway.
+In the absence of glyphosate treatment, a major difference was
+found in the concentration of shikimic and quinic acids of RR TIPS
+plants compared to WT and P106S plants (Figure 6). The TIPS plants
+exhibited 11‐ and sixfold, respectively, more shikimic and quinic acids
+than WT, whereas no significant difference in the concentration of
+these EPSPS substrate precursors was observed between P106S and
+WT plants (Figure 6). The downstream biosynthesis of the three
+aromatic amino acids was little affected (Figure 6). Whereas a marginal
+increase of Phe was observed in TIPS compared to WT, no change in
+Tyr and Trp content was found in either the TIPS or P106S compared
+to WT (Figure 6).
+In addition to the significant changes in the background concen-
+tration of shikimic and quinic acids in the TIPS plants, significant
+(p < .05) ≥2 fold‐changes in the concentration of 25 polar metabolites
+in TIPS, and only two metabolites in P106S were identified as shown in
+the Volcano Plot analysis when compared to WT (Figure 7, Tables S1
+and S2). These include a higher level of eight metabolites (shikimic acid,
+L‐homoserine, quinic acid, L‐asparagine, L‐glutamine, L‐alanine, gly-
+cine, and L‐serine) and a lower level of 17 metabolites (fructose‐6‐
+phosphate, threonic acid, ascorbic acid, glucose‐6‐Phosphate, man-
+nose‐6‐Phosphate, sinapic acid, gentiobiose, galactose, cis‐aconitic
+acid, myo‐Inositol, maltose, malonic acid, 3‐phosphoglyceric acid,
+trehalose, mannitol, arbutin, and galactinol) were detected in TIPS
+compared to WT.
+Metabolic pathway analysis was performed in a pairwise manner
+comparing TIPS versus WT and P106S versus WT genotypes. To
+account for a significant pathway change among the EPSPS gene var-
+iants all factors (Hits, Raw p value related to –log10(p), Holm adjusted
+p, false discovery rate and impact) were considered using the
+MetaboAnalyst software. Whereas P106S versus WT analysis resulted
+in no significant changes in metabolic pathways (Table S3), significant
+disturbance in at least 10 metabolic pathways was found in TIPS versus
+WT (Table S4). TIPS plants showed changes not only in the shikimate
+pathway but also in the metabolism of galactose, methane, pyruvate,
+glyoxylate, dicarboxylate, inositol phosphate, starch, sucrose,
+ascorbate and aldarate, citrate cycle, and pantothenate and CoA
+biosynthesis (Table S4).
+TABLE 3 Estimated ecological resistance cost associated with the
+Eleusine indica P106S and RR TIPS EPSPS gene variants
+Control Crop competition
+Genotype Vegetative biomass
+P106S 0% 0%
+RR TIPS 23% 90%
+Inflorescence biomass
+P106S 0% 0%
+RR TIPS 27% 87%
+Seed number
+P106S 0% 0%
+RR TIPS 50% 85%
+Reproductive effort
+P106S 7% 0%
+RR TIPS 16% 40%
+Note. Resistance cost was evaluated in terms of final above‐ground vegeta-
+tive and inflorescence biomass, seed number, and reproductive effort
+under rice competitive and uncompetitive conditions. Resistance cost
+ranges from 99% (significantly high cost) to 0% (no cost). TIPS = Thr‐102‐
+Ile + Pro‐106‐Ser; R = 102‐Ile/106‐Ser.
+FIGURE 6 Tissue contents of shikimic and quinic acids, and aromatic amino acids Phe, Tyr, and Trp in Eleusine indica wild type (WT), homozygous
+P106S, and TIPS plants in the absence of glyphosate treatment by GC‐MS analysis. Vertical bars denote standard errors of the mean (n = 4); p
+values after analysis of variance, and different letters indicate significant differences among genotypes according to Tukey's honest significant
+difference test (α = 5%). Phe = phenylalanine; Tyr = tyrosine; Trp = tryptophan; TIPS = Thr‐102‐Ile + Pro‐106‐Ser
+3038 HAN ET AL.
+
+4 | DISCUSSION
+The present study shows that there is a clear expression of a signif-
+icant resistance fitness cost associated with the homozygous RR TIPS
+glyphosate resistance‐endowing double mutation that is not evident
+in the homozygous P106S nor the compound heterozygous Rr TIPS
+EPSPS variants in E. indica. Only 11 days after seed germination,
+the homozygous TIPS seedlings expressed a reduced RGR that
+resulted in mature plants of limited size yielding 30% less inflores-
+cences and 60% less seeds compared to the WT or to the homozy-
+gous P106S mature plants (Figure 3, 4). Resource allocation theory
+predicts that resistance fitness costs will be magnified under stressful
+conditions (Bergelson & Purrington, 1996; Marak, Biere, & Van
+Damme, 2003; Van Dam & Baldwin, 2001). Accordingly, under com-
+petition from a vigorously growing rice crop (severely limiting light
+penetration), the glyphosate resistance cost associated with the
+homozygous RR TIPS variant increased to 85%, 90%, and 40% in
+relation to seed number, inflorescence biomass, and reproductive
+effort traits, respectively (Table 3). The very high resistance fitness
+cost of the homozygous RR TIPS mutation endowing glyphosate
+resistance has only been matched by the 95% cost associated with
+the Trp‐574‐Leu ALS gene mutation in Amaranthus powellii (Tardif,
+Rajcan, & Costea, 2006). Thus, the TIPS double mutation is the most
+severe resistance cost reported in naturally evolved herbicide
+resistant weed species in agriculture.
+Notably, the high resistance cost associated with the homozygous
+RR TIPS mutation is not expressed in plants with the Rr TIPS mutation,
+which show equal fitness to WT (Figure 4). This result denotes the
+recessive nature of the resistance cost associated with the TIPS allele
+(102‐Ile/106‐Ser). This is likely due to the two different EPSPS alleles
+in compound heterozygous Rr TIPS plants, which encode two different
+EPSPS enzymes with equal amount: TIPS enzyme conferring high level
+glyphosate resistance compensated by P106S enzyme functioning nor-
+mally with no resistance cost.
+Along with the results reported here, Li et al. (2016) have recently
+shown that a CRISP/Cas9 edited homozygous TIPS mutation in rice is
+very likely to be lethal as they did not find homozygous TIPS mutants in
+93 T2 plants analysed. This is, in essence, in line with our observation
+that in 193 E. indica plants analysed only 1.6% were homozygous RR
+TIPS mutants (Yu et al., 2015). The Li et al. (2016) study also reports
+that the heterozygous TIPS mutation, unlike the results presented here,
+also attracts a resistance cost in the EPSPS edited rice plants. How-
+ever, it must be noted that results are not comparable as our so called
+heterozygote TIPS plants (i.e., containing a TIPS allele and a P106S
+allele) is different from the true heterozygote TIPS in Li et al. (2016)
+paper (i.e., containing a TIPS allele and a WT allele).
+FIGURE 7 Identified polar metabolites with
+significant quantitative changes in Eleusine
+indica (a) homozygous P106S versus WT and
+(b) homozygous TIPS versus WT. Changes
+were detected by volcano plot analysis that
+combines both significant fold changes (FC
+≥2) in metabolites and t test (p ≤ .05).
+TIPS = Thr‐102‐Ile + Pro‐106‐Ser; WT = wild
+type [Colour figure can be viewed at
+wileyonlinelibrary.com]
+HAN ET AL. 3039
+
+4.1 | Physiological basis of fitness cost associated
+with RR TIPS
+Adaptive resistance mutations in bacteria (Cohan, King, & Zawadzki,
+1994; Melnyk, Wong, & Kassen, 2015), insects (Chevillon, Pasteur,
+Marquine, Heyse, & Raymond, 1995; Groeters, Tabashnik, Finson, &
+Johnson, 1994), and plants (Darmency, 2013; Vila‐Aiub et al., 2009b)
+have been shown to incur resistance costs when they compromise
+normal function and metabolism (Uyenoyama, 1986). In particular,
+herbicide resistance point mutations may potentially trigger a number
+of biochemical changes at the herbicide target enzyme impairing
+enzyme catalytic capacity, reducing substrate affinity, and/or altering
+feedback inhibition, resulting in insufficient or excessive product
+biosynthesis and thus accounting for a resistance cost (Purrington &
+Bergelson, 1999; Vila‐Aiub et al., 2009b; Vila‐Aiub, Yu, Han, & Powles,
+2015; Yu et al., 2010). We have recently investigated the impact of the
+homozygous TIPS and P106S EPSPS glyphosate resistance‐endowing
+gene mutations on EPSPS catalytic properties. When expressed in
+Escherichia coli, the TIPS mutation resulted in 15.5‐fold lower EPSPS
+activity (Vmax), whereas no impact on EPSPS activity was observed
+for the P106S mutation, relative to the WT (Yu et al., 2015).
+Results reported here show that the reduced EPSPS catalytic
+efficiency of the TIPS mutation (Yu et al., 2015) causes increased
+concentration of shikimate (11‐fold) and quinate (sixfold; Figure 6, 7)
+in the shikimate pathway. The higher levels of these two carbon
+compounds may arise as a consequence of both the reduced EPSPS
+Vmax and increase of carbon flux from photosynthetically fixed carbon
+(Herrmann & Weaver, 1999; Maeda & Dudareva, 2012; Steinrücken &
+Amrhein, 1980). Despite the higher background concentration of these
+metabolites in TIPS plants, the downstream biosynthesis of the
+aromatic amino acids Phe, Tyr, and Trp was little affected (Figure 6)
+suggesting that TIPS plants are somehow compensating the reduced
+EPSPS efficiency by recycling aromatic amino acids from destroyed
+proteins (Teixeira et al., 2017). This process would maintain the
+production of these essential aromatic amino acids for the biosynthesis
+of downstream secondary compounds such as lignin, alkaloids, and
+flavonoids (Maeda & Dudareva, 2012).
+Thus, the high glyphosate resistance cost evident as reduced
+growth and reproduction in TIPS plants is not directly due to limited
+aromatic amino acid biosynthesis, especially the biosynthesis of the
+IAA precursor tryptophan (Figure 6) but likely due to altered
+concentration of carbon metabolites caused primarily by disturbance
+of shikimate and then other related metabolic pathways such as
+glycolysis and starch and sucrose metabolism among others (Figure 7,
+Table S3). A more thorough metabolomics approach is needed for bet-
+ter understanding of the resistance cost associated with the TIPS
+mutation.
+4.2 | The evolutionary significance of results
+Increase and fixation of novel herbicide resistance mutations in agro‐
+ecosystems depends on their impact on plant survival and fecundity
+in both the presence (resistance benefit) and absence (resistance cost)
+of herbicide selection (see reviews by Bergelson & Purrington, 1996,
+Jasieniuk et al., 1996, Vila‐Aiub et al., 2015a, Vila‐Aiub et al., 2009b,
+Vila‐Aiub et al., 2011). It is clear that herbicide resistance fitness benefit
+and cost play opposite evolutionary roles in favouring the genetic fixa-
+tion or loss of novel resistance alleles. Whereas differences in resistance
+benefit among resistance traits define the rate of resistance allele
+enrichment in areas under herbicide selection, the expression of resis-
+tance costs define their equilibrium frequency in herbicide free areas.
+Both at the enzyme and plant level, the RR TIPS mutation has
+been shown to endow a higher glyphosate resistance benefit than
+the P106S gene mutation in E. indica (Yu et al., 2015). Thus, in persis-
+tently glyphosate treated fields the TIPS (R) allele will exhibit a higher
+rate of enrichment than the P106S (r) alleles although both will
+increase their frequency at the expense of the WT (S) allele. In an
+agro‐ecological scenario defined by the early evolutionary appearance
+of the novel E. indica EPSPS gene variants, it is possible to predict that
+the specific allele (r) encoding for the P106S variant will enrich and
+coexist with WT (S) alleles in glyphosate untreated areas whereas the
+same environment will pose severe limitations for the evolution of
+the TIPS allele (R).
+Assuming a different agro‐ecological scenario in which the R (TIPS)
+and r (P106S) glyphosate resistance EPSPS alleles have already
+enriched in an E. indica population and the glyphosate selection inten-
+sity is discontinued, the RR TIPS plants are likely to go extinct due to
+the observed major resistance fitness cost whereas the P106S and
+compound heterozygous Rr TIPS plants will likely continue to persist
+over time. Although an empirical validation for the above predictions
+is required, interestingly, in the field‐collected glyphosate resistant
+E indica population, the majority (49%) of the resistant individuals
+found were compound heterozygous Rr with only minority of homozy-
+gous RR TIPS plants (<2%; Yu et al., 2015).
+It is interesting that it does not appear to be a fitness cost of the
+TIPS mutation in genetically modified glyphosate resistant GA21 corn,
+which may be due to the integration (by biolistic transformation) at a
+single site of three TIPS EPSPS gene copies (Spencer, Mumm, & Gwyn,
+2000) in addition to the endogenous WT EPSPS. Compensatory evolu-
+tion of the herbicide resistance cost associated with the RR TIPS
+variant is possible in nature (Bergelson & Purrington, 1996; Darmency,
+Menchari, Le Corre, & Délye, 2015; Menchari et al., 2008; Paris, Roux,
+Berard, & Reboud, 2008; Vila‐Aiub et al., 2009b; Yu et al., 2010).
+Natural selection of modifiers at other genetic loci leading to such as
+EPSPS amplification or over‐expression may compensate and/or over-
+come the associated reduced EPSPS activity found in RR TIPS plants.
+This is possible as the TIPS mutation and increased EPSPS gene expres-
+sion/amplification has been reported respectively in different glypho-
+sate‐resistant E. indica populations from China (Chen et al., 2015). If
+these traits are coexpressed in plants, then resistance cost of the TIPS
+mutation can be mitigated, assuming EPSPS gene amplification/over-
+expression does not incur significant resistance cost as demonstrated
+in A. palmeri (Vila‐Aiub et al., 2014).
+5 | CONCLUSION
+The naturally evolved glyphosate resistance‐endowing single (P106S)
+and double (TIPS) EPSPS gene mutations endow dramatically contrast-
+ing glyphosate resistance costs in the globally important E. indica.
+3040 HAN ET AL.
+
+Plants with the homozygous RR TIPS genotype incur a significantly
+high glyphosate resistance fitness cost as denoted by a 20% RGR
+reduction in isolated plants and 85% seed reduction when competing
+with a rice crop. However, this resistance cost associated with the
+homozygous TIPS mutation is not expressed in plants with the
+homozygous rr P106S genotype nor with the compound heterozygous
+(Rr TIPS mutation). This shows the recessive nature of the cost associ-
+ated with the TIPS allele, which is triggered by the Thr‐102‐Ile muta-
+tion. Polar metabolite profiling reveals extensive perturbations of
+many metabolic pathways in the TIPS plants, which might be primarily
+caused by the metabolic changes in the shikimate pathway, and all
+these contribute to the observed glyphosate resistance‐fitness trade
+off associated with the homozygous EPSPS TIPS mutation in E. indica.
+ACKNOWLEDGMENT
+The authors wish to thank the Australian Research Council (ARC) for
+funding.
+REFERENCES
+Baerson, S. R., Rodriguez, D. J., Tran, M., Feng, Y. M., Biest, N. A., & Dill, G.
+M. (2002). Glyphosate‐resistant goosegrass. Identification of a muta-
+tion in the target enzyme 5‐enolpyruvylshikimate‐3‐phosphate
+synthase. Plant Physiology, 129, 1265–1275.
+Beckie, H., & Tardif, F. (2012). Herbicide cross resistance in weeds. Crop
+Protection, 35,15–28.
+Bergelson, J., & Purrington, C. B. (1996). Surveying patterns in the cost of
+resistance in plants. American Naturalist, 148, 536–558.
+Bostamam, Y., Malone, J. M., Dolman, F. C., Boutsalis, P., & Preston, C.
+(2012). Rigid ryegrass (Lolium rigidum) populations containing a target
+site mutation in EPSPS and reduced glyphosate translocation are more
+resistant to glyphosate. Weed Science, 60, 474–479.
+Causton, D. R., & Venus, J. C. (1981). The biometry of plant growth. London,
+UK: Edward Arnold.
+Chen, J., Huang, H., Zhang, C., Wei, S., Huang, Z., Chen, J., & Wang, X.
+(2015). Mutations and amplification of EPSPS gene confer resistance
+to glyphosate in goosegrass (Eleusine Indica). Planta,1–10.
+Chevillon, C., Pasteur, N., Marquine, M., Heyse, D., & Raymond, M. (1995).
+Population‐structure and dynamics of selected genes in the mosquito
+Culex pipiens. Evolution, 49, 997–1007.
+Christopher, J. T., Powles, S. B., Liljegren, D. R., & Holtum, J. A. M. (1991).
+Cross‐resistance to herbicides in annual ryegrass (Lolium rigidum) II.
+Chlorsulfuron resistance involves a wheat‐like detoxification system.
+Plant Physiology, 95, 1036–1043.
+Cohan, F. M., King, E. C., & Zawadzki, P. (1994). Amelioration of the delete-
+rious pleiotropic effects of an adaptive mutation in Bacillus subtilis.
+Evolution, 48,81–95.
+Darmency, H. (2013). Pleiotropic effects of herbicide‐resistance genes on
+crop yield: A review. Pest Management Science, 69, 897–904.
+Darmency, H., Menchari, Y., Le Corre, V., & Délye, C. (2015). Fitness cost
+due to herbicide resistance may trigger genetic background evolution.
+Evolution, 69, 271–278.
+Duke, S. O., & Powles, S. B. (2008). Glyphosate: A once‐in‐a‐century herbi-
+cide. Pest Management Science, 64, 319–325.
+Goldberg, D. E., & Werner, P. A. (1983). Equivalence of competitors in plant
+communities: A null hypothesis and a field experimental approach.
+American Journal of Botany, 70, 1098–1104.
+Groeters, F. R., Tabashnik, B. E., Finson, N., & Johnson, M. W. (1994). Fit-
+ness costs of resistance to bacillus‐thuringiensis in the diamondback
+moth (Plutella xylostella). Evolution, 48, 197–201.
+Han, H., Yu, Q., Purba, E., Li, M., Walsh, M., Friesen, S., & Powles, S. B.
+(2012). A novel amino acid substitution Ala‐122‐Tyr in ALS confers
+high‐level and broad resistance across ALS‐inhibiting herbicides. Pest
+Management Science, 68, 1164–1170.
+Heap, I. (2014). Global perspective of herbicide‐resistant weeds. Pest Man-
+agement Science, 70, 1306–1315.
+Herms, D. A., & Mattson, W. J. (1992). The dilemma of plants ‐ to grow or
+defend. QUARTERLY REVIEW OF BIOLOGY, 67, 283–335.
+Herrmann, K. M., & Weaver, L. M. (1999). The shikimate pathway. Annual
+Review of Plant Physiology and Plant Molecular Biology, 50, 473–503.
+Hoffmann, W. A., & Poorter, H. (2002). Avoiding bias in calculations of rel-
+ative growth rate. Annals of Botany, 90,37–42.
+Jalaludin, A., Ngim, J., Bakar, B. H., & Alias, Z. (2010). Preliminary findings of
+potentially resistant goosegrass (Eleusine indica) to glufosinate‐ammo-
+nium in Malaysia. Weed Biology and Management, 10, 256–260.
+Jalaludin, A., Yu, Q., & Powles, S. B. (2014). Multiple resistance across
+glufosinate, glyphosate, paraquat and ACCase‐inhibiting herbicides in
+an Eleusine indica population. Weed Research, 55,82–89.
+Jasieniuk, M., Brûlé‐Babel, A. L., & Morrison, I. N. (1996). The evolution and
+genetics of herbicide resistance in weeds. Weed Science, 44, 176–193.
+Kaundun, S. S., Dale, R. P., Zelaya, I. A., Dinelli, G., Marotti, I., McIndoe, E., &
+Cairns, A. (2011). A novel P106L mutation in EPSPS and an unknown
+mechanism(s) act ddditively to confer resistance to glyphosate in a
+south African Lolium rigidum population. Journal of Agricultural and Food
+Chemistry, 59, 3227–3233.
+Kaundun, S. S., Zelaya, I. A., Dale, R. P., Lycett, A. J., Carter, P., Sharples, K.
+R., & McIndoe, E. (2008). Importance of the P106S target‐site mutation
+in conferring resistance to glyphosate in a goosegrass (Eleusine indica)
+population from the Philippines. Weed Science, 56, 637–646.
+Li, J., Meng, X., Zong, Y., Chen, K., Zhang, H., Liu, J., … Gao, C. (2016). Gene
+replacements and insertions in rice by intron targeting using CRISPR–
+Cas9. Nature plants, 2, 16139.
+Maeda, H., & Dudareva, N. (2012). The shikimate pathway and aromatic
+amino acid biosynthesis in plants. Annual Review of Plant Biology, 63,
+73–105.
+Marak, H. B., Biere, A., & Van Damme, J. M. M. (2003). Fitness costs of
+chemical defense in Plantago Lanceolata L.: Effects of nutrient and com-
+petition stress. Evolution, 57, 2519–2530.
+Maxwell, B., & Mortimer, A. (1994). Selection for herbicide resistance. In S.
+B. Powles, & J. A. M. Holtum (Eds.), Herbicide resistance in plants: Biology
+and biochemistry (pp. 1–25). Boca Raton, FL: Lewis.
+Melnyk, A. H., Wong, A., & Kassen, R. (2015). The fitness costs of antibiotic
+resistance mutations. Evolutionary Applications, 8, 273–283.
+Menchari, Y., Chauvel, B., Darmency, H., & Delye, C. (2008). Fitness costs
+associated with three mutant acetyl‐coenzyme a carboxylase alleles
+endowing herbicide resistance in black‐grass Alopecurus myosuroides.
+Journal of Applied Ecology, 45, 939–947.
+Paris, M., Roux, F., Berard, A., & Reboud, X. (2008). The effects of the
+genetic background on herbicide resistance fitness cost and its associ-
+ated dominance in Arabidopsis thaliana. Heredity, 101, 499–506.
+Powles, S. B. (2008). Evolved glyphosate‐resistant weeds around the world:
+Lessons to be learnt. Pest Management Science, 64, 360–365.
+Powles, S. B., & Yu, Q. (2010). Evolution in action: Plants resistant to herbi-
+cides. Annual Review of Plant Biology, 61, 317–347.
+Preston, C., & Powles, S. B. (1998). Amitrole inhibits diclofop metabolism
+and synergises diclofop‐methyl in a diclofop‐methyl‐resistant biotype
+of Lolium rigidum. Pesticide Biochemistry and Physiology, 62, 179–189.
+Purba, E., Preston, C., & Powles, S. B. (1995). The mechanism of resistance
+to paraquat is strongly temperature dependent in resistant Hordeum
+leporinum link and H. glaucum Steud. Planta, 196, 464–468.
+Purrington, C. B., & Bergelson, J. (1999). Exploring the physiological basis of
+costs of herbicide resistance in Arabidopsis thaliana. American Naturalist,
+154, S82–S91.
+Reekie, E. G., & Bazzaz, F. A. (2005). Reproductive allocation in plants.
+California: Elsevier Academic Press.
+HAN ET AL. 3041
+
+Roux, F., Gasquez, J., & Reboud, X. (2004). The dominance of the herbicide
+resistance cost in several Arabidopsis thaliana mutant lines. Genetics,
+166, 449–460.
+Roux, F., Matéjicek, A., Gasquez, J., & Reboud, X. (2005). Dominance varia-
+tion across six herbicides of the Arabidopsis Thaliana csr1‐1 and csr1‐2
+resistance alleles. Pest Management Science, 61, 1089–1095.
+Sammons, R. D., & Gaines, T. A. (2014). Glyphosate resistance: State of
+knowledge. Pest Management Science, 70, 1367–1377.
+Simms, E. L., & Rausher, M. D. (1987). Costs and benefits of plant‐resis-
+tance to herbivory. American Naturalist, 130, 570–581.
+Spencer M., Mumm R. & Gwyn J. (2000) Glyphosate resistant maize lines.
+Google Patents.
+Steinrücken, H. C., & Amrhein, N. (1980). The herbicide glyphosate is a
+potent inhibitor of 5‐enolpyruvyl‐shikimic acid‐3‐phosphate synthase.
+Biochemical and Biophysical Research Communications, 94, 1207–1212.
+Strauss, S. Y., Rudgers, J. A., Lau, J. A., & Irwin, R. E. (2002). Direct and eco-
+logical costs of resistance to herbivory. Trends in Ecology & Evolution, 17,
+278–285.
+Tardif, F. J., & Powles, S. B. (1994). Herbicide multiple‐resistance in a Lolium
+rigidum biotype is endowed by multiple mechanisms ‐ isolation of a sub-
+set with resistant acetyl‐CoA carboxylase. Physiologia Plantarum, 91,
+488–494.
+Tardif, F. J., Rajcan, I., & Costea, M. (2006). A mutation in the herbicide tar-
+get site acetohydroxyacid synthase produces morphological and
+structural alterations and reduces fitness in Amaranthus powellii. New
+Phytologist, 169, 251–264.
+Teixeira, P. F., Kmiec, B., Branca, R. M. M., Murcha, M. W., Byzia, A.,
+Ivanova, A., … Glaser, E. (2017). A multi‐step peptidolytic cascade
+for amino acid recovery in chloroplasts. Nature Chemical Biology, 13,
+15–17.
+Uyenoyama, M. (1986). Pleiotropy and the evolution of genetic systems
+conferring resistance to pesticides. In E. Glass (Ed.), Pesticide resistance.
+Strategies and tactics for management (pp. 207–221). Washington:
+National Academy of Sciences.
+Van Dam, N. M., & Baldwin, I. T. (2001). Competition mediates costs of
+jasmonate‐induced defences, nitrogen acquisition and
+transgenerational plasticity in Nicotiana attenuata. Functional Ecology,
+15, 406–415.
+Vila‐Aiub, M. M., Goh, S. S., Gaines, T. A., Han, H., Busi, R., Yu, Q., &
+Powles, S. B. (2014). No fitness cost of glyphosate resistance
+endowed by massive EPSPS gene amplification in Amaranthus palmeri.
+Planta, 239, 793–801.
+Vila‐Aiub, M. M., Gundel, P., Yu, Q., & Powles, S. B. (2013). Glyphosate
+resistance in Sorghum halepense and Lolium rigidum is reduced at
+suboptimal growing temperatures. Pest Management Science, 69,
+228–232.
+Vila‐Aiub, M. M., Gundel, P. E., & Preston, C. (2015). Experimental methods
+for estimation of plant fitness costs associated with herbicide‐resis-
+tance genes. Weed Science, 63, 203–216.
+Vila‐Aiub, M. M., Neve, P., & Powles, S. B. (2009a). Evidence for an ecolog-
+ical cost of enhanced herbicide metabolism in Lolium rigidum. Journal of
+Ecology, 97, 772–780.
+Vila‐Aiub, M. M., Neve, P., & Powles, S. B. (2009b). Fitness costs associated
+with evolved herbicide resistance alleles in plants. New Phytologist, 184,
+751–767.
+Vila‐Aiub, M. M., Neve, P., & Roux, F. (2011). A unified approach to the esti-
+mation and interpretation of resistance costs in plants. Heredity, 107,
+386–394.
+Vila‐Aiub, M. M., Neve, P., Steadman, K. J., & Powles, S. B. (2005). Ecolog-
+ical fitness of a multiple herbicide‐resistant Lolium rigidum population:
+Dynamics of seed germination and seedling emergence of resistant
+and susceptible phenotypes. Journal of Applied Ecology, 42, 288–298.
+Vila‐Aiub, M. M., Yu, Q., Han, H., & Powles, S. B. (2015). Effect of herbicide
+resistance endowing Ile‐1781‐Leu and Asp‐2078‐Gly ACCase gene
+mutations on ACCase kinetics and growth traits in Lolium rigidum.
+Jounal of Experimental Botany, 15, 4711–4718.
+Wakelin, A. M., & Preston, C. (2006). A target‐site mutation is present in a
+glyphosate‐resistant Lolium rigidum population. Weed Research, 46,
+432–440.
+Weiner, J. (1982). A neighborhood model of annual‐plant interference.
+Ecology, 63, 1237–1241.
+Yu, Q., Han, H., Vila‐Aiub, M. M., & Powles, S. B. (2010). AHAS herbicide
+resistance endowing mutations: Effect on AHAS functionality and plant
+growth. Journal of Experimental Botany, 61, 3925–3934.
+Yu, Q., Heping, H., Li, M., Purba, E., Walsh, M., & Powles, S. B. (2012). Resis-
+tance evaluation for herbicide resistance‐endowing ALS gene
+mutations using Raphanus raphanistrum populations homozygous for
+specific ALS mutations. Weed Research, 52, 178–186.
+Yu, Q., Jalaludin, A., Han, H., Chen, M., Sammons, R. D., & Powles, S. B.
+(2015). Evolution of a double amino acid substitution in the EPSP syn-
+thase in Eleusine indica conferring high level glyphosate resistance. Plant
+Physiology, 167, 1440–1447.
+Yu, Q., & Powles, S. (2014). Metabolism‐based herbicide resistance and
+cross‐resistance in crop weeds: A threat to herbicide sustainability
+and global crop production. Plant Physiology, 166, 1106–1118.
+SUPPORTING INFORMATION
+Additional Supporting Information may be found online in the
+supporting information tab for this article.
+Table S1. Identified polar metabolites with significant ≥2 fold changes
+in Eleusine indica P106S vs WT. Changes were detected after Volcano
+Plot analysis which combines both significant fold changes (FC ≥2) in
+metabolites and t‐test (P ≤ 0.05).
+Table S2. Identified polar metabolites with significant ≥2 fold changes
+in Eleusine indica RR TIPS vs WT. Changes were detected after Volcano
+Plot analysis which combines both significant fold changes (FC) in
+metabolites (≥50% threshold value) and t‐test (P ≤ 0.05).
+Table S3. Metabolic pathway analysis in P106S vs WT EPSPS gene var-
+iants. Changes in metabolic pathways are denoted when significant
+changes are met in all analysis criteria (Total compounds, Hits, Raw P
+value related to –log10(P), Holm adjusted P, False Discovery Rate
+(FDR) and Impact) after analysis by MetaboAnalyst 3.0 software.
+Table S4. Metabolic pathway analysis in RR TIPS vs WT EPSPS gene
+variants. Highlighted metabolic pathways correspond to significant
+changes in all analysis criteria (Total compounds, Hits, Raw P value
+related to –log10(P), Holm adjusted P, False Discovery Rate (FDR) and
+Impact) reported by MetaboAnalyst 3.0 software.
+How to cite this article: Han H, Vila‐Aiub MM, Jalaludin A, Yu
+Q, Powles SB. A double EPSPS gene mutation endowing glyph-
+osate resistance shows a remarkably high resistance cost. Plant
+Cell Environ. 2017;40:3031–3042. https://doi.org/10.1111/
+pce.13067
+3042 HAN ET AL.

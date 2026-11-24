@@ -1,0 +1,3028 @@
+=== Fuente: EPG. Efectos de la distancia entre hileras a la siembra sobre los componentes del rendimiento de forraje y el uso de la radiacion en el cultivo de alfalfa.pdf ===
+
+ 
+ 
+ 
+ 
+EFECTOS DE LA DISTANCIA ENTRE HILERAS A LA SIEMBRA 
+SOBRE LOS COMPONENTES DEL RENDIMIENTO DE FORRAJE 
+Y EL USO DE LA RADIACIÓN EN EL CULTIVO DE ALFALFA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tesis presentada para optar al título de Magister de la Universidad de Buenos Aires, 
+Área Producción Vegetal 
+ 
+ 
+ 
+Juan Mattera  
+Ingeniero Agrónomo - Universidad de Buenos Aires - 2004 
+ 
+ 
+Lugar de trabajo: INTA - Estación Experimental Rafaela 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Escuela para Graduados Ing. Agr. Alberto Soriano 
+Facultad de Agronomía – Universidad de Buenos Aires 
+ 
+COMITÉ CONSEJERO 
+ 
+ 
+Director de tesis 
+Agustín A. Grimoldi 
+Ingeniero Agrónomo (Universidad de Buenos Aires) 
+MSc. (Universidad de Buenos Aires) 
+Dr. (Technische Universität München, Alemania) 
+ 
+ 
+ 
+Consejero de Estudios 
+Patricia Cornaglia 
+Ingeniero Agrónomo (Universidad de Buenos Aires) 
+MSc. (Universidad de Buenos Aires) 
+Luis Romero 
+Ingeniero Agrónomo (Universidad Nacional del Litoral) 
+DEA (Universidad de Rennes, Francia) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JURADO DE TESIS 
+ 
+ 
+Director de tesis 
+Agustín A. Grimoldi 
+Ingeniero Agrónomo (Universidad de Buenos Aires) 
+MSc. (Universidad de Buenos Aires) 
+Dr. (Technische Universität München, Alemania) 
+ 
+JURADO 
+Gustavo Angel Maddonni 
+Ingeniero Agrónomo (Universidad de Buenos Aires) 
+Dr. en Ciencias Agropecuarias (Universidad de Buenos Aires) 
+ 
+JURADO 
+Daniel Jesús Collino 
+Ingeniero Agrónomo (Universidad Nacional de Córdoba) 
+Dr. en Ciencias Agropecuarias (Universidad Nacional de Córdoba) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fecha de defensa de la tesis: 23 de junio de 2011 
+iii 
+ 
+Dedicatoria 
+ 
+ 
+ 
+A mi familia: Juan, María Elena, Luciana, Regina, Marta, Neca y Delia 
+iv 
+ 
+Agradecimientos 
+ 
+Quiero agradecer a las siguientes personas por el apoyo que me brindaron durante la 
+realización de esta tesis: 
+Andrea Tomás y Marcelo Pisani por los consejos, la ayuda y la compañía constante; 
+Germán Berone por las discusiones y colaboración; 
+Gustavo Bretschneider por la colaboración en la escritura; 
+María del Carmen Pérez, Gabriela Cencig y Alejandro Chiavassa por la contribución 
+con la información climática; 
+Clemar Tomatis por el apoyo en el trabajo de campo; 
+A mis compañeras de oficina Bárbara Tolozano, Lorena Armando, Marina Maina y 
+Nina Dreher; 
+Luis Romero por el apoyo para la discusión y realización de los experimentos en INTA 
+Rafaela; 
+Patricia Cornaglia por la colaboración en la discusión de los experimentos y los 
+resultados; 
+Alejandra Cuatrín por la gran ayuda en los análisis estadísticos y en la discusión de los 
+resultados; 
+Agustín Grimoldi por la dedicación constante, la predisposición y la enseñanza; 
+A mi familia y mis amigos.
+v 
+ 
+Declaración 
+ 
+Declaro que el material incluido en esta tesis es, a mi mejor saber y entender, original 
+producto de mi propio trabajo (salvo en la medida en que se identifique explícitamente 
+las contribuciones de otros), y que este material no lo he presentado, en forma parcial o 
+total, como una tesis en ésta u otra institución. 
+vi 
+ 
+Publicaciones derivadas de la tesis: 
+ 
+Mattera J, Romero LA, Cuatrín A, Grimoldi AA (2009) Efectos de la distancia de 
+siembra sobre la producción de biomasa y la persistencia de un cultivo de alfalfa. 
+Revista Argentina de Producción Animal 29: 131-140. 
+vii 
+ 
+ÍNDICE GENERAL 
+ 
+DECLARACIÓN………………………………………………………………... v 
+PUBLICACIONES DERIVADAS DE LA TESIS…………………………..... vi 
+ÍNDICE GENERAL……………………………………………………………. vii 
+ÍNDICE DE CUADROS……………………………………………………..…. ix 
+ÍNDICE DE FIGURAS…………………………………………………....……. x 
+ABREVIATURAS…………………………………………………..…………... xi 
+RESUMEN…………………………………………………………..…………... xii 
+ABSTRACT……………………………………………………….…………….. xiii 
+ 
+Capítulo 1: INTRODUCCIÓN GENERAL 
+1.1. ANTECEDENTES……………………………………………….………… 1 
+1.2. OBJETIVO……………………………………………………..…………. 3 
+1.3. HIPÓTESIS………………………………………………………………… 4 
+ 
+Capítulo 2: EFECTOS DE LA DISTANCIA ENTRE HILERAS A LA SIEMBRA 
+SOBRE LA PRODUCCIÓN DE BIOMASA Y LA PERSISTENCIA EN 
+ALFALFA DE DIFERENTE GRADO DE REPOSO INVERNAL 
+2.1. INTRODUCCIÓN………………………………………………………….. 5 
+2.1.1. Antecedentes………………………………………………………..……… 5 
+2.1.2. Objetivo……………………………………………………………….…… 6 
+2.1.3. Hipótesis general………………………………………………………...… 6 
+2.2. MATERIALES Y METODOS………………………………………...….. 6 
+2.2.1. Sitio de estudio…………………………………………………………..… 6 
+2.2.2. Tratamiento y diseño experimental………………………………………... 6 
+2.2.3. Mediciones………………………………………………………………… 7 
+2.2.3.1. Producción de biomasa aérea……………………………………………. 7 
+2.2.3.2. Componentes del rendimiento: Densidad de plantas y peso aéreo por 
+planta. Persistencia del cultivo………………….………………………………... 8 
+2.2.3.4. Índice de rectangularidad………………………………………………... 8 
+2.2.4. Análisis estadístico………………………………………………………… 8 
+2.3. RESULTADOS……………………………………………………………... 9 
+2.3.1. Producción de biomasa aérea……………………………………………… 9 
+2.3.2. Componentes del rendimiento: Densidad de plantas y peso aéreo por 
+planta. Persistencia del cultivo…………………………………………………… 9 
+2.3.3. Índice de rectangularidad………………………………………………….. 11 
+2.4. DISCUSION………………………………………………………………… 12 
+ 
+Capítulo 3: EFECTOS DE LA SIEMBRA A DIFERENTES DISTANCIAS 
+ENTRE HILERAS, A DENSIDAD CONSTANTE, SOBRE LOS 
+COMPONENTES DEL RENDIMIENTO Y EL APROVECHAMIENTO DE LA 
+RADIACIÓN EN EL CULTIVO DE ALFALFA 
+3.1. INTRODUCCION…………………………………………………………. 14 
+3.1.1. Antecedentes………………………………………………………………. 14 
+3.1.2. Objetivo……………………………………………………………………. 16 
+3.1.3. Hipótesis…………………………………………………………………… 16 
+3.2. MATERIALES Y METODOS……………………………………………. 17 
+3.2.1. Sitio de estudio…………………………………………………………….. 17 
+3.2.2. Tratamiento y diseño experimental………………………………………... 17 
+viii 
+ 
+3.2.3. Mediciones………………………………………………………………… 18 
+3.2.3.1. Densidad de plantas e índice de rectangularidad………………………… 18 
+3.2.3.2. Producción de biomasa aérea…………………….………………………. 19 
+3.2.3.3. Componentes del rendimiento: Densidad de plantas, tallos por planta, 
+número de tallos y peso por tallo………………………………………………… 19 
+3.2.3.4. Características estructurales de las plantas: Relación hoja:tallo y 
+jerarquías de los tallos por altura………………………………………………… 19 
+3.2.3.5. Aprovechamiento de la radiación……………………………………....... 20 
+3.2.3.6. Índice de área foliar y coeficiente de extinción de luz...……………….... 20 
+3.2.3.7. Contenido de clorofila en hojas de distintos estratos…………………..… 20 
+3.2.3.8. Peso por corona, área por corona y diámetro superior de la raíz pivotante 20 
+3.2.4. Análisis estadístico………………………………………………………… 21 
+3.3. RESULTADOS……………………………………………………………... 21 
+3.3.1. Índice de rectangularidad………………………………………………….. 21 
+3.3.2. Producción de biomasa aérea……………………………………………… 22 
+3.3.3. Componentes del rendimiento: Densidad de plantas, tallos por planta, 
+peso por tallo, y número de tallos……………………………………………….. 24 
+3.3.4. Características estructurales de las plantas: Relación hoja:tallo y 
+jerarquías de los tallos por altura………………………………………………… 26 
+3.3.5. Aprovechamiento de la radiación………………………………………….. 27 
+3.3.6. Índice de área foliar y coeficiente de extinción de luz…….………………... 33 
+3.3.7. Contenido de clorofila en hojas de distintos estratos……………………… 34 
+3.3.8. Peso por corona, área por corona y diámetro superior de la raíz pivotante... 35 
+3.4. DISCUSIÓN……………………………………………………………...…. 36 
+ 
+Capítulo 4: DISCUSIÓN GENERAL 
+4.1. Efectos de la distancia entre hileras a la siembra sobre la acumulación 
+de biomasa aérea y mecanismos involucrados …..…………………………… 42 
+4.2. Conclusiones generales……………………………………………………... 45 
+4.3. Implicancias para el manejo del cultivo…………………………………... 45 
+4.4. Perspectivas para futuras investigaciones………………………………… 46 
+ 
+BIBLIOGRAFÍA………………………………………………………………... 47 
+APÉNDICE……………………………………………………………………… 51 
+ix 
+ 
+ÍNDICE DE CUADROS 
+ 
+Cuadro 3.1. Análisis de la varianza y contrastes de tendencias para el efecto de 
+la distancia entre hileras a la siembra y el rebrote sobre los componentes del 
+rendimiento: densidad de plantas, tallos por planta, peso por tallo y número de 
+tallos, para el cultivar de alfalfa Monarca ……………………………………… 24  
+Cuadro 3.2. Valores medios y coeficiente de variación de la relación hoja:tallo 
+para el cultivar de alfalfa Monarca, para cinco distancias entre hileras a la 
+siembra. Análisis de la varianza para el efecto de la distancia entre hileras a la 
+siembra y el rebrote sobre la relación hoja:tallo ………………………………… 27 
+Cuadro 3.3. Análisis de la varianza y contrastes de tendencias para el efecto de 
+la distancia entre hileras a la siembra y el rebrote sobre la RFA interceptada y 
+acumulada (RFAia) y la eficiencia de uso de la radiación (EUR) para el cultivar 
+de alfalfa Monarca ………………………………………………………………. 28 
+Cuadro 3.4. Valores medios del índice de área foliar (IAF) y del coeficiente de 
+extinción de luz (k) del canopeo del cultivar de alfalfa Monarca, en dos rebrotes, 
+para cinco distancias entre hileras a la siembra. Análisis de la varianza para el 
+efecto de la distancia entre hileras a la siembra y el rebrote sobre IAF y el k  … 34 
+Cuadro 3.5. Valores medios de clorofila (SPAD) en tres estratos (inferior, 
+medio y superior) del canopeo del cultivar de alfalfa Monarca, en dos rebrotes, 
+para cinco distancias entre hileras a la siembra. Análisis de la varianza para el 
+efecto de la distancia entre hileras a la siembra y el rebrote sobre el contenido de 
+clorofila ………………………………………………………………………... 34 
+Cuadro 3.6. Valores medios ± ES y cuartiles inferiores y superiores para el 
+peso y el área de las coronas, y para el diámetro de la raíz pivotante al finalizar 
+el período experimental del cultivar de alfalfa Monarca para cinco distancias 
+entre hileras a la siembra. Análisis de la varianza para el efecto de la distancia 
+entre hileras a la siembra y el rebrote sobre el peso y el área de las coronas, y 
+para el diámetro de la raíz pivotante …………………………………………… 35 
+Cuadro 3.7. Efecto de la distancia entre hileras a la siembra sobre la radiación 
+fotosintéticamente activa interceptada acumulada (RFAia) y la producción de 
+biomasa expresado como desviación porcentual de la distancia de 30 cm para el 
+cultivar de alfalfa Monarca ……………………………………………………. 36 
+Cuadro I. Distribución de la biomasa de alfalfa en tres jerarquías de tallos 
+(suprimidos, intermedios y dominantes) en el cultivar de alfalfa Monarca para 
+cinco distancias entre hileras a la siembra en cuatro rebrotes 
+……………………………….……………………………….………………… 51 
+ 
+ 
+x 
+ 
+ÍNDICE DE FIGURAS 
+ 
+Figura 2.1. Esquema del arreglo espacial teórico de las semillas para tres 
+distancias entre hileras a la siembra ………………………..…………………… 7 
+Figura 2.2. Producción de biomasa aérea total y por corte de cultivos puros de 
+alfalfa durante tres años para cada cultivar: a) Monarca y b) Victoria para tres 
+distancias entre hileras a la siembra …………………………………………….. 10 
+Figura 2.3. Efecto de la distancia entre hileras a la siembra sobre la evolución 
+de los componentes del rendimiento: a) la densidad de plantas y b) el peso aéreo 
+por planta, durante los tres años para los cultivares de alfalfa Monarca y 
+Victoria para tres distancias entre hileras a la siembra ………………………… 11 
+Figura 2.4. Efecto de la distancia entre hileras a la siembra sobre el índice de 
+rectangularidad del arreglo espacial durante los tres años para los cultivares de 
+alfalfa Monarca y Victoria para tres distancias entre hileras a la siembra …….. 12 
+Figura 3.1. Imagen del canopeo generado en cada distancia entre hileras a la 
+siembra y el respectivo esquema del arreglo espacial de plantas ………………. 18 
+Figura 3.2. Efecto de la distancia entre hileras a la siembra sobre el índice de 
+rectangularidad del arreglo espacial para el cultivar de alfalfa Monarca para 
+cinco distancias entre hileras a la siembra ………………………………………. 22 
+Figura 3.3. Producción de biomasa aérea por corte de cultivos puros de alfalfa 
+(cultivar Monarca) para cinco distancias entre hileras a la siembra …………… 23 
+Figura 3.4. Producción de biomasa aérea total acumulada (suma de seis cortes) 
+de cultivos puros de alfalfa (cultivar Monarca) en función de la distancia entre 
+hileras a la siembra ………………………………………………………………. 23 
+Figura 3.5. Componentes del rendimiento en función de la distancia entre 
+hileras a la siembra para cada rebrote: a)- Densidad de plantas, b)- Número de 
+tallos por planta, c)- Número de tallos, d)- Peso por tallo, para el cultivar de 
+alfalfa Monarca ………………………………………………………………….. 25 
+Figura 3.6. Relaciones entre la producción de biomasa aérea y los distintos 
+componentes del rendimiento: a)- Densidad de plantas, b)- Número de tallos por 
+planta, c)- Número de tallos, d)- Peso por tallo, para el cultivar de alfalfa 
+Monarca para cinco distancias entre hileras a la siembra ……………………… 26  
+Figura 3.7. Fracción de la RFA interceptada (fRFAi) por el canopeo del cultivar 
+de alfalfa Monarca para cinco distancias entre hileras a la siembra para cinco 
+rebrotes ……………………………………………………………...…………… 29 
+Figura 3.8. RFA interceptada y acumulada (RFAia; panel superior) y eficiencia 
+de uso de la radiación (EUR; panel inferior) para el cultivar de alfalfa Monarca 
+para cinco distancias entre hileras a la siembra para cinco rebrotes …………… 30 
+Figura 3.9. a)- Sumatoria de RFA interceptada y acumulada (RFAia) durante el 
+período experimental (septiembre a enero), y b)- Eficiencia de uso de la 
+radiación (EUR) global en función de la distancia entre hileras a la siembra para 
+el cultivar de alfalfa Monarca ………………………………………….………... 32 
+Figura 3.10. Sumatoria de biomasa acumulada en función de la sumatoria de 
+RFA interceptada y acumulada (RFAia) durante el período experimental 
+(septiembre a enero) en función de la distancia entre hileras a la siembra para el 
+cultivar de alfalfa Monarca ……………………………………..……………….. 33 
+Figura 3.11. Relación entre el índice de área foliar (IAF) y la eficiencia de uso 
+de la radiación (EUR) para el cultivar de alfalfa Monarca, para dos rebrotes, 
+para cinco distancias entre hileras a la siembra ………………………………… 40 
+xii 
+ 
+Resumen 
+ 
+EFECTOS DE LA DISTANCIA ENTRE HILERAS A LA SIEMBRA SOBRE LOS 
+COMPONENTES DEL RENDIMIENTO DE FORRAJE Y EL USO DE LA 
+RADIACIÓN EN EL CULTIVO DE ALFALFA 
+ 
+La siembra de alfalfa (Medicago sativa L.) se caracteriza por presentar un arreglo 
+espacial rectangular, i.e. mayor distancia entre hileras que entre plantas dentro de la 
+hilera. Si se acercan las hileras de siembra se genera un arreglo espacial más cuadrado 
+que podría influir sobre la competencia intra-específica y el aprovechamiento de los 
+recursos, especialmente radiación. El objetivo de esta tesis fue: estudiar el efecto de la 
+distancia entre hileras a la siembra sobre los componentes del rendimiento de forraje y 
+la captura y eficiencia en el uso de la radiación en el cultivo de alfalfa. Se realizaron dos 
+experimentos evaluando distancias entre hileras a la siembra en cultivos puros de 
+alfalfa. El primero experimento fue de largo plazo y se evaluó el efecto de la distancia 
+sobre variables productivas en dos cultivares con distinto reposo invernal (Monarca y 
+Victoria) bajo una misma densidad de siembra. En el segundo experimento se estudió el 
+efecto de la distancia entre hileras a la siembra, bajo una misma densidad de plantas 
+establecida por raleo, sobre variables productivas y ecofisiológicas en un cultivo de 
+alfalfa (Monarca) durante el primer año de producción. En ambos experimentos la 
+producción de biomasa aérea se favoreció por los arreglos espaciales más cuadrados 
+(p<0,05) hasta una distancia óptima, entre 15 cm y 17,5 cm. Adicionalmente, se observó 
+que en distancias cercanas hubo mayor densidad de plantas (p<0,01). Las respuestas en 
+producción de biomasa al reducir la distancia entre hileras a la siembra estuvieron 
+determinadas por el aumento lineal en la intercepción de radiación (p<0,0001) y por un 
+patrón de tipo óptimo en la eficiencia de uso de la radiación (p<0,01). Se concluye que 
+la reducción en la distancia entre hileras a la siembra hasta una distancia óptima, entre 
+15 cm y 17,5 cm, es una práctica agronómica que permite establecer un arreglo espacial 
+más favorable del cultivo de alfalfa que impacta sobre la producción de forraje. 
+ 
+Palabras clave: alfalfa, distancia entre hileras a la siembra, producción de biomasa, 
+componentes del rendimiento de forraje, competencia intra-específica, intercepción de 
+la radiación, eficiencia de uso de la radiación. 
+xiii 
+ 
+Abstract 
+ 
+EFFECTS OF ROW DISTANCE AT SOWING ON FORAGE YIELD 
+COMPONENTS AND RADIATION USE IN ALFALFA CROP 
+ 
+Alfalfa (Medicago sativa L.) sowing is characterized for presenting a rectangular spatial 
+arrangement, i.e. more distance among sowing rows than among plants in the row. So 
+that, the reduction of row distance allows more square spatial arrangement that can 
+influence intra-specific competition and resource utilization, specially radiation. The 
+objective of this thesis was: to study the effect of row distance at sowing on forage yield 
+components and radiation capture and use efficiency in alfalfa crop. Two experiments 
+were performed to assess different row distances at sowing in pure alfalfa crops. The 
+first one, a long-term field experiment, assessed the effect of row distance at sowing on 
+productive variables in two cultivars with different winter dormancy (Monarca and 
+Victoria) under the same sowing density. The second experiment studied the effect of 
+row distance at sowing, under the same plant density established by thinning, on 
+productive and ecophysiological variables of an alfalfa crop (Monarca) during its first 
+production year. For both experiments, aerial biomass production was favored by more 
+square arrangements (p<0,05) up to an optimal distance, between 15 cm and 17,5 cm. 
+Additionally, it was observed a higher plant density at near distances (p<0,01). Biomass 
+responses to reduced sowing distance were determined by both a linear increase in 
+radiation interception (p<0,0001) and an optimal pattern in the radiation use efficiency 
+(p<0,01). It is concluded that the reduction of the row distance at sowing up to an 
+optimal distance, between 15 cm and 17,5 cm, is an agronomical practice that allows 
+more favorable spatial arrangements of alfalfa crop that impact on forage production. 
+ 
+Key words: alfalfa, row distance at sowing, biomass production, forage yield 
+components, intra-specific competition, radiation interception, radiation use efficiency. 
+ 
+1 
+ 
+ 
+Capítulo 1: INTRODUCCIÓN GENERAL 
+ 
+1.1. ANTECEDENTES 
+ La alfalfa (Medicago sativa L., Leguminosae) es considerada la forrajera 
+cultivada más antigua, y tiene su origen en la región suroeste de Asia. Se considera que 
+la especie habría llegado a la Provincia de Buenos Aires a mediados del siglo XVIII, 
+aunque antes habría sido utilizada en la región de Cuyo y Córdoba (Hijano y Basigalup, 
+1995). Es una de las especies forrajeras de mayor importancia mundial debido a su 
+elevado potencial de producción de forraje de alta calidad para la alimentación de 
+rumiantes, con una superficie estimada de 32 millones de hectáreas sembradas en todo 
+el mundo (Michaud et al. 1988). En la Argentina es muy utilizada, siendo la principal 
+pastura perenne cultivada con una superficie que en la actualidad rondaría los cinco 
+millones de hectáreas entre pasturas puras y asociadas (Basigalup et al. 2007), 
+representando el 58% de las pasturas perennes sembradas en el país (INDEC, 2001). 
+ La alfalfa es una especie que para alcanzar producciones elevadas de forraje 
+requiere suelos profundos, bien aireados y fértiles, y se caracteriza por tener una alta 
+sensibilidad al anegamiento del suelo (Basigalup et al. 2007). Esto implica que la alfalfa 
+requiere suelos con buena aptitud y por lo tanto compite con los cultivos agrícolas en el 
+uso de los mismos. De esta forma al aumentar la producción forrajera podría mejorar la 
+competitividad del cultivo de alfalfa frente a cultivos agrícolas que han tenido un 
+importante crecimiento en la última década y que provocaron desplazamientos de 
+pasturas hacia suelos de menor aptitud. En este sentido es importante comprender cómo 
+las condiciones ambientales y las prácticas de manejo modifican el crecimiento y 
+desarrollo de la alfalfa afectando la producción, calidad nutritiva y persistencia del 
+cultivo (Fick et al. 1988). Los efectos sobre la producción de biomasa de alfalfa pueden 
+ser analizados con mayor nivel de detalle a través del análisis de los cambios en cada 
+uno de los componentes de rendimiento forrajero: la densidad de plantas m-2, el número 
+de tallos por planta y el peso por tallo (Volenec et al. 1987), y también estudiando los 
+componentes del modelo ecofisiológico de aprovechamiento de la radiación incidente: 
+la intercepción de la radiación y su conversión en biomasa (Monteith, 1977). Por 
+ejemplo, la primera aproximación ha sido utilizada en alfalfa para analizar el efecto de 
+diversas prácticas de manejo como la densidad de plantas (Volenec et al. 1987), el nivel 
+de humedad del suelo (Pembleton et al. 2009) y la frecuencia de defoliación (Teixeira et 
+al. 2007a); mientras que la aproximación ecofisiológica ha sido usada para evaluar el 
+efecto de distintos cultivares (Avice et al. 1997), del sistema de riego (Collino et al. 
+2005), y también la frecuencia de defoliación (Teixeira et al. 2007a), entre otros. En la 
+tesis se estudia el efecto de la siembra a diferentes distancias entre hileras, a densidad 
+constante, sobre la producción de biomasa aérea en alfalfa bajo las dos aproximaciones 
+mencionadas, es decir considerando el efecto de la distancia sobre los componentes del 
+rendimiento de forraje y sobre los componentes del modelo ecofisiológico de 
+aprovechamiento de la radiación incidente. 
+ La distancia entre hileras a la siembra se encuentra entre las prácticas de manejo 
+agronómico que afectan la producción de biomasa de un cultivo, ya que al modificar la 
+distribución en el espacio de las plantas, es decir el arreglo espacial, incide en el logro 
+de una estructura óptima de cultivo para alcanzar el potencial de producción. El arreglo 
+espacial puede ser descripto por su rectangularidad: el cociente entre la distancia entre 
+hileras y la distancia de las plantas en una misma hilera (Willey y Heath 1969). El tipo 
+2 
+ 
+de siembra generalmente utilizado en alfalfa se caracteriza por presentar mayor 
+distancia entre hileras que entre plantas de una misma hilera, determinando así un 
+arreglo marcadamente rectangular quedando mayor espacio descubierto entre las 
+hileras. Es de destacar que si a una misma densidad se disminuye la distancia entre 
+hileras, aumentaría la distancia entre plantas de cada hilera y se generaría un arreglo 
+espacial más cuadrado con la posible consecuencia de anticipar el cierre del espacio 
+entre las hileras logrando así una cobertura más temprana del mismo.  
+ Los diferentes arreglos espaciales de las plantas producidos al cambiar la 
+distancia entre hileras a la siembra pueden afectar las relaciones de competencia por los 
+recursos tanto a nivel intra-específico como inter-específico. Con respecto a la 
+competencia intra-específica se pueden producir tres tipos de efectos: i) mortalidad 
+denso-dependiente ii) efectos compensatorios entre tamaño y densidad, y iii) alteración 
+de la estructura de tamaños de la población (Park et al. 2003). Por ejemplo, se encontró 
+que las altas densidades comúnmente utilizadas para asegurar la implantación del 
+cultivo de alfalfa crean condiciones que generan una alta competencia intra-específica 
+provocando una elevada mortalidad de plantas (Romero et al. 1991). No obstante, se ha 
+documentado el efecto positivo de la densidad de plantas sobre la producción de alfalfa, 
+debido a un aumento del número de tallos por unidad de superficie (Volenec et al. 
+1987). Por encima de un determinado valor umbral de densidad de siembra tanto la 
+producción como el número de plantas establecidas al final del primer año tienden a 
+estabilizarse (Romero et al. 1991). En el caso de la distancia entre hileras a la siembra, 
+sería importante conocer cómo una disposición más equidistante de las plantas podría 
+modificar las relaciones de competencia intra-específica dentro del cultivo.  
+ La distancia y densidad de siembra son prácticas que determinan la capacidad de 
+un cultivo para interceptar recursos, entre ellos la radiación incidente (Kruk y Satorre 
+2004). En cultivos anuales se usa frecuentemente el modelo ecofisiológico planteado 
+por Monteith (1977) donde el rendimiento depende de la radiación fotosintéticamente 
+activa interceptada acumulada (RFAia) y la eficiencia de uso de dicha radiación (EUR) 
+durante el ciclo del cultivo (Andrade et al. 1996). Por ejemplo, en el cultivo de soja 
+aumentos de la densidad incrementaron la RFAia y la producción de biomasa, desde 
+emergencia a R6 (Edwards et al. 2005). Sin embargo, la producción de biomasa en este 
+cultivo llega a saturación recién a valores elevados de RFAia: el tipo de respuesta 
+asintótica se explicaría por disminuciones de la EUR en altas densidades (Purcell et al. 
+2002). De manera similar, al evaluar el efecto de la distancia entre hileras a la siembra 
+en soja se encontró que los mayores rendimientos en distancias menores se relacionaron 
+con mayor RFAia y mayores tasas de crecimiento del cultivo desde emergencia a R5 
+(Board et al. 1992a). En ensayos con canopeos de maíz se encontraron efectos 
+significativos de la distancia entre hileras a la siembra sobre la RFAia y el rendimiento, 
+con respuestas positivas con menores distancias y arreglos espaciales más cuadrados 
+(Barbieri et al. 2000). Sin embargo, arreglos más cuadrados (i.e. menores distancias) no 
+tuvieron efectos significativos sobre el rendimiento cuando en los ensayos planteados se 
+supera el índice de área foliar (IAF) crítico, como sucedió en altas densidades, y la 
+intercepción de radiación en floración fue máxima (Maddonni et al. 2006). En este 
+último trabajo se registró una reducción en la EUR post-floración por menores 
+distancias, así también por altas densidades. Los resultados hallados en los trabajos 
+citados indicarían que la distancia entre hileras a la siembra puede modificar la 
+acumulación de biomasa y el rendimiento principalmente a través de cambios en la 
+intercepción de radiación. Asimismo, se encuentran evidencias de disminución de la 
+EUR asociados a la densidad y al distanciamiento durante estadios avanzados con altos 
+valores de IAF. 
+3 
+ 
+ Este modelo ecofisiológico ya ha sido utilizado en cultivos perennes como la 
+alfalfa encontrándose, en condiciones no limitantes, una fuerte relación lineal positiva 
+entre RFAia y producción de biomasa aérea, tanto en cada rebrote (Gosse et al. 1986) 
+como en el total anual (Teixeira et al. 2007b). En los experimentos realizados por 
+Teixeira utilizaron este modelo ecofisiológico en conjunto con el estudio de los 
+componentes del rendimiento y encontraron que las diferencias de producción a favor 
+de la frecuencia de pastoreo baja, se explicaron principalmente por una mayor RFAia 
+(Teixeira et al. 2007b) que determinó una mayor expansión foliar y un mayor peso por 
+tallo. Si bien este modelo no ha sido aún aplicado en estudios de arreglo espacial con 
+especies forrajeras leguminosas, primariamente se podría hipotetizar que arreglos 
+espaciales más cuadrados permiten adelantar el cierre del canopeo en el espacio entre 
+las hileras y así aumentar la RFAia en el transcurso del rebrote. Esto sería de particular 
+importancia en canopeos forrajeros donde se producen cortes a intervalos regulares, 
+volviéndose en forma recurrente a una situación de baja cobertura e intercepción 
+lumínica. Por otra parte, la arquitectura del canopeo de alfalfa posee características que 
+le permiten una eficiente captura de la luz, dada por la expresión de distintos ángulos 
+foliares entre estratos y la capacidad de los folíolos de moverse siguiendo al sol (Travis 
+y Reed 1983; Heichel et al. 1988). En ese sentido, se sabe que la tasa fotosintética 
+aumenta en forma lineal ante incrementos del IAF (Sheehy et al. 1979), alcanzando 
+saturación recién a elevados valores de IAF (de 5 a 6), consecuencia de un mayor 
+sombreo y de menores temperaturas en los estratos inferiores del canopeo (Heichel et al. 
+1988). Teniendo en cuenta que las pasturas se manejan bajo sistemas de corte frecuente, 
+el rango de valores de IAF que alcanza normalmente el cultivo no sería suficiente como 
+para afectar la eficiencia fotosintética del canopeo, por lo que en principio no se 
+esperarían cambios importantes en EUR por efecto de la distancia entre hileras a la  
+siembra, a no ser que se produzcan cambios contrastantes en el IAF, lo cual es aún 
+desconocido en este cultivo. 
+ En las experiencias disponibles donde se registró mayor producción de biomasa 
+con menores distancias en cultivos puros de alfalfa (Roufail 1975; Lutz y Morley 1982), 
+no se evaluaron los componentes del rendimiento como tampoco se analizaron los 
+componentes del modelo ecofisiológico de aprovechamiento de la radiación. En el caso 
+de Lutz y Morley (1982) presenta la desventaja de que los efectos de la distancia entre 
+hileras a la siembra se evaluaron con diferentes densidades de siembra, por lo cual los 
+efectos pudieron estar confundidos. Hasta el momento, no se conocen claramente los 
+efectos de la distancia sobre la producción de alfalfa a una misma densidad de siembra, 
+ni tampoco los mecanismos que estarían involucrados. 
+ 
+1.2. OBJETIVO 
+En base a los antecedentes presentados se plantea el siguiente objetivo:  
+a. Estudiar el efecto de la distancia entre hileras a la siembra sobre los 
+componentes del rendimiento de forraje y la captura y eficiencia en el uso de la 
+radiación en el cultivo de alfalfa. 
+ 
+ 
+ 
+ 
+4 
+ 
+1.3. HIPÓTESIS 
+Para cumplir con el objetivo planteado, se pusieron a prueba las siguientes hipótesis:  
+a. Al disminuir la distancia entre hileras a la siembra se generan arreglos espaciales 
+más cuadrados que aumentan la producción de biomasa aérea en el cultivo de 
+alfalfa. 
+b. El número y peso de tallos es mayor a menor distancia entre hileras a la siembra 
+por una menor competencia intra-específica. 
+c. La RFAia durante el rebrote es mayor a menor distancia entre hileras a la 
+siembra. Este arreglo espacial permite alcanzar antes el IAF crítico y aumentar 
+el tiempo transcurrido durante el rebrote con intercepción óptima. 
+d. La distancia entre hileras a la siembra no afecta la EUR dentro del rango de 
+biomasa comúnmente explorado por cultivos de alfalfa destinados a la 
+producción de forraje. 
+ 
+Esta tesis contiene dos capítulos experimentales. En el primer capítulo experimental 
+con un enfoque más general y de largo plazo se estudió el efecto de la siembra a 
+diferentes distancias entre hileras, a densidad constante, sobre la producción de biomasa 
+aérea y la persistencia del cultivo en tres años de vida de la pastura. Se evaluaron tres 
+distancias entre hileras a la siembra comúnmente utilizadas para este tipo de pasturas 
+(15 cm, 17,5 cm y 21 cm) y con una misma densidad inicial de plantas. El estudio se 
+realizó en dos cultivares de alfalfa con diferente grado de reposo invernal: Monarca (sin 
+reposo invernal) y Victoria (con reposo invernal intermedio). En este experimento se 
+estudió el efecto sobre la producción de biomasa y los componentes del rendimiento: 
+densidad de plantas y peso por planta. Al ser un experimento de largo plazo permitió 
+evaluar la persistencia de la pastura, que es un atributo importante en pasturas perennes, 
+y especialmente en alfalfa que carece de capacidad de resiembra, donde una mayor 
+persistencia del cultivo determina una mayor eficiencia económica. En el segundo 
+capítulo experimental se estudió el efecto de la distancia entre hileras a la siembra en la 
+primavera-verano del primer año de vida de una pastura de alfalfa sembrada en el otoño. 
+En este experimento se evalúo un rango de distancias más amplio que en el primer 
+experimento (10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm) con una misma densidad de 
+plantas establecida por medio de un raleo efectuado en post-emergencia. En este 
+segundo experimento se estudió también la respuesta productiva pero profundizando en 
+mayor medida sobre los mecanismos involucrados. De esta forma se estudió el efecto 
+sobre la producción de biomasa aérea, y se evalúo nuevamente la dinámica de los 
+componentes del rendimiento considerando un nivel de detalle mayor que en el primer 
+experimento: densidad de plantas, tallos por planta, número de tallos, y peso por tallo. A 
+su vez, en este segundo experimento se incluyeron mediciones que permitieron estudiar 
+el efecto sobre los componentes ecofisiológicos determinantes de la producción de 
+biomasa: intercepción y eficiencia de uso de la radiación. Además, se realizaron 
+mediciones adicionales como la relación hoja:tallo, la distribución de la biomasa en 
+jerarquías de tallos según su altura, el índice de área foliar, el contenido de clorofila de 
+las hojas en distintos estratos del canopeo y características estructurales de las coronas 
+de las plantas al finalizar el experimento. Por último, en el cuarto capítulo se discuten en 
+conjunto los resultados de ambos ensayos y se plantean las implicancias y perspectivas 
+que surgen del estudio realizado. 
+5 
+ 
+Capítulo 2: EFECTOS DE LA DISTANCIA ENTRE HILERAS A LA SIEMBRA 
+SOBRE LA PRODUCCIÓN DE BIOMASA Y LA PERSISTENCIA EN 
+ALFALFA DE DIFERENTE GRADO DE REPOSO INVERNAL (1) 
+ 
+2.1. INTRODUCCIÓN 
+ 
+2.1.1. Antecedentes 
+La distancia entre hileras a la siembra es una práctica que afecta la capacidad de 
+un cultivo para captar recursos, entre ellos la radiación incidente (Bullock et al. 1988). 
+El acercamiento de las hileras, que genera una distribución más equidistante de las 
+plantas, ha sido estudiado en diversos cultivos agrícolas, donde se reportan casos con 
+respuestas favorables sobre el rendimiento por un aumento en la cantidad de radiación 
+fotosintéticamente activa interceptada durante el ciclo del cultivo (Board et al. 1992a; 
+Barbieri et al. 2000, Andrade et al. 2002). En pasturas perennes son escasos los 
+antecedentes acerca del efecto del acercamiento de las hileras sobre la producción de 
+forraje. En pasturas de alfalfa existen antecedentes de ensayos realizados en Australia 
+con una mayor producción a menores distancias (Roufail 1975; Lutz y Morley 1982). El 
+ensayo realizado por Lutz y Morley (1982) presenta la desventaja de que al acercar la 
+distancia entre hileras a la siembra se incrementó la densidad por lo cual se confunden 
+los efectos de ambas prácticas. En Balcarce (Argentina) al intersembrar alfalfa o trébol 
+rojo sobre pasturas degradadas hallan que menores distancias aumentan el índice de área 
+foliar y la producción en el primer corte (Colabelli et al. 2002). Contrariamente, en una 
+pastura de agropiro sembrada en un suelo marginal (Natracuol) de la Pampa Deprimida 
+(Argentina) en un año con restricción hídrica, el arreglo más cuadrado produjo menos 
+forraje por una menor eficiencia de uso de la radiación (Bertram 2008). 
+La siembra de pasturas de especies perennes se realiza generalmente con altas 
+densidades de semilla de forma tal de asegurar una buena implantación. Esta situación 
+puede determinar condiciones que acentúen la competencia intra-específica del cultivo. 
+En este contexto, los cambios en la distancia entre hileras a la siembra pueden afectar 
+las relaciones de competencia a nivel intra-específico y el tamaño individual de las 
+plantas (Park et al. 2003), y esto influir en las características productivas de la pastura 
+(Colabelli et al. 2002). En los últimos años se ha difundido en la Argentina el uso de 
+maquinarias de siembra que han variado la distancia entre las hileras. Tradicionalmente 
+la distancia entre hileras era de 15 cm a 17,5 cm, y actualmente ha ido aumentado hasta 
+una distancia de 21-22 cm. Naturalmente, a una misma densidad de plantas esta 
+tendencia en el diseño de la maquinaria agrícola produciría arreglos más rectangulares 
+de las plantas. La experiencia se realizó en la EEA INTA-Rafaela durante tres años de 
+producción del cultivo. Esta información es de interés debido a la extensa superficie 
+cultivada con alfalfa en el país, y porque aumentar la producción forrajera resulta un 
+aspecto clave en la intensificación de las tierras destinadas para la ganadería. 
+ 
+ 
+ 
+                                                         
+(1) Mattera J, Romero LA, Cuatrín A, Grimoldi AA (2009) Efectos de la distancia de siembra sobre la 
+producción de biomasa y la persistencia de un cultivo de alfalfa. Revista Argentina de Producción Animal 
+29: 131-140.  
+6 
+ 
+2.1.2. Objetivo 
+El objetivo de este capítulo fue analizar los efectos de la distancia entre hileras a la 
+siembra sobre la producción de biomasa aérea en el largo plazo y la persistencia en 
+alfalfa de diferente grado de reposo invernal. 
+ 
+2.1.3. Hipótesis 
+Al disminuir la distancia entre hileras a la siembra se generan arreglos espaciales 
+más cuadrados que aumentan la producción de biomasa aérea en el cultivo de alfalfa. 
+(Sección 1.3; Hipótesis a). 
+ 
+2.2. MATERIALES Y METODOS 
+ 
+2.2.1. Sitio de estudio 
+El experimento se realizó en la EEA INTA-Rafaela (31º12' Latitud S. ; 61º30' 
+Longitud O.) en el Centro-Oeste de la Prov. de Santa Fe. El clima de la región es sub-
+húmedo húmedo y mesotermal. El experimento se llevo a cabo en un lote 
+correspondiente al complejo Leh2 con suelos Argiudoles típicos (Serie Rafaela) y 
+Argiudoles ácuicos (Serie Lehman) (Mosconi et al. 1981) con 3,28% de materia 
+orgánica (Walkley y Black) en el estrato superior del suelo (0-15 cm), 65,6 ppm de 
+fósforo (Bray y Kurtz 1) y 6 de pH (agua). Abundantes precipitaciones en el período 
+previo a la implantación (415 mm en febrero y marzo de 2003) e inmediatamente 
+posterior al mismo (30 mm) aseguraron buenas condiciones hídricas en la cama de 
+siembra. Los veranos 2003-04 y 2005-06 fueron más secos que lo normal para Rafaela, 
+las precipitaciones acumuladas fueron respectivamente 52 y 39% inferiores que la serie 
+histórica (352 mm). En cambio, el verano 2004-05 fue normal (353 mm). 
+ 
+2.2.2. Tratamiento y diseño experimental 
+Se sembraron dos cultivares de alfalfa ampliamente difundidos en el país: 
+Monarca (sin reposo invernal) y Victoria (con reposo invernal intermedio). Ambos 
+materiales fueron desarrollados por el INTA y se utilizan como testigos en los ensayos 
+de la red de alfalfa del INTA (Spada 2008). En Rafaela los cultivares sin reposo 
+invernal presentan la ventaja de alcanzar mayores tasas de crecimiento en otoño-
+invierno. Las semillas no fueron inoculadas, ya que en el lote se realizan frecuentemente 
+ensayos de alfalfa y la presencia de poblaciones de Sinorhizobium meliloti naturalizadas 
+fue observada en reiteradas oportunidades. 
+Se evaluaron tres distancias entre hileras a la siembra: 15 cm, 17,5 cm y 21 cm. 
+Las distancias evaluadas se eligieron en relación con las tendencias observadas en los 
+equipos disponibles para la siembra de pasturas. La densidad de siembra fue de 7 kg de 
+semilla ha-1, relativamente más baja a la utilizada comúnmente por productores pero 
+suficiente para lograr pasturas altamente productivas (Romero et al. 1991). La densidad 
+de siembra fue la misma en todos los tratamientos, para lo cual se ajustó en cada 
+distancia la cantidad de semillas sembradas por metro lineal, logrando así la misma 
+densidad de semillas por m2 (ver arreglo espacial en Figura 2.1). Es decir, a medida que 
+se acercan las hileras, se alejan las semillas en la hilera de siembra siendo en este caso la 
+distribución más equidistante. 
+7 
+ 
+El ensayo se sembró en el otoño de 2003 (mayo), con un diseño de bloques 
+completos aleatorizados (n=3) y se evalúo durante un período de tres años. El suelo se 
+preparó mediante labranza convencional con dos labores de rastra de discos y una labor 
+con rastra de dientes para uniformar el terreno. La siembra se realizó con una 
+sembradora monosurco. Previamente se marcaron hileras de 5 m de longitud, 
+estableciendo seis hileras por parcela en la distancia de 15 cm, cinco hileras en la de 
+17,5 cm y cuatro hileras en la de 21 cm, de esta forma se obtuvieron parcelas de tamaño 
+similar. Las parcelas se mantuvieron libres de malezas por medio de la aplicación de 
+herbicidas selectivos.  
+ 
+ 
+ 
+ 
+Figura 2.1. Esquema del arreglo espacial teórico de las semillas para tres distancias 
+entre hileras a la siembra: a)- 15 cm, b)- 17,5 cm, y c)- 21 cm. La densidad de siembra 
+fue la misma en las tres distancias evaluadas. La separación entre semillas dentro de la 
+hilera está representada por la letra a, en tanto que la letra b identifica la separación 
+entre las hileras. 
+ 
+2.2.3. Mediciones 
+2.2.3.1. Producción de biomasa aérea 
+La producción de biomasa aérea se evalúo por medio de cortes durante los tres 
+años de duración del ensayo. El primer corte se realizó a los 140 días desde la siembra. 
+A partir de ese momento, se hicieron otros 20 cortes distribuidos en los tres años. Los 
+cortes se efectuaron con las parcelas en 10% de floración en primavera-verano (33±7 
+días entre cortes) y con una frecuencia más baja en otoño-invierno (60±17 días entre 
+cortes). Los cortes se realizaron con motoguadañadora a una altura de 4 cm sobre el 
+suelo. La superficie cortada de cada parcela fue de: 4,5 m2 para 15 cm, 4,4 m2 para 17,5 
+cm, y 4,2 m2 para 21 cm. Se registró el peso fresco del material cosechado y se tomaron 
+muestras para estimar el porcentaje de materia seca del forraje en cada parcela. Dichas 
+muestras fueron secadas en estufa (60ºC) durante 48 h. Los valores se convirtieron a 
+materia seca y se estandarizaron a una misma unidad de superficie (hectárea) para las 
+comparaciones entre tratamientos. 
+84 cm 
+a = 1,43 cm 
+a = 1,67 cm 
+b = 15 cm 
+b = 17,5 cm 
+b = 21 cm 
+a)- Distancia de 15 cm 
+b)- Distancia de 17,5 cm 
+c)- Distancia de 21 cm 
+9,6 cm 
+88 cm 
+90 cm 
+10 cm 10 cm 
+a = 1,2 cm 
+8 
+ 
+2.2.3.2. Componentes del rendimiento: Densidad de plantas y peso aéreo por planta. 
+Persistencia del cultivo. 
+Se estudiaron los componentes del rendimiento con un enfoque general a través 
+del número de plantas y el peso aéreo de las mismas. Con esta finalidad se realizaron 
+recuentos de plantas en siete oportunidades (30/09/03, 23/03/04, 17/11/04, 04/04/05, 
+19/10/05, 27/12/05 y 02/03/06). Se efectuaron el día posterior a cada uno de los rebrotes 
+para facilitar la identificación de cada una de las coronas, en forma visual y manual, 
+inspeccionando detalladamente la base de las plantas. Se realizaron sobre la parte 
+central de cada parcela en una superficie de: 0,9m2 para 15 cm, 0,88 m2 para 17,5 cm; y 
+0,84 m2 para 21 cm. Todos los recuentos fueron posteriormente estandarizados a una 
+misma unidad de superficie (m2). Se estimó el peso aéreo promedio por planta a través 
+del cociente de la producción de biomasa aérea m-2 y el número de plantas m-2. La 
+persistencia de las pasturas se evalúo por medio de la dinámica del número de plantas 
+en cada tratamiento a través de los tres años de duración del ensayo. 
+2.2.3.4. Índice de rectangularidad 
+Para evaluar el arreglo espacial de las plantas en cada tratamiento, se calculó el 
+índice de rectangularidad como el cociente entre la distancia entre hileras y la distancia 
+entre plantas de una misma hilera (Willey y Heath 1969). Para el cálculo se utilizaron 
+las distancias experimentales (15 cm, 17,5 cm y 21 cm) y la distancia promedio entre 
+plantas de una misma hilera registradas en los recuentos periódicos de número de 
+plantas (asumiendo una distribución regular de plantas en la hilera). Un índice igual a 
+uno indica un arreglo espacial cuadrado, donde la distancia entre hileras es igual a la 
+distancia entre plantas de la misma hilera. A medida que el índice se aleja de la unidad 
+el arreglo espacial se hace más rectangular. 
+ 
+2.2.4. Análisis estadístico 
+La producción total de biomasa se analizó mediante análisis de varianza de un 
+diseño de bloques completos alegorizados con arreglo factorial de los tratamientos 
+(factores: cultivar y distancia entre hileras a la siembra). La dinámica de la producción 
+de biomasa aérea, densidad de plantas, peso aéreo por planta e índice de rectangularidad 
+se analizaron en un diseño de bloques completos al azar con arreglo factorial de los 
+tratamientos y medidas repetidas en el tiempo. Para los análisis se utilizó el 
+procedimiento MIXED del paquete estadístico SAS v9.1.3 (SAS Institute, Cary, NC. 
+2004). La interacción entre distancia y cultivar no fue significativa para ninguna de las 
+variables. Las diferencias entre distancias se evaluaron por medio de comparaciones 
+múltiples dentro de cada cultivar. Cuando se detectaron diferencias significativas entre 
+cultivares las mismas se evaluaron por medio de comparaciones múltiples. En 
+complemento, los datos de densidad fueron ajustados mediante regresiones lineales 
+simples en función del tiempo para el período de mayor mortalidad de plantas (Marzo 
+04 – Abril 05) con el objeto de comparar pendientes (tasas de mortalidad) mediante la 
+prueba de paralelismo y coincidencia (Pontaque 2005) con el procedimiento GLM del 
+paquete estadístico SAS v9.1.3 (SAS Institute, Cary, NC. 2004). 
+ 
+9 
+ 
+2.3. RESULTADOS 
+ 
+2.3.1. Producción de biomasa aérea 
+La distancia entre hileras a la siembra tuvo un efecto significativo sobre la 
+producción total de biomasa aérea (p<0,01; Figura 2.2). En ambos cultivares, la mayor 
+acumulación de biomasa se registró en la distancia intermedia de 17,5 cm para todo el 
+ciclo del cultivo. En términos relativos, la producción total a 17,5 cm fue superior a 15 
+cm en un 20% y en un 15% para los cultivares Monarca y Victoria respectivamente 
+(p<0,01); con respecto a la distancia de 21 cm la producción fue 11% superior en 
+Monarca (p<0,01), mientras que en Victoria fue un 6% mayor aunque las diferencias no 
+llegaron a ser significativas (p=0,11). En términos generales, la producción de biomasa 
+aérea del cultivar Monarca (sin reposo invernal) fue un 14% superior (p<0,05) a la del 
+cultivar Victoria (reposo invernal intermedio). Como era de esperarse, las diferencias de 
+producción entre distancias entre hileras a la siembra se hallaron principalmente en los 
+períodos primavero-estivales para los tres años evaluados (Figura 2.2). Para el cultivar 
+Monarca, la producción de biomasa en la distancia de 17,5 cm fue superior en relación 
+con la distancia de 15 cm en 8 de los 10 cortes donde se encontraron diferencias 
+significativas, y en 5 de los 10 cortes en comparación con la distancia de 21 cm. Para el 
+cultivar Victoria, la producción de biomasa en la distancia de 17,5 cm fue superior en 
+relación con la distancia de 15 cm en 6 de los 10 cortes donde se encontraron 
+diferencias significativas, y en 5 de los 10 cortes en relación con la distancia de 21 cm 
+(Figura 2.2). 
+ 
+2.3.2. Componentes del rendimiento: Densidad de plantas y peso aéreo por planta. 
+Persistencia del cultivo. 
+En el primer recuento se registró un alto número de plantas en todos los 
+tratamientos analizados, demostrando que la siembra del ensayo fue satisfactoria 
+(Figura 2.3.a). No obstante, ya desde ese momento, la distancia entre hileras a la 
+siembra tuvo un efecto significativo (p<0,01) sobre la densidad de plantas instaladas. Se 
+registró una mayor densidad de plantas en la distancia de 15 cm, hasta el año después de 
+la siembra en el cultivar Monarca y hasta el año y medio en el cultivar Victoria (Figura 
+2.3.a). Para ambos cultivares, la densidad de plantas en dicha distancia fue un 30% 
+mayor con respecto a los otros tratamientos. Aunque en esas condiciones, las plantas de 
+ambos cultivares fueron marcadamente menores en tamaño (aprox. 40% más livianas; 
+p<0,01) con respecto a las plantas de distancias más separadas durante los dos primeros 
+años del cultivo (Figura 2.3.b). Entre la distancias de 17,5 cm y 21 cm no se 
+encontraron diferencias en el peso aéreo por planta. En posteriores recuentos, la 
+densidad fue disminuyendo, registrádonse altas tasas de mortalidad en el segundo año 
+del ciclo del cultivo. En ese período (Marzo 04 – Abril 05), la tasa de mortalidad de 
+plantas fue mayor en la distancia de 15 cm, ya que se registró una pendiente 
+significativamente más negativa (p<0,05) en función del tiempo en comparación con los 
+otros tratamientos. Dicho efecto determinó que a partir de Abril de 2005 no se 
+encontraran diferencias en densidad asociadas a la distancia entre hileras a la siembra 
+(Figura 2.3.a), lo cual sería indicativo de una persistencia del cultivo similar entre 
+distancias entre hileras a la siembra. 
+ 
+10 
+ 
+ 
+ 
+25000
+28000
+31000
+34000
+37000
+40000
+43000
+15 cm 17,5 cm 21 cm
+25000
+28000
+31000
+34000
+37000
+40000
+43000
+15 cm 17,5 cm 21 cm
+b†
+a
+b
+b
+a
+ab
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+sep-03
+nov-03
+ene-04
+mar-04
+may-04
+jul-04
+sep-04
+nov-04
+ene-05
+mar-05
+may-05
+jul-05
+sep-05
+nov-05
+ene-06
+15 cm
+17,5 cm
+21 cm
+*
+*
+*
+*
+** *
+*
+*
+*
+* *
+*
+** *
+* * * *
+† Letras diferentes indican diferencias significativas (p<0,01) 
+* indican diferencias significativas en cada fecha de corte (p<0,01)
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+sep-03
+nov-03
+ene-04
+mar-04
+may-04
+jul-04
+sep-04
+nov-04
+ene-05
+mar-05
+may-05
+jul-05
+sep-05
+nov-05
+ene-06  
+Figura 2.2. Producción de biomasa aérea total y por corte de cultivos puros de alfalfa durante tres años para cada cultivar: a) Monarca y b) 
+Victoria para tres distancias entre hileras a la siembra (15 cm, 17,5 cm y 21 cm). Los valores son medias  ES de tres repeticiones. 
+a)- Monarca 
+b)- Victoria 
+Producción de biomasa aérea 
+(Kg MS ha-1) 
+Distancia entre hileras a la 
+siembra (cm) 
+11 
+ 
+ 
+ 
+ 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+15 cm
+17,5 cm
+21 cm
+* Letras distintas indican diferencias significativas en cada fecha de medición (p<0,01) 
+-3,0
+-1,5
+0,0
+1,5
+3,0
+b
+a*
+b
+b
+a
+ab
+b
+a
+a
+ab
+b
+a
+b
+ab
+b
+a
+a
+ab
+b
+a
+b
+ab
+a
+a
+a
+b
+b
+a
+b
+b
+a
+b
+b
+Sep-03
+Mar-04
+Nov-04
+Abr-05
+Oct-05
+Dic-05
+Mar-06
+Sep-03
+Mar-04
+Nov-04
+Abr-05
+Oct-05
+Dic-05
+Mar-06
+Sep-03
+Mar-04
+Nov-04
+Abr-05
+Oct-05
+Dic-05
+Mar-06
+Sep-03
+Mar-04
+Nov-04
+Abr-05
+Oct-05
+Dic-05
+Mar-06  
+Figura 2.3. Efecto de la distancia entre hileras a la siembra sobre la dinámica de los 
+componentes del rendimiento: a) la densidad de plantas y b) el LN del peso aéreo por 
+planta, durante los tres años para los cultivares de alfalfa Monarca y Victoria para tres 
+distancias entre hileras a la siembra (15 cm, 17,5 cm y 21 cm). Los valores son medias  
+ES de tres repeticiones.  
+ 
+2.3.3. Índice de rectangularidad 
+En términos generales, los valores de rectangularidad del canopeo se fueron 
+acercando a la unidad en estrecha relación con la tasa de mortalidad de las plantas 
+(comparar Figs. 2.3.a y 2.4.). Sin embargo, la rectangularidad aumentó marcadamente 
+en relación con la distancia entre hileras a la siembra (Figura 2.4). Para ambos 
+cultivares, las parcelas sembradas a mayor distancia (21 cm) presentaron un índice 
+mayor con respecto a los demás tratamientos, indicando un arreglo espacial más 
+rectangular durante la mayor parte del ensayo. No se encontraron diferencias 
+significativas (p>0,05) entre las distancias de 15 cm y 17,5 cm hasta inicios del tercer 
+año de cultivo.  
+ 
+N° plantas m-2 LN g MS planta-1 
+a)- Densidad de plantas 
+Victoria Monarca 
+b)- Peso aéreo por planta 
+Victoria Monarca 
+12 
+ 
+Sep-03
+Mar-04
+Nov-04
+Abr-05
+Oct-05
+Dic-05
+Mar-06
+* Letras distintas indican diferencias significativas en cada fecha de medición (p<0,01) 
+0
+2
+4
+6
+8
+10
+12
+15 cm
+17,5 cm
+21 cm
+a*
+b
+b
+a
+b
+b
+a
+b
+b a
+b
+c a
+b
+c
+a
+b
+b
+a
+b
+b
+a
+b
+b
+a
+b
+c a a
+b
+a
+b
+c
+a
+b
+c
+a
+b
+c
+a
+b
+c
+Sep-03
+Mar-04
+Nov-04
+Abr-05
+Oct-05
+Dic-05
+Mar-06
+ 
+Figura 2.4. Efecto de la distancia entre hileras a la siembra sobre el índice de 
+rectangularidad del arreglo espacial durante los tres años para los cultivares de alfalfa 
+Monarca y Victoria para tres distancias entre hileras a la siembra (15 cm, 17,5 cm y 21 
+cm). Los valores son medias  ES de tres repeticiones.  
+ 
+2.4. DISCUSION 
+Los resultados del experimento muestran que la distancia entre hileras a la 
+siembra intermedia (17,5 cm) alcanzó la mayor producción de forraje, debido a los 
+incrementos registrados en los períodos de mayor tasa de crecimiento para el cultivo de 
+alfalfa (primavera-verano). La respuesta fue similar en los dos cultivares evaluados y se 
+manifestó tanto en veranos normales (2004-05) como en veranos secos (2005-06). Los 
+resultados coinciden con lo reportado por Roufail (1975), donde las parcelas de alfalfa 
+sembradas a menor distancia fueron las de mayor producción de biomasa. Sin embargo, 
+en dicho estudio se probaron tratamientos muy contrastantes dentro de un rango más 
+amplio: las distancias menores fueron siembra al voleo y 15 cm, seguidas por distancias 
+de 30 cm y 45 cm. En nuestro experimento se analizó un rango más acotado de 
+distancias, ubicado en el extremo inferior de lo evaluado por Roufail (1975). En nuestro 
+estudio, los resultados muestran una respuesta de tipo óptimo para el cultivar Monarca, 
+y una tendencia similar para el cultivar Victoria (Figura 2.2). Se propone que la 
+producción de biomasa en la distancia intermedia (17,5 cm) se vio favorecida por dos 
+mecanismos diferentes: una menor competencia intra-específica (Figura 2.3) y un 
+arreglo espacial más cuadrado (Figura 2.4) que probablemente haya incrementado la 
+intercepción de radiación por el canopeo. 
+ En relación con el número de plantas logradas, se ha demostrado la existencia de 
+interacciones competitivas entre plántulas desde estadios muy tempranos en el ciclo de 
+producción de las pasturas (Skinner 2005). Esta situación explicaría la mayor densidad 
+de plantas lograda a 15 cm de distancia en nuestro experimento (Figura 2.3), ya que al 
+reducirse la distancia entre hileras se aumenta la distancia entre las semillas sembradas, 
+reduciendo la competencia y pudiendo aumentar así la supervivencia de las plántulas. 
+Roufail (1975) encontró un patrón similar partiendo de una misma densidad de siembra, 
+ya que al cabo de 90 días las distancias más cercanas presentaban una densidad 90% 
+superior en relación con las distancias más lejanas. Aunque en nuestro experimento, la 
+menor densidad establecida a 17,5 cm vs. 15 cm permitió el desarrollo de plantas más 
+grandes durante la mayor parte del experimento, que redundó en una mayor producción 
+de forraje en la distancia intermedia (17,5 cm). El menor peso aéreo promedio por 
+planta y la mayor tasa de mortalidad durante el segundo año del cultivo, sugieren que en 
+Índice de rectangularidad Monarca Victoria 
+13 
+ 
+la distancia de 15 cm se estableció una jerarquía de tamaños (vigor) diferente al resto de 
+los tratamientos, con una mayor proporción de plantas pequeñas suprimidas, que serían 
+las que murieron durante el segundo año del cultivo. En ese sentido, es sabido que el 
+proceso de mortandad denso-dependiente involucra siempre la muerte de las plantas 
+más débiles (Harper 1977). Un efecto similar fue encontrado en pasturas de agropiro 
+donde un mayor número de plantas establecidas en la distancia más cercana generó 
+condiciones de mayor mortalidad tardía y menor producción de forraje (Bertram 2008). 
+En nuestro experimento, si bien la dinámica de la densidad de plantas fue afectada por 
+la distancia entre hileras a la siembra al inicio del ensayo, la posterior estabilización en 
+una misma densidad durante el tercer año del ciclo del cultivo indicaría que la 
+persistencia de la alfalfa no se vio modificada por los tratamientos. 
+En relación con la distribución de las plantas, el arreglo espacial más cuadrado 
+registrado en la distancia entre hileras a la siembra intermedia (17,5 cm) en 
+comparación con la de 21 cm explicaría su mayor acumulación total de forraje (Figuras 
+2.2 y 2.4). El índice de rectangularidad en la distancia de 21 cm fue mayor y más 
+alejado de la unidad durante la mayor parte del experimento. Este arreglo espacial, al ser 
+más rectangular presenta una distribución de las plantas menos equidistante, y por lo 
+tanto se reduciría la intercepción de radiación del canopeo por el mayor espacio 
+descubierto entre hileras durante cada uno de los rebrotes. Por otro lado, el índice de 
+rectangularidad en la distancia de 17,5 cm fue similar al registrado en la distancia de 15 
+cm durante la mayor parte del experimento. Este resultado fue inesperado ya que de 
+acuerdo al arreglo planteado al inicio del experimento, el tratamiento de 15 cm debería 
+tender a un arreglo más cuadrado. Este resultado surge de la mayor densidad de plantas 
+establecida en la distancia de 15 cm, lo cual redujo la distancia entre plantas en la 
+misma hilera y generó el mismo arreglo espacial que a 17,5 cm. Esto permite suponer 
+que la distancia de 15 cm no mejoró la intercepción de radiación en relación con la 
+distancia intermedia.  
+En conclusión, en este trabajo la producción total de forraje en el cultivo de 
+alfalfa se vio favorecida por la distancia intermedia de 17,5 cm, donde se combinaron 
+características favorables en el arreglo espacial más cuadrado y en el peso aéreo de las 
+plantas. La persistencia no se vio afectada por la distancia entre hileras a la siembra ya 
+que el número de plantas al tercer año del cultivo fue similar entre todas las distancias. 
+Si bien las variaciones en el distanciamiento fueron de poca magnitud, tuvieron un 
+impacto significativo sobre la producción de biomasa para los dos cultivares evaluados. 
+En relación con la hipótesis de trabajo planteada, se registró el aumento en la 
+producción de biomasa aérea al acercar las hileras y formar un arreglo espacial más 
+equidistante entre las plantas hasta la distancia de 17,5 cm. Por debajo de dicha 
+distancia entre las hileras de siembra no se cumplió la hipótesis planteada, sin embargo, 
+en la distancia de 15 cm ocurrieron procesos denso-dependientes distintos que afectaron 
+el arreglo espacial (Figura 2.3.a), ya que no se logró una mejora en el arreglo con 
+respecto a la distancia de 17,5 cm (Figura 2.4), y que podrían ser la causa de no haber 
+encontrado la respuesta productiva esperada. La distancia de 17,5 cm combinó 
+características favorables de un mayor peso aéreo por planta que la distancia de 15 cm 
+en los primeros años del cultivo, y un arreglo espacial más cuadrado en relación con la 
+distancia de 21 cm. Se propone que una menor competencia intra-específica y una 
+mayor intercepción de radiación, respectivamente, serían parte de los mecanismos 
+determinantes de las respuestas observadas. En el próximo capítulo se profundizan los 
+mecanismos involucrados en cada caso, analizando los componentes del rendimiento de 
+forraje con un mayor nivel de detalle y analizando los componentes del modelo 
+ecofisiológico de aprovechamiento de la radiación. 
+14 
+ 
+Capítulo 3: EFECTOS DE LA SIEMBRA A DIFERENTES DISTANCIAS 
+ENTRE HILERAS, A DENSIDAD CONSTANTE, SOBRE LOS 
+COMPONENTES DEL RENDIMIENTO Y EL APROVECHAMIENTO DE LA 
+RADIACIÓN EN EL CULTIVO DE ALFALFA (2) 
+ 
+3.1. INTRODUCCION 
+ 
+3.1.1. Antecedentes 
+ La distancia entre hileras a la siembra ha sido estudiada en numerosos 
+experimentos con la aproximación ecofisiológica de aprovechamiento de la radiación 
+incidente que contempla dos componentes: la cantidad de radiación fotosintéticamente 
+activa interceptada durante el ciclo del cultivo (RAFia) y su eficiencia de uso o 
+conversión en biomasa (EUR) (Monteith 1977). Así en diversos cultivos, en relación 
+con el primer componente mencionado, el acercamiento de las hileras permite aumentar 
+la fracción de radiación fotosintéticamente activa interceptada (fRFAi) por el canopeo. 
+Esta respuesta ha sido observada en cultivos para producción de granos como maíz 
+(Barbieri et al. 2000; Andrade et al. 2002; Sharratt y McWilliams 2005), sorgo (Steiner 
+1986) y soja (Board et al. 1992a; Andrade et al. 2002), mientras que en girasol las 
+diferencias en la fRFAi se encontraron sólo en uno de dos años evaluados (Zaffaroni y 
+Schneiter 1989). También en cultivos industriales como caña de azúcar (Singels y Smit 
+2009) y Cannabis sativa (van der Werf et al. 1995) se observó un aumento de la fRFAi 
+al disminuir la distancia entre hileras. La mayor intercepción de radiación se explica 
+principalmente por las modificaciones en la disposición de las hojas debido al arreglo 
+espacial, es decir la disposición más equidistante de las plantas determina un 
+distribución de las hojas más uniforme en el espacio (Zaffaroni y Schneiter 1989; van 
+der Werf et al. 1995; Flenet et al. 1996; Barbieri et al. 2000; Sharratt y McWilliams 
+2005). Se han reportado casos donde la disposición más equidistante de las plantas 
+determinó un aumento en la cantidad de área foliar, y también a través de este 
+mecanismo puede aumentar la fRFAi en hileras cercanas (Steiner 1986; Board et al. 
+1992b; Singels y Smit 2009). Por otra parte, también se han encontrado resultados 
+donde no se hallaron diferencias entre distanciamientos en la intercepción bajo 
+condiciones en las cuales se superó el 95 % de fRFAi tanto en hileras cercanas como en 
+hileras más separadas (Maddonni et al. 2006). 
+El efecto de la distancia entre hileras a la siembra sobre la producción de 
+biomasa y el rendimiento de los cultivos es determinado también por lo que ocurre en el 
+segundo componente del modelo de Monteith, la EUR. De esta forma, aún cuando el 
+acercamiento de las hileras permite en general un aumento en la intercepción de la 
+radiación, el efecto sobre la producción de biomasa y el rendimiento es variable 
+asociado a como se afecta la EUR. En maíz, soja y girasol las respuestas positivas en 
+rendimiento de grano se asociaron a incrementos en la radiación interceptada durante el 
+período crítico de determinación del rendimiento (Andrade et al. 2002), no obstante el 
+aumento en el rendimiento fue menos que proporcional al aumento en intercepción de 
+radiación sugiriendo menores EUR en distancias cercanas. En sojas tardías el 
+acercamiento de las hileras aumentó la intercepción de radiación desde etapas 
+                                                         
+(2) Mattera J, Romero LA, Cuatrín AL, Cornaglia PS, Grimoldi AA (2010) Distancia de siembra en 
+alfalfa: influencia sobre producción de biomasa y componentes del rendimiento. Resumen aceptado 33° 
+Congreso Argentino de Producción Animal, Octubre 2010 Viedma, Rio Negro. 
+15 
+ 
+tempranas del cultivo, y también aumentó el rendimiento hasta la distancia de 50 cm 
+(Board et al. 1992a), pero en distancias menores (25 cm) a pesar de la mejora en RAFia 
+el rendimiento disminuyó por una menor EUR. También en maíz, la caída de la EUR en 
+post-floración contrarrestó los efectos positivos de una mayor RAFia en hileras cercanas 
+(Maddonni et al. 2006). Los mecanismos que explican la reducción en la EUR en 
+distancias cercanas se encuentran aún bajo estudio. Maddonni et al. (2006) proponen 
+que en distancias cercanas la menor penetración de la luz en el canopeo y la menor 
+relación rojo/rojo lejano que recibieron las hojas de estratos inferiores habrían reducido 
+la fotosíntesis y en consecuencia la EUR. Si bien Board et al. (1994) plantea las mismas 
+posibles explicaciones sus resultados no las avala, ya que no encuentra diferencias en la 
+penetración de la luz en el canopeo, y opuestamente, la relación rojo/rojo lejano es 
+mayor en distancias cercanas. Por último, un tercer componente que puede ser afectado 
+por la distancia entre hileras a la siembra cuando se estudia el rendimiento en grano es 
+la partición de los fotoasimilados a estructuras reproductivas. Por ejemplo, en sorgo 
+pese a que en hileras más cercanas la radiación interceptada y la producción de biomasa 
+fue mayor no se registró un incremento en el rendimiento en grano por una caída en el 
+índice de cosecha (Steiner, 1986). En este caso, la caída en el índice de cosecha se 
+relacionó con un mayor uso del agua durante etapas vegetativas y una menor 
+evapotranspiración durante el llenado de los granos. 
+La información disponible acerca del efecto del distanciamiento en pasturas 
+perennes es más escasa que en cultivos agrícolas y presenta en muchos casos la 
+limitante de que los trabajos se realizaron sin analizar los componentes del rendimiento 
+ni tampoco con la aproximación ecofisiológica del aprovechamiento la radiación, lo 
+cual implica que no se profundiza en los mecanismos que serían determinantes de las 
+respuestas encontradas. Los antecedentes existentes de aumentos de la producción de 
+biomasa por acercar las hileras de siembra, tanto en pasturas puras de alfalfa (Roufail A. 
+1975; Lutz y Morley 1982) como asociadas con gramíneas (Jefferson y Kielly 1998) en 
+ningún caso han sido analizados en términos del aprovechamiento de la radiación. 
+Existen antecedentes de experiencias realizadas en la Argentina que estudiaron 
+indirectamente el componente de intercepción del modelo de radiación. Esto fue así en 
+intersiembra de alfalfa sobre pasturas degradadas donde encontraron una mayor 
+producción de biomasa de alfalfa en el primer corte en el distanciamiento más cercano 
+(10 cm) asociada a un incremento del IAF (Colabelli et al. 2002) lo cual permite 
+suponer que la cantidad de radiación interceptada fue mayor. También en el período de 
+implantación del cultivo de alfalfa la cobertura área, medida mediante fotografías, 
+aumentó más rápidamente en distancias cercanas (Cornaglia et al. 2005). Por último, en 
+el experimento descripto en el capítulo dos de esta tesis (Capítulo 2, Mattera et al. 2009) 
+durante tres años de vida del cultivo de alfalfa se observaron efectos positivos del 
+acercamiento hasta los 17,5 cm asociado a un arreglo espacial más equidistante entre las 
+plantas, sugiriendo que la respuesta se debió a una mayor intercepción de radiación. Por 
+otra parte, en otra especie forrajera perenne como el agropiro el uso de un diseño de 
+siembra cruzado (efecto similar al producido por el acercamiento de las hileras), en un 
+año con restricción hídrica, no afectó la intercepción de radiación, pero si redujo la 
+producción de biomasa por un efecto negativo sobre la EUR (Bertram 2008). 
+De esta forma los datos disponibles en pasturas de alfalfa sugieren que el 
+acercamiento de las hileras permitiría aumentar el componente de intercepción del 
+modelo de radiación de Monteith. En relación con el otro componente del modelo de 
+radiación, las disminuciones en la EUR reportadas previamente en otros cultivos 
+ocurrieron en etapas más bien avanzadas de los cultivos, con altos valores de IAF, y 
+considerando que las pasturas de alfalfa se manejan bajo sistemas de corte relativamente 
+16 
+ 
+frecuente no se esperan cambios importantes en la EUR por efecto de la distancia entre 
+hileras a la siembra. Esto podría ser distinto si la modificación de la distancia entre 
+hileras a la siembra generara cambios en el canopeo de una magnitud que lleguen a 
+afectar procesos que inciden sobre la EUR, e.g. senescencia foliar y distribución del 
+nitrógeno en la planta. 
+El experimento planteado en este capítulo presenta la ventaja de analizar el 
+efecto de la distancia entre hileras a la siembra sobre la producción de forraje 
+considerando las aproximaciones de los componentes del rendimiento (Volenec et al. 
+1987) y de los componentes ecofisiológicos del modelo de radiación (Monteith 1977) 
+en varios rebrotes de alfalfa sin presencia de malezas. Se estudió la dinámica de los 
+componentes del rendimiento para analizar posibles compensaciones entre 
+componentes, y también para abordar la complejidad que existe en este tipo de cultivos 
+donde la competencia intra-específica provoca la muerte de plantas. Se estudió el efecto 
+sobre los componentes del modelo de radiación para analizar los mecanismos 
+ecofisiológicos involucrados. Se estudió un amplio rango de distancias entre hileras a la 
+siembra con un control inicial de la densidad de plantas de forma tal de asegurar un 
+gradiente en el arreglo espacial de las plantas definido como el índice de 
+rectangularidad. Este trabajo en el cultivo de alfalfa es relevante ya que colabora a una 
+mayor comprensión de las consecuencias de modificar una práctica agronómica, que es 
+definida por el productor y también por las características de las sembradoras 
+disponibles, y que incide en el logro de pasturas más productivas aprovechando más 
+eficientemente los recursos disponibles en el ambiente.  
+ 
+3.1.2. Objetivo 
+Evaluar el efecto de la siembra a diferentes distancias entre hileras, a densidad 
+constante, sobre la acumulación de biomasa aérea y su relación con los componentes del 
+rendimiento y el aprovechamiento de la radiación. 
+ 
+3.1.3. Hipótesis (ídem Sección 1.3) 
+a. Al disminuir la distancia entre hileras a la siembra se generan arreglos espaciales 
+más cuadrados que aumentan la producción de biomasa aérea en el cultivo de 
+alfalfa. 
+b. El número y peso de tallos es mayor a menor distancia entre hileras a la siembra 
+por una menor competencia intra-específica. 
+c. La RFAia durante el rebrote es mayor a menor distancia entre hileras a la 
+siembra. Este arreglo espacial permite alcanzar antes el IAF crítico y aumentar 
+el tiempo transcurrido durante el rebrote con intercepción óptima. 
+d. La distancia entre hileras a la siembra no afecta la EUR dentro del rango de 
+biomasa comúnmente explorado por cultivos de alfalfa destinados a la 
+producción de forraje. 
+ 
+ 
+ 
+ 
+17 
+ 
+3.2. MATERIALES Y METODOS 
+ 
+3.2.1. Sitio de estudio 
+El experimento de campo fue llevado a cabo durante el año 2009 en la EEA 
+INTA-Rafaela (31º12' Latitud S. ; 61º30' Longitud O.) en el Centro-Oeste de la Prov. de 
+Santa Fe. El clima de la región es sub-húmedo húmedo y mesotermal. El experimento 
+se llevo a cabo en un lote con suelo Argiudol típico Serie Rafaela (Mosconi et al. 1981). 
+Previo al momento de la siembra se efectuó un muestreo del suelo hasta una 
+profundidad de 15 cm. El mismo presentó un contenido de materia orgánica de 3,42% 
+(Walter & Black micro), 0,19% de nitrógeno total (Kjeldahl), 36,8 ppm de N-nitratos 
+(Harper mod.), 67,6 ppm de fósforo (Bray y Kurtz 1), 9 ppm de azufre de sulfatos 
+(Turb.) y 6,3 de pH (en agua).  
+ 
+3.2.2. Tratamiento y diseño experimental 
+Se utilizó el cultivar Monarca (sin reposo invernal), con un peso de 1000 
+semillas de 2,34  0,04 gramos y un poder germinativo de 92,5  0,02 %. Las semillas 
+no fueron inoculadas, ya que en el lote se realizan frecuentemente ensayos de alfalfa y 
+la presencia de poblaciones de Sinorhizobium meliloti naturalizadas fue observada en 
+reiteradas oportunidades. 
+El diseño experimental fue de bloques completos al azar con cinco repeticiones. 
+Se evaluaron cinco distancias entre hileras a la siembra: 10 cm, 15 cm, 17,5 cm, 20 cm 
+y 30 cm (Figura 3.1). De forma similar al ensayo previo (Capítulo 2, Mattera et al. 
+2009) se evaluaron las distancias de acuerdo con las tendencias observadas en los 
+equipos disponibles para la siembra de pasturas, pero adicionalmente se agregaron dos 
+distancias más contrastantes (10 y 30 cm). Cada unidad experimental consistió en una 
+parcela de 1,5 m por 1 m. Se estableció por lo tanto una cantidad diferentes de hileras 
+por parcela según el distanciamiento: 12, 9, 8, 7 y 5 hileras parcela-1 en las distancias de 
+10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm, respectivamente. Las parcelas fueron sembradas 
+con alta densidad y luego en el mes de mayo se realizó un raleo de plántulas llevando 
+todas las parcelas a una misma densidad de 250 plantas m-2. Posterior al raleo, durante 
+el mes de julio se instalaron dos marcos permanentes por parcela que delimitaron 
+tramos lineales de la hilera de siembra en los cuales se marcaron las bases de las plantas 
+con anillos. 
+El terreno se preparó mediante labranza convencional con dos labores de rastra 
+de discos y una labor con rastra de dientes. El experimento fue sembrado a mano a 
+principios del otoño de 2009. Las precipitaciones alrededor de la siembra fueron 
+suficientes para asegurar una buena implantación de la pastura (358 mm en los meses de 
+febrero, marzo y abril). El ensayo se mantuvo libre de malezas por remoción manual de 
+las mismas. Se aplicaron pesticidas para controlar enfermedades e insectos. Las lluvias 
+durante el período experimental fueron abundantes totalizando 770 mm desde 
+septiembre a inicios de febrero. Cuando fue necesario se aplicaron riegos 
+suplementarios para evitar estrés hídrico severo. 
+18 
+ 
+ 
+ 
+  
+Figura 3.1. Imagen del canopeo generado en cada distancia entre hileras a la siembra: 
+a)- 10 cm, b)- 15 cm, c)- 17,5 cm, d)- 20 cm, y e)- 30 cm, y el respectivo esquema del 
+arreglo espacial de plantas, confeccionado a partir de la distancia promedio entre plantas 
+dentro de la hilera al comienzo del período experimental (septiembre). La separación 
+entre plantas dentro de la hilera está representada por la letra a, en tanto que la letra b 
+identifica la separación entre las hileras. 
+ 
+3.2.3. Mediciones 
+3.2.3.1. Densidad de plantas e índice de rectangularidad 
+Se registró la dinámica del número de plantas, a través del seguimiento de las 
+plantas marcadas en su base con anillos sobre dos tramos marcados de diferente 
+a)- Distancia de 10 cm 
+b)- Distancia de 15 cm 
+c)- Distancia de 17,5 cm 
+d)- Distancia de 20 cm 
+e)- Distancia de 30 cm 
+a = 2,47 cm 
+a = 4,10 cm 
+b = 10 cm 
+b = 15 cm 
+b = 17,5 cm 
+a = 2,91 cm 
+a = 2,39 cm 
+b = 20 cm 
+b = 30 cm 
+a = 1,77 cm 
+10 cm 10 cm 10 cm 10 cm 10 cm 
+19 
+ 
+longitud (marcos permanentes), representando una misma superficie (66 cm, 44 cm, 38 
+cm, 33 cm y 22 cm de longitud en la distancias de 10 cm, 15 cm, 17,5 cm, 20 cm y 30 
+cm, respectivamente). Debido al recambio de tallos existente se fueron manteniendo los 
+anillos de cada planta sobre los tallos vivos. Los recuentos de plantas se hicieron en 
+cuatro momentos, en los rebrotes de septiembre, octubre y diciembre, y luego del último 
+corte, en febrero de 2010, se excavó las bases de las plantas marcadas registrando el 
+número final de coronas. Para caracterizar el arreglo espacial resultante en cada 
+tratamiento se midió la distancia entre plantas en la misma hilera dentro de los marcos 
+permanentes y se calculó el índice de rectangularidad como el cociente entre la distancia 
+entre hileras y la distancia promedio entre plantas en la hilera (Willey y Heath 1969). Se 
+estudió la dinámica del índice durante el ensayo teniendo en consideración los cambios 
+ocurridos en la densidad de plantas.  
+3.2.3.2. Producción de biomasa aérea. 
+Se evalúo la producción en seis rebrotes consecutivos, incluyendo al primer 
+corte de la pastura luego del período de implantación (fecha de corte: 31/08) y los cinco 
+rebrotes subsiguientes durante la primavera y el verano (fechas de corte para el rebrote 
+de septiembre: 14/10, rebrote de octubre: 09/11; rebrote de noviembre: 14/12, rebrote de 
+diciembre: 10/01, y rebrote de enero: 10/02). Los cortes se efectuaron cuando la alfalfa 
+alcanzó el estado de floración (entre floración temprana y tardía). La producción de 
+biomasa se midió sobre una misma superficie, para lo cual se cortaron cuatro tramos de 
+hileras de diferente longitud en cada distancia (ver longitudes arriba en sección 
+3.2.3.1.). Los cortes se realizaron con tijera a una altura de 7 cm evitando los bordes de 
+cada parcela. La biomasa cortada fue secada en estufa (60ºC) durante 48 h. Los valores 
+se convirtieron a materia seca y se estandarizaron a una misma unidad de superficie 
+(m2).  
+3.2.3.3. Componentes del rendimiento: Densidad de plantas, tallos por planta, número 
+de tallos y peso por tallo. 
+La densidad de plantas se evaluó de acuerdo a lo descripto en el ítem 3.2.3.1 
+contando el número de plantas marcadas en cuatro momentos a lo largo del período 
+experimental. Sobre la biomasa cortada en los rebrotes de septiembre, octubre, 
+diciembre y enero se contó el número de tallos, y como el cociente entre ambos se 
+calculó el peso promedio por tallo. Los recuentos de plantas y tallos fueron 
+posteriormente estandarizados a una misma unidad de superficie (m2). El número de 
+tallos por planta se estimó como el cociente entre número de tallos y número de plantas.  
+3.2.3.4. Características estructurales de las plantas: Relación hoja:tallo y jerarquías de 
+los tallos por altura 
+Como un indicador de la calidad del forraje se estimó la relación hoja:tallo para 
+lo cual se separaron hojas y tallos sobre una submuestra del material cortado en los 
+rebrotes de septiembre, octubre, diciembre y enero. Por otra parte, con el objeto de 
+analizar si la distancia entre hileras a la siembra afectó la distribución de la biomasa 
+entre jerarquías de tallos en estos mismos rebrotes sobre una submuestra de biomasa los 
+tallos cortados se dividieron en tres categorías de altura (sensu Teixeira et al. 2007a) en 
+relación al tallo más largo (Hmáx), siendo clasificados en dominantes (>0,67 Hmáx), 
+intermedios (0,33≥Hmáx≥0,67) y suprimidos (<0,33 Hmáx). Se calculó la proporción 
+de la biomasa en cada categoría. 
+20 
+ 
+3.2.3.5. Aprovechamiento de la radiación 
+Se estudió el aprovechamiento de la radiación durante los cinco rebrotes 
+posteriores al primer corte de la pastura. En el transcurso de los mismos periódicamente 
+se midió la radiación incidente sobre el canopeo y la fracción de la radiación transmitida 
+a través del mismo (fRFAt) con una barra medidora del flujo de fotones (Cavadevices, 
+Buenos Aires, Argentina) de 12:30 a 13:30 h., preferentemente en días despejados. La 
+fRFAt por el canopeo se midió ubicando la barra medidora al nivel del suelo en sectores 
+homogéneos en cada parcela en forma perpendicular a las hileras, centrada en relación 
+con las mismas. La fracción de la radiación interceptada por el canopeo (fRFAi) se 
+calculó como el cociente entre (1- fRFAt) y la radiación incidente, expresando su 
+evolución en el tiempo en cada rebrote utilizando el concepto de tiempo térmico con 
+una temperatura base de 5°C (Fick et al. 1988). Por interpolación lineal entre 
+mediciones se estimaron las fRFAi diarias. La RFA incidente se obtuvo a partir de la 
+radiación global incidente registrada in situ mediante la estación meteorológica de la 
+EEA INTA-Rafaela afectada luego por el coeficiente de 0,45. Se calculó la RFAia 
+durante cada rebrote como la sumatoria de la RFA incidente de cada día multiplicada 
+por la fRFAi correspondiente. Por otra parte, se estimó la EUR como el cociente entre la 
+producción de biomasa y la RFAia para cada rebrote. LA EUR de cada distancia para 
+todo el período experimental (EUR global) se estimó como el cociente entre la 
+sumatoria de la producción de biomasa y la sumatoria de la RFAia en los cinco rebrotes. 
+Adicionalmente, se estimó la EUR para cada distancia como la pendiente de la 
+acumulación de producción de biomasa y de RFAia durante todo el período 
+experimental. 
+3.2.3.6. Índice de área foliar y coeficiente de extinción de luz 
+ Con el objeto de conocer si la distancia entre hileras a la siembra afectó el IAF, 
+que es un atributo de la estructura del canopeo que afecta la intercepción de radiación, 
+se realizaron muestreos en los rebrotes de diciembre y enero. Antes de realizar el corte 
+se recolectaron muestras biomasa de cada parcela, sobre las mismas se separaron las 
+láminas de los tallos, midiendo el área foliar y su respectivo peso seco (balanza de 
+precisión; error = 0,1 mg). Luego se calculó el área foliar específica que fue 
+multiplicada por la biomasa total y por la proporción de lámina para obtener el IAF. 
+Adicionalmente, se estimó para estos rebrotes el coeficiente de extinción lumínica (k) 
+calculado como: k = - LN (fRFAt) / IAF (Flenet et al. 1996). 
+3.2.3.7. Contenido de clorofila en hojas de distintos estratos 
+ Diferencias en la atenuación de la luz en el canopeo podrían afectar el contenido 
+de N y los niveles de fotosíntesis en las hojas de diferentes estratos. En los rebrotes de 
+diciembre y enero antes de realizar el corte se midió en cada parcela el contenido de 
+clorofila en hojas con el medidor SPAD-Minolta como una medida indirecta de los 
+niveles de nitrógeno en distintos estratos. Se midió en tres estratos en función de la 
+altura promedio de todas las parcelas en el día de medición (60 cm y 45 cm para 
+diciembre y enero, respectivamente). En cada estrato se midió el valor de SPAD en 15 
+hojas al azar en distintas plantas.  
+3.2.3.8. Peso por corona, área por corona y diámetro superior de la raíz pivotante 
+ Al finalizar el período experimental (inicios de febrero de 2010) se extrajeron las 
+coronas en uno de los marcos permanentes presentes en cada parcela con el objetivo de 
+analizar si las diferencias en el arreglo espacial generaron cambios estructurales en las 
+coronas. Las mismas fueron secadas por 96 h. en estufa a 60°C registrando el peso seco 
+21 
+ 
+de cada corona, el área de la corona estimada en función del diámetro mayor y el 
+respectivo diámetro perpendicular, y por último el diámetro superior de la raíz 
+pivotante. 
+ 
+3.2.4. Análisis estadístico 
+La dinámica de la producción de biomasa aérea, la densidad de plantas, el índice 
+de rectangularidad, los componentes del rendimiento y la relación hoja:tallo se 
+analizaron en un diseño de bloques completos al azar y medidas repetidas en el tiempo 
+(rebrote). Para los análisis se utilizó el procedimiento MIXED del paquete estadístico 
+SAS v9.1.3 (SAS Institute, Cary, NC. 2004). Se realizaron contrastes polinomiales para 
+evaluar la existencia de tendencias lineales y cuadráticas en los valores medios de cada 
+variable en función de la distancia entre hileras a la siembra. Los coeficientes para 
+calcular los contrastes se obtuvieron por medio del proc IML del paquete estadístico 
+SAS v9.1.3 (SAS Institute, Cary, NC. 2004). Para las variables índice de 
+rectangularidad y relación hoja:tallo se hicieron transformaciones con el LN para 
+cumplir los supuestos del análisis. Para las variables analizadas sólo en los rebrotes de 
+diciembre y enero (IAF, k y clorofila) se efectuaron análisis de la varianza para cada 
+rebrote por separado con un diseño en bloques completos al azar con el proc GLM del 
+paquete estadístico SAS v9.1.3 (SAS Institute, Cary, NC. 2004). Debido a la pérdida de 
+dos parcelas en uno de los bloques se utilizó la SC tipo III que estima los valores 
+faltantes. Para los atributos de las coronas se realizó un análisis de la varianza con un 
+diseño en bloques (n=4: bloques sin datos faltantes) con submuestreo (cada planta). Las 
+variables peso y área por corona fueron transformadas por el LN para cumplir los 
+supuestos del análisis. Adicionalmente, los análisis de regresión y las correlaciones 
+entre las variables evaluadas se realizaron mediante el paquete estadístico InfoStat v. 
+2009 (Di Rienzo et al. 2011). Con el objeto de comparar las pendientes entre la 
+acumulación de biomasa y de RFAia durante todo el período experimental, es decir la 
+EUR, se utilizó la prueba de paralelismo y coincidencia (Pontaque, 2005) con el 
+procedimiento GLM del paquete estadístico SAS v9.1.3 (SAS Institute, Cary, NC. 
+2004). Para el ajuste de la regresión bi-lineal de la producción de la biomasa aérea se 
+uso el paquete estadístico GraphPad Prism v.5.00 (GraphPad Software, San Diego 
+California USA, www.graphpad.com). 
+ 
+3.3. RESULTADOS 
+ 
+3.3.1. Índice de rectangularidad 
+ El índice de rectangularidad se vio afectado por la distancia entre hileras a la 
+siembra (p<0,0001) (Figura 3.2), siendo gradualmente más cercano a la unidad al 
+acercar las hileras de siembra, implicando un arreglo más equidistante entre plantas. Al 
+realizar regresiones lineales entre la distancia entre hileras a la siembra y el LN del 
+índice de rectangularidad para cada recuento, los coeficientes de determinación fueron 
+elevados (entre 89% y 93%), confirmando la estrecha relación entre las dos variables 
+durante este experimento. La interacción de la fecha del recuento con la distancia entre 
+hileras a la siembra no fue significativa (p=0,86). Por los cambios que fueron 
+ocurriendo en la densidad de plantas se registraron disminuciones significativas 
+(p<0,0001) del índice de rectangularidad en los recuentos de diciembre y febrero. Esto 
+quiere decir que la mortalidad de plantas en todas las distancias determinó que en los 
+22 
+ 
+últimos recuentos el índice de rectangularidad disminuyera, y si bien se observó una 
+disminución más acentuada en la distancia de 30 cm, se mantuvieron las posiciones 
+relativas de cada distancia corroborando así el gradiente de arreglo espacial requerido 
+para poder estudiar las hipótesis planteadas durante todo el período experimental.  
+ 
+ 
+0
+5
+10
+15
+20
+25
+20-ago-09
+19-sep-09
+19-oct-09
+18-nov-09
+18-dic-09
+17-ene-10
+16-feb-10
+10 cm
+15 cm
+17,5 cm
+20 cm
+30 cm   
+Figura 3.2. Efecto de la distancia entre hileras a la siembra sobre el índice de 
+rectangularidad del arreglo espacial para el cultivar de alfalfa Monarca, durante la 
+primavera–verano del primer año de vida, para cinco distancias entre hileras a la 
+siembra (10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm). Las parcelas fueron raleadas en post-
+emergencia para uniformar la densidad de plantas m-2. Los valores son medias  ES de 
+cinco repeticiones. 
+ 
+3.3.2. Producción de biomasa aérea 
+ La producción de biomasa aérea fue afectada por la distancia entre hileras a la 
+siembra (p<0,001) (Figura 3.3) con una tendencia lineal significativa a aumentar la 
+producción al acercar las hileras (p<0,01). En promedio para los seis rebrotes evaluados 
+la distancia con el valor de producción más elevado fue 15 cm, aprox. en un 40% 
+superior que la distancia menos productiva de 30 cm entre hileras. Se ajustó una 
+regresión bi-lineal para representar la relación entre la distancia entre hileras a la 
+siembra y la producción de total de biomasa con la finalidad de reflejar la ocurrencia de 
+una distancia entre hileras óptima alrededor de los 15 cm (Figura 3.4). Esta función se 
+caracterizó por tener una mayor reducción de la producción hacia distancias más 
+espaciadas que hacia distancias más cercanas (mayor pendiente) y explicó el 63% de la 
+variación en la producción de biomasa. 
+Como era de esperarse la producción también fue afectada por el rebrote 
+(p<0,0001), pero no hubo una interacción significativa entre ambos (p=0,37). En 
+noviembre se halló la mayor producción (438 g MS m-2) que fue 86% mayor que la 
+menor, correspondiente al mes de enero (236 g MS m-2). Esta producción más alta en 
+noviembre pudo haberse debido en parte a que se retrasó el corte hasta un estado de 
+floración más avanzado que en el resto de los rebrotes. 
+ 
+Índice de rectangularidad 
+23 
+ 
+ 
+0
+100
+200
+300
+400
+500
+600
+20-ago-09
+19-sep-09
+19-oct-09
+18-nov-09
+18-dic-09
+17-ene-10
+16-feb-10
+10 cm
+15 cm
+17,5 cm
+20 cm
+30 cm  
+Figura 3.3. Producción de biomasa aérea por corte de cultivos puros de alfalfa (cultivar 
+Monarca), durante la primavera–verano del primer año de vida, para cinco distancias 
+entre hileras a la siembra (10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm). Las parcelas fueron 
+raleadas en post-emergencia para uniformar la densidad de plantas m-2. Los valores son 
+medias  ES de cinco repeticiones. 
+ 
+ 
+8 10 12 14 16 18 20 22 24 26 28 30 32
+0
+500
+1000
+1500
+2000
+2500
+3000  
+ 
+Figura 3.4. Producción de biomasa aérea total acumulada (suma de seis cortes) de 
+cultivos puros de alfalfa (cultivar Monarca) en función de la distancia entre hileras a la 
+siembra, durante la primavera–verano del primer año de vida. Las parcelas fueron 
+raleadas en post-emergencia para uniformar la densidad de plantas m-2. Los valores son 
+medias  ES de cinco repeticiones. 
+ 
+Producción de biomasa aérea 
+(g MS m-2) 
+Distancia entre hileras a la siembra (cm) 
+Producción de biomasa aérea 
+(g MS m-2) 
+10 cm 
+15 cm 
+17,5 cm 
+20 cm 
+30 cm 
+Distancia entre hileras a la siembra: 
+< 15 cm y = 1988 + 14,48 x 
+> 15 cm y = 2205,2 - 38,26 (x -15) 
+R2 = 0,63 
+24 
+ 
+3.3.3. Componentes del rendimiento: Densidad de plantas, tallos por planta, peso 
+por tallo, y número de tallos.  
+La dinámica de la densidad de plantas fue afectada por la distancia entre hileras 
+a la siembra (p<0,01) (Cuadro 3.1, Figura 3.5.a). Se observó una tendencia lineal 
+significativa en relación con la distancia, indicando una mayor densidad de plantas al 
+acercar las hileras, aun habiendo partido de un mismo número de plántulas (raleo). El 
+caso extremo fue el de la distancia de 30 cm, con una disminución promedio de aprox. 
+20%. Al ajustar regresiones lineales se observó que la distancia entre hileras a la 
+siembra explicó entre el 15 y el 50% de la variación en la densidad de plantas (Figura 
+3.5.a), siendo más explicativa de lo que ocurrió en los rebrotes de primavera que en los 
+rebrotes del verano. El paso del tiempo también tuvo un efecto sobre la densidad de 
+plantas (p<0,0001), aunque sin interaccionar con la distancia entre hileras a la siembra, 
+encontrando una reducción a partir del tercer recuento (diciembre) de aprox. el 10%, 
+que luego se vio acentuada en el recuento posterior (febrero), con una reducción 
+promedio del 26%.  
+El componente tallos planta-1 no fue afectado por el distanciamiento (Cuadro 
+3.1, Figura 3.5.b). Se observó un efecto del rebrote, ya que al avanzar la edad de la 
+pastura, aumentó el número de tallos por planta, y se correlacionó con la disminución en 
+la densidad de plantas (R = -0,66; p<0,0001). 
+El componente número de tallos por unidad de superficie, que integra los dos 
+componentes antes mencionados, número de plantas y tallos por planta, se halló que fue 
+afectado significativamente por la distancia entre hileras a la siembra con una tendencia 
+lineal significativa a aumentar el número al acercar las hileras (Cuadro 3.1). En todos 
+los rebrotes se ajustaron regresiones lineales significativas en las cuales la distancia 
+entre hileras a la siembra explicó entre el 35% y 61% de la variación existente en el 
+número de tallos (Figura 3.5.c). El rebrote también tuvo un efecto significativo sobre 
+este componente, aunque en este caso el mayor número de tallos no estuvo relacionado 
+con la edad de las pasturas pero sí con el nivel productivo, es decir mayor número de 
+tallos en los rebrotes donde se acumuló mayor cantidad de biomasa. 
+Por último, para el componente peso tallo-1 el análisis de la varianza no detectó 
+un efecto significativo del distanciamiento (Cuadro 3.1, Figura 3.5.d). También el 
+rebrote afectó a este componente, y cómo en el número de tallos, se observó que en los 
+rebrotes más productivos el peso por tallo fue mayor. 
+ 
+Cuadro 3.1. Análisis de la varianza y contrastes de tendencias para el efecto de la 
+distancia entre hileras a la siembra y el rebrote sobre los componentes del rendimiento: 
+densidad de plantas, tallos por planta, peso por tallo y número de tallos, para el cultivar 
+de alfalfa Monarca, durante la primavera-verano del primer año de vida. 
+ Densidad de plantas m-2 N° tallos planta-1 Peso tallo-1 N° tallos m-2 
+ -------- Valores P -------- 
+ANOVA     
+Bloque 0,06 0,16 0,13 0,93 
+Distancia <0,01 0,76 0,09 <0,01 
+Rebrote <0,0001 <0,0001 <0,0001 <0,0001 
+Interacción 0,07 0,27 0,96 0,88 
+Contrastes distancias     
+Lineal <0,001 0,60 0,38 <0,001 
+Cuadrático 0,26 0,88 0,15 0,64 
+25 
+ 
+ 
+ 
+0
+2
+4
+6
+5 10 15 20 25 30
+Sep-09
+Dic-09
+Ene-10
+Oct-09
+Para todos los rebrotes:
+R2 < 0,05
+0,52 < p < 0,80
+0
+100
+200
+300
+5 10 15 20 25 30
+10 cm
+15 cm
+17,5 cm
+20 cm
+30 cm
+Ene-10
+Sep-09
+Dic-09
+Oct-09
+0
+0,2
+0,4
+0,6
+5 10 15 20 25 30
+Sep-09
+Dic-09
+Ene-10
+Oct-09
+Para todos los rebrotes:
+R2 < 0,05
+0,48 < p < 0,72
+0
+400
+800
+1200
+5 10 15 20 25 30
+Sep-09
+Dic-09
+Ene-10
+Oct-09
+ Sep-09:  R2 = 0,36   p<0,01
+ Oct-09:   R2 = 0,61   p<0,0001
+ Dic-09:   R2 = 0,38   p<0,01
+ Ene-10:  R2 = 0,35   p<0,01
+ Sep-09:  R2 = 0,39   p<0,01
+ Oct-09:   R2 = 0,50   p<0,001
+ Dic-09:   R2 = 0,26   p = 0,01
+ Ene-10:  R2 = 0,15   p = 0,07  
+ 
+Figura 3.5. Componentes del rendimiento en función de la distancia entre hileras a la 
+siembra para cada rebrote: a)- Densidad de plantas, b)- Número de tallos por planta, c)- 
+Número de tallos m-2, d)- Peso por tallo, para el cultivar de alfalfa Monarca, durante la 
+primavera-verano del primer año de vida. Las parcelas fueron raleadas en post-
+emergencia para uniformar la densidad de plantas m-2. Los valores son medias  ES de 
+cinco repeticiones para cuatro rebrotes (septiembre, octubre, noviembre y diciembre).  
+ 
+Al relacionar los distintos componentes del rendimiento con la producción de 
+biomasa aérea, se encontró que los componentes que presentaron correlaciones lineales 
+positivas significativas fueron la densidad de plantas, el número de tallos m-2 y el peso 
+por tallo (Figura 3.6). De esta forma, la asociación del número de plantas y tallos con la 
+producción, permite deducir que el aumento en el número de estos componentes al 
+acercar la distancia entre hileras a la siembra (Figura 3.5) fue responsable del aumento 
+en la producción de biomasa. La producción de biomasa se asoció más fuertemente con 
+el número de tallos m-2 que con la densidad de plantas (mayor R), de todas formas 
+existió una asociación positiva entre ambas variables (R = 0,61; P<0,0001) indicando 
+que no hubo compensaciones entre ellas. Por otra parte, la asociación del número de 
+tallos m-2 con el peso por tallo si bien fue positiva fue de menor magnitud (R = 0,27; 
+P=0,01) y también indica la ausencia de compensaciones entre estos componentes. La 
+falta de relación entre distancia entre hileras a la siembra y peso por tallo indicaría que 
+otros factores determinaron la asociación entre el peso por tallo y la producción.  
+ 
+ 
+ 
+ 
+ 
+Distancia entre hileras a la siembra (cm) 
+Peso tallo-1 (g MS tallo-1) N° tallos planta-1 
+N° tallos m-2 N° plantas m-2 
+a)- b)- 
+c)- d)- 
+26 
+ 
+ 
+ 
+0
+200
+400
+600
+0 400 800 1200
+R = 0,82
+p<0,0001
+0
+200
+400
+600
+0,0 2,5 5,0 7,5
+R = -0,07
+p = 0,57
+0
+200
+400
+600
+0 100 200 300
+10 cm
+15 cm
+17,5 cm
+20 cm
+30 cm
+R = 0,65
+p<0,0001
+0
+200
+400
+600
+0,0 0,2 0,4 0,6
+R = 0,75
+p<0,0001  
+ 
+Figura 3.6. Relaciones entre la producción de biomasa aérea y los distintos 
+componentes del rendimiento: a)- Densidad de plantas, b)- Número de tallos por planta, 
+c)- Número de tallos, d)- Peso por tallo, para el cultivar de alfalfa Monarca, durante la 
+primavera-verano del primer año de vida, para cinco distancias entre hileras a la siembra 
+(10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm). Las parcelas fueron raleadas en post-
+emergencia para uniformar la densidad de plantas m-2. Se representan todos los valores 
+de cuatro rebrotes (septiembre, octubre, noviembre y diciembre).  
+ 
+3.3.4. Características estructurales de las plantas: Relación hoja:tallo y jerarquías 
+de los tallos por altura 
+ La relación hoja:tallo no se vio afectada por la distancia entre hileras a la 
+siembra (p=0,26). Se encontró un efecto significativo del rebrote (p<0,0001) y la 
+interacción entre distancia y rebrote no fue significativa (p=0,56). El efecto del rebrote 
+estuvo dado por una mayor relación hoja:tallo en octubre (1,60) (Cuadro 3.2), seguida 
+por septiembre (1,48), y disminuyendo en mayor magnitud en los rebrotes de diciembre 
+y enero (0,74). 
+ 
+ 
+ 
+ 
+ 
+ 
+Peso tallo-1 (g MS tallo-1) 
+N° tallos planta-1 
+N° tallos m-2 
+N° plantas m-2 
+Producción de biomasa aérea (g MS m-2) 
+c)- d)- 
+a)- b)- 
+27 
+ 
+Cuadro 3.2. Valores medios y coeficiente de variación de la relación hoja:tallo para el 
+cultivar de alfalfa Monarca, durante la primavera-verano del primer año de vida, para 
+cinco distancias entre hileras a la siembra (10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm). 
+Análisis de la varianza para el efecto de la distancia entre hileras a la siembra y el 
+rebrote sobre la relación hoja:tallo. 
+Distancia (cm) Septiembre Octubre Diciembre Enero 
+10 1,42 1,50 0,74 0,79 
+15 1,44 1,53 0,69 0,71 
+17,5 1,47 1,56 0,75 0,78 
+20 1,64 1,70 0,80 0,74 
+30 1,52 1,75 0,76 0,71 
+     
+Media 1,49b* 1,61a 0,75c 0,74c 
+CV (%) 12,86 12,90 10,24 10,81 
+ANOVA LN Relación hoja:tallo 
+ -------- Valores P -------- 
+Bloque 0,85 
+Distancia 0,26 
+Rebrote <0,0001 
+Interacción 0,56 
+* Letras distintas indican diferencias significativas al 5% (DMS).   
+ 
+ La distribución de la biomasa en función de la categoría de tallos (dominantes, 
+intermedios o suprimidos) no fue afectada por la distancia entre hileras a la siembra 
+(0,38<p<0,98). En general, se observó que la mayor proporción de la biomasa se 
+acumuló en tallos dominantes (67% promedio de cuatro rebrotes) (Cuadro I, Apéndice), 
+seguido por los tallos intermedios (26%), mientras que los suprimidos representaron una 
+pequeña proporción (7%). 
+ 
+3.3.5. Aprovechamiento de la radiación 
+La fRFAi interceptada por el canopeo fue afectada por la distancia entre hileras a 
+la siembra desde el inicio de cada rebrote (Figura 3.7). Se observó que la distancia de 10 
+cm interceptó más radiación, siendo muy similar a 15 cm. A medida que aumentó la 
+distancia, las curvas de intercepción en función del tiempo térmico se ubicaron por 
+debajo de estas dos distancias. En el rebrote de septiembre, si bien todas las distancias 
+llegaron a interceptar más del 95% de la RFA incidente, se modificó el momento en el 
+cual cada distancia alcanzó dicha intercepción, que se adelantó a medida que las hileras 
+se encontraron más cerca. En los rebrotes de noviembre y diciembre se llegaron a 
+alcanzar niveles de intercepción del 95% hacia el final del rebrote sólo para las 
+distancias de 10, 15 y 17,5 cm en noviembre, y para 10 y 15 cm en diciembre. Por el 
+contrario, en los rebrotes de octubre y de enero en ninguna distancia se alcanzó una 
+intercepción del 95%, siendo los valores máximos 91% y 90%, respectivamente, que 
+correspondieron a las parcelas con distancias más cercanas (10 y 15 cm). Se observó un 
+patrón general con dos fases, una primera fase con una pendiente más acentuada de 
+incremento del fRFAi en función del tiempo térmico, seguida luego por una fase con 
+una pendiente menor. 
+28 
+ 
+Consecuentemente, los aumentos en la fRFAi a lo largo de los rebrotes en las 
+distancias más cercanas se tradujeron en diferencias significativas sobre la RFAia 
+(Cuadro 3.3). Se observó que al incrementar la distancia entre hileras a la siembra se 
+redujo progresivamente la RFAia (Figura 3.8), lo cual se constató a partir del contraste 
+de tendencia lineal altamente significativo (p<0,0001). También se observó una 
+tendencia cuadrática (p=0,04) que estuvo dada por una menor tasa de cambio de la 
+RFAia en distancias mayores a 20 cm en todos los rebrotes exceptuando septiembre 
+(Figura 3.8). Al realizar regresiones entre la RFAia y la distancia en cada rebrote, las 
+mismas fueron significativas (p<0,01) en los cinco rebrotes evaluados (0,37<R2<0,66) 
+con una pendiente negativa entre 1,18 y 1,70 MJ de reducción en la RFAia por cada cm 
+de incremento en la distancia por encima de 10 cm. El ajuste de regresiones 
+polinomiales cuadráticas aumentó levemente el coeficiente de determinación 
+(0,45<R2<0,68) con respecto al ajuste lineal simple. 
+ 
+Cuadro 3.3. Análisis de la varianza y contrastes de tendencias para el efecto de la 
+distancia entre hileras a la siembra y el rebrote sobre la RFA interceptada y acumulada 
+(RFAia) y la eficiencia de uso de la radiación (EUR) para el cultivar de alfalfa Monarca, 
+durante la primavera-verano del primer año de vida. 
+ RFAia (MJ) EUR (g MS MJ-1) 
+ -------- Valores P -------- 
+ANOVA   
+Bloque <0,01 0,09 
+Distancia <0,0001 <0,01 
+Rebrote <0,0001 <0,0001 
+Interacción 0,94 0,71 
+Contrastes distancias   
+Lineal <0,0001 <0,01 
+Cuadrático 0,04 <0,01 
+ 
+La EUR también se vio afectada significativamente por la distancia entre hileras 
+a la siembra. En general, se observó un patrón de tipo óptimo donde los valores más 
+altos de EUR se hallaron en 15 y 17,5 cm, disminuyendo hacia distancias menores y 
+mayores (Figura 3.8). Para esta variable los contrastes determinaron tendencias lineales 
+significativas asociadas a disminuciones lineales al cambiar la distancia entre hileras a 
+la siembra por fuera del rango óptimo, mientras que las tendencias cuadráticas 
+estuvieron asociadas a la existencia de un rango óptimo en distancias intermedias. En 
+este caso, se hallaron regresiones polinomiales cuadráticas significativas (p<0,05) para 
+tres de los rebrotes evaluados: octubre, noviembre y enero (0,33<R2<0,38).  
+El rebrote afectó ambas variables (Cuadro 3.3, Figura 3.8). La RFAia fue mayor 
+en septiembre (273 MJ), los rebrotes siguientes acumularon menos radiación, siendo 
+mayor en noviembre (194 MJ), intermedio en octubre y diciembre (164 y 162 MJ), y 
+menor en enero (149 MJ). En cuanto a la variación entre rebrotes de la EUR, el rebrote 
+de septiembre se caracterizó por una menor EUR (1,40 g MS MJ-1), que luego fue 
+aumentando en octubre (1,89 g MS MJ-1) hasta el rebrote de noviembre (2,24 g MS MJ-
+1), y luego decreció nuevamente en diciembre (1,97 g MS MJ-1) y más aún en enero 
+(1,57 g MS MJ-1).  
+ 
+ 
+ 
+0,1
+0,3
+0,5
+0,7
+0,9
+0
+100
+200
+300
+400
+500
+600
+10 cm
+15 cm
+17,5 cm
+20 cm
+30 cm
+0,1
+0,3
+0,5
+0,7
+0,9
+0
+100
+200
+300
+400
+500
+600
+0,1
+0,3
+0,5
+0,7
+0,9
+0
+100
+200
+300
+400
+500
+600
+0,1
+0,3
+0,5
+0,7
+0,9
+0
+100
+200
+300
+400
+500
+600
+0,1
+0,3
+0,5
+0,7
+0,9
+0
+100
+200
+300
+400
+500
+600  
+ 
+Figura 3.7. Fracción de la RFA interceptada (fRFAi) por el canopeo del cultivar de alfalfa Monarca, durante la primavera-verano del primer año 
+de vida, para cinco distancias entre hileras a la siembra (10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm) en función del tiempo térmico acumulado (t° 
+base = 5°C) para cinco rebrotes: a)- septiembre, b)- octubre, c)- noviembre, d)- diciembre, e)- enero. Las barras verticales representan el ES por 
+fecha de medición. 
+f RFAi por el canopeo 
+a)- Septiembre c)- Noviembre  
+d)- Diciembre  e)- Enero  
+b)- Octubre 
+Tiempo térmico acumulado (°C día) 
+30 
+ 
+ 
+0
+50
+100
+150
+200
+250
+300
+10
+15
+17,5
+20
+30
+10
+15
+17,5
+20
+30
+10
+15
+17,5
+20
+30
+10
+15
+17,5
+20
+30
+10
+15
+17,5
+20
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+10
+15
+17,5
+20
+30
+10
+15
+17,5
+20
+30
+10
+15
+17,5
+20
+30
+10
+15
+17,5
+20
+30
+10
+15
+17,5
+20
+30
+Octubre NoviembreSeptiembre Diciembre Enero  
+Figura 3.8. RFA interceptada y acumulada (RFAia; panel superior) y eficiencia de uso de la radiación (EUR; panel inferior) para el cultivar de 
+alfalfa Monarca, durante la primavera-verano del primer año de vida, para cinco distancias entre hileras a la siembra (10 cm, 15 cm, 17,5 cm, 20 
+cm y 30 cm) para cinco rebrotes: a)- septiembre, b)- octubre, c)- noviembre, d)- diciembre, e)- enero. Los valores son medias  ES de cinco 
+repeticiones.
+Distancia entre hileras a la siembra (cm) 
+EUR (g MS MJ-1) RFA ia (MJ) 
+31 
+ 
+ 
+Teniendo en cuenta que no hubo interacción entre distancia entre hileras a la 
+siembra y rebrote se realizó un análisis global del aprovechamiento de la radiación 
+durante el periodo experimental, desde septiembre a enero, considerando la sumatoria 
+de la RFAia y de la biomasa de los cinco rebrotes. En la figura 3.9.a se observó como al 
+acercar la distancia entre hileras a la siembra se incrementó linealmente (p<0,0001) la 
+cantidad de RFA capturada por el cultivo de alfalfa, con un incremento de 8 MJ por 
+cada cm que se acercaron las hileras de siembra. Mientras que para la EUR global de 
+todo el período se observó un patrón de tipo óptimo, que ya había sido observado para 
+la EUR por rebrote con la mayores eficiencias en las distancias intermedias, por lo que 
+se ajustó una regresión polinomial cuadrática (Figura 3.9.b). Coincidentemente, la EUR 
+estimada como la pendiente de la regresión lineal entre la sumatoria de la biomasa y la 
+sumatoria de la RFAia (Figura 3.10) mostró diferencias significativas entre las distancias 
+entre hileras a la siembra (p=0,002), alcanzando el valor más elevado en la distancia de 
+15 cm (2,17 g MS MJ-1), que fue significativamente mayor que en la distancias de 30 
+cm (p=0,0002) y 10 cm (p=0,015). En cambio, no difirió de las distancias de l7,5 cm y 
+20 cm (p>0,05).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+32 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 3.9. a)- Sumatoria de RFA interceptada y acumulada (RFAia) durante el período 
+experimental (septiembre a enero), y b)- Eficiencia de uso de la radiación (EUR) global 
+en función de la distancia entre hileras a la siembra para el cultivar de alfalfa Monarca, 
+durante la primavera-verano del primer año de vida. Se calculó EUR global como el 
+cociente de la  Producción de biomasa y la  RFAia durante el período experimental. 
+Se representan los valores de cinco repeticiones. 
+ 
+5 10 15 20 25 30 
+1,00 
+1,25 
+1,50 
+1,75 
+2,00 
+2,25 
+2,50 
+5 10 15 20 25 30 
+700 
+900 
+1000 
+1100 a)-  
+b)-  
+y = 1085 – 8,03 x 
+R2 = 0,76 
+p<0,0001 
+10 cm 
+15 cm 
+17,5 cm 
+20 cm 
+30 cm 
+Distancia entre hileras a la siembra (cm) 
+y = 1,345 + 0,064 x – 0,0019 x2 
+R2 = 0,45 
+p<0,01 
+800 
+ RFA ia (MJ) EUR Global (g MS MJ-1) 
+33 
+ 
+ 
+0
+500
+1000
+1500
+2000
+2500
+0 200 400 600 800 1000 1200
+10 cm
+15 cm
+17,5 cm
+20 cm
+30 cm
+Lineal (10 cm)
+Lineal (15 cm)
+Lineal (17,5 cm)
+Lineal (20 cm)
+Lineal (30 cm)
+Ecuaciones de regresión: 
+R2 > 0,94 ; p < 0,0001
+10 cm      y = 1,925 (0,102) x - 120,11 (71,5)
+15 cm      y = 2,171 (0,075) x - 167,28 (51,8)
+17,5 cm   y = 2,134 (0,069) x - 199,27 (45,5)
+20 cm      y = 1,984 (0,043) x - 150,71 (27,0)
+30 cm      y = 1,726 (0,066) x - 106,74 (39,6)
+ 
+ 
+Figura 3.10. Sumatoria de biomasa acumulada en función de la sumatoria de RFA 
+interceptada y acumulada (RFAia) durante el período experimental (septiembre a enero). 
+Las pendientes de las rectas de regresión representan la eficiencia de uso de la radiación 
+(EUR) para cinco distancias entre hileras a la siembra para el cultivar de alfalfa 
+Monarca, durante la primavera-verano del primer año de vida. Se representan los 
+valores de cinco repeticiones. 
+ 
+3.3.6. Índice de área foliar y coeficiente de extinción de luz 
+ La distancia entre hileras a la siembra afectó el IAF en los dos rebrotes 
+evaluados (Cuadro 3.4) lo cual tiene relación con la intercepción de radiación ya que el 
+IAF es uno de los atributos del canopeo que directamente determinan esta variable. En 
+el rebrote de diciembre se encontró que la distancia de 30 cm presentó un menor IAF 
+que el resto de las distancias. En enero, en cambio se encontró que las distancias de 30 
+cm, 20 cm y 10 cm tuvieron un menor IAF que la distancia de 15 cm. De acuerdo a 
+estos resultados se observa las diferencias significativas en el IAF entre distancias 
+ocurrieron entre las distancias más contrastantes en producción de biomasa (Figura 3.4). 
+Para el valor k no se hallaron diferencias entre distancias entre hileras a la siembra, 
+presentando en ambos rebrotes altos niveles de variabilidad (15 y 23% de coeficiente de 
+variación, para diciembre y enero respectivamente). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RFA ia (MJ) 
+ Biomasa (g MS m-2) 
+34 
+ 
+Cuadro 3.4. Valores medios del índice de área foliar (IAF) y del coeficiente de extinción 
+de luz (k) del canopeo del cultivar de alfalfa Monarca, en dos rebrotes (diciembre y 
+enero) del primer año de vida, para cinco distancias entre hileras a la siembra (10 cm, 15 
+cm, 17,5 cm, 20 cm y 30 cm). Análisis de la varianza para el efecto de la distancia entre 
+hileras a la siembra y el rebrote sobre IAF y el k. 
+Distancia (cm) IAF  diciembre IAF enero k  diciembre k enero 
+10 4,10ª* 2,25b 0,74 1,07 
+15 3,64ª 3,03ª 0,86 0,81 
+17,5 3,87ª 2,31ab 0,69 1,01 
+20 3,69ª 2,09b 0,64 0,92 
+30 2,87b 1,86b 0,74 0,95 
+ANOVA -------- Valores P -------- 
+Bloque 0,02 0,31 0,05 0,23 
+Distancia <0,01 <0,05 0,15 0,47 
+* Letras distintas indican diferencias significativas al 5% (DMS). 
+ 
+3.3.7. Contenido de clorofila en hojas de distintos estratos 
+ Los valores de clorofila en cada estrato son indicadores de la distribución del 
+nitrógeno en el canopeo y tiene relación con las características del canopeo. En el 
+rebrote de diciembre se observó una tendencia (p=0,08) (Cuadro 3.5) a un menor valor 
+de clorofila (SPAD) en el estrato inferior en la distancia de 10 cm comparado con las 
+distancias de 20 y 30 cm. En el rebrote siguiente se hallaron diferencias significativas en 
+el valor de clorofila en el estrato inferior (p<0,05), con menos clorofila en las distancias 
+de 10 y 15 cm que en la distancia de 30 cm. Estos resultados tienen relación con la 
+mayor fRFAi observada en distancias cercanas, que pudo haber determinado una menor 
+llegada de radiación al estrato inferior conduciendo a los cambios observados en la 
+clorofila. 
+ 
+Cuadro 3.5. Valores medios de clorofila (SPAD) en tres estratos (inferior, medio y 
+superior) del canopeo del cultivar de alfalfa Monarca, en dos rebrotes (diciembre y 
+enero) del primer año de vida, para cinco distancias entre hileras a la siembra (10 cm, 15 
+cm, 17,5 cm, 20 cm y 30 cm). Análisis de la varianza para el efecto de la distancia entre 
+hileras a la siembra y el rebrote sobre el contenido de clorofila. 
+ SPAD diciembre SPAD enero 
+Estrato Inferior (0-20cm) Medio (20-40cm) Superior  (40-60cm) Inferior (0-15cm) Medio (15-30cm) Superior  (30-45cm) 
+Distancia (cm)       
+10 29,6b* 37,7 44,9 34,9b 42,2 51,0 
+15 32,6ab 38,9 45,3 35,5b 43,4 51,0 
+17,5 33,0ab 39,0 45,1 36,6ab 44,1 51,2 
+20 33,2ª 37,7 43,3 37,7ab 43,9 49,4 
+30 34,0a 38,6 44,0 40,0a 45,2 50,1 
+ANOVA -------- Valores P -------- 
+Bloque 0,53 0,18 0,68 0,54 0,69 0,32 
+Distancia 0,08 0,83 0,44 <0,05 0,47 0,63 
+* Letras distintas indican diferencias significativas al 5% (DMS).   
+35 
+ 
+ 
+3.3.8. Peso por corona, área por corona y diámetro superior de la raíz pivotante 
+ Las características estructurales de las coronas de las plantas brindan 
+información acerca del vigor de las plantas, y tiene relación con las condiciones en las 
+cuales ocurrió su crecimiento. De acuerdo con el análisis de la varianza las 
+características estructurales de las coronas de las plantas de alfalfa no presentaron 
+diferencias significativas para ninguno de los tres atributos considerados (Cuadro 3.6). 
+No obstante, se observó que las distancias de 15 cm y 17,5 cm presentaron un valor del 
+cuartil superior mayor que el resto de las distancias, especialmente para los atributos 
+peso por corona y área por corona, indicando que en estas distancias la distribución de 
+tamaños de coronas fue distinta, donde el cuartil superior de la población tuvo un peso y 
+área por corona mayor que en las otras distancias. En las distancias de 15 cm y 17,5 cm 
+se observaron los valores mayores de EUR (Figura 3.9) y en la distancia de 15 cm los 
+valores absolutos más altos de producción total de biomasa aérea, lo cual puede tener 
+relación con la distribución de plantas diferente, y la presencia de plantas más vigorosas 
+en dichas distancias. 
+ 
+Cuadro 3.6. Valores medios ± ES y cuartiles inferiores (Q1) y superiores (Q3) para el 
+peso y el área de las coronas, y para el diámetro de la raíz pivotante al finalizar el 
+período experimental del cultivar de alfalfa Monarca para cinco distancias entre hileras 
+a la siembra (10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm). Análisis de la varianza para el 
+efecto de la distancia entre hileras a la siembra y el rebrote sobre el peso y el área de las 
+coronas, y para el diámetro de la raíz pivotante. 
+ Peso corona (g corona-1) Área corona (cm2) Diámetro raíz pivotante (cm) 
+Distancia (cm) Media ± ES Q1 - Q3 Media ± ES Q1 - Q3 Media ± ES Q1 - Q3 
+10 (n = 46) 0,39±0,05 (0,13-0,52) 1,24±0,20 (0,38-1,69) 0,34±0,02 (0,25-0,45) 
+15 (n = 46) 0,66±0,10 (0,15-0,96) 2,35±0,48 (0,46-1,81) 0,38±0,02 (0,26-0,51) 
+17,5 (n = 45) 0,54±0,10 (0,15-0,81) 1,62±0,41 (0,28-1,77) 0,37±0,02 (0,26-0,50) 
+20 (n = 50) 0,55±0,11 (0,17-0,58) 1,79±0,51 (0,32-1,47) 0,38±0,02 (0,27-0,46) 
+30 (n = 32) 0,43±0,06 (0,16-0,62) 1,00±0,16 (0,29-1,18) 0,34±0,02 (0,24-0,41) 
+ANOVA LN Peso corona LN Área corona Diámetro raíz 
+ -------- Valores P -------- 
+Bloque 0,21 0,28 0,23 
+Distancia 0,52 0,53 0,44 
+36 
+ 
+3.4. DISCUSIÓN 
+ En este experimento se logró que el índice de rectangularidad fuera diferente en 
+todo el rango de distancias evaluadas, con una disminución progresiva al acercar la 
+distancia (Figura 3.2). De esta forma al acercar las hileras de siembra la distribución de 
+las plantas fue más uniforme i.e. menor distancia entre hileras y mayor distancia entre 
+plantas dentro de cada hilera (Figura 3.1). El establecimiento de canopeos con diferentes 
+índices de rectangularidad generados a partir de cambios en la distancia entre hileras a 
+la siembra es la base que permitió poner a prueba las hipótesis planteadas. 
+La producción de biomasa en este experimento fue elevada (Figura 3.3), lo cual 
+era esperable por las condiciones cercanas a las óptimas, el ambiente de Rafaela se 
+ubica dentro de los más favorables en el país para la producción de este cultivo (Spada 
+2008), sumado a condiciones favorables durante este ensayo en cuanto a disponibilidad 
+de agua y control de adversidades. Los resultados hallados demuestran la existencia de 
+una relación lineal significativa de aumento de la producción de biomasa aérea del 
+cultivo de alfalfa al acercar la distancia entre hileras a la siembra hasta un punto óptimo, 
+alrededor de los 15 cm, y que por debajo del cual la producción de biomasa decrece. 
+Para representar este patrón se ajustó una regresión bi-lineal que explicó el 63 % de la 
+variación existente (Figura 3.4). El aumento de la producción en arreglos espaciales más 
+cuadrados hasta la distancia de 15 cm coincide con lo planteado en la hipótesis “a” de 
+este trabajo. El resultado del aumento de la producción al acercar la distancia de 
+siembra y lograr arreglos más cuadrados coincide con lo hallado previamente en Rafaela 
+(Capítulo 2, Mattera et al. 2009) y en Australia (Roufail 1975) donde en ensayos de 
+largo plazo se encuentran aumentos de la producción de entre el 5 al 20% al acercar las 
+hileras. En este experimento, el mayor aumento relativo de la producción de biomasa, 
+entre el 16 al 42% (Cuadro 3.7) probablemente se haya debido a analizar los rebrotes de 
+primavera y verano, que es donde se concentra el efecto de la distancia (Capítulo 2, 
+Mattera et al. 2009), y donde la partición hacia corona y raíces sería menor, 
+particularmente en primavera, potenciando los efectos sobre la producción de biomasa 
+aérea (Khaiti y Lemaire 1992, Brown et al. 2006). Por otra parte, en la distancia de 10 
+cm si bien el arreglo espacial fue más cuadrado que en 15 cm la producción de biomasa 
+disminuyó, no cumpliendo en este caso la hipótesis planteada, y coincidiendo con la 
+respuesta de tipo óptimo previamente observada en Rafaela (Capítulo 2, Mattera et al. 
+2009). Con respecto a la calidad del forraje cosechado no se esperarían cambios 
+asociados a la composición morfológica de las pasturas debido a que la relación 
+hoja:tallo no fue afectada por la distancia entre hileras a la siembra (Cuadro 3.2). 
+ 
+Cuadro 3.7. Efecto de la distancia entre hileras a la siembra sobre la radiación 
+fotosintéticamente activa interceptada acumulada (RFAia) y la producción de biomasa 
+expresado como desviación porcentual de la distancia de 30 cm para el cultivar de 
+alfalfa Monarca. Calculado sobre el valor promedio de cinco rebrotes donde se evaluó la 
+intercepción de radiación (septiembre, octubre, noviembre, diciembre y enero). 
+ Distancia (cm) 
+ 10 15 17,5 20 
+Dif. % RFAia + 16 + 13 + 9 + 4 
+Dif. % Producción de biomasa + 29 + 42 + 28 + 16 
+     
+Dif. RFAia / 
+ Dif. Producción de biomasa 0,54 0,32 0,30 0,24 
+37 
+ 
+ 
+A pesar del control inicial de la densidad de plantas se observó un efecto de la 
+distancia entre hileras a la siembra posterior al raleo, con una mayor densidad de plantas 
+a medida que fue disminuyendo la distancia entre hileras a la siembra (Figura 3.5.a). 
+Esta mayor densidad de plantas establecidas coincide con lo hallado previamente en 
+Rafaela (Capítulo 2, Mattera et al. 2009) y en Australia (Roufail 1975), y también en 
+pasturas de agropiro en Balcarce (Bertram 2008). Las diferencias en la densidad de 
+plantas por efecto del rebrote (Cuadro 3.1, Figura 3.5.a) indican que en todas las 
+distancias ocurrió mortalidad denso-dependiente. Sin embargo, la relación significativa 
+entre distancia entre hileras a la siembra y densidad de plantas evidencia que en 
+distancias más espaciadas la competencia intra-específica fue más intensa, con una 
+mayor mortalidad denso-dependiente desde etapas tempranas en el ciclo de la pastura. 
+En diversas especies de pasturas la tasa de mortalidad se relaciona con la distancia al 
+vecino más cercano (Skinner 2005) lo cual coincide con lo hallado en este experimento 
+ya que en las distancias entre hileras más espaciadas las plantas estuvieron más juntas 
+en la hilera y aumentó la mortalidad de plantas. Cabe destacar que la densidad de 
+plantas se redujo más fuertemente por la época de año que por la distancia entre hileras 
+a la siembra, con una pérdida de plantas muy importante durante el verano, 
+particularmente entre los meses de diciembre y enero, coincidiendo con la mayor 
+mortalidad de plantas durante el verano asociada a las altas tasas de crecimiento del 
+cultivo (Gosse et al. 1988). 
+Los componentes que variaron entre distancias entre hileras a la siembra fueron 
+la densidad de plantas y el número de tallos por m-2, aumentando ambos con menores 
+distancias (Figura 3.5) y con una correlación significativa entre ambos componentes 
+(R=0,61; p<0,0001). La distancia entre hileras a la siembra afectó en mayor medida al 
+número de tallos m-2 (mayores R2). Ambos componentes se correlacionaron 
+positivamente con la producción de biomasa, aunque en mayor magnitud el número de 
+tallos (Figura 3.6.a y 3.6.c). Esto quiere decir que el mayor número de tallos por 
+superficie determinado por una mayor densidad de plantas al acercar la distancia entre 
+hileras a la siembra, fue responsable del incremento observado en la producción de 
+biomasa. Sin embargo, el análisis de los componentes del rendimiento no permitió 
+dilucidar el componente determinante de la caída de la producción en la distancia de 10 
+cm. La importancia de los distintos componentes del rendimiento en la explicación del 
+efecto sobre la producción de biomasa varía de acuerdo con la práctica de manejo 
+considerada. Existen experimentos en alfalfa donde la dinámica del número de plantas 
+(Teixeira et al. 2007a) y de tallos por superficie se asoció al ambiente lumínico y la 
+competencia por luz (Varella 2002). Los resultados hallados en este experimento 
+coinciden con los antecedentes de cambio en los componentes de número de plantas y 
+número de tallos por superficie asociados al ambiente lumínico. Aunque en nuestro 
+experimento el efecto principal fue la disminución en la densidad de plantas en los 
+arreglos más rectangulares, y al no cambiar el número de tallos por planta, se produce 
+por lo tanto la disminución en el número de tallos por unidad de superficie. De todas 
+formas, no se puede descartar que también hayan intervenido procesos de competencia 
+por agua y/o nutrientes. Existen antecedentes donde el peso por tallo es el componente 
+del rendimiento que explica las diferencias causadas por prácticas como la fertilización 
+(Berg et al. 2005) o la frecuencia de pastoreo (Teixeira et al. 2007a). No fue este el caso 
+de la distancia entre hileras a la siembra, ya que en este experimento, ni el número de 
+tallos por planta, ni el peso por tallo se vieron afectados por la distancia entre hileras a 
+la siembra. En este resultado podría haber intervenido una baja sensibilidad de la alfalfa 
+a cambios en la calidad de la radiación (relación rojo/rojo lejano), o que por el contrario 
+la calidad de la radiación no se haya afectado por la distancia entre hileras a la siembra, 
+38 
+ 
+en ambos casos no se hallaron antecedentes en alfalfa. Por otra parte, el resultado 
+hallado significa que en distancias más cercanas el mayor número de tallos y plantas por 
+unidad de superficie no implicó compensaciones (reducciones) por el lado del peso por 
+tallo o la cantidad de tallos por planta. Los resultados en el número de tallos fueron 
+consistentes con la hipótesis “b” de un mayor número a menor distancia por una menor 
+competencia intra-específica, mientras que no fue así para el peso por tallo. A pesar de 
+esto, el peso por tallo se correlacionó positivamente con la producción de forraje (Figura 
+3.6.d) lo cual podría estar relacionado con parte de la variación de la producción que no 
+fue explicada por la distancia entre hileras a la siembra, y que pudo deberse a la 
+estacionalidad de la producción, a características edáficas diferentes de las parcelas y/o 
+la variabilidad genética de la variedad utilizada. En relación con la estacionalidad de la 
+producción y la variación en el peso por tallo, el proceso de almacenamiento y la 
+removilización de asimilados hacia o desde la corona y raíces tiene un rol importante 
+determinando la partición de biomasa hacia cada tallo individual. De esta forma, 
+considerando que la partición a raíces y corona aumenta hacia el final del verano 
+(Brown et al. 2006), es factible que el peso por tallo en enero se haya visto reducido por 
+una mayor partición de biomasa hacia órganos subterráneos dando lugar a una menor 
+producción de biomasa aérea. 
+Durante el progreso del rebrote en el cultivo de alfalfa existe mortandad de tallos 
+por la competencia por luz siendo más perjudicados los tallos provenientes de yemas de 
+tallos basales que aquellos de yemas de la corona (Gosse et al. 1988). Por medio de otra 
+categorización de los tallos en función de su altura se observó una mayor mortandad 
+durante el rebrote de los tallos suprimidos e intermedios que de los dominantes 
+(Teixeira et al. 2007a). Al aumentar la competencia por luz se esperaban cambios en la 
+distribución de biomasa entre jerarquías de tallos, i.e. mayor proporción de la biomasa 
+en tallos dominantes en distancias entre hileras a la siembra más espaciadas como 
+consecuencia de una mayor mortandad de tallos suprimidos e intermedios. Aunque no 
+sucedió esto en este ensayo ya que no se encontraron diferencias entre distancias 
+(Cuadro I, Apéndice) y en todos los casos los tallos dominantes representaron la mayor 
+proporción de la biomasa acumulada. En este experimento los únicos atributos que 
+fueron medidos por individuo fueron las características de las coronas al finalizar el 
+ensayo y se encontró una distribución en las distancias de 15 cm y 17,5 cm donde el 
+cuartil superior de la población presentó mayor peso y área de corona que en el resto de 
+las distancias, lo cual podría resultar un efecto de la competencia intra-específica que 
+según Park et al (2003) puede ocasionar la alteración de la jerarquía de tamaños de los 
+individuos de la población. 
+De acuerdo a los resultados obtenidos en este experimento se pudo comprobar la 
+hipótesis “c” de un incremento en la RFAia por el acercamiento de las hileras de siembra 
+(Cuadro 3.3, Figura 3.8 y Figura 3.9.a). El efecto sobre la intercepción no sólo se 
+explicó por alcanzar antes el IAF crítico, sino también por la mayor intercepción de 
+radiación al acercar la distancia entre hileras por debajo de este umbral (Figura 3.7). 
+Este efecto de la distancia entre hileras a la siembra había sido registrado en diversos 
+cultivos agrícolas, pero no se contaban con antecedentes en alfalfa, donde las 
+características del cultivo y del uso que se realiza del mismo, son muy distintas a las 
+condiciones en que se manejan los cultivos para granos. En este experimento, se 
+modificó significativamente el IAF al momento del corte, pero las diferencias en este 
+atributo se observan más bien entre las distancias más contrastantes en términos 
+productivos (Cuadro 3.4) y no llegan a explicar plenamente los patrones de RFAia. En 
+varios cultivos el acercamiento de las hileras aumentó la intercepción por cambios en la 
+arquitectura del canopeo, i.e. mayor coeficiente de extinción de luz (k), en maíz (Flenet 
+39 
+ 
+ 
+et al. 1996; Barbieri et al. 2000), soja (Flenet et al. 1996), y girasol (Zaffaroni y 
+Schneiter 1989; Flenet et al. 1996). Al analizar el coeficiente k en este experimento no 
+se hallaron diferencias significativas entre las distancias, sin embargo es preciso 
+destacar que el k se estimó a partir de los datos obtenidos en el momento previo al corte, 
+por lo que se desconoce cómo fue la evolución del k durante el rebrote. De esta forma 
+los menores valores de clorofila en el estrato inferior al reducir la distancia entre hileras 
+a la siembra podrían ser entonces un indicio de un mayor k durante el rebrote, teniendo 
+en cuenta que en alfalfa el perfil de distribución del nitrógeno se relaciona con el perfil 
+de distribución de la luz (Lemaire et al. 1991) 
+ Al analizar los cambios en la RFAia y los cambios en la producción de biomasa 
+(Cuadro 3.7) se observa que los cambios en la producción fueron relativamente más 
+importantes que los cambios en la intercepción, lo cual se explica por las diferencias 
+que se observaron en la EUR. Estas diferencias en EUR fueron inesperadas y no 
+concuerdan con la hipótesis “d” planteada en este trabajo. El patrón observado para la 
+EUR fue más bien de tipo óptimo (15 cm) (Figura 3.8, Figura 3.9.b y Figura 3.10) y se 
+proponen dos explicaciones para el mismo. Por un lado la EUR disminuye en la 
+distancia de 10 cm, donde se registraron menores valores de clorofila en el estrato 
+inferior (Cuadro 3.6), lo cual se relaciona con el cierre más temprano del canopeo, y la 
+relación estrecha que existe entre la radiación que llega a las hojas y su contenido de 
+nitrógeno (Lemaire et al. 1991). En este caso, los menores valores de clorofila podrían 
+ser indicativo de menores niveles de fotosíntesis en este estrato, así como también de 
+mayor senescencia de hojas, que en ambos casos repercute negativamente sobre la EUR. 
+Por otra parte, la menor EUR estuvo relacionada con un menor IAF alcanzado al 
+momento de corte de la pastura (Figura 3.11) y explicaría las menores EUR en las 
+distancias más espaciadas, especialmente en la distancia de 30 cm donde se registraron 
+los menores valores de IAF. Esta relación entre IAF y EUR ha sido reportada 
+previamente en otros cultivos (Sinclair y Horie 1989; Hall et al. 1996; Ruíz et al. 2008) 
+como consecuencia de que en valores bajos de IAF mayor proporción de las hojas se 
+encuentran en saturación lumínica donde la eficiencia cuántica es menor. El efecto del 
+aumento del IAF sobre la EUR se observa más bien en valores bajos de IAF (Sinclair y 
+Horie 1989), que sería el caso de este experimento donde el cultivo de alfalfa tuvo 
+períodos de crecimiento relativamente cortos, por lo que la mayor parte de los rebrotes 
+transcurrieron con IAF bajos.  
+ 
+40 
+ 
+R = 0,81
+p < 0,0001
+0,0
+0,5
+1,0
+1,5
+2,0
+2,5
+3,0
+0 1 2 3 4 5 6
+10 cm 10 cm
+15 cm 15 cm
+17,5 cm 17,5 cm
+20 cm 20 cm
+30 cm 30 cm
+Diciembre Enero
+ 
+Figura 3.11. Relación entre el índice de área foliar (IAF) y la eficiencia de uso de la 
+radiación (EUR) para el cultivar de alfalfa Monarca, para dos rebrotes (diciembre y 
+enero) en el primer año de vida, para cinco distancias entre hileras a la siembra (10 cm, 
+15 cm, 17,5 cm, 20 cm y 30 cm). Se representan los valores de cinco repeticiones. 
+ 
+La EUR del cultivo de alfalfa también fue afectada por el rebrote, es decir por la 
+estacionalidad, siendo consistente con antecedentes que demuestran la existencia de una 
+relación de la EUR con la temperatura, con incrementos lineales de la EUR al aumentar 
+la temperatura hasta un valor umbral (21,3° C) por encima del cual se estabiliza 
+(Collino et al. 2005). En este experimento el patrón fue similar, sin embargo, en los 
+rebrotes de diciembre y enero, con temperaturas mayores al umbral (25° C) disminuyó 
+la EUR, lo que podría ser indicio de una mayor partición hacia órganos subterráneos. 
+ El acercamiento de las hileras modificó radicalmente el arreglo espacial de las 
+plantas del cultivo de alfalfa afectando significativamente tanto los componentes del 
+rendimiento, densidad de plantas y el número de tallos por superficie, como también los 
+componentes del modelo ecofisiológico, actuando tanto al nivel de la intercepción, 
+como de la eficiencia de uso de la radiación. Estos arreglos espaciales más equidistantes 
+entre las plantas en las distancias más cercanas promovieron condiciones de menor 
+competencia intra-específica permitiendo una mayor supervivencia de plantas sin que 
+las mismas redujeran su crecimiento (mismo número de tallos por planta y peso por 
+tallo), lo cual resultó en el mayor número de tallos establecidos por superficie que 
+explicaron en parte los aumentos en la producción de biomasa. Estos resultados 
+sugieren que en distancias cercanas sería más factible alcanzar un mayor número de 
+plantas que permite elevar la producción de biomasa (Volenec et al. 1987). Sin 
+embargo, la respuesta del aumento de la densidad en distancias cercanas cuando no 
+estuvo asociada a una mejora en el arreglo espacial no implicó una mayor producción de 
+biomasa, como fue observado en la distancia de 15 cm en el experimento previo en 
+Rafaela (Capítulo 2, Mattera et al. 2009).  Desde la aproximación ecofisiológica, en el 
+rango de distancias evaluado la respuesta en la intercepción fue lineal, mientras que en 
+la EUR fue de tipo óptimo. Para caracterizar la respuesta en producción de biomasa 
+aérea total se ajustó una relación bi-lineal determinada por el efecto del patrón tipo 
+EUR (g MS MJ-1) 
+IAF (m2 m-2) 
+41 
+ 
+ 
+óptimo de la EUR. Por otra parte, si bien la alfalfa ha sido caracterizada como una 
+especie eficiente en términos de la captura de la radiación (Travis y Reed 1983; Heichel 
+et al. 1988) los resultados aquí obtenidos indican una limitada flexibilidad (plasticidad) 
+para compensar los cambios producidos por el arreglo espacial. En este sentido, sería de 
+interés en el futuro estudiar el efecto de la distancia sobre el coeficiente de extinción de 
+luz y el IAF en distintos momentos del rebrote en materiales con características 
+estructurales diferentes e.g variedades multifoliadas. Esta información podría también 
+ser útil para profundizar la comprensión de los cambios en la eficiencia de uso de la 
+radiación asociada a bajos IAF durante el transcurso de los rebrotes. 
+  
+  
+42 
+ 
+Capítulo 4: DISCUSIÓN GENERAL 
+ 
+4.1. Efectos de la distancia entre hileras a la siembra sobre la acumulación de 
+biomasa aérea y mecanismos involucrados 
+Con la finalidad de estudiar la influencia del arreglo espacial modificado a través 
+de cambios en la distancia entre hileras a la siembra sobre el comportamiento 
+productivo de pasturas perennes de alfalfa se realizaron dos ensayos que aportaron 
+información desde facetas diferentes y complementarias. 
+En un primer experimento se evaluaron las distancias más comúnmente 
+utilizadas en Argentina para la siembra de pasturas (15 cm, 17,5 cm y 21 cm) conforme 
+a las características de los equipos de siembra comúnmente utilizados en el país, 
+sembradas con una misma densidad de semillas por ha (7 Kg.). Este experimento fue de 
+largo plazo evaluando tres ciclos de producción sobre la misma pastura, lo cual resulta 
+un aspecto clave a considerar en pasturas perennes, y particularmente en alfalfa que no 
+tiene capacidad de resiembra. De esta forma, la información obtenida permitió estudiar 
+el efecto sobre la producción de biomasa en toda la vida de la pastura, identificando los 
+períodos donde ocurrieron las diferencias, y permitiendo también evaluar el efecto sobre 
+la persistencia de la pastura. Adicionalmente, este primer ensayo se realizó en dos 
+cultivares de alfalfa ampliamente difundidos en el país: Monarca (sin reposo invernal) y 
+Victoria (reposo invernal intermedio). Las plantas de alfalfa con diferente grado de 
+reposo invernal se caracterizan por poseer características estructurales diferentes e.g. un 
+menor tamaño de corona y tallos más erectos en variedades sin reposo invernal 
+(Rossanigo et al. 1995) y esto podría modificar la respuesta al distanciamiento. En este 
+experimento se estudió la dinámica de los componentes del rendimiento como la 
+densidad de plantas por superficie y el peso aéreo promedio por planta. Este primer 
+experimento aportó información novedosa acerca del efecto de la distancia entre hileras 
+a la siembra sobre la producción en el largo plazo, y si bien existían antecedentes en 
+alfalfa en otros países (Roufail 1975; Lutz y Morley 1982) no existían en Argentina en 
+cultivos puros de alfalfa. 
+En un segundo experimento se estudió el efecto del distanciamiento en el 
+cultivar Monarca en un período más acotado de tiempo (primavera y verano del primer 
+año de crecimiento). En este caso se evaluó un rango más amplio de distanciamientos 
+(10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm) generando un gradiente en los arreglos 
+espaciales obtenidos. En este experimento se controló la densidad de plantas por medio 
+de un raleo en post-emergencia del cultivo estableciendo una densidad de 250 plantas 
+m-2. Se estudió el efecto sobre la producción de biomasa con la aproximación de los 
+componentes del rendimiento de forraje con un nivel de detalle mayor que en el primer 
+ensayo: densidad de plantas por superficie, número de tallos por planta, número de 
+tallos por superficie y peso por tallo. En este experimento se estudió también el efecto 
+sobre la producción de biomasa aérea con la aproximación ecofisiológica de 
+intercepción y uso de la radiación. Se estudiaron también variables secundarias (relación 
+hoja:tallo, jerarquías de tallos, IAF, nivel de clorofila por estrato y características de las 
+coronas) que aportaron a la comprensión de los resultados obtenidos. Este segundo 
+experimento es el primer trabajo en alfalfa donde se estudiaron los efectos de la 
+distancia entre hileras a la siembra sobre la producción de biomasa y los componentes 
+del rendimiento en el marco del modelo de aprovechamiento de la radiación. 
+Al estudiar el impacto de la distancia entre hileras a la siembra sobre los 
+componentes de rendimiento del cultivo de alfalfa en ambos experimentos se observó 
+que al acercar las hileras de siembra se estableció una mayor densidad de plantas, esto 
+43 
+ 
+ 
+fue así en el período inicial del primer experimento (Figura 2.3.a) y durante todo el 
+segundo experimento (Figura 3.5.a). La mayor densidad podría deberse a una mayor 
+emergencia o a una menor mortalidad de plántulas. La emergencia no fue estudiada en 
+esta tesis pero los resultados hallados en el segundo experimento, con cambios en la 
+densidad luego del raleo, confirman la existencia de una menor mortalidad en distancias 
+cercanas. Esta mayor supervivencia de plantas es evidencia de un ambiente competitivo 
+menos intenso en distancias cercanas con arreglos espaciales más cuadrados. Por otra 
+parte, la reducción en el peso de los individuos con el aumento de la densidad es 
+también un efecto resultante de la competencia intra-específica (Park et al. 2003). En 
+este aspecto, los resultados difirieron entre experimentos. En el primer experimento el 
+mayor número de plantas instalado provocó una reducción en el tamaño por planta 
+disminuyendo la producción total de biomasa en la distancia más cercana (15 cm). En 
+cambio, en el segundo experimento al acercar las hileras aumentó el número de plantas 
+y tallos por superficie pero no se registraron reducciones en el tamaño de los mismos, 
+originando la respuesta positiva observada en la producción de biomasa. 
+Comparativamente, en la primavera posterior a la siembra el segundo experimento tuvo 
+en promedio un 20% menos plantas pero con un peso por planta 456% mayor que en el 
+primer experimento. Es decir, en el segundo experimento la mayor densidad de plantas 
+establecidas en distancias cercanas ocurrió con plantas más vigorosas y esto permitió 
+que el tamaño de las mismas no se viera afectado, contrariamente a lo ocurrido en el 
+primer experimento. Adicionalmente, en el segundo experimento una menor distancia 
+entre hileras a la siembra implicó siempre un arreglo espacial más cuadrado, mientras 
+que en el primer experimento las distancias de 15 cm y 17,5 cm tuvieron el mismo 
+arreglo espacial por los cambios en la densidad de plantas. Estas diferencias en la 
+estructura de las pasturas explican las discrepancias observadas entre experimentos. 
+Estos resultados también confirman la complejidad del proceso de mortalidad de 
+plantas, que es afectado tanto por la densidad como por el ambiente (Rowe 1989). De 
+acuerdo con la hipótesis “b” planteada en esta tesis de un mayor número y peso por tallo 
+a menor distancia por una menor competencia intra-específica, a partir del segundo 
+experimento se concluye que los resultados en el número de tallos fueron consistentes 
+con la hipótesis planteada, mientras que no fue así para el peso por tallo. Es probable 
+que la mejora en el ambiente por reducir la distancia entre hileras a la siembra no llegara 
+a ser de tal magnitud como para producir un aumento en el peso por tallo además de los 
+efectos antes mencionados sobre la supervivencia de plantas. 
+Por otra parte, al analizar los efectos de la distancia entre hileras a la siembra 
+sobre la captura y eficiencia en el uso de la radiación en el cultivo de alfalfa se observó 
+que el acercamiento de las hileras aumentó la cantidad de radiación interceptada con 
+una relación lineal negativa significativa (Figura 3.9.a) verificando la hipótesis “c” de 
+una mayor RAFia durante el rebrote por la menor rectangularidad del arreglo espacial. 
+Esta respuesta si bien había sido encontrada en diversos cultivos no había sido hasta el 
+momento reportada en el cultivo de alfalfa. También se halló un aumento de la EUR al 
+acercar las hileras aunque en este caso la respuesta fue de tipo óptimo (Figura 3.8, 
+Figura 3.9.b y Figura 3.10), esta respuesta no coincide con la hipótesis “d” formulada en 
+esta tesis que planteaba la estabilidad en la EUR frente a cambios en la distancia entre 
+hileras a la siembra. Si bien existen antecedentes de respuestas negativas en la EUR al 
+acercamiento de hileras (Board et al. 1994; Maddonni et al. 2006; Bertram 2008) no se 
+hallaron de respuestas de tipo óptimo. La respuesta observada podría estar relacionada 
+con un gradiente del índice de rectangularidad más contrastante explorado en este 
+experimento (Figura 3.2) que se ve acentuado por las mayores densidades utilizadas en 
+pasturas con respecto a otros cultivos. 
+44 
+ 
+En relación con la producción de biomasa aérea, en el primer experimento se 
+observó que el efecto de la distancia entre hileras a la siembra sobre la producción de 
+biomasa fue significativo y se manifestó en toda la vida de la pastura ya que se hallaron 
+diferencias en los tres años de producción evaluados (Figura 2.2) y con un patrón 
+similar en los dos cultivares. La mayor producción de biomasa en la distancia de 17,5 
+cm donde el arreglo fue más cuadrado que a 21 cm apoyó la hipótesis “a” de esta tesis 
+de que al disminuir la distancia entre hileras a la siembra se generan arreglos espaciales 
+más cuadrados que aumentan la producción de biomasa del cultivo de alfalfa. Los 
+resultados hallados en el segundo experimento corroboraron esta hipótesis al registrar 
+una relación lineal negativa significativa entre distancia entre hileras a la siembra y 
+producción de biomasa hasta la distancia de 15 cm (Figura 3.4). Sin embargo, la 
+ocurrencia de valores óptimos de producción de biomasa aérea en las distancias de 17,5 
+cm y 15 cm, en el primer y segundo experimento respectivamente, dan cuenta de que la 
+mejora en el arreglo espacial y el incremento en la RFAia al acercar las hileras de 
+siembra no son los únicos mecanismos involucrados en las respuestas observadas, 
+pudiendo ocurrir disminuciones productivas asociadas a procesos denso-dependientes 
+diferentes como se evidenció en el primer experimento donde una mayor densidad de 
+plantas en la distancia de 15 cm propició plantas menos vigorosas, y a procesos 
+vinculados con la EUR en el segundo experimento donde el patrón óptimo encontrado 
+en la EUR provocó la disminución de la producción en la distancia de 10 cm 
+determinando el ajuste de una función bi-lineal entre producción de biomasa y distancia 
+entre las hileras a la siembra. 
+Por último, los efectos positivos del acercamiento de las hileras no afectaron 
+características de interés en pasturas perennes como la persistencia del cultivo y la 
+relación hoja:tallo, ya que se observó en el experimento de largo plazo una misma 
+densidad de plantas en el tercer año de vida en todas las distancias (Figura 2.3), y una 
+relación hoja:tallo similar en el rango de distancias evaluado en el segundo experimento 
+(Cuadro 3.2).  
+ 
+45 
+ 
+ 
+4.2. Conclusiones generales 
+1. La distancia entre hileras a la siembra permitió modificar el arreglo espacial del 
+cultivo de alfalfa reduciendo el índice de rectangularidad al acercar las hileras de 
+siembra. De esta forma, se alcanzó una distribución de las plantas más equidistante en el 
+espacio.  
+2. La producción de biomasa aérea del cultivo de alfalfa aumentó por efecto de la 
+disminución de la distancia entre hileras a la siembra cuando se generó un arreglo 
+espacial más equidistante entre las plantas hasta una distancia óptima, entre 15 y 17,5 
+cm. Estos efectos se observaron en el largo plazo, y se encontraron concentrados en los 
+períodos con mayores tasas de crecimiento del cultivo (primavera-verano). 
+3. El componente del rendimiento principalmente afectado por la distancia entre 
+hileras a la siembra fue la densidad de plantas. Al acercar las hileras de siembra se 
+observó una mayor supervivencia de plantas que sería indicativo de una menor 
+competencia intra-específica, que explica en parte los aumentos hallados en la 
+producción de biomasa aérea del cultivo de alfalfa. 
+4. A su vez, los incrementos de la producción de biomasa aérea estuvieron 
+determinados por cambios en ambos componentes del modelo ecofisiológico de 
+aprovechamiento de la radiación. Al acercar la distancia entre hileras a la siembra 
+aumentó linealmente la RAFia, explicado por una mayor intercepción de radiación desde 
+etapas tempranas del rebrote, mientras que la EUR presentó un óptimo a 15 cm, que 
+estaría relacionado con valores absolutos de IAF y de la distribución espacial del IAF 
+más favorables para la fotosíntesis del cultivo. 
+5. La persistencia del cultivo no fue afectada por la distancia entre hileras a la 
+siembra, ya que se estabilizó la densidad de plantas en un mismo valor en todas las 
+distancias durante el tercer ciclo productivo de la pastura. 
+  
+4.3. Implicancias para el manejo del cultivo 
+Los resultados hallados en esta tesis resaltan la importancia del manejo de la 
+distancia entre hileras a la siembra en el cultivo de alfalfa.  
+El acercamiento de las hileras hasta los 15 – 17,5 cm con arreglos espaciales más 
+cuadrados permitió aumentar la producción de biomasa aérea, es decir la producción de 
+forraje, lo cual resulta un aspecto clave en la intensificación de las tierras destinadas a la 
+producción ganadera. Resulta necesario destacar que la tendencia observada en el 
+diseño de equipos para siembra de pasturas de una mayor separación entre las hileras de 
+siembra son contrarias al manejo que surge de esta tesis como el más conveniente en el 
+cultivo de alfalfa. En el caso de que se opte por siembras más espaciadas, es decir 
+arreglos espaciales más rectangulares, sería interesante explorar una mayor cantidad de 
+variedades para detectar aquellas que posean un mayor rango de plasticidad, en el 
+sentido definido por Maddonni et al. (2001) en el cultivo de maíz, lo cual significa una 
+mayor capacidad para acomodar las hojas en el espacio entre hileras, mejorando así el 
+aprovechamiento de la radiación. Para el caso de la alfalfa, se podrían estudiar 
+variedades con caracteres diferenciales en las hojas como alfalfa multifoliadas, o incluso 
+se podría seleccionar variedades con dicha capacidad desde el mejoramiento genético. 
+ 
+46 
+ 
+4.4. Perspectivas para futuras investigaciones 
+Los resultados obtenidos en esta tesis dan lugar a nuevas preguntas relacionadas 
+con los efectos de la distancia entre hileras a la siembra en los componentes del 
+rendimiento y el aprovechamiento de la radiación en el cultivo de alfalfa: 
+1. Si bien se establecieron relaciones entre la EUR y el IAF que explicaron en 
+parte las diferencias observadas en la EUR surge la necesidad de estudiar cómo es la 
+dinámica del IAF y del coeficiente de extinción de la luz (k) durante el progreso del 
+rebrote de alfalfa en los diferentes distanciamientos, y cómo se relaciona con la EUR. 
+2. Por otra parte, surge la pregunta de cómo la distancia entre hileras a la 
+siembra afecta la calidad de la luz en el canopeo de alfalfa, y cómo interviene en la 
+dinámica de los componentes del rendimiento de forraje. 
+3. Por último se plantea la pregunta de cómo el acercamiento entre las hileras de 
+alfalfa incide sobre la dinámica de las malezas, lo cual podría constituir otro beneficio 
+adicional del manejo de esta práctica agronómica. 
+47 
+ 
+ 
+BIBLIOGRAFÍA 
+ 
+Andrade FH, Cirilo AG, Uhart S, Otegui ME (1996) Crecimiento del cultivo de maíz. 
+Editorial La Barrosa, Balcarce, Argentina. 
+Andrade FH, Calvino P, Cirilo A, Barbieri P (2002) Yield Responses to Narrow Rows 
+Depend on Increased Radiation Interception. Agronomy Journal 94, 975-980. 
+Avice JC, Lemaire G, Ourry A, Boucaud J (1997) Effects of the previous shoot removal 
+frequency on subsequent shoot regrowth in two Medicago sativa L. cultivars. 
+Plant and Soil 188, 189-198. 
+Barbieri PA, Sainz Rozas HR, Andrade FH, Echeverria HE (2000) Row spacing effects 
+at different levels of nitrogen availability in maize. Agronomy Journal 92, 283–
+288. 
+Basigalup DH, Rossanigo R, Ballario MV (2007) Panorama actual de la alfalfa en la 
+Argentina. En: Basigalup DH (Ed.) El cultivo de la alfalfa en la Argentina. 
+Ediciones INTA, Buenos Aires, Argentina. Pgs. 15-25. 
+Berg WK, Cunningham SM, Brouder SM, Joern BC, Johnson KD, Santini J, Volenec JJ 
+(2005) Influence of Phosphorus and Potassium on Alfalfa Yield and Yield 
+Components. Crop Science 45, 297-304. 
+Bertram, N (2008) Respuesta de agropiro alargado (Thinopyrum ponticum) a la densidad 
+de siembra y al arreglo espacial: desarrollo del área foliar, estructura poblacional 
+e intercepción lumínica en el año de implantación. Tesis M.Sc. Balcarce, 
+Argentina, Escuela para Graduados en Ciencias Agropecuarias. 
+Board JE, Kamal M, Harville BG (1992a) Temporal Importance of Greater Light 
+Interception to Increased Yield in Narrow-Row Soybean. Agronomy Journal 84, 
+575-579. 
+Board JE, Harville BG (1992b) Explanations for greater light interception in narrows vs. 
+wide row soybean. Crop Science 32, 198-202. 
+Board JE, Harville BG, Kamal M (1994) Radiation-use efficiency in relation to row 
+spacing for late-planted soybean. Field Crops Research 36, 13-19. 
+Brown HE, Moot DJ, Teixeira EI (2006) Radiation use efficiency and biomass 
+partitioning of lucerne (Medicago sativa) in a temperate climate. European 
+Journal of Agronomy 25, 319-327. 
+Bullock DG, Nielsen RL, Nyquist WE (1988) A growth analysis comparison of corn 
+grown in conventional and equidistant plant spacing. Crop Science 28, 254-258. 
+Colabelli MR, Urcola H, Agnusdei MG (2002) Intersiembra de leguminosas en suelos 
+de aptitud agrícola. 1. Efecto de la época de intersiembra y de la distancia entre 
+surcos sobre el establecimiento de las especies intersembradas. Avances en 
+Producción Animal 27, 77-86. 
+Collino DJ, Dardanelli JL, De Luca MJ, Racca RW (2005) Temperature and water 
+availability effects on radiation and water use efficiencies in alfalfa (Medicago 
+sativa L.). Australian Journal of Experimental Agriculture 45, 390. 
+48 
+ 
+Cornaglia PS, Sosa P, Garbulsky MF, Deregibus A (2005) Evolución de la cobertura 
+aérea de alfalfa según el arreglo espacial de alfalfa. En: Actas del 28° Congreso 
+Argentino de Producción Animal 25: 105-106. 
+Di Rienzo J.A., Casanoves F., Balzarini M.G., Gonzalez L., Tablada M., Robledo C.W. 
+InfoStat versión 2011. Grupo InfoStat, FCA, Universidad Nacional de Córdoba, 
+Argentina. URL http://www.infostat.com.ar 
+Edwards JT, Purcell LC, Karcher DE (2005) Soybean yield and biomass responses to 
+increasing plant population among diverse maturity groups. II. Light interception 
+and utilization. Crop Science 45, 1778–1785. 
+Fick GW, Holt DA, Lugg DG (1988) Environmental physiology and crop growth. En: 
+Hanson AA, Barnes DK, Hill Jr RR (Eds.). Alfalfa and Alfalfa Improvement, 
+Vol. 29. American Society of Agronomy, Madison, USA. Pgs. 163–194. 
+Flenet F, Kiniry JR, Board JE, Westgate ME, Reicosky DC (1996) Row Spacing Effects 
+on Light Extinction Coefficients of Corn, Sorghum, Soybean, and Sunflower. 
+Agronomy Journal 88, 185-190. 
+GraphPad Prism v.5.00 (2010) GraphPad Software, San Diego California USA, 
+www.graphpad.com. 
+Gosse G, Varlet-Grancher C, Chartier M, Allirand JM, Lemaire G (1986) Maximum dry 
+matter production and solar radiation intercepted by a canopy. Agronomie 6, 47–
+56. 
+Gosse G, Lemaire G, Chartier M, Balfourier F (1988) Structure of a lucerne population 
+(Medicago sativa L.) and dynamics of stem competition for light during 
+regrowth. Journal of Applied Ecology 25, 609-617. 
+Hall, AJ, Villalobos FJ, Orgaz F, Sadras VO (1996) Leaf area index is an important 
+determinant of pre-anthesis radiation use efficiency in sunflowers crops. In: 
+Proceedings 14th International Sunflower Conference, vol 1, Beijing, China, 12-
+20 June, 622-627. 
+Harper JL (1977) Population biology of plants. 8º ed. (Academic Press, New York) 
+Heichel GH, Delaney RH, Cralle HT (1988) Carbon assimilation, partioning, and 
+utilization. En: Hanson AA, Barnes DK, Hill Jr RR (Eds.) Alfalfa and Alfalfa 
+Improvement. Agronomy Monograph 29 Madison, Wisconsin, USA. Pgs. 195–
+228.  
+Hijano EH, Basigalup DH (1995) El cultivo de la alfalfa en la República Argentina. En: 
+Hijano EH, Navarro A (Eds.) La alfalfa en la Argentina. Enc. Agro de Cuyo, 
+Manuales N° 11, San Juan, Argentina. Pgs. 11-18. 
+Jefferson PG, Kielly GA (1998) Reevaluation of row spacing/plant density of seeded 
+pasture grasses for the semiarid prairie. Canadian Journal of Plant Science 78, 
+257-264. 
+Khaiti M, Lemaire G (1992) Dynamics of shoot and root growth of lucerne after 
+seeding and after cutting. European Journal of Agronomy 1, 241-247. 
+Kruk B, Satorre EH (2004) Densidad y arreglo espacial del cultivo. En: Satorre EH, 
+Benech RL, Slafer GA, De la Fuente EB, Miralles DJ, Otegui ME, Savin R. 
+(Eds.) Producción de granos: bases funcionales para su manejo. Facultad de 
+Agronomía, UBA, Buenos Aires, Argentina. Pgs. 277–316. 
+49 
+ 
+ 
+INDEC (2001) Encuesta Nacional Agropecuaria. 
+Lemaire G, Onillon B, Gosse G, Chartier M, Allirand JM (1991) Nitrogen Distribution 
+Within a Lucerne Canopy During Regrowth: Relation With Light Distribution. 
+Annals of Botany 68, 483-488. 
+Lutz EE, Morley FHW (1982) Production of alfalfa (Medicago sativa L.) I. Influence of 
+row spacing and cultivar. Turrialba 32, 1–10. 
+Maddonni GA, Chelle M, Drouet JL, Andrieu B (2001) Light interception of contrasting 
+azimuth canopies under square and rectangular plant spatial distributions: 
+simulations and crop measurements. Field Crops Research 70, 1-13. 
+Maddonni GA, Cirilo AG, Otegui ME (2006) Row width and maize grain yield. 
+Agronomy Journal 98, 1532–1543.  
+Mattera J, Romero LA, Cuatrín A, Grimoldi AA (2009) Efectos de la distancia de 
+siembra sobre la producción de biomasa y la persistencia de un cultivo de alfalfa. 
+Revista Argentina de Producción Animal 29: 131-140. 
+Michaud R, Lehman WF, Rumbaugh MD (1988) World distribution and historical 
+development. En: Hanson AA, Barnes DK, Hill Jr RR (Eds.) Alfalfa and alfalfa 
+improvement. Agronomy Monograph 29, Madison, Wisconsin, USA. Pgs. 25-
+91. 
+Monteith JL (1977) Climate and the Efficiency of Crop Production in Britain. 
+Philosophical Transactions of the Royal Society of London, Biological Sciences 
+281, 277-294. 
+Mosconi FP, Priano LJJ, Hein NE, Moscatelli G, Salazar JC, Gutiérrez T, Cáceres L. 
+(1981) Mapa de suelos de la Provincia de Santa Fe. INTA. Vol. 1. 
+Park SE, Benjamin LR, Watkinson AR (2003) The theory and application of plant 
+competition model: an agronomic perspective. Annals of Botany 92, 741–748. 
+Pembleton KG, Rawnsley RP, Donaghy DJ, Volenec JJ (2009) Water deficit alters 
+canopy structure but not photosynthesis during the regrowth of alfalfa. Crop 
+Science 49, 722-731. 
+Pontaque FC (2005) Modelos lineales (eBook) (Universidad de Barcelona) 
+Purcell LC, Ball RA, Reaper JD, Vories ED (2002) Radiation use efficiency and 
+biomass production in soybean at different plant population densities. Crop 
+Science 42, 172–177. 
+Romero LA, Bruno OA, Fossati JL, Quaino OR (1991) Densidad de siembra de alfalfa 
+cultivar CUF 101; número de plantas y producción. Revista Argentina de 
+Producción Animal 11, 411-417. 
+Rossanigo RO, Spada MC, Bruno OA (1995) Evaluación de cultivares de alfalfa y 
+panorama varietal en la Argentina. En: Hijano EH, Navarro A (Eds.) La alfalfa 
+en la Argentina. Enc. Agro de Cuyo, Manuales N° 11, San Juan, Argentina. Pgs. 
+64-78. 
+Roufail A (1975) Effect of sowing rate and sowing method on the establishment, yield 
+and survival of irrigated lucerne at Kyabram, Victoria. Australian Journal of 
+Experimental Agriculture and Animal Husbandry 15, 64-68. 
+Rowe DE (1989) Competition thinning of alfalfa planted at three densities. Crop 
+Science 29, 1357-1361. 
+50 
+ 
+Ruíz RA, Bertero HD (2008) Light interception and radiation use efficiency in 
+temperate quinoa (Chenopodium quinoa Willd.). European Journal of Agronomy 
+29, 144-152. 
+SAS Institute Inc. (2004) SAS OnlineDoc® 9.1.3. Cary, NC: SAS Institute Inc. 
+Sharratt BS, McWilliams DA (2005) Microclimatic and Rooting Characteristics of 
+Narrow-Row versus Conventional-Row Corn. Agronomy Journal 97, 1129-
+1135. 
+Sheehy JE, Woodward FI, Jones MB, Windram A (1979) Microclimate, photosynthesis 
+and growth of Lucerne (Medicago sativa L.). I. Microclimate and 
+photosynthesis. Annals of Botany 44, 693–707. 
+Sinclair TR, Horie T (1989) Leaf nitrogen, photosynthesis, and crop radiation use 
+efficiency: a review. Crop Science 29, 90-98. 
+Singels A, Smit MA (2009) Sugarcane response to row spacing-induced competition for 
+light. Field Crops Research 113, 149-155. 
+Skinner RH (2005) Emergence and survival of pasture species sown in monocultures or 
+mixtures. Agronomy Journal 97, 799-805. 
+Spada MC (2008) Avances en alfalfa: ensayos territoriales. Ediciones INTA, Córdoba, 
+Argentina. v. 18. 
+Steiner JL (1986) Dryland Grain Sorghum Water Use, Light Interception, and Growth 
+Responses to Planting Geometry. Agronomy Journal 78, 720-726. 
+Teixeira EI, Moot DJ, Brown HE, Fletcher AL (2007a) The dynamics of Lucerne 
+(Medicago sativa L.) yield components in response to defoliation frequency. 
+European Journal of Agronomy 26, 394–400. 
+Teixeira EI, Moot DJ, Brown HE, Pollock KM (2007b) How does defoliation 
+management impact on yield, canopy forming processes and light interception of 
+Lucerne (Medicago sativa L.) crops? European Journal of Agronomy 27, 154–
+164. 
+Travis RL, Reed R (1983) The solar tracking pattern in a closed alfalfa canopy. Crop 
+Science 23, 664–668. 
+van der Werf HMG, van Geel WCA, van Gils LJC, Haverkort AJ (1995) Nitrogen 
+fertilization and row width affect self-thinning and productivity of fibre hemp 
+(Cannabis sativa L.). Field Crops Research 42, 27-37. 
+Varella AC (2002) Modelling lucerne (Medicago sativa) crop response to light regimes 
+in an agroforestry system. Doctoral Thesis. Lincoln University, Canterbury, New 
+Zealand. 
+Volenec JJ, Cherney JH, Johnson KD (1987) Yield components, plant morphology, and 
+forage quality of alfalfa as influenced by plant population. Crop Science 27, 321-
+326 
+Willey RW, Heath SB (1969) The quantitative relationships between plant population 
+and crop yield. En: Brady N.C. y Hall R. (eds.) Advances in Agronomy. Cornell 
+Univ., Ithaca, NY, USA. Pgs. 281-321. 
+Zaffaroni E, Schneiter AA (1989) Water-Use Efficiency and Light Interception of 
+Semidwarf and Standard-Height Sunflower Hybrids Grown In Different Row 
+Arrangements. Agronomy Journal 81, 831-836. 
+51 
+ 
+ 
+APÉNDICE 
+ 
+Cuadro I. Distribución de la biomasa de alfalfa en tres jerarquías de tallos (suprimidos, 
+intermedios y dominantes) en el cultivar de alfalfa Monarca para cinco distancias entre 
+hileras a la siembra (10 cm, 15 cm, 17,5 cm, 20 cm y 30 cm) en cuatro rebrotes 
+(septiembre, octubre, diciembre y enero) en el primer año de vida.  
+  Proporción de la biomasa por jerarquía de tallo 
+Rebrote Distancia Suprimidos Intermedios Dominantes 
+ 10 0,06 0,22 0,72 
+ 15 0,05 0,18 0,77 
+Septiembre 17,5 0,07 0,23 0,70 
+ 20 0,06 0,22 0,72 
+ 30 0,05 0,27 0,68 
+ Media 0,06 0,22 0,72 
+ CV 25,4 23,9 8,7 
+     
+ 10 0,09 0,24 0,67 
+ 15 0,09 0,27 0,64 
+Octubre 17,5 0,10 0,25 0,65 
+ 20 0,09 0,25 0,66 
+ 30 0,11 0,28 0,61 
+ Media 0,10 0,26 0,64 
+ CV 33,3 22,3 10,6 
+     
+ 10 0,05 0,30 0,65 
+ 15 0,05 0,29 0,66 
+Diciembre 17,5 0,06 0,26 0,68 
+ 20 0,07 0,24 0,69 
+ 30 0,06 0,28 0,66 
+ Media 0,06 0,27 0,67 
+ CV 41,4 44,6 20,5 
+     
+ 10 0,05 0,39 0,56 
+ 15 0,05 0,25 0,70 
+Enero 17,5 0,05 0,31 0,64 
+ 20 0,05 0,31 0,64 
+ 30 0,04 0,32 0,64 
+ Media 0,05 0,31 0,64 
+ CV 46,9 38,7 20,8 
+ 

@@ -1,0 +1,590 @@
+=== Fuente: Kambadur Mutations in myostatinin double muscled belgiian blue and piamontese cattle.pdf ===
+
+ 10.1101/gr.7.9.910Access the most recent version at doi:
+1997 7: 910-915 Genome Res. 
+  
+Ravi Kambadur, Mridula Sharma, Timothy P.L. Smith, et al. 
+  
+Cattle Piedmontese
+and ) in Double-Muscled Belgian BlueGDF8 (myostatinMutations in 
+  
+References
+  
+ http://genome.cshlp.org/content/7/9/910.full.html#ref-list-1
+This article cites 9 articles, 1 of which can be accessed free at:
+  
+License
+Commons 
+Creative
+  
+ http://creativecommons.org/licenses/by-nc/3.0/.described at 
+a Creative Commons License (Attribution-NonCommercial 3.0 Unported License), as 
+). After six months, it is available underhttp://genome.cshlp.org/site/misc/terms.xhtml
+first six months after the full-issue publication date (see 
+This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the
+Service
+Email Alerting
+  
+ click here.top right corner of the article or 
+Receive free email alerts when new articles cite this article - sign up in the box at the
+ http://genome.cshlp.org/subscriptions
+go to: Genome Research To subscribe to 
+Cold Spring Harbor Laboratory Press
+ Cold Spring Harbor Laboratory Press on February 17, 2014 - Published by genome.cshlp.orgDownloaded from  Cold Spring Harbor Laboratory Press on February 17, 2014 - Published by genome.cshlp.orgDownloaded from 
+Mutations in myostatin (GDF8)in
+Double-Muscled Belgian Blue and
+Piedmontese Cattle
+Ravi Kambadur,1,2 Mridula Sharma,1 Timothy P.L. Smith,3 and
+John J. Bass
+AgResearch, Ruakura, Hamilton, New Zealand; 3 U.S. Department of Agriculture (USDA)/Agricultural
+Research Service (ARS) Meat Animal Research Center, Clay Center, Nebraska 68933-0166
+A visibly distinct muscular hypertrophy (mh), commonly known as double muscling, occurs with high
+frequency in the Belgian Blue and Piedmontese cattle breeds. The autosomal recessive mh locus causing
+double-muscling condition in these cattle maps to bovine chromosome 2 within the same interval as myostatin, a
+member of the TGF-b superfamily of genes. Because targeted disruption of myostatin in mice results in a
+muscular phenotype very similar to that seen in double-muscled cattle, we have evaluated this gene as a
+candidate gene for double-muscling condition by cloning the bovine myostatin cDNA and examining the
+expression pattern and sequence of the gene in normal and double-muscled cattle. The analysis demonstrates
+that the levels and timing of expression do not appear to differ between Belgian Blue and normal animals, as
+both classes show expression initiating during fetal development and being maintained in adult muscle.
+Moreover, sequence analysis reveals mutations in heavy-muscled cattle of both breeds. Belgian Blue cattle are
+homozygous for an 11-bp deletion in the coding region that is not detected in cDNA of any normal animals
+examined. This deletion results in a frame-shift mutation that removes the portion of the Myostatin protein that
+is most highly conserved among TGF-b family members and that is the portion targeted for disruption in the
+mouse study. Piedmontese animals tested have a G–A transition in the same region that changes a cysteine
+residue to a tyrosine. This mutation alters one of the residues that are hallmarks of the TGF-b family and are
+highly conserved during evolution and among members of the gene family. It therefore appears likely that the
+mh allele in these breeds involves mutation within the myostatin gene and that myostatin is a negative regulator of
+muscle growth in cattle as well as mice.
+[The sequence data for bovine myostatin has been submitted to GenBank under accession no. AF019761.]
+The muscular hypertrophy (mh), or double-muscle
+phenotype, is a heritable condition in cattle that
+primarily results from an increase in number of
+muscle fibers (hyperplasia) rather than the enlarge-
+ment of individual muscle fibers (hypertrophy),
+relative to normal cattle (Hanset et al. 1982). The
+relative increase in fiber number is observed early in
+pregnancy (Swatland and Kieffer 1974) and results
+in a calf possessing nearly twice the number of
+muscle fibers at the time of birth. The occurrence of
+double muscling has been observed in several cattle
+breeds worldwide since it was first documented by
+Culley in 1807. The breed in which this muscular
+hypertrophy and its effects have been analyzed
+most extensively is the Belgian Blue breed, which
+has been systematically selected for double mus-
+cling to the point of fixation in many herds. Do-
+mestic animals other than cattle also show dramatic
+increases in muscle mass. Malignant hyperthermia
+of pigs with muscular hypertrophy (Brenig and
+Brem 1992) and muscle hypertrophy of cats associ-
+ated with a dystrophin deficiency (Gaschen et al.
+1992) have been analyzed at the molecular level.
+Compared with normal cattle, Belgian Blue and
+Piedmontese animals have an increased proficiency
+to convert feed into lean muscle and produce a
+higher percentage of the most desirable cuts of meat
+(Casas et al. 1997). These animals have less bone,
+less fat, and 20% more muscle on average (Shahin
+and Berg 1985; Hanset 1986, 1991). However, prob-
+lems associated with the trait, such as reduction in
+stress tolerance, fertility, and calf viability in Belgian
+1These authors contributed equally to this work.
+2Corresponding author.
+E-MAIL KambadurR@agresearch.cri.nz; FAX 64 7 838 5536.
+RESEARCH
+910 GENOME RESEARCH 7:910–915 ©1997 by Cold Spring Harbor Laboratory Press ISSN 1054-9803/97 $5.00
+ Cold Spring Harbor Laboratory Press on February 17, 2014 - Published by genome.cshlp.orgDownloaded from 
+Blue have hindered exploitation of the hypertrophy
+by classical genetic selection (Arthur 1995).
+Segregation analysis has indicated a monogenic
+autosomal segregation pattern for the double-
+muscling trait (Hanset and Michaux 1985a,b;
+Charlier et al. 1995). The locus has been termed
+‘‘partially recessive’’ because there is some effect
+of a single copy of the allele, but generally the truly
+double muscled phenotype requires that the ani-
+mal be homozygous. A mapping study utilizing
+a panel of microsatellite markers to scan the bo-
+vine genome (Charlier et al. 1995) localized the
+mh locus in Belgian Blue cattle to the centromeric
+end of the bovine Chromosome 2 (BTA2) link-
+age group. The map position of the mh locus has
+been refined and extended to the Piedmontese
+breed using additional genetic and physical markers
+to a 3- to 5-cM interval near the centromere of BTA2
+(Casas et al. 1997) close to the position of the a
+collagen type III (COL3AI) locus (Sonstegard et al.
+1997).
+A recent study demonstrated that mice lacking a
+normal copy of the myostatin gene (GDF8) display a
+phenotype with significant similarities to the
+double muscling seen in cattle. myostatin is a mem-
+ber of the transforming growth factor b (TGF-b)
+gene superfamily specifically expressed in skeletal
+muscle of adult mice, as well as during early devel-
+opment. In the mouse study, the third exon of the
+gene was replaced with a neo cassette, removing the
+portion of the protein that is highly conserved
+among the TGF-b superfamily of genes. Animals ho-
+mozygous for the disruption display an increase in
+skeletal muscle mass similar to that observed in ho-
+mozygous mh cattle.
+The bovine myostatin gene recently has been
+mapped to the same interval as the mh locus by
+genetic linkage (Smith et al. 1997), which strongly
+suggests that it may be the gene causing double
+muscling in cattle. Here we report the sequence of
+bovine myostatin and evaluate it as a candidate gene
+by sequence and expression analysis. Although the
+expression of myostatin mRNA does not appear dis-
+rupted in Belgian Blue cattle, mutation analysis re-
+veals an 11-bp deletion mutation in the coding re-
+gion of the myostatin gene in Belgian Blue cattle
+that would be predicted to abolish the activity of
+the protein, as the truncated portion encodes the
+peptide sequence thought to mediate essential func-
+tions (McPherron et al. 1997). In addition, a transi-
+tion mutation found in animals of the Piedmontese
+breed affects a conserved cysteine in exon 3 of the
+myostatin that is also likely to affect function of
+Myostatin.
+RESULTS
+Cloning and Sequencing of bovine myostatin cDNA
+The first step in these experiments was to obtain a
+cDNA clone of bovine myostatin (bmyostatin) from
+a normal animal to use as a probe and to provide
+sequence information for comparison to the
+double-muscle allele. Primers were designed based
+on the murine sequence (GenBank accession no.
+U84005) of the 58 and 38-untranslated regions and
+used for RT–PCR to amplify the entire coding region
+of the bovine homolog (bmyostatin) from total RNA
+isolated from skeletal muscles of normal Friesian
+cattle. Comparison of the predicted amino acid se-
+quence of murine and bmyostatin indicates that it is
+highly conserved, with 93% homology between the
+two proteins (Fig. 1A). All of the hallmarks of the
+TGF-b superfamily, including signal sequence for se-
+cretion, a proteolytic processing site, and a con-
+served pattern of cysteine residues in the carboxy-
+terminal region, are conserved between mouse and
+cattle forms (Fig. 1A).
+Developmental Expression of the bmyostatin Gene in
+Normal and Belgian Blue Cattle
+The phenotype of the myostatin knockout mice sug-
+gests that myostatin is a negative regulator of muscle
+growth, because mice lacking normal gene function
+displayed enlarged muscles. Therefore, any muta-
+tion that decreases the amount or activity of Myo-
+statin at the critical developmental period could
+lead to an increase in muscle mass. The decrease
+could result either from changes in the mRNA ex-
+pression pattern due to mutations that affect tran-
+scription/transcript stability or from changes in the
+translated portion that affect the function of the
+protein. First, we addressed the possibility that the
+mh allele affects transcription of bmyostatin by com-
+paring the pattern of expression of bmyostatin be-
+tween normal and Belgian Blue animals.
+RT–PCR analysis was performed on total RNA
+isolated from either whole embryo or M. semiten-
+dinosus muscle from various gestation stages of nor-
+mal and Belgian Blue animals. Oligonucleotide
+primers were designed such that 513-bp coding re-
+gion was amplified in a combined RT–PCR reaction
+(see Methods for primer sequences). As shown in
+Figure 2A, the expression of bmyostatin gene was
+found at all developmental stages in normal cattle.
+Low levels of message were detected up to day 29
+embryos in normal animals, and increased expres-
+sion of bmyostatin was detected from day 31 on-
+MUTATIONS IN DOUBLE-MUSCLED CATTLE
+GENOME RESEARCH 911
+ Cold Spring Harbor Laboratory Press on February 17, 2014 - Published by genome.cshlp.orgDownloaded from 
+Figure 1 (See facing page for legend.)
+KAMBADUR ET AL.
+912 GENOME RESEARCH
+ Cold Spring Harbor Laboratory Press on February 17, 2014 - Published by genome.cshlp.orgDownloaded from 
+wards to late in gestation
+(260-day-old fetuses). bmyo-
+statin cDNA was also detected
+in Belgian Blue 50-day-old fe-
+tuses onwards and late in ges-
+tation (day 260) (Fig 2B).
+bmyostatin mRNA expression
+in fetuses prior to day 50 was
+not analyzed in Belgian Blue
+cattle. No changes were noted
+in the level of expression of
+bmyostatin between normal
+and Belgian Blue animals at
+various gestation stages exam-
+ined (Fig. 2A,B), and bmyo-
+statin continued to be ex-
+pressed in the skeletal muscle
+of adult animals.
+To compare the expres-
+sion of bmyostatin in different
+skeletal muscles, we per-
+formed Northern analysis on
+total RNA isolated from adult
+tissues from normal animals.
+As shown in Figure 2C, the
+bmyostatin probe detected a
+single-message of 2.9-kilobase
+mRNA expressed in both axial
+and paraxial musculature.
+High levels of expression were
+observed in the hindlimb
+muscles M. semimembrano-
+sus and M. biceps femoris,
+whereas low levels of expres-
+sion were detected in other
+hindlimb muscles (Fig. 2C).
+myostatin expression could
+not be detected in the heart or
+in the diaphragm muscle.
+Figure 1 Sequence analysis of normal- and double-muscled bovine myostatin. Sequencing was performed on
+three independent normal- and double-muscled alleles, and one representative sequence of both alleles is shown.
+(A) Amino acid sequence comparisons of mouse (MMYO.PRO) and bovine Myostatin (BMYO.PRO) proteins. Non-
+conserved amino acids are indicated by solid bars. The consensus amino acid sequence is shown at the top. The
+proteolytic processing site is underlined. (B) The deletion mutation is detected by fluorometric sequencing of
+myostatin cDNA from normal- and double-muscled cattle. The sequence of the double-muscled allele is shown
+above that of the normal allele (Control), and the position where 11 bp is deleted in the mutant allele is indicated
+by an arrow. The large bracket in the normal allele sequence denotes the region that is deleted in the double-
+muscled allele. (C) The amino acid sequence of Myostatin in normal cattle is shown above the predicted amino acid
+sequence of Myostatin in double-muscled cattle. The premature stop codon at amino acid position 288 in the
+double-muscle allele is indicated by an asterisk (*). (D) The predicted amino acid sequence of Myostatin in normal
+cattle is shown below that of the Piedmontese breed in the vicinity of the transition mutation. The altered residue
+in the Piedmontese allele is underlined. Asterisks (*) indicate two of the nine conserved cysteine residues in exon 3
+of the normal bmyostatin allele.
+Figure 2 (A,B) Agarose gel electrophoresis of PCR products (513 bp) obtained
+from RT–PCR using total RNA from embryos or fetuses of different normal (A)- or
+double (B)-muscled Belgian Blue bovine developmental stages. (M) Markers (1-
+kb ladder from GIBCO BRL). Different embryonic or fetal ages are indicated in
+corresponding lanes. The locations of the primers used to amplify 513-bp partial
+cDNA are from amino acid 202 to 208 (sense primer) and from amino acid 365
+to 371 (antisense primer). (See Methods for primer sequence.) This 513-bp par-
+tial cDNA contains the 11-bp deletion observed in double-muscled Belgian Blue
+cattle. (C) Expression of myostatin in different adult bovine muscles. Fifteen mi-
+crograms of total RNA was electrophoresed on formaldehyde–agarose gel, blot-
+ted onto nylon membrane, and probed with bovine myostatin cDNA. (Lane 1)M.
+gastrocnemius; (lane 2) M. psoas major; (lane 3) M. longissimus dorsi; (lane 4)M.
+biceps femoris; (lane 5) M. diaphragm; (lane 6) M. semimembranosus; (lane 7)
+M. flexor digitorum longus; (lane 8) M. vastus medialis; (lane 9) M. vastus lat-
+eralis; (lane 10) heart; (lane 11) M. cutaneus trunci; (lane 12) M. semitendinosus;
+(lane 13) M. semitendinosus (normal, 260 day); (lane 14) M. semitendinosus
+(double-muscle, 260 day).
+MUTATIONS IN DOUBLE-MUSCLED CATTLE
+GENOME RESEARCH 913
+ Cold Spring Harbor Laboratory Press on February 17, 2014 - Published by genome.cshlp.orgDownloaded from 
+Mutations in bmyostatin in Belgian Blue
+Double-Muscled Cattle
+Because no differences in expression of the bmyo-
+statin gene could be detected by RT–PCR, we exam-
+ined the sequence of the cDNA in normal- and
+double-muscled animals to evaluate possible
+changes in the protein and correlated any changes
+with the observed phenotype. Myostatin cDNA
+from animals in three unrelated double-muscled
+pedigrees were sequenced and screened for muta-
+tions in the coding region. This analysis revealed an
+11-bp deletion in the open reading frame of the Bel-
+gian Blue bmyostatin allele, which results in the loss
+of three amino acids (275, 276, and 277) and a
+frameshift after amino acid 274 (Fig. 1B,C). The
+frameshift leads to a stop codon after amino acid
+287 that is predicted to truncate the protein such
+that most of the same portion that was deleted in
+the heavy muscled knockout mice would not be
+translated (Fig. 1C). Another 17 pedigrees of Belgian
+Blue cattle were subsequently tested for this dele-
+tion by simple sizing of PCR products that include
+this portion of the gene, including 16 pedigrees in
+New Zealand and 4 in the United States. All double-
+muscled, purebred animals tested were homozygous
+for this deletion, wherease none of 11 different nor-
+mal-muscled dairy and traditional beef breed cattle
+showed evidence of deletion in this region. On the
+basis of the results from the Belgian Blue analysis,
+myostatin mRNA from a Piedmontese breed animal
+was then assessed for deletions or nonsense muta-
+tions that would abnormally truncate the protein.
+The resulting Piedmontese cDNA sequence pre-
+dicted that a full-length Myostatin protein was
+coded for in this breed. This result demonstrates
+that in contrast to the Belgian Blue breed, mh in
+Piedmontese animals is not the result of an abnor-
+mally truncated Myostatin protein. However, ex-
+amination of the cDNA sequence revealed a G–A
+transiton mutation at position 941 of the coding
+region. This mutation predicts the replacement of
+cysteine at amino acid 314 with tyrosine (Fig. 1D).
+This cysteine is the fifth in a series of nine whose
+appearance and spacing is extremely conserved
+throughout the TGF-b and inhibin-b gene families;
+thus, it is likely that the observed mutation would
+interfere with normal function of the protein
+(McPherron et al. 1997).
+To verify this result and assess its generality,
+three unrelated double-muscled pedigrees of the
+Piedmontese breed were then examined for the
+transition mutation. A primer was developed from
+the sequence of the second intron of the bovine
+gene and used in combination with a primer de-
+signed from the downstream untranslated region
+(see Methods). These primers amplify a 493-bp frag-
+ment containing the entire coding portion of the
+third exon of bmyostatin from amino acid residue
+251 to the carboxyl terminus at 376. The amplified
+fragment encompasses all of the coding region
+downstream of the putative proteolytic processing
+site (McPherron et al. 1997), including the observed
+mutation. This allowed us to use archival DNA from
+Piedmontese sires to assess the generality of the mu-
+tation in herds in the United States. The predicted
+amino acid sequence for all three pedigrees con-
+tained the replacement of cysteine with tyrosine at
+residue 314. Multiple independent PCR reactions
+from each animal were used to generate sequence,
+and the mutation was consistently observed; thus it
+appears that Piedmontese animals are homozygous
+for this mutation.
+DISCUSSION
+We report the cloning of bovine myostatin and an
+evaluation of this TGF-b family member as a candi-
+date gene for mh. Recently the bovine myostatin
+gene has been mapped to the same interval as the
+mh locus that causes the double-muscle phenotype
+(Smith et al. 1997). Comparison of the bovine and
+murine proteins demonstrates that myostatin has
+been very highly conserved during mammalian evo-
+lution, suggesting an important role for this gene.
+This role has been demonstrated by the production
+of knockout mice, which develop greatly enlarged
+muscles (McPherron et al. 1997). The double-
+muscled trait in Belgian Blue and Piedmontese
+cattle has significant similarity to the phenotype of
+these mice, as both involve an increase in the
+muscle mass (Arthur 1995; McPherron et al. 1997).
+The increase in body weight found in mutant myo-
+statin mice can be explained by an increase in
+muscle mass resulting from muscle fiber hyperplasia
+and hypertrophy. The increase in body weight of
+double-muscled cattle cannot be totally accounted
+for by an increase in muscle mass alone, as the
+weight of the skin, adipose and bone content, ali-
+mentary tract, and most other internal organs is re-
+duced in double-muscled cattle. Also the increased
+musculature of double-muscled cattle results only
+from hyperplasia of muscle fibers and not muscle
+fiber hyperplasia and hypertrophy as found in the
+mutant mouse (Hanset et al. 1977). These differ-
+ences in bovine and mouse phenotypes could be
+attributable to additional genes selected for during
+inbreeding of double-muscled cattle breeds.
+KAMBADUR ET AL.
+914 GENOME RESEARCH
+ Cold Spring Harbor Laboratory Press on February 17, 2014 - Published by genome.cshlp.orgDownloaded from 
+How does myostatin negatively regulate myo-
+genesis? Because myostatin expression is detected in
+the myotome early in myogenesis through to adult
+skeletal muscle, it may control fiber number and
+size during embryonic, fetal, and postnatal myogen-
+esis. Based on the amino acid sequence, Myostatin is
+a secreted protein that is specifically synthesized by
+muscle tissue and therefore may be involved with
+autocrine or paracrine cell–cell communication that
+regulates proliferation and/or differentiation of
+myoblasts.
+The phenotype of the knockout mice suggests
+that any mutation that affects myostatin produc-
+tion or activity could lead to muscle hyperplasia and
+hypertrophy. In both mice and cattle the heterozy-
+gotes display very mild abnormalities. The mild
+phenotypes displayed by mh/+ are probably caused
+by haploinsufficiency. Examination of the steady-
+state levels of myostatin mRNA through a range of
+developmental stages and in different adult muscles
+failed to reveal any significant difference in the lev-
+els of expression in double-muscled cattle, suggest-
+ing that differences in myostatin transcription do
+not underlie the mh phenotype. However, sequence
+analysis of mh/mh animals revealed the presence
+of significant mutations in the third exon of the
+gene. Presumably the loss of a critical cysteine resi-
+due has a negative effect on the activity of Myo-
+statin in Piedmontese cattle, although the extent to
+which the activity is diminished is uncertain. Cer-
+tainly the truncation observed in Belgian Blue cattle
+is likely to severely impair Myostatin function, as it
+removes the majority of the part of the protein that
+was disrupted in the knockout mice. We conclude
+that myostatin is probably the mh locus and that it
+appears that a nonfunctional Myostatin protein is
+responsible for loss of control of muscle growth in
+double-muscled Belgian Blue and Piedmontese
+cattle as well as knockout mice.
+METHODS
+Sample Collections
+Muscle biopsies (0.5 gram) were obtained from the Musculus
+(Mo) biceps femoris muscle from 18 adult double-muscled
+Belgian Blue cattle. The cattle biopsied were derived from 17
+different sire lines with limited inbreeding over the last three
+generations. The pedigrees sampled represent germ-plasm
+from 17 (NZ) and 4 (USA) sire lines imported from Belgium,
+with each animal carrying at least one allele from a unique
+sire. Muscle samples from normal Friesian cattle were ob-
+tained after slaughter at the AgResearch abattoir. Normal bo-
+vine embryos from day 15 to 34 were collected in triplicate by
+flushing the uterine tracks of cows; fetuses from day 50 to day
+260 were collected after slaughter. Double-muscled Belgian
+Blue fetuses (in triplicate) were obtained from the recipient
+cows, which were implanted with purebred Belgian Blue em-
+bryos. DNA was obtained from blood sample of Piedmontese
+bulls by salt extraction (Miller et al. 1988). Adult Piedmontese
+muscle was obtained from the M. biceps femoris immediately
+after slaughter in the MARC abbatoir.
+RNA Extraction and RT–PCR
+RNA from muscle or embryo tissue was extracted using Trizol
+(GIBCO BRL), according to the manufacturer’s protocol. First-
+strand cDNA was synthesized in a 20-µl reverse transcriptase
+(RT) reaction from 5 µg of total RNA using a Superscript pre-
+amplification kit (GIBCO-BRL), according to the manufactur-
+ers protocol.
+Semiquantitative PCR was performed with 2 µl of the RT
+reaction at 94°C for 1 min, 50°C for 1 min, and 72°C for 1 min
+for 35 cycles. To clone the bmyostatin entire coding sequence
+we used the following primers: 58-ATGATGCAAAAACTGCAA-
+38 and 58-TCATGAGCACCCACA-38 (1127 bp) and 58-TCGGA-
+CGGACATGCACTAA-38 and 58-GTCTACTACCATGGCTG-
+GAAT-38 (1202 bp). The primers used to amplify the 513-bp
+cDNA shown in Figure 2, A and B, were 58-GGTATTTG-
+GCAGAGTATTGAT-38 and 58-GTCTACTACCATGGCTG-
+GAAT-38. To clone full-length cDNA from Piedmontese cattle
+we used alternate primers: 58-TCACTTGGCATTACT-
+CAAAAGC-38 and 58-TCGAAATTGAGGGGAAGACC-38. The
+493-bp product containing exon 3 of myostatin gene from
+Piedmontese cattle was amplified from genomic DNA using
+the reverse primer noted above and an intron-specific primer:
+58-TGAGGTAGGAGAGTGTTTTGGG-38.
+Sequencing and Sequence Analysis
+PCR-amplified bovine myostatin cDNA fragments were run on
+a low melting point agarose gel. DNA fragments were excised
+from the gel, and DNA was purified using the Wizard kit (Pro-
+mega) and directly sequenced on an ABI automated sequencer
+(model no. 377). Sequence alignments were performed by us-
+ing DNA Laser Gene software (DNA STAR).
+Northern Analysis
+Northern analysis was performed according to Sambrook et al.
+(1989). Fifteen micrograms of total RNA from various muscles
+was run on a 1.0% formaldehyde–agarose gel and transferred
+to Hybond N+ membrane (Amersham). The membrane was
+prehybridized in 52 SSC, 50% formamide, 52 Denhardt’s
+solution, and 1% SDS, 0.25 mg/ml of Salmon sperm DNA for
+2 hr, hybridized in the same solution with bmyostatin cDNA
+probe overnight, washed at 50°C for 15 min each with 22
+SSC + 0.1% SDS, and then with 0.22 SSC + 0.1% SDS.
+ACKNOWLEDGMENTS
+We thank B. Worsnop and W. Hooper for providing material
+from their Belgian Blue pedigree herd and their enthusiasm
+and support for this research. We are indebted to the Foun-
+MUTATIONS IN DOUBLE-MUSCLED CATTLE
+GENOME RESEARCH 915
+ Cold Spring Harbor Laboratory Press on February 17, 2014 - Published by genome.cshlp.orgDownloaded from 
+dation of Research and Technology (New Zealand) for finan-
+cial support. The support of all members of the Growth Physi-
+ology program who have provided the infrastructure enabling
+this research to progress so rapidly is acknowledged. We
+thank Stacey Farmer and Greg Baillie for timely and excellent
+sequencing of DNA. We thank Kevin Tennill for expert tech-
+nical assistance, Dr. Roger Stone for helpful discussion and
+advice, and Dr. Aravinda Chakravarti for editing assistance.
+The publication costs of this article were defrayed in part
+by payment of page charges. This article must therefore be
+hereby marked ‘‘advertisement’’ in accordance with 18 USC
+section 1734 solely to indicate this fact.
+REFERENCES
+Arthur, P.F. 1995. Double muscling in cattle: A review. Aust.
+J. Agric. Res. 46: 1493–1515.
+Brenig, B. and G. Brem. 1992. Genomic organization and
+analysis of the 58 end of the porcine ryanodine receptor
+gene (ryrl). FEBS Lett. 298: 277–279.
+Casas, E., J.W. Keele, S.D. Shackelford, M. Koohmaraie, T.S.
+Sonstegard, T.P.L. Smith, S.M. Kapes, and R.T. Stone. 1997.
+Association of the muscle hypertrophy locus with carcass
+traits in beef cattle. J. Anim. Sci. (in press).
+Charlier, C., W. Coppieters, F. Farnir, L. Grobet, P.L. Leroy,
+C. Michaux, M. Mni, A. Schwers, P. Vanmanshoven, R.
+Hanset, and M. Georges. 1995. The mh gene causing
+double-muscling in cattle maps to bovine chromosome 2.
+Mamm. Genome 6: 788–792.
+Culley, G. 1807. Observations on livestock, 4th ed. G.
+Woodfall, London, UK.
+Gaschen, F.P., E.P. Hoffman, J.R.M. Gorospe, E.W. Uhl, D.F.
+Senior, G.H. Cardinet III, and L.K. Pearce. 1992. Dystrophin
+deficiency causes lethal muscle hypertrophy in cats. J.
+Neurol Sci. 110: 149–159.
+Hanset, R. 1967. Le probleme des bovins a croupe de
+poulain. Ann. Med. Vet. 105: 14–31.
+———. 1986. Double-muscling in cattle. In Exploiting new
+technologies in animal breeding: Genetic development (ed. C.
+Smith, J.W. King, and J.C. McKay), pp. 71–80. Oxford
+University Press, Oxford, UK.
+———. 1991. The major gene of muscular hypertrophy in
+the Belgian Blue cattle breed. In Breeding for disease resistance
+in farm animals (ed. A. Owen), pp. 467–478.
+Commonwealth Agricultural Bureaux International,
+London, UK.
+Hanset, R. and C. Michaux. 1985a. On the genetic
+determinism of muscular hypertrophy in the Belgian White
+and Blue cattle breed. I. Experimental data. Genet. Sel. Evol.
+17: 359–368.
+———. 1985b. On the genetic determinism of muscular
+hypertrophy in the Belgian White and Blue cattle breed. II.
+Population data. Genet. Sel. Evol. 17: 369–386.
+Hanset, R., M. Ansay, and M. Jandrain. 1977. Morphology
+of the double-muscled calf-discrimination between the
+double-muscled and the normal. In Cross-breeding
+experiments and strategy of beef utilisation to increase beef
+production (ed. J.L. Mason and W. Pabst), pp. 399–411.
+Commission of the European Communities, Luxembourg.
+Hanset, R., C. Michaux, C. Dessy-Doize, and G. Burtonboy.
+1982. Studies on the 7th rib cut in double muscled and
+conventional cattle. Anatomical, histological and
+biochemical aspects. In Muscle hypertrophy of genetic origin
+and its use to improve beef production (ed. J.W.B. King and F.
+Menissier), pp. 341–349. Martinus Nijhoff, The Hague, The
+Netherlands.
+McPherron, A.C., A.M. Lawler, and S.-J. Lee. 1997.
+Regulation of skeletal muscle mass in mice by a new TGF-b
+superfamily member. Nature 387: 83–90.
+Miller, S.A., D.D. Dykes, and H.F. Polesky. 1988. A simple
+salting out procedure for extracting DNA from human
+nucleated cells. Nucleic Acids Res. 16: 1215.
+Sambrook, J., E.F. Fritsch, and T. Maniatis. 1989. Molecular
+cloning: A laboratory manual, 2nd ed. Cold Spring Harbor
+Laboratory Press, Cold Spring Harbor, NY.
+Shahin, K.A. and R.T. Berg. 1985a. Growth patterns of
+muscle, fat, and bone, and carcass composition of double
+muscled and normal cattle. Can. J. Anim. Sci. 65: 279–293.
+Smith, T.P.L., N.L. Lopez-Corrales, S.M. Kappes, and T.S.
+Sonstegard. 1997. Myostatin maps to the interval
+containing the bovine mh locus. Mamm. Genome (in press).
+Sonstegaard, T.S., N.L. Lopez-Corrales, S.M. Kappes, C.W.
+Beattie, and T.P.L Smith. 1997. Comparative mapping of
+human chromosome 2 identifies segments of conserved
+synteny near bovine mh locus. Mamm. Genome (in press).
+Swatland, H.J. and N.M. Kieffer. 1974. Fetal development of
+the double muscled condition in cattle. J. Anim. Sci.
+38: 752–757.
+Vissac, B., F. Menissier, and B. Perreau. 1973. Etude du
+caractere culard VII. Croissance et musculature des femelles,
+desequilibre morphologique an velage. Ann. Genet. Sel.
+Anim. 5: 23–38.
+Received July 28, 1997; accepted in revised form August 18,
+1997.
+KAMBADUR ET AL.
+916 GENOME RESEARCH
+ Cold Spring Harbor Laboratory Press on February 17, 2014 - Published by genome.cshlp.orgDownloaded from 

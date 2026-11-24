@@ -1,0 +1,1127 @@
+=== Fuente: Coblentz & Hoffman - Hay losses and cell wall.pdf ===
+
+effects of spontaneous heating on fiber composition, fiber 
+digestibility, and in situ disappearance kinetics of neutral 
+detergent fiber for alfalfa-orchardgrass hays1
+W. K. Coblentz*2 and p. C. Hoffman†
+*USDA-ArS, US Dairy Forage research Center, Marshfield, wI 54449
+†Department of Dairy Science, University of wisconsin, Madison 53706
+aBStraCt
+During 2006 and 2007, forages from 3 individual 
+hay harvests were utilized to assess the effects of 
+spontaneous heating on concentrations of fiber compo-
+nents, 48-h neutral detergent fiber (NDF) digestibility 
+(NDFD), and in situ disappearance kinetics of NDF 
+for large-round bales of mixed alfalfa (Medicago sativa 
+L.) and orchardgrass (Dactylis glomerata L.). Over the 
+3 harvests, 96 large-round bales were made at preset 
+bale diameters of 0.9, 1.2, or 1.5 m, and at moisture 
+concentrations ranging from 9.3 to 46.6%. Internal bale 
+temperatures were monitored daily during an outdoor 
+storage period, reaching maxima (MAX) of 77.2°C and 
+1,997 heating degree days >30°C (HDD) for one spe-
+cific combination of bale moisture, bale diameter, and 
+harvest. Concentrations of all fiber components (NDF, 
+acid detergent fiber, hemicellulose, cellulose, and lignin) 
+increased in response to spontaneous heating during 
+storage. Changes in concentrations of NDF during stor-
+age (poststorage – prestorage; ΔNDF) were regressed 
+on HDD using a nonlinear regression model (R2 = 
+0.848) that became asymptotic after ΔNDF increased 
+by 8.6 percentage units. Although the specific regres-
+sion model varied, changes (poststorage – prestorage) 
+in concentrations of acid detergent fiber, cellulose, and 
+lignin also increased in nonlinear relationships with 
+HDD that exhibited relatively high coefficients of de-
+termination (R2 = 0.710 to 0.885). Fiber digestibility, 
+as determined by NDFD, was largely unaffected by 
+heating characteristics except within bales incurring 
+the most extreme levels of HDD or MAX. In situ assess-
+ment of ruminal NDF disappearance kinetics indicated 
+that disappearance rate (Kd) declined by about 40% 
+within the range of heating incurred over these hay 
+harvests. The change in Kd during storage (ΔKd) was 
+related closely to both HDD and MAX by nonlinear 
+models exhibiting high R2 statistics (0.907 and 0.883, 
+respectively). However, there was no regression rela-
+tionship between changes (poststorage – prestorage) in 
+effective ruminal disappearance of NDF and spontane-
+ous heating, regardless of which heating measure was 
+used as the independent variable. The close regression 
+relationship between ΔKd and measures of spontaneous 
+heating indicates clearly that ruminal NDF disappear-
+ance was altered negatively by some direct or indirect 
+aspect of spontaneous heating. However, it was equally 
+apparent that these effects were offset by an expanding 
+pool of dry matter recovered as potentially degradable 
+NDF.
+Key words:  disappearance kinetics, fiber composi-
+tion, hay, neutral detergent fiber
+IntrODuCtIOn
+Currently, producers in the north-central United 
+States who harvest dairy-quality (>151 relative feed 
+value) alfalfa in small rectangular bales receive approxi-
+mately $200/t for this hay product. Unfortunately, the 
+harvest of alfalfa and other hays can be complicated 
+by poor drying conditions or the threat of unexpected 
+rainfall events, each of which potentially places this 
+valuable cash crop at risk. As a result, it is common 
+for producers to bale their hay crop before adequate 
+desiccation has occurred or subject their wilting hay to 
+rain damage.
+Hay that is baled too wet commonly undergoes spon-
+taneous heating, in which plant sugars are respired into 
+CO2, water, and heat by microorganisms associated with 
+the hay (Rotz and Muck, 1994). Although the thresh-
+old moisture for acceptable storage for small (~45-kg) 
+rectangular bales is approximately 20% (Collins et al., 
+1987), thresholds for larger hay packages are assumed 
+generally to be lower, but they vary with the size and 
+density of bales, as well as other factors. In addition to 
+oxidation of nonstructural carbohydrates (Coblentz et 
+al., 1997a), the phenomenon of spontaneous heating is 
+J. Dairy Sci. 92:2875–2895
+doi:10.3168/jds.2008-1921
+© American Dairy Science Association, 2009.
+2875
+Received November 21, 2008.
+Accepted February 16, 2009.
+1 Mention of trade names or commercial products in this article is 
+solely for the purpose of providing specific information, and does not 
+imply either recommendation or endorsement by the US Department 
+of Agriculture.
+2 Corresponding author: wayne.coblentz@ars.usda.gov
+associated with mold growth (Roberts, 1995), deleteri-
+ous changes in forage nutritive value (Collins et al., 
+1987; Coblentz et al., 1996, 2000; Turner et al., 2002), 
+alteration of ruminal disappearance kinetics of N, fiber, 
+and DM (Coblentz et al., 1997b; McBeth et al., 2003; 
+Turner et al., 2004), and less desirable measures of in 
+vivo disappearance of DM (Montgomery et al., 1986; 
+McBeth et al., 2001; Turner et al., 2004).
+In previous studies (Coblentz et al., 1996, 2000), 
+concentrations of NDF, ADF, cellulose, and lignin have 
+been related to various indicators of spontaneous heat-
+ing in positive linear relationships that are often charac-
+terized by relatively high coefficients of determination 
+(r2). Positive relationships between concentrations of 
+fiber components and measures of spontaneous heating 
+are assumed to occur primarily by indirect mechanisms; 
+the respiratory activity of microorganisms has a con-
+centrating effect on fiber constituents by oxidizing non-
+fiber compounds (Rotz and Muck, 1994), rather than 
+actually creating additional forage fiber. In addition, 
+it is frequently assumed that the digestibility of forage 
+fiber is reduced by spontaneous heating, but support 
+for this premise based on in vivo or other assessments 
+is limited. Several studies have reported relationships 
+between in vivo NDF digestibility and heating that 
+were mildly negative (McBeth et al., 2001), inconclu-
+sive (Turner et al., 2004), or even positive when steam-
+treated (100 to 110°C for 0.75 h) alfalfa-hay-based diets 
+were offered to lactating dairy cows (Broderick et al., 
+1993). Using in situ procedures, rates of ruminal NDF 
+disappearance (Kd) for heated bermudagrass [Cynodon 
+dactylon (Pers.) L.] hays were slowed by spontaneous 
+heating during storage, resulting in reduced estimates 
+of effective NDF degradability (McBeth et al., 2003), 
+but effects on dairy-quality legumes remain unclear. An 
+additional unknown factor to consider when evaluating 
+past work is that previous studies have largely been 
+confined to small (~45-kg) rectangular bale packages 
+that were easy to replicate statistically, but typically 
+exhibit limited heating characteristics compared with 
+the large-round or large-square packages that are in-
+creasingly popular with hay producers. Within this 
+context, Montgomery et al. (1986) reported reduced 
+in vivo digestibility coefficients for cellulose and ADF 
+within wethers consuming heated alfalfa-orchardgrass 
+hays packaged in large-round bales.
+In a companion report (Coblentz and Hoffman, 2009), 
+we have evaluated spontaneous heating, DM recovery, 
+whole-plant ash, in vitro true digestibility (IVTD), 
+and ruminal in situ disappearance kinetics of DM for 
+large-round bales of alfalfa-orchardgrass hay from 3 
+harvests. In that report, concentrations of IVTD and 
+effective ruminal disappearance of DM were reduced in 
+close association with spontaneous heating. It remains 
+unclear whether this occurred strictly as the result of 
+respiratory losses of highly digestible forms of DM dur-
+ing storage, or whether these reductions were related 
+to changes in the composition and subsequent degrad-
+ability of fiber, or a combination of both mechanisms. 
+The objective of this report was to relate changes in 
+concentrations of fiber components, 48-h NDF digest-
+ibility (NDFD), and characteristics of ruminal in situ 
+NDF disappearance to measures of spontaneous heat-
+ing for the large-round bales of alfalfa-orchardgrass hay 
+described within the companion report (Coblentz and 
+Hoffman, 2009) using linear and nonlinear regression 
+techniques.
+materIaLS anD metHODS
+Field Procedures
+This project comprised 3 separate hay harvests con-
+ducted on the same 8.2-ha field site over a 2-yr period 
+(2006 and 2007). All details relating to the establishment 
+of forages, soil fertility, harvest management, storage 
+procedures, temperature measurements, and pre- and 
+poststorage sampling procedures have been described 
+within the companion report (Coblentz and Hoffman, 
+2009), and will be summarized here only briefly.
+Pretrial Considerations. To meet the objectives of 
+this project, several a priori decisions concerning meth-
+odology were made that require explanation. From an 
+experimental design standpoint, one overall goal of the 
+project was to establish a wide continuum of heating 
+characteristics that contained temperature responses 
+from both very dry and very wet hays. Unfortunately, 
+it was not possible to meet this goal adequately within 
+a single study using the 8.2-ha field site that was avail-
+able; therefore, it was necessary to combine data over 
+3 separate harvests. We intentionally chose to con-
+fine prestorage bale moistures within each harvest to 
+relatively narrow ranges, hereafter designated as low- 
+(LM), intermediate- (IM), and high-moisture (HM). 
+This approach provided logistical advantages, including 
+increased flexibility with respect to labor schedules, 
+while also providing a mechanism to accumulate suf-
+ficient forage to meet our research needs.
+Source of Hays. Briefly, the 8.2-ha field site com-
+prised a mixture of ‘Phabulous II’ alfalfa and ‘Extend’ 
+orchardgrass that were established on April 14, 2004, 
+near Stratford, Wisconsin. The LM and HM harvests 
+utilized the second and third cuttings, respectively, 
+harvested during 2006, whereas the IM harvest utilized 
+forage from the second cutting of 2007. Respective 
+dry weight percentages of alfalfa in LM, IM, and HM 
+harvests were 91, 76, and 68%, whereas orchardgrass 
+comprised 9, 22, and 31% of each sward. During each 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2876
+harvest, forage was mowed and conditioned (model 
+8830, J. I. Case Co., Racine, WI), adjacent rows gath-
+ered with a bi-fold rake, and then hay was packaged 
+with a Ford-New Holland round baler (model BR 740A, 
+CNH America LLC, Racine, WI).
+Structure of Treatments. The treatment structure 
+of each hay harvest was similar; generally, bales were 
+packaged in factorial arrangements of bale diameter 
+(1.5, 1.2, or 0.9 m) and various concentrations of mois-
+ture. For the LM, IM, and HM harvests, prestorage 
+bale moistures for interactive treatment combinations 
+ranged from 9.3 to 17.3%, 16.8 to 24.2%, and 26.7 to 
+46.6%, respectively. All bales were tied with 2 revolu-
+tions of net wrap and placed on wooden pallets located 
+outdoors on a dense grass sod.
+Temperature Measurements. Each bale was fit-
+ted with a thermocouple positioned near its geometric 
+center, and bales were evaluated for maximum internal 
+bale temperature (MAX) during storage. Heating 
+degree days >30°C (HDD) also were computed as 
+the summations of the daily increment by which the 
+internal bale temperature was greater than 30°C. Daily 
+temperature measurements were terminated when bales 
+no longer exhibited any evidence of spontaneous heat-
+ing; these data for HDD and MAX have been summa-
+rized and thoroughly discussed in the companion report 
+(Coblentz and Hoffman, 2009).
+Bale Sampling Procedures
+Each bale was sampled 3 times, once before stor-
+age and twice at the completion of the storage period. 
+Immediately after baling, 0.46-m deep core samples 
+(0.025-m diameter) were taken from the center portion 
+of each bale using a Uni-Forage Sampler (Star Qual-
+ity Samplers, Edmonton, Alberta, Canada). Samples 
+taken from bales after storage were handled similarly; 
+however, samples were taken from 2 parts of the bale 
+(0.15-m-deep surface layer and the bale core), and then 
+processed and analyzed independently. All samples 
+were dried to constant weight under forced air (50°C), 
+ground through a Wiley mill (Arthur H. Thomas, Phil-
+adelphia, PA) equipped with a 1- or 2-mm screen, and 
+then retained for laboratory evaluation of NDF, ADF, 
+hemicellulose, cellulose, lignin, NDFD, and ruminal in 
+situ disappearance kinetics of NDF.
+Laboratory Analyses
+Portions of each sample ground through the 1-mm 
+screen were analyzed for NDF, ADF, hemicellulose, 
+cellulose, and lignin, as well as NDFD. Analysis of 
+NDF and other fiber components were conducted se-
+quentially using batch procedures outlined by Ankom 
+Technology Corp. (Fairport, NY) for an Ankom 200 Fi-
+ber Analyzer. Neither sodium sulfite nor α-amylase was 
+included in the NDF solution. Procedures and appara-
+tus for determining NDFD consisted of incubating 0.5-g 
+samples in 125-mL Erlenmeyer flasks containing rumen 
+fluid, buffer media, and macro- and micro-mineral solu-
+tions (Goering and Van Soest, 1970). Incubation flasks 
+were purged continuously with CO2 and maintained 
+in a water bath at 39°C. After 48 h, incubations were 
+terminated by digestion in neutral-detergent solution 
+that included both heat-stable α-amylase and sodium 
+sulfite (Goering and Van Soest, 1970; Mertens, 1992). 
+Before ruminal incubation, rumen fluid was harvested 
+from a nonlactating dairy cow fitted with a ruminal 
+cannula and offered a diet containing 69% alfalfa-grass 
+silage and 30% corn silage, with the balance of the diet 
+consisting of vitamin and mineral supplements.
+In Situ Incubation Procedures
+Eighteen interactive (bale moisture × bale diameter) 
+treatments from the HM (10 treatments) and IM (8 
+treatments) harvests were selected for in situ analysis. 
+All poststorage hays consisted of forage from the bale 
+core only, and each hay treatment was composited over 
+the 3 field replications (bales) before conducting kinetic 
+evaluations. The 18 treatments were selected to provide 
+the best possible distribution across the entire heat-
+ing continuum represented by IM and HM harvests. 
+Composites of prestorage samples generated from the 
+10 hays selected from the HM harvest and the 8 hays 
+selected from the IM harvest also were evaluated as 
+(no-heating) controls.
+Two nonlactating, 937 ± 35.4-kg, ruminally cannu-
+lated Holstein cows were housed in individual 4.3- × 
+8.5-m pens with concrete floors that were bedded with 
+wood shavings and cleaned regularly. Cannulations 
+(protocol #A-1307) and care of the cows (protocol 
+#A-1339) were approved by the Research Animal 
+Resources Center of the University of Wisconsin. A 
+basal diet consisting of alfalfa/quackgrass hay (14.0% 
+CP, 50.8% NDF, and 36.0% ADF), ground corn, and 
+trace-mineralized salt was offered in equal portions at 
+0900 and 1500 h at a daily cumulative rate of 1.35% of 
+BW. The basal diet contained 90.3% alfalfa/grass hay, 
+8.9% ground corn, and 0.8% trace-mineralized salt on 
+an as-fed basis. Cows were allowed a 10-d adaptation 
+period, and then hays were evaluated during two 4-d 
+experimental periods. Following period 1, cows were 
+given a 3-d recovery period before initiating period 2.
+In situ procedures were consistent with the standard-
+ized techniques described by Vanzant et al. (1998), in 
+which 5-g dried hay samples were sealed in 10- × 20-cm 
+Dacron bags (50 ± 10 μm pore size; Ankom Technol-
+2877SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009
+ogy, Corp.), and then suspended in the ventral rumen 
+for 3, 6, 9, 12, 24, 36, 48, 72, or 96 h. Before insertion 
+into the rumen, all Dacron bags were placed in 35- × 
+50-cm mesh bags and incubated in tepid water (39°C) 
+for 20 min. After incubation, samples were rinsed im-
+mediately in a top-loading washing machine (Coblentz 
+et al., 1997b; Vanzant et al., 1998). For all selected hays, 
+additional bags were preincubated and rinsed without 
+ruminal incubation, creating a 0-h incubation time. Af-
+ter machine rinsing, residues were dried at 50°C, equili-
+brated with the atmosphere in the laboratory (Vanzant 
+et al., 1996), and then weighed to determine residual 
+DM. To determine NDF disappearance kinetics, 0.5-g 
+subsamples of the air-equilibrated residues from each 
+Dacron bag were digested in NDF solution using the 
+Ankom procedures described previously; no heat-sta-
+ble α-amylase or sodium sulfite were included in the 
+neutral-detergent solution. Using these procedures, the 
+entire study comprised 800 Dacron bags. Allocation of 
+bags and time periods was identical across all animals 
+and experimental periods. Therefore, for each of the 4 
+animal × period combinations, there were 200 Dacron 
+bags in total (20 hays × 10 time periods); of these, 
+180 bags were incubated within the ventral rumen and 
+20 represented the 0-h bags that were presoaked and 
+rinsed without ruminal incubation.
+The percentage of NDF remaining at each incubation 
+time was fitted to the nonlinear regression model of 
+Mertens and Loften (1980) using PROC NLIN (SAS 
+Institute, 1990), which partitions NDF into 3 fractions 
+based on relative susceptibility to ruminal disappear-
+ance. Fractions A, B, and C are defined as the portions 
+of NDF disappearing at a rate too fast to measure, 
+disappearing at a measurable rate, or unavailable in the 
+rumen, respectively. Fractions B and C, as well as lag 
+time and Kd were estimated directly from the regres-
+sion model. Fraction A was calculated as 100% – (B + 
+C), and effective ruminal disappearance of NDF was 
+calculated as A + B × [Kd/(Kd + Kp)] (Ørskov and 
+McDonald, 1979), where Kp = passage rate (0.06/h; 
+Hoffman et al., 1993). An independent ruminal NDF 
+decay curve was fitted for each combination of animal, 
+period, and forage, resulting in a total of 80 curves for 
+the entire project.
+Statistics
+Regressions of NDF, ADF, Hemicellulose, Cel-
+lulose, Lignin, and NDFD on HDD and MAX. 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2878
+Table 1. Concentrations of fiber components and 48-h neutral detergent fiber digestibility (NDFD) summarized from 96 round bales of alfalfa-
+orchardgrass hay from 3 harvests made during 2006 and 2007 near Stratford, Wisconsin 
+Item Harvest1 n2 Bales, n3
+Prestorage Poststorage surface Poststorage core
+Mean4 SE5 Mean4 SE5 Mean4 Maximum6 Minimum7 SE8
+NDF, % HM 13 39 47.8 0.20 57.0 0.23 56.5 58.7 53.7 0.54
+IM 12 36 47.5 0.24 53.4 0.40 52.0 54.8 48.3 1.08
+LM 7 21 42.4 0.39 43.9 0.39 45.1 47.9 42.1 1.09
+ADF, % HM 13 39 32.6 0.14 39.7 0.19 39.2 41.3 37.2 0.64
+IM 12 36 32.0 0.23 34.6 0.28 33.0 34.8 29.6 1.00
+LM 7 21 28.3 0.13 28.4 0.19 27.2 27.8 26.1 0.46
+Hemicellulose, % HM 13 39 15.2 0.19 17.3 0.17 17.2 20.5 14.4 0.68
+IM 12 36 15.5 0.18 18.7 0.31 19.0 21.7 16.3 1.03
+LM 7 21 14.1 0.34 15.5 0.33 17.9 20.7 16.0 1.11
+Cellulose, % HM 13 39 26.3 0.08 29.7 0.14 28.8 30.0 27.8 0.52
+IM 12 36 25.6 0.19 27.6 0.21 26.2 27.9 24.2 0.75
+LM 7 21 21.9 0.16 21.6 0.19 21.4 21.7 20.9 0.49
+Lignin, % HM 13 39 5.54 0.506 8.15 0.091 8.80 9.99 7.41 0.310
+IM 12 36 5.60 0.087 6.45 0.107 5.96 6.50 4.70 0.296
+LM 7 21 5.42 0.151 5.10 0.111 5.41 5.95 5.00 0.140
+NDFD, % of NDF HM 13 39 48.7 0.41 48.1 0.41 47.7 50.9 43.1 1.79
+IM 12 36 48.3 0.55 45.9 0.72 48.3 50.8 46.7 1.85
+LM 7 21 46.7 0.37 48.1 0.71 47.0 47.9 46.0 1.98
+1Harvest: HM = high moisture (26.7 to 46.6%); IM = intermediate moisture (16.8 to 24.2%); and LM = low moisture (9.3 to 17.3%).
+2Number of interactive treatments during each harvest. Harvest HM contained one baling treatment made at 26.7% moisture at the 0.9-m bale 
+diameter only, whereas LM contained a dry control made at 9.3% moisture and at the 1.2-m bale diameter only. These additional treatments 
+were made only at one diameter because insufficient forage was available to complete the entire factorial arrangement of treatments (bale diam-
+eters) at these moisture concentrations. Each interactive treatment represents the mean of 3 bales.
+3Total number of bales made per harvest.
+4Overall mean of all interactive bale moisture × bale diameter treatments.
+5Standard error of the overall mean of all interactive bale moisture × bale diameter treatments.
+6Maximum value across all interactive treatments.
+7Minimum value across all interactive treatments.
+8Standard error of the interactive mean.
+Although data for each individual harvest were analyzed 
+independently (data not shown), we concluded that the 
+randomized fixed effects (bale moisture and diameter) 
+evaluated throughout these hay harvests affected fiber 
+composition and fiber digestibility primarily through 
+their close relationship with heating characteristics 
+(Coblentz and Hoffman, 2009). Originally, it was our 
+intention to analyze and report on each harvest as an 
+independent randomized fixed-effect trial, and then 
+combine the data from the 3 harvests by regressing 
+response variables on indices of spontaneous heating 
+(HDD and MAX). However, these statistical approaches 
+were redundant, largely because varying bale moisture 
+and diameter within each individual harvest created 
+a range of conditions that were more or less favorable 
+for spontaneous heating and the subsequent retention 
+2879SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009
+Figure 1. Changes in concentrations of NDF (poststorage – prestorage; ΔNDF) as affected by heating degree days >30°C (A) and maximum 
+internal bale temperature (B). The mean prestorage concentration of NDF (weighted based on the number of treatments from the high-, inter-
+mediate-, and low-moisture harvests) was 46.5%, which corresponds generally to ΔNDF = 0 on the y-axis.
+of heat within each bale. Therefore, to simplify the 
+presentation of results, the ANOVA for each individual 
+harvest have been omitted, and all data are pooled and 
+analyzed collectively by direct regression on measures 
+of spontaneous heating (HDD or MAX).
+Before conducting regression analyses, poststorage 
+concentrations of NDF, ADF, hemicellulose, cellulose, 
+lignin, and NDFD from the bale core were normalized as 
+a simple mathematical difference resulting from storage 
+(poststorage – prestorage; ΔNDF, ΔADF, ΔHEMI, 
+ΔCELL, ΔLIG, and ΔNDFD, respectively), where 
+positive and negative values indicate increased or de-
+creased concentrations, respectively. Normalization of 
+data was required to account for relatively minor differ-
+ences in prestorage concentrations of fiber components 
+(Table 1) across the 3 harvests. These baseline-adjusted 
+response variables were then regressed against HDD 
+and MAX using nonlinear regression models (PROC 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2880
+Figure 2. Changes in concentrations of ADF (poststorage – prestorage; ΔADF) as affected by heating degree days >30°C (A) and maximum 
+internal bale temperature (B). The mean prestorage concentration of ADF (weighted based on the number of treatments from the high-, inter-
+mediate-, and low-moisture harvests) was 31.4%, which corresponds generally to ΔADF = 0 on the y-axis.
+NLIN; SAS Institute, 1990) of the general form Y = 
+b × (e-kx) – a, if ΔNDF, ΔADF, ΔCELL, ΔLIG, or 
+ΔNDFD became negative with spontaneous heating, 
+or Y = a – (b × e-kx), if they became positive. For 
+these model assessments, k was the rate constant, x was 
+the independent variable (HDD or MAX), and a and b 
+were parameters determined directly by the regression 
+model. For these nonlinear regression models, the inde-
+pendent variables (HDD or MAX) also were squared in 
+an attempt to improve fit. Because of the distribution 
+of the MAX measurement, nonlinear regression mod-
+els generally were more difficult to apply when MAX 
+was the independent variable. For hay experiments, 
+MAX = 0°C is nonsensical, and the overall range for 
+MAX in the present studies was confined from 40.2 to 
+77.2°C, with no data distributed between MAX = 0 
+2881SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009
+Figure 3. Changes in concentrations of cellulose (poststorage – prestorage; ΔCELL) as affected by heating degree days >30°C (A) and 
+maximum internal bale temperature (B). The mean prestorage concentration of cellulose (weighted based on the number of treatments from the 
+high-, intermediate-, and low-moisture harvests) was 25.1%, which corresponds generally to ΔCELL = 0 on the y-axis.
+and 40.2°C. Four other polynomial regression models 
+assessing linear, quadratic, cubic, and quartic responses 
+to HDD or MAX also were evaluated by PROC REG 
+(SAS Institute, 1990).
+The selection of the most appropriate model for ki-
+netic characteristics of ruminal NDF disappearance was 
+assessed similarly. Fractions A, B, and C, as well as 
+lag time, Kd, and effective degradability of NDF were 
+subjected to ANOVA procedures, thereby generating 
+a mean response for each kinetic parameter over the 
+4 combinations of animal and period. As described 
+previously for fiber components, kinetic characteristics 
+were then normalized across hay harvests by expressing 
+each kinetic parameter as a mathematical (baseline-
+adjusted) difference resulting from storage (poststor-
+age – prestorage; ΔA, ΔB, ΔC, ΔLAG, ΔKd, and 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2882
+Figure 4. Changes in concentrations of ADL (poststorage – prestorage; ΔLIG) as affected by heating degree days >30°C (A) and maximum 
+internal bale temperature (B). The mean prestorage concentration of ADL (weighted based on the number of treatments from the high-, inter-
+mediate-, and low-moisture harvests) was 5.54%, which corresponds generally to ΔLIG = 0 on the y-axis.
+ΔDEG, respectively). Generally, selection of the most 
+appropriate model was based on the coefficient of de-
+termination (r2 or R2). Polynomial regression models 
+were not selected if the coefficient or slope for the 
+highest ordered term did not differ from zero, or if the 
+model included an illogical inflection in the regression 
+curve that could not be explained biologically. It should 
+be noted clearly that these regression techniques are 
+meant only to describe changes within each kinetic 
+parameter as a function of HDD and MAX; it should 
+not be inferred that these procedures are sufficiently 
+rigorous to extrapolate beyond the context of this data 
+2883SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009
+Figure 5. Changes in concentrations of hemicellulose (poststorage – prestorage; ΔHEMI) as affected by heating degree days (HDD) > 30°C 
+(A) and maximum internal bale temperature (MAX; B). The mean prestorage concentration of hemicellulose (weighted based on the number of 
+treatments from the high-, intermediate-, and low-moisture harvests) was 15.1%, which corresponds generally to ΔHEMI = 0 on the y-axis. To 
+reduce variability, data were grouped in increments of 50 HDD and 5°C (MAX) before conducting regression analysis. Independent regressions 
+were conducted for the ascending (■, thin line) and descending (●, thick line) portions of each response; in panel A, the intersection of the 2 
+regression lines occurred at 347 HDD, whereas for MAX (panel B) it occurred at 57.5°C.
+set, or to serve as a direct basis for estimating values 
+for unknown forages.
+Generally, these regression procedures were suitable 
+for explaining responses to spontaneous heating for all 
+response variables except ΔHEMI. Initially, plots of 
+ΔHEMI on HDD or MAX were highly scattered, but 
+revealed an ascending pattern at relatively low HDD or 
+MAX and a descending relationship at more extreme 
+spontaneous heating. To best explain these responses, 
+data were grouped over increments of 50 HDD and 5°C 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2884
+Figure 6. Changes in concentrations of 48-h NDF digestibility (poststorage – prestorage; ΔNDFD) as affected by heating degree days >30°C 
+(A) and maximum internal bale temperature (B). The mean prestorage concentration of NDFD (weighted based on the number of treatments 
+from the high-, intermediate-, and low-moisture harvests) was 48.1% of NDF, which corresponds generally to ΔNDFD = 0 on the y-axis.
+for MAX to reduce scatter. After grouping, indepen-
+dent regressions were conducted for the ascending and 
+descending portions of each response for ΔHEMI over 
+HDD or MAX. In addition, a wider range of regression 
+models was considered to obtain the best fit; these in-
+cluded dropping the linear term from quadratic regres-
+sion models, and using alternate data transformation 
+terms, such as 1/√HDD or 1/MAX2. Throughout all 
+regression analyses, significance was declared at P ≤ 
+0.05, unless otherwise indicated.
+reSuLtS anD DISCuSSIOn
+Regressions of Changes in Concentrations  
+of Fiber Components and NDFD on HDD and MAX
+NDF, ADF, Cellulose, and Lignin. For regressions 
+of ΔNDF (Figure 1A), ΔADF (Figure 2A), ΔCELL 
+(Figure 3A), and ΔLIG (Figure 4A) on HDD, a non-
+linear model in which the independent variable (HDD) 
+was squared was most effective in relating changes in 
+fiber components to HDD. In each case, concentrations 
+of these fiber components increased rapidly with HDD, 
+but then became asymptotic between approximately 
+600 and 1,200 HDD. Coefficients of determination (R2) 
+ranged from 0.885 for ΔLIG to 0.710 for ΔCELL, but 
+indicated a relatively close relationship in each case.
+Regressions of ΔNDF (Figure 1B), ΔADF (Fig-
+ure 2B), and ΔLIG (Figure 4B) on MAX were best 
+explained with quadratic, linear, and cubic models, 
+respectively. Relatively high coefficients of determina-
+tion (R2 = 0.760 to 0.947) were exhibited in each case, 
+indicating that MAX was an excellent predictor of 
+changes in concentrations of these fiber components. 
+In contrast, the regression of ΔCELL on MAX (Figure 
+3B) was best fitted to the nonlinear model with the 
+independent variable squared; however, the coefficient 
+of determination also was relatively high (R2 = 0.795). 
+Within these relationships, ΔADF, ΔCELL, and ΔLIG 
+all became increasingly positive over the entire range of 
+MAX observed throughout our harvests. In contrast, 
+a negative inflection in the quadratic regression curve 
+for ΔNDF suggests that concentrations of NDF may 
+decline slightly at relatively high MAX (>66°C). De-
+clining concentrations of NDF suggest that portions of 
+the NDF matrix, such as hemicellulose, may become 
+reactive and lose their normal analytical properties 
+(Van Soest, 1982).
+2885SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009
+Table 2. In situ disappearance kinetics of NDF for 20 baling treatments selected from the high- and intermediate-moisture harvests1 
+Hay 
+number
+Bale 
+diameter, m
+Initial bale 
+moisture, %
+HDD  
+>30°C
+Maximum 
+temperature, °C
+Fraction, % of NDF
+Lag  
+time, h Kd, /h
+Effective 
+degradability,2 
+% of NDFA B C
+High moisture 
+ 1 Prestorage composite3 0 — 14.0 48.8 37.2 2.17 0.104 44.8
+ 2 0.9 26.7 321 54.4 18.6 49.3 32.1 1.98 0.082 46.8
+ 3 0.9 38.7 470 65.0 19.9 45.6 34.5 2.72 0.076 45.1
+ 4 0.9 41.9 590 66.0 22.5 48.3 29.2 2.85 0.062 46.9
+ 5 1.2 30.9 641 65.6 21.0 47.7 31.3 3.29 0.077 47.6
+ 6 1.5 32.1 716 66.0 20.9 46.3 32.8 2.16 0.058 43.2
+ 7 1.2 39.4 952 68.6 20.0 47.3 32.7 2.07 0.066 44.7
+ 8 1.2 43.5 1,005 70.3 20.9 45.3 33.8 3.17 0.072 45.5
+ 9 1.5 38.7 1,494 69.9 20.6 47.1 32.3 1.93 0.064 44.9
+ 10 1.5 40.1 1,737 74.7 21.7 47.2 31.0 2.02 0.064 46.1
+ 11 1.5 46.6 1,997 77.2 23.6 43.8 32.5 2.88 0.063 45.9
+SEM 0.77 0.80 0.46 0.440 0.0059 0.73
+Intermediate moisture 
+ 12 Prestorage composite4 0 — 16.0 46.1 37.9 0.87 0.094 43.8
+ 13 0.9 17.1 29 45.0 15.9 45.2 39.0 1.55 0.100 43.9
+ 14 1.2 17.5 62 47.3 14.8 49.0 36.1 1.56 0.090 43.6
+ 15 1.2 18.9 175 48.2 14.5 47.7 37.8 2.02 0.094 43.3
+ 16 1.5 16.8 203 47.4 14.4 49.7 35.9 1.52 0.085 43.4
+ 17 1.5 22.0 304 50.1 14.2 50.0 35.7 1.71 0.084 42.9
+ 18 1.5 20.3 308 51.5 15.8 48.9 35.3 2.45 0.083 44.1
+ 19 1.5 24.2 326 52.7 15.6 47.0 37.4 1.39 0.079 42.1
+ 20 1.2 22.8 506 52.6 16.9 48.9 34.2 0.85 0.065 42.3
+SEM 1.03 1.15 0.39 0.386 0.0087 1.03
+1HDD >30°C = heating degree days accumulated during bale storage; fraction A = fraction of total NDF pool disappearing at a rate too rapid 
+to measure; fraction B = fraction of total NDF pool disappearing at a measurable rate; fraction C = fraction of total NDF pool unavailable in 
+the rumen; and Kd = fractional rate constant.
+2Calculated as A + B × [(Kd + Kp)/Kd], where Kp was the ruminal passage rate, which was arbitrarily set at 0.06/h (Hoffman et al., 1993).
+3Composite equally weighted with sample obtained immediately after baling from hays 2 through 11.
+4Composite equally weighted with sample obtained immediately after baling from hays 13 through 20.
+Previously, concentrations of NDF, ADF, and lignin 
+have been related linearly to HDD, MAX, and aver-
+age internal bale temperature for bermudagrass hays 
+(Coblentz et al., 2000), and similar linear relationships 
+have been established for NDF and ADF regressed 
+on HDD for alfalfa hays (Coblentz et al., 1996). As 
+observed in the present studies, these regressions were 
+characterized by high r2 statistics, which ranged up to 
+0.952 for a linear relationship between NDF and HDD 
+within heated bermudagrass hays (Coblentz et al., 
+2000). Within the present study, the curvilinear nature 
+for many of our regression relationships is most likely 
+a function of greater spontaneous heating incurred in 
+large-round bales. Accumulations of HDD for interactive 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2886
+Figure 7. Changes in percentages of NDF disappearing from Dacron bags at a rate too rapid to measure (poststorage – prestorage; ΔA) 
+as affected by heating degree days >30°C (A) and maximum internal bale temperature (B). The mean prestorage concentration of fraction A 
+(weighted based on the number of treatments from the high- and intermediate-moisture harvests) was 14.9% of NDF, which corresponds gener-
+ally to ΔA = 0 on the y-axis.
+treatments in the present study ranged as high as 1,997 
+HDD (Coblentz and Hoffman, 2009), which was ap-
+proximately 5 and 6 times the maximum accumulations 
+reported for small rectangular bales of bermudagrass 
+packaged at 32.5% moisture (Coblentz et al., 2000) 
+and alfalfa packaged at 29.7% moisture (Coblentz et 
+al., 1996), respectively. Because concentrations of fiber 
+components increase primarily by indirect mechanisms 
+during bale storage, the asymptotic nature of ΔNDF, 
+ΔADF, ΔCELL, and ΔLIG within regressions on HDD 
+may also indicate near exhaustion of substrate pools 
+for microbial respiration, thereby limiting the indirect 
+2887SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009
+Figure 8. Changes in percentages of NDF disappearing from Dacron bags at a measurable rate (poststorage – prestorage; ΔB) as affected 
+by heating degree days >30°C (A) and maximum internal bale temperature (B). The mean prestorage concentration of fraction B (weighted 
+based on the number of treatments from the high- and intermediate-moisture harvests) was 47.6% of NDF, which corresponds generally to ΔB 
+= 0 on the y-axis.
+concentrating effect on fiber components. It also should 
+be noted that under conditions favoring more extreme 
+spontaneous heating, such as those observed for the HM 
+harvest (Coblentz and Hoffman, 2009), accumulation of 
+lignin could occur directly via formation of Maillard 
+products (Van Soest, 1982).
+Hemicellulose. Regressions of ΔHEMI on HDD or 
+MAX were unique relative to all other response vari-
+ables (Figures 5A and 5B). In both cases, data were 
+scattered, but indicated a distinctly ascending pattern 
+at low-to-modest spontaneous heating, followed by a 
+descending pattern with more extreme heating. After 
+data were grouped in 50 HDD increments to reduce 
+scatter, the ascending portion of the regression on HDD 
+was fit with a quadratic model without the linear term 
+(R2 = 0.801), and the descending portion of the response 
+was best fit with an alternative model [Y = 187.3(1/x) 
+– 4.6; R2 = 0.733]. Intersection of these 2 regression re-
+sponses occurred at approximately 347 HDD. Although 
+the specific regression models varied for relationships 
+with MAX, the diverse ascending and descending as-
+pects of the overall response were similar, yielding an 
+intersection of regression lines at 57.5°C. Generally, 
+these diverse responses over a wide range of spontaneous 
+heating are consistent with other work. Coblentz et al. 
+(2000) reported a positive linear relationship between 
+concentrations of hemicellulose and various measures 
+of spontaneous heating for small rectangular bales of 
+heated bermudagrass hays that incurred a maximum 
+of 327 HDD, based on a 35°C threshold. Conversely, 
+Goering et al. (1973) reported that concentrations of 
+hemicellulose declined rapidly with temperature when 
+orchardgrass forages were hydrated to approximately 
+53% moisture and then heated artificially for 24 h at 
+40, 60, 80, or 100°C. Throughout our 3 hay harvests, 
+concentrations of hemicellulose likely increased indi-
+rectly via respiration of nonfiber compounds until the 
+accumulation of HDD or MAX approached 347 HDD or 
+57.5°C, respectively. With more extreme heating, hemi-
+cellulose likely became an active participant in Maillard 
+or other reactions. Because damaged carbohydrates 
+cease to retain their undamaged analytical properties 
+and are often recovered as lignin (Van Soest, 1982), 
+concentrations of hemicellulose then declined at high 
+HDD or MAX.
+NDFD. Unlike all fiber components, regressions of 
+ΔNDFD on HDD (Figure 6A) or MAX (Figure 6B) 
+were best fit by simple linear models with relatively 
+low coefficients of determination (r2 = 0.310 and 0.196, 
+respectively). Although the negative slopes associated 
+with these models differed from zero (P ≤ 0.011), they 
+were heavily influenced by 4 negative values of ΔNDFD 
+that were specifically confined to the most extreme ac-
+cumulations of HDD or greatest MAX. Without these 
+responses at the most extreme levels of spontaneous 
+heating, there would have been no statistical relation-
+ship between ΔNDFD and either HDD (P = 0.950) 
+or MAX (P = 0.920). These regressions suggest that 
+digestibility of fiber is largely unaffected by spontane-
+ous heating, except in cases where baling moisture and 
+other storage factors are grossly mismanaged, resulting 
+in excessive spontaneous heating.
+Previous studies have reported conflicting relation-
+ships between spontaneous heating and in vivo digest-
+ibility of NDF. For bermudagrass hays accumulating 5 
+to 401 HDD during storage based on a 35°C threshold, 
+NDF digestibility declined linearly when hays were of-
+fered to growing wethers (McBeth et al., 2001); how-
+ever, this relationship was characterized by a relatively 
+limited range (60.4 to 66.5%) and a relatively poor 
+coefficient of determination (r2 = 0.30). In contrast, 
+Turner et al. (2004) reported a tendency for increased 
+in vivo digestibilities of NDF in growing steers offered 
+tall fescue [Lolium arundinaceum (Schreb.) Darbysh] 
+hays that heated modestly during storage. Similarly, 
+Broderick et al. (1993) reported increased in vivo di-
+gestibility of NDF for steam-treated (100 to 110°C for 
+0.75 h) alfalfa-hay-based diets offered to lactating dairy 
+cows compared with diets containing unheated hays. 
+In each of these studies, interpretation is complicated 
+somewhat by the conditions of ad-libitum voluntary 
+intake that were established to meet experimental 
+objectives. In reality, this is a procedural compromise 
+that allows in vivo assessment with procedures that 
+resemble most closely production situations, but actu-
+ally confound estimates of digestibility because of the 
+positive relationship between voluntary intake and rate 
+of passage (Cochran and Galyean, 1994).
+Generally, our results suggest that NDFD was affected 
+only marginally by the wide range of baling treatments 
+and heating characteristics generated throughout the 
+LM, IM, and HM harvests. Potentially, this has impli-
+cations with respect to the prediction of truly digestible 
+fiber, and subsequently, energy density (total digestible 
+nutrients) within forages by the summative approach 
+(Weiss et al., 1992; NRC, 2001). Specifically, estimation 
+of truly digestible fiber for heated forages would be 
+sensitive primarily to changes in NDF concentrations 
+when estimated by NDFD, but the alternate lignin-
+based calculation would be sensitive to changes in con-
+centrations of both NDF and lignin that occur because 
+of spontaneous heating.
+In Situ Disappearance Kinetics of NDF
+Fractions A, B, and C, as well as discrete lag time, 
+Kd, and effective ruminal degradability are compiled 
+in Table 2 for the 18 interactive combinations of bale 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2888
+moisture and density sampled from the bale core, plus 
+prestorage controls from both the IM and HM harvests. 
+Selections were weighted more heavily for HDD ac-
+cumulations ranging between 29 and 641 d (12 hays), 
+which is probably the most relevant part of the overall 
+range with respect to commercial hay production.
+Fractions A, B, and C. Fraction A is defined as 
+that portion of the total NDF pool disappearing at a 
+rate too fast to measure. For other forage components, 
+such as DM or CP, fraction A is often associated closely 
+with solubility in water, and may even be defined as 
+the soluble or immediately soluble fraction (Hoffman et 
+al., 1993; Vanzant et al., 1996; Broderick and Cochran, 
+2000). For NDF disappearance kinetics, interpretation of 
+fraction A is complicated by the theoretical insolubility 
+of NDF in water (Van Soest, 1982), which implies that 
+fraction A should comprise only a negligible percentage 
+of the total NDF pool. In practice, this concept has 
+been observed inconsistently. Numerous studies have 
+reported measurable percentages of the total NDF pool 
+within fraction A, which implies incomplete recovery of 
+NDF following machine-washing of 0-h bags. Utilizing 
+rinsing procedures similar to those in the present study, 
+fraction A has often comprised only a small percentage 
+of NDF, ranging from 5.2 to 7.5% for common crab-
+grass [Digitaria ciliaris (Retz.) Koel.] (Ogden et al., 
+2005), 0.9 to 5.9% for headed tall fescue hays (Turner 
+et al., 2004), and 3.1 to 4.0% for heated bermudagrass 
+hays (McBeth et al., 2003). Often, it has been suggested 
+that these small percentages of the total NDF pool are 
+associated with direct losses of small particles from the 
+Dacron bags during rinsing, which is a criticism of the 
+in situ procedure generally (Broderick, 1994; Broderick 
+and Cochran, 2000). Other studies, particularly those 
+evaluating cool-season grasses, have reported consid-
+erably greater percentages of NDF within fraction A. 
+Hoffman et al. (1993) reported concentrations of frac-
+tion A for timothy (Phleum pretense L.) harvested at 
+the second-node, boot, and full-inflorescence stages of 
+growth to be 29.4, 11.8, and 13.4% of NDF, respectively. 
+Similarly, Flores et al. (2007) reported a mean fraction 
+A of 14.6% of NDF from pregrazed and postgrazed 
+autumn-stockpiled tall fescue forages sampled from De-
+cember through February in Arkansas. In the present 
+study, fraction A for hays sampled immediately after 
+baling from the IM and HM harvests comprised 16.0 
+and 14.0% of NDF, respectively (Table 2). Although 
+questions remain about the proper interpretation of 
+this fraction, the IM and HM harvests included 22 and 
+31% vegetative orchardgrass; therefore, relatively high 
+concentrations of fraction A are not necessarily incon-
+sistent with past work.
+Regressions of ΔA on measures of spontaneous heat-
+ing were best fit by a nonlinear model in which HDD 
+were squared (Figure 7A), and by a quartic model for 
+MAX (Figure 7B). In both cases, ΔA declined mini-
+mally at relatively low increments of heating, but then 
+increased to nearly 10 percentage units of NDF in the 
+most severely heated bales. Although the overall fit for 
+the quartic regression model for MAX (R2 = 0.956) 
+was substantially better than the nonlinear model 
+for HDD (R2 = 0.779), both regressions indicate that 
+fraction A increased with spontaneous heating, espe-
+cially when HDD or MAX exceed thresholds typically 
+attained within small rectangular bales. Previously, 
+McBeth et al. (2003) reported no change in fraction 
+A within heated bermudagrass hays packaged in small 
+rectangular bales that incurred from 5 to 401 HDD 
+during storage. Our results over this range of heating 
+are largely comparable, with ΔA ranging from −0.1 to 
+−1.8 percentage units when heating was limited to 308 
+HDD or less (Figure 7A). It remains unclear why ΔA 
+became increasingly positive as spontaneous heating 
+became more extreme. Possibly, this could be the result 
+of physical changes to hays, such as brittleness, that 
+may affect particle-size distribution following grinding, 
+and the subsequent migration of minute forage particles 
+from Dacron bags during rinsing.
+For ΔB, regressions on HDD (Figure 8A) or MAX 
+(Figure 8B) were best fitted to quartic models that 
+were contrasting responses relative to those observed 
+for fraction A. With limited spontaneous heating, ΔB 
+was positive, reaching a maximum of 3.9 percentage 
+units; however, ΔB became negative when heating 
+reached approximately 500 HDD or 57°C MAX, and 
+reached a minimum of −5.0 percentage units for bales 
+incurring the most extreme heating during storage. Co-
+efficients of determination were greatest (R2 = 0.859) 
+for MAX, but approximately two-thirds of the varia-
+tion was explained when HDD was the independent 
+variable (R2 = 0.665). For ΔC, regressions on HDD 
+(Figure 9A) and MAX (Figure 9B) were best fitted 
+to nonlinear models in which the independent variable 
+was squared. Regression curves became asymptotic at 
+−5.0 and −5.1 percentage units, respectively, indicating 
+that the percentage of NDF that was unavailable in the 
+rumen decreased as a function of spontaneous heating. 
+Both regression models explained majority percentages 
+of the variation in the data (R2 = 0.606 and 0.629, 
+respectively).
+Taken at face value, the declining nature of these 
+response curves for ΔC suggests that the potential 
+extent of ruminal NDF disappearance is improved by 
+spontaneous heating; clearly, this response is inconsis-
+tent with the declining concentrations of IVTD and ef-
+fective rumen degradability of DM described previously 
+for these hays (Coblentz and Hoffman, 2009). However, 
+a second factor required for proper interpretation of 
+2889SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009
+ruminal fiber disappearance is the actual size of the 
+NDF pool, which became asymptotic at +8.6 percent-
+age units in the nonlinear regression of ΔNDF on HDD 
+(Figure 1A). Recalculation of ΔA, ΔB, and ΔC on a 
+percentage of DM basis (ΔADM, ΔBDM, and ΔCDM, 
+respectively) reflects the distribution of NDF among 
+various ruminal disappearance pools and the total con-
+centration of NDF within the hay, thereby yielding a 
+clearer picture of changes in the actual pool sizes of 
+fractions A, B, and C during storage. These concepts 
+are summarized in Figure 10, where ΔADM and ΔCDM 
+are regressed on HDD. Within this context, the linear 
+slope relating ΔCDM and HDD was not significant (P = 
+0.295), and the overall mean value of ΔCDM was only 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2890
+Figure 9. Changes in percentages of NDF unavailable in the rumen (poststorage – prestorage; ΔC) as affected by heating degree days >30°C 
+(A) and maximum internal bale temperature (B). The mean prestorage concentration of fraction C (weighted based on the number of treatments 
+from the high- and intermediate-moisture harvests) was 37.5% of NDF, which corresponds generally to ΔC = 0 on the y-axis.
+slightly positive (0.6 ± 0.8 percentage units of DM), 
+indicating that the pool of rumen undegradable NDF 
+was essentially unaffected by spontaneous heating. In 
+addition, this suggests that the declining estimates of 
+ΔC observed in Figure 9 occurred via simple dilution 
+as the concentration of NDF increased within the hay 
+because of spontaneous heating. In contrast, ΔADM and 
+ΔBDM both were consistently positive; ΔADM was best 
+fitted to a nonlinear model that became asymptotic at 
+5.5 percentage units of DM (Figure 10). Estimates of 
+ΔBDM oscillated between 0.4 and 4.9 percentage units 
+of DM that were best fitted to a quartic regression 
+model (P = 0.004; R2 = 0.672; data not shown). Taken 
+in total, these data suggest that the pool of rumen de-
+gradable NDF can expand by as much as 10 percentage 
+units of forage DM with spontaneous heating; however, 
+it remains unclear by what combination of physical and 
+chemical mechanisms this occurs.
+Lag Time. The overall mean ΔLAG for 18 heated 
+hays was 0.53 h, implying that on average, lag time 
+was increased by some aspect of the storage process. 
+However, regressions of ΔLAG on both HDD (Figure 
+11A) and MAX (Figure 11B) were not significant (P ≥ 
+0.134) for linear, quadratic, cubic, or quartic models, 
+indicating there was no direct relationship between 
+ΔLAG and spontaneous heating.
+Disappearance Rate. Prestorage estimates of Kd 
+for ruminal NDF disappearance were 0.104 and 0.094/h 
+for HM and IM harvests, respectively, which are similar 
+to previous reports for alfalfa (0.07 to 0.11/h, Hoffman 
+et al., 1993; 0.075/h, Coblentz et al., 1998; 0.107/h, 
+Ogden et al., 2005). Regressions of ΔKd on HDD (Fig-
+ure 12A) and MAX (Figure 12B) were best fitted by 
+nonlinear models in which the independent variable 
+was squared; in each case, ΔKd declined with spontane-
+ous heating until becoming asymptotic at −0.039 and 
+−0.043/h, respectively. This represents a rate reduction 
+of approximately 40% relative to unheated prestorage 
+controls. For regressions on both HDD and MAX, R2 
+statistics were quite high (0.907 and 0.883, respec-
+tively), indicating that measures of spontaneous heat-
+ing were excellent predictors of Kd for ruminal NDF 
+disappearance. Generally, these results support past 
+work. McBeth et al. (2003) reported that Kd for NDF 
+disappearance declined by 23% for heated bermuda-
+grass hays, but Turner et al. (2004) reported no change 
+in ruminal rates of NDF disappearance for heated tall 
+fescue hays that reached a MAX of 50°C.
+2891SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009
+Figure 10. Changes in concentrations of fractions A and C (poststorage – prestorage) recalculated as a percentage of total forage DM (ΔADM 
+and ΔCDM, respectively) as affected by heating degree days >30°C. For clarity, changes in fraction B calculated on the same basis (ΔBDM) has 
+been omitted, but data oscillated between 0.4 and 4.9 percentage units of DM (overall mean = 3.2 ± 1.3 percentage units), and was best fit with 
+a quartic regression model (P = 0.004; R2 = 0.672). The generally positive values for ΔADM and ΔBDM indicate that the pool size of degradable 
+fiber increased with spontaneous heating in hay. Linear regression of ΔCDM on heating degree days >30°C was not significant (NS; P = 0.295); 
+the overall mean for ΔCDM was 0.6 ± 0.8 percentage units of DM, thereby indicating that the pool of NDF undegradable in the rumen was es-
+sentially unaffected by spontaneous heating in hay.
+Effective Degradability. Averaged over the 18 
+heated hays, ΔDEG ranged tightly from −1.7 to 2.8 
+percentage units of NDF with an overall mean change 
+during storage of 0.2 percentage units. Linear, quadratic, 
+cubic, and quartic regressions of ΔDEG on HDD (Fig-
+ure 13A; P ≥ 0.245) and MAX (Figure 13B; P ≥ 0.085) 
+were not significant, indicating there was no statistical 
+relationship between ΔDEG and spontaneous heating. 
+There was a weak tendency for a positive linear rela-
+tionship with MAX (Y = 0.05x – 2.8; P = 0.085; r2 = 
+0.174), but other higher-ordered curvilinear models did 
+not approach significance (P ≥ 0.238). Generally, the 
+nonexistent relationship between ΔDEG and measures 
+of spontaneous heating is consistent with our previous 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2892
+Figure 11. Changes in lag time (poststorage – prestorage; ΔLAG) as affected by heating degree days >30°C (A) and maximum internal 
+bale temperature (B). The mean prestorage lag time (weighted based on the number of treatments from the high- and intermediate-moisture 
+harvests) was 1.59 h, which corresponds generally to ΔLAG = 0 on the y-axis. There was no relationship between ΔLAG and either measure of 
+spontaneous heating when data were fit to quartic, cubic, quadratic, or linear regression models (P ≥ 0.134).
+observations for regressions of ΔNDFD on HDD (Fig-
+ure 6A) and MAX (Figure 6B). In those regressions, 
+ΔNDFD for individual hays varied erratically around 
+ΔNDFD = 0 for all but 4 hays that generally incurred 
+the most extreme spontaneous heating.
+COnCLuSIOnS
+The absence of any relationship between the effective 
+ruminal degradability of NDF and spontaneous heating 
+is not easy to explain. The close relationships between 
+ΔKd and measures of spontaneous heating indicate 
+clearly that ruminal NDF disappearance was altered 
+negatively by some direct or indirect aspect of heating. 
+However, it was equally apparent that these effects were 
+offset by increases in concentrations of NDF that ex-
+panded pools of potentially degradable NDF. Although 
+NDF is not theoretically soluble in water, the pool size 
+for fraction A increased substantially in a nonlinear re-
+2893SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009
+Figure 12. Changes for in situ disappearance rates of NDF (poststorage – prestorage; ΔKd) as affected by heating degree days >30°C (A) 
+and maximum internal bale temperature (B). The mean prestorage Kd (weighted based on the number of treatments selected from the high- and 
+intermediate-moisture harvests) was 0.100/h, which corresponds generally to ΔKd = 0 on the y-axis.
+lationship with heating, and became asymptotic at 5.5 
+percentage units of DM. Similarly, pool sizes for fraction 
+B increased generally with heating, suggesting the pool 
+of rumen degradable fiber may increase collectively by 
+as much as 10 percentage units of DM with spontane-
+ous heating. These results also suggest that fraction C, 
+which is unavailable in the rumen, was unaffected by 
+spontaneous heating, and declining concentrations of 
+fraction C (% of NDF basis) were largely the result of 
+dilution by an expanding pool of potentially degradable 
+NDF that was observed within heated hays. Regardless 
+of the mechanisms involved, the relative insensitivity 
+Journal of Dairy Science Vol. 92 No. 6, 2009
+COBLENTz AND HOFFMAN2894
+Figure 13. Changes in effective ruminal disappearance of NDF (poststorage – prestorage; ΔDEG) as affected by heating degree days >30°C 
+(A) and maximum internal bale temperature (B). The mean prestorage effective ruminal disappearance of NDF (weighted based on the number 
+of treatments from the high- and intermediate-moisture harvests) was 44.4% of NDF, which corresponds generally to ΔDEG = 0 on the y-axis. 
+Effective degradability was calculated based on a 0.060/h ruminal passage rate. There was no relationship between ΔDEG and either measure 
+of spontaneous heating when data were fit to quartic, cubic, quadratic, or linear regression models (P ≥ 0.085).
+of effective ruminal degradability of NDF or NDFD to 
+spontaneous heating implies that associated reductions 
+in effective ruminal DM disappearance described in our 
+companion report (Coblentz and Hoffman, 2009) oc-
+curred primarily because of declining concentrations of 
+cell solubles, and not via reductions in digestible forage 
+fiber. Similarly, reduced energy densities within heated 
+hays also are likely to be related primarily to a shrink-
+ing pool of cell solubles, especially when the NDFD 
+option is used to estimate truly digestible fiber within 
+the summative model (NRC, 2001).
+reFerenCeS
+Broderick, G. A. 1994. Quantifying forage protein quality. Pages 200–
+228 in Forage Quality, Evaluation, and Utilization. ASA-CSSA-
+SSSA, Madison, WI.
+Broderick, G. A., and R. C. Cochran. 2000. In vitro and in situ methods 
+for estimating digestibility with reference to protein degradability. 
+Pages 53–85 in Feeding Systems and Feed Evaluation Models. M. 
+K. Theodorou and J. France, ed. CAB International, Wallingford, 
+UK.
+Broderick, G. A., J. H. Yang, and R. G. Koegel. 1993. Effect of steam 
+heating alfalfa hay on utilization by lactating dairy cows.  J. Dairy 
+Sci.  76:165–174.
+Coblentz, W. K., J. O. Fritz, K. K. Bolsen, and R. C. Cochran. 1996. 
+Quality changes in alfalfa hay during storage in bales.  J. Dairy 
+Sci.  79:873–885.
+Coblentz, W. K., J. O. Fritz, K. K. Bolsen, R. C. Cochran, and L. Fu. 
+1997a. Relating sugar fluxes over time to quality changes in alfalfa 
+hay.  Agron. J.  88:800–806.
+Coblentz, W. K., J. O. Fritz, R. C. Cochran, W. L. Rooney, and K. 
+K. Bolsen. 1997b. Protein degradation responses to spontaneous 
+heating in alfalfa hay evaluated by in situ and ficin methods.  J. 
+Dairy Sci.  80:700–713.
+Coblentz, W. K., J. O. Fritz, W. H. Fick, R. C. Cochran, and J. E. 
+Shirley. 1998. In situ dry matter, nitrogen, and fiber degradation 
+of alfalfa, red clover, and eastern gamagrass at four maturities.  J. 
+Dairy Sci.  81:150–161.
+Coblentz, W. K., and P. C. Hoffman. 2009. Effects of bale moisture 
+and bale diameter on spontaneous heating, dry matter recovery, 
+in-vitro true digestibility, and in-situ disappearance kinetics of 
+alfalfa-orchardgrass hays.  J. Dairy Sci.  92:2853–2874.
+Coblentz, W. K., J. E. Turner, D. A. Scarbrough, K. E. Lesmeister, 
+Z. B. Johnson, D. W. Kellogg, K. P. Coffey, L. J. McBeth, and 
+J. S. Weyers. 2000. Storage characteristics and quality changes in 
+bermudagrass hay as affected by moisture content and density of 
+rectangular bales.  Crop Sci.  40:1375–1383.
+Cochran, R. C., and M. L. Galyean. 1994. Measurement of in vivo 
+forage digestion by ruminants. Pages 613–643 in Natl. Conf. Forage 
+Quality, Evaluation, and Utilization, Univ. of Nebraska, Lincoln. 
+ASA, CSSA, SSSA, Madison, WI.
+Collins, M., W. H. Paulson, M. F. Finner, N. A. Jorgensen, and C. 
+R. Keuler. 1987. Moisture and storage effects on dry matter and 
+quality losses of alfalfa in round bales.  Trans. ASAE  30:913–
+917.
+Flores, R., W. K. Coblentz, R. K. Ogden, K. P. Coffey, M. L. Looper, 
+C. P. West, and C. F. Rosenkrans Jr. 2007. Effects of fescue 
+type and sampling date on the ruminal disappearance kinetics of 
+autumn-stockpiled tall fescue.  J. Dairy Sci.  90:2883–2896.
+Goering, H. K., and P. J. Van Soest. 1970. Pages 8–11 in Forage 
+Fiber Analyses (Apparatus, Reagents, Procedures, and Some 
+Applications). Agric. Handbook No. 379. USDA-ARS, Washington, 
+DC.
+Goering, H. K., P. J. Van Soest, and R. W. Hemken. 1973. Relative 
+susceptibility of forages to heat damage as affected by moisture, 
+temperature, and pH.  J. Dairy Sci.  56:137–143.
+Hoffman, P. C., S. J. Sievert, R. D. Shaver, D. A. Welch, and D. K. 
+Combs. 1993. In situ dry matter, protein, and fiber degradation of 
+perennial forages.  J. Dairy Sci.  76:2632–2643.
+McBeth, L. J., K. P. Coffey, W. K. Coblentz, D. H. Hellwig, J. E. 
+Turner, and D. A. Scarbrough. 2003. Impact of heating-degree-
+day accumulation during storage of bermudagrass hay on in 
+situ degradation kinetics from steers.  Anim. Feed Sci. Technol.  
+108:147–158.
+McBeth, L. J., K. P. Coffey, W. K. Coblentz, J. E. Turner, D. A. 
+Scarbrough, C. R. Bailey, and M. R. Stivarius. 2001. Impact of 
+heating degree-day accumulation during bermudagrass hay storage 
+on nutrient utilization by lambs.  J. Anim. Sci.  79:2698–2703.
+Mertens, D. R. 1992. Critical conditions in determining detergent 
+fibers. Page C-1 in Proc. Natl. Forage Testing Assoc. Forage Anal. 
+Workshop, Denver, CO. Natl. Forage Testing Assoc., Omaha, 
+NE.
+Mertens, D. R., and J. R. Loften. 1980. The effect of starch on forage 
+fiber digestion kinetics in vitro.  J. Dairy Sci.  63:1437–1446.
+Montgomery, M. J., A. Tineo, B. L. Bledsoe, and H. D. Baxter. 1986. 
+Effect of moisture content at baling on nutritive value of alfalfa 
+orchardgrass hay in conventional and large round bales.  J. Dairy 
+Sci.  69:1847–1853.
+NRC. 2001. Nutrient Requirements of Dairy Cattle. 7th rev. ed. 
+National Academy Press, Washington, DC.
+Ogden, R. K., W. K. Coblentz, K. P. Coffey, J. E. Turner, D. A. 
+Scarbrough, J. A. Jennings, and M. D. Richardson. 2005. Ruminal 
+in situ disappearance kinetics of dry matter and fiber in growing 
+steers for common crabgrass sampled on seven dates in northern 
+Arkansas.  J. Anim. Sci.  83:1142–1152.
+Ørskov, E. R., and I. McDonald. 1979. The estimation of protein 
+degradability in the rumen from incubation measurements weighted 
+according to rate of passage.  J. Agric. Sci. (Camb.)  92:499–503.
+Roberts, C. A. 1995. Microbiology of stored forages. Pages 21–38 in 
+CSSA Special Publication No. 22. K. J. Moore and M. A. Peterson, 
+ed. Am. Soc. Agron., Crop Sci. Soc. Am., and Soil Sci. Soc. Am., 
+Madison WI.
+Rotz, C. A., and R. E. Muck. 1994. Changes in forage quality during 
+harvest and storage. Pages 828–868 in Proc. Natl. Conf. on Forage 
+Quality, Evaluation, and Utilization, Lincoln, NE. ASA, CSSA, 
+and SSSA, Madison, WI.
+SAS Institute. 1990. SAS/STAT: User’s Guide. Version 6, 4th ed. SAS 
+Inst., Cary, NC.
+Turner, J. E., W. K. Coblentz, K. P. Coffey, R. T. Rhein, B. C. 
+McGinley, N. W. Galdámez-Cabrerra, C. F. Rosenkrans Jr., Z. 
+B. Johnson, D. W. Kellogg, and J. V. Skinner Jr. 2004. Effects 
+of natural rainfall and spontaneous heating on voluntary intake, 
+digestibility, in situ disappearance kinetics, passage kinetics, and 
+ruminal fermentation characteristics of tall fescue hay.  Anim. Feed 
+Sci. Technol.  116:15–33.
+Turner, J. E., W. K. Coblentz, D. A. Scarbrough, K. P. Coffey, D. 
+W. Kellogg, L. J. McBeth, and R. T. Rhein. 2002. Changes in 
+nutritive value of bermudagrass hay during storage.  Agron. J.  
+94:109–117.
+Van Soest, P. J. 1982. Nutritional Ecology of the Ruminant. Cornell 
+University Press, Ithaca, NY.
+Vanzant, E. S., R. C. Cochran, and E. C. Titgemeyer. 1998. 
+Standardization of in situ techniques for ruminant feedstuff 
+evaluation.  J. Anim. Sci.  76:2717–2729.
+Vanzant, E. S., R. C. Cochran, E. C. Titgemeyer, S. D. Stafford, K. C. 
+Olsen, D. E. Johnson, and G. St. Jean. 1996. In vivo and in situ 
+measurements of forage protein degradation in cattle.  J. Anim. 
+Sci.  74:2773–2784.
+Weiss, W. P., H. R. Conrad, and N. R. S. Pierre. 1992. A theoretically-
+based model for predicting total digestible nutrient values of 
+forages and concentrates.  Anim. Feed Sci. Technol.  39:95–110.
+2895SPONTANEOUS HEATING AND NEUTrAL DETErGENT FIBEr DISAPPEArANCE KINETICS
+Journal of Dairy Science Vol. 92 No. 6, 2009

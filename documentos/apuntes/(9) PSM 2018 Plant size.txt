@@ -1,0 +1,766 @@
+=== Fuente: (9) PSM 2018 Plant size.pdf ===
+
+ResearchArticle
+Received:31March2017 Revised:8March2018 Acceptedarticlepublished:25March2018 PublishedonlineinWileyOnlineLibrary:
+(wileyonlinelibrary.com)DOI10.1002/ps.4923
+Theroleofplantsizeintheselectionof
+glyphosateresistancein Sorghum halepense
+MartinVila-Aiub,a,b* CeciliaCasasa,c,d andPedroEGundela
+Abstract
+BACKGROUND:Theeﬀectofplantsize(seedlings versus youngplants versus adultplants)onthephenotypiclevelofglyphosate
+resistance and selection intensity (SI) in Sorghum halepense with and without a reduced glyphosate translocation resistance
+mechanismwasevaluated.
+RESULTS: Resistance parameters [the 50% lethal dose (LD50) and the dose required to cause a 50% reduction in plant growth
+(GR50)]inadultplantswerenotablyhigherthaninseedlingsregardlessoftheresistancestatus.However,undersimilarplantsize
+increases,populationscomprisedofglyphosate-resistant(R)individualsshowedhighersurvivalandgrowthwhenglyphosate
+treatedcomparedwithglyphosate-susceptible(S)plants.AnincreaseinSIwasalwaysevidentwithincreasingglyphosatedoses.
+However, the rate of increase in SI was higher under glyphosate selection of young R and S plants, followed by seedlings
+and adult R and S plants. However, in conditions of R seedlings coexisting with adult S plants under glyphosate treatment
+(1000–4000gha−1),selectionagainstglyphosateresistancewasobserved.
+CONCLUSION:AnyincreaseinsizefromtheseedlingstageofRplantstranslatesintoanampliﬁcationofresistance.Depending
+on the particular size combinations of spatially coexisting R and S plants, selection for glyphosate resistance may be faster,
+slowerorevennotevident.
+©2018SocietyofChemicalIndustry
+Supportinginformationmaybefoundintheonlineversionofthisarticle.
+Keywords:agroecosystem;perennialspecies;ﬁtness;resistancetrait
+1 INTRODUCTION
+Since their introduction seven decades ago, herbicides have
+imposed a strong selection intensity (SI) leading to herbicide
+resistance evolution in an ever-increasing list of plant species.1–3
+Among other factors, such as population size, gene ﬂow and
+mutation frequency, the evolutionary rate of herbicide resistance
+isdeterminedbytheinterplaybetweentheintensityofherbicide
+selection and standing genetic variation in weed populations.4–6
+SI (i.e. selection pressure) is a function of the herbicide dose and
+its relative eﬀect on the ﬁtness (W) of herbicide-resistant (R) and
+-susceptible(S)phenotypes.7 ThehighertheSI,thehighertherate
+of resistance evolution, particularly for resistance mechanisms
+controlledbymajorgenes.4
+Theeﬀectofaherbicideonplantﬁtnessdependsontheamount
+of active ingredient reaching and inhibiting the herbicide target
+protein.Thisisthecaseforadaptivenon-targetsiteherbicideresis-
+tance mechanisms, which endow a signiﬁcant ﬁtness advantage
+underherbicidetreatmentbyreducingtheamountofactiveingre-
+dient reaching the herbicide target site.8 Little or no detrimental
+herbicideeﬀectonplantﬁtnessisexpectedprovidedthatasignif-
+icantamountoftheactiveingredientisblockedfromreachingand
+inhibitingitstargetprotein.
+Plant size at the time of treatment with leaf-applied herbicides
+alsodeterminestheamountofactiveingredientreachingtheher-
+bicide target protein. For a particular herbicide dose, large plants
+intercept less herbicide per unit biomass compared with smaller
+plants.9 Thisplantsize-basedherbicidedilutioneﬀectreducesthe
+amount of active ingredient reaching the target protein, which
+is relatively in excess in large plants compared with small plants.
+Whether this process has any impact on SI and thus the rate of
+herbicide resistance evolution will depend on the relative plant
+size-basedherbicidedilutioneﬀectinRversusSplants.
+If the eﬀect of large plants in the above-mentioned herbicide
+diluting eﬀect is similar for both R and S individuals, then the
+expecteddiﬀerentialﬁtnessratioofRversusSplantsforaparticular
+herbicide dose (i.e. WR/WS >1) will be constant regardless of
+the plant size (WlargeR/WlargeS =WsmallR/WsmallS). This result would
+translate into a herbicide SI that remains constant with changes
+in plant size and the magnitude of SI will then be only a function
+of the ﬁtness advantage endowed by the resistance trait in the R
+phenotype. However, if there were an interaction eﬀect between
+∗ Correspondenceto:MVila-Aiub,Av.SanMartin4453,FacultyofAgronomy,Uni-
+versityofBuenosAires,BuenosAires(1417),Argentina.E-mail:vila@ifeva.edu.ar
+a IFEVA-CONICET,FacultaddeAgronomía(UBA),BuenosAires,Argentina
+b School of Agriculture & Environment,, University of Western Australia (UWA),
+Crawley,Australia
+c CátedradeEdafología,FacultaddeAgronomía(UBA),BuenosAires,Argentina
+d Lehrstuhl für Grünlandlehre, Technische Universität München, Alte Akademie
+12,Freising-Weihenstephan,Germany
+PestManagSci(2018) www.soci.org ©2018SocietyofChemicalIndustry
+www.soci.org MVila-Aiub,CCasas,PEGundel
+theresistancetraitandplantsizeontheherbicidedilutingprocess,
+forinstancelargeRplantsdiluteaherbicidedosemorethanlarge
+S plants, then the expected diﬀerential ﬁtness ratio of R and S
+plants will not be constant with changes in plant size. This would
+bethecaseforaresistancemechanismthatincreasesitseﬃciency
+asplantsbecomelarger.Inthiscase,theherbicideSIatanyspeciﬁc
+dose would depend on the particular diﬀerential ﬁtness ratio of
+large and small R and S individuals under herbicide selection
+(WlargeR/WlargeS ≠ WsmallR/WsmallS).
+Variations in plant size among conspeciﬁcs may result from
+diﬀerences in both age and asymmetric competition.10 In agroe-
+cosystems, spatial coexistence of R and S individuals of diﬀerent
+size is often found in perennial weed species under recurrent
+herbicideselection,andinpopulationsofannualspeciesinwhich
+R individuals exhibit a ﬁtness penalty associated with the resis-
+tancetrait.11–13 Asaresult,seedlingsandlargerplantsarelikelyto
+coexistinpopulationsthatareunderrecurrentherbicideselection
+inagroecosystems.
+Glyphosate resistance has evolved in the perennial C4 grass
+Sorghum halepense (Johnsongrass) invading cropping systems in
+Argentina.14 Areducedglyphosatetranslocationresistancemech-
+anismwhichretainsmuchoftheappliedglyphosateinthetreated
+leaves, preventing its movement to meristematic tissues, has
+beenidentiﬁedinseveralresistantS.halepensepopulationsinfest-
+ing soybean crops.15 A similar resistance trait has also naturally
+evolvedinS.halepenseinfestingcropﬁeldsinArkansas(USA).16
+The aim of this study was to quantify the eﬀect of plant size
+on plant survival and growth of glyphosate R and S populations
+ofS.halepenseunder increasing glyphosate doses. Estimations of
+the intensity of glyphosate selection with changes in plant size
+of R and S plants were also performed, and the implications for
+glyphosateresistanceevolutionarediscussed.
+2 MATERIALSANDMETHODS
+2.1 Plantmaterial
+Two glyphosate-resistant S. halepense populations (R1 and R2)
+were collected from transgenic glyphosate-resistant soybean
+ﬁelds in Salta Province in Argentina (22∘39′ S, 63∘49′ W).14
+Glyphosate resistance in these two populations is endowed by
+a mechanism that reduces glyphosate translocation to growing
+tissues.15 A known glyphosate-susceptible (S) accession collected
+from the Pampas cropping area (34∘35′ S, 58∘35′ W) in the
+Province of Buenos Aires in Argentina was used as a reference
+population.14,15
+2.2 Plantsizeandglyphosate
+Plant survival and growth of glyphosate-resistant (R1 and R2)
+and glyphosate-susceptible (S) populations under increasing
+glyphosate doses were evaluated in plants at three diﬀerent
+growth stages and thus three diﬀerent sizes. The plant sizes cor-
+related with three plant stages: seedling, young plant and adult
+plant. To obtain the corresponding plant size classes, seeds from
+the three populations were germinated. To overcome seed dor-
+mancy, ﬁeld-collected seeds of the R1,R2 and S populations were
+immersed in sodium hypochlorite bleach (chlorine 5.5% w/v) for
+8h, then washed with tap water and germinated in transparent
+plasticboxesﬁlledwith0.7%(w/v)agar.Theboxeswereincubated
+in a chamber set at 12-hourly alternating 30/20∘C with a 12-h
+photoperiod and radiation of 60𝜇mol photons m−2 s−1 provided
+byﬂuorescentlamps.
+Variations in plant size were generated by the sequential seed-
+ing and transplanting of similar-size seedlings at three time
+intervals in 25-L pots (35 cm diameter×28 cm height) (eight
+seedlings grown per pot) containing a mix of organic soil, sand
+and peat moss (50%, 25% and 25%, v/v, respectively). A multifac-
+torial experimental design (3×3×9)wasusedinwhichplants
+of the three diﬀerent plant sizes (seedling, young plant and adult
+plant) from the three populations [two glyphosate-resistant (R)
+and one glyphosate-susceptible (S)] were exposed to increasing
+glyphosate doses (0, 250, 500, 1000, 2000, 4000, 6000, 8000 and
+10000g ae ha−1). Using three replicates per treatment, a total of
+243experimentalunits(i.e.pots)wererandomlyplacedinaheated
+glasshouse at a ﬂuctuating temperature of 25/21∘C (day/night).
+Plantswereregularlyirrigatedandfertilizedwithurea(46%nitro-
+gen). Characterization of individual plant size classes at the time
+ofglyphosatetreatmentwascarriedoutbyestimatingdrymatter,
+plant height, and the number of vegetative tillers (including the
+mainshoot)andﬂoweringtillers(Table1).Abovegroundbiomass
+of surviving plants after glyphosate treatment was harvested
+and dried at 70∘C for 72h and then weighed. Thermal-time (TT)
+units accumulated from the time of transplanting to glyphosate
+Table1. Averagebiomass(drymatter),height,numberofvegetativeandreproductivetillersandrhizomebiomasscharacterizingindividualplantsin
+thethreesizeclasses(seedlingversusyoungplantversusadultplant)fromtheglyphosate-resistant(R1 andR2)and-susceptible(S)Sorghumhalepense
+populationsatthetimeofglyphosatetreatment
+Population
+Trait Plantsize R1 R2 S
+Abovegroundbiomass(g) Seedling 0.02(0.005) 0.02(0.003) 0.01(0.005)
+Youngplant 0.35(0.1) 0.40(0.1) 0.40(0.1)
+Adultplant 2.40(0.2) 1.90(0.1) 2.10(0.1)
+Height(cm) Seedling 8(1) 9(0.5) 9(0.5)
+Youngplant 42(1) 43(2) 48(1)
+Adultplant 74(8) 71(1) 78(3)
+Vegetativetillers(number) Adultplant 1.1(0.1) 1.2(0.2) 2.3(0.2)
+Rhizomes(mg) Adultplant 90(0.04) 60(0.04) 150(0.06)
+Floweredtillers(number) Adultplant 0.20(0.1) 0.04 0.25
+Valuesinparenthesesdenotestandarderrorofthemeanusing10plantsperpopulation.Vegetativeandreproductivetillersandrhizomeswereonly
+evidentinadultplants.
+wileyonlinelibrary.com/journal/ps ©2018SocietyofChemicalIndustry PestManagSci(2018)
+Plantsizeandherbicideresistance www.soci.org
+treatmentwereestimatedforeachplantsize(Table1):
+TT
+(∘Cday−1 ) = x∑
+t=0
+(Tm−Tb) (1)
+where Tm is the mean daily temperature (∘C),Tb is the base tem-
+perature (15∘C)17 and t0 and tx are dates of sowing (diﬀerent for
+each plant size class) and date of glyphosate treatment, respec-
+tively.Thecalculatedthermaltimewas130,350and585∘Cday−1
+for seedlings, young plants and adult plants, respectively. Ther-
+mal time represents, then, the time in thermal units above 15∘C
+required for R and S individuals to be seedlings, young plants or
+adultplantsatthetimeofglyphosatetreatment.
+Glyphosate (potassium salt; 500g ae ha−1) was applied using
+aCO2 pressurized backpack sprayer ﬁtted with a Lurmark TT
+11001 nozzle delivering 100Lha−1 at 200kPa. Plant survival,
+aboveground dry biomass and the number of newly emerged
+tillersonsurvivingplantswereevaluated4weeksafterglyphosate
+treatment.
+2.3 Eﬀectofplantsizeonglyphosateresistancelevel
+Variations in plant survival and biomass with increasing
+glyphosate dose were analyzed using dose–response mod-
+els with the package drc18 in R.19 These models are regression
+models where the independent variable is the glyphosate dose
+while the dependent variables were either plant survival or
+biomass(onemodelforeachdependentvariable).18 We ﬁtted the
+three-parameter log-logistic function (LL.3 in drc) given by the
+expression:
+y = d 1+exp{b[log(x)−log(e)]} (2)
+where y denotes plant survival or biomass attained at herbicide
+rate x, d is the upper limit, and b is the slope at e which accounts
+for the herbicide dose causing a 50% reduction in survival [50%
+lethal dose (LD50)] or plant biomass [dose causing 50% growth
+reduction (GR50)] between the upper limit d and the lower limit
+ﬁxed to 0. The three-parameter log-logistic function (LL.3) was
+chosen as it showed a better ﬁt than the four-parameter model
+(LL.4)(SupportingInformationFigsS1andS2).
+The models ﬁtted with the function drm (in drc) included dose,
+genotype and plant size class as independent variables. To eval-
+uate the eﬀect on diﬀerent parameters, we compared this full
+model with models where each of the parameters was ﬁxed (the
+sameforallgenotypesandsizeclasses).Inthecaseofsurvival,the
+F-test for the model reduction was not signiﬁcant for the upper
+limit. Then, we ﬁtted the ﬁnal model with a ﬁxed upper limit, and
+diﬀerent slope and LD50 according to the genotype and the size
+class (Fig.S1). In the case of plant biomass, the ﬁnal model had
+diﬀerent slope, GR50 and upper limit according to the genotype
+andthesizeclass(Fig.S2).
+In both cases, survival and biomass, a test to check the ﬁt of
+the model showed non-signiﬁcant P-values, indicating that the
+model provided a good ﬁt (function modelFit) (FigsS1 and S2).
+The function modelFit() can be used to perform a lack-of-ﬁt test,
+comparing the three-parameter log-logistic to the more general
+one-wayanalysisofvariance(ANOVA)model,whichhasaparam-
+eter for each dose level. Then, we calculated the LD50 and GR50
+estimatedvalues,thestandarderrorandthe95%conﬁdenceinter-
+vals (function ED in drc). We compared the LD50 and GR50 for the
+resistant populations (R1 and R2) against those for the suscep-
+tible population (S) for each plant size class by means of ratios
+(compParm function in drc). The squared correlations between
+observedandﬁttedvalues(R2)were0.93and0.94fortheplantsur-
+vivalandbiomassmodels,respectively(FigsS1andS2).Fulldetails
+ofregressionanalysescanbefoundinFigsS1andS2.
+The level of resistance to a herbicide is often deﬁned as the
+ratio of the amount of herbicide required to kill or aﬀect growth
+to a certain level in a herbicide-resistant population to that in a
+herbicide-susceptiblepopulation.Theglyphosateresistanceindex
+(RI) attained in each plant size class was estimated as the ratio of
+LD50 or GR50 in the R1 and R2 populations to LD50 or GR50 in the S
+population(i.e.RI=LD50R/LD50S).
+Plant tillering was recorded on surviving plants of the R1,R2
+and S populations. The average number of newly emerged tillers
+produced per plant after glyphosate treatment was analyzed by
+generalizedleastsquares(gls)linearregression.19
+2.4 Eﬀectofplantsizeonglyphosateselectionintensity(SI)
+WhereastheherbicideRIintegratesthemeaneﬃciencyofaresis-
+tance mechanism in protecting plants from herbicide damage
+(survivalorgrowth)overawiderangeofherbicidedoses,estima-
+tions of herbicide SI are based on plant ﬁtness. Ideally, estimates
+ofSIatparticularsingleherbicidedosesshouldincludethesizeof
+the progeny produced by the proportion of plants that survived
+the herbicide treatment.7,20 Here, we followed Neve and Powles’
+methodology21 andestimatedtheSIateachparticularglyphosate
+dose(1000,2000,3000and4000gha−1)asthelinearcombination
+of two plant traits: the proportion of plants surviving glyphosate
+treatment and the relative vegetative growth of those surviv-
+ing individuals compared with the mean biomass production of
+glyphosate-untreatedplants,thelatterbeingaproxyoftheeﬀect
+oftheherbicideonplantgrowthandfecundity.TheglyphosateSI
+wasthencalculatedforeachplantsizeclass(seedling,youngplant
+oradultplant)bydividingthecombinationofthetwoﬁtnesstraits
+ofbothRphenotypes(pooled)bythatoftheSphenotype5,7,20:
+SI = survivalR ×growthR
+survivalS ×growthS
+(3)
+where ‘survival’ and ‘growth’ are, respectively, the frequency
+of surviving plants and the mean vegetative growth relative to
+the growth of glyphosate-untreated plants for the R1,R2 and S
+populationsunderglyphosatetreatment.ThecoeﬃcientofSIwas
+estimatedforarangeofglyphosatedoses(1000–4000gha−1)nor-
+mally usedto controlS.halepensepopulations in ﬁeld conditions.
+Mean plant survival and biomass estimates for the calcula-
+tion of glyphosate SI were derived from the three-parameter
+log-logistic regression equations (Eqn 2) for this glyphosate dose
+range.7,22
+Variations of glyphosate SI with changes in plant size were
+estimated following two approaches. Firstly, SI was calculated
+within each of the three plant size classes as if the R and S
+plants coexisted in space and time at equal frequencies and
+with the same plant sizes (e.g. R seedlings versus S seedlings).
+Secondly,SIwasestimatedforthreeparticularecologicalscenarios
+in which R and S plants may coexist in space and time at similar
+frequencies but with diﬀerent plant size classes. The case of
+R plants expressing a moderate ﬁtness penalty associated with
+the resistance trait and thus coexisting with larger S plants was
+evaluated (e.g. young R plants coexisting with adult S plants).
+Additionally, SI was also estimated in the potential case of R seed
+dispersalintoanenvironmentalreadyinfestedwithSplants(e.g.R
+seedlingscoexistingwithyoungoradultSplants).
+PestManagSci(2018) ©2018SocietyofChemicalIndustry wileyonlinelibrary.com/journal/ps
+www.soci.org MVila-Aiub,CCasas,PEGundel
+Table 2. Estimates of the regression (y=d/1+exp{b[log(x)–
+log(e)]}) parameters LD50 and GR50 associated with
+glyphosate-susceptible (S) and -resistant (R1 and R2) Sorghum
+halepense populations exposed to increasing glyphosate doses at
+threeplantsizestages
+Sizeclass Population LD50 Resistanceindex
+Seedling S 511(26)
+R1 937*(63) 1.8(0.1)
+R2 1285*(111) 2.5(0.2)
+Youngplant S 869(59)
+R1 3301*(239) 3.8(0.3)
+R2 3545*(228) 4.1(0.3)
+Adultplant S 1213(108)
+R1 6303*(556) 5.2(0.5)
+R2 5918*(411) 4.9(0.4)
+Sizeclass Population GR50 Resistanceindex
+Seedling S 441(189)
+R1 559(294) 1.3(0.8)
+R2 577(404) 1.3(0.6)
+Youngplant S 815(84)
+R1 2645*(584) 3.2(0.07)
+R2 3390*(430) 4.1(0.04)
+Adultplant S 1424(164)
+R1 10852*(1183) 7.6(0.02)
+R2 16414*(5303) 11.5(0.03)
+Values in parentheses are standard error of the mean. Asterisks indi-
+cate signiﬁcant diﬀerences (P<0.01) after pairwise comparisons of
+LD50 or GR50 between resistant and susceptible populations within
+eachplantsizeclassusingat-test(compParmfunctioninRsoftware).
+Glyphosate SI models considered glyphosate dose, the size
+class (or the group that resulted from the combination of size
+classes) and the interaction. Linear models were adjusted using
+generalized least squares using the gls function of the nlme
+package in R.23 When it was necessary to fulﬁll the assumptions,
+the varldent variance function was included for the size class
+(or the combinations). Nested models were compared with the
+AICtab function of the bbmle package.24 The assumptions were
+veriﬁed graphically. The distribution of the normalized residuals
+was observed as a function of the adjusted values and of the size
+classes or groups to evaluate homogeneity in the variances. Q-Q
+graphsofthequantiledistributionoftheobservedresidualswere
+plotted against the theoretical normal distribution to evaluate
+normality. The inference was made using the Anova function
+of the car package.25 When there were diﬀerences between the
+sizegroups,aposterioricomparisonsofleast-squaresmeanswere
+made using the emtrends function of the emmeans package in
+which regression slopes for groups were compared using Tukey’s
+test(𝛼 =0.05)19 (FigsS3andS4).
+3RESULTS
+3.1 Plantsurvivalandgrowthunderglyphosateselection
+Sorghum halepense survival and growth under glyphosate selec-
+tion varied depending on the particular population (S versus R1
+and R2), the glyphosate dose and the size of the plants. Within
+each plant size class (e.g. seedling versus seedling), individuals
+fromboththeR1 andR2 populationsexhibitedsigniﬁcantlyhigher
+survival and aboveground biomass, as determined by LD50 and
+GR50, respectively (with the exception that GR50 values at the
+seedling stage were similar between the R and S populations),
+when exposed to the wide range of glyphosate doses compared
+with plants from the S population (Table2 and Fig.1). Regression
+LD50 andGR50 estimatesincreasedwithincreasesinthesizeofthe
+treatedplantsregardlessofthepopulation(S,R1 orR2)(Table2and
+Fig.1).However,diﬀerencesinglyphosateresistancelevelsamong
+populations were not proportionally constant with increases in
+plantsizeoftheglyphosate-treatedplants(Table2).Thus,asignif-
+icantincreaseintheglyphosateRI,accountingforbothplantsur-
+vivalandgrowth,fromseedlingstoadultplantswasobserved.At
+theseedlingstage,theestimatedRIforplantsurvivalandgrowth
+was,onaverage,2and1.3,respectively,whereasattheadultstage,
+theestimatedRIwas5and9.5,respectively(Table2).
+The emergence of new tillers in response to glyphosate treat-
+mentwasnotobservedinseedlingsoryoungplantsthatsurvived
+glyphosatetreatment(datanotshown).However,apositivecorre-
+lationbetweenthenumberofnewlyemergedtillersinplantssur-
+vivingglyphosatetreatmentandglyphosatedosewasobservedin
+adultplants(Fig.2).Thisresponsewasevidentinadultindividuals
+fromtheR1 andR2 populationsbutnotinadultplantsfromtheS
+populationthatsurvivedtheglyphosatetreatment(Fig.2).
+3.2 Plantsizeandglyphosateselectionintensity
+Theassessmentofplantsurvivalandgrowthresponsestoincreas-
+ingglyphosatedosesfortheS.halepenseR1,R2 andSpopulations
+enabled the estimation of the glyphosate SI associated with each
+of the three plant size classes (seedling, young plant and adult
+plant).
+For an ecological scenario in which glyphosate R and S plants
+coexist in a similar proportion and are of the same size class
+(e.g. seedling versus seedling), glyphosate SI increased linearly
+(P<0.001)withincreasingglyphosatedoseregardlessoftheplant
+size (Fig.3a and S3). However, as the glyphosate dose increased
+to 4000gha−1, the greatest increase in SI corresponded to the
+selectionofRandSyoungplantsfollowedbyseedlingsandadult
+plants(Fig.3aandS3).
+Linear increases (P<0.01) (Fig.3b) in the selective advantage
+of glyphosate resistance under increasing glyphosate doses were
+also evident for those particular ecological scenarios in which
+youngRplantsmaycoexistwithadultSindividuals(i.e.theﬁtness
+cost scenario) and R seedlings may coexist with young S plants
+(i.e.theresistancedispersalscenario)(Fig.3bandS4).Interestingly,
+in an environment where R seedlings may coexist with adult S
+plants, selection against glyphosate resistance was observed, as
+indicated by the signiﬁcant linear decrease (i.e. negative slope)
+of SI with increasing glyphosate dose from 1000 to 4000gha−1
+(Figs3bandS4).
+4 DISCUSSION
+4.1 Glyphosateresistanceincreaseswithplantsize
+The most commonly identiﬁed glyphosate resistance mechanism
+in plants is attributable to reduced glyphosate translocation.8
+Glyphosate resistance produced by the reduced glyphosate
+translocation resistance mechanism has been shown to be
+expressed at early plant stages in Lolium rigidum and L. mul-
+tiﬂorum (i.e. expressed in germinating seeds)26,27 but not in
+Conyza canadensis (i.e. not expressed in seedlings).28 In the lat-
+ter example, glyphosate resistance is strictly dependent on the
+growth stage, given that it is evident only when ‘resistant’ plants
+areglyphosate-treatedattherosettestageandnotwhentheyare
+wileyonlinelibrary.com/journal/ps ©2018SocietyofChemicalIndustry PestManagSci(2018)
+Plantsizeandherbicideresistance www.soci.org
+0 500 1000 1500 2000
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Plant survival (proportion)
+0 2000 4000 6000 8000
+Plant survival (proportion)
+0 2000 4000 6000 8000 10000 0 2000 4000 6000 8000 10000
+Glyphosate (g ha-1) Glyphosate (g ha-1)
+Plant survival (proportion)
+0 500 1000 1500 2000
+0
+2
+4
+6
+8
+0 2000 4000 6000 8000
+0
+10
+20
+30
+0
+10
+20
+30Plant biomass (g.pot-1) Plant biomass (g.pot-1) Plant biomass (g.pot-1)
+Seedling
+Young plant
+Adult plant
+Figure1.Eﬀectofincreasingglyphosatedoseonplantsurvival(leftpanel)andbiomass(rightpanel)ofplantsofdiﬀerentsize(seedling,youngplantor
+adultplant)fromtheglyphosate-susceptible[S( )]andglyphosate-resistant[R1 ( )andR2 ( )]Sorghumhalepensepopulations.Symbolsareactualdata
+(n=3),whilelinesarethelogisticmodelsﬁttedtoeachpopulation.
+treated at the seedling stage.28 In the present study, compared
+with glyphosate S seedlings, the higher survival of S.halepense R
+seedlings after glyphosate treatment suggests that the reduced
+glyphosate translocation resistance mechanism in S. halepense is
+fullyfunctionalattheseedlingstage(Fig.1).
+Variations in the size of herbaceous plants have been often
+associated with variations in resource competitive ability,10,29,30
+resistance and tolerance to herbivory31,32 and water stress
+tolerance.33,34 Our study shows that variations in plant size
+alsocorrelatewithquantitativevariationsinglyphosateresistance
+atthewhole-plantlevel.
+As indicated by the LD50 and GR50 resistance parameters,
+signiﬁcantly more glyphosate was required to have the same
+impactonsurvivalandgrowthasplantsizeincreased,particularly
+in glyphosate-resistant plants (Table2). Although not directly
+estimated in our study, this suggests that a size-driven ‘herbi-
+cide dilution’ process occurs when larger plants are exposed
+to glyphosate compared with smaller plants. Larger plants are
+likely to intercept more active ingredient as a consequence of
+having a higher leaf area index, but concurrent higher incre-
+ments in biomass are expected to reduce the ratio of herbicide
+ingredient:biomassunit.9
+The greater increase in plant survival and growth observed in
+adult plants compared with seedlings was not proportional in
+glyphosateRcomparedwithSplantsunderglyphosatetreatment.
+This resulted in a higher glyphosate resistance factor (Table2)
+when R and S plants were glyphosate-treated at the adult stage
+compared with the seedling and young plant stages. It is spec-
+ulated that another factor contributing to glyphosate resistance
+has a greater eﬀect as R plants become larger. We hypothesize
+that, as glyphosate R plants become larger, the eﬃciency of the
+resistance mechanism leading to reduced glyphosate transloca-
+tionincreases.
+4.2 Intensityofglyphosateselection(SI)depends
+onglyphosatedoseandplantsize
+Quantiﬁcation of the eﬀect of herbicides on plant ﬁtness is
+requiredtounderstandthestrengthanddirectionofselectionfor
+resistance evolution. Regardless of the resistance level attained
+by a genotype under a wide range of herbicide doses (RI), the
+herbicide selective advantage of an R genotype over an S geno-
+type (SI) must be assessed under the recommended herbicide
+ﬁeld rates. Based on the combination of survival and growth
+traits, results presented here have shown that the glyphosate
+SI in S. halepense is a function of the dynamic combination of
+both glyphosate dose and the size of spatially coexisting R and S
+individuals.
+At early plant successional or invasion phases in agroecosys-
+tems, individuals are more likely to exhibit similar plant size and
+developmental stage. Within this ecological scenario in which
+PestManagSci(2018) ©2018SocietyofChemicalIndustry wileyonlinelibrary.com/journal/ps
+www.soci.org MVila-Aiub,CCasas,PEGundel
+0 2000 4000 6000 8000 10000
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5 R1
+Y = 0.00005 (x) + 0.90
+R2 = 0.15
+P = 0.04
+Plant tilleringPlant tilleringPlant tillering
+0 2000 4000 6000 8000 10000
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5 R2
+ Y= 0.00009 (x) + 0.62
+ R2 = 0.41
+ P < 0.001
+0 2000 4000 6000 8000 10000
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5 S
+Y = -0.00037 (x) + 1.07
+R2 = 0.22
+P = ns
+Glyphosate (g ha -1)
+Figure 2. Average number of newly emerged tillers (plant tillering) per
+plantsurvivingtheglyphosateeﬀectinglyphosate-susceptible[S( )]and
+glyphosate-resistant [R1 ( )andR2 ( )] Sorghum halepense populations.
+Symbols are actual data (mean±standard error; n=3), while lines are
+signiﬁcant linear regression models ﬁtted to each population. ns, not
+signiﬁcantlinearregression.
+glyphosate-resistant and -susceptible S. halepense plants are of
+similar size, estimates of glyphosate SI increased linearly over
+a range of increasing glyphosate recommended ﬁeld doses
+(1000–4000gha−1), an indication that glyphosate resistance
+would evolve under higher glyphosate doses (Figs3a and S3). In
+addition, for a given glyphosate dose>1000gha−1, the intensity
+of glyphosate selection also showed higher estimates for R and S
+youngplantsthanforseedlingsandadultplants.
+Underrelativelyhighglyphosatedoses(>1000gha−1),youngR
+plantsseemtohaveagreaterselectiveadvantagecomparedwith
+Rseedlingsandadultplants(Fig.3a).Theexplanationforthismay
+bethat,asRandSplantsbecomelarger(i.e.reachtheadultstage),
+thereisalowerglyphosateselectiveeﬀectforRplants,asSplants
+also show a size-based ﬁtness increase under these herbicide
+doses(Fig.3).Attheadultstage,thediﬀerentialﬁtnessadvantage
+ofRoverSplantsat,forinstance,4000gha−1 isreducedasadultS
+1000 2000 3000 4000
+1000 2000 3000 4000
+10
+100
+5
+20
+40
+2.5
+Selection intensity (SI)Selection intensity (SI)
+(A)
+*
+3
+0.3
+Glyphosate (g ha-1)
+(B)
+1
+6
+*
+Figure 3. Estimates of glyphosate selection intensity in Sorghum
+halepense populations under increasing glyphosate doses. Popula-
+tions are comprised of equally frequent glyphosate-resistant (R) and
+glyphosate-susceptible(S)plantsof(A)thesamesize[seedlings( ),young
+plants ( ) or adult plants ( )], and (B) diﬀerent sizes [young R and adult
+Splants( ) (e.g. ﬁtness cost scenario); R seedlings and young S plants
+( ) (e.g. dispersal of resistant seeds); or R seedlings and adult S plants
+( ) (e.g. dispersal of resistant seeds)]. Selection intensity estimations
+include survival and growth of individuals of both glyphosate-resistant
+R1 and R2 populations (pooled) as compared with individuals of the
+glyphosate-susceptible (S) population according to Eqn 3 (see main text).
+Symbols are mean±standard error. Asterisks (*) denote a signiﬁcant
+diﬀerence in the slope of the particular linear regression compared with
+theotherregressionslopesafterTukey’stest(seeFigsS3andS4).
+plantsexhibithigherﬁtness(survival15%;growth21%)compared
+withyoungSplants(survival2.5%;growth7%)(Fig.1).Conversely,
+at the seedling stage, the glyphosate resistance mechanism is
+probablynoteﬃcientenoughtoprotectRseedlingsfromdamage
+at high glyphosate doses (Table2) and therefore the diﬀerential
+ﬁtnessadvantageofRseedlingsoverSseedlingsisreduced.
+Theseresultshighlightthattheintensityofglyphosateselection
+is inﬂuenced by both the size of plants and the glyphosate dose,
+suggesting a dependence of the evolutionary rate of glyphosate
+resistanceonthesetwofactors.
+In a number of other ecological conditions, glyphosate R and S
+plantsofdissimilarsizemaycoexist:forexample,ifthereisdisper-
+salofglyphosate-resistantseedintonewcultivatedareasinwhich,
+for instance, glyphosate R seedlings coexist with established
+youngoradultSplants.Intheformercase(Rseedlingscoexisting
+withyoungSplants),selectionofglyphosateresistancewouldbe
+wileyonlinelibrary.com/journal/ps ©2018SocietyofChemicalIndustry PestManagSci(2018)
+Plantsizeandherbicideresistance www.soci.org
+evidentintheﬁeld(Fig.3b).However,inthelattercase(Rseedlings
+coexistingwithadultSplants),asshownbyanegativelinearslope
+(Fig.S4),estimatesofglyphosateSIindicatethattherewouldbeno
+selectionadvantageforglyphosateRseedlingsunderglyphosate
+treatment (Fig.3b). This outcome suggests that, all other factors
+being equal, glyphosate resistancewould notevolve underthese
+particularecologicalconditions.
+AnotherecologicalenvironmentinwhichglyphosateRandSS.
+halepenseplantsofdissimilarsizemaycoexistiswhenﬁtnesscosts
+are associated with glyphosate resistance alleles.12,35 Provided
+that herbicide resistance ﬁtness costs originate from reduced rel-
+ative growth rates (RGRs), coexistence of young R plants with
+adult S plants in the ﬁeld is expected.11 Despite this ﬁtness
+cost, estimates of glyphosate SI indicate a clear selective advan-
+tage for resistance under a wide range of glyphosate ﬁeld doses
+(Figs3bandS4).
+4.3 Modelingresistanceevolution
+Predictive models for resistance evolution seldom assume that
+coeﬃcientsofSIaredependentofvariationsinsizeamongRandS
+individuals.36 Ourresultssuggestthattheimplementationofmore
+accurateresistancemodelsispossibleusingacovariantparameter
+aﬀectingtheSIaccordingtothesizeclassstructureexhibitedbyR
+andSindividuals.Herbicidefailuresincontrollingweedsinagroe-
+cosystems are usually followed by herbicide applications using
+higher herbicide doses. Results presented here suggest that the
+increase in herbicide ﬁeld doses may exacerbate the SI for resis-
+tanceprovidedthatresistantplantsarelargeenough.Resultsalso
+show that management of herbicide resistance should consider
+notonlythepresence/absenceofherbicideresistancetraitswithin
+populations but also the variability associated with the distribu-
+tionofplantsizeclasseswithintheherbicide-treatedpopulations.
+UseofhigherglyphosatedoseswillincreasetheSIforresistance
+as long as coexisting glyphosate R and S plants have similar
+plant sizes or glyphosate R plants have a size corresponding to
+the young plant stage or seedling stage but coexist only with
+youngSplants.Incontrast,noselectiveadvantageforglyphosate
+resistance would be expected when increments of glyphosate
+doses occur in S.halepense populations comprised of glyphosate
+RseedlingscoexistingwithadultglyphosateSplants.
+ACKNOWLEDGMENTS
+WethankIgnacioRomeroforhistechnicalassistanceintheexper-
+iments.WealsothankSyngentaArgentinaforfundingthisstudy.
+SUPPORTINGINFORMATION
+Supportinginformationmaybefoundintheonlineversionofthis
+article.
+REFERENCES
+1 Vila-AiubMM,VidalRA,BalbiMC,GundelPE,TruccoFandGhersaCM,
+Glyphosate-resistantweedsofsouthAmericancroppingsystems:an
+overview.PestManagSci64:366–371(2008).
+2 Palumbi SR, Evolution - humans as the world’s greatest evolutionary
+force.Science293:1786–1790(2001).
+3 HeapI,Globalperspectiveofherbicide-resistantweeds.PestManagSci
+70:1306–1315(2014).
+4 Jasieniuk M, Brûlé-Babel AL and Morrison IN, The evolution and
+genetics of herbicide resistance in weeds. Weed Sci 44:176–193
+(1996).
+5 Gressel J and Segel LA, Modeling the eﬀectiveness of herbicide rota-
+tionsandmixturesasstrategiestodelayorprecluderesistance.Weed
+Technol4:186–198(1990).
+6 Maxwell B and Mortimer A, Selection for herbicide resistance, in
+HerbicideResistanceinPlants:BiologyandBiochemistry,ed.byPowles
+SBandJAMH.Lewis,BocaRaton,FL,pp.1–25(1994).
+7 Beckie HJ and Morrison IN, Eﬀective kill of triﬂuralin-susceptible
+and triﬂuralin-resistant green foxtail (Setaria viridis). Weed Technol
+7:15–22(1993).
+8 PowlesSBandYuQ,Evolutioninaction:plantsresistanttoherbicides.
+AnnuRevPlantBiol61:317–347(2010).
+9 WauchopeR,SumnerHandDowlerC,Ameasurementofthetotalmass
+of spray and irrigation mixtures intercepted by small whole plants.
+WeedTechnol11:466–472(1997).
+10 Weiner J, Asymmetric competition in plant-populations. Trends Ecol
+Evol5:360–364(1990).
+11 HanH,Vila-AiubMM,JalaludinA,YuQandPowlesSB,AdoubleEPSPS
+genemutationendowingglyphosateresistanceshowsaremarkably
+highresistancecost.PlantCellEnviron40:3031–3042(2017).https://
+doi.org/10.1111/pce.13067.
+12 Vila-Aiub MM, Neve P and Powles SB, Fitness costs associated
+with evolved herbicide resistance alleles in plants. New Phytol
+184:751–767(2009).
+13 TardifFJ,RajcanIandCosteaM,Amutationintheherbicidetargetsite
+acetohydroxyacid synthase produces morphological and structural
+alterations and reduces ﬁtness in Amaranthus powellii. New Phytol
+169:251–264(2006).
+14 Vila-Aiub MM, Balbi MC, Gundel PE, Ghersa CM and Powles SB, Evo-
+lutionofglyphosate-resistantJohnsongrass(Sorghumhalepense)in
+glyphosate-resistantsoybean.WeedSci55:566–571(2007).
+15 Vila-Aiub MM, Balbi MC, Distéfano AJ, Fernandez L, Hopp E, Yu Q
+etal., Glyphosate resistance in perennial Sorghumhalepense (John-
+songrass) endowed by reduced glyphosate translocation and leaf
+uptake.PestManagSci68:430–436(2012).
+16 Riar DS, Norsworthy JK, Johnson DB, Scott RC and Bagavathiannan
+M, Glyphosate resistance in a Johnsongrass (Sorghum halepense)
+biotypefromArkansas.WeedSci59:299–304(2011).
+17 SatorreEH,GhersaCMandPataroAM,PredictionofSorghumhalepense
+(L.) Pers. rhizome sprout emergence in relation to air temperature.
+WeedRes25:103–109(1985).
+18 RitzC,BatyF,StreibigJCandGerhardD,Dose-responseanalysisusing
+R.PLoSOne10:1–13(2015).
+19 R-CoreTeam,R:ALanguageandEnvironmentforStatisticalComputing.R
+FoundationforStatisticalComputing,Vienna,http://www.R-project
+.org(2017).
+20 Sou Sheng G, Vila-Aiub MM, Busi R and Powles SB, Glyphosate resis-
+tance in Echinochloa colona: phenotypic characterization and
+quantiﬁcation of selection intensity. Pest Manag Sci 72:67–93
+(2016).
+21 Neve P and Powles S, Recurrent selection with reduced herbicide
+rates resultsin the rapidevolution of herbicide resistanceinLolium
+rigidum.TheorApplGenet110:1154–1166(2005).
+22 BeckieHJandMorrisonIN,Eﬀectofethalﬂuralinandotherherbicides
+on triﬂuralin-resistant green foxtail (Setaria viridis). Weed Technol
+7:6–14(1993).
+23 Pinheiro J, Bates D, DebRoy S and Sarkar D, R Core Team (2014) nlme:
+linearandnonlinearmixedeﬀectsmodels.Rpackageversion3.1-117.
+http://CRANR-projectorg/package=nlme2014).
+24 Bolker B and Team R, Bbmle: Tools for general maximum likelihood
+estimation.Rpackageversion09;5(2010).
+25 Fox J and Weisberg S, An R Companion to Applied Regression.Sage
+Publications,CA,USA(2011).
+26 Neve P, Sadler J and Powles SB, Multiple herbicide resistance in
+a glyphosate-resistant rigid ryegrass (Lolium rigidum) population.
+WeedSci52:920–928(2004).
+27 Perez-Jones A, Park KW, Polge N, Colquhoun J and Mallory-Smith CA,
+Investigating the mechanisms of glyphosate resistance in Lolium
+multiﬂorum.Planta226:395–404(2007).
+28 DinelliG,MarottiI,BonettiA,MinelliM,CatizonePandBarnesJ,Phys-
+iological and molecular insight on the mechanisms of resistance to
+glyphosateinConyzacanadensis(L.)Cronq.Biotypes.PesticBiochem
+Physiol86:30–41(2006).
+29 GoldbergDE,Componentsofresourcecompetitioninplantcommuni-
+ties, inPerspectivesinPlantCompetition,ed. byGraceJB and Tilman
+D.AcademicPress,SanDiego,CA,pp.27–49(1990).
+PestManagSci(2018) ©2018SocietyofChemicalIndustry wileyonlinelibrary.com/journal/ps
+www.soci.org MVila-Aiub,CCasas,PEGundel
+30 Vila-Aiub MM, Neve P and Powles SB, Evidence for an ecological
+cost of enhanced herbicide metabolism in Lolium rigidum. JEcol
+97:772–780(2009).
+31 MarquisRJ,Leafherbivoresdecreaseﬁtnessofatropicalplant.Science
+226:537–539(1984).
+32 Boege K and Marquis RJ, Facing herbivory as you grow up: the
+ontogenyofresistanceinplants.TrendsEcolEvol20:441–448(2005).
+33 Blum A and Sullivan C, The eﬀect of plant size on wheat response to
+agents of drought stress. I. Root drying. Funct Plant Biol 24:35–41
+(1997).
+34 Blum A, Sullivan C and Nguyen H, The eﬀect of plant size on wheat
+responsetoagentsofdroughtstress.II.Waterdeﬁcit,heatandABA.
+FunctPlantBiol24:43–48(1997).
+35 Yanniccari ME, Vila-Aiub M, Istilart C, Acciaresi H and Castro AM,
+Glyphosate resistance in perennial ryegrass (Lolium perenne
+L.) is associated with a ﬁtness penalty. Weed Sci 64:71–79
+(2016).
+36 Renton M, Busi R, Neve P, Thornby D and Vila-Aiub M, Herbicide
+resistance modelling: past, present and future. Pest Manag Sci
+70:1394–1404(2014).
+wileyonlinelibrary.com/journal/ps ©2018SocietyofChemicalIndustry PestManagSci(2018)

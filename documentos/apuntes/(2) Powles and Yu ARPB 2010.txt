@@ -1,0 +1,2436 @@
+=== Fuente: (2) Powles and Yu ARPB 2010.pdf ===
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+Evolution in Action: Plants
+Resistant to Herbicides
+Stephen B. Powles and Qin Yu
+Western Australian Herbicide Resistance Initiative, School of Plant Biology, University of
+Western Australia, Crawley WA 6009, Australia; email: spowles@plants.uwa.edu.au
+Annu. Rev. Plant Biol. 2010. 61:317–47
+First published online as a Review in Advance on
+January 29, 2010
+The Annual Review of Plant Biology is online at
+plant.annualreviews.org
+This article’s doi:
+10.1146/annurev-arplant-042809-112119
+Copyright c© 2010 by Annual Reviews.
+All rights reserved
+1543-5008/10/0602-0317$20.00
+Key Words
+herbicide resistance, resistance mechanism, resistance mutation,
+cytochrome P450, herbicide translocation
+Abstract
+Modern herbicides make major contributions to global food produc-
+tion by easily removing weeds and substituting for destructive soil cul-
+tivation. However, persistent herbicide selection of huge weed num-
+bers across vast areas can result in the rapid evolution of herbicide
+resistance. Herbicides target speciﬁc enzymes, and mutations are se-
+lected that confer resistance-endowing amino acid substitutions, de-
+creasing herbicide binding. Where herbicides bind within an enzyme
+catalytic site very few mutations give resistance while conserving en-
+zyme functionality. Where herbicides bind away from a catalytic site
+many resistance-endowing mutations may evolve. Increasingly, resis-
+tance evolves due to mechanisms limiting herbicide reaching target
+sites. Especially threatening are herbicide-degrading cytochrome P450
+enzymes able to detoxify existing, new, and even herbicides yet to be
+discovered. Global weed species are accumulating resistance mecha-
+nisms, displaying multiple resistance across many herbicides and pos-
+ing a great challenge to herbicide sustainability in world agriculture.
+Fascinating genetic issues associated with resistance evolution remain
+to be investigated, especially the possibility of herbicide stress unleash-
+ing epigenetic gene expression. Understanding resistance and building
+sustainable solutions to herbicide resistance evolution are necessary and
+worthy challenges.
+317
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+Contents
+INTRODUCTION .................. 318
+TARGET-SITE HERBICIDE
+RESISTANCE .................... 319
+Resistance to PSII-Inhibiting
+Triazine Herbicides: One psbA
+Gene Mutation Independently
+Evolving Worldwide ............ 320
+Resistance to AHAS-Inhibiting
+Herbicides: Many Resistance
+Mutations ...................... 322
+Resistance to ACCase-Inhibiting
+Herbicides: Eight Resistance
+Mutations ...................... 325
+Glyphosate Resistance: EPSPS
+Pro-106 Mutations.............. 327
+Resistance to Tubulin
+Assembly-Inhibiting Herbicides:
+Recessive Tubulin Gene
+Mutations ...................... 330
+Resistance to Protoporphyrinogen
+IX Oxidase-Inhibiting
+Herbicides: A Novel
+Deletion Mutation .............. 331
+NON-TARGET-SITE HERBICIDE
+RESISTANCE .................... 332
+Cytochrome P450 Monooxygenases
+(P450s) and Evolved Herbicide
+Resistance ...................... 332
+Glutathione S-Transferases and
+Evolved Herbicide Resistance . . . 333
+Resistance Endowed by Restricted
+Rates of Herbicide
+Translocation ................... 334
+CONCLUSIONS AND
+FUTURE PROSPECTS .......... 335
+INTRODUCTION
+For at least 10,000 years a critical human
+endeavor has been the cultivation of plants
+for food and ﬁber, and now, the world’s great
+crops sustain more than 6 billion people. Any
+threats to crop productivity have grave conse-
+quences. Every year a major threat comes from
+infestations of wild plant species (weeds). Since
+the dawn of agriculture, humans have battled
+to control weeds threatening crop survival and
+productivity. Over the past 40 years, modern
+herbicides have largely replaced human,
+animal, and mechanical weed control, and they
+make a signiﬁcant contribution to the high
+productivity of global agriculture. Despite
+their success, herbicides have not resulted in
+the extinction of weeds, just as insecticides
+have not removed pests nor have antibiotics
+eliminated human disease pathogens. Indeed,
+the weed challenge in world crops remains
+more or less stable. Evolutionary forces acting
+on genetic diversity in large populations explain
+how biological organisms survive catastrophic
+natural events. Commencing with the brilliant
+insights of the nineteenth-century natural
+scientists Darwin, Lamarck, Mendel, Wallace,
+and those following them, there has developed
+an understanding that natural selection acting
+on genetic diversity enables persistence of life
+under changing circumstances. While many
+environmental changes are long-term, there
+are also sudden, catastrophic events that cause
+high mortality (e.g., herbicides applied to
+huge weed populations). For targeted plants,
+herbicides are a rapid, extreme stress event, but
+there are some initially very rare individuals
+with genes enabling survival and reproduction,
+and where herbicide selection is relentless,
+resistance evolves.
+Herbicide resistance is an evolutionary pro-
+cess, and its dynamics and impact are depen-
+dent upon the factors summarized in Table 1
+(scope and space constraints mean that here we
+focus only on the more fundamental aspects of
+evolved resistance mechanisms/genes). There
+can be a diversity of resistance genes and spe-
+ciﬁc herbicidal, operational, and biological fac-
+tors can determine which resistance genes are
+enriched (Table 1). A key point is that pollen
+exchange means cross-pollinated plants can
+rapidly share and accumulate resistance genes.
+Herbicide properties and dose strongly inﬂu-
+ence the types of resistance genes that can be
+enriched (Table 1). For reviews of genetic and
+other factors inﬂuencing herbicide resistance
+evolution, see References 18, 25, 52, 73 and 150.
+318 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+Table 1 Factors inﬂuencing herbicide resistance evolution in weed populations
+Genetic
+1. Frequency of resistance genes
+2. Number of resistance genes
+3. Dominance of resistance genes
+4. Fitness cost of resistance genes
+Biology of weed species
+1. Cross-pollination versus self-pollination
+2. Seed production capacity
+3. Seed longevity in soil seedbank
+4. Seed/pollen movement capacity
+Herbicide
+1. Chemical structure
+2. Site of action
+3. Residual activity
+Operational
+1. Herbicide dose
+2. Skills of the operator (treatment machinery, timing, environmental conditions, etc.)
+3. Agro-ecosystem factors (nonherbicide weed control practices, crop rotation, agronomy, etc.)
+A global list of herbicide-resistant weeds is
+comprehensively collated (67) at the web-
+site http://www.weedscience.org (Figure 1).
+Herbicide resistance in general is reviewed in
+several books (15, 35, 54, 83, 131, 134).
+Effective herbicides have chemical proper-
+ties enabling them to enter the plant, be translo-
+cated, and reach their target site at a lethal dose.
+The great majority of herbicides inhibit speciﬁc
+plant enzymes (target site) that are essential in
+plant metabolism. In reviewing evolved herbi-
+cide resistance we consider target-site versus
+non-target-site resistance. Evolved target-site
+resistance exists when herbicide(s) reach the tar-
+get site at a lethal dose but there are changes at
+the target site that limit herbicide impact (see
+section below on Target-Site Herbicide Resis-
+tance). Evolved non-target-site resistance in-
+volves mechanisms that minimize the amount
+of active herbicide reaching the target site (see
+section below on Non-Target-Site Herbicide
+Resistance).
+TARGET-SITE HERBICIDE
+RESISTANCE
+Evolved target-site resistance can occur by
+gene mutation conferring amino acid change
+in a target enzyme that prevents herbicide
+binding. Alternatively, target-site resistance can
+be conferred by overexpression of a target
+enzyme (gene ampliﬁcation or changes in a
+gene promoter). If a resistance-endowing muta-
+tion impairs enzyme functionality and/or plant
+PSII inhibitorsAHAS inhibitorsACCase inhibitors
+Glyphosate
+Dinitroaniline PSI herbicidesSynthetic auxinsPPO inhibitors
+Number of resistant weed species
+0
+20
+40
+60
+80
+100
+Figure 1
+Number of weed species that have evolved resistance to major herbicide modes
+of action (to July 2009, data from Reference 67).
+www.annualreviews.org • Plants Resistant to Herbicides 319
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+performance a resistance ﬁtness cost may result
+(173).
+Resistance to PSII-Inhibiting Triazine
+Herbicides: One psbA Gene Mutation
+Independently Evolving Worldwide
+Photosynthesis involves biophysical capture
+and transduction of sunlight energy to drive
+electron transport to produce NADPH and
+ATP for the carbon reduction cycle. Many her-
+bicides across several structurally diverse chem-
+ical groups (e.g., triazines, triazinones, ureas,
+uracils, biscarbamates) inhibit photosynthesis
+through the same mechanism of action. They
+compete with plastoquinone (PQ) at the PQ
+binding site on the D1 protein within the pho-
+tosystem two (PSII) complex. PSII electron
+transport inhibition stops NADPH and ATP
+production and the carbon reduction cycle,
+leading to carbohydrate starvation and oxida-
+tive stress. From the 1950s onwards, the tri-
+azine herbicides became widely adopted in the
+maize-growing regions of the world and their
+persistent use on huge, genetically diverse weed
+populations has led to resistance evolution.
+Since the landmark ﬁrst publication (151), tri-
+azine resistance has globally evolved in 68 weed
+species (Figure 1) (67). Arntzen et al. (5) and
+Gronwald (57) have expertly reviewed the lit-
+erature on PSII triazine resistance. The strik-
+ing feature of PSII triazine target-site resistance
+is that a single resistance mutation has inde-
+pendently globally evolved. A point mutation
+in the maternally inherited chloroplastic psbA
+gene encoding the D1 protein causes a Ser-264-
+Gly amino acid substitution in the PQ binding
+site (53, 68). With a few exceptions (see section
+on Non-Target-Site Herbicide Resistance), vir-
+tually all evolved triazine-resistant weed species
+have this mutation.
+Molecular interactions between the PSII
+D1 protein and triazine herbicides. Build-
+ing on the knowledge that triazines compete
+with PQ at the PQ binding site and the Nobel
+prize-winning achievement of the crystal struc-
+ture of the PSII-like reaction center of
+photosythetic purple bacteria (104), there is an
+exquisite understanding of how PQ and tri-
+azines bind to the D1 protein (Figure 2) and
+thus how the Ser-264-Gly mutation confers tri-
+azine resistance. As triazines and PQ directly
+compete for the PQ binding site, Ser-264-Gly is
+one of very few options for amino acid changes
+that prevent triazine binding while still enabling
+PQ binding. Molecular structure and model-
+ing of PSII show that at the D1 protein PQ
+binding site, Ser-264 provides a hydrogen bond
+that is important for PQ or triazine binding
+(Figure 2). Substitution with glycine removes
+this hydrogen bond, preventing triazine bind-
+ing (see References 79, 113, 138 for reviews).
+However, while providing high-level triazine
+resistance, this mutation also compromises PQ
+binding and therefore comes at the cost of re-
+duced photosynthesis (see Reference 57 for a
+review).
+Other resistance-endowing psbA gene
+mutations. The Ser-264-Gly mutation pre-
+vents triazine binding but there is normal
+activity of nontriazine PSII herbicides that
+have different chemistry and binding (see
+References 113, 138 for reviews). Therefore,
+target-site resistance to nontriazine PSII
+herbicides requires different mutations, and
+indeed ﬁve such mutations have been reported
+in a small number of weed species. A weed
+biotype selected by both triazine and urea
+PSII-inhibiting herbicides has a Ser-264-Thr
+mutation in the D1 protein conferring re-
+sistance to both herbicide chemistries (96).
+This mutation either partially blocks triazine
+and urea herbicide entry into the PQ binding
+site or interferes with herbicide interaction
+with Phe-255. From selection with nontri-
+azine PSII herbicides, a Val-219-Ile mutation
+has evolved in two weed species (102, 103),
+and an Asn-266-Thr (120), an Ala-251-Val
+(100) and a Phe-255-Ile (125) mutation has
+evolved separately in three weed species.
+These mutations confer resistance to certain
+nontriazine PSII herbicides for which the
+widely evolved Ser-264-Gly mutation does not
+confer resistance.
+320 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+C
+O
+H
+CH
+R
+N
+CH
+OH
+CH2
+N
+H
+Phe 265
+H    (CH
+2     C    CH    CH
+2)9
+CH
+3
+O
+O
+CH3
+CH3
+CH2
+Phe 255
+N
+H
+HN
+C
+H2
+His 215
+PQ
+C
+O
+Ser 264
+a
+Atrazine
+Ser 264
+Phe 265
+Phe 255
+HN
+His 215
+H
+N
+N
+N
+N
+Cl
+CH3
+HC
+CH3
+H
+N
+C2H5
+b
+C
+O
+H
+CH
+R
+N
+CH
+OH
+CH2
+N
+H
+CH2
+N
+H
+C
+H2
+C
+O
+Figure 2
+The interaction of plastoquinone (PQ) and atrazine with amino acids within the PQ binding site of the PSII D1 protein (modiﬁed from
+Reference 49). (a) PQ at the PQ binding site is hydrogen-bonded with His-215 and Ser-264. (b) Atrazine at the PQ binding site is
+hydrogen-bonded with Phe-265 and Ser-264 (this prevents PQ binding). Substitution of the Ser-264 with Gly removes the hydrogen
+bond, preventing atrazine binding. PQ binding afﬁnity is also reduced, but the protein is still functional. Dashed lines indicate
+hydrogen bonds and dotted lines indicate hydrophobic interactions.
+psbA gene mutations: effect on PSII func-
+tionality and plant ﬁtness. Many studies
+demonstrate that the Ser-264-Gly mutation
+signiﬁcantly reduces plant ﬁtness. This muta-
+tion reduces PQ binding (Figure 2) and there-
+fore photosynthesis, explaining in part the ﬁt-
+ness cost. However, there are other adverse
+pleiotropic effects of this mutation, dependent
+on environmental conditions (especially tem-
+perature and light). The wealth of literature
+showing a ﬁtness cost for the Ser-264-Gly mu-
+tation has been extensively reviewed (57, 70,
+173) and needs no further consideration here.
+Little is known about the ﬁtness cost of other
+PSII herbicide resistance mutations of the psbA
+gene, although limited studies indicate that the
+Ser-264-Thr or Asn-266-Thr mutations also
+levy a ﬁtness cost (see Reference 173 for a
+review). In conclusion, it is clear that target-
+site PSII triazine herbicide resistance is nearly
+always due to the psbA Ser-264-Gly mutation.
+The ﬁtness cost associated with this mutation
+has reduced its adverse impact on world agri-
+culture. The independent global evolution of
+the Ser-264-Gly mutation most likely reﬂects
+the overwhelming use of triazine compared to
+other PSII herbicides. A note of caution is that
+as the Ser-264-Gly mutation evolved early and
+often, researchers have examined for and found
+this mutation and have not then searched for
+other psbA gene mutations (165) or the coex-
+istence of other resistance mechanisms such
+as non-target-site resistance. Other psbA mu-
+tations have evolved and, as well, non-target-
+site resistance to PSII herbicides has evolved
+by two different metabolism-based enzyme sys-
+tems (see section on Non-Target-Site Her-
+bicide Resistance). We emphasize that herbi-
+cide selection of billions of genetically diverse
+plants means that resistant weed populations
+www.annualreviews.org • Plants Resistant to Herbicides 321
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+are likely to reﬂect diversity in resistance genes
+and researchers should examine for all possi-
+ble resistance mechanisms, both target-site and
+non-target-site.
+Resistance to AHAS-Inhibiting
+Herbicides: Many Resistance
+Mutations
+Acetohydroxyacid synthase (AHAS, EC2.2.
+1.6), also referred to as acetolactate synthase
+(ALS), is the ﬁrst enzyme in the biosynthetic
+pathway for the branched-chain amino acids
+valine, leucine, and isoleucine. AHAS catalyzes
+the formation of both aceto-hydroxybutyrate
+and acetolactate and is the target site for a large
+number of herbicides across the dissimilar
+sulfonylurea (SU), imidazolinone (IMI), tri-
+azolopyrimidine, pyrimidinyl-thiobenzoates,
+and sulfonyl-aminocarbonyl-triazolinone her-
+bicide chemistries. These herbicides are all
+potent inhibitors of AHAS, thereby stopping
+synthesis of the branched-chain amino acids,
+with subsequent plant death. AHAS-inhibiting
+herbicides control many weed species, have
+low mammalian toxicity, and are selective in
+major world crops. These favorable qualities
+ensured their global, intensive use in many
+different crops over huge areas. The evolution
+of herbicide-resistant weeds (101 species
+to date) rapidly followed (Figure 1) (67).
+The extensive AHAS-inhibiting herbicide
+resistance literature has been thoroughly
+reviewed (153, 168), so here we focus on recent
+developments.
+It was quickly established that AHAS
+herbicide-resistant plants could have a mutant-
+resistant AHAS enzyme (92, 152), and re-
+ports of resistant AHAS in many weeds fol-
+lowed. When reviewed in 1994 (153), it was
+known that AHAS Pro-197 could be substituted
+with either His or Thr to encode a resistant
+AHAS (59). Since 1994, an amazing number of
+resistance-endowing mutations have been iden-
+tiﬁed. When reviewed in 2002, 13 resistance
+amino acid substitutions at ﬁve sites within
+AHAS had been identiﬁed in weeds (168). Now,
+in 2009, there are 22 resistance substitutions at
+seven sites across AHAS (Table 2) (167, 168).
+Remarkably, at Pro-197, 11 amino acid substi-
+tutions can endow AHAS herbicide resistance.
+Pro-197 mutations are by far the most often ob-
+served (Table 2). At Pro-197, substitution with
+Ser is a particularly common mutation, relative
+to the many other possible Pro-197 resistance-
+endowing substitutions. As discussed below, the
+Pro-197-Ser substitution most likely achieves
+AHAS herbicide resistance without any major
+adverse impact on AHAS functionality. Also,
+the Pro-197-Ser substitution requires only one
+nucleotide mutation, whereas some of the Pro-
+197 amino acid substitutions (e.g., Ile, Lys, Met,
+Trp) require two nucleotide changes and thus
+will be slower to evolve. Especially in cross-
+pollinated species, several AHAS mutations can
+be present in an individual plant (e.g., 123, 180,
+192, 196).
+Molecular interactions between AHAS and
+herbicides. AHAS has both a catalytic and
+a regulatory subunit. The regulatory subunit
+stimulates activity of the catalytic subunit and
+confers sensitivity to feedback inhibition by
+branched-chain amino acids (see Reference 40
+for a review). Major advances have been made
+in the elucidation of the crystal structure of
+the yeast (98, 117, 118) and then the plant
+(Arabidopsis thaliana) catalytic subunit (99) in
+complex with various AHAS herbicides. These
+achievements enable precise identiﬁcation of
+AHAS herbicide binding sites and provide an
+exquisite understanding of the detailed molec-
+ular interactions between AHAS, cofactors, and
+herbicides (40, 97). This work has revealed that
+the AHAS catalytic site is deep within a chan-
+nel and that, crucially, AHAS herbicides do not
+bind within the catalytic site. Rather, they bind
+across an herbicide binding domain that strad-
+dles the channel entry, thereby blocking sub-
+strate access to the catalytic site (Figure 3).
+Across this domain, 18 amino acid residues are
+involved in herbicide binding (99). Structurally
+different AHAS herbicides orientate differently
+in the herbicide binding domain, with partial
+overlap (Figure 3). Thus, a particular amino
+acid substitution within the herbicide binding
+322 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+Table 2 Resistance-endowing acetohydroxyacid synthase amino acid substitutions in ﬁeld-evolved resistant weed species
+Amino acid and Resistance Resistance spectrumb Number of species in which
+positiona substitution SU IMI mutation detected Referencesc
+Ala-122 Thr S R 5
+Ty r r R 1 S. Friesen & S. Powles,
+unpublished data
+Pro-197 His R S/r 4
+Thr R S/r 6
+Arg R S 3
+Leu R R/r/S 8
+Gln R S 4
+Ser R S 14
+Ala R S 6
+Ile R r 1
+Met R − 1 180
+Lys R − 1 180
+Tr p R − 1 180
+Ala-205 Val r/S R/r 4
+Asp-376 Glu R/r R 4 Also see 71
+Trp-574 Leu R R 16
+Argd R R 1 180
+Ser-653 Thr S/r R 3
+Asn S/r R 2
+Ile r R 1 80
+Gly-654 Glu – R 1 154
+Asp S R 1 80
+aAmino acid numbering refers to the A. thaliana acetohydroxyacid synthase (AHAS) gene.
+bSU: sulfonylurea; IMI: imidazolinone; S: susceptible; R: resistant; r: low to moderately resistant; dash: not determined. For resistance spectrum to other
+AHAS herbicide chemistries, see Reference 167.
+cUnless otherwise speciﬁed, references and data are from Reference 167.
+dOnly heterozygous resistant individuals were found.
+domain can confer resistance to some but not
+to other AHAS herbicides (Table 2). There is
+a broad spectrum of resistance conferred by the
+Trp-574-Leu mutation (Table 2) (167) because
+Trp-574 is important not only for deﬁning the
+shape of the active-site channel but also for an-
+choring both SU and IMI herbicides to AHAS
+(99). This molecular and structural knowledge
+of the AHAS herbicide binding domain, the ef-
+fect of resistance mutations, and the fact of the
+separate catalytic site provide the explanation
+for the many AHAS resistance mutations that
+have evolved (Table 2). As the AHAS herbi-
+cides bind away from the catalytic site, there
+can be many mutations that prevent herbicide
+binding without adversely affecting the catalytic
+site (Figure 3). This also helps explain why
+there is a high frequency of AHAS-resistant
+plants present in a susceptible population be-
+fore AHAS herbicide selection (139).
+AHAS gene mutations: effect on AHAS
+functionality and plant ﬁtness. Of the many
+AHAS resistance mutations that have evolved
+in weeds worldwide (Table 2) only a few
+have been properly investigated for ﬁtness cost.
+Early work indicated that some resistance mu-
+tations showed no or negligible ﬁtness cost (see
+References 70, 168 for reviews), whereas the
+Trp-574-Leu substitution can have a substantial
+ﬁtness cost (164). Vila-Aiub et al. (173) have
+recently reviewed AHAS herbicide resistance
+www.annualreviews.org • Plants Resistant to Herbicides 323
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+Pro-197 Ala-205 
+Gly-654 
+Asp-376 
+Ser-653 
+Trp-574 
+Pro-197 
+Ala-122 
+Ala-205 
+Gly-654 
+Asp-376 
+Ser-653 
+Trp-574 
+Ala-122 
+ab
+Figure 3
+Simulation model of Arabidopsis AHAS structure in complex with the SU herbicide chlorsulfuron (a) or the IMI herbicide imazaquin
+(b). The herbicides are colored white; the residues that have evolved resistance substitutions are colored red. Note that the SU
+herbicide is bound deeper and closer to and has more contact with the catalytic site than does the IMI herbicide. The perspective of the
+images is that the atoms of the herbicides at the bottom left are those that are at the entrance of the channel, and those at the top right
+are inside the channel, leading to the catalytic site. (S. Friesen & S. Powles, unpublished data.)
+and ﬁtness costs, so here we focus on the effect
+of resistance mutations on AHAS functional-
+ity. As AHAS herbicides do not resemble the
+normal AHAS substrate and bind at an herbi-
+cide binding domain separate from the catalytic
+site, it is likely that some resistance mutations
+have a negligible effect on AHAS functionality,
+whereas others will alter AHAS functionality
+and/or have other (adverse) pleiotropic effects
+on the plant. Therefore, unsurprisingly, stud-
+ies with particular resistant biotypes show re-
+duced (6, 42, 43), increased (13, 194, 196), or
+unchanged (13, 142) AHAS activity. In general,
+it has been found that resistance mutations do
+not drastically change AHAS substrate afﬁnity
+(Km), but rather that they change AHAS sen-
+sitivity to branched-chain amino acid feedback
+inhibition, resulting in accumulation of these
+amino acids (e.g., 6, 42, 43, 142). To know the
+precise effect of each of the 22 resistance mu-
+tations (Table 2), studies need to be conducted
+with known genotypes for each of these mu-
+tations. Recently, we have generated puriﬁed
+homozygous Lolium rigidum plants for each of
+the Pro-197-Ala, Pro-197-Arg, Pro-197-Gln,
+Pro-197-Ser, and Trp-574-Leu mutations, and
+determined AHAS kinetics for each of these in-
+dividual mutations. We have found that the very
+common Pro-197-Ser mutation (Table 2) has
+no effect on AHAS kinetics, relative to wild-
+type AHAS or some of the other amino acid
+substitutions at Pro-197 (Q. Yu, H. Han, S.
+Powles, manuscript in preparation). This helps
+to explain why this mutation is so common. We
+believe that when this work is completed for a
+range of AHAS resistance mutations, it will re-
+veal that some mutations have no adverse effects
+on AHAS functionality, while other mutations
+have clear adverse impacts. It remains to be es-
+tablished whether and to what extent the effect
+of these AHAS mutations impacts plant ﬁtness.
+In conclusion, there is now good understanding
+of how plants so easily evolve target site AHAS
+herbicide resistance. Elegant molecular struc-
+tural and modeling work reveals that AHAS
+herbicide binding and catalytic sites are spa-
+tially separate, and many resistance mutations
+have a negligible impact on AHAS function-
+ality. This explains how there can be so many
+AHAS resistance gene mutations. Note, how-
+ever, that resistance evolution to AHAS herbi-
+cides is not restricted to AHAS gene mutations.
+324 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+Non-target-site, metabolism-based resistance
+to AHAS herbicides is also a powerful and
+widely occurring resistance mechanism (see
+section below on Cytochrome P450 Monooxy-
+genases and Evolved Herbicide Resistance).
+Resistance to ACCase-Inhibiting
+Herbicides: Eight Resistance
+Mutations
+Acetyl-coenzyme A carboxylase (ACCase,
+EC.6.4.1.2) is a key enzyme in lipid biosyn-
+thesis that catalyzes the formation of malonyl-
+CoA from the carboxylation of acetyl-CoA.
+Two types of ACCase have been recognized:
+The heteromeric prokaryotic ACCase is com-
+posed of multiple subunits, whereas the ho-
+momeric eukaryotic ACCase is a large mul-
+tidomain protein. Plants have both cytosolic
+and plastidic ACCase. In grasses the plastidic
+ACCase is homomeric and is the target site
+for three herbicide classes. Importantly, in most
+dicots the plastidic ACCase is multimeric and
+is not sensitive to herbicides. Thus most di-
+cot species tolerate ACCase-inhibiting herbi-
+cides well, but most grass species are suscepti-
+ble, meaning that ACCase herbicides control
+only grass weed species. ACCase herbicides,
+introduced since 1978, have become widely
+used for grass weed control in world agri-
+culture. There are many ACCase herbicides
+across the aryloxyphenoxypropionate (APP),
+cyclohexanedione (CHD) and phenylpyrazo-
+line (PPZ) chemical groups. In response to
+global and often intensive ACCase herbi-
+cide selection, many grass weeds (36 species,
+Figure 1) (67) have evolved resistance since
+the ﬁrst report in L. rigidum (65). For exam-
+ple, most populations of L. rigidum across a
+huge Australian grain-growing region (90, 14,
+114) and a considerable proportion of Alopecu-
+rus myosuroides in northwestern Europe are now
+ACCase herbicide resistant (29, 108). There are
+substantial areas of ACCase herbicide-resistant
+grass weeds in various parts of the world. The
+evolution of ACCase herbicide resistance has
+been comprehensively reviewed (34, 36), so
+here we focus on recent developments.
+It was ﬁrst established that ACCase herbi-
+cide resistance could be target-site based due
+to a resistant ACCase (121), and then three
+laboratories independently identiﬁed a Leu-
+1781-Ile resistance-endowing mutation in the
+CT (carboxyl transferase) domain of plastidic
+ACCase of resistant grass weeds (32, 199, 204).
+Progressively since then, seven other resistance
+substitutions have been identiﬁed in various
+grass species (Table 3). Of these mutations,
+Leu-1781-Ile is the most common. Given the
+large number of ACCase herbicides across
+three chemically distinct groups, the ACCase
+herbicide resistance spectrum endowed by the
+eight resistance mutations has been elucidated
+only for some ACCase herbicide groups in
+some grass weeds (Table 3). It is increasingly
+recognized that the level and spectrum of
+target-site ACCase herbicide resistance are de-
+termined by the particular resistance mutation,
+homozygosity/heterozygosity of the plants for
+the mutation, and, importantly, the herbicide
+and dose used for evaluation (28, 75, 190). To
+obtain precise information it is necessary to
+have well-characterized genotypes with known
+mutations and to carefully select herbicide
+and dose (28, 33, 126, 190). For example, the
+Asp-2078-Gly mutation confers high-level
+resistance to many (APP and CHD) ACCase
+herbicides but very low-level resistance to the
+(CHD) herbicide clethodim (28, 190). Thus
+it is erroneous to assume that all target-site
+resistance mutations endow high-level resis-
+tance. The reality is that on a case-by-case
+basis particular target-site mutations give
+from high-level to quite low-level resistance
+(28, 75, 190). Generalizations should not
+be made and indeed, in general, the impor-
+tance of herbicide dose and homozygosity/
+heterozygosity for the resistance mutation(s)
+in evaluating a resistance mutation is underap-
+preciated in herbicide resistance research.
+Molecular interactions between ACCase
+and herbicides. In comparison to AHAS (dis-
+cussed above), for ACCase less is known as
+to herbicide binding and inﬂuence on the cat-
+alytic site, and how mutations confer resistance.
+www.annualreviews.org • Plants Resistant to Herbicides 325
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+Table 3 Resistance-endowing plastidic ACCase CT domain amino acid substitutions in ﬁeld-evolved resistant grass weed
+species
+Resistance spectrumb
+Amino acid substitutiona Grass weed species APP CHD PPZ Referencesc
+Ile-1781-Leu Alopecurus myosuroides R R R Also see 126
+Avena fatua R R r Also see 17
+A. sterilis R R − 89
+Lolium multiﬂorum − R − 182
+L. rigidum R R R Also see 190, 205
+Setaria viridis R R −
+Trp-1999-Cys A. sterilis Rd/S S − 89
+Trp-2027-Cys A. myosuroides R S R Also see 126
+A. sterilis R/r r − 89
+L. rigidum − r − 190
+Ile-2041-Asn A. myosuroides R S r Also see 126
+A. sterilis R r − 89
+Phalaris paradoxa − − − 69
+L. rigidum R r/S − Also see 190, 206
+Ile-2041-Val L. rigidum S/R S −
+Asp-2078-Gly A. myosuroides R R R Also see 126
+A. sterilis R R − 89
+L. multiﬂorium R R R 75
+L. rigidum R R R 190
+P. paradoxa R R R 69
+Cys-2088-Arg L. rigidum R R R 190
+Gly-2096-Ala A. myosuroides R r/S S Also see 126
+Abbreviations: ACCase: Acetyl-coenzyme A carboxylase; AT: carboxyl transferase.
+aAmino acid positions correspond to the full-length plastidic ACCase in A. myosuroides.
+bAPP: aryloxyphenoxypropionates; CHD: cyclohexanediones; PPZ: phenylpyrazolines; R: resistant; S: susceptible; r: low to moderately resistant;
+dash: not determined.
+cUnless otherwise speciﬁed, see 28, 34 for references.
+dResistant only to Fenoxaprop.
+However, knowledge is accumulating, com-
+mencing with evidence that the inhibition of
+ACCase by ACCase herbicides is nearly com-
+petitive with the substrate acetyl-CoA (see
+Reference 36 for a review). A pivotal advance
+has been the achievement of the crystal struc-
+ture of the yeast ACCase CT domain, which
+revealed that the ACCase catalytic site is sit-
+uated in a cavity at the interface of the dimer
+(202, 203). There is evidence that ACCase (APP
+group) herbicides bind within a domain close to
+and partially overlapping the catalytic site (202).
+However, the precise binding details of the
+many ACCase herbicides across three chemi-
+cal groups (APP, CHD, PPZ) remain unknown.
+Some resistance amino acid substitutions
+(Table 3) may prevent herbicide binding with-
+out having an effect on substrate acetyl-CoA
+binding at the catalytic site, whereas other mu-
+tations that overlap the catalytic site may ad-
+versely impact acetyl-CoA binding and there-
+fore ACCase functionality (33). Further in-
+sight has come from three-dimensional mod-
+eling, which indicates that resistance amino
+acid substitutions do occur within the cat-
+alytic cavity and change the shape of the
+cavity, hampering herbicide access to the bind-
+ing site (33). Deﬁnitive proof awaits achieve-
+ment of the crystal structure of plant ACCase
+in the presence and absence of bound her-
+bicides. Note that for target-site ACCase
+resistance, notwithstanding the presence of
+326 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+resistance mutations (Table 3), a few ACCase
+herbicides continue to be effective on many
+resistant populations. Such ACCase herbicides
+have a particular chemical structure that enables
+them to bind and inhibit ACCase, despite the
+presence of resistance mutations.
+ACCase gene mutations: effect on ACCase
+functionality and plant ﬁtness. Some of the
+eight different resistance-endowing ACCase
+gene mutations (Table 3) have a ﬁtness cost, but
+others do not (see Reference 173 for a review).
+In A. myosuroides, using segregating F2 families
+with careful genotyping to obtain homozygous
+and heterozygous individuals, no ﬁtness cost
+was found for the Ile-1781-Leu or Ile-2041-Asn
+mutations (101). Similarly, there was no ﬁtness
+cost in a L. rigidum biotype with the Ile-1781-
+Leu mutation (171, 174). Indeed, a study with a
+resistant genotype of Setaria italica with the Ile-
+1781-Leu mutation displays a ﬁtness advantage
+for this mutation (178). The 1781-Leu allele is
+the wild type in the grass species Poa annua, Fes-
+tuca rubra, and F. bromoides (31, 191). However,
+some ACCase resistance mutations do impose a
+ﬁtness cost. A. myosuroides homozygous for the
+Asp-2078-Gly mutation has a ﬁtness cost (101).
+Equally, L. rigidum genotypes homozygous for
+the Asp-2078-Gly or the Cys-2088-Arg muta-
+tion also exhibit a ﬁtness cost (M. Vila-Aiub &
+S. Powles, unpublished data). Our work with
+L. rigidum populations homozygous for
+ACCase target-site mutations showed that
+1781 mutation does not change ACCase activ-
+ity, whereas 2078 or 2088 mutation signiﬁcantly
+reduces ACCase activity (190). As yet there
+are no published studies on ﬁtness cost for the
+other ACCase resistance mutations identiﬁed in
+Table 3, and work on this is needed. In con-
+clusion, widespread and persistent ACCase
+herbicide selection has resulted in the evolution
+of many resistant grass weeds. Eight amino
+acid substitutions in the CT domain of ACCase
+have evolved. Especially in cross-pollinated
+weed species, individuals may be heterozygous
+for several mutations, and exhibit complex
+patterns of cross-resistance across ACCase
+herbicides. In addition, it must be emphasized
+that non-target-site-based ACCase herbicide
+resistance is also widespread. For example, the
+contribution of target-site- versus non-target-
+site-based resistance was evaluated using 243
+ACCase herbicide-resistant A. myosuroides
+French populations, which demonstrated that
+most resistant plants did not have any of the
+known ACCase mutations (29). Similarly,
+across huge areas of Australia, non-target-site
+ACCase herbicide resistance is also common in
+resistant L. rigidum and Avena spp. (114, 115,
+and reviewed in section on Non-Target-Site
+Herbicide Resistance). A further complication
+is that individuals can exhibit both target-
+site and non-target-site ACCase herbicide
+resistance mechanisms.
+Glyphosate Resistance: EPSPS
+Pro-106 Mutations
+Glyphosate is by far the world’s most widely
+used and important herbicide. Glyphosate has
+a favorable environmental proﬁle and controls
+a very broad spectrum of annual and perennial
+weeds in varied agricultural, industrial, and
+amenity situations. Glyphosate is a speciﬁc
+and potent inhibitor of the chloroplast enzyme
+5-enolpyruvylshikimate-3-phosphate synthase
+(EPSPS) (EC 2.5.1.19), which catalyzes the
+reaction of shikimate-3-phosphate (S3P)
+and phosphoenolpyruvate (PEP) to form
+5-enolpyruvylshikimate-3-phosphate (EPSP).
+Glyphosate inhibition of EPSPS activity
+disrupts the shikimate pathway and inhibits
+aromatic amino acid production, ultimately
+causing plant death. Glyphosate has been glob-
+ally and extensively used since 1974, and when
+reviewed in 1994, there were no reports of
+evolved glyphosate-resistant weeds (41). How-
+ever, since ﬁrst identiﬁed (132, 135), glyphosate
+resistance has evolved in at least 16 weed species
+in 14 different countries and is fast becoming
+a very signiﬁcant problem in world agriculture
+(Table 4; Figure 1) (67; see Reference 129
+for a review). A major factor accelerating the
+evolution of glyphosate-resistant weeds has
+been the advent of transgenic glyphosate-
+resistant crops such as soybean, maize, cotton,
+www.annualreviews.org • Plants Resistant to Herbicides 327
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+Table 4 Weed species that have evolved enhanced rates of cytochrome P450-mediated herbicide
+metabolism
+Species Herbicide Herbicide group Referencesa
+Amaranthus hybridus Chlorimuron AHAS inhibitors 94
+Bromus tectorum Propoxycarbazone AHAS inhibitors 119
+Alopecurus myosuroides Chlorotoluron PSII inhibitors Also see 87
+Chlorsulfuron AHAS inhibitors
+Flupyrsulfuron
+Clodinafop ACCase inhibitors
+Diclofop-methyl
+Propaquizafop
+Haloxyfop
+Fenoxaprop-p
+Lolium rigidum Chlorotoluron PSII inhibitors
+Atrazine
+Diuron
+Metribuzin
+Simazine
+Chlorsulfuron AHAS inhibitors
+Diclofop-methyl ACCase inhibitors
+Tralkoxydim
+Pendimethalin Dinitroaniline 163
+Lolium multiﬂorum Diclofop-methyl ACCase inhibitors 19
+Avena sterilis Diclofop-methyl ACCase inhibitors
+Phalaris minor Isoproturon PSII inhibitors
+Echinochloa phyllopogon Bispyribac-sodium AHAS inhibitors 10, 185, 198
+Fenoxaprop-p-ethyl ACCase inhibitors
+Thiobencarb Thiocarbamates
+Stellaria media Mecoprop Synthetic auxins
+Digitaria sanguinalis Fluazifop-P-butyl ACCase inhibitors
+Imazethapyr AHAS inhibitors
+Sinapis arvensis Ethametsulfuron-methyl AHAS inhibitors
+aUnless otherwise speciﬁed, see 54, 138, 146 for references.
+and canola. These have been spectacularly
+adopted in North and South America. In these
+crops, glyphosate has replaced almost all other
+herbicides or other means of achieving weed
+control. From an evolutionary viewpoint,
+this singular reliance on glyphosate is an
+intense selection for any glyphosate resistance
+genes (128, 129). Unsurprisingly, widespread
+evolution of glyphosate resistance in weeds
+has quickly followed (Figure 4). The reader
+is referred to the 2008 special issue of Pest
+Management Science, Volume 64, which fully
+reviews glyphosate-resistant crops and weeds.
+Mechanisms endowing evolved glyphosate re-
+sistance in weeds have recently been reviewed,
+showing that both target-site EPSPS gene
+mutation/ampliﬁcation and non-target-site
+resistance (discussed below) have evolved (133,
+143, 158).
+Target-site glyphosate resistance, ﬁrst iden-
+tiﬁed in an Eleusine indica biotype (84), is due
+to a serine substitution at Pro-106 (Pro-106-
+Ser) in a highly conserved region of the EP-
+SPS gene (9). Subsequently, threonine and
+alanine substitutions at Pro-106 have been
+ﬁrst reported in glyphosate-resistant E. indica
+(112) and Lolium (189) populations, respec-
+tively. Now these three Pro-106 amino acid
+substitutions have been identiﬁed in E. indica
+and Lolium populations from various parts of
+328 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+Figure 4
+Evolved glyphosate-resistant Sorghum halepense infesting an Argentinean transgenic glyphosate-resistant
+soybean crop (with permission of M. Vila-Aiub; see 175).
+the world (76; see Reference 143 for a review).
+These Pro-106 substitutions confer only a
+modest degree of glyphosate resistance.
+Will there be other EPSPS gene mutations?
+In considering whether resistance mutations
+other than Pro-106 will evolve, note that
+the EPSPS active site is highly conserved
+(116). The crystal structure of Escherichia coli
+EPSPS and molecular modeling show that
+glyphosate inhibits EPSPS by occupying the
+PEP binding site (45, 64, 155). Incisive work
+on E. coli EPSPS Pro-106 substitutions and the
+crystal structure of EPSPS-S3P-glyphosate
+reveals that Pro-106 substitutions cause a slight
+narrowing of the glyphosate/PEP binding site
+cavity, which endows glyphosate resistance but
+preserves EPSPS functionality (64). In contrast,
+substitutions at Gly-101 or Thr-102 confer
+high-level glyphosate resistance but reduce the
+volume of the glyphosate/PEP binding site,
+and this signiﬁcantly reduces afﬁnity for PEP
+(45, 50). Thus, mutations enabling both
+glyphosate and PEP binding while retaining
+EPSPS functionality may be very rare. For
+example, only the Pro-106 substitutions were
+identiﬁed in a directed evolution strategy in-
+volving randomly mutated Oryza sativa EPSPS
+(E. coli expressed) in which only EPSPS mu-
+tants that conferred glyphosate resistance and
+retained EPSPS functionality were advanced
+(207). So far, there are no published studies on
+the effect of target-site EPSPS glyphosate resis-
+tance mutations on the ﬁtness of resistant indi-
+viduals. Such studies are needed for the various
+glyphosate resistance Pro-106 substitutions
+that have evolved in glyphosate-resistant weeds.
+EPSPS overexpression or ampliﬁcation.
+It has been recently documented that highly
+glyphosate-resistant Amaranthus palmeri
+biotypes have up to 100-fold EPSPS gene
+www.annualreviews.org • Plants Resistant to Herbicides 329
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+ampliﬁcation resulting in up to 40-fold EPSPS
+overexpression (51). This EPSPS gene am-
+pliﬁcation is heritable and correlates with the
+expression level and glyphosate resistance seg-
+regating in F2 plants (51). This clear evidence of
+ﬁeld-evolved glyphosate resistance endowed by
+EPSPS gene ampliﬁcation is supported by lab-
+oratory selected glyphosate-resistant cell lines
+of several plant species that have EPSPS gene
+ampliﬁcation (see Reference 41 for a review). A
+threefold increase in basal EPSPS mRNA and
+enzyme activity (not due to gene ampliﬁcation)
+was observed in glyphosate-resistant L. rigidum
+(8), and a complementary role of constitutively
+higher EPSPS mRNA levels was suggested for
+several glyphosate-resistant Conyza biotypes,
+where reduced glyphosate translocation was
+found to be a major resistance mechanism
+(37). Thus, given the difﬁculty in mutating
+the EPSPS gene to obtain both resistance and
+enzyme functionality, we expect more examples
+of evolved glyphosate resistance due to EPSPS
+gene ampliﬁcation. The high levels of EPSPS
+produced by massive gene ampliﬁcation evident
+in glyphosate-resistant A. palmeri (51) should
+have a ﬁtness cost, and this needs investigation.
+In conclusion, it is clear that EPSPS target-site
+glyphosate resistance is occurring due to
+Pro-106 resistance-endowing mutations, and
+glyphosate resistance endowed by EPSPS gene
+ampliﬁcation has been reported. Given the
+persistent and widespread glyphosate reliance
+in many parts of the world, other glyphosate
+resistance mechanisms are likely. Indeed,
+non-target-site-based glyphosate resistance
+has evolved in several species (discussed in
+section Resistance Endowed by Restricted
+Rates of Herbicide Translocation, below).
+Resistance to Tubulin
+Assembly-Inhibiting Herbicides:
+Recessive Tubulin Gene Mutations
+There are a number of structurally dissim-
+ilar, soil-active, pre-emergent herbicides
+(dinitroanilines, benzoic acids, phospho-
+roamidates, pyridines, and carbamates) that
+mostly target germinating seeds, inhibiting
+early cell division. The mode of action of
+this group of herbicides is to bind to plant
+tubulin dimers, disrupting microtubule growth
+(3, 12). Microtubules are polymers of α-
+and β-tubulin dimers and are involved in
+many essential cellular processes including
+mitosis, cytokinesis, and vesicular transport.
+Dinitroaniline and other tubulin-inhibiting
+herbicides have been used for several decades
+but not on a grand scale, and evolved resistance
+has been reported in only 10 weed species
+(Figure 1) (67). Both target-site resistance and
+non-target-site resistance to tubulin herbicides
+exist, and the literature up to 1994 has been
+thoroughly reviewed (160). Here we focus on
+the biochemical and molecular basis of target-
+site dinitroaniline herbicide resistance, which
+has been studied in detail only in Eleusine indica
+and Setaria viridis. When reviewed in 1994,
+tubulin polymerization occurred normally in
+resistant plants in the presence of dinitroaniline
+herbicide (160). In 1998, two groups indepen-
+dently identiﬁed a α-tubulin gene mutation
+resulting in a Thr-239-Ile substitution that
+conferred high-level resistance in E. indica (4,
+184). This Thr-239-Ile substitution endows
+resistance to many dinitroaniline herbicides,
+and cross-resistance to phosphoroamidate and
+pyridine herbicides, but increased sensitivity
+(negative cross-resistance) to some carbamate
+herbicides (see Reference 3 for a review).
+The same mutation was also reported in
+dinitroaniline-resistant S. viridis, where it
+conferred cross-resistance to a benzoic acid
+herbicide but negative cross-resistance to
+carbamate herbicides (30). A second mutation,
+Met-268-Thr, was found to provide lower-level
+dinitroaniline herbicide resistance in E. indica
+(184). Finally, in dinitroaniline-resistant S.
+viridis, a Leu-136-Phe mutation was also iden-
+tiﬁed (30). Fitness cost studies with plants with
+each of these resistance mutations are required.
+Importantly, target-site dinitroaniline her-
+bicide resistance is inherited as a recessive sin-
+gle nuclear gene (72, 166, 177, 200, 201), and
+so only homozygous individuals survive the
+normal herbicide dose. In contrast, as most
+mutations conferring target-site resistance are
+330 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+inherited as dominant/semidominant genes
+(discussed above), heterozygous individuals sur-
+vive at normal herbicide dose. Therefore, this
+mechanism of resistance to tubulin-inhibiting
+herbicides is more difﬁcult to evolve because the
+initially rare heterozygous resistant individuals
+are killed at normal herbicide dose. This helps
+explain the limited evolution of this mecha-
+nism of resistance, especially in cross-pollinated
+species.
+Resistance to Protoporphyrinogen IX
+Oxidase-Inhibiting Herbicides:
+A Novel Deletion Mutation
+In plants, protoporphyrinogen IX oxidase
+(PPO) is a key enzyme in the biosynthesis of
+chlorophyll and heme. PPO catalyzes the ox-
+idation of protoporphyrinogen (protogen) to
+protoporphyrin IX (Proto IX). In plants there
+are two nuclear-encoded PPO isoforms, PPO1
+(targeted to the chloroplast and encoded by
+the gene PPX1) and the mitochondrial PPO2
+(encoded by the gene PPX2). Several herbi-
+cides including the diphenylethers and oxidi-
+azoles inhibit PPO. Some PPO herbicides have
+been used for many years but have not had the
+global use evident for major herbicides (dis-
+cussed above). There has been little evolution
+of PPO herbicide resistance, with resistance re-
+ported in biotypes of only three weed species
+(Figure 1) (67). Investigations with a resistant
+Amaranthus tuberculatus biotype have revealed
+a novel and unexpected mutation in which re-
+sistance is conferred by an amino acid deletion.
+In resistant A. tuberculatus for the PPX2L gene
+that likely encodes both chloroplastic and mito-
+chondrial PPO, there is the loss of a 3-bp codon,
+causing a deletion of glycine at position 210
+(122). This is the only report of codon/amino
+acid deletion conferring herbicide resistance.
+The Gly-210 deletion in the PPO gene en-
+dows very high-level resistance to PPO herbi-
+cides with little effect on the afﬁnity of PPO
+for its substrate protogen, but the deletion in-
+curs tenfold-lower PPO activity than does the
+wild type (F.D. Dayan, P.R. Daga, S.O. Duke
+et al., unpublished data). Molecular dynamics
+simulations, using the crystal structure of Nico-
+tiana tabacum PPO2 in complex with herbicide
+(77), revealed that deletion of Gly-210 enlarged
+the volume of the PPO active site, causing a
+structural rearrangement of the substrate pro-
+togen binding domain (F.D. Dayan, P.R. Daga,
+S.O. Duke et al., unpublished data). The mod-
+eling supported the measurement that resis-
+tant PPO has no impact on substrate binding
+but suffers reduced catalytic efﬁciency. An ob-
+vious question is whether Gly-210 substitution
+rather than deletion would endow resistance.
+Modeling indicated that substitutions at Gly-
+210 provide either little or no resistance, or
+greatly reduce PPO functionality (F.D. Dayan,
+P.R. Daga, S.O. Duke et al., unpublished data).
+Therefore, although amino acid deletion is con-
+sidered to be a much rarer evolutionary event
+(∼10−18) than substitution (∼10−9) (55), this
+was the mutation that evolved in this biotype
+of A. tuberculatus. The requirement for simul-
+taneous loss of three nucleotides in the coding
+sequence of the target gene, plus the dual tar-
+geting of the gene product to chloroplasts and
+mitochondria, should limit the evolution of this
+deletion resistance mechanism, although it has
+been documented in a further four resistant A.
+tuberculatus populations (85). This unlikely yet
+novel resistance mechanism again demonstrates
+how the power of herbicide selection pres-
+sure can reveal rare and unexpected resistance-
+endowing genes. It is important to reveal to
+what extent the reduced PPO activity conferred
+by the Gly-210 deletion affects ﬁtness of resis-
+tant plants, and whether there are other adverse
+pleiotropic effects of this deletion.
+We recognize that we have not reviewed all
+cases of ﬁeld-evolved target-site herbicide resis-
+tance. We have not reviewed resistance to syn-
+thetic auxin type herbicides (2,4-D and other
+auxin-type herbicide chemistries). These her-
+bicides have been in use for more than 50 years,
+and notwithstanding the evolution of resistant
+weed populations (Figure 1), they remain re-
+markably effective. Unraveling the mechanis-
+tic basis of evolved resistance to synthetic auxin
+herbicides has been particularly difﬁcult (22).
+Although there are current research advances
+www.annualreviews.org • Plants Resistant to Herbicides 331
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+in plants on perception, signaling, and resis-
+tance to synthetic auxins (58, 63, 179), the ex-
+act molecular resistance mechanism has not
+been determined in any weed species. The
+mechanism of resistance to MCPA (4-chloro-
+2-ethyphenoxyacetate) in a biotype of Galeop-
+sis tetrahit is reduced MCPA translocation and
+enhanced MCPA metabolism, and at least two
+genes are involved in the resistance (183). It
+is hoped that in the next few years the pre-
+cise biochemical and molecular basis of evolved
+resistance to synthetic auxin herbicides will be
+elucidated.
+NON-TARGET-SITE
+HERBICIDE RESISTANCE
+Here we consider major non-target-site herbi-
+cide resistance mechanisms that have been se-
+lected in weed species. Evolved non-target-site
+herbicide resistance can be due to any one or
+a combination of mechanisms that limit to a
+nonlethal dose the amount of herbicide reach-
+ing a target site. Mechanisms include decreased
+herbicide penetration into the plant, decreased
+rates of herbicide translocation, and increased
+rates of herbicide sequestration/metabolism.
+Such mechanisms act to minimize the amount
+of herbicide reaching the target site (rendering
+the target site somewhat irrelevant).
+Cytochrome P450 Monooxygenases
+(P450s) and Evolved Herbicide
+Resistance
+In pest insect species a major evolved resistance
+mechanism is increased P450 capacity to me-
+tabolize (detoxify) insecticides. There is fairly
+comprehensive understanding of the important
+role of P450s in insecticide resistance (88). In
+contrast, the role of P450s in endowing herbi-
+cide resistance in weeds is poorly understood.
+P450s are one of the largest superfamilies of
+enzymes and are found in almost all organisms,
+with plants having the highest number of P450
+genes (e.g., 356 genes in rice versus 57 in hu-
+mans). The many vital roles of plant P450s have
+been reviewed (157). Plant P450s are bound
+to the endoplasmic reticulum (in a few cases
+to plastid membranes) and are involved in the
+synthesis of hormones, sterols and fatty acid
+derivatives and in many aspects of plant sec-
+ondary metabolism. While P450s catalyze a
+wide diversity of reactions in plant metabolism,
+their role in herbicide conversion is usually hy-
+droxylation or dealkylation. In most cases these
+reactions can be summarized as activation and
+insertion of an atom from molecular oxygen to
+form a more reactive product using electrons
+from NADPH, through the action of NADPH-
+P450 reductase. Thus some P450s will metabo-
+lize certain herbicides to products with reduced
+or modiﬁed phytotoxicity that are further in-
+activated, often by conjugation to glucose and
+subsequent transport into the vacuole (78). This
+is well known in crops such as wheat and maize,
+which tolerate herbicides across several modes
+of action due to substantial P450 mediated her-
+bicide metabolism capacity (see References 159,
+181 for reviews).
+As crops can P450 metabolize many differ-
+ent herbicides, their use on large weed popu-
+lations is a strong selection pressure for weed
+individuals possessing the same ability. Indeed,
+in weeds (as for insect pests), P450-based her-
+bicide resistance is a very threatening resis-
+tance mechanism because P450 enzymes can
+simultaneously metabolize herbicides of dif-
+ferent modes of action, potentially including
+never-used herbicides. Such resistance evolu-
+tion was identiﬁed in the 1980s, with land-
+mark reports that resistant A. myosuroides and
+L. rigidum biotypes displayed non-target-site
+cross-resistance across several herbicide modes
+of action, including herbicide groups never
+used (66, 107). Subsequently, in vivo studies
+on herbicide metabolism and P450 inhibitors
+in resistant biotypes showed that P450s cat-
+alyzed enhanced rates of metabolism of sev-
+eral herbicides (Table 4) (see References 60,
+138, 146 for reviews). Note that evolved P450-
+based resistant L. rigidum populations can ex-
+hibit resistance across several (but not all)
+of the herbicides discussed in the section on
+Target-Site Herbicide Resistance, including
+PSII, AHAS, ACCase, and tubulin-inhibiting
+332 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+herbicides (140). In addition to L. rigidum and
+A. myosuroides (61, 62), the evolution of resis-
+tance due to P450-catalyzed enhanced rates of
+herbicide metabolism has been demonstrated
+in resistant biotypes of a further nine weed
+species (Table 4). In these studies, resistance
+correlates with increased rates of in vivo her-
+bicide metabolism and/or with full or partial
+reversal of resistance by P450 inhibitors (e.g.,
+1-aminobenzotriazole, piperonylbutoxide, tet-
+cyclasis, malathion). Further evidence of the
+importance of P450s in herbicide resistance
+evolution comes from studies conducted with
+herbicide-susceptible L. rigidum biotypes re-
+currently selected over three generations with
+a low dose of a P450-metabolizable herbi-
+cide (diclofop-methyl). At low dose suscepti-
+ble plants can P450 metabolize diclofop-methyl
+and thus the plants were treated at a dose caus-
+ing around 50% mortality. The survivors were
+grown for seed for the next generation, and the
+selection was repeated. In just three generations
+there was evolution of high-level, non-target-
+site resistance (110, 111; S. Manalil, R. Busi,
+M. Renton, S. Powles, manuscript in prepa-
+ration). Importantly, there was concomitant
+evolution of cross-resistance to other P450-
+metabolisable herbicides of different modes of
+action. Although all of these studies (Table 4)
+clearly imply P450 involvement, deﬁnitive ev-
+idence requires that the P450 genes specif-
+ically responsible for resistance be identiﬁed
+in P450-based resistant weed biotypes. In re-
+sistant L. rigidum and A. myosuroides, all that
+is currently known is that more than one
+P450 gene is involved (16, 86, 145; R. Busi,
+M. Vila-Aiub, S. Powles, unpublished data).
+Interestingly, evolved P450-based herbicide re-
+sistance in L. rigidum can be associated with a
+ﬁtness cost (171, 172).
+To date, biochemical studies to charac-
+terize P450-based herbicide resistance in
+evolved resistant weed species have yielded
+little information. Herbicide-degrading P450
+microsomes have not been successfully isolated
+from resistant L. rigidum or A. myosuroides
+(S. Powles, D. Werck-Reichhart, unpublished
+data) but have from resistant E. phyllopogon
+(198). Sixteen P450 genes were isolated from a
+resistant L. rigidum biotype, but no attribution
+to herbicide metabolism was established (48).
+Three full-length P450s were obtained from
+resistant L. rigidum biotypes, one of which
+(CYP71R4), when expressed in yeast, metabo-
+lized a PSII herbicide (169); the other two still
+require functional characterization (N. Dillon,
+C. Preston, S. Powles, unpublished data).
+A major research frontier and rich research
+opportunity is to identify the P450s conferring
+resistance in weeds. Over the coming decade we
+expect that much will be elucidated, notwith-
+standing formidable technical challenges. P450
+proteins can share as little as 16% amino acid
+identity, and there are more than 2000 plant
+P450 sequences in the P450 database (http://
+drnelson.utmen.edu/cytochromep450.html).
+One puzzling aspect is that, to date, P450-
+based evolved herbicide resistance has been
+reported mostly in grass weed species, with
+few reports in dicot species (Table 4). Apart
+from the fact that grass species have more
+P450 genes than dicots have, this may in
+part reﬂect the tendency of some research to
+examine only for target-site–based resistance.
+We emphasize that P450-based resistance is
+particularly alarming and threatening because
+resistance can occur across several herbicide
+modes of action and can extend to new her-
+bicide discoveries, if these herbicides can be
+metabolized by P450s.
+Glutathione S-Transferases and
+Evolved Herbicide Resistance
+Glutathione S-transferases (GSTs) (EC
+2.5.1.18) are families of multifunctional
+enzymes that catalyze the conjugation of
+glutathione to a variety of electrophilic, hy-
+drophobic substrates. GSTs have a particular
+role as a protective mechanism against oxidative
+stress by interacting with active oxygen species
+(38). GSTs are involved in stress response, and
+in some crop and weed species some herbicides
+can be detoxiﬁed by glutathione conjugation
+(see References 20, 44, 149 for reviews).
+Glutathione-conjugated herbicides can be
+www.annualreviews.org • Plants Resistant to Herbicides 333
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+sequestered in the vacuole (95) or exuded
+via root tips (156). Herbicide-metabolizing
+GSTs have been puriﬁed and characterized
+from several crops (see References 20, 197 for
+reviews). The resolution of the 3-D structure
+of plant GST (including herbicide-induced
+GST), molecular modeling, and mutagenesis
+studies provide an understanding of the molec-
+ular basis of GST-catalyzed herbicide binding
+and how single amino acid substitution(s)
+can improve GST catalytic efﬁciency and
+affect substrate speciﬁcity for herbicides and
+xenobiotics (7, 11, 39).
+Maize is very tolerant of triazine herbicides
+because of high activity of GSTs able to catalyze
+the conjugation of triazines to glutathione. It
+follows that widespread use of triazine herbi-
+cides could select for weeds with GSTs able
+to detoxify triazine herbicides. Indeed, evolved
+GST-mediated triazine herbicide resistance has
+been reported in Abutilon theophrasti (1, 56).
+Further studies revealed that increased GST
+(triazine) activity is due to higher catalytic ca-
+pacity, rather than enzyme overexpression or
+the presence of a novel GST (127). This in-
+dicates a possible mutation in the GST gene
+that can improve herbicide binding and there-
+fore GST catalytic efﬁciency. Atrazine resis-
+tance in this biotype is inherited as a single
+nuclear gene with partial dominance (2). In a
+resistant Echinochloa phyllopogon biotype it was
+demonstrated that fenoxaprop-p-methyl resis-
+tance can be due to glutathione-herbicide con-
+jugation (10), although GST activity was not
+determined in this study. Studies with multi-
+ple resistant A. myosuroides biotypes with en-
+hanced P450-catalyzed herbicide metabolism
+also reveal that they have higher GST activ-
+ity, although there is limited evidence of higher
+capacity for GST-catalyzed herbicide conjuga-
+tion (23, 24, 149). In these biotypes, it is possible
+that elevated GST activity has a secondary role
+in mitigating against oxidative stress. Thus, in
+conclusion, GST enzymes can play both a di-
+rect role (herbicide conjugation) and an indirect
+role (stress response) in evolved herbicide resis-
+tance. Given that herbicides select for all pos-
+sible resistance mechanisms, further research is
+required to establish the precise involvement of
+GSTs in evolved herbicide resistance.
+Resistance Endowed by Restricted
+Rates of Herbicide Translocation
+Resistance evolution to the AHAS herbicides is
+a dramatic example of independent evolution
+of many resistance endowing mutations (cur-
+rently 22 target-site mutations plus enhanced
+P450 metabolism). However, for some herbi-
+cides there are few options for resistance evo-
+lution. The chemistry and the modes of ac-
+tion of glyphosate and paraquat are such that
+neither herbicide can be sufﬁciently metabo-
+lized by plants (21, 46, 91, 162), and muta-
+tions of the target site are rare and limited for
+glyphosate (discussed above) and nonexistent
+for paraquat (see Reference 144 for a review).
+Therefore, evolution has found another way for
+plants to survive these herbicides, involving a
+restricted rate of herbicide movement (translo-
+cation) throughout the plant.
+Glyphosate resistance by restricted gly-
+phosate translocation. Upon entering plant
+leaves, glyphosate has considerable mobility
+via xylem and phloem (in general, glyphosate
+translocation follows photoassimilate translo-
+cation from source to sink). This is impor-
+tant as glyphosate translocation throughout the
+plant is necessary for its toxicity. Since ﬁrst
+reported in glyphosate-resistant Lolium (91),
+restricted glyphosate translocation throughout
+the plant and to the roots has been conﬁrmed
+in many resistant populations of Lolium and
+Conyza (e.g., 47, 176, 187; see References 133,
+136, 143, 158 for reviews). Several popula-
+tions of glyphosate-resistant Sorghum halepense
+also display restricted glyphosate translocation
+(M. Vila-Aiub, Q. Yu, S. Powles, unpublished
+data). Indeed, evolved glyphosate resistance due
+to restricted translocation throughout the plant
+is more common than EPSPS Pro-106 mu-
+tations (discussed above). Importantly, some
+Lolium populations have both an EPSPS Pro-
+106 target-site mutation and the restricted
+glyphosate translocation mechanism (143, 189),
+334 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+and this will surely occur in other species. The
+underlying biochemical mechanism conferring
+restricted glyphosate translocation throughout
+the plant remains to be identiﬁed. We specu-
+late that it could be a membrane transporter
+pumping glyphosate into vacuoles. All that is
+currently known is that the mechanism inher-
+its as a single, nuclear, semidominant gene (see
+Reference 133 for a review). Signiﬁcantly, in re-
+sistant Lolium biotypes the restricted glyphosate
+translocation mechanism has a ﬁtness cost (124,
+143; see Reference 173 for a review). There may
+be some other minor genes that contribute to
+non-target-site glyphosate resistance. There is
+evidence of reduced glyphosate leaf penetration
+in some resistant Lolium biotypes (105, 109) and
+one resistant S. halepense biotype (M. Vila-Aiub,
+Q. Yu, S. Powles, unpublished data).
+Paraquat resistance by restricted paraquat
+translocation. The bipyridyl herbicide
+paraquat has been in global use for over
+40 years. Paraquat rapidly enters leaves and
+then chloroplasts, where it disrupts photo-
+system I electron transport, reducing oxygen
+to damaging active oxygen states. Evolved
+paraquat resistance is evident in small areas in
+biotypes of 24 weed species (Figure 1) (67).
+The mechanisms for evolved paraquat resis-
+tance have been thoroughly reviewed (144).
+Enhanced activity of enzymes that detoxify
+reactive oxygen species has been proposed as a
+paraquat resistance mechanism (see Reference
+54 for a review). Many studies establish that
+restricted paraquat translocation is a resistance
+mechanism in biotypes of several weed species
+(see References 138, 144 for reviews; see also
+References 141, 161, 170, 188, 189). Impor-
+tantly, the restricted paraquat translocation
+mechanism works well at modest temperatures
+but fails at high temperatures (148).
+Paraquat resistance due to restricted translo-
+cation inherits as a single nuclear, semidom-
+inant gene in several species (see Reference
+144; see also Reference 193). While it is
+clear that evolved paraquat resistance in many
+species is due to restricted paraquat transloca-
+tion rates, neither the mechanism nor the site
+of paraquat sequestration is known. Potential
+sites for paraquat sequestration in plant leaves
+are the cell wall and the vacuole. No differen-
+tial paraquat cell wall binding has been detected
+(82, 137). Similarly, no difference was found in
+paraquat uptake across the leaf plasmalemma
+(130). However, there is some supportive ev-
+idence for the hypothesis of paraquat seques-
+tration into leaf vacuoles (74, 81, 106, 186; Q.
+Yu, S.B. Huang, and S. Powles, unpublished
+data). In bacteria, several multidrug transporter
+genes have been isolated that confer paraquat
+resistance by paraquat extrusion or sequestra-
+tion (e.g., 147, 186). Recently, two differen-
+tially expressed EST sequences were identiﬁed
+in paraquat-resistant C. canadensis. One EST
+is homologous to polyamine and amino acid
+transporters (putrescine transporter PotE from
+E. coli, cationic acid transporter CAT4 from A.
+thaliana) and the other is homologous to mul-
+tidrug resistance protein EmrE from E. coli and
+vacuolar H+-ATPase subunit C of DET3 from
+A. thaliana (74). Thus the current hypothesis is
+that a tonoplast membrane transporter is able
+to pump paraquat into vacuoles. It is hoped
+that this will soon be resolved at the biochemi-
+cal/genetic level.
+It must be emphasized that restricted
+glyphosate or paraquat translocation are inde-
+pendent mechanisms. Glyphosate and paraquat
+differ greatly in molecular structure, elec-
+tron charge, and mobility within plants, and
+glyphosate-resistant plants are not resistant to
+paraquat, or vice versa (91, 176, 188). However,
+both mechanisms can exist in the same plant
+(189).
+CONCLUSIONS AND
+FUTURE PROSPECTS
+Herbicide resistance in plants is a stark example
+of rapid evolution. The ﬁrst global wave of
+resistance evolution was widespread target-site
+triazine (PSII) herbicide resistance. Triazine
+herbicides are competitive inhibitors with
+the normal substrate and bind within the
+catalytic site (Figure 2). Globally, target-
+site resistance was found to be the result of a
+www.annualreviews.org • Plants Resistant to Herbicides 335
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+single mutation ( psbA Ser-264-Gly), which pre-
+vents triazine binding but also reduces substrate
+binding, thus conferring high-level resistance
+but at a substantial ﬁtness cost. Also, non-
+target-site PSII herbicide resistance due to
+P450 and/or GST-mediated metabolism has
+evolved. Greater diversity in resistance mech-
+anisms became evident in the next global wave
+of resistance, AHAS herbicide resistance. The
+AHAS gene can be easily mutated such that
+a remarkable 22 AHAS resistance-endowing
+gene mutations have occurred to date
+(Table 2). AHAS herbicides are not com-
+petitive inhibitors with the AHAS substrate
+and do not bind within the catalytic site, and
+several resistance mutations do not change
+AHAS functionality. Clearly, AHAS target-site
+resistance is very different from triazine resis-
+tance. Also, non-target-site resistance due to
+P450-mediated AHAS herbicide metabolism is
+a potent resistance mechanism. The next global
+wave of resistance was grass weed resistance
+to ACCase herbicides. In a situation interme-
+diate between triazine and AHAS herbicide
+resistance, eight different ACCase resistance-
+endowing amino acid substitutions have been
+identiﬁed (Table 3), with ﬁtness cost that
+ranged from negligible to substantial. ACCase
+herbicides bind on an herbicide binding do-
+main that is close to and overlaps the catalytic
+site. Thus, a number of resistance mutations
+are possible for target-site ACCase resistance,
+but not as many as with AHAS target-site
+resistance. Similarly, as many ACCase herbi-
+cides are subject to P450 degradation, much
+metabolism-based resistance has evolved.
+The current global wave of resistance is
+the evolution of resistance to glyphosate, the
+world’s most widely used and important herbi-
+cide. Glyphosate resistance evolution will be a
+major issue in the coming decade because of
+massive glyphosate selection in the large ar-
+eas devoted to transgenic glyphosate-resistant
+crops. To date, a non-target-site mechanism
+of restricted glyphosate translocation is most
+common. Target-site EPSPS gene resistance
+seems more difﬁcult to evolve as glyphosate
+binds within the EPSPS catalytic site, and
+there may be very few mutations that confer
+glyphosate resistance while retaining EPSPS
+functionality. However, target-site glyphosate
+resistance evolution due to substitutions at
+EPSPS Pro-106 is occurring, as well as EPSPS
+gene ampliﬁcation to endow glyphosate re-
+sistance. Thus, despite it being difﬁcult for
+plants to evolve glyphosate resistance, the huge
+glyphosate selection pressure being exerted
+globally has resulted to date in three differ-
+ent Pro-106 EPSPS gene mutations, together
+with EPSPS gene ampliﬁcation, and a reduced
+translocation resistance mechanism. Clearly,
+even with an herbicide for which resistance
+evolution is difﬁcult, if the selection pressure
+is widespread, persistent, and intense, then re-
+sistance mechanisms will evolve in large weed
+populations.
+The greatest challenge posed by herbicide-
+resistant weeds is the accumulation in indi-
+viduals of many resistance mechanisms, both
+target-site and non-target-site. This is evi-
+dent now for L. rigidum across large areas of
+Australia and for A. myosuroides in western
+Europe, and it is becoming prevalent in other
+prominent weed species in various parts of the
+world. L. rigidum or other weeds possessing
+multiple herbicide resistance, including non-
+target-site-enhanced P450 metabolism of many
+herbicides, are difﬁcult to control chemically.
+Although target-site gene mutations that en-
+dow herbicide resistance can be precisely iden-
+tiﬁed, our current understanding of non-target-
+site-based herbicide resistance is very limited.
+At the molecular level, little is known as to
+the P450 and/or GST genes/enzymes endow-
+ing enhanced metabolism-based herbicide re-
+sistance, or as to the molecular basis for re-
+duced translocation of glyphosate or paraquat.
+Thus, there are signiﬁcant research challenges
+and opportunities in unraveling non-target-
+site resistance mechanisms. Especially, as P450-
+mediated herbicide resistance and other non-
+target-site resistance mechanisms are becoming
+increasingly prominent and threatening, this is
+a current herbicide resistance research frontier.
+There has been insufﬁcient attention and
+appreciation of the role of herbicide dose
+336 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+in resistance evolution, and yet where herbi-
+cides are used at sublethal dose (some plants
+are affected but survive), there can be rapid
+resistance evolution (110, 111). High herbi-
+cide dose results in high mortality but se-
+lects for rare resistance genes capable of
+endowing high-level resistance. However, se-
+lection at lower herbicide dose (most plants
+killed but some survivors) selects for all possi-
+ble resistance-endowing genes, both weak and
+strong. Especially in cross-pollinated species
+this can allow the rapid accumulation of re-
+sistance genes. Considerable research attention
+to the role of herbicide dose (selection inten-
+sity) on resistance evolution is justiﬁed. Aside
+from an applied perspective there are likely
+to be fundamental discoveries made. Herbi-
+cides are powerful selective and environmen-
+tal stress agents, and an intriguing possibil-
+ity is whether herbicide stress could unleash
+in survivors epigenetic gene expression (heri-
+tably changed state of gene expression with-
+out change in DNA sequence). Indeed, early
+research demonstrated that a small number of
+triazine herbicide-susceptible Chenopodium al-
+bum individuals possessed but did not express
+the psbA gene Ser-264-Gly mutation (26). How-
+ever, after treatment with triazine herbicide
+at a dose enabling survivors, the next gener-
+ation was strongly triazine-resistant and ex-
+pressed the psbA gene Ser-264-Gly mutation
+(26). This puzzling result could be an epigenetic
+gene expression. Whether the stress induced by
+sublethal herbicide dose may unleash epige-
+netic gene expression is an area worthy of re-
+search investigation.
+Finally, we believe that unraveling the pre-
+cise details of the biochemical, genetic, and
+molecular means by which plants evolve her-
+bicide resistance will contribute to wiser use of
+precious herbicide resources, new innovations,
+and more sustainable strategies for pest weed
+management. Through this knowledge we be-
+lieve that there will be future chemical inno-
+vations such as P450 synergists to overcome
+metabolism-based resistance, judicious herbi-
+cide combinations, and conceptualization of
+new resistance-breaking herbicide structures to
+overcome target-site resistance. Similarly, this
+fundamental knowledge is essential in creat-
+ing realistic population genetics/management
+simulation models and practical control strate-
+gies to achieve sustainability through integrated
+and diverse weed control strategies that maxi-
+mize herbicide longevity. As there are no fore-
+seeable new technologies that can rival herbi-
+cides for weed management in world cropping,
+herbicide sustainability is an imperative that
+must be achieved to help guarantee world food
+supply. Thus, the major challenge to herbi-
+cide sustainability posed by the global evolution
+of herbicide-resistant weeds demands consider-
+able ongoing public and private sector multidis-
+ciplinary research focus.
+SUMMARY POINTS
+1. The rapid evolution of herbicide-resistant weeds threatens the sustainability of excellent
+herbicide technology essential in world food production.
+2. Herbicide resistance evolves due to mutated target-site genes, and/or non-target-
+site genes, and individuals can accumulate many resistance genes, especially in cross-
+pollinated species.
+3. While the molecular basis of target-site resistance can be precisely determined, non-
+target-site resistance is becoming increasingly prevalent and threatening, but the molec-
+ular genetic basis remains largely unknown. Thus, there are signiﬁcant research chal-
+lenges and opportunities in unraveling non-target-site resistance mechanisms, especially
+the role of cytochrome P450 enzymes and membrane transporters.
+www.annualreviews.org • Plants Resistant to Herbicides 337
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+4. Much remains to be discovered on the genetics of herbicide resistance evolution, and
+there is the possibility that herbicide stress unleashes epigenetic resistance gene expres-
+sion in plants.
+5. Fundamental understanding of the molecular mechanisms endowing evolved herbicide
+resistance will enable innovations that, together with integrated control strategies, will
+help minimize and manage resistance evolution.
+DISCLOSURE STATEMENT
+The authors are not aware of any afﬁliations, memberships, funding, or ﬁnancial holdings that
+might be perceived as affecting the objectivity of this review.
+ACKNOWLEDGMENTS
+We particularly thank Drs. D. Goggin and C. D´elye as well as Drs. F. Tardif, D. Shaner, C. Gauvrit,
+J. Gasquez, and other colleagues for helpful comments on the manuscript. We apologize to those
+colleagues whose resistance research area and work could not be cited due to space limitation. Our
+research is supported by the Grains Research and Development Corporation and the Australian
+Research Council. Having written this review during a sabbatical period, S. Powles thanks the
+OECD and Australian Academy of Science for support and Dr. Xavier Reboud and colleagues at
+INRA, Dijon, France for hospitality and infrastructure support.
+LITERATURE CITED
+1. Anderson MP, Gronwald JW. 1991. Atrazine resistance in a velvetleaf (Abutilon-theophrasti) biotype due
+to enhanced glutathione-S-transferase activity. Plant Physiol. 96:104–9
+2. Anderson RN, Gronwald JW. 1987. Noncytoplasmic inheritance of atrazine tolerance in velvetleaf
+(Abutilon-theophrasti). Weed Sci. 35:496–98
+3. Anthony RG, Hussey PJ. 1999. Dinitroaniline herbicide resistance and the microtubule cytoskeleton.
+Trends Plant Sci. 4:112–16
+4. Anthony RG, Waldin TR, Ray JA, Bright SWJ, Hussey PJ. 1998. Herbicide resistance caused by spon-
+taneous mutation of the cytoskeletal protein tubulin. Nature 393:260–63
+5. Arntzen CJ, Pﬁster K, Steinback KE. 1982. The mechanism of chloroplast triazine resistance: Alterations
+in the site of herbicide action. In Herbicide Resistance in Plants, ed. HM LeBaron, J Gressel, pp. 185–214.
+New York: Wiley
+6. Ashigh J, Tardif FJ. 2007. An Ala205Val substitution in acetohydroxyacid synthase of eastern black night-
+shade (Solanum ptychanthum) reduces sensitivity to herbicides and feedback inhibition. Weed Sci. 55:558–
+65
+7. Axarli I, Dhavala P, Papageorgiou AC, Labrou NE. 2009. Crystallographic and functional characteriza-
+tion of the ﬂuorodifen-inducible glutathione transferase from Glycine max reveals an active site topogra-
+phy suited for diphenylether herbicides and a novel L-site. J. Mol. Biol. 385:984–1002
+8. Baerson SR, Rodrigues DJ, Biest NA, Tran M, You J, et al. 2002. Investigating the mechanism of
+glyphosate resistance in rigid ryegrass (Lolium rigidum). Weed Sci. 50:721–30
+9. Baerson SR, Rodriguez DJ, Tran M, Feng Y, Biest NA, Dill GM. 2002. Glyphosate-resistant goosegrass.
+Identiﬁcation of a mutation in the target enzyme 5-enolpyruvylshikemate-3-phosphate synthase. Plant
+Physiol. 129:1265–75
+10. Bakkali Y, Ruiz-Santaella JP, Osuna MD, Wagner J, Fischer AJ, Prado RD. 2007. Late watergrass
+(Echinochloa phyllopogon): mechanisms involved in the resistance to fenoxaprop-p-ethyl. J. Agric. Food
+Chem. 55:4052–58
+338 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+11. Basantani M, Srivastava A. 2007. Plant glutathione transferases—a decade falls short. Can. J. Bot. Rev.
+Can. Bot. 85:443–56
+12. Blume YB, Nyporko AY, Yemets AI, Baird WV. 2003. Structural modeling of the interaction of plant
+alpha-tubulin with dinitroaniline and phosphoroamidate herbicides. Cell Biol. Int. 27:171–74
+13. Boutsalis PJ, Karotam J, Powles SB. 1999. Molecular basis of resistance to acetolactate synthase-inhibiting
+herbicides in Sisymbrium orientale and Brassica tournefortii. Pestic. Sci. 55:507–516
+14. Broster JC, Pratley JE. 2006. A decade of monitoring herbicide resistance in Lolium rigidum in Australia.
+Aust. J. Exp. Agric. 46:1151–60
+15. Caseley JC, Cussans GW, Atkin RK, eds. 1991. Herbicide Resistance in Weeds and Crops. Oxford/Boston:
+Butterworth-Heinemann
+16. Chauvel B, Gasquez J. 1994. Relationships between genetic-polymorphism and herbicide resistance
+within Alopecurus-myosuroides Huds. Heredity 72:336–44
+17. Christoffers MJ, Pederson SN. 2007. Response of wild oat (Avena fatua) acetyl-coA carboxylase mutants
+to pinoxaden. Weed Sci. Soc. Am. Abstr. No. 256
+18. Christoffers MJ. 1999. Genetic aspects of herbicide-resistant weed management. Weed Technol. 13:647–52
+19. Cocker KM, Northcroft DS, Coleman JOD, Moss SR. 2001. Resistance to ACCase-inhibiting herbicides
+and isoproturon in UK populations of Lolium multiﬂorum: mechanisms of resistance and implications for
+control. Pest Manag. Sci. 57:587–97
+20. Cole DJ, Cummins I, Hatton PJ, Dixon D, Edwards R. 1997. Glutathione transferases in crops and major
+weeds. In Regulation of Enzymatic Systems Detoxifying Xenobiotics in Plants, ed. KK Hatzios, pp. 139–54.
+Dordrecht/Boston/London: Kluwer
+21. Coupland D. 1985. Metabolism of glyphosate in plants. In The Herbicide Glyphosate, ed. E Grossbard, D
+Atkinson, pp. 25–34. London/Boston: Butterworths
+22. Coupland D. 1994. Resistance to the auxin analog herbicides. See Ref. 131, pp. 171–21423
+23. Cummins I, Cole DJ, Edwards R. 1997. Puriﬁcation of multiple glutathione transferases involved in
+herbicide detoxiﬁcation from wheat (Triticum aestivum L.) treated with the safener fenchlorazole-ethyl.
+Pestic. Biochem. Physiol. 59:35–49
+24. Cummins I, Cole DJ, Edwards R. 1999. A role for glutathione transferases functioning as glutathione
+peroxidases in resistance to multiple herbicides in black-grass. Plant J. 18:285–92
+25. Darmency H. 1994. Genetics of herbicide resistance in crops and weeds. See Ref. 131, pp. 263–98
+26. Darmency H, Gasquez J. 1990. Fate of herbicide resistance genes in weeds. In Managing Resistance to
+Agrochemicals, ed. MB Green, WK Moberg, HM LeBaron, pp. 354–63. American Chemical Society
+Press
+27. Deleted in proof.
+28. D´elye C, Mat´ejicek A, Michel S. 2008. Cross-resistance pattern to ACCase-inhibiting herbicide con-
+ferred by mutant ACCase isoforms in Alopecurus myosuroides Huds. (black-grass) re-examined at the
+recommended herbicide ﬁeld rate. Pest Manag. Sci. 64:1179–1186
+29. D´elye C, Menchari Y, Guillemin JP, Mat´ejicek A, Michel S et al. 2007. Status of black grass (Alopecurus
+myosuroides) resistance to acetyl-coenzyme A carboxylase inhibitors in France. Weed Res. 47:95–10
+30. D´elye C, Menchari Y, Michel S, Darmency H. 2004. Molecular bases for sensitivity to tubulin-binding
+herbicides in green foxtail. Plant Physiol. 136:3920–32
+31. D´elye C, Michel S. 2005. Universal primers for PCR-sequencing of grass chloroplastic acetyl-CoA
+carboxylase domains involved in resistance to herbicides. Weed Res. 45:323–30
+32. D´elye C, Wang TY, Darmency H. 2002. An isoleucine-leucine substitution in chloroplastic acetyl-CoA
+carboxylase from green foxtail (Setaria viridis L. Beauv.) is responsible for resistance to the cyclohexane-
+dione herbicide sethoxydim. Planta 214:421–27
+33. D´elye C, Zhang XQ, Michel S, Mat´ejicek A, Powles SB. 2005. Molecular bases for sensitivity to acetyl-
+coenzyme A carboxylase inhibitors in black-grass. Plant Physiol. 137:794–806
+34. D´elye C. 2005. Weed resistance to acetyl coenzyme A carboxylase inhibitors: an update. Weed Sci. 53:728–
+46
+35. DePrado R, Jorrin J, Garcia-Torres L, eds. 1997. Weed and Crop Resistance to Herbicides. Dordrecht/
+Boston/London: Kluwer
+www.annualreviews.org • Plants Resistant to Herbicides 339
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+36. Devine MD, Shimabukuro RH. 1994. Resistance to acetylcoenzyme A carboxylase inhibiting herbicides.
+See Ref. 131, pp. 141–69
+37. Dinelli G, Marotti I, Catizone P, Bonetti A, Urbano JM, Barnes J. 2008. Physiological and molecular
+basis of glyphosate resistance in C. bonariensis (L.) Cronq. biotypes from Spain. Weed Res. 48:257–65
+38. Dixon DP, Cummins I, Cole DJ, Edwards R. 1998. Glutathione-mediated detoxiﬁcation systems in
+plants. Curr. Opin. Plant Biol. 1:258–66
+39. Dixon DP, McEwen AG, Lapthorn AJ, Edwards R. 2003. Forced evolution of a herbicide detoxifying
+glutathione transferase. J. Biol. Chem. 278:23930–35
+40. Duggleby RG, McCourt JA, Guddat LW. 2008. Structure and mechanism of inhibition of plant aceto-
+hydroxyacid synthase. Plant Physiol. Biochem. 46:309–324
+41. Dyer WE. 1994. Resistance to glyphosate. See Ref. 131, pp. 229–42
+42. Eberlein CV, Guttieri MJ, Berger PH, Fellman JK, Mallory-Smith CA, et al. 1999. Physiological con-
+sequence of mutation for ALS-inhibitor resistance. Weed Sci. 47:383–92
+43. Eberlein CV, Guttieri MJ, Mallory-Smith CA, Thill DC, Baerg RJ. 1997. Altered acetolactate synthase
+activity in ALS-inhibitor resistant prickly lettuce (Lactuca serriola). Weed Sci. 45:212–17
+44. Edwards R, Dixon DP. 2000. The role of glutathione transferases in herbicide metabolism. In Herbi-
+cides and Their Mechanisms of Action, ed. AH Cobb, RC Kirkwood, pp. 33–71. Shefﬁeld, UK: Shefﬁeld
+Academic
+45. Eschenburg S, Healy ML, Priestman MA, Lushington GH, Sch ¨onburnn E. 2002. How the mutation
+glycine96 to alanine confers glyphosate insensitivity to 5-enolpyruvyl shikimate-3-phosphate synthase
+from Escherichia coli. Planta 216:129–35
+46. Feng PCC, Pratley JE, Bohn JA. 1999. Resistance to glyphosate in Lolium rigidum. II. Uptake, translo-
+cation, and metabolism. Weed Sci. 47:412–15
+47. Feng PCC, Tran M, Sammons RD, Heck GR, Cajacop CA. 2004. Investigations into glyphosate-resistant
+horseweed (Conyza canadensis): retention, uptake, translocation, and metabolism. Weed Sci. 52:498–505
+48. Fischer TC, Klattig JT, Gierl A. 2001. A general cloning strategy for divergent plant cytochrome P450
+genes and its application in Lolium rigidum and Ocimum basilicum. Theor. Appl. Genet. 103:1014–21
+49. Fuerst EP, Norman MA. 1991. Interactions of herbicides with photosynthetic electron transport. Weed
+Sci. 39:458–64
+50. Funke T, Yang Y, Han H, Healy-Fried M, Olesen S, et al. 2009. Structural basis of glyphosate resistance
+resulting from the double mutation Thr197 → Ile and Pro101 → Ser in 5-enolpyruvylshikimate-3-
+phosphate synthase from Escherichia coli. J. Biol. Chem. 284:9854–60
+51. Gaines TA, Preston C, Leach JE, Chisholm ST, Shaner DL, et al. 2010. Gene ampliﬁcation is a mech-
+anism for glyphosate resistance evolution. Proc. Natl. Acad. Sci. USA 107:1029–34
+52. Gasquez J. 1997. Genetics of herbicide resistance within weeds: factors of evolution, inheritance and
+ﬁtness. See Ref. 35, pp. 181–89
+53. Goloubinoff P, Edelman M, Hallick RB. 1984. Chloroplast-encoded atrazine resistance in Solanum
+nigrum: psbA loci from susceptible and resistant biotypes are isogenic except for a single codon change.
+Nucleic Acids Res. 12:9489–96
+54. Gressel J. 2002. Molecular Weed Biology. London/New York: Taylor & Francis
+55. Gressel J, Levy A. 2006. Agriculture: the selector of improbable mutations. Proc. Natl. Acad. Sci. USA
+103:12215–16
+56. Gronwald JW, Andersen RN, Yee C. 1989. Atrazine resistance in velvetleaf (Abutilon theophrasti) due to
+enhanced atrazine detoxiﬁcation. Pestic. Biochem. Physiol. 34:149–63
+57. Gronwald JW. 1994. Resistance to photosystem II inhibiting herbicides. See Ref. 131, pp. 27–60
+58. Grossmann K. 2007. Auxin herbicide action: Lifting the veil step by step. Plant Signal. Behav. 2:421–23
+59. Guttieri MJ, Eberlein CV, Mallory-Smith CA, Thill DC, Hoffman DL. 1992. DNA sequence variation
+in Domain A of the acetolactate synthase genes of herbicide-resistant and -susceptible weed biotypes.
+Weed Sci. 40:670–76
+60. Hall LM, Holtum JAM, Powles SB. 1994. Mechanisms responsible for cross resistance and multiple
+resistance. See Ref. 131, pp. 243–61
+61. Hall LM, Moss SR, Powles SB. 1995. Mechanism of resistance to chlortoluron in two biotypes of the
+grass weed Alopecurus myosuroides. Pestic. Biochem. Physiol. 53:180–92
+340 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+62. Hall LM, Moss SR, Powles SB. 1997. Mechanisms of resistance to aryloxyphenoxypropionate herbi-
+cides in two biotypes of Alopecurus myosuroides (black grass): herbicide metabolism as a cross resistance
+mechanism. Pestic. Biochem. Physiol. 57:87–98
+63. Hayashi K, Tan X, Zheng N, Hatate T, Kimura Y, et al. 2008. Small-molecule agonists and antagonists
+of F-box protein-substrate interactions in auxin perception and signaling. Proc. Natl. Acad. Sci. USA
+105:5632–37
+64. Healy-Fried ML, Funke T, Priestman MA, Han H, Sch ¨onburnn E. 2007. Structural basis of glyphosate
+tolerance resulting from mutations of Pro101 in E. coli EPSP synthase. J. Biol. Chem. 282:32949–55
+65. Heap I, Knight R. 1982. A population of ryegrass tolerant to the herbicide diclofop-methyl. J. Aust. Inst.
+Agric. Sci. 48:156–57
+66. Heap I, Knight R. 1986. The occurrence of herbicide cross-resistance in a population of annual ryegrass,
+Lolium-rigidum, resistant to diclofop-methyl. Aust. J. Agri. Res. 37:149–56
+67. Heap IM. 2009. International survey of herbicide-resistant weeds. http://www.weedscience.org
+68. Hirschberg J, McIntosh L. 1983. Molecular basis of herbicide resistance in Amaranthus hybridus. Science
+222:1346–49
+69. Hochberg O, Sibony M, Rubin B. 2009. The response of ACCase-resistant Phalaris paradoxa populations
+involves two different target site mutations. Weed Res. 49:37–46
+70. Holt JS, Thill DC. 1994. Growth and productivity of resistant plants. See Ref. 131, pp. 299–316
+71. Imaizumi T, Wang GX, Ohsako T, Tominaga T. 2008. Genetic diversity of sulfonylurea-resistant and
+-susceptible Monochoria vaginalis populations in Japan. Weed Res. 48:187–96
+72. Jasieniuk M, Br ˆul´e-Babel AL, Morrison IN. 1994. Inheritance of triﬂuralin resistance in green foxtail
+(Setaria-viridis). Weed Sci. 42:123–27
+73. Jasieniuk MJ, Brule-Babel AL, Morrison IN. 1996. The evolution and genetics of herbicide resistance
+in plants. Weed Sci. 44:176–93
+74. J ´ori B, So ´os V, Szego D, P´aldi E, Szigeti Z, et al. 2007. Role of transporters in paraquat resistance of
+horseweed Conyza canadensis (L) Cronq. Pestic. Biochem. Physiol. 88:57–65
+75. Kaundun SS. 2010. An aspartate to glycine change in the carboxyl transferase domain of acetyl CoA
+carboxylase is in part associated with resistance to ACCase inhibitor herbicides in a Lolium multiﬂorum
+population. Planta. In press
+76. Kaundun SS, Zelaya IA, Dale RP, Lycett AJ, Carter P, et al. 2008. Importance of the P106S target-site
+mutation in conferring resistance to glyphosate in a goosegrass (Eleusine indica) population from the
+Philippines. Weed Sci. 56:637–46
+77. Koch M, Breithaupt C, Kiefersauer R, Freigang J, Huber R, Messerschmidt A. 2004. Crystal structure of
+protoporphyrinogen IX oxidase: a key enzyme in haem and chlorophyll biosynthesis. EMBO J. 23:1720–
+28
+78. Kreuz K, Tommasini R, Martinoia E. 1996. Old enzymes for a new job. Herbicide detoxiﬁcation in
+plants. Plant Physiol. 111:349–53
+79. Lancaster CRD, Michel H. 1999. Reﬁned crystal structures of reaction centres from Rhodopseudomonas
+viridis in complexes with the herbicide atrazine and two chiral atrazine derivatives also lead to a new
+model of the bound carotenoid. J. Mol. Biol. 286:883–98
+80. Laplante J, Rajcan I, Tardif FJ. 2009. Multiple allelic forms of acetohydroxyacid synthase are responsible
+for herbicide resistance in Setaria viridis. Theor. Appl. Genet. 119:577–86
+81. Lasat MM, DiTomaso JM, Hart JJ, Kochian LV. 1997. Evidence for vacuolar sequestration of paraquat
+in roots of a paraquat-resistant Hordeum glaucum biotype. Physiol. Plant. 99:255–62
+82. Lasat MM, DiTomaso JM, Hart JJ, Kochian LV. 1996. Resistance to paraquat in Hordeum glaucum is
+temperature dependent and not associated with enhanced apoplasmic binding. Weed Res. 36:303–9
+83. LeBaron HM, Gressel J, eds. 1982. Herbicide Resistance in Plants. New York: Wiley
+84. Lee LJ, Ngim J. 2000. A ﬁrst report of glyphosate-resistant goosegrass (Eleusine indica (L) Gaertn) in
+Malaysia. Pest Manag. Sci. 56:336–39
+85. Lee RM, Hager AG, Tranel PJ. 2008. Prevalence of a novel resistance mechanism to PPO-inhibiting
+herbicides in waterhemp (Amaranthus tuberculatus). Weed Sci. 56:371–75
+86. Letouz´e A, Gasquez J. 2001. Inheritance of fenoxaprop-P-ethyl resistance in a blackgrass (Alopecurus
+myosuroides Huds.) population. Theor. Appl. Genet. 103:288–96
+www.annualreviews.org • Plants Resistant to Herbicides 341
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+87. Letouz´e A, Gasquez J. 2003. Enhanced activity of several herbicide-degrading enzymes: a suggested
+mechanism responsible for multiple resistance in blackgrass (Alopecurus myosurides Hud.) Agronomie
+23:601–8
+88. Li X, Schuler MA, Berenbaum MR. 2007. Molecular mechanisms of metabolic resistance to synthetic
+and natural xenobiotics. Annu. Rev. Entomol. 52:231–53
+89. Liu WJ, Harrison DK, Chalupska D, Gornicki P, O’Donnell CC, et al. 2007. Single-site mutations
+in the carboxyltransferase domain of plastid acetyl-CoA carboxylase confer resistance to grass-speciﬁc
+herbicides. Proc. Natl. Acad. Sci. USA 104:3627–32
+90. Llewellyn RS, Powles SB. 2001. High levels of herbicide resistance in rigid ryegrass (Lolium rigidum)in
+the wheat belt of Western Australia. Weed Technol. 15:242–48
+91. Lorraine-Colwill DF, Powles SB, Hawkes TR, Hollinshead PH, Warner SAJ, Preston C. 2003. Investi-
+gation into the mechanism of glyphosate resistance in Lolium rigidum. Pestic. Biochem. Physiol. 74:62–72
+92. Mallory-Smith CA, Thill DC, Dial MJ. 1990. Identiﬁcation of sulfonylurea herbicide-resistant prickly
+lettuce (Lactuca serriola). Weed Technol. 4:163–68
+93. Deleted in proof
+94. Manley BS, Hatzios KH, Wilson HP. 1999. Absorption, translocation and metabolism of chlorimuron
+and nicosulfuron in imidazolinone-resistant and susceptible smooth pigweed (Amaranthus hybridus). Weed
+Technol. 13:759–64
+95. Martinoia E, Grill E, Tommasini R, Kreuz K, Amrhein N. 1993. ATP-dependent glutathione S-conjugate
+export pump in the vacuolar membrane of plants. Nature 364:247–49
+96. Masabni JG, Zandstra BH, 1999. A serine-to-threonine mutation in linuron-resistant Portulaca oleracea.
+Weed Sci. 47:393–400
+97. McCourt JA, Duggleby RG. 2006. Acetohydroxyacid synthase and its role in the biosynthetic pathway
+for branched-chain amino acids. Amino Acids 31:173–210
+98. McCourt JA, Pang SS, Guddat LW, Duggleby RG. 2005. Elucidating the speciﬁcity of binding of
+sulfonylurea herbicide to acetohydroxyacid synthase. Biochemistry 44:2330–38
+99. McCourt JA, Pang SS, King-Scott J, Guddat LW, Duggleby RG. 2006. Herbicide-binding sites revealed
+in the structure of plant acetohydroxyacid synthase. Proc. Natl. Acad. Sci. USA 103:569–73
+100. Mechant E, De Marez T, Hermann O, Olsson R, Bulcke R. 2008. Target site resistance to metamitron
+in Chenopodium album L. J. Plant Dis. Prot. Spec. 21:37–40
+101. Menchari Y, Chauvel B, Darmency H, D´elye C. 2008. Fitness costs associated with three mutant acetyl-
+coenzyme A carboxylase alleles endowing herbicide resistance in black-grass Alopecurus myosuroides.
+J. Appl. Ecol. 45:939–47
+102. Mengistu LW, Christoffers MJ, Lym RG, 2005. A psbA mutation in Kochia scoparia (L) Schrad from
+railroad rights-of-way with resistance to diuron, tebuthiuron and metribuzin. Pest Manag. Sci. 61:1035–
+42
+103. Mengistu LW, Mueller-Warrant GW, Liston A, Barker RE. 2000. psbA mutation (valine219 to isoleucine)
+in Poa annua resistant to metribuzin and diuron. Pest Manag. Sci. 56:209–17
+104. Michel H, Deisenhofer J. 1988. Relevance of the photosynthetic reaction center from purple bacteria to
+the structure of photosystem two. Biochemistry 27:1–7
+105. Michitte P, De Prado R, Espinoza N, Ruiz-Santaella JP, Gauvrit C. 2007. Mechanisms of resistance to
+glyphosate in a ryegrass (Lolium multiﬂorum) biotype from Chile. Weed Sci. 55:435–40
+106. Mornet C, Mondory C, Gaillard C, Martinoia E. 1997. Transport of paraquat and polyamines across the
+vacuolar membranes of barley mesophyll cells. Plant Physiol. Biochem. 35:181–91
+107. Moss SR, Cussans GW. 1985. Variability in the susceptibility of Alopecurus myosuroides (black-grass) to
+chlortoluron and isoproturon. Aspects Appl. Biol. 9:91–98
+108. Moss SR, Perryman SAM, Tatnell LV. 2007. Managing herbicide-resistant blackgrass (Alopecurus
+myosuroides): theory and practice. Weed Technol. 21:300–9
+109. Nandula VK, Reddy KN, Poston DH, Rimando AM, Duke SO. 2008. Glyphosate tolerance mechanism
+in Italian ryegrass (Lolium multiﬂorum) from Mississippi. Weed Sci. 56:344–49
+110. Neve P, Powles SB. 2005. Recurrent selection with reduced herbicide rates results in the rapid evolution
+of herbicide resistance in Lolium rigidum. Theor. Appl. Genet. 110:1154–66
+342 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+111. Neve P, Powles SB. 2005. High survival frequencies at low herbicide use rates in populations of Lolium
+rigidum result in rapid evolution of herbicide resistance. Heredity 95:485–92
+112. Ng CH, Wickneswari R, Salmijah S, Teng YT, Ismail BS. 2003. Gene polymorphisms in glyphosate-
+resistant and -susceptible biotypes of Eleusine indica from Malaysia. Weed Res. 43:108–115
+113. Oettmeier W. 1999. Herbicide resistance and supersensitivity in photosystem II. Cell Mol. Life Sci.
+55:1255–77
+114. Owen M, Walsh M, Llewellyn R, Powles SB. 2007. Widespread occurrence of multiple herbicide resis-
+tance in Western Australian annual ryegrass (Lolium rigidum) populations. Aust. J. Agric. Res. 58:711–18
+115. Owen MJ, Powles SB. 2009. Distribution and frequency of herbicide-resistant wild oat (Avena spp.)
+across the Western Australian grain belt. Crop Pasture Sci. 60:25–31
+116. Padgette SR, Re DB, Gasser CS, Eichholtz DA, Frazier RB, et al. 1991. Site-directed mutagenesis
+of a conserved region of the 5-enolpyruvylshikimate-3-phosphate synthase active site. J. Biol. Chem.
+266:22364–69
+117. Pang SS, Duggleby RG, Guddat LW. 2002. Crystal structure of yeast acetohydroxyacid synthase: a target
+for herbicide inhibitors. J. Mol. Biol. 317:249–62
+118. Pang SS, Guddat LW, Duggleby RG. 2003. Molecular basis of sulfonylurea herbicide inhibition of
+acetohydroxyacid synthase. J. Biol. Chem. 278:7639–44
+119. Park KW, Fandrich L, Mallory-Smith CA. 2004. Absorption, translocation, and metabolism of
+propoxycarbazone-sodium in ALS-inhibitor resistant Bromus tectorum biotypes. Pestic. Biochem. Physiol.
+79:18–24
+120. Park KW, Mallory-Smith CA. 2006. psbA mutation (Asn266 to Thr) in Senecio vulgaris L. confers resistance
+to several PS II-inhibiting herbicides. Pest Manag. Sci. 62:880–85
+121. Parker WB, Somers DA, Wyse DL, Keith RA, Burton JD, et al. 1990. Selection and characterization of
+sethoxydim-tolerant maize tissue cultures. Plant Physiol. 92:1220–25
+122. Patzoldt WL, Hager AG, McCormick JS, Tranel PJ. 2006. A codon deletion confers resistance to
+herbicides inhibiting protoporphyrinogen oxidase. Proc. Natl. Acad. Sci. USA 103:12329–34
+123. Patzoldt WL, Tranel PJ. 2007. Multiple ALS mutations confer herbicide resistance in waterhemp (Ama-
+ranthus tuberculatus). Weed Sci. 55:421–28
+124. Pedersen BP, Neve P, Andreasen C, Powles SB. 2007. Ecological ﬁtness of a glyphosate-resistant Lolium
+rigidum population: growth and seed production along a competition gradient. Basic Appl. Ecol. 8:258–68
+125. Perez-Jones A, Intanon S, Mallory-Smith C. 2009. psbA mutation (Phe 255 to Ile) in Capsella bursa-pastoris
+confers resistance to triazinone herbicides. Weed Sci. 57:574–78
+126. Petit C, Bay G, Pernin F, D´elye C. 2010. Prevalence of cross or multiple resistance to the acetyl-
+coenzyme A carboxylase inhibitors fenoxaprop, clodinafop and pinoxaden in black-grass (Alopecurus
+myosuroides Huds.) in France. Pest Manag. Sci. 66(2):168–77
+127. Plaisance KL, Gronwald JW. 1999. Enhanced catalytic constant for glutathione S-transferase (atrazine)
+activity in an atrazine-resistant Abutilon theophrasti biotype. Pestic. Biochem. Physiol. 63:34–49
+128. Powles SB. 2003. My view: Will glyphosate continue to aid world food production? Weed Sci. 51:471
+129. Powles SB. 2008. Evolved glyphosate-resistant weeds around the world: lessons to be learnt. Pest Manag.
+Sci. 64:360–65
+130. Powles SB, Cornic G. 1987. Mechanism of paraquat resistance in Hordeum glaucum. I. Studies with
+isolated organelles and enzymes. Aust. J. Plant Physiol. 14:81–89
+131. Powles SB, Holtum JAM, eds. 1994. Herbicide Resistance in Plants: Biology and Biochemistry. Boca Raton/Ann
+Arbor/London/Tokyo: Lewis Publ.
+132. Powles SB, Lorraine-Colwill DF, Dellow JJ, Preston C. 1998. Evolved resistance to glyphosate in rigid
+ryegrass (Lolium rigidum) in Australia. Weed Sci. 46:604–7
+133. Powles SB, Preston C. 2006. Evolved glyphosate resistance in plants: biochemical and genetic basis of
+resistance. Weed Technol. 20:282–89
+134. Powles SB, Shaner DL, eds. 2001. Herbicide Resistance and World Grains. Boca Raton/London/New
+York/Washington, DC: CRC Press
+135. Pratley J, Urwin N, Stanton R, Baines P, Broster J, et al. 1999. Resistance to glyphosate in Lolium rigidum.
+I. Bioevaluation. Weed Sci. 47:405–411
+www.annualreviews.org • Plants Resistant to Herbicides 343
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+136. Preston C, Wakelin AM. 2008. Resistance to glyphosate from altered herbicide translocation patterns.
+Pest Manag. Sci. 64:372–76
+137. Preston C, Balachandran S, Powles SB. 1994. Investigation of mechanisms of resistance to bipyridyl
+herbicides in Arctotheca calendula (L) Levyns. Plant Cell Environ. 17:1113–23
+138. Preston C, Mallory-Smith CA. 2001. Biochemical mechanisms, inheritance, and molecular genetics of
+herbicide resistance in weeds. See Ref. 134, pp. 24–49
+139. Preston C, Powles SB. 2002. Evolution of herbicide resistance in weeds: initial frequency of target
+site-based resistance to acetolactate synthase-inhibiting herbicides in Lolium rigidum. Heredity 88:8–13
+140. Preston C, Powles SB. 2002. Mechanisms of multiple herbicide resistance in Lolium rigidum.InAgro-
+chemical Resistance: Extent, Mechanism & Detection, ed. JM Clark, I Yamaguchi, pp. 150–60. New York:
+Oxford Univ. Press
+141. Preston C, Soar CJ, Hidayat I, Greenﬁeld KM, Powles SB. 2005. Differential translocation of paraquat
+in paraquat-resistant population of Hordeum leporinum. Weed Res. 45:289–95
+142. Preston C, Stone LM, Rieger MA, Baker J. 2006. Multiple effects of a naturally occurring proline to
+threonine substitution within acetolactate synthase in two herbicide-resistant populations of Lactuca
+serriola. Pestic. Biochem. Physiol. 84:227–35
+143. Preston C, Wakelin AM, Dolman FC, Botamam Y, Boutsalis P. 2009. A decade of glyphosate-resistant
+Lolium around the world: mechanisms, genes, ﬁtness and agronomic management. Weed Sci. 57:435–41
+144. Preston C. 1994. Resistance to photosystem I disrupting herbicide. See Ref. 131, pp. 61–82
+145. Preston C. 2003. Inheritance and linkage of metabolism-based herbicide cross-resistance in rigid ryegrass
+(Lolium rigidum). Weed Sci. 51:4–12
+146. Preston C. 2004. Herbicide resistance in weeds endowed by enhanced detoxiﬁcation: complication for
+management. Weed Sci. 52:448–53
+147. Prosecka J, Orlov AV, Fantin YS, Zinchenko VV, Babykin MM, Tichy M. 2009. A novel ATP-binding
+cassette transporter is reponsible for resistance to viologen herbicides in the cyanobacterium Synechocystis
+sp. PCC 6803. FEBS J. 276:4001–11
+148. Purba E, Preston C, Powles SB. 1995. The mechanism of resistance to paraquat is strongly temperature
+dependent in resistant Hordeum leporinum Link and H. glaucum Steud. Planta 196:464–68
+149. Reade JPH, Milner LJ, Cobb AH. 2004. A role for glutathione S-transferases in resistance to herbicides
+in grasses. Weed Sci. 52:468–74
+150. Reboud X, Majerus N, Gasquez J, Powles SB. 2007. Chlamydomonas reinhardtii as a model system for
+proactive herbicide resistance evolution research. Biol. J. Linnean Soc. 91:257–66
+151. Ryan GF. 1970. Resistance of common groundsel to simazine and atrazine. Weed Sci. 18:614–16
+152. Saari LL, Cotterman JC, Primiani MM. 1990. Mechanism of sulfonylurea herbicide resistance in the
+broadleaf weed, Kochia scoparia. Plant Physiol. 93:55–61
+153. Saari LL, Cotterman JC, Thill DC. 1994. Resistance to acetolactate synthase inhibiting herbicide. See
+Ref. 131, pp. 83–139
+154. Sales MA, Shivrain VK, Burgos NR, Kuk YI. 2008. Amino acid substitutions in the acetolactate synthase
+gene of red rice (Oryza sativa) confer resistance to imazethapyr. Weed Sci. 56:484–89
+155. Sch ¨onburnn E, Eschenburg S, Shuttleworth WA, Schloss JV, Amrhein N, et al. 2001. Interaction of
+the herbicide glyphosate with its target enzyme 5-enolpyruvylshikimate-3-phosphate synthase in atomic
+detail. Proc. Natl. Acad. Sci. USA 98:1376–80
+156. Schr ¨oder P, Scheer CE, Diekmann F, Stampﬂ A. 2007. How plants cope with foreign compounds—
+translocation of xenobiotic glutathione conjugates in roots of barley (Hordeum vulgare). Environ. Sci.
+Pollut. Res. 14:114–22
+157. Schuler MA, Werck-Reichhart D. 2003. Functional genomics of P450s. Annu. Rev. Plant Biol. 54:629–67
+158. Shaner DL. 2009. The role of translocation as a mechanism of resistance to glyphosate. Weed Sci. 57:118–
+23
+159. Siminszky B. 2006. Plant cytochrome P450-mediated herbicide metabolism. Phytochem. Rev. 5:445–58
+160. Smeda RJ, Vaughn KC. 1994. Resistance to dinitroaniline herbicides. See Ref. 131, pp. 215–28
+161. Soar CJ, Karotam J, Preston C, Powles SB. 2003. Reduced paraquat translocation in paraquat resistant
+Arctotheca calendula (L) Levyns is a consequence of the primary resistance mechanism, not the cause.
+Pestic. Biochem. Physiol. 76:91–98
+344 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+162. Summers LA. 1980. The Bipyridinium Herbicide. New York: Academic
+163. Tardif FJ, Powles SB. 1999. Effect of malathion on resistance to soil-applied herbicides in a population
+of rigid ryegrass (Lolium rigidum). Weed Sci. 47:258–61
+164. Tardif FJ, Rajcan I, Costea M. 2006. A mutation in the herbicide target site acetohydroxyacid synthase
+produces morphological and structural alterations and reduces ﬁtness in Amaranths powellii. New Phytol.
+169:251–64
+165. Tian X, Darmency H. 2006. Rapid bidirectional allele-speciﬁc PCR identiﬁcation for atrazine resistance
+in higher plants. Pest Manag. Sci. 62:531–36
+166. Tian X, D´elye C, Darmency H. 2006. Molecular evidence of biased inheritance of triﬂuralin herbicide
+resistance in foxtail millet. Plant Breed. 125:254–58
+167. Tranel PJ, Wright TR, Heap IM. 2009. ALS mutations from herbicide-resistant weeds. http://www.
+weedscience.org
+168. Tranel PJ, Wright TR. 2002. Resistance of weeds to ALS inhibiting herbicides: what have we learned?
+Weed Sci. 50:700–12
+169. Tsujii H, Dillon N, Ohkawa H. 2004. Molecular functions of cytochrome P450 species involved in herbi-
+cide resistance in Lolium rigidum biotype WLR2. Int. Symp. Cytochrome P450: Biodiversity and Biotechnology,
+7th, Hyogo, Japan, p. 69 (Abstr.)
+170. V´aradi G, Dark ´o ´E, Lehoczki E. 2000. Changes in the xanthophyll cycle and ﬂuorescence quenching
+indicate light-dependent early events in the action of paraquat and the mechanism of resistance to
+paraquat in Erigeron canadensis (L.) Cronq. Plant Physiol. 123:1459–69
+171. Vila-Aiub MM, Neve P, Powles SB. 2005a. Resistance cost of a cytochrome P450 herbicide metabolism
+mechanism but not an ACCase target site mutation in a multiple resistant Lolium rigidum population.
+New Phytol. 167:787–96
+172. Vila-Aiub MM, Neve P, Powles SB. 2009. Evidence for an ecological cost of enhanced herbicide
+metabolism in Lolium rigidum. J. Ecol. 97:772–80
+173. Vila-Aiub MM, Neve P, Powles SB. 2009. Fitness costs associated with evolved herbicide resistance
+genes in plants. New Phytol. 184:751–67
+174. Vila-Aiub MM, Neve P, Steadman KJ, Powles SB. 2005b. Ecological ﬁtness of a multiple herbicide-
+resistant Lolium rigidum population: dynamics of seed germination and seedling emergence of resistant
+and susceptible phenotypes. J. Appl. Ecol. 42:288–98
+175. Vila-Aiub MM, Balbi MC, Gundel PE, Ghersa CM, Powles SB. 2008. Evolution of glyphosate-resistant
+Johnson grass (Sorghum halepense) in glyphosate-resistant soybeans. Weed Sci. 55:566–71
+176. Wakelin AM, Lorraine-Colwill DF, Preston C. 2004. Glyphosate resistance in four different populations
+of Lolium rigidum is associated with reduced translocation of glyphosate to meristematic zones. Weed Res.
+44:453–59
+177. Wang T, Fleury A, Ma J, Darmency H. 1996. Genetic control of dinitroaniline resistance in foxtail millet
+(Setaria italica). J. Hered. 87:423–26
+178. Wang T, Picard JC, Tian X, Darmency H. 2010. A herbicide-resistant ACCase 1781 Setaria mutant
+shows higher ﬁtness than wild type. Heredity. In press
+179. Walsh TA, Neal R, Merlo AO, Honma M, Hicks GR, et al. 2006. Mutations in an auxin re-
+ceptor homolog AFB5 and in SGT1b confer resistance to synthetic picolinate auxins and not
+to 2, 4-dichlorophenoxyacetic acid or indole-3-acetic acid in Arabidopsis. Plant Physiol. 142:542–
+52
+180. Warwick SI, Xu R, Sauder C, Beckie HJ. 2008. Acetolactate synthase target-site mutations and sin-
+gle nucleotide polymorphism genotyping in ALS-resistant kochia (Kochia scoparia). Weed Sci. 56:797–
+806
+181. Werck-Reichhart D, Hehn A, Didierjean L. 2000. Cytochromes P450 for engineering herbicide toler-
+ance. Trends Plant Sci. 5:116–22
+182. White GM, Moss SR, Karp A. 2005. Differences in the molecular basis of resistance to the cyclohex-
+anedione herbicide sethoxydim in Lolium multiﬂorum. Weed Res. 45:440–48
+183. Wienberg T, Stephenson GR, McLean MD, Hall JC. 2006. MCPA (4-chloro-2-ethyphenoxyacetate)
+resistance in hemp-nettle (Galeopsis tetrabit L.). J. Agric. Food Chem. 54:9126–34
+www.annualreviews.org • Plants Resistant to Herbicides 345
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+184. Yamamoto E, Zeng LH, Baird WV. 1998. Alpha-tubulin missense mutations correlate with antimicro-
+tubule drug resistance in Eleusine indica. Plant Cell 10:297–308
+185. Yasuor H, Osuna MD, Ortiz A, Saldain NE, Eckert JW, Fischer AJ. 2009. Mechanism of re-
+sistance to penoxsulam in late watergrass (Echinochloa phyllopogon). J. Agric. Food Chem. 57:3653–
+60
+186. Yelin R, Rotem D, Schuldiner S. 1999. EmrE, a small Escherichia coli multidrug transporter, pro-
+tects Saccharomyces cerevisiae from toxins by sequestration in the vacuole. J. Bacteriol. 181:949–
+56
+187. Yu Q, Abdallah I, Han HP, Owen M, Powles SB. 2009. Distinct nontarget-site mechanisms endow
+resistance to glyphosate, ACCase and ALS-inhibiting herbicides in multiple herbicide-resistant Lolium
+rigidum populations. Planta 230:713–23
+188. Yu Q, Cairns A, Powles SB. 2004. Paraquat resistance in a biotype of Lolium rigidum. Funct. Plant Biol.
+31:247–54
+189. Yu Q, Cairns A, Powles SB. 2007a. Glyphosate, paraquat and ACCase multiple herbicide resistance in a
+Lolium rigidum biotype. Planta 225:499–513
+190. Yu Q, Collavo A, Zheng MQ, Owen M, Sattin M, Powles SB. 2007b. Diversity of acetyl-coenzyme A
+carboxylase mutations in resistant Lolium populations: evaluation using clethodim. Plant Physiol. 145:547–
+58
+191. Yu Q, Friesen S, Zhang XQ, Powles SB. 2004b. Tolerance to acetolactate synthase and acetyl-coenzyme A
+carboxylase inhibiting herbicides in Vulpia bromoides is conferred by two coexisting resistance mechanisms.
+Pestic. Biochem. Physiol. 21:21–30
+192. Yu Q, Han H, Powles SB. 2008. Mutations of the ALS gene endowing resistance to ALS-inhibiting
+herbicides in Lolium rigidum populations. Pest Manag. Sci. 64:1229–36
+193. Yu Q, Han HP, Nguyen L, Forster JW, Powles SB. 2009b. Inheritance of paraquat resistance in a Lolium
+rigidum population is governed by one single nuclear gene. Theor. Appl. Genet. 118:1601–08
+194. Yu Q, Nelson JK, Zheng MQ, Jackson M, Powles SB. 2007c. Molecular characterization of resistance
+to ALS-inhibiting herbicides in Hordeum leporinum biotypes. Pest Manag. Sci. 63:918–27
+195. Deleted in proof
+196. Yu Q, Zhang XQ, Hashem A, Walsh MJ, Powles SB. 2003. ALS gene proline (197) mutations confer
+ALS herbicide resistance in eight separated wild radish (Raphanus raphanistrum) populations. Weed Sci.
+51:831–38
+197. Yuan JS, Tranel PJ, Stewart CN. 2007. Non-target-site herbicide resistance: a family business. Trends
+Plant Sci. 12:6–13
+198. Yun MS, Yogo Y, Miura R, Yamasue Y, Fischer AJ. 2005. Cytochrome P-450 monooxygenase activity
+in herbicide-resistant and -susceptible late watergrass (Echinochloa phyllopogon). Pestic. Biochem. Physiol.
+83:107–14
+199. Zagnitko O, Jelenska J, Tevzadze G, Haselkorn R, Gornicki P. 2001. An isoleucine/leucine residue in the
+carboxyltransferase domain of acetyl-CoA carboxylase is critical for interaction with aryloxyphenoxypro-
+pionate and cyclohexanedione inhibitors. Proc. Natl. Acad. Sci. USA 98:6617–22
+200. Zeng L, Baird WV. 1997. Genetic basis of dinitroaniline herbicide resistance in a highly resistant biotype
+of goosegrass (Eleusine indica). J. Hered. 88:427–32
+201. Zeng LH, Baird WV. 1999. Inheritance of resistance to antimicrotubule dinitroaniline herbicides in an
+“intermediate” resistant biotype of Eleusine indica (Poaceae). Am. J. Bot. 86:940–47
+202. Zhang H, Tweel B, Tong L. 2004. Molecular basis for the inhibition of the carboxytransferase domain
+of acetyl-coenzyme-A carboxylase by haloxyfop and diclofop. Proc. Natl. Acad. Sci. USA 101:5910–15
+203. Zhang H, Yang Z, Shen Y, Tong L. 2003. Crystal structure of the carboxyltransferase domain of acetyl-
+coenzyme A carboxylase. Science 229:2064–67
+204. Zhang XQ, Devine MD. 2000. A possible point mutation of plastidic ACCase gene conferring resistance
+to sethoxydim in green foxtail (Setaria viridis). Weed Sci. Soc. Am. Abstr. No. 40
+205. Zhang XQ, Powles SB. 2006a. The molecular bases for resistance to acetyl coenzyme A carboxylase
+(ACCase) inhibiting herbicides in two target-based resistant biotypes of annual ryegrass (Lolium rigidum).
+Planta 223:550–57
+346 Powles ·Yu
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+ANRV410-PP61-14 ARI 31 March 2010 19:5
+206. Zhang XQ, Powles SB. 2006b. Six amino acid substitutions in the carboxyl-transferase domain of the
+plastidic acetyl-CoA carboxylase gene are linked with resistance to herbicides in a Lolium rigidum popu-
+lation. New Phytol. 172:636–45
+207. Zhou M, Xu H, Wei X, Ye Z, Wei L, et al. 2006. Identiﬁcation of a glyphosate-resistant mutant of
+rice 5-enolpyruvylshikemate-3-phosphate synthase using a directed evolution strategy. Plant Physiol.
+140:184–95
+www.annualreviews.org • Plants Resistant to Herbicides 347
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+AR410-FM ARI 6 April 2010 15:25
+Annual Review of
+Plant Biology
+Volume 61, 2010Contents
+A Wandering Pathway in Plant Biology: From Wildﬂowers to
+Phototropins to Bacterial Virulence
+Winslow R. Briggs pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp1
+Structure and Function of Plant Photoreceptors
+Andreas M¨oglich, Xiaojing Yang, Rebecca A. Ayers, and Keith Moffat ppppppppppppppppppppp21
+Auxin Biosynthesis and Its Role in Plant Development
+Yunde Zhao pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp49
+Computational Morphodynamics: A Modeling Framework to
+Understand Plant Growth
+Vijay Chickarmane, Adrienne H.K. Roeder, Paul T. Tarr, Alexandre Cunha,
+Cory Tobin, and Elliot M. Meyerowitz ppppppppppppppppppppppppppppppppppppppppppppppppppppp65
+Female Gametophyte Development in Flowering Plants
+Wei-Cai Yang, Dong-Qiao Shi, and Yan-Hong Chen ppppppppppppppppppppppppppppppppppppppp89
+Doomed Lovers: Mechanisms of Isolation and Incompatibility in Plants
+Kirsten Bomblies ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp109
+Chloroplast RNA Metabolism
+David B. Stern, Michel Goldschmidt-Clermont, and Maureen R. Hanson pppppppppppppp125
+Protein Transport into Chloroplasts
+Hsou-min Li and Chi-Chou Chiu pppppppppppppppppppppppppppppppppppppppppppppppppppppppppp157
+The Regulation of Gene Expression Required for C4 Photosynthesis
+Julian M. Hibberd and Sarah Covshoff pppppppppppppppppppppppppppppppppppppppppppppppppppp181
+Starch: Its Metabolism, Evolution, and Biotechnological Modiﬁcation
+in Plants
+Samuel C. Zeeman, Jens Kossmann, and Alison M. Smith ppppppppppppppppppppppppppppppp209
+Improving Photosynthetic Efﬁciency for Greater Yield
+Xin-Guang Zhu, Stephen P. Long, and Donald R. Ort ppppppppppppppppppppppppppppppppppp235
+Hemicelluloses
+Henrik Vibe Scheller and Peter Ulvskov ppppppppppppppppppppppppppppppppppppppppppppppppppp263
+Diversiﬁcation of P450 Genes During Land Plant Evolution
+Masaharu Mizutani and Daisaku Ohta ppppppppppppppppppppppppppppppppppppppppppppppppppp291
+v
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+AR410-FM ARI 6 April 2010 15:25
+Evolution in Action: Plants Resistant to Herbicides
+Stephen B. Powles and Qin Yu pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp317
+Insights from the Comparison of Plant Genome Sequences
+Andrew H. Paterson, Michael Freeling, Haibao Tang, and Xiyin Wang pppppppppppppppp349
+High-Throughput Characterization of Plant Gene Functions by Using
+Gain-of-Function Technology
+Youichi Kondou, Mieko Higuchi, and Minami Matsui pppppppppppppppppppppppppppppppppppp373
+Histone Methylation in Higher Plants
+Chunyan Liu, Falong Lu, Xia Cui, and Xiaofeng Cao pppppppppppppppppppppppppppppppppppp395
+Genetic and Molecular Basis of Rice Yield
+Yongzhong Xing and Qifa Zhang pppppppppppppppppppppppppppppppppppppppppppppppppppppppppp421
+Genetic Engineering for Modern Agriculture: Challenges and
+Perspectives
+Ron Mittler and Eduardo Blumwald ppppppppppppppppppppppppppppppppppppppppppppppppppppppp443
+Metabolomics for Functional Genomics, Systems Biology, and
+Biotechnology
+Kazuki Saito and Fumio Matsuda ppppppppppppppppppppppppppppppppppppppppppppppppppppppppp463
+Quantitation in Mass-Spectrometry-Based Proteomics
+Waltraud X. Schulze and Bj¨orn Usadel pppppppppppppppppppppppppppppppppppppppppppppppppppp491
+Metal Hyperaccumulation in Plants
+Ute Kr¨amer pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp517
+Arsenic as a Food Chain Contaminant: Mechanisms of Plant Uptake
+and Metabolism and Mitigation Strategies
+Fang-Jie Zhao, Steve P. McGrath, and Andrew A. Meharg ppppppppppppppppppppppppppppp535
+Guard Cell Signal Transduction Network: Advances in Understanding
+Abscisic Acid, CO2, and Ca2+ Signaling
+Tae-Houn Kim, Maik B¨ohmer, Honghong Hu, Noriyuki Nishimura,
+and Julian I. Schroeder ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp561
+The Language of Calcium Signaling
+Antony N. Dodd, J¨org Kudla, and Dale Sanders pppppppppppppppppppppppppppppppppppppppppp593
+Mitogen-Activated Protein Kinase Signaling in Plants
+Maria Cristina Suarez Rodriguez, Morten Petersen, and John Mundy ppppppppppppppppp621
+Abscisic Acid: Emergence of a Core Signaling Network
+Sean R. Cutler, Pedro L. Rodriguez, Ruth R. Finkelstein, and Suzanne R. Abrams pppp651
+Brassinosteroid Signal Transduction from Receptor Kinases to
+Transcription Factors
+Tae-Wuk Kim and Zhi-Yong Wang pppppppppppppppppppppppppppppppppppppppppppppppppppppppp681
+vi Contents
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.
+
+AR410-FM ARI 6 April 2010 15:25
+Directional Gravity Sensing in Gravitropism
+Miyo Terao Morita pppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp705
+Indexes
+Cumulative Index of Contributing Authors, Volumes 51–61 ppppppppppppppppppppppppppp721
+Cumulative Index of Chapter Titles, Volumes 51–61 pppppppppppppppppppppppppppppppppppp726
+Errata
+An online log of corrections to Annual Review of Plant Biology articles may be found at
+http://plant.annualreviews.org
+Contents vii
+Annu. Rev. Plant Biol. 2010.61:317-347. Downloaded from arjournals.annualreviews.org
+by University of Western Australia on 05/04/10. For personal use only.

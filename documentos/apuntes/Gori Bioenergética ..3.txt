@@ -1,0 +1,1924 @@
+=== Fuente: Gori Bioenergética ..3.pdf ===
+
+Bioenergética 
+Sistemas Termodinámicos 
+m Q 
+ABIERTO 
+Q 
+CERRADO 
+AISLADO = 
+ADIABÁTICO 
+SERES   VIVOS  = SISTEMAS  ABIERTOS H2O N,P,Ca,K  
+CO2 
+O2 
+O2 
+CO2+H2O Q 
+E W 
+E W = Trabajo útil 
+Q=Energía desperdiciada 
+WM = Trabajo Mecánico 
+WQ  = Trabajo Químico 
+WO  = Trabajo Osmótico 
+Tipos de Nutrición 
+Requerimientos de Energía 
+Requerimientos de Materia 
+Fotótrofos Quimiótrofos 
+Utilizan energía luminosa  Utilizan energía química  
+Autótrofos 
+Requieren materia  
+inorgánica  
+CO2,  NO3 -, 
+ H2O, etc 
+Heterótrofos 
+Requieren materia  
+orgánica e inorgánica  
+Azúcares,  
+Lípidos, 
+Proteínas,  
+H2O, etc 
+Fotosintetizadores 
+Algas verdeazuladas 
+Bacterias Sulfurosas 
+Plantas 
+Quimiosintetizadores 
+Foto-organótrofos Quimio-organótrofos 
+Bacterias Nitrificantes 
+Bacterias Oxidantes de 
+S, Fe, H, etc 
+Bacterias NO Sulfurosas 
+púrpuras 
+La mayoría de las bacterias 
+(parásitas, saprófitas,  
+simbiontes ) 
+Protozoos 
+Hongos 
+Animales 
+
+Principios de la Termodinámica 
+PRIMER PRINCIPIO (ppio de la conservación de la energía) 
+Aunque la energía puede convertirse de una forma a otra, ésta 
+no puede crearse o destruirse  
+Euniverso  =  0  = E sistema + E entorno           o sea:        E sistema =  - E entorno 
+También puede expresarse: 
+Siempre que en un sistema desaparece una cantidad de una 
+clase de energía debe producirse, en el sistema o en su 
+entorno, una cantidad exactamente equivalente de otra/s 
+clases. 
+Teniendo en cuenta el sistema solamente,  puede escribirse:   Esistema = Q + W 
+Cuando un sistema cambia de un estado A (inicial) a uno B (final), puede ganar o 
+perder energía en forma de calor (Q) o trabajo (W). Lo que dice la ecuación anterior 
+es que en cualquier transformación físico-química el cambio de energía interna 
+del sistema (Esistema) es la suma del calor y trabajo intercambiado entre 
+sistema y entorno.  
+SEGUNDO PRINCIPIO 
+En cualquier proceso espontáneo la entropía del universo  
+aumenta  
+Suniverso  >  0 O sea:  proceso espontáneo             
+En un proceso que se encuentra en equilibrio la entropía 
+del universo es constante  
+Suniverso =  0 O sea:  proceso en   equilibrio        
+Bioenergética 
+A B 
+Energía Libre de Reacciones 
+ G´= G°´+ 2,3 RT log [B] 
+                                         [A] 
+G°´< 0 
+Reacción  
+Exergónica G´ 0   reacción espontánea  (  ) 
+En el equilibrio     G´ =  0 
+luego    G°´= - 2,3 RT log [B]eq                                              [A]eq 
+O sea G°´= - 2,3 RT log Keq 
+Keq 1     G°´ 0      Reac. Exergónica   (  ) 
+Keq =1     G°´= 0      
+Keq 1     G°´ 0     Reac. Endergónica  (  ) 
+Reacciones Acopladas 
+G°´> 0 
+Reacción  
+Endergónica 
+A B C 
+G°´ 0  
+Reacción acoplada 
+exergónica  
+Ejemplo: 
+ G°´AB  =  +3,5 Kcal/mol (reac. endergónica) 
++ 
+G°´BC  =  -7,3  Kcal/mol  (reac. muy exergónica)  
+G°´AC  = -4,2 Kcal/mol   
+(reac. global exergónica) 
+ATP: Nucleótido Transportador de Energía 
+N
+N
+N
+NH2
+N
+H H
+OHOH
+CH2 O P O
+O-
+O
+O P
+O-
+O O
+O-
+O-
+PO
+Adenosina 
+ Tri Fosfato 
+N
+N
+N
+NH2
+N
+H H
+OHOH
+CH2 O P O
+O-
+O
+O P
+O-
+O O
+O-
+O-
+PO
+H2O 
+P
+O-
+O O
+O-
+O-
+PO
+HO  
++  H+ 
+ATP4- + H2O      ADP3- + Pi2- + H+         G°´= -7,3 Kcal/mol 
+H2O 
+N
+N
+N
+NH2
+N
+H H
+OHOH
+CH2 O P O
+O-
+O
+O P
+O-
+O O
+O-
+O-
+PO
+P
+O-
+O O
+O-
+O-
+PO
+HO  
++  H+ 
+ATP4- + H2O      AMP2- + PPi3- + H+      G°´= -7,7 Kcal/mol 
+OTROS COMPUESTOS ENERGETICOS:  GTP  (Guanosin Tri Fosfato) ;   UTP   (Uridin Tri Fosfato) 
+Transferencia del grupo ~ P 
+Una expresión general de la capacidad fosforilante del ATP puede escribirse: 
+ATP  + H2O  ADP + Pi     (reacción exergónica) 
+X + Pi  X~P  + H2O         (reacción endergónica) 
+ATP  + X  ADP + X~P      (reacción exergónica si las sumas de los G°’ < 0) 
+Ejemplo: 
+ATP ADP 
+Glucosa Glucosa -6 P 
+ATP 
+PEP Piruvato 
+Primer sistema de reacciones acopladas 
+El ATP fosforiló a la Glucosa 
+Segundo sistema de reacciones acopladas 
+El  PEP fosforiló al  ADP 
+Transporte de iones 
+Tipo de  
+Transp. 
+Proteína  
+Portadora 
+Sat. por 
+sustrato 
+Gradiente 
+de Conc. 
+Dep. de 
+Energía 
+Fuente de 
+Energía Ejemplo 
+Difusión 
+simple NO NO NO NO H2O, O2, N2 
+Transporte 
+pasivo SI SI NO NO Glucosa 
+Transporte 
+activo 
+primario 
+SI SI SI SI 
+ATP, ox. 
+de 
+sustratos 
+(Na,K) 
+ATPasa 
+(membr. 
+Plasmática de 
+animales) 
+Transporte 
+activo 
+secundario 
+SI SI SI SI Grad. Iónico 
+AA y 
+azúcares 
+(imp. por Na; 
+intestinos); 
+lactosa (imp. 
+por H; 
+bacterias) 
+Canales 
+iónicos SI NO NO NO Canal de Na (neurona) 
+Difusión Simple 
+Transporte Pasivo Difusión Facilitada 
+Sistemas de Transporte 
+
+Transporte Activo Primario 
+
+Transporte Activo Secundario 
+
+Canales Iónicos 
+
+Síntesis y Degradación de Biomoléculas 
+(Balance energético) 
+ATP 
+ADP + Pi 
+Transporte activo 
+Calor (perdido en el entorno) 
+O2 
+Degradación 
+         o 
+catabolismo 
+NAD(P)H+H+ 
+Combustible  reducido 
+Monosacáridos, ácidos grasos, aminoácidos 
+Contracción muscular 
+CO2 + H2O 
+Nutrientes  
+de la ingesta: 
+Hidratos de carbono, 
+Lípidos, Proteínas 
+NAD(P)+ 
+Metabolitos parcialmente 
+oxidados:  
+Piruvato  AcetilCoA 
+Biosíntesis (anabolismo) de 
+Estructuras (fosfolípidos de membrana, proteínas 
+musculares) y  reservas (lípidos, glucógeno). 
+Macromoléculas (ADN, ARN 
+Biosíntesis (reacciones anabólicas) 
+CICLO  ENERGÉTICO  CELULAR 
+ 
+Hidratos de Carbono 
+Macro 
+moléculas 
+O
+O
+CH2OH
+OH
+OH
+O
+H2C
+HC
+C
+O
+C
+O
+C
+O
+C
+O
+O
+O
+H2
+O
+C
+C
+O
+NH C
+C
+R2R1
+HN
+proteínas lípidos 
+aminoácidos Monosacáridos (glucosa) 
+Piruvato 
+Acetil-CoA 
+Ácidos grasos 
+Ciclo de 
+Krebs 
+ NH3 +  CO2 + H2O 
+ATP 
+NADPH 
+ATP 
+NADH 
+NAD 
+ 
+ 
+ ATP 
+ 
+NAD 
+FAD 
+NAD 
+FAD 
+ATP 
+NADP 
+Rutas catabólicas 
+Rutas anabólicas 
+P r o c e s o s        d i g e s t i v o s 
+O2 
+V í a s    
+ m e t a b ó l i c a s   
+Hidratos de 
+carbono 
+Oxidación parcial de los 
+sillares esenciales 
+producidos  en la etapa 
+digestiva 
+Productos finales degradados 
+Oxidación total del combustible 
+parcialmente oxidado en la segunda 
+etapa. 
+Gran producción de energía (ATP) 
+Glucosa Glucosa -6P 
+ATP ADP 
+O
+O H
+CH2O H
+O H
+O H
+O H
+DHAP 
+(Dihidroxiacetona-P) 
+Fosfoglucoisomerasa 
+Mg++ o Mn++ 
+ATP ADP 
+Fosfofructoquinasa 
+Mg++ 
+ 
+Fructosa 1,6- bisP 
+Gliceraldehido-3P 1,3-Difosfoglicerato 3-Fosfoglicerato 
+Piruvato 
+2-Fosfoglicerato 
+Fosfoenolpiruvato 
+(PEP) 
+ADP ATP 
+ATP ADP 
+NAD+ 
+NADH+H+ 
+Lactato 
+Pi 
+Aldolasa 
+Gliceraldehido-3P deshidrogenasa Fosfogliceratoquinasa 
+Mg++ 
+ 
+Fosfo- 
+gliceromutasa 
+Mg++ 
+Enolasa 
+Mg++ 
+Piruvatoquinasa 
+Mg++  K+ 
+Lactatodeshidrogenasa 
+LDH 
+fructosa -6P 
+1ra Fase: Activación   y   clivaje 
+2da Fase:        Oxidación y Producción de Energía 
+GLUCOLISIS 
+(-) G6-P 
+Hexoquinasa 
+Mg++  
+Isomerasa 
+(-) ATP 
+(-) Citrato 
+(+) AMP 
+(-) AcCoA 
+(-) Ac.Grasos 
+ 
+Enzima 
+Cofactor 
+REGULACION 
+(-) Inhibidor 
+(+) Activador 
+Reacción  irreversible 
+Reacción   reversible 
+REFERENCIAS 
+
+CO2 
+NAD+ 
+NADH+H+ 
+glucosa 
+Ciclo de 
+Krebs 
+NAD+ 
+ ATP 
+ 
+O2 
+piruvato 
+Acetil-CoA 
+glucosa 
+CO2 
+O2 
+H2O 
+ATP 
+H2O 
+O2  
+CoA+ATP 
+ 
+CO2 
+láctico 
+Acetil-CoA 
+propiónico 
+acético 
+etanol 
+fórmico 
+metano 
+ATP 
+ 
+CoA+ATP 
+ 
+H 
+H 
+H 
+H 
+H 
+H 
+H 
+CoA+ATP 
+ 
+butírico 
+REACCIONES  DE  FERMENTACIÓN 
+(CITOSOL) 
+RESPIRACIÓN 
+H = eq. de reducción (NADH + H+) 
+DEGRADACIÓN DE POLISACÁRIDOS  
+POR MICROORGANISMOS  RUMINALES 
+FERMENTACIÓN DE AZÚCARES  
+PRODUCCIÓN DE ÁCIDOS 
+GRASOS VOLÁTILES 
+(Esquema simplificado) 
+FERMENTACIÓN  RUMINAL 
+DE HIDRATOS DE CARBONO 
+ALMIDÓN CELULOSA HEMICELULOSA PECTINAS 
+amilodextrinas celodextrinas 
+Ác.galacturónico 
+amilasas celulasas 
+maltosa celobiosa 
+glucosidasas 
+maltasa celobiasa 
+Glucosa 
+Enzimas pectinolíticas hemicelulasas 
+celodextrinas 
+xilosa 
+pentosas 
+3 GLUCOSA 
+6 Gliceraldehido-3P 
+6 PIRUVATO HCOOH  
+CO2 
+2 Láctico 
+1 Acrilil-CoA 
+1 Propionil-CoA 
+ 
+4CoA 
+ 
+CoA 
+Pared bacteriana 
+Contenido 
+ruminal 
+Citosol 
+bacteriano 
+1 ACÉTICO 
+CH4 
+H2O 
+CoA+ ATP 
+ 
+4 AcCoA 
+1 BUTÍRICO 
+1 EtOH 
+4 CO2 
+12 H 
+ 
+2H  
+ 
+6H  
+ 
+2H2O 
+CoA+ATP 
+ 
+CoA+ATP 
+ 
+1 AcAcOCoA 
+1 -OH-ButirilCoA 
+CoA + ATP 
+ 
+H2O 
+ 
+4H  
+ 
+8 H 
+ 
+3 CO2 
+ 
+2H  
+ 
+2H  
+ 
+2H  
+ 
+2H  
+ 
+1 Láctico 
+ 
+   
+                                                 
+             
+Metabolismo  Intermedio 
+- Glucosa 
+- Lactosa 
+- Grasa de reserva y de leche 
+- Energía 
+12 ATP 
+1 PROPIÓNICO 
+Nota:  
+CoA= Coenzima A 
+Por economía de espacio en todos los 
+esquemas se omite el grupo sulfhidrilo (HS-) 
+Así, CoA = HSCoA  
+y  
+acetil CoA= AcCoA= AcSCoA 
+ 
+Glucosa 
+G-6P 
+ATP ADP 
+O
+O H
+CH2O H
+O H
+O H
+O H
+Fosfogluco-
+isomerasa  
+ATP ADP 
+Fructosa 1,6- biP F6-P 
+Hexo-
+quinasa 
+CO2 
+NAD+ Ciclo 
+de 
+Krebs 
+Acetil-CoA 
+H2O 
+RESPIRACIÓN 
+Fosfofructo- 
+      quinasa                            
+Lactato 
+Fermentación  
+  ATP 
+O2 
+CO2 
+ 
+NADH+H+ 
+O2 
+ ATP 
+PIRUVATO 
+CICLO  DE  KREBS 
+ H3
+COSCoA
+C
+AcCoA 
+COO-
+C
+OHC
+CH2
+COO-
+-OOC
+H2
+Citrato 
+COO-
+C O
+CH2
+COO-
+Oxalacetato 
+CO2 
+NAD+ 
+COO-
+CH2
+CH2
+COSCoA
+NADH+H+ 
+Succinil-
+CoA 
+ HSCoA 
+4 
+GDP 
++ Pi 
+COO-
+CH2
+CH2
+COO-
+GTP 
+Succinato 
+ HSCoA 
+5 
+NADH+H+ 
+NAD+ 
+-Ceto- 
+glutarato 
+CO2 
+3 
+COO-
+CH2
+CH2
+C
+COO-
+O
+1 
+H2O 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+ 
+ENZIMA                         G°´ 
+Citrato sintasa                  -7,7 
+Aconitasa -Fe++               +2,0 
+Isocitratodesh -Mg++       -5,5 
+-cetoglutdesh -Mg++      -8,8 
+SuccCoAsintetasa            -0,7 
+Succinatodesh                     0 
+Fumarasa                             0 
+Malatodesh                       +7,1 
+             
+H2O 
+H2
+COO-
+C
+C
+CH
+COO-
+-OOC
+Cis-aconitato 
+2 
+COO-
+CH
+CH
+COO-
+FAD 
+FADH2 
+Fumarato 
+6 
+COO-
+C
+CH2
+COO-
+OH
+H2O 
+Malato 
+7 
+NADH+H+ 
+NAD+ 
+ 8 
+(-) SucCoA 
+(-)Citrato 
+(-) NADH  
+(-) SucCoA 
+(-) AGCoA 
+H2O 
+Isocitrato 
+2 
+COO-
+C
+C
+C
+COO-
+-OOC
+OH
+(+) ADP 
+(-) NADH 
+Regulación 
+(-) = Inhibición 
+AcCoA +3NAD++ FAD + GDP + P i+ 2H2O         
+               2CO2 + HSCoA + 3NADH + 3H+ + FADH2 + GTP 
+
+
+RUMEN 
+Enzimas microbianas 
+Disacáridos-monosacáridos 
+Piruvato 
+ 
+ sacarasas 
+AGV 
+MICROORGANISMO 
+OMASO 
+ABOMASO 
+ 
+INTESTINO Amilasas 
+pancreáticas 
+Polisacáridos 
+de ingesta 
+ 
+Polisacáridos  
+ microbianos 
+ 
+Monosacáridos (baja proporción) 
+HECES 
+ 
+Hidratos de Carbono 
+Celulosa 
+Hemicelulosa 
+Pectinas 
+Almidón 
+Enzimas glucolíticas 
+Polisacáridos microbianos 
+Acético 
+Butírico 
+Propiónico 
+ 
+- Grasa de    
+   reserva  y   
+   de leche 
+- Energía 
+Glucosa  
+y  lactosa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+               
+               Metabolismo 
+                   Intermedio 
+Glucosa 
+METABOLISMO  
+DE 
+HIDRATOS DE 
+CARBONO 
+METABOLISMO DE LÍPIDOS 
+• Síntesis (ANABOLISMO) 
+ 
+– Precursores 
+– Síntesis de Ác. Grasos (Ácido Graso Sintasa) 
+– Formación de Lípido 
+– Síntesis de Ác. Grasos de Cadena Larga 
+– Insaturación 
+ 
+PRECURSORES  DE  LA  SÍNTESIS 
+ Oxidación del piruvato 
+ Oxidación de ác. grasos 
+ Degradación de aminoác. 
+Biotín-enzima 
+ATP +  H20 + CO2 
+Carboxibiotín-enzima 
+ADP +Pi + H+ 
+CH3 C O SCoA
+CH2 C O SCoA -OOC
+AcetilCoAcarboxilasa 
+Regulación en célula animal 
+(+) Citrato 
+ (-) Acidos grasos 
+AT 
+MT 
+CAS 
+CAR 
+HAD 
+ ER 
+ACP 
+COMPLEJO   
+MULTIENZIMÁTICO  
+DE LA ÁCIDO  
+GRASO SINTETASA 
+S S H 
+C 
+O 
+CH2 
+ -OOC 
+ C 
+S 
+O 
+CH2 
+ -OOC 
+C 
+SCoA 
+O 
+CH3 
+C 
+S 
+O 
+CH2 
+ C 
+S 
+O 
+CH2 
+CO2 
+C 
+O 
+CH3 
+C 
+S 
+O 
+CH3 
+CH 
+C 
+O 
+2 
+NADPH+H+        NADP+ 
+H2O 
+C 
+S 
+O 
+CH3 
+CH 
+ CH 
+NADPH+H+         NADP+ 
+C 
+S 
+O 
+CH3 
+CH2 
+ CH2 
+C 
+S 
+O 
+CH3 
+CH2 
+ CH2 
+Glucosa 
+Glucólisis 
+Dihidroxiacetona 
+fosfato 
+O
+O H
+CH2O H
+O H
+O H
+O H
+HO-CH2 
+HC-OH 
+HO-CH2 
+HO-CH2 
+C 
+-CH2 
+O 
+O 
+O 
+O 
+ P 
+O- 
+Glicerol 3 Fosfato 
+Deshidrogenasa 
+HO-CH2 
+C 
+-CH2 
+OH 
+O 
+O 
+O 
+ P 
+O- 
+H 
+Glicerol 3-P 
+NADH + H+ 
+ NAD 
+Glicerol 3-P 
+Glicerol  
+HO-CH2 
+C 
+-CH2 
+OH 
+O 
+O 
+O 
+ P 
+O- 
+H 
+Glicerol  Quinasa 
+ATP 
+ ADP 
+SCoA 
+HSCoA 
+C 
+O 
+ 
+ATP 
+C 
+O 
+ 
+AMP 
+ 
+PPi 
+ 
+AMP 
+C 
+O 
+OH 
+acil-CoA   sintetasa 
+2 Pi 
+SCoA 
+Acil transferasa 
+HO-CH2 
+C 
+-CH2 
+OH 
+O 
+O 
+O 
+ P 
+O- 
+H 
+SCoA 
+C 
+O 
+C 
+O 
+         CH2 
+C 
+-CH2 
+OH 
+O 
+O 
+O 
+ P 
+O- 
+H 
++  
+HSCoA 
+C 
+O 
+         CH2 
+C 
+-CH2 
+OH 
+O 
+O 
+O 
+ P 
+O- 
+H 
+SCoA 
+C 
+O 
+ C 
+O 
+         CH2 
+C 
+-CH2 
+O 
+O 
+O 
+ P 
+O- 
+H 
+ C 
+O +  
+Acil transferasa 
+HSCoA 
+Ácido Fosfatídico 
+Ácido Fosfatídico 
+O- 
+O 
+O 
+O 
+O 
+O 
+C 
+C 
+C 
+CH2 
+CH2 
+H 
+P 
+R2 
+R1 
+Ácido Fosfatídico  
+Fosfatasa 
+Acil-transferasa 
+HO 
+O 
+O 
+C 
+C 
+C 
+CH2 
+CH2 
+H 
+ R2 
+R1 
+1,2 Diacilglicerol 
+ Triacilglicéridos 
+Grupo  
+Cabeza 
+ O- 
+O 
+O 
+O 
+O 
+O 
+C 
+C 
+C 
+CH2 
+CH2 
+H 
+P 
+R2 
+R1 
+Glicerofosfolípidos 
+Unión del Grupo  
+de Cabeza  
+(Serina, Colina,  
+Etanolamina, etc…) 
+O- 
+O 
+P 
+O 
+ O 
+Retículo Endoplasmático 
+R3 
+O 
+O 
+C 
+C 
+C 
+CH2 
+CH2 
+H 
+ R2 
+R1 
+C 
+O 
+Palmitato 
+16:0 
+Estearato 
+18:0 
+Oleato 
+18:1 (Δ9) 
+Linoleato 
+18:2 (Δ9,12) 
+α-Linolenato 
+18:3 (Δ9,12,15) 
+ γ-Linolenato 
+18:3 (Δ6,9,12) 
+Palmitoleato 
+16:1 (Δ9) 
+Icosatrienoato 
+20:3 (Δ8,11,14) 
+Araquidonato 
+20:4 (Δ5,8,11,14) 
+Ácidos Grasos  
+saturados  
+más largos 
+Otros ácidos grasos 
+poliinsaturados 
+Desaturación 
+Solo en plantas 
+Desaturación 
+Desaturación 
+Alargamiento 
+Desaturación 
+Solo en plantas 
+Desaturación 
+Alargamiento 
+Alargamiento 
+Desaturación 
+Síntesis de Ácidos Grasos de Cadena Larga 
+CH3 
+ CH2 
+(CH2)n 
+ CH2 
+ (CH2)m 
+ C 
+O 
+SCoA 
+CH3 
+ CH 
+(CH2)n 
+ CH 
+ (CH2)m 
+ C 
+O 
+SCoA 
++  +  
+ O2 
+ 2H+ 
+Acil graso-CoA saturado 
+Acil graso-CoA monoinsaturado 
+Acil graso-CoA  
+desaturasa 
+2 Cit b5 
+(Fe2+) 
+2 Cit b5 
+(Fe3+) 
+Cit b5 reductasa 
+(FAD) 
+Cit b5 reductasa 
+(FADH2) 
+NADPH + H+ 
+NADP+ 
+INSATURACIÓN 
+METABOLISMO DE LÍPIDOS 
+• DEGRADACIÓN (CATABOLISMO) 
+ 
+– Lipólisis 
+– Activación de ácidos grasos 
+– Ingreso del ácido graso a la mitocondria 
+– Betaoxidación 
+– Balance de ATP 
+ 
++  
+lipasas 
+LIPOLISIS 
+ACTIVACIÓN  
+SCoA 
+HSCoA 
+C 
+O 
+ 
+ATP 
+C 
+O 
+ 
+AMP 
+ 
+PPi 
+ 
+AMP 
+C 
+O 
+OH 
+HO-CH2 
+HC-OH 
+HO-CH2 
+C  O 
+OH 
+C O 
+OH 
+C 
+O 
+C 
+O 
+C 
+O 
+O-CH2 
+C-O 
+O-CH2 
+C O 
+HO 
+3 H2O 
+acilgraso-CoA   sintetasa 
+2 Pi 
+SCoA 
+ESPACIO 
+INTERMEMBRANA 
+MATRIZ 
+MITOCONDRIAL 
+Acil-Carnitíntransferasa II 
+H 
+CH3 + COOHCH2
+CH3 OH
+CH3
+CHCH2N
+Carnitina 
+Car 
+Acil-Carnitíntransferasa I 
+H 
+HSCoA 
+SCoA 
+C 
+O 
+Car 
+H SCoA 
+SCoA 
+C 
+O 
+ANIMALES:     MITOCONDRIA 
+ß-Oxidación de ácidos grasos 
+FAD FADH2 
+H20       O2 
+NAD+ 
+H20       O2 
+NADH 
+C
+CH
+CH
+R
+SCoA
+O
+C
+CH2
+SCoA
+R
+CH2
+O
+C
+CH2
+SCoA
+R
+CH
+O
+OH
+C
+CH2
+SCoA
+R
+C O
+O
+O
+C
+R
+SCoA
+O
+C
+CH3
+SCoA
+H2O 
+ß-Oxidación de ácidos grasos de cadena impar 
+O
+C
+R
+SCoA
+CH2 
+CH3 
+CK 
+O
+C
+R
+SCoA
+CH2 
+CH2 
+ COO- 
+metilmalonil-CoA 
+mutasa  
+ 
+ 
+       
+  
+FAD FADH2 NAD+ NADH 
+C
+CH
+CH
+R
+SCoA
+O
+C
+CH2
+SCoA
+R
+CH2
+O
+C
+CH2
+SCoA
+R
+CH
+O
+OH
+C
+CH2
+SCoA
+R
+C O
+O
+O
+C
+CH3
+SCoA
+CH2 
+CH3 
+CH2 
+CH3 
+CH2 
+CH3 
+H2O 
++ CH2 
+CH3 
+AMP + PPi 
+O
+C
+R
+SCoA
+CH 
+CH3 
+-OOC- 
+ATP 
+ 
+CO2 
+D-metilmalonil-CoA  
+propionil -CoA  
+carboxilasa      
+O
+C
+R
+SCoA
+HC 
+   CH3 
+-COO- 
+L-metilmalonil-CoA 
+metilmalonil-CoA  
+epimerasa                  
+ 
+ 
+ 
+       
+  
+Succinil-CoA 
+Balance ATP Ácido Graso 18 C 
+Activación 
+Etapa 
+Lipólisis 
+Producto 
+β – Oxidación 
+1° O-R 
+Producto 
+CK 
+- 2ATP 
+3 Ác. Grasos 
+1 Glicerol 
+NADH + H+ 
+FADH2 
+Ac-CoA 
+3 NADH 
+1 FADH2 
+1 GTP 
+Eq.ATP 
+2 ATP 
+2 ATP 
+β – Oxidación 
+2° O-R 
+3 ATP 
+Glicerol 
+12 ATP 
+ATP 
+5 NADH 
+1 FADH2 
+1 GTP 
+12 ATP 
+19 ATP 
+N° Ac-CoA 
+N° Carbonos/2 
+N° Vueltas 
+(N° Carbonos/2)-1 
+9 Ac-CoA 
+ 8 
+ATP de Ac-CoA 
+ ATP por Coenzimas 
+108 ATP 
+Balance X Ác Graso 
+40 ATP 
+108 ATP 
+40 ATP 
+- 2ATP 
+146ATP 
+Balance X Lípido 
+146ATP X 3 
+19ATP 
+438ATP 
+19ATP 
+457ATP 
+RUTAS  METABÓLICAS DE LOS AMINOÁCIDOS 
+Proteínas  
+de la dieta 
+Proteínas  
+tisulares 
+NH3 
+Ciclo  
+Krebs 
+Ciclo  
+urea 
+NH3 urea 
+CO2 
+CNNP: 
+Purinas 
+Porfirinas 
+Colina 
+Adrenalina 
+Tiroxina 
+Ac.biliares 
+etc 
+Pool de 
+aminoácidos 
+OA 
+α-CG 
+α-CA 
+cc 
+Ciclo  
+creat 
+creatinina 
+AcCoA 
+Aminoácidos 
+excedentes  
+aa 
+DESTINO DE LAS CADENAS HIDROCARBONADAS 
+GLU  -CG 
+GDH 
+GLN 
+NH4 + 
+ATP 
+GS 
+COO-
+C
+CH2
+O
+CH2
+COO-
+COO-
+HC
+CH2
+CH2
+COO-
+NH2
+COO-
+HC
+CH2
+CH2
+CONH2
+NH2
+Transaminasa 
+ -CG 
+NAD(P)                               NAD(P ) H+H+ 
+ALA PIR 
+ H2O 
+COO-
+C
+CH2
+O
+CH2
+COO-
+ADP + Pi 
+UREA 
+CO2 
+Ciclo 
+de la 
+urea 
+METABOLISMO DE  
+AMINOÁCIDOS 
+EN EL ANIMAL 
+NH4 + 
+CICLO  DE  LA  UREA 
+Ureasa microbiana 
+NH3 Urea 
+DIETA 
+NH3 
+ 
+GDH GS 
+GLU 
+GDH 
+ GLN 
+GLNasa 
+ 
+microorganismo 
+Ciclo de  
+la urea HÍGADO Urea 
+Urea 
+(sangre) 
+Glándula 
+salival 
+Urea (saliva) 
+RIÑÓN 
+Urea (orina) 
+ 
+RUMEN 
+CO2 Pared 
+ruminal 
+                          Urea                                      
+aminas, AA, amidas,  
+NO3 -,  NO2 -,  NH4 +,    purinas, pirimidinas,  
+Ciclo   
+Rumino-Hepato-Salival  
+RUMEN 
+Proteasas 
+microbianas 
+aminoácidos 
+aminoácidos 
+ 
+NH3 
+Peptidasas     microbianas 
+-cetoácidos 
+AGV 
+NH3 
+ 
+MICROORGANISMO 
+OMASO 
+ABOMASO 
+ 
+INTESTINO 
+Proteasas intestinales 
+Proteínas 
+dietarias 
+(**) 
+ 
+Proteínas 
+microbianas 
+ 
+aminoácidos 
+HECES 
+ 
+Proteínas 
+dietarias 
+Ciclo de  
+la urea 
+HÍGADO 
+Urea (*) 
+CO2 
+Grasa de reserva y de la 
+leche 
+Glucosa y lactosa 
+Proteínas 
+estructurales 
+ 
+ 
+ 
+ 
+ 
+ 
+Metabolismo Intermedio 
+Metabolismo 
+Intermedio 
+Proteínas microbianas 
+NNP: NO3 -, NO2 -, 
+NH4 +, urea, purinas, 
+pirimidinas, amidas, 
+aminas (de la dieta) 
+polipéptidos 
+METABOLISMO  
+DE 
+PROTEÍNAS 
+Energía 
+Energía Capacidad de realizar un trabajo 
+“Trabajo Biológico” Todo proceso llevado a cabo por el animal 
+para crear y mantener su organización 
+esencial 
+– Generación de gradientes eléctricos y químicos para transportes activos 
+– Síntesis de macromoléculas 
+– Contracción de músculos para realizar movimientos al interior o 
+exterior del cuerpo 
+Energía química:  Energía retenida o liberada cuando los átomos se reordenan en una nueva configuración molecular 
+Energía eléctrica:  Energía obtenida por la separación entre cargas positivas y negativas 
+Energía mecánica:  Energía del movimiento organizado 
+Energía cinética o calor:  Energía de la materia debida al movimiento continuo al azar de sus átomos y moléculas 
+• 1 caloría = 4,184 joules 
+• 1 joule = 0,239 cal 
+• 1 Kcal (Kilocaloría) = 1000 cal 
+• 1 Mcal (Megacaloría) = 1000 Kcal 
+• Idem para los joules 
+Unidades 
+Caloría (Cal): 
+Es el calor requerido para elevar la 
+temperatura de un gramo de agua 1º C (de 
+14,5 a 15,5º C ) a 1 atm de presión. 
+Es la energía necesaria para desplazar la 
+masa de un Kilogramo una distancia de un 
+metro con una aceleración de un 
+metro/segundo 
+Joule:  
+Conversiones: Expresión de la concentración 
+energética de los productos 
+Base fresca:  Mcal/kg de producto 
+Base seca: Mcal/kg de MS 
+Energía en los Animales 
+Origen 
+Ingesta de Aimentos 
+Movilización de Reservas 
+Uso 
+Energía Química: (Liberada por la ruptura de los enlaces 
+de los productos orgánicos) Es utilizada por los animales 
+para realizar “trabajos” celulares 
+Energía Eléctrica y Mecánica: Son utilizados por los 
+animales para realizar trabajos fisiológicos 
+Energía térmica: Los animales carecen la capacidad de 
+utilizarla para realizar trabajos fisiológicos 
+Energía en los Animales 
+Destinos 
+Una parte de la Energía se pierde el los procesos de 
+digestión y absorción de los Alimentos 
+Una parte de la Energía es retenida en los tejidos del 
+animal en forma química (u otros productos 
+animales) 
+Una parte de la Energía se pierde como calor por los 
+procesos de síntesis de estructuras (ineficiencias) 
+Una parte de la Energía es transformada en calor 
+(pérdida) por realizar los diferentes trabajos 
+Energía Química 
+del Alimento 
+Energía Gases 
+CALOR 
+Energía en Heces 
+Energía en Orina 
+Energía Absorbida 
+Mantenimiento Biosíntesis 
+Trabajo 
+(Externo/Interno) 
+Energía Mecánica 
+Crecimiento 
+Energía en  
+los Tejidos 
+Energía en Productos 
+Energía Alimentaria 
+Pérdida % de la Energía Bruta (EB) 
+Heces (Eh) 
+Gases (Eg) 
+Orina (Eo) 
+Calor 
+Fermentación 
+Digestión 
+Metabolismo 
+20 - 50 
+8 - 10 
+3 - 7 
+5 - 6 
+1 - 2 
+18 - 20 
+Energía Bruta (EB) 
+Energía Heces (Eh) Energía Digestible (ED) 
+Energía Bruta 
+Energía liberada como calor, cuando una sustancia orgánica es oxidada en 
+su totalidad a CO2 y H2O 
+Es el punto de partida para poder conocer la energía contenida en un 
+alimento/ración 
+Determinación de la EB 
+Bomba Calorimétrica Se determina el calor liberado al combustionar 
+completamente una muestra 
+Análisis Weende o Van Soest Análisis de la composición Química de la muestra 
+Se estima a partir de la composición química (Carbohidratos, lipidos y proteínas) y los 
+valores de combustión de los componentes de la muestra 
+Carbono Hidrógeno Oxígeno Nitrógeno 
+Carbohidratos 44 6 50 
+Proteínas 52 6 22 16 
+Grasas 77 12 11 
+1 gr C 
+1 gr H 
+8 Kcal 
+34,5 Kcal 
+Compuesto Kcal/gr = Mcal/kg 
+Carbohidratos 4,2 
+Proteínas 5,6 
+Lípidos 9,4 
+Energía bruta de los componentes del alimento 
+Sustancias Puras Kcal/gr 
+Glucosa 3,76 
+Almidón 4,23 
+Caseína 5,86 
+Globulina 5,36 
+Ácido Acético 3,49 
+Ácido Propiónico 4,96 
+Ácido Butírico 5,35 
+Ácido Palmítico 9,35 
+Urea 2,53 
+Ácido Úrico 2,74 
+Metano 13,25 
+ENERGIA BRUTA (base seca) 
+Alimento Kcal/gr 
+Maíz (en grano) 4,55 
+Trigo (Afrechillo) 4,54 
+Soja (Harina) 4,72 
+Soja (poroto) 5,52 
+Raigras 
+(Vegetativo) 
+4,54 
+Alfalfa (Heno) 4,37 
+Maíz (Chala) 4,33 
+Sebo vacuno 9,46 
+Energía Bruta (EB) 
+Energía Heces (Eh) Energía Digestible (ED) 
+Energía (Eg) 
+de Gases 
+Energía (Eo) 
+de Orina 
+Energía (EM) 
+Metabolizable 
+En el proceso de utilización de la energía ingerida, la pérdida en las heces es la 
+primera y, cuantitativamente, la más importante y más variable. 
+Energía Digestible (ED) 
+Definición: Es la parte de la Energía Alimentaria Consumida que NO aparece en las 
+heces 
+ED = EB – Energía de heces (exógena y endógena) 
+ED = 30 - 90 % de EB 
+Digestibilidad  
+de la Energía Proporcional a la digestibilidad de la MO. 
+Principal determinante: contenido y características de los Carbohidratos 
+estructurales 
+Energía Digestible (ED) 
+Determinación 
+Pruebas de digestibilidad 
+Bomba Calorimétrica (Calorimetría): Se pasa por la bomba el 
+alimento y las heces. Se resta la EB de las heces a la EB del 
+Alimento, obteniéndose la ED aparente 
+Análisis químico, y posterior estimación por composición de lo 
+ingerido y excretado 
+Determinación de los Nutrientes Digestibles Totales (NDT) 
+Nutrientes EB 
+(Kcal/gr) 
+Pérdida 
+fecal (% de 
+EB) 
+ED 
+(Kcal/gr) 
+Pérdida en 
+orina (% de 
+ED) 
+VFC 
+(Kcal/gr) 
+Carbohidratos 4,15 2 4,00 0 4,00 
+Lípidos 9,45 5 9,00 0 9,00 
+Proteínas 5,62 8 5,20 23 4,00 
+Nutrientes Digestibles Totales (NDT) 
+Valor Fisiológico de Combustión 
+Energía Bruta (EB) 
+Energía Heces (Eh) Energía Digestible (ED) 
+Energía (Eg) 
+de Gases 
+Energía (Eo) 
+de Orina 
+Energía (EM) 
+Metabolizable 
+Energía Calórica Energía Neta (EN) 
+Energía Metabolizable (EM) 
+Cantidad de Energía proveniente del alimento que dispone el animal 
+para realizar sus procesos metabólicos 
+Para obtener la Energía Metabolizable (EM) se le debe quitar a la ED, 
+la energía de los productos gaseosos de la digestión y la energía perdida 
+en la orina 
+EM = ED – Eg - Eo 
+EM = Ec – Eh - Eg - Eo 
+Energía Metabolizable (EM) 
+Pérdidas de Energía en gases Provienen de los procesos de fermentación en el TGI 
+(Tracto Gastro Intestinal) 
+La pérdida de Energía por gases más importante es el 
+Metano 
+EB del Metano = 13,34 Mcal/kg 
+Rumiantes: 7 – 10 % de EB 
+consumida 
+Pérdidas de Energía en orina Provienen de los compuestos nitrogenados 
+Compuesto % de N total 
+Urea 80 – 90 
+Creatina 3 – 4 
+NH4 + 2,5 – 4,5 
+Ácido Úrico 1 – 2 
+Aminoácidos 1 - 2 
+Energía Metabolizable (EM) 
+Costo energético de la Excreción del N Urea: EB = 5,50 Mcal/kg 
+Ácido Úrico: EB = 6,70 Mcal/kg 
+Pérdidas de Energía en Orina Rumiantes: 4 – 5 % de EB consumida 
+Cerdos: 2 – 3 % de EB consumida 
+Relación promedio EM/ED 
+Rumiantes= 0,82 
+Cerdos= 0,96 
+Metabolicidad de la Energía 
+q = EM/EB 
+Metabolicidad de la Energía (q) 
+Alimento Cerdo Rumiantes 
+Maíz 0,89 0,74 
+Af. Trigo 0,48 0,56 
+Heno Alfalfa 0,42 0,57 
+Causas de Variación de la metabolicidad (q) 
+Especie Animal (Tipo de digestión) 
+Tipo de Alimento 
+Concentrados 
+Alimento Fibroso 
+Ensilado 
+Energía Bruta (EB) 
+Energía Heces (Eh) Energía Digestible (ED) 
+Energía (Eg) 
+de Gases 
+Energía (Eo) 
+de Orina 
+Energía (EM) 
+Metabolizable 
+Energía Calórica Energía Neta 
+(EN) 
+Energía  
+Mantenimiento 
+Energía 
+Producción 
+Esquema de partición del uso de la Energía 
+Energía del Alimento que efectivamente es utilizada por el animal 
+Energía Neta (EN) 
+Es la Parte de la Energía Metabolizable (EM) que esd retenida como producto/s (carne, 
+leche, etc.) y/o utilizada en las funciones de mantenimiento del organismo 
+EN = EM - IC 
+IC (Incremento Calórico) es el Incremento en la producción de calor por la 
+ingestión de alimentos 
+Incremento Calórico (IC) 
+Calor que proviene de 
+Fermentaciones microbianas 
+Trabajo 
+Movimiento del TGI 
+Acción de las enzimas digestivas 
+Metabolismo de nutrientes (mantenimiento y síntesis) 
+Excreción de productos de desecho 
+
+Usos de la Energía Neta (EN) 
+Mantenimiento 
+Producción 
+Eficiencia de transformación de EM en EN 
+k = EN / EM 
+El valor de EN de un alimento para un mismo género y especie animal es variable en 
+función del proceso fisiológico en el cual se utiliza la EM (mantenimiento, lactación, 
+crecimiento, engorde, etc) 
+Energía Neta para mantenimiento (ENm) 
+Es la Fracción de la EN consumida que se destina a mantener el equilibrio 
+energético del animal. 
+ENm 
+Metabolismo basal 
+Termorregulación 
+Actividad voluntaria del animal 
+Energía Neta para mantenimiento (ENm) 
+Metabolismo basal 
+Son las necesidades energéticas del organismo de un animal en post-absorción, 
+reposo y ambiente termoneutro 
+Incluye Funciones de servicio 
+Funciones de mantenimiento celular 
+La energía que se emplea en estos procesos, se disipa como calor, siendo este calor 
+suficiente (en varias condiciones climáticas) para mantener la temperatura interna 
+Energía Neta para mantenimiento (ENm) 
+Metabolismo 
+Basal 
+Funciones de Servicio 
+Trabajo de circulación y respiración 
+Trabajo hepático y renal 
+Funciones nerviosas 
+Funcionamiento de órganos vitales 
+Funciones de 
+mantenimiento celular 
+Renovación de proteínas y lípidos 
+Transporte de iones  
+(Ca y Na principalmente) 
+50 – 60 % 
+40 – 50 % 
+Energía Neta para mantenimiento (ENm) 
+Metabolismo basal  Es la producción de calor en ayuno 
+Es proporcional al Peso Metabólico Corporal (PMC) 
+PMC = PV0,75 
+Energía Neta para mantenimiento (ENm) 
+Termorregulación 
+Es la Energía destinada a mantener la temperatura corporal 
+Costo energético (bovinos, NRC 2000) 
+ENm = 0,007 * (20 - T) Mcal/PV0,75/día 
+
+Energía Neta para mantenimiento (ENm) 
+Actividad voluntaria 
+Es la Energía necesaria para acostarse/levantarse, buscar alimentos, ingerir alimentos, 
+ingerir agua, etc. 
+O sea, es el incremento del costo energético de mantenimiento 
+En general se lo considera 10 a 15 % cuando los animales están en pastoreo 
+Vacas Lecheras en lactación 
+10 % en buenas pasturas 1,4 Kg leche 
+20 % en pasturas pobres 2,6 Kg leche 
+Energía Neta para mantenimiento (ENm) 
+Costo energético de la Actividad Voluntaria 
+Actividad Cal/Kg PV/hora 
+Comer 0,55 
+Rumiar 0,24 
+Parado 0,12 
+Caminar 
+               Horizontal 0,6 / Km 
+              Vertical 6,45 / Km 
+Energía Neta para mantenimiento (ENm) 
+Requerimiento bovinos de carne y leche 
+ENm = 0,077 Mcal / KPV0,75 
+Eficiencia en la utilización de la EM del alimento para mantenimiento 
+km = 0,28 q + 0,554    (INRA) 
+km = 0,64 (NRC) 
+Energía Neta para producción (ENp) 
+Es la Energía retenida en los tejidos sintetizados 
+Incorporados Ganancia de peso 
+Exportados Producción de leche 
+Energía Neta para producción (ENp) 
+EN para ganancia de peso 
+Costo Proteína: 10,6 Mcal/kg 
+Grasa: 12,5 Mcal/kg 
+Tejido Magro tiene 20 – 23 % Proteínas 
+Tejido Adiposo tiene 80 – 95 % Grasa 
+Costo de 1 Kg de tejido magro es 5,5 Mcal 
+Costo de 1 Kg de tejido adiposo es 9,5 Mcal 
+Uso de la EM del alimento para ganancia 
+kg = 0,78 q + 0,006 
+ENg (Mcal/kg) = 1,42 EM – 0,174 EM2 + 0,0122 EM3 – 1,65 
+Fuente NRC 2000 
+Energía Neta para producción (ENp) 
+EN para producción de leche 
+Energía retenida en la leche (Mcal/kg) 
+0,0929 * % EE + 0,0547 * % PC + 0,192 
+Uso de la Energía Metabolizable (EM) para producir leche 
+kl = 0,64 
+kl = 0,6 + 0,24 (q – 0,57) 
+Eficiencias (Di Marco, 1993) 
+km = 0,35 q + 0,503     (mantenimiento) 
+ke = 0,8 q    (engorde en rumiantes de carne) 
+Ke l = 0,95 kl    (engorde en rumiantes de leche) 
+kl= 0,35 q + 0,420     (uso de la energía del alimento para lactación) 
+kg = 0,133     (gestación) 
+kle = 0,84     (uso de la energía de las reservas corporales para lactación) 

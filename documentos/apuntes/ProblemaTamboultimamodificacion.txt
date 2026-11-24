@@ -1,0 +1,263 @@
+=== Fuente: ProblemaTamboultimamodificacion.pdf ===
+
+Problema Tambo Pastoreo con 
+suplementación
+Formular una dieta para vacas lecheras en 
+pastoreo con las siguientes 
+características:
+• Peso vivo: 580 kg
+• Producción de leche: 36 lt/d, 3.5% GB
+• Días en leche: 65
+Calcular,
+• Consumo de materia seca
+• La variación de peso vivo si la DMS de la 
+dieta es igual a 70%
+Supuestos
+• CMS = 0.025 x PV + 0.22 x PL
+• AV = 25%
+• kl = 0.62
+Estimación del CMS y energía
+CMS = 0.025 x 580 + 0.22 x 36
+CMS = 22.42 kg MS/d
+EM/kg MS = 4.4 Mcal EB x 0.7 (DMS) x 0.82 = 
+2.52 Mcal EM/kg MS
+CE = 22.42 kg MS/d x 2.52 Mcal EM/kg MS = 
+56.5 Mcal EM/d
+Calculo de requerimientos
+Peso = 580 kg
+ENm = 0.085 x 580 0.75 x 1.25 = 12.55 Mcal EN/d
+EMm = 12.55 / 0.62 = 20.24 Mcal EM/d
+ENp (por tabla) = 0.69 Mcal EN/lt x 36 lt/d = 24.84 
+Mcal EN/d
+EMp = 24.84 / 0.62 = 40.06 Mcal EM/d
+EMtotal = 20.24 + 40.06 = 60.3 Mcal EM/d
+Balance energético y variación de 
+peso corporal
+Balance energético = CE – Req. Totales
+BE = 56.5 Mcal EM/d – 60.3 Mcal EM/d
+BE = - 3.8 Mcal EM/d
+BE = -3.8 Mcal EM/d x 0.62 = - 2.36 Mcal EN/d
+Pérdida de peso = - 2.36 / - 4.92 (tabla) =
+- 0.48 kg/d
+Cálculo de requerimientos
+Requerimientos proteicos x tabla
+Mantenimiento = 406 g/d (Tabla)
+Producción = 84 g/lt x 36 lt = 
+3024 g/d
+Total = 406 + 3024 = 3430 g/d
+PB dieta (%) = 3.43/22.42 = 15,3%
+Situación Problemática
+Pastura
+AM: 17% MS, 25% PB, EM = 2.4 Mcal/kg MS
+PM: 22% MS, 21% PB, EM = 2.6 Mcal/kg MS
+Si los animales deben pastorear medio día ¿cuál 
+sería el mejor momento de ingreso a la parcela? 
+Formular un balanceado que cubra los 
+requerimientos de energía y proteína 
+teniendo en cuenta que,
+• 40% dieta es pastura
+• 20% dieta es silaje de maíz (35% MS, 8% 
+PB, 2.2 Mcal EM/kg MS)
+• 40% dieta es el balanceado el cual debe 
+incluir 200 g PMX/vaca/d (100% MS)
+Alimentos disponibles
+8,09189Grano de 
+maíz (GM)
+428387Pellet soja 
+(PS)
+14.07290Afrechillo de 
+trigo (AT)
+EM 
+(Mcal/kg MS)
+PB 
+(%bs)
+DMS 
+(%bs)
+MS 
+(%)
+Alimento
+Alimentos disponibles
+3,38,09189Grano de 
+maíz (GM)
+3.0428387Pellet soja 
+(PS)
+2.614.07290Afrechillo de 
+trigo (AT)
+EM 
+(Mcal/kg MS)
+PB 
+(%bs)
+DMS 
+(%bs)
+MS 
+(%)
+Alimento
+A resolver:
+• Formular el balanceado que cubra los 
+requerimientos de energía y proteína
+• Calcular la cantidad de ingredientes a 
+mezclar en el mixer (silajes más 
+concentrados) para un rodeo de 40 vacas
+• Calcular la cantidad de m 2 de pastura para 
+un rodeo de 40 vacas con 2100 kg MS/ha y 
+60% eficiencia de cosecha
+Objetivos de formulación
+CMS pastura = 22.42 x 0.4 = 8.97 kg MS
+CE pastura = 8.97 kg MS x 2.6 Mcal/kg MS = 23.32 Mcal EM
+CMS silaje = 22.42 x 0.2 = 4.48 kg MS
+CE silaje = 4.48 kg MS x 2.2 Mcal/kg MS = 9.86 Mcal EM
+CMS balanceado =  22.42 x 0.4 = 8.97 kg MS – 0.2 kg PMX 
+= 8.77 kg MS
+CE balanceado =  EM total req. – CE pastura – CE silaje 
+CE balanceado = 60.3 – 23.32 – 9.86 = 27.12
+EM/kg MS balanceado = 27.12 / 8.77 = 3.1 Mcal/kg MS
+Objetivos de formulación
+CMS pastura = 22.42 x 0.4 = 8.97 kg MS
+CPB pastura = 8.97 kg MS x 21% PB = 1.88 kg PB
+CMS silaje = 22.42 x 0.2 = 4.48 kg MS
+CPB silaje = 4.48 kg MS x 8% PB = 0.36 kg PB
+CMS balanceado =  22.42 x 0.4 = 8.97 kg MS – 0.2 kg PMX 
+= 8.77 kg MS
+CPB balanceado =  PB total req. – CPB pastura – CPB silaje 
+CPB balanceado = 3.43 – 1.88 – 0.36 = 1.19
+PB balanceado (%) = 1.19 / 8.77 = 13.6 %
+Primero formulo por energía
+GM   3.3
+AT      2.6
+3.1
+0.2
+0.5
+0.7
+0.5/0.7 = 0.71
+0.2/0.7 = 0.29
+71%
+29%
+Premezcla 1
+Primero formulo por energía
+PS   3.0
+GM     3.3
+3.1
+0.1
+0.2
+0.3
+0.2/0.3 = 0.67
+0.1/0.3 = 0.33
+67%
+33%
+Premezcla 2
+Calculo de PB de las 
+premezclas 1 y 2
+• Premezcla 1 = 8% PB de GM x 0.71 + 
+14% PB de AT x 0.29 = 9.7% PB
+• Premezcla 2 = 42% PB de PS x 0.67 + 
+8% PB de GM x 0.33 = 30.8% PB
+Formulación por PB
+Premezcla 1 9.7%
+Premezcla 2  30.8%
+13.6
+3.9
+17.2
+21.1
+17.2/21.1 = 0.82
+3.9/21.1 = 0.18
+82%
+18%
+Mezcla final
+Formulación final…
+Prem. 2
+Prem. 1
+29*0,82=23.82990AT
+33*0,18=5.93388GM
+67*0,18=12.1
+18
+6787PS
+71*0,82=58.2
+82
+7188GM
+Mezcla 
+(%bs)
+Mezcla 
+final 
+(%bs)
+Prem. 
+(%bs)
+MS 
+(%)
+Alimento
+----------
+100 %
+2.2
+62.7/0.88
+=71.25
+11.8/0.87
+=13.6
+23.3/0.9= 
+25.9
+Mezcla 
+con PMX 
+(% MH)
+71.25/112.9
+=63
+64.1x0.978=
+62.764.1Grano de maíz
+2.2/112.9
+=1.94(0.2/8.97)=2.2-PMX
+12.1x0.978=
+11.8
+23.8x0.978=
+23. 3
+Mezcla con 
+PMX (% MS)
+13.6/112.9=
+12.0412.1Pellet de soja
+25.4/112.9
+=22.523.8Afrechillo de trigo
+Mezcla (kg
+MH)
+Mezcla 
+(% MS)Alimento
+----------
+100 kg MS
+----------
+112.9 kg MH
+----------
+100 kg MH
+Cálculo de MH en el mixer
+80.20.2PMX
+5124.48/0.35= 
+12.8
+4.48Silaje
+92.42.08/0.9= 
+2.3
+2.08Afrechillo 
+de trigo
+48.71.06/0.87= 
+1.22
+1.06Pellet de 
+soja
+2555.62/0.88=
+6.38
+5.62Grano de 
+maíz
+Para 40 vc
+(kg MH/ día)
+CVMH 
+(kg MH/ día)
+CVMS 
+(kg MS/día)
+Alimento
+CMH balanceado = 8.77 kg MS/ (100/112.9) 
+= 9.96 kg MH x 40 vc = 396 kg MH
+Otra forma
+Calcular la cantidad de m 2 de pastura para 
+un rodeo de 40 vacas con 2100 kg MS/ha 
+y 60% eficiencia de cosecha
+• 40% dieta es pastura
+CMS pastura = 22.42 x 0.4 = 8.97 kg MS
+1 ha ------ 2100 kg MS
+Pero EC = 60 %, entonces
+1 ha ----- 1260 kg MS
+Luego, si 
+1260 kg MS ------ 10000 m 2
+8.97 kg MS ------- x = 71.2 m 2/vc/ día
+71.2 m 2/vc/ día x 40 vc = 2848m 2

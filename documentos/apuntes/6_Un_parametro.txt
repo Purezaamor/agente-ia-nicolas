@@ -1,0 +1,244 @@
+=== Fuente: 6_Un_parametro.pdf ===
+
+ 1 
+PRUEBAS DE HIPÓTESIS: UNA POBLACIÓN 
+ 
+• PRUEBA DE HIPÓTESIS SOBRE μμμμ CUANDO SE CONOCE σσσσ2 
+ 
+1. Se definen las hipótesis H 0 y H 1 (unilaterales o bilaterales) 
+a) H o:   μ = μo  H1:   μ ≠ μo (bilateral) 
+b) H o:   μ = μo  H1:   μ > μo (unilateral) 
+c) H o:   μ = μo  H1:   μ < μo (unilateral) 
+2. Se define el nivel de significación  α = αo 
+3. Explicitación de los supuestos y elección del estadístico cuya 
+distribución muestral es conocida: 
+ 
+ - Muestra aleatoria - Población normal -  σσσσ² conocida 
+)1,0()(* 0 NXnz ∼−= σ μ  
+4. Se determina la Región Crítica (RC) 
+ a) RC = {z:  |z| > z 1-α/2 } donde z 1-α/2 es el cuantil 1-α/2 de la N(0, 1) 
+ b) RC = {z:   z > z 1-α} donde z 1-α es el cuantil 1-α de la N(0, 1) 
+ c) RC = {z:   z < z α  } donde z α es el cuantil α de la N(0, 1) 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+αααα
+Z1-αααα 0 z
+αααα
+Z1-αααα 0
+αααααααα
+Z1-αααα 0 Z1-αααα 00 z
+N (0 , 1 ) 
+ 2 
+5. Se calcula el estadístico z. 
+6. Se verifica si z cae en la RC o fuera de ella (o se compara el valor-P con 
+el nivel de significación) y se concluye acorde. 
+ 
+Ejemplo : La ganancia de peso promedio de 16 cerdos sometidos a una 
+dieta sobre un determinado período fue de 17,1 kg. Se desea comprobar si 
+es posible afirmar que esta dieta produce una ganancia de peso promedio 
+inferior a 18 kg durante ese período, con un nivel de significación del 5% y 
+suponiendo que la variabilidad del peso de los cerdos es conocida e igual a 
+4 kg 2.  
+ 
+Respuesta  1: Ho:   μ = 18  H1:   μ < 18 
+z = 4*(17,1-18)/2 = -1,8  z0.05  = -1,645 Se Rechaza H 0 
+ 
+• Si hubiera sido bilateral: Ho:   μ = 18  H1:   μ < 18 
+|z| = |4*(17,1-18)/2| = |-1,8|  z0.975  = 1,96  No se Rechaza H 0 
+I.C.: 17,1 ±1,96*2/4 = 17,1 ±0,98 ⇒ (16,12; 18,08), contiene a 18. 
+ 
+• Si hubiera sido bilateral y n=25: Ho:   μ = 18  H1:   μ < 18 
+|z| = |5*(17,1-18)/2| = |-2,25|  z0.975  = 1,96  Se Rechaza H 0 
+I.C.: 17,1 ±1,96*2/5 = 17,1 ±0,784 ⇒ (16,316; 17,884), no contiene 18. 
+ 
+• Si hubiera sido bilateral con n =16 pero α = 10%  
+Ho:   μ = 18  H1:   μ < 18 
+|z| = |4*(17,1-18)/2| = |-1,8|  z0.95  = 1,645  Se Rechaza H 0 
+ 
+ 3 
+• PRUEBA DE HIPÓTESIS SOBRE μμμμ CUANDO SE DESCONOCE σσσσ2 
+ 
+1. Se definen las hipótesis H 0 y H 1 (unilaterales o bilaterales) 
+a) H o:   μ = μo  H1:   μ ≠ μo (bilateral) 
+b) H o:   μ = μo  H1:   μ > μo (unilateral) 
+c) H o:   μ = μo  H1:   μ < μo (unilateral) 
+2. Se define el nivel de significación  α = αo 
+3. Explicitación de los supuestos y elección del estadístico cuya 
+distribución muestral es conocida: 
+ 
+ - Muestra aleatoria - Población normal -  σσσσ² desconocida  
+)1(
+0 )(*
+−∼−= ntS Xnt μ  
+ 
+4. Se determina la Región Crítica (RC) 
+ a) RC = {t:  |t| > t 1-α/2 } donde t 1-α/2 es el cuantil 1-α/2 de la t(n - 1) 
+ b) RC = {t:   t > t 1-α} donde t 1-α es el cuantil 1-α de la t(n - 1) 
+ c) RC = {t:   t < t α  } donde t α es el cuantil α de la t(n - 1) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+t(n-1)
+αααα
+t1-αααα0 t
+αααα
+t1-αααα0
+αααααααα
+t1-αααα0 t1-αααα00 t
+ 4 
+5. Se calcula el estadístico t. 
+6. Se verifica si t cae en la RC o fuera de ella (o se compara el valor-P con 
+el nivel de significación) y se concluye acorde. 
+ 
+Ejemplo : De un rodeo de 200 cabezas de raza AA alimentada con ensilaje 
+de maíz, se extrajo una m. a. de 7 novillos y se obtuvo un coeficiente de 
+digestibilidad de materia seca (%). La experiencia del  investigador a  
+cargo, le indica que la digestibilidad medida en la raza Hereford es μ = 54 y 
+desea saber si la raza bajo estudio tiene una media mayor que ésta, con un 
+nivel de significación del 5%.  
+Muestra: 57,8  56,2  61,9  54,4  53,6  56,4  53,2 
+ 
+Respuesta :  
+1. H o: µ = 54           H 1: µ > 54. 
+2. Fija como nivel de significación   = 0,05. 
+3. Supuestos: 
+ 1.- Se extrajo una muestra aleatoria. 
+ 2.- La variable medida no se aparta de la normalidad. 
+ 3.- La varianza es desconocida 
+El estadístico es t. 
+ 
+4. t0,95 ; 6  = 1,943  
+ 
+5. Media muestral = 56,214286; Varianza muestral = 9,0147619 
+           t = 1,9512169          t0,95  (6)= 1,943   
+ 
+ 5 
+6. Se rechaza H 0. La raza bajo estudio tiene un coeficiente promedio de 
+digestibilidad de materia seca mayor que el de la raza Hereford. 
+ 
+ 
+• PRUEBAS DE HIPÓTESIS SOBRE σσσσ2 
+ 
+1. Se definen las hipótesis H 0 y H 1 (unilaterales o bilaterales) 
+a) H o: σ2 = σ2 o  H1: σ2 ≠ σ2 o (bilateral) 
+b) H o: σ2 = σ2 o  H1: σ2 > σ2 o (unilateral) 
+c) H o: σ2 = σ2 o  H1: σ2 < σ2 o (unilateral) 
+2. Se define el nivel de significación  α = αo 
+3. Explicitación de los supuestos y elección del estadístico cuya 
+distribución muestral es conocida: 
+ - Muestra aleatoria - Población normal   
+2
+)1(2
+0
+2*)1(
+−∼− n Sn χσ  
+4. Se determina la Región Crítica (RC) 
+a) RC = { χ2:  χ2 > χ2 1-α/2   o  χ2 < χ2 α/2  }  
+Donde: χ2 1-α/2  es el cuantil 1-α/2 de la χ2(n - 1) y 
+    χ2 α/2  es el cuantil α/2 de la χ2(n - 1) 
+ b) RC = { χ2:  χ2 > χ2 1-α }, donde χ2 1-α es el cuantil 1-α de la χ2(n - 1) 
+c) RC = { χ2: χ2 < χ2 α } donde χ2 α es el cuantil α de la χ2(n –1)  
+ 
+5. Se calcula el estadístico χ2. 
+ 
+ 6 
+6. Se verifica si χ2 cae en la RC o fuera de ella (o se compara el valor-P 
+con el nivel de significación) y se concluye acorde. 
+ 
+Ejemplo : una empresa utiliza una máquina que realiza piezas para 
+instrumental de laboratorio con una varianza de los diámetros de esas 
+piezas de 0,0002. La empresa quiere adquirir otra máquina siempre que la 
+variabilidad de los diámetros sea más pequeña. Efectúa una prueba, 
+tomando una muestra de tamaño 10 sobre la nueva máquina y obtiene una 
+variabilidad muestral de 0,00019. ¿Qué decisión toma con α = 0,05? 
+ 
+Respuesta : 
+Ho: σ2 = 0,0002  H1: σ2 < 0,0002 
+ 
+Chi = 9*0,00019/0,0002 = 8,55 Valor de tabla: 3,33.  
+ 
+No se rechaza. No se compra la nueva máquina. 
+ 
+ 
+• PRUEBAS DE HIPÓTESIS SOBRE p (proporción de una Binomial) 
+ 
+1. Se definen las hipótesis H 0 y H 1 (unilaterales o bilaterales) 
+a) H o:   p = p o  H1:   p ≠ p o (bilateral) 
+b) H o:   p = p o  H1:   p > p o (unilateral) 
+c) H o:   p = p o  H1:   p < p o (unilateral) 
+ 
+2. Se define el nivel de significación  α = αo 
+ 7 
+3. Explicitación de los supuestos y elección del estadístico cuya 
+distribución muestral es conocida: 
+ 
+ - Muestra aleatoria - Población Binomial - n grande 
+ 
+• Si n es pequeño se trabaja con la distribución Binomial 
+ 
+• Si n es grande se emplea la aproximación Normal (TCL) 
+ 
+)1,0(
+)1(**
+)*(
+00
+0 N
+ppn
+pnXz ≈
+−
+−=  
+ 
+4. Se determina la Región Crítica (RC) 
+ a) RC = {z:  |z| > z 1-α/2 } donde z 1-α/2 es el cuantil 1-α/2 de la N(0, 1) 
+ b) RC = {z:   z > z 1-α} donde z 1-α es el cuantil 1-α de la N(0, 1) 
+ c) RC = {z:   z < z α  } donde z α es el cuantil α de la N(0, 1) 
+ 
+5. Se calcula el estadístico z. 
+6. Se verifica si z cae en la RC o fuera de ella (o se compara el valor-P con 
+el nivel de significación) y se concluye acorde. 
+ 
+Ejemplo : Se desea averiguar si más del 70% de la población del país come 
+milanesa de carne vacuna preparada en su hogar. A tal fin se realizó una 
+encuesta de opinión, y para una muestra aleatoria de 500 personas, 435 
+contestaron afirmativamente. Si se trabaja con un nivel de significación α = 
+0,05, ¿qué conclusión se obtiene? 
+ 8 
+Respuesta : 
+ 
+1. H0: p = 0,7  H1: p > 0,70 
+ 
+2.  α = 0,05 
+ 
+3.   Supuestos: 
+1.- Se extrajo una muestra aleatoria. 
+2.- El tamaño de muestra es suficientemente grande para   
+     emplear la aproximación normal a la distribución binomial 
+ 
+El estadístico es z. 
+ 
+4. z0.95  = 1,645.    Con lo que la RC = {Z: Z > 1,645} 
+ 
+ 
+ 
+ 
+ 
+6. Se Rechaza H 0 , al 5%. Es posible afirmar, con una probabilidad de 0,05 
+de cometer error, que más del 70% de la población del país come milanesa 
+de carne vacuna preparada en su hogar.  
+ 
+( )
+30,8
+70,0170,0500
+)70.0500435(.5 =
+−××
+×−=z

@@ -1,0 +1,661 @@
+=== Fuente: 13_Comparaciones_de_medias.pdf ===
+
+     COMPARACIONES DE MEDIAS 
+ 
+ 
+1. Procedimientos “a posteriori”. 
+ 
+Una vez efectuado el análisis de varianza y, en particular, cuando se rechaza la igualdad de las 
+medias de un efecto, para un modelo de Efectos Fijos y sin una estructura particular de los 
+tratamientos, es conveniente determinar cuáles son los efectos que difieren a nivel poblacional, 
+o, efectuar un ordenamiento significativo de las medias. Para t tratamientos, se pueden realizar 
+t (t  - 1) /2 comparaciones de a pares. 
+ 
+Definamos primero los errores de Tipo I y II en el contexto de los procedimientos de 
+comparaciones de medias. 
+El Error Tipo I es rechazar H 0 cuando  H0 es verdadera, y se comete cuando juzgamos a un par 
+de medias de tratamientos como significativamente diferentes, cuando en realidad son iguales. 
+El Error Tipo II es no rechazar (“aceptar”) H 0 cuando  H1 es verdadera, y ocurre cuando un par de 
+medias de tratamientos es realmente diferente, pero no se detectan como diferentes, las 
+consideramos iguales.  
+Se pretende siempre que ambos errores sean mínimos. La manera de reducir ambos errores 
+simultáneamente es aumentar el número de repeticiones, o reducir el C.M.Error . 
+ 
+La posibilidad más simple es dar una tabla con todas las diferencias estimadas de todas las 
+medias de los tratamientos y sus correspondientes desvíos estándares. Para la diferencia entre 
+dos medias de tratamientos, las hipótesis nula y alternativa son:  
+ 
+H0 : 0'' =−⇒= iiii μμμμ            ∀  i ≠ i’  
+H1 : 0'' ≠−⇒≠ iiii μμμμ           ∀  i ≠ i’  
+.i.i 'YY −  
+ 
+El estimador de la diferencia de las medias es:                con varianza: 
+ 
+)11(
+'
+2
+ii rr +σ  
+ 
+ó                                                                     r/2 2σ                                                                 (1)      
+ 
+para igual número de repeticiones por tratamiento, por lo que:   
+     
+))rr(;(NYY ' '' ii ii.i.i
+112 +−≈− σμμ
+ 
+      
+                                                                                                                                                     
+ 
+ 
+siendo el estimador de  
+2σ  el C.M.Error , o sea, E( C.M.Error ) = 2σ , bajo los supuestos del 
+ANOVA (normalidad y homogeneidad de varianzas). Se puede, entonces, construir una variable 
+t con distribución t de Student para probar todas las diferencias de las medias. Pero, estos tests 
+no son independientes, están basados en los mismos datos, y el valor del α  para todas las 
+comparaciones ya no es el nivel de significación elegido, sino un valor mayor. Por ejemplo, 
+supongamos que se realizan tres comparaciones ( p = 3) simultáneamente, cada una al 5%, o 
+sea,  α  = 0,05 y si cada H 0 es verdadera, para cada test:  
+ 
+P(rechazar H 0 ) = 0,05  
+P(“aceptar” H 0 ) = 0,95  
+P(“aceptar” las tres ) = (0,95) 3 = 0,8573 
+P(rechazar al menos una ) = 1-0,8573 = 1 - (0,95) 3 = 0,1426 
+ 
+Si los tests son independientes, cada uno con el mismo nivel α , entonces, la probabilidad de 
+las p (tres, en este ejemplo) hipótesis simultáneamente es: 
+P( al menos un Error de Tipo I ) = 1 – (1- α ) p , siendo p = t ( t - 1 ) /2.  
+Hay que tener en cuenta que esta probabilidad crece rápidamente cuando p aumenta.  
+ 
+Otra posibilidad es emplear tests “a posteriori”, es decir, alguna prueba de comparaciones 
+múltiples o algún test de rangos múltiples, que controlen la tasa de error  α. Estas pruebas no 
+sólo se emplean dentro del diseño completamente aleatorizado sino que pueden usarse con 
+cualquiera de los diseños que se verán más adelante. 
+ 
+En general, consisten en obtener uno o un grupo de valores, diferencia(s) mínima(s) 
+significativa(s) , a partir de los cuales se determina que la diferencia entre dos medias de 
+tratamientos es significativamente diferente. La fórmula genérica para obtener la(s) diferencia(s) 
+mínima(s) significativa(s) (D. M. S.), cuando se trabaja con igual número de repeticiones es: 
+ 
+)2(..)..,(... r ErrorMCErrorlibgrtgSMD α=  
+donde, la cantidad gα depende del valor de la tasa de error empleada, α ; del número de 
+tratamientos, t ; y de los grados de libertad del error, y se obtiene a partir de una tabla 
+determinada por el método empleado. Dos medias son significativamente diferentes, si el valor 
+absoluto de su diferencia supera el valor de D. M. S. de la ecuación (2). 
+Cuando el diseño es desbalanceado, se emplean pruebas aproximadas basadas en la media 
+armónica.  
+ 
+La mayoría de los “software” estadísticos efectúa diversas pruebas de comparaciones múltiples 
+y de test de rangos múltiples. 
+ 
+ 
+2. Pruebas de comparaciones múltiples: utilizan un solo valor crítico . 
+ 
+2.1. Prueba de “Mínima Diferencia Significativa”.  
+ 
+Emplea como valor gα el obtenido a partir de la tabla t de Student e incorpora un 2 dentro de la 
+raíz de la ecuación (2), ya que está considerando la varianza de la diferencia entre dos medias, 
+para igual número de repeticiones, ecuación (1): 
+ 
+)3(..*2)..(... r ErrorMCErrorlibgrtSDM α=  
+ 
+ó 
+)4(..)..,2(... r ErrorMCErrorlibgrqSDM α=  
+  
+En la ecuación (4) el valor qα se obtiene de la distribución del rango estudentizado de Tukey, 
+ecuación (5), y el valor t es reemplazado por 2, ya que considera que todas las medias están 
+contiguas (orden 2). Los tratamientos difieren entre sí: ..... ' SDMYY ii >−   
+Esta prueba emplea la tasa de error por comparaciones  ( αc) que se detalla en la ecuación 
+siguiente: 
+ 
+nescomparaciodetotalnúmero
+ivassignificatasconsideradmenteincorrectanescomparaciodenúmero
+c =α
+ 
+ 
+para todas las repeticiones de una situación experimental específica, en la que de todas las 
+comparaciones, una fracción es incorrectamente considerada significativa. Para un solo 
+experimento, la cota superior de la tasa de error es: αp = 1 – (1 – α ) p ,   siendo   p = t ( t - 1 ) /2 . 
+Al emplear este método, debe notarse que la tasa de error se incrementa notablemente al 
+aumentar el número de tratamientos, detectando a menudo más diferencias entre medias de 
+tratamientos que las que realmente existen. Por este motivo, resulta uno de los métodos menos 
+confiables y el menos recomendable.  
+Conocido como Fisher’s LSD ó MDS de Fisher o “Fisher protegido”, este procedimiento se usa 
+solamente cuando se detectaron diferencias significativas en el análisis de varianza, ya que en 
+realidad, consiste en efectuar todos las comparaciones de a pares empleando la distribución t 
+de Student. 
+ 
+ 
+2.2. Prueba de Tukey.  
+ 
+La comparación entre la media máxima y la mínima (orden t) es la más obvia sugerida por los 
+datos, para ello se necesita la distribución del rango estudentizado ( rt ) que depende del número 
+de repeticiones (tamaño de muestra) y de los grados de libertad del error: 
+ 
+)5()..,(
+..
+Errorlibgrtq
+r
+ErrorMC
+YYrt minmax α≈−=
+ 
+ 
+El procedimiento de Tukey utiliza esta distribución (la tabla figura en la mayoría de los libros de 
+Diseño de Experimentos) como único valor para qα: 
+ 
+)6(..)..,( r ErrorMCErrorlibgrtqT α=∆  
+ 
+ 
+Con diferente número de repeticiones: 
+ 
+)7(11 2 ..)..,( '       +=∆ ii rr ErrorMCErrorlibgrtqT α  
+ 
+TYY .i.i ' ∆>−  
+ 
+Los tratamientos difieren entre sí:                         .  
+ 
+Controla la tasa de error experimental : 
+ 
+osexperimentdetotalnúmero
+ivasignificataconsideradmenteincorrectancomparaciómenosalconexperdenúmero
+E
+1.=α
+ 
+ 
+donde “ número total de experimentos ” serían todas las posibles repeticiones de una situación 
+experimental específica. Cabe destacar, que un experimento es incluido en el numerador si se 
+detecta alguna comparación incorrecta. O sea, un experimento con 1 ó 50 decisiones 
+incorrectas se considera “igualmente indeseado” y será contado una vez en el numerador.    
+Debido a la tasa de error que controla, esta prueba es más conservadora que la prueba 
+anteriormente mencionada, es decir detecta menos diferencias significativas entre medias, pero 
+se puede tener mayor seguridad de que las diferencias que detecte sean realmente válidas. 
+Con la distribución del rango estudentizado se pueden construir intervalos de confianza para la 
+diferencia de las medias, que se indican en el punto 8.3.1. 
+ 
+ 
+ 
+3. Pruebas de rangos múltiples: utilizan dos o más valores críticos. 
+ 
+Se emplea para ordenar las medias de los tratamientos, usa rangos múltiples y un nivel de 
+significación variable qα’ que depende del número de medias involucradas en cada 
+comparación. Primero se ordenan las medias de menor a mayor y se comienza a comparar la 
+media más grande con la más pequeña (en este caso hay t medias involucradas), si no se 
+presentan diferencias la prueba termina, caso contrario se continúa con  las comparaciones 
+intermedias. La idea con la que fueron creadas estas pruebas es que a medida que el número 
+de medias se incrementa, menor es la probabilidad de que sean semejantes. 
+ 
+ 
+3.1. Prueba de Duncan. 
+ 
+A cada paso ajusta el valor crítico y no mantiene constante la tasa de error por paso . La tasa de 
+error para el paso p*   o tasa de error compuesta  es: 
+ 
+                                                        αp* = 1 - (1 - α ) p* –1                                                                  (8) 
+ 
+Supongamos que pueden realizarse tests independientes de medias. Si cada comparación se 
+realiza usando una tasa de error de Tipo I de α = 0,05, se obtienen las siguientes tasas de error 
+compuestas para los pasos p* : 
+ 
+ 
+p* αp*  p*  αp*  
+2 0,0500 9 0,3366 
+3 0,0975 10 0,3698 
+4 0,1426 11 0,4013 
+5 0,1855 15 0,5123 
+6 0,2262 20 0,6226 
+7 0,2649 25 0,7080 
+8 0,3017   
+ 
+Así, para 2 medias es α  y  para 7 medias involucradas ( p* = 7) la tasa de error compuesta  es 
+mayor al 25%, es decir, que la probabilidad de una o más decisiones incorrectas es igual a 
+0,2649. 
+ 
+Este test se aplica de la misma manera que el S-N-K. El valor crítico de comparación es: 
+ 
+)9(..)..*,( r ErrorMCErrorlibgrpzD α=∆  
+ 
+ 
+ 
+ 
+donde los valores zα’(p* , gr. lib. Error ) se puede obtener de la tabla de Duncan, p*  es el número 
+de medias involucradas en cada comparación y varía entre 2 y t ( p*  = 2, 3,..., t  ).  
+DYY .i.i ' ∆>−  
+ 
+Los tratamientos difieren entre sí:                          .   
+ 
+Cuando dos medias no difieren entre sí, se asume que las que se encuentran entre ellas son 
+iguales.  
+ 
+Si el número de repeticiones es diferente, el valor r se reemplaza por: 
+ 
+)10(111
+21 trrr
+tñ
++++
+=
+L
+ 
+ 
+ 
+Esta prueba es más conservadora que la de Mínima Diferencia Significativa (L.S.D.), es decir 
+permite detectar menos diferencias entre medias que la anterior. De todos modos, se la 
+recomienda cuando se puede verificar su validez efectuando repeticiones de la experiencia. 
+4. Prueba de comparación con un control de Dunnnett.  
+ 
+En muchos experimentos, uno de los tratamientos es un control o un tratamiento estándar y al 
+experimentador puede interesarle compararlo con los t – 1 tratamientos restantes, es decir, no 
+se comparan todas las medias entre sí, sino éstas con un tratamiento control. Dunnett 
+desarrolló esta prueba, con un único valor para gα = dα que se obtiene de su tabla. La tasa de 
+error es αE = α , o sea, la tasa de error experimental . El valor crítico de comparación es: 
+ 
+ 
+)12(..*2)..,1( r ErrorMCErrorlibgrtdD −= α
+ 
+ 
+ 
+El tratamiento difiere del control sí:  
+                         DYY .c.i >−  
+ 
+ 
+ 
+ 
+5. Prueba de comparaciones de Bonferroni. 
+ 
+Es útil en situaciones donde sólo interesa un número fijo de comparaciones, no todas las 
+diferencias de a pares, como la prueba de Scheffé, siendo 2 ≤ m ≤  t ( t – 1 ) / 2  el número de 
+comparaciones de importancia para el investigador (para t = 10, 2 ≤ m ≤ 45 comparaciones). 
+ 
+La tasa de error α  se refiere a un conjunto específico m de comparaciones, por lo que α  es la 
+tasa de error por experimento (αPE ). Cuando sólo se consideran las comparaciones realizadas 
+dentro del experimento, o sea, dentro de la “única” repetición que se ha realizado, la tasa de 
+error dentro de experimentos ,  αW  es: 
+ 
+oexperimentsóloundedentronescomparaciodetotalnúmero
+oexperimentsóloundedentro
+ivassignificatasconsideradmenteincorrectanescomparaciodenúmero
+W =α
+ 
+ 
+Debido a las dependencias entre los tests ya citadas, αW  no puede especificarse para la 
+mayoría de los procedimientos “a posteriori”, excepto en términos de una cota superior. Para 
+todas las repeticiones de una situación experimental, αW  es una variable aleatoria cuyo valor 
+esperado (promedio) es la tasa de  error por experimento , αPE  , es decir, E( αW ) =  αPE  . 
+ 
+El valor crítico de comparación, con igual número de repeticiones por tratamiento, es: 
+ 
+)13(..*2)..(
+2 r
+ErrorMCErrorlibgrtB
+m
+α=∆
+ 
+ 
+ 
+ 
+Para diferente número de repeticiones por tratamiento, el valor crítico es: 
+)14()11(..)..(
+'2 iim rrErrorMCErrorlibgrtB +=∆ α  
+ 
+ 
+ 
+ 
+ 
+ 
+BYY .i.i ' ∆>−  
+ 
+Los tratamientos difieren entre sí:                          . 
+ 
+ 
+ 
+6. Ejemplo del empleo de las pruebas de comparaciones de medias en un Diseño 
+Completamente Aleatorizado para un modelo de efectos fijos. 
+ 
+1) El Dr. R. Lindstrom, investigador del Depto. de Horticultura de Virginia Tech, realizó un 
+experimento para estudiar el efecto de un nuevo fungicida (Nurelle) en azaleas. Seleccionó 
+49 plantas uniformes de una variedad en particular que se desarrolla en invernáculo. 
+También utilizó un funguicida estandar (Truban) a efectos comparativos. Todas las plantas 
+fueron inoculadas con el hongo dos semanas después del comienzo del ensayo. En algunas 
+plantas los fungicidas fueron aplicados antes de la inoculación y en otras, después de la 
+inoculación. La estructura de los tratamientos fue la siguiente: 
+ 
+1: Truban 
+2: Fungicida N, 1 oz. 
+3: Fungicida N, 3 oz.        3 días antes de la inoculación 
+4: Fungicida N, 5 oz. 
+5: Fungicida N, 1 oz. 
+6: Fungicida N, 3 oz.        7 días después de la inoculación 
+7: Fungicida N, 5 oz. 
+ 
+Los resultados (en gramos) fueron los pesos frescos de cada una de las siete plantas de cada 
+tratamiento, después de tres semanas.  
+ 
+Tratamientos 
+1 2 3 4 5 6 7 
+43 38 39 47 37 36 34 
+37 35 41 43 41 35 44 
+36 45 40 44 40 37 37 
+42 45 44 37 26 30 47 
+38 38 53 52 23 44 44 
+31 42 47 59 45 37 43 
+34 45 46 42 34 40 42 
+ 
+Programa SAS 
+ 
+data  azaleas; 
+do  rep= 1 to  7; 
+ do  trat= 1 to  7; 
+  input  peso @@; 
+  output ; 
+ end ; 
+ end ; 
+cards ; 
+43 38 39 47 37 36 34 
+37 35 41 43 41 35 44 
+36 45 40 44 40 37 37 
+42 45 44 37 26 30 47 
+38 38 53 52 23 44 44 
+31 42 47 59 45 37 43 
+34 45 46 42 34 40 42 
+; 
+proc  print ; 
+run ; 
+proc  glm ; 
+class  trat; 
+model  peso=trat; 
+means  trat/lsd ; 
+means  trat/tukey; 
+means  trat/ duncan ; 
+means  trat/ bon ; 
+means  trat/ dunnett  ( '1'); 
+means  trat/hovtest=levene; 
+output  out =resi r=res p=pred; 
+symbol1  v=dot c=red; 
+proc  gplot  ; 
+ plot  res*pred/ vref =0; 
+proc  univariate  plot normal  ; 
+var  res; 
+run ; 
+ 
+ 
+ 
+The GLM Procedure  
+ 
+Class Level Information  
+Class  Levels  Values  
+trat  7 1 2 3 4 5 6 7  
+   
+ 
+Number of observations  49  
+   
+Dependent Variable: peso  
+ 
+Source  DF  Sum of Squares  Mean Square  F Value  Pr > F 
+Model  6 703.918367  117.319728  3.81  0.0040  
+Error  42  1293.714286  30.802721      
+Corrected Total  48  1997.632653        
+   
+R-Square  Coeff Var  Root MSE  peso Mean  
+0.352376  13.74184  5.550020  40.38776  
+   
+ 
+Source  DF  Type I SS  Mean Square  F Value  Pr > F 
+trat  6 703.9183673  117.3197279  3.81  0.0040  
+    
+ 
+Comprobación de los supuestos del modelo 
+ 
+Levene's Test for Homogeneity of peso Variance 
+ANOVA of Squared Deviations from Group Means  
+Source  DF  Sum of Squares  Mean Square  F Value  Pr > F 
+trat  6 11887.9  1981.3  1.63  0.1635  
+Error  42  51139.4  1217.6      
+ 
+ 
+ 
+The UNIVARIATE Procedure 
+Variable: res  
+Moments  
+N 49  Sum Weights  49  
+Mean  0 Sum Observations  0 
+Std Deviation  5.19156826  Variance  26.952381  
+Skewness  0.00442866  Kurtosis  -0.0386089  
+Uncorrected SS  1293.71429  Corrected SS  1293.71429  
+Coeff Variation  . Std Error Mean  0.74165261  
+Tests for Normality  
+Test  Statistic  p Value  
+Shapiro-Wilk  W 0.996087  Pr < W  0.9999  
+Kolmogorov-Smirnov  D 0.054066  Pr > D  >0.1500  
+Cramer-von Mises  W-Sq  0.013864  Pr > W-Sq  >0.2500  
+Anderson-Darling  A-Sq  0.097143  Pr > A-Sq  >0.2500  
+ 
+ 
+ 
+                        Stem Leaf                     #             Boxplot 
+                          12 7                        1                | 
+                          10                                           | 
+                           8 79                       2                | 
+                           6 0                        1                | 
+                           4 794779                   6                | 
+                           2 4470999                  7             +-----+ 
+                           0 004779479                9             *--+--* 
+                          -0 31033                    5             |     | 
+                          -2 3331130                  7             +-----+ 
+                          -4 3633                     4                | 
+                          -6 6031                     4                | 
+                          -8 31                       2                | 
+                         -10                                           | 
+                         -12 1                        1                | 
+                             ----+----+----+----+ 
+ 
+ 
+ 
+                    Normal Probability Plot 
+                        13+                                               * ++ 
+                          |                                             ++++ 
+                          |                                         *+*+ 
+                          |                                     ++*+ 
+                          |                                 +*** * 
+                          |                             **** 
+                          |                        ****** 
+                          |                     ***+ 
+                          |                  **** 
+                          |              +**+ 
+                          |          +**** 
+                          |      +*+* 
+                          |  ++++ 
+                       -13+++ * 
+                           +----+----+----+----+----+----+----+----+----+----+ 
+                               -2        -1         0        +1        +2  
+ 
+ 
+En este ejemplo, en el que se ha comprobado el cumplimiento de los supuestos, se detectan 
+diferencias significativas entre las medias de los tratamientos. Para detectar cuales medias 
+difieren entre sí, se emplean los métodos de comparaciones de medias mencionados arriba. Es 
+de hacer notar que sólo debe elegirse un método, aquí se emplean todos para mostrar como se 
+interpreta cada uno. Se trabaja con un nivel de significación del 5%. 
+6.1. Prueba de “Mínima Diferencia Significativa”:  
+ 
+ 
+T Tests (LSD) for peso  
+NOTE:  
+This test controls the Type I comparisonwise error rate, not the experimentwise error rate. 
+ 
+Tabla 1.  Estadísticos para la prueba de M. D. S..  
+Alpha  0.05  
+Error Degrees of Freedom  42  
+Error Mean Square  30.80272  
+Critical Value of t (valor gα) 2.01808  
+Least Significant Difference (D. M. S.  de la ecuación 2)  5.9869  
+ 
+ 
+ 
+Tabla 2.  Resultado de la prueba M. D. S.. 
+ 
+Means with the same letter 
+are not significantly different.  
+t Grouping  Mean  N trat  
+  A 46.286  7 4 
+  A 44.286  7 3 
+B A 41.571  7 7 
+B A 41.143  7 2 
+B C 37.286  7 1 
+B C 37.000  7 6 
+  C 35.143  7 5 
+ 
+Las letras A, B y C indican las medias de los tratamientos que difieren entre sí. En este caso los 
+tratamientos 2, 3, 4 y 7; el 1, 2, 6 y 7 ; y 1, 6, y 5 no difieren entre sí. Pero los tratamientos 1, 5 y 
+6 difieren del 4 y 3,  y el tratamiento 5 también difiere del 2, siempre al 5%.   
+ 
+ 
+6.2. Prueba de comparaciones de Tukey:  
+ 
+ 
+Tukey's Studentized Range (HSD) Test for peso  
+NOTE:  This test controls the Type I experimentwise error rate, but it generally has a 
+higher Type II error rate than REGWQ.  
+ 
+ 
+Tabla 3.  Estadísticos para la prueba de Tukey.  
+Alpha  0.05  
+Error Degrees of Freedom  42  
+Error Mean Square  30.80272  
+Critical Value of Studentized Range (valor gα) 4.37777  
+Minimum Significant Difference (D. M. S.  de la ecuación 2)  9.1833  
+ 
+Tabla 4.  Resultados de la prueba de Tukey.  
+Means with the same letter 
+are not significantly different.  
+Tukey Grouping  Mean  N trat  
+  A 46.286  7 4 
+B A 44.286  7 3 
+B A 41.571  7 7 
+B A 41.143  7 2 
+B A 37.286  7 1 
+B   37.000  7 6 
+B   35.143  7 5 
+ 
+Las conclusiones no son las mismas que las de la prueba anterior, hay menos diferencias 
+significativas, por ser un test más conservador.  
+ 
+ 
+ 
+6.3. Prueba de comparaciones de Duncan: 
+ 
+ 
+Duncan's Multiple Range Test for peso  
+NOTE:  This test controls the Type I comparisonwise error rate, not the experimentwise error rate . 
+ 
+Tabla 7.  Estadísticos para la prueba de Duncan. 
+   
+Alpha  0.05  
+Error Degrees of Freedom  42  
+Error Mean Square  30.80272  
+   
+ 
+Number of Means  2 3 4 5 6 7 
+Critical Range  5.987  6.295  6.497  6.643  6.755  6.843  
+ 
+ 
+Tabla 8.  Resultados de la prueba de Duncan. 
+ 
+Means with the same letter 
+are not significantly different.  
+Duncan Grouping  Mean  N trat  
+  A 46.286  7 4 
+  A 44.286  7 3 
+B A 41.571  7 7 
+B A 41.143  7 2 
+B   37.286  7 1 
+B   37.000  7 6 
+B   35.143  7 5 
+ 
+Las conclusiones no son las mismas que las de las pruebas anteriores, hay menos diferencias 
+significativas que en D.M.S. y más que en Tukey. 
+6.4. Prueba de comparaciones con un control de Dunnett:  
+ 
+ 
+Se asume que el Tratamiento 1: Truban es el tratamiento control. 
+ 
+ 
+Dunnett's t Tests for peso  
+ 
+NOTE:  
+This test controls the Type I experimentwise error for comparisons of all treatments against a control.  
+ 
+ 
+ 
+Tabla 9.  Estadísticos para la prueba de Dunnett. 
+   
+Alpha  0.05  
+Error Degrees of Freedom  42  
+Error Mean Square  30.80272  
+Critical Value of Dunnett's t (valor gα) 2.67473  
+Minimum Significant Difference (D. M. S. de la ecuación 2)  7.9349  
+ 
+ 
+ 
+ 
+Tabla 10.  Resultados de la prueba de Dunnett.  
+ 
+ 
+Comparisons significant at the 0.05 level are indicated 
+by ***.  
+trat 
+Comparison  
+Difference  
+Between  
+Means  
+Simultaneous 95% Confidence  
+Limits  
+  
+4 - 1  9.000  1.065  16.935  ***  
+3 - 1  7.000  -0.935  14.935    
+7 - 1  4.286  -3.649  12.221    
+2 - 1  3.857  -4.078  11.792    
+6 - 1  -0.286  -8.221  7.649    
+5 - 1  -2.143  -10.078  5.792    
+ 
+ 
+La conclusión es que sólo el Tratamiento 4 difiere en promedio del control (1) Truban, con un 
+nivel del 5%. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.5. Prueba de comparaciones de Bonferroni: 
+ 
+ 
+Bonferroni (Dunn) t Tests for peso  
+NOTE:  This test controls the Type I experimentwise error rate, but it generally has a higher Type II 
+error rate than REGWQ.  
+ 
+ 
+Tabla 13.  Estadísticos para la prueba de Bonferroni. 
+Alpha  0.05  
+Error Degrees of Freedom  42  
+Error Mean Square  30.80272  
+Critical Value of t (valor gα) 3.23387  
+Minimum Significant Difference (D. M. S. de la ecuación 2)  9.5936  
+ 
+ 
+Tabla 14.  Resultados de la prueba de Bonferroni. 
+Means with the same letter 
+are not significantly different.  
+Bon Grouping  Mean  N trat  
+  A 46.286  7 4 
+B A 44.286  7 3 
+B A 41.571  7 7 
+B A 41.143  7 2 
+B A 37.286  7 1 
+B A 37.000  7 6 
+B   35.143  7 5 
+ 
+ 
+ 
+ 
+ 

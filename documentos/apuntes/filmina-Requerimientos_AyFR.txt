@@ -1,0 +1,539 @@
+=== Fuente: filmina-Requerimientos_AyFR.pdf ===
+
+Requerimientos de Rumiantes
+Carne y Leche
+Ing. Agr. (PhD) Alejandro Palladino
+Investigador CONICET
+Departamento Producción Animal
+Facultad de Agronomía – UBA
+Ing. Agr. (MSc, PhD) Gustavo Jaurena
+Investigador CONICET
+Departamento Producción Animal
+Facultad de Agronomía – UBA
+¿Para qué necesitamos conocer 
+los requerimientos?
+• Los animales para mantenerse vivos deben 
+cubrir sus necesidades diarias de nutrientes 
+(proteínas, minerales, vitaminas) y energía.
+• Predecir la respuesta a los nutrientes es de 
+aplicación práctica
+• Es necesario determinar los requerimientos 
+animales para poder predecir la respuesta a 
+los nutrientes
+Fundamento de las predicciones
+• Predicción implica extrapolación de 
+información obtenida de individuos 
+experimentales a condiciones generales y 
+futuras
+• La validez de las predicciones se basa en 
+la teoría sobre la que se apoya
+• Las predicciones son cuantitativas
+• La investigación tradicional en nutrición animal 
+se ha focalizado en estimar los requerimientos 
+(especialmente energía y proteína) para un 
+nivel predeterminado de producción animal
+• Consecuentemente el método factorial ha sido 
+ampliamente utilizado
+M M + C M + C + L
+• La expresión tabulada de los requerimientos
+animales son un intento de orientar en la resolución
+de un problema complejo.
+• Los resultados presentados en las tablas de 
+requerimiento son una simplificación de complejas
+leyes biologicas.
+• No hay duda de que éstos lineamientos serán
+suplantados por otros mejores, en la medida que
+progrese el conocimiento sobre estas leyes
+Extraído de W.A. Henry (1892)
+Requerimientos Energéticos
+• Se los considera primero porque:
+– La mayoría de los constituyentes de la dieta, 
+salvo los minerales, aportan energía
+– La mayoría de los ingredientes de la ración 
+diaria son incluidos para proveer energía y 
+representan una proporción mayoritaria de la 
+ración en peso (kg) y costo ($) 
+• Se los considera primero porque:
+– Las tasas de suministro de energía y 
+utilización determina las de otros nutrientes 
+e.g. proteína, vitaminas
+Deposición de proteína en cerdos alimentados a dos 
+niveles de energía
+E2 (óptimo)
+0
+E1 (subóptimo)
+Consumo de proteína
+Deposición de proteína
+Partición de la energía del alimento
+Energía Bruta
+(EB)
+Energía Digestible
+(ED)
+Energía Metabolizable
+(EM)
+Energía Neta
+(EN)
+Energía perdida en las heces
+Energía perdida en la orina y los gases
+Incremento calórico
+Energía retenida
+Mantenimiento
+Valores de energía de algunos alimentos
+(Mcal / kg MS)
+Especie  Alimento  EB  EF  EU  EG  EM  
+Ave Maíz 4.39 0.52   3.87 
+ Cebada  4.35 1.17   3.18 
+Cerdo Maíz 4.39 0.38 0.09  3.92 
+ Cebada  4.35 0.67 0.12  3.56 
+Ovino Cebada  4.35 0.71 0.14 0.48 3.02 
+ 
+Bovino Maíz 4.39 0.67 0.19 0.31 3.22 
+ Cebada  4.35 0.98 0.19 0.26 2.92 
+ 
+ 
+Valores de EB (Mcal / kg MS) 
+de distintos constituyentes de 
+los alimentos
+Constituyente del alimento EB 
+Glucosa 3.72 
+Almidón 4.23 
+Celulosa 4.18 
+Caseína 5.85 
+Grasa butirosa 9.20 
+Aceite vegetal 9.32 
+ 
+ 
+Valores de EB (Mcal / kg MS) 
+de distintos compuestos
+Productos de fermentación  EB 
+Acido acético 3.49 
+Acido propiónico 4.97 
+Acido butírico 5.95 
+Acido láctico 3.63 
+Metano 13.14 
+ 
+ 
+Valores de EB (Mcal / kg MS)
+Tejido animal EB 
+Músculo 5.64 
+Grasa 9.39 
+Constituyente del alimento EB 
+Grano de maíz 4.42 
+Grano de avena 4.68 
+Paja de avena 4.42 
+Heno de gramíneas 5.11 
+Harina de lino 4.51 
+ 
+ 
+Incremento calórico
+• Es la energía que liberan los animales en forma 
+de calor asociada con el consumo, la digestión 
+y el metabolismo de los nutrientes consumidos, 
+por sobre el calor producido antes de ingerir el 
+alimento.
+• Esa liberación de energía se cuantifica con la 
+eficiencia en que es utilizada la EM.
+• La magnitud del valor de la eficiencia de 
+utilización de la energía depende del destino 
+que tenga la EM en cuestión.
+Incremento calórico
+Producción de calor
+(Mcal/d)
+CEM (Mcal/d)9.56 23.92
+9.56
+15.30
+5.74
+Producción total de calor
+• Calor que genera el cuerpo en reposo 
+(energía destinada al mantenimiento de las 
+estructuras corporales = EN m)
+• Incremento calórico producido por la energía 
+destinada al mantenimiento (EM m- EN m)
+• Incremento calórico producido por la energía 
+destinada a la producción (EM p- EN p)
+Producción total de calor (PTC)
+PTC = EN m + (EM m- EN m) + (EM p- EN p)
+km kp
+Metabolicidad (q)
+Representa la proporción de EB del alimento 
+que llega a EM. Es una característica 
+propia del alimento
+q = EM / EB
+Ejemplo :
+Si la  EB = 4.4 Mcal/kg MS y EM = 2.16 Mcal/kg MS
+q = 2.16 Mcal EM / kg MS  =  0.49
+4.4 Mcal EB / kg MS   
+Eficiencia parcial de utilización 
+de la EM
+Eficiencia parcial de utilización de la 
+EM en función de la concentración de 
+EM del alimento
+k, s
+[EM]
+km
+kl
+ke
+Eficiencias de utilización de la EM (ARC, 1980)
+– mantenimiento                 km = 0.35 q + 0.503         
+(0.7)
+– engorde                            ke = 0.8 q                         
+(0.5)
+– lactación                           k l = 0.35 q + 0.42            
+(0.6)    
+– gestación                          kg = 0.133
+– engorde en lactancia        kel = 0.95 k l
+– utilización de reservas corporales para lactación
+kle = 0.84
+•La ENm es utilizada para efectuar trabajo dentro 
+del organismo y abandona al animal como calor
+•La ENp (leche, huevo, crecimiento) es 
+almacenada en el organismo o lo abandona como 
+energía química.
+Tejidos
+Desperdicios
+Digestión
+Absorción
+Metabolismo
+Excreción
+Mantenimiento
+Gestación
+Lactación
+Crecimiento
+Trabajo
+Alimentos
+Metabolitos
+Nutrientes
+Mantenimiento
+Gestación
+Lactación
+Crecimiento
+Trabajo
+Termorregulación
+Metabolismo estándar
+Actividad física
+Retención de tejido
+Crecimiento fetal, 
+placenta y anexos
+Síntesis de leche
+Mantenimiento
+• Un animal se encuentra en mantenimiento 
+cuando su composición corporal 
+permanece constante.
+McDonald et al., 1995
+Mantenimiento
+• Composición corporal constante (es decir 
+no sintetiza producto alguno)
+• No efectúa trabajo
+• Balance cero (energía, proteína, etc.)
+• La definición sólo se aplica a animales
+adultos, no preñados, ni lactando
+Metabolismo estándar 
+Condiciones del animal para su medición:
+• Buena condición nutricional
+• Estado postabsortivo
+• Reposo muscular (no dormido)
+• Ambiente termoneutro (25°C)
+Causas del metabolismo basal o de ayuno
+• Trabajo fisiológico (actividad cardiaca, 
+respiratoria y peristaltismo intestinal)
+• Actividad de la ATPasa Na/K
+• Biosíntesis de proteínas y grasas
+Di Marco, 1998
+Peso y gasto energético de distintos tejidos
+Tejido Peso (% PV) Gasto energético (% Ayuno)
+Hígado + corazón 2.2 30.0
+Riñones 0.3 7.0
+Tracto gastrointestinal 6.5 9.0
+Tejido muscular 41.0 23.0
+Tejido graso 15.0 8.0
+Cuero 6.3 2.7
+Otros 20.7 17.8
+Adaptado de Di Marco, 1998 
+Metabolismo basal en función del peso vivo
+y = 72,209x 0,731
+0
+10000
+20000
+30000
+40000
+0 500 1000 1500 2000 2500 3000 3500 4000 4500
+Peso vivo (kg)
+Metab. estándar (Kcal/d)
+Grafico log-log del Metabolismo basal en 
+función del Peso vivo
+y = 72,209x 0,731
+1
+100
+10000
+0,01 0,1 1 10 100 1000 10000
+Peso vivo (kg)
+Metab. estándar (Kcal/d)
+Peso metabólico (PM)
+• Medida de tamaño corporal 
+fisiológicamente activo
+– Tejidos con distinta actividad metabólica
+– Distinta proporción de órganos y tejidos
+• Dependiente del peso vivo (PV)
+• Permite comparaciones entre especies y 
+animales de distinto tamaño
+Importancia de contar con una correcta definición 
+de los requerimientos de mantenimiento
+• Cubre las necesidades mas básicas y 
+prioritarias respecto a las funciones 
+productivas
+• Alta incidencia sobre los requerimientos 
+totales del animal
+• Permite minimizar errores de sub o sobre 
+alimentación
+Componentes del requerimiento de 
+mantenimiento
+• Metabolismo estándar
+• Regulación de la temperatura
+• Trabajo muscular
+Factores que modifican los 
+requerimientos energéticos
+Metabolismo estándar y especie
+• La producción de calor 
+interespecífica media 
+fluctúa entre 70 y 77 
+kcal/PV 0.75
+• Sin embargo hay variación 
+entre especies, por ejemplo: 
+– ovinos < 60 y
+– bovinos > 75
+Metabolismo estándar y especie
+Metabolismo estándar, edad y género Composición corporal y edad
+Di Marco, 1993
+Metabolismo estándar y alimentación previa
+Metabolismo estándar y clima
+• Frio prolongado: 
+Aumenta la 
+producción basal  de 
+calor
+• Calor prolongado:
+Disminuye la 
+producción basal de 
+calor
+
+Mantenimiento energético y trabajo 
+muscular
+• Intensidad del esfuerzo físico
+• Duración del esfuerzo físico
+Mantenimiento energético vs. velocidad 
+y tipo de terreno
+Velocidad
+(km/h) Terreno
+Incremento en el costo 
+energético *
+Kcal/kg/h Kcal/kg/km
+1 Plano 0.51 0.13
+2 Plano 0.98 0.12
+2 pendiente 1.36 0.14
+Incremento por encima del costo estimado en corral (82.6 kcal/d-kg 0.75 
+DiMarco y Aello , 2003
+Costos energéticos de desplazamiento 
+para ovinos de 50 kg PV
+1000
+1500
+2000
+2500
+0 2 4 6 8 10
+Distancia recorrida (km)
+EM (kcal/d)
+Adaptado del AFRC, 1993
+Mov. vertical: 100 m
+Actividad: 12 h/d
+Mov. diarios: 12
+10%
+Mantenimiento energético y 
+temperatura ambiente
+• Los homeotermos mantienen su 
+temperatura corporal constante
+• La producción de calor es constante
+• Pérdidas:
+– Sensibles: radiación, conducción y 
+convección.
+– Evaporativas: 2.52 MJ/kg agua
+Temperatura ambiente
+Producción de calor
+Pérdida evaporativa
+Pérdida no evaporativa
+Producci ónde calor
+Temperatura corporal profunda
+Zona de 
+termoneutralidad
+Temperatura
+crítica inferior
+Alimentado
+Temperatura
+crítica superior
+Temperatura crítica mínima para bovinos 
+con velocidad del viento de 0 y 15 km/h
+• Ternero recién nacido: 18 y 28 ºC
+• Novillo ganando 800 g/d: -32 y -10 ºC
+• Vaca lechera a mantenimiento: -8 y 10 ºC
+• Vaca lechera, 30 kg leche/d: -30 y -20 ºC
+Requerimientos de mantenimiento y 
+ambiente
+• Condiciones climáticas
+(aumentan los requerimientos de mantenimiento 
+como un porcentaje del ME)
+– Viento
+– Lluvia
+– Temperatura ambiente (Tc)
+– Barro
+Actividad voluntaria
+• Corrige la ENm por factores ambientales
+• Movimiento
+– 5% jaula metabólica
+– 10% corral
+– 20-50% pastoreo
+• Disponibilidad forrajera 
+• Clima
+AV (Mcal) = ME (Mcal) * %AV
+EMm (Mcal/d) = EM x (1 + %AV/100)
+Cálculos
+EN m = 77 kcal/d * PV 0.75 + ENm x %AV
+Metabolismo Estándar
+(ME)
+Actividad voluntaria
+(AV)
+ENm = 77 kcal/d x PV 0.75 x (1 + %AV/100)
+Ejemplo
+ENm = 77 kcal/d x PV 0.75 x (1 + %AV/100)
+PV = 180 kg; AV = 20%
+ENm = 77 kcal/d x 180 0.75 x (1.20)
+ENm = 4541 kcal/d = 4.5 Mcal/d = 19 MJ/d
+• Podría parecer que conocer los requerimientos 
+de mantenimiento es sólo de importancia 
+académica, pero en  la aplicación práctica su 
+gravitación es enorme
+Importancia de predecir correctamente los 
+requerimientos de mantenimiento
+• Cubre las necesidades 
+mas básicas y prioritarias 
+respecto a las funciones 
+productivas
+• Alta incidencia sobre los 
+requerimientos totales del 
+animal
+• Permite minimizar errores 
+de sub o sobre 
+alimentación
+
+Participación del mantenimiento en el requerimiento 
+total en función del nivel de producciónEnergía metabolizable requerida
+Mantenimiento
+Producción de leche
+Meses
+Participación del mantenimiento en el requerimiento 
+total en función del nivel de producción
+0
+20
+40
+60
+80
+0 10 20 30 40 50 60
+Producción de leche (kg/d)
+EM (Mcal/d)
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+EMm/EMt
+Mant Prod EMT %Mant
+• Los requerimientos de producción se asocian a 
+la cantidad y calidad de los productos 
+sintetizados.
+• Para ganado lechero:
+– Producción diaria: kg/d
+– Valor energético de la leche: función de la 
+composición
+– Crecimiento: hasta segunda lactancia inclusive
+– Gestación: últimos dos meses
+Valor Energético de la leche
+EVl (MJ/kg) = 0.0384 x GB + 0.0223 x   
+PB + 0.0199 x La
+EVl (MJ/kg) = 0.0406 x GB + 1.509
+GB, PB y La en g/kg
+AFRC, 1993
+EN e
+GDP
+Toro
+Novillo
+Vaquillona
+ENe, edad y género
+Síntesis
+Requerimientos. Sistema factorial
+Requerimiento Energía Proteína Minerales 
+Mantenimiento Si Si Si
+Met. Estándar Si Si Si
+Trabajo Si No No
+Ambiente Si No No
+Producción Si Si Si
+Cantidad Si Si Si
+Composición Si Si Si
+• Las necesidades diarias de alimentos 
+están determinadas por: 
+– Características del animal (especie, género, 
+nivel de producción y estado nutricional), y 
+– Características del  alimento, i.e. aporte de 
+energía y nutrientes, restricciones de uso.
+Guía de tablas – Requerimientos animales – Bovinos de carne
+Requerimientos energéticos – Pág. 17
+Guía de tablas – Requerimientos animales – Bovinos de leche – Pág. 19
+Guía de tablas – Requerimientos animales – Bovinos de leche – Pág. 19
+
+Tablas de composición de 
+alimentos
+• Materia seca
+• Energía
+– Digestible
+– Metabolizable
+• Total
+• Fermentescible
+• Proteína 
+– Bruta
+– Degradable en rumen
+– No degradable en rumen
+• Componentes de pared 
+celular
+• Degradabilidad a 
+distintas tasas de pasaje 
+(alimento y proteína )
+• Parámetros 
+degradabilidad
+– a
+– b
+– c
+• Extracto etéreo
+Tabla de composición de alimentos para 
+rumiantes de la Región Pampeana Argentina
+Jaurena y Danelón, 2001
+Tabla de composición de alimentos para 
+rumiantes de la Región Pampeana Argentina.
+Jaurena y Danelón, 2001
+ Estándares de alimentación
+Comparación NRC vs ARC
+Son lo mismo… pero 
+no son lo mismo!!!
+ Eficiencia parcial de uso
+Hirooka and Yamada (1989)
+Eficiencia parcial de uso
+Garret and Johnson (1983)
+Proteína Metabolizable
+Requerimientos de proteína 
+degradable y no degradable según 
+sistema
+Robinson et al. (1991)
+Requerimientos de proteína 
+degradable y no degradable según 
+sistema
+Robinson et al. (1991)
+
+Requerimientos de proteína 
+degradable y no degradable según 
+sistema
+Robinson et al. (1991)

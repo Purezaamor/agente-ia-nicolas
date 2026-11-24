@@ -1,0 +1,503 @@
+=== Fuente: 5_Test_de_hipotesis.pdf ===
+
+ 1 
+Introducción a las Pruebas (o Tests) de Hipótesis en Estadística  
+ 
+Hipótesis  
+Según Webster es “una teoría tentativa o suposición adoptada provisionalmente para explicar 
+ciertos hechos y guiar la investigación de otros”. 
+ 
+Hipótesis estadística 
+Es una afirmación sobre las características de una o varias poblaciones, generalmente a través de 
+parámetros tales como la media, la variancia, o una proporción. Las hipótesis estadísticas 
+siempre se expresan mediante parámetros (o distribuciones) . 
+Por ejemplo, los siguientes enunciados podrían ser considerados como hipótesis:  
+1.  la probabilidad de un 1 al arrojar un dado es 1/6. 
+2.  la altura media del argentino adulto es 1,73 m. 
+3.  el peso promedio de los terneros Hereford al nacimiento es de 39,47 kg y la desviación 
+estándar es de 5,92 kg. 
+4.  el rendimiento promedio de la nueva variedad de trigo es de 7.800 kg/ha. 
+5.  el rendimiento promedio de la variedad de soja A es superior al de la variedad B. 
+ 
+Test de hipótesis  
+Regla de decisión o procedimiento para rechazar o no una hipótesis estadística. Las hipótesis 
+estadísticas deben satisfacer los siguientes supuestos: 
+• Ambas hipótesis son excluyentes (disyuntas, no se superponen). 
+• Sólo las dos hipótesis son factibles (agotan toda la gama de posibilidades de 
+ocurrencia). 
+• La hipótesis nula siempre incluye el signo igual. 
+ 
+Tipos de hipótesis (TH) 
+• Hipótesis nula  ( H0): hipótesis bajo prueba; generalmente se la refiere como la hipótesis de 
+no diferencias. Es formulada con la intención de ser rechazada. En la mayoría de los casos, la 
+hipótesis nula será la que corresponde a la ausencia de efecto  por la acción del tratamiento. 
+Por ejemplo, si se quiere decidir si una moneda está “cargada” se formula la hipótesis de que 
+la moneda es correcta, es decir,  p = 0,5 , donde p es la probabilidad de cara. Análogamente, 
+si se quiere decidir sobre si una variedad es mejor que otra, se formula la hipótesis de que no 
+hay diferencia entre los rendimientos de las variedades (es decir, cualquier diferencia 
+observada se debe meramente a variaciones aleatorias en el muestreo de la misma población).  
+ 
+• Hipótesis alternativa  ( H1 o HA): la hipótesis alternativa será aquella que denote dicho 
+efecto; hipótesis de interés en la investigación 
+ 
+Tipo de Test de Hipótesis Hipótesis respecto de µ 
+Dos colas (bilateral) H0: µ=µ 0 H1: µ ≠  µ 0 
+Cola derecha (unilateral derecha) H0: µ ≤ µ 0 H1: µ >  µ 0 
+Cola izquierda (unilateral izquierda) H0: µ ≥ µ 0 H1: µ <  µ 0 
+ 2 
+A fin de verificar la hipótesis planteada, el investigador realiza un experimento. A partir de 
+dichos datos muestrales, determina si hay evidencia suficiente para rechazar o no rechazar la 
+hipótesis nula. Por ejemplo, podemos verificar o “probar” la hipótesis 1. arrojando un dado 600 
+veces. Intuitivamente, es evidente que si obtenemos 600 unos, el resultado es “improbable” bajo 
+la probabilidad de 1/6 propuesta en la hipótesis nula y dicha hipótesis sería rechazada. Por otra 
+parte, si obtuviésemos 100 unos, este resultado no sería “improbable” y la hipótesis no sería 
+rechazada (“aceptada”). Cuando se obtienen resultados como estos, la intuición y el sentido 
+común son suficientes para decidir cuando rechazar o no rechazar la hipótesis nula. Sin embargo, 
+en la práctica los experimentos no conducen a conclusiones tan obvias, por eso es necesario el 
+test de hipótesis estadístico.  
+ 
+Regla de decisión y Tipos de Errores 
+Contrastar un argumento (hipótesis) con los hechos es sencillo si se conocen todos los hechos (la 
+población), pero es un problema difícil si sólo se conocen algunos hechos (la muestra). La 
+conclusión que se alcanza no siempre es la correcta. Se pueden cometer uno de dos tipos de 
+errores:  
+ 
+Hipótesis   
+Tipo de errores 
+Ho verdadera  Ho  falsa 
+ No se rechaza Ho  Decisión correcta  Error Tipo II  
+Decisión 
+Se rechaza Ho  Error Tipo I (Se fija antes  de la prueba) Decisión correcta 
+ 
+Obsérvese que a la hipótesis nula no se la “acepta” nunca . 
+ 
+Error de Tipo I : rechazar Ho cuando Ho es verdadera; es decir, se toma una decisión incorrecta 
+contra la hipótesis nula. En términos de probabilidad:  
+ 
+Probabilidad (Error Tipo I)   =  P(rechazar Ho | Ho es verdadera) =  αααα = nivel de significancia o 
+tamaño del test. Es la probabilidad que corresponde a la región crítica. El riesgo de cometer un 
+Error de Tipo I es la probabilidad de decidir que un efecto significativo está presente, cuando en 
+realidad no lo está. 
+Generalmente se fija antes de la extracción de la muestra, de modo que los resultados obtenidos 
+no influyan en su elección. En la práctica se acostumbra utilizar niveles de significación del 0,05; 
+0,10 ó 0,01, aunque igualmente pueden emplearse otros valores. Si se elige un nivel de 
+significación de 0,05 ó 5%, entonces hay aproximadamente 5 ocasiones en 100 en que se 
+rechazaría la hipótesis cuando debiera ser no rechazada (“aceptada”), es decir, se tiene un 95% de 
+confianza de que se toma la decisión correcta. 
+ 
+Nivel de confianza  = P (no rechazar Ho  |  Ho es verdadera )= 1- αααα , es decir, la probabilidad de 
+efectuar una decisión correcta en favor de Ho.  
+ 
+Se comete un Error de Tipo II  cuando no se rechaza Ho siendo falsa (o cuando H 1 es 
+verdadera).  Entonces: 
+ 
+ 3 
+Probabilidad (Error Tipo II )   =  P (no rechazar Ho | Ho es falsa) =  P (no rechazar Ho | H 1 es 
+verdadera) = ββββ.  
+ 
+Es la probabilidad que corresponde a la región de no rechazo (“aceptación”) de Ho cuando la 
+hipótesis verdadera es H 1. ββββ aumenta al disminuir la distancia entre el parámetro hipotético ( μμμμ o) y 
+el verdadero ( μμμμ). El riesgo de cometer un Error de Tipo II, es la probabilidad de no detectar un 
+efecto significativo, cuando en realidad existe.  
+ 
+Puede cometerse un solo tipo de error. Si se rechaza Ho, puede cometerse un Error de Tipo I; 
+sino se rechaza Ho puede cometerse un Error de Tipo II.  
+ 
+Valor crítico (VC) 
+Valor numérico del punto de corte dentro de la distribución del estadístico, que define la región 
+crítica en función del nivel de significancia.  
+ 
+Región crítica o de rechazo (RC) 
+Valores de la distribución del estadístico asumiendo que Ho es verdadera, donde se rechaza la 
+hipótesis nula.     
+El tamaño de la región crítica se elige arbitrariamente. Por ejemplo, para un test bilateral con 
+varianza conocida, puede elegirse tal que el 2,5% de las medias muestrales estandarizadas caigan 
+dentro de la región crítica izquierda y el 2,5% dentro de la derecha  ( αααα = 0,05). En este caso, la 
+región crítica es: 
+ 
+RC = { Z : Z  < -1,96  ó  Z > 1,96 } 
+ 
+De manera equivalente, para un test unilateral derecho:  RC = { Z : Z > 1,64 } y para un test 
+unilateral izquierdo:  RC = { Z : Z < 1,64 }. 
+ 
+Para un test respecto del parámetro media μμμμ en la Figura 1 se grafican las regiones de rechazo y 
+no rechazo. 
+ 
+ 
+  
+ 
+ 
+                             
+  
+ 
+ 
+               
+               μμμμ0                VC        μ1 
+               
+ 
+ 
+Figura 1.   Ilustración gráfica de las regiones de rechazo y no rechazo para μμμμ. 
+α 
+Distribución 
+suponiendo Ho 
+verdadera 
+Distribución  
+suponiendo H 1 
+verdadera  
+β 
+NO RECHAZO  H o 
+Ho  
+ RECHAZO Ho  
+ 4 
+El investigador tiene control sobre αααα, pero no sobre ββββ. Disminuir αααα requiere que la evidencia 
+contra Ho sea muy fuerte a fin de rechazarla, pero esto necesariamente incrementa ββββ. Por lo tanto, 
+debiera elegirse un αααα a fin de mantener el ββββ tan pequeño como sea posible. Ambos tipos de error 
+sólo  pueden ser disminuidos simultáneamente incrementando el tamaño de la muestra.  Si se 
+achica αααα, manteniendo fijo n, aumenta ββββ y viceversa. Una vez que fijo el nivel de significancia de 
+un test, αααα, se puede reducir la probabilidad de cometer un Error de Tipo II reduciendo σσσσ ó 
+aumentando n. 
+ 
+Estadístico y valor-P 
+Estadísticos: funciones numéricas de los datos de la muestra aleatoria. Por ejemplo: X  y  S 2 . 
+Valor-P: la probabilidad de obtener un valor del estadístico mayor que el observado, cuando Ho 
+es verdadera. Los valores-P son una medida de la evidencia presente en los datos asumiendo 
+que Ho es verdadera.  Así, altos valores-P (es decir, cuanto más cercanos se encuentren a 1) 
+indican que la hipótesis nula no debe rechazarse, mientras que valores-P pequeños (cercanos a 0) 
+indican que la  hipótesis nula debe rechazarse. 
+Las palabras, “alto” y “pequeño”, deben relacionarse con el α elegido, es decir:  
+ 
+- si el valor-P es < αααα, se rechaza Ho; 
+- si el valor-P es ≥≥≥≥ αααα, no se rechaza Ho. 
+ 
+Potencia del test 
+Una vez fijado el nivel de significación ( αααα), la potencia (power, en inglés) es la probabilidad que 
+la prueba rechace Ho cuando H 1 es verdadera. Formalmente: 
+               Potencia del test  =  P (rechazar Ho | H 1 es verdadera) =  P (rechazar Ho | Ho es falsa) 
+               =   1 -  P (no rechazar Ho | H 1 es verdadera) = 1 - ββββ 
+En otras palabras: la potencia es igual a uno menos la probabilidad de Error de Tipo II. 
+ 
+Si Ho es verdadera, la distribución de probabilidad tiene media μμμμo y la probabilidad de rechazar 
+Ho es αααα. Si H 1 es verdadera, la distribución de probabilidad tiene media μμμμ 1  y la probabilidad de 
+rechazar Ho (correctamente) es más grande que αααα. Esta probabilidad es conocida como 
+“Potencia del test” y depende del valor de μμμμ (el test tendrá más potencia para un valor extremo 
+de μμμμ que para un valor de μμμμ próximo a μμμμ o).   
+Para calcular la potencia del test se deben especificar el valor de αααα, σσσσ y la o las hipótesis 
+alternativas seleccionadas. 
+ 
+EJEMPLO  
+ 
+Supongamos que un investigador propone que cierto fertilizante aumenta el rendimiento 
+promedio de una variedad de trigo. Se conoce que el rendimiento tiene distribución normal con 
+σσσσ2 = 100. Se toma una muestra de tamaño 25. 
+ 
+Ho : μ = 40        vs           H 1 : μ > 40 
+ 
+Para un nivel de significancia del 5%,  ( P( Z > 1,644 ) = 0,05 ), 
+ 
+ 
+ 5 
+       Rechazo Ho si  X  > 43,288 
+               la decisión sería: 
+      No rechazo Ho si  X ≤  43,288 
+ 
+ 
+Cálculo del Error Tipo II:  
+ 
+La probabilidad de no rechazar Ho, cuando ésta es falsa, disminuye a medida que el valor de μ 
+de la hipótesis alternativa se va alejando del valor de μ de la hipótesis nula. 
+ 
+ 
+Para μμμμ1 = 42  , la  potencia = 1 - β = 1 - 0,7402 = 26 %  (para n  = 25).  
+ 
+ 
+ 
+ 
+ 
+=.05  
+ 
+No Rechazo H o Rechazo  H o 
+0000 
+ 
+Ho es Verdadera  
+ Ho es Falsa  
+Error  
+Tipo I  
+Decisión  
+Correcta   
+ 
+Decisión  
+Correcta  Error  
+Tipo II  
+1,645  
+Z0 
+ 
+Z1 
+ 
+μ
+αααα=0,05 
+ββββ=0,7402  
+25,98 %  
+95 %  
+40  
+ 
+43,288  42  
+ 
+0 
+( )
+( )
+( )
+/ 4 2
+4 3 , 2 8 8 / 4 2
+4 3 , 2 8 8 4 2 0 , 6 4 4 0 , 7 4 0 2 12
+P n o r e c h a z a r H o
+P X
+P Z P Z
+β μ
+β μ
+β
+= = =
+= < = =
+− = < = < =  
+ 6 
+Para μμμμ1 = 44 , la  potencia = 1 - β = 1 - 0,3609 = 64 %  (para n  = 25).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=.0  
+  
+ 
+Ho es Verdadera  
+ 
+Ho es Falsa  
+ 
+40  
+ 
+Rechazo H o 
+ 
+No Rechazo H o 
+ 
+αααα=0,05  
+Decisión  
+Correcta  
+Error
+Tipo I  
+Error 
+Tipo II  
+95 %  
+1,645  
+ 
+μ
+44  
+ 
+Z0 
+ 
+Z1 
+ 
+ββββ=0,3609  
+0000 
+ 
+Decisión  
+Correcta  63,91 %  
+0 
+43,288 
+( )
+( )
+( )
+/ 4 4
+4 3 , 2 8 8 / 4 4
+4 3 , 2 8 8 4 4 0 , 3 5 6 0 , 3 6 0 9 22
+P n o r e c h a z a r H o
+P X
+P Z P Z
+β μ
+β μ
+β
+= = =
+= < = =
+− = < = < − =  
+ 7 
+Para μμμμ1 = 46 , la  potencia = 1 - β = 1 - 0,0875 = 91 %  (para n  = 25).  
+ 
+ 
+ 
+ 
+Para μμμμ1 = 48 , la  potencia = 1 - β = 1 - 0,0092 = 99 %  (para n  = 25).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+=.0  
+ 0000 
+ 
+Ho es Verdadera  
+Ho es Falsa  
+Rechazo H o 
+ 
+No Rechazo H o 
+αααα=0,05  
+Decisión  
+Correcta  
+Error
+Tipo I  
+Error 
+Tipo II  
+95 %  
+1,645  
+ 
+46  
+ 
+40  
+ 
+μ
+43,288  
+ 
+Z0 
+ 
+Z1 
+ 
+ββββ=0,087
+ 
+0000 
+ 
+Decisión  
+Correcta  91,25 %  
+αααα=.05
+0Ho es Verdadera
+Ho es Falsa
+40
+Rechazo HoNo Rechazo Ho
+αααα=0,05
+Decisión
+Correcta
+Error
+Tipo I
+Error
+Tipo II
+95 %
+1,645
+μ
+43,288 48
+Z0
+Z1
+ββββ=0,0092
+0000
+Decisión
+Correcta99,08 %
+αααα=.05
+0Ho es Verdadera
+Ho es Falsa
+40
+Rechazo HoNo Rechazo Ho
+αααα=0,05
+Decisión
+Correcta
+Error
+Tipo I
+Error
+Tipo II
+95 %
+1,645
+μ
+43,288 48
+Z0
+Z1
+ββββ=0,0092
+0000
+Decisión
+Correcta99,08 %
+ 8 
+ 
+Potencia  
+ 
+Para  μ = 42 , la  potencia = 1-β = 1 - 0,7402 = 26 %  (para n = 25). 
+Para  μ = 44 , la  potencia = 1-β = 1 - 0,3609 = 64 %  (para n = 25). 
+Para  μ = 46 , la  potencia = 1-β = 1 - 0,0875 = 91 % (para n = 25). 
+Para  μ = 48 , la  potencia = 1-β = 1 - 0,0092 = 99 % (para n = 25). 
+ 
+ 
+Curvas característica operatoria (curvas OC) 
+ 
+La curva característica operatoria se obtiene de graficar ββββ versus los valores de la media μμμμ bajo 
+diferentes alternativas incluyendo μμμμ = μμμμ0. En el Gráfico 1 figura la curva característica operatoria 
+del contraste Ho : μ = 40 ;  H 1 : μ > 40. 
+ 
+Gráfico 1. Curva característica operatoria del contraste Ho : μ = 40 ;  H 1 : μ > 40 
+ 
+ 
+Curvas de potencia 
+ 
+La potencia 1-ββββ se grafica versus los valores de la media μμμμ bajo diferentes alternativas 
+incluyendo μμμμ = μμμμ 0 .  En el Gráfico 2, se observa la curva de potencia del contraste   Ho : μ = 40  ; 
+H1 : μ > 40. 
+ 
+ 
+ 
+ 
+ 
+
+ 9 
+ 
+Gráfico 2. Curva de potencia del contraste Ho : μ = 40 ;  H 1 : μ > 40 
+ 
+ 
+ 
+Efecto del tamaño de muestra 
+Si aumentamos el tamaño de muestra a 100, el punto critico, X = 41,64. Entonces: 
+ 
+O sea, para μ = 42  y  n = 100, se ha alcanzado una potencia 1-β = 1 - 0,36 = 64 %. 
+ 
+ 
+Esquema para contrastar hipótesis  
+ 
+1. Establecer las hipótesis nula y alternativa.  
+2. Elección del nivel de significancia. 
+3. Definir el estadístico a calcular y su distribución. Verificación de los supuestos.  
+4. Definir el valor crítico y la región de rechazo. 
+5. Calcular el estadístico con los datos muestrales.  
+6. Tomar una decisión y establecer claramente la conclusión referida a la problemática en 
+cuestión. 
+( )
+( )
+( )
+/ 4 2
+4 1 , 6 4 4 / 4 2
+4 1 , 6 4 4 4 2 0 , 3 5 6 0 , 3 6 0 9 21
+P n o r e c h a z a r H o
+P X
+P Z P Z
+β μ
+β μ
+β
+= = =
+= < = =
+− = < = < − =  

@@ -1,0 +1,881 @@
+=== Fuente: fpls-12-617945.pdf ===
+
+Frontiers in Plant Science | www.frontiersin.org 1 February 2021 | Volume 12 | Article 617945
+ORIGINAL RESEARCH
+published: 18 February 2021
+doi: 10.3389/fpls.2021.617945
+Edited by: 
+Martin Vila-Aiub,  
+Consejo Nacional de Investigaciones 
+Científicas y Técnicas (CONICET), 
+Argentina
+Reviewed by: 
+Caio Augusto De Castro Grossi 
+Brunharo,  
+Oregon State University, United States
+Hossein Ghanizadeh,  
+Massey University, New Zealand
+Mahima Krishnan,  
+University of Adelaide, Australia
+*Correspondence: 
+Marcos Yanniccari 
+marcosyanniccari@conicet.gov.ar
+Specialty section: 
+This article was submitted to  
+Crop and Product Physiology,  
+a section of the journal  
+Frontiers in Plant Science
+Received: 15 October 2020
+Accepted: 26 January 2021
+Published: 18 February 2021
+Citation:
+Yanniccari M, Vázquez-García JG, 
+Gómez-Lobato ME, 
+Rojano-Delgado AM, Alves PLCA 
+and De Prado R (2021) First Case of 
+Glyphosate Resistance in Bromus 
+catharticus Vahl.: Examination of 
+Endowing Resistance Mechanisms.
+Front. Plant Sci. 12:617945.
+doi: 10.3389/fpls.2021.617945
+First Case of Glyphosate Resistance 
+in Bromus catharticus Vahl.: 
+Examination of Endowing Resistance 
+Mechanisms
+Marcos Yanniccari 1,2*, José G. Vázquez-García 3, María E. Gómez-Lobato 1,4, Antonia 
+M. Rojano-Delgado 3, Pedro L. da C. A. Alves 5 and Rafael De Prado 3
+1 National Scientific and Technical Research Council, Buenos Aires, Argentina, 2 Chacra Experimental Integrada Barrow, 
+MDA-INTA, Tres Arroyos, Argentina, 3 Department of Agricultural Chemistry and Edaphology, University of Cordoba, 
+Cordoba, Spain, 4 Plant Physiology Institute (INFIVE), National University of La Plata, La Plata, Argentina, 5 School of 
+Agricultural and Veterinarian Sciences, Sâo Paulo State University (Unesp), Jaboticabal, Brazil
+Bromus catharticus Vahl. has been used as a valuable forage crop, but it has also been 
+noted as a weed of winter crops and an invader in several countries. In Argentina, a 
+putative glyphosate-resistant population of B. catharticus was identified as a consequence 
+of the lack of effective control with glyphosate in the pre-sowing of wheat. Plant survival 
+and shikimate accumulation analysis demonstrated a lower glyphosate-sensitivity of this 
+population in comparison to a susceptible B. catharticus population. The resistant 
+population was 4-fold more resistant to glyphosate than its susceptible counterpart. 
+There was no evidence of target-site mechanisms of glyphosate resistance or an 
+enhanced capacity to metabolize glyphosate in the resistant population. However, the 
+resistant plants showed a lower foliar retention of glyphosate (138.34 μl solution g−1 dry 
+weight vs. 390.79  μl solution g−1 dry weight), a reduced absorption of 14C-glyphosate 
+(54.18 vs. 73.56%) and lower translocation of 14C-glyphosate from the labeled leaf (27.70 
+vs. 62.36%). As a result, susceptible plants accumulated a 4.1-fold higher concentration 
+of 14C-glyphosate in the roots compared to resistant plants. The current work describes 
+the first worldwide case of glyphosate resistance in B. catharticus. A reduced foliar 
+retention of herbicide, a differential rate of glyphosate entry into leaves and an altered 
+glyphosate translocation pattern would be  the most likely mechanisms of 
+glyphosate exclusion.
+Keywords: Brome, EPSPS gene, shikimate, glyphosate absorption, glyphosate translocation
+INTRODUCTION
+The genus Bromus L. comprises approximately 150 species distributed across temperate  
+and cool regions of both hemispheres ( Planchuelo and Peterson, 2000 ). Several species are  
+used as natural pasture for grazing or have been introduced as forage in different  
+countries ( Planchuelo and Peterson, 2000 ). However, some Bromus species are aggressive  
+Yanniccari et al. Glyphosate-Resistant Bromus catharticus
+Frontiers in Plant Science | www.frontiersin.org 2 February 2021 | Volume 12 | Article 617945
+invaders posing enormous threats to native ecosystems 
+(Bradford and Lauenroth, 2006 ; Speziale et  al., 2014 ; Atkinson 
+and Brown, 2016) or troublesome weeds on arable lands (Cussans 
+et  al., 1994 ; Andersson et  al., 2002 ; Kleemann and Gill, 2006 ). 
+Among them, Bromus catharticus  Vahl. has been used as a 
+valuable forage crop, but it has also been identified as a weed 
+of winter crops and an invader in several countries 
+(Casha et  al., 2011 ; Ahumada and Troiani, 2016 ; Kovář, 2018 ).
+Bromus catharticus originated in the Pampas of South America 
+and was widely introduced into temperate regions worldwide 
+(Planchuelo and Peterson, 2000 ; Planchuelo, 2006 ), but it also 
+escaped into the wild in four continents ( Dastgheib et  al., 
+2003; Di Tomaso and Healy, 2007 ; Verloove, 2012 ; Muzafar 
+et  al., 2016 ; Bromilow, 2018 ). This is an annual, biennial, or 
+perennial species and it shows two types of flowering, 
+cleistogamic, and chasmogamic, but its reproductive behavior 
+corresponds to that of an autogamous species with a low rate 
+of allogamy ( Naranjo, 1992 ; Gutierrez and Pensiero, 1998 ). 
+Despite the high autogamy, morphologic and reproductive  
+traits have shown plastic responses to environmental  
+variations, explaining the greater adaptability of B. catharticus  
+(Aulicino and Arturi, 2002 ).
+This weed has shown a constancy (i.e., proportion of fields 
+in which a given species is present) of around 20% in winter 
+crops of central Pampas, Argentina ( Poggio et  al., 2004 ). In 
+this region, B. catharticus  starts the life cycle at midsummer 
+and autumn ( Ahumada and Troiani, 2016 ; Iroulart, 2020), when 
+glyphosate is widely used for fallow weed control prior to sowing 
+winter crops such as wheat and barley ( Vigna et  al., 2014 ). 
+Biological characteristics, such as genetic plasticity, may predispose 
+a weed species to evolve herbicide resistance ( Moss et al., 2019 ). 
+An herbicide treatment constitutes a challenging environment 
+for a weed population, where an elimination of most local 
+individuals occurs, but the adaptation from standing genetic 
+variation allows the evolution of the population ( Matzrafi et  al., 
+2020). This process would be  intensified when the weed is 
+subjected to a widespread, persistent, and intense selection 
+pressure with an herbicide ( Powles and Yu, 2010 ).
+In general terms, a resistant weed can survive to a normally 
+lethal dose of herbicide by different mechanisms classified as 
+target-site or non-target site resistance. The first category 
+includes amino acid substitutions that affect herbicide 
+interactions at the target enzyme and overexpression of the 
+target site ( Gaines et  al., 2019 ). Non-target site mechanisms 
+can be  associated with the metabolism of the herbicide or 
+exclusion of the herbicide from the target, either physically 
+with enhanced cuticular and other structural barriers or 
+physiologically with active vacuole sequestration, limited cellular 
+uptake, or a rapid necrosis response (Sammons and Gaines, 2014; 
+Ghanizadeh and Harrington, 2017 ).
+In the south of Buenos Aires province, a population of 
+B. catharticus  was putatively identified as glyphosate-resistant 
+based on the poor control at recommended doses of glyphosate 
+(960  g ae ha −1). As a consequence of the ineffective control 
+in pre-sowing, B. catharticus becomes problematic weed species 
+in wheat and barley crops, provoking yield losses of up to 
+70% ( Iroulart, 2020 ). The aim of this work was to evaluate 
+the magnitude of glyphosate resistance in the offspring of a 
+putative glyphosate-resistant B. catharticus , and to determine 
+the mechanisms associated with resistance to glyphosate in 
+this weed species.
+MATERIALS AND METHODS
+Plant Material
+In May 2017, 20 survived individuals of B. catharticus  were 
+collected from a fallow field (38.71 °S and 60.48 °W) where 
+glyphosate at 960  g ae ha −1 had failed to control B. catharticus . 
+In the last 8  years, the crop rotation involved wheat-soybean 
+and barley-soybean, where weed control had been based on 
+recurring applications of glyphosate in fallows and soybean 
+crops, pinoxaden, dicamba, 2,4-D, and metsulfuron in wheat 
+and barley crops.
+The collected plants had 5–10 tillers and were dug from 
+the field, taking care not to damage the root in the process. 
+Immediately, the plants were transplanted into 2  L pots filled 
+with soil (25% clay, 10% sand, and 4% organic matter) and 
+placed outdoors in the Chacra Experimental Integrada Barrow 
+(38.31°S and 60.23 °W). At the end of the plant life cycle, all 
+plants were harvested and manually threshed. Seeds of glyphosate-
+susceptible (S) B. catharticus  were obtained from a population 
+established as weed in the experimental station. Spikes of 20 
+susceptible plants were collected at random on January 2018. 
+The seeds obtained were stored at room temperature until the 
+beginning of the experiments.
+For dose-response and shikimic accumulation assays, the 
+plants were grown in 1  L pots filled with soil (25% clay, 10% 
+sand, and 4% organic matter; one plant per pot) in a greenhouse 
+at 21 °C (average temperature) during the autumn season in 
+the Chacra Experimental Integrada Barrow. The plants were 
+irrigated according to water demand and avoiding water excess.
+For foliar retention, absorption, translocation, metabolism, 
+and enzyme activity assays, the plants were obtained as below: 
+the seed were germinated in trays (15  cm×  15  cm×  8  cm) 
+with peat moss substrate. The trays were taken to a growth 
+chamber calibrated for 26/18 °C day/night, 14  h photoperiod 
+at 850  μmol−2 s−1 of light intensity, and 60% relative humidity. 
+The seedlings germinated of both populations were transplanted 
+into 250  ml (7  cm×  7  cm×  5  cm) pots (one plant plot −1) with 
+230  g of substrate [soil:peat moss (1:1)]. The plants were taken 
+to the greenhouse and irrigated daily.
+Chemicals
+A formulated glyphosate product (60.8% dimethyl amine salt 
+of N-phosphomethyl glycine; Panzer ® Gold, Argentina) was 
+used in greenhouse tests and laboratory studies. Glyphosate, 
+in analytical grade (>99%, Sigma-Aldrich, Madrid, Spain), was 
+used to evaluate the biochemical and molecular aspects of 
+glyphosate resistance. 14C-glyphosate (glycine-2- 14C), with a 
+radiochemical purity of 95% and specific activity 
+273.8 MBq mmol−1, was obtained from the Institute of Isotopes 
+Co., Ltd. (Budapest, Hungary).
+Yanniccari et al. Glyphosate-Resistant Bromus catharticus
+Frontiers in Plant Science | www.frontiersin.org 3 February 2021 | Volume 12 | Article 617945
+Dose-Response Assays
+The response of the putative glyphosate-resistant population 
+of B. catharticus  to glyphosate was compared to a susceptible 
+population using dose-response experiments. A completely 
+randomized design was used in order to test the sensitivity 
+of the plants to glyphosate (60.8% dimethyl amine salt of 
+N-phosphonomethyl glycine; Panzer ® Gold, Argentina) doses 
+of 0, 240 (only tested in the S population), 480, 960, 1920, 
+3,840, and 7,680 [only tested in the glyphosate-resistant (R) 
+population] g ae ha −1. The treatments were applied to plants 
+with 2–3 tillers using a laboratory belt sprayer calibrated to 
+deliver 200  L  ha −1 (distilled water was used as carrier). There 
+were 20 replicates for each herbicide rate, wherein each pot 
+was a sampling unit.
+Plant survival was recorded at 21  days after glyphosate 
+treatment. Plants with severe visual injury (wilting, chlorosis 
+of newly emerged leaves, and general browning) were recorded 
+as “dead” plants, while “surviving” plants showed no apparent 
+visual injury. The experiment was repeated twice.
+Shikimic Acid Accumulation in Leaves
+An experiment was carried out in order to determine the 
+effects of the different doses of glyphosate on the accumulation 
+of shikimate in leaves. R and S plants with 2–3 tillers were 
+treated with glyphosate (60.8% dimethyl amine salt of 
+N-phosphonomethyl glycine; Panzer ® Gold, Argentina) at 0, 
+480, 960, and 1920  g ae ha −1. A completely randomized design 
+was used with five replicates per treatment. At 72  h after 
+treatment (HAT), 0.05  g of fresh weight from the middle third 
+of the youngest fully expanded leaf of each replicate was used 
+for shikimic acid determination, following the methodology 
+described by Perez-Jones et  al. (2007) . Shikimic acid was 
+quantified with a spectrophotometer (Numak 752 UV-Vis) at 
+382  nm. The determination of the concentration of shikimic 
+acid was based on a shikimate (3a,4a,5b-trihydroxy-1-
+cyclohexene-1-carboxylic acid, 99%. Sigma Aldrich, Inc.) standard 
+curve. The experiment was repeated twice.
+Glyphosate Foliar Retention
+The methodology used for the foliar retention was described 
+by Palma-Bautista et  al. (2020)  with some modifications and 
+carried out at the University of Córdoba (Spain). Young plants 
+with 4–6 leaves of R and S B. catharticus  populations were 
+sprayed with 360  g ae ha −1 of glyphosate and 100  mg  L −1 
+Na-fluorescein using a laboratory system (SBS-060 De Vries 
+Manufacturing, Hollandale, MN, United  States) equipped with 
+8002 flat fan nozzles delivering 200  L  ha −1 at 250  kPa at the 
+height of 50 cm from plant level. When plants dried (40–60 min), 
+each shoot tissue was cut at ground level. The tissue was 
+submerged in test tubes with 50  ml of 5  mM NaOH for 30  s 
+to remove the spray solution. The washing solution was recovered 
+in glass flasks. Fluorescein absorbance was determined using 
+a spectrofluorometer (Hitachi F-2500, Tokyo, Japan) with an 
+excitation wavelength of 490 nm and an absorbance wavelength 
+at 510  nm. Then, the plants were wrapped in filter paper and 
+oven dried at 80 °C for 48  h and weighed. The experiment 
+was laid out in a completely randomized design with 10 
+replicates. It was repeated twice, and the results as microliter 
+of sprayed solution retained per g dry weight were combined 
+for analysis.
+14C-Glyphosate Absorption, Translocation, 
+and Visualization
+14C-glyphosate (glycine-2- 14C) plus commercial glyphosate 
+solution was applied to R and S B. catharticus  plants following 
+the methods described by Vázquez-García et  al. (2020a ,b) and 
+carried out at University of Córdoba (Spain). Plants were treated 
+at the 3–4-leaf stage and there were five repetitions and each 
+experiment was arranged in a completely randomized design.
+The second leaf was marked and covered with aluminum 
+foil before spraying the whole plant with 360 g ae ha−1 glyphosate, 
+and 30  min later the aluminum foil was removed. The final 
+glyphosate concentration corresponded to 360  g ae ha −1 in 
+200 L ha−1, which contained a specific activity of 100,000 dpm μl−1 
+(equivalent to 1.667  kBq  μl−1). Five plants per population were 
+treated with one drop (1  μl plant −1) of the solution on the 
+adaxial surface of the second leaf. After treatment, the plants 
+were maintained in the growth chamber at the growing conditions 
+described in section Plant Material.
+The absorbed 14C-glyphosate was removed from the treated 
+leaves (at 12, 24, 48, 72, 96, and 120 HAT) by washing three 
+times separately with 1 ml of a water-acetone solution (1:1 v/v) 
+each time. The washing solution was mixed with 2  ml of 
+scintillation liquid (Ultima Gold, Perkin-Elmer, BV BioScience 
+Packard, MA, United States) and analyzed by liquid scintillation 
+spectrometry (LSS) using a scintillation counter (LS 6500, 
+Beckman Coulter Inc., Fullerton, CA, United States) with reading 
+time of 10  min per sample.
+After washing, whole plants were removed from the pot 
+and sectioned into treated leaves, the remainder of the shoot 
+and the roots (this plant section was carefully washed with 
+distilled water and excess moisture removed with paper towel). 
+The samples were stored in cellulose cones (Perkin-Elmer, BV 
+BioScience Packard, MA, United  States), dried in an oven at 
+60°C for 96 h, and combusted in a biological oxidizer (Packard 
+Tri Carb 307, Packard Instrument Co., Downers Grove, IL, 
+United  States). The CO 2 released from the combustion was 
+captured in 18  ml of a mix of Carbo-Sorb E and Permafluor 
+(1:1  v/v; Perkin-Elmer, BV BioScience Packard, MA, 
+United  States). The radioactivity in dpm of each individual 
+sample was quantified by LSS over a 10 min period per sample. 
+The radioactive values of absorption and translocation of 14C 
+were expressed as a percentage of the total 14C-herbicide applied 
+and absorbed, respectively.
+To visualize the translocation of 14C-glyphosate, three plants 
+were treated under the same conditions as in the previous 
+assay. At 96 and 120 HAT, plants were washed individually, 
+fixed on filter paper, and dried at 25 °C (room temperature) 
+for 1  week. The plants were pressed for 4  h under a phosphor 
+store film (Storage Phosphor System: Cyclone, Perkin-Elmer 
+Packard BioScience BV, MA, United States) and visualized using 
+a phosphor imager Cyclone (Perkin-Elmer, Packard BioScience 
+BV, MA, United  States).
+Yanniccari et al. Glyphosate-Resistant Bromus catharticus
+Frontiers in Plant Science | www.frontiersin.org 4 February 2021 | Volume 12 | Article 617945
+Glyphosate Metabolism
+For this assay, plants were treated with a glyphosate dose of 
+360  g ae ha −1 when they were at the 3 to 4-leaf stage, following 
+the procedure and equipment used in the glyphosate foliar 
+retention assay. The same numbers of plants, without glyphosate 
+treatment, were used as blank. Plants were cut at 120 HAT, 
+washed with distilled water (to remove excess herbicide on the 
+surface of the leaf), and dried. Rapidly, they were frozen by 
+liquid nitrogen and stored at a temperature less than or equal 
+to −40°C before being used. For the determination and 
+quantification of glyphosate and its metabolites metabolites 
+[amino methyl phosphonic acid (AMPA), glyoxylate, sarcosine, 
+and formaldehyde], the methodology described by Rojano-
+Delgado et  al. (2010)  was followed, using a 3D Capillary 
+Electrophoresis Agilent G1600A instrument equipped with a 
+diode array detector (DAD, wavelength range 190–600  nm). 
+The used background electrolyte was an aqueous solution at 
+pH 7.5, containing 10  mM potassium phthalate, 0.5  mM 
+hexadecyltrimethylammonium bromide (CTAB), and 10% 
+acetonitrile. The calibration equations were obtained using 
+standards of known concentration of glyphosate and metabolites 
+were supplied by Sigma-Aldrich (St. Louis, MI). The experiment 
+was arranged in a completely randomized design with five 
+replications (individual plants) per population and treatment 
+and repeated three times.
+EPSPS Basal Activity and Dose-Response
+Five grams of leaf tissue from R and S plants, finely powdered, 
+were transferred to tubes with 100  ml of cold extraction buffer 
+(100  mM MOPS, 5  mM EDTA, 10% glycerol, 50  mM KCl, and 
+0.5  mM benzamidine), 70  μl of β-mercaptoethanol and 1% 
+polyvinylpolypyrrolidone (PVPP). Enzyme extraction was performed 
+following the protocol described by Sammons et  al. (2007) .
+The specific 5-enolpyruvylshikimate-3-phosphate synthase 
+(EPSPS) activity was assayed in the presence of glyphosate (>99%) 
+at different concentrations (from 0 to 5,000 μM) using the EnzChek 
+Phosphate Assay Kit (Invitrogen, Carlsbad, CA, United  States). 
+The EPSPS enzyme reaction substrates were phosphoenolpyruvate 
+and shikimate-3-phosphate, which were supplied by Sigma-Aldrich 
+(Madrid, Spain). The release of phosphate was measured for 
+10  min at 360  nm in a spectrophotometer (model DU-640, 
+Beckman Instruments Inc., Fullerton, United  States). The total 
+soluble protein (TSP) in the extract was measured using a Kit 
+for Protein Determination (Sigma-Aldrich, Madrid, Spain), 
+following the manufacturer’s instructions. The EPSPS activity was 
+measured for 10  min at 360  nm in a spectrophotometer (model 
+DU-640) to determine the amount of inorganic phosphate ( μmol) 
+released per μg of TSP per min ( μmol Pi μg−1 TSP min −1). The 
+EPSPS activity was expressed as a percentage relative to the 
+control (absence of glyphosate). Three technical replications of 
+each glyphosate concentration were analyzed per population. The 
+experiment was repeated twice.
+EPSPS Gene Sequencing
+Total DNA was extracted from the leaf tissue of five R plants 
+(survivors at a glyphosate dose of 1,920  g ae ha −1), following 
+the protocol of Doyle and Doyle (1990) . DNA yield and 
+quality were evaluated spectrophotometrically. The DNA was 
+used as a template to amplify the EPSPS sequence. The forward 
+primer (5 '-AGCTGTAGTCGTTGGCTGTG-3') and reverse 
+primer (5'-GCCAAGAAATAGCTCGCACT-3') were employed 
+to amplify a highly conserved region encompassing the positions 
+of all the known mutations that confer glyphosate resistance 
+(Sammons and Gaines, 2014 ). A 1,395-bp fragment was 
+obtained in the PCR reactions (initial denaturation at 94 °C 
+for 2  min and 30  cycles of 94 °C for 1  min, 62 °C for 1  min, 
+72°C for 1  min and final extension at 72 °C for 5  min), 
+containing: 300  ng DNA template, 0.8  μM of each primer, 
+0.2  mM of each dNTPs, 1.5  mM MgCl 2, 1X reaction buffer 
+(Inbio Highway), and 1  U Taq polymerase (Inbio Highway) 
+in a 25  μl reaction mix.
+PCR products were purified and sequenced from both ends 
+through Macrogen service (Macrogen Inc., Seoul, South Korea). 
+The sequence data obtained were cleaned, aligned, and compared 
+at 101, 102, 106, 144, and 192 codons (numbers based on 
+the plant EPSPS numbering system used by Padgette et  al., 
+1996) using BLAST of the National Center for Biotechnology 
+Information (NCBI).
+Statistical Analysis
+Survival and EPSPS activity data were used to build dose-
+response curves with a non-linear log-logistic regression model 
+as described by Streibig et  al. (1993) :
+ 
+yc dc xgb=+ −()+()   {/ /}1
+In this equation, y represents the percentage of response 
+at the herbicide rate x; c and d are the lower (fixed at 0 for 
+LD50) and upper asymptote, respectively; b is the slope of the 
+line at g; and g is the herbicide concentration required to 
+reach 50% of the maximum response for EPSPS enzyme activity 
+(I50) or the glyphosate dose causing 50% mortality (LD 50). To 
+assess the accuracy of the models, F-test for model significance, 
+residual variance analysis, and coefficient of determination (R 2) 
+were calculated. LD50 and I50 values from resistant and susceptible 
+populations were compared with the F-test ( p < 0.05; GraphPad 
+Prism 6 Software) and a resistance index (RI) was calculated 
+as the ratio of the LD 50 of the resistant population compared 
+to the susceptible population.
+An ANOVA was performed to evaluate the differences 
+between populations and treatments. The differences between 
+the mean values of shikimic acid contents, glyphosate foliar 
+retention, and 14C-glyphosate absorption and translocation were 
+compared with Fisher test ( p < 0.05; Statistica® v7.1. Stat Soft).
+RESULTS
+Glyphosate-Sensitivity: Plant Survival and 
+Shikimate Accumulation
+At least 50% of plants from the R population survived to 1 
+and 2-fold of the recommended dose of glyphosate (960 g ae ha−1); 
+while none of the S plants survived these treatments ( Figure 1). 
+Yanniccari et al. Glyphosate-Resistant Bromus catharticus
+Frontiers in Plant Science | www.frontiersin.org 5 February 2021 | Volume 12 | Article 617945
+Regression models fitted to plant survival of both populations 
+were compared, and LD 50 parameters differed significantly 
+between S and R populations ( p  =  0.004). The LD 50 calculated 
+for the R population was higher than the recommended dose 
+of glyphosate (1750 vs. 960  g ae ha −1) and the RI achieved 
+was 4.0.
+The response of shikimate accumulation to the glyphosate 
+dose was significantly different between populations ( p  <  0.01; 
+Figure  2). While the basal content of shikimate was similar 
+in S and R plants, a significant shikimate accumulation of 2.9 
+and 6.0-fold was detected in S plants when treated with 960 
+and 1920  g ae ha −1, respectively. In contrast, R plants showed 
+no significant changes in shikimate concentration among the 
+different treatments ( Figure  2).
+Glyphosate Foliar Retention
+S and R plants of B. catharticus treated with glyphosate showed 
+different foliar retention of the herbicide. S leaf retention was 
+390.79  ±  49.10 (SE; μl solution g −1 dry weight) while the R 
+population had a lower value of 138.34 ± 22.36 (SE; μl solution 
+g−1 dry weight). Foliar retention capacity was 2.83 times greater 
+in the S population as compared to the R population ( Figure 3).
+14C-Glyphosate Absorption, Translocation, 
+and Visualization
+Total recovery of 14C-glyphosate in this research was 94.3  ±  2.1 
+(SE) % and 95.1  ±  1.4 (SE) % for R and S populations of 
+B. catharticus , respectively. Absorption of 14C-glyphosate was 
+slow in both R and S populations until 48 HAT ( Figure  4A). 
+At this time, the S population had absorbed 21.96  ±  1.81 (SE) 
+% glyphosate, while the R population had only absorbed 
+17.86  ±  1.47 (SE) %. From 48 HAT, the absorption began to 
+be  exponentially more pronounced in the S population. The 
+maximum absorption rate of glyphosate was observed at 120 
+HAT, which was 1.4-fold higher in the S population [73.56 ± 2.40 
+(SE) %] than in the R population [54.18  ±  4.94 (SE) %]. At 
+any time, compared with the R plants, S plants translocated 
+more 14C-glyphosate (as a percentage of that absorbed) from 
+the treated leaves to the rest of the plant and roots (Figures 4B–D). 
+The corresponding accumulation of 14C-glyphosate was measured 
+in the remaining shoot tissue (rest of plants) was greater for 
+the S population as compared to R counterparts ( Figure  4C). 
+Differences in accumulation of 14C-glyphosate in roots between 
+S and R populations were most noticeable at times later than 
+48 HAT. The S vs. R plants demonstrated a 4.1-fold higher 
+root concentration of 14C-glyphosate at 120 HAT ( Figure  4D).
+FIGURE 1 |  Effects of glyphosate doses on plant survival for the 
+glyphosate-susceptible (S) and -resistant (R) Bromus catharticus at 21 days 
+after treatment. Symbols represent mean values and bars indicate ± 1 SEM. 
+The predicted responses are shown by lines according to the adjusted models: 
+(S) y = −1+(99+1)/[1+(x/436)4.1]; p < 0.01; R2 = 0.99 and (R) y = −9+(102+9)/
+[1+(x/1750)1.8]; p < 0.01; R2 = .97.
+FIGURE 2 |  Accumulation of shikimic acid in the last expanded leaf of 
+glyphosate-susceptible (S) and -resistant (R) Bromus catharticus at 72 h after 
+glyphosate treatment. Columns represent mean values, and vertical bars 
+indicate the SEM. Letters above the bars indicate statistical significance 
+(p < 0.05).
+FIGURE 3 |  Spray retention of a glyphosate solution by resistant (R) and 
+susceptible (S) Bromus catharticus plants. Error bars are the SEM. Different 
+letters above the bars indicate significant differences between populations 
+(p < 0.05).
+Yanniccari et al. Glyphosate-Resistant Bromus catharticus
+Frontiers in Plant Science | www.frontiersin.org 6 February 2021 | Volume 12 | Article 617945
+The Phosphor Imager images shown confirmed the previous 
+results obtained with the LSS in absorption and translocation 
+assays ( Figure  5). At 96 and 120 HAT, the plants of the R 
+population absorbed and translocated smaller amounts of 
+14C-glyphosate from the treated leaf to the root than the S plants 
+(Figure  4).
+Glyphosate Metabolism
+The data obtained in this study ( Table  1) showed that there 
+is no glyphosate metabolism. In fact, only glyphosate and a 
+minimum amount of glyoxylate can be  observed at 120 HAT. 
+The latter cannot be  considered a metabolite of glyphosate 
+because its origin is not only glyphosate; therefore, if AMPA 
+does not appear (for example), it cannot be  considered as a 
+metabolite of this herbicide.
+EPSPS Basal Activity and I50 Values
+No differences were observed between R and S populations 
+in respect to the concentration of glyphosate required to inhibit 
+EPSPS activity by 50% (I 50), being 0.150 and 0.120  μM of 
+glyphosate, respectively ( Figure  6). In addition, the EPSPS 
+activity in the absence of glyphosate was similar in both R 
+and S populations, being 1.82  ±  0.03 (SE) and 1.45  ±  0.03 
+(SE) μmol Pi μg−1 TSP min −1, respectively. In this case, no 
+differences were apparent between the S and R plants for either 
+EPSPS activity in the absence of glyphosate or the inhibition 
+response to glyphosate (I 50).
+EPSPS Gene Sequencing
+The fragment sequenced (MT454262) included exons (part of 
+2, 3, and 4) and introns (2, 3, and part of 4) according to 
+the structure described by Aramrak et  al. (2015)  The sequence 
+of B. catharticus  showed around 86% of identity with the three 
+genomic copies of EPSPS of T. aestivum  on chromosomes 4A, 
+7A, and 7D (KP411547.1, KP411548.1, and KP411549.1). 
+However, the exons were more highly conserved than introns, 
+where the translated regions showed at least 90% of identity 
+with the three genes of T. aestivum .
+AB
+CD
+FIGURE 4 |  Percentage of absorption of 14C-glyphosate (A) in glyphosate-susceptible (S) and -resistant (R) Bromus catharticus, 14C-glyphosate detected in the 
+labeled leaf (B) and translocation from treated leaf to rest of plants (C) and the root system (D) at 12–120 HAT. Error bars are the SEM per time evaluated. Different 
+letters above the bars indicate statistical differences between populations at the same time of evaluation (p < 0.05).
+Yanniccari et al. Glyphosate-Resistant Bromus catharticus
+Frontiers in Plant Science | www.frontiersin.org 7 February 2021 | Volume 12 | Article 617945
+Analyzing the differences between exons of B. catharticus  
+vs. T. aestivum , most nucleotide mismatches were associated 
+with silent substitutions, but seven mismatches involved six 
+codon changes: Gly-134-Ala, Gln-141-Lys, Asp-146-Thr, 
+Asn-154-Asp, Lys-163-Thr, and Glu-194-Gly. However,  
+no substitutions were recorded at codons 101, 102, 103, 106, 
+144, and 192, which have been associated with low 
+glyphosate-sensitivity.
+Discussion
+Within the genus Bromus, populations of B. diandrus, B. sterilis , 
+and B. rubens  have evolved glyphosate resistance in Australia, 
+United  Kingdom, and Spain, respectively ( Malone et  al., 2016 ; 
+FIGURE 5 |  Digital images and 14C-glyphosate visualization in glyphosate-susceptible (S) and -resistant (R) Bromus catharticus populations. The translocation 
+visualization was obtained from treated plants at 96 and 120 HAT. Arrows indicate the treated leaves. The concentration of 14C-glyphosate is highlighted in red.
+TABLE 1 |  Glyphosate metabolism (%) at 120 h after treatment (HAT) in 
+glyphosate-susceptible (S) and -resistant (R) Bromus catharticus populations. 
+Mean values ± SE are shown.
+Metabolism (%) at 120 HAT
+B. catharticus Glyphosate AMPA Glyoxylate
+S 97.48 ± 3.18 – 2.81 ± 0.82
+R 96.92 ± 2.21 – 3.05 ± 0.49
+FIGURE 6 |  EPSPS enzyme activity of glyphosate-susceptible (S) and 
+-resistant (R) Bromus catharticus populations exposed to different glyphosate 
+concentrations (μM), expressed as a percentage of the untreated control. The 
+predicted responses are shown by lines according to the adjusted models: 
+(S) y = (103)/[1+(x/0.12)0.73]; p < 0.01; R2 = 0.99 and (R) y = (101)/
+[1+(x/0.16)0.56]; p < 0.01; R2 = 0.99.
+Yanniccari et al. Glyphosate-Resistant Bromus catharticus
+Frontiers in Plant Science | www.frontiersin.org 8 February 2021 | Volume 12 | Article 617945
+Davies et al., 2019 ; Heap, 2020), and EPSPS gene amplification 
+was reported as the mechanism of glyphosate resistance in B. 
+diandrus ( Malone et  al., 2016 ). Until now, no antecedents of 
+glyphosate-resistance were detected in American species 
+of Bromus.
+In the current work, the plant survival analysis showed 
+that the glyphosate-sensitivity of the R B. catharticus population 
+was around 4-fold lower than the S population ( Figure  1). 
+Consistent with this finding, the shikimate content in the leaves 
+of R plants showed no significant changes in response to 
+glyphosate treatments ( Figure  2). These results support an 
+inherited ability of plants from the R population to survive 
+and reproduce after a normally lethal dose of glyphosate. All 
+surviving plants produced viable seeds, so in that sense, the 
+progeny obtained from individuals treated to 1,920  g ae ha −1 
+was used to determine the mechanism of resistance.
+No evidence was found for target-site mechanisms of resistance 
+to glyphosate in the R population. Neither a target-site mutation 
+nor differences in basal EPSPS activity were identified between 
+both populations. However, our results revealed that R plants 
+retained just under half of the amount quantified in S plants 
+(Figure  3) but spraying a double dose of glyphosate on the 
+R population was not enough to match the mortality of the 
+S population ( Figure  1). A lower foliar retention of herbicide 
+would constitute the first barrier for glyphosate efficacy because 
+it limits the amount that can subsequently enter the plant. In 
+any case, a differential glyphosate foliar retention has not been 
+detected as a strong mechanism of resistance per se , which 
+instead has been linked to an altered glyphosate uptake and 
+translocation or even duplication of EPSPS gene copies in 
+glyphosate-resistant Lolium multiflorum  populations ( Michitte 
+et al., 2007; Fernández-Moreno et al., 2017). In the B. catharticus, 
+population analyzed important mechanism of herbicide selectivity 
+would be  associated with other exclusion mechanisms as in 
+the cases quoted above.
+No evidence was obtained for an enhanced capacity to 
+metabolize glyphosate during the time of evaluation (up to 
+120 HAT; Table  1), and this observation supports the tracking 
+of glyphosate movement in order to confirm differences in 
+herbicide uptake and translocation between populations. 
+Comparing the glyphosate absorption process in both populations, 
+R plants showed a slower uptake from 48 to 120 HAT. Thus, 
+the maximum absorption rate of glyphosate was detected at 
+120 HAT, which was 25% lower in the R population in respect 
+to the glyphosate uptake quantified in S plants ( Figure  4A). 
+A differential rate of glyphosate entry into leaves has been 
+detected in other weed species, where R accessions showed 
+up to 40% of reduction in the absorption of herbicide; however, 
+this trait seems to be  frequently associated with an altered 
+pattern translocation ( Michitte et  al., 2007 ; de Carvalho et  al., 
+2012; Vila-Aiub et al., 2012; Dominguez-Valenzuela et al., 2017; 
+Palma-Bautista et  al., 2019 ).
+Notwithstanding differences in glyphosate absorption between 
+populations, the current results show that herbicide uptake 
+was around 10–15% of glyphosate applied at 12 and 24 HAT 
+and no differences were detected between R and S plants during 
+this period (Figure 4A). Nevertheless, the glyphosate translocation 
+from the labeled leaf was significantly different between both 
+populations at 12 and 24 HAT ( Figures  4B,C). Throughout 
+the entire analysis period, R plants translocate half or less of 
+the glyphosate absorbed compared to S plants ( Figure  4B). 
+As a consequence, the translocation of glyphosate to the roots 
+was four times greater in S plants as compared to R counterparts 
+at the last moment of evaluation ( Figure  4D). This evidence 
+suggests that impaired translocation of glyphosate would be the 
+primary mechanism of resistance in the R B. 
+catharticus population.
+The reduction in glyphosate movement to sensitive tissues, 
+such as shoots and root meristems, would have a large effect 
+on plant survival ( Preston and Wakelin, 2008 ; Shaner, 2009 ). 
+Since the herbicide affects actively growing tissues, the demand 
+for assimilates would decrease and consequently induce an 
+accumulation of carbohydrates in the leaves associated with a 
+feedback inhibition of CO 2 fixation, but as the light stage of 
+photosynthesis is initially unaffected, a redirection of electrons 
+to alternative electron sinks occurs, conducive to oxidative 
+stress, that ultimately leads to plant death ( Yanniccari et  al., 
+2012a,b). As a consequence, a restricted translocation of 
+glyphosate has been frequently detected as an important 
+mechanism of resistance in several weed species ( Feng et  al., 
+2004; Wakelin et  al., 2004 ; Koger and Reddy, 2005 ; Vila-Aiub 
+et  al., 2012 ; Ghanizadeh et  al., 2016 ; Dominguez-Valenzuela 
+et  al., 2017 ; Vázquez-García et  al., 2020a ,b). Going further, a 
+process of glyphosate sequestration within the cell vacuole was 
+detected as a basis of glyphosate altered translocation in resistant 
+Conyza canadensis  and Lolium spp. populations ( Ge et  al., 
+2010, 2012, 2014).
+Bromus spp. weeds have emerged as a major challenge for 
+arable farmers because there is no effective herbicide for its 
+control in cereals ( Dastgheib et  al., 2003 ). In that sense, 
+B. catharticus  should be  controlled during the fallow period 
+prior to sowing winter cereals, for which glyphosate is widely 
+used in Argentina ( Vigna et al., 2014 ). The current work shows 
+the first worldwide case of glyphosate resistance in B. catharticus, 
+where an altered glyphosate translocation pattern was revealed 
+from 12 HAT onwards and this represented to be the primarily 
+mechanism of resistance. However, a lower foliar retention 
+and a reduced absorption of glyphosate were also evidenced 
+as barriers of glyphosate exclusion mechanisms. Given the 
+relevance of genetic factors in the dynamics of herbicide-
+resistance ( Ghanizadeh et  al., 2019 ), it is important to know 
+the basis of the inheritance of glyphosate resistance in B. 
+catharticus. Preventing the spread of this trait is a major 
+challenge for future studies, considering the high capacity of 
+adaptation of this weed to a wide range of habitats and 
+growing conditions.
+DATA AVAILABILITY STATEMENT
+The datasets presented in this study can be  found in online 
+repositories. The names of the repository/repositories and 
+accession number(s) can be  found at: https://www.ncbi.nlm.
+nih.gov/genbank/, MT454262.
+Yanniccari et al. Glyphosate-Resistant Bromus catharticus
+Frontiers in Plant Science | www.frontiersin.org 9 February 2021 | Volume 12 | Article 617945
+AUTHOR CONTRIBUTIONS
+MY, JV-G, PA, and RP designed experiments. MY,  
+JV-G, AR-D, and MG-L performed the experiments and  
+data analysis. MY, JV-G, AR-D, PA, and RP wrote the manuscript. 
+All authors have reviewed and approved the final manuscript.
+FUNDING
+This work was funded by Consejo Nacional de Investigaciones 
+Científicas y Técnicas (Argentina), Instituto Nacional de 
+Tecnología Agropecuaria (2019-PE-E4-I086-001; Argentina), 
+and Asociación de Agroquímicos y Medioambiente (Spain).
+ACKNOWLEDGMENTS
+The authors are grateful to Ing. Agr. Natalia Ross (Cooperativa 
+Agraria de Tres Arroyos) and Ing. Agr. Alan Fjellerup (AACREA) 
+for field collection help. The authors greatly appreciate Patricia 
+Castro at Genetic Department, University of Cordoba, Spain, 
+for assistance and help.
+ 
+REFERENCES
+Ahumada, O., and Troiani, H. (2016). “ Bromus catharticus  Vahl” in Malezas 
+e Invasoras de la Argentina, Descripción y reconocimiento . eds. O. Fernández,  
+E. Leguizamón and H. Acciaresi (Bahía Blanca: EdiUNS), 444.
+Aramrak, A., Kidwell, K., Steber, C., and Burke, I. (2015). Molecular and 
+phylogenetic characterization of the homoeologous EPSP synthase genes of 
+allohexaploid wheat, Triticum aestivum  (L.). BMC Genomics  16:844. doi: 
+10.1186/s12864-015-2084-1
+Atkinson, S. Y., and Brown, C. S. (2016). “Attributes that confers invasiveness 
+and impacts across the large genus Bromus: lessons from the Bromus REFnet 
+database” in Exotic brome-grasses in arid and semiarid ecosystems of the 
+Western US. eds. M. J. Germino, J. C. Chambers and C. S. Brown (Switzerland: 
+Springer), 155–191.
+Andersson, L., Milberg, P., Schütz, W., and Steinmetz, O. (2002). Germination 
+characteristics and emergence time of annual Bromus species of differing 
+weediness in Sweden. Weed Res.  42, 135–147. doi: 10.1046/j.1365-3180. 
+2002.00269.x
+Aulicino, M. B., and Arturi, M. J. (2002). Phenotypic diversity in Argentinean 
+populations of Bromus catharticus  (Poaceae). Genetic and environmental 
+components of quantitative traits. N. Z. J. Bot.  40, 223–234. doi: 10.1080/ 
+0028825X.2002.9512785
+Bradford, J. B., and Lauenroth, W. K. (2006). Controls over invasion of Bromus 
+tectorum: the importance of climate, soil, disturbance and seed availability. 
+J. Veg. Sci.  17, 693–704. doi: 10.1111/j.1654-1103.2006.tb02493.x
+Bromilow, C. (2018). Problem plants and alien weeds of South  Africa . 4th Edn.  
+Pretoria: Briza Publications.
+Casha, A., Mifsud, S., and Tabone, T. J. (2011). Bromus cathatrticus  Vahl (Fam. 
+Poaceae): a new record for the maltese islands. Cent. Mediterr. Nat.  5, 65–66.
+Cussans, G. W., Cooper, F. B., Davies, D. H. K., and Thomas, M. R. (1994). 
+A survey of the incidence of the Bromus species as weeds of winter cereals 
+in England, Wales and parts of Scotland. Weed Res.  34, 361–368. doi: 
+10.1111/j.1365-3180.1994.tb02005.x
+Dastgheib, F., Rolston, M., and Archie, W. (2003). Chemical control of brome 
+grasses (Bromus spp.) in cereals. N. Z. Plant Prot.  56, 227–232. doi: 10.30843/
+nzpp.2003.56.6096
+Davies, L., Hull, R., Moss, S., and Neve, P. (2019). The first cases of evolving 
+glyphosate resistance in UK poverty brome ( Bromus sterilis ) populations. 
+Weed Sci.  67, 41–47. doi: 10.1017/wsc.2018.61
+de Carvalho, L. B., Alves, P. L., González-Torralva, F., Cruz-Hipolito, H. E., 
+Rojano-Delgado, A. M., De Prado, R., et al. (2012). Pool of resistance 
+mechanisms to glyphosate in Digitaria insularis . J. Agric. Food Chem.  60, 
+615–622. doi: 10.1021/jf204089d
+Di Tomaso, J. M., and Healy, E. A. (2007). Weeds of California and other 
+Western States. Vol. 1 . Davies: UCANAR publications, 1808.
+Domínguez-Valenzuela, J. A., Gherekhloo, J., Fernández-Moreno, P. T., 
+Cruz-Hipolito, H. E., Alcántara-de la Cruz, R., Sánchez-González, E., et al. 
+(2017). First confirmation and characterization of target and non-target site 
+resistance to glyphosate in palmer amaranth ( Amaranthus palmeri ) from 
+Mexico. Plant Physiol. Biochem. 115, 212–218. doi: 10.1016/j.plaphy.2017.03.022
+Doyle, J., and Doyle, L. (1990). Isolation of plant DNA from fresh tissue. 
+Focus 12, 13–15.
+Feng, P. C. C., Tran, M., Chiu, T., Sammons, R. D., Heck, G. R., and CaJacob, C. A. 
+(2004). Investigations into glyphosate-resistant horseweed (Conyza canadensis): 
+retention, uptake, translocation, and metabolism. Weed Sci.  52, 498–505. 
+doi: 10.1614/WS-03-137R
+Fernández-Moreno, P., Alcántara-de la Cruz, R., Smeda, R., and De Prado, R. 
+(2017). Differential resistance mechanisms to glyphosate result in fitness 
+cost for Lolium perenne  and L. multiflorum . Front. Plant Sci.  8:1796. doi: 
+10.3389/fpls.2017.01796
+Gaines, T., Patterson, E., and Neve, P. (2019). Molecular mechanisms of adaptive 
+evolution revealed by global selection for glyphosate resistance. New Phytol.  
+223, 1770–1775. doi: 10.1111/nph.15858
+Ge, X., d’Avignon, D. A., Ackerman, J. J., and Sammons, R. D. (2010). Rapid 
+vacuolar sequestration: the horseweed glyphosate resistance mechanism. Pest 
+Manag. Sci.  66, 345–348. doi: 10.1002/ps.1911
+Ge, X., d’Avignon, D. A., Ackerman, J. J. H., Collavo, A., Sattin, M., Ostrander, E. L., 
+et al. (2012). Vacuolar glyphosate-sequestration correlates with glyphosate resistance 
+in ryegrass ( Lolium spp.) from Australia, South America and Europe: a 31P-NMR 
+investigation. J. Agric. Food Chem.  60, 1243–1250. doi: 10.1021/jf203472s
+Ge, X., d’Avignon, D. A., Ackerman, J. J., and Sammons, R. D. (2014). In vivo 
+31P-nuclear magnetic resonance studies of glyphosate uptake, vacuolar 
+sequestration, and tonoplast pump activity in glyphosate-resistant horseweed. 
+Plant Physiol.  166, 1255–1268. doi: 10.1104/pp.114.247197
+Ghanizadeh, H., Buddenhagen, C. E., Harrington, K. C., and James, T. K. 
+(2019). The genetic inheritance of herbicide resistance in weeds. Crit. Rev. 
+Plant Sci.  38, 295–312. doi: 10.1080/07352689.2019.1665769
+Ghanizadeh, H., and Harrington, K. C. (2017). Non-target site mechanisms of 
+resistance to herbicides. Crit. Rev. Plant Sci.  36, 24–34. doi: 
+10.1080/07352689.2017.1316134
+Ghanizadeh, H., Harrington, K. C., James, T. K., Woolley, D. J., and Ellison, N. W. 
+(2016). Restricted herbicide translocation was found in two glyphosate-
+resistant Italian ryegrass ( Lolium multiflorum  Lam.) populations from 
+New  Zealand. J. Agric. Sci. Technol.  18, 1041–1051.
+Gutierrez, H. F., and Pensiero, J. F. (1998). Sinópsis de las especies Argentinas 
+del género Bromus (Poaceae). Darviniana 35, 75–114.
+Heap, I. (2020). The International Survey of Herbicide Resistant Weeds. Available 
+at: http://www.weedscience.org (Accessed April 10, 2020).
+Iroulart, G. (2020). Evaluación de Estrategias de Control de Bromus catharticus 
+en el Cultivo de Cebada, thesis. Facultad de Ciencias Agrarias y Forestales . 
+Argentina: Universidad Nacional de La Plata.
+Kleemann, S., and Gill, G. L. (2006). Differences in the distribution and seed 
+germination behaviour of populations of Bromus rigidus and Bromus diandrus 
+in South Australia: adaptations to habitat and implications for weed 
+management. Aust. J. Agric. Res.  57, 213–219. doi: 10.1071/AR05200
+Koger, C. H., and Reddy, K. N. (2005). Role of absorption and translocation 
+in the mechanism of glyphosate resistance in horseweed ( Conyza canadensis). 
+Weed Sci.  53, 84–89. doi: 10.1614/WS-04-102R
+Kovář, P. (2018). Invasion of schrader’s bromegrass ( Bromus catharticus ) and 
+expansion of the Cairo suburban land: are they in coincidence? J. Landsc. 
+Ecol. 11, 186–190. doi: 10.2478/jlecol-2018-0019
+Malone, J. M., Morran, S., Shirley, N., Boutsalis, P., and Preston, C. (2016). 
+EPSPS gene amplification in glyphosate-resistant Bromus diandrus . Pest 
+Manag. Sci.  72, 81–88. doi: 10.1002/ps.4019
+Yanniccari et al. Glyphosate-Resistant Bromus catharticus
+Frontiers in Plant Science | www.frontiersin.org 10 February 2021 | Volume 12 | Article 617945
+Matzrafi, M., Preston, C., and Bronharo, C. A. (2020). Review: evolutionary 
+drivers of agricultural adaptation in Lolium spp. Pest Manag. Sci. doi: 10.1002/
+ps.6219 (in press).
+Michitte, P., De Prado, R., Espinoza, N., Ruiz-Santaella, J. P., and Gauvrit, C. 
+(2007). Mechanisms of resistance to glyphosate in a ryegrass ( Lolium 
+multiflorum) biotype from Chile. Weed Sci.  55, 435–440. doi: 10.1614/
+WS-06-167.1
+Moss, S., Ulber, L., and den Hoed, I. (2019). A herbicide resistance risk matrix. 
+Crop Prot.  115, 13–19. doi: 10.1016/j.cropro.2018.09.005
+Muzafar, I., Khuroo, A., Mehraj, G., Hamid, M., and Rashid, I. (2016). Bromus 
+catharticus Vahl (Poaceae): a new plant record for Kashmir Himalaya, India. 
+Check List  12, 1–5. doi: 10.15560/12.2.1875
+Naranjo, C. A. (1992). Estudios biosistematicos en especies de Bromus (sección 
+Ceratochloa, Poaceae). I. Sistemas reproductivos y barreras de aislamiento. 
+Darwin 31, 173–183.
+Padgette, S. R., Re, R. D., Barry, G. F., Eichholtz, D. E., Delannay, X., Fuchs, R. L., 
+et al. (1996). “New weed control opportunities: development of soybeans 
+with a roundup ready gene” in Herbicide-resistant crops: Agricultural, economic, 
+environmental, regulatory, and technological aspects . ed. S. O. Duke (Boca 
+Raton: CRC Press), 53–84.
+Palma-Bautista, C., Vazquez-Garcia, J. G., Travlos, I., Tataridas, A., Kanatas, P., 
+Domínguez-Valenzuela, J. A., et al. (2020). Effect of adjuvant on glyphosate 
+effectiveness, retention, absorption and translocation in Lolium rigidum   
+and Conyza canadensis . Plan. Theory  9:297. doi: 10.3390/plants90 
+30297
+Palma-Bautista, C., Torra, J., Garcia, M., Bracamonte, E., Rojano-Delgado, A., 
+Alcántara-de la Cruz, R., et al. (2019). Reduced absorption and impaired 
+translocation endows glyphosate resistance in Amaranthus palmeri  harvested 
+in glyphosate-resistant soybean from Argentina. J. Agric. Food Chem.  67, 
+1052–1060. doi: 10.1021/acs.jafc.8b06105
+Perez-Jones, A., Park, K. W., Polge, N., Colquhoun, J., and Mallory-Smith, C. A. 
+(2007). Investigating the mechanisms of glyphosate resistance in Lolium 
+multiflorum. Plants 226, 395–404. doi: 10.1007/s00425-007-0490-6
+Planchuelo, A. M. (2006). A new combination in the Bromus catharticus complex 
+(Poaceae: Bromeae sect. Ceratochloa). Sida 22, 555–560.
+Planchuelo, A. M., and Peterson, P. M. (2000). “The species of Bromus (Poaceae: 
+Bromeae) in South America” in Grasses: Systematics and evolution . eds. 
+S. W. L. Jacobs and J. Everett (Australia: CSIRO Publishing), 89–101.
+Poggio, S. L., Satorre, E. H., and de la Fuente, E. B. (2004). Structure of weed 
+communities occurring in pea and wheat crops in the rolling Pampa 
+(Argentina). Agric. Ecosyst. Environ.  103, 225–235. doi: 10.1016/j.
+agee.2003.09.015
+Powles, S. B., and Yu, Q. (2010). Evolution in action: plants resistant to 
+herbicides. Annu. Rev. Plant Biol.  61, 317–347. doi: 10.1146/annurev-
+arplant-042809-112119
+Preston, C., and Wakelin, A. M. (2008). Resistance to glyphosate from altered 
+herbicide translocation patterns. Pest Manag. Sci.  64, 372–376. doi: 10.1002/
+ps.1489
+Rojano-Delgado, A. M., Ruiz-Jiménez, J., de Castro, M. D. L., and De Prado, R. 
+(2010). Determination of glyphosate and its metabolites in plant material 
+by reversed-polarity CE with indirect absorptiometric detection. Electrophoresis 
+31, 1423–1430. doi: 10.1002/elps.200900583
+Sammons, R. D., Meyer, J., Hall, E., Ostrander, E., and Schrader, S. (2007). 
+“A simple continuous assay for EPSP synthase in plant tissue.” in: Annual 
+Meeting of the North Central Weed Science Society 2007, St. Louis .
+Sammons, R. D., and Gaines, T. A. (2014). Glyphosate resistance: state of 
+knowledge. Pest Manag. Sci.  70, 1367–1377. doi: 10.1002/ps.3743
+Shaner, D. (2009). Role of translocation as a mechanism of resistance to 
+glyphosate. Weed Sci.  57, 118–123. doi: 10.1614/WS-08-050.1
+Speziale, K. L., Lambertucci, S. A., and Ezcurra, C. (2014). Bromus tectorum  
+invasion in South America: Patagonia under threat? Weed Res.  54, 70–77. 
+doi: 10.1111/wre.12047
+Streibig, J. C., Rudemo, M., and Jensen, J. E. (1993). “Dose-response curves 
+and statistical models” in Herbicide Bioassays. eds. J. C. Streibig and P. Kudsk 
+(Boca Raton: CRC Press), 29–55.
+Vázquez-García, J. G., Golmohammadzadeh, S., Palma-Bautista, C., Rojano-Delgado, A. M., 
+Domínguez-Valenzuela, J. A., Cruz-Hipolito, H. E., and De Prado, R. (2020a) 
+New case of false-star-grass ( Chloris distochophylla ) population evolving 
+glyphosate resistance. Agron. 10:377. doi: 10.3390/agronomy10030377
+Vázquez-García, J. G., Palma-Bautista, C., Rojano-Delgado, A. M., De Prado, R., 
+and Menendez, J. (2020b). The first case of glyphosate resistance in johnsongrass 
+(Sorghum halepense  (L.) Pers.) in Europe. Plants 9:313. doi: 10.3390/
+plants9030313
+Verloove, F. (2012). A revision of Bromus section Ceratochloa (Pooideae, Poaceae) 
+in Belgium. Dumortiera 101, 30–45.
+Vigna, M., Papa, J. C., Ponsa, J. C., Bedmar, F., Guevara, G., Rainero, H., et al. 
+(2014). “El control químico de malezas en cultivos intensivos” in Malezas 
+e Invasoras de la Argentina, Ecología y Manejo. eds. O. Fernández, E. Leguizamón 
+and H. Acciaresi (Bahía Blanca: EdiUNS), 505–620.
+Vila-Aiub, M., Balbi, M., Distéfano, A., Fernández, L., Hopp, E., Yu, Q., et al. 
+(2012). Glyphosate resistance in perennial Sorghum halepense (Johnsongrass), 
+endowed by reduced glyphosate translocation and leaf uptake. Pest Manag. 
+Sci. 68, 430–436. doi: 10.1002/ps.2286
+Wakelin, A. M., Lorraine-Colwill, D. F., and Preston, C. (2004). Glyphosate 
+resistance in four different populations of Lolium rigidum  as associated with 
+reduced translocation of glyphosate to meristematic zones. Weed Res.  44, 
+453–459. doi: 10.1111/j.1365-3180.2004.00421.x
+Yanniccari, M., Istilart, C., Giménez, D. O., and Castro, A. M. (2012a). Effects 
+of glyphosate on the movement of assimilates of two Lolium perenne  L. 
+populations with differential herbicide sensitivity. Environ. Exp. Bot.  82, 
+14–19. doi: 10.1016/j.envexpbot.2012.03.006
+Yanniccari, M., Tambussi, E., Istilart, C., and Castro, A. M. (2012b). Glyphosate 
+effects on gas exchange and chlorophyll fluorescence responses of two Lolium 
+perenne L. biotypes with differential herbicide sensitivity. Plant Physiol. 
+Biochem. 57, 210–217. doi: 10.1016/j.plaphy.2012.05.027
+Conflict of Interest:  The authors declare that the research was conducted in 
+the absence of any commercial or financial relationships that could be construed 
+as a potential conflict of interest.
+The handling editor declared a shared affiliation with several of the authors, MY 
+and MG-L, at the time of the review.
+Copyright © 2021 Yanniccari, Vázquez-García, Gómez-Lobato, Rojano-Delgado, Alves 
+and De Prado. This is an open-access article distributed under the terms of the 
+Creative Commons Attribution License (CC BY) . The use, distribution or reproduction 
+in other forums is permitted, provided the original author(s) and the copyright 
+owner(s) are credited and that the original publication in this journal is cited, in 
+accordance with accepted academic practice. No use, distribution or reproduction 
+is permitted which does not comply with these terms.

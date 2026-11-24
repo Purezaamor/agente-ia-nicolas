@@ -1,0 +1,461 @@
+=== Fuente: 18_MEANS_UNIVARIADO_TTEST.pdf ===
+
+Procedimientos SAS
+Proc Means
+Proc Ttest
+Proc Univariate
+Proc Means
+Este procedimiento permite calcular estadísticos 
+descriptivos para todos los valores de las variables 
+numéricas o para grupos de observaciones:
+Calcula estadísticos descriptivos basado en los 
+momentos:
+Media
+Varianza
+Coeficiente de kurtosis
+Coeficiente de asimetría.
+Estima cuantiles, que incluyen a la mediana.
+Calcula intervalos de confianza para la media
+Identifica valores extremos
+Realiza el testt
+PROC MEANS<opción(s)> <estadístico(s)>;  
+BY <DESCENDING>variable-1 <... <DESCENDING> 
+variable-n><NOTSORTED>;  
+CLASSvariable(s) </ opción(s)>;  
+FREQvariable;  
+IDvariable(s);  
+OUTPUT <OUT=DATA SAS><especificación(s) estadísticos> 
+… </ opción(s)> ;  
+VARvariable(s) < / WEIGHT=variable ponderación>;  
+WEIGHTvariable;  
+Proc Means SintaxisProc Means: estadísticos   
+ 
+Estadísticos descriptivos 
+CLM: intervalo de confianza para la media RANGE:  rango 
+CSS: suma de cuadrados corregida SKEWNESS|SKEW: coeficiente de asimetría 
+CV. coeficiente de variación STDDEV|STD: desvío estándar 
+KURTOSIS|KURT: coeficiente de kurtosis STDERR: error estándar 
+LCLM: límite inf. del intervalo de confianza UCLM: límite sup. del intervalo de confianza 
+MAX: máximo SUMWGT: suma de las ponderaciones 
+MEAN: media SUM: suma 
+MIN: mínimo USS: suma de cuadrados sin corregir 
+N: número de observaciones VAR: varianza 
+NMISS: número de valores “missing”  
+Cuantiles 
+MEDIAN|P50: mediana Q3|P75: 3er. cuartil = 75avo. percentil 
+P1: 1er. percentil  P90: 90avo. percentil 
+P5. 5to. percentil P95: 95avo. percentil 
+P10: 10mo. percentil P99: 99avo. percentil 
+Q1|P25: 1er. cuartil= 25avo.percentil QRANGE: rango intercuartil 
+Test de hipótesis  
+PROBT: valor-p del estadístico t de Student T: estadístico t de Student 
+ 
+Proc Means: ejemplo (opción default)
+datadatadatadatacalcio;
+inputSample $  P  Ca lca;
+cards;
+A       0    3.51        1.25562
+A      50    3.68        1.30291
+......;
+Proc means; run; 
+The MEANS Procedure
+VariableNMeanStd DevMinimumMaximum
+P
+Ca
+lca
+35
+34
+35
+100.0000000
+3.7985294
+1.2528411
+71.7430054
+1.6393848
+0.3787872
+0
+2.0600000
+0.7227100
+200.0000000
+7.9600000
+2.0744300
+Ejemplo: Uso de 
+variables 
+clasificatorias
+Proc Ttest
+2 1 1
+2 1 2 1
+2 1
+2 1
+~) (
+−+
++
+− − − =
+nn
+n n a
+t S X X t
+μ
+μ
+1
+0
+~ 1 ) ( − − =n t
+n S
+X t
+μ
+El procedimiento TTEST realiza el testtpara una y dos
+muestras y para observaciones apareadas. 
+También calcula:
+El estadístico Fes calculado para probar la igualdad de dos
+varianzas.
+El test taproximadocuando las varianzas no son homogéneas
+(problema de Behrens-Fisher).
+Calcula los grados de libertad y el nivel de probabilidad
+utilizando la aproximación de Satterthwaite's(1946) o de
+Cochran y Cox (1950) para el test taproximado
+BYvariables;
+CLASS variables ; debe acompañar a PROC TTEST para el caso de dos 
+muestras  independientes con solo dos niveles.
+FREQ variable;
+PAIRED Listado de las variables a aparear;Identifica las variables que 
+intervendrán en comparaciones apareadas. En la siguiente tabla se 
+muestran ejemplos del uso de asteriscos y dos puntos:
+Estas sentencias PAIRED ... Indican estas comparaciones
+PAIRED A*B; A-B
+PAIRED A*B C*D; A-B y C-D
+PAIRED (A B)*(C D); A-C, A-D, B-C, y B-D
+PAIRED (A B)*(C B); A-C, A-B, y B-C
+PAIRED (A1-A2)*(B1-B2); A1-B1, A1-B2, A2-B1, y A2-B2 
+PAIRED (A1-A2):(B1-B2); A1-B1 y  A2-B2
+VAR variables;
+WEIGHT variable ;.
+Proc Ttest: Sentencias
+title 'Test t para una muestra';
+data frutilla;
+input rend @@;
+datalines;
+239  216  235  217  224  206  278  187  276  234  264  176  
+205  203  228  257  261  250  181  225
+run;
+proc ttest h0=205 alpha=0.1;
+var rend;
+run;
+Ejemplo: para una muestra
+Probar las hipótesis, al 10%, de que el rendimiento 
+promedio de 20 plantas de frutillas es de 205 gr, siendo 
+los rendimientos
+Test t para una muestra
+The TTEST Procedure
+Statistics
+Variabl
+eN
+Lower 
+CL
+Mean
+Mea
+n
+Upper 
+CL
+Mean
+Lower 
+CL
+Std Dev
+Std De
+v
+Upper 
+CL
+Std Dev
+Std E
+rr
+Minimu
+m
+Maximu
+m
+rend2 0216.45228.1239.7523.91630.12441.2826.736176278
+T-Tests
+VariableDFt ValuePr > |t|
+rend193.430.0028
+title 'Comparación de dos Medias';
+data ganancia;
+input grupo peso @@;
+datalines;
+1 175 1 132 1 218 1 151 1 200 1 219 1 234 1 149 1 187 1 123 1 248 
+1 206 1 179 1 206 2 142 2 311 2 337 2 262 2 302 2 195 2 253 2 199 
+2 236  2 216 2 211  2 176 2 249 2 214
+run;
+proc ttest data=ganancia cochran;
+class grupo; var peso; run;
+Ejemplo: para dos muestras
+Se realizó una prueba comparativa de alimentación con 28 
+vaquillonas Holando similares, en la cual, la mitad fue
+suplementada con vitamina A y el resto fue considerado como 
+grupo testigo, durante seis meses. Los pesos finales de las 
+vaquillonas, en kg, fueron:
+Comparación de dos M edias
+The TTEST Procedure
+Statistics
+ariableClassN
+Lower
+CL
+M eanM ean
+Upper CL
+M ean
+Lower
+CL
+Std
+Dev
+Std 
+Dev
+Upper
+CL
+Std
+Dev
+Std 
+Err
+M ini-
+m um
+M axi-
+m um
+eso114165.65187.64209.6427.61938.09861.37810.182123248
+eso214204.58235.93267.2739.35554.28687.45714.509142337
+esoDiff (1-2) -84.72-48.29-11.8536.93146.89664.26817.725  
+T-Tests
+VariableMethodVariancesDFt ValuePr > |t|
+pesoPooledE qu al2 6-2 .7 20 .0 11 4
+pesoSatterthwaiteU n equ al2 3 . 3-2 .7 20 .0 12 0
+pesoCochranU n equ al1 3-2 .7 20 .0 17 4
+Equality of Variances
+VariableMethodNum DFDen DFF ValuePr > F
+pesoFolded F13132.030.2150
+ 
+A 10 jóvenes de 16 años se les mide la altura (cm) al llegar al 
+trabajo por la mañana y al retirarse por la tarde, obteniéndose los 
+siguientes datos:
+title 'Diferencias Apareadas';
+data altura;
+input joven ma tarde @@;
+datalines;
+1 169.7 168.2 2 168.5 165.5
+3 165.9 164.4 4 177.7 175.7
+5 179.6 176.6 6 168.8 166.5
+7 169.2 167.4 8 167.9 166.3
+9 181.8 179.7 10 163.3 161.5
+;
+proc ttest data=altura;
+paired ma* tarde;
+run;
+Ejemplo: diferencias apareadas
+Diferencias Apareadas
+The TTEST Procedure
+Statistics
+ifferenceN
+Lower
+CL
+MeanMean
+Upper
+CL
+Mean
+Lower
+CL
+Std
+DevStd Dev
+Upper
+CL
+Std
+DevStd Err
+Mini-
+mum
+Maxi-
+mum
+a - tarde101.66072.062.45930.38390.55821.0190.17651.53
+ 
+T-Tests
+DifferenceDFt ValuePr > |t|
+ma - tarde911.67<.0001
+Proc Univariate
+•calcula estadísticos descriptivos basados en 
+momentos.
+•calcula la media, modo, mediana, rango y cuantiles.
+•calcula limites de intervalos de confianza.
+•tabula observaciones extremas.
+•genera tablas de frecuencia. 
+•gráfica la distribución de los datos.
+•realiza test de bondad de ajuste para distribuciones  
+paramétricas y no paramétricas.
+Este procedimiento provee estadísticos descriptivos, 
+gráficos de alta resolución e información sobre la 
+distribución de variables numéricas. Por ejemplo:
+Continuación...
+•crea histogramas y opcionalmente superpone las 
+curvas de densidad para distribuciones continuas (beta, 
+exponencial, gamma, lognormal, y Weibull).  
+•crea gráficos Q-Q y probabilísticos para varias 
+distribuciones teóricas y opcionalmente superponen 
+líneas de referencias que corresponden a los parámetros 
+especificados o estimados de posición y de escala para la 
+distribución teórica. 
+•crea histogramas, gráficos Q-Q y probabilísticos 
+comparativos de una y dos vías.
+•crea DATAS SAS para distintos estadísticos.
+Proc Univariate
+PROC UNIVARIATE
+BY:Calcula de forma separada los estadísticos para cada grupo BY. 
+CLASS:Especifica hasta dos variables categóricas .
+FREQ
+HISTOGRAM:Crea un histograma de alta resolución
+ID:Especifica una o más variables que identifican los valores extremos. 
+OUTPUT:Crear un archivo de salida con los valores de estadísticos
+QQPLOT:Crear un gráfico Q-Q de alta resolución.
+VAR:Seleccionar las variables a analizar. 
+WEIGHT:Identificar una variables de  ponderaración .
+Proc Univariate Sentencias
+DATA:Especifica el conjunto de datos a analizar.
+ALL:Calcula todos los estadísticos y tablas.
+MU0:Especifica el valor de la media o parámetro de posición.
+PLOTS:Crear Los gráficos stem-and-leaf, box, y  normal probability 
+plots de baja resolución.
+NEXTROBS:especifica el número de observaciones extremas a 
+mostrar. 
+Proc Univariate: Opciones
+PROC SORTPROC SORTPROC SORTPROC SORT DATA=ROGER;
+by AMBIENTE TRATAMIENTO;
+runrunrunrun;
+PROC UNIVARIATEPROC UNIVARIATEPROC UNIVARIATEPROC UNIVARIATE DATA=ROGER mu0=7.57.57.57.5 ALL PLOTS 
+plotsize=20 20 20 20 NEXTROBS=8888;
+HISTOGRAM/NORMAL;
+QQPLOT/NORMAL;
+INSET mean std /  HEADER='ESTADISTICOS  DESCRIPTIVOS';
+VAR MSECAESPIGA;
+BY AMBIENTE;
+RUNRUNRUNRUN;
+Se evaluaron 45 híbridos en 4 ambientes, se analizó
+la variable materia seca de espiga (MSECAESPIGA)
+Proc Univariate:  EjemploThe SAS System
+The UNIVARIATE Procedure
+Variable: MSECAESPIGA
+AMBIENTE=1
+Moments
+N120Sum Weights120
+Mean7.67958417Sum Observations921.5501
+Std Deviation1.48409286Variance2.20253162
+Skewness0.30757143Kurtosis-0.1174251
+Uncorrected SS7339.22282Corrected SS262.101263
+Coeff Variation19.3251722Std Error Mean0.13547852
+ 
+Basic Statistical Measures
+LocationVariability
+Mean7.679584Std Deviation1.48409
+Median7.555600Variance2.20253
+Mode.Range7.03240
+  Interquartile Range1.98255
+Basic Confidence Limits Assuming Normality
+ParameterEstimate95% Confidence Limits
+Mean7.679587.411327.94785
+Std Deviation1.484091.317121.69993
+Variance2.202531.734802.88977
+Tests for Normality
+TestStatisticp Value
+Shapiro-WilkW0.988076Pr < W0.3790
+Kolmogorov-SmirnovD0.047143Pr > D>0.1500
+Cramer-von MisesW-Sq0.039193Pr > W-Sq>0.2500
+Anderson-DarlingA-Sq0.286591Pr > A-Sq>0.2500
+Tests for Location: Mu0=7.5 
+Test Statistic p Value 
+Student's t t 1.325555 Pr > |t| 0.1875 
+Sign M 2 Pr >= |M| 0.7843 
+Signed Rank S 374 Pr >= |S| 0.3294 
+ 
+Trimmed Means
+Percent
+Trimmed
+in Tail
+Number
+Trimmed
+in Tail
+Trimmed
+Mean
+Std Error
+Trimmed
+Mean95% Confidence LimitsDF
+t for H0:
+Mu0=7.50Pr > |t|
+25.00307.6293180.1466197.3359357.922701590.8820050.3814
+Winsorized Means
+Percent
+Winsorized
+in Tail
+Number
+Winsorized
+in Tail
+Winsorized
+Mean
+Std Error
+Winsorized
+Mean95% Confidence LimitsDF
+t for H0:
+Mu0=7.50Pr > |t|
+25.00307.5959590.1472397.3013367.890583590.6517260.5171
+Robust Measures of Scale
+MeasureValue
+Estimate
+of Sigma
+Interquartile Range1.9825501.469666
+Gini's Mean Difference1.6828221.491362
+MAD0.9783501.450502
+Sn1.5000521.500052
+Qn1.5582181.510389
+Extreme Observations
+LowestHighest
+ValueObsValueObs
+4.63869110.01339
+4.686510010.172111
+4.715411210.72635
+5.16455510.733120
+5.21511310.833110
+5.30949311.04133
+5.348910611.4146
+5.54359211.67142
+                        Stem Leaf                     #             Boxplot
+                          11 7                        1                0
+                          11 04                       2                |
+                          10 778                      3                |
+                          10 02                       2                |
+                           9 57789                    5                |
+                           9 00000122334             11                |
+                              8 5555567999              10             +-----+
+                              8 00111233334444444       17             |     |
+                              7 55555667778889          14             *--+--*
+                              7 0111222222233344        16             |     |
+                              6 5555677888999           13             +-----+
+                           6 001112223344            12                |
+                           5 5678999                  7                |
+                           5 2233                     4                |
+                           4 677                      3                |
+                             ----+----+----+----+
+                                         Normal Probability Plot
+                     11.75+                                                  *
+                        |                                             * *+++
+                     |                                          ***+++
+                  |                                        **+++
+              |                                      ***
+            |                                  *****
+        |                               ****
+   8.25+                           *****
+                            |                        +***
+                            |                     ****
+                            |                  ***
+                            |              *****
+                            |          *****
+                            |      ****+
+                        4.75+*  *+*+
+                            +----+----+----+----+----+----+----+----+----+----+
+                               -2        -1         0        +1        +2
+HISTOGRAM<variable(s)> </ opción(es)>;
+Crea histogramas de alta resolución y opcionalmente superpone 
+curvas de densidad paramétricas y no paramétricas de la 
+distribución teórica definida (opciones= BETA, EXPONENCIAL, 
+GAMMA , LOGNORMAL, NORMAL, WEIBULL,y WEIBULL2.
+
+QQPLOT 
+Crea gráfico cuantil-cuantil de alta resolución comparando los valores 
+de la ordenada con los valores de los percentiles de la distribución 
+teórica definida (BETA, EXPONENCIAL, GAMMA , LOGNORMAL, 
+NORMAL, WEIBULL,y WEIBULL2.

@@ -1,0 +1,490 @@
+=== Fuente: Repaso_Estimacion_de_la_PPNA por Imágenes satelitales Garbulsky.pdf ===
+
+FACULTAD DE AGRONOMÍA – UNIVERSIDAD DE BUENOS AIRES 
+Estimación de la 
+Productividad Primaria  de 
+recursos forrajeros a 
+partir de imágenes 
+satelitales 
+ 
+ 
+ 
+Martín Garbulsky 
+Noviembre,  2012 
+ 
+ 
+ 
+ 
+2 
+ 
+INTRODUCCION 
+ 
+Una de las etapas fundamentales del trabajo de planificación forrajera corresponde a la estimación de 
+la Productividad Primaria Neta Aérea (PPNA) de los recursos forrajeros del establecimiento. Estimar la 
+PPNA y su variabilidad espacial y temporal, nos permitirá conocer la oferta forrajera de los diferentes 
+recursos forrajeros y así poder realizar un diagnóstico y luego tomar decisiones en cuanto a la carga 
+animal o a propuestas de mejora (Figura 1). La estimación de la PPNA de comunidades herbáceas, 
+como lo son muchos recursos forrajeros, puede realizarse a partir de cortes de biomasa en diferentes 
+momentos del año, según la tasa de crecimiento y senescencia de cada recurso (Sala & Austin 2000). 
+ 
+Planificación Forrajera
+Caracterización de 
+Recursos Forrajeros
+PPNA de Recursos Forrajeros
+Oferta de Recursos Forrajeros
+Caracterización del Sistema de 
+Producción Ganadero
+Estimación de la demanda animal
+Análisis de la información.
+Balance Oferta y Demanda
+Diagnóstico de situación 
+Propuestas de mejora
+Impacto de mejoras
+PRODUCCION UTILIZACION
+ 
+Figura 1. Esquema conceptual del trabajo de Planificación y sus principales etapas.  
+ 
+En este trabajo, veremos cómo utilizar datos derivados de sensores montados sobre satélites para 
+estimar la PPNA. Las dos metodologías de estimación de la PPNA (a partir de datos de cortes de 
+biomasa y a partir de información satelital) son metodológicamente opuestas: mientras que con los 
+cortes pretendemos extrapolar la información recolectada en un área muestral representativa 
+formada por submuestras que pretenden integrar la heterogeneidad espacial de todo el recurso 
+forrajero, a partir de los datos satelitales pretendemos estimar cuanta biomasa se produce en un 
+determinado sitio a partir de los datos de reflectancia de la vegetación de una superficie del orden de 
+3 
+ 
+varias hectáreas realizado por un sensor a cientos de kilómetros de distancia (Figura 2). Las dos 
+metodologías deben ser comprendidas en todo sus procesos y así poder entender sus ventajas y 
+desventajas. De esta manera se aplicarán correctamente según las diferentes situaciones que se 
+vayan presentando en el trabajo de planificación forrajera o posteriormente en la vida como 
+profesionales.  
+ 
+Figura 2. Diferentes alternativas para la estimación de la Productividad primaria. 
+Existen entonces diferentes alternativas para estimar la Productividad primaria de un recurso 
+forrajero. Para el trabajo práctico de planificación forrajera les proponemos que exploren dos 
+alternativas. 
+ 
+DIFERENCIAS ENTRE LAS METODOLOGÍAS 
+Para comprender las alternativas que disponemos para la estimación de la PPNA debemos recordar el 
+flujo de energía en el ecosistema y la existencia de variables de estado y de flujo (Figura 3). 
+4 
+ 
+ 
+Figura 3. Flujo de energía en un ecosistema. 
+La estimación de la PPNA de los recursos forrajeros a partir de cosechas de biomasa se basan en la 
+estimación de la variable de estado que representa la biomasa vegetal presente en un determinado 
+momento 
+ 
+Figura 4. Resumen conceptual de la metodología para estimar PPNA a partir de datos de cosechas 
+de biomasa. 
+5 
+ 
+Por el contrario, la estimación de la PPNA a partir de datos de satélites, se basa en la estimación de 
+variables de flujo. Por lo tanto, debemos estimar el flujo de radiación fotosintéticamente activa que 
+es absorbida por la vegetación (fPAR) y la eficiencia con que esa energía es convertida en biomasa 
+(Eficiencia en el uso de la radiación, EUR). El siguiente modelo es el que nos permitirá estimar la PPNA 
+en diferentes sitios y a lo largo del tiempo. 
+PPNA [g MS.m -2.dia -1]= FPAR x PAR [MJ. m -2.dia -1] x EUR [g MS.MJ -1]      ecuación [1] 
+Por lo tanto, tendremos que resolver esta ecuación para poder estimar PPNA. Para ello estimaremos 
+FPAR a partir de datos satelitales, estimaremos PAR a partir de estadísticas climáticas u otros modelos 
+que nos permitan estimarla y finalmente utilizaremos datos de EUR derivados de diferentes fuentes. 
+ 
+Información satelital para el estudio de la vegetación 
+Una imagen satelital provee datos de la reflectancia de la radiación solar sobre la superficie terrestre 
+(sensores pasivos). Estos sensores reciben la radiación solar que es reflejada por la superficie 
+terrestre (Figura 5). La radiación solar incidente puede ser absorbida, transmitida o reflejada. Es decir, 
+que la suma de la radiación absorbida más la transmitida más la reflejada es igual a la radiación 
+incidente.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 5. Posibles destinos de la radiación solar incidente y función de un sensor montado sobre 
+un satélite. 
+Por lo tanto, si tuviéramos un sensor con una resolución espectral suficientemente pequeña 
+podríamos obtener curvas como las que se ven en la Figura 6. Sin embargo, los sensores montados 
+sobre satélites integran porciones de longitud de onda en diferentes canales de información 
+denominados bandas. En la Figura 6 podemos ver la ubicación de las bandas utilizadas para calcular el 
+NDVI (del inglés Normalized Difference Vegetation Index) con respecto a las curvas de reflectancia de 
+una vegetación verde en buen estado y otra con alta proporción de suelo desnudo. Como se puede 
+Radiación
+Reflejada 
+Radiación 
+Absorbida  
+Radiación 
+Solar 
+Incidente 
+Radiación 
+Transmitida 
+6 
+ 
+ver ambas vegetaciones reflejan poco en la zona del visible (entre 400 y 700 nm: azul, verde y rojo), 
+es decir que absorben gran parte de la radiación en esa porción del espectro. En cambio, en el Infra 
+rojo cercano, la vegetación en buen estado refleja una proporción mucho más alta que la otra que 
+tiene mucho suelo desnudo. El NDVI se calcula justamente a partir del cociente entre la diferencia y la 
+suma de las reflectancia en el infrarrojo y en el rojo: 
+NDVI = (ref. IR – ref R)/ (ref IR + ref R)                       ecuación [2] 
+ 
+Figura 6. Curvas de reflectancia típicas de vegetación sana y con suelo desnudo y ubicación de 
+las bandas correspondientes al NDVI (Índice de Vegetación de Diferencia Normalizada). 
+El NDVI resume de esta manera características muy importantes de la vegetación, dándonos una idea 
+de la cobertura, el estado y principalmente proporción de la radiación fotosínteticamente activa (PAR, 
+radiación solar entre 400 y 700 nm) incidente que está siendo absorbida por la vegetación. Es decir, el 
+NDVI es un estimador de la fracción del PAR absorbido por la vegetación (fPAR), necesario para la 
+estimación de la PPNA.  
+Existen diferentes tipos de datos satelitales. Dos de las principales características de los datos que 
+debemos tener en cuenta para seleccionar la información a utilizar son: 
+• Resolución espacial (tamaño del píxel) o mínima porción del terreno que podemos distinguir. 
+• Resolución temporal (cada cuanto tiempo tenemos un nuevo dato?) 
+El primer sensor satelital MODIS (MODerate resolution Imaging Spectroradiometer) orbita alrededor 
+de la tierra desde diciembre del año 1999 y provee imágenes de la superficie terrestre desde febrero 
+de 2000. A partir de esos datos se generan productos sintéticos o resumen con una resolución de 
+250m x 250m (6.25 ha) y cada 16 días. Por lo tanto la información provista por MODIS resulta en la 
+actualidad una alternativa muy interesante para estudiar los recursos forrajeros de Argentina dado 
+que contamos con más de 10 años de datos. Por otro lado, nos permiten evaluar la heterogeneidad 
+espacial ya que pueden distinguir parcelas de 6 ha aproximadamente y además la resolución 
+7 
+ 
+temporal de 16 días resulta adecuada para la evaluación de una gran parte de los recursos forrajeros 
+de nuestro país. 
+ 
+DATOS SATELITALES MODIS PARA ESTIMAR LA PPNA 
+En esta sección veremos cómo acceder a la información satelital necesaria para analizar la PPNA de 
+un determinado establecimiento ganadero de una forma fácil, gratuita y sin necesidad de utilizar 
+herramientas complejas de análisis digital. Para poder conseguir los datos satelitales se necesita la 
+información precisa de ubicación del establecimiento, recurso o potrero a evaluar mediante las 
+coordenadas geográficas (Latitud, Longitud) o mediante la interfase visual que se muestra en la 
+siguiente imagen. Para comenzar se debe ingresar a la siguiente web, en las que se podrán ver las 
+siguientes pantallas: 
+http://daac.ornl.gov/cgi-bin/MODIS/GLBVIZ_1_Glb/modis_subset_order_global_col5.pl 
+ 
+Figura 7. Pantalla inicial para la obtención de datos del sensor satelital MODIS  
+En esta interfase podemos ubicar visualmente el o los recursos forrajeros y obtener los datos de 
+NDVI.  
+8 
+ 
+ 
+Figura 8. Segunda pantalla para la obtención de datos del sensor satelital MODIS. Ubicación del 
+recurso.  
+ 
+Y a partir de hacer zoom hacia adentro de la imagen podremos ubicar el recurso en cuestión. 
+ 
+Figura 9. Tercer pantalla para la obtención de datos del sensor satelital MODIS. Ubicación del 
+recurso.  
+ 
+9 
+ 
+Una vez seleccionado el sitio nos aparece un marcador como el que se muestra en el círculo en la 
+figura anterior (no olviden moverlo desde su ubicación original en Norteamérica). Ese será el centro 
+de nuestra ventana de interés que deberemos especificar en la siguiente pantalla. Podremos 
+especificar ventanas cuadradas o rectangulares desde un píxel a 100 km de lado. Recordar aquí que 
+los números son en kilómetros, salvo el 0 que representa un solo píxel. Por lo tanto para solicitar un 
+solo píxel debe ponerse 0 y 0 en cada uno de los casilleros. La otra decisión en esta pantalla es el tipo 
+de producto que solicitaremos: tal como está seleccionado solicitaremos los índices de vegetación 
+(Vegetation Indices NDVI, EVI) .  
+ 
+Figura 10. Cuarta pantalla para la obtención de datos del sensor satelital MODIS. Selección del 
+producto a utilizar y tamaño de la ventana espacial.  
+ 
+Seguidamente, nos aparecerá una pantalla en la que debemos especificar la cobertura temporal de 
+los datos solicitados. Tal como se decía más arriba, el sensor MODIS provee información desde 
+febrero de 2000 hasta la actualidad. Por lo tanto, deberemos especificar que información 
+necesitamos dentro de ese rango temporal. En el caso de un pastizal puede ser útil contar con todo el 
+rango temporal mientras que en los recursos forrajeros que integran rotaciones tales como pasturas y 
+verdeos es importante considerar que ese mismo lugar pudo haber sido ocupado por diferentes 
+recursos a lo largo del tiempo. Por lo tanto, si queremos saber cómo es la variabilidad estacional y 
+interanual de la PPNA de un verdeo probablemente tendremos que seleccionar diferentes sitios en 
+cada uno de los años según se hayan sembrado diferentes potreros. 
+10 
+ 
+Finalmente se nos solicitará una dirección de correo electrónico a donde nos enviarán un mensaje 
+con las indicaciones para obtener la información solicitada. Hay que considerar que puede demorar 
+un cierto tiempo la recepción de ese mensaje, dependiendo de la cantidad de solicitudes que tenga el 
+servidor en ese momento. Este período puede ser de solo unos minutos hasta varias horas. 
+ 
+Figura 11. Pantalla para especificar la cobertura temporal de los datos solicitados y correo 
+electrónico en donde se recibirán los datos.  
+En el mencionado correo electrónico habrá un vínculo para descargar un archivo .asc. Este archivo 
+puede ser abierto en una planilla de cálculo (por ejemplo, Excel). Este archivo esta compuesto de 
+muchas filas en las que tendremos los datos solicitados pero aparte otros datos complementarios 
+(Figura 12). Cada fila tiene datos separados con comas, por lo tanto cuando intentemos abrir el 
+archivo debemos informar que está estructurado de esa forma.  
+11 
+ 
+ 
+Figura 12. Visualización en una planilla Excel de los datos MODIS recibidos.  
+Una vez separadas las columnas el archivo tendrá el aspecto que se puede ver en la siguiente figura. 
+En la columna A tendremos el nombre de la variable (nos interesa la línea donde aparezca NDVI, por 
+ejemplo la línea 5), en la columna C figura el año y el día juliano (1= 1 de enero, 365 = 31 de 
+diciembre) y en la columna G aparece el valor de la variable mencionada en la columna A y para la 
+fecha señalada en la columna C. Las restantes columnas pueden ser descartadas. Como ejemplo, la 
+línea 5 de la siguiente figura se refiere entonces al valor de NDVI cada 16 días correspondiente al día 
+juliano 49 (18 de febrero) de 2000 con un valor de 6765. Este valor debe ser dividido por 10000 para 
+obtener valores de NDVI entre 0 y 1, por lo tanto el valor de NDVI es de 0.6765. 
+12 
+ 
+ 
+Figura 13. Diseño de la planilla una vez importada en Excel y separadas las columnas.  
+ 
+POSIBLES PROBLEMAS DERIVADOS DE LA SELECCIÓN DEL PIXEL 
+Al seleccionar el píxel o la ventana se nos plantearán diferentes situaciones determinadas por el 
+tamaño del píxel o ventana y la heterogeneidad espacial con la que estemos tratando. Idealmente, 
+esperaríamos una situación en donde el pixel quede totalmente incluido en el potrero o recurso que 
+queremos describir. Esta situación se vería tal como lo vemos en la siguiente figura (Figura 14).  
+13 
+ 
+ 
+Figura 14. Ejemplo de ubicación de un píxel en un recurso homogéneo.  
+ 
+Sin embargo, la heterogeneidad espacial tiene un grano más fino y entonces dentro de un mismo 
+píxel podemos tener representada esa heterogeneidad. En este caso, el pixel seleccionado será 
+representativo de esa heterogeneidad que veremos dentro del potrero: un pastizal con áreas más 
+bajas donde se puede acumular agua y otras un poco más altas y esto se evidencia con un cambio en 
+la vegetación. En la figura siguiente podemos ver esa situación, la cual no presentaría problemas. 
+ 
+Figura 15. Ejemplo de ubicación de un píxel en un recurso heterogéneo.  
+14 
+ 
+Es importante tener en cuenta algunas posibles situaciones no deseadas producto de la resolución 
+espacial de las imágenes. Obviamente, potreros en los que no podamos incluir totalmente un píxel no 
+podrán ser evaluados mediante estos datos. Por lo tanto, situaciones como las descriptas a 
+continuación pueden ocurrir, en donde un píxel cubra dos o más recursos forrajeros diferentes. La 
+figura siguiente muestra un caso en donde un pixel cubre dos tipos de vegetación diferentes, por lo 
+tanto los datos que obtendremos serán representativos de una mezcla de los dos tipos de vegetación. 
+En estos casos se deberá reevaluar la situación y eventualmente descartar esta metodología. 
+ 
+Figura 16. Ejemplo de ubicación de un píxel en diferentes tipos de vegetación. 
+ANALISIS DE LOS DATOS DE NDVI 
+A partir de los datos de NDVI podremos construir diferentes tipos de gráficos. Podremos analizar la 
+variabilidad temporal y espacial. Por ejemplo, podremos analizar la evolución temporal de tres 
+recursos forrajeros. Aquí podemos comparar la evolución temporal y compararlos entre ellos con un 
+valor cada 16 días para el sitio seleccionado (Figura 17). 
+15 
+ 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+Dec-99 Dec-00 Dec-01 Dec-02 Dec-03 Dec-04 Dec-05 Dec-06 Dec-07 Dec-08 Dec-09 Dec-10
+ 
+Figura 17. Variación temporal del NDVI MODIS en tres comunidades vegetales de la provincia de 
+Corrientes entre febrero de 2000 y diciembre de 2010. 
+Esa información detallada nos puede servir, entre otros fines, para tener una idea del 
+comportamiento promedio de cada recurso forrajero a lo largo de 10 años (Figura 18).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 18. Variación estacional promedio (2000-2011) del NDVI MODIS en tres comunidades 
+vegetales de la provincia de Corrientes. 
+ 
+El objetivo de más detalle es el de obtener una caracterización para cada recurso forrajero. Además 
+de esto se puede caracterizar a todos los recursos forrajeros en conjunto para todo el establecimiento 
+o inclusive para toda una región. 
+ 
+Conversión de NDVI a fPAR 
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+Dec Feb Apr Jun Aug Oct Dec
+16 
+ 
+Finalmente deberemos convertir los datos de NDVI a fracción de la radiación fotosintéticamente 
+activa que es absorbida por la vegetación (fPAR), tal como vimos en la ecuación 1. Para ello 
+utilizaremos la siguiente ecuación [3] que nos dice que tomaremos el mínimo valor entre el resultado 
+de la ecuación y 0.95 (Grigera et al. 2007). Si bien esta relación puede ser diferente para recursos 
+diferentes y ubicadas sobre diferentes tipos de suelos, fue al menos calibrada para recursos forrajeros 
+de la Región Pampeana. Para recursos forrajeros en otras regiones puede ser necesaria una nueva 
+calibración. 
+ 
+ecuación [3] 
+ 
+Esta relación puede verse en la siguiente figura. 
+0
+0.2
+0.4
+0.6
+0.8
+1
+0 0.2 0.4 0.6 0.8 1
+NDVI
+fPAR
+ 
+Figura 19. Relación entre fPAR y NDVI para recursos forrajeros de la región Pampeana. 
+ 
+ESTIMACIÓN DE LA RADIACION FOTOSINTETICAMENTE ACTIVA INCIDENTE (PAR) 
+Para poder estimar la PPNA, tal como vimos en la ecuación 1, necesitamos datos de la variación 
+temporal del PAR incidente para la zona de interés. El producto fPAR x PAR se denomina APAR, que 
+representa el PAR que está siendo absorbido por la vegetación verde. En este punto debemos 
+recordar que el PAR, la radiación comprendida entre 400 y 700 nm, es aproximadamente la mitad 
+(45%) de la radiación total incidente.  
+La primera fuente para obtener datos de PAR es la estadística climática zonal del Servicio 
+Meteorológico Nacional o similar. En el caso de no conseguir datos para la zona de análisis, podremos 
+recurrir a diferentes fuentes disponibles en Internet: del Instituto Nacional de Pesquisas Espaciais 
+(INPE, Brasil, http://satelite.cptec.inpe.br/radiacao/?i=es#/Glseries/GLpentad0.htm) o de la National 
+( )
+
+
+
+
+
+
+
+
+
+
+
+
+−−− −
++
+= 95.0,55.162.11( 55.1 55.162.11 )1(
+)1(
+min NDVI
+NDVI
+fPAR
+17 
+ 
+Aeronautics and Space Administration (NASA, EE.UU.) http://mirador.gsfc.nasa.gov/cgi-
+bin/mirador/LocationTimeAttribute_Search.pl?tree=scienceArea&scienceArea=Water%20and%20Ene
+rgy%20Cycles&pp=Surface%20Radiation&spp=Surface%20Incident%20Shortwave%20Radiation&data
+set=GLDAS_MOS10_M.001&version=001&CGISESSID=8769ec8e2be31d1fb99478feeab40492 ). De 
+estas dos webs se podrán bajar datos para un lugar y un período de tiempo determinados.  
+Otra alternativa es utilizar un modelo que estima la radiación incidente para un determinado sitio de 
+la tierra a partir de la radiación al tope de la atmósfera, que dependen de la latitud y el mes del año y 
+se encuentra tabulada, y una estimación de la interferencia atmosférica derivada de la temperatura 
+local (Samani 2000). 
+Rs = R0 * KT * (t tmax  - t min )0.5           ecuación [4] 
+ 
+donde: Rs = Radiación solar incidente 
+R0 = Radiación solar extraterrestre (tabulada, 
+http://www.fao.org/docrep/X0490E/x0490e0j.htm#annex%202.%20meteorological%20tables ) 
+ 
+KT = coeficiente empírico. KT = 0,162 para regiones del interior y KT = 0,19 para regiones costeras. 
+tmax = temperatura diaria máxima 
+t min = temperatura diaria mínima 
+ 
+Finalmente, se podrá utilizar una descripción de la radiación incidente promedio a partir de (1996-
+2006) para gran parte del país con una resolución espacial de 0.4° a partir de datos satelitales del 
+Instituto Nacional de Pesquisas Espaciais (INPE, Brasil). Esta información puede descargarse de este 
+vínculo. http://www.agro.uba.ar/users/garbulsk/Curso_ut_archivos/Radiacionincidente.xls  
+ 
+ESTIMACIÓN DE LA EFICIENCIA EN EL USO DE LA RADIACIÓN (EUR) 
+La eficiencia en el uso de la radiación es probablemente el término de la ecuación 1 más difícil de 
+estimar. Diferentes trabajos muestran que la EUR puede variar entre tipos de vegetación, para una 
+misma vegetación  lo largo del tiempo o inclusive puede responder a la fertilidad edáfica. Si bien 
+existen metodologías para estimar también la EUR a partir de datos satelitales, en el trabajo práctico 
+de planificación forrajera utilizaremos los valores de EUR publicados en diferentes fuentes 
+bibliográficas para ser aplicados en la ecuación 1.  
+La PPNA estimada a partir de cortes de biomasa se relaciona linealmente con la radiación 
+fotosintéticamente activa absorbida por la vegetación (APAR = fPAR x PAR, figura 20). La relación 
+empírica para dos tipos de recursos forrajeros (pasturas de loma y pasturas naturalizadas de bajos) es 
+lineal (Grigera et al. 2007), sin embargo la relación no pasa por el origen, lo cual indica que EUR no es 
+constante para diferentes valores de APAR. 
+18 
+ 
+ 
+Figura 20. Relación entre la PPNA y APAR para dos tipos de recursos forrajeros en la Región 
+Pampeana. PPNA upland (loma)= 0.6 x APAR + 12 (R 2 = 0.86) y PPNA lowland (bajo) = 0.27 x APAR + 
+26 (R 2 = 0.74). 
+ 
+Se han realizado experimentos para conocer la EUR en diferentes especies cultivadas a lo largo de la 
+estación de crecimiento. En estos trabajos podemos ver que la EUR varía tanto entre especies como a 
+lo largo del tiempo. Para la región Pampeana se realizaron diferentes trabajos para conocer la EUR 
+para alfalfa y festuca (Marino et al. 2007) y de rye grass y festuca (Agnusdei et al. 2008). Experiencias 
+realizadas en Francia también muestran la variabilidad de la EUR en alfalfa y festuca (Lemaire). 
+Existen también revisiones en las que se recopilan datos de EUR para muchas especies diferentes. Por 
+ejemplo, Sinclair & Muchow (1999) presentan datos para muchos cultivos, entre los que se 
+encuentran algunos cultivos forrajeros como sorgo o cebada. 
+CALCULO DE LA PPNA 
+Finalmente, una vez obtenidos los datos de fPAR, PAR y EUR para un determinado recurso y con la 
+correspondiente extensión y resolución temporal y en las unidades correspondientes, podremos 
+volver a la ecuación [1] y calcular la PPNA. Es importante recordar que tanto PAR como EUR pueden 
+tener diferentes unidades, por lo que hay que estar atentos a que las unidades se correspondan. 
+METODOLOGÍA ALTERNATIVA A PARTIR DE DATOS SATELITALES 
+De la web del Laboratorio de Análisis Regional y Teledetección (LART, http://larfile.agro.uba.ar/lab-
+sw/sw/gui/Inicial.page ) se pueden obtener datos de NDVI, fPAR, APAR y PPNA para recursos 
+forrajeros de diferentes regiones del país y Uruguay (Figura 21). 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 21. Página inicial del Sistema de seguimiento forrajero. 
+La información obtenida de esta página es de gran ayuda en muchas situaciones. Por ejemplo, 
+podemos ver la PPNA regional de un gran número de potreros para una determinada región (Figura 
+22). Sin embargo, no podemos analizar con esta herramienta un determinado potrero del 
+establecimiento que cada grupo tenga en el trabajo de planificación o el establecimiento completo, 
+sino tendremos una aproximación a escala regional. 
+ 
+Campo Natural. Dep. Salado 2000-09
+0
+100
+200
+300
+400
+500
+600
+700
+800
+1 7 13 19 25 31 37 43 49 55 61 67 73 79 85 91 97 103 109 115
+PPNA (kg MS/ha.mes)
+ 
+
+20 
+ 
+Figura 22. Productividad Primaria Neta Aerea derivada de imágenes MODIS para el recurso campo 
+natural en la Depresión del Salado. Promedio de 800 parcelas 
+ 
+En conclusión, se presentaron aquí tres metodologías diferentes para la estimación de la PPNA. Es 
+importante reconocer las ventajas y desventajas de cada una para poder utilizarlas correctamente y 
+aprovecharlas en cada situación. 
+ 
+BIBLIOGRAFÍA 
+• Samani , Z. (2000).- Estimating Solar Radiation and Evapotranspiration Using Minimum 
+Climatological Data . Journal of Irrigation and Drainage Engineering, 126: 265-267. 
+• Grigera, G., M. Oesterheld & F. Pacín. (2007). Monitoring forage production for farmers' 
+decision making. Agricultural Systems 94, 637-648. 
+• Sinclair T.R. & R.C. Muchow (1999). Radiation use efficiency. Advances in Agronomy, 65: 215-
+265.  
+www.agro.uba.ar/users/garbulsk/Curso_ut_archivos/sinclair_and_muchow_1999_RUE.pdf  
+• Sala O.E. & A.T. Austin (2000) Methods of estimating aboveground net primary production. In: 
+Sala OE, Jackson RB, Mooney HA, Howarth RH (eds) Methods in Ecosystem Science. Springer, 
+New York, pp 31-43.  
+• Marino, M.A., Agnusdei, M.G., Jorgensen, F. y West, A 2007. Manejo estacional del suministro 
+de nitrógeno en festuca alta. 2. Eficiencia de uso de recursos. Revista Argentina de 
+Producción Animal Vol 27 Supl. 1: 139. 
+www.agro.uba.ar/users/garbulsk/Curso_ut_archivos/Marino%20et%20al_RAPA2007.pdf  
+• AGNUSDEI M.G., MARINO M.A., LATTANZI F.A. 2008. Resources use efficiency in tall fescue 
+and annual ryegrass pastures with different nitrogen nutrition (Humid Pampa, Argentina). In: 
+Multifunctional Grasslands in a Changing World. (Ed: Organizing Committee of the IGC/IRC 
+Congress). Vol.I: pp.300. http://www.agro.uba.ar/users/garbulsk/Curso_ut_archivos/ 
+Agnusdei et al2008_IGC.pdf 
+• Charlas de G. Lemaire. 
+www.agro.uba.ar/users/garbulsk/Curso_ut_archivos/RUEa_alfalfa_festuca.pdf  
+ 

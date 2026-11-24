@@ -1,0 +1,502 @@
+=== Fuente: 17_SAS_BASE IMPRESO.pdf ===
+
+1
+2003 - ANB
+Introducción al Sistema SAS
+Módulos :
+•SAS/BASE
+•SAS/GRAPH
+•SAS/STAT
+•SAS/IML
+•SAS/INSIGHT
+•SAS/ETS
+2
+2003 - ANB
+¿Que es el programa SAS? 
+• El programa SAS es una colección de módulos que
+incluyen “procedimientos ” y una poderosa herramienta de 
+manejo de datos, que facilita el análisis estadístico de la 
+información disponible.
+• En general, SAS no se emplea de una manera interactiva
+con menus o cuadros de diálogo, sino a través de 
+“programas SAS ” escritos por el usuario, los cuales están
+organizados en base a “sentencias y procedimientos ”
+específicos, que son los elementos del lenguaje de 
+programación SAS.
+• Por lo tanto, el éxito en el uso de SAS, depende del 
+aprendizaje de las reglas necesarias para escribir
+programas SAS.
+3
+2003 - ANB
+Entorno de SAS para Windows
+Barra de herramientasBarra de menú Menú desplegable
+Menú Contextual
+Ventana LOG
+Ventana PROGRAM EDITOR  
+mejorada
+Ventana EXPLORER 
+de SAS
+Barra de ventanas
+Posición de cursor
+Carpeta actualArea de mensajes
+Doble clic
+4
+2003 - ANB
+Ventanas de SAS
+• PROGRAM EDITOR – ENHANCED EDITOR : en esta 
+ventana se escribe el código SAS o programa SAS.
+• LOG : en esta ventana se encuentra el archivo LOG que 
+se genera cuando se ejecuta el programa SAS escrito en 
+el Program Editor, el mismo contiene el código del 
+programa con comentarios, avisos de errores (en rojo) y 
+advertencias (en verde).
+• OUTPUT : en esta ventana se muestran los resultados de 
+la ejecución del programa.
+• RESULTS : esta ventana permite manejar los archivos 
+OUTPUT o de salida.
+• EXPLORER : esta carpeta es usada para ver y manejar 
+archivos (similar al programa Windows Explorer).
+• KEY :  (F9) que permite crear atajos con las teclas de 
+función o combinación de otras teclas.
+5
+2003 - ANB
+Reglas del lenguaje SAS 
+• Las órdenes SAS  terminan con un punto y coma ( ;). 
+• Los nombres de las variables o de los archivos SAS pueden 
+contener hasta 32 caracteres. 
+• El primer carácter del nombre debe ser un letra o un guión 
+bajo ( _). Los caracteres posteriores pueden ser letras, 
+números o guiones. (No usar %, $, !, *, &, #, @)
+• Las ordenes SAS pueden escribirse tanto en mayúsculas 
+como en minúsculas (por ej: Body, body, boDY o BoDy).
+• Los programas SAS son de formato libre:
+• una línea puede contener más de una orden SAS,
+• una orden SAS puede comenzar en una línea y continuar 
+en la línea siguiente. 
+• Las palabras en una orden SAS están separadas por blancos 
+o por caracteres especiales (por ejemplo: $, @, =, +, *). 
+6
+2003 - ANB
+Transformación de los datos
+en información procesada
+Datos
+(*.xls, *.txt, etc)
+Paso 
+DATA
+Archivos
+de datos
+SAS 
+Paso 
+PROC
+Información
+procesada
+7
+2003 - ANB
+Forma General de un Programa SAS
+DATA oranges;
+INPUT state $ early late ;
+DATALINES;
+Florida    124  90
+California  40  27
+Texas      1.3 .3
+Arizona    .4 .5
+;
+Paso 
+DATA
+Paso
+PROC
+• DATA: sentencias que permiten crear archivos de 
+datos SAS.
+• PROC: ordena a SAS para el llamado y ejecución 
+de uno o varios procedimientos de su biblioteca, 
+usando un archivo de datos SAS como entrada.
+PROC PRINT DATA=oranges;
+RUN;
+8
+2003 - ANB
+Ejecución de un Programa SAS
+File      Open      A:\Oranges.sas
+9
+2003 - ANB
+Forma General de un Programa SAS: 
+Comentarios en un programa SAS
+/*      Primer Programa SAS
+Agosto 2003 - FAUBA               */
+DATA oranges;
+INPUT state $ 1-10 early 12-14 late 16-18;
+DATALINES;
+Florida    124  90
+California  40  27
+Texas      1.3 .3
+Arizona     .4 .5
+;
+* Impresión en pantalla del archivo Oranges;
+PROC PRINT DATA=oranges;
+RUN;
+/* ………….…
+………..….*/
+Comentario para varias líneas
+*………….. ;
+Comentario para una línea
+10
+2003 - ANB
+Forma General de un Programa SAS:
+Opciones para la ventana OUTPUT
+Ejemplo:
+Options LS=80 NODATE;Options LS=80 NODATE;Options LS=80 NODATE;Options LS=80 NODATE;
+DATA oranges;
+INPUT state $ 1-10 early 12-14 late 16-18;
+CARDS;
+.. datos ...
+• CENTER / NOCENTER
+• DATE / NODATE
+• FORMDLIM =‘ *’
+• NUMBER / NONUMBER
+• LINESIZE (LS) = n 
+• PAGESIZE (PS) = n  
+• PAGENO = n
+11
+2003 - ANB
+Archivos de datos SAS
+Un archivo de datos SAS tiene la estructura de una tabla con 
+un descriptor que guarda información sobre el archivo 
+(nombre, fecha, rótulos, etc). Los valores se organizan en una 
+tabla:
+504358
+.44Dennis57
+5246Lucy56
+3540Calvin55
+5546Charlie54
+4142Susie53
+WeightHeightNameId
+Variables (#columnas - hasta 32767)
+Observaciones
+(#filas – en fc
+de la memoria
+disponible)
+Variables  alfa-numéricas
+Variables numéricas
+12
+2003 - ANB
+Creación de archivos de datos SAS
+Paso Data : 
+a. Lectura de datos en un programa SAS .
+/* /* /* /* CreaciCreaciCreaciCreacióóóónnnn de un de un de un de un archivoarchivoarchivoarchivo de de de de datosdatosdatosdatos SAS SAS SAS SAS llamadollamadollamadollamado oranges*/oranges*/oranges*/oranges*/
+DATA oranges;
+INPUT state $ early late ;
+DATALINES ; * o Cards;
+Florida    124  90
+Maine       40  27
+Texas      1.3  .3
+Arizona    .4   .5
+;
+RUN ; QUIT ;
+b. Lectura de archivos de datos externos .
+/* /* /* /* CreaciCreaciCreaciCreacióóóónnnn de un de un de un de un archivoarchivoarchivoarchivo de de de de datosdatosdatosdatos SAS SAS SAS SAS llamadollamadollamadollamado oranges oranges oranges oranges 
+desdedesdedesdedesde archivoarchivoarchivoarchivo A:A:A:A:\\\\oranges.datoranges.datoranges.datoranges.dat */*/*/*/
+DATA oranges;
+INFILE 'A:\oranges.dat';
+INPUT state $ early  late ; RUN ;
+13
+2003 - ANB
+Creación de archivo de datos SAS
+Importación de archivos : ejemplo archivo *.xls.
+File        Import
+14
+2003 - ANB
+Creación de archivo de datos SAS
+Importación de archivos : ejemplo archivo *.xls.
+
+15
+2003 - ANB
+Paso DATA 
+Lectura de múltiples observaciones por línea.
+Nome AK 55 44 88 29 Miami FL 90 75 97 65 Raleigh
+NC 88 68 105 50
+16
+2003 - ANB
+Archivos de datos SAS 
+Temporarios y Permanentes
+Los archivos de datos SAS pueden ser temporales a la ejecución del 
+programa SAS o almacenarse en un carpeta en forma permanente 
+para su posterior uso. 
+• Archivos Temporarios : se almacenan automáticamente en la 
+biblioteca (carpeta) de datos WORK, creada por SAS. 
+• Archivos Permanentes : se almacenan en la biblioteca
+SASUSER. El nombre del archivo SAS se compone, en este caso, 
+del nombre de la biblioteca donde se almacenará, seguido de un 
+punto y del nombre del archivo SAS, por ej: 
+SASUSER.Magnolia . 
+17
+2003 - ANB
+Creación de bibliotecas de datos SAS 
+•Se pueden crear bibliotecas permanentes con el ícono . Por
+ejemplo, la biblioteca o carpeta llamada PLANTS.
+• La opción ' Enable at startup ' hace posible que la biblioteca
+creada sea visible en otra sesión de SAS.
+18
+2003 - ANB
+Sentencias de uso general
+Algunas sentencias son de uso general y no es necesario que
+se encuentren en un paso DATA o PROC. Pueden encontrarse
+en cualquier lugar del programa y tienen efecto hasta que
+aparezca otra del mismo tipo.
+TITLE[n] : 'título n-ésimo' (n <= 10); especifica títulos en la salida
+de resultados.
+FOOTNOTE[n] 'nota a pie de página n-ésima' (n <= 10); 
+especifica notas a pie de página en la salida de resultados.
+MISSING carácter ... ; especificación del carácter que representa
+a los valores no observados , correspondientes a variables 
+numéricas, donde carácter puede ser un valor alfabético o _
+OPTIONS opción ... ; especificación de opciones SAS , en general 
+dependientes del sistema operativo.
+%INCLUDE ref ... ; inclusión de parte de un programa
+procedente de otro archivo *.sas.
+19
+2003 - ANB
+Sentencias de uso general
+Ejemplo:
+20
+2003 - ANB
+Generación de resultados o salidas
+en formato HTML
+
+21
+2003 - ANB
+Almacenando archivos de 
+datos SAS en ficheros externos
+• Sentencia FILE : indica al sistema en que carpeta y archivo
+almacenaremos los datos
+• Sentencia PUT : indica a SAS qué variables se almacenarán en el 
+archivo y en qué posiciones vamos a escribir sus observaciones.
+• Sentencia DATA _NULL_ : evita que se duplique el archivo de datos
+SAS que se almacenará en un archivo externo. Con esta sentencia
+no se crea el archivo de datos SAS.
+22
+2003 - ANB
+Creación de subconjuntos de datos SAS
+• Si omitimos el nombre del archivo, SAS va asignando
+nombres por defecto: DATA1, DATA2, ...,DATAn
+• La sentencia DATA _NULL_; se utiliza para no crear el 
+archivo de datos SAS.
+• Opciones:
+• DROP      = lista variables
+• KEEP       = lista variables
+• WHERE   = expresión
+Sintaxis:
+DATA nombre_archivo (opción1 opción2 …. opciónn)
+23
+2003 - ANB
+Opciones DROP - KEEP
+KEEP = identifica las variables que se incluirán en el archivo. 
+DROP = identifica las variables que se excluirán en el archivo.
+Obs SEXO EDAD PESO
+1 M 14 69
+2 H 11 57
+3 H 16 72
+4 H 11 51
+Obs SEXO EDAD PESO
+1 M 14 69
+2 H 11 57
+3 H 16 72
+4 H 11 51
+Ob Nombre Sexo Edad Peso Talla
+1 ALICIA M 14 69 112
+2 TOMAS H 11 57 85
+3 FELIPE H 16 72 150
+4 JULIA M 11 51 50
+Archivo de datos SAS:       
+Alumnos.sd7
+24
+2003 - ANB
+Opción WHERE
+WHERE = expresión - Sentencia que se usa para seleccionar
+las observaciones que cumplen la expresión (produce 
+subconjuntos por filas).
+Obs NOMBRE SEXO EDAD PESO TALLA
+1 ALICIA M 14 69 112
+2 JULIA M 11 51 50Obs NOMBRE SEXO EDAD PESO TALLA
+1 TOMAS H 11 57 85
+2 JULIA M 11 51 50
+25
+2003 - ANB
+Concatenación de datos SAS:
+Sentencia SET
+One.sas7bdat Two.sas7bdat
+26
+2003 - ANB
+Unión de archivos de datos SAS:
+Sentencia MERGE
+Animal.sas7bdat Planta.sas7bdat
+Obs TIPO ANIMAL PLANTA
+1 a pájaro palmera
+2 b gato cocotero
+3 c perro pino
+4 d conejo roble
+5 e abeto
++
+UNION.sas7bdat
+27
+2003 - ANB
+Creación o transformación de nuevas variables
+La creación o transformación de variables se realiza mediante
+sentencias de asignación del tipo:
+variable = expresión aritmética, constante numérica o carácter
+ExponenciaciónNueva = Variable ** 10
+DivisiónNueva = Variable / 10
+MultiplicaciónNueva = Variable * 10
+RestaNueva = Variable – 10
+Suma Nueva = Variable + 10
+Una variable, por ej: X1Nueva = X1
+Constante alfanuméricaNueva = ‘diez’
+Constante numéricaNueva = 10
+Tipo de expresiónSentencia de asignación
+28
+2003 - ANB
+Ejemplo creación de variables
+Gregor 10  2  40  0
+Molly 15  5  10 1000
+Luther 50 10  15   50
+Susan 20  0  .   20
+
+29
+2003 - ANB
+Funciones SAS
+Se usan en el paso DATA como expresiones o parte de las
+mismas.
+Sintaxis: 
+nombre de la función (argumento,…)
+3.5X=mean(1,4,7,2)MEAN
+9.0X=sum(3,5,1)SUM
+1.0X=log10(10)LOG10
+2.30259X=log(10)LOG
+4X=int(4.32)INT
+ResultadoEjemploNombre función
+30
+2003 - ANB
+Menu Ayuda: Funciones SAS
+
+31
+2003 - ANB
+Menu Ayuda: Funciones SAS
+32
+2003 - ANB
+Menu Ayuda: Funciones SAS
+
+33
+2003 - ANB
+Menu Ayuda:  
+Funciones de distribución y sus inversas
+34
+2003 - ANB
+Funciones SAS
+
+35
+2003 - ANB
+Sentencia condicional: IF-THEN-ELSE
+• La sentencia IF-THEN-ELSE se utiliza para crear un archivo de 
+datos, subconjunto de otro dado, con aquellas observaciones que
+cumplen una determinada condición.
+• Cuando no aparece la cláusula THEN, debe especificarse un 
+punto y coma (;) después de la expresión.
+• Si no aparece THEN no se puede especificar la sentencia ELSE.
+• Si la expresión toma el valor verdadero se ejecutará la accion1 y 
+si la expresión es falsa se ejecutará la accion2.
+• La acción1 y acción2 son sentencias ejecutables, o bloques de 
+sentencias comenzando por la sentencia DO.
+Sintaxis:
+IF condición [ THEN acción1 ; 
+[ ELSE acción2; ] ]
+Condición
+36
+2003 - ANB
+Sentencia condicional: IF-THEN-ELSE
+Operadores lógicosCondición
+LT ó <Menor que
+LE ó <=Menor o igual que
+AND ó &
+NOT
+Conjunción
+Negación
+ORDisyunción
+NE ó ^=Diferente de
+EQ ó =Igual a
+GE ó >=Mayor o igual que
+GT ó >Mayor que
+Operadores relacionalesCondición
+Sintaxis: IF condición THEN acción1 ;
+ELSE acción2; 
+37
+2003 - ANB
+Sentencia condicional: IF
+A Midsummer Night's Dream 1595 comedy
+Comedy of Errors 1590 comedy
+Hamlet 1600 tragedy
+Macbeth 1606 tragedy
+Richard III             1594 history
+Romeo and Juliet 1596 tragedy
+Taming of the Shrew 1593 comedy
+Tempest 1611 romance
+38
+2003 - ANB
+Sentencias lógicas: IF-THEN-ELSE
+Corvette 1955 .      2 black
+XJ6     1985 Jaguar 2 teal
+Mustang 1966 Ford 4 red
+Miata 1992 .      . silver
+CRX     1991 Honda 2 black
+Camaro 1990 .     4 red
+
+39
+2003 - ANB
+Agrupación de observaciones:
+Sentencia IF – THEN – ELSE - IF
+Bob kitchen cabinet face-lift 1253.00
+Shirley bathroom addition 11350.70
+Silvia  paint exterior                  .  
+Al      backyard gazebo 3098.63
+Norm paint interior               647.77
+Kathy second floor addition 75362.93
+40
+2003 - ANB
+PROC PRINT
+Se utiliza cuando se necesita listar los valores de todas o 
+algunas de las variables de un archivo de datos SAS. Se 
+pueden crear variedad de informes a medida, clasificando los
+datos en grupos y calculando totales y subtotales.
+Sintaxis:
+PROC PRINT <opciones>; 
+BY <DESCENDING > variable-1 <...< DESCENDING > 
+variable-n> < NOTSORTED >;
+ID variable(s) ;
+PAGEBY variable;
+SUMBY variable ; 
+SUM variable(s) ;
+VAR variable(s) ;
+41
+2003 - ANB
+PROC PRINT
+42
+2003 - ANB
+PROC PRINT
+
+43
+2003 - ANB
+PROC PRINT
+44
+2003 - ANB
+PROC PRINT
+
+45
+2003 - ANB
+PROC SORT
+El PROC SORT ordena observaciones en un conjunto de 
+datos para una o más variables, almacenando los resultados 
+ordenados en conjuntos de datos SAS, que pueden 
+reemplazar o no al existente. Su sintaxis es la siguiente: 
+Sintaxis:
+PROC SORT <opciones>; 
+BY (DESCENDING ) variables ; 
+46
+2003 - ANB
+PROC SORT

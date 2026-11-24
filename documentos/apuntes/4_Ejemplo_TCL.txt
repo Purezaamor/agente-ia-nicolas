@@ -1,0 +1,206 @@
+=== Fuente: 4_Ejemplo_TCL.pdf ===
+
+Ejemplo de aplicación del Teorema Central del Limite 
+ 
+ 
+ 
+Dada una población de tamaño N = 6, con valores de la variable Xi : 1 - 2 - 3 - 4 - 5 - 6, su 
+gráfica se observa en el Gráfico 1. 
+ 
+ 
+ 
+Gráfico 1. Gráfico de los valores de la variable X 
+ 
+ 
+La media y varianza de la población (calculada con N grados de libertad) son: 
+ ==
+∑
+=
+N
+x
+N
+i
+i
+1
+μμμμ  3,5000    y    
+N
+x
+N
+i
+i∑
+=
+−
+=
+1
+2
+2
+)( μμμμ
+σσσσ = 2,9167 , (Cuadro 1). 
+   
+ 
+Cuadro 1.  Media y varianza poblacional a partir del procedimiento Means 
+ 
+Analysis Variable : x  
+Mean Variance  
+3.5000 2.9167  
+ 
+ 
+Si se extraen todas las muestras posibles, con reposición, de tamaño n = 2, se tienen 36 
+muestras. Si en cada una de ellas se calculan las medias y varianzas muestrales ( X  y S2 ) 
+con las expresiones usuales: 
+n
+x
+n
+1i
+i∑
+=
+=X     y     ∑
+=
+−=
+n
+1i
+2
+i )Xx(1-n 12S  
+ 
+se obtienen los valores que figuran en el Cuadro 2. 
+Cuadro 2. Valores de medias y varianzas muestrales para las 36 muestras 
+ 
+Si 2
+1 1,5 2 2,5 3 3,5
+0 0,5 2 4,5 8 12,5
+1,5 2 2,5 3 3,5 4
+0,5 0 0,5 2 4,5 8
+2 2,5 3 3,5 4 4,5
+2 0,5 0 0,5 2 4,5
+2,5 3 3,5 4 4,5 5
+4,5 2 0,5 0 0,5 2
+3 3,5 4 4,5 5 5,5
+8 4,5 2 0,5 0 0,5
+3,5 4 4,5 5 5,5 6
+12,5 8 4,5 2 0,5 0
+4 5 6
+2
+1
+1
+2 3
+3
+4
+5
+6
+iX
+ 
+ 
+ 
+La distribución de frecuencias de la variable iX se indica en el Cuadro 3 y en el Grafico 2. 
+ 
+Cuadro 3.  Distribución de frecuencias de la variable iX  
+   
+iX  fi iX fi 
+2
+iX fi 
+1,0 1 1 1,0 
+1,5 2 3 4,5 
+2,0 3 6 12,0 
+2,5 4 10 25,0 
+3,0 5 15 45,0 
+3.5 6 21 73,5 
+4,0 5 20 80,0 
+4,5 4 18 81,0 
+5,0 3 15 75,0 
+5,5 2 11 60,5 
+6,0 1 6 36,0 
+Σ  36 126 493,5  
+ 
+ 
+ 
+ 
+ 
+Gráfico 2. Gráfico de los valores de la variable iX  
+ 
+ 
+Como son todas las muestras posibles, la media de la variable iX  es μμμμ , y la varianza es 
+2σσσσ , por lo tanto,  
+N
+fX
+N
+i
+ii
+X
+∑
+=
+=
+1
+μμμμ 3,536 126 ==     
+ 
+y 
+ 
+1,45833)36 126493,5(36 1 2 =−= − = ∑
+∑
+=
+=
+N
+N
+fX
+fX
+N
+i
+i
+N
+i
+i
+ii
+X
+1
+2
+12
+2
+)(
+σσσσ  = 
+2
+ 2,9167 . 
+ 
+ 
+Como puede observarse, la media de las variables Xi   y iX  es la misma, μμμμ ,  y la varianza 
+de iX  es la mitad de la varianza de Xi , ya que ha sido dividida por 2 (tamaño de la 
+muestra). El Gráfico 2 muestra una forma acampanada y simétrica, no así el Gráfico 1. 
+ 
+ 
+Por otra parte, si realizamos la distribución de frecuencias y el gráfico de la variable Si 2 
+(Cuadro 4 y Gráfico 3, respectivamente), se observa una forma asimétrica positiva. La media 
+de la variable Si 2  es la varianza poblacional 2σσσσ . 
+ 
+ 
+ 
+2,916636 105 === ∑ = N fS
+N
+i
+ii
+1
+2
+2σσσσ  
+ 
+ 
+Cuadro 4. Distribución de frecuencias de la variable Si 2 
+ 
+Si 2 fi Si 2 fi 
+0,0 6 0 
+0,5 10 5 
+2,0 8 16 
+4,5 6 27 
+8,0 4 32 
+12,5 2 25 
+Σ  36 105 
+ 
+ 
+ 
+ 
+ 
+Gráfico 3. Gráfico de los valores de la variable Si 2 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 

@@ -1,0 +1,26 @@
+=== Fuente: estimacion instantanea de PPNA.xlsx ===
+
+--- Hoja: Sheet1 ---
+                        ESTIMACION DE PPNA INSTANTANEA A PARTIR DE DATOS DE INTERCEPCION DE RADIACION  Unnamed: 1 Unnamed: 2    Unnamed: 3          Unnamed: 4   Unnamed: 5            Unnamed: 6   Unnamed: 7 Unnamed: 8           Unnamed: 9   Unnamed: 10            Unnamed: 11 Unnamed: 12
+Para estimar la productividad instantánea a partir del modelo de eficiencia en el uso de la radiación                                                                                                                                                                                          
+                                                                                    PPNA=PAR*FPAR*EUR                        APAR=PAR*FPAR                                                                                                                                                     
+                                                             Mediciones con el interceptometro de par                                               Conversion                                    horas de luz        8.0 EUR estimada Alfalfa PPNA estimada PPNA estimada x n días         1.0
+                                                                                                        umol/m2.s                          de umol/m2.s a W/m2         W/m2             MJ/m2.seg    MJ/m2.dia                   kg MS/MJ apar   g MS/m2.dia               kg MS/ha            
+                                                                                                 PARi        PARt       PARr          APAR                 4.6                                                                                                                                 
+                                                                                                  950  158.666667         80    711.333333                      3272.133333              0.000155     4.453565                             1.5      6.680348              66.803478            
+                                                                                                  950         223  90.666667    636.333333                 817                                                                               1      4.453565              44.535652            
+                                                                                                  950         189  74.666667    686.333333                                  10^6 W/m2 = MJ/m2.seg                                                                                              
+                                                                                                  950         216         79           655                                                                                                                                                     
+                                                                                                                                                                                                                                                                                               
+                                                                                                 Fpar    0.748772                                                                                                                                                                              
+                                                                                                         0.669825                                                                                                                                                                              
+                                                                                                         0.722456                                                                                                                                                                              
+                                                                                                         0.689474                                                                                                                                                                              
+--- Hoja: Sheet2 ---
+Empty DataFrame
+Columns: []
+Index: []
+--- Hoja: Sheet3 ---
+Empty DataFrame
+Columns: []
+Index: []

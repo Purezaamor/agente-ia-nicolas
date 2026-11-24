@@ -1,0 +1,2371 @@
+=== Fuente: Bedmar-Gianelli 2014 (1).pdf ===
+
+Han pasado más de 30 años de la última edición de la obra de Ángel Marzocca “Manual de 
+Malezas” y si bien se han editado numerosos trabajos cientíﬁcos y/o tecnológicos, informes 
+técnicos y aún capítulos en libros de cultivos relacionados con la temática de las malezas, 
+los mismos abordan aspectos con distinto grado de profundidad, enfoques parciales o bien 
+se encuentran diseminados en múltiples publicaciones. Se estima que la edición de una 
+obra actualizada que abrace buena parte de los conocimientos disponibles en Argentina 
+sobre plantas invasoras, malezas y su manejo en los distintos sistemas de producción del 
+país, representará un signiﬁcativo aporte al conocimiento y será una fuente permanente de 
+consulta en todas aquellas cuestiones coligadas con la presencia de este tipo de plantas que 
+interﬁeren con la actividad productiva en los agroecosistemas. Hemos acordado publicar esta 
+obra reconociendo principalmente la necesidad de un texto en idioma español orientado en 
+particular a docentes universitarios y del nivel medio ligados a las ciencias agrarias, estudiantes 
+de agronomía, profesionales y técnicos no sólo estrictamente vinculados con la productividad 
+agropecuaria sino también de interés para toda persona interesada en el conocimiento de los 
+atributos biológicos de las plantas espontáneas. 
+Esta Obra comprende tres tomos. El primero de ellos abarca todos los aspectos relacionados 
+con la ecología de las malezas y su manejo en agroecosistemas. Los mismos incluyen desde 
+aspectos más generales relacionados con la biología y la dinámica de poblaciones vegetales 
+hasta más particulares, como es el manejo de malezas en cultivos extensivos e intensivos, la 
+prevención de invasiones, el uso de modelos en la dinámica espacio-temporal de poblaciones, 
+la residualidad y los efectos ambientales  de los herbicidas o el control biológico, entre muchas 
+otras temáticas, que son abordadas por 65 autores en 33 capítulos a lo largo de 950 páginas.
+En el Tomo II se desarrollan los aspectos relacionados con la clasiﬁcación botánica e 
+identiﬁcación de unas 600 especies, presentadas en páginas a todo color con una ﬁcha 
+descriptiva asociada, que jerarquiza los caracteres que permiten una rápida identiﬁcación en 
+el campo de las especies tratadas. 
+En el Tomo III se abordan los atributos biológicos y eco-ﬁsiológicos que caracterizan y contribuyen 
+al éxito ecológico de una determinada especie. Las secciones incluyen revisiones y puesta al 
+día de conocimientos que contribuyen a optimizar las herramientas de prevención  y manejo 
+de una especie. Los contenidos de cada una de ellas son construidos por investigadores que 
+las han estudiado durante varios años, muchos de ellos en el marco de experimentos de Tesis 
+de Maestría o Doctorado.
+MALEZAS E INVASORAS DE LA ARGENTINA
+TOMO I: ECOLOGÍA Y MANEJO
+Osvaldo A. Fernández  /  Eduardo S. Leguizamón  /  Horacio A. Acciaresi
+E DITOR ES
+
+Malezas e Invasoras 
+de la argentIna 
+Tomo I
+ecología y manejo
+EdITorEs
+osvaldo A. Fernández
+Eduardo s. Leguizamón
+Horacio A. Acciaresi
+No se permite la reproducción parcial o total, el alquiler, la transmisión o la transformación de este libro, en cualquier forma o por 
+cualquier medio, sea electrónico o mecánico, mediante fotocopias, digitalización u otros métodos, sin el permiso previo y escrito del 
+editor. Su infracción está penada por las leyes 11.723 y 25.446.
+LIBRO UNIVERSITARIO ARGENTINO
+Queda hecho el depósito que establece la ley 11.723
+Bahía Blanca, Argentina, marzo de 2014
+©2014 Ediuns
+Editorial de la Universidad Nacional del Sur
+Av. Alem 925 - Tel: 0291-4595173 - 8000 Bahía Blanca
+www.ediuns.uns.edu.ar  /  ediuns@uns.edu.ar
+Red de Editoriales de 
+Universidades Nacionales
+Imagen de tapa: Porción de césped - Estudio de mala hierba  (1503). Alberto Durero
+La figura que presenta esta Obra como imagen de portada, acreditada bajo la denominación de “Porción de Césped  - Estudio de Mala 
+Hierba”, es una reproducción de una acuarela sobre velo de 1503 que pertenece a Albrecht Dürer, más conocido en el mundo hispano 
+como Alberto Durero. Indiscutiblemente distinguido en el mundo como uno de los artistas más radiantes del Renacimiento Alemán y 
+de toda la historia del arte, su producción es acabadamente fructífera por sus dibujos, pinturas, grabados y textos teóricos sobre arte. 
+Su talento se cautivó por modelar la naturaleza con devoción y su arte muestra una notable maestría en el trazado de la pintura y una 
+delicada presentación del detalle. Característicamente, en muchas de sus obras sobresale su pasión por la naturaleza, que se plasma 
+en acuarelas de deslumbrante realismo, como es la que aparece en la  portada de este libro. Al respecto, vale acotar que la imagen de 
+referencia coexiste como un atractivo especial para todos aquellos que estamos involucrados en los temas de botánica, haciendo que 
+sea inevitable un sentimiento de agradecimiento hacia su autor por la fidelidad de su arte. La acuarela se nos presenta con poco orden 
+y disposición, donde las raíces, tallos y flores de la vegetación parecen estar en oposición entre sí, pero el atento detalle de cada planta 
+da a la pintura un increíble realismo. En la composición de Alberto Durero es dable reconocer especies que pertenecen a los géneros 
+Stellaria, Taraxacum y Plantago, comunes en nuestros ambientes locales y en todo el mundo, frecuentemente calificadas como “malas 
+hierbas” o “malezas”. Sin embargo, por encima de todo,  subyace en quienes las estudian un sentimiento especial de fascinación por 
+sus “magias” o fenómenos de biología de vida y supervivencia; de allí que, estamos cautivados por el hecho que sean protagonistas 
+inmortalizadas en una obra de tal trascendencia. 
+Alberto Dudero nació en Nüremberg, Alemania el 21 de mayo de 1471y murió en la misma ciudad en 1528. La acuarela que se exhibe 
+en la portada de esta Obra se encuentra en La Albertina, en el centro de Viena, Austria, que atesora aproximadamente 60.000 dibujos 
+y más de un millón de grabados, desde comienzos del siglo XV hasta la actualidad. Los editores agradecen a Ingrid Kastel la  autoriza-
+ción para reproducir como cubierta de esta Obra  “Porción de césped” de Albrecht Dürer. Se han depositado los derechos de copyright 
+correspondientes.       
+Diagramación interior y tapa: Fabián Luzi
+Los autores han construido los contenidos de los Capítulos que se ofrecen en esta Obra, observando los procedimientos ha-
+bituales y aplicando el rigor que caracteriza a una publicación científico-técnica. Además, están basados en el conocimiento 
+y en la experiencia personal. Sin embargo, queda explícitamente establecido que la Editorial, los editores y los autores, no 
+asumen ningún tipo de responsabilidad en relación con los efectos que podrían derivarse de la aplicación de las recomenda-
+ciones contenidas en esta Obra, en cualquier organismo o en el ambiente, tanto en la actualidad como en el futuro.
+Malezas e invasoras de la Argentina : ecología y manejo / Osvaldo A. Fernández ... [et.al.] ; edición 
+literaria a cargo de Osvaldo A. Fernández ; Eduardo S. Leguizamón ; Horacio A. Acciaresi. - 1a ed. - 
+Bahía Blanca : Editorial de la Universidad Nacional del Sur. Ediuns, 2014. 
+964 p. ; 28x21 cm. 
+ISBN 978-987-1907-70-0          
+1. Ecología. I. Fernández, Osvaldo A.  II. Fernández, Osvaldo A., ed. lit. III. Leguizamón, Eduardo, ed. lit. 
+IV. Acciaresi, Horacio A., ed. lit.
+CDD 577
+Fecha de catalogación: 26/02/2014
+361
+Comportamiento 
+de los herbicidas 
+en el suelo 
+Francisco Bedmara*
+Valeria Gianellib
+a Departamento de Producción Vegetal, Suelos e Ingeniería Rural, Facultad de Ciencias 
+Agrarias, Universidad Nacional de Mar del Plata, Ruta 226, km 73.5, 7620 Balcarce.
+b Estación Experimental Agropecuaria Balcarce, Instituto Nacional de Tecnología 
+Agropecuaria (INTA), Ruta 226, km 73.5, 7620 Balcarce.
+* Correo electrónico: bedmar.francisco@inta.gob.ar
+Capítulo XIV
+362
+Francisco Bedmar - Valeria Gianelli
+Sinopsis previa
+•	 Para comprender como se comporta un herbicida en el ambiente edáfico resulta necesario 
+conocer ciertos aspectos sobre las propiedades fisicoquímicas de los herbicidas, las 
+características del suelo y los factores climáticos que condicionan su destino en el ambiente. 
+El destino de un herbicida en el suelo está gobernado por los procesos de retención, 
+transformación y transporte así como por su interacción.
+•	 La adsorción ha sido citada como el proceso que posee mayor influencia en su 
+comportamiento y destino en el ambiente. El grado de adsorción se expresa generalmente 
+por medio del coeficiente de distribución de adsorción (Kd) entre las fases acuosa y sólida. 
+El contenido de materia orgánica, de arcilla y el pH constituyen los principales factores 
+determinantes de este proceso dependiendo de cada herbicida en particular.
+•	 Por su parte, la degradación química o microbiana determina la persistencia de un herbicida 
+en el suelo. La tasa de degradación y por lo tanto la persistencia, varían con la estructura 
+molecular de cada herbicida, su concentración en el suelo, temperatura y  contenido de 
+agua del suelo, pH, nivel de oxígeno del suelo, uso anterior del herbicida, fertilidad del 
+suelo y poblaciones microbianas.
+•	 La persistencia y adsorción condicionan la potencialidad de lixiviación de los herbicidas 
+hacia el agua subterránea. En tal sentido, los factores que presentan mayor influencia 
+sobre la movilidad de los herbicidas en el suelo son las propiedades físicas del suelo, 
+las propiedades químicas del compuesto, las condiciones climáticas al momento de la 
+aplicación y posteriores, formulación y método de aplicación.
+•	 La persistencia química se expresa a través de la vida media, la cual representa el tiempo 
+requerido para que el 50% del herbicida original aplicado se descomponga en otros 
+productos. Finalmente, la residualidad o carryover determina el período de tiempo en que 
+pueden esperarse efectos fitotóxicos residuales sobre los cultivos subsecuentes en la 
+rotación. Dichos períodos de residualidad varían en función del herbicida, los suelos, las 
+condiciones climáticas post-aplicación y la sensibilidad de la especie considerada.
+363
+Comportamiento de herbiCidas en el suelo
+Introducción
+Los herbicidas son sustancias, por lo general 
+de origen sintético, que se emplean en la agri-
+cultura para el control de las malezas. Tan -
+to los herbicidas que ejercen su acción en el 
+suelo como aquellos de acción foliar, alcanzan 
+en forma directa o indirecta el mismo, siendo 
+sometidos a distintos procesos que ocurren 
+en él. Dado que poseen diverso grado de toxi-
+cidad, existe desde hace tiempo un marcado 
+interés en conocer su comportamiento y des -
+tino en el ambiente edáfico, a fin de reducir su 
+potencial impacto sobre la calidad ambiental y 
+salud humana. En tal sentido, entre los efec -
+tos contaminantes mas conocidos de los her-
+bicidas, suele citarse su presencia en el agua 
+superficial y subterránea. Sin embargo, des-
+de el punto de vista productivo, el suelo y sus 
+procesos pueden condicionar la efectividad 
+de los herbicidas sobre las malezas, así como 
+incidir en la persistencia de sus residuos pro -
+vocando daños a corto o mediano plazo sobre 
+cultivos sensibles.
+Por todo lo expresado, es de fundamental 
+importancia conocer cómo se comportan los 
+herbicidas en el ambiente edáfico, a fin de 
+poder predecir con cierto grado de certeza su 
+comportamiento y de esta forma realizar un 
+uso eficiente de los mismos reduciendo los 
+impactos.
+En el presente capítulo se describirán y abor-
+darán los factores y procesos que determinan 
+la disipación y disponibilidad de los herbici -
+das en el suelo, describiendo especialmente 
+aquellos grupos químicos que entrañan peli-
+gros potenciales por su persistencia. También 
+se presentarán resultados de experimenta -
+ción nacional a fin de ilustrar los avances en 
+este tema.
+1. Procesos que condicionan el comporta-
+miento de los herbicidas en el suelo
+El comportamiento de un herbicida en el sue-
+lo, está regido por procesos que pueden dis-
+minuir la cantidad original aplicada (Figura 1). 
+Antes de que el herbicida alcance el suelo, 
+puede degradarse por fotodescomposición, 
+volatilizarse y puede ser adsorbido y/o absor-
+bido por las hojas del vegetal o rastrojo en 
+superficie. Una vez que ingresa al suelo, el 
+herbicida se reparte en las fases sólida, ga -
+seosa y líquida, y es en esta última en la que 
+Figura 1. Comportamiento de los herbicidas en el suelo (adaptado de Comfort y otros, 1994).
+fotodescomposición volatilización
+escurrimiento
+absorción por plantas
+microorganismos
+lixiviación
+desorción
+adsorción
+reacciones químicas
+coloides
+del suelo
+coloides
+del suelo
+agua subterránea
+Herbicida
+364
+Francisco Bedmar - Valeria Gianelli
+ocurre principalmente la degradación química 
+y microbiana. En la fase sólida se adsorben 
+con diferente fuerza en lugares de enlace de 
+los coloides orgánicos e inorgánicos del suelo 
+(materia orgánica, arcillas y óxidos). El trans -
+porte de los herbicidas a través del suelo se 
+produce por medio del flujo del agua y está 
+fuertemente influenciado por la adsorción (Ri-
+chter y otros, 1996).  
+La presencia de herbicidas en el agua subte -
+rránea se debe principalmente a la lixiviación 
+a través del suelo, la cual puede ser de ma -
+yor intensidad para compuestos de naturaleza 
+aniónica, por lo que su presencia en acuíferos 
+no causa sorpresa (Flury, 1996). Sin embar -
+go, varios herbicidas con menor movilidad 
+que aquellos han sido detectados en el agua. 
+Si bien en algunos casos se puede responsa-
+bilizar al uso inadecuado o accidental como 
+causa de presencia de los herbicidas en el 
+agua subsuperficial, parece que la contamina-
+ción de los acuíferos se debe principalmente 
+al resultado de aplicaciones convencionales a 
+campo y su posterior lixiviación a través del 
+suelo (Ritter, 1990). Por su parte, el transporte 
+superficial o escurrimiento, es el causante de 
+la presencia de herbicidas en cursos de agua 
+superficiales o cuerpos de agua.  
+El destino de un herbicida en el ambiente 
+edáfico está gobernado por los procesos de 
+retención, transformación y transporte  así 
+como por su interacción (Figura 2). La reten-
+ción es la consecuencia de la interacción en -
+tre el herbicida y la superficie de las partículas 
+del suelo y es descripta como adsorción o sor-
+ción. Puede ser reversible retardando el mo -
+vimiento o irreversible impidiéndolo y afectan -
+do también la disponibilidad para las plantas 
+o microorganismos o para la transformación 
+biótica o abiótica. La retención es un proce -
+so físico sin cambio en la naturaleza química 
+de la molécula (Koskinen y Harper, 1990). Los 
+procesos de transformación química pueden 
+ser catalizados por los constituyentes del sue-
+lo o inducidos fotoquímicamente. La mayoría 
+de los herbicidas son transformados principal-
+mente por procesos bioquímicos a través de 
+los microorganismos del suelo con cambios 
+en la molécula hacia formas más simples que 
+pueden ser de igual, menor o mayor toxicidad 
+que la original, lo cual determina bajo qué for-
+ma y durante cuánto tiempo estarán presentes 
+en el suelo. En cambio, los procesos de trans-
+porte determinan el lugar dónde se presen -
+tarán los herbicidas. La volatilización lleva el 
+herbicida hacia la atmósfera; el escurrimiento 
+hacia las superficies de agua y la lixiviación 
+CLIMA
+(factores)
+PLAGUICIDA
+(propiedades)
+PLANTAS Y 
+MICROORGANISMOS
+AGUA Y SUELO
+(propiedades)
+SUELO
+TRANSFORMACION
+abiótica
+biológica
+RETENCION
+TRANSPORTE A:
+atmósfera
+agua subterránea
+agua superficial
+DESTINO -
+COMPORTAMIENTO
+EFICACIA
+(control)
+EFECTOS 
+SOBRE EL AMBIENTE
+(persistencia)
+BENEFICIO/RIESGO
+ENTRADAS PROCESOS SALIDAS IMPACTOS
+¿?
+AMBIENTE
+Figura 2. Procesos que condicionan el comportamiento de los plaguicidas en el suelo (adaptado de Cheng, 1990).
+365
+Comportamiento de herbiCidas en el suelo
+hacia las aguas subterráneas (Cheng, 1990). 
+Como resultado de los procesos que condicio-
+nan el comportamiento de los herbicidas en 
+el suelo, debe destacarse que el destino final 
+de un herbicida determinará el balance de la 
+ecuación Beneficio/Riesgo y por lo tanto el 
+grado de incidencia sobre su eficacia o efecto 
+ambiental (Figura 2).
+1.1. Procesos de retención: adsorción de 
+herbicidas al suelo 
+La adsorción de un herbicida por el suelo ha 
+sido citada como el proceso que posee mayor 
+influencia en su comportamiento y destino en 
+el ambiente (Green y Karickhoff, 1990; Gerstl, 
+2000). La adsorción es la consecuencia de la 
+interacción entre el plaguicida y los coloides 
+del suelo pudiendo ser reversible o irreversible. 
+La adsorción es un proceso de atracción entre 
+una superficie sólida y las moléculas que se 
+encuentran en la solución del suelo. A través 
+de este mecanismo, las moléculas de los her-
+bicidas pueden ser retenidas por los coloides 
+orgánicos (materia orgánica) e inorgánicos 
+(arcilla) del suelo por medio de diferentes me-
+canismos: fuerzas de van der Waals, puentes 
+de hidrógeno, interacciones dipolo-dipolo, in-
+tercambio iónico, enlaces covalentes, proto -
+nación, intercambio de ligandos, etc.  
+El grado de adsorción de un herbicida en el 
+suelo se expresa generalmente por medio del 
+coeficiente de distribución de adsorción (Kd) 
+entre las fases acuosa y sólida. La mayoría de 
+los herbicidas son adsorbidos por la materia 
+orgánica (MO) de los suelos. La MO es una 
+mezcla compleja en donde predomina el car-
+bono, hidrógeno, oxigeno y compuestos nitro-
+genados que cubre la superficie de las par-
+tículas en los horizontes superficiales de un 
+perfil de suelo, tendiendo a actuar como una 
+película no polar (de tipo lipofílico) (Comfort y 
+otros, 1994). La adsorción de la mayoría de 
+los herbicidas eléctricamente neutros, puede 
+ser vista como un proceso en el cual las es -
+pecies químicas no polares intentan escapar 
+del ambiente polar de la solución del suelo y 
+entrar en el ambiente menos polar de la MO. 
+El grado en que ocurre este proceso depende 
+de la cantidad de MO presente en el suelo. 
+El porcentaje de MO del suelo, puede variar 
+considerablemente entre suelos, localización 
+geográfica y con la profundidad. Por tal mo-
+tivo, los coeficientes de adsorción (Kd) de un 
+herbicida son específicos para cada suelo, 
+pudiendo variar entre suelos o con la profun -
+didad en un perfil de suelo. De esta manera, 
+se prefiere la utilización de un índice más uni-
+versal que permita comparar las característi-
+cas de  adsorción de los plaguicidas en una 
+forma relativamente independientemente de 
+los suelos. Así, el Kd se suele dividir por el % 
+de carbono orgánico en el suelo, conociéndo-
+se esta conversión como coeficiente de par-
+tición en carbono orgánico (Koc), siendo ésta 
+la constante de adsorción más utilizada (Ta -
+bla 1). Gustafson (1995) estableció que el Koc 
+de un plaguicida puede utilizarse como una 
+medida independiente del suelo de su movi -
+lidad relativa en el mismo. El mismo autor en 
+un trabajo anterior (Gustafson, 1989) elaboró 
+una clasificación de los plaguicidas según su 
+grado de lixiviación de acuerdo a un índice 
+(GUS) que tiene en cuenta su grado de reten-
+ción (expresado como Koc) y la persistencia 
+(vida media en el suelo) (Tabla 1).
+Las propiedades del suelo y del plaguicida 
+son muy importantes debido a que determi-
+nan los mecanismos de adsorción y por lo 
+tanto la biodisponibilidad y movilidad del pla -
+guicida. Sin embargo, es difícil determinar los 
+factores del suelo que controlan la adsorción 
+de los plaguicidas debido a la naturaleza he -
+terogénea del mismo. Si bien la materia or -
+gánica del suelo ha sido citada como la pro -
+piedad más relevante que regula la adsorción 
+de varios herbicidas no iónicos (Goss 1992; 
+Bollag y otros, 1992; Weber y otros, 2000), 
+los herbicidas no iónicos como las triazinas 
+débilmente básicos, como es el caso de Atra-
+zina, pueden ser adsorbidos a la materia 
+orgánica y las arcillas, estando la adsorción 
+regulada por el pH (Weber y otros, 1993; We-
+ber, 1994; Weber y otros, 2000). 
+La distribución en profundidad de la materia 
+orgánica del suelo por lo general indica la 
+zona en la cual los herbicidas no iónicos son 
+366
+Francisco Bedmar - Valeria Gianelli
+más fuertemente adsorbidos (Sonon 1992). 
+Por tal razón, generalmente,  los herbicidas 
+se adsorben con más fuerza a las capas su -
+perficiales del suelo. Los horizontes del sue-
+lo más profundos contienen menos materia 
+orgánica y poblaciones microbianas, y por lo 
+tanto son menos adsorbidos o degradados 
+(Comfort, 1994; Skipper y otros, 1996; Jenks 
+y otros, 1998) (Figura 3). De esta forma, las 
+variaciones en las propiedades del suelo con 
+la profundidad influyen en la adsorción, de-
+gradación y movimiento de los herbicidas. 
+Para suelos de Argentina, se ha determinado 
+la adsorción de diversos herbicidas en pro -
+fundidad para perfiles de suelos (Figura 4; 
+Bedmar y otros, 2011; Hang y Sereno, 2002).
+En el caso de Argentina, se han realizado 
+diversos estudios de adsorción, para suelos 
+contrastantes y diferentes herbicidas, presen-
+tándose algunos ejemplos en la Tabla 2. 
+1.2. Procesos de transformación: Degra -
+dación, fotólisis.
+a) Degradación
+Cuando un herbicida es liberado en el medio 
+ambiente, interactúa con los componentes 
+bióticos y abióticos de éste, sufriendo trans -
+formaciones en su estructura, capaces de 
+modificar profundamente sus características 
+físico-químicas y su acción biológica. La de-
+gradación del plaguicida dará lugar a nuevos 
+compuestos que pueden resultar más tóxi-
+cos, más o menos persistentes y más móvi -
+les que la sustancia original. De esta manera, 
+cuando el producto de degradación resulta 
+menos tóxico que el compuesto original, se 
+trata de una inactivación o detoxificación; si 
+por el contrario, el producto de degradación 
+resulta con mayor toxicidad, se trata de una 
+activación (Boxall y otros, 2004).
+Las reacciones de degradación son muy va -
+riadas (oxidación, reducción, hidrólisis, susti -
+tución, eliminación de grupos funcionales, fo-
+tólisis) pudiendo estar mediadas por agentes 
+orgánicos, principalmente microorganismos 
+del suelo (hongos y bacterias), y por reac -
+ciones químicas entre las que se incluyen la 
+hidrólisis, fotodegradación y reacciones de 
+óxido-reducción (Wolfe y otros, 1990).
+Los microorganismos del suelo intervienen 
+en la mayoría de los procesos de degra -
+dación de los herbicidas, originando como 
+productos finales CO2, H2O, NH 4, NO3, etc., 
+dependiendo de cada herbicida en particular 
+(Shaw y Chadwick, 1999). Generalmente, la 
+actividad microbiana y la degradación de los 
+herbicidas por este mecanismo son mayores 
+en suelos húmedos, bien aireados, cálidos, y 
+con pH neutro. Asimismo, la tasa de degra -
+dación decrece con la profundidad del perfil 
+del suelo, debido a que las condiciones tales 
+como temperatura, humedad y aireación son 
+menos favorables para la actividad microbia -
+na (Kerle  y otros, 1996).
+Por su parte, la degradación química ocurre 
+cuando  un herbicida reacciona con el agua, 
+oxígeno y otros compuestos químicos en el 
+suelo. Estas reacciones pueden ocurrir en la 
+superficie del suelo, en los horizontes sub-
+superficiales y especialmente en la solución 
+del suelo. Entre las reacciones químicas más 
+importantes involucradas en la degradación 
+abiótica de algunos plaguicidas se incluyen la 
+hidrólisis,  reacciones de óxido-reducción y la 
+fotodescomposición (Wolfe y otros, 1990).
+La hidrólisis consiste en la unión de una mo -
+lécula de agua al compuesto químico y de-
+pende principalmente del pH de la solución. 
+Diversos herbicidas pueden presentar hidróli-
+sis ácida, alcalina o neutra, dependiendo del 
+pH del ambiente. Otros factores que afectan 
+la tasa de hidrólisis de los compuestos quími-
+cos, incluyen a la temperatura, composición 
+del suelo y las propiedades fisicoquímicas del 
+compuesto (Shaw y Chadwick, 1999). En tal 
+sentido diversos herbicidas  pertenecientes 
+a las familias de las Sulfonilureas y Triazinas 
+son degradados tanto por hidrólisis química 
+como por distintos procesos microbianos. 
+Asimismo, diversos herbicidas pueden su -
+frir también reacciones de oxido-reducción . 
+Entre ellas se incluyen oxidación directa por 
+ozono, autooxidación  mediada por metales 
+y peróxidos, reacciones de reducción tales 
+como dehalogenación y nitroreducción.
+367
+Comportamiento de herbiCidas en el suelo
+Figura 3. Distribución en profundidad de algunas propiedades del suelo. 
+Figura 4. Coeficiente de adsorción (Kd) de (a) Acetoclor, (b)  Atrazina y (c) S-Metolacloro, para los horizontes A (A0 y A1), B y C 
+de suelos de General Alvarado (GA) y Tres Arroyos (TA) (Bedmar y otros, 2011), y de (d) Atrazina para horizontes Ap, Bt1, Bt2 
+y BC de un suelo Argiustol típico y Ap, AC y C de un suelo Haplustol entico (Hang y Sereno, 2002). 
+ 
+ 
+A
+B
+C
+Profundidad
+MO
+_
++
+> adsorción
+> degradación
+< adsorción
+< degradación
+Microorganismos
+pH
+_
++
+macroporos
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+Kd (L Kg-1)
+A0 A1 B C
+Acetoclor
+GA
+TA
+(a)
+0
+5
+10
+15
+20
+25
+Kd (L Kg-1)
+A0 A1 B C
+Atrazina
+GA
+TA
+(b)
+0
+5
+10
+15
+20
+25
+Kd (L Kg-1)
+A0 A1 B C
+S-Metolacloro
+GA
+TA
+(c)
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+1.6
+1.8
+2
+Kd (L kg-1)
+Ap Bt1 Bt2 BC Ap AC C
+Argiustol típico          Haplustol entico
+(d)Atrazina
+368
+Francisco Bedmar - Valeria Gianelli
+Tabla 1. Propiedades físicas, químicas y ambientales de los herbicidas (IUPAC; PAN; EXTOXNET: Senseman, 2007).
+Herbicida Solubilidad (mg/L) Presión de vapor (mPa) Adsorción Koc Vida media a 20°C en lab GUS*
+Acetanilidas
+acetoclor 282 2.2 X 10-02 156 11 1.77
+metolacloro 530 1.7 120 15 3.49
+s-metolacloro 480 3.7 200 15 1.94
+Dinitroanilinas
+pendimetalin 0.33 1.94 17581 123 -0.39
+trifluralina 0.221 9.5 15800 181 0.13
+Fenilureas
+diuron 35.6 1.15 X 10-03 813 76 1.83
+linuron 63.8 5.1 739 87 2.03
+Glicinas
+glifosato 10500 0.0131 1435 49 -0.49
+Hormonales
+2,4-D 23180 0.0187 88.4 14 1.62
+clopiralid 143000 1.36 5 34 5.06
+dicamba 250000 1.67 2 4 1.75
+picloram 560 8.0 X 10-05 13 82.8 6.03
+Imidazolinonas
+imazamox 626000 0.0133 58 70 3.04
+imazapic 2230 0.01 137 120 3.87
+imazapir 9740 0.013 100 11 1.98
+imazaquin 102000 7.0 X 10-10 20 94.3 4.88
+imazetapir 1400 1.33 X 10-02 52 513 4.46
+Sulfonilureas
+clorimuron 1200 4.9 X 10-07 106 40 3.16
+clorsulfuron 12500 3.07 X 10-06 40 51.4 5.38
+metsulfuron 2790 1.10 X 10-07 35 26 2.40
+nicosulfuron 7500 8.00 X 10-07 30 16.4 3.79
+prosulfuron 4000 3.50 X 10-03 17.6 113 3.18
+triasulfuron 815 0.0021 60 55 3.81
+Triazinas
+atrazina 35 0.039 100 66 3.30
+prometrina 33 0.13 400 41 0.59
+simazina 5 0.00081 130 60 2.00
+Triazinonas
+metribuzin 1165 0.121 60 11.5 2.57
+Sulfonamidas
+flumetsulam 5650 3.70 X 10-07 28 60 4.22
+diflufenican 0.05 4.25 X 10-03 2000 141.8 1.58
+Triazolinonas
+sulfentrazone 780 1.30 X 10-04 43 331 6.47
+Otros
+flurocloridona 21.9 0.27 990 53 1.99
+GUS > 2.8 = lixiviador
+GUS 2.8 – 1.8 = transición 
+GUS < 1.8 improbable lixiviador
+369
+Comportamiento de herbiCidas en el suelo
+Tabla 2. Adsorción de herbicidas en suelos superficiales de Argentina.
+Herbicidas Suelo Adsorción Autor
+S-Metolacloro General Alvarado (CO: 4.4 %, pH: 5.8)
+Tres Arroyos (CO: 2.0 %, pH: 5.5)
+Kf: 29.2
+Kf: 24.9
+Bedmar y 
+otros, 2011
+Atrazina General Alvarado (CO: 4.4 %, pH: 5.8)
+Tres Arroyos (CO: 2.0 %, pH: 5.5)
+Kf: 11.8
+Kf: 8.4
+Bedmar y 
+otros, 2011
+Acetoclor General Alvarado (CO: 4.4 %, pH: 5.8)
+Tres Arroyos (CO: 2.0 %, pH: 5.5)
+Kf: 12.0
+Kf: 8.1
+Bedmar y 
+otros, 2011
+Imazapir
+Tandil (CO: 3.4%, pH:5.4)
+Anguil (CO: 1.4%, pH:6.3)
+Cerro Azul (CO: 2.4%, pH:4.9)
+Kd: 0.8
+Kd: 0.6
+Kd: 2.1
+Gianelli, y 
+otros, 2012
+Atrazina Córdoba (CO: 2.1 %, pH: 6.0)
+Córdoba (CO: 1.6 %, pH: 6.2)
+Kd: 1.5
+Kd: 1.6
+Hang y 
+Sereno, 2002
+Atrazina Balcarce (CO: 3.9%, pH: 5.6).
+Tres Arroyos (CO: 2.5%, pH: 6.0).
+Dorrego (CO: 1.9%, pH:7.0)
+Kd: 9.4
+Kd: 7.3
+Kd: 4.8
+Daniel y otros, 
+2002
+Metribuzin
+Balcarce (CO: 3.9%, pH: 5.6).
+Tres Arroyos (CO: 2.5%, pH: 6.0).
+Dorrego (CO: 1.9%, pH:7.0)
+Kd: 3.2
+Kd: 3.3
+Kd: 3.2
+Daniel y otros, 
+2002
+Atrazina
+Balcarce (CO: 3.7, pH: 5.8).
+Tres Arroyos (CO: 2.9%, pH: 6.0).
+Dorrego (CO:1.7%, pH: 6.2)
+Kd: 8.7-10.1
+Kd: 7.2-10.0
+Kd: 7.4-6.5
+Montoya y 
+otros, 2006
+Metsulfuron
+30 suelos del sur provincia de Buenos 
+Aires 
+(CO: 0.98-4.85%, pH: 5.8-8.0)
+Kf: 0.16-1.18 Zanini y otros, 2009
+Kf: coeficiente de adsorción de Freundlich
+370
+Francisco Bedmar - Valeria Gianelli
+b) Fotodescomposición
+La luz del sol es la fuerza primaria que puede 
+afectar a los herbicidas que están expuestos 
+en los distintos compartimentos ambientales 
+en los que se depositan (plantas, agua, suelo, 
+etc.). La fotólisis es el proceso por el cual la 
+luz ultravioleta (UV) o luz visible produce la 
+transformación de los compuestos (Wolfe y 
+otros, 1990). La luz solar conjuntamente con 
+diversos reactivos ambientales, puede trans -
+formar químicamente a los herbicidas en sus-
+tancias con diferente actividad y  comenzar 
+su mineralización. La tasa de fotólisis y la for-
+mación de productos varían enormemente de 
+acuerdo al compartimento expuesto a la luz 
+del sol. En algunos sistemas, la fotólisis pue -
+de ser el proceso de degradación primario de 
+un herbicida, pero en otros puede no ser de 
+significancia. El proceso de descomposición 
+por la luz solar, comienza cuando la molé -
+cula herbicida absorbe energía lumínica, lo 
+cual produce la excitación de los electrones, 
+pudiendo resultar en la ruptura o formación 
+de enlaces o uniones químicas. La mayoría 
+de los herbicidas absorben radiación en la 
+región ultravioleta (150 a 4000 nm) (Wolfe y 
+otros, 1990; Anderson, 1996). Sin embargo, 
+la energía solar por debajo de los 295 nm que 
+alcanza la superficie de la tierra se considera 
+despreciable. El proceso de sensibilización 
+puede estar también involucrado, por el cual 
+la energía lumínica es absorbida por una mo-
+lécula intermediaria y transferida a la molé -
+cula herbicida por colisión. Así, la longitud de 
+onda lumínica efectiva podría estar fuera del 
+espectro de absorción del herbicida. Algunos 
+productos de fotodescomposición son simila-
+res a aquellos producidos por medios quími-
+cos o biológicos.
+Los herbicidas que permanecen en la super-
+ficie del suelo pueden degradarse por fotóli-
+sis especialmente si persisten durante largo 
+tiempo sin ocurrencia de lluvias. Sin embar-
+go, esto depende en gran medida de la sus-
+ceptibilidad de la molécula para degradarse 
+mediante este proceso. Por ejemplo, varios 
+herbicidas de las Dinitroanilinas como la Tri-
+fluralina y Dinitramina son susceptibles a fo-
+todescomposición, y por lo tanto deben incor-
+porarse al suelo o formularse con filtros so-
+lares a fin de reducir este proceso, dado que 
+podría reducir la dosis de aplicación en gran 
+medida. Otros factores que condicionan la fo-
+todegradación incluyen  características del 
+suelo, tales como pH, contenido de materia 
+orgánica, de arcilla, humedad. 
+1.3. Procesos de transporte: volatilización, 
+lixiviación y escurrimiento.
+a) Volatilización
+La volatilización es un proceso físico-químico 
+por el cual un herbicida es transferido a la at-
+mósfera en estado gaseoso. Generalmente, 
+la volatilidad es medida a partir de la presión 
+de vapor (usualmente a 25ºC), definida como 
+la cantidad de presión ejercida por una sus-
+tancia a una temperatura determinada. Los 
+herbicidas con presión de vapor mayor a 1.0 
+x 10-3 (tales como los Tiocarbarmatos y Dini -
+troanilinas), poseen mayor potencial  de vola-
+tilización (Tabla 1).
+Asimismo, la presión de vapor puede ser uti -
+lizada para calcular la constante de la ley de 
+Henry (H) la cual describe la tendencia de un 
+plaguicida a volatilizarse y es definida como la 
+concentración de un plaguicida en el aire divi -
+dido por la concentración en agua. El valor se 
+calcula usando la presión de vapor, solubilidad 
+en agua y peso molecular de un plaguicida 
+H = p/c
+donde p = presión de vapor del plaguicida 
+(Pa); c = solubilidad en agua (mol. m
+-3
+)
+Cuando el plaguicida tiene una alta solubili -
+dad en agua en relación a su presión de va -
+por, el plaguicida se disolverá principalmente 
+en agua. Un valor elevado de la constante 
+de Henry, indica que un plaguicida tiene un 
+potencial elevado para volatilizarse desde el 
+suelo húmedo; un valor bajo predice un ma-
+yor potencial de lixiviación del plaguicida.
+La magnitud de las pérdidas por volatilización 
+es afectada por la naturaleza química del pla-
+guicida, formulación, condiciones climáticas, 
+del suelo y método de aplicación. Los pla -
+guicidas con elevada presión de va por, baja 
+371
+Comportamiento de herbiCidas en el suelo
+solubilidad, fotodegradables, y que presentan 
+débil adsorción al suelo, presentan mayores 
+pérdidas por volatilización (Taylor y Spencer, 
+1990). Asimismo, el contenido de materia or -
+gánica, arcilla, textura y humedad del suelo 
+afectan, una vez dentro del mismo, la adsor -
+ción de los plaguicidas y en consecuencia su 
+potencial para volatilizarse hacia la atmósfera 
+(Shaw y Chadwick, 1999).
+b) Transporte de agua y solutos en el suelo
+El movimiento del agua en el suelo es el prin-
+cipal mecanismo para la transferencia de her-
+bicidas hacia las aguas superficiales y subte-
+rráneas (Leeds-Harrison, 1995). En zonas de 
+secano, el agua drena desde la zona radical 
+principalmente debido al exceso de lluvias, 
+que en general ocurre en los meses de invier-
+no, aunque en algunas áreas puede ocurrir 
+durante los meses de verano. El agua es un 
+solvente capaz de llevar cantidades significa-
+tivas de materiales disueltos. En situaciones 
+agrícolas los solutos más importantes son los 
+nutrientes, principalmente compuestos nitro -
+genados, y los plaguicidas, los cuales pue -
+den encontrarse o detectarse en los recursos 
+de agua debido al escurrimiento y/o a la lixi -
+viación tanto desde suelos agrícolas como de 
+los no cultivados. 
+b.1.) Lixiviación
+La lixiviación es un proceso por el cual los 
+herbicidas que se encuentran disueltos o sus-
+pendidos en la solución, atraviesan el perfil 
+del suelo por medio del agua de percolación. 
+Este mecanismo ha sido identificado como el 
+más importante por el cual se produce la con-
+taminación del agua subterránea. Los facto -
+res que parecen tener la mayor influencia so-
+bre la movilidad de los herbicidas en el suelo 
+son las propiedades físicas del suelo, las pro-
+piedades químicas del compuesto, condicio-
+nes climáticas al momento de la aplicación y 
+posteriores, adsorción, formulación y método 
+de aplicación (Gevao y Jones, 2002).   
+El suelo es un material poroso compuesto por 
+partículas sólidas que tienen un tamaño va-
+riable (desde 1 mm hasta mas de 2000 mm) 
+y una variedad de estados de estructuración. 
+La textura y estructura, son importantes para 
+el movimiento del agua y de los herbicidas 
+debido a que determinan la distribución del 
+tamaño de poros en el suelo de la cual de -
+pende la tasa de flujo (Leeds-Harrison, 1995).
+El movimiento de solutos a través de la zona 
+insaturada, también llamada vadosa, es par -
+ticularmente importante en lo referente a la 
+contaminación ambiental y agronómica (Cos-
+ta y otros, 1994). El mecanismo más simple 
+de movimiento de solutos en el suelo es el 
+transporte convectivo (convección) con el flu-
+jo del agua (Costa, 1995), razón por la cual es 
+importante conocer cómo se mueve el agua a 
+través del suelo. Además de convección con 
+el agua, el transporte de solutos está sujeto a 
+difusión y dispersión originadas por los gra -
+dientes de concentración a través del perfil del 
+suelo. El transporte por difusión posee poca 
+importancia para la contaminación de aguas 
+porque involucra desplazamientos muy cor-
+tos. La intensidad del transporte por difusión 
+depende básicamente de la humedad del sue-
+lo, la que influye tanto sobre la adsorción del 
+herbicida como sobre la porción del volumen 
+de poros que se encuentra lleno de aire y su 
+influencia sobre la relación entre difusión ga-
+seosa y difusión líquida. Por tal motivo, no se-
+ría esperable que los herbicidas que poseen 
+baja solubilidad en agua  y elevada adsorción 
+(Tabla 1), lixivien significativamente en el per-
+fil de suelo. Por el contrario, existen casos 
+como el de los herbicidas Paraquat, Diquat y 
+Glifosato que si bien poseen elevada solubi-
+lidad, son fuertemente retenidos en el suelo. 
+Sin embargo, se ha detectado la presencia de 
+Glifosato en el agua subterránea, indicando 
+que las características de adsorción por si 
+solas no son un indicador confiable, sino que 
+el transporte depende de una compleja trama 
+de factores (Candela, 2003). En este caso, 
+más importante es el transporte convectivo, 
+el cual permite que el herbicida alcance ma-
+yores distancias desde su lugar de entrada al 
+suelo. Además, la presencia de macroporos 
+constituye una vía de rápido transporte para el 
+agua y los solutos si bien su aporte no es muy 
+significativo. Asimismo, varias moléculas que 
+poseen elevado grado de adsorción (Tabla 1) 
+pueden combinarse con los coloides de arci -
+lla y materia orgánica, los cuales actúan como 
+372
+Francisco Bedmar - Valeria Gianelli
+vectores para el transporte de los plaguicidas 
+en el perfil de suelo, denominado transporte 
+asistido por coloides (Gevao y Jones, 2002).       
+Dado que los herbicidas, como el resto de los 
+plaguicidas, son compuestos no conservativos, 
+se desplazan con un cierto retardo respecto de 
+la velocidad a la que se mueve el agua. El re-
+tardo en el transporte de estos compuestos se 
+puede estimar según la ecuación: Rt = 1+[ Kd 
+(1-p) d / q ]
+Donde Rt es la velocidad real del flujo de agua 
+dividido por la velocidad de transporte de las 
+especies adsorbidas, d y p son la densidad y 
+la porosidad del suelo, respectivamente, q el 
+contenido de humedad del suelo y Kd el coefi-
+ciente de reparto.
+Teniendo en cuenta los integrantes de esta 
+ecuación, puede deducirse que los factores 
+que afectan al movimiento de los herbicidas 
+son el contenido de arcilla, materia orgánica, 
+textura, estructura, porosidad, grado de hume-
+dad, así como la temperatura y pH.
+b.2.) Escurrimiento
+El escurrimiento puede definirse como el agua 
+y cualquier materia disuelta o suspendida en 
+ella, que abandona un terreno, lote, superficie 
+o cuenca junto con el drenaje superficial (Leo-
+nard, 1990). Específicamente, el escurrimiento 
+de herbicidas incluye las moléculas disueltas, 
+suspendidas y adsorbidas al sedimento que 
+son transportados por el agua desde una su -
+perficie tratada. Mediante este mecanismo, los 
+productos químicos aplicados en áreas agríco-
+las o no agrícolas abandonan las superficies 
+tratadas y pueden entrar en las aguas super -
+ficiales, lo cual genera por un lado pérdida de 
+la dosis inicialmente aplicada y por otro, con -
+taminación. 
+Las cantidades perdidas por escurrimiento 
+son muy variables y dependen de factores cli -
+máticos, edáficos, del herbicida y de manejo. 
+Las pérdidas anuales por escurrimiento cal -
+culadas para un grupo  de diversos plaguici -
+das aplicados al suelo, han sido estimadas en 
+un 2% promedio de las aplicaciones iniciales, 
+con pérdidas ocasionales de 5% cuando el 
+escurrimiento ocurre al poco tiempo después 
+de la aplicación. La mayoría de estos valores 
+proviene de experimentos con simuladores 
+de lluvia, especulándose que bajo condicio-
+nes naturales de lluvia, las pérdidas podrían 
+ser menores. Para herbicidas incorporados al 
+suelo y aplicados al follaje, las pérdidas por es-
+currimiento son comúnmente menores al 1% y 
+frecuentemente cercanas a 0.1% o menos. Las 
+concentraciones que alcanzan los cuerpos de 
+agua suelen ser bajas debido a que durante el 
+transporte pueden producirse procesos de de-
+gradación, dilución, sedimentación y retención 
+en la vegetación.
+A modo de síntesis, en la Tabla 3 se presenta 
+un resumen de los procesos a los que se ven 
+sometidos en el suelo las principales familias 
+de herbicidas utilizadas actualmente.
+2. Persistencia o residualidad de herbici -
+das en el suelo
+El período durante el cual un herbicida per -
+manece intacto y biológicamente activo se 
+denomina persistencia o residualidad. La per -
+sistencia es de gran importancia puesto que 
+junto con la movilidad determina en gran parte 
+el comportamiento ambiental de una sustancia 
+(Barriuso, 2000). 
+Al hablar de persistencia, debemos establecer 
+algunos conceptos para facilitar la compren -
+sión de esta problemática. En primer lugar, se 
+debe diferenciar la persistencia química de la 
+biopersistencia, que aquí llamaremos residua-
+lidad o carryover. La persistencia química in-
+dica el período de tiempo durante el cual un 
+herbicida puede detectarse mediante determi -
+nadas metodologías químicas (principalmente 
+cromatografía), mientras que la residualidad 
+comprende el período de tiempo durante el 
+que las plantas u otros organismos detectan 
+el plaguicida produciéndose cambios aprecia -
+bles en su crecimiento, desarrollo o metabo -
+lismo. La residualidad es por lo tanto un valor 
+variable según el organismo o especie que se 
+tenga en cuenta, lo cual es producto de la dis-
+tinta selectividad que posee cada especie res-
+pecto de un herbicida determinado.    
+373
+Comportamiento de herbiCidas en el suelo
+Tabla 3. Comportamiento ambiental de algunos de los herbicidas más utilizados.
+Familia química Procesos de Retención Procesos de Degradación Procesos de transporte
+Biodegradación Abiótica Lixiviación Volatilización Escurrimiento superficial
+Imidazolinonas
+Débil adsorción 
+a las partículas 
+del suelo
+Degradación 
+aeróbica
+Fotolisis en soluciones 
+acuosas, limitada en la 
+superficie del suelo.
+Estable a  hidrólisis
+Alto riesgo (ele-
+vada solubilidad, 
+baja capacidad 
+de adsorción y 
+alta capacidad de 
+desorción)
+Insignificante
+Alto 
+(elevada movilidad, 
+detección en agua 
+superficial)
+Ácidos  Piridin 
+carboxílicos Débil adsorción
+Degradación 
+principalmente 
+aeróbica
+Fotodegradación significante 
+solo en la superficie del suelo
+Resistente a hidrólisis y otros 
+mecanismos químicos
+Alto (elevada 
+movilidad) Despreciable Alto riesgo (elevada solubilidad)
+Sulfonamidas Débil adsorción Degradación aeróbica Posible fotodegradación en la superficie del suelo Bajo a moderado potencial No volátil Bajo a moderado potencial
+Triazolinonas Débil adsorción Estable
+Fotolisis en soluciones 
+acuosas, estable en el 
+suelo
+ No susceptible a  hidrólisis
+Alto potencial 
+(Muy móvil) Baja Alto potencial
+Dinitroanilinas Fuerte adsorción al suelo Degradación aeróbica y anaeróbica Fotólisis en superficie del suelo Estable a hidrólisis Bajo potencial (baja solubilidad y elevada adsorción) Significante si permanece en la superficie del suelo Bajo potencial (baja solubilidad)
+Bipiridilos Fuerte adsorción a las arcillas Limitada Baja capacidad de fotodegradación e hidrólisis Bajo potencial (baja movilidad) No volátil Posible transporte  con sedimentos
+Otros 
+(Flurocloridona)
+Moderada 
+adsorción
+Degradación 
+aeróbica
+Estable a hidrólisis y 
+fotólisis
+Bajo potencial 
+(baja movilidad) No volátil Bajo potencial
+374
+Francisco Bedmar - Valeria Gianelli
+Triazinas Moderada adsorción Degradación aeróbica
+Degradación por hidrólisis 
+química Probabilidad de 
+fotodescomposición por 
+exposición prolongada a luz 
+solar luego de la aplicación 
+Alto potencial 
+(moderada a alta 
+movilidad)
+Sujeta a 
+volatilización si 
+son expuestos 
+prolongadamente 
+a luz solar y alta 
+temperatura
+Moderado potencial 
+(moderada 
+solubilidad)
+Triazinonas Debil adsorción Degradación aeróbica Fotodescomposición insignificante Alto potencial (alta movilidad) No volatil Moderado potencial
+Uracilos Debil adsorción
+Degradación 
+aeróbica y 
+anaeróbica
+Fotodescomposición 
+insignificante
+Estable a hidrólisis
+Elevado potencial 
+(alta movilidad) No volátil Moderado potencial
+Fenilureas Moderada adsorción Degradación aeróbica y anaeróbica Estable a hidrólisis y fotolisis Elevado potencial (alta movilidad) No volátil Elevado potencial 
+Sulfonilureas Débil adsorción Degradación aeróbica Estable a fotólisis Elevado potencial (alta movilidad) No volátil Elevado potencial 
+Acetamidas Moderada adsorción Degradación aeróbica y anaeróbica Fotodegradación importante en superficie del suelo Elevado potencial (alta movilidad) No volátil Elevado potencial
+Glicinas Elevada adsorción Degradación aeróbica y anaeróbica Estable a degradación química y fotodescomposición Bajo potencial No volátil Bajo potencial, excepto adsorbido a partículas coloidales
+Ácidos 
+Benzoicos Débil adsorción
+Degradación 
+aeróbica y 
+anaeróbica
+Estable a hidrólisis y 
+fotodegradación Alto potencial No volátil Moderado potencial
+Clorofenóxidos Débil adsorción
+Degradación 
+aeróbica y 
+anaeróbica
+Fotodegradación 
+insignificante, solo en 
+superficie del suelo. 
+Alto potencial No volátil Moderado potencial
+375
+Comportamiento de herbiCidas en el suelo
+2.1. Persistencia química
+La persistencia química de un herbicida se ex-
+presa a través de la vida media, la cual repre -
+senta el tiempo requerido para que el 50% del 
+herbicida original aplicado se descomponga 
+en otros productos (Comfort y otros, 1994). La 
+vida media se mide usualmente en laboratorio 
+bajo condiciones uniformes, debido a que a 
+campo, la temperatura del suelo, el contenido 
+de humedad, el contenido de materia orgánica 
+y el pH entre otros, cambian constantemente, 
+lo cual influye en gran medida en la tasa de 
+degradación. Por lo tanto, los valores de vida 
+media, así como los de la mayoría de los ín -
+dices de comportamiento ambiental, deberían 
+considerarse como orientativos (Tabla 1). En 
+la Tabla 4, se presentan para algunos herbici -
+das, los valores de vida media obtenidos con 
+suelos superficiales de Argentina.  
+La persistencia química a campo, se conoce 
+como disipación debido a que además de la 
+degradación química o biológica, están invo-
+lucrados otros procesos que pueden reducir 
+la cantidad original aplicada. Tales procesos 
+incluyen la lixiviación, el escurrimiento super-
+ficial, la volatilización, la fotodescomposición, 
+la adsorción por el suelo y la absorción por 
+las plantas, entre otros. 
+La persistencia, para la mayoría de los herbi -
+cidas, está principalmente determinada por la 
+degradación de origen biológico e íntimamen-
+te relacionada con la tasa o cinética de de -
+gradación. La tasa de degradación varía con 
+la estructura molecular de cada plaguicida, y 
+también está influenciada por factores tales 
+como: la concentración del plaguicida, tempe-
+ratura, contenido de agua del suelo, pH, nivel 
+de oxígeno del suelo, uso anterior del plagui -
+cida, fertilidad del suelo y poblaciones micro -
+bianas (Comfort y otros, 1994, Hiltbold, 1974; 
+Pons y Barriuso, 1998). En general puede 
+establecerse que los factores más importan-
+tes que controlan la degradación y por tanto 
+la persistencia, varían drásticamente con la 
+profundidad del perfil de suelo (Figura 3). Los 
+horizontes más profundos poseen menor ca -
+pacidad de degradación de los plaguicidas 
+y por lo tanto la persistencia de los mismos 
+suele incrementarse en gran medida con la 
+profundidad (Barriuso, 2000). Tal situación fue 
+determinada con suelos del sur-sudeste de la 
+provincia de Buenos Aires para los herbicidas 
+Acetoclor, Atrazina y S-Metolacloro (Bedmar, 
+2009) y de Córdoba para Atrazina (Hang y 
+Nasseta, 2003; Hang y otros, 2005).
+Los suelos poseen la capacidad de inactivar 
+contaminantes a través de los procesos de 
+adsorción y degradación. Esta capacidad es 
+limitada dependiendo de las propiedades físi-
+cas y químicas del perfil y de las condiciones 
+imperantes (Hang, 2002). En la Tabla 5, se 
+presentan los factores del suelo y climáticos 
+que incrementan la persistencia química de 
+algunos herbicidas.
+2.2. Residualidad o “carryover”
+Los herbicidas se aplican para controlar ma -
+lezas en cultivos o barbechos, siendo desea-
+ble que desarrollen su acción durante los pe-
+ríodos requeridos, no debiendo persistir en el 
+suelo de manera que afecten el crecimiento 
+de cultivos subsecuentes. Cualquier factor 
+que afecte la desaparición o descomposición 
+de un herbicida afecta su residualidad. Varios 
+factores inciden en la longitud del tiempo que 
+persisten los herbicidas en el suelo. La ma -
+yoría de los factores pertenecen a tres cate -
+gorías que interactúan fuertemente entre sí: 
+factores del suelo, condiciones climáticas y 
+propiedades del herbicida (Figura 5). 
+2.3. Factores que afectan la persistencia y 
+residualidad de los herbicidas
+2.3.1. Factores del suelo
+Los factores del suelo que afectan la residua-
+lidad de los herbicidas incluyen tres catego -
+rías: físicos, químicos y microbianos. Entre los 
+factores físicos se destaca la composición del 
+suelo, la cual está determinada por las can -
+tidades relativas de arena, limo y arcilla (tex -
+tura del suelo), así como por el contenido de 
+materia orgánica del suelo. La composición 
+del suelo afecta la actividad herbicida y la per-
+376
+Francisco Bedmar - Valeria Gianelli
+sistencia a través de la adsorción, lixiviación 
+y volatilización. Generalmente los suelos con 
+mayor contenido de arcilla y/o materia orgáni -
+ca poseen mayor potencial para retener a los 
+herbicidas, por lo cual una menor cantidad de 
+herbicida estará disponible en la solución del 
+suelo para ser absorbida por las plantas. En 
+general, los suelos con textura fina a media 
+con un contenido de materia orgánica de 3 % 
+o mayor, poseen el mayor potencial para re -
+tener herbicidas, mientras que los suelos con 
+textura gruesa a media y con un contenido de 
+materia orgánica menor de 3 %, poseen me-
+nor capacidad para retener herbicidas y por lo 
+tanto mayor es la probabilidad de que se pro-
+duzcan problemas de residualidad. De todas 
+maneras, debe tenerse en cuenta que cuando 
+las condiciones son predisponentes, los pro -
+blemas de residualidad pueden manifestarse 
+en cualquier tipo de suelo. 
+Las propiedades químicas del suelo incluyen 
+principalmente el pH, aunque en la literatura 
+también se menciona la capacidad de inter -
+cambio catiónico (CIC) y el contenido de nu -
+trientes (Anderson, 1996; Barriuso, 2000). El 
+pH del suelo puede influir en la persistencia 
+de algunos herbicidas, especialmente en las 
+Triazinas y Sulfonilureas. La degradación quí-
+mica y microbiana de los herbicidas es por lo 
+general más lenta a pH del suelo elevados. En 
+particular, la tasa de degradación química de 
+las Triazinas y Sulfonilureas disminuye cuando 
+el pH aumenta, especialmente por encima de 
+6.0-7.0. Asimismo, en suelos con pH elevados, 
+menores concentraciones de estos herbicidas 
+se ligan o adsorben  a las partículas del suelo, 
+estando por lo tanto más disponibles para la 
+absorción de las plantas. Entonces, en suelos 
+con pH elevado, las Triazinas y Sulfonilureas 
+persisten más tiempo y están más disponibles 
+para las plantas. Un pH bajo puede afectar 
+también la persistencia de las Triazinas y Sul -
+fonilureas. En tal sentido, niveles de pH infe -
+riores a 6.0 permiten una más rápida disi pa-
+Tabla 4. Persistencia química en laboratorio de algunos herbicidas en suelos superficiales de Argentina.
+Herbicidas Suelo Vida media (días) Autor
+S-Metolacloro General Alvarado (CO: 4.4%, pH: 5.8)
+Tres Arroyos (CO: 2.0%, pH: 5.5)
+82
+83
+Bedmar y otros, 
+2009
+Atrazina General Alvarado (CO: 4.4%, pH: 5.8)
+Tres Arroyos (CO: 2.0%, pH: 5.5)
+13
+14
+Acetoclor General Alvarado (CO: 4.4%, pH: 5.8)
+Tres Arroyos (CO: 2.0%, pH: 5.5)
+15 
+24
+Imazapir
+Tandil (CO: 3.4%, pH:5.4) 75
+Gianelli y otros, 2011Anguil (CO: 1.4%, pH:6.3) 73
+Cerro Azul (CO: 2.4%, pH:4.9) 146
+Atrazina 
+Balcarce, (CO: 3.3%, pH: 6.9).
+San Cayetano (CO: 2.2%, pH 7.3).
+Gonzalez Chaves (CO: 3.0%, pH 6.1)
+44
+47
+43
+Delmonte y otros, 
+1997
+Atrazina
+Córdoba (CO: 2.1%, pH: 6.6)
+Córdoba (CO: 2.2%, pH: 5.8)
+9-15
+16-19 Hang y otros, 2007
+Atrazina
+Córdoba (CO: 2.1%, pH: 6.0)
+Córdoba (CO: 1.6%, pH: 6.2)
+12
+21
+Hang y Nasseta, 
+2003
+377
+Comportamiento de herbiCidas en el suelo
+Tabla 5. Factores del suelo y climáticos que incrementan la persistencia de algunas familias químicas de herbicidas.
+Familia química
+Principal 
+vía de 
+degradación
+Factores climáticos Factores del suelo
+Dinitroanilinas Microbiana Bajas precipitaciones y temperatura Bajo pH Baja humedad
+Imidazolinonas Microbiana Bajas precipitaciones y temperatura
+pH <6
+Elevado contenido de arcilla y 
+materia orgánica
+Ácidos  Piridin 
+carboxílicos Microbiana Bajas precipitaciones y temperatura Incremento en el contenido de carbono orgánico
+Sulfonamidas Microbiana Bajas precipitaciones
+Elevados valores de pH,
+Baja humedad
+Baja CIC
+Bipiridilos Microbiana Alto contenido de arcilla
+Triazolinonas Microbiana Bajas precipitaciones y temperatura
+pH >7
+Bajo contenido de materia 
+orgánica
+Otros 
+(Flurocloridona) Microbiana Bajo pH
+Triazinas
+Hidrolisis 
+química, 
+seguida por 
+degradación 
+microbiana
+Bajas precipitaciones y 
+temperatura
+pH neutro (hidrólisis lenta)
+elevados contenido de materia 
+orgánica y de arcilla
+Triazinonas Microbiana Bajas precipitaciones y temperatura Elevado contenido de materia orgánica Bajo pH
+Uracilos Microbiana Baja temperatura y humedad
+Elevado contenido de materia 
+orgánica
+Bajo pH
+Fenilureas Microbiana Baja temperatura y humedad
+Elevado contenido de materia 
+orgánica
+Sulfonilureas
+Hidrólisis 
+química y 
+Microbiana
+Baja temperatura y humedad pH >7(Mayor solubilidad en suelos alcalinos)
+Acetamidas Microbiana Baja temperatura y humedad Alto contenido de materia orgánica y arcilla
+Glicinas Microbiana Baja temperatura y humedad Alto contenido de materia orgánica
+Acidos benzoicos Microbiana Baja temperatura y humedad Alto contenido de materia orgánica
+Clorofenóxidos Microbiana Baja temperatura y humedad Alto contenido de materia orgánica
+378
+Francisco Bedmar - Valeria Gianelli
+Figura 5. Factores que inciden sobre la residualidad de los herbicidas en el suelo. 
+16 
+ 
+  
+arcilla 
+Glicinas Microbiana Baja temperatura y humedad Alto contenido de materia orgánica 
+Acidos 
+benzoico 
+Microbiana Baja temperatura y humedad Alto contenido de materia orgánica 
+Clorofenóxidos Microbiana Baja temperatura y humedad Alto contenido de materia orgánica 
+ 
+2.2. Residualidad o “carryover” 
+ 
+Los herbicidas se aplican para controlar malezas en cultivos o barbechos, 
+siendo deseable que desarrollen su acción  durante los períodos requeridos, no 
+debiendo persistir en el suel o de manera que afecten el cr ecimiento de cultivos 
+subsecuentes. Cualquier factor que afecte la desaparición o descomposición de un 
+herbicida afecta su residualidad. Varios factores inciden en la  longitud del tiempo 
+que persisten los herbicidas en el suelo. La mayoría de los factores pertenecen a 
+tres categorías que intera ctúan fuertemente entre sí: factores del suelo , 
+condiciones climáticas y propiedades del herbicida (Figura 5).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 5. Factores que inciden sobre la residualidad de los herbicidas en el suelo.  
+ 
+2.3. Factores que afectan la persistencia y residualidad de los herbicidas 
+ 
+2.3.1. Factores del suelo 
+ 
+Los factores del suelo que afectan la residualidad de los herbicidas incluyen 
+tres categorías: físicos, químicos y microbianos. Entre los factores físicos se destaca 
+la composición del suelo, la cual está  determinada por las cantidades relativas de 
+arena, limo y arcilla (textu ra del suelo), así como por el contenido de materia 
+PERSISTENCIA PERSISTENCIA óó
+RESIDUALIDADRESIDUALIDAD
+PROPIEDADES DEL 
+HERBICIDA
+CARACTERÍSTICAS 
+DE LOS SUELOS
+CONDICIONES 
+AMBIENTALES
+presión de vapor
+solubilidad
+ionizabilidad
+grado de retención
+temperatura humedad textura pH
+microorganismos
+estructura porosidad MO
+PLANT
+AS
+Dosis
+manejo
+ción de estos herbicidas. En suelos ácidos, 
+los herbicidas como Atrazina se combinan 
+con las partículas del suelo, volviéndose no 
+disponibles para el control de malezas, pero 
+a la vez son degradados químicamente más 
+rápidamente. Por el contrario, un pH del suelo 
+bajo incrementa la persistencia de Imidazoli-
+nonas como Imazaquin e Imazetapir. Cuan-
+do el pH cae por debajo de 6.0, Imazaquin 
+e Imazetapir se adsorben fuertemente a las 
+partículas del suelo. La adsorción de estos 
+herbicidas  reduce su disponibilidad para los 
+microorganismos del suelo que representan 
+su mecanismo primario de degradación. 
+Los aspectos microbianos del ambiente edá -
+fico influyen sobre el tipo y abundancia de los 
+microorganismos presentes. Los procesos de 
+degradación realizados por los microorganis-
+mos son posiblemente los más importantes 
+para descomponer los herbicidas. Los tipos 
+de microorganismos (hongos, bacterias, ac -
+tinomicetes, etc.) y su número relativo, deter-
+minan cuán rápidamente ocurre la descom -
+posición. Los microorganismos requieren 
+ciertas condiciones ambientales para alcan -
+zar un óptimo crecimiento y utilización de los 
+plaguicidas. Entre los factores que afectan la 
+actividad microbiana se cuentan la humedad, 
+temperatura, pH, oxígeno y suministro de nu-
+trientes. Usualmente un suelo cálido, bien ai-
+reado, fértil con un pH neutro es el más favo-
+rable para el crecimiento microbiano y por lo 
+tanto para la degradación del herbicida (Ski -
+pper y otros, 1996). 
+2.3.2. Factores climáticos
+Las variables climáticas involucradas en la 
+degradación de los herbicidas son la hume -
+dad, la temperatura y la luz solar. La degra -
+dación por lo general se incrementa cuando 
+aumentan la temperatura y humedad, debido 
+a que tanto las tasas de degradación química 
+como microbiana se incrementan con mayo -
+res niveles de temperatura y humedad. Con -
+diciones frías y secas disminuyen o retardan 
+la degradación de los herbicidas. Los proble-
+mas de residualidad son siempre mayores los 
+años siguientes a sequías. Sin embargo, si 
+las condiciones del invierno y primavera son 
+húmedas y moderadas luego de un verano 
+seco, disminuye la probabilidad de residuali -
+dad de un herbicida. 
+La luz solar algunas veces es un factor de 
+cierta importancia en la degradación del her-
+bicida. La fotodescomposición o degradación 
+catalizada por la luz solar (fotólisis) ha sido 
+reportada para varios herbicidas que se en-
+cuentran principalmente en solución líquida 
+379
+Comportamiento de herbiCidas en el suelo
+(agua por ejemplo) o sobre la superficie de 
+las hojas. Sin embargo, para la mayoría de 
+los herbicidas más persistentes en el suelo, 
+una vez que toman contacto con el mismo, 
+las pérdidas debidas a fotólisis son peque-
+ñas. La familia de las Dinitroanilinas (Triflu-
+ralina, Pendimetalín, Dinitramina) constituye 
+una excepción, ya que pueden perderse si 
+quedan sobre la superficie del suelo sin ser 
+incorporados al mismo mecánicamente o por 
+la lluvia dentro de un período de tiempo varia-
+ble según el herbicida, siendo la fotodescom-
+posición más rápida en días muy soleados. 
+La sensibilidad a la luz solar, así como las 
+pérdidas a través de volatilización son las ra-
+zones primarias para incorporar las Dinitroa -
+nilinas al momento de la aplicación.   
+2.3.3. Propiedades del herbicida
+Los herbicidas difieren en su potencial para 
+persistir en el suelo. Algunos ejemplos de fa-
+milias de herbicidas que presentan miembros 
+persistentes incluyen las Triazinas, Triazino -
+nas, Uracilos, Dinitroanilinas, Sulfonilureas, 
+Imidazolinonas, Hormonales Acetamidas, 
+Sulfonamidas, Triazolinonas y otros (Tabla 6).
+Las principales propiedades del herbicida que 
+influyen sobre su persistencia son la solubili-
+dad en agua, la adsorción al suelo, la presión 
+de vapor y la susceptibilidad de la molécula a 
+la alteración o degradación química o micro-
+biana. La solubilidad en agua de un herbicida 
+(Tabla 1) indica su potencialidad para lixiviar. 
+La lixiviación es uno de los mecanismos que 
+interviene en la disipación de los herbicidas 
+y puede ocurrir cuando un herbicida está 
+disuelto en agua y se mueve hacia abajo a 
+través del perfil de suelo. Los herbicidas que 
+poseen alto potencial de lixiviación podrían 
+ser trasladados fuera de la zona de acción 
+y alcanzar la zona radical y posteriormente 
+el agua subterránea. La lixiviación no sólo es 
+determinada por la solubilidad del herbicida 
+sino que también intervienen otros factores 
+como la adsorción al suelo, propiedades físi -
+cas del suelo, frecuencia e intensidad de las 
+lluvias, concentración del herbicida y momen-
+to de aplicación del herbicida. En general, los 
+herbicidas que son menos solubles en agua 
+y  son fuertemente atraídos por las partículas 
+del suelo poseen menor probabilidad de lixi -
+viar, especialmente en años secos. 
+La presión de vapor de un herbicida (Tabla 1) 
+determina su volatilidad. La volatilización es 
+el proceso por el cual un herbicida cambia su 
+estado de líquido o sólido a gaseoso. Los her-
+bicidas que tienen elevada presión de vapor 
+generalmente disipan más rápidamente que 
+los herbicidas con menor presión de vapor. 
+La volatilización se incrementa con el aumen-
+to de la temperatura y humedad. La mayoría 
+de los herbicidas son relativamente no voláti-
+les bajo condiciones normales a campo. Los 
+herbicidas más volátiles, por lo general deben 
+ser incorporados al suelo para impedir pérdi-
+das en forma de gas. Ejemplos de herbicidas 
+volátiles pueden encontrarse en el grupo de 
+los Tiocarbamatos  (EPTC y Butilato), o Dini -
+troanilinas (Trifluralina, Dinitramina). 
+La estructura química del herbicida determi-
+nará como se degradará en el suelo. Algunos 
+herbicidas son rápidamente descompuestos 
+por los microorganismos si se encuentran en 
+el suelo las especies y cantidades adecuadas, 
+y si las condiciones ambientales son favora -
+bles para su crecimiento. La estructura quími-
+ca de 2,4-D por ejemplo, permite una rápida 
+descomposición microbiana hacia metabolitos 
+inactivos, mientras que la de Atrazina es más 
+difícil de atacar por los microorganismos y por 
+lo tanto su degradación es más lenta.   
+Varios herbicidas son degradados a través de 
+reacciones químicas. La descomposición quí-
+mica, y por lo tanto su tasa,  depende no sólo 
+de la estructura del herbicida, sino también 
+de los factores edáficos y climáticos. La de-
+gradación química de un herbicida involucra 
+reacciones tales como hidrólisis, reducción 
+y oxidación. En tal caso se cuentan varios 
+miembros de la familia de las Sulfonilureas, 
+que son degradados tanto por hidrólisis quí-
+mica como por distintos procesos microbia -
+nos. Debe recordarse que tanto para las Sul-
+fonilureas como para las Triazinas, la tasa de 
+hidrólisis química depende del pH del suelo. 
+Varias familias de herbicidas son degradadas 
+tanto por reacciones químicas como micro-
+bianas, mientras que otros son primariamen-
+te degradados por microorganismos. A modo 
+380
+Francisco Bedmar - Valeria Gianelli
+Tabla 6. Familias de herbicidas que presentan miembros potencialmente persistentes.
+Familia química Herbicidas
+Triazinas atrazina; simazina
+Triazinonas metribuzin
+Uracilos bromacil; terbacil
+Dinitroanilinas dinitramina; pendimetalin; trifluralina
+Sulfonilureas
+clorimuron; metsulfuron; nicosulfuron; primisulfuron; 
+prosulfuron;  
+triasulfuron
+Imidazolinonas imazamox; imazapir; imazaquin; imazetapir; imazapic
+Ácidos piridin-carboxilicos clopiralid; picloram; triclopir
+Clorofenóxidos 2,4-D
+Acidos benzoicos dicamba
+Acetamidas
+metolacloro
+s-metolacloro
+acetoclor
+alaclor
+Sulfonamidas flumetsulam diclosulam
+Triazolinonas sulfentrazone
+Otros flurocloridona; diflufenican
+de resumen, en la Tabla 7 se presentan cuá -
+les son las condiciones más relevantes que 
+incrementan la residualidad de algunas de las 
+familias de herbicidas más residuales.  
+2.3.4. Resultados de experimentos regiona-
+les de residualidad (carryover) en Argentina 
+Los períodos de residualidad varían en fun -
+ción del herbicida, los suelos, las condiciones 
+climáticas post-aplicación y la sensibilidad de 
+la especie considerada. Por tal motivo, los va-
+lores determinados pueden variar sustancial -
+mente entre regiones, años y cultivos, por lo 
+que es de fundamental importancia generar 
+información local. 
+En la Tabla 8 se presenta información genera-
+da para suelos de las provincias de La Pampa 
+y Buenos Aires, con herbicidas de los grupos 
+de las Imidazolinonas, Sulfonilureas, Triazi -
+nas, Triazinonas, Hormonales y otros. De los 
+resultados obtenidos puede concluirse que: 
+a) el girasol es una especie muy sensible a 
+herbicidas de las Sulfonilureas; b) el trigo y 
+la cebada presentan sensibilidad a los resi -
+duos de Imazapir, dependiendo los períodos 
+encontrados de las precipitaciones post-apli -
+cación; c) los períodos de residualidad fueron 
+dependientes de la dosis aplicada en gran 
+parte de los casos; d) las Sulfonilureas e Imi -
+dazolinonas fueron los grupos que presenta-
+ron los mayores periodos de residualidad.
+Tabla VII. Condiciones del suelo y climáticas, en orden de importancia, que incrementan la residualidad de algunas familias 
+de herbicidas.
+Importancia Sulfonilureas Imidazolinonas Triazinas Dinitroanilinas
+Muy alta pH alto baja lluvia baja lluvia/ temperatura baja lluvia/ temperatura
+Importante baja arcilla/ materia orgánica baja arcilla/materia orgánica baja arcilla/materia orgánica baja arcilla/materia orgánica
+De cierta 
+importancia baja lluvia pH bajo pH alto bajo o alto pH
+381
+Comportamiento de herbiCidas en el suelo
+Tabla 7. Residualidad (carryover) de herbicidas persistentes en diferentes cultivos y suelos de Argentina.
+Herbicidas y dosis 
+(i.a ha-1) Suelo Autor Especies indicadoras Fitotoxicidad y/o período de residualidad 1
+Atrazina (1, 2, 4 kg)
+Balcarce, (Franco, MO: 
+5.7%, pH: 6.1)
+A. Gonzáles Chaves  
+(Franco arcilloso, MO: 
+5.2%,  pH: 6.9) 
+San Cayetano (Franco 
+arcilloso, MO: 3.8%, pH: 
+7.3)
+Delmonte y otros 
+(1997) Avena
+100, 143, y 221 DDA para A. G. 
+Chaves, Balcarce y San Cayetano 
+respectivamente, a la dosis recomendada  
+(2 kg).
+Atrazina (1, 2, 4, kg)
+Metribuzin (0.24, 0.48, 0.96  kg)
+Simazina (1.25, 2.5, 5  kg)
+Balcarce, (Franco arcilloso, 
+MO: 5.5%, pH: 5.8).
+San Cayetano (Franco 
+arcilloso, MO: 2.9%, pH 
+6.7)
+Fuscaldo y otros 
+(1999) Avena
+Atrazina: 78 y 130; Metribuzin: 63 y 77; 
+Simazina: 81 y 156 DDA para Balcarce y 
+San Cayetano respectivamente. 
+Imazapir (80 g)
+Anguil (La Pampa)
+(Franco-arenoso, MO: 
+2.6% pH: 6.0)
+Porfiri y otros 
+(2008)
+Trigo, cebada, avena, 
+centeno, girasol, 
+sorgo, maíz, soja, 
+festuca, alfalfa, 
+cebadilla
+Sin restricciones. Leve reducción del 
+crecimiento en trigo, avena, cebada, 
+centeno y alfalfa en los meses de julio y 
+agosto y del peso seco en sorgo en los 
+meses de abril y mayo.
+Imazapir (80, 160 g) Anguil (La Pampa) (Franco, MO: 3.3%; pH 5.6) Montoya y otros (2010) Trigo, avena, sorgo, girasol, maíz Trigo: 253 DDA. Sin diferencias entre dosis.
+Imazapir (80, 160 g)
+Balcarce (Bs. As)
+(Franco arcilloso MO: 
+4.7%, arcilla 29.6%, pH: 
+5.7)
+Gianelli y otros 
+(2011)
+Trigo, colza, girasol y 
+maíz no tolerantes
+Trigo: 5 y 9 meses (500 a 730 mm de 
+lluvias). Colza: 5 a 7 meses (500 a 
+635 mm).Girasol y maíz no CL: sin 
+restricciones.
+382
+Francisco Bedmar - Valeria Gianelli
+Imazapic+Imazapir
+(60+20 , 120+40 g) 
+Imazetapir+Imazapir
+(60+20, 20+40 g)
+Balcarce (Bs. As)
+(Franco-Franco arcillo 
+arenoso, , MO: 5.4-5.9, 
+arcilla: 27.1-24.7, pH 5.9-
+5.5)
+Bedmar y otros 
+(2012)
+Trigo pan, fideo, 
+cebada, avena, 
+colza, raigras anual 
+y perenne, cebadilla 
+criolla, pasto ovillo, 
+lotus, alfalfa, alpiste, 
+cebadilla criolla 
+perenne
+Mayor fitotoxicidad a los 216 DDA  con 
+Imazapic+Imazapir 120+40  g en trigo 
+fideo raigrás anual y perenne.
+Lotus, Pasto Ovillo, Avena y Alfalfa no 
+resultaron afectados.
+Imazapir (80, 160 g)
+Imazapic+Imazapir 
+(80, 160 g).
+Imazamox (80 g)
+Barrow (Tres Arroyos)
+(MO: 3.5%, pH: 6.3) Istilart (2002)
+Avena, cebada 
+cervecera, trigo pan, 
+trigo CL, candeal
+Ocurrencia de 300 mm de 
+precipitaciones para la siembra de 
+avena, trigo pan, trigo candeal y cebada 
+cervecera. 
+Imazamox (50, 100 g)
+Balcarce (Bs. As)
+(Franco arcilloso MO: 
+4.7%, arcilla: 29.6%, pH: 
+5.7)
+Cassino (2006) Trigo, colza, girasol y maíz no tolerantes
+Colza: 104-168 DDA para la dosis 
+normal y doble, (400 ó 550 mm)
+Maíz, girasol y trigo, sin efectos 
+importantes.
+Imazapir (80, 160 g)
+Balcarce (Bs As)
+(Franco, MO: 5.6%, pH: 
+5.6, arcilla: 23.6%)
+Duffard, (2007) Trigo, avena, cebada, colza, alpiste Alpiste: 147-313 DDA. Trigo: 147-280 DDA. Cebada, avena y colza: 147 DDA.
+Metsulfuron  (6 g)
+Iodosulfuron  (50, 100 g)
+Diflufenican  (125 g)
+Anguil (La Pampa)
+(Franco, MO: 1.51 %, pH: 
+5.5)
+Montoya, y otros 
+(2008) Girasol
+Pérdidas de rendimiento con 
+Metsulfurón en aplicaciones 110 y 140 
+DAS.
+Diflufenican (125 g)
+Riglos (La Pampa)
+(Girasol: arenoso franco, 
+MO: 1.31 %, pH: 6.52. 
+Soja: franco arenoso, 
+MO: 3.3%, pH: 6.5. Maíz: 
+arenoso franco, MO: 2.3 %, 
+pH: 6.3)
+Porfiri y otros 
+(2007) Girasol, maíz, soja No se presentaron efectos fitotóxicos en ningún cultivo a los 15, 30 y 60 DAS.
+Prosulfuron+Triasulfuron 
++Dicamba (7.5+7.5+87.5 g) 
+Triasulfuron(7.5 g) Prosulfuron  
+(7.5 g) Metsulfuron (3, 6 g)
+Anguil  (MO:1.9%, pH: 6.2) 
+Riglos (La pampa) , (MO: 
+2.1%, pH: 6.0)
+Montoya y otros 
+(2000) Girasol, maíz, sorgo Metsulfuron mayor fitotoxicidad. Sensibilidad: Girasol>maíz> sorgo
+383
+Comportamiento de herbiCidas en el suelo
+Metsulfuron (4.2, 8.4 g) 
+Prosulfuron+ Triasulfuron
+ (7.5+7.5, 15+15 g)
+Balcarce (Franco, MO: 
+6.3%, pH: 5.5)
+Salamanco 
+(2011) Soja
+Metsulfuron y Prosulfuron + Triasulfuron  
+aplicados desde 42 a 133 DAS no 
+presentaron  efecto residual;  Atrazina, 
+aplicada hasta 71 DAS no presentó 
+efecto residual.
+Metsulfuron (4.8 g) Iodosulfuron 
++Metsulfuron
+ (3,75+3 g), Prosulfuron 
++Triasulfuron (7.5+7.5 g)
+Barrow
+(Franco arcilloso, MO: 
+3.7%, pH: 6.6)
+Istilart (2009) Girasol
+Metsulfurón (4.8 g):108-166 DDA. 
+Iodosulfuron + metsulfuron (3,75+3 g): 
+171-185 DDA. Prosulfuron + triasulfuron 
+(7.5+7.5 g):156-249 DDA.
+Metsulfuron (4.8, 7.2 g)
+Iodosulfuron (3.75 g)
+Prosulfuron+Triasulfuron+
+Dicamba (7.5+7.5+87.5)
+Cnel Suárez (EP), Cuartel 
+XV Pdo Cnel Suárez (BO) 
+y Bordenave, Pdo de Puan 
+(EEA)
+López y otros 
+(2005) Girasol
+EP: Metsulfuron  persistente 
+en ambas dosis al igual que 
+Prosulfuron+Triasulfuron. Iodosulfuron: 
+sin efecto. BO: Metsulfuron 67 DAS. 
+Prosulfuron+Triasulfuron 120 DAS.  
+Iodosulfuron sin efecto a los 67 DAS. 
+EEA: Metsulfuron /Iodosulfuron: 70 
+DAS, Prosulfuron+Triasulfuron: 128 
+DAS.
+Iodosulfuron (3.75, 7.5 g )  
+Metsulfuron (4.8 y 9.6 g)
+Prosulfuron+Triasulfuron 
+(7.5+7.5 g) 
+Coronel Suárez (CS)
+(Franco-limoso y franco-
+arcilloso, MO: 3.5%, pH: 
+6.4).
+Bordenave (BO) 
+(Franco  limoso, MO: 3.6-
+4.5%, pH: 8-7.9)
+López y otros 
+(2005) Girasol
+Iodosulfuron: 130 DDA no    detectado.
+Residualidad: Metsulfuron  4.8,<   
+Iodosulfuron 7.5< Metsulfuron 9.6  y 
+Prosulfuron+Triasulfuron .
+BO: Iodosulfuron 3.75 g: 90 DDA (184 
+mm). 
+Iodosulfuron (3.75, 7.5 g)  
+Metsulfuron (4.8, 9.6 g)
+Prosulfuron+Triasulfuron 
+(7.5+7.5 g)
+Coronel Suárez (CS) 
+(Franco-limoso y franco-
+arcilloso, MO: 3.5%, pH: 
+6.4)
+Bordenave (BO) 
+(Franco  limoso, MO: 3.6-
+4.5%, pH: 8)
+Vigna y otros 
+(2005) Girasol
+CS: Metsulfuron  (4.8 g) detectado  a  
+0-10 cm (112 mm). Dosis  de  9.6 g en 
+ambas profundidades. BO: Metsulfurón  
+4.8 g en  ambas profundidades 
+(199  mm),  no  detectado con  292  
+mm. Iodosulfuron 7.5 g en ambas 
+profundidades. CS: con 367mm, 
+detectado a 10-20 cm. Prosulfuron+  
+Triasulfuron fitotoxicidad a las dos 
+profundidades en ambos sitios.
+384
+Francisco Bedmar - Valeria Gianelli
+Metsulfuron (4.8 g) 
+Iodosulfuron (7.5 g)
+Bordenave
+(Franco limoso, MO: 3.6-
+4.5%, pH: 8-7.5)
+Vigna y otros 
+(2006) Girasol
+Metsulfuron: 130 a 170 DDA (222 a 
+263mm).
+Iodosulfurón 170 a 203 DDA (278 a 485 
+mm).
+Clorimuron (6.25, 12.5, 25, 37.5 g) 
+Metsulfuron (2, 4, 8.1, 12.1 g)
+Balcarce (Franco, 
+arcilla:26%, MO: 7.5%, pH 
+5.9).
+San Cayetano (Franco;  
+arcilla: 30%, MO: 4%, pH 
+6.8)
+Bedmar y otros 
+(2006) Girasol
+Clorimuron: Balcarce: 30-43; San 
+Cayetano 50-69 días. Metsulfuron: 
+Balcarce: 38-51  San Cayetano: 54-84 
+días.
+Clorimuron 
+(6.25, 12.5, 25, 37.5 g)  
+Metsulfuron (2, 4, 8, 12  g)
+Balcarce (arcilla: 26%, 
+MO: 6.9%, pH: 5.9). San 
+Cayetano (Franco arcilloso;  
+arcilla: 30%, MO: 3.8%, pH 
+6.8) 
+Castro y otros 
+(2002) Girasol, maíz
+Clorimuron: Balcarce: reducción de la 
+longitud de raíces en girasol pero no en 
+maíz. San Cayetano: reducción en maíz 
+y girasol. Metsulfuron: concentraciones 
+que provocaron reducción de longitud 
+de raíces: Balcarce: maiz: 0.08 g y 0.04  
+g en girasol. San Cayetano: 0.002 g en 
+ambas especies.
+Metsulfuron+Clorsulfuron (1.9+9.4,  
+3.8+18.8 g)
+Balcarce (Franco, arcilla: 
+24%; MO: 4.7%, pH: 6.3)
+Bellingeri y otros 
+(2009) Girasol, maíz, soja Girasol: ≥153 DDA; Maíz: 96-153 DDA; Soja: 0 DDA.
+Metsulfuron (4.2, 8.4  g) Balcarce (Franco, MO: 5.8- 6.2%,  pH: 5.4-6.0) Bedmar y otros (2005) Girasol, maíz,  soja Metsulfuron (4.2 g): 123-140 DDA para girasol, 44-52 DDA para maíz y 26-44 DDA para soja.
+Prosulfuron+Triasulfuron
+(7.5+7.5, 15+15 g)
+Balcarce, (Franco, MO: 
+6.2%, pH: 5.4)
+Birolo y otros 
+(2005) Girasol, maíz, soja
+Prosulfuron+Triasulfuron (7.5+7.5): 148-
+165 DDA para girasol, 0 DDA para maíz 
+y 0-5 DDA para soja. 
+2,4-D ester (194, 388 g e.a.) 
+2,4-D sal (619, 1238 g e.a.) 
+Dicamba (96 g e.a)
+Balcarce, (Franco, MO: 
+5.4%, pH: 5.7) Lagarde (2005) Girasol, soja
+Girasol: sin efectos de los tratamientos. 
+Soja: 8 y 18 días DDA, para 2,4-D sal 
+en ambas dosis. 
+Dicamba menor fitotoxicidad para los 
+dos cultivos.
+1 DDA: días desde la aplicación; DAS: días antes de la siembra
+385
+Comportamiento de herbiCidas en el suelo
+Resumen
+En el presente capítulo se describieron los principales procesos y factores responsables 
+del comportamiento de los plaguicidas en el suelo. Entre los procesos más relevantes se 
+incluyeron los mecanismos de transporte (lixiviación, volatilización, escurrimiento superficial y 
+absorción por las plantas), de retención (adsorción por los coloides del suelo) y de degradación 
+(descomposición química, microbiana y fotodescomposición), como así también los factores 
+climáticos, del suelo y de los plaguicidas que influyen sobre cada uno de estos procesos. 
+Asimismo, se presentaron resultados de experimentos a nivel nacional a fin brindar una visión 
+sobre el estado actual del conocimiento del tema. Dicha información permite integrar y entender 
+la compleja interacción entre las características edafológicas y los patrones de comportamiento 
+de los herbicidas en el ambiente, demostrando que el mismo difiere significativamente entre 
+zonas de producción en las cuales se aplican los herbicidas. Tanto los conceptos desarrollados 
+como la información presentada, persiguen  promover el uso sustentable de los herbicidas a 
+fin de obtener un efectivo control de las malezas en forma ambientalmente segura.
+Metsulfuron (4.8 g) 
+Iodosulfuron (7.5 g)
+Bordenave
+(Franco limoso, MO: 3.6-
+4.5%, pH: 8-7.5)
+Vigna y otros 
+(2006) Girasol
+Metsulfuron: 130 a 170 DDA (222 a 
+263mm).
+Iodosulfurón 170 a 203 DDA (278 a 485 
+mm).
+Clorimuron (6.25, 12.5, 25, 37.5 g) 
+Metsulfuron (2, 4, 8.1, 12.1 g)
+Balcarce (Franco, 
+arcilla:26%, MO: 7.5%, pH 
+5.9).
+San Cayetano (Franco;  
+arcilla: 30%, MO: 4%, pH 
+6.8)
+Bedmar y otros 
+(2006) Girasol
+Clorimuron: Balcarce: 30-43; San 
+Cayetano 50-69 días. Metsulfuron: 
+Balcarce: 38-51  San Cayetano: 54-84 
+días.
+Clorimuron 
+(6.25, 12.5, 25, 37.5 g)  
+Metsulfuron (2, 4, 8, 12  g)
+Balcarce (arcilla: 26%, 
+MO: 6.9%, pH: 5.9). San 
+Cayetano (Franco arcilloso;  
+arcilla: 30%, MO: 3.8%, pH 
+6.8) 
+Castro y otros 
+(2002) Girasol, maíz
+Clorimuron: Balcarce: reducción de la 
+longitud de raíces en girasol pero no en 
+maíz. San Cayetano: reducción en maíz 
+y girasol. Metsulfuron: concentraciones 
+que provocaron reducción de longitud 
+de raíces: Balcarce: maiz: 0.08 g y 0.04  
+g en girasol. San Cayetano: 0.002 g en 
+ambas especies.
+Metsulfuron+Clorsulfuron (1.9+9.4,  
+3.8+18.8 g)
+Balcarce (Franco, arcilla: 
+24%; MO: 4.7%, pH: 6.3)
+Bellingeri y otros 
+(2009) Girasol, maíz, soja Girasol: ≥153 DDA; Maíz: 96-153 DDA; Soja: 0 DDA.
+Metsulfuron (4.2, 8.4  g) Balcarce (Franco, MO: 5.8- 6.2%,  pH: 5.4-6.0) Bedmar y otros (2005) Girasol, maíz,  soja Metsulfuron (4.2 g): 123-140 DDA para girasol, 44-52 DDA para maíz y 26-44 DDA para soja.
+Prosulfuron+Triasulfuron
+(7.5+7.5, 15+15 g)
+Balcarce, (Franco, MO: 
+6.2%, pH: 5.4)
+Birolo y otros 
+(2005) Girasol, maíz, soja
+Prosulfuron+Triasulfuron (7.5+7.5): 148-
+165 DDA para girasol, 0 DDA para maíz 
+y 0-5 DDA para soja. 
+2,4-D ester (194, 388 g e.a.) 
+2,4-D sal (619, 1238 g e.a.) 
+Dicamba (96 g e.a)
+Balcarce, (Franco, MO: 
+5.4%, pH: 5.7) Lagarde (2005) Girasol, soja
+Girasol: sin efectos de los tratamientos. 
+Soja: 8 y 18 días DDA, para 2,4-D sal 
+en ambas dosis. 
+Dicamba menor fitotoxicidad para los 
+dos cultivos.
+1 DDA: días desde la aplicación; DAS: días antes de la siembra
+386
+Francisco Bedmar - Valeria Gianelli
+Bibliografía
+Anderson, W.P. 1996. Weed Science: principles and applica-
+tions. Third Edition. West Publishing Company, St. Paul, 
+MN. 388p.
+Barriuso, E. 2000. Contaminaciones con pesticidas utiliza -
+dos en agricultura: el comportamiento de los pestici -
+das en el suelo como base para la interpretación y la 
+previsión de los riesgos de contaminación. Workshop 
+Internacional sobre Contaminación de suelos y aguas 
+por agroquímicos. XVII Congreso Argentino Ciencia del 
+Suelo, Mar del Plata 11-14/4/00. Libro de resúmenes y 
+CD del Congreso.
+Bedmar, F., Avendaño, M., Monterubbianesi, G. 2005. Per -
+sistencia fitotóxica de metsulfuron aplicado a campo en 
+presiembra de soja, girasol y maíz. XVII Congreso de 
+la Asociación Latinoamericana de Malezas (ALAM) y I 
+Congreso Iberoamericano de Ciencia de las Malezas. 
+Varadero (Cuba), 8 al 11 de noviembre de 2005. Resu -
+men en CD del Congreso. 
+Bedmar, F., Perdigon, J., Monterubbianesi, G. 2006. Resi -
+dual phytotoxicity and persistence of chlorimuron and 
+metsulfuron in soils of Argentina. Journal of Environmen-
+tal Biology.  27(2): 175-179.
+Bedmar, F. 2009. Persistencia, Adsorción y Transporte de 
+Acetoclor, Atrazina y S-Metolacloro en Horizontes Su -
+perficiales y Sub-Superficiales de dos Argiudoles Típi-
+cos. Tesis Doctor, FCA-UNMDP, 2009, 160p.
+Bedmar, F., Gianelli, V. 2012. Efectos residuales de Onduty y 
+Lightning sobre cultivos de invierno y forrajeras. Concurso 
+Premio Top Ciencia, BASF 12 y 13 de julio de 2012.
+Bedmar, F., Daniel, P., Costa, J.L. and Gimenez, D. 
+2011. Sorption of Acetochlor, S-Metolachlor and 
+Atrazine in surface and subsurface soil horizons of 
+Argentina. Environmental Toxicology and Chemistry 
+30(9):1990-1996.
+Bellingeri, M.; Bedmar, F.; Monterubbianesi, G.; Leaden, M.I. 
+2009. Persistencia fitotóxica de metsulfuron+clorsulfu-
+ron aplicados en barbecho en presiembra de  soja, gi -
+rasol y maíz. Trabajo completo en Actas del Congreso, 
+Volumen I, 299-302.
+Birolo, J.M., Bedmar, F. y Monterubbianesi, G. 2005. Per -
+sistencia fitotóxica de prosulfuron+triasulfuron aplicados 
+a campo en presiembra de soja, girasol y maíz. XVII 
+Congreso de la Asociación Latinoamericana de Malezas 
+(ALAM) y I Congreso Iberoamericano de Ciencia de las 
+Malezas. Resumen en CD del Congreso.
+Bollag, J.M., Myers, C.J., and Minard, R, D. 1992. Biolo -
+gical and chemical interactions of pesticides with soil 
+organic matter. The Science of the Total Environment , 
+123/124:205-217.
+Boxall, A.B.A., Sinclair, C.J., Fenner, K., Kolpin, D., Maund, 
+S.J. 2004. When synthetic chemicals degrade in the en -
+vironment. Sci. Technol. 38:368A-375A.
+Candela, L. 2003. El transporte de los plaguicidas a las 
+aguas subterráneas. Boletín Geológico y Minero, 114 
+(4):409 - 417.
+Cassino, M.N. 2006. Persistencia fitotóxica de Imazamox 
+(SWEEPER) aplicado en girasol Clearfield (CL). Tesis 
+de Ingeniero Agrónomo, Facultad de Ciencias Agrarias, 
+UNMDP, 50p.
+Castro,C., Bedmar, F., Monterrubianesi, G., Peretti, A., and 
+Barassi, C. 2002. Determination of chlorimuron and 
+metsulfuron residues in two soils of Argentina using a 
+rapid seed-bioassay. Journal of Environmental Biology , 
+23(4):353-358.
+Cheng, H.H. 1990. Pesticides in the soil environment-An 
+Overview. Chapter 1: 1-5. In: Pesticides in the soil Envi-
+ronment: Processes, Impacts, and Modeling. Ed. Cheng, 
+H.H. SSSA, Inc. Madison, USA, 530p.
+Comfort, S.D., Shea, P.J., and F.W. Roeth. 1994 Understan-
+ding pesticides and water quality in Nebraska. Nebraska 
+Co-operative Extension EC 94-135, USA. 16p.
+Costa, J.L. 1995. Transporte de solutos. Actas de la Reunión 
+Nacional del Comité de Física de suelos de la Asocia -
+ción Argentina de la Ciencia del suelo, 26-41. Paraná, 
+12-13/09/95.
+Costa, J.L., Knighton, R.E., and Prunty, L. 1994. Model 
+comparison of unsaturated steady-state solute transport 
+in a field plot. Soil Science Society of America Journal , 
+58:1277-1287.
+Daniel, P. E., Bedmar, F., Costa,J.L., and . Aparicio, V. 2002. 
+Atrazine and metribuzin sorption in soils of the argen-
+tinean humid pampas. Environmental. Toxicology and 
+Chemistry. 21:2567-2572.
+Delmonte, A., Bedmar, F., Mantecon, J. D. Echeverria, H. and 
+Barassi, C. A. 1997. Residual phytotoxicity and chemical 
+persistence of Atrazine in soils of the southeast of Bue-
+nos Aires province, Argentina. Journal of Environmental 
+Biology 18(3):201-207.
+Duffard, S. 2007. Residualidad de Imazapir sobre cultivos de 
+invierno. Tesis de Graduación para optar al título de In -
+geniero Agrónomo. Facultad de Ciencias Agrarias. UN -
+MDP. Argentina. 66p.
+EXTOXNET. The EXtension TOXicology NETwork. [en lí-
+nea]< http://extoxnet.orst.edu/.
+387
+Comportamiento de herbiCidas en el suelo
+Fuscaldo, F., Bedmar, F., y Monterubbianesi, G. 1999. Per -
+sistence of Atrazine, Metribuzin and Simazine in two soi-
+ls. Pesquisa Agropecuaria Brasileira, 34 (11):2037-2044.
+Flury, M. 1996. Experimental evidence of transport of pestici-
+des through field soils-A review. Journal of Environmen-
+tal Quality, 25:25-45.
+Gerstl, Z. 2000. An update on the Koc concept in regard to 
+regional scale management. Crop Protection , 19:643-
+648.
+Gevao, B; Jones, K.C. 2002. Pesticides and persistent or-
+ganic pollutants. Chapter 4, 83-106. In: Haygarth, P.M; 
+Jarvis, S.C. Agriculture, Hydrology and Water Quality. 
+CAB International.
+Gianelli, V., Bedmar, F., y Monterubbianesi, M.G. 2011. Per -
+sistencia del herbicida Imazapir en el suelo y efectos fi-
+totóxicos sobre cultivos de invierno y de verano. Revista 
+de Investigaciones Agropecuarias Vol 37, N°1.
+Gianelli, V.R. 2012. Persistencia y adsorción de Imazapir en 
+suelos de Argentina. Tesis Magister Scientiae, FCA, Univer-
+sidad Nacional de Mar del Plata. 85 paginas
+Goss, D.W. 1992. Screening procedure for soils and pestici-
+des for potential water quality impacts. Weed Technolo-
+gy, 6:701-708.
+Green, R.E., and Karickhoff, S.W. 1990. Sorption estima-
+tes for modelling. In: Pesticides in the soil environment: 
+processes, impacts, and modelling (ed. Cheng H.H.), 79-
+101. Soil Science Society of America book series; no. 2, 
+Madison, Wis., USA.
+Gustafson, D.I. 1995. Development of novel active ingre-
+dients. Chapter 7:153-161. In: Pesticide risk in ground -
+water. Editors: Vighi, M., and Funari, E. CRC Press, Inc. 
+Boca Raton, Florida, USA, 275p.
+Gustafson, DI. 1989. Ground-Water ubiquity score: A simple 
+method for assessing pesticide ubiquity. Environmental 
+Toxicology and Chemistry, 8:339-357.
+Hang, S.B. 2002. Adsorción y degradación de atrazina en 
+suelos de superficie y subsuelo de la provincia de Córdo-
+ba, Argentina. Tesis de Doctorado, Universidad Nacional 
+de Córdoba, 140p.
+Hang, S., Nassetta, M., Cañas, A.I., Rampoldi, E.A., Fernán-
+dez-Canigia, M.A., Díaz-Zorita, M. 2007. Changes in the 
+atrazine extractable residues in no-tilled Mollisols. Soil 
+Tillage Res. 96:243-249.
+Hang, S., Nasseta, M. 2003. Evolución de la degradación 
+de atrazina en dos perfiles de suelo de la provincia de 
+córdoba. RIA 32 (1):57-69.
+Hang, S., Sereno, R. 2002. Adsorción de Atrazina y su rela -
+ción con las características sedimentológicas y el desa -
+rrollo del perfil de dos suelos de la provincia de Córdoba. 
+RIA . 31:73 – 87.
+Hang, S., Barriuso, E., Houot, S. 2005. Atrazine behaviour 
+in the different pedological horizons of two Argentinean 
+non-till soil profiles. Weed Research, 45:130–139.
+Hiltbold, A.E. 1974. Persistence of pesticides in soil. In: Pes-
+ticides in soil & water (ed. Guenzi, W.D.), 203-222. Soil 
+Science Society of America, Madison, Wis., USA.
+Istilart, C. 2002. Residualidad de imidazolinonas sobre ce -
+reales de invierno. INTA, Argentina. [en línea] <http://
+www.inta.gov.ar >.
+Istilart, C. 2009. Residualidad de Metsulfuron, iodosulfuron 
++ metsulfuron y prosulfuron + triasulfuron, aplicados en 
+presiembra de girasol en la zona sur bonaerense Argen-
+tina. XII Congreso de la Sociedad Española de Malher -
+bología, XIX Congreso de la Asociación Latinoamerica -
+na de Malezas, II Congreso Iberoamericano de Ciencias 
+de las Malezas, “Malherbologia y biodiversidad en una 
+agricultura sostenible”. Lisboa, Portugal, 11 al 13 de no -
+viembre de 2009.
+IUPAC (International Union of Pure and Applied Chemis-
+try). Footprint Pesticides Properties Database. [en lí-
+nea]< http://sitem.herts.ac.uk/aeru/iupac/index.htm.
+Jenks, B.M., Roeth, F.W., Martin, A.R., and Mccallister, D.L. 
+1998. Influence of surface and subsurface soil properties 
+on atrazine sorption and degradation. Weed Science , 
+46:132-138.
+Kerle, E. A., Jenkins, J.J., Vogue, P.A. 1996. Understan-
+ding pesticide persistence and mobility for groundwater 
+and surface water protection. Oregon State University 
+Extension Service. EM 8561. [en línea] <http://wellwa-
+ter.orst.edu/documents/Understanding_Pesticide_Per-
+sistance.pdf
+Koskinen, W.C., and Harper, S.S. 1990. The retention pro-
+cess: mechanisms. Chapter 3:51-77. In : Pesticides in 
+the soil Environment : Processes, Impacts, and Mode -
+ling. Ed. Cheng, H.H. SSSA, Inc. Madison, USA, 530p.
+Leeds-Harrison, P.B. 1995. Movement of water and solutes 
+to surface and ground waters, 3-12. Proceedings of a 
+Symposium held at The University of Warwick, Coven-
+try, 3-5/05/95. Edited by Walker, A., Allen, R., Bailey, 
+S.W., Blair, A.M., Brown, C.D., Günther, P., Leake, C.R. 
+and Nicholls, P.H. BCPC, Monograph No 62, 414p.
+Leonard, R.A. 1990. Movement of pesticides into surface 
+waters. In: Cheng, H.H. (Ed.), Pesticides in the Soil 
+Environment: Processes, Impacts, and Modeling. Soil 
+388
+Francisco Bedmar - Valeria Gianelli
+Science Society of America, Madison, Wisconsin, pp. 
+303-349.
+López, R., Vigna, M. 2005.Estudio de residualidad de 
+herbicidas sulfonilureas en suelos del SO de la re-
+gión pampeana Argentina. I. Duración del efecto e 
+influencia de lluvias. XVII Congreso de la Asociación 
+Latinoamericana de Malezas (ALAM) y I Congreso 
+Iberoamericano de Ciencia de las Malezas. Varadero 
+(Cuba), 8 al 11 de noviembre de 2005. Actas en CD  
+PDF, pag 855-857.
+López, R., Vigna, M. 2005. Evaluación mediante bioensa -
+yos del efecto sobre girasol de residuos en el suelo de 
+herbicidas sulfonilureas. ASAGIR 2005. 3er Congreso 
+Argentino de Girasol. 31 Mayo al 1 Junio 2005. Hilton, 
+Buenos Aires.
+Montoya, J. 2000. Persistencia de sulfonilureas en suelos. 
+Informe de beca de iniciación a la investigación.
+Montoya, J.C., Costa, J.L., Liedl, R., Bedmar, F., Daniel, P. 
+2006. Effects of soil type and tillage practice on atra-
+zine transport through intact soil cores. Geoderma. 
+137:161-173.
+Montoya, J. Bolla, M., Porfiri, C., Zelaya, M., Gianelli, V., 
+Gili, A. 2010.Carryover de imazapir en la rotación de 
+cultivos de la Región Semiárida Pampeana. Top Cien -
+cia. BASF. 2010.
+Montoya, J., Porfiri, C., Waimann, E., Di Piano, A. 2011. 
+Evaluación del efecto de carryover de Clearsol y Clear-
+sol Plus sobre avena, trigo y cebada. Top ciencia. 2011.
+PAN. Pesticide Action Network. Pesticide Database. [en 
+línea]<http://www.pesticideinfo.org/.
+Pons, N., and Barriuso, E. 1998. Fate of metsulfuron-me-
+thyl in soils in relation to pedo-climatic conditions. Pes-
+ticide Science, 53:311-323.
+Porfiri. C., Romano, N., Montoya, J. 2007. Carryover de 
+Diflufenican en barbecho químico para girasol, soja y 
+maíz. 4º Congreso Argentino de Girasol- Asociación 
+Argentina de Girasol. (ASAGIR). Buenos Aires - Argen-
+tina. Pág. 417. 
+Porfiri, C., Montoya, J. 2008. Persistencia de Imazapir y su 
+efecto sobre cereales de invierno. Congreso Nacional 
+de Trigo. Simposio Nacional de Cereales de Siembra 
+Otoño. Invernal. Encuentro del Mercosur. Santa Rosa, 
+La Pampa. Argentina. p 43.
+Richter, O., Diekkrüger, B., and Nörtersheuser, P. 1996. Envi-
+ronmental fate modelling of pesticides. From the labora-
+tory to the field scale. Editor KRAUS, H.J. VCH, Federal 
+Republic of Germany, 281p.  
+Ritter, W.F. 1990. Pesticide contamination of groundwater 
+in the United States-A review. Journal of Environmental 
+Science of Health, B25:1-29.
+Salamanco, N. Efecto de la aplicación de herbicidas en 
+barbechos de invierno sobre el rendimiento y variables 
+reproductivas del cultivo de soja. Facultad de Ciencias 
+Agrarias, UNMDP. Marzo 2011. 36p.
+Senseman, S.A. (ed.) 2007. Herbicide handbook. 9th ed. 
+Weed Sci. Soc. of Am., Lawrence, KS, USA.458p.
+Shaw, I.C., Chadwick, J.1999. Principles of environmental to-
+xicology. Taylor & Francis Inc, Philadelphia, USA. 216 p.
+Skipper, H.D., Wollum, A.G., Turco, R.F., and Wolf, D.C. 
+1996. Microbiological aspects of environmental fate 
+studies of pesticides. Weed Technology, 10:174-190.
+Sonon, L.S. 1992. Persistence and transport of atrazine, 
+alachlor and nitrate in soils. PhD thesis, Dep. of Agron., 
+Kansas State University, Manhattan, Kansas, 209p.
+Taylor, A.W.; Spencer, W.F. 1990. Volatilization and vapor 
+transport processes. In: Cheng, H.H. (Ed.), Pesticides 
+in the Soil Environment: Processes, Impacts, and Mo -
+deling. Soil Science Society of America, Madison, Wis-
+consin, pp. 213-269.
+Vigna, M., y López, R. 2005. Estudio de residualidad de 
+herbicidas sulfonilureas en suelos del SO de la región 
+pampeana Argentina. II. Efecto de la profundidad de 
+muestreo. XVII Congreso de la Asociación Latinoame -
+ricana de Malezas (ALAM) y I Congreso Iberoameri -
+cano de Ciencia de las Malezas. Varadero (Cuba), 8 
+al 11 de noviembre de 2005. Actas en CD PDF, pag 
+858-859.
+Vigna, M., López, R., Gigon, R. 2006.  Evaluación de la 
+persistencia de metsulfuron e iodosulfuron en suelos 
+del SO de Buenos Aires. Actas del  XX Congreso Ar-
+gentino de la Ciencia del Suelo y I Reunión de Suelos 
+de la Región Andina. Asociación Argentina de la Cien -
+cia del Suelo (AACS). Setiembre de 2006. Soporte en 
+CD, C.6.228:1-5.
+Weber, J.B. 1994. Properties and behavior of pesticides 
+in soil. Chapter 2:15-41. In: Mechanisms of pesticide 
+movement into groundwater. Ed. Honeycutt, R.C., and 
+Schabacker, D.J. CRC Press, Inc., Boca Raton, Florida, 
+189p.
+Weber, J.B., Best, J.A., and Gonese, J.U. 1993. Bioavai -
+lability and bioactivity of sorbed organic chemical. 
+Chapter 10:153-196. In: Sorption and degradation of 
+pesticides and organic chemicals in soil. Proceedings 
+of a symposium sponsored by Divisions S-3, S-1, S-2, 
+and A-5 of the Soil Science Society of America and 
+389
+Comportamiento de herbiCidas en el suelo
+American Society of Agronomy in Denver, Colorado, 
+30 Oct. 1991/ editorial committee, D.M. Linn (chair) y 
+otros SSSA Special Publication Number 32. SSSA Inc. 
+Madison, WI, 260p.
+Weber, J.B., Wilkerson, G.G., Linker, H.M., Wilcut, J.W., 
+Leidy, R.B. Senseman, S., Witt, W.W., Barrett, M., Ven-
+cill, W.K., Shaw, D.R., Mueller, T.C., Miller, D.K., Becke, 
+B.J., Talbert, R.E., and Peeper, T.F. 2000. A proposal 
+to standardize soil/solution herbicide distribution coeffi-
+cients. Weed Science, 48:75-88.
+Wolfe, N.L., Mingelgrin, U., Miller, G.C., 1990. Abiotic trans-
+formations in water, sediments, and soils. In: Cheng, H.H. 
+(Ed.), Pesticides in the Soil Environment: Processes, Im-
+pacts, and Modeling. Soil Science Society of America, 
+Madison, Wisconsin, pp. 103–168.
+Zanini, G.P., Maneiro, C., Waiman, C., Galantini, J.A., Rosell, 
+R.A. 2009. Adsorption of metsulfuron-methyl on soils un-
+der no-till system in semiarid Pampean Region, Argenti -
+na. Geoderma 149 (2009) 110 –115.
+Han pasado más de 30 años de la última edición de la obra de Ángel Marzocca “Manual de 
+Malezas” y si bien se han editado numerosos trabajos cientíﬁcos y/o tecnológicos, informes 
+técnicos y aún capítulos en libros de cultivos relacionados con la temática de las malezas, 
+los mismos abordan aspectos con distinto grado de profundidad, enfoques parciales o bien 
+se encuentran diseminados en múltiples publicaciones. Se estima que la edición de una 
+obra actualizada que abrace buena parte de los conocimientos disponibles en Argentina 
+sobre plantas invasoras, malezas y su manejo en los distintos sistemas de producción del 
+país, representará un signiﬁcativo aporte al conocimiento y será una fuente permanente de 
+consulta en todas aquellas cuestiones coligadas con la presencia de este tipo de plantas que 
+interﬁeren con la actividad productiva en los agroecosistemas. Hemos acordado publicar esta 
+obra reconociendo principalmente la necesidad de un texto en idioma español orientado en 
+particular a docentes universitarios y del nivel medio ligados a las ciencias agrarias, estudiantes 
+de agronomía, profesionales y técnicos no sólo estrictamente vinculados con la productividad 
+agropecuaria sino también de interés para toda persona interesada en el conocimiento de los 
+atributos biológicos de las plantas espontáneas. 
+Esta Obra comprende tres tomos. El primero de ellos abarca todos los aspectos relacionados 
+con la ecología de las malezas y su manejo en agroecosistemas. Los mismos incluyen desde 
+aspectos más generales relacionados con la biología y la dinámica de poblaciones vegetales 
+hasta más particulares, como es el manejo de malezas en cultivos extensivos e intensivos, la 
+prevención de invasiones, el uso de modelos en la dinámica espacio-temporal de poblaciones, 
+la residualidad y los efectos ambientales  de los herbicidas o el control biológico, entre muchas 
+otras temáticas, que son abordadas por 65 autores en 33 capítulos a lo largo de 950 páginas.
+En el Tomo II se desarrollan los aspectos relacionados con la clasiﬁcación botánica e 
+identiﬁcación de unas 600 especies, presentadas en páginas a todo color con una ﬁcha 
+descriptiva asociada, que jerarquiza los caracteres que permiten una rápida identiﬁcación en 
+el campo de las especies tratadas. 
+En el Tomo III se abordan los atributos biológicos y eco-ﬁsiológicos que caracterizan y contribuyen 
+al éxito ecológico de una determinada especie. Las secciones incluyen revisiones y puesta al 
+día de conocimientos que contribuyen a optimizar las herramientas de prevención  y manejo 
+de una especie. Los contenidos de cada una de ellas son construidos por investigadores que 
+las han estudiado durante varios años, muchos de ellos en el marco de experimentos de Tesis 
+de Maestría o Doctorado.
+MALEZAS E INVASORAS DE LA ARGENTINA
+TOMO I: ECOLOGÍA Y MANEJO
+Osvaldo A. Fernández  /  Eduardo S. Leguizamón  /  Horacio A. Acciaresi
+E DITOR ES

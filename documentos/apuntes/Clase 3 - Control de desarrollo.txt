@@ -1,0 +1,523 @@
+=== Fuente: Clase 3 - Control de desarrollo.pdf ===
+
+Universidad de Buenos Aires - Facultad de Agronomía
+Escuela para Graduados “Alberto Soriano”
+CLASE 3: CONTROL DEL DESARROLLO
+Adriana Kantolic - FAUBA
+Actualización en Cultivos de Granos
+Determinantes del rendimiento y la calidad
+ARROZ EN INDIA
+Evans 1993
+Egli, D.B. Agron. J. 
+103:743–750 (2011)
+La duración del período vegetativo condiciona el 
+tamaño de la planta, pero su relación con el 
+rendimiento es variable
+Existen fases cuya relación SÍ  se relaciona con el 
+rendimiento
+Duración del período  vegetativo (d)
+Arroz
+Girasol
+Soja
+1 - Importancia de la duración de las fases
+Biomasa vegetativa final (g/m2)
+Año 1999
+5
+10
+15
+20
+25
+30
+16-9 5-11 25-12 13-2 4-4 24-5 13-7
+Radiación (MJ/m2) ó 
+Temperatura (°C)
+0
+50
+100
+150
+200
+250
+Agua útil (mm)
+Rad T media 2.8 3.8 4.8 5.4
+J.T. Soja 2002 - Z.Oeste - J. Mercau y F. Menéndez
+trigo en SE Australia (clima mediterraneo)
+Passioura 2002, FPB 29: 537-546
+La duración del ciclo y de las diferentes etapas, permiten enfrentar a los cultivos a 
+diferente oferta de recursos en momentos diferentes
+2 - Factores que afectan el desarrollo:
+1) Temperatura 
+2) Fotoperíodo
+3) Vernalización
+      4) Acción conjunta de los factores
+1) Respuesta directa o universal  a la Temperatura
+4 genotipos de trigo – Condiciones controladas - Slafer and Rawson, 1994 - Field Crops Res. 39
+Temperatura ºC
+Tasa de desarrollo a 
+espiguilla terminal (1/d)
+DURACIÓN (d) TASA DE DESARROLLO  (1/d)
+Tasa de desarrollo (día-1)
+1/D = a + b T
+a
+Recta ajustada entre Tb y Topt:
+td (d-1) = a + b T
+1/b: Tiempo térmico (ºCd)
+b
+Tb T opt T max
+T. Sub-optimas T. Supra-optimas
+b (d-1)/ °C) = td (d-1) / (T – a) 
+1/b (°C/d-1)/ ) = (T – Tb) * d
+TT =  (Tmedia -Tb) 
+TT = (Tmedia- Tb) * Duración de la etapa
+En Tb: td=0; 
+duración infinita 
+RANGO DE 
+VALIDEZ DEL 
+MODELO TT
+Respuesta directa o universal  a la Temperatura
+Tasa de desarrollo (día-1)
+1/D = a + b T
+b
+Tb T opt T max
+TT =  (Tmedia -Tb) 
+TT = (Tmedia- Tb) * Duración de la etapa
+Rango válido
+Restricciones al modelo de Tiempo Térmico
+Ej: Climas cálidos
+Sobre-estimación del efecto de la 
+temperatura
+T med
+Tasa de desarrollo (día-1)
+1/D = a + b T
+b
+Tb T opt T max
+TT =  (Tmedia -Tb) 
+TT = (Tmedia- Tb) * Duración de la etapa
+Rango válido
+Restricciones al modelo de Tiempo Térmico
+Ej: cultivos de invierno
+Sub-estimación del efecto de la 
+temperatura
+
+Restricciones al modelo de Tiempo Térmico
+Ejemplo: tasa de aparición de hojas en maiz (Tollenaar y col. 
+1979)
+Ejemplo: soja (Boote et a.)
+* En este caso, cada día se pondera por la tasa relativa y se 
+transforma en “día termal” . Un día calendario es un día termal en 
+el rango óptimo, o menos fuera de él
+
+SOJA
+POROTO
+GARBANZO
+HABAS
+Summerfield et al., 1991
+Variabilidad entre y dentro de especies
+TRIGO, Slafer y Rawsosn 1994
+Variabilidad entre etapas
+TRIGO, Slafer y Rawson 1994
+ SOJA, modelo CROPGRO-soybean
+Efecto de la temperatura sobre la duración 
+del crecimiento del embrión en girasol 
+(Chimenti et al. , FCR 69: 81-88. 2001)
+Efectos de la temperatura sobre el llenado de 
+granos
+Slafer et al. (2003) TRIGO
+La  TEMPERATURA no modifica el NÚMERO DE 
+HOJAS FINAL, sino que modifica su TASA DIARIA 
+DE APARICIÓN (porque el PLASTOCRONO y el 
+FILOCRONO son constantes en tiempo térmico)
+Efectos de la temperatura sobre la tasa de 
+aparición de hojas
+GIRASOL
+
+0
+5
+10
+15
+20
+25
+30
+0 500 1000 1500
+Aparecidas
+Diferenciadas
+TT desde Emergencia (°CD)
+Número de hojas
+R5R3
+Plastocrono 36°Cd 
+(Tb=9°C)
+Filocrono 2:  58°Cd 
+(Tb=9°C)
+Filocrono 1:  86°Cd 
+(Tb=9°C)
+A partir de datos de Tenorio et al., 2017
+Efectos de la temperatura sobre la tasa de aparición de hojas
+La  TEMPERATURA no 
+modifica el NÚMERO 
+DE HOJAS FINAL 
+(porque el 
+PLASTOCRONO y el 
+FILOCRONO son 
+constantes en tiempo 
+térmico) 
+La falta de aparición de 
+hojas terminales en 
+algunos cultivos 
+indeterminados está 
+aún poco comprendida  
+(partición?)
+SOJA
+Factores diferentes a la  
+TEMPERATURA 
+(Fotoperíodo o 
+Vernalización) 
+modificarán el 
+NÚMERO DE HOJAS 
+FINAL al 
+retrasar/adelantar el 
+momento de 
+finalización de su 
+diferenciación, 
+modificando la 
+ocurrencia de los 
+estados posteriores.
+Efectos de la temperatura sobre la tasa de 
+aparición de hojas
+•¿Qué períodos son sensibles a la temperatura?
+NOTA: La información presentada sólo evalúa el efecto de la temperatura sobre el DESARROLLO
+No se consideran efectos sobre fotosíntesis, síntesis de compuestos u eventos de stress térmico (heladas, 
+golpe de calor, shock térmico) ni efectos directos de bajas o altas temperaturas sobre órganos reproductivos
+2.  Fotoperíodo
+Kobayashi y Weibel 2016
+Respuesta general al Fotoperíodo
+0 24Fotoperíodo (hs)
+Días a 
+Floración
+(a temperatura constante)
+DL cuantitativo.
+ TRIGO – CEBADA – 
+CENTENO -LINO – COLZA - 
+DC cuantitativo:
+MAIZ – SOJA – SORGO – 
+ALGODÓN - MANÍ
+Respuesta general al Fotoperíodo
+0 24Fotoperíodo (hs)
+Días a 
+Floración
+(a temperatura constante)
+FASE JUVENIL 
+(insensible al 
+fotoperíodo)
+FASE VEGETATIVA 
+BÁSICA O 
+PRECOCIDAD 
+INTRÍNSECA 
+(mínima duración de 
+la fase)
+SENSIBILIDAD 
+(incremento en la 
+duración por 
+aumento en 
+fotoperíodo)
+SENSIBILIDAD 
+(incremento en la 
+duración por 
+disminución en 
+fotoperíodo)
+Fotoperíodo 
+Umbral
+PDL PDCDias a Floración
+FVB
+Fc Fu Fu Fc
+Fs (dias h-1) Fs
+Fotoperíodo Fotoperíodo
+FIF
+RESPUESTAS CUANTITATIVAS
+Fu = fotoperíodo umbral; 
+Fc = fotoperíodo crítico (muchas veces no se encuentra a campo)
+FS= sensibilidad al fotoperíodo; 
+FVB = fase vegetativa básica (en otras estapas hablamos de PRECOCIDAD INTRÍNSECA)
+FIF = fase inducida por el fotoperíodo (siempre incluye alguna etapa de REALIZACIÓN insensible al fotoperíodo)
+FotoperíodoTemperatura constante
+Fase Juvenil
+SOJA: Sensibilidad fotoperiódica pre-floración: GRUPOS DE MADUREZ
+11,5
+12
+12,5
+13
+13,5
+14
+14,5
+0 1 2 3 4 5 6 7 8 9 10
+Grupo de madurez
+Fotoperiodo umbral (h)
+0
+0,05
+0,1
+0,15
+0,2
+0,25
+0,3
+0,35
+0,4
+Sens. al fotoperiodo (d  h-1)
+Fotoperíodo umbral
+Sensibilidad al fotoperíodo
+15
+17
+19
+21
+23
+25
+0 1 2 3 4 5 6 7 8 9 10
+Grupo de madurez
+Fase vegetativa basica (días 
+físiológicos)
+Para una misma condición 
+fotoperiódica los Grupos 
+de Madurez Altos son de 
+ciclo más largo que los 
+cortos
+(Boote et al. 2001)
+Las respuestas genotípicas al 
+fotoperíodo, condicionan  el largo del 
+ciclo, su área de adaptación y el 
+manejo del cultivo
+Latitud
+ALTA (S)           BAJA (N)
+Grupo de             ALTO
+Madurez             BAJO
+Muy largo              Ciclo adecuado
+Ciclo adecuado         Muy corto 
+Como la soja se 
+cultiva entre 
+primavera y otoño 
+los días son más 
+largos cuanto 
+mayor es la latitud
+SOJA: Sensibilidad fotoperiódica pre-floración: GRUPOS DE MADUREZ
+
+SOJA: Sensibilidad fotoperiódica post-floración:
+Existen muchas evidencias de 
+efectos fotoperiódicos 
+posteriores a iniciación floral y a 
+floración
+durante floración, fructificación 
+y llenado de granos.
+En todos los casos las 
+respuestas son de DIA CORTO 
+(las fases duran menos en días 
+cortos)
+GM 5
+GM 4
+(Kantolic y Slafer  2005)
+Trigo
+Emergencia-antesis
+Emergencia-primer nudo
+Primer nudo-antesis
+Whitechurch et al. 2007. J Agr. & C Sci. 193: 131-137
+Existen muchas 
+evidencias de 
+efectos 
+fotoperiódicos 
+posteriores a 
+iniciación floral y 
+variabilidad 
+genotípica en las 
+respuestas
+GIRASOL
+A partir de datos de Mac Donough y Hall 2003 – Congreso Asagir
+Existen pocas evidencias de la respuestas fotoperiódicas. Hasta ahora sabemos:
+ PDL o neutro hasta IF; PDL, PDC o neutro hasta fin de diferenciación
+El tiempo a floración, por lo tanto, puede resultar PDC, PDL o neutro
+PDL Neutro PDC
+PDL
+PDL PDL PDL PDL PDL
+PDC
+ACCIÓN CONJUNTA DEL FOTOPERÍODO Y LA TEMPERATURA
+Major y 
+Kiniry, 1992
+SOJA - Cober et al., 
+Crop Sci41, 2001
+Algunos modelos sugieren que el fotoperiodo sólo modifica 
+el TT o los días termales requeridos, sin modificar la Tb.
+Otros modelos (ej. Summerfield et al.) sugieren 
+modificaciones en la Tb con o sin modificaciones a la 
+temperatura
+Otros modelos sugieren que la Temperatura modifica la 
+sensibilidad al fotoperíodo y el fotoperíodo umbral
+•¿Qué períodos son sensibles al fotoperíodo?
+E IF F MF
+TRIGO
+GIRASOL
+MAIZ
+SOJA
+3. Vernalización
+• Las bajas 
+temperaturas que 
+intervienen en el 
+proceso de 
+Vernalización son 
+percibidas por el 
+ápice.
+• Por lo tanto, aquellas 
+plantas que tienen 
+este requerimiento 
+comienzan a 
+cumplirlo a partir de la 
+imbibición de las 
+semillas
+• Aceleración del desarrollo hacia 
+floración como consecuencia de la 
+exposición a un período de bajas 
+temperaturas
+• Requerimiento del cultivo de estar 
+expuesto a un período 
+determinado de bajas 
+temperaturas para acelerar o 
+poder progresar en su desarrollo 
+posterior
+¿Qué temperaturas son vernalizantes?
+TRIGOEfectividad relativa0
+1
+Temperatura
+-1/1 1/4 6/10 13/18
+Slafer and Whitechurch
+(2001)
+Devernalización
+Revierte los efectos de la vernalización al 
+interrumpir  el período de bajas temperaturas
+Pueden hacerlo temperaturas >18° (trihgo, 
+Slafer 1995 - en otros casos se han reportado 
+recién efectos a temperaturas mayores)
+En algunos casos la Vernalización interactúa 
+con el fotoperíodo
+El TIEMPO vernalizante varía con la 
+especie y el genotipo
+Efecto de la vernalización sobre el desarrollo
+Trigo, Slafer 1995 – La temperatura de vernalizació fue de 4°C
+• Diferente sensibilidad entre 
+genotipos
+• Diferente umbral de 
+saturación de la respuesta
+• Diferente sensibilidad entre 
+genotipos
+• Diferente umbral de 
+saturación de la respuesta
+• Sensibilidad posterior a 
+Iniciación floral 
+Efecto de la vernalización sobre el desarrollo
+4. EFECTOS CONJUNTOS A CAMPO
+ EJ. FECHA DE SIEMBRA Y GRUPOS DE MAUREZ EN SOJA
+Cambios en la Fecha de 
+siembra permitirán:
+I – ajustar el ciclo a la 
+estación de crecimiento
+II – ubicar las diferentes 
+etapas (principalmente las 
+críticas) bajo una oferta 
+ambiental esperable
+Las diferencias en duración 
+del ciclo son mayores en 
+siembras tempranas :todos 
+se acortan, pero los ciclos 
+largos se acortan 
+proporcionalmente más, 
+porque corresponden a GM 
+de mayor sensibilidad 
+fotoperiódica
+http://www.inia.uy/gras/Alertas-y-herramientas/Utilidades
+Y
+U
+E
+W
+Stapper and Fischer, 1990
+Vern  Fotp
+A partir de Griffith, NSW, Australia
+moderadoE moderado
+altoW moderado
+U bajo alto
+Y bajo moderado
+Si bien hay un acortamiento del 
+ciclo al retrasar la fecha de 
+siembra por efectos 
+fotoperiódicos y térmicos, la tasa 
+de acortamiento difiere entre 
+genotipos y, en los que tienen 
+importantes requerimientos de 
+vernalización, la floración 
+comienza a retrasarse en fechas 
+tardías
+EFECTOS CONJUNTOS A CAMPO: 
+FECHAS DE SIEMBRA Y SENSIBILIDAD A FOTOPERÍODO Y VERNALIZACION EN TRIGO
+-600
+-550
+-500
+-450
+-400
+-350
+-300
+-250
+-200
+-150
+-100
+-50
+0
+50
+100
+150
+200
+TT EM-ANT
+FECHA 1 – FECHA 2
+Sensibilidad a la
+vernalización
+Sensibilidad al
+fotoperíodo
+ProINTA Puntal
+Queaca Maipun
+ProINTA Milenium
+ProINTA Federal
+Don Ernesto INTA
+BuckSureño
+Klein Volcan
+Klein Estrella
+Klein Escudo
+ProINTA Elite
+ProINTA Real
+Klein Dragon
+Buck Arriero
+ProINTA Granero
+Klein Saagitario
+Queaca Huemul
+Buck Halcon
+Klein Delfin
+Queaca Millan
+Klein Cacique
+Klein Brujo
+Queaca Nahuel
+INTA Molinero
+Buck Pronto
+Triguero 230
+ProINTA Imperial
+Buck Chambergo
+Buck Guarani
+ACA 223
+Buck Arrayan
+Buck Panadero
+Buck Esmeralda (Candeal)
+Whitechurch, Slafer & Miralles (2007)
+Sensibilidad a Vernalización y Fotoperiodo: Variabilidad
+genotípica para el período de elongación de tallo
+Diferencias menores a
+50 °Cd indican insensibilidad
+al fotoperíodo y vernalización
+Los cambios en la duración de cada etapa al modificar la fecha de siembra 
+resultan del ambiente explorado  : Temperatura, fotoperíodo y frío (si se requiere)
+y de la sensibilidad a estos factores
+Como se conoce – al menos parcialmente - el control genético de las respuestas 
+fotoperiódicas (Ppd en trigo, E en soja) y de la vernalización (genes Vrn), así como 
+de la precocidad intrínseca (Eps) es posible contar con gran variabilidad en las 
+respuestas genotípicas a los factores que regulan el desarrollo
+En consecuencia, al cambiar la fecha de siembra se define la cantidad de hojas de 
+las Plantas, la ubicación temporal de eventos claves del desarrollo y su relación 
+con condiciones de estrés, condicionando la adaptabilidad genotípica.
+EN RESUMEN: 

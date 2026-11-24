@@ -1,0 +1,1735 @@
+=== Fuente: Reunión 2-Mertens - Insoluble dietary fibre - JAS 81- 2003.pdf ===
+
+Challenges in measuring insoluble dietary ﬁber
+D. R. Mertens1
+USDA, ARS, U.S. Dairy Forage Research Center, Madison, WI 53706-1108
+ABSTRACT: Objectives of this review are to deﬁne
+criteria for evaluating insoluble dietary ﬁber (IDF)
+methods, discuss their relevance in meeting the nutri-
+tional needs of ruminants and herbivores, describe
+problems with empirical IDF methods, and assess their
+relative merits. The challenge for the researcher, nutri-
+tionist, and analyst is to select ﬁber methods that are
+relevant and reproducible. Without relevance, there is
+no reason to measure IDF, and without reproducibility,
+there is no value in doing so. Insoluble dietary ﬁber is
+a complex matrix of chemical components, and there
+are no primary standards that can be used to establish
+the validity of methods. Thus, the deﬁnition of ﬁber is
+crucial in determining method relevance. For rumi-
+nants and nonruminant herbivores, the appropriate
+physiological deﬁnition for selecting IDF methods may
+be as follows: the organic fraction of the diet that is
+indigestible or slowly digesting and occupies space in
+the gastrointestinal tract. Crude ﬁber does not match
+this deﬁnition, and its use should be abandoned. Acid
+detergent ﬁber does not measure all IDF but is useful
+when included with other dietary ﬁber methods to de-
+scribe some feeds. Several current methods, including
+Key Words: Analytical Methods, Detergent Fiber, Dietary Fiber, Fiber Analysis, Repeatability, Reproducibility
+2003 American Society of Animal Science. All rights reserved. J. Anim. Sci. 2003. 81:3233–3249
+Introduction
+Fiber concentration has been a useful measure for
+describing feeds and estimating energy value for nearly
+150 yr (Dougall, 1956; Sullivan, 1964; Van Soest, 1964;
+Tyler, 1975). Hipsley (1953) was the ﬁrst to use the
+term dietary ﬁber to describe a nutritional property of
+diets. This generic term will be used to indicate the
+general concept of ﬁber as it relates to nutrition. The
+main challenges facing insoluble dietary ﬁber (IDF)
+methods are relevance and reproducibility. Without rel-
+evance, there is no reason for measuring dietary ﬁber;
+1Correspondence: 1925 Linden Drive, West (phone: 608-264-5228;
+fax: 608-264-5147; E-mail: davem@dfrc.wisc.edu).
+Received December 5, 2002.
+Accepted September 2, 2003.
+3233
+amylase-treated neutral detergent ﬁber (aNDF) and
+enzymatic-gravimetric methods, are relevant for mea-
+suring IDF. In a collaborative study, aNDF obtained
+a standard deviation of reproducibility (SDR) of 1.3%.
+Enzymatic-gravimetric methods of measuring IDF
+have been evaluated using too few feed materials to
+make statistically valid conclusions, but the SDR of
+IDF, for the few feeds evaluated, were similar to aNDF
+(0.9 to 2.4%). The enzymatic-chemical method of mea-
+suring IDF as the sum of insoluble nonstarch polysac-
+charides and lignin agrees with NDF, but the SDR of
+neutral sugar analysis using acid hydrolysis and chro-
+matography is greater (3.2%) than other dietary ﬁber
+methods. Empirical methods—such as those used to
+measure IDF, although based on nutritional concepts—
+actually deﬁne the fraction being measured and must
+be followed exactly, without modiﬁcation. The selection
+of a suitable method for IDF depends on the purpose
+of analysis. Analysis of sugars in insoluble polysaccha-
+rides provides more information but is less reproducible
+and more expensive to obtain. For routine nutritive
+evaluation of feeds and formulation of rations, aNDF
+seems to be a reasonable choice for measuring IDF
+based on relevance and reproducibility.
+without reproducibility among laboratories, there is no
+value in reporting dietary ﬁber results. To be relevant,
+IDF methods must provide useful nutritional informa-
+tion and must have utility as either a quantitative de-
+scription of a feed or a means of evaluating feeds or
+formulating rations. Reproducibility of IDF methods is
+crucial to have conﬁdence that results are accurate and
+comparable among research, regulatory, and feed-test-
+ing laboratories.
+Dietary ﬁber is unique among feed constituents be-
+cause it is deﬁned only on a nutritional basis (that is,
+in terms of the digestive and physiological effects that
+it elicits) but must be measured chemically. Thus, the
+nutritional deﬁnition for dietary ﬁber is key to method
+relevance. The usefulness of dietary ﬁber results vary
+from its value as an indicator of physiological health
+beneﬁts to its value as a predictor of digestibility and
+energy value of feeds. Furthermore, the relevance of
+Mertens3234
+dietary ﬁber data may be different between research
+and practical use, and vary within each use.
+Numerous methods have been proposed for measur-
+ing dietary ﬁber, and some have become routine analy-
+ses for research and practical use. The scope of this
+review will be limited to the ofﬁcial methods of ﬁber
+analysis as described by the Association of Ofﬁcial Ana-
+lytical Chemists (AOAC) International. These methods
+can be used in situations in which accuracy and preci-
+sion are required and often are the ones routinely used
+in research and practical applications to describe feed
+characteristics. Objectives of this review are to deﬁne
+the criteria needed to evaluate IDF methods, discuss
+the relevance of each method in meeting nutritional
+needs, describe analytical problems in reproducing em-
+pirical dietary ﬁber results, and assess the relative mer-
+its of IDF methods.
+Methods
+Throughout this discussion, the term materials will
+be used to describe individual feeds or lots of feed, sam-
+ple will be deﬁned as the portion of a material that is
+prepared for analysis, and test sample will be used to
+describe the part of the sample that is actually an-
+alyzed.
+AOAC Ofﬁcial Methods for Dietary Fiber
+With a few exceptions, dietary ﬁber is determined
+gravimetrically as the difference in weights of a test
+sample before and after extraction in a solution(s).
+There are two AOAC ofﬁcial methods for crude ﬁber
+(CF) in animal feeds: 962.09—Crude ﬁber in animal
+feed and pet foods, ceramic ﬁber ﬁlter method, or
+978.10—Crude ﬁber in animal feed and pet foods, frit-
+ted glass crucible method (AOAC, 2002). In the most
+recent versions of Method 962.09, the precoating of the
+Oklahoma ﬁlter screen or California Buchner funnel
+with ceramic ﬁber when analyzing extremely ﬁne sam-
+ples was clariﬁed. Acid detergent ﬁber and acid deter-
+gent lignin using sulfuric acid (ADSL) can be deter-
+mined using AOAC Ofﬁcial Method 973.18—Fiber (acid
+detergent) and lignin in animal feed. Several clariﬁca-
+tions have been included in the more recent version
+of Method 973.18, such as 1) description for cleaning
+crucibles, 2) speciﬁcation of particle size for preparing
+samples, 3) preextraction of test samples containing
+>10% fat with acetone or similar solvent, 4) time of
+soaking of residues after acid detergent extraction to
+remove acid, and 5) addition of formula to report results
+on a as-is or as-received basis (AOAC, 2002). Amylase-
+treated neutral detergent ﬁber (aNDF) can be mea-
+sured by AOAC Ofﬁcial Method 2002.04—Amylase-
+treated neutral detergent ﬁber in feeds using reﬂuxing
+in beakers or crucibles.
+There are several AOAC ofﬁcial methods for measur-
+ing total dietary ﬁber (TDF), IDF, and soluble dietary
+ﬁber (SDF). The ﬁrst AOAC ofﬁcial method for TDF
+was 985.29—Total dietary ﬁber in food, enzymatic-
+gravimetric method, which did not allow separation of
+dietary ﬁber into soluble and insoluble fractions. Insolu-
+ble dietary ﬁber can be determined using AOAC Ofﬁcial
+Method 991.42—Insoluble dietary ﬁber in foods and
+food products, enzymatic-gravimetric method (phos-
+phate buffer) and SDF by Method 993.16—Soluble di-
+etary ﬁber in food and food products, enzymatic-gravi-
+metric method (phosphate buffer). These methods for
+measuring TDF, IDF, and SDF have been superseded
+by Ofﬁcial Method 991.43—Total, soluble, and insolu-
+ble dietary ﬁber in foods, enzymatic-gravimetric
+method (MES-Tris buffer). Ofﬁcial Method 992.16—To-
+tal dietary ﬁber, enzymatic-gravimetric method, uses
+neutral detergent extraction with amylase treatment
+and measurement of SDF to determine TDF. More de-
+tailed analysis of TDF can be determined using Ofﬁcial
+Method 994.13—Total dietary ﬁber (determined as neu-
+tral sugar residues, uronic acid residues, and Klason
+lignin), gas chromatographic, colorimetric, gravimetric
+method, which is based on acid hydrolysis and chro-
+matographic analysis of sugar residues.
+Collaborative Studies
+One of the primary purposes of the AOAC is to spon-
+sor collaborative studies for evaluating analytical meth-
+ods under actual laboratory conditions with a diversity
+of materials, personnel, environments, equipment, and
+so on (AOAC, 1993). Under these conditions, the total
+precision of a method (reproducibility) can be deter-
+mined (Steiner, 1975), which the AOAC uses to make
+an informed decision about the acceptability of the
+method as ofﬁcial. The total precision of an analytical
+result is the sum of variability among laboratories and
+within laboratories. Reproducibility of a method is de-
+ﬁned as the variation among single results for the same
+material when determined by different laboratories
+(different analyst, apparatus, environment, time, etc.).
+Repeatability of a method is deﬁned as the variation
+among results for the same material determined in sim-
+ilar conditions within a laboratory (typically successive
+analyses within the same run: same analyst, apparatus,
+reagents, etc.).
+To assess the reproducibility and repeatability of a
+method requires replicated analyses of multiple materi-
+als within multiple laboratories. Youden (1975) sug-
+gested that the absolute minimum design for a collabo-
+rative study would be ﬁve laboratories analyzing three
+pairs of materials (low, medium, and high concentra-
+tions of the analyte). He also suggested that matched
+pairs of materials (Youden pairs) provide more statisti-
+cal information than blind duplicates for the same num-
+ber of analyses. The minimum design provides 30 obser-
+vations, which is the minimum number needed to ob-
+tain an acceptable estimate of standard errors
+(Wernimont and Spendley, 1985). Typically, the AOAC
+requests at least eight laboratories and ﬁve materials
+(duplicate analyses) for most collaborative studies
+Measuring insoluble dietary ﬁber 3235
+(AOAC, 1993). The materials should represent the full
+range of composition matrices to which the method will
+be applied. A study with more than one material would
+result in the following statistical model to obtain esti-
+mates of variation pooled across materials (Wernimont
+and Spendley, 1985):
+Yn = /H9262 + Li + Mij + Li /H11554Mij + rijk
+where
+Yn = result for a single analysis of the nth material,
+/H9262 = mean observation,
+Li = ith laboratory,
+Mij = jth material analyzed in the ith laboratory,
+Li/H11554Mij = ith laboratory by jth material interaction, and
+rijk = kth replicate of the jth material within the ith
+laboratory.
+An acceptable method must have a nonsigniﬁcant Li/H11554Mij
+interaction and variations within and among labora-
+tories that are small relative to the variation among
+materials. Assuming the sources of variation are inde-
+pendent, the variances can be partitioned so that the
+variation for reproducibility of the method can be cal-
+culated:
+σ2 R = σ2 L + σ2 r
+where
+= variance of reproducibility of an individual mea-σ2 R
+surement from any laboratory,
+= variance among laboratories, andσ2 L
+= variance of replicated analysis within labora-σ2 r
+tories and the standard deviation of reproducibil-
+ity (SDR) and of repeatability (SDr) are the
+square roots of the respective variances.
+This model applies to study designs in which replicates
+are run successively or within the same run or day.
+Because replicates are analyzed successively, this
+model assumes that repeatability within a laboratory
+is primarily a function of random variation among repli-
+cate test samples and that techniques, equipment, re-
+agents, and so on, within laboratories do not vary
+among runs or days.
+However, it is reasonable to assume that within-labo-
+ratory repeatability has two sources of variation: repli-
+cation within a run in which conditions are relatively
+uniform with respect to environments, apparatus, re-
+agents, and so on, and variation among runs, which
+is associated with uncontrollable laboratory conditions
+over longer periods of time. These sources of repeatabil-
+ity within laboratories can be assessed by designing
+a collaborative study in which laboratories replicate
+analyses in different days or runs.
+Horwitz (1982) compared the results of numerous
+AOAC collaborative studies and observed that the rela-
+tive standard deviation of reproducibility (RSDR = SDR/
+mean) was related to the concentration of the analyte
+across a wide variety of methods and generated a for-
+mula for the Horwitz relative standard deviation of
+reproducibility (HRSDR):
+HRSDR (% of the mean) = 2e(1−0.5/H11554log10C)
+where C is the fractional concentration of the analyte.
+Thompson and Lowthian (1997) conﬁrmed that the
+HRSDR provides an expected standard deviation of re-
+producibility for any method, which varies from 4% of
+the mean at 1% concentration to 2% of the mean at >90%
+concentration. The HRSDR indicates that the expected
+standard deviation of most feed analysis methods,
+which have means of 10 to 60% of DM, would be 2 to 3%
+of the mean. Dividing the RSDR observed for a speciﬁc
+method by the HRSDR generates the Horwitz ratio
+(HORRAT), which permits the comparison of reproduc-
+ibility among diverse methods (Horwitz et al., 1990). A
+HORRAT of 1.0 or less indicates that a method has
+reproducibility similar to other methods approved by
+AOAC. With some exceptions, a HORRAT of >2.0 sug-
+gests that a method is unacceptable with respect to the
+reproducibility of other ofﬁcial methods.
+Proﬁciency Testing of Laboratories
+The ongoing validity of each individual laboratory’s
+ability to generate reliable results is accomplished by
+proﬁciency testing or performance check programs. In
+these programs, carefully prepared, homogeneous sam-
+ples are analyzed by participating laboratories to com-
+pare results. The Association of American Feed Quality
+Control Ofﬁcials operates a check sample program in
+which results of participating laboratories are summa-
+rized and reported back to the participants for use in
+monitoring their results. The National Forage Testing
+Association (NFTA) was established under the aus-
+pices of the American Forage and Grassland Council,
+the National Hay Association, and commercial forage
+analysis laboratories to certify the proﬁciency of partici-
+pating laboratories. The results of each laboratory are
+compared to a consensus reference value for each mate-
+rial and, if they fall within a speciﬁed range, the proﬁ-
+ciency of the laboratory is certiﬁed by the NFTA (Mer-
+tens, 1998b). Results for other analyses are monitored
+by NFTA, but only DM, CP, ADF, and aNDF are used
+for certiﬁcation of proﬁciency.
+Ideally, materials used for proﬁciency testing would
+have a known composition for each analyte. However,
+there are no primary standards for dietary ﬁber or dry
+matter, and it is necessary to establish reference values
+for each material used in a proﬁciency-testing program.
+The NFTA program allows each laboratory to select
+the method used to measure each of the analytes, and
+requires only that laboratories analyze the proﬁciency-
+testing samples with the same method they use in rou-
+tine practice. The results of each laboratory are com-
+Mertens3236
+pared to a consensus value, the reference method aver-
+age (RMA) for each analyte (Mertens et al., 1994). The
+reference method for each analyte is either an AOAC
+ofﬁcial method or a method accepted by the NFTA (Un-
+dersander et al., 1993). The results used to calculate the
+RMA are selected based on each laboratory’s answers to
+a questionnaire about the speciﬁc details of their rou-
+tine methods to determine whether they followed the
+reference method. Results of laboratories using refer-
+ence methods are censured by selecting only those
+within one standard deviation of the median; that is,
+results are ranked and the top and bottom 15.8% are
+discarded. Typically, 10 to 30 laboratory results are
+used to generate the RMA. Censuring ensures that
+anomalous results are not used to determine the RMA
+to which all laboratories are compared for certiﬁcation
+of proﬁciency. Six materials are analyzed each year, and
+laboratories are certiﬁed as proﬁcient if their results fall
+within ±3/H11554HRSDR of the RMA for CP, ADF, and aNDF
+and within a modiﬁed HRSD for DM.
+Discussion
+Relevance of Dietary Fiber Methods
+Dietary ﬁber is a nutritional entity that can be truly
+measured only by the digestive process of the animal.
+In the laboratory, chemical or enzymatic methods are
+devised to measure dietary ﬁber, but accuracy and rele-
+vance of a method is based on how well the analytically
+measured ﬁber matches its nutritional deﬁnition. Thus,
+the development of ﬁber methods must be based on an
+acceptable deﬁnition of ﬁber. The concept of dietary
+ﬁber for humans was developed initially by Burkitt et
+al. (1972) and Trowell (1974) to describe plant cell wall
+components in the diet that were resistant to hydrolysis
+by mammalian digestive enzymes. Later, Trowell et
+al. (1976) broadened the deﬁnition of dietary ﬁber to
+include all indigestible polysaccharides, such as gums
+and mucilages, whether or not they originate from plant
+cell walls. This physiological-chemical deﬁnition of di-
+etary ﬁber as “polysaccharides and remnants of plant
+materials that are resistant to hydrolysis (digestion)
+by human alimentary enzymes” is the basis for AOAC
+ofﬁcial methods for TDF that have been accepted for
+human food labeling (Cho et al., 1997). Because TDF
+is based solely on resistance to digestion, it contains
+both SDF and IDF. Partitioning TDF into SDF and
+IDF may provide important nutritional information for
+nonruminants because their recovery in the feces and
+impact on the physiological processes of digestion (fer-
+mentability, viscosity, water-holding capacity, disten-
+sion, etc.) may be quite different.
+The deﬁnition of TDF for humans, which limits di-
+etary ﬁber to components that cannot be digested by
+mammalian enzymes, may be unduly restrictive for ru-
+minants and herbivores, which have a symbiotic rela-
+tionship with microorganisms and other adaptations of
+digestive physiology that enable signiﬁcant digestion
+of dietary ﬁber. In the most general terms, dietary ﬁber
+is the coarse-textured portion of edible materials that
+is difﬁcult to digest and adds bulk to digesta and feces.
+Mertens (1985) proposed that dietary ﬁber for herbi-
+vores be deﬁned as the “indigestible or slowly digesting
+portion of feeds that occupies space in the gastrointesti-
+nal tract.” Perhaps to distinguish dietary ﬁber from
+indigestible ash, this deﬁnition should be modiﬁed to
+include only “indigestible or slowly digesting organic
+matter of feeds that occupies space in the gastrointesti-
+nal tract.” These deﬁnitions of dietary ﬁber exclude
+rapidly fermenting polysaccharides of plant cell walls
+(such as pectin) and soluble polysaccharides that do not
+occupy space in a liquid environment (such as fructans
+and gums), but would include slowly fermented, com-
+plex polysaccharides that are digested by fermentation
+in the alimentary tract of herbivores (such as cellulose
+and hemicellulose). Essentially, this more restricted
+deﬁnition of dietary ﬁber describes IDF, which is the
+feed component that is variable in digestibility and af-
+fects the total DM or OM digestibility of feeds or diets
+by ruminants. It excludes the rapidly fermentable SDF
+because they have true digestibilities similar to plant
+cell contents. Although SDF may alter ruminal fermen-
+tation, its effect on the health and performance of rumi-
+nants are unknown. Insoluble dietary ﬁber affects the
+digestibility and passage rate of feeds and diets in all
+animals. Due to their high intakes of dietary ﬁber, the
+space-occupying characteristics of IDF and its require-
+ment for chewing to reduce particle size for passage
+through the alimentary tract may be factors that make
+IDF more important to herbivorous animals than SDF.
+For a dietary ﬁber method to be practicable, it must
+apply to all potential feed ingredients and compound
+mixtures of feeds. Therefore, the restriction that dietary
+ﬁber comes only from plant sources is practically inap-
+propriate and nutritionally inconsistent with the deﬁ-
+nition of dietary ﬁber. The strictly physiological deﬁni-
+tion does not require that dietary ﬁber originates from
+plants or their cell walls, and even TDF as deﬁned for
+humans contains compounds that do not occur natu-
+rally in plants. Although ﬁber has been linked to plant
+cell walls because they contain similar chemical compo-
+nents in forages, ﬁber and cell walls are not synony-
+mous terms. Insoluble dietary ﬁber is not cell walls
+because analytical methods often isolate insoluble com-
+ponents in feeds other than plant cell walls, and cell
+walls are not IDF because some plant cell wall compo-
+nents, such as pectin, are rapidly fermented and are
+solubilized by many ﬁber methods.
+The goal of dietary ﬁber methodology is to accurately
+evaluate nutritive value and ultimately be useful in
+improving the nutritional quality of animal diets. Theo-
+retically, dietary ﬁber methods should be developed to
+ﬁt a nutritional deﬁnition and not vice versa. However,
+it is unlikely that any chemical or enzymatic measure-
+ment will mimic all of the nutritional effects of ﬁber in
+the animal. Although dietary ﬁber should be deﬁned
+by nutritional concepts and not analytical methodology,
+Measuring insoluble dietary ﬁber 3237
+practically, dietary ﬁber is an empirical measurement
+that is deﬁned by the method per se. In this situation,
+consensus dietary ﬁber values can be generated for ref-
+erence materials by averaging the results of several
+laboratories that follow exactly a prescribed method.
+To ensure the accuracy of results, efforts are needed
+to generate reference materials that can be used to
+document the accuracy of dietary ﬁber analyses among
+research, regulatory, and feed-testing laboratories.
+A practical method should not require exotic instru-
+ments, reagents, equipment, laboratory environment,
+and the like so that it is suitable for routine analyses
+by feed-testing and regulatory laboratories. In addition,
+the method should be rapid, convenient, and economical
+to allow multiple samples of materials to be analyzed
+in a timely manner. Given the variability in materials
+and their sampling before being sent to the laboratory,
+routine methods should be designed to allow multiple
+determinations, rather than be so expensive or time
+consuming that nutritional decisions must be based on
+a single sample. Speciﬁcity is required to ensure that
+the method measures ﬁber accurately without interfer-
+ence or artifacts that alter the fractions being mea-
+sured. Finally, a method must have a clearly deﬁned
+limit of reliability that determines the method’s ability
+to discriminate among analyte levels in materials and
+detect concentrations different from zero.
+For research, speciﬁc methods that require sophisti-
+cated equipment and techniques may be needed to pro-
+vide detailed analyses for comparisons among treat-
+ments or to assess molecular or structural characteris-
+tics of dietary ﬁber components. However, if their
+conclusions are to be relevant to ﬁeld applications, re-
+searchers have a burden to provide routine analytical
+information as well as their detailed analyses to estab-
+lish a connection between research ﬁndings and ﬁeld
+applications. In addition, researchers have a responsi-
+bility to ensure that routine methods used in their labo-
+ratory correspond to those used in the ﬁeld. Therefore,
+research laboratories should participate in proﬁciency-
+testing programs with regulatory and feed-testing labo-
+ratories, and provide their performance statistics in
+reports and manuscripts.
+Reproducibility of Dietary Fiber Methods
+After it has been established that a dietary ﬁber
+method is relevant because it matches the deﬁnition of
+ﬁber, it must be established that it is reproducible.
+Reproducibility is related to how well analytical results
+are measured (Steiner, 1975). It is a deceptively simple
+term that represents the sum of variation associated
+with accuracy and precision. Accuracy is the ability to
+measure the “true” value of a primary standard with
+known composition or of the consensus concentration
+of a reference material that is determined by a group
+of analysts exactly following a deﬁned method. Preci-
+sion is the ability to repeat a measurement, or more
+quantitatively, the variation among repeated results.
+Figure 1. Illustration of the concepts of accuracy and
+precision: a) inaccurate and imprecise, b) accurate and
+imprecise, c) inaccurate and precise, and d) accurate
+and precise.
+As illustrated in Figure 1, accuracy and precision are
+independent characteristics of a method’s reproducibil-
+ity. The error associated with precision (scatter about
+the average value) tells us nothing about the error asso-
+ciated with accuracy (how close the average result
+matches the true value). Yet we often hear that the
+results of a method used in a laboratory must be correct
+because duplicate variation (only a measure of preci-
+sion) was small. Precision does not guarantee accuracy
+because it is possible to precisely determine the wrong
+result (Figure 1c). No one would argue that an inaccu-
+rate and imprecise method (Figure 1a) is useful; how-
+ever, it could be argued that precision is not particularly
+relevant because the true value can be detected using
+an imprecise method simply by averaging a large num-
+ber of replications (Figure 1b). Conversely, researchers
+sometimes argue that precision is more important than
+accuracy because the true value is unattainable or irrel-
+evant when we are only concerned about detecting dif-
+ferences among treatments or feeds. However, if data
+are compared among institutions or laboratories, if new
+knowledge is built on one another’s results, or if re-
+search conclusions are to be applicable in the ﬁeld, then
+research analytical results must be both accurate and
+precise (Figure 1d) to allow others to reproduce and use
+the information that is generated.
+Statistical reproducibility is the total variation of an
+individual dietary ﬁber measurement from any labora-
+tory. It is the sum of the variance of results among and
+within laboratories. Variances among laboratories or
+among days within laboratories are systematic because
+they represent a consistent pattern of deviations in
+mean results. These systematic biases are related to
+the ways methods are performed, equipment is adjusted
+Mertens3238
+or calibrated, or reagents are prepared that cause con-
+sistent differences. For an ideal method, the variance
+among laboratories, among days within laboratories,
+and among material × laboratory interactions would be
+zero, and the variance of individual results from any
+laboratory would be equal to the variance among repli-
+cate analyses. This replication variance is due primarily
+to random differences in test samples that are taken
+from prepared samples that are not completely homoge-
+neous. To truly measure within-laboratory repeatabil-
+ity, analyses must be performed in different runs or
+days. This ensures that the results would be repeatable
+in that laboratory if measured at some future time;
+therefore, they are valid for making comparisons with
+other results generated within that laboratory. Replica-
+tion within a run, particularly if measured consecu-
+tively, does not provide such assurance.
+Unlike research laboratories, commercial feed analy-
+sis laboratories typically analyze only one test sample
+for each material received. Thus, the reproducibility
+(approximate 95% conﬁdence interval) among single
+analyses performed by two laboratories on representa-
+tive samples of the same material is 2.8/H11554SDR. The repro-
+ducibility of a method is a quantitative measure of its
+robustness, or its power and sturdiness in measuring
+the analyte in all types of materials using generally
+accepted practices within laboratories. Several perfor-
+mance characteristics of a method determine its repro-
+ducibility or robustness: ruggedness, practicality, speci-
+ﬁcity, and limit of reliability (Wernimont and Spendley,
+1985). Ruggedness refers to a method’s ability to gener-
+ate acceptable results when small, uncontrolled
+changes in operating conditions occur. Ruggedness test-
+ing of a method (Youden, 1975) involves evaluating the
+impact of making small perturbations in the reagents
+(concentrations, sources, etc.), conditions (temperature,
+time, etc.), equipment (settings, models, etc.), and steps
+(skipping or modifying). Ruggedness testing can be a
+daunting task when methods are complex and involve
+sophisticated equipment, and typically these methods
+are less thoroughly tested. Thus, complex methods that
+are less rugged are more demanding in expertise and
+in exactness of following procedures than are simple
+solubility methods.
+Types of Dietary Fiber Methods
+and Sources of Variation
+Fiber methods are typically categorized into three
+types (chemical-gravimetric, enzymatic-gravimetric, or
+enzymatic-chemical) based on the ways ﬁbrous residues
+are isolated and measured. Isolation of dietary ﬁber
+residues is done by extraction in chemical solutions,
+enzymatic hydrolysis of nonﬁbrous constituents, or a
+combination of the two. After the ﬁbrous residue is
+isolated, it is measured either gravimetrically
+(weighing the residue) or chemically (hydrolyzing the
+residue and measuring individual components, such as
+sugars and lignin).
+A primary factor affecting gravimetric reproducibil-
+ity is the accuracy and precision of the balance. Accu-
+racy of a balance depends on its ability to report the
+true value when tested with a known weight and its
+smallest weight of detection. It is clear that balances
+should be routinely maintained and standardized, and
+should be calibrated or checked for accuracy at each
+use. Even with daily calibration of balances, we have
+observed an unexplained systematic bias that is consis-
+tent for all weights taken within weighing sessions.
+Correcting for blanks accounts for this systematic bias
+in weighing and has greatly improved the precision of
+replicates and the accuracy of results for test samples
+that have small residue weights (such as lignin or di-
+etary ﬁbers <10% of DM) in our laboratory. The im-
+provement in the accuracy of results occurs because the
+systematic bias is often a signiﬁcant proportion of the
+residue weight (Mertens, 2002). The problem of the
+lowest weight of detection may be less obvious because
+laboratories occasionally weigh test samples or residues
+only to the nearest 0.01 g without recognizing that this
+negatively affects results. If test samples of 0.50 g are
+used, results can be reported legitimately to only two
+signiﬁcant digits (nearest 1 percentage unit) because
+this is the limit of information in the original weight
+regardless of the number of digits generated during cal-
+culation.
+The reproducibility of results is also determined by
+the precision of weighing the test sample, such as, if
+the precision of this balance is ±0.01, then the 95%
+conﬁdence interval for the test sample weight is 0.48
+to 0.52 and the potential variation in weighing over-
+whelms the remaining factors associated with method
+variability. However, the converse of this situation is
+not true. If the balance used weighs to the nearest
+0.0001 g, this does not guarantee four signiﬁcant digits
+of precision because other characteristics of the method
+can affect the precision of results. Sokal and Rohlf
+(1981) suggest that, in general, the number of decimal
+places for reporting results should be based on the stan-
+dard error of the mean using the following guideline:
+divide the standard error by 3 and use the decimal place
+of the ﬁrst nonzero digit to determine the signiﬁcant
+digits to report. Because the standard error of most
+dietary ﬁber methods is less than ±2.5, results should
+typically be reported to the nearest 0.1%.
+Cherney et al. (1985) demonstrated that the variation
+in ﬁber results is also affected by the amount of test
+sample. The effects of weighing error increased as the
+test sample amount decreased, especially when <0.3 g
+(for alfalfa containing about 26% NDF and 18% ADF).
+Goering and Van Soest (1970) reported that weighing
+materials hot directly from the oven instead of transfer-
+ring oven-dried materials to a desiccator before
+weighing is not only faster and more labor efﬁcient, but
+also more accurate. The accuracy of the hot-weighing
+technique is better than when using desiccators be-
+cause any change in the zero value of the balance is
+recorded and subtracted from the hot weight to arrive
+Measuring insoluble dietary ﬁber 3239
+at the true weight of the material. In effect, this corrects
+each weight for slight changes in the balance between
+weighings. In addition, hot-weighing eliminates the
+variation due to the use or inadequate maintenance of
+desiccators. Both Horwitz et al. (1990) and Mertens
+(2002) reported that the minimum SDR for gravimetric
+methods is about 0.3 to 0.4 percentage units when the
+concentration of the analyte approaches zero. Thus, the
+HORRAT may be an inadequate estimate of the ex-
+pected reproducibility of gravimetric methods when fac-
+tional concentrations are <0.1. In gravimetric methods,
+the error associated with weighing does not approach
+zero as the analyte concentration approaches zero as
+predicted by the HRSDR equation, which is based on
+all methods including instrumental methods that have
+small limits of detection (approximately parts per bil-
+lion or less).
+Crude Fiber
+Crude ﬁber was supposed to measure the indigestible
+ballast of feeds. The method was based on chemical
+extraction with alkali and acid solutions, which were
+the known characteristics of the digestion process be-
+fore enzymes were discovered. The organic matter lost
+during ashing is calculated as CF, which was initially
+called wood ﬁber or crude woody ﬁber (Dougall, 1956).
+It was discovered that CF was digested as it passed
+through the alimentary tract of ruminants (Henneberg
+and Stohman, 1860), but their method became a stan-
+dard part of the proximate analysis scheme. The CF
+method was ﬁrst approved as an ofﬁcial method for the
+AOAC in 1890 (Wiley, 1890), and it became the de facto
+deﬁnition of dietary ﬁber for over 100 yr. The current
+AOAC Ofﬁcial Method 920.86 was adopted for ﬂour in
+1920 and Ofﬁcial Method 962.09 was adopted for ani-
+mal feeds in 1962. The CF method is extremely robust
+in that it can be easily measured in all types of feeds
+and foods and can be reproduced within and among
+laboratories. Although the method is empirical (deﬁned
+solely by the method used to measure it), CF has been
+useful, historically, in estimating digestibility or energy
+value within feed types.
+The major deﬁciency of CF is its lack of relationship
+to any acceptable nutritional deﬁnition of dietary ﬁber
+and its inability to advance understanding about physi-
+ological responses to dietary ﬁber or its impact on di-
+gestibility. The proximate system partitions carbohy-
+drates and allied compounds into two fractions: CF,
+which is measured analytically, and nitrogen-free ex-
+tract (NFE), which is calculated by difference (NFE =
+100 − CP − EE − CF − ash). Neither of these fractions
+meets criteria for uniform nutritional availability or
+for the deﬁnition of dietary ﬁber (Van Soest, 1967).
+Depending on the feed material, CF may contain only
+40 to 100% of the cellulose, 15 to 20% of the pentosans
+from hemicellulose, and 5 to 90% of the lignin. Lignin is
+dissolved, especially in grasses, by the alkali extraction
+step in the CF method that is used to remove protein.
+Because much of the hemicellulose and lignin is in-
+cluded in the NFE fraction, the digestibility of NFE,
+which is supposed to contain the easily digested carbo-
+hydrates, is less than the digestibility of CF for 25% of
+the feeds listed by Morrison (1956). Currently, CF is
+used only for quality control and speciﬁcation of feeds
+(minimum CF) by regulatory agencies. Its lack of accu-
+racy in measuring dietary ﬁber and abandonment by
+researchers and practicing nutritionists suggests that
+its use for feed regulation should be abolished.
+Acid Detergent Fiber and Acid
+Detergent Sulfuric Lignin
+Like CF, ADF (AOAC Ofﬁcial Method 973.18) is an
+empirical method that was designed to be a preparatory
+step for the determination of ADSL. The reason for
+specifying that lignin was determined using sulfuric
+acid is that ADF can also be the preparatory step for
+determining lignin using permanganate (ADPL);
+therefore, the term acid detergent lignin is not adequate
+to differentiate between the two correlated but different
+measures of lignin (ADPL typically has higher values
+than ADSL). In the ADF method, protein is removed
+from the ﬁbrous residue by the cationic detergent cetyl
+trimethylammonium bromide to minimize the nitrogen
+contamination of lignin. Acid extraction is used to re-
+move nonﬁbrous compounds while minimizing the
+losses of alkali-labile lignin. Acid detergent ﬁber does
+not meet the nutritional deﬁnition of dietary ﬁber or
+IDF for ruminants because acid-soluble hemicelluloses
+are removed and some rapidly fermented pectin is not.
+The precipitation of pectins in strong acid may be the
+reason that some feeds containing high proportions of
+pectin (e.g., immature alfalfa, citrus pulp) may have
+ADF results that are higher than NDF.
+The reproducibility of the ADF determined during an
+AOAC collaborative study (Van Soest, 1973) was good,
+with a SDR of 1.13 and a HORRAT of 1.2 (Table 1). The
+SDr was approximately one-third of the total SDR of
+individual analyses among laboratories. This indicates
+that the variation among laboratories is twice the varia-
+tion within laboratories, which falls within the typical
+range for most methods (Horwitz, 1982). The SDR for
+ADSL was 0.62, but the HORRAT was 3.1, primarily
+because the small mean of ADSL results in an unrealis-
+tically small HRSDR for a gravimetric method (Mer-
+tens, 2002).
+The keys to measuring ADF are to standardize the
+acid to 1 N, properly prepare samples for analysis, and
+adequately soak ﬁber residues in hot water after extrac-
+tion to remove acid and acid detergent solubles. To
+prepare samples for ADF analyses, they must be dried
+at <60°C and ground through a cutter mill with a 1-
+mm screen. Cyclone mills tend to produce a ﬁner grind
+with the same apertures in the screen, so a 2-mm screen
+in a cyclone mill results in a particle size similar to
+that of a 1-mm screen in a cutter mill. It has recently
+been discovered that samples with fat >10% can result
+Mertens3240
+Table 1. Repeatability and reproducibility of the acid
+detergent ﬁber (ADF) and acid detergent sulfuric
+lignin (ADSL) AOAC Ofﬁcial Method 973.18
+(Van Soest, 1973)
+Item ADF ADSL
+Number of materials 6 6
+Number of laboratories 10 10
+Mean, % of DM 39.47 6.66
+SDr a 0.38 0.29
+SDR b 1.13 0.62
+Repeatability within laboratoriesc 1.06 0.81
+Reproducibility among laboratoriesd 3.16 1.74
+HORRATe 1.24 3.10
+aStandard deviation of repeatability within laboratories.
+bStandard deviation of reproducibility among laboratories.
+c2.8/H11554SDr, which is the approximate 95% conﬁdence interval for
+duplicate analyses within a laboratory.
+d2.8/H11554SDR, which is the approximate 95% conﬁdence interval for
+single analyses between two laboratories.
+eHorwitz ratio, which is the SDR divided by the expected SDR based
+on the equation of Horwitz (1982).
+in ADF values that are artiﬁcially high. Therefore, the
+most recent version of the AOAC Ofﬁcial Method 973.18
+was modiﬁed to require preextraction of the test sample
+with acetone or other suitable solvents to remove fat
+when the material contained >10% fat. The method was
+also modiﬁed to indicate that extracted ﬁber residues
+must be soaked three times in 90 to 100°C water for at
+least 3 min to equilibrate acid from within particle
+pores. It is essential that all residual acid be removed
+from the ﬁber before it is dried. During drying of ADF,
+any residual acid is wicked to the surface of particles
+and concentrated as water evaporates. Residual concen-
+trated sulfuric acid will char the edges of particles,
+especially when heated in a >100°C oven. Blackened
+or charred ADF residues indicate that acid was not
+completely removed during the residue-washing steps
+and that ADF results will be low.
+Although it is not an AOAC ofﬁcial method, there are
+circumstances when it may be desirable to measure
+ADF sequentially (sADF) after neutral detergent ex-
+traction. Sequentially determined ADF is almost al-
+ways less than ADF determined by the ofﬁcial method
+because neutral detergent removes some components
+that are not removed as well by acid detergent, such
+as pectins and tannin or phenolic acid complexes. Hintz
+et al. (1996) determined ADF sequentially on NDF resi-
+dues that were isolated using heat-stable α-amylase
+with (aNDF) or without sulﬁte (neutral detergent resi-
+due, NDR). When sADF was determined on NDR, val-
+ues were 1 to 3 percentage units lower than ADF mea-
+sured using the ofﬁcial method and this difference in-
+creased to 2 to 4 percentage units when sADF was
+determined on aNDF (Table 2).
+Neutral Detergent Fiber
+The NDF method was designed initially to isolate the
+insoluble dietary ﬁber components in plant cell walls:
+cellulose, hemicellulose, and lignin (Van Soest and
+Wine, 1967). The signiﬁcant nutritional attribute of
+neutral detergent extraction is that it separates feeds
+into two major fractions that are distinctly different in
+their digestibility and intake by ruminants and herbi-
+vores, and in many cases by nonruminants as well (Mer-
+tens, 1993). Whereas NDF has variable digestibility,
+occupies space in the alimentary tract that can be a
+physical constraint on intake, and requires signiﬁcant
+chewing to reduce particle size, neutral detergent solu-
+bles (NDS), which represent the inverse of NDF (NDS
+= 100 − NDF), have nearly constant true digestibilities
+near 100%, occupy little space because they are rapidly
+solubilized, and require minimal chewing. Van Soest
+(1967) reported that NDS have a true digestibility of
+about 98% and a relatively constant endogenous loss
+of 12.9% when consumed by ruminants at maintenance
+levels of intake. The level of intake is important be-
+cause, at maintenance levels of intake, herbivores, espe-
+cially sheep, chew feeds adequately, which allows com-
+plete digestion of NDS.
+Neutral detergent ﬁber is measured using a chemical
+solubility-gravimetric method. Proteins are extracted
+using anionic detergent and sodium sulﬁte. Fats are
+removed using hot detergent and acetone. Soluble di-
+etary ﬁber is removed primarily by hot detergent ex-
+traction, and the solubility of easily fermented pectin
+is enhanced by chelating calcium bound in pectin com-
+plexes using EDTA. In the original NDF method (Van
+Soest and Wine, 1967), soluble carbohydrates and
+starch were extracted by hot solutions. It was discov-
+ered that the original NDF method inadequately re-
+moved starch from some feeds and foods. Numerous
+modiﬁcations of the NDF method have been proposed
+since the original publication of the method (McQueen
+and Nicholson, 1979; Robertson and Van Soest, 1980;
+Mascarenhas Ferreira et al., 1983; Van Soest et al.,
+1991). Of these modiﬁcations, the NDR method of Rob-
+ertson and Van Soest (1980), which uses a heat-stable
+α-amylase to remove starch during detergent extraction
+and eliminated the use of sodium sulﬁte, became the
+de facto method for measuring NDF.
+The original NDF method of Van Soest and Wine
+(1967) was never evaluated by a collaborative study.
+However, a method for measuring IDF based on the
+NDR modiﬁcation of Roberson and Van Soest (1980)
+was evaluated as a method for measuring the IDF por-
+tion of TDF (Mongeau and Brassard, 1990). Although
+most of the materials used in the collaborative study
+were human foods, the comparison for wheat bran may
+represent results for high-ﬁber by-product feeds (Table
+3). The SDR for wheat brans (±1.92) was slightly higher
+than that observed for ADF (±1.13), and the RSDR was
+also slightly higher (4.7 vs. 2.9%). The SDR was higher
+for TDF compared to IDF in wheat brans and foods,
+suggesting that the SDF contained in TDF may be less
+reproducible than IDF.
+The aNDF method was developed as an IDF method
+that could be used on all feeds, including forages,
+Measuring insoluble dietary ﬁber 3241
+Table 2. Comparison of acid detergent ﬁber (ADF) determined by AOAC Ofﬁcial
+Method (973.18) to ADF determined sequentially after neutral detergent extraction
+using heat-stable α-amylase with (sADFaNDF) or without sodium sulﬁte (sADFNDR)
+Difference between ADF and:
+sADFNDR sADFaNDF
+Feed type ADF (−sulﬁte) (+sulﬁte) sADFNDR sADFaNDF
+Heated by-products 14.1 11.5 10.2 2.6 3.9
+Oilseed meals 17.6 16.5 15.2 1.1 2.4
+Grass forages 45.2 42.4 41.1 2.8 4.1
+Legume forages 32.9 29.7 28.7 3.2 4.2
+grains, oilseeds, and plant and animal by-products used
+for animal feeds (Mertens, 2002). The method is a modi-
+ﬁcation of the original NDF method, which included
+the use of sodium sulﬁte, but added the use of a heat-
+stable α-amylase standardized to remove starch during
+neutral detergent extraction and with speciﬁc modiﬁ-
+cations (sand and other ﬁlter aids) that solve ﬁltering
+difﬁculties for all types of materials. The aNDF method
+allows results to be reported as either aNDF with ﬁber-
+associated ash or as ash-free aNDF organic matter (aN-
+DFom), and each of these results can be reported with
+or without blank correction. It is anticipated that aNDF
+will be reported for routine feed analyses because it
+does not require an ashing step before reporting results.
+Although crucibles are routinely cleaned by ashing,
+that step represents an additional time delay in re-
+porting results and most, if not all, commercial feed
+testing laboratories currently report aNDF.
+For the most accurate estimate of insoluble dietary
+ﬁber, blank-corrected aNDFom is recommended. Blank
+correction is especially important when ﬁber results
+are <25% aNDF because systematic weighing variation
+can have substantial impact on these small residue
+weights (Mertens, 2002). Reporting results as aNDFom
+more accurately matches the deﬁnition of insoluble di-
+etary ﬁber as organic matter and improves the accuracy
+of calculating nonﬁbrous carbohydrates because the ash
+Table 3. Results of a collaborative study (Mongeau and Brassard, 1990) to evaluate
+AOAC Ofﬁcial Method 992.16 for total dietary ﬁber (TDF) or insoluble dietary ﬁber
+(IDF), which was determined using neutral detergent extraction with α-amylase (NDR)
+Item IDF(NDR) IDF(NDR) TDF TDF
+Material used Wheat bran Foods Wheat bran Foods
+Number of materials 2 6 2 6
+Number of laboratories 9/10 7/10 9/10 8/10
+Mean, % of DM 40.48 6.95 46.80 10.38
+SDr a 0.71 0.45 0.86 0.70
+SDR b 1.92 0.70 2.80 1.02
+Repeatability within laboratoriesc 1.99 1.26 2.39 1.96
+Reproducibility among laboratoriesd 5.38 1.96 7.86 2.86
+HORRATe 1.57 2.55 2.02 2.67
+aStandard deviation of repeatability within laboratories.
+bStandard deviation of reproducibility among laboratories.
+c2.8/H11554SDr, which is the approximate 95% conﬁdence interval for duplicate analyses within a laboratory. d2.8/H11554SDR, which is the approximate 95% conﬁdence interval for single analyses between two laboratories. eHorwitz ratio, which is the SDR divided by the expected SDR based on the equation of Horwitz (1982).
+in ﬁber is not subtracted twice. It is often unclear
+whether NDF results reported in the literature are ash-
+free organic matter, but neither the original method of
+Van Soest and Wine (1967) or the handbook of Goering
+and Van Soest (1970), which are often cited as sources
+of methods, indicate that NDF should be determined
+as ash-free organic matter.
+Determination of aNDF has SDR among laboratories
+(Table 4) similar to that reported for ADF (Table 1). It
+is surprising that the SDr within laboratories, which is
+due primarily to random variation in test samples, was
+a much larger proportion of SDR for aNDF (79%) than
+for ADF (34%). This suggests that either the variability
+in aNDF among test samples is much larger than for
+ADF or that other sources of variation within labora-
+tories contributed to repeatability differences for aNDF.
+The repeatability value in Table 4 indicates that analy-
+ses should be rerun if duplicates differ by more than
+about 2.9 percentage units. The reproducibility value
+indicates that results for 19 out of 20 laboratories per-
+forming a single analysis on a well-mixed material
+should be within 3.7 percentage units of each other.
+The original NDR method (Robertson and Van Soest,
+1980) differs from the aNDF method (Mertens, 2002) in
+the use of sodium sulﬁte and type of amylase. However,
+current implementations of the NDR method use amy-
+lases similar to the aNDF method because the original
+Mertens3242
+Table 4. Results of a collaborative study (Mertens, 2002) for amylase-treated neutral
+detergent ﬁber (aNDF) when blank-corrected (aNDFbc) or when expressed
+as ash-free ﬁber organic matter (aNDFom and aNDFombc)
+Item aNDF aNDFbc aNDFom aNDFombc
+Material used Feeds Feeds Feeds Feeds
+Number of materials 11 11 11 11
+Number of laboratories 11 11 11 11
+Mean, % of DM 38.7 38.6 37.7 37.4
+SDr a 1.05 1.02 1.02 1.00
+SDR b 1.33 1.28 1.28 1.24
+Repeatability within laboratoriesc 2.94 2.86 2.85 2.80
+Reproducibility among laboratoriesd 3.72 3.59 3.58 3.48
+HORRATe 1.49 1.44 1.47 1.43
+aStandard deviation of repeatability within laboratories.
+bStandard deviation of reproducibility among laboratories.
+c2.8/H11554SDr, which is the approximate 95% conﬁdence interval for duplicate analyses within a laboratory. d2.8/H11554SDR, which is the approximate 95% conﬁdence interval for single analyses between two laboratories. eHorwitz ratio, which is the SDR divided by the expected SDR based on the equation of Horwitz (1982).
+amylase is no longer available. Sulﬁte was eliminated
+when the NDR modiﬁcation was developed because it
+may extract lignin and phenolic complexes. Removing
+sodium sulﬁte from the NDF procedure increases the
+protein contamination of ﬁbrous residues, which has
+been used to deﬁne a slowly degrading protein fraction
+in feeds (Sniffen et al., 1992). However, protein contam-
+ination can greatly inﬂate the IDF values of feeds, espe-
+cially heated feeds (Table 5). Using sodium sulﬁte re-
+duces aNDF values for forages and oilseed meals by
+only 1 to 4 percentage units; however, it reduces the
+ﬁber values of heated by-product feeds, such as brewer’s
+and distiller’s grains, by about 11 percentage units.
+Thus, the use of sodium sulﬁte in the aNDF method is a
+compromise between losing a small amount of phenolic
+compounds in some feeds or having IDF contaminated
+by a large amount of protein that is apparently digested
+in other feeds. With the exception of grass forages,
+which have the smallest difference in ﬁber due to the
+use of sodium sulﬁte, most of the material extracted
+from feeds by sulﬁte is crude protein equivalent (Table
+Table 5. Composition of the material extracted when sodium sulﬁte
+is used during neutral detergent extraction
+Composition of the difference
+Feed type NDRa aNDFb Differencec CPEd sADSLe Otherf
+(% of DM) (% of difference)
+Heated by-products 45.5 34.4 11.1 67 8 25
+Oilseed meals 26.9 22.8 4.1 54 6 40
+Grass forages 73.1 71.1 2.0 24 76 0
+Legume forages 40.3 38.9 1.4 75 25 0
+aNeutral detergent residue (Robertson and Van Soest, 1980) determined with heat-stable α-amylase and
+without sodium sulﬁte.
+bAmylase-treated neutral detergent ﬁber (Mertens, 2002) determined with heat-stable α-amylase and
+sodium sulﬁte.
+cNDR – aNDF.
+dCrude protein equivalent (nitrogen × 6.25).
+eAcid detergent lignin using sulfuric acid determined sequentially after neutral detergent extraction.
+fUndeﬁned composition determined by difference.
+5). Although NDF, NDR, and aNDF can be corrected
+for protein contamination by measuring the nitrogen
+content of the respective ﬁber residues, this additional
+step requires time and expense, which are large disad-
+vantages for a routine method and have little impact
+on results in comparison to variation within and among
+laboratories for IDF results. The aNDF method was
+designed to improve the routine determination of IDF
+in all feeds; therefore, sulﬁte was retained in the
+method to remove most protein contamination. Sodium
+sulﬁte has the additional beneﬁt that it improves ﬁltra-
+tion (and precision) during the analysis of some prob-
+lem materials.
+The NDF method has a reputation of being variable
+and difﬁcult to accomplish. Most of the variability in
+NDF results among laboratories is related to differ-
+ences in the speciﬁc modiﬁcation of the method that
+was used. Much controversy about differences in NDF
+results among laboratories would be eliminated if labo-
+ratories would state exactly how they measured it and
+used speciﬁc nomenclature to identify it. Unfortu-
+Measuring insoluble dietary ﬁber 3243
+Table 6. The effect of different dry matter adjustments
+among laboratories on the concentration of nutrients
+with small magnitudes (crude protein and ether
+extract) or large magnitudes (neutral detergent
+ﬁber) when expressed on a dry matter basis
+Laboratory and As-is, DM DM-adjusted,
+nutrient % fractiona %
+Laboratory 1
+Ether extract 2.2 0.88 2.5
+Crude protein 10.0 0.88 11.4
+Neutral detergent ﬁber 65.0 0.88 73.9
+Laboratory 2
+Ether extract 2.2 0.92 2.4
+Crude protein 10.0 0.92 10.9
+Neutral detergent ﬁber 65.0 0.92 70.7
+aThe difference in DM between laboratories, which alters DM-
+adjusted results, is not real, but due to differences in technique or
+method for DM determination.
+nately, it is not recognized that because NDF (like any
+IDF) is not a homogeneous chemical entity, its magni-
+tude and properties are deﬁned by the method used to
+measure it. Thus, every modiﬁcation measures some-
+thing slightly different from the original NDF method,
+and results should not be indiscriminately called NDF
+to avoid confusion when comparing results among ex-
+periments or laboratories. Mertens (1998a) and Hintz
+et al. (1996) reported the variation in dietary ﬁber con-
+centration among the three major modiﬁcations of the
+NDF method. In general, the NDR modiﬁcation (Rob-
+ertson and Van Soest, 1980), which uses heat-stable α-
+amylase, but not sulﬁte, results in slightly higher val-
+ues (approximately 0 to 1 percentage unit) for feeds
+with little starch and moderate protein and much lower
+values for starch-containing feeds (approximately 1 to 5
+percentage units) compared to the original NDF method
+(Van Soest and Wine, 1967). The aNDF modiﬁcation
+(Mertens, 2002), which uses both sodium sulﬁte and
+heat-stable α-amylase, generates lower results than ei-
+ther NDF or NDR.
+One of the unappreciated sources of variation in NDF
+results is the effect of DM adjustment. Most chemical
+entities are measured on a test sample that is not com-
+pletely dry; thus, the analysis is determined on an as-
+is, or as-received, basis. Although feeds are bought,
+sold, and regulated (feed tag speciﬁcations) on an as-
+is basis, nutrients are also reported on a DM basis to
+allow a more direct comparison of nutrient densities
+without the confounding factor of moisture in the mate-
+rial. However, small apparent differences in DM deter-
+mination, which may be caused by poor technique or
+differences in methodology, can result in large artifact
+differences in nutrient concentration on a DM-adjusted
+basis when the magnitude of analyte concentration is
+large (Table 6). The small discrepancy between these
+two laboratories for EE or CP is inconsequential, but
+the larger difference in NDF on a DM basis between
+these laboratories would be disconcerting. This illus-
+trates that nutrient concentrations should not be com-
+pared among laboratories on a DM basis because these
+results combine the potential errors in both DM and
+nutrient determinations, making it impossible to deter-
+mine which is the culprit when discrepancies occur.
+Unfortunately, there is no AOAC ofﬁcial method for
+routine measurement of DM that is acceptable for all
+feeds and this situation needs to be rectiﬁed. The deter-
+mination of DM is empirical and methods vary signiﬁ-
+cantly among laboratories. The 100 laboratories that
+responded to a 1993 NFTA questionnaire about drying
+methods indicated that they used 47 different combina-
+tions of time and temperature (Mertens, 1994). Twenty-
+one temperatures (ranging from 57 to 140°C) and 16
+drying times (ranging from 2 to 48 h) were used for DM
+determinations.
+Total, Insoluble, and Soluble Dietary Fiber
+Total dietary ﬁber in human foods has been measured
+by two major types of methods: enzymatic-gravimetric
+or enzymatic-chemical. Enzymatic-gravimetric meth-
+ods can be used to measure TDF directly by AOAC
+Ofﬁcial Method 985.29 or by summing IDF (Ofﬁcial
+Method 991.42) and SDF (Ofﬁcial Method 993.19).
+These three methods use essentially the same proce-
+dure. Ofﬁcial Method 991.43, which supersedes these
+earlier methods, is based on the same principle as Ofﬁ-
+cial Method 985.29 but uses an organic buffer instead
+of the phosphate buffer. The organic buffer used in
+Ofﬁcial Method 991.43 results in a method that is sim-
+pler, uses fewer reagents, and generates lower and more
+reproducible blanks; this method can be used to mea-
+sure TDF and its components IDF and SDF. All of these
+methods involve the isolation of ﬁber residues by using
+α-amylase and amyloglucosidase to hydrolyze starch
+and proteases to hydrolyze proteins. Insoluble dietary
+ﬁber is the residue remaining after enzymatic hydroly-
+sis. Soluble dietary ﬁber is precipitated from the hy-
+drolyzed solution with ethyl alcohol at a ﬁnal concentra-
+tion of 78%. Ash and protein is determined on one of
+the duplicate IDF and SDF residues and used to correct
+IDF and SDF for protein and ash.
+Although few materials were analyzed that are typi-
+cal animal feeds, the results in Tables 7 and 8 suggest
+that enzymatic-gravimetric methods measure IDF with
+reproducibility and repeatability similar to those of the
+aNDF method (Prosky et al., 1985, 1992, 1994; Lee et
+al., 1992). The values for IDF using these methods are
+within the range of aNDF values expected for these
+feed sources. However, these methods have not been
+used on as wide a variety of feeds as the aNDF method
+and it is difﬁcult to draw ﬁrm conclusions about compar-
+isons between aNDF and enzymatic-gravimetric meth-
+ods. Enzymatic-gravimetric methods are more complex
+and require more intermediate analyses than aNDF;
+therefore, it is unlikely that reproducibility would be
+better. The complexity and time required to conduct
+enzymatic ﬁber assays makes it difﬁcult to envision
+Mertens3244
+Table 7. Results of collaborative studies for enzymatic-gravimetric methods that use
+phosphate buffers to measure total dietary ﬁber (TDF), insoluble
+dietary ﬁber (IDF) and soluble dietary ﬁber (SDF)
+AOAC Ofﬁcial Method: 985.29a 991.42b 993.19c 993.19 993.19
+Item Dietary ﬁber: TDF IDF TDF IDF SDF
+Material used Wheat bran Soy bran SB ﬁberd SB ﬁber SB ﬁber
+Number of materials 1 1 1 1 1
+Number of laboratories 9 13 10 10 10
+Mean, % of DM 42.65 65.24 66.07 45.57 20.65
+SDr e 0.99 0.91 1.15 0.67 0.80
+SDR f 1.21 2.40 1.59 0.98 1.35
+Repeatability within laboratoriesg 2.78 2.55 3.22 1.88 2.24
+Reproducibility among laboratoriesh 3.38 6.72 4.45 2.74 3.78
+HORRATi 1.25 1.72 1.13 0.96 2.58
+aProsky et al. (1985).
+bProsky et al. (1992).
+cProsky et al. (1994).
+dSugar beet ﬁber.
+eStandard deviation of repeatability within laboratories.
+fStandard deviation of reproducibility among laboratories.
+g2.8/H11554SDr, which is the approximate 95% conﬁdence interval for duplicate analyses within a laboratory. h2.8/H11554SDR, which is the approximate 95% conﬁdence interval for single analyses between two laboratories.
+iHorwitz ratio, which is the SDR divided by the expected SDR based on the equation by Horwitz (1982).
+that they will be adopted as routine methods for feed
+analysis. Their appeal is based on the concept that the
+measurement of dietary ﬁber by enzymes mimics the
+process of digestion; however, it is clear that neither
+the conditions nor the enzymes used for measurement
+approach the complexity of hydrolysis in the gastroin-
+testinal tract. Nonetheless, SDF measured by enzy-
+matic methods appear to affect physiological processes
+in humans.
+An alternative to the enzymatic-gravimetric ap-
+proach is to measure the monomeric composition of
+structural components of plants (cell walls) or of non-
+starch polysaccharides. The former is directly related
+to the physiological deﬁnition of dietary ﬁber as the
+dietary components resistant to hydrolysis by mamma-
+Table 8. Collaborative study results of AOAC Ofﬁcial Method 991.43, which used
+MES-Tris buffer (Lee et al., 1992) to measure total dietary ﬁber (TDF),
+insoluble dietary ﬁber (IDF), and soluble dietary ﬁber (SDF)
+Dietary ﬁber TDFd a TDFs b IDF SDF
+Material used Bransc Brans Brans Brans
+Number of materials 2 2 2 2
+Number of laboratories 11 11 11 11
+Mean, % of DM 42.03 42.23 35.13 7.04
+SDr d 1.04 0.78 0.78 0.51
+SDR e 1.56 1.22 0.94 0.87
+Repeatability within laboratoriesf 2.90 2.17 2.17 1.43
+Reproducibility among laboratoriesg 4.37 3.40 2.62 2.44
+HORRATh 1.23 1.62 1.48 4.48
+aTotal dietary ﬁber measured directly.
+bTotal dietary ﬁber measured as the sum of IDF and SDF.
+cSoy and oat brans.
+dStandard deviation of repeatability within laboratories.
+eStandard deviation of reproducibility among laboratories.
+f2.8/H11554SDr, which is the approximate 95% conﬁdence interval for duplicate analyses within a laboratory. g2.8/H11554SDR, which is the approximate 95% conﬁdence interval for single analyses between two laboratories. hHorwitz ratio, which is the SDR divided by the expected SDR based on the equation by Horwitz (1982).
+lian enzymes, whereas the latter is based on a chemical
+deﬁnition of dietary ﬁber as nonstarch carbohydrates
+and lignin (Theander et al., 1994; Englyst et al., 1994).
+The Uppsala method (Theander et al., 1995) is the only
+enzymatic-chemical method for measuring TDF that is
+an ofﬁcial method. Ofﬁcial Method 994.13 of the AOAC
+uses α-amylase and amyloglucosidase to hydrolyze and
+remove starch, but no proteases are used to remove
+protein. After starch hydrolysis, ethyl alcohol is used
+to precipitate soluble polysaccharides. The combined
+soluble and insoluble ﬁber residue is hydrolyzed to neu-
+tral sugars and uronic acids using 12 M sulfuric acid
+at 30°C for 1 h followed by diluting the sulfuric acid to
+0.4 M and autoclaving at 125°C for 1 h. Klason lignin
+is determined as the loss of acid insoluble residue after
+Measuring insoluble dietary ﬁber 3245
+Table 9. Collaborative study results of Uppsala method (Theander et al., 1995) for
+measuring total dietary ﬁber (TDF) as the sum of acid hydrolyzed uronic acids
+and neutral sugars and Klason lignin (AOAC Ofﬁcial Method 994.13)
+Dietary ﬁber TDF Uronic acids Neutral sugars Klason lignin
+Material used Bransa Brans Brans Brans
+Number of materials 2 2 2 2
+Number of laboratories 9 9 9 9
+Mean, % of DM 51.35 2.70 39.75 8.70
+SDr b 1.28 0.24 1.31 0.44
+SDR c 3.16 0.37 3.15 0.80
+Repeatability within laboratoriesd 3.58 0.66 3.67 1.22
+Reproducibility among laboratoriese 8.85 1.04 8.82 2.24
+HORRATf 2.78 3.98 3.45 3.18
+aWheat and oat brans.
+bStandard deviation of repeatability within laboratories.
+cStandard deviation of reproducibility among laboratories.
+d2.8/H11554SDr, which is the approximate 95% conﬁdence interval for duplicate analyses within a laboratory. e2.8/H11554SDR, which is the approximate 95% conﬁdence interval for single analyses between two laboratories. fHorwitz ratio, which is the SDR divided by the expected SDR based on the equation by Horwitz (1982).
+ashing and the acid-hydrolyzed ﬁltrate is analyzed for
+neutral sugars and uronic acids. The neutral sugars
+are measured as alditol acetates by gas chromatogra-
+phy and uronic acids are measured colorimetrically.
+The enzymatic-chemical chromatographic method is
+time consuming and expensive in terms of both labor
+and equipment. It requires highly skilled and trained
+personnel to manage sensitive chemical reactions and
+to operate and maintain chromatographic instruments.
+The method is currently used mostly in research labora-
+tories and is not used extensively by commercial or
+regulatory laboratories. Although the method is chemi-
+cally sophisticated, the reproducibility of both TDF and
+total nonstarch polysaccharides (Table 9) indicates that
+variability among laboratories is about twice that of
+gravimetric assays for dietary ﬁber (aNDF or en-
+zymatic).
+Combining quantiﬁcation of sugar monomers with
+complementary chemical information can be used to
+describe secondary and tertiary structures that affect
+the physicochemical properties of ﬁber that inﬂuence
+digestive physiology and digestibility. This is a valid
+research endeavor, but until the nutritional value of
+extensive monomer information is demonstrated and
+the reproducibility of these methods is improved, it
+seems premature to recommend these methods for the
+routine description of feeds. The relatively large SDR
+for TDF and neutral sugars (Table 9) suggests that
+laboratories have difﬁculty reproducing monomeric in-
+formation, which appears to be related to the empirical
+conditions used to isolate enzymatic residues and com-
+promises between maximum solubilization and mini-
+mum degradation of sugars during acid hydrolysis. The
+beneﬁts of extensive carbohydrate analysis will be real-
+ized in the short term only if routine analyses are re-
+ported concomitantly to provide a bridge between cur-
+rent and future ﬁber analyses and to determine when
+alternative methods of analysis provide similar or com-
+plementary information.
+Knudsen (1997) reported detailed analysis of non-
+starch polysaccharides and Klason lignin in feeds using
+modiﬁcations of the Uppsala method, that were re-
+ported as soluble, insoluble, and total nonstarch poly-
+saccharide and lignin, which were summed to obtain
+TDF (Table 10). Although NDF was not measured by
+Knudsen (1997), several samples of each feed were ana-
+lyzed, which can be compared to typical NDF values
+reported by NRC (2001). The IDF of feeds based on
+insoluble nonstarch polysaccharides plus lignin are
+generally similar to NDF.
+Problems with Empirical Methods
+The Codex Alimentarius Commission (1986) de-
+scribes empirical methods as Type I Deﬁning Methods
+because the values obtained can be generated only in
+terms of the speciﬁc method—that is, deﬁned by the
+method. This classiﬁcation is not a negative reﬂection
+on the quality of a method or its repeatability within
+or reproducibility among laboratories. Because there
+are no primary reference standards for these methods,
+they cannot be validated for accuracy in determining
+the “true” value for the constituent. To minimize sys-
+tematic errors (bias) among laboratories, empirical
+methods must be followed exactly because even slight
+variations in methodology can result in the measure-
+ment of a different constituent. Systematic bias among
+laboratories for empirical methods can be determined
+only using consensus values, which are the average
+results of laboratories that follow the method exactly.
+It might seem that dietary ﬁber can be deﬁned more
+accurately and precisely by specifying and quantifying
+the chemical monomers in dietary ﬁber carbohydrates.
+However, this assumes that sugar analysis is exact and
+that detailed knowledge of polysaccharide analysis will
+lead to nutritional insights. Although the accuracy of
+chromatographic measurement of sugars can be deter-
+mined using primary standards, the preparation of en-
+Mertens3246
+Table 10. Enzymatic-chemical analysis of insoluble dietary ﬁber (IDF) determined as
+the sum of insoluble nonstarch polysaccharides (NSP) and Klason lignin in feeds
+as reported by Knudsen (1997) compared with neutral detergent ﬁber (NDF)
+Soluble Insoluble Total Klason
+Feed NSP NSP NSP lignin IDFa NDFb
+Corn grain 0.9 8.8 9.7 1.1 9.9 9.5
+Soybean meal 6.3 15.4 21.7 1.6 17.0 14.9
+Wheat bran 1.5 35.9 37.4 7.5 43.4 42.5
+Beet pulp 40.7 37.2 77.9 3.5 40.7 45.8
+Grass meal 3.1 36.6 39.7 16.1 52.7 57.7
+Alfalfa meal 7.7 25.2 32.9 12.8 38.0 41.6
+aInsoluble dietary ﬁber calculated as the sum of insoluble NSP and Klason lignin.
+bReported by NRC (2001).
+zymatic residues is relatively empirical and can affect
+the quantities of sugars and lignin recovered (Marlett
+et al., 1989). In addition, polysaccharides are converted
+to monosaccharides, and monosaccharides are de-
+graded at different rates depending on acid hydrolysis
+conditions and characteristics of the enzymatic resi-
+dues. Because there is incomplete recovery of sugars,
+correction factors (based on typical analyses) are
+needed to correct results and generate adequate quanti-
+ﬁcation.
+The nonuniform digestibility of ﬁbrous carbohydrates
+suggests that knowing their monomeric composition,
+no matter how accurately, provides little information
+about their availability to the animal. The physico-
+chemical nature of ﬁber and its relationship to noncar-
+bohydrate components, such as lignin, may have
+greater nutritional signiﬁcance than its intrinsic mono-
+saccharide composition. The consequence of this specu-
+lation is that even the most elegant analysis of carbohy-
+drate composition may add little to our ability to evalu-
+ate feeds nutritionally. The rationale for dietary ﬁber
+analysis is derived from its nutritional consequences.
+Caution should be exercised to ensure that research on
+dietary ﬁber is not shifted from an approach that uses
+the nutritional deﬁnition of dietary ﬁber to develop
+methods for measuring it to an approach that develops
+a method that measures chemical constituents and at-
+tempts to deﬁne ﬁber on the basis of its composition.
+Dietary ﬁber methods are now, and may always be,
+empirical because the result is dependent on the re-
+agents and conditions used in each method to isolate
+ﬁbrous residues. Horwitz et al. (1990) reevaluated the
+collaborative studies of all methods used for nutritional
+labeling and concluded that all ﬁber methods had poor
+reproducibility among laboratories when compared to
+the measurement of crude protein. They suggested that
+the lack of reproducibility was related to the empirical
+nature of these methods. The relatively poor reproduc-
+ibility of dietary ﬁber methods compared with other
+methods may be related to several factors.
+1. The physical and chemical properties of dietary
+ﬁber are distinctly different from other components
+in feeds, which makes high-ﬁber feeds more hetero-
+geneous. Thus, it is difﬁcult to prepare a homoge-
+nous sample of most feeds because ﬁber compo-
+nents tend to segregate. Assuming that technique
+is relatively stable within a laboratory, most of the
+variation in repeatability within laboratories is re-
+lated to random differences in the test samples.
+2. Many dietary ﬁber methods are multistep pro-
+cesses that often require corrections for ash or pro-
+tein contamination and for component recoveries.
+Each of these steps or supplemental assays has
+associated random and systematic errors that con-
+tribute to the total variation of dietary ﬁber
+methods.
+3. Random and systematic errors in weighing consti-
+tute a signiﬁcant source of error in gravimetric
+methods when ﬁber residues are small. If 1.0000-
+g test samples are analyzed that contain <5% ﬁber,
+the ﬁnal ﬁber residue that is weighed is <50 mg.
+A balance precision of ±0.0001 would result in a
+weighing error alone of 4% (±2/H11554SD). This error is
+greatly magniﬁed when the test sample or ﬁber
+residue is smaller. In addition, small test sample
+amounts may make it difﬁcult to obtain a represen-
+tative test sample of heterogeneous materials.
+4. Among-laboratory variation is large for empirical
+methods because analysts often perform methods
+in nonstandard ways that do not follow the ofﬁcial
+method. In addition, quality assurance programs
+instituted to verify results in laboratories often are
+inadequate or even nonexistent. Many dietary ﬁber
+methods have not been optimized to ensure ade-
+quate suitability for all types of material or to iden-
+tify those steps that must be executed in detail.
+Often the limitations of methods and rationale for
+speciﬁc steps in a method have not been published
+or have not been properly relayed to the analyst.
+But perhaps most of the among-laboratories varia-
+tion is associated with the desire of analysts to
+improve efﬁciency by shortening times, eliminating
+steps, or failing to follow the details of a method and
+assuming that these deviations should or would not
+affect results. These sometimes well-intentioned
+deviations ignore the fundamental property of em-
+pirical methods, such as dietary ﬁber, which re-
+Measuring insoluble dietary ﬁber 3247
+Table 11. Performance statistics of certiﬁed laboratories
+participating in the proﬁciency-testing program
+of the National Forage Testing Associationa
+Year and Dry Crude
+parameter matter protein ADF NDF
+2000
+RMAb 91.6 17.2 27.0 37.8
+HSDR c 0.24 0.44 0.66 0.87
+Nd 136 139 138 128
+SDL e 0.65 0.57 1.14 1.48
+2001
+RMA 92.2 14.5 29.4 39.8
+HSDR 0.23 0.38 0.71 0.91
+n 133 131 134 129
+SDL 0.65 0.48 1.02 1.40
+aPublished with permission of the Board of Directors of the National
+Forage Testing Association.
+bReference method average of six materials to which all participat-
+ing laboratories were compared.
+cHorwitz standard deviation of reproducibility (Horwitz, 1982) cal-
+culated from the RMA and used to determine certiﬁcation of proﬁ-
+ciency (HSDR for dry matter was calculated from moisture concentra-
+tion). Laboratories must have been within 4/H11554HSD of the RMA for
+certiﬁcation in 2000 and 3/H11554HSD of the RMA for certiﬁcation in 2001.
+dNumber of laboratories eligible for certiﬁcation for each method.
+eStandard deviation from the RMA among all certiﬁed laboratories
+for the mean of triplicate analyses.
+quires that they be followed to the utmost detail,
+including calibration of equipment.
+Proﬁciency of Laboratories in Using
+Empirical Methods
+Although the standard deviation from the RMA
+among laboratories (SDL) eligible for NFTA certiﬁca-
+tion for each method is not the same statistical parame-
+ter as the SDR determined in AOAC collaborative stud-
+ies, it provides a similar indication of variation among
+laboratories. The SDL differs from the SDR because it
+does not include variation among replicates within labo-
+ratories and is based on the average of triplicates rather
+than single analyses; however, it includes systematic
+bias because it is determined in relation to the RMA.
+Observed SDL (Table 11) of ADF and NDF are larger
+than the HSDR (ranging from 144 to 173%), which may
+indicate that laboratories participating in the NFTA
+proﬁciency-testing program are not required to follow
+any speciﬁc method for their analyses (although they
+are encouraged to do so). It may also indicate the vari-
+ability of empirical ﬁber methods because the HORRAT
+for all of the dietary ﬁber methods are >1.0. Surpris-
+ingly, the relative SDL for CP, ADF, and NDF were
+similar (3.3 to 4.2% of the mean), which disagrees with
+the conclusion of Horwitz et al. (1990) that ﬁber results
+are less reproducible than protein results. The small
+relative SDL (<5%) for the routine methods of feed anal-
+ysis suggests that analyses among laboratories certiﬁed
+as proﬁcient by the NFTA are comparable when repli-
+cated results are reported.
+Table 12. Average regression parameters for the
+relationship between digestibility and dietary
+ﬁbers adapted from Giger-Reverdin (1995)
+Dietary ﬁber Intercept Slope R2 SEreg a
+CF 89.7 −0.77 0.63 5.31
+(7.2)b (0.27) (0.16) (2.53)
+NDF 97.7 −0.54 0.67 5.92
+(7.8) (0.17) (0.12) (3.28)
+ADF 95.4 −0.71 0.68 4.95
+(9.1) (0.43) (0.16) (2.53)
+Lignin 83.1 −2.98 0.79 4.94
+(3.7) (0.68) (0.08) (2.86)
+aStandard error of regression.
+bValues in parentheses are standard deviations of the parameter
+from 15 experiments.
+Practical Utility of Empirical Methods
+One criterion for the usefulness of dietary ﬁber meth-
+ods is their ability to predict DM digestibility. Giger-
+Reverdin (1995) summarized a large number of pub-
+lished reports that provided independent regression
+equations for predicting digestibility based on various
+ﬁber fractions, which were averaged to obtain the mean
+and standard deviation of intercepts, slopes, R2, and
+standard deviations of regression (Table 12). The high-
+est average and smallest SD of R2 indicates that ADSL
+had the best average relationship with digestibility.
+However, the large SD for the slope of the regression
+for ADSL suggests that its quantitative relationship
+with digestibility is variable among populations of ma-
+terials. Although it has the highest and most variable
+average standard error of regression, NDF obtained the
+most robust relationship with digestibility as evidenced
+by the smallest variation in the slope. The average re-
+gression parameters for NDF suggest that about half
+of NDF is typically digested and that the digestibility
+of NDS is about 97.7% (i.e., the digestibility of a feed
+containing no NDF and therefore 100% NDS).
+Choice of Insoluble Dietary Fiber Methods
+There is no perfect method for measuring IDF be-
+cause the needs of each user of analytical information
+are unique. All dietary ﬁber methods are compromises
+between nutritional relevance and analytical conve-
+nience and reproducibility. Dietary ﬁber methods are
+of variable and unequal value in measuring nutritional
+utility. Assuming that it is nutritionally relevant, the
+selection of an IDF method depends on several factors:
+reproducibility, repeatability, labor efﬁciency, timeli-
+ness, personnel requirements, cost, and use of the re-
+sults. Occasionally, nutritionists may beneﬁt from frac-
+tionation of TDF into SDF and IDF when attempting
+to explain physiological responses of animals, and re-
+searchers may want to expend the time and effort to
+obtain a detailed description of monomeric composition.
+Even in these situations, reproducibility and rugged-
+ness of the IDF method are requisite so that results
+Mertens3248
+can be interpreted reliably and applied universally.
+However, complete separation and quantiﬁcation of
+IDF polymers is impractical, expensive, and unneces-
+sary for routine descriptions of feeds and formulation
+of diets. Until the nutritional implications of detailed
+dietary ﬁber analysis are understood and adapted to
+ration formulation, it appears that simple empirical
+methods of IDF analysis will provide the nutritional
+information of interest.
+Conclusions
+Methods for measuring insoluble dietary ﬁber are
+inherently more variable than methods for other nutri-
+ents. Acceptability of a dietary ﬁber method is based
+on its ability to match the deﬁnition of ﬁber and its
+reproducibility among laboratories. Several current
+methods, including aNDF and the enzymatic-gravimet-
+ric methods for measuring TDF, seem to be relevant
+for measuring IDF because they match the appropriate
+deﬁnition of dietary ﬁber for herbivores. These methods
+have acceptable reproducibility among laboratories
+when followed exactly. Variability in NDF among labo-
+ratories is related primarily to differences in modiﬁca-
+tions of the method that are used, and laboratories
+need to be more exact in describing their methods and
+naming their results. Ofﬁcial methods for measuring
+TDF using enzymatic hydrolysis and measurement of
+monomers and Klason lignin after acid hydrolysis do
+not report an IDF fraction but could be modiﬁed to do
+so. The sum of insoluble nonstarch polysaccharides and
+Klason lignin agrees with IDF measured by NDF, but
+the reproducibility of TDF when using acid hydrolysis
+is less than that of other dietary ﬁber methods. The
+selection of a suitable method for IDF depends on the
+purpose of analysis. Analysis of insoluble polysaccha-
+rides provides more chemical information but is less
+reproducible among laboratories and more expensive
+to obtain. For routine nutritive evaluation of feeds and
+formulation of diets, aNDF seems a reasonable choice
+for measuring IDF. To verify that their dietary ﬁber
+results are comparable, research, regulatory, and com-
+mercial feed-testing laboratories should participate in
+check-sample or proﬁciency-testing programs. Alterna-
+tive methods of dietary ﬁber analysis may provide sup-
+plemental or complementary information, but routine
+analyses should be reported for these experiments to
+provide a bridge between current and future dietary
+ﬁber analyses.
+Implications
+All dietary ﬁber methods are empirical to some de-
+gree. This places additional burden on the analyst to
+avoid shortcuts and follow the details of the method
+exactly, during every analysis. Although IDF analysis
+requires attention to detail and good laboratory tech-
+niques, its practical utility in predicting digestibility,
+intake, and nutritive value makes it a necessary part
+of routine and research analysis of feeds. More research
+is needed to evaluate IDF methods for their reproduc-
+ibility when analyzing typical feeds and forages, and
+to directly compare their ability to provide both similar
+and complementary nutritional information.
+Literature Cited
+AOAC. 1993. AOAC Ofﬁcial Methods Program Manual on Develop-
+ment, Study, Review, and Approval Process for AOAC Ofﬁcial
+Methods. AOAC Int., Arlington, VA.
+AOAC. 2002. Ofﬁcial Methods of Analysis. 15th ed. Assoc. Ofﬁc. Anal.
+Chem., Arlington, VA.
+Burkitt, D. P., A. R. P. Walker, and N. S. Painter. 1972. Effect of
+dietary ﬁbre on stools and transit times, and its role in the
+causation of disease. Lancet 2:1408–1412.
+Cherney, J. H., J. J. Volenec, and W. E. Nyquist. 1985. Sequential
+ﬁber analysis of forage as inﬂuenced by sample weight. Crop
+Sci. 25:1113–1115.
+Cho, S., J. W. DeVries, and L. Prosky. 1997. Dietary Fiber Analysis
+and Applications. AOAC Int., Gaithersburg, MD.
+Codex Alimentarius Commission. 1986. Procedural Manual. 6th ed.
+Food and Agricultural Organization. Rome, Italy.
+Dougall, H. W. 1956. Crude ﬁbre: Its determination and its place in
+the analysis of animal feeding-stuffs. East Afr. Agric. J.
+21:225–229.
+Englyst, H. N., M. E. Quigley, and G. J. Hudson. 1994. Determination
+of dietary ﬁbre as non-starch polysaccharide with gas-liquid
+chromatography, high-performance liquid chromatography or
+spectrophotometric measurements of constituent sugars. Ana-
+lyst 119:1497–1509.
+Giger-Reverdin, S. 1995. Review of the main methods of cell wall
+determination: Interest and limits for ruminants. Anim. Feed
+Sci. Tech. 55:295–334.
+Goering, H. K., and P. J. Van Soest. 1970. Forage Fiber Analyses.
+USDA Agric. Handbook No. 379. U.S. Gov. Printing Ofﬁce,
+Washington, DC.
+Henneberg, W., and F. Stohman. 1860. Begru¨ ndung einer rationellen
+Ftterung der Wiederka¨ uer. Vol. 1. Schwetschtke u. Sohn,
+Braunschweig.
+Hintz, R. W., Mertens, D. R., and Albrecht, K. A. 1996. Effects of
+sodium sulﬁte on recovery and composition of detergent ﬁber
+and lignin. J. AOAC Int. 79:16–22.
+Hipsley, E. H. 1953. Dietary “ﬁbre” and pregnancy toxemia. Br. Med.
+J. 2:420–422.
+Horwitz, W. 1982. Evaluation of analytical methods used for regula-
+tion of foods and drugs. Anal. Chem. 54:67A–76A.
+Horwitz, W., R. Albert, M. J. Deutsch, and J. N. Thompson. 1990.
+Precision parameters of methods of analysis required for nutri-
+tional labeling. Part 1. Major nutrients. J. AOAC Int. 73:661–
+680.
+Knudsen, K. E. 1997. Carbohydrate and lignin contents of plant
+materials used in animal feeding. Anim. Feed Sci. Tech.
+67:319–338.
+Lee, S. C., L. Prosky, and J. DeVries. 1992. Determination of total
+soluble and insoluble dietary ﬁber in foods. Enzymatic-gravimet-
+ric method, MES-TRIS buffer: collaborative study. J. AOAC Int.
+75:395–416.
+Marlett, J. A., J. G. Chesters, J. J. Longacre, and J. J. Bodganski.
+1989. Recovery of soluble dietary ﬁber is dependent on the
+method of analysis. Am. J. Clin. Nutr. 50:479–485.
+Mascarenhas Ferreira, A., J. Kerstens, and C. H. Gast. 1983. The
+study of several modiﬁcations of the neutral detergent procedure.
+Anim. Feed Sci. Tech. 9:19–28.
+McQueen, R. E., and W. G. Nicholson. 1979. Modiﬁcation of the neu-
+tral-detergent ﬁber procedure for cereals and vegetables by using
+α-amylase. J. AOAC 62:676–680.
+Mertens, D. R. 1985. Effects of ﬁber on feed quality for dairy cows.
+Pages 209–223 in Proc. 46th Minn. Nutr. Conf., Dept. of Anim.
+Sci., Univ. of Minn.
+Measuring insoluble dietary ﬁber 3249
+Mertens, D. R. 1993. Importance of the detergent system of feed
+analyses for improving animal nutrition. Pages 25–36 in Proc.
+Cornell Nutr. Conf., Anim. Sci. Dept., Cornell Univ., Ithaca. NY.
+Mertens, D. R. 1994. Signiﬁcant sources of variation in routine forages
+analyses identiﬁed from 1993 National Forage Testing Associa-
+tion questionnaire data. Pages 46–49 in the Proc. 1994 NFTA
+Workshop, National Forage Testing Association, Omaha, NE.
+Mertens, D. R. 1998a. Nutritional properties of carbohydrates in
+feeds and their roles in dairy rations. Pages 85–99 in Proc. 19th
+Western Canada Nutr. Conf., Univ. Saskatchewan, Saska-
+toon, Canada.
+Mertens, D. R. 1998b. Why Laboratories Fail NFTA Proﬁciency Tests.
+Section O1-O10 in the Proc. of the 1998 NFTA Workshop. Na-
+tional Forage Testing Association, Omaha, NE.
+Mertens, D. R. 2002. Gravimetric determination of amylase-treated
+neutral detergent ﬁber in feeds using reﬂuxing in beakers or
+crucibles: collaborative study. J. AOAC Int. 85:1217–1240.
+Mertens, D. R., N. Thiex, and N. P. Martin. 1994. Statistics and
+standards proposed for 1995 NFTA certiﬁcation. Pages 38–45
+in Proc. of the 1994 NFTA Workshop, National Forage Testing
+Association, Omaha, NE.
+Mongeau, R., and R. Brassard. 1990. Determination of insoluble,
+soluble and total dietary ﬁber: Collaborative study of a rapid
+gravimetric method. Cereal Foods World 35:319–324.
+Morrison, F. B. 1956. Feeds and Feeding. 22nd ed. Morrison Publish-
+ing Co., Ithaca, NY.
+NRC. 2001. Nutrient Requirements of Dairy Cattle. 7th ed. Natl.
+Acad. Sci., Washington, DC.
+Prosky, L., N. Asp, I. Furda, J. W. DeVries, T. F. Schweizer, and B.
+F. Harland. 1985. Determination of total dietary ﬁber in foods
+and food products: Collaborative study. J. AOAC 68:677–679.
+Prosky, L., N. Asp, T. F. Schweizer, J. W. DeVries, and I. Furda.
+1992. Determination of insoluble and soluble dietary ﬁber in
+foods and food products: Collaborative study. J. AOAC Int.
+75:360–367.
+Prosky, L., N. Asp, T. F. Schweizer, J. W. DeVries, I. Furda, and S.
+C. Lee. 1994. Determination of soluble dietary ﬁber in foods and
+food products: Collaborative study. J. AOAC Int. 77:690–694.
+Robertson, J. B., and P. J. Van Soest. 1980. The detergent system of
+analysis and its application to human foods. Pages 123–158 in
+the Analysis of Dietary Fiber in Foods. W. P. T. James and O.
+Theander, ed. Marcel Dekker, Inc., NY.
+Sniffen, C. J., J. D. O’Connor, P. J. Van Soest, D. G. Fox, and J. B.
+Russell. 1992. A net carbohydrate and protein system of evaluat-
+ing cattle diets: II. Carbohydrate and protein availability. J.
+Anim. Sci. 70:3562–3577.
+Sokal, R. R., and F. J. Rohlf. 1981. Biometry. 2nd ed. W. H. Freeman
+and Co., NY.
+Steiner, E. H. 1975. Planning and analysis of results of collaborative
+tests. Pages 65–88 in Statistical Manual of the Association of
+Ofﬁcial Analytical Chemists. AOAC Int., Arlington, VA.
+Sullivan, J. T. 1964. The chemical composition of forages in relation
+to digestibility by ruminants. USDA-ARS Bulletin 34-62.
+Theander, O., P. Aman, E. Westerlund, R. Anderson, and D. Pat-
+tersson. 1995. Measurement of dietary ﬁber using sugar analy-
+ses: collaborative study. J. AOAC Int. 78:1030–1044.
+Theander, O., P. Aman, E. Westerlund, and H. Graham. 1994. Enzy-
+matic/chemical analysis of dietary ﬁber. J. AOAC Int. 77:703–
+709.
+Thompson, M. and P. J. Lowthian. 1997. The Horwitz function re-
+vised. J. AOAC Int. 80:676–679.
+Trowell, H. 1974. Editorial: Deﬁnition of dietary ﬁbre. Lancet 1:503.
+Trowell, H., D. A. T. Southgate, T. M. S. Wolever, A. R. Leeds, M.
+A. Gassull, and D. J. A. Jenkins. 1976. Letter: Dietary ﬁber
+redeﬁned. Lancet 1:967.
+Tyler, C. 1975. Albrecht Thaer’s hay equivalents: Fact or ﬁction. Nutr.
+Abst. Rev. 45:1–11.
+Undersander, D., D. R. Mertens, and N. Thiex. 1993. Forage Analyses
+Procedures. National Forage Testing Assoc., Omaha, NE.
+Van Soest, P. J. 1964. Symposium on nutrition and forage and pas-
+tures: New chemical procedures for evaluating forages. J. Anim.
+Sci. 23:838–845.
+Van Soest, P. J. 1967. Development of a comprehensive system of feed
+analyses and its application to forages. J. Anim. Sci. 26:119–128.
+Van Soest, P. J. 1973. Collaborative study on acid-detergent ﬁber
+and lignin. J. AOAC Int. 56:781–784.
+Van Soest, P. J., J. B. Roberson, and B. A. Lewis. 1991. Methods for
+dietary ﬁber, neutral detergent ﬁber and nonstarch polysaccha-
+rides in relation to animal nutrition. J. Dairy Sci. 74:3583–3597.
+Van Soest, P. J., and R. H. Wine. 1967. Use of detergents in the
+analysis of ﬁbrous feeds. IV. Determination of plant cell-wall
+constituents. J. AOAC 50:50–55.
+Wernimont, G. T., and W. Spendley. 1985. Use of statistics to develop
+and evaluate analytical methods. AOAC Int., Arlington, VA.
+Wiley, H. W. 1890. Ofﬁcial Methods. Page 212 in the Proc. 7th Conven-
+tion of AOAC. USDA. Div. of Chemistry. Bulletin No. 25.
+Youden, W. J. 1975. Statistical techniques for collaborative tests.
+Pages 1–64 in Statistical Manual of the Association of Ofﬁcial
+Analytical Chemists. AOAC Int., Arlington, VA.

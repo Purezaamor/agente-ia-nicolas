@@ -1,0 +1,253 @@
+=== Fuente: 3_TCL-Est.Puntual-Intervalos_Confianza.pdf ===
+
+ 1 
+TEOREMA CENTRAL DEL LÍMITE 
+ 
+Si la distribución de la población (universo) tiene varianza σ2 finita y una media μ, la 
+distribución de la media muestral, X , de muestras aleatorias de una misma distribución, 
+tiende a una N(μ ; σ2 /n ) si la muestra es suficientemente grande. 
+ 
+Es decir, sea X1, X 2, X 3, ..., X n una muestra aleatoria independiente (m. a.) con media μ y 
+varianza σ2, entonces: 
+)1;0(N)X(*n n  →σ μ− ∞→  
+No importa la forma de la población muestreada, pero siempre que tenga una varianza 
+finita, la media de la muestra tendrá una distribución aproximadamente normal. 
+ 
+ 
+ 
+DISTRIBUCION DE LA SUMA DE CUADRADOS DE VARIABLES 
+ALEATORIAS INDEPENDIENTES CON DISTRIBUCIONES NORMALES 
+ 
+Sean X1, X 2, X 3, ..., X n, n variables aleatorias independientes, cada una con una 
+distribución  N( μ ; σ2), entonces: 
+2
+1
+2
+2
+2 )()1(
+σσ
+∑
+=
+−
+=−
+n
+i
+i XXSn  
+ 
+tiene distribución χ2 con ( n-1) grados de libertad.  
+ 
+ 
+ 
+INFERENCIA ESTADÍSTICA 
+ 
+Procedimiento por el cual se llega a obtener conclusiones sobre la población en base a 
+los resultados de una muestra extraída de esa población.  
+ 
+ 
+PARTICULAR →→→→ GENERAL 
+ 
+ 
+POBLACIÓN →→→→ DISTRIBUCIÓN DE PROB. CON 
+PARÁMETROS DESCONOCIDOS 
+ 
+   ESTIMACIÓN DE PARÁMETROS       PUNTUAL 
+MUESTRA               POR  I. C. 
+    PRUEBAS DE HIPÓTESIS 
+ 
+ 
+ 
+ 2 
+ESTIMACIÓN  
+ 
+En general, no conocemos los valores de los parámetros de la función de probabilidad o 
+los valores de la media y varianza de la población. En la práctica, obtenemos una 
+muestra al azar de la población especificada, suponiendo conocida (exacta o 
+aproximadamente) la forma de la distribución (normal, binomial, etc.). A partir de una 
+muestra pretendemos estimar los valores de los parámetros de la población. 
+ 
+Por ejemplo, se quiere estimar el promedio de producción de maíz por establecimiento 
+de (la población de) pequeños productores de una región agro-ecológica particular. Para 
+esto, supongamos que se elige al azar una muestra de 25 establecimientos, en los que 
+se releva el rendimiento de maíz. Se calcula la media de los 25 rendimientos, 
+kg/ha6780=X . Este valor es la estimación de la media de producción de maíz por 
+establecimiento para dicha región. Es la estimación de lo que se podría esperar  para un 
+establecimiento individual. De la misma manera, puede estimarse la varianza muestral y 
+la desviación estándar muestral para estimar la variabilidad del rendimiento entre los 
+establecimientos. 
+ 
+ 
+ESTIMACIÓN PUNTUAL 
+ 
+Un estimador, es una función de los valores de la muestra, que proporciona una 
+estimación del parámetro en cuestión.  
+La estimación puntual de un parámetro consiste en calcular un único valor numérico, a 
+partir de los datos muestrales, y que será utilizado para estimar al parámetro de interés. 
+Un estimador de un parámetro es una variable aleatoria y un estimación es un valor 
+particular de esa variable aleatoria calculado en base a los resultados muestrales. En el 
+ejemplo anterior, X  es el estimador de  μ  y kg/ha6780=X  es una estimación de μ  
+calculada en base a los resultados numéricos provistos por una muestra de tamaño n. 
+Algunos métodos para generar estimadores son: Máxima Verosimilitud, Mínimos 
+Cuadrados y de los Momentos. 
+ 
+Las propiedades deseables que caracterizan a “un buen” estimador son: 
+/square4 Insesgado : un estimador  θˆ  de un parámetro θ es insesgado, si el valor esperado del 
+estimador es igual al parámetro, es decir, θθ =)ˆ(E  para todo valor de θ. Esta 
+propiedad expresa que la distribución de probabilidad del estimador está concentrada 
+alrededor del valor del parámetro que estima.  
+Puede demostrarse que X y S2 son estimadores insesgados de μ  y σ2 , 
+respectivamente. 
+/square4 Consistente : sea θˆ  un estimador  del parámetro θ , calculado a partir de una muestra 
+al azar de tamaño n. Si a medida que n aumenta (se aproxima a N), la probabilidad 
+de que θˆ  se acerque a  θ , tiende a 1. Es decir, si tomamos una muestra cada vez 
+más grande, es de esperar que obtengamos una estimación muy cercana al 
+verdadero valor del parámetro, y la probabilidad de que esto ocurra es muy grande. 
+/square4 Eficiente : si 1ˆθ y 2ˆθ  son dos estimadores diferentes, pero insesgados de θ , con 
+varianzas 
+2
+ˆ1θσ y 
+2
+ˆ2θσ , respectivamente, y si 2 ˆ1θσ < 2 ˆ2θσ , entonces, 1ˆθ es un estimador 
+eficiente de θ , es decir, preferimos estimadores insesgados de mínima varianza. 
+/square4 Suficiente : un estimador es suficiente si contiene toda la información de la muestra, 
+acerca del parámetro en estudio.  
+ 
+ 
+ 3 
+ESTIMACIÓN POR INTERVALOS DE CONFIANZA  
+ 
+A partir de una m. a. se obtienen dos valores que forman los extremos del intervalo.  
+Las propiedades deseables del intervalo son: 
+• que contenga al parámetro que estima. 
+• que tenga longitud o amplitud pequeña. 
+El I. C. también resulta útil cuando se quiere evaluar el tamaño n de la muestra para 
+obtener un grado de precisión deseado en la estimación del parámetro. 
+ 
+• Límites de confianza superior e inferior : extremos superior e inferior de un 
+intervalo de confianza (I, S). 
+ 
+• Coeficiente de confianza (1 - αααα): probabilidad que un intervalo contenga a θ, es 
+decir, proporción de veces que, en un muestreo repetitivo, los intervalos construidos 
+contengan al parámetro que estiman.  
+ 
+αθ −=<< 1)( SIP  
+ 
+donde I y S son variables aleatorias 
+ 
+• El objetivo  de la estimación por I. C. es suministrar intervalos de tal forma que (1 - 
+α)% de ellos contengan al parámetro θ que estiman. 
+  
+ 
+I. C. con un coeficiente de confianza del 90%. 
+ 
+Los intervalos de confianza pueden ser: 
+• I. C. bilateral: ( I, S) 
+• I. C. unilateral inferior: ( I, ∞) donde P( I < θ ) = 1 - α 
+• I. C. unilateral superior: (-∞, S) donde P( θ < S) = 1 - α 
+ 
+Un método para construir I. C. consiste en partir de una función de la muestra y de una 
+variable aleatoria tal que: 
+1. θ sea el único parámetro desconocido. 
+2. tenga una distribución que no dependa de θ. 
+ 
+
+ 4 
+INTERVALOS DE CONFIANZA PARA LA MEDIA μμμμ 
+ 
+1. Cuando se conoce la varianza poblacional σσσσ2 
+• Sea  X1, X2, X3, ..., Xn una muestra aleatoria independiente (m. a.) con distribución 
+N(μ ; σ2), donde σ2 es conocida.    
+)1,0()(* NXn ≈− σ μ  
+Entonces, el I. C. para μ  con una confianza de (1 - α) es:  
+ασμσ αα −=+<<− −− 1)**( 2121 n zX n zXP  
+donde z1-α/2  es valor tal que P( z < z1-α/2  ) = 1 - α/2, con z ∼ N(0 ; 1) 
+ 
+Ejemplo : Obtener un I. C. del 95% para el promedio de un lote de 500 novillos, de los 
+cuales se pesa una muestra de 25 animales, obteniéndose un X =390 kg. Se sabe que 
+σ2 es de 400 kg 2. 
+25
+20*96,1390
+25
+20*96,1390 +<<− μ  
+kgkg 84,39716,392 << μ  
+ 
+ 
+2. Cuando se desconoce la varianza poblacional σσσσ2 
+• Sea  X1, X2, X3, ..., Xn  una  muestra aleatoria independiente (m. a.) con distribución 
+N( μ ; σ2), donde σ2 es desconocida.   
+)1(
+)(*
+−≈−= ntS Xnt μ  
+Entonces, el I. C. para μ con una confianza de (1 - α) es:   
+αμ αα −=+<<− −− 1)**( 2121 n StX n StXP  
+ 
+donde t1-α/2  es valor tal que P( t < t1-α/2  ) = 1 - α/2, con t ∼ t(n-1)  
+ 
+ 
+Ejemplo : Obtener un I. C. del 95% para el promedio de un lote de 500 novillos, de los 
+cuales se pesa una muestra de 20 animales. Se obtuvieron los siguientes datos: 380, 
+375, 368, 420, 385, 398, 428, 401, 388, 394, 369, 430, 391, 373, 417, 363, 413, 408, 
+356, 379. 
+          x  = 391,8 kg  ;      S 2 = 486,2 kg 2 ;     S = 22,05 kg 
+ 
+20
+05,22*093,28,391
+20
+05,22*093,28,391 +<<− μ  
+kgkg 12,40248,381 << μ  
+ 
+ 5 
+INTERVALOS DE CONFIANZA PARA LA VARIANZA σσσσ2 
+ 
+• Sea X1, X2, X3, ..., Xn  una muestra aleatoria independiente (m. a.) con distribución 
+N(μ ; σ2), donde σ2 es desconocida.   
+2
+)1(2
+2*)1(
+−≈− n Sn χσ  
+Entonces, el I. C. para σ2 con una confianza de (1 - α) es:  
+ 
+αχσχ αα −=−<<− − 1)*)1(*)1(( 2 2/ 2 2 2 )2/1( 2 SnSnP  
+donde χ2 α/2  es valor tal que P( χ2 < χ2 α/2  ) = α/2  y   χ2 1-α/2  es valor tal que P( χ2 < χ2 1-α/2  ) = 
+1-α/2,  con χ2∼ χ2 (n-1) . 
+ 
+Ejemplo : Obtener un I. C. del 95% para la varianza del lote del ejemplo anterior. 
+ 
+91,8
+2,4865*)120(
+85,32
+2,486*)120( 2 −<<− σ  
+222 79,103621,281 kgkg << σ  
+ 
+INTERVALOS DE CONFIANZA PARA LA PROPORCION p 
+ 
+• Sea X1, X2, X3, ..., Xn  una muestra aleatoria independiente (m. a.) con distribución 
+binomial con parámetros n y p. 
+ 
+ 
+ 
+ 
+Entonces, el I. C. para p con una confianza de (1 - α) es:  
+α−=−+<<−− α−α− 1)n )p1(p*zpˆpn )p1(p*zpˆ(P 2121  
+donde z1-α/2  es valor tal que P( z < z1-α/2  ) = 1 - α/2, con z ∼ N(0 ; 1) 
+ 
+Ejemplo : Obtener un I. C. del 95% para la proporción de animales astados de un lote de 
+378 animales Hereford, de los cuales 42 son astados.  
+ 
+378
+8889,0*1111,096,1111,0p378 8889,0*1111,096,1111,0 +<<−  
+ 
+ 0,0794  <  p <  0,1428  
+( )
+( ) ( ) ( ) ( ) ( )1,0N
+n
+p1p
+pnX z1,0N
+p1pn
+pnX
+z ∼
+−
+−
+=⇔∼
+−
+−
+=

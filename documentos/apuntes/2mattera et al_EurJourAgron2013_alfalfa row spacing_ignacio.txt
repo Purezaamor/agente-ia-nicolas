@@ -1,0 +1,1156 @@
+=== Fuente: 2mattera et al_EurJourAgron2013_alfalfa row spacing_ignacio.pdf ===
+
+Europ. J. Agronomy 45 (2013) 87– 95
+Contents lists available at SciVerse ScienceDirect
+European Journal of Agronomy
+jo u r n al hom epage: www.elsevier.com/locate/eja
+Yield components, light interception and radiation use efﬁciency of lucerne
+(Medicago
+ sativa L.) in response to row spacing
+Juan Mattera a,∗, Luis A. Romero a, Alejandra L. Cuatrín a, Patricia S. Cornaglia b, Agustín A. Grimoldi b,c
+a Instituto Nacional de Tecnología Agropecuaria, EEA Rafaela, Ruta 34 km 227, CP 2300 Rafaela, Santa Fe, Argentina
+b Cátedra de Forrajicultura, Facultad de Agronomía, Universidad de Buenos Aires, Avenida San Martín 4453. CPA 1417 DSE Buenos Aires, Argentina
+c IFEVA-CONICET, Facultad de Agronomía, Universidad de Buenos Aires, Avenida San Martín 4453. CPA 1417 DSE Buenos Aires, Argentina
+a r t i c l e i n f o
+Article history:
+Received
+ 28 January 2012
+Received
+ in revised form 28 October 2012
+Accepted
+ 29 October 2012
+Keywords:
+Alfalfa
+Plant
+ density
+Radiation
+ interception
+Radiation
+ use efﬁciency
+Row
+ distance
+Spatial
+ arrangement
+a b s t r a c t
+Lucerne sowing is characterized by a rectangular spatial arrangement, i.e. greater distance between sow-
+ing
+ rows than between plants in the row. Therefore, the reduction of row spacing generates more square
+spatial
+ arrangements that can inﬂuence intraspeciﬁc competition and resource utilization, especially radi-
+ation,
+ and thus biomass. The experiment included different row spacings (10–15–17.5–20
+ and 30 cm) at
+the same plant density in a pure lucerne crop during the ﬁrst production year. Total aerial dry matter
+(ADM)
+ was increased by narrow spacing (more square arrangements) up to an optimal distance (around
+13
+ cm) (R2 = 0.60). ADM ranged from 2292 to 1670 g DM m−2 for 15 and 30 cm row spacing, respectively.
+Plant
+ density was the forage yield component most affected by row spacing and it increased with narrow
+spacing
+ (0.15 ≥ R2 ≤ 0.5). ADM responses to reduced row spacing were positive as revealed by both a
+linear
+ increase in radiation interception (PARia) (R2 = 0.76) and an optimal pattern in radiation use efﬁ-
+ciency
+ (RUE) (R2 = 0.45). PARia in the ﬁrst year showed an increase of 8 MJ cm−1 of spacing reduction. RUE
+values
+ ranged from 2.0 to 1.6 g DM MJ−1 for 15 and 30 cm row spacing, respectively. The leaf area index
+(LAI)
+ was also affected by row spacing. Additionally, seasonal variation was found for the main variables
+but
+ did not interact with row spacing. In conclusion, reducing row spacing to an optimal distance is a
+practice
+ that allows for more favourable spatial arrangements of a lucerne crop and has a positive impact
+on
+ forage production.
+© 2012 Elsevier B.V. All rights reserved.
+1. Introduction
+Row spacing is an agronomical practice that determines the
+spatial distribution of the plants, which affects canopy structure,
+light interception and radiation use efﬁciency and consequently,
+biomass production in forage cropping systems. Lucerne pastures
+have very limited capacity for reseeding, which means that the spa-
+tial distribution of the plants remains uniform for many years and
+thus determines the timing of canopy closure after every defolia-
+tion. Lucerne sowing is characterized by greater distance between
+rows than between plants in the row, thereby showing a markedly
+rectangular arrangement. It is worth noting that if the row spacing
+decreases at the same density, the distance between plants in the
+Abbreviations: ADM, aerial dry matter; LAI, leaf area index; PAR, photosyn-
+thetically
+ active radiation; PARia , amount of photosynthetically active radiation
+intercepted
+ and accumulated during crop cycle; fPARi , fraction of photosynthetically
+active
+ radiation intercepted by the canopy; fPARt , fraction of photosynthetically
+active
+ radiation transmitted through the canopy; RUE, radiation use efﬁciency.
+∗ Corresponding  author. Tel.: +54 03492 440121; fax: +54 03492 440114.
+E-mail
+ address: jmattera@rafaela.inta.gov.ar (J. Mattera).
+row increases, thus generating a more square spatial arrangement.
+This could lead to improved canopy closure and biomass accumu-
+lation at each regrowth. The effects on biomass production can be
+analysed through changes in forage yield components such as the
+number of plants per area, the number of shoots per plant and
+the mass per shoot (Volenec et al., 1987). Complementary, biomass
+production can be studied by analyzing the radiation model com-
+ponents: the photosynthetically active radiation (PAR) intercepted
+and accumulated during the crop cycle (PARia) and the radiation use
+efﬁciency (RUE) or PAR conversion into biomass (Monteith, 1977).
+For this study, we performed both analyses to generate knowledge
+about the mechanisms involved in the biomass response to row
+spacing in pure lucerne crops.
+Different spatial arrangements produced by changes in row
+spacing can affect resource competition relationships at both the
+intraspeciﬁc and the interspeciﬁc levels (e.g. affecting recruitment
+of weed species). Intraspeciﬁc competition has three effects: (i)
+density-dependent mortality, (ii) trade-offs between size and den-
+sity, and (iii) population size structure alteration (Park et al., 2003).
+The ﬁrst two effects can be inferred by changes in average for-
+age yield components, while the distribution of plant sizes in the
+crop provides information about the population structure. The
+1161-0301/$ – see front matter ©  2012 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.eja.2012.10.008
+88 J. Mattera et al. / Europ. J. Agronomy 45 (2013) 87– 95
+combination of two agronomic practices, plant density and row
+spacing, deﬁnes the spatial arrangement of plants. Density effects
+were clariﬁed in a two-year experiment performed by Volenec et al.
+(1987), with a uniform distance between plants (square arrange-
+ment) for all density treatments. These authors determined that
+increased plant density had a positive effect on lucerne biomass
+production due to a higher shoot number per unit area, though the
+average plant size was reduced. Conversely, the focus of our work
+was to analyse how row spacing affected forage yield components,
+light interception, radiation use efﬁciency and biomass production
+at the same plant density in lucerne’s ﬁrst production year, where
+greater effects were previously found (Mattera et al., 2009).
+Row spacing was studied in numerous experiments in grain and
+industrial crops following the radiation model. As a result, in sev-
+eral crops narrow spacing increased the proportion of the radiation
+intercepted by the canopy (fPARi), resulting in higher PARia. This
+response was observed in grain crops such as corn (Zea mays L.)
+(Barbieri et al., 2000; Andrade et al., 2002; Sharratt and McWilliams,
+2005), sorghum [Sorghum bicolor (L.) Moench] (Steiner, 1986), soy-
+bean [Glycine max (L.) Merr.] (Board et al., 1992; Andrade et al.,
+2002) and sunﬂower (Helianthus annus L.) (Zaffaroni and Schneiter,
+1989). The fPARi increase was also reported for industrial crops as
+sugarcane (Saccharum spp.) (Singels and Smit, 2009) and ﬁber hemp
+(Cannabis sativa L.) (van der Werf et al., 1995). The higher fPARi was
+mainly explained by changes in leaves disposition; in other words,
+a more equidistant arrangement of the plants ensured a more uni-
+form distribution of leaves in the canopy (Zaffaroni and Schneiter,
+1989; van der Werf et al., 1995; Flenet et al., 1996; Barbieri et al.,
+2000; Sharratt and McWilliams, 2005). Other authors have reported
+that more square arrangements increased the leaf area index (LAI)
+(Steiner, 1986; Board and Harville, 1992; Singels and Smit, 2009)
+also enhancing fPARi. The effects of row spacing on biomass produc-
+tion are also determined by what occurs in the second component
+of the radiation model, the RUE. For corn, soybean, and sunﬂower,
+the positive grain yield responses were associated with increments
+in PARia (Andrade et al., 2002). However, yield increases were not
+as proportional as the increase in PARia suggesting a lower RUE
+or harvest index in narrow spacings. For corn, RUE also dropped at
+post-ﬂowering, counteracting the positive effects of higher PARia in
+narrow rows during the same period (Maddonni et al., 2006). The
+mechanisms that explain RUE reduction in narrow spacing are still
+under study. Maddonni et al. (2006) suggested that both light atten-
+uation within the canopy and red/far red ratio at lower leaf stratums
+could have depressed photosynthesis and consequently RUE. In for-
+age crops, the existing information reported biomass increments
+by row spacing reduction (for pure lucerne: Roufail, 1975; Lutz and
+Morley, 1982; Mattera et al., 2009; and associated with grasses:
+Jefferson and Kielly, 1998), but the studies were not completely
+detailed in terms of both forage yield and radiation model compo-
+nents. In crowded populations, the asymmetric competition due to
+light determines the death of smaller plants (Weiner et al., 1990).
+Self-thinning processes are common in lucerne crops (Rowe, 1988;
+Teixeira et al., 2007a), and unlike annual crops, changes in yield
+components through the years can determine size density com-
+pensation. However, in a preliminary work for a period of three
+years, we have found that the row spacing affected both plant size
+and density through the initial period (Mattera et al., 2009). We
+proposed the current experiment to investigate forage yield com-
+ponents with exhaustive detail to scrutinize these processes during
+the ﬁrst year.
+Lucerne is one of the most important forage crops due to its
+elevated production of high quality forage. The objectives of this
+work were: (i) to study the impact of row spacing on intraspeciﬁc
+competition by analyzing forage yield components (plant density,
+shoots plant−1 and weight shoot−1) and (ii) to analyse the effects of
+row spacing on light interception and radiation use efﬁciency and
+its
+ relation to aerial biomass production. The experiment included
+measurements at ﬁve different row spacings (10–15–17.5–20 and
+30 cm) at the same plant density established by thinning, in a pure
+lucerne crop (cv. Monarca) during ﬁve subsequent regrowths in the
+ﬁrst production year. To the best of our knowledge, this is the ﬁrst
+quantitative study to deal with the yield components, light inter-
+ception and radiation use efﬁciency of forage crops in response
+to row spacing. We hypothesized that the decrease of row spac-
+ing generates more square spatial arrangements which increase
+biomass production in lucerne crops. Speciﬁcally, we predicted that
+narrow spacings would increase forage yield components due to
+lower intraspeciﬁc competition. Although there exists a trade-off
+between intra-row and inter-row distances, in the case of lucerne
+crops, where plants are much closer in the row than between rows,
+the intra-row distance would limit growth ﬁrst. Therefore, nar-
+row spacing (greater intra-row distance) would delay the onset of
+competition. Second, narrow spacings would reach the critical LAI
+faster due to a plant arrangement closer to a square, increasing the
+time of the regrowth with optimal interception. Third, we also pre-
+dicted that the spacing would not affect RUE in the range of biomass
+commonly explored by lucerne crops for forage production, though
+this could occur if a closer distribution of the plants changes light
+penetration through the canopy.
+2. Materials and methods
+2.1. Study site
+The experiment was carried out from March 2009 to January
+2010 on an area of ﬂat land at the Rafaela INTA Experimental
+Station, Santa Fe, Argentina (31◦12′S and 61◦30′W). The climate
+of the region is subhumid humid and mesothermal, and Rafaela is
+characterized by annual rainfall of 957 mm with little precipitation
+in winter. The annual mean temperature is 19 ◦C, with the mean
+monthly lowest temperature in July (12 ◦C) and the maximum in
+January (26 ◦C). The soil is a “Rafaela” silt loam (USDA Soil Taxon-
+omy: Typic Argiudoll, ﬁne, mixed, thermic) (Mosconi et al., 1981),
+being the top horizon (ﬁrst 20 cm) characterized by 3.4% of organic
+matter, 0.2% of total nitrogen, 37 mg kg−1 of nitrates-N, 67 mg kg−1
+of extractable P, 9 mg kg−1 of sulfates-S and a pH of 6.3.
+2.2. Crop establishment, experimental design and treatments
+The lucerne cultivar used was Monarca SP INTA (Produsem S.A.,
+Pergamino, Argentina) (without winter dormancy), with a thou-
+sand seed weight of 2.3 ± 0.1 g and germination power of 93 ± 1%,
+seeds were uncoated without treatment and inoculation. Before
+sowing, the seedbed was prepared by a disc harrow and a tine
+harrow. The experiment was hand-seeded, put in rows at a sow-
+ing depth of around 1 cm, in early autumn of 2009. Precipitation
+during the time of sowing was sufﬁcient to assure a good establish-
+ment of the crop (358 mm from February to April). During the rest
+of the experimental period, precipitation was abundant (770 mm),
+exceeding lucerne evapotranspiration in every regrowth, except in
+October, where irrigation (∼=15 mm) was done to avoid severe water
+stress. Weeds were hand controlled. Pesticides were applied to
+control insects and diseases when necessary. Degree day accumu-
+lation during each regrowth was calculated as the sum of averages
+of daily absolutes lowest and highest temperatures, considering a
+base temperature of 5 ◦C (Fick et al., 1988).
+Rhizobia infection was expected given the previous history
+with lucerne in the paddock. The experimental design was a ran-
+domized complete block with ﬁve replicates. Each experimental
+unit consisted in a plot of 1 m × 1.5 m. Treatments were estab-
+lished at sowing as ﬁve row spacings: 10–15–17.5–20 and 30 cm
+J. Mattera et al. / Europ. J. Agronomy 45 (2013) 87– 95 89
+10 cm
+a = 2.47 cm
+a = 4.10 cm
+b =  10 cm
+b =  15 cm
+b =  17,5 cm
+a = 2.91 cm
+a = 2.39 cm
+b =  20 cm
+b =  30 cm
+a = 1.77 cm
+15 cm
+17.5  cm
+20 cm
+30 cm
+Row spacing
+Fig. 1. Scheme of the spatial arrangement of lucerne cultivated at ﬁve row spacings
+(10–15–17.5–20 and 30 cm) at Rafaela, Santa Fe, Argentina. This scheme was devel-
+oped from the average distance between plants in the row at the beginning of the
+experimental
+ period (September). Note that distance between plants in the row is
+represented
+ by letter a, while letter b identiﬁes row spacing.
+(Fig. 1). The purpose was to generate a spatial arrangement gra-
+dient where narrow spacings had arrangements closer to a square
+while wide spacings had markedly rectangular arrangements. Plots
+were seeded at high densities (20 kg ha−1) and after a month, a
+seedling thinning was performed (following the spatial arrange-
+ment assigned to each plot) to give all plots the same density
+(250 plants m−2), assuming that all seedlings had emerged at that
+moment. Due to the spacing treatments, the number of rows per
+plot varied, with 12, 9, 8, 7 and 5 rows per plot for spacings of
+10–15–17.5–20 and 30 cm, respectively.
+2.3. Measurements
+2.3.1. Plant density and rectangularity index
+Plant density was followed throughout the experiment by
+counting plants marked with rings in two ﬁxed segments along
+the rows. During each treatment, the length of the segment was
+adjusted (66 cm, 44 cm, 38 cm, 33 cm and 22 cm length for spacings
+of 10–15–17.5–20 and 30 cm, respectively) to create an equal plot
+surface. Rings were moved to live shoots of the same plant when
+shoot mortality occasionally occurred on target plants. Count-
+ings were done four times during the spring–summer season: in
+September, October, December and at the end of the experiment
+(January 2010). On each of the counting dates, the spatial arrange-
+ment of the plants was assessed by measuring the distance between
+plants in the row of the segments used to register plant density. A
+rectangularity index was then calculated as the ratio between row
+spacing and the average distance between plants in the row (Willey
+and Heath, 1969).
+2.3.2. Biomass production and forage yield components
+Aerial dry matter (ADM) was evaluated in consecutive
+regrowths, from the ﬁrst cut of the pasture (date: 31/08) and ﬁve
+subsequent regrowths from the beginning of the spring till the end
+of the summer. The phenological stage at cutting was between early
+and
+ late ﬂowering. Biomass was harvested on an equal surface for
+all spacings (as was plant density, Section 2.3.1); four segments
+along the rows were harvested per plot and date. Cuttings were
+done manually with a scissor 7 cm above ground level avoiding
+the borders of each plot. The harvested biomass was dried to con-
+stant weight in a forced air oven at 60 ◦C. Additionally, in four
+regrowths, the number of shoots in all the corresponding harvested
+biomass was counted and dry mass per shoot was calculated as the
+ratio of ADM to shoot number. Finally, the number of shoots per
+plant was estimated as the ratio between shoot number and plant
+density. During the last harvest, plant bases were excavated to char-
+acterize crown-tap root weight and dimensions. Individual plants
+were processed to register the dry weight of the crown, the crown
+area resulting from the product of the greater diameter and its
+respective perpendicular diameter, and ﬁnally, the upper taproot
+diameter.
+2.3.3. Light interception and radiation use efﬁciency
+Light interception and radiation use efﬁciency were studied
+in ﬁve consecutive regrowths following the ﬁrst cutting. During
+regrowth incident PAR was measured periodically (every 2–7 days)
+above and below the canopy with a 1 m linear ceptometer (Cavade-
+vices, Buenos Aires, Argentina) to estimate the proportion of the
+radiation transmitted (fPARt) through the canopy in each spacing.
+Measurements were done at noon on sunny days by positioning
+the ceptometer at ground level in homogenous sectors of the plots
+across rows. The fPARi was calculated as (1 − fPARt). The values of
+fPARi between measurements were obtained by linear interpola-
+tion. The incident global radiation was provided by a meteorological
+station located at INTA-Rafaela and a coefﬁcient of 0.45 was used
+to obtain incident PAR. The PARia in each regrowth was calculated
+as the sum of the product of daily incident PAR × fPARi. Addition-
+ally, the PARia of the entire experimental period was estimated for
+each plot as the sum of partial PARia. The RUE was estimated as
+the ratio between ADM and PARia for each regrowth and also glob-
+ally estimated as the ratio of ADM and PARia sums for the entire
+experimental period. To conﬁrm this estimate, the RUE was also cal-
+culated as the slope of the relationship between the accumulation
+of ADM and PARia throughout the experimental period.
+2.3.4. Canopy characteristics: leaf:stem ratio, LAI, k and leaf
+greenness
+In
+ four regrowths (September, October, December and January),
+one of the subsamples of aerial biomass was dissected into leaves
+and stems to estimate the leaf:stem ratio as an indicator of for-
+age quality. In December and January regrowths, the speciﬁc leaf
+area was obtained by measuring the area of the leaves of ﬁf-
+teen randomly selected shoots (representing more than 500 cm2)
+with digital photography and scanning and then weighting its dry
+weight. These measurements were used to estimate LAI by mul-
+tiplying the lamina proportion by the speciﬁc leaf area and ADM.
+Additionally, the light extinction coefﬁcient (k) was estimated as
+k = −LN (fPARt)/IAF (Flenet et al., 1996). Differences in light attenu-
+ation can drive changes in nitrogen concentration and distribution
+through the canopy, and consequently altering photosynthesis lev-
+els. As a result, leaf greenness was measured in fully expanded
+leaves of three different layers of the canopy using a portable
+chlorophyll meter (Model SPAD-502, Minolta, Ramsey, NJ, USA).
+The SPAD-Minolta gives an estimate of the chlorophyll content of
+the leaves and was associated in other legumes crops to N con-
+centration [faba bean (Vicia faba L.); Abdelhamid et al., 2003] and
+to photosynthetic rates (soybean; Ma et al., 1995). Each layer was
+deﬁned as 1/3 of the average canopy height (60 cm and 45 cm for
+December and January, respectively). Within each layer, ﬁfteen ran-
+domly selected leaves were measured to obtain an average SPAD
+value.
+90 J. Mattera et al. / Europ. J. Agronomy 45 (2013) 87– 95
+0
+5
+10
+15
+20
+25
+Aug Sep Oct Nov Dec Jan Feb
+10 cm
+15 cm
+17.5 cm
+20 cm
+30 cm
+Rectangularity Index
+Winter Spring Su mmer
+Fig. 2. Evolution of the rectangularity index of lucerne cultivated at ﬁve row spa-
+cings
+ (10–15–17.5–20 and 30 cm) during the spring–summer of the ﬁrst production
+year
+ at Rafaela, Santa Fe, Argentina. Plots were thinned at post-emergency to uni-
+form
+ plant density (250 plants m−2 ). Rectangularity index was calculated as the ratio
+of
+ the distance between rows and the distance between plants in the row. Values
+are
+ means ± SE of ﬁve replicates.
+2.4. Statistical analysis
+All the statistical analyses were performed using SAS v9.1.3
+statistical software (SAS Institute, Cary, NC, 2004). The dynam-
+ics of biomass production, yield components, PARia and RUE were
+analysed by rmANOVA with a randomised complete block design
+and repeated measures. Polynomial contrasts were performed
+to evaluate the existence of linear and/or quadratic relations of
+each variable as a function of row spacing. Coefﬁcients used for
+the calculations of the contrasts were obtained with the macro
+ORPOLY for unequal spacing. For the variables analysed only in
+summer regrowths (LAI and SPAD), ANOVAs were done sepa-
+rately for each regrowth. Fisher’s least signiﬁcant difference (LSD)
+was used to detect differences between treatments (p < 0.05) or
+trends (0.05 < p < 0.10). Crown and taproots traits were analysed by
+ANOVAs with randomised complete block design and subsampling
+(each plant) with four replicates. Rectangularity index, leaf:stem
+ratio, crown weight and crown area were natural log transformed to
+accomplish analysis assumptions. Regression and correlation anal-
+ysis were used to analyse relationships between variables, and F
+tests for differences between slopes. Additionally, it was estimated
+the joint point and the respective slopes of the bi-linear regression
+(Draper and Smith, 1998) adjusted for ADM response to spacing.
+The degrees of freedom for the error term were 21 (all the replicates
+were used to adjust the model).
+3. Results
+3.1.
+ Spatial arrangement
+The differences in the spatial arrangement of lucerne plants
+caused by row spacing were reﬂected in the rectangularity index
+(rmANOVA; p < 0.0001) (Fig. 2). The index approached unity as row
+spacing was reduced, implying a more equidistant arrangement
+between plants. The spatial arrangement of the widest row spacing
+(30 cm) was (rectangularity index = 15.1) on average seven times
+more rectangular than it was for the narrowest spacing (10 cm;
+rectangularity index = 2.1). Linear regressions for each counting
+date between row spacing and the rectangularity index resulted in
+high determination coefﬁcients (0.89–0.93), showing a close rela-
+tionship of both variables during the experiment. Due to plant
+mortality,
+ there was a slight decrease (p < 0.0001) of the rectangu-
+larity index during the experiment. The interaction between row
+spacing and time was not signiﬁcant (rmANOVA; p = 0.86), although
+the reduction seems to be more pronounced in 30 cm spacing.
+However, great differences among all row spacing treatments were
+evident throughout the experiment (Fig. 2), conﬁrming that the gra-
+dient of spatial arrangement required to test the hypotheses was
+kept during all the experimental period.
+3.2. Aerial biomass and forage yield components
+As expected, ADM was affected by row spacing (rmANOVA;
+p = 0.0003) (Fig. 3a). When the six different harvests were analysed,
+the results showed a signiﬁcant linear increase (polynomial con-
+trasts; p < 0.0001) of biomass production as spacing was reduced.
+On average, the highest yielding distance (15 cm) accumulates 40%
+more biomass than the less productive distance (30 cm). ADM
+was also inﬂuenced by time (p < 0.0001) but did not interact with
+row spacing (p = 0.37). September and November regrowths were
+the most productive (386 and 438 g DM m−2, respectively), while
+during the initial growth, October and December the ADM was
+intermediate (331, 310 and 319 g DM m−2, respectively), and the
+lowest ADM occurred in January (236 g DM m−2). After the analy-
+sis by regrowth, a bi-linear regression was adjusted between total
+ADM and row spacing in order to reﬂect the occurrence of an opti-
+mal spacing, which was determined to be 13 cm between rows
+(Fig. 3b). The function explained 60% of the variation (p < 0.0001)
+(Fig. 3b) with an initial positive slope (50 g DM cm−1) up to 13 cm
+after which the slope was negative (−38 g DM cm−1).
+Plant density dynamics was affected by row spacing (rmANOVA;
+p = 0.0097). A signiﬁcant linear increase (polynomial contrasts;
+p = 0.0008) was detected, denoting a higher plant density as spac-
+ing was reduced (Fig. 4a). This response occurred despite the fact
+that all spacing treatments started with a similar number of plants
+(due to thinning). Time also affected plant density (p < 0.0001), with
+increasing mortality leading to a plant density reduction of 10% by
+December and other 26% by January. The other two yield compo-
+nents, the number of shoots per plant (Fig. 4b) and dry mass per
+shoot (Fig. 4c), were not affected by row spacing, although a trend
+was detected for the latter (rmANOVA; p = 0.76 and p = 0.09, respec-
+tively). The interaction between row spacing and time was not
+signiﬁcant (p > 0.1) for any of the yield components. The structural
+traits of the crown and taproots of the plants may provide infor-
+mation on plant vigour. But we were unable to conﬁrm that row
+spacing had any signiﬁcant effects on lucerne crowns and taproots
+(ANOVA; p > 0.05; data not shown), with mean values of 0.54 g,
+1.6 cm2 and 0.32 cm, for crown weight, crown area and taproot
+diameter, respectively. However, in 15 and 17.5 cm spacings, the
+distribution of sizes in the population did present changes, with
+a higher value of the upper quartile for crown traits: the upper
+quartile was 54% greater for crown weight and 24% for crown
+area, which implies that individual plants with bigger crowns were
+present in those row spacings, suggesting a different plant hierar-
+chy.
+3.3. Light interception and radiation use efﬁciency
+Canopy interception was inﬂuenced by row spacing through-
+out the experimental period (Fig. 5). Narrow spacings (10 cm and
+15 cm) intercepted higher fPARi during the entire regrowth period.
+In September, all distances reached an interception of 0.95, but the
+critical value was achieved faster as row spacing was reduced. In
+November and December, 10 and 15 cm spacings were the only
+treatments that exceeded 0.95 fPARi by the end of the regrowth
+period. While in October and January, the critical value was not
+reached in any spacing but the maximum values (around 0.9)
+J. Mattera et al. / Europ. J. Agronomy 45 (2013) 87– 95 91
+Fig. 3. (a) Evolution of aerial dry matter (ADM) per regrowth of ﬁve row spacings (10–15–17.5–20 and 30 cm) and (b) total ADM of lucerne as a function of row spacing during
+the
+ spring–summer of the ﬁrst production year at Rafaela, Santa Fe, Argentina. Plots were thinned at post-emergency to uniform plant density (250 plants m−2 ). Values are
+means
+ ± SE of ﬁve replicates.
+were registered again in 10 and 15 cm spacings. Consequently, the
+higher fPARi in narrow spacings resulted in a signiﬁcant increase
+in the PARia by the crop during regrowths (rmANOVA; p < 0.0001;
+Appendix A). As row spacing was reduced PARia increased lin-
+early (polynomial contrasts; p < 0.0001). No interaction with time
+was detected so we performed a linear regression including the
+sum of radiation intercepted during ﬁve regrowths as a function of
+row spacing (Fig. 6a). Remarkably, we found a signiﬁcant function
+(p < 0.0001) that explains 76% of PARia variation, with an increase
+of 8 MJ cm−1 of spacing reduction (Fig. 6a).
+Radiation use efﬁciency was also affected by row spacing
+(rmANOVA; p = 0.0013), and no interaction with time was detected
+(Appendix A). This variable presented an optimal pattern, with the
+highest RUE values at 15 and 17.5 cm and decreases for narrower
+and wider spacings. A signiﬁcant linear relation (polynomial con-
+trasts; p = 0.0019) associated with linear reductions was observed
+when moving away from optimal spacings, and a quadratic relation
+(polynomial contrasts; p = 0.0084) was also detected in relation to
+the existence of the optimal range previously mentioned. The opti-
+mal pattern of RUE in each regrowth was clearly conﬁrmed when
+the RUE of the entire period was estimated as the ratio of ADM and
+PARia sums (Fig. 6b). In this case, a quadratic polynomial function
+(p = 0.0036) explained 45% of RUE variation. The optimum global
+RUE was observed for 15 cm spacing (1.98 g DM MJ−1), where RUE
+was 25% higher than the widest spacing (30 cm) and 13% higher
+than the narrowest spacing (10 cm). Coincidentally, the RUE esti-
+mated as the slope of the relationship between the accumulation
+of ADM and PARia of the overall period (Appendix B) was higher at
+15 cm spacing (2.17 g DM MJ−1) (p < 0.05) than at 30 cm and 10 cm
+(1.73 and 1.93 g DM MJ−1, respectively).
+Although no interaction was detected between time and row
+spacing, time had a signiﬁcant effect on both variables (rmANOVAs;
+p < 0.0001; Appendix A). In September PARia was the highest
+(273 MJ m−2) followed by November (194 MJ m−2); was interme-
+diate in October and December (164 and 162 MJ m−2) and lowest
+in January (149 MJ m−2). The highest RUE values were registered
+during the middle of the spring and beginning of the summer
+(October 1.89 g DM MJ−1, November 2.24 g DM MJ−1 and December
+1.97 g DM MJ−1), with the lowest values at the beginning and
+the end of the experimental period (September 1.40 g DM MJ−1
+and January 1.57 g DM MJ−1). A signiﬁcant linear relationship was
+detected between temperature and RUE (p = 0.0127) that explained
+25% of the variation. The function was substantially improved when
+January regrowth was excluded from the analysis (64% of the vari-
+ation explained, p < 0.0001) with a RUE increase of 0.06 g DM MJ−1
+per degree increase.
+3.4.
+ Canopy characteristics
+The leaf:stem ratio did not change with row spacing (rmANOVA;
+p = 0.26) and though it was affected by time (p < 0.0001), it did
+not interact with spacing (p = 0.56). During spring regrowths, the
+canopy was leafy, with the highest leaf:stem ratio in October (1.60),
+followed by September (1.48). In summer regrowths, stems repre-
+sented a greater proportion of biomass, with a consequently lower
+leaf:stem ratio (0.74).
+Row spacing inﬂuenced the LAI of the lucerne crop in both
+regrowths studied (December and January) (Table 1), and this was
+related with the fPARi as LAI directly affects light capture. First,
+in December the widest spacing (30 cm) had lower LAI than other
+spacings, with an average reduction of 25%. In January, 30–20 and
+10 cm spacings had lower LAI than the 15 cm spacings. The LAI
+of those row spacings was 32% lower on average. According to
+these results, it can be concluded that signiﬁcant differences in LAI
+between spacings occurred in those with more contrasting ADM
+(Fig. 3a). No signiﬁcant differences were found for the extinction
+coefﬁcient k (data not shown), with a value of 0.72 in December
+Table 1
+Leaf
+ area index (LAI) average values of lucerne canopy cultivated at ﬁve row spacings
+(10–15–17.5–20
+ and 30 cm) of two regrowths (December and January) of the ﬁrst
+production
+ year at Rafaela, Santa Fe, Argentina.
+LAI (December) LAI (January)
+Row spacing (cm)
+10
+ 4.10a * 2.25b
+15 3.64a 3.03a
+17.5 3.87a 2.31ab
+20 3.69a 2.09b
+30 2.87b 1.86b
+* Different letters in the column show signiﬁcant differences at 5% level (LSD).
+92 J. Mattera et al. / Europ. J. Agronomy 45 (2013) 87– 95
+Row spacing (cm)
+Number of plants (pl m
+-2
+)Number of shoots per plantDry mass per shoot (g)
+0
+100
+200
+300
+5 10 15 20 25 30
+10 cm
+15 cm
+17.5 cm
+20 cm
+30 cm
+Jan-10
+Sep-09
+Dec-09
+Oct -09
+0
+2
+4
+6
+5 10 15 20 25 30
+Sep-09
+Dec-09
+Jan-10
+Oct -09
+Sep-09:   R2 = 0.02
+Oct -09:    R2 = 0.00
+Dec-09: R2 = 0.01
+Jan-10:   R2 = 0.01
+Sep-09:   R2 = 0.39    p = 0.002 0
+Oct -09:    R2 = 0.50    p = 0.000 2
+Dec-09: R2 = 0.26    p = 0.012 9
+Jan-10:   R2 = 0.15    p = 0.065 4
+0
+0.2
+0.4
+0.6
+5 10 15 20 25 30
+Sep-09
+Dec-09
+Jan-10
+Oct -09
+Sep-09:   R2 = 0.01
+Oct -09:    R2 = 0.02
+Dec-09: R2 = 0.01
+Jan-10:   R2 = 0.01
+p > 0.05
+a)-
+b)-
+c)-
+p > 0.05
+Fig. 4. Forage yield components: (a) plant density, (b) number of shoots per plant,
+and
+ (c) dry mass per shoot of lucerne as a function of row spacing (10–15–17.5–20
+and
+ 30 cm) of four regrowths in the spring–summer of the ﬁrst production year at
+Rafaela,
+ Santa Fe, Argentina. Plots were thinned at post-emergency to uniform plant
+density
+ (250 plants m−2 ). Values are means ± SE of ﬁve replicates.
+and 0.95 in January and high variability in both (CV = 15 and 23%,
+respectively).
+Row spacing signiﬁcantly inﬂuenced SPAD along the canopy
+structure. The SPAD values were similar for all treatments when
+comparing the high and middle layers of the canopy; however,
+reductions due to narrow row spacing were registered in the lower
+stratum of the canopy (Table 2). A trend was identiﬁed in December
+(ANOVA; p = 0.08), with lower values in 10 cm than 20 and 30 cm
+spacings. This was later conﬁrmed in January (ANOVA; p < 0.05)
+with lower SPAD values in 10 and 15 cm than in 30 cm spacings.
+The reduction of the SPAD values was 12% on average.
+f PARi
+0.1
+0.3
+0.5
+0.7
+0.9
+0
+200
+300
+400
+500
+600
+10 cm
+15 cm
+17.5 cm
+20 cm
+30 cm
+0.1
+0.3
+0.5
+0.7
+0.9
+0
+100
+200
+300
+400
+500
+600
+0.1
+0.3
+0.5
+0.7
+0.9
+0
+200
+300
+400
+500
+600
+0.1
+0.3
+0.5
+0.7
+0.9
+0
+200
+300
+400
+500
+600
+0.1
+0.3
+0.5
+0.7
+0.9
+010 020 030 040 050 060 0
+Therma l t ime (Degree days)
+a)-Sep-09
+b)-Oct-09
+c)-No v-09
+d)-Dec -09
+e)- Jan-09
+Fig. 5. Fraction of photosynthetically active radiation intercepted (fPARi ) by lucerne
+canopy
+ as a function of thermal time cultivated at ﬁve row spacings (10–15–17.5–20
+and
+ 30 cm) of ﬁve regrowths in the spring–summer of the ﬁrst production year at
+Rafaela,
+ Santa Fe, Argentina. Values are means of ﬁve replicates. Vertical bars denote
+SE
+ per sampling date.
+J. Mattera et al. / Europ. J. Agronomy 45 (2013) 87– 95 93
+Table 2
+Leaf
+ greenness (SPAD units) average values of three layers (low, middle and high) of lucerne canopy cultivated at ﬁve row spacings (10–15–17.5–20 and 30 cm) of two
+regrowths
+ (December and January) of the ﬁrst production year at Rafaela, Santa Fe, Argentina.
+Layer (cm) SPAD (December) SPAD (January)
+Low (0–20) Middle (20–40) High (40–60) Low (0–15) Middle (15–30) High (30–45)
+Row spacing (cm)
+10
+ 29.6 37.7 44.9 34.9b* 42.2 51.0
+15 32.6
+ 38.9 45.3 35.5b 43.4 51.0
+17.5 33.0
+ 39.0 45.1 36.6ab 44.1 51.2
+20
+ 33.2 37.7 43.3 37.7ab 43.9 49.4
+30
+ 34.0 38.6 44.0 40.0a 45.2 50.1
+* Different letters in the column show signiﬁcant differences at 5% level (LSD).
+Row spa cing (c m)
+Global RUE (g DM MJ
+-1
+) ∑ PARia (MJ m
+-2
+)
+y =  1085  - 8.03  x
+R² = 0.76  ; p < 0.000 1
+700
+800
+900
+1000
+110 0
+10
+15
+17
+20
+30
+a)-
+y = -0.0019 x2 + 0.0646 x + 1.342 1
+R² = 0.45  ; p = 0.0036    
+1.00
+1.25
+1.50
+1.75
+2.00
+2.25
+2.50
+5 10 15 20 25 30
+b)-
+.5 cm
+cm
+cm
+cm
+cm
+Fig. 6. (a) Intercepted and accumulated PAR (
+∑
+PARia ) of ﬁve regrowths and
+(b)
+ global radiation use efﬁciency (RUE) of lucerne as a function of row spacing
+(10–15–17.5–20
+ and 30 cm) in the spring–summer of the ﬁrst production year at
+Rafaela,
+ Santa Fe, Argentina. Global RUE was calculated as the ratio between total
+aerial
+ dry matter (ADM) and
+∑
+PARia of ﬁve regrowths (September–January). There
+are
+ presented values of ﬁve replicates.
+4. Discussion
+4.1. Effects of row spacing on biomass production and plant
+density
+By using the gradient generated in plant spatial arrangement
+due to row spacing treatments and maintained during the experi-
+mental period (Figs. 1 and 2), we were able to test the hypothesis of
+this work. The results demonstrate that there was a signiﬁcant lin-
+ear relationship of ADM increase as row spacing was reduced until
+an optimal distance (around 13 cm), below which biomass accu-
+mulation tended to decrease. A bi-linear regression was adjusted
+to represent that pattern, explaining 60% of the variability (Fig. 3b).
+An increased ADM in more square spatial arrangements coincides
+with the proposed hypothesis and also with previous experiences
+in
+ Australia (Roufail, 1975) and Argentina (Mattera et al., 2009),
+where ADM increases (around 5–20%) were found in long-term
+trials of row spacing reduction. In the present experiment, the
+higher relative increase (between 16 and 42%) was probably the
+result of assessing spring and early summer regrowths, when row
+spacing effects are concentrated (Mattera et al., 2009) and par-
+tition to crown and roots of the lucerne plants is still relatively
+lower (Khaiti and Lemaire, 1992; Brown et al., 2006), enhancing
+the effects on aerial growth. Otherwise, as expected biomass was
+affected by regrowth. It is remarkable the biomass reduction during
+summer, being consistent with reports of lower yields under well-
+watered conditions (Evans and Peaden, 1984) that were associated
+with warmer temperatures that reduced growth period duration.
+As lucerne is a long-day plant (Major et al., 1991) similar effect
+could also be produced by longer photoperiods.
+The forage yield component that changed among spacings was
+plant density, which increased with spacing reduction (Fig. 4).
+Although plant density was initially established by thinning, it was
+an important determinant of crop production. In many species,
+plant mortality rates are related to the distance of the nearest
+neighbour (Skinner, 2005), which coincides with our results as nar-
+row spacing increased intra-row distance between plants (Fig. 1).
+As spacing was reduced, plant mortality decreased, sign of less
+intense intraspeciﬁc competition within the crop canopy. The dif-
+ferences in size hierarchy, with plants with bigger crowns in narrow
+spacing (15 and 17.5 cm), could also be an indicator of more
+favourable growing conditions (Park et al., 2003). Moreover, could
+be that compensatory growth was operating at those spacings, in
+coincidence with both higher RUE and dry mass per shoot (trend).
+Instead, for wide spacings by the end of the ﬁrst year there was no
+evidence of compensation. We speculate that biomass in the fol-
+lowing year would have continued being higher in narrow spacings,
+especially in 15 and 17.5 cm spacings. The registered changes in
+radiation interception and canopy characteristics produced by row
+spacing suggest that plant density dynamic was mainly inﬂuenced
+by the light environment, although competition for belowground
+resources cannot be fully discarded. As lucerne is usually sown at
+high densities to assure uniform crop canopy cover, plant mortal-
+ity is expected to follow self-thinning law (Matthew et al., 1995)
+caused by competition for light (Sackville Hamilton et al., 1995).
+Our data suggest different trajectories between row spacings as
+higher plant density with the same plant size were found in nar-
+row spacings that may be due to reduced competition for light, and
+requires to be studied in a long-term experiment. For narrow spa-
+cings, it may be more feasible to ﬁnd a higher plant density that
+increase biomass production (Volenec et al., 1987). However, one
+could assume that if the response of plant density is not accom-
+panied by an improvement in the plant spatial arrangement, there
+would not be a biomass increase, as was observed for 15 cm spac-
+ing in a previous experiment at Rafaela-Argentina (Mattera et al.,
+2009). Additionally, neither dry mass per shoot nor shoots per plant
+were affected by row spacing, a ﬁnding that contrast with previous
+research on lucerne that have found an important role of the dry
+94 J. Mattera et al. / Europ. J. Agronomy 45 (2013) 87– 95
+mass per shoot in biomass responses to fertilization (Berg et al.,
+2005) and defoliation frequency (Teixeira et al., 2007a). Our results
+reveal the signiﬁcant improvement of plant density with lower
+intraspeciﬁc competition under narrow spacings, though this did
+not happen for the other forage yield components.
+4.2. Row spacing effects on light interception and radiation use
+efﬁciency
+Radiation interception increased as row spacing was reduced
+(Fig. 6a). This response was observed for many grain and indus-
+trial crops, though this is the ﬁrst report for a pasture canopy. The
+effects on interception were explained by the improved canopy
+closure, i.e. greater interception during regrowth and faster reach
+of the critical LAI in narrow spacings (Fig. 5). In a lucerne crop,
+then, the generation of more square arrangements by reducing row
+spacing improved radiation interception, increasing biomass pro-
+duction. Similarly, we found a signiﬁcant increase of LAI at the time
+of cutting (Table 1), but the differences were only conﬁrmed for the
+most contrasting spacings in yield terms (Fig. 3). In other crops, nar-
+row spacings were reported to improve radiation interception by
+changes in canopy architecture, i.e. greater light extinction coefﬁ-
+cient (k) (corn: Flenet et al., 1996 and Barbieri et al., 2000; soybean:
+Flenet et al., 1996; sunﬂower: Zaffaroni and Schneiter, 1989 and
+Flenet et al., 1996). In our experiment, the extinction coefﬁcient
+k showed no differences among spacings. However, it should be
+noted that the coefﬁcient was estimated with data obtained just
+before cutting, so the way k evolved during the course of the
+regrowth is not known. In lucerne, the nitrogen distribution pro-
+ﬁle is associated with light distribution proﬁle (Lemaire et al., 1991)
+and the lower SPAD values found in a low canopy stratum in narrow
+spacings suggest greater light attenuation that could be associated
+with higher k during regrowth. On the other hand, k in lucerne has
+shown stability (Varella, 2002; Teixeira et al., 2007b, 2011), prob-
+ably associated with an efﬁcient canopy given by the expression
+of various leaf angles between layers and the ability of the leaﬂets
+to move following the sun (Travis and Reed, 1983; Heichel et al.,
+1988). The clariﬁcation of this aspect requires further experimental
+investigation.
+The relative change in biomass accumulation (up to 40%) among
+spacings was greater than the interception change (up to 16%) and
+was related to the response observed in the RUE. Unexpectedly, we
+found that RUE was optimal around the 15 cm spacing (Fig. 6b).
+We propose two complementary explanations for this. First, RUE
+diminished in 10 cm spacing, which had the lowest SPAD values of
+the lower canopy stratum (Table 2). This would be associated with
+the early canopy closure, and the strong relationship between the
+light that reaches the leaves and its nitrogen content (Lemaire et al.,
+1991). In this case, the lower SPAD values would be an indicator of
+reduced photosynthesis in this stratum, and also greater leaf senes-
+cence, both of which negatively affect the RUE. Similarly, other
+authors also found RUE reductions in response to narrow spacing
+(Board et al., 1994; Maddonni et al., 2006). Second, lower RUE was
+correlated with a lower LAI at the time of cutting (Fig. 7). This fact
+could explain the lower RUE values above the optimal spacings,
+especially in 30 cm spacing, which possessed the lowest LAI value,
+probably associated with an enhanced self-thinning process. A rela-
+tion between RUE and LAI was previously reported for other crops
+(Sinclair and Horie, 1989; Ruíz and Bertero, 2008). The effect of LAI
+on RUE was mostly observed at low LAI values (Sinclair and Horie,
+1989), where a greater proportion of the leaves were light satu-
+rated thus lowering the crop’s quantum efﬁciency. This would be
+the case in our experiment because lucerne grew for short periods,
+and the majority of the regrowths passed with low LAIs. In conclu-
+sion, row spacing would have changed leaf irradiance within the
+canopy, as spacing was reduced leaves would have been exposed
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+0 1 2 3 4 5 6
+10 cm 10 cm
+15 cm 15 cm
+17.5 cm 17.5 cm
+20 cm 20 cm
+30 cm 30 cm
+Decembe r Janua ry
+Dec-09: R = 0.76 p < 0.000 1
+Jan-10: R = 0.63 p = 0.0013  
+LAI
+RUE (g DM MJ
+-1
+)
+Fig. 7. Relationship between leaf area index (LAI) and radiation use efﬁciency (RUE)
+for
+ lucerne cultivated at ﬁve row spacings (10–15–17.5–20 and 30 cm) of two
+regrowths
+ in the spring–summer of the ﬁrst production year at Rafaela, Santa Fe,
+Argentina.
+to lower irradiance due to higher LAIs, thus increasing RUE. How-
+ever, it should exist a minimum leaf irradiance, reached near 15 cm
+spacing, below which some leaves senesce, reducing RUE, as was
+observed in 10 cm spacing. Other hypothesis interrelated is about
+partition between shoots/roots, relevant in lucerne crops (Khaiti
+and Lemaire, 1992; Teixeira et al., 2008); at low irradiance plants
+allocate more assimilates to shoot preferentially to roots (Poorter
+and Nagel, 2000; Poorter et al., 2012), that would have increased
+RUE based on aerial biomass in narrow spacings. Further research
+is necessary to study these hypotheses.
+The RUE was also affected by regrowth (i.e. seasonality) which
+is consistent with previous reports that showed the correlation
+between RUE and air temperature, with linear increases of RUE as
+temperature rises (Collino et al., 2005; Brown et al., 2006). How-
+ever, our results indicated a weak relationship between RUE and
+air temperature, coinciding with Brown et al. (2006) when RUE was
+estimated with aerial biomass, as temperature effects can be con-
+founded with changes in partition between shoots/roots. In the case
+of the last harvest (January, when temperatures exceeded 25 ◦C)
+RUE decreased, probably associated with the beginning of a higher
+partition process to belowground structures. This seasonal trend
+also coincides with the pattern registered by Thiébeau et al. (2011)
+in lucerne regrowth crops, where partition to belowground organs
+raised with thermal time accumulation and reached higher val-
+ues at the summer season. Thus, the relationship between RUE
+and temperature was more evident when this last harvest was
+excluded, being then comparable to the temperature framework
+developed by Collino et al. (2005) in a similar environment.
+5.
+ Conclusions and implications
+A more square spatial arrangement in narrow spacings pro-
+moted a lower intraspeciﬁc competition that allowed for greater
+plant survival without reductions in plant size, which resulted in
+the increase of biomass production. As it has been observed for
+other agronomic practices such as defoliation frequency (Teixeira
+et al., 2007b, 2008), both radiation model components (i.e. PARia
+and RUE) were affected by row spacing: the response was linear
+for the PARia and optimum for the RUE. The bi-linear response
+of ADM to row spacing was determined by the optimal pattern
+of RUE. Lucerne has been characterized as an efﬁcient species for
+radiation capture (Heichel et al., 1988; Travis and Reed, 1983); how-
+ever, the results presented here evidence the limits of plasticity to
+compensate for changes in plant spatial arrangement. In the future,
+J. Mattera et al. / Europ. J. Agronomy 45 (2013) 87– 95 95
+the study of row spacing effects on light extinction coefﬁcient
+and LAI at different moments during the course of the regrowth
+could provide greater understanding of the mechanisms involved.
+In addition, the nutritive value of the forage was not affected by
+row spacing for the trait evaluated here, i.e., the leaf:stem ratio.
+Thus, narrow spacing is a practice which could contribute to land
+intensiﬁcation use in husbandry systems by helping to achieve
+forage yield potential. The current machinery design seems to
+go against such agronomical management, because in Argentina,
+sowing equipment tends to greater separation between rows. Addi-
+tionally, other aspects should be considered when determining the
+optimum spacing for the lucerne crop such as type of cultivars (i.e.
+dormancy and foliation), the cost of equipment, the prevalence of
+disease and the competitiveness of weeds.
+Acknowledgments
+We specially thank Professors Gustavo Maddonni and Gustavo
+Striker (University of Buenos Aires, Argentina) and Dr Daniel Collino
+(IFFIVE-INTA, Argentina) for critical comments on early versions
+of the manuscript. The study was funded by Instituto Nacional de
+Tecnología Agropecuaria (INTA, Argentina).
+Appendix A. Supplementary data
+Supplementary data associated with this article can be found, in
+the online version, at http://dx.doi.org/10.1016/j.eja.2012.10.008.
+References
+Abdelhamid, M., Horiuchi, T., Oba, S., 2003. Evaluation of the SPAD value in faba
+bean (Vicia faba L.) leaves in relation to different fertilizer applications. Plant
+Production
+ Science 6, 185–189.
+Andrade, F.H., Calvino, P., Cirilo, A., Barbieri, P., 2002. Yield responses to narrow rows
+depend on increased radiation interception. Agronomy Journal 94, 975–980.
+Barbieri, P.A., Sainz Rozas, H.R., Andrade, F.H., Echeverria, H.E., 2000. Row spacing
+effects at different levels of nitrogen availability in maize. Agronomy Journal 92,
+283–288.
+Berg, W.K., Cunningham, S.M., Brouder, S.M., Joern, B.C., Johnson, K.D., Santini, J.,
+Volenec, J.J., 2005. Inﬂuence of phosphorus and potassium on alfalfa yield and
+yield components. Crop Science 45, 297–304.
+Board, J.E., Kamal, M., Harville, B.G., 1992. Temporal importance of greater light
+interception to increased yield in narrow-row soybean. Agronomy Journal 84,
+575–579.
+Board, J.E., Harville, B.G., 1992. Explanations for greater light interception in narrows
+vs. wide row soybean. Crop Science 32, 198–202.
+Board, J.E., Harville, B.G., Kamal, M., 1994. Radiation-use efﬁciency in relation to row
+spacing for late-planted soybean. Field Crops Research 36, 13–19.
+Brown, H.E., Moot, D.J., Teixeira, E.I., 2006. Radiation use efﬁciency and biomass par-
+titioning of lucerne (Medicago sativa) in a temperate climate. European Journal
+of Agronomy 25, 319–327.
+Collino, D.J., Dardanelli, J.L., De Luca, M.J., Racca, R.W., 2005. Temperature and water
+availability effects on radiation and water use efﬁciencies in alfalfa (Medicago
+sativa L.). Australian Journal of Experimental Agriculture 45, 383–390.
+Draper, N., Smith, H., 1998. Applied Regression Analysis, third ed. John Wiley & Sons
+Inc., New York, p. 736.
+Evans, D.W., Peaden, R.N., 1984. Seasonal forage growth rate and solar energy con-
+version of irrigated vernal alfalfa. Crop Science 24, 981–984.
+Fick, G.W., Holt, D.A., Lugg, D.G., 1988. Environmental physiology and crop growth.
+In: Hanson, A.A., Barnes, D.K., Hill Jr., R.R. (Eds.), Alfalfa and Alfalfa Improvement,
+vol. 29. American Society of Agronomy, Madison, USA, pp. 163–194.
+Flenet, F., Kiniry, J.R., Board, J.E., Westgate, M.E., Reicosky, D.C., 1996. Row spacing
+effects on light extinction coefﬁcients of corn, sorghum, soybean, and sunﬂower.
+Agronomy Journal 88, 185–190.
+Heichel, G.H., Delaney, R.H., Cralle, H.T., 1988. Carbon assimilation, partioning
+and utilization. In: Hanson, A.A., Barnes, D.K., Hill Jr., R.R. (Eds.), Alfalfa and
+Alfalfa Improvement, vol. 29. American Society of Agronomy, Madison, USA,
+pp. 195–228.
+Jefferson, P.G., Kielly, G.A., 1998. Reevaluation of row spacing/plant density of seeded
+pasture grasses for the semiarid prairie. Canadian Journal of Plant Science 78,
+257–264.
+Khaiti, M., Lemaire, G., 1992. Dynamics of shoot and root growth of lucerne after
+seeding and after cutting. European Journal of Agronomy 1, 241–247.
+Lemaire, G., Onillon, B., Gosse, G., Chartier, M., Allirand, J.M., 1991. Nitrogen distribu-
+tion within a lucerne canopy during regrowth: relation with light distribution.
+Annals of Botany 68, 483–488.
+Lutz, E.E., Morley, F.H.W., 1982. Production of alfalfa (Medicago sativa L.) I. Inﬂuence
+of row spacing and cultivar. Turrialba 32, 1–10.
+Ma,
+ B.L., Morrison, M.J., Voldeng, H.D., 1995. Leaf greenness and photosynthetic rates
+in soybean. Crop Science 35, 1411–1414.
+Maddonni, G.A., Cirilo, A.G., Otegui, M.E., 2006. Row width and maize grain yield.
+Agronomy Journal 98, 1532–1543.
+Major, D.J., Hanna, M.R., Beasley, B.W., 1991. Photoperiod response characteristics
+of alfalfa (Medicago sativa L.) cultivars. Canadian Journal of Plant Science 71,
+87–93.
+Mattera, J., Romero, L.A., Cuatrín, A., Grimoldi, A.A., 2009. Efectos de la distancia de
+siembra sobre la producción de biomasa y la persistencia de un cultivo de alfalfa.
+Revista Argentina de Producción Animal 29, 131–140.
+Matthew, C., Lemaire, G., Sackville Hamilton, N.R., Hernandez-Garay, A., 1995. A
+modiﬁed self-thinning equation to describe size/density relationships for defo-
+liated swards. Annals of Botany 76, 579–587.
+Monteith, J.L., 1977. Climate and the efﬁciency of crop production in Britain. Philo-
+sophical Transactions of the Royal Society of London. Series B, Biological Sciences
+281, 277–294.
+Mosconi, F.P., Priano, L.J.J., Hein, N.E., Moscatelli, G., Salazar, J.C., Gutiérrez, T.,
+Cáceres, L., 1981. Mapa de suelos de la Provincia de Santa Fe, vol. 1. INTA,
+p. 246.
+Park, S.E., Benjamin, L.R., Watkinson, A.R., 2003. The theory and application of plant
+competition model: an agronomic perspective. Annals of Botany 92, 741–748.
+Poorter, H., Nagel, O., 2000. The role of biomass allocation in the growth response
+of plants to different levels of light, CO2 , nutrients and water: a quantitative
+review. Australian Journal of Plant Physiology 27, 595–607.
+Poorter, H., Niklas, K.J., Reich, P.B., Oleksyn, J., Poot, P., Mommer, L., 2012. Biomass
+allocation to leaves, stems and roots: meta-analyses of interspeciﬁc variation
+and environmental control. New Phytologist 193, 30–50.
+Roufail, A., 1975. Effect of sowing rate and sowing method on the establishment,
+yield and survival of irrigated lucerne at Kyabram, Victoria. Australian Journal
+of Experimental Agriculture and Animal Husbandry 15, 64–68.
+Rowe, D.E., 1988. Alfalfa persistence and yield in high density stands. Crop Science
+28, 491–494.
+Ruíz, R.A., Bertero, H.D., 2008. Light interception and radiation use efﬁciency in tem-
+perate quinoa (Chenopodium quinoa Willd.). European Journal of Agronomy 29,
+144–152.
+Sackville Hamilton, N.R., Matthew, C., Lemaire, G., 1995. In defence of the −3/2
+boundary rule: a re-evaluation of self-thinning concepts and status. Annals of
+Botany 76, 569–577.
+Sharratt, B.S., McWilliams, D.A., 2005. Microclimatic and rooting characteristics of
+narrow-row versus conventional-row corn. Agronomy Journal 97, 1129–1135.
+Sinclair, T.R., Horie, T., 1989. Leaf nitrogen, photosynthesis, and crop radiation use
+efﬁciency: a review. Crop Science 29, 90–98.
+Singels, A., Smit, M.A., 2009. Sugarcane response to row spacing-induced competi-
+tion for light. Field Crops Research 113, 149–155.
+Skinner, R.H., 2005. Emergence and survival of pasture species sown in monocultures
+or mixtures. Agronomy Journal 97, 799–805.
+Steiner, J.L., 1986. Dryland grain Sorghum water use, light interception, and growth
+responses to planting geometry. Agronomy Journal 78, 720–726.
+Teixeira, E.I., Moot, D.J., Brown, H.E., Fletcher, A.L., 2007a. The dynamics of lucerne
+(Medicago sativa L.) yield components in response to defoliation frequency. Euro-
+pean Journal of Agronomy 26, 394–400.
+Teixeira, E.I., Moot, D.J., Brown, H.E., Pollock, K.M., 2007b. How does defoliation
+management impact on yield, canopy forming processes and light intercep-
+tion of lucerne (Medicago sativa L.) crops? European Journal of Agronomy 27,
+154–164.
+Teixeira, E.I., Moot, D.J., Brown, H.E., 2008. Defoliation frequency and season affected
+radiation use efﬁciency and dry matter partitioning to roots of lucerne (Medicago
+sativa L.) crops. European Journal of Agronomy 28, 103–111.
+Teixeira, E.I., Brown, H.E., Meenken, E.D., Moot, D.J., 2011. Growth and phenologi-
+cal development patterns differ between seedling and regrowth lucerne crops
+(Medicago sativa L.). European Journal of Agronomy 35, 47–55.
+Thiébeau, P., Beaudoin, N., Justes, E., Allirand, J.-M., Lemaire, G., 2011. Radiation
+use efﬁciency and shoot:root dry matter partitioning in seedling growths and
+regrowth crops of lucerne (Medicago sativa L.) after spring and autumn sowings.
+European Journal of Agronomy 35, 255–268.
+Travis, R.L., Reed, R., 1983. The solar tracking pattern in a closed alfalfa canopy. Crop
+Science 23, 664–668.
+van der Werf, H.M.G., van Geel, W.C.A., van Gils, L.J.C., Haverkort, A.J., 1995. Nitrogen
+fertilization and row width affect self-thinning and productivity of ﬁbre hemp
+(Cannabis sativa L.). Field Crops Research 42, 27–37.
+Varella, A.C., 2002. Modelling lucerne (Medicago sativa) crop response to light
+regimes in an agroforestry system. PhD Thesis. Lincoln University, Canterbury,
+New Zealand, p. 268.
+Volenec, J.J., Cherney, J.H., Johnson, K.D., 1987. Yield components, plant morphology,
+and forage quality of alfalfa as inﬂuenced by plant population. Crop Science 27,
+321–326.
+Weiner, J., Mallory, E.B., Kennedy, C., 1990. Growth and variability in crowded and
+uncrowded populations of dwarf marigolds (Tagetes patula). Annals of Botany
+65, 513–524.
+Willey, R.W., Heath, S.B., 1969. The quantitative relationships between plant pop-
+ulation and crop yield. In: Brady, N.C., Hall, R. (Eds.), Advances in Agronomy.
+Cornell University, Ithaca, NY, USA, pp. 281–321.
+Zaffaroni, E., Schneiter, A.A., 1989. Water-use efﬁciency and light interception
+of semidwarf and standard-height sunﬂower hybrids grown in different row
+arrangements. Agronomy Journal 81, 831–836.

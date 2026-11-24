@@ -1,0 +1,101 @@
+=== Fuente: Quecan-Velasquez.pptx ===
+
+--- Diapositiva 1 ---
+Efectos del sistema de producción y de los promotores de crecimiento sobre puntuaciones de madurez fisiológica en novillos
+Nathaly Quecán – Soledad Velásquez
+--- Diapositiva 2 ---
+Introducción
+Restricciones de edad cronológica en mercados de exportación (Japón < 21 meses de edad) 
+Restricción sanitaria: EEB: Separar ganado bajo y sobre 30 meses de edad
+Ausencia de registros de nacimiento y edad verificable
+Dentición y osificación de carcasa como indicadores fisiológicos
+Cambios en prácticas de producción pueden haber alterado la relación entre la edad cronológica y la madurez fisiológica (Shackelford et al. 1995)
+Rol de la madurez en la determinación de la calidad de la carne; al incrementar disminuye la terneza (Purslow, 2005)
+--- Diapositiva 3 ---
+Terneros post-destete		
+	Calf-fed: Sistema de producción intensivo de ganado de carne  	(dietas altas en concentrado)
+	Yearling-fed: Sistema de producción extensivo 
+
+Prácticas de manejo rutinarias (Agentes de reparto: Implantes de crecimiento con hormonas estrogénicas/androgénicas y agonistas β-adrenérgicos) para incrementar deposición de proteína.
+Promotores de crecimiento hormonales + acetato de trembolona avanza madurez esquelética.
+Beneficios económicos, rentabilidad Vs. Posibles efectos deletéreos sobre calidad de la canal (Schoonmaker et al. 2004).
+--- Diapositiva 4 ---
+Objetivo del estudio
+Examinar la dentición y la osificación de canal en animales de edad cronológica conocida para determinar el impacto del sistema de producción, con y sin implante de crecimiento agresivo y agonistas β-adrenérgicos, sobre los indicadores fisiológicos de edad cronológica.
+--- Diapositiva 5 ---
+Detalles experimentales
+Lacombe Research Centre, Agriculture and Agri-Food Canada
+Durante dos años 112 terneros nacidos en primavera asignados al destete a un arreglo factorial de tratamientos 2x2x2:
+	Efecto del sistema de producción (Calf-fed 11 – 14 meses de edad/ Yearling-fed 19–23 meses de edad, implante de crecimiento (sin implante/ implante) y agonista β-adrenérgico (sin β-adrenérgico/ β-adrenérgico) sobre indicadores fisiológicos de edad cronológica
+Peso del ternero= 42,2 Kg, DE= 6.3 Kg
+56 terneros implantados a intervalos prescritos con 200 mg Progesterona y 20 mg de benzoato de estradiol
+En ambos grupos el último implante fue con 120 mg acetato de trembolona y 24 mg de estradiol 90 a 100 días antes del sacrificio
+La mitad de c/grupo implantado y no implantado fueron suplementados con 200 mg de clorhidrato de ractopamina por 28 días antes del sacrificio
+Sacrificio rango comercial y punto final de grasa dorsal constante de 8 a 10 mm con 14 animales en c/grupo 
+--- Diapositiva 6 ---
+Evaluación de la dentición y la edad fisiológica
+Dos evaluadores experimentados estimaron edad con estándares pictóricos de dentición (USDA-FSIS 2012). Tiempos de 
+erupción de incisivos permanentes.
+
+Score 3			 ≤ 14 meses
+Scores 4 y 5		15-18 meses
+Scores 6, 7 y 8		18-24 meses
+Scores 9 y 10		24-30 meses
+Score 11 o mayor		>30 meses
+
+Cattle 15 – 18 Months of Age
+Cattle 18 – 24 Months of Age
+--- Diapositiva 7 ---
+Canales simétricamente divididas con énfasis especial en área lumbar y sacra para evaluación detallada de madurez fisiológica
+Procesos espinosos y capuchones cartilaginosos intactos y visibles en ambas mitades. Evaluar osificación para asignar una canal al grupo de <21 meses de edad
+Evaluador experimentado. Criterios establecidos en el estudio de verificación de la edad de la carne de vacuno canadiense (Robertson et al. 2006)
+--- Diapositiva 8 ---
+Fig. 1. Overview of the criteria established in the Canadian beef age verification study (Robertson et al. 2006) for the thoracic (A), lumbar (B) and sacral regions (C). Technical drawings by Mr. Christopher Villacorta-López.
+--- Diapositiva 10 ---
+Análisis Estadístico
+SAS Software
+Puntajes para dentición, osificación y clasificación más detallada en “por encima y por debajo de 21 meses de edad”
+Matriz de confusión (Kohavi y Provost, 1998): calcular exactitud de clasificación general y dentro de cada grupo. Evalúa el rendimiento de un clasificador. Fecha de nacimiento (clasificador real); puntajes de dentición y osificación (clasificador predicho). Mayor precisión= mejor rendimiento
+Análisis discriminante de mínimos cuadrados parciales (PLS2-DA) para separar canales en <21 meses de edad (elegible) o >21 meses de edad (no elegible). Modelo busca correlacionar puntajes de dentición y de osificación (X) con la elegibilidad de la canal basado en la fecha de nacimiento (Y). Evaluación de la precisión utilizando porcentaje de muestras correctamente clasificadas 
+
+
+--- Diapositiva 11 ---
+Resultados y Discusión
+Puntuaciones Dentales
+Los novillos yearling-fed finalizados entre los 19-23 meses de edad. Los novillos calf-fed fueron finalizados entre los 11-15 meses de edad.
+Score 4-5:  15 a 18 meses.                           
+100% de los calf-fed están en score 4
+22% de los yearling-fed están en score 4
+Score 6-7: 18-24 meses.	
+
+--- Diapositiva 12 ---
+Puntuaciones de Osificación 
+La madurez fisiológica de la carcasa fue evaluada con el grado de la osificación en huesos y cartílagos de la columna vertebral.
+El 9% de las carcasas no fue evaluado, ya que el corte no fue simétrico.
+
+
+--- Diapositiva 13 ---
+Las hormonas estrogénicas promotoras del crecimiento es uno de los factores que influencian la madurez esquelética.  
+
+La edad fisiológica de la carcasa puede ser impactada dependiendo de la combinación de los sistemas de producción y la estrategia de implantación de crecimiento. Una osificación avanzada de la carcasa  puede ser no elegible para ciertos mercados como el de Japón. 
+
+La información de la fecha de nacimiento fue el clasificador real mientras que la dentición y la osificación fueron puntajes de predicción en este estudio.
+
+El criterio de osificación de las vertebras sacras, lumbares y torácicas permite evaluar la madurez fisiológica de la carcasa y en caso de contar con la determinación del score dental, puede dar una mejor determinación de la edad de esta carcasa en caso de no tener documentación del novillo en un frigorífico. 
+
+En la población de novillos jóvenes (11-23 meses) el uso de este enfoque holístico puede proporcionar un mayor nivel de confiabilidad y una mayor retención de la carcasa en el mercado de la carne. 
+--- Diapositiva 14 ---
+
+
+
+
+
+
+
+--- Diapositiva 15 ---
+Conclusiones 
+Los resultados de este estudio presentan que el sistema de producción y los promotores de crecimiento afectan la osificación.
+El uso de implantes de crecimiento en animales jóvenes acelera la osificación de las vertebras y maduración fisiológica, haciendo que sean menos viables para ser elegidos dentro de la categoría de menos 21 meses de edad.
+El uso de estos métodos da un valor aproximado de la edad del animal si no se cuenta con la edad real, pero se debe tener en cuenta que los valores pueden estar sobre o subestimados para determinar la carcasa. 
+--- Diapositiva 16 ---
+Muchas Gracias!!

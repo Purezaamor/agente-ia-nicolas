@@ -1,0 +1,638 @@
+=== Fuente: Mertens_-_ImpactOfNDFContent.pdf ===
+
+ 
+ 
+WCDS Advances in Dairy Technology (2009) Volume 21: 191-201 
+Impact of NDF Content and Digestibility on 
+Dairy Cow Performance 
+David R. Mertens 
+USDA-Agricultural Research Service, US Dairy Forage Research Center, Madison WI 53706 
+Email: David.Mertens@ars.usda.gov 
+ Take Home Messages 
+8 In most situations NDF content and digestibility are the major factors 
+determining the intake and digestibility of dairy rations 
+8 Non-NDF components (neutral detergent solubles) of feeds typically have 
+true digestibilities near 1.00 
+• Measured digestibilities are apparent because feces contains 
+endogenous matter from the animal 
+• True digestibilities are determined by regressing digestible nutrient 
+versus nutrient content across feeds 
+8 A simple summative equation can be used to estimate digestibility 
+8 It demonstrates that fiber content and its variable digestibility are the most 
+important, if not only, factors affecting dry matter digestibility 
+8 NDF content and digestibility also affect intake 
+• Simple mechanisms of intake regulation can explain fiber’s impact 
+• When high-energy, low-fiber rations are fed, cows regulate intake to 
+meet their energy demand for production 
+• When low-energy, high-fiber rations are fed, cows limit intake based 
+on fill capacity 
+• NDF is negatively related to energy density and positively related to 
+fill and therefore related to both mechanisms of intake regulation 
+8 Summary of research trials suggests that ration NDF content is 2 to 3 
+times as important as fiber digestibility in affecting production and intake 
+8 Rations should be formulated first to obtain proper NDF content and NDF 
+digestibility used to fine-tune rations 
+ Introduction 
+Dairy cow performance is determined by the amount of digestible nutrients 
+192 Mertens 
+that is consumed each day. The amounts of consumed digestible nutrients 
+are related to both intake and digestibility. The intake and digestibility of dairy 
+rations are related to the neutral detergent fiber (NDF) content and 
+digestibility of forages. The simple summative equation of Van Soest easily 
+demonstrates the impact of NDF content and digestibility on the total dry 
+matter digestibility (DMD) of the forage or rations. Van Soest (1967) observed 
+many years ago that NDF was negatively related to intake, which had been 
+confirmed for high-producing dairy cows more recently (Dado and Allen, 
+1996). The objectives of this paper are to discuss fundamental relationships 
+of NDF content and digestibility on the intake and digestibility of rations and 
+use these relationships to demonstrate the impact of NDF content and 
+digestibility on dairy cow performance.  
+ Effect of NDF Content and Digestibility on Forage or 
+Ration Digestibility 
+Fiber content and its digestibility have the greatest impact on overall 
+digestibility because fiber is the slowest digesting component in feeds. Most 
+of the non-fiber components in diets have high true rates of digestion. There 
+would be an evolutionary advantage to animals that developed digestive 
+systems capable of maximizing the digestion of critical nutrients (protein, 
+vitamins, energy) and those nutrient sources with high energy density (fats, 
+sugars and starches in seeds). Thus, the true digestibility of proteins, fats, 
+and sugars is between 90 and 100%. The apparent digestibility that we 
+measure is lower than true digestibility because feces contain endogenous 
+protein and fat from sloughed cells and digestive tract secretions (Figure 1). 
+Because there is no easy and effective way of removing endogenous 
+secretions of the animal from the feces, we have to estimate true digestibility 
+using regression equations. If we plot the concentration of digestible nutrient 
+in a feed versus its nutrient concentration, the slope of the line is the true 
+digestibility coefficient and the intercept is the average endogenous secretion 
+of the nutrient (Figure 2). Van Soest (1967) used this technique to determine 
+that the true digestibility of neutral detergent solubles (NDS = 100 – NDF) was 
+0.98 with an endogenous loss of -12.9%. This ability to separate feed 
+components into a fraction that is almost completely digestible (NDS) and one 
+that varies in digestibility (NDF) is the greatest practical result of the detergent 
+system of analysis. 
+ 
+ 
+  
+ 
+ 
+ 
+Impact of NDF Content and Digestibility on Dairy Cow Performance 193 
+95 
+5
+Feed 
+= 100 
+95
+Dig. 
+Feed 
+= 95 
+15 
+Endogenous 
+secretions 
+5
+15
+Fecal 
+excretion 
+True Digestibility
+= (100 – 5) / 100  
+= .95 = 95% 
+App. Digestibility
+= (100 – 20) / 100  
+= .80 = 80% 
+y = 0.9434x - 3.2543
+R
+2
+ = 0.99
+0
+10
+20
+30
+40
+50
+0 10 20 30 40 50 60
+Crude protein (%)
+Digestible crude protein (%)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. The relationship between true and apparent digestibility. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2. Determining the true digestibility of crude protein by 
+regressing crude protein versus digestible crude protein. The slope of 
+the line (0.9434) is the true digestibility of crude protein across all feeds 
+(data from Morrison, 1956). 
+194 Mertens 
+Given that NDS are almost completely digested regardless of the feed source 
+(there are two exceptions to this that I will discuss later), it is easy to 
+understand that NDF content (because it affects the content of NDS) and 
+NDF digestibility (because it quantifies the variable digestibility of NDF) are 
+the key determinants of dry matter digestibility (DMD). We can use the simple 
+summative equation of Van Soest to show the impact of NDF content and 
+digestibility on DMD (Table 1). Because the digestibility of NDF is always less 
+than that of NDS, the NDF content of a feed has a huge impact on its DMD. 
+The simple summative equation clearly demonstrates why low-fiber 
+concentrates have more DMD than high-fiber forages. This can easily be 
+extrapolated to demonstrate that lower fiber forages should have more DMD 
+than higher fiber forages. Likewise the simple summative approach can be 
+used to provide a simple and easy cross-check on the expected DMD for total 
+mixed rations. 
+The variable nature of NDF digestibility (NDFD) among feed ingredients and 
+forages also has an impact on DMD. Feeds with the same NDF, but higher 
+NDFD, will have a higher DMD. Thus, we can obtain greater DMD by 
+selecting for greater NDFD, so long as we do not allow NDF to increase. The 
+large difference between digestibility of NDS (0.98) and that of NDF (0.40 to 
+0.70) indicates that changes in NDF content typically have greater impact on 
+DMD than changes in NDFD. If the NDF content of a feed is fixed, the only 
+way to improve DMD is to increase NDFD. However, there is an inverse 
+relationship between NDF content and NDFD in forages as they mature. As 
+plants mature NDF increases and the NDFD decreases that results in 
+substantially lower DMD as plants mature. Genetic modification of forages 
+may allow us to decouple this relationship and obtain higher NDFD for plants 
+with higher NDF. Although it is possible to trade increased NDFD for 
+increased NDF, in most situations, it is easier to modify DMD by controlling 
+NDF content. 
+Table 1. Using the simple summative equation of Van Soest to 
+demonstrate the impact of NDF content and digestibility on the dry 
+matter digestibility of feeds. 
+ 
+Variable 
+High 
+fiber 
+feed 
+Low 
+fiber 
+feed 
+Low 
+NDFD 
+feed 
+High 
+NDFD 
+feed 
+NDF  60.0  10.0  50.0  50.0 
+NDF digestibility (NDFD)    0.6    0.6    0.4    0.6 
+Digestible NDF (dNDF = NDF X NDFD)  36.0    6.0  20.0  30.0 
+NDS (= 100 - NDF)  40.0  90.0  50.0  50.0 
+Digestible NDS (dNDS = .98 X NDS)  39.2  88.2  49.0  49.0 
+Endogenous loss -12.9 -12.9 -12.9 -12.9 
+Dry Matter Digestibility (DMD = dNDF + 
+dNDS – endogenous loss)  53.8  81.3  56.1  66.1 
+Impact of NDF Content and Digestibility on Dairy Cow Performance 195 
+As indicated earlier there are two practical exceptions to the almost complete 
+digestibility of NDS. Starch can be, but may not always be, completely 
+digested. The lower digestibility of starch in sorghum, corn and to a lesser 
+extent barley is related to the macro-protective coats of these seeds and the 
+micro-protective coatings of starch granules within these seeds. If these 
+grains are finely ground or chewed, are fermented >60 days as high moisture 
+grains, or are steam/thinly flaked or treated with alkali, their starch is rapidly 
+and almost completely digested by dairy cows. However, the incomplete 
+chewing of high-producing dairy cows when combined with high intakes and 
+rates of passage can result in diminished digestion of starch in dry, poorly 
+processed grains. More complex summative equations try to account for this 
+possibility by either adjusting the digestibility of non-fibrous carbohydrates, 
+which is mainly starch in grains, (NRC, 2001) or by subtracting starch from 
+non-fibrous carbohydrates and giving it an adjustable digestibility based on 
+dry matter and processing as in Milk2006 calculations (Shaver et al., 2006). 
+The other exception is the lower digestibility of crude protein in feeds with 
+tannins or with heat-damaged proteins. Tannins and phenolic compounds can 
+form complexes with proteins that resist fermentation in the rumen, but can be 
+digested in the intestines. However, if the tannin concentration is too high, the 
+tannin-protein complex becomes indigestible in the rumen. Feeds with high 
+tannin are often outliers on the digestible crude protein versus crude protein 
+plots. When feeds are heated due to either spontaneous heating of silages 
+that are too high in dry matter or by cooking during processing, proteins also 
+form complexes with carbohydrates. These Maillard products also differ in 
+digestibility in relation to the amount of heat applied. Much of the protein in 
+acid detergent insoluble crude protein is either indigestible or unusable by 
+animals. Like extensive tannin-protein complexes, heat damaged feeds often 
+are outliers on the digestible crude protein versus crude protein plots.  
+ Effect of NDF Content and Digestibility on Intake 
+Intake regulation is an extremely complex process that involves many 
+interactions among the animal, its diet, and the feeding situation (Mertens, 
+1994). However, relatively simple concepts of intake regulation can have 
+practical utility in describing the impact of ration characteristics on intake of 
+animals with a given requirement for energy. The first concept is that animals 
+eat in an attempt to meet their energy demand. While protein is recycled and 
+excess consumed protein is excreted, excess energy is stored (there may be 
+a limited ability to modify metabolism to burn excess energy). If we change 
+the energy density of the ration, animals will respond by adjusting intake. 
+Thus, when fed a high-energy, low-fill diet, animals will adjust intake to meet 
+their energy demand. In fact, animals may “over eat” and exceed their energy 
+demand (they evolved in an environment where feed was typically limited and 
+it was advantageous to eat when feed was available and store fat for the lean 
+196 Mertens 
+times). However, if we reduce the energy density of the diet, the volume of 
+feed that needs to be consumed to meet energy demand exceeds the 
+capacity of the animal to eat. This results in the second concept of intake 
+regulation, when given a low-energy, high-fill diet, animal intakes will be 
+limited by fill capacity. 
+These concepts are useful because they can be defined by simple equations 
+that can be used to describe how animals and diets interact to obtain the 
+intakes we typically observe. Simply stated, when fed high-energy diets, 
+animals will regulate intake to equal their energy demand as described by the 
+equation: 
+Ie X E = R; where Ie is intake regulated by energy demand (kg/d), E is 
+the energy density of the ration (Mcal/kg) and R is the 
+energy requirement of the animal (Mcal/d).  
+If we solve for intake we get the equation: 
+ Ie = R/E. 
+ 
+When fed high-fill diets, animal will regulate intake to equal their capacity to 
+process bulk through the digestive tract, which can be described by the 
+equation: 
+ If X F = C; where If is intake regulated by fill processing capacity 
+(kg/d), F is the filling volume of the diet (L/kg), and C is 
+the daily capacity to process fill (L/d). 
+If we solve for intake we obtain the equation: 
+ If = C/F. 
+ 
+It is interesting that these equations suggest that intake is a linear function of 
+animal characteristics (R or C), but a reciprocal function of diet characteristics 
+(1/E or 1/F). These equations may explain why intake is often successfully 
+related to animal characteristics such as body weight and milk production, 
+which are related to maintenance and production energy demand, 
+respectively. However, these equations become useful only if they can be 
+expressed on a common scale. It is evident that energy density and fill are 
+inversely related with high-energy, low-fill diets at one extreme and low-
+energy, high-fill diets at the other extreme.  Although energy density and fill 
+are useful concepts to develop theoretical equations of intake regulation, the 
+equations will only be useful if related to a dietary characteristic that can be 
+easily and routinely measured. Energy density could be related to DMD using 
+the simple summative equation with the measurement of NDF and NDFD. 
+However, animal requirements are not described in terms of DMD and the 
+errors of measuring and converting NDF and NDFD to DMD can be 
+substantial.  
+Although fill is a more nebulous concept than energy density, it may be more 
+directly related to NDF. Van Soest (1994) proposed the “hotel theory” of fiber 
+to explain how it might be related to fill. Imagine the space occupied by a 
+Impact of NDF Content and Digestibility on Dairy Cow Performance 197 
+multi-room hotel. This is analogous to the space occupied by plant cells that 
+are enclosed in a fibrous cell wall. The volume of the cells probably 
+represents the true filling effect of the diet just as the volume of the intact 
+building represents the space it occupies. After the cells are ruptured by 
+chewing and digestion, analogous to the demolition of the hotel, the volume is 
+much less. Thus, the proportion of the diet in fiber that occupies space in the 
+rumen and must be processed by chewing and digestion to pass out of the 
+animal should be related directly to the fill processing capacity of dairy cows. 
+Given that NDF is routinely measured, is directly related to fill effect, and is 
+inversely related to digestibility, it seems the logical choice for expressing the 
+equations for intake based on energy density and fill on a common basis. 
+If we simply let F be a direct function of NDF, then E will be a function of (100 
+– NDF) and both equations can be expressed on a common X-axis. Because 
+R is typically measured as net energy of lactation (NEL), NDF must be 
+converted to NEL using several equations that are available. Because fill is ill-
+defined, it is easiest to relate it directly to NDF and express C in terms of the 
+amount of NDF that can be processed by dairy cows each day. In a series of 
+experiments in which the NDF content of the ration was varied from 25 to 
+55% it was determined that dairy cows maximized 4% fat-corrected milk when 
+they consumed about 1.2% of their body weight as NDF daily. This was 
+selected as the NDF intake capacity. 
+102030405060708090
+Ration ND F Content (%)
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+Dry Matter Intake (% BW/d)
+ 
+Figure 3. Illustration of intake predicted by simple concepts of energy 
+demand (Ie) and fill limitation (If) when compared to intakes typically 
+observed when ration NDF is varied. 
+A plot (Figure 3) of the simple concepts of intake regulation shows that they 
+intersect and this intersection is the point at which the intake regulation 
+If
+Ie
+Observed intake response
+198 Mertens 
+mechanism would switch from intake regulated by energy demand to intake 
+regulated by fill limitation. Thus, the correct equation for actual intake 
+(Ia)would be: 
+Ia = minimum (If or Ie); where Ia is actual intake.  
+Intake predicted by Ia agrees quite closely with the intake response that we 
+typically see as we change the NDF content of dairy rations. At low NDF 
+concentrations intake is reduced because the diet is high in energy and 
+animals reduce intake to match energy demand. As NDF increases, intake 
+increases because the ration is less dense in energy and more is eaten to 
+meet the energy demand. At some point, the ration becomes so bulky that 
+intake is limited by fill and from that point intake is reduced as ration NDF 
+increases. These simple concepts of intake regulation indicate that intake can 
+increase, remain constant or decrease with changes in ration NDF thereby 
+explaining the controversy in the research literature about the impact of NDF 
+content on intake by dairy cows.  
+Oba and Allen (1999) compiled data from several experiments to evaluate the 
+impact of NDFD on dairy cow performance. They concluded that increasing 
+NDFD increased both intake and milk production. The impact of NDFD on 
+milk production might be expected based on the increased DMD as predicted 
+by the simple summative equation discussed earlier (Table 1). However, the 
+NDFD obtained by cows is often less than that determined by laboratory in 
+vitro assays. In vitro NDFD can vary considerably among and within 
+laboratories because it is a biological assay that is relatively complex and 
+because the ruminal fluid used in these assays can vary within and among 
+donor animals. Even with this variability, in vitro NDFD are typically higher 
+than observed in cows. This could be related to the time of fermentation in 
+vitro not matching the retention time of fiber in cows and to reduction in fiber 
+fermentation when forages are fed with concentrates in mixed rations. 
+The impact of NDFD on intake is much less clear than its impact on 
+digestibility. If we assume that most dairy cows are fed rations high enough in 
+fiber that fill limits intake, it would be reasonable to suggest that NDFD affects 
+intake by reducing the effective filling effect of NDF. Van Soest’s hotel theory 
+would suggest that if digestion weakened plant cell walls they would 
+disintegrate more rapidly thereby occupying less space in the digestive tract. 
+Furthermore, rapid disintegration of cell walls would allow them to pass from 
+the rumen more quickly. Reducing the volume and increasing the rate of 
+passage are two mechanisms by which increased NDFD could increase 
+intake when fill is the intake limitation. 
+Impact of NDF Content and Digestibility on Dairy Cow Performance 199 
+ Relative Impact of NDF Content and Digestibility on 
+Cow Performance 
+Oba and Allen (1999) compiled data from seven experiments with 13 
+comparisons and reported that an 8.4%-unit difference in NDFD between high 
+and low digestibility forages resulted in 1.4 kg higher DM intake and 2.1 kg 
+higher 4% fat-corrected milk (FCM). They concluded that a 1%-unit increase 
+in NDFD measured in situ or in vitro resulted in an increase of 0.17 kg DM 
+intake and 0.25 kg FCM. Mertens (2006) added ten additional experiments to 
+the original database of Oba and Allen (1999) and adjusted all in situ and in 
+vitro measures of NDFD to a fermentation time of 48 h (IVNDFD48h, %). 
+Using meta-analysis, it is possible to remove differences among experiments 
+in cows and techniques to evaluate the within-experiment effects of 
+IVNDFD48h and NDF content on intake and milk production. 
+Mertens (2006) observed significant relationships between IVNDFD48h and 
+intake and milk production and also extracted the effect of ration NDF (RNDF, 
+%) content on dairy cow responses. Allowing an individual intercept for each 
+trial, the regression coefficients within trial between forage IVNDFD48h or 
+RNDF and cow responses for FCM (kg/d), DM intake (DMI, kg/d), or NDF 
+intake (NDFI, % of BW/d) were: 
+FCM  = Trial + 0.139*(IVNDFD48h) - 0.520*(RNDF); R2 = 0.977. 
+DMI  = Trial + 0.0970*(IVNDFD48h) - 0.312*(RNDF); R2 = 0.949, and  
+NDFI = Trial + 0.00485*(IVNDFD48h) - 0.0237*(RNDF); R2 = 0.930. 
+The regression coefficients from the larger database were smaller than the 
+values determined by Oba and Allen (1999) for DM intake (0.097 versus 0.17) 
+and FCM (0.139 versus 0.25). 
+ 
+The regression coefficients indicate the amount of change in FCM, DMI or 
+NDFI that occurred for each percentage-unit change in either IVNDFD48h or 
+RNDF. In these trials, the forage that differed in IVNDFD48h supplied 68% of 
+the NDF in the ration. In research trials, the proportion of NDF from the 
+experimental forage is often maximized; however, under most practical 
+feeding situations, a single forage typically supplies only 30 to 50% of the 
+ration NDF. Additional equations were calculated from the dataset in which 
+the IVNDFD48h was weighted by the proportion of NDF in the ration supplied 
+by the experimental forage. These equations determine the regression 
+coefficient assuming all of the NDF was obtained from the experimental 
+forage and can be used to calculate the effect of IVNDFD48h of the forage for 
+any proportion of NDF obtained from forage: 
+FCM  = Trial + 0.145*(wt)*(IVNDFD48h) - 0.537*(wt)*(RNDF); R2 = 
+0.975.   
+DMI  = Trial + 0.123*(wt)*(IVNDFD48h) - 0.268*(wt)*(RNDF); R2 = 
+0.962, and 
+200 Mertens 
+NDFI = Trial + 0.00585*(wt)*(IVNDFD48h) - 0.0253*(wt)*(RNDF); R2 = 
+0.936; where (wt = 1.00) for the regression coefficient 
+obtained. 
+  
+When the average proportion of 0.68 of the ration NDF from the forages is 
+substituted for (wt) in these equations the coefficient for IVNDFD48h is 0.099 
+and 0.084 for FCM and DMI, respectively. These values are slightly lower 
+than the regression coefficients reported in the previous paragraph that were 
+calculated directly. The results in the previous paragraph assume that the 
+average proportion of ration NDF from forage was similar for all trials. The 
+latter coefficients were derived using the actual proportion of NDF from forage 
+in each trial and should be more accurate. They are also more useful because 
+they can be used to estimate the effects of IVNDFD48h of a forage for any 
+level of incorporation in the ration. For example, if the forage supplies only 
+30% of the NDF in the ration it would be estimated that each percentage-unit 
+change in IVNDFD48h of that forage would increase FCM by 0.069 kg/d (= 
+0.145*.3) and DMI by 0.037 kg/d (= 0.123*.3). 
+The magnitudes of the regression coefficients for IVNDFD48h and RNDF in 
+the FCM equation suggest that the effect of changing ration NDF has three 
+times greater impact than does in vitro digestibility. Likewise the DMI equation 
+indicates that ration NDF has more than twice the effect of in vitro digestibility. 
+These observations suggest that it is most important to formulate the ration to 
+have the proper NDF content than NDFD. Nevertheless, given an optimal 
+ration NDF, increasing the NDFD of the forage or ration will always provide an 
+additional benefit because of improved DMD and DMI. However, it is difficult 
+for improved NDFD to compensate for increased NDF in the ration. 
+ Conclusion 
+In most situations, neutral detergent fiber (NDF) content and digestibility are 
+the major factors determining the intake and digestibility of dairy rations 
+because fiber is the least digestible component in feeds and also the one that 
+varies the greatest in digestibility. Non-fiber components of feeds, such as 
+neutral detergent solubles (NDS = 100 – NDF) typically have true 
+digestibilities near 100%. It was an advantage to animals to evolve digestive 
+systems that maximized the digestion of important nutrients like proteins, fats 
+and sugars. The digestibilities we measure are apparent because feces 
+contains endogenous matter from the animal. True digestibilities are 
+determined by regressing digestible nutrient versus nutrient content across 
+feeds. The detergent system of feed analysis is important because it 
+separates feeds into NDS, which are 98% digestible and NDF, which has 
+incomplete and variable digestibilities. A simple summative equation based on 
+NDF can be used to estimate total dry matter digestibility. The equation 
+Impact of NDF Content and Digestibility on Dairy Cow Performance 201 
+demonstrates that fiber content and its variable digestibility are the most 
+important, if not only, factors affecting dry matter digestibility. In addition to 
+digestibility, NDF content and digestibility also affect intake and simple 
+mechanisms of intake regulation can explain fiber’s impact. When high-
+energy, low-fiber rations are fed, cows regulate intake to meet their energy 
+demand for production. When low-energy, high-fiber rations are fed, cows 
+limit intake based on fill capacity. Because NDF is negatively related to 
+energy density and positively related to fill, it can be related to both 
+mechanisms of intake regulation. Summary of research trials suggests that 
+ration NDF content is 2 to 3 times as important as fiber digestibility in affecting 
+production and intake. Thus, rations should be formulated first to obtain 
+proper NDF content and then NDF digestibility can be used to fine-tune 
+rations. 
+ References 
+Dado, R.G., and M.S. Allen. 1996. Enhanced intake and production of cows 
+offered ensiled alfalfa with higher neutral detergent fiber digestibility. J. 
+Dairy Sci. 79:418-428. 
+Mertens, D.R. 1994. Regulation of forage intake. In: Fahey Jr., G.C., (ed.) 
+Forage Quality, Evaluation, and Utilization.  Am. Soc. Agron., Madison, 
+WI. p. 450-493. 
+Mertens, D.R. 2006. Do We Need to Consider NDF Digestibility in the 
+Formulation of Ruminant Diets? 27th Western Nutrition Conf., Sept. 19-
+20, Winnipeg, Manitoba p. 75-98. 
+Morrison, F.B. 1956. Feeds and Feeding, 22nd ed. Morrison Publishing Co., 
+Ithaca, NY, 1165 pp. 
+National Research Council. 2001. Nutrient requirements of dairy cattle. 7th 
+rev. ed. National Academy Press, Washington DC. 
+Oba, M., and M.S. Allen. 1999. Evaluation of the importance of the 
+digestibility of neutral detergent fiber from forage: Effects on dry matter 
+intake and milk yield of dairy cows.  J. Dairy Sci. 82:589-596. 
+Shaver, R.D., J.G. Lauer, H.G. Coors, and P.C. Hoffman. 2006. Spreadsheet: 
+MILK2006 Corn Silage: Calculates TDN-1x, NEL-3x, Milk per ton, and 
+Milk per acre.  URL:  http://www.uwex.edu/ces/dairynutrition/ 
+Van Soest, P. J. 1967. Development of a comprehensive system of feed 
+analyses and its application to forages. J. Anim. Sci. 26:119-128. 
+Van Soest, P. J. 1994. Nutritional Ecology of the Ruminant. 2nd Edition. 
+Cornell University Press, Ithaca, NY. 476 pp. 
+Get accurate and cost effective 
+forage and grain analysis 
+in less than 48 hours
+Accurate feed analysis is important  
+to ensure consistent milk production  
+and health performance.
+Regular analysis of your forage is recommended because of: 
+ Variations in alfalfa and grass silage crops (1st, 2nd, 3rd cut)
+ Variations between fields (varieties / dry matter)
+Timely analysis of your feed is essential for successful nutrition 
+management and ration balancing
+Free freight for samples when you mention this ad*
+www.dairysmartnutrition.com
+For more information contact Leland Fuhr at: 306.291.9255
+*Offer to change without notice
+202  
+ 
+Holstein Canada Announces 
+Canadian Champions 2008
+A Canadian Champion is awarded 
+to a Holstein cow that surpasses 
+the previous all-time highest 
+performance for milk, fat, protein, 
+and total BCA in her age-at-calving
+category. If more than one animal
+in a given year exceeds the 
+previous highest level, only the top 
+individual is recognized.
+Innislake Morty Lucky Charm
+(VG-85-2yr-CAN)
+• 2-Year-Old for Fat
+• 1 Superior Lactation
+•  Breeder: Innislake Dairy Farm Ltd.,  
+Olds, AB
+•  Owner: Leo Baumann and  
+Robert Mallette, Lyn, ON
+• Sire: Stouder Morty-ET (EX-CAN)
+Production (kg)
+02-04  305
+BCA
+(Deviation)
+Milk 16,398 409 (+129)
+Fat 976  6.0% 655 (+382)
+Protein  511  3.1% 399 (+125)
+Total 1,463 (+636)
+Production (kg)
+04-09  305
+BCA
+(Deviation)
+Milk 25,438 519 (+271)
+Fat 979  3.8% 532 (+268)
+Protein  777  3.1% 495 (+231)
+Total 1,546 (+770)
+Production (kg)
+07-09  305
+BCA
+(Deviation)
+Milk 23,772 476 (+165)
+Fat 1,082  4.6% 588 (+279)
+Protein 715  3.0% 453 (+139)
+Total 1,517 (+583)
+Beaver Ray Blitz Mirka
+(VG-87-5yr-CAN)
+• 4-Year-Old for Milk
+• 2 Superior Lactations
+•  Breeder and Owner: Remi Leroux, 
+Ste. Anne De Prescott, ON
+•  Sire: Fustead Emory Blitz-ET  
+(EX-94-11yr-USA Extra’04 GM)
+Production (kg)
+02-04  305
+BCA
+(Deviation)
+Milk 16,398 409 (+129)
+Fat 976  6.0% 655 (+382)
+Protein  511  3.1% 399 (+125)
+Total 1,463 (+636)
+Production (kg)
+04-09  305
+BCA
+(Deviation)
+Milk 25,438 519 (+271)
+Fat 979  3.8% 532 (+268)
+Protein  777  3.1% 495 (+231)
+Total 1,546 (+770)
+Production (kg)
+07-09  305
+BCA
+(Deviation)
+Milk 23,772 476 (+165)
+Fat 1,082  4.6% 588 (+279)
+Protein 715  3.0% 453 (+139)
+Total 1,517 (+583)
+Arla Outside Florissante
+(GP-82-2yr-CAN)
+• 7-Year-Old for Milk
+• 2 Super 3s
+• 4 Superior Lactations
+•  Breeder and Owner:  
+Conrad Riendeau, 
+Saint-Césaire, Qc
+•  Sire: Comestar Outside  
+(EX-95-CAN Extra’98)
+Production (kg)
+02-04  305
+BCA
+(Deviation)
+Milk 16,398 409 (+129)
+Fat 976  6.0% 655 (+382)
+Protein  511  3.1% 399 (+125)
+Total 1,463 (+636)
+Production (kg)
+04-09  305
+BCA
+(Deviation)
+Milk 25,438 519 (+271)
+Fat 979  3.8% 532 (+268)
+Protein  777  3.1% 495 (+231)
+Total 1,546 (+770)
+Production (kg)
+07-09  305
+BCA
+(Deviation)
+Milk 23,772 476 (+165)
+Fat 1,082  4.6% 588 (+279)
+Protein 715  3.0% 453 (+139)
+Total 1,517 (+583)
+ 203 
+ 
+Using Rite-Lix Can Help Transition Diet
+Feeding dry cows through the fresh period 
+can help maintain DMI
+• Supplies concentrated nutrients during high demand period.
+• Stimulates intake and forage utilization.
+• Helps overcome problems associated with limited DMI.
+• Increases buffering through increased saliva production.
+• Decreases body condition loss.
+• Helps utilize poorer quality feeds.
+Available at Feed-Rite and participating dealers
+Linden 1-800-561-9012     Fort Macleod 1-800-567-8645
+204  
+ 

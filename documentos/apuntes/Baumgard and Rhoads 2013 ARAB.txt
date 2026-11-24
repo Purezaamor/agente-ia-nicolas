@@ -1,0 +1,1416 @@
+=== Fuente: Baumgard and Rhoads 2013 ARAB.pdf ===
+
+Effects of Heat Stress on
+Postabsorptive Metabolism
+and Energetics
+Lance H. Baumgard1 and Robert P. Rhoads Jr.2
+1Department of Animal Science, Iowa State University, Ames, Iowa 50011; email:
+Baumgard@iastate.edu
+2Department of Animal & Poultry Sciences, Virginia Polytechnic Institute and State
+University, Blacksburg, Virginia 24061; email: rhoadsr@vt.edu
+Annu. Rev. Anim. Biosci. 2013. 1:311–337
+First published online as a Review in Advance on
+December 13, 2012
+The Annual Review of Animal Biosciences is online
+at animal.annualreviews.org
+This article’s doi:
+10.1146/annurev-animal-031412-103644
+Copyright © 2013 by Annual Reviews.
+All rights reserved
+Keywords
+hyperthermia, lactation, growth, homeorhesis, mitochondria, insulin
+Abstract
+Environmental-induced hyperthermia compromises efficient animal
+production and jeopardizes animal welfare. Reduced productive out-
+put during heat stress was traditionally thought to result from de-
+creased nutrient intake. Our observations challenge this dogma and
+indicate that heat-stressed animals employ novel homeorhetic strate-
+gies to direct metabolic and fuel selection priorities independent of
+nutrient intake or energy balance. Alterations in systemic physiology
+support a shift in carbohydrate metabolism, evident through changes
+such as basal and stimulated circulating insulin levels. Hepatocyte
+and myocyte metabolism also show clear differences in glucose pro-
+duction and use during heat stress. Perhaps most intriguing, given
+the energetic shortfall of the heat-stressed animal, is the apparent lack
+of fat mobilization from adipose tissue coupled with a reduced re-
+sponsiveness to lipolytic stimuli. Thus, the heat stress response mark-
+edly alters postabsorptive carbohydrate, lipid, and protein metabolism
+independently of reduced feed intake through coordinated changes in
+fuel supply and utilization by multiple tissues.
+311
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+INTRODUCTION
+Suboptimal livestock productivity limits animal agriculture’s competitiveness and marginalizes
+efforts to reduce inputs into food production. The US meat and dairy industries have made efficient
+production a high priority and, as a result, have realized rapid improvements in milk yield and lean
+growth of market animals. Unfortunately, heat stress (HS) undermines genetic, nutritional,
+pharmaceutical, and management advances made by the animal agriculture industries. When the
+ambient temperature and other environmental conditions create a situation that is either below or
+above the respective threshold values, efficiency is compromised because nutrients are diverted to
+maintain euthermia as preserving a safe body temperature becomes the highest priority and
+product synthesis (e.g., milk or meat) is deemphasized.
+Heat stress negatively impacts a variety of productive parameters including milk yield and
+composition, growth, reproduction, and carcass traits. In addition, a heat load increases health
+care costs, and animals can even succumb to severe thermal stress (especially lactating cows and
+animals without shade). A 2006 California heat wave purportedly resulted in the deaths of
+more than 30,000 dairy cows (1), and a recent heat wave in Iowa killed at least 4,000 head of
+beef cattle (2). Furthermore, almost 50% of Canadian summer days are environmentally stressful
+to dairy cows (3). This illustrates that most geographical locales, including temperate and
+northern climates, are susceptible to extreme and lethal heat. Therefore, environmental HS is a
+significant financial burden (∼$900 m/year for dairy and > $300 m/year for beef and swine in the
+United States alone) (4, 5). Advances in management (e.g., cooling systems, barn construction)
+have alleviated some negative impacts that thermal stress inflicts on animal agriculture, but
+production still decreases during the summer (6, 7). Consequently, HS is one of the costliest is-
+sues facing progressive animal producers and certainly one of the primary hurdles to efficient
+animal agriculture in developing countries.
+The detrimental effects of HS on animal welfare and production will likely become more of
+an issue if earth’s climate continues to warm as predicted (8), and some models forecast extreme
+summer conditions in most animal-producing areas in the United States (9). Apart from its direct
+effects on animal metabolism and physiology (described below), much of the detrimental effects
+of climate change on global animal productivity will be mediated indirectly by reduced feed
+availability and quality, increased disease occurrence, and increased susceptibility to parasites
+and vector-borne disease. For example, climate changes will likely limit livestock’s access to
+pasture and forage availability owing to heat-induced decreased yield, drought, extreme tem-
+perature changes, and elevated CO2 (10). In addition, global warming is expected to adversely
+impact the biodiversity and distribution of microflora, which will likely increase the emergence of
+zoonotic agents and infectious disease outbreaks (11).
+Changing human demographics and locations of economic growth and affluence will likely also
+dictate where livestock production will need further developing. The human population continues
+to increase, especially in the tropical and subtropical areas of the planet (12). As a result, animal
+agriculture in these warm areas will need to expand (13) to keep pace with the global appetite for
+high-quality protein. However, many countries in these geographical areas are still developing and
+may lack facilities and resources required for effective heat-abatement strategies. At the very least,
+HS will continue to regionalize animal agriculture to more moderate environmental conditions
+within a specific country, and these areas frequently are far from the population base (i.e., Southeast
+Asia). Therefore, HS is likely one of the primary (if not the principal) factor(s) limiting efficient
+animal protein production and will continue to compromise food security in developing countries.
+Owing to the physics of animal heat dissipation, genetic selection based on traditional pro-
+duction traits also may contribute to a decreased tolerance to HS (14). Basal/metabolic heat
+312 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+production increases with enhanced production [i.e., enhanced milk yield (15) and lean tissue
+accretion (16)]. Consequently, an animal or a breed’s annual productivity must be considered
+before introducing novel genetics into a particular geography (17).
+Thus, for a variety of aforementioned reasons, there is an urgent need to better understand
+how HS alters nutrient utilization and ultimately reduces animal productivity. Defining the
+biology and mechanisms of how HS jeopardizes animal performance is critical in developing
+approaches to ameliorate current production issues. And it is a prerequisite for generating future
+mitigating strategies (genetic, managerial, nutritional, and pharmaceutical) to improve animal
+well-being and performance, to ensure a constant supply of animal products for human con-
+sumption, and to secure and enhance the global agriculture economy.
+PRODUCTION RESPONSES
+Lactation
+Milk synthesis is incredibly sensitive to thermal stress; for example, decreased yields of 35–40%
+are not unusual in dairy cows (18). This is not unique to dairy cattle, as lactation performance in
+sows is reduced markedly during HS (19). (For a detailed description of how cows accumulate and
+dissipate heat and the etiology of HS development, see References 20 and 21.) It was traditionally
+thought lactating cows become heat stressed when conditions exceed a temperature humidity
+index (THI) of 72 (6). However, recent climate-controlled experiments indicate that milk yield
+starts to decrease at a THI of 68 (22). This is supported by field observations evaluating the THI
+when cow standing time (a ruminant response to a thermal load) increases (23). The lower THI at
+which cows are thought to become heat stressed is consistent with the hypothesis that higher-
+producing cows are more susceptible to a thermal load (24).
+The mechanistic basis for environmental-induced hyperthermia milk-yield losses likely in-
+volves multiple systems. First, an altered endocrine profile, including reciprocal changes in cir-
+culating anabolic and catabolic hormones (discussed below), certainly contributes (10, 24, 25).
+Second, HS impacts numerous intracellular signaling pathways responsible for maintenance,
+productivity, and survival (26). Further, mammary epithelial cells likely are directly affected by
+hyperthermia, which has been shown clearly in vitro using extreme temperatures (42/C176C) (26).
+Finally, recent evidence indicates that a derivative of b-casein acts like a ligand and binds a receptor
+on the apical side of the mammary epithelial cell, which disrupts potassium channels and ulti-
+mately reduces milk synthesis (27). This is akin to the “feedback inhibition of lactation” concept
+(28) and implies that mammary epithelial cells are unable to utilize blood-derived milk-building
+blocks. If this system were a large contributor to HS-induced decreased milk yield, one would
+expect blood content of milk precursors (e.g., glucose) to increase. However, during HS, blood
+concentrations of key precursors of milk components are reduced, which is particularly evident for
+glucose (29, 30). Presumably, a direct effect on the mammary gland would result in parallel
+changes in the content of milk components, but this is not the case, because milk fat, protein, and
+lactose content change discordantly during acute HS (27, 31). Although HS likely negatively
+affects the mammary gland, we believe this direct action contributes little to the overall decrease in
+milk yield. Regardless, the net result of the aforementioned changes, coupled with marked
+decreases in nutrient intake, is an event highly coordinated to prioritize acclimation and survival.
+The exact contribution of each altered system to overall reduced milk yield is currently unknown.
+Heat-stressed animals reduce feed intake, ostensibly as a survival strategy, because digesting
+and processing nutrients generates heat (i.e., thermic effect of feed), especially in ruminants
+(18). It has traditionally been assumed that inadequate feed intake caused by the thermal load is
+313www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+responsible for decreased milk production (18, 32–35). However, our recent results, in which we
+demonstrate disparate slopes in feed intake and milk-yield responses to a cyclical heat-load
+pattern, challenge this dogma (36). This led us to hypothesize that HS reduces milk synthesis by
+both direct and indirect (via reduced feed intake) mechanisms. To examine this hypothesis, we
+designed a series of pair-feeding experiments that enabled us to evaluate thermal stress while
+eliminating the confounding effects of dissimilar nutrient intake. This type of approach is required
+to differentiate between direct and indirect effects (e.g., reduced intake) of environmental-induced
+hyperthermia, because both heat-stressed and malnourished animals share common responses
+(e.g., reduced milk yield, growth, etc.). Our experiments demonstrate that reduced feed intake
+explains only approximately 35–50% of the decreased milk yield during environmental-induced
+hyperthermia (Figure 1a,b) (29–31). Our results agree with previous data (37) and indicate that
+when overall HS (extent and duration) exceeds a given threshold (as-of-yet unidentified), the
+cumulative thermal load disrupts the nutrient intake–milk production relationship, and milk
+yield declines beyond expected levels.
+Growth
+Heat stress can also markedly reduce nutrient intake in growing animals. However, identi-
+fying how much of the decreased productivity is caused by the indirect compared with the direct
+effects of HS on growth is more difficult than in lactation models. This is primarily because the
+composition of tissue accretion is not considered when measuring gross changes in body weight
+gain. Therefore, reduced feed intake may appear to explain a majority of the performance de-
+creases in growing animals, but the direct effects of heat may markedly alter the hierarchy of tissue
+synthesis.
+Beef. In general, HS-induced production losses for beef cattle are not as severe as those experi-
+enced by the dairy industry. It is not entirely clear why growing cattle tolerate higher THI
+conditions and exhibit a greater heat-strain threshold than lactating dairy cows, but likely pos-
+sibilities may include: (a) increased surface area–to-mass ratio, (b) reduced rumen heat production
+(because of the mostly grain diet), and (c) reduced overall metabolic heat production (on a body
+weight basis). In addition, beef cattle will often experience compensatory gain after mild or short
+periods of HS (38, 39). The combination of these factors translates into heat-related reduced gain
+that is typically less than 10 kg, which amounts to approximately seven extra days on feed (4).
+Furthermore, the impact of HS on reproductive indices is typically not as severe in beef cattle
+owing to the seasonal nature of breeding programs (which often occur during the spring in the
+United States).
+Swine. The economic losses in the pig industry caused by a sustained thermal load include re-
+duced growth and efficiency, increased health care costs, decreased carcass value (increased lipid
+and decreased protein), and increased mortality (especially in sows and market hogs). In ad-
+dition, lactating sows and nursing piglets have drastically different thermal-neutral zones, which
+makes management difficult for this stage of production. Interestingly, the fact that pigs reared
+in HS conditions have reduced muscle mass and increased adipose tissue has been documented
+frequently over the past 40 years (40–46). This phenomenon is not unique to pigs; HS also alters
+carcass composition similarly in rodents (47, 48) and growing poultry (49–52).
+A dramatic reduction in feed intake (up to 50%) is an obvious sign of HS and is thought to be
+primarily responsible for the negative effects HS has on pig performance (46). It is counterintuitive
+that HS causes a decrease in nutrient intake and depresses growth, yet increases carcass lipid
+314 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+accretion and decreases carcass nitrogen content. In thermal-neutral conditions, pigs consuming
+a restricted diet deposit protein at the expense of lipid accretion (i.e., the carcass lipid-to-protein
+ratio decreases, meaning the carcass becomes leaner), and the quantity of lipid deposited per unit of
+energy consumed decreases (53–55). Hence, the reduced feed intake–to–body composition re-
+lationship is exactly opposite in pigs reared in HS conditions and is independent of plane of
+10
+12
+14
+16
+18
+20
+22
+24
+26
+Dry matter intake (kg/day)
+Pair-feeding
+Heat-stressed
+a
+10
+15
+20
+25
+30
+35
+40
+Milk yield (kg/day)
+Day
+Pair-feeding
+Heat-stressed
+b
+a
+a
+a
+aa
+a
+b
+bbb b
+b
+P1 987654321
+Day
+P1 987654321
+Figure 1
+Effects of heat stress or pair-feeding on (a) dry matter intake and (b) milk yield in lactating Holstein cows. The
+mean value from days 1 to 9 of the thermal neutral ad libitum period (P1) was used as a covariate and is
+represented by P1 on the x axis. The results from days 1 to 9 are from period 2, when cows were exposed to heat
+stress or exposed to thermal-neutral conditions and pair-fed with the heat-stressed cows. Small a’s and b’s
+indicate that there are statistically significant differences between the data at P < 0.01. Adapted from Rhoads
+et al. (31).
+315www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+nutrition. Despite its enormous economic impact, little is known about how HS directly and/or
+indirectly alters metabolism and nutrient partitioning in pigs.
+Maintenance Costs
+Heat stress is thought to increase maintenance requirements in rodents (56), poultry (57), sheep
+(58, 59), and cattle (33, 38, 60). The enhanced energy expenditure during HS is believed to
+originate from panting, sweating, and greater chemical reaction rates predicted by the van’t
+Hoff–Arrhenius equation (32, 61). Furthermore, mounting a heat shock response comes at a
+substantial energetic cost, because producing heat shock proteins (HSPs) and maintaining their
+function as protein chaperones utilize a considerable amount of ATP (62). In addition, epinephrine
+is elevated during HS (especially during the early phase of hyperthermia) (33), and it markedly
+stimulates the Naþ/Kþ ATPase activity (63), which also requires a substantial quantity of ATP
+(64). The elevation in Naþ/Kþ ATPase activity was demonstrated recently in a variety of tissues
+from heat-stressed pigs (65). Although difficult to quantify, in lactating dairy cattle maintenance
+costs are estimated to be increased by as much as 25% during HS (66), and some suggest it may be
+greater than 30% (67). However, because heat-stressed animals typically have reduced cir-
+culating thyroid hormone concentrations (68–70), actual oxygen consumption (71) and energy
+expenditure/heat production may in fact decrease (16, 41, 72). Even textbooks often report that
+basal heat production is decreased whereas maintenance costs are increased during HS (61,
+73). We find it difficult to envision how the two can occur simultaneously. Regardless, a
+quadratic relationship between environment and bioenergetics apparently exists in which main-
+tenance costs and total body expenditure decline with mild HS but rapidly increase during severe
+HS, as suggested by others (51, 61). Adaptation also appears to influence energy expenditure
+during HS, as metabolic rates may increase during acute HS but decrease during chronic HS (37).
+As stated earlier, the National Research Council arbitrarily suggests that mild to severe HS
+increases maintenance requirements by 7–25% but indicates that “insufficient data are currently
+available to quantify these effects accurately” (73a, p. 21). A typical lactating dairy cow has a
+maintenance requirement of 9.7 Mcal/day (or 0.08 Mcal/kg BW0.75). In our pair-feeding ex-
+periments, ∼8 kg of milk, which has an energetic value of approximately 6.1 Mcal/day, cannot be
+explained by the reduction in feed intake (Figure 1) (31). If all of the difference in milk synthesis
+(∼8 kg/day) could be explained by the increase in maintenance requirements, then heat-stressed
+cows would have an increase in maintenance requirements of 63%. We are obviously unable to
+identify how much, if any, of the milk differential can be explained by enhanced maintenance costs,
+but if 25%, 50%, and 75% of the 6.1 Mcal/day was in fact utilized for increased maintenance, it
+would represent a 16%, 31%, and 47% increase in maintenance requirements, respectively.
+Quantifying the contribution of increased maintenance costs versus other altered biological systems
+(e.g., reduced nutrient absorption, altered endocrine status) toward the milk yield differential is
+of primary interest.
+METABOLIC ADAPTATIONS TO REDUCED PLANE OF NUTRITION
+A prerequisite for understanding metabolic adaptations that occur during HS is an appreciation
+for the physiological and metabolic adjustments that lactating and growing animals initiate during
+malnutrition. Collectively, changes in postabsorptive nutrient partitioning occur to support a
+dominant physiological state (i.e., milk and skeletal-muscle synthesis) (74), and one well-described
+homeorhetic strategy is the glucose-sparing effect that both lactating and growing animals utilize
+when on a lowered plane of nutrition or in negative energy balance (NEBAL).
+316 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+Lactation
+Early lactation dairy cattle enter a unique physiological state during which they cannot consume
+enough nutrients to meet maintenance and milk production costs, which causes the animals
+to enter into NEBAL (75). NEBAL is associated with a variety of metabolic changes that are
+implemented to support the dominant physiological condition of lactation (74). Marked alter-
+ations in both carbohydrate and lipid metabolism ensure partitioning of dietary- and tissue-
+derived nutrients toward the mammary gland (Figure 2). Not surprisingly, many of these changes
+are mediated by endogenous somatotropin, which naturally increases during periods of NEBAL
+(74). During NEBAL, somatotropin promotes nonesterified fatty acid (NEFA) export from ad-
+ipose tissue by accentuating the lipolytic response to b-adrenergic signals and by inhibiting insulin-
+mediated lipogenesis and glucose utilization (76). The reduction in systemic insulin sensitivity is
+coupled with a decrease in circulating insulin levels, and this allows for adipose lipolysis and NEFA
+mobilization (74, 77). Increased circulating NEFA are typical in transitioning and malnourished
+cows, and they represent, along with NEFA-derived ketones, a significant source of energy (and
+precursors for milk-fat synthesis) for cows in NEBAL (Figure 2). Circulating NEFA have a very
+rapid turnover; thus, the severity of calculated NEBAL is positively associated with circulating
+NEFA levels (78, 79), and a linear relationship likely exists as a concentration-dependent process
+between NEFA delivery, tissue NEFA uptake, and NEFA oxidation (80). The magnitude of
+Ketones
+Liver
+Rumen
+AdiposeAdiposeAdipose
+Pancreas
+Mammary
+gland
+Muscle
+NEFA
+C3
+Milk
+fat
+Milk production
+G
+Pair-fed thermal-neutral
+I
+E
+Figure 2
+Nutrient partitioning in a thermal-neutral lactating cow on a restricted plane of nutrition. Reduced nutrient
+intake causes the pancreas to secrete less insulin and, coupled with reduced insulin sensitivity, creates
+a metabolically flexible state and allows the animal to spare glucose use for the synthesis of milk. Abbreviations:
+C3, propionate; E, energy; G, glucose; I, insulin; NEFA, nonesterified fatty acid.
+317www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+NEBAL, and thus lipid mobilization, in large part explains why cows lose considerable amounts
+(> 50 kg) of body weight during early lactation.
+Postabsorptive carbohydrate metabolism is also markedly altered by NEBAL and is medi-
+ated mainly by reduced insulin action. During either early lactation or inadequate nutrient in-
+take, glucose is partitioned toward the mammary gland, and glucose’s contribution as a fuel
+source to extramammary tissues is decreased (81). The early lactation or NEBAL-induced
+hypoglycemia accentuates catecholamine’s adipose lipolytic effectiveness (82). In this key
+glucose-sparing mechanism, referred to as the Randle Effect, elevated NEFA levels decrease
+skeletal muscle glucose uptake and oxidation (83). The fact that insulin simultaneously
+orchestrates both carbohydrate and lipid metabolism explains why there is a reciprocal re-
+lationship between glucose and NEFA oxidation. Ultimately, these are homeorhetic adaptations
+to maximize milk synthesis at the expense of tissue accretion (74). A thermal-neutral cow in
+NEBAL could be considered metabolically flexible, because it can depend upon alternative fuels
+(NEFA and ketones) to spare glucose, which can be utilized by the mammary gland for copious
+galactopoiesis.
+Growth
+Inadequate nutrient consumption during thermal-neutral conditions is associated with a variety
+of metabolic changes implemented to support the synthesis of high-priority tissues like skeletal
+muscle (54). Marked alterations in both carbohydrate and lipid metabolism ensure partitioning of
+dietary- and tissue-derived nutrients toward muscle, and altered concentrations of anabolic and
+catabolic signals mediate many of these changes. One characteristic response is a reduction in
+circulating insulin coupled with a decrease in adipose insulin sensitivity, which allows for adipose
+lipolysis and NEFA mobilization (84). Increased circulating NEFA are typical in restricted-fed
+animals and represent a significant source of energy. The enhanced fatty acid oxidation during
+nutrient restriction is a classic strategy to conserve glucose. Postabsorptive carbohydrate me-
+tabolism is also altered by reduced insulin action during feed restriction, resulting in reduced
+glucose uptake by adipose tissue. The reduced nutrient uptake coupled with the prolonged net
+release of NEFA by adipose tissue is a key homeorhetic mechanism implemented by malnourished
+pigs to prioritize protein synthesis (85).
+POSTABSORPTIVE CHANGES DURING HEAT STRESS
+Lipid Metabolism
+Some production data suggest that HS alters metabolism differently than would be expected based
+upon calculated whole-body energy balance. For example, heat-stressed sows (69) and heifers (86)
+do not lose as much body weight and body condition, respectively, as their pair-fed, thermal-
+neutral counterparts do. In addition, carcass data indicate that rodents (47, 87), chickens (50), and
+pigs (41–44, 88) have increased lipid retention when reared in HS conditions. We and others have
+demonstrated that basal plasma NEFA levels are typically reduced in heat-stressed rodents (89),
+pigs (90), sheep (68), and cattle (36, 86) despite marked reductions in feed intake and especially
+when compared with pair-fed, thermal-neutral controls (Figure 3a) (29, 31). Furthermore, we
+recently demonstrated that heat-stressed cows have a blunted NEFA response to an epinephrine
+challenge compared with pair-fed, thermal-neutral controls (Figure 3b) (30). These observations
+agree with rodent data indicating that HS reduces in vivo lipolytic rates and in vitro lipolytic
+enzyme activity (91). The decreased NEFA levels during HS are unlikely to result from enhanced
+318 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+oxidation or an accelerated conversion of NEFA into ketones, because blood ketone concentration
+decreases and urine ketone content remains static with increasing ambient temperatures [Dale &
+Brody (1954); as reviewed in 20]. Moreover, HS increases adipose tissue lipoprotein lipase (89),
+which suggests that adipose tissue of hyperthermic animals has an increased capacity to uptake and
+store intestinal and hepatic-derived triglycerides. The changes in carcass composition, blood lipid
+profiles, and lipolytic capacity are surprising, because HS causes a well-described increase in stress
+and catabolic hormones [epinephrine, cortisol, glucagon; see reviews by Bianca (37) and Beede &
+Collier (33)]. The blunted lipolytic capacity of adipose tissue is especially unusual, because heat-
+stressed cows are severely nutrient restricted (30–40%), are in a calculated NEBAL (∼5 Mcal; 29,
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+8,000
+NEFA AUC (µEq/L *min)
+Pair-fed Heat-stressed
+a
+b
+a 700
+600
+500
+400
+300
+200
+100
+0
+Heat-stressed
+Pair-fed
+123456789
+Day
+NEFA (µEq/L)
+b
+Figure 3
+Effects of heat stress and pair-feeding (in thermal-neutral conditions) on (a) basal nonesterified fatty acid
+(NEFA) concentrations (31) and (b) NEFA response [calculated as area under the curve (AUC)] to an
+epinephrine challenge (30) in lactating Holstein cows. Small a’s and b’s indicate that there are statistically
+significant differences between the data at P < 0.01.
+319www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+36, 92), and lose considerable amounts (>40 kg) of body weight (29, 31), all of which are
+parameters typically associated with elevated circulating NEFA levels (78, 79).
+Carbohydrate Metabolism
+Evidence from many species suggests that carbohydrate metabolism is altered during HS (93).
+For example, acute HS was first reported to cause hypoglycemia in cats. The condition was
+originally thought to underlie reduced worker/laborer productivity during warm summer months
+(94). In addition, human athletes exercising at high ambient temperatures consistently have
+increased hepatic glucose production and whole-body enhanced carbohydrate oxidation at the
+expense of lipids (95, 96). Furthermore, hepatic glucose production typically decreases after
+ingesting carbohydrates; however, exogenous sugars are unable to blunt HS-induced liver glucose
+output (97). The increased hepatic glucose output originates from increased glycogenolysis (96)
+and increased gluconeogenesis (56). Hepatic expression of the pyruvate carboxylase gene, a rate-
+limiting enzyme that controls lactate and alanine entry into the gluconeogenic pathway, is in-
+creased during HS in multiple animal models (98–101), and in hyperthermic rodents, lactate’s
+contribution to gluconeogenesis increases (56, 102). Interestingly, plasma lactate concentrations
+rise during exercise in the heat (95, 97, 103), porcine malignant hyperthermia (102), heat-stressed
+growing steers (104), and heated melanoma cells (93). This presumably stems from skeletal-
+muscle efflux, but an increase in muscle lactate production and efflux is not the result of reduced
+muscle blood or oxygen flow (105). Collectively, these studies appear to indicate that peripheral
+tissues increase aerobic glycolysis, although the purpose of this altered metabolism and its
+contribution to cellular and system energetic homeostasis is unclear (see section on Glucose
+Sparing).
+Our recent experiments in lactating dairy cows indicate that heat-stressed animals are se-
+creting approximately 200–400 g less milk lactose per day compared with pair-fed, thermal-
+neutral controls (29, 31). The quantity of secreted lactose is generally equivalent to a similar
+amount (on a molar basis) of secreted glucose (even larger if the estimate of 72 g of glucose/kg of
+secreted milk is accurate) (106), but it is unclear whether the liver produces 200–400 g less
+glucose or if extramammary tissues utilize glucose at an increased rate. We have generated two
+lines of evidence indicating the latter. First, heat-stressed cows dispose of exogenous glucose
+quicker following a glucose tolerance test (29). Second, using stable isotopes, we have shown that
+whole-body glucose production (presumed to be primarily from hepatic tissue) and glucose response
+to an epinephrine challenge (used as a proxy for hepatic glycogenolytic sensitivity) do not differ
+between heat-stressed and pair-fed thermal-neutral controls (30), despite reports suggesting that the
+liver becomes partially dysfunctional during HS (87, 107, 108). As noted above, we recently reported
+that HS causes altered hepatic gluconeogenic gene expression, perhaps associated with a different
+precursor supply (101). As a consequence, it appears that the ruminant liver remains functional with
+regard to hepatic glucose output and that glucose is preferentially utilized for processes other than
+milk synthesis during HS.
+Protein Metabolism
+Heat stress also affects postabsorptive protein metabolism, as illustrated by changes in the
+quantity of carcass lean tissue in a variety of species (40, 47, 52). Muscle protein synthesizing
+machinery and RNA/DNA synthesis capacity are reduced by environmental hyperthermia
+(109), and similar effects apparently occur with regard to mammary a-andb-casein synthesis
+(110). Skeletal muscle catabolism is also clearly increased during HS, because numerous studies
+320 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+have reported increased plasma markers of muscle breakdown in a variety of species (29, 37, 51,
+102, 111).
+ENDOCRINE CHANGES
+Somatotropin Axis
+Somatotropin (growth hormone, GH) and insulin-like growth factor-I (IGF-I) are two of the most
+potent and well-characterized lactogenic hormones (77). Normally, somatotropin partitions
+nutrients toward the mammary gland by decreasing nutrient uptake by extramammary tissues and
+stimulating hepatic IGF-I synthesis and secretion. During NEBAL (e.g., early lactation), the
+somatotropic axis uncouples and hepatic IGF-I production decreases despite increased circulating
+somatotropin concentrations (112). We originally hypothesized that NEBAL caused by HS and
+early lactation differentially affects the somatotropic axis. For example, although acute HS
+increases somatotropin levels in birds (113) and steers (114), chronic heat-stressed cows (which are
+presumably in NEBAL) had or tended to have reduced somatotropin levels (115, 121). To evaluate
+this further, we analyzed basal somatotropin pulsatility characteristics and the pituitary’s re-
+sponsiveness to a somatotropin secretagogue and reported no differences in either parameter in
+HS versus pair-fed thermal-neutral controls (31). However, we did observe a modest reduction
+in circulating IGF-I, which may indicate that the metabolic milieu favors uncoupling of the
+somatotropic axis during HS (31). We investigated whether hepatic growth hormone (GH) re-
+sponsiveness was altered during HS by measuring GH receptor abundance and signal transducer
+and activator of transcription 5 (STAT-5) phosphorylation (117). Heat stress, independent of
+reduced feed intake, decreased hepatic GH receptor abundance, although both HS and malnu-
+trition were sufficient to decrease STAT-5 phosphorylation. Consistent with reduced GH signaling
+through STAT-5, hepatic IGF-I mRNA abundance was lower in heat-stressed animals. Thus, the
+reduced hepatic GH responsiveness observed during HS appears to involve mechanisms in-
+dependent of reduced feed intake. The physiological significance of reduced hepatic GH receptor
+abundance during HS is unclear at this time but may serve to alter other GH-dependent hepatic
+processes, such as gluconeogenesis regulation. We hypothesize that reduced IGF-I may be one
+mechanism by which the liver and mammary tissues coordinate the reduction in milk synthesis so
+nutrients (e.g., glucose) can be utilized for other purposes, such as maintaining homeothermia.
+Insulin
+Despite hallmarks traditionally associated with hypoinsulinemia, such as (a) marked reductions in
+feed intake, (b) calculated NEBAL, and (c) rapid body weight loss (>40 kg), we have demonstrated
+that basal insulin concentrations gradually increase in lactating heat-stressed cows (29) and have
+confirmed this in growing heat-stressed calves (Figure 4a) (118) and pigs (90). The increase in
+insulin, a potent anabolic hormone, during HS, an intensely catabolic condition, is seemingly
+a biological paradox. Increased plasma insulin concentrations in our experiments agree with data
+from another heat-stressed ruminant report (119), a malignant hyperthermic pig model (102),
+a heat-stressed rodent model (91), and other reports utilizing different insulin secretagogues (19,
+119, 120). In addition, heat-stressed cows and calves have an increased insulin response to
+a glucose tolerance test (Figure 4b) (29, 118). Reasons for hyperinsulinemia during HS are not
+clearly understood but likely include insulin’s key role in activating and upregulating HSPs (121).
+Proper insulin signaling and action are strengthened by an effective heat-protective response (122).
+The lack of a NEFA response during HS may be a strategy to ensure the maintenance of elevated
+321www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+insulin parameters, because excessive NEFA causes pancreas b-cell apoptosis (123). Regardless of
+why, HS is one of the very few nondiabetic models we are aware of in which nutrient intake is
+markedly reduced but basal and stimulated insulin levels are increased.
+The increased insulin may be an essential part of the HS-adaptation mechanism. For example,
+diabetic humans are more susceptible to heat-related illness and death (124, 125). Similarly, di-
+abetic rats have an increased mortality rate when exposed to severe heat, and exogenous insulin
+increases their survival time (126). Furthermore, nonlethal HS ameliorates proxies of insulin
+insensitivity in diabetic rodents (127) or rodents fed high-fat diets (128). This is similar to reports
+indicating that thermal therapy (saunas and hot baths) improves insulin sensitivity in humans
+(129). One potential mechanism by which heat offers protection from insulin resistance is HSP72’s
+ability to inhibit the activation of stress kinases c-Jun N-terminal kinase (JNK) and inhibitor of kB
+kinase b (IKKb), which are enzymes involved in insulin resistance (130). Consequently, it appears
+that insulin and/or maintenance of insulin action plays a critical role in the ability to respond and
+ultimately survive a heat load.
+The mechanisms signaling for enhanced insulin parameters during HS are not clear. One
+possibility is heat-induced hyperprolactinemia, which has been described in both genders and in
+–1 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+0 10 20 30 
+Insulin (ng/mL )
+Minute relative to GTT 
+0 
+0.1 
+0.2 
+0.3 
+0.4 
+0.5 
+0.6 
+0.7 
+0.8 
+0.9 
+1 2 9 1 3 5 7 9 
+Insulin (ng/mL)  
+Day 
+Heat-stressed 
+Pair-fed 
+Heat-stressed 
+Pair-fed 
+Period 1 Period 2 Group: P = 0.07
+Period: P < 0.01
+a
+b
+Figure 4
+(a) Effects of heat stress and pair-feeding on basal insulin concentrations in growing Holstein bull calves. The
+vertical line separates period 1 (thermal-neutral conditions and ad libitum feed intake) from period 2 (either
+heat-stress conditions and ad libitum feed intake or thermal-neutral conditions and pair-feeding). (b) Effects of
+heat stress (ad libitum feed intake) and pair-feeding (thermal-neutral conditions) on the insulin response to
+a glucose tolerance test (GTT) in growing Holstein bull calves. Adapted from O’Brien et al. (118).
+322 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+multiple species (131) and was recently confirmed in pigs (132). In humans, severe HS increases
+prolactin more than threefold within 30 min (133). Although prolactin’s role during established
+ruminant lactation is not clear (134), the increase in this lactogenic hormone during HS is par-
+adoxical, given that milk yield is markedly reduced (18). The exact reason why HS increases
+prolactin is not known, but it may be involved with: the sweating response (135), HSP induction
+(136), altered water metabolism (20), and pelage molting (137). Prolactin may partially mediate
+HS-induced hyperinsulinemia as well. Prolactin was recently shown to increase in vitro pancreatic
+b cell proliferation (138) and in vivo glucose-stimulated insulin secretion (139), and consequently
+it is an active area of research in the diabetes field. The temporal pattern of heat-induced prolactin
+corresponds with the temporal pattern of increased circulating insulin (3–4 days), and it is
+tempting to speculate that prolactin is increasing pancreatic b cell proliferation and insulin se-
+cretion in agricultural species as well.
+An additional signal for heat-induced increased circulating insulin may be endotoxin
+[i.e., lipopolysaccharide (LPS)]. Heat-stressed animals redistribute blood to the periphery in an
+attempt to maximize radiant heat dissipation. To maintain blood pressure during HS, the gas-
+trointestinal tract vasculature vasoconstricts (140), and blood flow to the splanchnic tissues can
+decrease up to 50% (141, 142). Enterocytes are extremely sensitive to oxygen and nutrient re-
+striction (143), and HS causes marked conformation changes and reduces intestinal barrier
+function (140, 142). We have demonstrated this in heat-stressed pigs (144), and it presumably
+occurs in heat-stressed ruminants as well. For a variety of reasons, HS causes rumen acidosis (145,
+146), which, independent of HS, can compromise the integrity of the gastrointestinal tract barrier
+(147). Therefore, ruminants may actually be more prone than monogastrics to intestinal leakiness
+during HS. The increased paracellular transport of LPS from the lumen into circulation causes
+a local proinflammatory response and, if severe enough, can cause systemic endotoxemia (148,
+149). Animals suffering from heat stroke or severe endotoxemia share many physiological and
+metabolic similarities (150). Infusing LPS into the mammary gland was first reported to increase
+(approximately twofold) circulating insulin in lactating cows (151). In addition, we intravenously
+infused LPS into growing calves and demonstrated a greater than tenfold increase in circulating
+insulin (152). Again, the increase in insulin in both models is energetically difficult to explain, as
+feed intake was severely depressed in both experiments.
+The mechanisms by which LPS increases insulin secretion are unknown but may be mediated
+by LPS-induced proinflammatory cytokines. Two lines of evidence support this. First, the mam-
+mary-infused LPS (151) was probably sequestered within the gland and likely did not enter
+systemic circulation. Second, the timing of the increase in insulin in both models (151, 152) was
+approximately 2 h postinfusion, which implies that a secondary messenger caused the increased
+insulin secretion. Interestingly, in the intravenous LPS-infusion experiment, insulin concentrations
+were not different at 1 h but were increased more than tenfold at 2 h post–LPS infusion. Insulin
+levels rapidly decreased and were at pre–LPS infusion levels at 4 h post–LPS infusion. The data
+above indicate that insulin must be involved with some type of signaling cascade that either
+initiates infection-induced pyrexia (153), stimulates immune cell activation, or provides a pro-
+tection signal that allows systemic tissue to withstand the upcoming inflammatory response (154).
+One such protection signal may be insulin’s role in activating HSPs, which are induced in a variety
+of cells during acute infection (148).
+As mentioned above, the diabetes literature suggests that therapeutic hyperthermia can im-
+prove insulin sensitivity. For example, humans have improved glucose disposal the day after spa/
+sauna treatment (129), a finding confirmed in rodent models (127). Exercise-induced improved
+insulin signaling may be partly mediated simply by an exercise-induced increase in body tem-
+perature (129). The effects of HS on farm-animal insulin sensitivity (with regards to glucose
+323www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+uptake) are not clear and may depend upon the magnitude and duration of animal exposure
+to hyperthermia. For example, we have demonstrated that heat-stressed lactating cows dis-
+posed of a glucose load quicker than did pair-fed thermal-neutral controls (29). Using the
+hyperinsulinemic-euglycemic clamp technique, we also demonstrated that insulin sensitivity is
+improved in growing heat-stressed calves (152), and we tentatively confirmed this in lactating
+cows (155). Interpreting hyperinsulinemic-euglycemic clamp results for lactating dairy cows is
+difficult because the heat-stressed cows were hypoglycemic compared with the thermal-neutral
+cows at the start of the clamp. Overall, the quantity of glucose infused to maintain euglycemia
+was similar between the heat-stressed and thermal-neutral cows, but evaluating the rate of
+glucose infusion/basal glucose indicates that HS cows required more glucose (18%) to maintain
+euglycemia (155).
+The effects of HS on insulin-induced glucose uptake remain ambiguous because we could not
+replicate the increased glucose disposal following a glucose tolerance test in another lactating dairy
+cow trial (30) or in a growing calf trial (118). Reasons for the inconsistencies are not clear but may
+involve effective intracellular insulin signal transduction. We conducted a study designed to
+examine the acute insulin responsiveness of skeletal muscle during an insulin tolerance test by
+measuring insulin receptor and AKT abundance as well as AKT phosphorylation (156). Both HS
+and pair feeding impaired glucose-disposal rates similarly compared with ad libitum thermal-
+neutral conditions. Protein abundance of the insulin receptor, insulin receptor substrate, and AKT
+remained stable between periods and environments. Insulin increased phosphorylated AKT in
+each period; however, this response tended to decline in pair-fed animals but not during HS. These
+results indicate that mild insulin resistance may develop during HS in a manner related to reduced
+nutrient intake. Moreover, a reduction in insulin responsiveness of skeletal muscle may stem from
+a postreceptor signaling defect (156). How HS alters insulin responsiveness depends upon a variety
+of variables and likely occurs in a tissue-specific manner. What is consistent among these studies is
+that heat-stressed animals have a much larger insulin response to insulin secretagogues (discussed
+above). The increased insulin response, coupled with a similar rate of glucose disposal, actually
+indicates a state of insulin resistance. Insulin resistance also occurs during malignant hyperthermia
+and is thought to result from elevated intracellular Caþ (157).
+Glucose uptake is not mediated only by insulin, as there are several non-insulin-dependent
+glucose transporters (GLUTs) that are tissue specific and have different affinities for glucose
+(158). Heat stress has been shown to increase in vitro GLUT1 (159) and SGLT-1 (160). Heat stress
+may alter multiple routes of glucose uptake, and this is likely tissue specific; therefore, obtaining an
+accurate understanding of how HS alters insulin-dependent and -independent glucose disposal is
+challenging.
+INTRACELLULAR ENERGETICS
+Studies investigating the effects of HS on cellular metabolism in passively induced hyperthermia
+can provide conflicting information based on model variations involving differences in magnitude
+and duration of hyperthermia, species, or cell type. For example, Dickson & Calderwood (161)
+observed decreased in vitro rates of anaerobic glycolysis at 42/C176C, but in vivo, whole-body hy-
+perthermia increased glucose metabolism. An increase in energy demand caused by elevated
+temperatures is met by increasing ATP synthesis, which has been demonstrated in hyperthermic
+cells by measuring the incorporation of 3H-adenosine into ATP (162). However, the metabolic
+changes that occur as a result of thermal insult may lead to a depletion in energy reserves, possibly
+owing to altered regulation of key metabolic points such as the pyruvate dehydrogenase (PDH)
+complex (94).
+324 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+Owing to the contribution of skeletal muscle to overall animal mass and the fact that it is an
+energetically expensive tissue to maintain, small changes in its fuel efficiency can have large
+impacts on feed conversion and nutrient flux. The PDH complex controls glucose flux through the
+TCA cycle and is responsible for the irreversible conversion of pyruvate to acetyl-CoA. The PDH
+complex is regulated primarily via covalent modification by pyruvate dehydrogenase kinases
+(PDKs), which inactivate PDH, and pyruvate dehydrogenase phosphatases (PDPs), which activate
+PDH (163). The activities of the PDK and PDP are themselves regulated at the transcriptional level
+by intracellular energy status, metabolism intermediates (acetyl-CoA and NADH), transcription
+factors, and hormones such as cortisol and insulin (164). Furthermore, LPS (derived from the heat-
+stressed gastrointestinal tract; see above) inhibits muscle PDH via two pathways: directly, via
+TNFa production, and indirectly, via the NFKB, AKT1, and FOXO pathways (165). Cellular
+energy status (i.e., the ATP-to-AMP ratio) is one of the primary mechanisms for determining
+substrate utilization. Inactivation of the PDH complex may be a glucose-sparing mechanism,
+although reduced oxidative glucose metabolism during HS may instead be the result of events
+stemming from intracellular reactive oxygen species (ROS). An attractive candidate known to shift
+cellular metabolism toward glycolysis is hypoxia-inducible factor (HIF) (166). Reports indicate
+that HIF acts as a metabolic switch for cellular adaptation to hypoxia by increasing PDK ex-
+pression and downregulating mitochondrial oxygen consumption (167). Although much research
+on HIF signaling has focused on oxygen tension, there is growing understanding that HIF is
+regulated by stresses such as hyperthermia and ROS (168, 169). Our preliminary experiments
+demonstrated a fivefold increase in HIF-driven transcriptional activity during HS in primary
+myocytes (R.P. Rhoads & L.H. Baumgard, unpublished observations). Consistent with a potential
+shift in cellular metabolism away from carbohydrate oxidation, we observed increased skeletal-
+muscle PDK4 mRNA abundance in rodents, pigs, and ruminants during HS (89, 98, 99, 170). We
+have also demonstrated that exposing rats to an acute (6-h) heat load markedly induces hy-
+perthermia, increases HSP70 mRNA abundance, and alters the expression of many enzymes
+associated with energy metabolism in a tissue-specific manner (89). For example, within the tibialis
+anterior, a predominantly glycolytic skeletal muscle, lactate dehydrogenase A (LDHa) mRNA
+abundance was increased, whereas expression of LDH isoforms in the soleus, a predominantly
+oxidative muscle type, was not different between thermal-neutral and HS conditions. This
+indicates an increase in lactate production capacity by type II but not type I skeletal muscle in
+response to a heat load. Further examination of carbohydrate oxidation capacity demonstrated
+that levels of skeletal-muscle PDH protein abundance did not differ between environments;
+however, levels of phosphorylated (inactive) PDH were increased by exposure to single and
+multiple heat loads (89). This suggests a decrease in glucose oxidative capacity, which corresponds
+to the heat-induced increase in PDK4 mRNA abundance we observe in multiple species (see
+above). Our data also agree with a study utilizing heated melanoma cells in which ratios of lactate/
+pyruvate and NADH/NADþ were increased, which indicates that pyruvate entry into the TCA
+cycle (via PDH) may be impaired with HS (93). Moreover, such changes appear to be consistent
+with impaired cellular energy status, perhaps owing to mitochondrial dysfunction possibly related
+to muscle-fiber type during hyperthermia. Taken together, increased transcription of PDK4, and
+the subsequent inactivation of the PDH complex, might serve as a mechanism to reduce substrate
+oxidation and mitochondria ROS production in an effort to prevent cellular damage during HS.
+Previous reports suggest that mitochondria may be affected directly by HS (171, 172). His-
+tological analysis of skeletal muscle in a rat heat stroke model showed that mitochondrial ab-
+normalities, denoted as ragged red fibers and electron-microscopic observations, revealed an
+increased number and size as well as altered morphology of mitochondria (173, 174). In-
+terestingly, the location of mitochondria from heat-stressed rats was also altered, because skeletal
+325www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+muscle expressing ragged red fibers exhibited mitochondria aggregated within the subsarco-
+lemmal space, which suggests an increased energy demand of the plasma membrane owing to
+hyperthermia (173). In rat cardiomyocytes, HS resulted in swollen mitochondria with broken
+cristae and low matrix density, in addition to decreased ATP content in the myocardium (175,
+176). Because mitochondria are a major source of energy production, mitochondrial damage can
+impair a cell’s ability to compensate for the increased energy demands (177) imposed by envi-
+ronmental stresses, and it may contribute to increased levels of oxidative stress.
+GLUCOSE SPARING
+Blood lactate levels are consistently elevated in many heat-stressed models (93, 102), including
+cattle (104). The origin of this lactate is currently unknown but may include the gastrointestinal
+tract and muscle. Presumably the liver would clear the mesentery-derived lactate (178), so it is
+unlikely that splanchnic tissue is the source. Skeletal muscle is a likely candidate simply because of
+its sheer mass, but actual blood flow to the muscle tissue during HS increases (105), and therefore
+anaerobic glycolysis theoretically should not be necessary. However, because HS upregulates
+PDK4 and hyperphosphorylation of PDH reduces pyruvate entry into the TCA cycle (163; see
+above), an increase in LDH allows for the increased mass-action conversion of pyruvate into
+lactate. Pyruvate is also the precursor to alanine via alanine aminotransferase (179), and circu-
+lating concentrations of this amino acid and enzyme increase in a variety of heat-stressed animals
+(102, 180). Consequently, it appears that pyruvate entry into the TCA cycle is a bottleneck, which
+thus increases pyruvate-derived metabolite production. Heat-induced hyperlactemia may also
+contribute to the altered postabsorptive carbohydrate and lipid metabolism described above.
+Lactate binds to adipocyte G-protein receptors and reduces lipolysis, decreasing circulating NEFA
+concentrations (181). Further, lactate metabolism results in a downregulation of CPT-1 and thus
+reduces NEFA entry into the mitochondria (181).
+The accelerated aerobic glycolysis that occurs in skeletal muscle during HS resembles the
+Warburg Effect, the system used by most cancerous cells to generate ATP (182). The evolutionary
+rational and energetic reasons underpinning such a strategy during HS are not clear. For example,
+glycolysis is much less energetically efficient (net: 2 ATP) than is complete oxidative phosphor-
+ylation (36–38 ATP) (179). We originally thought that lactate leaving the muscle during HS was
+converted back into glucose via the Cori cycle (183). However, in nonruminants only a small
+percentage of lactate is recycled via the Cori cycle, and most of it is actually taken up by ex-
+trahepatic tissues, converted back into pyruvate, and then oxidized in the TCA cycle (184); this
+presumably is the case in cattle as well. The increased reliance on lactate for energy in tissues
+capable of oxidizing lactate may be a glucose-sparing mechanism employed to ensure adequate
+glucose availability for cells that are obligate glucose users. This process is similar to the systems
+described in hyper-immune-activated animals (185). Cells that rely primarily on glucose for energy
+are the central nervous system, red blood cells, and cells composing the immune system (156, 179).
+Normally during periods of inadequate nutrient intake, the central nervous system would have
+access to NEFA-derived ketones. However, we and others have clearly demonstrated that heat-
+stressed animals appear metabolically inflexible and thus have limited access to either NEFA or
+ketones. Therefore, the altered lactate metabolism may be a strategy to ensure glucose delivery to
+the brain and red blood cells. In addition, immune cells also primarily oxidize glucose (and
+glutamine) for energy, which leads to the notion that hypoglycemia during endotoxemia is caused
+by increased glucose utilization by macrophage-rich tissues (186). As already mentioned, heat-
+stressed animals have a leaky gut, and the mesenteric-derived LPS likely cause a local inflammatory
+response (149). If the intestinal barrier function is severely compromised, the liver may be
+326 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+overwhelmed and unable to remove all LPS. As a consequence, LPS would enter the systemic
+circulation and elicit a whole-body inflammatory response (149). In severely septic human
+patients, energy expenditure increases by approximately 50% (187); extrapolated to heat-stressed
+lactating cows, this would represent approximately 4 Mcal of increased maintenance costs. If this
+increased energy need were met via aerobic glycolysis (185), it would require approximately 1,000
+g glucose per day. Even if overestimated by 50–75%, the increased glucose requirement would be
+250–500 g, which is remarkably similar to the glucose shortage we report during HS (see above).
+Therefore, we believe that the altered lactate metabolism maybe a glucose-sparing mechanism to
+ensure that the central nervous system and immune cells have an adequate fuel supply. From
+a lactation and growth standpoint, this change in the hierarchy of fuel utilization decreases glucose
+partitioning to the mammary gland and skeletal muscle.
+COORDINATED METABOLIC CONSEQUENCES OF HEAT STRESS
+Insulin is a potent regulator of both carbohydrate and lipid metabolism and may play an im-
+portant role in mediating HS regulation of postabsorptive nutrient partitioning (Figure 5). Insulin
+stimulates glucose uptake via glucose transporter type 4 in responsive tissues (e.g., muscle and
+adipose tissue) and is likely responsible for the heat-induced hypoglycemia frequently reported in
+Liver
+Rumen
+AdiposeAdiposeAdipose
+Pancreas
+Mammary
+gland
+Muscle
+NEFA
+C3
+G
+Heat-stressed
+Milk production
++ + +
+Urea
+AA
+I
+I
+Figure 5
+Nutrient partitioning in a heat-stressed lactating cow fed ad libitum. Compared with that of a thermal-neutral
+cow on a restricted plane of nutrition (Figure 2), the pancreas secretes more insulin, which seemingly prevents
+the cow from sparing glucose for the synthesis of milk. The heat-stressed cow enters a metabolically inflexible
+state, which is characterized primarily by minimal use of body fat reserves. Abbreviations: AA, amino acids; C3,
+propionate; G, glucose; I, insulin; NEFA, nonesterified fatty acid.
+327www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+multiple chronic HS models (29, 94, 118–120, 189). This occurs despite an increase in intestinal
+glucose absorptive capacity (70) and enhanced renal glucose reabsorptive ability (190).
+Insulin is also a potent antilipolytic hormone (85), and this may explain why heat-stressed
+animals do not mobilize adipose tissue triglycerides. Limiting adipose tissue mobilization is the key
+step by which heat-stressed animals are prevented from employing glucose-sparing mechanisms
+normally enlisted to maintain milk production (Figure 5) or skeletal muscle accretion during
+periods of temporary malnutrition. The lack of available NEFA to systemic tissues for oxidative
+purposes is coupled with reduced volatile fatty acid (primarily acetate because of decreased feed
+intake in ruminants) availability, and thus both glucose and amino acid oxidation may increase.
+The efficiency of capturing ATP from amino acid oxidation is low (meaning metabolic heat
+production is high) (179), so it is an unlikely fuel choice during hyperthermia. Therefore, glucose
+apparently becomes a favored fuel for heat-stressed animals (93), which is consistent with the
+increase in respiratory quotient observed in hyperthermic humans (96).
+The increase in skeletal-muscle protein catabolism (mentioned above) is peculiar given insulin’s
+role in stimulating protein synthesis and preventing proteolysis (191). Heat stress is thought to
+increase membrane permeability, allowing for cytosolic Caþ leakage, which may increase protein
+sensitivity to HS (192). We believe that breaking down skeletal muscle is likely a strategy to supply
+precursors for gluconeogenesis, consistent with data from Rhoads et al. (101), and acute phase
+proteins rather than to supply oxidative substrates (because of the inefficiency in capturing ATP
+from amino acid–derived substrates).
+CONCLUSIONS
+The heat-stressed animal initiates a variety of postabsorptive metabolic changes that are largely
+independent of reduced feed intake and whole-animal energy balance. These changes in nutrient
+partitioning seemingly are adaptive mechanisms employed to prioritize the maintenance of
+euthermia. The primary difference between a thermal-neutral and a heat-stressed animal in
+a similar energetic state is the inability of the hyperthermic beast to employ glucose-sparing
+mechanisms to homeorhetically prioritize product (milk and meat) synthesis. From an animal
+agriculture standpoint, these survival strategies reduce productivity and seriously jeopardize farm
+economics. Defining the biology and mechanisms of how HS threatens animal health and per-
+formance is critical in developing approaches to ameliorate current production issues and is
+a prerequisite for generating future mitigating strategies to improve animal well-being, perfor-
+mance, and agriculture economics.
+SUMMARY POINTS
+1. Heat stress is a global problem that threatens the ability to produce sufficient animal
+protein for human consumption.
+2. Distinct indirect (mediated by decreased nutrient intake) and direct effects of heat stress
+are responsible for reduced animal productivity during the warm summer months.
+3. Heat stress directly affects multiple systems, and the summation of these altered
+physiological systems contributes to reduced animal productivity.
+4. Heat stress compromises the ability of the intestinal tract to maintain an effective barrier
+to luminal toxins.
+5. From a metabolism perspective, the inability to mobilize adipose tissue during heat stress
+prevents a cascade of events that would normally spare glucose for agriculturally
+328 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+productive purposes. We refer to this altered postabsorptive state as “metabolically
+inflexible.”
+FUTURE ISSUES
+1. Identifying what is responsible for increased insulin concentration and function during
+heat stress will likely provide insight on future mitigation strategies.
+2. A better understanding of altered whole-animal and tissue-specific insulin sensitivity by
+various levels of heat stress (the severity, magnitude, and duration) is needed in the field.
+3. Understanding the coordinated response to heat-induced intestinal permeability via
+interaction between the immune system and nutrient partitioning is necessary.
+4. Characterizing the mechanisms of how, when, and why the heat-stressed animal initiates
+aerobic glycolysis is important.
+5. Ideal genetic selection criteria should focus on animal performance by identifying the
+combination of genes responsible for improved thermal tolerance with genes that
+maintain or enhance production.
+DISCLOSURE STATEMENT
+The authors are not aware of any affiliations, memberships, funding, or financial holdings that
+might be perceived as affecting the objectivity of this review.
+ACKNOWLEDGMENTS
+We especially want to thank our former and current students and postdoctoral students who have
+contributed the described projects. Projects and results described here within were supported by
+National Research Initiative Competitive Grant no. 2008-35206-18817, Agriculture and Food
+Research Initiative Competitive Grant nos. 2010-65206-20644 and 2011-67003-30007 from
+the USDA National Institute of Food and Agriculture.
+LITERATURE CITED
+1. Calif. Dep. Food Agric. 2006. Hot topics affecting California Agriculture. An update from Sec.
+Kawamura. Sacramento: Calif. Dep. Food Agric. Accessed May 27, 2008. http://www.cdfa.ca.gov/
+exec/Public_Affairs/pdf/AGOnAg080306.pdf
+2. Drovers Cattle Netw. 2011. Heat wave kills as many as 4,000 cattle last week in Iowa. http://www.
+cattlenetwork.com/cattle-resources/hot-topics/Heat-wave-kills-as-many-as-4000-cattle-last-week-in-
+Iowa-126763608.html
+3. Ominski KH, Kennedy AD, Wittenberg KM, Moshtaghi Nia SA. 2002. Physiological and production
+responses to feeding schedule in lactating dairy cows exposed to short-term, moderate heat stress. J. Dairy
+Sci. 85:730–37
+4. St. Pierre NR, Cobanov B, Schnitkey G. 2003. Economic losses from heat stress by US livestock in-
+dustries. J. Dairy Sci. 86:E52–77
+329www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+5. Pollman DS. 2010. Seasonal effects on sow herds: industry experience and management strategies. J.
+Anim. Sci. 88(Suppl. 3):9 (Abstr.)
+6. Armstrong DV. 1994. Heat stress interaction with shade and cooling. J. Dairy Sci. 77:2044–50
+7. Stowell RR, Mader TR, Gaughan JB. 2009. Environmental management. In Livestock Energetics and
+Thermal Environment Management, ed. JA DeShazer, pp. 181–209. St. Joseph, MI: Am. Soc. Agric. Biol.
+Eng.
+8. Intergov. Panel Clim. Change. 2007. IPCC WGI Fourth Assessment Report. Climatic Change: The
+Physical Science Basis. Geneva: Intergov. Panel Clim. Change
+9. Luber G, McGeehin M. 2008. Climate change and extreme heat events. Am. J. Prev. Med. 35:459–67
+10. Baumgard LH, Rhoads RP, Rhoads ML, Gabler NK, Ross JW, et al. 2012. Impact of climate change on
+livestock production. In Environmental Stress and Amelioration in Livestock Production, ed. V Sejian,
+SMK Naqvi, T Ezeji, J Lakritz, R Lal, pp. 413–468. New York: Springer
+11. Sachan N, Singh VP. 2010. Effect of climatic changes on the prevalence of zoonotic diseases. Vet. World
+13:519–22
+12. Roush W. 1994. Population—the view from Cairo. Science 265:1164–67
+13. Renaudeau D, Gourdine JL, Silva BAN, Noblet J. 2008. Nutritional routes to attenuate heat stress in
+pigs. In Livestock and Global Climate Change, ed. P Rowlinson, M Steele, A Nefzaoui, pp. 134–138.
+Cambridge, UK: Cambridge Univ. Press
+14. Nienaber JA, Hahn GL. 2007. Livestock production system management response to thermal challenges.
+Int. J. Biometeorol. 52:140–57
+15. Spiers DE, Spain JN, Sampson JD, Rhoads RP. 2004. Use of physiological parameters to predict milk
+yield and feed intake in heat-stressed dairy cows. J. Therm. Biol. 29:759–64
+16. Brown-Brandl TM, Nienaber JA, Zin H, Gates S. 2004. A literature review of swine heat production.
+Trans. Am. Soc. Agric. Eng. 47:259–70
+17. Wilson RT. 2009. Fit for purpose—the right animal in the right place. Trop. Anim. Health Prod.
+41:1081–90
+18. West JW. 2003. Effects of heat-stress on production in dairy cattle. J. Dairy Sci. 86:2131–44
+19. Messias de Bragança M, Prunier A. 1999. Effects of low feed intake and hot environment on plasma
+profiles of glucose, nonesterified fatty acids, insulin, glucagon and IGF-I in lactating sows. Domest. Anim.
+Endocrinol. 16:89–101
+20. Collier RJ, Beede DK, Thatcher WW, Israel LA, Wilcox CJ. 1982. Influences of environment and its
+modification on dairy animal health and production. J. Dairy Sci. 65:2213–27
+21. Berman A. 2003. Effects of body surface area estimates on predicted energy requirements and heat stress.
+J. Dairy Sci. 86:3605–10
+22. Zimbleman RB, Rhoads RP, Baumgard LH, Collier RJ. 2009. Revised temperature humidity index (THI)
+for high producing dairy cows. J. Dairy Sci. 92(E-Suppl. 1):347 (Abstr.)
+23. Cook NB, Mentink RL, Bennett TB, Burgi K. 2007. The effect of heat stress and lameness on time budgets
+of lactating dairy cows. J. Dairy Sci. 90:1674–82
+24. Bernabucci U, Lacetera N, Baumgard LH, Rhoads RP, Ronchi B, Nardone A. 2010. Metabolic and
+hormonal adaptations to heat stress in ruminants. Animal 4:1167–83
+25. Collier RJ, Stiening CM, Pollard BC, VanBaale MJ, Baumgard LH, et al. 2006. Use of gene expres-
+sion microarrays for evaluating environmental stress tolerance at the cellular level in cattle. J. Anim. Sci.
+84(Suppl.):E1–13
+26. Collier RJ, Collier JL, Rhoads RP, Baumgard LH. 2008. Genes involved in the bovine heat stress re-
+sponse. J. Dairy Sci. 91:445–54
+27. Silanikove N, Shapiro F, Shinder D. 2009. Acute heat stress brings down milk secretion in dairy cows
+by up-regulating the activity of the milk-borne negative feedback regulatory system. BMC Physiol.
+9:13–22
+28. Wilde CJ, Addey CV, Bryson JM, Finch LM, Knight CH, Peaker M. 1998. Autocrine regulation of milk
+secretion. Biochem. Soc. Symp. 63:81–90
+29. Wheelock JB, Rhoads RP, VanBaale MJ, Sanders SR, Baumgard LH. 2010. Effects of heat stress on
+energetic metabolism in lactating Holstein cows. J. Dairy Sci. 93:644–55
+330 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+30. Baumgard LH, Wheelock JB, Sanders SR, Moore CE, Green HB, et al. 2011. Postabsorptive carbo-
+hydrate adaptations to heat stress and monensin supplementation in lactating Holstein cows. J. Dairy Sci.
+94:5620–33
+31. Rhoads ML, Rhoads RP, VanBaale MJ, Collier RJ, Sanders SR, et al. 2009. Effects of heat stress and
+plane of nutrition on lactating Holstein cows: I. Production, metabolism and aspects of circulating
+somatotropin. J. Dairy Sci. 92:1986–97
+32. Fuquay JW. 1981. Heat stress as it affects animal production. J. Anim. Sci. 52:164–74
+33. Beede DK, Collier RJ. 1986. Potential nutritional strategies for intensively managed cattle during thermal
+stress. J. Anim. Sci. 62:543–54
+34. Silanikove N. 2000. Effects of heat stress on the welfare of extensively managed domestic ruminants.
+Livest. Prod. Sci. 67:1–18
+35. DeShazer JA, Hahn GL, Xin H. 2009. Basic principles of the thermal environment and livestock en-
+ergetics. In Livestock Energetics and Thermal Environment Management, ed. JA DeShazer, pp. 1–22. St.
+Joseph, MI: Am. Soc. Agric. Biol. Eng.
+36. Shwartz G, Rhoads ML, VanBaale MJ, Rhoads RP, Baumgard LH. 2009. Effects of a supplemental yeast
+culture on heat-stressed lactating Holstein cows. J. Dairy Sci. 92:935–42
+37. Bianca W. 1965. Reviews of the progress of dairy science. Physiology. Cattle in a hot environment.
+J. Dairy Sci. 32:291–328
+38. Morrison RS. 1983. Ruminant heat stress: effect on production and means of alleviation. J. Anim. Sci.
+57:1594–600
+39. Mader TL, Davis MS, Gaughan JB. 2007. Effect of sprinkling on feedlot microclimate and cattle be-
+havior. Int. J. Biometeorol. 51:541–51
+40. Close WH, Mount LE, Start IB. 1971. The influence of environmental temperature and plane of nutrition
+on heat losses from groups of growing pigs. Anim. Prod. 13:285–94
+41. Verstegen MWA, Brascamp EW, van Der Hel W. 1978. Growing and fattening of pigs in relation to
+temperature of housing and feeding level. Can. J. Anim. Sci. 58:1–13
+42. Stahly TS, Cromwell GI, Aviotti MP. 1979. The effect of environmental temperature and dietary lysine
+source and level on the performance and carcass characteristics of growing swine. J. Anim. Sci. 49:1242–50
+43. Heath ME. 1983. The effects of rearing-temperature on body composition in young pigs. Comp.
+Biochem. Physiol. 76:363–66
+44. Heath ME. 1989. Effects of rearing temperature and level of food intake on organ size and tissue
+composition in piglets. Can. J. Physiol. Pharmacol. 67:526–32
+45. Bridges TC, Turner LW, Gates RS. 1998. Economic evaluation of misting-cooling systems for growing/
+finishing swine through modeling. Appl. Eng. Agric. 14:425–30
+46. Collin A, van Milgen J, Dubois S, Noblet J. 2001. Effect of high temperature and feeding level on energy
+utilization in piglets. J. Anim. Sci. 79:1849–57
+47. Schmidt P, Widdowson EM. 1967. The effect of a low-protein diet and a cold environment on calorie
+intake and body composition in the rat. Br. J. Nutr. 21:457–65
+48. Katsumata M, Yano H, Ishida N, Miyazaki A. 1990. Influence of a high ambient temperature and
+administration of clenbuterol on body composition in rats. J. Nutr. Sci. Vitaminol. 36:569–78
+49. Baziz HA, Geraert PA, Padilha JSF, Guillaumin S. 1996. Chronic heat exposure enhances fat deposition
+and modifies muscle and fat partition in broiler carcasses. Poult. Sci. 75:505–13
+50. Geraert PA, Padilha JC, Guillaumin S. 1996. Metabolic and endocrine changes induced by chronic heat
+exposure in broiler chickens: growth performance, body composition and energy retention. Br. J. Nutr.
+75:195–204
+51. Yunianto VD, Hayashi K, Kaneda S, Ohtsuka A, Tomita Y. 1997. Effect of environmental temperature
+on muscle protein turnover and heat production in tube-fed broiler chickens. Br. J. Nutr. 77:897–909
+52. Lu Q, Wen J, Zhang H. 2007. Effect of chronic heat exposure on fat deposition and meat quality in two
+genetic types of chicken. Poult. Sci. 86:1059–64
+53. Le Dividich J, Vermorel M, Noblet J, Bouvier JC, Aumaitre A. 1980. Effects of environmental tem-
+perature on heat production, energy retention, protein and fat gain in early weaned piglets. Br. J. Nutr.
+44:313–23
+331www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+54. Van Milgen J, Noblet J. 2003. Partitioning of energy intake to heat, protein, and fat in growing pigs.
+J. Anim. Sci. 81:E86–93
+55. Oresanya TF, Beaulieu AD, Patience JF. 2008. Investigations of energy metabolism in weanling barrows:
+the interaction of dietary energy concentration and daily feed (energy) intake. J. Anim. Sci. 86:348–63
+56. Collins FG, Matros FA, Skibba JL. 1980. Effect of palmitate on hepatic biosynthetic functions at hy-
+perthermic temperatures. Metabolism 29:524–31
+57. Yahav S. 2007. Thermal manipulation during the perinatal period—Does it improve thermotolerance
+and performance of broiler chickens? Proc. 19th Aust. Poult. Sci. Symp., pp. 1–8. Sidney: Aust. Poult. Sci.
+Symp.
+58. Whittow GC, Findlay JD. 1968. Oxygen cost of thermal panting. Am. J. Physiol. 214:94–99
+59. Ames DR, Nellor JE, Adams T. 1971. Energy balance during heat stress in sheep. J. Anim. Sci. 32:784–88
+60. McDowell RE, Moody EG, Van Soest PJ, Lehmann RP, Ford GL. 1969. Effect of heat stress on energy
+and water utilization of lactating cows. J. Dairy Sci. 52:188–94
+61. Kleiber M. 1961. The Fire of Life: An Introduction to Animal Energetics. New York: John Wiley & Sons
+62. Tomanek L. 2010. Variation in the heat shock response and its implication for predicting the effect of
+global climate change on species’ biogeographical distribution ranges and metabolic costs. J. Exp. Biol.
+213:971–79
+63. Gaffin SL, Hubbard R. 1996. Experimental approaches to therapy and prophylaxis for heat stress and
+heatstroke. Wilderness Environ. Med. 7:312–34
+64. Levy B, Gibot S, Franck P, Gravoisy A, Bollaert P. 2005. Relation between muscle NaþKþ ATPase
+activity and raised lactate concentrations in septic shock: a prospective study. Lancet 365:871–75
+65. Pearce SC, Harris AJ, Gabler NK, Baumgard LH. 2011. Effects of heat stress on Naþ/Kþ ATPase activity
+in growing pigs. J. Anim. Sci. 89(E-Suppl. 1):596 (Abstr.)
+66. Natl. Res. Counc. 1989. Nutrient Requirements of Dairy Cattle. Washington, DC: Natl. Acad. Press.
+6th ed.
+67. Fox DG, Tylutki TP. 1998. Accounting for the effects of environment on the nutrient requirements of
+dairy cattle. J. Dairy Sci. 81:3085–89
+68. Sano H, Takahashi K, Ambo K, Tsuda T. 1983. Turnover and oxidation rates of blood glucose and heat
+production in sheep exposed to heat. J. Dairy Sci. 66:856–61
+69. Prunier A, Messias de Bragança M, Dividich JL. 1997. Influence of high ambient temperature on
+performance of reproductive sows. Livest. Prod. Sci. 52:123–33
+70. Garriga C, Hunter RR, Amat C, Planas JM, Mitchell MA, Moreto M. 2006. Heat stress increases apical
+glucose transport in the chicken jejunum. Am. J. Physiol. 290:R195–201
+71. Hales JRS. 1973. Effects of heat stress on blood flow in respiratory and non-respiratory muscles in the
+sheep. Pflüg. Arch. Eur. J. Physiol. 345:123–30
+72. Huynh TTT, Aarnink AJA, Verstegen MWA, Gerrits WJJ, Heetkamp MJW, et al. 2005. Effects of
+increasing temperatures on physiological changes in pigs at different relative humidities. J. Anim. Sci. 83:
+1385–96
+73. Brody S. 1945. Bioenergetics and Growth. New York: Hafner
+73a. Natl. Res. Counc. 2001. Nutrient Requirements of Dairy Cattle. Washington, DC: Natl. Acad. Press.
+7th ed.
+74. Bauman DE, Currie WB. 1980. Partitioning of nutrients during pregnancy and lactation: a review of
+mechanisms involving homeostasis and homeorhesis. J. Dairy Sci. 63:1514–29
+75. Drackley JK. 1999. Biology of dairy cows during the transition period: The final frontier? J. Dairy Sci. 82:
+2259–73
+76. Bauman DE, Vernon RG. 1993. Effects of exogenous bovine somatotropin on lactation. Annu. Rev.
+Nutr. 13:437–61
+77. Rhoads RP, Kim JW, Leury BJ, Baumgard LH, Segoale N, et al. 2004. Insulin increases the abundance of
+growth hormone receptor in liver and adipose tissue of periparturient dairy cows. J. Nutr. 134:1020–27
+78. Bauman DE, Peel CJ, Steinhour WD, Reynolds PJ, Tyrrell HF, et al. 1988. Effect of bovine somato-
+tropin on metabolism of lactating dairy cows: influence on rates of irreversible loss and oxidation of
+glucose and nonesterified fatty acids. J. Nutr. 118:1031–40
+332 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+79. Dunshea FR, Bell AW, Trigg TE. 1990. Non-esterified fatty acid and glycerol kinetics and fatty acid re-
+esterification in goats during early lactation. Br. J. Nutr. 64:133–45
+80. Armstrong DT, Steele R, Altszuler N, Dunn A, Bishop JS, De Bodo RC. 1961. Regulation of plasma free
+fatty acid turnover. Am. J. Physiol. 201:9–15
+81. Bell AW. 1995. Regulation of organic nutrient metabolism during transition from late pregnancy to early
+lactation. J. Anim. Sci. 73:2804–19
+82. Galster AD, Clutter WE, Cryer PE, Collins JA, Bier DM. 1981. Epinephrine plasma thresholds for
+lipolytic effects in man: measurements of fatty acid transport with [1-13C]palmitic acid. J. Clin. Invest.
+67:1729–38
+83. Randle PJ. 1998. Regulatory interactions between lipids and carbohydrates: the glucose fatty acid cycle
+after 35 years. Diabetes Metab. Rev. 14:263–83
+84. Mersmann HJ. 1987. Nutritional and endocrinological influences on the composition of animal growth.
+Prog. Food Nutr. Sci. 11:175–201
+85. Vernon RG. 1992. Effects of diet on lipolysis and its regulation. Proc. Nutr. Soc. 51:397–408
+86. Ronchi B, Bernabucci U, Lacetera N, Verini Supplizi A, Nardone A. 1999. Distinct and common effects
+of heat stress and restricted feeding on metabolic status in Holstein heifers. Zootec. Nutr. Anim. 25:
+71–80
+87. Heroux O, Gridgeman NT. 1958. The effect of cold acclimation on the size of organs and bones of rats
+with special reference to modes of expression of results. Can. J. Biochem. Physiol. 35:2209–16
+88. Christon R. 1988. The effect of tropical ambient temperature on growth and metabolism in pigs. J. Anim.
+Sci. 66:3112–23
+89. Sanders SR, Cole LC, Flann KL, Baumgard LH, Rhoads RP. 2009. Effects of acute heat stress on skeletal
+muscle gene expression associated with energy metabolism in rats. FASEB J. 23:598.7 (Abstr.)
+90. Pearce SC, Upah NC, Harris AJ, Gabler NK, Ross JW, et al. 2011. Effects of heat stress on energetic
+metabolism in growing pigs. FASEB J. 25:1052.5 (Abstr.)
+91. Torlinska T, Banach R, Paluszak J, Gryczka-Dziadecka A. 1987. Hyperthermia effect on lipolytic
+processes in rat blood and adipose tissue. Acta Physiol. Pol. 38:361–66
+92. Moore CE, Kay JK, VanBaale MJ, Collier RJ, Baumgard LH. 2005. Effect of conjugated linoleic acid on
+heat stressed Brown Swiss and Holstein cattle. J. Dairy Sci. 88:1732–40
+93. Streffer C. 1988. Aspects of metabolic change after hyperthermia. Recent Results Cancer Res. 107:7–16
+94. Lee FS, Scott EL. 1916. The action of temperature and humidity on the working power of muscles and on
+the sugar of the blood. Am. J. Phys. 40:486–501
+95. Fink WJ, Costill DL, Van Handel PJ. 1975. Leg muscle metabolism during exercise in the heat and cold.
+Eur. J. Appl. Physiol. Occup. Physiol. 34:183–90
+96. Febbraio MA. 2001. Alterations in energy metabolism during exercise and heat stress. Sports Med.
+31:47–59
+97. Angus DJ, Febbraio MA, Lasini D, Hargreaves M. 2001. Effect of carbohydrate ingestion on glucose
+kinetics during exercise in the heat. J. Appl. Physiol. 90:601–5
+98. Wheelock JB, La Noce AJ, O’Brien MD, Sanders SR, Collier RJ, et al. 2008. The effect of heat stress and
+exogenous bovine somatotropin on expression of genes associated with hepatic gluconeogenesis in
+lactating dairy cows. J. Dairy Sci. 91(E-Suppl. 1):455 (Abstr.)
+99. O’Brien MD, Cole LC, Wheelock JB, Sanders SR, Duff GC, et al. 2008. Thermal and nutritional regula-
+tion of hepatic gluconeogenic genes in growing beef cattle. J. Anim. Sci. 86 (E-Suppl. 2):455 (Abstr.)
+100. White HM, Koser SL, Donkin SS. 2009. Regulation of bovine pyruvate carboxylase mRNA and
+promoter expression by heat stress. J. Dairy Sci. 92(E-Suppl. 1):139 (Abstr.)
+101. Rhoads RP, La Noce AJ, Wheelock JB, Baumgard LH. 2011. Short communication: alterations in
+expression of gluconeogenic genes during heat stress and exogenous bovine somatotropin adminis-
+tration. J. Dairy Sci. 94:1917–21
+102. Hall GM, Lucke JN, Lovell R, Lister D. 1980. Porcine malignant hyperthermia. VII: hepatic metabolism.
+Br. J. Anaesth. 52:11–17
+103. Rowell LB, Brengelmann GL, Blackmon JR, Twiss RD, Kusumi F. 1968. Splanchnic blood flow and
+metabolism in heat-stressed man. J. Appl. Physiol. 24:475–84
+333www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+104. Elsasser T, Rhoads R, Kahl S, Collier R, Baumgard L, et al. 2009. Heat stress augments plasma tyrosine-
+nitrated proteins and lactate-to-pyruvate ratio after repeated endotoxin (LPS) challenge in steers. J. Anim.
+Sci. 87(E-Suppl. 2):9 (Abstr.)
+105. Yaspelkis BB III, Scroop GC, Wilmore KM, Ivy JL. 1993. Carbohydrate metabolism during exercise in
+hot and thermoneutral environments. Int. J. Sports Med. 14:13–19
+106. Kronfeld DS. 1982. Major metabolic determinants of milk volume, mammary efficiency, and sponta-
+neous ketosis in dairy cows. J. Dairy Sci. 65:2204–12
+107. Willis WT, Jackman MR, Bizeau ME, Pagliassotti MJ, Hazel JR. 2000. Hyperthermia impairs liver
+mitochondrial function in vitro. Am. J. Physiol. Regul. Integr. Comp. Physiol. 278:R1240–46
+108. Ramnath V, Rekha PS, Sujatha KS. 2008. Amelioration of heat stress induced disturbances of an-
+tioxidant defense system in chicken by Brahma Rasayana. Evid. Based Compliment. Altern. Med.5:
+77–84
+109. Streffer C. 1982. Aspects of biochemical effects by hyperthermia. Natl. Cancer Inst. Monogr. 61:11–17
+110. Bernabucci U, Lacetera N, Ronchi B, Nardone A. 2002. Effects of the hot season on milk protein fractions
+in Holstein cows. Anim. Res. 51:25–33
+111. Marder J, Eylath U, Moskovitz E, Sharir R. 1990. The effect of heat exposure on blood chemistry of the
+hyperthermic rabbit. Comp. Biochem. Physiol. 97:245–47
+112. McGuire MA, Bauman DE, Miller MA, Hartnell GF. 1992. Response of somatomedins (IGF-I and
+IGF-II) in lactating cows to variations in dietary energy and protein and treatment with recombinant
+n-methionyl bovine somatotropin. J. Nutr. 122:128–36
+113. John TM, McKeown BA, George JC. 1975. Effect of thermal stress and dehydration on plasma levels of
+glucose, free fatty acids and growth hormone in the pigeon. Arch. Physiol. Biochem. 83:303–8
+114. Mitra R, Johnson HD. 1972. Growth hormone response to acute thermal exposure in cattle. Proc. Soc.
+Exp. Biol. Med. 139:1086–89
+115. Mohammed ME, Johnson HD. 1985. Effect of growth hormone on milk yields and related physiological
+functions of Holstein cows exposed to heat stress. J. Dairy Sci. 68:1123–33
+116. McGuire MA, Beede DK, Collier RJ, Buonomo FC, DeLorenzo MA, et al. 1991. Effects of acute thermal
+stress and amount of feed intake on concentrations of somatotropin, insulin-like growth factor (IGF)-I
+and IGF-II, and thyroid hormones in plasma of lactating Holstein cows. J. Anim. Sci. 69:2050–56
+117. Rhoads ML, Kim JW, Collier RJ, Crooker BA, Boisclair YR, et al. 2010. Effects of heat stress and
+nutrition on lactating Holstein cows: II. Aspects of hepatic growth hormone responsiveness. J. Dairy Sci.
+93:170–79
+118. O’Brien MD, Rhoads RP, Sanders SR, Duff GC, Baumgard LH. 2010. Metabolic adaptations to heat
+stress in growing cattle. Domest. Anim. Endocrinol. 38:86–94
+119. Itoh F, Obara Y, Rose MT, Fuse H, Hashimoto H. 1998. Insulin and glucagon secretion in lactating cows
+during heat exposure. J. Anim. Sci. 76:2182–89
+120. Achmadi J, Yanagisawa T, Sano H, Terashima Y. 1993. Pancreatic insulin secretory response and insulin
+action in heat-exposed sheep given a concentrate or roughage diet. Dom. Anim. Endocrinol. 10:279–87
+121. Li G, Ali I, Currie RW. 2006. Insulin induces myocardial protection and Hsp70 localization to plasma
+membranes in rat hearts. Am. J. Physiol. Heart Circ. Physiol. 291:H1709–21
+122. Geiger PC, Gupte AA. 2011. Heat shock proteins are important mediators of skeletal muscle insulin
+sensitivity. Exerc. Sport Sci. Rev. 39:34–42
+123. Nelson EAS, Wong Y, Yu LM, Fok TF, Li K. 2002. Effects of hyperthermia and muramyl dipeptide on
+IL-Ib, IL-6, and mortality in a neonatal rat model. Pediatr. Res. 52:886–91
+124. Shuman SH. 1972. Patterns of urban heat-wave deaths and implications for prevention: data from New
+York and St. Louis during July, 1966. Environ. Res. 5:59–75
+125. Semenza JC, McCullough JE, Flanders WD, McGeehin MA, Lumpkin JR. 1999. Excess hospital
+admissions during the July 1995 heat wave in Chicago. Am. J. Prev. Med. 16:269–77
+126. Niu CS, Lin MT, Liu IM, Cheng JT. 2003. Role of striatal glutamate in heatstroke-induced damage in
+streptozotocin-induced diabetic rats. Neurosci. Lett. 348:77–80
+127. Kokura S, Adachi S, Manabe E, Mizushima K, Hattori T, et al. 2007. Whole body hyperthermia im-
+proves obesity-induced insulin resistance in diabetic mice. Int. J. Hyperthermia 23:259–65
+334 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+128. Gupte AA, Bomhoff GL, Swerdlow RH, Geiger PC. 2009. Heat treatment improves glucose tolerance and
+prevents skeletal muscle insulin resistance in rats fed a high-fat diet. Diabetes 58:567–78
+129. McCarty MF, Barroso-Aranda J, Contreras F. 2009. Regular thermal therapy may promote insulin
+sensitivity while boosting expression of endothelial nitric oxide synthase—effects comparable to those
+of exercise training. Med. Hypotheses 73:103–5
+130. Kondo T, Koga S, Matsuyama R, Miyagawa K, Goto R, et al. 2011. Heat shock response regulates insu-
+lin sensitivity and glucose homeostasis: pathophysiological impact and therapeutic potential. Curr. Diabetes
+Rev. 7:264–69
+131. Alamer M. 2011. The role of prolactin in thermoregulation and water balance during heat stress in
+domestic ruminants. Asian J. Anim. Vet. Adv. 6:1153–69
+132. Sanz-Fernandez MV, Pearce SC, Upah NC, Long LR, Nayeri A, et al. 2012. Prolactin’s role during acute
+and chronic heat stress in growing pigs. FASEB J. 26:1079.7 (Abstr.)
+133. Iguchi M, Littmann AE, Chang SH, Wester LA, Knipper JS, Shields RK. 2012. Heat stress and car-
+diovascular, hormonal and heat shock proteins in humans. J. Athl. Train. 47:184–90
+134. Lacasse P, Lollivier V, Dessauge F, Bruckmaier RM, Ollier S, Boutinaud M. 2012. New developments on
+the galactopoietic role of prolactin in dairy ruminants. Domest. Anim. Endocrinol. 43:154–60
+135. Kaufman S, Mackay BJ. 1983. Plasma prolactin levels and body fluid deficits in the rat: causal inter-
+actions and control of water intake. J. Physiol. 336:73–81
+136. Blake MJ, Buckley AR, Zhang M, Buckley DJ, Lavoi KP. 1995. A novel heat shock response in prolactin-
+dependent Nb2 node lymphoma cells. J. Biol. Chem. 270:29614–20
+137. Foizik K, Langan EA, Paus R. 2009. Prolactin and the skin: a dermatological perspective on an ancient
+pleiotropic peptide hormone. J. Invest. Dermatol. 129:141–47
+138. Arumugam R, Horowitz E, Noland RC, Lu D, Fleenor D, Freemark M. 2010. Regulation of islet b-cell
+pyruvate metabolism: interactions of prolactin, glucose, and dexamethasone. Endocrinology 149:5401–14
+139. Ben-Jonathan N, Hugo ER, Brandebourg TD, LaPensee CR. 2006. Focus on prolactin as a metabolic
+hormone. Trends Endocrinol. Metab. 17:110–16
+140. Lambert GP. 2009. Stress-induced gastrointestinal barrier dysfunction and its inflammatory effects.
+J. Anim. Sci. 87:E101–8
+141. McGuire MA, Beede DK, DeLorenzo MA, Wilcox CJ, Huntington GB, et al. 1989. Effects of thermal
+stress and level of feed intake on portal plasma flow and net fluxes of metabolites in lactating Holstein
+cows. J. Anim. Sci. 67:1050–60
+142. Hall DM, Buettner GR, Oberley LW, Xu L, Matthes RD, Gisolfi GV. 2001. Mechanisms of circulatory
+and intestinal barrier dysfunction during whole body hyperthermia. Am. J. Physiol. Heart Circ. Physiol.
+280:H509–21
+143. Rollwagen FM, Madhavan S, Singh A, Li YY, Wolcott K, Maheshwari R. 2006. IL-6 protects enterocytes
+from hypoxia-induced apoptosis by induction of bcl-2 mRNA and reduction of fas mRNA. Biochem.
+Biophys. Res. Commun. 347:1094–98
+144. Pearce SC, Mani V, Baumgard LH, Gabler NK. 2011. Heat stress increases small intestinal permeability
+and circulating endotoxin in growing pigs. J. Anim. Sci. 89(E-Suppl. 1):683 (Abstr.)
+145. Mishra M, Martz FA, Stanley RW, Johnson HD, Campbell JR, Hilderbrand E. 1970. Effect of diet and
+ambient temperature-humidity on ruminal pH, oxidation reduction potential, ammonia and lactic acid in
+lactating cows. J. Anim. Sci. 30:1023–28
+146. Kadzere CT, Murphy MR, Silanikove N, Maltz E. 2002. Heat stress in lactating dairy cows: a review.
+Livest. Prod. Sci. 77:59–91
+147. Plaizier JC, Krause DO, Gozho GN, McBride BW. 2008. Subacute ruminal acidosis in dairy cows: the
+physiological causes, incidence and consequences. Vet. J. 176:21–31
+148. Bouchama A, Knochel JP. 2002. Heat stroke. N. Engl. J. Med. 346:1978–88
+149. Mani V, Weber TE, Baumgard LH, Gabler NK. 2012. Growth and Development Symposium:
+endotoxin, inflammation and intestinal function in livestock. J. Anim. Sci. 90:1452–65
+150. Lim CL, Wilson G, Brown L, Coombes JS, Mackinnon LT. 2007. Pre-existing inflammatory state
+compromises heat tolerance in rats exposed to heat stress. Am. J. Physiol. Regul. Integr. Comp. Physiol.
+292:R186–94
+335www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+151. Waldron MR, Kulick AE, Bell AW, Overton TR. 2006. Acute experimental mastitis is not causal toward
+the development of energy-related metabolic disorders in early postpartum dairy cows. J. Dairy Sci. 89:
+596–610
+152. Rhoads RP, Sanders SR, Cole L, Skrzypek MV, Elsasser TH, et al. 2009. Effects of heat stress on
+glucose homeostasis and metabolic response to an endotoxin challenge in Holstein steers. J. Anim. Sci.
+87(E-Suppl. 2):78 (Abstr.)
+153. Sanchez-Alavez M, Tabarean IV, Osborn O, Mitsukawa K, Schaefer J, et al. 2010. Insulin causes
+hyperthermia by direct inhibition of warm-sensitive neurons. Diabetes 59:43–50
+154. MacIver NJ, Jacobs SR, Wieman HL, Wofford JA, Coloff JL, Rathmell JC. 2008. Glucose metabolism
+in lymphocytes is a regulated process with significant effects on immune cell function and survival. J.
+Leukoc. Biol. 84:949–57
+155. Skrzypek MV, Rhoads RP, Sanders SR, Flann K, Cole L, et al. 2010. Effects of heat stress on insulin
+action in lactating Holstein cows. J. Dairy Sci. 93(E-Suppl.)1:868 (Abstr.)
+156. Cole L, Skrzypek MV, Sanders SR, Baumgard LH, Rhoads RP. 2011. Effects of heat stress on skeletal
+muscle insulin responsiveness in lactating Holstein cows. J. Dairy Sci. 94(E-Suppl. 1):95
+157. Freymond D, Dériaz O, Frascarolo P, Reiz S, Jéquier E, Urwyler A. 2000. In vivo whole-body resting
+energy expenditure and insulin action in human malignant hyperthermia. Anesthesiology 93:39–47
+158. Zhao FQ, Keating AF. 2007. Expression and regulation of glucose transporters in the bovine mammary
+gland. J. Dairy Sci. 90:E76–86
+159. Ahmed N, Berridge MV. 1998. Transforming oncogenes regulate glucose transport by increasing
+transporter affinity for glucose: contrasting effects of oncogenes and heat stress in a murine marrow-
+derived cell line. Life Sci. 63:1887–903
+160. Sussman CR, Renfro JL. 1997. Heat shock-induced protection and enhancement of Naþ-glucose co-
+transport by LLC-PK1 monolayers. Am. J. Physiol. 273:F530–37
+161. Dickson JA, Calderwood SK. 1979. Effects of hyperglycemia and hyperthermia on the pH, glycolysis,
+and respiration of the Yoshida sarcoma in vivo. J. Natl. Cancer Inst. 63:1371–81
+162. Mirtsch S, Streffer C, Van Beuningen D, Rebmann A. 1984. ATP metabolism in human melanoma cells
+after treatment with hyperthermia. In Hyperthermic Oncology, ed. J Overgaard, pp. 19–22. London:
+Taylor & Francis
+163. Harris RA, Bowker-Kinley MM, Huang B, Wu P. 2002. Regulation of the activity of PDH complex. Adv.
+Enzyme Regul. 42:249–59
+164. Sugden MC, Holness MJ. 2006. Mechanisms underlying regulation of the expression and activities of the
+mammalian PDH kinases. Arch. Physiol. Biochem. 112:139–49
+165. Alamdari N, Colnstantin-Teodosiu D, Murton AJ, Gardiner SM, Bennett T, et al. 2008. Temporal
+changes in the involvement of pyruvate dehydrogenase complex in muscle lactate accumulation during
+lipopolysaccharide infusion in rats. J. Physiol. 586:1767–75
+166. Pouyssegur J, Mechta-Grigoriou F. 2006. Redox regulation of the hypoxia-inducible factor. Biol. Chem.
+387:1337–46
+167. Papandreou I, Cairns RA, Fontana L, Lim AL, Denko DC. 2006. HIF-1 mediates adaptation to hypoxia
+by actively downregulating mitochondrial oxygen consumption. Cell Metab. 3:187–97
+168. Jackson IL, Batinic-Haberle I, Sonveaux P, Dewhirst MW, Vulaskovic Z. 2006. ROS production and
+angiogenic regulation by macrophages in response to heat therapy. Int. J. Hyperthermia 22:263–73
+169. Horowitz M, Assadi H. 2010. Heat acclimation-mediated cross-tolerance in cardioprotection: Do
+HSP70 and HIF-1a play a role? Ann. N.Y. Acad. Sci. 1188:199–206
+170. Won SGL, Xie G, Boddicker RL, Rhoades JN, Lucy MC, et al. 2012. Acute duration heat stress alters
+expression of cellular bioenergetic-associated genes in skeletal muscle of growing pigs. J. Anim. Sci.Inpress
+171. Davidson JF, Schiestl RH. 2001. Mitochondrial respiratory electron carriers are involved in oxidative
+stress during heat stress in Saccharomyces cerevisiae. Mol. Cell. Biol. 24:8483–89
+172. Qian L, Song X, Ren H, Gong J, Cheng S. 2004. Mitochondrial mechanism of heat stress induced injury in
+rat cardiomyocyte. Cell Stress Chaperones 9:281–93
+173. Hsu YD, Chen SS, Lee WH, Lin SZ, Kao MC, Tsao WL. 1995. Mitochondrial alterations of skeletal
+muscle in a heat stress rat model. Proc. Natl. Sci. Counc. Repub. China B 19:233–39
+336 Baumgard /C15 Rhoads
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+174. Lewandowska A, Gierszewska M, Marszalek J, Liberek K. 2006. Hsp78 chaperone functions in res-
+toration of mitochondrial network following heat stress. Biochim. Biophys. Acta 1763:141–51
+175. Qian L, Wu MP, Chen XJ, Cheng SQ. 1992. The changes of ATP content in ventricle myocytes of heat
+shocked rats and its mechanism. Chin. J. Ind. Hyg. Occup. Dis. 10:233–36
+176. Song XL, Qian LJ, Li FZ. 2000. Injury of heat-stress to rat cardiomyocytes. Chin. J. Appl. Physiol.
+16:227–30
+177. Hubbard RW. 1990. Heatstroke pathophysiology: the energy depletion model. Med. Sci. Sports Exerc.
+22:19–28
+178. Van Hall G. 2010. Lactate kinetics in human tissues at rest and during exercise. Acta Physiol. 199:499–
+508
+179. Berg JM, Tymoczko JL, Stryer L. 2007. Biochemistry. New York: W.H. Freeman. 6th ed.
+180. Teague CR, Dhabhar FS, Barton RH, Beckwith-Hall B, Powell J, et al. 2007. Metabonomic studies on
+the physiological effects of acute and chronic psychological stress in Sprague-Dawley rats. J. Proteome
+Res. 6:2080–93
+181. Brooks GA. 2009. Cell-cell and intracellular lactate shuttles. J. Physiol. 587:5591–600
+182. Kim WJ, Dang CV. 2006. Cancer’s molecular sweet tooth and the Warburg effect. Cancer Res. 66:
+8927–30
+183. Baumgard LH, Rhoads RP. 2012. Ruminant Nutrition Symposium: ruminant production and metabolic
+responses to heat stress. J. Anim. Sci. 90:1855–65
+184. Brooks GA. 2007. Lactate, link between glycolytic and oxidative metabolism. Sports Med. 37:341–43
+185. Tannahill GM, O’Neill LAJ. 2011. The emerging role of metabolic regulation in the functioning of Toll-
+like receptors and the NOD-like receptor Nlrp3. FEBS Lett. 585:1568–72
+186. Mizock B. 1995. Alterations in carbohydrate metabolism during stress: a review of the literature. Am. J.
+Med. 98:75–84
+187. Plank LD, Connolly AB, Hill GL. 1998. Sequential changes in the metabolic response in severely septic
+patients during the first 23 days after the onset of peritonitis. Ann. Surg. 228:146–58
+188. Rahimi G. 2005. Effect of heat shock at early growth phase on glucose and calcium regulating axis in
+broiler chickens. Int. J. Poult. Sci. 4:790–94
+189. Settivari RS, Spain JN, Ellersieck MR, Byatt JC, Collier RJ, Spiers DE. 2007. Relationship of thermal
+status to productivity in heat-stressed dairy cows given recombinant bovine somatotropin. J. Dairy Sci.
+90:1265–80
+190. Ikari A. Nakano N, Suketa Y, Harada H, Takagi K. 2005. Reorganization of ZO-1 by sodium-
+dependent glucose transporter activation after heat stress in LLC-PK1 cells. J. Cell. Physiol.
+203:471–78
+191. Allen RE. 1988. Muscle growth and development. In Designing Foods. Animal Product Options in the
+Marketplace, ed. C Carlson, pp. 142–62. Washington, DC: Natl. Acad. Press
+192. Roti Roti JL. 2008. Cellular responses to hyperthermia (40–46/C176C): cell killing and molecular events.
+Int. J. Hyperthermia 24:3–15
+337www.annualreviews.org /C15 Energetics of Heat Stress
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+Annual Review of
+Animal Biosciences
+Volume 1, 2013 Contents
+After 65 Years, Research Is Still Fun
+William Hansel ............................................. 1
+Cross Talk Between Animal and Human Influenza Viruses
+Makoto Ozawa and Yoshihiro Kawaoka ......................... 21
+Porcine Circovirus Type 2 (PCV2): Pathogenesis and Interaction with
+the Immune System
+Xiang-Jin Meng ............................................ 43
+Evolution of B Cell Immunity
+David Parra, Fumio Takizawa, and J. Oriol Sunyer .................. 65
+Comparative Biology of gd T Cell Function in Humans, Mice,
+and Domestic Animals
+Jeff Holderness, Jodi F. Hedges, Andrew Ramstead,
+and Mark A. Jutila .......................................... 99
+Genetics of Pigmentation in Dogs and Cats
+Christopher B. Kaelin and Gregory S. Barsh ...................... 125
+Cats: A Gold Mine for Ophthalmology
+Kristina Narfström, Koren Holland Deckman,
+and Marilyn Menotti-Raymond ............................... 157
+Comparative Aspects of Mammary Gland Development and
+Homeostasis
+Anthony V. Capuco and Steven E. Ellis .......................... 179
+Genetically Engineered Pig Models for Human Diseases
+Randall S. Prather, Monique Lorson, Jason W. Ross,
+Jeffrey J. Whyte, and Eric Walters .............................. 203
+Accelerating Improvement of Livestock with Genomic Selection
+Theo Meuwissen, Ben Hayes, and Mike Goddard .................. 221
+vi
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.
+
+Integrated Genomic Approaches to Enhance Genetic Resistance
+in Chickens
+Hans H. Cheng, Pete Kaiser, and Susan J. Lamont ..................239
+Conservation Genomics of Threatened Animal Species
+Cynthia C. Steiner, Andrea S. Putnam, Paquita E.A. Hoeck,
+and Oliver A. Ryder ........................................261
+Phytase, A New Life for an “Old” Enzyme
+Xin Gen Lei, Jeremy D. Weaver, Edward Mullaney, Abul H. Ullah,
+and Michael J. Azain .......................................283
+Effects of Heat Stress on Post-Absorptive Metabolism and Energetics
+Lance H. Baumgard and Robert P. Rhoads Jr. ....................311
+Epigenetics: Setting Up Lifetime Production of Cows by Managing
+Nutrition
+R.N. Funston and A.F. Summers ...............................339
+Systems Physiology in Dairy Cattle: Nutritional Genomics
+and Beyond
+Juan J. Loor, Massimo Bionaz, and James K. Drackley ..............365
+In Vivo and In Vitro Environmental Effects on Mammalian
+Oocyte Quality
+Rebecca L. Krisher .........................................393
+The Equine Endometrial Cup Reaction: A Fetomaternal Signal
+of Significance
+D.F. Antczak, Amanda M. de Mestre, Sandra Wilsher,
+and W.R. Allen ...........................................419
+The Evolution of Epitheliochorial Placentation
+Anthony M. Carter and Allen C. Enders .........................443
+The Role of Productivity in Improving the Environmental Sustainability
+of Ruminant Production Systems
+Judith L. Capper and Dale E. Bauman ..........................469
+Making Slaughterhouses More Humane for Cattle, Pigs, and Sheep
+Temple Grandin ...........................................491
+Contents vii
+Annu. Rev. Anim. Biosci. 2013.1:311-337. Downloaded from www.annualreviews.org
+by Iowa State University on 02/27/13. For personal use only.

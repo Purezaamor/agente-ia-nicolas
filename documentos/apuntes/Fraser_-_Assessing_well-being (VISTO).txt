@@ -1,0 +1,729 @@
+=== Fuente: Fraser_-_Assessing_well-being (VISTO).pdf ===
+
+37
+ASSESSING ANIMAL WELL-BEING:
+COMMON SENSE, UNCOMMON SCIENCE
+David Fraser
+Research Scientist
+Centre for Food and Animal Research
+Agriculture Canada
+Summary
+The scientific assessment of the well-being of an animal involves
+finding indicators of three broad criteria: 1) a high level of biological
+functioning; 2) freedom from suffering in the sense of prolonged fear,
+pain, and other negative experiences; and 3) positive experiences such
+as comfort and contentment. The tools available to assess animal well-
+being include a mixture of common sense and cutting-edge science.
+Measures of animal productivity can help to assess an animal’s level of
+biological functioning, but they need to be used with care. Among
+veterinary approaches, pathology detects breakdown in biological
+functioning, while epidemiology identifies the circumstances under
+which such breakdown is likely to occur. Useful physiological ap-
+proaches include 1) “pre-pathological” states such as reduced immune
+competence, which are predictive of breakdown of biological function-
+ing, and 2) corroborative measures of short-term negative experiences
+such as fear and pain. Behavioral approaches include the study of
+abnormal behavior, expression of emotions, environmental preference
+tests, and various approaches to studying motivation strength, which
+provide insights into the animals’ positive and negative reactions to its
+environment. As well as contributing to the assessment of well-being,
+research is needed on how well-being is related to values, economics,
+and regulation. Research must also support the development of alterna-
+tive housing and management systems which will be positive for both
+animals and animal producers.
+Introduction: Values and Goals in Research on
+Animal Well-Being
+To paraphrase Broom (1988, 1991), the “welfare” of an animal can be
+defined as:
+its state as regards its attempts to cope with its environment, and refers
+to how much has to be done to cope, and how well or how badly coping
+attempts succeed.
+38
+Broom (1988) also states that the welfare of an individual can be assessed
+precisely in a scientific way, without the involvement of moral considerations.
+It is instructive to compare this definition with definitions of other scientific
+terms, such as “viscosity,”
+a property of liquids that causes them to resist flowing as a result of
+internal friction from the fluid’s molecules, usually measured by letting
+the fluid flow through a narrow capillary tube,
+or “basal metabolic rate,”
+the rate of energy expenditure of an animal at rest, often expressed as
+the output of Calories per unit of body surface per hour.
+On the surface, the definition of “animal welfare” (or “animal well-being,” to
+follow the convention I am adopting1) sounds much like the definitions of
+viscosity or basal metabolic rate, but a little reflection reveals that it really tells
+us very little about what animal well-being involves or how it can be assessed or
+expressed.
+The inadequacy of such definitions is perhaps best explained by Tannenbaum
+(1991), who argues that we cannot treat animal well-being simply as a scientific
+variable because it is a concept where values are inextricably involved.
+Tannenbaum points out, first, that in any normal sense of the word, well-being is
+inherently value-laden because, unlike viscosity or metabolic rate, it implies
+something conducive to a better or preferable life. Second, the different defini-
+tions of animal well-being proposed by scientists involve differences in values.
+Whether well-being requires merely “absence of suffering” (i.e., absence of
+certain negative conditions) or “complete mental and physical health” (a much
+more demanding criterion) involves a value judgement on what is important for
+a better or preferable life. Third, human values and biases are inextricably
+entwined with the scientific assessment of well-being because the measures we
+choose, and how we interpret them, depend on what we feel is important for
+animal well-being. This does not mean that we cannot do objective scientific
+studies in assessing well-being. For example, housing sows in raised farrowing
+crates has many different effects (on piglet survival, plasma cortisol levels in the
+sow, farrowing behavior, disease transmission, and so on) which we can study
+as objectively as other scientific variables; but how we use them to interpret
+well-being, and even which ones we choose to study, reflect a value judgement
+on what we feel is important for the well-being of animals.
+1 Confusion over when to use “animal welfare” versus “animal well-being” continues to dog
+discussions such as this. I perceive four approaches. The lexical approach considers “welfare” and “well-
+being” interchangeable, as supported by dictionary definitions. The timorous approach uses “well-being”
+because “welfare” sounds like a political hot potato. The subtle approach (suggested to me by Jerrold
+Tannenbaum) recognizes different shades of meaning, with “welfare” referring more to the long-term good
+of the animal and “well-being” referring more to the animal’s short-term state, especially how the animal
+feels; thus, a painful vaccination may enhance an animal’s welfare but reduce its feelings of well-being.
+The pragmatic approach tries to reduce confusion by using “well-being” to refer to the state of the animal
+and “animal welfare” to refer to the broader constellation of social and ethical issues. I will follow the
+pragmatic approach, except when quoting or discussing the work of others who use a different convention.
+39
+It follows that in order to decide how to assess the well-being of animals, we
+first need to decide what we hold as the important components of well-being. As
+space precludes a detailed discussion of this fundamental issue, I will simply
+outline three broad criteria intended to incorporate the thinking of many other
+workers.
+First, well-being2 implies a high level of biological functioning. The animals
+should be free from disease, injury, and malnutrition. They should be thriving,
+without significant checks on normal growth, and without reliance on pharma-
+ceutical intervention to compensate for unsuitable environments. An unresolved
+issue is whether the animals should also be free from genetic traits, produced by
+selective breeding, which interfere with normal health and functioning.
+Second, well-being implies freedom from suffering in the sense of prolonged
+pain, fear, distress, discomfort, hunger, thirst, and other negative experiences.
+Short-term negative states, such as short-term pain, hunger, and anxiety, are
+virtually inevitable in animal life, and the border-line between acceptable and
+unacceptable will remain a source of debate.
+Third, well-being implies that the animals should have positive experiences,
+such as comfort and contentment, and freedom to engage in presumably pleasur-
+able activities, such as play and exploration. This aspect is likely to cause the
+most controversy. Animal welfare scientists recognize the difficulty of studying
+positive states such as contentment (Fraser and Broom, 1990). Scientists in the
+behaviorist tradition may dismiss such states as outside the realm of science or
+deny that animals experience such states at all (Rollin, 1990). On the other hand,
+many people who have worked closely with animals consider it ludicrous to
+deny, for example, that dogs enjoy playing or that cats derive pleasure from
+being stroked. For such people, depriving animals of pleasure is one of the
+fundamental issues in animal well-being (see Harrison, 1964). Hence, despite
+the difficulty of studying states such as contentment, we cannot realistically
+exclude them from our criteria for well-being.
+Thus, we can conceptualize the assessment of animal well-being as three
+goals, summarized in the three columns of Figure 1: recognizing a high level of
+biological functioning, detecting suffering or other negative experiences, and
+detecting contentment and other positive experiences. The following sections
+review the scientific tools commonly used to achieve these three goals.
+2 Another linguistic clarification: Here I am using “well-being” in the dictionary sense of a good or
+satisfactory condition of existence. Elsewhere I refer to a certain “level of” well-being and thus use the
+word for a kind of continuum, running from high to low, pertaining to how good or satisfactory an animal’s
+condition is. This may occasionally cause confusion, but, as Broom (1988) clearly recognized, we do not
+have any suitable term for the continuum, and using “well-being” in this dual sense fills the need. A
+comforting precedent is the word “health,” which means both 1) freedom from illness and injury and 2) the
+general condition of an organism with reference to freedom from illness and injury.
+40
+Contentment and
+other positive
+experiences
+Suffering and
+other negative
+experiences
+Biological
+functioning
+Individual productivity
+Pathology
+Epidemiology
+Pre-pathological states
+Behavioral
+approaches
+Veterinary
+approaches
+Productivity
+measures
+Physiological
+approaches Selye's hypothesis
+Short-term
+corroborative measures
+Abnormal behavior
+Expression of emotions
+Preference and motivational testing
+Aversion testing
+replaced by
+Figure 1.
+A conceptual framework in which the assessment of animal well-being is seen as three goals:
+recognizing a high level of biological functioning, detecting suffering and other negative
+experiences, and detecting contentment and other positive experiences. Scientific approaches are
+placed according to their primary contribution, with arrows indicating additional implications.
+Brief summary:  Individual productivity can reflect biological functioning, with reductions in
+productivity having possible implications for suffering and other negative experiences. Pathology
+indicates breakdown in biological functioning, with likely implications for suffering. Epidemiology,
+by identifying conditions conducive to disease, not only detects biological breakdown, but also
+situations likely to involve suffering or discomfort which have not yet led to clear pathology. Selye’s
+(1950) hypothesis saw the General Adaptation Syndrome as a non-specific response to “stress,”
+including both biological challenge and negative psychological states. Moberg (1987) advocates
+identifying “pre-pathological states,” predictive of some breakdown in biological functioning.
+Physiological measures of short-term arousal (e.g., increased heart rate) can also be used to
+corroborate and quantify negative experiences (e.g., fear). Abnormal behavior is a form of biological
+breakdown generally thought to be caused by negative psychological states. Expressions of emotions
+and testing of animal preferences and motivation reflect both positive and negative experiences of
+animals. Aversion testing detects negative experiences. Assuming that emotions, preferences, and
+aversions help animals to avoid unfavorable situations, these measures also have likely implications
+for avoiding breakdown of biological functioning.
+41
+Productivity and Well-Being
+In agricultural contexts, productivity measures such as rate of growth or
+reproduction are traditional indicators of biological functioning, and those who
+identify well-being closely with biological functioning may argue that high
+productivity is by itself adequate assurance of a high state of well-being. The
+link between well-being and productivity is probably very real at low levels of
+productivity, where depressed health, growth, reproduction, and survival
+indicate significant problems with normal functioning, and Hurnik (1993) argues
+that longevity effectively integrates many different aspects of biological
+functioning. Up to a point, then, agriculturalists are right to hold that improved
+survival and growth, achieved through changes such as improved nutrition and
+protection from harsh weather, indicate positive contributions to well-being.
+However, productivity measures must be used with great caution. Consider,
+for example, a standard cage for laying hens measuring 30.5 by 50.8 cm. As the
+number of birds per cage is increased from three to five, productivity per bird is
+depressed and the mortality rate increases (Adams and Craig, 1985), clearly
+indicating reduced well-being. Nonetheless, calculations show that the most
+profitable stocking rate is often four birds and occasionally even five birds per
+cage, depending on the relative costs of eggs, feed, and birds (Adams and Craig,
+1985; Roush, 1986). The relationship between productivity and well-being is
+also obscured by many confounding factors (Sambraus, 1981b), including use of
+antibiotics to avoid disease in sub-optimal environments and strong genetic
+selection for certain productivity traits which may have weakened the link
+between these traits and other aspects of biological functioning. Luescher et al.
+(1989) distinguish between “economic performance” (i.e., performance with
+respect to specific economically important production traits) and broader
+“biological performance,” and note that the two are not always compatible.
+Perhaps because productivity arguments are often misused to support the
+status quo, they have been ignored too often in assessing alternative manage-
+ment systems. Most piglet deaths occur either from starvation or accidental
+injury, both of which are obvious animal welfare problems. Alternative manage-
+ment systems are sometimes proposed as high-welfare systems, even though
+they involve a much higher level of piglet mortality than would be seen on a
+well-run confinement unit (e.g., Kerr et al., 1988). In such cases, productivity
+measures have arguably received too little attention as welfare indicators. With
+suitable research and development, such alternatives may well become high-
+welfare systems, but such a claim seems premature when glaring problems
+remain in productivity-related indicators of well-being.
+Veterinary Approaches
+Traditional veterinary studies of the incidence of disease and injury are
+obvious indicators of biological functioning.
+Pathology is the study of failure of biological functioning. Examples relevant
+to the assessment of well-being include studies linking injury to housing
+conditions (e.g., Edwards and Lightfoot, 1986; Furniss et al., 1986),
+42
+respiratory tract lesions to air quality (e.g., Anderson et al., 1968), and gastro-
+intestinal lesions to management and nutritional factors (e.g., Muggenburg et al.,
+1967). Studies of foot abnormalities, plumage condition, and accidental death
+have led to significant changes in poultry cage design which have improved both
+well-being and productivity (e.g., Tauson, 1984, 1985).
+Epidemiology goes further by identifying circumstances in which certain
+failures in biological functioning are likely to occur. In a pioneering study,
+Bäckström (1973) surveyed Swedish swine herds and found that mortality and
+disease rates were related to such management variables as the type of flooring,
+manure handling system, and degree of confinement of the sow. Numerous
+studies have shown that the incidence of bovine mastitis is influenced by the
+physical environment, including stall length and width, drafts, use and type of
+bedding, use of cow trainers, and restriction of movement by tying or manger
+design (International Dairy Federation, 1987). The best such studies use the
+statistical sophistication of modern epidemiology to identify and explore
+interactions among relevant factors. For example, Martin (1983) showed that the
+likelihood of calves developing bovine respiratory disease is increased by
+mixing calves from different farms, by large group size, by certain changes of
+diet, and by early exposure to the stress of castration and dehorning.
+Physiological Approaches
+It has been recognized at least since the work of Cannon (1929) that physio-
+logical events reflect an animal’s emotional state. The “physiology of stress”
+received a major impetus from a bold hypothesis by Selye (1950), who found
+that a variety of what he called “stressors,” including physical restraint, exposure
+to cold, and injection of harmful substances, produced several characteristic
+bodily changes. These were hypertrophy of the adrenal glands, involution of the
+thymus and lymph nodes, and gastric ulcers, which Selye grouped under the
+name “General Adaptation Syndrome.” Selye theorized that the activation of the
+anterior pituitary and adrenal cortex, with increased secretion of the hormone
+ACTH and glucocorticoids, had (in the words of Mason, 1968) “a unique, pre-
+eminent, and non-specific” relation to stress. Thus it appeared that the General
+Adaptation Syndrome would reflect both challenges to biological functioning
+and unpleasant psychological states. Applied workers seized on this hypothesis,
+with the result that increased secretion of glucocorticoids and changed respon-
+siveness of the adrenal cortex to ACTH have been widely used as alleged
+measures of stress in a wide range of studies of animal housing and management
+methods (e.g., reviews by Dantzer and Mormède, 1983; Moberg, 1987; Barnett
+and Hemsworth, 1990; Rushen and de Passillé, 1992).
+Selye’s “General Adaptation Syndrome” was not a beautiful theory murdered
+by ugly facts, but rather a starry-eyed simplification jilted by the complexities of
+real life. The uncooperative complexities number at least five.
+First is the sheer complexity of physiological responses to distressing events.
+Classical stressors affect not only the adrenal cortex but practically all major
+endocrine systems of the body (Mason, 1968) together with other widespread
+effects on reproduction, immunity, and metabolism (Moberg, 1985).
+43
+For example, Farmer et al. (1991) showed that acute restraint of pigs leads to
+changes in all of the seven hormones they studied, each following its own
+temporal pattern.
+Second, increased glucocorticoid output is not specific to unpleasant situa-
+tions (Moberg, 1985). It can also occur after exposure to a novel environment
+(Dantzer and Mormède, 1983), after exercise (Arave et al., 1978), and after
+such presumably pleasant activities as mating and nursing (see Rushen and
+de Passillé, 1992).
+Third, the non-specific nature of the glucocorticoid response to bodily
+challenge seems to have been misconstrued. Work by Mason and others (see
+Dantzer and Mormède, 1983; Moberg, 1985) has shown that glucocorticoid
+secretion is increased by a wide range of stressors (e.g., cold, heat, fasting)
+mainly because the experimental situation generally evokes an emotional
+reaction in the animal. If the emotional reaction is eliminated, then the increased
+glucocorticoid secretion may not occur. For example, chronic exposure of dairy
+cattle to high temperatures actually reduces corticosteroid output if the exposure
+is done gradually and without emotional upset (Dantzer and Mormède, 1983).
+Fourth is a technical difficulty identified by Ladewig and Smidt (1989), who
+pointed out that cortisol secretion is strongly pulsatile. In their study, bulls
+tethered in a housing system which interfered with normal resting behavior had
+higher peaks of cortisol secretion compared to controls, but the pulses of cortisol
+release were fewer in number. Ladewig and Smidt noted that it is not clear
+whether bodily responses to cortisol depend on the height of the peaks, the
+frequency of the pulses, or the average circulating levels. Hence, simple mea-
+sures of cortisol output, which generally involve “average” levels over time
+periods which may involve peaks, troughs, or both, are difficult to interpret.
+Finally, glucocorticoid secretion has given disappointing results when used to
+reflect long-term effects of housing. For hens in battery cages, compared with
+hens in pens, corticosteroid levels are reported to be higher, lower, or the same,
+depending on the study (Rushen, 1991). Ladewig and Smidt (1989) found that
+the altered secretory patterns of cortisol in bulls had returned to normal levels
+after four weeks of tethering in uncomfortable stalls despite other evidence of
+continued discomfort.
+From Selye’s bold position, Moberg (1985, 1987) and other physiologists
+have sounded a prudent retreat. Because of the difficulties in interpreting
+changes in physiological variables such as glucocorticoid secretion, Moberg
+(1985, 1987) has suggested the use of “pre-pathological states” as a more useful
+index of well-being. Moberg notes that the biological changes induced by
+stressors sometimes lead to a clear pathology, such as clinical disease, failure of
+reproduction, or outbreaks of harmful behavior. However, such extreme break-
+down of normal functioning is preceded by some “pre-pathological” condition,
+such as reduction of immune competence, suppression of an endocrine response
+fundamental to reproduction, or display of increased social aggression. Moberg
+(1987) considers that the full-blown pathological state is not a humane or a
+practical measure of impaired well-being, and he recommends the occurrence
+of pre-pathological states as an indicator of likely or incipient breakdown  in
+biological functioning.
+44
+Suppression of immune competence is one of the best studied forms of pre-
+pathological state, and many different physiological responses to stressors
+impact in different ways on the immune system (Kelley, 1985; Griffin, 1989).
+Kelley (1985) suggests that events in the immune system effectively integrate
+the various hormonal and neurotransmitter responses to environmental change,
+and recommends such events as more realistic indices than traditional measures
+of blood hormone levels.
+A second important application of physiological measures, stemming more
+directly from the work of Cannon, involves short-term indices of emotional
+upset. For example, the traditional method of catching broiler chickens for
+shipping to market has been for a handler to walk into the broiler pens, catch a
+number of birds, and carry them by the legs to the shipping cages. A relatively
+new alternative is the mechanical broiler harvester, a large machine that moves
+through the pens, catches birds in rotating arms, and transfers them to the cages
+by conveyor belt. When the broiler harvester first appeared in Britain, there was
+concern that the machine was inhumane. However, a radio telemetry study
+showed that the heart rate of birds loaded by the harvester returned to normal
+more rapidly than that of birds caught by human handlers. This, combined with
+behavioral measures of fear, suggested that the birds experienced less upset
+when moved by the machine (Duncan et al., 1986). On this basis, animal welfare
+advocates in Britain have begun supporting the use of broiler harvesters as a
+humane alternative to manual catching.
+In cases such as this, the physiological measures (increased heart rate,
+increased catecholamine secretion, etc.) do not by themselves indicate that the
+animal is undergoing an unpleasant experience. However, where there is reason
+to believe that a short-term event does produce fear, pain, or other unpleasant
+states, physiological measures are useful to corroborate and quantify the
+animal’s reactions. In fact, the increased corticosteroid output of Selye’s
+syndrome might best be seen in the same way.
+Thus we see a significant shift in the perceived relationship between physio-
+logical measures and well-being. Selye’s early theorizing led people to think
+that we can detect all manner of unpleasant psychological states and challenges
+to biological functioning on the basis of increased activation of the hypotha-
+lamic-pituitary-adrenocortical system. Instead, contemporary physiologists such
+as Moberg suggest that physiological indices should be used more conserva-
+tively, as indicators of likely or incipient breakdown in biological functioning,
+together with corroborative use of physiological measures to quantify reactions
+to short-term events believed to be detrimental to well-being.
+Behavioral Approaches
+Moberg’s proposal, that we should consider well-being impaired only when a
+change is a likely precursor to pathology, is a sensible one for dealing with
+physiological changes that cannot be interpreted by themselves in terms of well-
+being. With behavior the situation is quite different. Consider an animal con-
+fined in a small cage, where it makes loud, plaintive calls; develops repetitive,
+stereotyped movement patterns; and escapes whenever the door is open. Here
+45
+we recognize, or can determine from simple experiments, that the animal finds
+the confinement aversive. In such cases, behavior provides a more direct
+window on the animal’s own perceptions of events. For this and other reasons,
+the study of behavior has become central to understanding animal well-being,
+and a number of research approaches have emerged.
+Abnormal Behavior
+For animals kept on farms or in zoos, abnormal activities, such as self-
+mutilation, extreme aggression, or behavior that appears to denote depression,
+are among the most persuasive indicators of impaired well-being (Sambraus,
+1981a). Tail-biting by pigs is one of many forms of abnormal behavior thought
+to result from a mismatch between the animal’s natural behavior and restrictive
+environments (Sambraus, 1985; Wiepkema, 1990). An explanatory hypothesis
+for tail-biting (Figure 2) illustrates the complex links between this behavior and
+Figure 2.
+Proposed explanatory model of tail-biting outbreaks by pigs, accounting for the wide range of
+environmental, management, and dietary factors that are believed to contribute to tail-biting (based
+on Fraser, 1987). (The more speculative relationships are shown as broken arrows.)
+BEHAVIORAL PHENOMENA
+Increased attraction to
+chewable parts of pen-mates
+Increased exposure to pen-mates
+bodies
+Increases opportunity to Imitate an
+established biter
+General increase in activity
+including tail-chewing
+Apathetic response by victim
+Increased attraction to blood
+After Injury
+MANAGEMENT FACTORS
+Before and after injury
+Lack of chewable objects
+Large group size
+Crowding
+Poor feed availability
+Poor ventilation
+Themal discomfort,etc.
+Poor health
+Inadequate dietary salt
+Inadequate dietary protein
+Dietary monotony
+46
+well-being. According to the hypothesis, the natural foraging and exploratory
+activities of pigs include rooting and chewing objects in the environment, and
+the animals direct this behavior to their pen-mates if more suitable substrates are
+not available. Most of this behavior is harmless, but the amount or intensity of
+the behavior can be increased by many factors, such as crowding, hunger, or
+discomfort, which increase restless activity. Once the behavior has led to a
+bleeding injury, any extreme attraction to the taste of blood, which can result
+from diets deficient in salt or protein, may cause the tail-biting to escalate. Thus,
+a high incidence of tail-biting can reflect many different problems in the
+animal’s environment, diet, and management (Fraser, 1987). Like many other
+types of abnormal behavior, tail-biting is also a cause of reduced well-being
+among recipient animals and a source of important losses in productivity; hence,
+the behavior is linked to animal well-being in numerous ways (Luescher et al.,
+1989).
+Expressions of Emotions
+Another approach involves identifying behavioral signs of pain, fear, frustra-
+tion, and other negative emotions (Sambraus, 1981b). For example, Duncan
+(1970) conducted experiments in which chickens were systematically frustrated
+in various ways under controlled conditions. This allowed him to identify certain
+signs of frustration in this species (especially displacement preening, increased
+aggression, and stereotyped pacing) and then search for these signs of frustration
+under normal husbandry conditions. More recently it has been shown that laying
+hens have a call that is given in response to frustrating situations, the intensity of
+which appears to correspond to the strength of the frustrated motivation
+(Wiepkema, 1990).
+Environmental Preference Testing
+One of the most powerful arguments in debates over animal well-being is that
+the animal itself prefers one environment over another (Duncan, 1978). For
+example, soon after a British government committee had recommended that
+hens in battery cages should not be housed on fine-gauge hexagonal “chicken
+wire” floors, Hughes and Black (1973) allowed hens to choose among different
+floor types and showed that the hens actually tended to prefer the fine wire
+flooring over other alternatives.
+Since that early experiment, preference testing has been widely used in
+research on animal well-being, but there have been important shifts in the
+paradigm, including a move away from overly simplistic questions. In the
+1970’s it might have seemed reasonable to ask whether pigs prefer straw-bedded
+pens ahead of pens with bare concrete floors. Research in the intervening years
+has shown that pigs do prefer strawed areas for rooting and exploration, are
+indifferent to bedding when engaged in activities such as eating and drinking,
+and either prefer or avoid straw-covered floors for resting, depending on the
+ambient temperature (see Fraser et al., 1993). Also, because of diurnal patterns
+in these activities, preference for straw varies with the time of day. Thus, instead
+of asking simple, global questions (e.g., Do pigs prefer straw-bedded pens?), we
+47
+need to ask more complex and specific questions that intercept the animals’
+natural behavior in more subtle ways. As questions have become more complex,
+response measures have become more comprehensive, and experiments have
+come to require more complex designs and controls (Fraser et al., 1993).
+Furthermore, there has been some trend away from making superficial, empiri-
+cal comparisons and toward using preference testing to get at the principles
+underlying the animals’ preferences. Thus, instead of asking whether pigs prefer
+one floor type or another, some work tries to identify the features used by the
+animals in making their choices (Farmer and Christison, 1982).
+Preference testing has a number of limitations which have been reviewed by
+Dawkins (1980), Duncan (1992), and Fraser et al. (1993). A major shortcoming
+is that preference testing does not indicate the degree of importance that the
+animal attaches to the preferred option. Depending on what alternatives are
+offered, both the preferred and unpreferred options may be perfectly acceptable,
+or both may be seriously deficient. To deal with this problem, we need to
+measure the strength of the animal’s attraction to the preferred option or
+aversion to the unpreferred. For example, after earlier work had shown that hens
+generally prefer litter ahead of wire floors, Dawkins and Beardsley (1986)
+attempted to determine the strength of the preference by requiring hens to
+perform a task in order to gain access to litter.
+Experiments can also titrate an unknown motivation against a known motiva-
+tion that can be manipulated. For example, Dawkins (1983) trained hens to enter
+two cages from a common choice point. One cage contained litter (to permit
+dust-bathing) but no food, while the other contained food but no litter. The hens
+were then required to choose between the two cages after different periods of
+food deprivation. In principle, this procedure should allow us to say that a hen’s
+motivation to dust-bathe is, under the given conditions, about as strong as its
+motivation to eat when it has been without food for a certain number of hours.
+A further approach blends motivation testing with a concept borrowed from
+economics. As summarized by Dawkins (1990), economists observe that for
+certain goods, an increase in price has little effect on the amount purchased by
+consumers. Such goods are said to have “inelastic demand” and are sometimes
+called “necessities.” For other commodities, consumption declines as price
+increases. These are said to have “elastic demand” and are sometimes called
+“luxuries.” In studies with animals, a commodity such as food can be provided
+in response to some work that the animal has to perform, such as pecking on a
+key, and this “price” can then be varied experimentally. Dawkins argues that
+commodities that are very important to the animal will show relatively inelastic
+demand. By establishing demand curves, we should be able to make a better
+judgement of the importance that the animals themselves attach to food, com-
+panionship, bedding, exercise, and other features. The approach has been used
+relatively little, perhaps because of the considerable technical and interpreta-
+tional difficulties that have been identified by Dawkins (1990) and others.
+Thus we see, in a sense, four generations of a research paradigm, much of it
+driven by the conceptual innovations of M.S. Dawkins, proceeding from
+straightforward environmental preference testing, to tests of motivational
+48
+strength, then titration of one motivation against another, and finally attempts to
+establish demand elasticity. At each stage, the logical link with animal well-
+being arguably becomes tighter, but the difficulties of technique and the unpre-
+dictable impacts of procedural variables become more daunting. Shettleworth
+and Mrosovsky (1990) suggest that comparison of motivation strength and
+demand elasticity are so complex that they are not likely to be used widely in the
+near future.
+Finally, aversion testing provides a way of determining the strength of an
+animal’s motivation to avoid a situation. Immobilization by passing a pulsed,
+low-voltage electric current through the body had been claimed to reduce the
+stress experienced by animals during physical restraint for such procedures as
+shearing of sheep. Rushen (1986) trained sheep to move down a run-way, at the
+end of which they were restrained in various ways with or without electro-
+immobilization. Sheep given the electrical treatment became more reluctant
+to move down the run than those that were restrained without electro-
+immobilization. This indicated that, far from reducing distress, electro-
+immobilization made restraint more aversive.
+Basic Knowledge of Behavioral Systems
+To assess and improve animal well-being, we need a better understanding of
+the animal’s basic behavior and forms of communication. For example, basic
+research showed that the vocalizations of the sow coordinate the behavior of the
+piglets during suckling. When these vocalizations are masked by noise from
+ventilation fans, the synchrony in piglet suckling behavior is lost (Algers and
+Jensen, 1985). Pigs also communicate using certain postures and movements
+when fighting. If space is too limited, young pigs fail to develop normal respon-
+siveness to these postures, and abnormal fighting may persist later in life
+(Schouten, 1986). In mammalian farm animals, olfactory communication
+appears involved in such processes as modulating aggression (McGlone, 1990),
+establishing parental care (Poindron and Lévy, 1990), and signalling alarm
+(Vieuille-Thomas and Signoret, 1992); by understanding this communication we
+might be much better positioned to evaluate and improve animal well-being as
+well as productivity.
+Concluding Remarks
+Important as it is, scientific knowledge about the assessment of well-being is
+only part of what we need to resolve animal welfare problems. Figure 3 shows a
+conceptual framework illustrating that farm animal welfare is affected by the
+five interrelated factors of knowledge, values, technology, economics, and
+regulation. Fraser and Leonard (1993) have discussed how these five factors
+impact on animal welfare, with specific reference to agriculture in Canada. Here
+I conclude by using this framework to argue that knowledge is needed on how
+all of the other factors influence animal well-being.
+According to a widely held view, the well-being of farm animals was
+protected in the past by traditional animal husbandry values, whereby concern
+49
+for animals and pride of stockmanship overrode purely economic considerations.
+Critics of agriculture often claim that these values are rapidly being displaced by
+entrepreneurial values and that animal well-being is being sacrificed in the name
+of efficiency, mechanization, cost-cutting, and profit. Is this true? We need
+research to identify what values are displayed in both family- and corporation-
+controlled farming, whether they differ from those of the general public, and
+what is needed to reconcile the values inherent in agricultural practices with the
+values of society. Furthermore, we need research to help harmonize values
+related to animal well-being and other important values: humane systems of
+raising animals should also provide safe, pleasant environments for farm
+workers; they should be ecologically sound; and they should produce healthy
+food products at prices that make them accessible to those who need them.
+Economic factors place major constraints on animal well-being, but these
+remain virtually unstudied. Critics of agriculture sometimes claim that farmers
+allow low standards of well-being in the pursuit of large profits (e.g., Singer,
+1990). My own experience is often quite different: that well-motivated produc-
+ers cannot improve the well-being of their animals as they would like because
+the profits from raising animals are too slight and unpredictable. If this is true,
+then perhaps we could achieve significant improvements in animal well-being
+through economic instruments, as an alternative to legal regulation.
+ A society’s will to regulate can get ahead of the necessary knowledge base.
+Some well-motivated attempts to regulate animal rearing methods have been
+Figure 3.
+ Conceptual framework showing farm animal welfare as influenced by five constellations of factors
+(values, economics, knowledge, technology, and regulation) which are themselves interconnected in
+complex ways. Based on Fraser and Leonard (1993).
+
+50
+phrased in terms that have so little basis in science that they have proven
+uninterpretable (Sambraus, 1981a). For example, the European Convention for
+the Protection of Animals kept for Farming Purposes requires that the “ethologi-
+cal needs” of animals be met, even though “ethological need” is not well defined
+and arguably not a useful scientific concept at all (Dawkins, 1983; Hughes and
+Duncan, 1988). The result is that scientific research is being pursued to interpret
+a legal concept that may have little scientific basis. Researchers need to be
+proactive to generate the kind of knowledge that will allow regulations to be
+formulated so as to be interpretable and of genuine benefit.
+ Finally, research linking science and technology must not be confined to
+assessment of how well-being is affected by current animal rearing technologies.
+In all likelihood, North American society will demand significant changes in
+animal rearing methods before behavioral research has yielded all the answers
+that we would like to have and long before the complex physiological responses
+to bodily challenge have been well enough understood to allow confident
+conclusions. Hence, we need a mixed program of research whereby scientists,
+with the guidance of producers, consumers, and animal protectionists, proceed
+to develop and perfect animal rearing methods which will work well for both
+animals and producers and be perceived as ethically positive by society.
+Acknowledgements
+I am grateful to Drs. J. Rushen, A.M.B. de Passillé, and J. Ladewig,
+and all of my animal behavior colleagues at the Centre for Food and
+Animal Research in Ottawa for much useful discussion during the
+preparation of this article. I am especially indebted to Jerrold
+Tannenbaum, Daniel M. Weary, U.A. Luescher, and Marty L. Leonard,
+who read earlier drafts of the manuscript and provided many thought-
+provoking suggestions and criticisms.
+51
+References
+Adams, A.W. and J.V. Craig. 1985. Effect of crowding and cage shape on productivity
+and profitability of caged layers: A survey. Poult. Sci. 64: 238-242.
+Algers, B. and P. Jensen. 1985. Communication during suckling in the domestic pig.
+Effects of continuous noise. Appl. Anim. Behav. Sci. 14: 49-61.
+Anderson, D.P., R.R. Wolfe, F.L. Cherms, and M.S. Roper. 1968. Influence of dust and
+ammonia on the development of air sac lesions in turkeys. Am. J. Vet. Res. 29:
+1049-1058.
+Arave, C.W., J.L. Walters, and R.C. Lamb. 1978. Effect of exercise on glucocorticoids
+and other cellular components of blood. J. Dairy Res. 61: 1567-1572.
+Bäckström, L. 1973. Environment and animal health in piglet production. Acta Vet.
+Scand., Suppl. 41: 1-240.
+Barnett, J.L. and P.H. Hemsworth. 1990. The validity of physiological and behavioural
+measures of animal welfare. Appl. Anim. Behav. Sci. 25: 177-187.
+Broom, D.M. 1988. The scientific assessment of animal welfare. Appl. Anim. Behav.
+Sci. 20: 5-19.
+Broom, D.M. 1991. Animal welfare: Concepts and measurement. J. Anim. Sci. 69:
+4167-4175.
+Cannon, W.B. 1929. Bodily Changes in Pain, Hunger, Fear and Rage, 2nd edition.
+Appleton-Century Co., New York, NY.
+Dantzer, R. and P. Mormède. 1983. Stress in farm animals: A need for reevaluation.
+J. Anim. Sci. 57: 6-18.
+Dawkins, M.S. 1980. Animal Suffering—The Science of Animal Welfare. Chapman and
+Hall, London, England.
+Dawkins, M.S. 1983. Battery hens name their price: Consumer demand theory and the
+measurement of ethological “needs.” Anim. Behav. 31: 1195-1205.
+Dawkins, M.S. 1990. From an animal’s point of view: Motivation, fitness, and animal
+welfare. Behav. Brain Sci. 13: 1-9, 54-61.
+Dawkins, M.S. and T. Beardsley, T. 1986. Reinforcing properties of access to litter in
+hens. Appl. Anim. Behav. Sci. 15: 351-364.
+Duncan, I.J.H. 1970. Frustration in the fowl. Pages 15-31 in B.M. Freeman and R.F.
+Gordon (eds.), Aspects of Poultry Behaviour. British Poultry Science Ltd.,
+Edinburgh, Scotland.
+Duncan, I.J.H. 1978. The interpretation of preference tests in animal behaviour.
+Appl. Anim. Ethol. 4: 197-200.
+Duncan, I.J.H. 1992. Measuring preferences and the strength of preferences. Poult. Sci.
+71: 658-663.
+52
+Duncan, I.J.H., G. Slee, P. Kettlewell, P. Berry, and A.J. Carlisle. 1986. Comparison of
+the stressfulness of harvesting broiler chickens by machine and by hand. Br. Poult.
+Sci. 27: 109-114.
+Edwards, S.A. and A.L. Lightfoot. 1986. The effect of floor type in farrowing pens on pig
+injury. II. Leg and teat damage of sows. Brit. Vet. J. 142: 441-445.
+Farmer, C. and G.I. Christison. 1982. Selection of perforated floors by newborn and
+weanling pigs. Can. J. Anim. Sci. 62: 1229-1236.
+Farmer, C., P. Dubreuil, Y. Couture, P. Brazeau, and D. Petitclerc. 1991. Hormonal
+changes following an acute stress in control and somatostatin-immunized pigs.
+Domest. Anim. Endocrinol. 8: 527-536.
+Fraser, A.F. and D.M. Broom. 1990. Farm Animal Behaviour and Welfare, 3rd edition.
+Bailliere Tindall, London, England.
+Fraser, D. 1987. Mineral-deficient diets and the pig’s attraction to blood: Implications for
+tail-biting. Can. J. Anim. Sci. 67: 909-918.
+Fraser, D., P.A. Phillips,  and B.K. Thompson. 1993. Environmental preference testing to
+assess the well-being of animals—An evolving paradigm. J. Agric. Envir. Ethics,
+in press.
+Fraser, D. and M.L. Leonard. 1993. Farm animal welfare: A Canadian perspective. In J.
+Martin (ed.) Animal Production in Canada. University of Alberta, Edmonton,
+Canada, in press.
+Furniss, S.J., S.A. Edwards, A.L. Lightfoot, and H.H. Spechter. 1986. The effect of floor
+type in farrowing pens on pig injury. I. Leg and teat damage of suckling piglets.
+Brit. Vet. J. 142: 434-440.
+Griffin, J.F.T. 1989. Stress and immunity: a unifying concept. Vet. Immunol.
+Immunopathol. 20: 263-312.
+Harrison, R. 1964. Animal Machines. Vincent Stuart Ltd., London, England.
+Hughes, B.O. and A.J. Black. 1973. The preference of domestic hens for different types
+of battery cage floor. Br. Poult. Sci. 14: 615-619.
+Hughes, B.O. and I.J.H. Duncan. 1988. The notion of ethological “need,” models of
+motivation and animal welfare. Anim. Behav. 36: 1696-1707.
+Hurnik, J.F. 1993. Ethics and animal agriculture. J. Agric. Envir. Ethics, in press.
+International Dairy Federation 1987. Environmental Influences on Bovine Mastitis. Bull.
+Int. Dairy Fed. No. 217.
+Kelley, K.W. 1985. Immunological consequences of changing environmental stimuli.
+Pages 193-223 in G.P. Moberg (ed.) Animal Stress. American Physiological Society,
+Bethesda, MD.
+Kerr, S.G.C., D.G.M. Wood-Gush, H. Moser, and C.T. Whittemore. 1988. Enrichment of
+the production environment and the enhancement of welfare through the use of the
+Edinburgh Family Pen System of Pig Production. Res. Dev. Agric. 5: 171-186.
+53
+Ladewig, J. and D. Smidt. 1989. Behavior, episodic secretion of cortisol, and adrenocorti-
+cal reactivity in bulls subjected to tethering. Horm. Behav. 23: 344-360.
+Luescher, U.A., R.M. Friendship, K.D. Lissemore, and D.B. McKeown. 1989. Clinical
+ethology in food animal practice. Appl. Anim. Behav. Sci. 22: 191-214.
+Martin, S.W. 1983. Factors influencing morbidity and mortality in feedlot calves in
+Ontario. Vet. Clin. N. Amer., Large Anim. Prac. 5: 75-86.
+Mason, J.W. (ed.) 1968. Organization of psychoendocrine mechanisms. Psychosom. Med.
+30: 565-808.
+McGlone, J.J. 1990. Olfactory signals that modulate pig aggressive and submissive
+behavior. Pages 86-109 in R. Zayan and R. Dantzer (eds.), Social Stress in Domestic
+Animals. Kluwer Academic Publishers, Dordrecht, The Netherlands.
+Moberg, G.P. 1985. Biological response to stress: Key to assessment of animal well-
+being? Pages 27-49 in G.P. Moberg (ed.), Animal Stress. American Physiological
+Society, Bethesda, MD.
+Moberg, G.P. 1987. A model for assessing the impact of behavioral stress on domestic
+animals. J. Anim. Sci. 65: 1228-1235.
+Muggenburg, B.A., T. Kowalszyk, W.G. Hoekstra, and R.H. Grummer. 1967. Effect of
+certain management variables on the incidence and severity of gastric lesions in
+swine. Vet. Med./Small Anim. Clin. 62: 1090-1094.
+Poindron, P. and F. Lévy. 1990. Physiological, sensory, and experiential determinants of
+maternal behavior in sheep. Pages 133-156 in N.A. Krasnegor and R.S. Bridges
+(eds.), Mammalian Parenting. Oxford University Press, Oxford, England.
+Rollin, B.E. 1990. The Unheeded Cry. Oxford University Press, Oxford, England.
+Roush, W.B. 1986. A decision analysis approach to the determination of population
+density in laying cages. World’s Poult. Sci. J. 42: 26-31.
+Rushen, J. 1986. Aversion of sheep to electro-immobilization and physical restraint.
+Appl. Anim. Behav. Sci. 15: 315-324.
+Rushen, J. 1991. Problems associated with the interpretation of physiological data in the
+assessment of animal welfare. Appl. Anim. Behav. Sci. 28: 381-386.
+Rushen, J. and A.M.B. de Passillé. 1992. The scientific assessment of the impact of
+housing on animal welfare: A critical review. Can. J. Anim. Sci. 72: 721-743.
+Sambraus, H.H. 1981a. Abnormal behavior as an indication of immaterial suffering. Int.
+J. Stud. Anim. Prob. 2: 245-248.
+Sambraus, H.H. 1981b. Tierschutz, Tierhaltung und Tierarzt. Deutsches Tierärzteblatt 4:
+252-262 and 5: 342-346.
+Sambraus, H.H. 1985. Mouth-based anomalous syndromes. Pages 391-422 in A.F. Fraser
+(ed.), Ethology of Farm Animals. Elsevier, Amsterdam, The Netherlands.
+Schouten, W.G.P. 1986. Rearing conditions and behaviour in pigs. Ph.D. thesis, Agricul-
+tural University Wageningen, The Netherlands.
+54
+Selye, H. 1950. Stress. ACTA, Montreal, Canada.
+Shettleworth, S.J. and N. Mrosovsky. 1990. From one subjectivity to another. Behav.
+Brain Sci. 13: 37-38.
+Singer, P. 1990. Animal Liberation, revised edition. Avon Books, New York, NY.
+Tannenbaum, J. 1991. Ethics and animal welfare: The inextricable connection. J. Amer.
+Vet. Med. Assoc. 198: 1360-1376.
+Tauson, R. 1984. Plumage condition in SCWL laying hens kept in conventional cages of
+different designs. Acta Agric. Scand. 34: 221-230.
+Tauson, R. 1985. Mortality in laying hens caused by differences in cage design. Acta
+Agric. Scand. 35: 165-174.
+Vieuille-Thomas, C. and J.P. Signoret. 1992. Pheromonal transmission of an aversive
+experience in domestic pig. J. Chem. Ecol. 18: 1551-1557.
+Wiepkema, P.R. 1990. Stress: ethological implications. Pages 1-13 in S. Puglisi-Allegra
+and A. Oliverio (Eds.), Psychobiology of Stress. Kluwer Academic Publishers,
+Dordrecht, The Netherlands.

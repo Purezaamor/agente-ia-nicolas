@@ -1,0 +1,809 @@
+=== Fuente: Christodoulides Adipogenesis and WNT signalling.pdf ===
+
+Adipogenesis and WNT signalling
+Constantinos Christodoulides1,2, Claire Lagathu1, Jaswinder K. Sethi1 and Antonio
+Vidal-Puig1
+1 Institute of Metabolic Science, MRC Centre for Obesity and Associated Diseases, Biochemistry, University of Cambridge,
+Addenbrooke’s Hospital, Cambridge, CB2 0QQ, UK
+2 Oxford Centre for Diabetes, Endocrinology and Metabolism, Churchill Hospital, Oxford, OX3 7LJ, UK
+An inability of adipose tissue to expand consequent to
+exhausted capacity to recruit new adipocytes might
+underlie the association between obesity and insulin
+resistance. Adipocytes arise from mesenchymal precur-
+sors whose commitment and differentiation along the
+adipocytic lineage is tightly regulated. These regulatory
+factors mediate cross-talk between adipose cells, ensur-
+ing that adipocyte growth and differentiation are
+coupled to energy storage demands. The WNT family
+of autocrine and paracrine growth factors regulates
+adult tissue maintenance and remodelling and, con-
+sequently, is well suited to mediate adipose cell com-
+munication. Indeed, several recent reports, summarized
+in this review, implicate WNT signalling in regulating
+adipogenesis. Manipulating the WNT pathway to alter
+adipose cellular makeup, therefore, constitutes an
+attractive drug-development target to combat obesity-
+associated metabolic complications.
+Introduction
+Obesity is an energy balance disorder in which nutrient
+intake chronically exceeds energy expenditure, resulting in
+excessive white adipose tissue (WAT) accumulation. Aside
+from being a social stigma, obesity is frequently associated
+with insulin resistance, in turn linked to the development
+of type 2 diabetes, hypertension, hyperlipidaemia and
+atherosclerosis – the so-called metabolic syndrome (MS)
+[1]. We have proposed that rather than excessive WAT
+accumulation, an inability of subcutaneous WAT (see Glos-
+sary) to expand in the face of continuous positive energy
+balance might underlie the link between obesity and its
+metabolic complications [2,3] (Box 1).
+There is evidence that adipocytes have a central role in
+the pathogenesis of insulin resistance. First, they act as a
+‘safe’ depot for free fatty acid (FFA) storage, being able to
+accumulate large amounts of lipid in a manner that is non-
+toxic to the cell or whole organism. When the capacity of
+WAT to store FFAs is exceeded, as occurs in some forms of
+obesity (when WAT expandability is exhausted) or in
+lipodystrophy (when WAT is partially or completely
+absent), extra-adipose lipid accumulation, lipotoxicity
+and insulin resistance ensues [4]. Second, adipocytes
+secrete multiple bioactive peptides termed ‘adipokines’
+(e.g. leptin and adiponectin) that directly regulate
+whole-body insulin sensitivity [5]. Deregulated adipokine
+secretion from the expanded WAT of obese individuals
+contributes to the development of systemic insulin resist-
+ance and metabolic disease. Thus, understanding the mol-
+ecular and cellular events regulating adipogenesis is
+crucial in designing rational therapies to prevent and treat
+the MS.
+Adipocytes are present in distinct anatomical locations
+throughout the body, such as the subcutis, body cavity (in
+association with internal organs, intestinal mesentery
+and retroperitoneum) and bone marrow. Two main types
+of adipocytes exist: brown and white. White adipocytes
+primarily serve to store lipids, whereas brown adipocytes
+function predominantly to dissipate energy in the form of
+heat. Consequently, elucidating the molecular mechan-
+isms controlling brown versus white adipocyte speciﬁcity
+holds enormous promise in treating obesity and the MS
+becausethesepathwayscouldbepharmacologically
+exploited to induce a metabolic shift in the role of white
+adipocytes from lipid storage towards FFA oxidation.
+Even among white adipocytes, however, cells from differ-
+ent depots have different metabolic properties, which
+might account for their differential contribution to the
+pathogenesis of the MS. Visceral fat, for example, is more
+strongly linked to the development of insulin resistance
+than subcutaneous fat is [6]. Unravelling the molecular
+mechanisms underlying this heterogeneity offers
+additional avenues for the treatment of obesity-related
+metabolic complications.
+Review
+Glossary
+Agouti: peptide, the expression of which is normally restricted to hair follicles,
+where it regulates coat colour by antagonising melanocortin-1-receptor
+signalling. Ectopic agouti expression consequent to genomic rearrangement
+leads to autosomal dominant severe obesity in humans and mice as a result of
+hypothalamic melanocortin-4-receptor antagonism, which potently stimulates
+appetite and reduces energy expenditure.
+FFA oxidation: the oxidative degradation of fatty acids in mitochondria to
+produce energy in the form of ATP.
+Harmine: naturally occurring b-carboline alkaloid found in numerous plants,
+common plant-derived foods and human tissues.
+Positive energy balance: state in which calorie consumption exceeds energy
+expenditure.
+Stromo-vascular cells: the non-adipocyte fraction of WAT, consisting of a
+heterogeneous cell population that includes MSCs, preadipocytes and vascular
+and immune cells.
+Subcutaneous WAT: adipose tissue found in the subcutaneous layers between
+the muscle and dermis.
+Thermogenic programme: the production of heat energy in brown adipose
+tissue facilitated by UCP-1, which enables energy in mitochondria to be
+dissipated as heat without generating ATP.
+Visceral fat: WAT associated with the internal organs, intestinal mesentery and
+retroperitoneum within the body cavity.
+WAT expandability: the capacity of WAT to expand its size and, consequently,
+lipid storage capacity through adipocyte hypertrophy and hyperplasia in
+response to chronic overnutrition.Corresponding authors: Christodoulides, C.
+(constantinos.christodoulides@orh.nhs.uk); Vidal-Puig, A. (ajv22@cam.ac.uk).
+16 1043-2760/$ – see front matter /C223 2008 Elsevier Ltd. All rights reserved. doi:10.1016/j.tem.2008.09.002 Available online 13 November 2008
+WAT expansion during childhood obesity results from
+combined adipocyte hypertrophy and hyperplasia. By con-
+trast, adults seem to have a ﬁxed number of adipocytes,
+and changes in fat mass are primarily secondary to
+changes in fat-cell volume. Nonetheless, adult adipocytes
+exhibit a remarkably high and constant turnover. Further-
+more, adipocyte number set during childhood might be a
+major determinant of adult WAT mass and expandability
+[7]. Adipocytes are thought to arise from multi-potent
+mesodermal stem cells residing in the adipose tissue
+stroma [8]. These mesenchymal stem cells (MSCs) become
+preadipocytes when they lose their ability to differentiate
+into other mesenchymal lineages and become ‘committed’
+to the adipocytic lineage. This initial phase of adipocyte
+differentiation is known as determination and is poorly
+characterized.
+The second phase of adipogenesis is terminal differen-
+tiation, whereby preadipocytes take on the characteristics
+of mature adipocytes, acquiring lipid droplets and the
+ability to respond to hormones such as insulin. Terminal
+differentiation consists of a cascade of transcriptional
+events [8]. The ﬁrst wave involves the transient induction
+of CCAAT/enhancer-binding protein-b (CEBPB) and -d
+(CEBPD), which, in turn, directly induce expression of
+CEBP-a (CEBPA) and peroxisome proliferator-activated
+receptor-g (PPARG), the central transcriptional regulators
+of adipogenesis. CEBPA and PPARG subsequently feed
+back to induce their own expression, in addition to activat-
+ing many downstream target genes whose expression
+deﬁnes the adipocyte. Although CEBPs and PPARG are
+integral to the transcriptional network controlling adipo-
+genesis, other transcription factors also regulate this pro-
+cess [8,9].
+WNT signalling: a network that might serve to tightly
+regulate adipose expansion to match energy storage
+demands
+The adipogenic transcription factors outlined previously
+are positioned downstream of less-well-characterized sig-
+nalling pathways relaying information about the suit-
+ability of intracellular and extracellular conditions for
+differentiation. Whereas some of these signals are hormo-
+nal in nature, local factors are also likely to be important.
+Such factors are necessary to mediate cross-talk between
+stromo-vascular cells and mature adipocytes to ensure that
+growth of existing adipocytes and differentiation of new
+adipocytes are tightly coupled to energy storage demands.
+Disruption of these local signalling networks could, in the
+context of positive energy balance, lead to compromised
+adipogenesis and WAT expandability and/or uncoupled
+hyperplastic and hypertrophic adipocyte responses result-
+ing in metabolic dysfunction (Figure 1).
+Wingless-type MMTV integration site family members
+(WNTs) are a family of secreted glycoproteins acting in
+autocrine and paracrine fashions to regulate adult tissue
+homeostasis and remodelling [10,11]. WNTs exert their
+effects by signalling through multiple so-called ‘canonical’
+and ‘non-canonical’ pathways to control cell proliferation,
+survival, fate and behaviour. As such, the WNT signalling
+network seems well suited to mediate adipose cell cross-
+communication. Indeed, several reports have implicated
+WNT signalling in regulating MSC maintenance, prolifer-
+ation, fate determination and preadipocyte differentiation.
+In the following sections, we provide a brief outline of the
+WNT pathways that are pertinent to adipocyte biology
+before subsequently addressing their relevance to adipo-
+genesis.
+Overview of WNT signalling
+The canonical WNT signalling cascade converges on the
+transcriptional regulator b-catenin [10]. In the absence of
+WNTs, cytoplasmic b-catenin is recruited to a degradation
+complex nucleated by Axin and adenomatous polyposis coli
+(APC), which facilitates its sequential phosphorylation by
+casein kinase I and glycogen synthase kinase 3-b (GSK3b).
+This primes b-catenin for ubiquitination and proteasomal
+degradation. WNT binding to frizzled (FZD) receptors and
+low-density lipoprotein-receptor-related protein-5 or -6
+(LRP5/6) co-receptors leads to inactivation of the degra-
+dation complex. This results in hypophosphorylation of b-
+catenin and its translocation in the nucleus where it binds
+to the lymphoid-enhancer-binding factor/T-cell-speciﬁc
+transcription factor (LEF/TCF) family of transcription fac-
+tors to activate WNT target genes.
+The signalling events of b-catenin-independent, non-
+canonical WNT signalling are poorly deﬁned. In the
+WNT-cGMP/Ca2+ pathway, speciﬁc WNT and FZD hom-
+ologues acting through heterotrimeric GTP-binding
+proteins trigger intracellular calcium release, which, in
+turn, activates the phosphatase calcineurin and the
+Box 1. Impaired subcutaneous WAT expandability might
+cause obesity-associated insulin resistance
+This hypothesis is supported by several clinical and experimental
+observations. For instance, some morbidly obese (and up to 20% of
+obese) patients are unexpectedly metabolically healthy and, reci-
+procally, 13–18% of normal to slightly overweight individuals exhibit
+features of the MS [55,56]. The higher level of insulin sensitivity in
+so-called metabolically healthy obese subjects is associated with
+earlier onset obesity, which is characterized by an increased total
+adipocyte number [7] and lower levels of visceral fat. By contrast,
+so-called metabolically obese, normal-weight individuals often gain
+(modest) weight in adult life and tend to have centripetal fat
+distribution. Even more convincingly, patients (and mice) with
+lipodystrophy, a disease characterized by partial or complete
+absence of WAT, recapitulate several features of the MS [57].
+Likewise, decreasing WAT mass with abdominal liposuction does
+not improve obesity-associated metabolic abnormalities contrasting
+the metabolic benefits of dietary weight loss [58]. However,
+administration of thiazolidinediones (TZDs), synthetic ligands for
+the master adipogenic transcription factor PPARG, to diabetic
+patients (and rodents) improves insulin sensitivity despite a
+paradoxical increase in adiposity [59]. Furthermore, subcutaneous
+fat transplantation ‘paradoxically’ improves glucose tolerance and
+insulin sensitivity in mice (albeit in association with reductions in
+body weight and total fat mass) [60]. Studies in leptin-deficient (ob/
+ob) mice also showed that uninhibited expansion of subcutaneous
+WAT by modest elevation of circulating adiponectin levels leads to
+complete normalization of the metabolic profile of these animals,
+despite morbid obesity [61]. The authors propose that by acting as a
+peripheral ‘starvation’ signal, adiponectin facilitates preferential
+storage of triglycerides in WAT with reduced lipid levels in liver and
+muscle conveying improved systemic insulin sensitivity. By con-
+trast, although protected from obesity consequent to impaired
+adipogenesis, PPARG2-deficient ob/ob mice develop severe insulin
+resistance, dyslipidaemia and b-cell failure [62].
+Review Trends in Endocrinology and Metabolism Vol.20 No.1
+17
+calcium-sensitive kinases calcium/calmodulin-dependent
+kinase II (CAMKII) and protein kinase C [12]. Recent data
+also indicate that in addition to FZD, the tyrosine kinases
+RYK receptor-like tyrosine kinase and Rar-related orphan
+receptor (ROR) are involved in WNT signal reception [13].
+The downstream signalling pathways activated by such
+ligand–receptor interactions have yet to be delineated.
+WNT signalling is modulated by several extracellular
+antagonists [14,15]. These include secreted frizzled-related
+proteins (sFRPs) and WNT inhibitory factor, which directly
+bind and sequester WNTs from their receptors. By con-
+trast, dickkopf (Dkk) family members speciﬁcally inhibit
+canonical WNT signalling by binding as high-afﬁnity
+antagonists to LRP co-receptors.
+WNT/b-catenin signalling inhibits adipogenesis
+Studies from the MacDougald laboratory ﬁrst implicated
+WNT signalling in the regulation of adipocyte differen-
+tiation. Speciﬁcally, canonical pathway activation in 3T3-
+L1 preadipocytes through overexpression of Wnt1 or a
+GSK3b phosphorylation-defective b-catenin mutant was
+shown to inhibit adipogenesis [16]. Likewise, treatment
+with pharmacological GSK3b inhibitors blocked adipocyte
+differentiation [17]. WNT signalling repressed adipogen-
+esis by blocking induction of PPARG and CEBPA
+(Figure 2). Conversely, disruption of extracellular or intra-
+cellular WNT signalling with recombinant sFRP1 or
+sFRP2 or through constitutive expression of Axin or domi-
+nant-negative-transcription-factor-7-like 2 (dn TCF7L2
+Figure 1. Local factors regulate adipogenesis. (a) Under conditions of nutritional deprivation, anti-adipogenic signals emanating from both preadipocytes and mature
+adipocytes restrain preadipocyte differentiation. (b) In the face of continuous positive energy balance (overnutrition), hypertrophic adipocytes secrete factors that stimulate
+preadipocyte differentiation. These include both positive adipogenic factors and factors that block negative adipogenic signals. (c) Disruption of local signalling networks
+during chronic overnutrition leads to impaired adipogenesis and adipose expandability. This, in turn, results in adipocyte hypertrophy and dysfunction, and secondary
+adipose inflammation, in addition to ectopic lipid accumulation at extra-adipose sites (e.g. liver and muscle), which together, contribute to the pathogenesis of insulin
+resistance.
+Review Trends in Endocrinology and Metabolism Vol.20 No.1
+18
+[formerly known as T-cell transcription factor 4, or TCF4]),
+respectively, led to spontaneous adipocyte differentiation
+[16,17]. These experiments established WNT signalling as
+a molecular switch that, when activated, represses adipo-
+genesis.
+The ﬁnding that disruption of WNT/b-catenin signalling
+leads to spontaneous adipogenesis indicates that endogen-
+ous WNTs restrain preadipocyte differentiation. One likely
+candidate for such an anti-adipogenic WNT signal is
+Wnt10b. Wnt10b expression is highest in preadipocytes
+and declines rapidly after induction of differentiation
+[16,17]. Overexpression of Wnt10b in 3T3-L1 preadipocytes
+stabilizes b-catenin and blocks adipogenesis. More compel-
+lingly, Wnt10b anti-sera added to 3T3-L1 media promotes
+adipocyte differentiation [18]. In vivo, transgenic mice
+expressing Wnt10b under the control of the adipose-speciﬁc
+fatty-acid-binding protein-4 (FABP4) promoter (FABP4-
+Wnt10b) show a 50% decline in total body fat and resist
+high-fat-diet-induced WAT accumulation [19]. This adi-
+pose-speciﬁc expression of Wnt10b also protects against
+genetic obesity owing to leptin deﬁciency and ectopic agouti
+expression (Ay) [20]. Paradoxically, far from developing
+lipodystrophic (insulin-resistant) diabetes, FABP4-
+Wnt10b mice on either wild-type or Ay background are
+more glucose-tolerant and insulin-sensitive than control
+animals. This might be secondary to reduced adipose
+expression and circulating levels of resistin and/or
+decreased WAT inﬂammation [20]. Collectively, these stu-
+dies show that Wnt10b constrains mouse WAT expansion
+by inhibiting preadipocyte differentiation (Figure 3).
+Wnt10b might also serve to modify the adipokine-secretion
+proﬁle of WAT and/or have an immunomodulatory role in
+this tissue, thereby inﬂuencing systemic insulin sensi-
+tivity.
+WNT signalling regulates mesenchymal stem cell fate
+and susceptibility to obesity
+FABP4-Wnt10b mice also express the Wnt10b transgene in
+bone marrow and, in addition to reduced adiposity, display
+an increase in bone mass [21]. In vitro, Wnt10b overexpres-
+sion in ST2 bipotential mesenchymal cells and mouse
+embryonic ﬁbroblasts (MEFs) blocks adipogenesis while
+stimulating osteoblastogenesis [21,22]. A role for WNT/b-
+catenin signalling in regulating MSC fate is also illus-
+trated by genetic deletion of the WNT antagonist Sfrp1,
+which leads to a 20% reduction in body fat in aged male
+Figure 2. Canonical WNT signalling regulates mesenchymal stem cell fate. Activation of WNT/b-catenin signalling promotes differentiation of mesenchymal precursor cells
+into myocytes and osteocytes while suppressing commitment to the adipocytic lineage and terminal differentiation. WNT signalling restrains adipocyte differentiation by
+inhibiting the expression of PPARG and CEBPA, the central regulators of adipogenesis. These transcription factors are induced directly by CEBPB and CEBPD in response to
+adipogenic stimuli, which also serve to switch off the canonical WNT pathway. PPARG and CEBPA subsequently feed back to induce their own expression, in addition to
+activating many downstream target genes whose expression defines the adipocyte.
+Review Trends in Endocrinology and Metabolism Vol.20 No.1
+19
+mice concomitant with increased bone mass [23]. By con-
+trast, high-fat diet induces epigenetic activation of Sfrp5
+expression in WAT that increases susceptibility to obesity
+(see subsequent paragraph) [24].
+Canonical WNT signalling also controls the balance
+between myogenesis and adipogenesis. Myoblasts isolated
+from Wnt10b-null mice display increased adipogenic gene
+expression; furthermore, after muscle injury, high-fat-diet-
+fed Wnt10b-null mice accumulate excessive lipids in regen-
+erating myoﬁbres [25]. Similarly, conditional deletion of b-
+catenin in the developing mouse uterus mesenchyme
+results in progressive replacement of the myometrium
+by adipose tissue in adulthood [26]. Inhibition of WNT
+signalling also contributes to a switch from myogenesis to
+adipogenesis in the myocardium with pathological con-
+sequences [27] (Box 2). Collectively, the studies described
+previously provide compelling evidence that WNT/b-cate-
+nin signalling restrains mesenchymal precursors from
+differentiating into adipocytes while promoting osteoblas-
+togenesis and myogenesis (Figure 2).
+Epigenetic reprogramming of WNT signalling in WAT
+might also alter susceptibility to obesity by modulating
+adipogenesis. Genetically identical male B6 mice develop
+highly variable obesity after being fed a high-fat diet for
+four weeks with a fourfold range in WAT accumulation
+[24]. The adiposity phenotypes of these mice are evident
+from an early age and are not inﬂuenced by differences in
+litter size and wean weight. Furthermore, these differ-
+ences are stable, persisting even after the obesogenic pro-
+tocol is interrupted by caloric restriction, consistent with
+an epigenetic mechanism causing a permanent change in
+energy metabolism. Chronologically, differences in adi-
+posity between high and low weight gainers precede those
+of feeding efﬁcacy and food intake, indicating a causal link
+between primary alterations in WAT development and
+susceptibility to obesity. This was corroborated by gene-
+expression analyses showing differences in the expression
+of a large number of adipose genes between the two mouse
+groups. By contrast, hypothalamic gene expression was
+unchanged. In particular, highly upregulated Sfrp5
+expression observed in multiple fat depots was postulated
+to be causally linked to WAT expansion. In support of this,
+differences in Sfrp5 gene expression were evident in epi-
+didymal fat biopsies in the pre-obese state and correlated
+Figure 3. Adipogenesis and WNT signalling. (a) In mesenchymal precursor cells, Wnt10b (and Wnt10a) binding to frizzled (FZD1) receptors and LRP5/6 co-receptors leads to
+dishevelled (DVL) phosphorylation and Axin degradation. This, in turn, results in hypophosphorylation of b-catenin, which accumulates in the cytoplasm and translocates
+to the nucleus, where it binds to TCF/LEF transcription factors to activate WNT target genes and inhibit adipogenesis by suppressing CEBPA and PPARG. Non-canonical
+WNT signalling, perhaps through Wnt5a acting via FZD2, might also inhibit adipocyte differentiation. Wnt5a stimulates a mitogen-activated protein kinase cascade
+mediated through CAMKII-TAK1-TAB2 (TAK1, TGFb-activated protein kinase-1; TAB2, TAK1-binding protein-2) to activate Nemo-like kinase (NLK). NLK, in turn,
+phosphorylates a histone methyltransferase, SET domain bifurcated-1 (SETB1), leading to the assembly of a co-repressor complex, which inactivates ligand-bound PPARG
+through histone methylation. (b) Adipocyte differentiation is associated with secretion of sFRPs and Dkk1, which inhibit Wnt10b (and Wnt10a) signalling. sFRPs directly bind
+and sequester Wnt10b, whereas Dkk1 inhibits WNT signalling by binding as a high-affinity antagonist to LRP co-receptors. In the absence of WNT ligands, cytoplasmic b-
+catenin is recruited to a destruction complex that contains Axin and APC, which facilitates the GSK3b-dependent-phosphorylation and proteasomal degradation of b-
+catenin. In contrast to Wnt10b, Wnt5b promotes adipogenesis by inhibiting WNT/b-catenin signalling, perhaps by acting through ROR receptors.
+Review Trends in Endocrinology and Metabolism Vol.20 No.1
+20
+with adiposity after high-fat diet. Furthermore, variation
+in epididymal fat Sfrp5 mRNA after four weeks of high-fat
+diet was associated with as much as 45% variance in
+adiposity [24]. In summary, sFRP5-mediated epigenetic
+silencing of WNT signalling in WAT leading to enhanced
+adipogenesis seems to increase susceptibility to diet-
+induced obesity in mice.
+WNT signalling mediates anti-adipogenic actions of
+obesity-induced inﬂammatory cytokines
+Obesity is associated with WAT macrophage inﬁltration,
+and increased local concentrations of interleukin 6 (IL6) and
+tumour necrosis factor-a (TNF) potentially contributing to
+the pathogenesis of insulin resistance by inhibiting adipo-
+genesis [28,29]. Interestingly, the anti-adipogenic actions of
+IL6 and TNF seem to be mediated, at least partly, through
+WNT/b-catenin signalling [30,31]. Indeed, both knock-down
+of endogenous b-catenin and overexpression of dn Tcf7l2
+reversed the anti-adipogenic effect of TNF, indicating that
+WNT signalling activation is a prerequisite for inhibiting
+adipogenesis by this cytokine [31]. Thus, cytokines might
+impair WAT expansion during obesity by hijacking the
+canonical WNT pathway, thereby exacerbating insulin
+resistance and metabolic deregulation.
+Cross-regulation between PPARG and b-catenin
+signalling during adipogenesis
+An emerging paradigm supported by work from several
+groups is the ability of PPARG and WNT/b-catenin signal-
+ling in WAT to cross-talk. Using a high-throughput assay
+to screen chemical libraries for pro-adipogenic compounds,
+Waki et al. [32] identiﬁed harmine as an adipocyte-speciﬁc
+inducer of Pparg expression. Administration of harmine to
+diabetic mice mimicked the effects of PPARG ligands on
+adipocyte gene expression and insulin sensitivity. The
+adipogenic activity of harmine results, at least partly, from
+its ability to block WNT/b-catenin signalling in adipocytes
+[32]. Work from the Farmer group [33,34] has also shown
+that a GSK3b-phosphorylation-defective b-catenin mutant
+inhibits expression of select adipogenic PPARG-target
+genes (Figure 2).
+Reciprocally, PPARG activation has also been shown to
+suppress b-catenin protein levels in various cell types,
+including MEFs and preadipocytes [33–35]. PPARG-
+associated b-catenin degradation probably involves the
+proteasome system and requires GSK3b activity [33],
+although PPARG might also target b-catenin for protea-
+somal degradation through GSK3b-independent mechan-
+isms [34]. PPARG interacts directly with the TCF/LEF-
+binding domain of b-catenin through a region within its
+ligand-binding domain [34]. This putative PPARG catenin-
+binding domain is involved in targeting b-catenin to the
+proteasome. PPARG might facilitate b-catenin degra-
+dation through direct association and/or indirectly through
+transcriptional regulation. In summary, PPARG and b-
+catenin signalling in adipose cells seems to be mutually
+antagonistic. Pharmacological inhibition of the WNT/b-
+catenin pathway in WAT, thus, might represent a com-
+plementary approach to PPARG ligands in the treatment
+of insulin resistance.
+Nuclear WNT/b-catenin signalling and adipogenesis
+The end result of canonical WNT signalling activation is
+nuclear translocation of b-catenin. In 3T3-L1 preadipo-
+cytes, nuclear b-catenin might act in concert with TCF7L2
+to regulate WNT target-gene expression [16]. Interest-
+ingly, an alternatively spliced TCF7L2 isoform, Tcf7l2n,
+is also expressed in 3T3-L1 preadipocytes. TCF7L2N lacks
+the DNA-binding domain but retains the b-catenin-inter-
+acting domain. As predicted, TCF7L2N inhibited co-acti-
+vation by b-catenin of a TCF/LEF-responsive promoter
+[36]. Remarkably, however, TCF7L2N potentiated co-acti-
+vation by b-catenin of several non-TCF-responsive promo-
+ters. For example, b-catenin and TCF7L2N synergized
+with CEBPA to activate the leptin promoter. TCF7L2N
+also partially rescued the block in adipocyte differentiation
+caused by ectopic b-catenin [36]. Thus, by redirecting b-
+catenin from TCF/LEF to other transcription factors such
+as CEBPA, TCF7L2N might serve to suppress canonical
+WNT signalling during adipogenesis.
+Other b-catenin-interacting proteins also contribute to
+the ﬁne-tuning of nuclear WNT signalling during adipo-
+genesis. For instance, Chibby (CBY), which inhibits WNT
+target-gene activation by competing with TCF/LEF for b-
+catenin binding [37], was shown recently to be required for
+adipocyte differentiation [38]. Cby is expressed in mouse
+WAT, and CBY protein levels increase during adipogen-
+esis. Overexpression of Cby in 3T3-L1 cells led to inhibition
+of canonical WNT signalling and spontaneous adipogen-
+esis. Reciprocally, RNAi-mediated depletion of Cby
+enhanced b-catenin transcriptional activity and potently
+suppressed adipocyte differentiation. Likewise, Cby-null
+MEFs displayed impaired adipogenic potential. Collec-
+tively, these experiments demonstrate that CBY promotes
+adipogenesis by repressing WNT/b-catenin-dependent
+transcription. Furthermore, these studies indicate that
+during adipocyte differentiation, multiple nuclear inter-
+acting partners sequester b-catenin from TCF/LEF, while
+redirecting it to other transcription factors.
+Box 2. WNT signalling regulation of myogenesis versus
+adipogenesis in the myocardium
+Arrhythmogenic right ventricular cardiomyopathy (ARVC) is an
+uncommon genetic disease, the pathologic hallmark of which is
+fibroadipocytic replacement of cardiac myocytes in conjunction with
+myocyte apoptosis. In a subset of families, ARVC is caused by
+mutations in desmosomal proteins including desmoplakin (DSP)
+and plakoglobin (PKGB). Of interest, siRNA-mediated suppression
+of Dsp expression in a mouse atrial myocyte cell line led to nuclear
+translocation of PKGB and inhibition of WNT/b-catenin signalling
+[27]. The ensuing phenotype was increased expression of adipo-
+genic (and fibrogenic) genes, leading to lipid droplet accumulation
+in response to adipogenic media exposure. In vivo,cardiac-
+restricted heterozygous deletion of Dsp led to progressive fibroadi-
+pocytic replacement and increased apoptosis of cardiac myocytes in
+adulthood resulting in cardiac dysfunction and arrhythmias, recapi-
+tulating the phenotype of human ARVC. In accordance with the in
+vitro studies described previously, cardiomyocytes from DSP-
+deficient mice exhibited increased nuclear localization of PKGB
+along with enhanced expression of adipogenic and decreased levels
+of WNT target genes [27]. The investigators postulated that the cell
+source of excess adipocytes in the heart is likely to be composed of
+cardiac myoblasts or resident MSCs, which, in the absence of WNT
+signalling, could preferentially differentiate into adipocytes.
+Review Trends in Endocrinology and Metabolism Vol.20 No.1
+21
+Non-canonical WNT signalling and adipogenesis
+In addition to signalling through b-catenin, WNT family
+members can also activate non-canonical pathways.
+Genetic evidence indicates that non-canonical signalling
+through Wnt5a can antagonize the canonical pathway
+[39,40] (Figure 3a). Wnt5a might act via the ROR2 receptor
+[41]. Accordingly, adenoviral overexpression of the related
+Wnt5b impaired b-catenin nuclear translocation and
+enhanced 3T3-L1 cell differentiation [42,43]. In contrast
+to Wnt10b, Wnt5b expression transiently increases during
+adipogenesis (Figure 3b).
+The studies described previously indicate that non-
+canonical WNT signalling promotes adipogenesis by
+antagonising the WNT/b-catenin pathway. However, a
+report demonstrating that Wnt5a-mediated non-canonical
+signalling inhibits adipogenesis in ST2 cells by attenuating
+the transcriptional activity of PPARG has provided
+additional complexity [44] (Figure 3a). Likewise, the Mac-
+Dougald laboratory showed that non-canonical signalling
+inhibits adipogenesis [45]. Fzd1 and Fzd2 are highly
+expressed in preadipocytes and associated with canonical
+and b-catenin-independent WNT signalling, respectively.
+This study used constitutively active chimeras of Xenopus
+Wnt8 and mouse FZD1 or FZD2 to investigate the effects of
+these receptors on mesenchymal cell fate. Of note, both
+chimeras partially blocked adipogenesis by preventing
+Pparg and Cebpa expression. Interestingly, the anti-adi-
+pogenic action of Wnt-FZD2 was partially rescued by
+calcineurin inhibitors. It is likely, therefore, that distinct
+non-canonical pathways exert opposing effects on adipo-
+genesis.
+WNT signalling and brown adipogenesis
+Activation of WNT/b-catenin signalling through Wnt10b
+overexpression also inhibits brown adipogenesis [46]. WNT
+signalling blocks adipogenesis through repression of
+CEBPA and PPARG, and blocks the thermogenic pro-
+gramme through suppression of PPARG co-activator 1-a
+(PGC1A). Wnt10a and/or Wnt10b are likely to be endogen-
+ous inhibitory WNT(s) because both are expressed in
+brown adipose tissue (BAT) and decline during brown
+adipogenesis. Furthermore, in vivo expression of Wnt10b
+from the FABP4 promoter blocks BAT development [19].
+In differentiated brown adipocytes, WNT signalling
+activation suppresses uncoupling protein 1 (UCP1) expres-
+sion through PGC1A repression without inﬂuencing com-
+mon adipocyte markers. Similarly, in vivo expression of
+Wnt10b from the UCP1 promoter results in BAT with
+histological and molecular characteristics of WAT, indicat-
+ing that WNT signalling converts brown adipocytes into
+white. This is also supported by the reciprocal expression of
+Wnt10b with Ucp1 and Pgc1a in BAT from cold-challenged
+and ob/ob mice. The latter have BAT with characteristics of
+WAT and increased Wnt10b expression [46].
+Work from the Kahn laboratory also indicates a role for
+Wnt10a in regulating brown adipogenesis [47,48]. Speciﬁ-
+cally, levels of Wnt10a expression in Irs1–4 knockout (KO)
+brown preadipocytes correlated inversely with their ability
+to differentiate. Expression of Wnt10a in Irs1 KO preadi-
+pocytes was blocked by ectopic Irs1 and partially reduced
+by ectopic Irs4, which correlated with restoration of differ-
+entiation [48]. Finally, Wnt10a gene expression progress-
+ively increased in BAT of Irs1 KO and Irs1/3 double-KO
+mice, which exhibit increasing defects in the development
+of adipose tissues [47]. Taken together, these data indicate
+that canonical WNT signalling through Wnt10b and/or
+Wnt10a blocks differentiation of brown preadipocytes,
+while stimulating conversion of mature brown adipocytes
+into white.
+WNT signalling and human adipogenesis
+The studies outlined previously demonstrate the involve-
+ment of WNT pathways in the regulation of murine adi-
+pocyte differentiation in vitro and in vivo. More recently,
+we and others have begun addressing the relevance of
+WNT signalling in human adipogenesis. Dkk1 speciﬁcally
+inhibits canonical WNT signalling by binding as a high-
+afﬁnity antagonist to LRP5/6 co-receptors. Expression of
+Dkk1 gene and protein is transiently induced during differ-
+entiation of human preadipocytes, and constitutive expres-
+sion of DKK1 in 3T3-L1 cells blocks WNT/b-catenin
+signalling and promotes adipogenesis [49]. Furthermore,
+in vitro studies showed that activating LRP5 mutations
+(owing to reduced afﬁnity to and inhibition by Dkk1 [50])
+inhibit adipogenic differentiation of human MSCs,
+whereas inactivating LRP5 mutations exert the opposite
+effect [51]. Collectively, these experiments indicate that
+Dkk1 promotes human adipogenesis by antagonising
+LRP5/6 signalling (Figure 3b).
+sFRP1 has also been implicated in the regulation of
+human adipogenesis. Graves’ thyroid ophthalmopathy
+(GO) results partly from intra-orbital WAT expansion.
+Using gene expression proﬁling, Kumar et al. [52] ident-
+iﬁed SFRP1 as one of the most highly upregulated tran-
+scripts in orbital WAT from patients with severe GO. In
+vitro recombinant sFRP1 enhanced differentiation of GO
+orbital preadipocytes, indicating a pathogenetic role in GO.
+WNT signalling, with other developmental pathways,
+has also been implicated in the regulation of body fat
+distribution in humans (and mice) [53]. Finally our group
+has sought to determine whether WNTs contribute to
+human obesity by screening two independent populations
+of obese subjects for mutations in the WNT10B gene [54].
+One proband with early-onset obesity was found to be
+heterozygous for a loss-of-function WNT10B mutation,
+which was not found in 600 control alleles. Although
+pedigree analysis did not provide deﬁnitive proof of a
+causal link of this variant with obesity, all relatives of
+the proband who carried this allele were either overweight
+or obese.
+Concluding remarks
+Abundant evidence, mostly derived from mouse studies,
+links WNT signalling to the regulation of adipogenesis
+(Figure 3). It must be mentioned that data derived from
+in vitro work utilizing overexpression experiments should
+be interpreted with caution. However, there is now com-
+pelling evidence that the canonical WNT pathway
+regulates MSC fate determination in vivo in humans
+and mice. Additionally, WNT signalling might have a role
+in the regulation of body fat distribution and, to a degree,
+susceptibility to obesity. Modulation of this pathway,
+Review Trends in Endocrinology and Metabolism Vol.20 No.1
+22
+therefore, might provide novel therapies for obesity and, by
+enhancing WAT functionality, the MS. Given the increas-
+ing prevalence and enormous worldwide impact on health
+and health care resources of disorders of adipose mass,
+further insights into the mechanisms by which WNTs
+regulate adipogenesis and MSC fate determination,
+speciﬁcally in humans, are a priority.
+Acknowledgements
+This research is funded by the Medical Research Council (MRC),
+Biotechnology and Biological Science Research Council (BBSRC),
+Diabetes UK and the European Union Sixth Framework Programme on
+Hepatic and Adipose tissue functions in the Metabolic Syndrome (EU-
+FP6 HEPADIP) (A.V.-P. and J.K.S.). Personal support is also
+acknowledged as follows: MRC Clinical Research Training Fellowship
+(C.C.), ALFEDIAM (Association de Langue Franc¸aise pour l’Etude du
+Diabe`te et des Maladies Me´taboliques) and Marie Curie Intra-European
+Fellowship (EIF) Postdoctoral fellowship (C.L.), MRC Career
+Establishment Award (A.V.-P.) and BBSRC David Phillips.
+References
+1 Kahn, B.B. and Flier, J.S. (2000) Obesity and insulin resistance. J.
+Clin. Invest. 106, 473–481
+2 Sethi, J.K. and Vidal-Puig, A.J. (2007) Thematic review series:
+adipocyte biology. Adipose tissue function and plasticity orchestrate
+nutritional adaptation. J. Lipid Res. 48, 1253–1262
+3 Gray, S.L. and Vidal-Puig, A.J. (2007) Adipose tissue expandability in
+the maintenance of metabolic homeostasis. Nutr. Rev. 65, S7–S12
+4 Savage, D.B. et al. (2005) Mechanisms of insulin resistance in humans
+and possible links with inﬂammation. Hypertension 45, 828–833
+5 Rosen, E.D. and Spiegelman, B.M. (2006) Adipocytes as regulators of
+energy balance and glucose homeostasis. Nature 444, 847–853
+6 Montague, C.T. and O’Rahilly, S. (2000) The perils of portliness: causes
+and consequences of visceral adiposity. Diabetes 49, 883–888
+7 Spalding, K.L. et al. (2008) Dynamics of fat cell turnover in humans.
+Nature 453, 783–787
+8 Rosen, E.D. and MacDougald, O.A. (2006) Adipocyte differentiation
+from the inside out. Nat. Rev. Mol. Cell Biol. 7, 885–896
+9 Farmer, S.R. (2006) Transcriptional control of adipocyte formation.
+Cell Metab. 4, 263–273
+10 Logan, C.Y. and Nusse, R. (2004) The Wnt signaling pathway in
+development and disease. Annu. Rev. Cell Dev. Biol. 20, 781–810
+11 Taipale, J. and Beachy, P.A. (2001) The Hedgehog and Wnt signalling
+pathways in cancer. Nature 411, 349–354
+12 Semenov, M.V. et al. (2007) SnapShot: noncanonical Wnt signaling
+pathways. Cell 131, 1378
+13 Mikels, A.J. and Nusse, R. (2006) Wnts as ligands: processing,
+secretion and reception. Oncogene 25, 7461–7468
+14 Jones, S.E. and Jomary, C. (2002) Secreted frizzled-related proteins:
+searching for relationships and patterns. Bioessays 24, 811–820
+15 Kawano, Y. and Kypta, R. (2003) Secreted antagonists of the Wnt
+signalling pathway. J. Cell Sci. 116, 2627–2634
+16 Ross, S.E. et al. (2000) Inhibition of adipogenesis by Wnt signaling.
+Science 289, 950–953
+17 Bennett, C.N. et al. (2002) Regulation of Wnt signaling during
+adipogenesis. J. Biol. Chem. 277, 30998–31004
+18 Krishnan, V. et al. (2006) Regulation of bone mass by Wnt signaling. J.
+Clin. Invest. 116, 1202–1209
+19 Longo, K.A. et al. (2004) Wnt10b inhibits development of white and
+brown adipose tissues. J. Biol. Chem. 279, 35503–35509
+20 Wright, W.S. et al. (2007) Wnt10b inhibits obesity in ob/ob and agouti
+mice. Diabetes 56, 295–303
+21 Bennett, C.N. et al. (2005) Regulation of osteoblastogenesis and bone
+mass by Wnt10b. Proc. Natl. Acad. Sci. U. S. A. 102, 3324–3329
+22 Kang, S. et al. (2007) Wnt signaling stimulates osteoblastogenesis of
+mesenchymal precursors by suppressing CCAAT/enhancer-binding
+protein a and peroxisome proliferator-activated receptor g. J. Biol.
+Chem. 282, 14515–14524
+23 Bodine, P.V. et al. (2004) The Wnt antagonist secreted frizzled-related
+protein-1 is a negative regulator of trabecular bone formation in adult
+mice. Mol. Endocrinol. 18, 1222–1237
+24 Koza, R.A. et al. (2006) Changes in gene expression foreshadow diet-
+induced obesity in genetically identical mice. PLoS Genet. 2, e81
+25 Vertino, A.M. et al. (2005) Wnt10b deﬁciency promotes coexpression of
+myogenic and adipogenic programs in myoblasts. Mol. Biol. Cell 16,
+2039–2048
+26 Arango, N.A. et al. (2005) Conditional deletion of b-catenin in the
+mesenchyme of the developing mouse uterus results in a switch to
+adipogenesis in the myometrium. Dev. Biol. 288, 276–283
+27 Garcia-Gras, E. et al. (2006) Suppression of canonical Wnt/b-catenin
+signaling by nuclear plakoglobin recapitulates phenotype of
+arrhythmogenic right ventricular cardiomyopathy. J. Clin. Invest.
+116, 2012–2021
+28 Lagathu, C. et al. (2003) Chronic interleukin-6 (IL-6) treatment
+increased IL-6 secretion and induced insulin resistance in adipocyte:
+prevention by rosiglitazone. Biochem. Biophys. Res. Commun. 311,
+372–379
+29 Cawthorn, W.P. and Sethi, J.K. (2008) TNF-a and adipocyte biology.
+FEBS Lett. 582, 117–131
+30 Gustafson, B. and Smith, U. (2006) Cytokines promote Wnt signaling
+and inﬂammation and impair the normal differentiation and lipid
+accumulation in 3T3-L1 preadipocytes. J. Biol. Chem. 281, 9507–9516
+31 Cawthorn, W.P. et al. (2007) Tumour necrosis factor-a inhibits
+adipogenesis via a b-catenin/TCF4(TCF7L2)-dependent pathway.
+Cell Death Differ. 14, 1361–1373
+32 Waki, H. et al. (2007) The small molecule harmine is an antidiabetic
+cell-type-speciﬁc regulator of PPARg expression. Cell Metab. 5, 357–
+370
+33 Liu, J. and Farmer, S.R. (2004) Regulating the balance between
+peroxisome proliferator-activated receptor g and b-catenin signaling
+during adipogenesis. A glycogen synthase kinase 3b phosphorylation-
+defective mutant of b-catenin inhibits expression of a subset of
+adipogenic genes. J. Biol. Chem. 279, 45020–45027
+34 Liu, J. et al. (2006) Functional interaction between peroxisome
+proliferator-activated receptor g and b-catenin. Mol. Cell. Biol. 26,
+5827–5837
+35 Moldes, M. et al. (2003) Peroxisome-proliferator-activated receptor g
+suppresses Wnt/b-catenin signalling during adipogenesis. Biochem. J.
+376, 607–613
+36 Kennell, J.A. et al. (2003) T-cell factor 4N (TCF-4N), a novel isoform of
+mouse TCF-4, synergizes with b-catenin to coactivate C/EBPa and
+steroidogenic factor 1 transcription factors. Mol. Cell. Biol. 23, 5366–
+5375
+37 Takemaru, K. et al. (2003) Chibby, a nuclear b-catenin-associated
+antagonist of the Wnt/Wingless pathway. Nature 422, 905–909
+38 Li, F.Q. et al. (2007) Chibby promotes adipocyte differentiation through
+inhibition of b-catenin signaling. Mol. Cell. Biol. 27, 4347–4354
+39 Topol, L. et al. (2003) Wnt-5a inhibits the canonical Wnt pathway by
+promoting GSK-3-independent b-catenin degradation. J. Cell Biol.
+162, 899–908
+40 Westfall, T.A. et al. (2003) Wnt-5/pipetail functions in vertebrate axis
+formation as a negative regulator of Wnt/b-catenin activity. J. Cell
+Biol. 162, 889–898
+41 Mikels, A.J. and Nusse, R. (2006) Puriﬁed Wnt5a protein activates or
+inhibits b-catenin-TCF signaling depending on receptor context. PLoS
+Biol. 4, e115
+42 Kanazawa, A. et al. (2004) Association of the gene encoding wingless-
+type mammary tumor virus integration-site family member 5B
+(WNT5B) with type 2 diabetes. Am. J. Hum. Genet. 75, 832–843
+43 Kanazawa, A. et al. (2005) Wnt5b partially inhibits canonical Wnt/b-
+catenin signaling pathway and promotes adipogenesis in 3T3-L1
+preadipocytes. Biochem. Biophys. Res. Commun. 330, 505–510
+44 Takada, I. et al. (2007) A histone lysine methyltransferase activated by
+non-canonical Wnt signalling suppresses PPAR-g transactivation. Nat.
+Cell Biol. 9, 1273–1285
+45 Kennell, J.A. and MacDougald, O.A. (2005) Wnt signaling inhibits
+adipogenesis through b-catenin-dependent and -independent
+mechanisms. J. Biol. Chem. 280, 24004–24010
+46 Kang, S. et al. (2005) Effects of Wnt signaling on brown adipocyte
+differentiation and metabolism mediated by PGC-1a. Mol. Cell. Biol.
+25, 1272–1282
+47 Tseng, Y.H. et al. (2005) Prediction of preadipocyte differentiation by
+gene expression reveals role of insulin receptor substrates and necdin.
+Nat. Cell Biol. 7, 601–611
+Review Trends in Endocrinology and Metabolism Vol.20 No.1
+23
+48 Tseng, Y.H. et al. (2004) Differential roles of insulin receptor substrates
+in brown adipocyte differentiation. Mol. Cell. Biol. 24, 1918–1929
+49 Christodoulides, C. et al. (2006) The Wnt antagonist Dickkopf-1 and its
+receptors are coordinately regulated during early human adipogenesis.
+J. Cell Sci. 119, 2613–2620
+50 Ai, M. et al. (2005) Reduced afﬁnity to and inhibition by DKK1 form a
+common mechanism by which high bone mass-associated missense
+mutations in LRP5 affect canonical Wnt signaling. Mol. Cell. Biol. 25,
+4946–4955
+51 Qiu, W. et al. (2007) Patients with high bone mass phenotype exhibit
+enhanced osteoblast differentiation and inhibition of adipogenesis of
+human mesenchymal stem cells. J. Bone Miner. Res. 22, 1720–1731
+52 Kumar, S. et al. (2005) Gene expression proﬁling of orbital adipose
+tissue from patients with Graves’ ophthalmopathy: a potential role for
+secreted frizzled-related protein-1 in orbital adipogenesis. J. Clin.
+Endocrinol. Metab. 90, 4730–4735
+53 Gesta, S. et al. (2006) Evidence for a role of developmental genes in the
+origin of obesity and body fat distribution. Proc. Natl. Acad. Sci. U. S. A.
+103, 6676–6681
+54 Christodoulides, C. et al. (2006) WNT10B mutations in human obesity.
+Diabetologia 49, 678–684
+55 Karelis, A.D. et al. (2004) Metabolic and body composition factors in
+subgroups of obesity: what do we know? J. Clin. Endocrinol. Metab. 89,
+2569–2575
+56 Ruderman, N. et al. (1998) The metabolically obese, normal-weight
+individual revisited. Diabetes 47, 699–713
+57 Agarwal, A.K. and Garg, A. (2006) Genetic basis of lipodystrophies and
+management of metabolic complications. Annu. Rev. Med. 57, 297–
+311
+58 Klein, S. et al. (2004) Absence of an effect of liposuction on insulin
+action and risk factors for coronary heart disease. N. Engl. J. Med. 350,
+2549–2557
+59 Yki-Jarvinen, H. (2004) Thiazolidinediones. N. Engl. J. Med 351, 1106–
+1118
+60 Tran, T.T. et al. (2008) Beneﬁcial effects of subcutaneous fat
+transplantation on metabolism. Cell Metab. 7, 410–420
+61 Kim, J.Y. et al. (2007) Obesity-associated improvements in metabolic
+proﬁle through expansion of adipose tissue. J. Clin. Invest. 117, 2621–
+2637
+62 Medina-Gomez, G. et al. (2007) PPAR g 2 prevents lipotoxicity by
+controlling adipose tissue expandability and peripheral lipid
+metabolism. PLoS Genet. 3, e64
+Review Trends in Endocrinology and Metabolism Vol.20 No.1
+24

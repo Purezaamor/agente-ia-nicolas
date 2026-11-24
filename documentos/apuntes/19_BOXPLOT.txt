@@ -1,0 +1,103 @@
+=== Fuente: 19_BOXPLOT.pdf ===
+
+EL GRÁFICO DE LA CAJA (BOX PLOT)
+Representa gráficamente a los datos sin especificar todos los detalles. 
+Está relacionado con el estudio de la simetría de la distribución, la 
+variabilidad de los datos y la concentración de los mismos en las colas 
+de la distribución.
+S E N T E N C IA S
+PROC BOXPLOT < opciones > ; 
+PLOT variables*grupo < variables-bloque > < =símbolo-variable > < / opciones > ; 
+BY variables; 
+ID variables; 
+Principal Opción de la Sentencia PROC BOXPLOT
+Opciones
+DATA = Data SAS ;
+Ambas sentencia  PROC BOXPLOT y PLOT son necesarias. Se puede 
+especificar cualquier número de sentencias PLOT con una única invocación 
+PROC BOXPLOT.
+Sentencia PLOT  
+PLOT variables*grupo < variables-bloque > < =símbolo-variable > < / optiones > ;
+• Agregar leyendas y símbolos.
+• Mostrar y controlar líneas de referencias verticales y horizontales.
+• Controlar los valores, referencias y apariencia del grafico.
+Variables a analizar: Identifica las variables a ser analizadas.
+proc boxplot data=maiz;
+plot (peso alto ancho )*hibrido;
+run;
+variable-grupal: Especifica la variable que identifica a un grupo de datos, 
+en el ejemplo anterior, híbrido es la variable grupal. 
+variables -bloque: Especifica una variable que agrupa los niveles de la 
+variable de bloques en grupos consecutivos. Los niveles de la variable 
+grupal deben estar anidados dentro de la variable de bloqueo.
+title2 'ESTILO DE LA CAJA: SKELETAL';
+proc boxplot data=soja;
+plot y * VARIEDAD /boxstyle = skeletal
+nohlabel cframe = ywh idcolor = blue NONSERIFS
+label y = 'rendimiento';
+run ;
+BOXSTYLE=SKELETAL : los “bigotes” son dibujados del borde de 
+la caja a los valores extremos del grupo. Por defecto agrega un 
+segmento (serif) a los bigotes, si se desea eliminar se usa la 
+opción NONSERIF. 
+Principales opciones de PLOT 
+title2 'ESTILO DE LA CAJA: SCHEMATIC';
+proc boxplot data=soja;
+plot y * VARIEDAD /boxstyle = schematic
+nohlabel cframe= ywh idcolor = salmon
+vaxis= axis1;
+label y = 'rendimiento';
+run ;
+BOXSTYLE=SCHEMATIC : un bigote es dibujado desde la 
+parte superior de la caja al mayor valor dentro de la valla 
+interna superior y desde la cara inferior de la caja al menor 
+valor dentro de la valla interna inferior, incluyendo Serif por 
+default. Las observaciones fuera de las vallas son 
+identificadas con símbolos especiales, se pueden 
+seleccionar la forma y el color con las opciones 
+IDSYMBOL= IDCOLOR=.
+title2 'ESTILO DE LA CAJA: SCHEMATICID';
+proc boxplot data=soja;
+plot y * VARIEDAD /boxstyle = schematicid
+nohlabel cboxes = dagr idcolor = salmon
+id loc;
+label y = 'rendimiento';
+run ;
+BOXSTYLE=SCHEMATICID : muestra un gráfico esquemático 
+de caja en el cual los valores de la variable listada en la 
+sentencia ID se usa para marcar el símbolo de cada 
+observación fuera de las vallas.
+BOXSTYLE=SCHEMATICIDFAR : muestra un gráfico 
+esquemático de caja en el cual los valores de la primera 
+variables listada en la sentencia ID es usada para marcar el 
+símbolo de cada observación fuera de las vallas externas.
+title2 'ESTILO DE LA CAJA: SCHEMATICIDFAR';
+proc boxplot data=soja;
+plot y * VARIEDAD/boxstyle=schematicidfar
+cframe= ywh idcolor= blue 
+BOXCONNECT= MEDIAN ;
+id loc;
+label y = 'rendimiento';
+run;
+BOXCONNECT=MEAN | MEDIAN | MAX | MIN | Q1 | Q3 
+Especifica los estadísticos a unirse por una línea. Si no se 
+especifica ninguno la línea unirá valores de medias de las 
+cajas.
+CONTINUOUS 
+Especifica que la variable de agrupamiento numérica será
+tratada como variable continua. Por default, los valores de 
+una variables numérica de agrupamiento son tratados como 
+valores discretos (igualmente espaciados), al menos que la 
+opción HAXIS sea especificada.
+NOTCHES 
+Especifica que el gráfico de caja y bigotes se angoste  “notched”. El 
+punto final de los notches esta localizado en la mediana más 
+menos 1.58 (IQR/n 1/2 ) donde IQR es el rango intercuartil y n es el 
+tamaño del grupo muestreado. Las medianas (línea central) de dos 
+gráficos de la caja son significativamente diferentes al 5% si el 
+correspondiente “notched” no se superpone.
+proc boxplot data=soja;
+plot y * variedad /boxstyle = schematicid
+cboxfill = ywh nohlabel notches  idcolor=dagr
+BOXCONNECT= MEDIAN ;  
+id loc;  label y = 'Rendimiento'; run ; 

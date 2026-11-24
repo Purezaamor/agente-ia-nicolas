@@ -1,0 +1,585 @@
+=== Fuente: Formulaciónderaciones2011.pdf ===
+
+Formulación de 
+raciones
+Ing. Agr. Marisa Wawrzkiewicz
+Ing. Agr. Gustavo Jaurena
+Ing. Agr. Rocío Martínez
+Ing. Agr. Alejandro Palladino
+Departamento Producción Animal
+Facultad de Agronomía - UBA 
+En la formulación de raciones 
+es necesario integrar todos los 
+conocimiento adquiridos sobre 
+nutrición, alimentos y 
+animales.
+Teniendo siempre presente el objetivo 
+de producción propuesto, 
+habitualmente económico-productivo.
+Una ración balanceada debe 
+suministrar todos los nutrientes 
+en las cantidades y 
+proporciones necesarias para 
+nutrir apropiadamente a un 
+animal determinado, por un 
+período de 24 horas.
+Morrison, 1956
+El uso de dietas correctamente 
+balanceadas presenta las 
+siguientes ventajas:
+/ring4 Alcanzar el potencial genético de los 
+animales.
+/ring4 Mejorar el estado de salud de los animales 
+(medicina preventiva)
+/ring4 El uso eficiente de los nutrientes disminuye 
+el costo de producción por unidad de 
+producto.
+/ring4 Lograr un producto de calidad óptima.
+Definiciones:
+/ring4 Dieta: es el alimento o conjunto de 
+ellos que consume un animal.
+/ring4 Ración: es la cantidad de dieta que 
+es consumida diariamente por un 
+animal.
+Procedimiento general para la 
+formulación de raciones
+/ring4 Estimación del consumo diario en kg
+MS/animal/día.
+/ring4 Estimación de los requerimientos de los 
+animales.
+/ring4 Listado de los alimentos disponibles para la 
+formulación.
+/ring4 Estimación de la composición de los 
+alimentos a utilizar.
+Técnicas de formulación:
+/ring4 Manuales
+/circle6 Ecuaciones simultáneas
+/circle6 Cuadrado de Pearson
+/circle6 Sustitución
+/circle6 Usando ingredientes en cantidades fijas
+/ring4 Programas de computación
+/circle6 Aproximaciones sucesivas
+/circle6 Mínimo costo
+Ecuaciones simultáneas
+Ejemplo 1 :
+Formular un concentrado para novillos en pastoreo que contenga 
+3.1 Mcal EM/kg MS con los siguientes alimentos:
+Grano de sorgo: 3.40 Mcal EM/kg MS
+Sojilla: 2.72 Mcal EM/kg MS
+Objetivo : averiguar la proporción de cada 
+ingrediente en la composición final
+Siendo,    X = kg MS sorgo                      Y = kg MS sojilla
+X + Y = 1 kg MS complemento
+entonces X = 1 – Y (1)
+3.40 * X + 2.72 * Y = 3.10 Mcal EM/kg MS  (2)
+Sustituyendo (1) en (2):
+3.40 * (1 – Y) + 2.72 * Y = 3.10       operando,
+Y = -0.3 / -0.68 = 0.44
+Como    X = 1 – 0.44 = 0.56
+Resultado : las proporciones son 56% sorgo y 44% 
+sojilla en base seca.
+Modo de cálculo
+Cuadrado de Pearson
+Ejemplo 2 :
+Utilizo los datos del ejemplo 1 y formular un 
+concentrado de 3.2 Mcal EM/kg MS utilizando 
+grano de sorgo y sojilla
+Objetivo : averiguar las proporciones de sorgo y 
+de sojilla por unidad de peso de complemento.
+Modo de cálculo
+Sorgo 3.40
+Sojilla 2.72
+3.2
+0.20
+0.48
+0.68
+0.48/0.68 = 0.71
+0.20/0.68 = 0.29
+71%
+29%
+Resultado: el complemento contiene 71% de 
+sorgo y 29% de sojilla en base seca.
+Sustitución
+Ejemplo 3 :
+Supongamos que debo disminuir el 
+contenido energético del grano de maíz de 
+3.4 Mcal EM/kg MS a 3.3 Mcal EM/kg MS 
+utilizando grano de avena que contiene 
+2.85 Mcal EM/kg MS.
+Objetivo : calcular la proporción en la que se 
+debe reemplazar el grano de maíz por el 
+de avena y averiguar las proporciones 
+finales de la mezcla.
+Modo de cálculo
+/ring4 Maíz: 3.40 Mcal EM/kg MS
+/ring4 Avena:     2.85 Mcal EM/kg MS
+Entonces, por cada kg de maíz reemplazado por otro 
+de avena la EM disminuye 0.55 Mcal (3.40 – 2.85) 
+Si debo disminuir 0.1 Mcal EM/kg MS (3.4 – 3.3),
+0.1 Mcal EM  /  0.55 Mcal EM =  0.18 proporción a 
+sustituir
+Finalmente, por cada 100 kg de concentrado 
+habrá 82% maíz y 18% avena .
+Usando ingredientes en 
+cantidades fijas
+Este procedimiento se utiliza cuando en la 
+ración se deben agregar componentes 
+que van en baja proporción, por ejemplo:
+• Minerales (macro y microminerales)
+• Sal (Cloruro de sodio)
+• Aditivos
+• Grasa
+Modo de cálculo
+Ejemplo 4 :
+Concentrado de 3.2 Mcal EM/kg MS y 14% PB
+Núcleo vitamínico y mineral 11%
+Se diluirán la energía y la proteína!!
+Debo formular el complemento como para que la E y la 
+PB estén contenidas en el 89% restante.
+Energía:
+3.2 Mcal /  0.89  =  3.60 Mcal/kg MS
+Proteína:
+14 %  /  0.89  =  15.7% PB
+/square4 La formulación de raciones se realiza en base seca.
+/square4 La humedad de los alimentos utilizados es muy variable.
+/square4 La mezcla de los alimentos para la preparación de dietas y 
+suplementos se realiza con los alimentos tal cual (base 
+húmeda).
+/square4 Al trabajar en MS puedo comparar la composición de los 
+alimentos.
+Conceptos de materia seca y materia húmedaConceptos de materia seca y materia húmeda
+Conceptos de materia seca y materia Conceptos de materia seca y materia 
+húmedahúmeda
+/ring4 Base húmeda: incluye el agua naturalmente presente 
+en los alimentos
+/ring4 Base seca: excluye el agua de los alimentos.
+ConversiónConversión MSMS yy MHMH
+kg MH x (%MS/100) = kg MS
+entonces,
+kg MH = kg MS/ (%MS/100)
+ConversiónConversión base húmedabase húmeda aa base secabase seca
+Cuántos kg de MS contienen 3000 kg MH de silaje de
+maíz con 35 % de MS?
+kg MH x (%MS/100) = kg MS
+3000 kg MH x (35/100) = kg MS
+3000 kg MH x 0.35 = 1050 kg MS  de silaje de MZ
+ConversiónConversión base secabase seca aa base húmedabase húmeda
+Cuántos kg MH debo agregar en el mixer si necesito
+que la TMR tenga 600 kg MS de expeller de soja (92 %
+de MS)?
+kg MH = kg MS/ (%MS/100)
+kg MH = 600 kg MS/ (92/100)
+kg MH = 600 kg MS/ 0.92
+kg MH = 652 kg de expeller de soja
+Concentración de los nutrientes enConcentración de los nutrientes en base base 
+secaseca y eny en base húmedabase húmeda
+
+Concentración de los nutrientes enConcentración de los nutrientes en base base 
+secaseca y eny en base húmedabase húmeda
+
+Concentración de los nutrientes enConcentración de los nutrientes en base base 
+secaseca y eny en base húmedabase húmeda
+
+Concentración de los nutrientes enConcentración de los nutrientes en base secabase seca y y 
+enen base húmedabase húmeda
+Cálculo del contenido de PB BH de un alimento 
+que contiene 88 % de MS y 17 % PB BS
+% Nutriente BH = % Nutriente BS x (%MS/100)
+% PB BH = % PB BS x (%MS/100)
+% PB BH = 17 % PB BS x (88/100)
+% PB BH = 15 % PB BH
+Concentración de los nutrientes enConcentración de los nutrientes en base secabase seca y y 
+enen base húmedabase húmeda
+Cálculo del contenido de PB BS de un alimento
+que contiene 18 % de MS y 3.4 % PB BH
+% Nutriente BS = % Nutriente BH /(%MS/100)
+% PB BS = % PB BH /(%MS/100)
+% PB BS = 3.4 % PB BH /(18/100)
+% PB BS = 18.9 % PB BS
+
+Ejemplo (4/11/10)
+/ring4 Formular para 2,8 Mcal/kg MS con
+/circle6 Pastura 2,5 Mcal EM / kg MS
+/circle6 Grano de maíz 3,4 Mcal EM / kg MS
+2,5               0,6      0,6/0,9 = 67%bs
+2,8
+3,4              0,3       0,3/0,9 = 33%bs
+------------
+0,9
+Cálculo de la ración en base 
+húmeda
+67 kg MS + 33 kg MS = 100 kg MS
+67 kg MS / 0,25 = 268 kg MH
+33 kg MS / 0,88 =  37,5 kg MH
+-----------------
+305,5 kg MH
+268 kg MH / 305,5 kg MH = 87,7 % Pastura
+37,5 kg MH / 305,5 kg MH = 12,3 % Grano maíz
+Cuanta superficie debo dar a 
+cada animal?
+Si…..
+CMS total (kg) = 5 kg MS/an
+Pastura disponibilidad 3500 kg MS/ha
+Ef cosecha 68%
+CMS pastura = 5 kg MS x 0,667 = 3,3 kg MS
+3,3 kg MS cosechado / 0,68 = 4,9 kg MS 
+ofrecido
+3500 kg MS ___________ 1 ha
+4,9 kg MS _____________ X = (4,9 * 1) / 3500
+X = 14 m 2
+Cómo se modifica la asignación 
+si los 5 kg MS/d es consumo 
+voluntario y no restringido?
+Debo ofrecer 3 a 4 veces lo que los animales 
+deben consumir
+entonces,
+3,3 kg MS pastura /d * 4 veces = 
+13,2 kg MS ofrecida /d
+3500 kg MS ___________ 1 ha
+13,2 kg MS ___________ X = (13,2 * 1) / 3500
+X = 38 m 2
+Ejercicio 1 (8/11/10)
+/ring4 Formular un alimento concentrado 
+con tres ingredientes con 82% DMS y 
+26%bs PB. Informar,
+/circle6 Formulación en base seca
+/circle6 Formulación en base húmeda
+/circle6 Cantidad de cada alimento para 
+preparar un batch de 3000 kg MH
+/circle6 Contenido de PB en base húmeda de 
+la mezcla
+Alimentos disponibles
+9,09187Grano de 
+maíz (GM)
+367889Harina de 
+algodón (HA)
+7,88921Pulpa de 
+citrus (PC)
+EM 
+(Mcal/kg MS)
+PB 
+(%bs)
+DMS 
+(%bs)
+MS 
+(%)
+Alimento
+Alimentos disponibles
+3,39,09187Grano de 
+maíz (GM)
+2,8367889Harina de 
+algodón (HA)
+3,27,88921Pulpa de 
+citrus (PC)
+EM 
+(Mcal/kg MS)
+PB 
+(%bs)
+DMS 
+(%bs)
+MS 
+(%)
+Alimento
+Pasos siguientes…
+/ring4 Objetivo de la formulación?
+EM (Mcal/kg MS) = 4,4 Mcal EB * (82% DMS / 100) * 0,82
+EM = 2,96 Mcal/kg MS
+/ring4 Mezcla con tres ingredientes!!!!
+/circle6 Premezcla 1 = (Pulpa de citrus + Harina de algodón)
+/circle6 Premezcla 2 = (Grano de maíz + Harina de algodón)
+/circle6 Mezcla final de Premezclas 1 y 2
+Ambas por EM de 2,96 Mcal/kg MS
+Mezclas previas…
+/ring4 Premezcla 1
+PC       3,2               0,16      0,16/0,4 = 40%bs
+2,96
+HA       2,8               0,24      0,24/0,4 = 60%bs
+------------
+0,40
+/ring4 Premezcla 2
+GM       3,3               0,16      0,16/0,5 = 32%bs
+2,96
+HA        2,8               0,34      0,34/0,5 = 68%bs
+------------
+0,50
+Contenido de PB de las 
+premezclas…
+/ring4 Premezcla 1
+PB (%) = (40%/100) * 7,8% + (60%/100) * 36% 
+PB = 24,7 %bs
+/ring4 Premezcla 2
+PB (%) = (32%/100) * 9,0% + (68%/100) * 36%
+PB = 27,4 %bs
+Mezcla final….
+/circle6 Formulación por proteína….
+Premezcla 1     24,7               1,4      1,4/2,7 = 51,9%bs
+26,0
+Premezcla 2      27,4              1,3      1,3/2,7 = 48,1%bs
+------------
+2,7
+Formulación final…
+Prem. 2
+Prem. 1
+60*0,519=31,16089Harina de algodón
+32*0,481=15,43287Grano de maíz
+68*0,481=32,7
+48,1
+6889Harina de algodón 
+40*0,519=20,8
+51,9
+4021Pulpa de citrus
+Mezcla (%bs)Mezcla 
+final (%bs)
+Prem. 
+(%bs)
+MS 
+(%)
+Alimento
+----------
+100 %
+Respuesta 1
+Grano de maíz
+Harina de algodón
+Pulpa de citrus
+15,4
+63,8
+20,8
+Mezcla (%bs)
+15,4/(87/100)=17,7
+63,8/(89/100)=71,7
+20,8/(21/100)=99,0
+Mezcla (kg MH)
+71,7/188,4= 38,163,889
+Harina 
+de 
+algodón
+17,7/188,4= 9,415,487Grano de maíz
+99,0/188,4= 52,520,821Pulpa de citrus
+Mezcla (kg MH)Mezcla 
+(kg MS)
+MS 
+(%)
+Alimento
+----------
+100 kg MS
+----------
+188,4 kg MH
+----------
+100 kg MH
+Respuesta 2
+15,4
+63,8
+20,8
+Mezcla (%bs)
+Grano de maíz
+Harina de algodón
+Pulpa de citrus
+9,4
+38,1
+52,5
+Mezcla (%bh)
+Respuesta 3
+9,4
+38,1
+52,5
+Mezcla (%bh)
+Grano de maíz
+Harina de algodón
+Pulpa de citrus
+(9,4/100)*3000=282
+(38,1/100)*3000=1143
+(52,5/100)*3000=1575
+Mezcla (3000 kg MH)
+Respuesta 4
+/ring4 Contenido de MS de la mezcla final
+100 / 188,4 = 53,1 % MS
+26 %bs PB * (53,1/100) = 13,8 %bh PB
+/ring4 Formule una ración que permita cubrir los 
+requerimientos de una vaca lechera de 600 kg PV sin 
+variación de peso y con 90 días en lactancia que 
+produce 30 kg leche/d con 35 g GB/kg leche. Asuma 
+un 20 % AV. kl = 0,62
+/ring4 Los alimentos disponibles son,
+/circle6 Silaje de planta entera de maíz
+/circle6 Harina de soja
+/circle6 Afrechillo de trigo
+/circle6 Harina de girasol
+/circle6 Grano de maíz
+Ejercicio 2
+Pasos a seguir para la 
+resolución del problema
+/ring4 Estimación de los requerimientos
+/circle6 Energéticos
+/circle6 Proteicos
+/ring4 Estimación del consumo
+/ring4 Cálculo de la concentración energético y 
+proteica de la ración
+/ring4 Composición de los alimentos disponibles
+/ring4 Formulación de la ración en base seca y 
+húmeda
+/ring4 Calcular el precio de la ración
+Req E mant (Mcal EM/d) = ((600 0,75 *0,085 Mcal/kg
+PM)*1,2)/0,62 = 20 Mcal EM/d
+EVl (Mcal EN/kg leche) = 0,36 + 0,0969 * 3,5 % GB = 0,70
+Req E prod (Mcal EM/d) = (0,70 McalEN/kg * 30 kg)/0,62 = 
+33,9 Mcal EM /d
+Req total = 20 + 33,9 = 53,9 Mcal EM/d
+Requerimientos energéticos
+Requerimientos proteicos
+Req. mant PB (g/d) = 406
+Req. Prod PB (g/d) = 84 g/kg * 30 kg = 2520
+Req total PB (kg/d) = 0,406 + 2,52 = 2,93
+Consumo de materia seca y 
+composición de la ración
+CMS = 0,025 * 600 + (0,22 * 30 ) = 21,6 kg MS/d
+EM DIETA (Mcal/kg MS) = 53,9 Mcal/d / 21,6 kg
+MS/d = 2,50
+PB DIETA (%) = (2,93 kg/d / 21,6 kg MS/d) * 100 = 
+13,6
+Composición de los 
+alimentos
+9,6
+30,5
+13,8
+40,5
+7,0
+PB 
+(%bs)
+8003,388Grano de maíz
+10002,789Harina de girasol
+4502,486Afrechillo de 
+trigo
+12003,291Harina de soja
+702,333Silaje de maíz
+Precio 
+($/t MH)
+EM 
+(Mcal/kg
+MS
+MS 
+(%)
+Alimento
+Precios de los alimentos
+/ring4 Harina de soja 1200 $/t
+/circle6 Precio ($/kg PB) = 1200 $/ (0,405 * 1000) = 3,0
+/ring4 Afrechillo de trigo  450 $/t
+/circle6 Precio ($/kg PB) = 450 $/ (0,138 * 1000) = 3,3
+/ring4 Harina de girasol 1000 $/t
+/circle6 Precio ($/kg PB) = $/ (0,305 * 1000) = 3,3
+Formulación por energía…. Premezcla 1
+Silaje de maíz     2,3            0,7      0,7/0,9 = 77,8 %bs
+2,5
+Harina de soja    3,2             0,2     0,2/0,9 = 22,2 %bs
+----------
+0,9
+PB (%) = (77,8%/100) * 7,0% + (22,2%/100) * 40,5% 
+PB = 14.43 %bs
+Formulación por energía…. Premezcla 2
+Silaje de maíz     2,3            0,8      0,8/1,0 = 80 %bs
+2,5
+Grano de maíz    3,3           0,2     0,2/1,0 = 20 %bs
+----------
+1,0
+PB (%) = (80%/100) * 7,0% + (20%/100) * 9,6% 
+PB = 7,5 %bs
+Mezcla final….
+/circle6 Formulación por proteína….
+Premezcla 1     14,4               6,1      6,1/6,9 = 89 %bs
+13,6
+Premezcla 2      7,5               0,8      5,6/6,9 = 11 %bs
+------------
+6,9
+Formulación final…
+Prem. 
+2
+Prem. 
+1
+77,8*0,89=69,277,833Silaje de maíz
+20*0,11=2,22088Grano de maíz
+80*0,11=8,8
+11
+8033Silaje de maíz
+22,2*0,89=19,8
+89
+22,291Harina de soja
+Mezcla (%bs)Mezcla 
+final 
+(%bs)
+Prem. 
+(%bs)
+MS 
+(%)
+Alimento
+----------
+100 %
+Respuesta: formulación en 
+base seca 
+Grano de maíz
+Silaje de maíz
+Harina de soja
+2,2
+78
+19,8
+Mezcla (%bs)
+2,2/(88/100)=2,5
+78/(33/100)=236,4
+19,8/(91/100)=21,8
+Mezcla (kg MH)
+236,4/260,7= 90,77833Silaje de maíz
+2,5/260,7= 0,92,288Grano de maíz
+21,8/260,7= 8,419,891Harina de soja
+Mezcla (kg MH)Mezcla 
+(kg MS)
+MS 
+(%)Alimento
+----------
+100 kg MS
+----------
+260,7 kg MH
+----------
+100 kg MH
+Respuesta: formulación en 
+base húmeda
+2,2
+78
+19,8
+Mezcla (%bs)
+Grano de maíz
+Silaje de maíz
+Harina de soja
+0,9
+90,7
+8,4
+Mezcla (%bh)
+Respuesta: precio de la 
+ración ($/kg MS)
+88
+33
+91
+MS 
+(%)
+446,6 
+$/t MS ración
+909*0,022=
+20
+800/0,88=
+9098002,2Grano de maíz
+212*0,78=
+165,4
+70/0,33=
+2127078Silaje de maíz
+1319*0,198=
+261,2
+1200/0,91=
+1319120019,8Harina de soja
+Precio ($/t 
+MS)
+Precio 
+($/t MH)
+Mezcla 
+(%bs)
+Situación final…
+/ring4 Costo diario de alimentación por vaca
+/circle6 21,6 kg MS/an/d * (446,6 $/t MS * 1000)
+/circle6 9,64 $/an/d costo del alimento (sin 
+suministro)

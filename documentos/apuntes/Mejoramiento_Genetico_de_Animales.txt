@@ -1,0 +1,679 @@
+=== Fuente: Mejoramiento_Genetico_de_Animales.pdf ===
+
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 1
+CIENCIA
+ AL DIA
+SEPTIEMBRE, 1998                NUMERO 2 VOLUMEN I
+Copyright © 1998 Ciencia al Día
+ Mejoramiento Genético
+de Animales
+© Hugo H. Montaldo Valdenegro 1998
+hmontald@metz.une.edu.au
+© Nelson Barría Pérez 1998
+vetbarri@abello.dic.uchile.cl
+RESUMEN
+ En el presente artículo se presenta una visión general del
+mejoramiento genético de animales y se describen algunos de sus
+problemas y perspectivas en 1998. Se discuten aspectos relacionados
+con el establecimiento de objetivos, con la evaluación genética de
+animales, con métodos para aprovechar diferentes efectos de los
+genes, con la optimización de programas genéticos y con el uso de
+nuevas tecnologías.  Se concluye que la evaluación de animales en
+base de datos de mediciones (fenotipo) y pedigrí para calcular los
+valores genéticos estimados (VGEs), seguirá en el futuro siendo la
+base del mejoramiento animal. Se esperan mejoras en los métodos
+para ponderar económicamente diferentes características para la
+selección y para maximizar la respuesta a los programas genéticos,
+controlando costos y consanguinidad con nuevas herramientas de
+análisis y optimización de problemas complejos y no-lineales como los
+algoritmos genéticos y la inteligencia artificial. Otros avances son la
+generalización de métodos para evaluar genéticamente poblaciones
+compuestas por diversas razas y cruzas y el desarrollo de métodos
+para incorporar la información genómica (marcadores moleculares
+de ADN) y el uso de técnicas reproductivas basadas en la
+manipulación de la fisiología reproductiva de los animales, gametos
+y embriones en el diseño de programas más eficientes de mejora
+animal. Nuevos avances en la tecnología reproductiva y molecular
+pueden permitir perfeccionar el análisis y utilización de las
+interacciones entre genes y entre los genes y el medio ambiente.
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 2
+ABSTRACT
+  In the present paper a broad view of animal breeding is given, and
+some of its problems and prospective in 1998 are described. Issues
+related with the definition of breeding objectives, genetic evaluation,
+methods to utilize different types of gene action, optimization of breed-
+ing programs and use of new technologies are discussed.  It is con-
+cluded that evaluation of animals on the basis of measurements (phe-
+notype) and pedigree for calculating estimated breeding values (EBVs)
+would remain as the basis for genetic improvement of animals. Im-
+provements in the methods to obtain economic weights for different
+traits for selection and to maximize the response to breeding programs
+restricting inbreeding and costs with new optimization and analysis
+tools for non-linear complex problems such as the genetic algorithms
+and artificial intelligence are expected. Other improvements are the
+generalization of methods for genetic evaluation of populations consist-
+ing of different breeds and crosses and the development of methods
+to incorporate genomic information (DNA molecular markers), and the
+use of new reproductive techniques based on the manipulation of re-
+productive physiology of animals, gametes and embryos in the design
+of more efficient animal breeding programs. New advances in repro-
+ductive and molecular technology could help in the improvement of the
+analysis and use of interactions among genes and between genes and
+the environment.
+Introducción
+El concepto de mejoramiento genético de animales (MGA) posiblemente
+sugiere distintas imágenes en diferentes personas. En el plano práctico, surge la
+idea de usar y combinar mejores razas y animales en las diversas especies de
+animales domésticos, sin preguntarnos mucho acerca de definir o evaluar el mérito
+o de cómo definir mejores. En el plano científico, las ideas que aparecen con más
+frecuencia están relacionadas con los últimos avances publicitados en tecnología
+reproductiva y molecular, como la clonación (producción de animales
+genéticamente idénticos) y otras manipulaciones recientes de la reproducción y
+el uso de marcadores genéticos del ADN (depositario de la información genética
+de los organismos) para la selección. En realidad, la situación es algo diferente.
+Este trabajo pretende dar una visión general de la disciplina y describir
+algunos de sus métodos y sus problemas actuales en 1998. 
+Un intento de definición
+El MGA consiste en aplicar principios biológicos, económicos y
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 3
+matemáticos, con el fin de encontrar estrategias óptimas para aprovechar la
+variación genética existente en una especie de animales en particular para
+maximizar su mérito. Esto involucra tanto la variación genética entre los
+individuos de una raza, como la variación entre razas y cruzas. 
+El MGA involucra procesos de evaluación genética y difusión del material
+genético seleccionado, en los cuales se pueden usar tecnologías reproductivas
+artificiales tales como la inseminación artificial (AI), la ovulación múltiple y
+transferencia embrionaria (OMTE), la fertilización in vitro de embriones, así como
+el uso de marcadores de ADN.  
+Los dos principales problemas que nos formulamos en un programa de
+MGA son:
+1) Cómo definir el mérito (objetivo del programa) y,
+2) Cómo lograr este objetivo (sistema de evaluación, uso y difusión de la
+mejora a la población comercial).
+Las dos herramientas primordiales del MGA son la selección (determinar
+cuáles individuos van a dejar descendencia) y los sistemas de apareamiento
+(determinar cómo los individuos seleccionados serán apareados).
+La medición de la producción animal
+La herramienta que más ha impactado el mejoramiento animal en el mundo
+es el control de producción. En efecto, la medición objetiva de la producción de
+los animales sirve para hacer evaluaciones de los mismos para la selección, evaluar
+las razas y cruzas, estimar los parámetros requeridos para los programas, medir
+aspectos económicos y optimizar el proceso. 
+En un principio, los sistemas de control fueron generalmente simples e
+incluyeron solo evaluaciones de cantidad (producción de leche, peso del vellón en
+ovejas, pesos corporales a determinadas edades en animales productores de
+carne). Más recientemente, las necesidades del mercado y el deseo de los
+criadores de tomar decisiones en base a un conjunto de características mas
+estrechamente relacionadas con el valor económico de la producción y la
+consideración de aspectos sociales en los objetivos de producción, han
+incorporado una serie diversa de características de calidad, como el contenido de
+grasa de la carne y proteína de la leche, características de la carne como el área
+de músculo en diversos cortes, la dureza, el porcentaje de grasa etc.  Algunas de
+estas características son difíciles o imposibles de medir en el animal vivo, por lo
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 4
+que son evaluadas a través de métodos indirectos. Un ejemplo es el uso del
+scanner para medir características de composición corporal como el porcentaje
+de grasa en el animal in vivo . Otras características que se evalúan en los
+programas de mejoramiento son las relacionadas con la fertilidad, la supervivencia
+y la resistencia a enfermedades. En etapas más recientes se ha intentado medir
+variables asociadas con los costos de producción, como el costo de los alimentos
+y medicamentos. En general, los avances técnicos están permitiendo realizar
+mediciones más precisas y frecuentes e incluir características más estrechamente
+relacionadas con los objetivos de los programas genéticos.
+El control de producción está generalmente asociado, salvo en el caso de
+sistemas de producción extensivos en rumiantes, a un completo y riguroso control
+genealógico, que implica el registro de los padres de cada animal en la población
+y permite estructurar el pedigrí necesario para el cálculo de los coeficientes de
+parentesco utilizados en las evaluaciones genéticas y en el cálculo de coeficientes
+de consanguinidad.
+Un aspecto fundamental de estos sistemas de evaluación es el control de
+calidad; los errores, tanto de datos de producción como de pedigrí pueden afectar
+negativamente las tasas de mejoramiento genético. Por este motivo, en los países
+con mayor desarrollo en este campo, la participación de organismos oficiales
+(Universidades, organismos estatales), han sido claves para propiciar la aceptación
+de la información de campo, como veraz y válida. Este desarrollo históricamente
+ha estado ligado a un alto grado de participación del gobierno y las organizaciones
+de ganaderos. Esta naturaleza colectiva se ha requerido debido a la naturaleza a
+largo plazo de las inversiones en mejoramiento genético, a la necesidad de contar
+con personal capacitado para organizar y mantener en operación los sistemas de
+evaluación y a la necesidad en muchos casos de realizar las evaluaciones en los
+rebaños comerciales, como en el caso de los rumiantes.
+En muchos países, intereses particulares de asociaciones de razas,
+agrupaciones gremiales, desconocimiento de los principios científicos de la mejora
+así como de una ineficiente  coordinación y promoción de la mejora genética por
+parte del gobierno, han paralizado la aplicación de la mejora genética. El costo
+ecológico por el mantenimiento de grandes números de animales improductivos
+con un impacto negativo en el medio ambiente y en la economía para estos países,
+por la necesidad de importar material genético y por las pérdidas productivas, es
+difícil de cuantificar con precisión pero es sin duda considerable.
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 5
+Modelos lineales + computadoras + inseminación artificial
+El avance explosivo de la tecnología computación ligado a desarrollos
+teóricos en el área de los modelos estadísticos aplicados al análisis de datos
+obtenidos en condiciones reales de producción, permitieron la implementación de
+métodos muy eficaces para el cálculo de valores genéticos estimados (VGEs)
+aprovechando la información del control de producción y de pedigrí, en forma
+que actualmente se puede considerar que dichas implementaciones son una
+tecnología madura y su instrumentación es básicamente un ejercicio de aplicación.
+Esta metodología ha permitido tremendos avances en algunas especies,
+como es el caso de los bovinos productores de leche. Se estima que una vaca
+promedio, obtenida por IA en Estados Unidos, incrementa su producción en más
+de 100 kg de leche por año (aproximadamente 0.32 lt/día) por razones puramente
+genéticas. Esto tiene, junto con el cambio en otras características, una gran
+importancia económica para los productores y la industria, al grado que los
+productos de las industrias que han realizado mayor mejora genética, como la
+producción de leche, huevos, carne de cerdo y carne de pollo, han capturado una
+mayor proporción del mercado, debido en parte, al abaratamiento de los costos
+de producción por la mayor eficiencia de los animales. Esto se ha logrado con el
+uso de animales superiores a través del uso de los VGEs para la selección. Estos
+VGEs son calculados con una metodología que se conoce como BLUP (best
+linear unbiased prediction o mejor predicción lineal insesgada), de acuerdo a las
+propiedades teóricas de las soluciones. Esto ha sido posible también gracias al
+desarrollo de métodos emparentados al BLUP como el REML (máxima
+verosimilitud restringida) para estimar parámetros genéticos o matrices de
+varianzas y covarianzas requeridas para ponderar adecuadamente los factores del
+modelo.
+Dos descubrimientos claves en este sentido fueron las ecuaciones del
+modelo mixto de Henderson que redujo considerablemente las dimensiones de los
+sistemas de ecuaciones simultáneas a resolver para obtener los VGEs y la
+incorporación de las correlaciones entre los valores  genéticos de los animales al
+modelo, mediante la matriz de parentesco, que se construye a partir de la
+información contenida en el pedigrí. Al obtener estimaciones confiables e
+insesgadas de los VGEs de animales en muchos rebaños, lo que fue posible al usar
+la inseminación artificial, por primera vez la industria pudo comparar los valores
+genéticos de los animales de toda la población,  lo que le dio a la selección un
+tremendo poder. Este proceso tiende a destruir la estructura piramidal jerárquica
+tradicional de los hatos reproductores, debido a que los animales superiores son
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 6
+elegidos en forma horizontal. 
+En otros casos, la estructura jerárquica es mantenida parcialmente por una
+falta de adopción de las técnicas modernas como por ejemplo en la producción de
+lana en Australia o muchos productores de sementales de ganado de carne en
+América Latina. En especies con elevada fecundidad y reducido costo por
+individuo, el elevado número de progenie por animal reproductor y los menores
+costos de operación, permiten la centralización del proceso de mejoramiento en
+núcleos de empresas privadas que controlan todas las poblaciones de
+reproductores como en pollos de engorde, gallinas productoras de huevos y en
+forma creciente, cerdos. Una población rigurosamente seleccionada abastece en
+este caso a un estrato multiplicador, capaz de proveer de animales al estrato
+comercial. En cierto modo, una situación similar puede ser creada en rumiantes
+(a mayor costo), al incrementar su capacidad de reproducción usando la
+transferencia embrionaria y la fertilización in vitro.
+Divide y vencerás, simplifiquemos el modelo
+En cierto modo, el éxito de los métodos de selección es un producto de
+la simplificación. La aplicación de un modelo genético conceptualmente completo
+a características controladas por muchos pares de genes, implica considerar
+simultáneamente tantos parámetros correspondientes a efectos que complicarían
+el modelo en forma excesiva para hacerlo práctico. Los experimentos necesarios
+para generar este tipo de parámetros son frecuentemente imposibles o limitados
+a una escala que comprometería la utilidad de los estimadores. En un principio la
+simplicidad de los modelos de evaluación genética fue necesaria debido a
+limitaciones de capacidad de cómputo y la ausencia de una teoría matemática para
+realizar una estimación insesgada del valor genético en presencia de factores de
+confusión debidos al ambiente (años, épocas, rebaños) e información de parientes.
+Los modelos de evaluación genética utilizan generalmente los efectos
+genéticos aditivos directos (del propio animal) y maternos (debidos a la variación
+del genotipo de la madre que afecta características que se miden temprano en la
+vida de los animales). Los efectos aditivos son aquellos que se deben al efecto
+independiente de cada alelo, mientras que la dominancia se debe a interacciones
+dentro cada locus y la epistasis a interacciones entre alelos localizados en
+diferentes loci. En términos generales la variación aditiva es la mas importante
+para la selección animal. Los efectos no aditivos son importantes en la
+manifestación de los efectos negativos de la consanguinidad y en los positivos
+de la heterosis. Los modelos utilizados actualmente para la evaluación dentro de
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 7
+una población contienen efectos genéticos aditivos y en ocasiones de dominancia.
+Esto no quiere decir que los efectos de interacción no sean importantes, solamente
+indica que en promedio son menos importantes bajo los modelos y suposiciones
+utilizados. El modelo puede ser una limitante, en el sentido de que sólo se puede
+encontrar lo que se busca. 
+En caracteres afectados por la variación genética maternal, como el peso
+al destete en rumiantes, generalmente los efectos maternos son incluidos en el
+modelo. En presencia de varias características, se usan enfoques multivariados que
+son extensiones de los modelos para una característica. Aquí un requisito crítico
+es la disponibilidad de estimadores adecuados de las correlaciones genéticas
+entre las características, que frecuentemente son difíciles de estimar con precisión.
+Otra complicación importante son las interacciones genotipo x ambiente,
+cuando los efectos genéticos y ambientales actúan en forma conjunta para
+producir el fenotipo. Este tipo de interacción puede reducir la eficacia de la
+selección realizada en otras condiciones ambientales, debido a problemas de
+adaptación de los animales. Esto puede implicar la necesidad de desarrollar
+programas de selección específicos para cada ambiente particular de producción
+con el fin de mantener la eficacia del mejoramiento. Sus efectos han sido poco
+estudiados en características de reproducción y sobrevivencia. En general, se
+considera que este tipo de efectos son importantes cuando se comparan genotipos
+y ambientes extremos, como Bos indicus y Bos taurus en ambientes templado y
+tropical. En ocasiones, pueden influir en el diseño de programas de selección
+introduciendo errores adicionales, que hacen necesario replicar los ambientes de
+prueba de los genotipos y evaluar los animales en las condiciones reales de
+producción.
+Nuevos avances en la tecnología reproductiva y molecular pueden permitir
+perfeccionar el análisis y utilización de las interacciones entre genes y entre los
+genes y el medio ambiente.
+Homo economicus
+A pesar de que la justificación central del  mejoramiento genético animal
+es económica, hay muchos problemas a resolver antes de una adopción de
+criterios económicos completamente adecuados en el diseño de programas
+genéticos. En rigor, la situación ideal es una donde los objetivos para el mercado
+futuro se conocen con precisión. De este modo, se pueden evaluar sin error los
+valores económicos asociados con cada componente de la respuesta y se pueden
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 8
+seleccionar las características a incluir en el programa. Esto nunca es
+completamente cierto y es necesario recurrir a aproximaciones en presencia de
+incertidumbre Esto obliga a realizar análisis de sensibilidad y riesgo. Para ilustrar
+este tipo de problema, podemos tomar como ejemplo el énfasis que en Australia,
+EE.UU.. y otros países se le está dando en los programas genéticos al marmoleo
+de la carne de vacuno. Esto se basa en los altos precios que alcanza la carne con
+alto marmoleo (capas de grasa visible en el músculo) en cierta fracción del
+mercado de la carne en Japón. Resulta muy factible que este precio cambie con
+el tiempo, o que el mercado quede saturado antes de que se logre cambiar
+significativamente la población en este sentido. Incluso es posible que se
+desarrollen otros medios, diferentes de los genéticos para manipular este aspecto.
+Si los esfuerzos invertidos son desproporcionados con respecto del retorno
+esperado y el riesgo, la decisión de poner mucho énfasis en cambiar esta
+característica puede ser inadecuada. Esto estimula la necesidad de realizar
+estudios para determinar qué opciones pueden ser mas adecuadas para la
+industria. 
+Mientras que el usuario del material genético puede tener una idea más o
+menos clara de los objetivos de selección, es decir cuáles son las principales
+variables que requieren maximizar para incrementar el rendimiento económico
+(por ejemplo la producción de kg de cordero por oveja y por hectárea por año),
+para determinar cuáles son las características que se deben medir y cuáles son las
+ponderaciones económicas asociadas con ellas, es necesario diseñar un modelo
+bioeconómico del sistema de producción. 
+Recientemente, se han introducido aspectos sociales como criterios
+adicionales en la definición de objetivos de selección. En realidad estos criterios
+han existido siempre, pero en cierto modo no se habían realizado intentos para
+incorporarlos en forma sistemática en los objetivos de selección. Un ejemplo
+pueden ser criterios que incrementen la sustentabilidad de un sistema de
+producción. Se pueden desarrollar índices que combinen en una medida sintética
+el mérito total de los animales para un mercado en particular combinando aspectos
+económicos y sociales. Resulta frecuentemente preferible basar la selección en
+criterios económicos y utilizar aspectos complementarios como los biológicos
+para afinar y poner una dirección razonable al cambio genético de varias
+características simultáneamente. Los objetivos biológicos pueden estar basados
+en la maximización de medidas físicas de la producción (por ejemplo kg de
+proteína por hectárea por año). Se ha argumentado que este tipo de medidas
+pueden ser más estables que las económicas, considerando la necesidad de
+incrementar la productividad a largo plazo en presencia de fluctuaciones de
+precios y otros componentes financieros. Una pregunta interesante es si es
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 9
+recomendable para cada unidad de producción seguir un programa genético que
+haga máximos los retornos, ponderando en forma específica las características, o
+bien toda la industria debe tender a utilizar un criterio uniforme de selección. Esta
+pregunta aún no tiene una respuesta clara. El segundo enfoque sin embargo,
+parece adecuado, suponiendo que los efectos del ambiente pueden ser en cierta
+medida optimizados y estandarizados. Esto no es siempre posible en sistemas de
+pastoreo o donde las fluctuaciones ambientales son parte del sistema. 
+Estructura de las poblaciones
+En muchos casos observamos la presencia de estructuras piramidales de
+la población, en la que el mejoramiento fluye desde el ápice de la pirámide hacia
+la base. El ápice es el núcleo o grupo de animales élite. Frecuentemente este
+núcleo es el único grupo de la población que está en control de producción. Aquí
+podemos distinguir estructuras de núcleos abiertos y dispersos, como es el caso
+de las poblaciones de vacunos productores de leche, donde cualquier vaca
+registrada de alguna raza en control de producción, puede convertirse en madre
+de un semental de inseminación artificial y por lo tanto incorporarse a este núcleo,
+o núcleos cerrados como en pollos de engorde y gallinas productoras de huevo,
+donde los animales (genes) de los estratos inferiores nunca vuelven hacia arriba.
+En este tipo de estructuras puede haber estratos intermedios multiplicadores, que
+permiten incrementar el número de machos para ser usados como reproductores
+en la base. Se conoce que la base, después de un tiempo, llega a tener un
+mejoramiento por año similar al observado en el núcleo cuando en la base se usan
+machos del núcleo como reproductores. Sin embargo, existe un retraso asociado
+con el nivel genético, correspondiente a dos generaciones por estrato. La
+inseminación artificial y la transferencia de embriones fecundados desde el núcleo
+para ser usados en la base, son medios de reducir este retraso. Por lo anterior, la
+expresión económica del mejoramiento y la consanguinidad en la población base,
+deben ser evaluadas a nivel de la población comercial, dado que tanto la
+superioridad genética como la consanguinidad, se van a extender en forma
+diferente, dependiendo de si existen estratos multiplicadores, de si se usa IA o si
+el estrato comercial está basado en animales cruzados o de una sola población (ver
+sección siguiente). Cuando los animales de la población comercial son cruzas de
+poblaciones no emparentadas, la importancia práctica de la consanguinidad se
+reduce considerablemente. El peligro de los métodos basados en núcleos cerrados
+consiste en la posibilidad de que interacciones genotipo x ambiente reduzcan la
+respuesta genética en la población comercial cuando el núcleo es mantenido en
+condiciones de ambiente (alimentación, manejo, clima) diferentes a la base. Esto
+puede ocurrir cuando un país depende de la importación de material genético
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 10
+evaluado en condiciones ambientales diferentes.
+Razas, cruzas y VGEs de animales cruzados
+Los modelos de evaluación genética se aplican generalmente a
+reproductores dentro de una población, por ejemplo una línea o raza de animales.
+Tradicionalmente, la selección y el cruzamiento han sido consideradas como
+estrategias separadas para el mejoramiento genético. El uso de cruzamientos es
+muy común en especies productoras de carne, donde es deseable que las líneas
+femeninas sean fértiles y relativamente ligeras para reducir los costos de
+mantenimiento, mientras que los animales de engorda se espera que sean de rápido
+crecimiento, lo que muchas veces está asociado con una menor fertilidad y mayor
+peso adulto, dando mayores costos de mantenimiento en raza pura.
+Una manera de combinar estas ventajas es mediante el cruzamiento de una
+línea (raza) ligera de hembras, con una línea (raza) de machos de rápido
+crecimiento, de este modo se puede optimizar el sistema, balanceando el mérito
+genético del crecimiento, con el de las necesidades de mantenimiento de las
+hembras.  Cuando las hembras son cruzadas, se puede obtener mayor fertilidad y
+ventajas al usarlas como madres. Otro aspecto muy importante del cruzamiento,
+reside en el fenómeno llamado heterosis o vigor híbrido. Este fenómeno permite
+explotar el hecho de que diferentes alelos han sido fijados en diversos loci en
+razas distintas. Al cruzar dos razas, podemos esperar un incremento en la
+heterocigosis, es decir en la proporción de loci heterocigóticos comparados con
+los valores dentro de cada raza. Generalmente, este incremento en la
+heterocigosis se asocia a un mayor rendimiento productivo, una mayor fertilidad
+y una mayor tasa de supervivencia. Este vigor híbrido o heterosis se explica con
+teorías que postulan tanto efectos genéticos de dominancia como epistasis. A
+nivel teórico se supone que un animal que contiene dos tipos alternativos de genes
+es superior en su capacidad de adaptación al medio ambiente. La depresión
+observada por consanguinidad es la otra cara de la heterosis, dado que el
+incremento en el coeficiente de consanguinidad está asociado a una pérdida de
+heterocigosis.
+En especies de gran fecundidad, como las aves y los cerdos, el uso de las ventajas
+de los cruzamientos se basan en la cría de animales cruzados para las granjas
+comerciales a partir de cruzas entre animales de raza pura, o bien en sistemas de
+cruzamientos que al reemplazar las razas de los machos utilizados en forma
+rotacional, permiten mantener altos los niveles de heterosis. En bovinos y
+rumiantes en general, esta estrategia no es fácil de usar por su baja fecundidad,
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 11
+La raza sintética Australian Friesian Sahiwal. Esta raza está siendo desarrollada en Australia
+por el Gobierno de Queensland para ser usada en áreas tropicales. La raza  fue creada a partir
+de Sahiwal, una variedad lechera de Cebú de Pakistán y la Holstein-Friesian Australiana. Desde
+la decada de 1960, cuando comenzó la investigación sobre esta raza, se han logrado notables
+progresos hacia el objetivo de combinar reistencia a las garrapatas y tolerancia al calor con
+consistentes niveles de producción de leche y fertilidad. Actualmente ha sido extensamente
+probada en áreas tropicales y sub-tropicales de Australia. Bajo esas condiciones, produce
+aproximadamente 15% mas leche que la Holstein-Friesian.  Nota: Esta foto e información se
+proporciona por cortesía de Meat and Livestock Australia Locked Bag 991, North Sydney 2059,
+Australia.
+que restringe el número de animales cruzados comparados con el total de raza
+pura. Por esto, muchas nuevas razas o poblaciones sintéticas, producto de
+diversos cruzamientos entre varias razas y posterior reproducción entre sí, se han
+venido desarrollado. La idea aquí es poder aprovechar la heterosis y realizar la
+selección en una sola población. Asimismo, en muchos casos se trata además de
+combinar características deseables que se encuentran en poblaciones diferentes
+como la adaptación a medios ambientes difíciles  y la capacidad de producir con
+mayor eficiencia. Un ejemplo de este tipo de animal es la popular raza Santa
+Gertrudis de bovinos productores de carne, que fue desarrollada a partir de
+cruzamientos entre las razas Shorthorn  (Bos taurus) y Brahman ( Bos indicus).
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 12
+En ese caso se trató de combinar las mejor calidad de la carne, fertilidad del
+Shorthorn, con la mayor tolerancia al calor y las garrapatas del Brahman.  En el
+caso de las poblaciones sintéticas, una proporción de la heterosis es retenida
+comparada con el nivel exhibido por las cruzas entre dos razas puras. Dos
+principales problemas que han limitado la difusión de razas sintéticas, son su
+menor aceptación por parte de los granjeros y por el otro, en muchos casos lo
+pequeño de las poblaciones, que ha llevado a incrementos notables en la
+consanguinidad, con lo que se pueden perder las ventajas de la heterosis y ofrece
+pocas oportunidades para lograr mejoras importantes por selección.
+Una idea más nueva y posiblemente más práctica para explotar al mismo tiempo
+las diferencias entre y dentro de razas, consiste en el cálculo de VGEs de animales
+cruzados. Esto se puede lograr corrigiendo para diferencias entre las medias, de
+cada raza y para la heterosis. De este modo se pueden obtener comparaciones
+entre y dentro de razas, que permiten seleccionar animales dentro y a través de
+poblaciones. Dado que algunos efectos son estimables a partir de las bases de
+datos existentes, es posible aprovechar estas ideas para hacer evaluaciones
+simultáneas de los valores genéticos dentro de raza, los efectos de raza y de
+heterosis, con la idea de optimizar el sistema. En muchos casos  sin embargo, es
+necesario diseñar cruzas específicas para obtener la información requerida.
+Optimicemos
+Durante un tiempo, el affaire entre los modelos lineales, que daban predicciones
+insesgadas de los valores genéticos y la estimación de los parámetros requeridos
+para su uso en poblaciones de una raza, consumió una gran parte de los esfuerzos
+de los genetistas de animales. La solución de algunos importantes problemas
+quedó pendiente hasta hace muy poco tiempo. En efecto, la optimización de los
+programas genéticos que involucra aspectos tales como la maximización de la
+respuesta mientras se mantienen restringidos los costos del programa asociados
+al uso de cada reproductor, al uso de tecnologías reproductivas y el incremento
+en la consanguinidad, han recibido menos atención.
+No es obvio por ejemplo cuáles y cuántos animales utilizar en un programa
+genético, ni cuanta progenie obtener de cada uno, o si es económicamente viable
+obtener embriones de una vaca en particular con OMTE. Contestar este tipo de
+preguntas con precisión no ha sido posible sino hasta ahora, con el desarrollo de
+metodologías de maximización muy flexibles basadas en algoritmos genéticos.
+Recientemente, se han desarrollado y comenzado a aplicar en la industria
+estrategias llamadas tácticas, que permiten optimizar problemas complejos usando
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 13
+Respuesta a corto y largo plazo de la selecci ón asistida por marcadores de ADN (SAM), las
+líneas rojas muestran el avance posible usando SAM comparada a selección convencional en una
+característica cuantitativa. El efecto de la SAM será incrementar la respuesta a corto plazo
+(Reproducido con autrorización de: Kinghorn, B.P. (1998). Managing genetic change under
+operational and cost constraints. 36th National Congress of the South African Association of
+Animal Science. University of Stellenbosch 5-8 April. pp 9-16). 
+como entradas índices económicos obtenidos con los VGEs, el pedigrí y los
+costos de reproducción, en cada momento de decisión; por ejemplo cada año
+antes de realizar los apareamientos.  En este tipo de estrategias, que maximizan
+una función que involucra la respuesta genética y otros componentes, pueden ser
+instrumentados mediante la selección y asignación de apareamientos.
+Algunos trabajos pioneros están siendo desarrollados en este campo,
+considerando estructuras de apareamiento óptimas para el conjunto de machos y
+hembras de la población. Las soluciones son obtenidas con el uso de algoritmos
+genéticos, que permiten la maximización de la respuesta para niveles predefinidos
+de consanguinidad. Cuando se trata de poblaciones cruzadas, se pueden diseñar
+estrategias específicas de maximización de los efectos de heterosis.
+ 
+Uso de tecnología reproductiva y molecular
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 14
+Mientras las técnicas moleculares ofrecen una serie importante de posibilidades
+para la mejora genética animal, la materialización de estas expectativas requiere
+de la solución de un número importante de problemas técnicos para aprovechar
+toda la información disponible de un modo eficiente, reducir los costos de generar
+información genómica y obtener estimaciones confiables de los efectos de genes
+mayores con efectos en características productivas (QTLs) y de la aplicación de
+la selección asistida por marcadores (SAM) y la información genómica en general
+para la mejora animal.
+Un uso racional de las metodologías moleculares requiere el uso óptimo de los
+métodos tradicionales de selección. El máximo provecho puede ser obtenido
+cuando estas técnicas son utilizadas en forma integrada con tecnologías
+reproductivas como la inseminación artificial, la colección y producción in vitro
+de embriones para acelerar el cambio genético.
+Las características en las cuales la aplicación de la SAM puede ser más efectiva
+son aquellas que se miden tardíamente en la vida del animal, o que son controladas
+por pocos pares de alelos. El primer ejemplo corresponde a la longevidad y las
+características de composición corporal en animales productores de carne, el
+segundo, a la resistencia a ciertas enfermedades o defectos de herencia simple.
+La selección puede incorporar el llamado análisis de segregación para detectar
+y usar posibles genes de efectos mayores en la selección. La principal ventaja de
+los métodos moleculares sobre el análisis de segregación , es la posibilidad de
+evaluar el efecto simultáneo de varios QTLs sobre las características de
+importancia económica, y en el futuro incrementar su precisión y la complejidad
+de los modelos de acción génica involucrados, por ejemplo QTLs con alelos
+múltiples.  Las tendencia actual indica que los dos métodos se integrarán en el
+futuro en los programas de mejora genética animal con métodos basados en
+modelos que contienen el efecto de los genes mayores y herencia poligénica
+(modelos de herencia mixta).
+Es preciso puntualizar que probablemente pasarán muchos años antes de que las
+tecnologías reproductivas y moleculares revolucionen el mejoramiento animal al
+grado de hacer innecesario el control de producción, si bien esto resulta
+conceptualmente posible con la reproducción de células en cultivo usando
+selección puramente molecular de las variantes deseables, seguidas de clonación
+y multiplicación de la variante genética deseada. El conocimiento que permita este
+desarrollo (si este es posible) se tendrá que generar combinando información
+molecular con información fenotípica. Por el otro lado, es poco probable que el
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 15
+Ejemplo de utilización del sotware Findgene para realizar análisis de segregación junto a un
+modelo lineal para detectar un gene de efecto mayor en el fenotipo de una característica
+cuantitativa. Se observa la distribución total de fenotipos (linea azul) y las distribuciones de
+cada genotipo para el gene mayor, representadas por las líneas roja, azul claro y púrpura. Las
+barras grises muestan la distribución observada de los fenotipos corregidos para efectos
+ambientales y de los poligenes (Kinghorn, B.P., 1997).  
+control de producción se abandone completamente, dado que se tiene que seguir
+manteniendo como un medio de control de que las expectativas y predicciones se
+están cumpliendo en la práctica.
+Las técnicas moleculares y otras técnicas analíticas pueden posibilitar la medición
+de nuevas características en los programas genéticos que estén relacionadas en
+forma más estrecha con los objetivos del programa de mejoramiento.
+Conclusiones
+La evaluación de animales en base de datos de mediciones (fenotipo) y pedigrí
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 16
+para calcular los valores genéticos estimados (VGEs), seguirán en el futuro siendo
+la base del mejoramiento animal. Se esperan mejoras en los métodos para
+ponderar económicamente diferentes características para la selección, para
+maximizar la respuesta a los programas genéticos, controlando costos y
+consanguinidad con nuevas herramientas de análisis y optimización de problemas
+complejos y no-lineales como los algoritmos genéticos y la inteligencia artificial.
+Se espera la incorporación de nuevas características que se relacionen en forma
+mas directa con los objetivos de selección. 
+Otros avances son la generalización de métodos para evaluar genéticamente
+poblaciones compuestas por diversas razas y cruzas y el desarrollo de métodos
+para incorporar la información genómica (marcadores moleculares de ADN) y
+usar nuevas técnicas reproductivas basadas en la manipulación de la fisiología
+reproductiva de los animales, gametos y embriones en el diseño de programas más
+eficientes de mejora animal. 
+Posiblemente los desarrollos de la biología molecular puedan ayudar a un mejor
+entendimiento de fenómenos aún no bien comprendidos como la epistasis
+(interacciones entre alelos en distintos loci) y las interacciones genotipo x
+ambiente, al posibilitar el análisis del efecto de genes específicos en caracteres de
+herencia compleja como los involucrados en el mejoramiento animal.
+Bibliografía
+Ashwell, M. S., RexroadJr., C. E., Miller, R. H., Van Raden, P.M. and Da, Y. (1997). Detection
+of loci affecting milk production and health traits in an elite US Holstein population using
+microsatellite markers. Animal Genetics 28:216-222.
+Cameron, N. D. (1997). Selection indices and prediction of genetic merit in animal breeeding.
+CAB International. Wallingford, UK. 
+Falconer, D. S. (1989). Introduction to quantitative genetics. 3rd ed. Longman, Essex, UK.
+Goddard, M. E. (1992).  A mixed model for analyses of data on multiple genetic markers.
+Theor. Appl. Genet. 83: 878-886.
+Goddard, M. E., Barwick, S. A. and Kinghorn, B. P. (1998). Breeding objectives for meat
+animals: development of a profit function. Animal Production in Australia 22: 90-94.
+Groen AF, Steine T., Colleau J. J., Pedersen J., Prybyl J., Reinsch N. (1997). Economic values
+in dairy cattle breeding, with special reference to functional traits. Report of an EAAP-
+working group. Livestock Production Science 49:1-21.
+Haley, C. S. (1995). Livestock QTLs – bringing home the bacon? Trends Genet. 11(12):488-
+492.
+Henderson, C. R. (1984). Applications of linear models in animal breeding. University of
+Guelph, Ontario, Canada.
+Hill WG. (1971). Investment apprisal for national breeding programmes. Animal Production
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 17
+3:37-50.
+Janss,  L. L. G., Thompson, R. and van Arendonk, J. A. M. (1995). Application of Gibbs
+sampling for inference in a mixed major gene-polygenic inheritance model in animal
+populations. Theor. Appl. Genet. 91: 1137-1147.
+Keown J. F., Montaldo H., Van Vleck L. D., Van Tassell, C. P. (1998). Economic responses and
+risk from use of selected Holstein sires in Italy, Mexico, The Netherlands and USA.
+Proceedings of the 6th World Congress on Genetics Applied to Livestock Production; 1998
+January 11-16; Armidale, NSW, Australia 23:327-330.
+Kinghorn, B. P. (1982) Genetic effects in crossbreeding. I. Models of Merit. Z. Tierzüch.
+Züchtgsbiol. 99: 59-68.
+Kinghorn, B. P. (1997). A view on future developments in animal breeding. Slides from a 1997
+A.B. Chapman Lecture, University of Wisconsin, Madison.
+http://ops.agsci.colostate.edu/~bkinghor/future/ppframe.htm
+Kinghorn, B. P., Grundy, B., Shepherd, R. K., and Woolliams, J. A. (1997) Use of a stochastic
+algorithm to make selection and reproduction decisions under operational and cost
+constraints.
+http://metz.une.edu.au/~bkinghor/SelRep/2Stage_Matesel2.html
+Kinghorn, B. P., van Arendonk, J. A. M. and Hetzel, J. (1994). Detection and use of major
+genes in animal breeding. AgBiotech News and Information 6(12): 297N-302N.
+Lynch, M. and Walsh, B. (1998). Genetic and analysis of quantitative traits. Sinauer,
+Sunderland, USA.
+Meuwissen, T. H. E. and van Arendonk, J. A. M. (1992). Potential improvements in rate of
+genetic gain from marker assisted selection in dairy cattle breeding schemes. J. Dairy Sci.
+75: 1651-1659.
+Meuwissen, T. H. E. and Goddard, M. E. (1996). The use of marker-haplotypes in animal
+breeding schemes. Genet. Sel. Evol. 28:161-176.
+Miller, S. P. and Goddard, M. E. (1998). The super breed approach to modelling additive and
+non-additive genetic effects between and within breeds in multi-breed evaluations.
+Proceedings of the 6th World Congress on Genetics applied to livestock production, Armidale,
+NSW 23:97-100 (1998).
+Montaldo, H. (1993). Biotecnología y mejoramiento genético animal en México. En: (M.
+Arenas, L. F. Bojalil y L. Hernández Comp. Las profesiones en México: Agronomía,
+Medicina Veterinaria y Zootecnia, Universidad Autónoma Metropolitana-Xochimilco,
+Universidad de Colima, México, D. F. pp 90-108)
+Montaldo, H., Keown, J. F. and Van Vleck, L. D. (1998). Effect of in vitro embryo production
+and sexed semen in dairy MOET nucleus systems. Proceedings of the 6th World Congress on
+Genetics applied to livestock production, Armidale, NSW 25:443 (1998).
+Montaldo, H. and Meza-Herrera, C. A. (1998). Use of molecular markers and major genes in
+the genetic improvement of livestock. Electronic Journal of Biotechnology 1(2)
+http://ejb.ucv.cl/content/vol1/issue2/full/4/
+Montgomery, G. W. and Kinghorn, B. P. (1997). Recent developments in gene mapping and
+progress toward marker-assisted selection in sheep. Australian Journal of Agricultural
+Research 48: 729-741.
+Mrode, R. A., 1996. Linear Models for the prediction of animal breeding values. CAB
+International, Wallingford, UK. pp. 187.
+Nicholas, F. W. (1996). Introduction to veterinary genetics. Oxford University Press, Oxford,
+UK.
+Ruane, J., G. Klemesdal and E. Sehested. (1997). Views on the potential impact of cloning on
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 18
+animal breeding and production. Acta Agric. Scand. 47: 209-212.
+Weller J. I. (1994). Economic aspects of animal breeding. 1st ed. London, Chapman and Hall.
+Wakayama, T., A. C. F. Perry, M. Zuccotti, K. R. Johnson and R. Yanagimachi. (1998). Full-
+term development of mice from enucleated oocytes injected with cumulus cell nuclei. Nature
+394: 369-373.
+Woodward, B. W., Du, F.-X., Montaldo, H., Andersen, K. J. and DeNise, S. K. (1998).
+Preliminary evidence for major genes controlling beef carcass traits in Limousin cattle. Proc.
+of the 6th Word Congress on Genetics Applied to Livestock Production, Armidale, NSW. Vol.
+25: 157-160.
+Glosario
+Alelo: Forma particular de un gene en un locus específico.
+Análisis de segregación: Este análisis se basa en la estimación de la probabilidad de que los
+individuos de una población pertenezcan a un determinado genotipo dados los datos. Estos
+análisis se pueden hacer en presencia de efectos ambientales y variación genética de múltiples
+genes de efectos pequeños (poligénica). 
+Consanguinidad: La consanguinidad se produce cuando dos individuos emparentados producen
+descendencia. La progenie es entonces consanguínea. La consanguinidad produce pérdida de
+variación genética porque pares de genes heterocigóticos se vuelven homocigóticos. Este
+proceso es considerado dañino para las poblaciones  de animales domésticos porque deprime
+la reproducción, la supervivencia y la productividad. La consanguinidad está asimismo
+asociada con el incremento de defectos hereditarios. A largo plazo, la consanguinidad produce
+una pérdida de variación genética que es en cierta medida compensada por mutaciones
+(producción de nuevos genes).
+Correlaciones genéticas: Ver parámetros.
+Dominancia: Efectos genéticos debidos a interacciones entre alelos dentro de un locus. Por
+ejemplo cuando hay dominancia completa, los genotipos que contienen una o dos copias del
+alelo dominante tienen el mismo fenotipo.
+Epistasis: Interacciones entre alelos en diferentes loci.
+Gametos: Células reproductivas; óvulos y espermatozoides.
+Heterocigosis: Proporción de loci heterocigóticos en animales cruzados comparados con los
+valores dentro de cada raza.
+Heterosis: Ventaja de los animales cruzados sobre los animales de raza pura (ver sección Razas,
+cruzas y VGEs de animales cruzados).
+Información genómica: La información genómica se obtiene directamente de análisis de la
+estructura del material genético de los animales (ADN). 
+Loci: Plural de locus. 
+Locus: Lugar específico del cromosoma en el que se ubica un gene. 
+Scanner: Instrumento utilizado para la evaluación en vivo de la composición corporal (% de
+músculo, de grasa etc.).
+Parámetros: Características de las poblaciones que se requieren para las evaluaciones genéticas
+y calcular las ganancias esperadas por selección. Entre ellos están la heredabilidad (h2), que
+expresa la proporción de la variación total explicada por las diferencias genéticas y las
+correlaciones genéticas (r g), que expresan el grado de asociación por efectos genéticos
+comunes a dos características.
+Pedigrí: Lista que incluye la genealogía de todos los animales usados en la población como
+reproductores, o con datos disponibles. Generalmente está estructurado como animal, padre,
+Ciencia al Día © Septiembre 1998, Vol. 1, No. 2.
+http://www.ciencia.cl/CienciaAlDia/volumen1/numero2/articulos/articulo3.html 19
+madre.
+QTL: Loci de efecto cuantitativo, son genes con efectos mayores en características afectadas por
+muchos loci con efectos generalmente pequeños (poligenes). 
+Hugo H. Montaldo Valdenegro es Ph.D. en Animal Breeding and Genetics (Universidad de Nebraska, EEUU,
+1997), M.S. en Genética Animal (1989) y Médico Veterinario Zootecnista (1980) de la de la Universidad Nacional
+Autónoma de México. Su interés principal es la optimización de los programas de mejora genética de animales y
+la evaluación de nuevas tecnologías en la mejora animal. Actualmente es Research Fellow en la University of New
+England, Australia y Profesor Investigador Titular del Instituto de Ciencias Agrícolas de la Universidad de
+Guanajuato, México. Ha trabajado en varias Instituciones de Enseñanza e ínvestigación de México y en una
+Cooperativa de Producción Lechera como genetista. Posee numerosas publicaciones y presentaciones de trabajos
+en congresos en su área de especialización en diversos países.
+Nelson Barría Pérez es medico veterinario, licenciado en ciencias pecuarias de la Universidad de Chile. En 1975
+obtuvo el grado de PhD en Genética en la Universidad de California (USA). Realizo estudios de Posgrado en la
+Universidad de Göttingen, Alemania. Además, ha realizado tres estadías en el Instituto Bávaro de Mejoramiento
+Animal en Grub, Baviera. Actualmente, es Profesor Titular  de Genética y Mejoramiento Animal en la Universidad
+de Chile. Su principal actividad científica se refiere al desarrollo de proyectos financiados por el Fondo Nacional
+de Ciencias de Chile sobre la evaluación genética de reproductores bovinos lecheros. Además, participa dirigiendo
+proyectyos financiados con fondos regionales que dicen relación con la formación de Nucleos de Mejoramiento
+Genético para la raza Corriedale en Magallanes (Chile).

@@ -1,0 +1,604 @@
+=== Fuente: Rogberg-Muñoz Association of bovine chromosome 5 markers with birth and weaning weight in hereford cattle raised under ext.pdf ===
+
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyright
+
+Author's personal copy
+Association of bovine chromosome 5 markers with birth and weaning
+weight in Hereford cattle raised under extensive conditions
+A. Rogberg-Muñoz a,⁎, L. Melucci b, A. Prando c, E.E. Villegas-Castagnasso a, M.V. Ripoli a,
+P. Peral-García a, A. Baldo c, M.C. Añon d, G. Giovambattista a
+a Instituto de Genética Veterinaria (IGEVET) CCT La Plata – Facultad Cs Veterinarias, Universidad Nacional de La Plata – CONICET, Argentina
+b Unidad Integrada Balcarce (UIB) Facultad de Ciencias Agrarias (UNMDP) – EEA (INTA) Balcarce, Argentina
+c Cátedra de Zootecnia Especial (II Parte), Facultad Cs Veterinarias, Universidad Nacional de La Plata, Argentina
+d Centro de Investigación y Desarrollo en Criotecnología de Alimentos (CIDCA) CCT La Plata – Facultad Cs Exactas,
+Universidad Nacional de La Plata – CIC – CONICET, Argentina
+article info abstract
+Article history:
+Received 26 April 2010
+Received in revised form 16 June 2010
+Accepted 28 June 2010
+Genetic markers have been used to assess the association of economically important traits with
+cattle under intensive feeding conditions; however, there is still the need to ascertain the
+usefulness of these markers under extensive production systems. Bovine chromosome 5 has
+been widely studied because several QTLs have been detected. Microsatellite BP1 neighboring
+the Myogenic factor 5 gene (Myf5), and microsatellites ETH10, IGF1 and RM029 near Insulin-like
+Growth Factor 1 gene (IGF1), were selected to establish their association with BLUPs (Best
+Linear Unbiased Predictor) for direct Birth Weight (dBW), direct Weaning Weight (dWW) and
+maternal Weaning Weight (mWW). Two herds were used for this objective, one commercial
+and the other experimental. Associations (P ≤ 0.05) between dWW and all BTA5 loci (BP1,
+ETH10, IGF1, and RM029) were detected. Additional associations were observed between
+mWW and BP1. dBW was signiﬁcantly associated (P ≤ 0.05) with ETH10 genotypes and with
+the interaction IGF1*Herd. In particular region near BP1 could be contributing to the rare
+positive correlation between dWW and mWW previously found in the INTA Balcarce Station
+experimental herd. We conﬁrmed marker associations with growth traits in two BTA5 regions
+close to previously reported QTL obtained in intensive feeding conditions; these regions affect
+dBW, dWW and mWW in a pasture-based system.
+© 2010 Elsevier B.V. All rights reserved.
+Keywords:
+Birth weight
+Cattle
+DNA markers
+Hereford
+Pasture system
+Weaning weight
+1. Introduction
+A limited number of markers are available to be used by
+producers, and they explain a relatively small proportion of
+the genetic variation for a limited number of traits (Dekkers,
+2004). Recently, Morris et al. (2009) have searched QTL
+expressed in different cattle management systems. Most
+marker associations have been evaluated under intensive
+productive conditions. Therefore, there is a need to establish
+the association of these markers in pasture-based production
+systems.
+Bovine chromosome 5 (BTA5) has been widely studied
+because several QTLs have been detected for many traits, i.e.
+growth, fat, male and female reproduction (Casas et al., 2000;
+Li et al., 2002, 2004; Casas et al., 2003; Stone et al., 2005; Allan
+et al., 2009). In particular three chromosomal regions (0 to
+30 cM, 55 to 70 cM, and 70 to 80 cM) were identiﬁed as
+having signiﬁcant associations with the growth traits. Within
+those regions at least two genes were reported as candidates.
+Myogenic factor 5 (Myf5), which maps within the 0 to 30 cM
+region, is capable to convert non-muscle cells into muscle,
+thus, is a potential candidate for growth and meat quality
+related traits (Daubas et al., 2000; Maak et al., 2006). The
+Livestock Science 135 (2011) 124–130
+⁎ Corresponding author. IGEVET – Fac. Cs Veterinarias – UNLP. Calle 60 y
+118 s/n, PC: 1900, La Plata, Prov de Buenos Aires, Argentina.
+E-mail address: arogberg@yahoo.com.ar (A. Rogberg-Muñoz).
+1871-1413/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.livsci.2010.06.160
+Contents lists available at ScienceDirect
+Livestock Science
+journal homepage: www.elsevier.com/locate/livsci
+Author's personal copy
+Insulin-like Growth Factor 1 (IGF1) gene, between 55 and
+80 cM, has a physiological role in growth and development of
+mammals (Werner et al., 1994). Its polymorphisms have been
+associated with growth traits (Moody et al., 1996; Andrade
+et al., 2008).
+Because productive systems in developing countries are
+extensive pasture-based and funds are not always available
+for sampling and genotyping, it is required to use the available
+data as much as possible. Quantitative data have been used
+for genetic improvement since the '50s, and a considerable
+amount of information is stored. Breeders have kept frozen
+semen since then, so these reservoirs are a source of DNA.
+Much more information can be gleaned by calculating
+genotypic probabilities for individuals with missing marker
+data, and tracking markers over an extended pedigree in
+commercial or long-term experimental populations (Thallman
+et al., 2001a).
+Genotypic data from four BTA5 microsatellites were tested
+against BLUPs (Best Linear Unbiased Predictor) for direct
+Birth Weight (dBW), direct Weaning Weight (dWW) and
+maternal Weaning Weight (mWW). This association test was
+performed to prove if the QTLs previously detected, in the
+chromosomal regions that include Myf5 and IGF1,are
+expressed in Hereford populations raised under extensive
+pasture-based conditions.
+2. Materials and methods
+2.1. Samples and herd description
+Two Hereford herds, one experimental (EH) and the other
+commercial (CH), were sampled, blood was collected from
+calves and dams and semen from bulls. Additionally, blood
+samples were collected from 17 unrelated Hereford bulls,
+born between 2005 and 2007 from 6 different studs, and were
+only used as reference population (RP) for allele diversity and
+frequencies. These bulls were INTA Balcarce Experimental
+Station Performance Test participants (www.inta.gov.ar/
+balcarce/index.htm).
+EH was previously described by Melucci et al. (2009).
+Brieﬂy, the herd was established in 1960 and selected
+between 1986 and 2006 to increase weaning weight without
+increasing birth weight. It was a closed stable herd of 100
+cows and 4 bulls. Two older bulls (3 years-old) were replaced
+every year with the 2-year old males selected. Samples taken
+from this herd include 66 calves, born between 2005 and
+2007, 83 dams, and 9 bulls. These animals belonged to
+generations between 2.19 and 8.16; and had an average
+inbreeding coefﬁcient of 0.047.
+The CH was a typical stud that included approximately
+400 dams, and produced 160 bulls every year to be sold. The
+herd was selected using BreedPlan® Genetic evaluation
+(EVBs) for almost 15 years with an objective of a low birth
+weight and a moderate 600 day weight (personal communi-
+cation). All sampled animals presented genetic connection
+with a founder sire born in 1980, except for 6 bulls that were
+used to introduce new genetics to the herd. Animals
+belonging to ﬁrst to eighth generations from founder sire
+were included in the sampling. This included 56 calves (born
+in 2006 and 2007), 17 dams, and 18 bulls. Dams were selected
+from those that had several progenies in the herd, and the
+sires samples included semen stored from bulls used since
+1986. This kind of sampling was performed to maximize the
+genotype inferring.
+2.2. DNA extraction
+Semen was digested using an extraction buffer containing
+0.4 mg/ml proteinase K and 25 mM DTT, and DNA was
+puriﬁed by chloroform organic extraction technique. DNA
+was extracted from blood samples using DNAzol® reagent
+(Invitrogen™, Carlsbad, CA, USA) following manufacturer's
+instructions.
+2.3. Genotyping
+Four microsatellites markers surrounding the selected
+genes were genotyped: BP1 (14382552 bp), close to Myf5
+gene, ETH10 (60836475 bp), IGF1 (71198741 bp) and RM029
+(80417234 bp) near IGF1 gene (www.ncbi.nlm.nih.gov/
+projects/mapview). Additionally, BM1824 microsatellite
+(BTA1, 122 cM) was included to evaluate a random, multiallelic
+polymorphism, in a different chromosome and not associated
+with a known structural gene. Microsatellite PCR multiplex was
+performed in12.5 μl ﬁnal volume, including 1.5 pmol, 2.5 pmol,
+3.0 pmol, 6.0 pmol and 10 pmol of ETH10, BM1824, RM029,
+BP1 and IGF1 ﬂuorescent labeled primers, respectively (www.
+ncbi.nlm.nih.gov/projects/mapview); buffer 1× (Invitrogen™),
+MgCl2 2,5 mM, 100 mM of each dNTP, 0.04 U/μl Taq Platinum
+(Invitrogen™), and 2 ng/μl DNA. PCR program was: 2 min
+94 °C, 10 cycles of 30 s 94 °C, 45 s 60 °C, 30 s 72 °C, followed by
+30 cycles of 30 s 94 °C, 45 s 58 °C, 30 s 72 °C, and ﬁnal extension
+of 7 min 72 °C. Fragments were resolved in a MegaBACE 1000
+sequencer (GE healthcare, USA) and data analyzed with
+Fragment Proﬁler Software (GE healthcare).
+2.4. Genetic variability
+Genepop software (Rousset, 2008) was used to calculate
+allele number, gene frequencies, and unbiased expected
+heterozygosity (he) for each locus and over all loci (He).
+Hardy–Weinberg equilibrium (HWE), estimated by FIS
+statistic, and linkage disequilibrium, were carried out using
+the Markov chain method included in the same package. To
+evaluate a genetic variation in time intervals, the experi-
+mental herd was divided into 3 contemporary groups:
+animals born between 1996 and 1999, 2000 and 2003,
+2004 and 2007; this four year distribution was made to avoid
+animals sired by a particular bull and his son, in the same
+contemporary group. Genepop 4 exact test was performed to
+assess group and/or population differentiation based on its
+genetic data. Phases of linkage disequilibrium were recon-
+structed with Phase v2.1.1 (Li and Stephens, 2003)using
+default options; phases were accepted when the probability
+was higher than 0.95.
+2.5. Pedigree, trait data and genotype inferring
+Pedigree data included 2474 animals from EH, born
+between 1960 and 2008; and 1754 animals from CH, born
+between 1980 and 2007. Both herds were evaluated for direct
+Birth Weight (dBW), direct Weaning Weight (dWW), and
+125A. Rogberg-Muñoz et al. / Livestock Science 135 (2011) 124–130
+Author's personal copy
+maternal Weaning Weight (mWW), in separate analysis. The
+EH Best Linear Unbiased Predictor (BLUP) analysis was
+described by Melucci et al. (2009); while CH BLUPs were
+provided as EBVs by the herd owner and correspond to 2008
+BreedPlan® analysis. Usually molecular association studies
+use phenotype value, even though some research has been
+done using Breeding Values (Pereira et al., 2005; Schulman
+et al., 2008). In this sense, although using phenotypic data,
+Miquel et al. (2009) envisage the advantages of using
+Breeding Values in association studies, because they would
+consider the genetic correlations within different traits.
+Genoprob 2.0 (Thallman et al., 2001a,b) was used to infer
+genotypes, in four microsatellites from chromosome 5, using
+genotypic and pedigree data. The genotyped animals in each
+population, 157 for EH and 91 for CH, were used as reference
+to generate genotypes in the 2474 animals and 1754 animals
+included in the respective pedigrees. Default meiosis proba-
+bilities and errors were set, complete penetrance and no null
+alleles were considered, and ﬁnally 10 iterations were
+allowed. A genotype was accepted if pGmax (posterior
+probability that the unordered genotype is correct) was
+higher than 0.95. Animals with BLUPs and genotypes
+(detected or inferred) were included in the association
+analysis.
+2.6. Association analysis
+For the association studies, the traits of interest were
+analyzed using the General Linear Model (GLM) procedure
+of the SAS program (Statistical Analysis System, 1999).
+Single-locus association analysis between markers and
+BLUPs was performed. Two models were deﬁned depending
+on the number of alleles founded for each marker. In
+markers with more than two alleles (considering only CH
+and EH), the interaction between herd (H) and the genetic
+marker (GM) couldn't be estimated. That was the case of
+BM1824 (BTA1), BP1 and ETH10, that were analyzed using a
+model with the ﬁxedeffectofherd(H)andgeneticmarker
+(GM) nested in H. For RM029 and IGF1, biallelic markers, the
+model included ﬁxed effect of H, GM and H*GM interaction.
+This same analysis was performed for BP1, excluding
+animals with 310 allele that were only detected in CH, and
+allowed the marker to ﬁt in a biallelic analysis. Additive
+effects were estimated by the difference between the two
+homozygous genotypes, and dominance effects were esti-
+mated by subtracting the average of solutions for homozy-
+gous genotypes from that for heterozygous genotype. In
+addition, both models were used to analyze pairwise
+genotypes from close genes in chromosome (ETH-IGF1 and
+IGF1-RM029), as well as reconstructed phases for IGF1-
+RM029. For statistically signiﬁcant main effects (P b 0.05),
+least squares means were reported and Bonferroni's means
+separation test at P b 0.05 was used to determine differences
+between genotypes.
+3. Results and discussion
+3.1. Allele frequencies and heterozygosity
+A total of 1180 genotypes of 5 microsatellites were typed
+from 266 sampled animals. Allele frequencies are presented
+in Fig. 1 and Table S1. The number alleles were 7 for BP1, 6 for
+ETH10, 3 for RM029, 2 for IGF1, and 5 for BM1824. Unbiased
+expected heterozygosity values for each locus and the
+average heterozygosity over all loci are given in Table S2,he
+ranged from 0.222 to 0.709; and He was 0.579, 0.475 and
+0.497 for the reference, commercial, and experimental herd,
+respectively. This genetic variability let us use most of the
+genotypes in the association tests (see below).
+Differences in gene frequencies during generations can be
+consequence of genetic drift, migration or selection. Neutral
+markers close to chromosome regions containing causative
+genes could be affected by selection (as example see Pereira
+et al., 2005). To evaluate frequencies variation during the
+time, the Experimental Herd was divided into three groups.
+Fig. 1 clearly illustrates differences among herd gene
+frequencies and evidences a tendency toward increase or
+decrease some of the allelic frequencies across time. Within
+this herd, the groups 1996–1999 and 2004–2007 were
+statistically different (P ≤ 0.05) for all BTA5 markers except
+for IGF1 (P ≤ 0.08); 2000–2003 and 2004–2007 groups were
+different (P ≤ 0.08) only for RM029; ﬁnally 1996–1999 and
+2000–2003 show no signiﬁcant differences (Table S3). The
+observed differences could be consequence of genetic drift,
+especially considering that is a closed herd with a reduced
+effective size number. Even though, BM1824 (control marker
+locatedonBTA1)didnotshowsigniﬁcant differences
+between groups. This support the hypothesis that BTA5
+marker frequencies could have been affected by selection
+and that there could be causative genes in the surroundings
+of these markers (see association discussion).
+3.1.1. Hardy–Weinberg equilibrium and linkage disequilibrium
+A total of 10 HWE tests were performed (see Table S2):
+for the commercial herd, HWE for ETH10, IGF1 and RM029
+were rejected (P ≤ 0.05), and for the experimental herd only
+RM029 was rejected (P ≤ 0.05). Reasons for HWE deviations
+could be methodological (null alleles and sampling bias), or
+population effects (population structure, consanguinity, and
+selection). Here the RM029 disequilibrium for the three
+populations could suggest null allele presence for that
+marker but, as commercial herd showed disequilibrium for
+the three loci contained in a 22,000 kbp region that include
+RM029 (between 60,000 kbp and 82,000 kbp), selection
+could be the responsible for this.
+A total of 60 disequilibrium tests (10 for each population
+or group) were performed. Two of them showed an
+important disequilibrium: ETH10/IGF1 (P = 0.0043) in the
+commercial herd, and BP1/RM029 (P = 0.0031) in the
+experimental herd due to group 2004–2007 that presents a
+P = 0.0010 for this pair of markers. Only 3 out of 60 tests (5%)
+were in disequilibrium, probably the amount of samples is
+not enough to detect linkage because distance between
+markers is higher than 5 cM.
+3.1.2. Genotype inferring
+To exploit phenotypic stored data from 4288 animals
+included in both pedigrees, single locus analysis of Genoprob
+4.0 was used to infer genotypes. 375 genotypes were inferred
+(97 BP1, 29 ETH10, 165 RM029, and 84 IGF1) and 262 not
+sampled animals could be included in the association tests.
+Even though the used version of Genoprob package didn't
+126 A. Rogberg-Muñoz et al. / Livestock Science 135 (2011) 124–130
+Author's personal copy
+consider phases in the chromosome, the strategy was
+successful, as it was reported by Allan et al. (2009);we
+could obtain 15% more genetic information and 99% more
+animals were included in the association test. This kind of
+strategy is important to increase the number of animals
+included in an association test, especially when BLUP are
+from older animals for which DNA was not available for
+genotyping.
+3.2. Association
+Previous data (Li et al., 2004) have detected three
+chromosomal regions signiﬁcantly associated with growth
+traits in BTA5, between 0 and 30 cM, were Myf5 gene and BP1
+microsatellite are located; and between 55 to 70 and 70 to
+80 cM were IGF1 gene and microsatellite, and ETH10 and
+RM029 microsatellites are mapped. Table 1 summarizes all
+Fig. 1. BTA5 microsatellite allele frequencies for Reference Population (RP), Commercial (CH) and Experimental Herd (EH) are presented; time variation
+frequencies for the EH groups (each considering 4 year births) are also presented. Alleles with frequency less than 10% were avoided for a clear view (see Table S1
+for the complete information).
+127A. Rogberg-Muñoz et al. / Livestock Science 135 (2011) 124–130
+Author's personal copy
+tests between traits and markers: the least square means of
+BLUPs for each genotype with its standard deviation, the
+additive and dominance effect are presented. The association
+tests revealed a signiﬁcant association (P ≤ 0.05) between
+dWW and all BTA5 loci (BP1, ETH10, IGF1, RM029), and
+between mWW and BP1. Besides, dBW was signiﬁcant
+associated (P ≤ 0.05) with ETH10 genotypes and with the
+interaction IGF1*Herd.
+In particular, for BP1 microsatellite the ﬁrst tests
+performed, that include the entire data set and consider
+the genotype nested in herd, showed signiﬁcant association
+with dWW and mWW. The second analysis, performed
+excluding genotypes 310/– present only in commercial herd,
+showed that dWW model was signiﬁcant for herd (p b 0.01)
+and for genotype (P b 0.05), furthermore, a signiﬁcant
+additive effect (P b 0.05) was detected. Calves with genotype
+312/322 had a mean value 16.53% larger (P b 0.05) than 312/
+312, while the additive effect was 2.37 ± 1.08 kg. For mWW,
+the model was signiﬁcant for genotype (P b 0.001), showing a
+signiﬁcant additive effect (P b 0.001) too; genotypes 312/322
+and 322/322 had a signiﬁcant mean value 73.96% (P b 0.05)
+and 176.39% (P b 0.01) higher than 312/312, respectively,
+and the additive effect was 5.06 ± 1.38 kg. BP1 marker is
+close to Myf5 gene, and the association with dWW and mWW
+is in concert with the results obtained by Li et al. (2004),that
+associate an SNP of Myf5 with Pre-weaning Average Daily
+Gain (PADG) in commercial lines of Bos taurus. Previous
+work in this experimental herd (Melucci et al., 2009)
+described a low value of h2 dWW (0.05), and a positive
+correlation between dWW and mWW (rG =0.37), while
+Meyer (1997) found more frequent negative estimates of
+σAdWW!mWW in ﬁelddatathaninthosedatasetsthat
+originated from experimental herds. BP1 322 allele was
+signiﬁcantly associated with higher WW (direct and mater-
+nal) in both herds, even though experimental herd had
+undergone intensive selection for increased WW and
+commercial herd had not. Furthermore, this allele was the
+most frequent in experimental herd and showed a signiﬁcant
+increase (P ≤ 5e−5) during generations (Fig. 1). Tanking all
+this into account, we conclude that a BTA5 locus close to BP1
+is affecting WW, and could be contributing to the rare
+positive correlation between dWW and mWW found in the
+experimental herd. Moreover, a Marker Assisted Selection
+using this marker (or other in the region) could help to select
+animals that “break the curves”. Myf5, which product is an
+intramuscular factor that enhances myocytes development
+and muscularity, could be candidate gene to explain the
+observed association with WW. Alternatively, other genes in
+the surroundings of BP1 marker could be causative gene for
+that trait differences: i.e. Myogenic factor 6, Inhibitor of
+growth family 4 and Cell division cycle associated protein 3
+(www.ncbi.nlm.nih.gov/projects/mapview).
+Table 1
+Average BLUPS and its Standard Error (SE) in kilograms for direct Birth Weight (dBW), direct Weaning Weight (dWW) and maternal Weaning Weight (mWW),
+for each BTA5 marker are presented. Only signiﬁcant results are presented. BP1, IGF1 and RM029 results correspond to the analysis that include Genetic Marker,
+Herd, and GM*H interaction effect. When GM*H was signiﬁcant, results are presented separated for each herd. For ETH10 the model includes H effect and GM effect
+nested in H, only genotypes founded in both herds are shown (see Table S3 for the complete set). Additive and dominance effects for each biallelic analysis are also
+presented.
+Marker Herd (N) Trait Genotype (N) Additive effect a Dominance b
+Average BLUP of genotype ± SE
+BP1 Both herds (311) 312/312 (78) 312/322 (150) 322/322 (83)
+dWW ⁎ 7.68 ± 0.40 8.95 ± 0.33 10.05 ± 1.01 2.37 ± 1.08 ⁎ 0.08 ± 0.63 NS
+mWW ⁎⁎ 2.88 ± 0.51 5.01 ± 0.43 7.96 ± 1.27 5.06 ± 1.38 ⁎⁎ − 0.42 ± 0.81 NS
+IGF1 Commercial Herd (93) 229/229 (38) 229/231 (42) 231/231 (3)
+dBW 1.70 ± 0.28 1.43 ± 0.26 2.60 ± 0.98 Not estimable Not estimable
+dWW ⁎ 14.76 ± 5.06 13.05 ± 5.88 20.67 ± 2.52 Not estimable Not estimable
+Experimental Herd (201) 229/229 (76) 229/231 (86) 231/231 (39)
+dBW − 2.33 ± 0.20 − 1.43 ± 0.18 − 1.29 ± 0.27 Not estimable Not estimable
+dWW ⁎ 3.16 ± 1.74 2.81 ± 2.21 1.59 ± 2.72 Not estimable Not estimable
+RM029 Commercial Herd (126) 82/82 (9) 82/84 (12) 84/84 (105)
+dWW ⁎ 16.78 ± 1.22 14.17 ± 1.05 12.62 ± 0.36 Not estimable Not estimable
+Experimental Herd (259) 82/82 (17) 82/84 (21) 84/84 (220)
+dWW ⁎ 2.80 ± 0.89 3.14 ± 0.80 3.12 ± 0.25 Not estimable Not estimable
+Marker Herd Trait Genotype(N)
+Average BLUP of genotype ± SE
+ETH10 Commercial Herd (84) 216/222 (5) 218/218 (2) 218/220 (6) 218/222 (18) 220/220 (7) 220/222 (27)
+dBW 1.12 ± 0.73 2.30 ± 1.15 1.53 ± 0.66 1.56 ± 0.38 1.76 ± 0.61 1.50 ± 0.31
+dWW 10.80± 1.60 19.00 ± 2.53 15.33 ± 1.46 12.47 ± 0.87 15.14 ± 1.35 13.78 ± 0.69
+Experimental Herd (170) 216/222 (6) 218/218 (23) 218/220 (36) 218/222 (45) 220/220 (6) 220/222 (19)
+dBW −3.67 ± 0.66 − 1.18 ± 0.34 − 1.60 ± 0.27 − 2.14 ± 0.24 − 1.38 ± 0.66 − 1.58 ± 0.37
+dWW 3.00 ± 1.46 2.75 ± 0.75 2.99 ± 0.60 3.14 ± 0.53 1.99 ± 1.46 3.08 ± 0.82
+NS, not signiﬁcant.
+Genotypes are expressed allele1/allele2, in brackets are the total number of observations of each marker analysis, and for each genotype included in the analysis.
+a Estimated by the difference between the two homozygous genotypes.
+b Estimated by subtraction of the average solutions for homozygous genotypes from that for heterozygous genotype.
+⁎ Signiﬁcance b 0.05.
+⁎⁎ Signiﬁcance b 0.01.
+128 A. Rogberg-Muñoz et al. / Livestock Science 135 (2011) 124–130
+Author's personal copy
+Within 55 and 80 cM BTA5 region, ETH10 showed signiﬁcant
+association (P b 0.01) with dBW and dWW. As the microsatellite
+is multiallelic, the analysis is not powerful and few signiﬁcant
+differences (P b 0.05) were found only in the experimental herd
+(Table 1 and Table S4), but for both traits the presence of alleles
+216 or 222 produces lower average values and 214 and 218
+greater ones. RM029 showed signiﬁcant association (P b 0.05)
+for dWW, but in this case interaction RM029*herd was
+signiﬁcant too; as a result the 82/82 genotype dWW average
+value was 33% higher than 84/84 genotype within commercial
+herd but not in the experimental one. IGF1 microsatellite
+interaction with herd was signiﬁcant for dBW (P b 0.05) and
+dWW (P b 0.01), while genotype association was signiﬁcant only
+for dWW (P b 0.01). Even though similar results were found for
+both herds, in the case of dBW the experimental herd 229/229
+genotype was 0.9 kg lower than 229/231 (P b 0.05) and 1.04 kg
+lower than 231/231 (P b 0.01), but no signiﬁcant differences
+(P N 0.05) were found for the commercial herd. In case of dWW
+signiﬁcant differences were only found in the commercial herd,
+229/229 genotypes were 5.91 kg lower than 231/231 (P b 0.01).
+When considering two marker genotypes together and the
+phases (only for IGF1/RM029), no signiﬁcant effects (PN 0.05)
+were detected, this was due to data structure and poor
+estimability. Other possible candidate genes in this region that
+could explain the association are: actin-related protein, growth
+arrest-speciﬁc 2 like 3 protein, myosin binding protein C, myosin
+IA, myosin light chain 6B, integrin, myoglobin and glycosyl-
+transferase (www.ncbi.nlm.nih.gov/projects/mapview).
+Previous studies have associated IGF1 microsatellite with
+BW EPD (Expected Progeny Differences) and 180 day gain
+from birth to weaning in Hereford cattle (Moody et al., 1996),
+and they found a 15% effect of 229 allele. Andrade et al.
+(2008) found that BW and 240 day weight were associated
+with IGF genotypes in Canchim cattle (Charolais-Nelore 5/8).
+For both traits, IGF1 microsatellite genotypes that included
+the 231 and 225 alleles were associated with low and high
+body weights respectively (also found by Pereira et al., 2005);
+225 allele is of Cebuine breed origin so it is not surprising that
+this allele is related with high body weight. In our study,
+genotypes 229/229 and 231/231 were associated with low
+and high dBW and dWW, respectively. Andrade et al. (2008)
+didn't ﬁnd the homozygote 231 genotype and reported that
+differences between 229/229 and 229/231 genotypes were
+not large, furthermore, for dWW 229/229 genotype was
+lower than 229/231; considering this, their result and ours
+could be equivalent. Earlier, Machado et al. (2003) had found
+a QTL for growth traits in the neighborhood of IGF1 studying
+Canchim cattle too, even though, they hypothesized that the
+IGF1 gene is not directly responsible for variations in growth
+traits. In addition, Li et al. (2004) detected a dominance effect
+(P b 0.10) of IGF1 on BW in B. taurus cattle, Ge et al. (2001)
+found IGF1/SnaBI polymorphisms associated with weight
+gain during the ﬁrst 20 days after weaning in Angus cattle but
+Curi et al. (2005) suggested that the alleles of the IGF1
+microsatellite and those of the IGF1/SnaBI polymorphism do
+not show strong linkage disequilibrium, despite their close
+location.
+Despite this kind of analysis could lead to an over-
+estimation of the effect of some individual alleles, the results
+across both herds and previous literature are in agreement.
+Especial consideration should be done in marker ETH10
+(multiallelic), as the number of animals in some genotype
+classes is quite low (see Table 1 and Table S4); therefore
+associations and size of effect should be considered as tenuous.
+BM1824 (BTA1, 122 cM) was included as control. There are not
+much QTLs for growth traits in that chromosome, only Casas
+et al. (2003) detected a QTL for BW between 100 and 135 cM.
+In this work we didn't ﬁnd any association between BM1824
+and the traits tested.
+In conclusion, we conﬁrm marker association with growth
+traits in two BTA5 regions close to previously reported QTLs
+for growth obtained in intensive feeding conditions. Further-
+more, we showed that these regions are affecting dBW, dWW
+and mWW also in a pasture-based system, where animals are
+not always able to express their maximum genetic potential.
+These ﬁndings were also tested in a commercial herd, which
+are the potential candidates for a Marker Assisted Selection,
+so these ﬁndings can be used to support such schemes.
+Acknowledgements
+We like to thank Cabaña “Los Angeles” for the samples and
+the EBV data; Dr. E. Casas for manuscript corrections and
+suggestion; Dr. R. M. Thallman and Dr. L. Kuehn for the
+assistance in Genoprob usage. We are also grateful to the
+anonymous reviewers for the useful suggestions. Research for
+this paper was supported by the Consejo Nacional de
+Investigaciones Cientíﬁcas y Técnicas (CONICET), Comisión
+de Investigaciones Cientíﬁcas de la Provincia de Buenos Aires
+(CIC), Universidad Nacional de La Plata (UNLP) and the
+Japanese International Cooperation Agency (JICA).
+Appendix A. Supplementary data
+Supplementary data associated with this article can be
+found, in the online version, at doi:10.1016/j.livsci.2010.06.160.
+References
+Allan,M.F.,Kuehn,L.A.,Cushman,R.A.,Snelling,W.M.,Echternkamp,S.E.,
+Thallman, R.M., 2009. Conﬁrmation of quantitative trait loci using a
+low-density single nucleotide polymorphism map for twinning and
+ovulation rate on bovine chromosome 5. J. Anim. Sci. 87, 46–56.
+Andrade, P.C., Grossi, D.A., Paz, C.C., Alencar, M.M., Regitano, L.C., Munari, D.P.,
+2008. Association of an insulin-like growth factor 1 gene microsatellite with
+phenotypic variation and estimated breeding values of growth traits in
+Canchim cattle. Anim. Genet. 39, 480–485.
+Casas, E., Shackelford, S.D., Keele, J.W., Stone, R.T., Kappes, S.M., Koohmaraie, M.,
+2000. Quantitative trait loci affecting growth and carcass composition of
+cattle segregating alternate forms of myostatin. J. Anim. Sci. 78, 560–569.
+Casas, E., Keele, J.W., Shackelford, S.D., Koohmaraie, M., Stone, R.T., 2003.
+Identiﬁcation of quantitative trait loci for growth and carcass composition
+in cattle. Anim. Genet. 35, 2–6.
+Curi, R.A., Oliveira, H.N., Silveira, A.C., Lopes, C.R., 2005. Effects of
+polymorphic microsatellites in the regulatory region of IGF1 and GHR
+on growth and carcass traits in beef cattle. Anim. Genet. 36, 58–62.
+Daubas, P., Tajbakhsh, S., Hadchouel, J., Primig, M., Buckingham, M., 2000.
+Myf5 is a novel early axonal marker in the mouse brain and is subjected
+to post-transcriptional regulation in neurons. Development 127,
+319–331.
+Dekkers, J.C.M., 2004. Commercial application of marker- and gene assisted
+selection in livestock: strategies and lessons. J. Anim. Sci. 82, 313–328.
+Ge, W., Davis, M.E., Hines, H.C., Irvin, K.M., Simmen, R.C., 2001. Association of a
+genetic marker with blood serum insulin-like growth factor-I concentration
+and growth traits in Angus cattle. J. Anim. Sci. 79, 1757–1762.
+Li, N., Stephens, M., 2003. Modelling linkage disequilibrium, and identifying
+recombination hotspots using SNP data. Genetics 165, 2213–2233.
+Li, C., Basarab, J., Snelling, W.M., Benkel, B., Murdoch, B., Moore, S.S., 2002.
+The identiﬁcation of common haplotypes on bovine chromosome 5
+129A. Rogberg-Muñoz et al. / Livestock Science 135 (2011) 124–130
+Author's personal copy
+within commercial lines of Bos taurus and their associations with growth
+traits. J. Anim. Sci. 80, 1187–1194.
+Li, C., Basarab, J., Snelling, W.M., Benkel, B., Murdoch, B., Hansen, C., Moore, S.
+S., 2004. Assessment of positional candidate genes myf5 and igf1 for
+growth on bovine chromosome 5 in commercial lines of Bos taurus.J.
+Anim. Sci. 82, 1–7.
+Maak, S., Neumann, K., Swalve, H.H., 2006. Identiﬁcation and analysis of
+putative regulatory sequences for the MYF5/MYF6 locus in different
+vertebrate species. Gene 379, 141–147.
+Machado, M.B.B., Alencar, M.M., Pereira, A.P., Oliveira, H.N., 2003. QTL affecting
+body weight in a candidate region of cattle chromosome 5. Genet. Mol. Biol. 3,
+259–265.
+Melucci, L.M., Birchmeier, A.N., Cappa, E.P., Cantet, R.J.C., 2009. Bayesian
+analysis of selection for higher weaning weight while maintaining birth
+weight in beef cattle. J. Anim. Sci. 87, 3089–3096.
+Meyer, K., 1997. Estimates of genetic parameters for weaning weight of beef
+cattle accounting for direct-maternal environmental covariances. Livest.
+Prod. Sci. 52, 187–199.
+Miquel, M.C., Villarreal, E., Mezzadra, C., Melucci, L., Soria, L., Corva, P., Schor,
+A., 2009. The association of CAPN1 316 marker genotypes with growth
+and meat quality traits of steers ﬁnished on pasture. Genet. Mol. Biol. 32,
+491–496.
+Moody, D.E., Pomp, D., Newman, S., MacNeil, M.D., 1996. Characterization of
+DNA polymorphisms in three populations of Hereford cattle and their
+associations with growth and maternal EPD in line 1 Herefords. J. Anim.
+Sci. 74, 1784–1793.
+Morris, C.A., Pitchford, W.S., Cullen, N.G., Esmailizadeh, A.K., Hickey, S.M.,
+Hyndman, D., Dodds, K.G., Afolayan, R.A., Crawford, A.M., Bottema, C.D.K.,
+2009. Quantitative trait loci for live animal and carcass composition traits
+in Jersey and Limousin back-cross cattle ﬁnished on pasture or feedlot.
+Anim. Genet. 40, 648–654.
+Pereira, A.P., Alencar, M.M., Oliveira, H.N., Regitano, L.C.A., 2005. Association
+of GH and IGF-I polymorphism with growth traits in a synthetic beef
+cattle breed. Genet. Mol. Biol. 28, 230–236.
+Rousset, F., 2008. GENEPOP '007: a complete re-implementation of the
+GENEPOP software for Windows and Linux. Mol. Ecol. Res. 8, 103–106.
+Schulman, N.F., Sahana, G., Lund, M.S., Viitala, S.M., Vilkki, J.H., 2008.
+Quantitative trait loci for fertility traits in Finnish Ayrshire cattle. Genet.
+Sel. Evol. 40, 195–214.
+Stone, R.T., Casas, E., Smith, T.P., Keele, J.W., Harhay, G., Bennett, G.L.,
+Koohmaraie, M., Wheeler, T.L., Shackelford, S.D., Snelling, W.M., 2005.
+Identiﬁcation of genetic markers for fat deposition and meat tenderness
+on bovine chromosome 5: development of a low-density single
+nucleotide polymorphism map. J. Anim. Sci. 83, 2280–2288.
+Thallman, R.M., Bennett, G.L., Keele, J.W., Kappes, S.M., 2001a. Efﬁcient
+computation of genotype probabilities for loci with many alleles: I.
+Allelic peeling. J. Anim. Sci. 79, 26–33.
+Thallman, R.M., Bennett, G.L., Keele, J.W., Kappes, S.M., 2001b. Efﬁcient
+computation of genotype probabilities for loci with many alleles: II.
+Iterative method for large, complex pedigrees. J. Anim. Sci. 79, 34–44.
+Werner, H., Adamo, M., Roberts Jr., C.T., LeRoith, D., 1994. Molecular and
+cellular aspects of insulin-like growth factor action. Vitam. Horm. 48, 1–58.
+130 A. Rogberg-Muñoz et al. / Livestock Science 135 (2011) 124–130

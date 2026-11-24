@@ -1,0 +1,1068 @@
+=== Fuente: Piepho et al. - Analysis of Complex Treatments Structure - HortSci. 2006, vol. 41.pdf ===
+
+HORTSCIENCE VOL. 41(2) APRIL 2006446
+HORTSCIENCE 41(2):446–452. 2006.
+Received for publication 26 Oct. 2005. Accepted 
+for publication 6 Dec. 2005. We thank Friedich Utz 
+(University of Hohenheim, Germany) for providing the 
+maize data. Thanks are also due to Andreas Büchse 
+(University of Hohenheim, Germany) and to several 
+referees for useful comments on an earlier draft.
+A Note on the Analysis of Designed 
+Experiments with Complex Treatment 
+Structure
+H.P. Piepho
+Institute of Crop Production and Grassland Research, University of Hohenheim, 
+Fruwirthstrasse 23, 70599 Stuttgart, Germany
+E.R. Williams
+Statistical Consulting Unit, The Graduate School, c/- MSI John Dedman Building, 
+The Australian National University, Canberra ACT 0200 Australia
+M. Fleck
+Department of Organic Farming and Cropping, University of Kassel, 
+Nordbahnhofstrasse 1a, 37213 Witzenhausen, Germany
+Additional index words. multiple comparison, linear model, linear contrasts, analysis of 
+variance, augmented factorial
+Abstract. Many experiments involve a complex treatment structure, and it is not always 
+immediately obvious how such experiments should be analysed. This paper shows by way 
+of three examples how a suitable linear model can be formulated that provides a meaning-
+ful analysis of variance table and allows mean comparisons of interest to be obtained in a 
+straightforward manner. Possible advantages of this approach compared to the use of linear 
+contrasts are discussed. It is concluded that a well-chosen model can often considerably 
+simplify the analysis and lead to useful statistical inferences. The approach advocated in 
+this paper is going to be strongest when there is good design structure present.
+Most experimental designs considered in 
+textbooks have a simple treatment structure, 
+e.g., the balanced one-way design, where the 
+treatments have no particular structure, or the 
+two-way factorial design. In practice, however, 
+the treatment design often differs from such 
+standard designs, e.g., when one or several 
+controls need to be accommodated, or the 
+research questions to be addressed require the 
+factorial structure to deviate from the complete 
+case, such that not all cells in the cross-clas-
+siﬁ cation are ﬁ lled. Three pertinent examples 
+are as follows.
+Example 1 (Marini, 2003).  A randomized 
+complete block experiment on apple ( Malus 
+×domestica Borkh.) was performed to compare 
+three formulations of gibberellins in each of 
+two different concentrations. In addition to 
+this 3 × 2 factorial structure, the experiment 
+comprised an untreated control. This type 
+of treatment design is sometimes denoted as 
+augmented factorial. The response variable 
+was fruit set calculated as the number of fruits 
+per limb 65 days after bloom divided by the 
+number of ﬂ owers per cluster. One objective of 
+the analysis is to compare the treatments to the 
+control. In addition, the factorial structure is to 
+be analysed. In both analyses, all data should 
+be used to estimate experimental error.
+Example 2. An experiment with maize (Zea 
+mays L.) was laid out as a resolvable incomplete 
+block design with two replications for 90 entries 
+and 6 standard varieties (F. Utz, University of 
+Hohenheim, Germany, personal communica-
+tion).  Incomplete blocks of size 10 were formed 
+according to a 10 × 10 square lattice design, in 
+which incomplete blocks can be grouped into 
+complete replications comprising all treatments. 
+Standards were replicated more often than 
+entries, so a complete replicate contained at 
+least two replications for some standards. The 
+number of plots per genotype varied among 
+standards, because a common block size was 
+accommodated, requiring unequal sample size 
+for the standards. It may be of interest to com-
+pare the mean yields of entries versus that of 
+the standards. Also, a test of differences among 
+standards and among differences of entries is 
+useful. In addition, one may want to compute 
+best linear unbiased predictions (BLUP) of 
+entry effects, taking entries as random, while 
+standards are regarded as a ﬁ xed factor. 
+Example 3. A completely randomized pot 
+experiment was conducted to test the effect of 
+various treatments on yield and quality traits 
+of carrots ( Daucus carota L.). The treatment 
+structure comprised the following four fac-
+tors, each of which had two levels (described 
+in brackets): 1) light (1 = 100%, 2 = 75%); 2) 
+substrate (1 = loamy soil; 2 = sand); 3) horn 
+silica (1 = without; 2 = with); 4) horn manure 
+(1 = without, 2 = with). Horn silica and horn 
+manure are two spray preparations used in bio-
+dynamic farming for strengthening plant vigor. 
+The four factors were tested in a full 24 factorial 
+subdesign, corresponding to 16 different treat-
+ments. In addition to these treatments, carrots 
+were fertilized with hoof-and-horn coarse meal 
+for sufﬁ cient nitrogen supply. To explore the 
+effect of stress, some of the treatments of the 
+24 factorial were modiﬁ ed by omitting the ni-
+trogen fertilization. Speciﬁ cally, this was done 
+for the four treatments exposed to 100% light 
+and grown on loamy soil. These additional four 
+treatments generate a 2 3 factorial subdesign 
+for nitrogen × horn silica × horn manure. One 
+objective of the analysis is an ANOVA of the 
+24 factorial subdesign (light × substrate × horn 
+silica × horn manure). The second objective is an 
+ANOVA of the 23 factorial subdesign (nitrogen 
+× horn silica × horn manure). In both analyses, 
+all data should be used to estimate experimental 
+error. A salient feature of this example is that 
+the two subdesigns share four treatments.
+Using the three examples described in this 
+introduction, the present paper will show how 
+a meaningful analysis can be obtained based 
+on a linear model  by appropriate coding of 
+factors. Our main objective is to demonstrate 
+that the introduction of dummy variables can 
+conveniently solve a wide variety of inferential 
+problems that would otherwise either require 
+rather more effort, e.g., when multiple linear 
+contrasts are speci ﬁ ed (Marini, 2003), or not 
+make fully efﬁ cient use of the data, e.g., when 
+only data from orthogonal subdesigns are 
+analysed. We will use a model formulation 
+that represents nesting and crossing of factors 
+in a simple way (McCullagh and Nelder, 1989; 
+Piepho et al., 2003). Treatment factors may be 
+deﬁ ned as either ﬁ xed or random, and levels 
+are either quantitative of qualitative. We will 
+consider examples for each of these situations, 
+thus illustrating the broad applicability or the 
+our approach. Tests of signi ﬁ cance in nonor-
+thogonal linear models require special attention 
+to be paid to the choice among Type I versus 
+Type III hypotheses and sums-of-squares. It 
+will be demonstrated in examples that most 
+inferential problems can be tackled using Type 
+I hypotheses. The ideas presented here are not 
+novel (McCullagh and Nelder, 1989; Littell 
+et al., 2002; Williams et al., 2002), but their 
+application in practice seems to have been 
+relatively limited so far. The purpose of the 
+present paper is therefore to help disseminate 
+these useful ideas among plant scientists.
+Example 1
+The original apple data were not available 
+from the author (R. P. Marini, personal commu-
+nication), so we simulated data that reproduced 
+the same treatment means and sums-of-squares 
+for error and blocks as reported in Marini 
+(2003). The treatment structure for the apple 
+experiment reported in Marini (2003) is shown 
+in Table 1. It involves a combination of nesting 
+and crossing of factors (Nelder and McCullagh, 
+1989). The simulated data is shown in Table 2. 
+Due to rounding errors, the sums-of-squares in 
+ANOVA tables are not exactly the same as in 
+Marini (2003). 
+Firstly, the treatments fall into two groups: 
+the control and the six treatments. This grouping 
+may be represented by a dichotomous factor 
+contr_vs_trt deﬁ ned as in Table 2. Secondly, 
+nested within the six treatments, there is a 
+crossed two-way 3 × 2 treatment structure 
+involving the factors formulation ( form) 
+AprilBook.indb   446AprilBook.indb   446 2/13/06   2:53:45 PM2/13/06   2:53:45 PM
+447HORTSCIENCE VOL. 41(2) APRIL 2006
+and concentration ( conc). Using the syntax 
+described in Piepho et al. (2003), which is es-
+sentially that given in McCullagh and Nelder 
+(1989) and implemented in the statistical 
+package GenStat, the two-way structure can 
+be represented as  
+form × conc   .
+This resolves as
+form + conc + form•conc   , 
+which is in a form directly usable in linear 
+model packages. Some packages even allow 
+specifying the model explicitly as form × conc 
+(GenStat represents this as form*conc; in SAS 
+the appropriate speci ﬁ cation is form|conc). 
+The nesting of the two-way structure within 
+the grouping of control versus treatments 
+(contr_vs_trt) can be expressed as
+contr_vs_trt/(form × conc)    , 
+which expands as
+contr_vs_trt      + contr_vs_trt•form      + 
+contr_vs_trt•conc + contr_vs_trt•form•conc.
+Adding a block effect (block) this translates 
+directly into the following statements in SAS, 
+where the response variable is fruit set (set):
+PROC GLM; 
+CLASS block contr_vs_trt form conc;
+MODEL set = block contr_vs_trt 
+                contr_vs_trt*form 
+                contr_vs_trt*conc 
+                contr_vs_trt*form*conc;
+RUN.
+By comparison, the corresponding state-
+ments in GenStat are somewhat more compact 
+and intuitive, because the model syntax allows 
+direct speci ﬁ cation of the nested treatment 
+structure:
+block block
+treatment contr_vs_trt/(form*conc)
+anova [fprob=yes] set
+The resulting ANOVA is shown in Table 3. 
+Type I and Type III SS of SAS coincide here 
+because the number of replications is the same 
+for each of the seven treatments. There are 
+highly signiﬁ cant differences between control 
+and the mean of treatments. Interactions of the 
+formulation × concentration treatment structure 
+are not signiﬁ cant, so we consider the main ef-
+fects. Only the main effects for concentration 
+are signiﬁ cant, so it is appropriate to compare 
+marginal means for that factor (Table 4). It 
+is seen that the fruit set increases with con-
+centration. Note that a comparison of simple 
+formulation × concentration means would not 
+be useful as the interaction is not signi ﬁ cant. 
+In addition, we compare the marginal means 
+for the control and the group of six treatments 
+(Table 4). The mean of the six treatments is 
+markedly larger than the control. In summary, 
+the higher concentration is to be preferred, 
+regardless of the formulation used, and it is 
+effective compared to the control.
+The analysis reported here differs from 
+those given by Marini (2003). In that paper, 
+hypotheses are mostly tested by specifying 
+single degree of freedom contrasts. In the 
+present analysis, a full ANOVA is produced 
+with all relevant sources of variation using a 
+single model, so there is no need to specify 
+contrasts, and the analysis is particularly simple 
+to implement and straightforward to interpret. 
+Instead of specifying contrasts, all relevant 
+comparisons suggested by the ANOVA can be 
+obtained from the least square means. It should 
+also be noted that marginal means cannot be 
+computed with any of the models used in Marini 
+(2003), while the problem does not occur with 
+the present approach. 
+Incidentally, ﬁ tting the model form × conc, 
+ignoring the nesting within ctr_vs_trt, happens 
+to produce the same ANOVA for the effects 
+form, conc, and form•conc, as that reported 
+in Table 3, if Type III SS are considered [also 
+see Table 4 in Marini (2003)]. Of course, a 
+test for contr_vs_trt is not produced with this 
+model, and one cannot compute simple means 
+or marginal means. Also, the Type I SS for 
+form, conc, and form•conc are not the same 
+as with Type III SS. With Type III SS, the test 
+for form is adjusted for conc, as ﬁ tting conc 
+takes out the control when coding factors as in 
+Table 2. Similarly, the test for conc is adjusted 
+for form, because ﬁ tting of form takes out the 
+control. As a result, the Type III ANOVA for the 
+model form × conc turns out to be that for the 
+3 × 2 factorial subdesign. But this coincidence 
+will not be immediately obvious to the average 
+user of Type III SS, nor does adherence to Type 
+III SS provide a general strategy to deal with 
+standards in complex factorial designs. It seems 
+much more stringent and transparent to use the 
+nested model contr_vs_trt/(form × conc), as 
+this properly reﬂ ects all nesting and crossing 
+features of the design.
+Concentration is a quantitative factor, so one 
+may also consider a regression (Marini, 2003). 
+When ﬁ tting a regression model, conc needs to be 
+declared as a quantitative variable (by removing it 
+from the CLASS statement in SAS). An important 
+aspect in a regression analysis is that the control 
+now takes on a different role: it is the 0 concentra-
+tion for the regression of each formulation. Due 
+to the different role of the control, the model no 
+longer contains the factor contr_vs_trt. Also, 
+for any regression model it must be assumed 
+that the curves of the three formulations have 
+the same intercept. This is illustrated in Fig. 
+1. For this reason, the model does not have a 
+formulation main effect (form). This main effect 
+would imply a formulation-speci ﬁ c intercept, 
+which is inappropriate, and it would effectively 
+remove the control from the regression, as in the 
+analysis provided by Marini (2003). The model 
+Table 1. Treatment structure and simple means of apple experiment (Marini, 2003) and deﬁ nition of factor 
+contr_vs_trt.
+Formulation Conc  Fruit/100
+(form) (mg·L –1) contr_vs_trt clusters
+Control 0 control 35.7
+ABG-35 10 trt 50.1
+ABG-35 20 trt 66.9
+ABG-63 10 trt 55.2
+ABG-63 20 trt 80.3
+ABG-68 10 trt 62.3
+ABG-68 20 trt 58.9
+LSD (5%)   19.2
+Table 2. Simulated fruit set data based on apple experiment reported in Marini (2003). The simulation 
+was designed to reproduce treatment means as well as the error and block sum of squares in Marini 
+(2003).
+    Formulation/concn
+ Control ABG-35  ABG-63  ABG-68
+Block 0 10 20 10 20 10 20
+1 37.706 37.905 37.714 34.247 63.547 63.930 51.847
+2 19.970 32.049 53.435 10.901 81.702 64.321 64.519
+3 35.283 45.106 71.559 49.792 51.048 42.792 31.316
+4 14.197 35.652 34.345 71.225 55.520 58.537 57.421
+5 32.535 35.514 62.695 58.652 72.707 19.885 44.908
+6 74.509 114.374 141.651 106.382 157.276 124.336 103.390
+Table 3. Analysis of variance for apple experiment. 
+Source Term in SAS model statement df SSz MS F P > F
+Block block 5 29172 5834 22.01 <0.0001
+Control vs. treatments contr_vs_trt 1 3634 3634 13.71 0.0009
+Formulation contr_vs_trt*form 2 564 282 1.06 0.3576
+Concentration contr_vs_trt*conc 1 1482 1482 5.59 0.0247
+Formulation × concentration contr_vs_trt*form*conc 2 1289 645 2.43 0.1050
+Error  30 7956 265
+zType I and Type III SS in SAS are the same, when conc is a qualitative factor, because each of the seven treatments has the same number of replications. With 
+unbalanced data the SS would differ. Type I SS would then be preferable due to better power (Nelder, 1994), but two different ﬁ tting sequences are required to 
+obtain all relevant F tests (also see Example 2 for a discussion of Type I vs. Type III SS).
+STATISTICS
+AprilBook.indb   447AprilBook.indb   447 2/13/06   2:53:48 PM2/13/06   2:53:48 PM
+HORTSCIENCE VOL. 41(2) APRIL 2006448
+suggested here does have formulation-speci ﬁ c 
+regression effects. Each formulation has three 
+concentrations, if the control is included, so a 
+quadratic polynomial can be ﬁ tted. The model 
+has the form (conc + conc•conc)/form, which 
+resolves as conc + conc•conc + conc•form + 
+conc•conc•form.
+The crossed terms of conc and conc•conc 
+with form provide tests for lack of homogeneity 
+of the formulation-speciﬁ c linear and quadratic 
+regression coefﬁ cients. The only signiﬁ cant term 
+in the sequential ANOVA (not shown) is the 
+linear term (conc), so there is no heterogeneity 
+among regression coefﬁ cients or indication of 
+nonlinearity. Thus we could reduce the model 
+and ﬁ t a single straight line to fully describe 
+the results [The ﬁ tted regression line is: set = 
+38.45 + 1.56*conc].
+To illustrate the multiple comparison among 
+regression coefﬁ cients, we also ﬁ t the model 
+block + conc•form , despite the lack of het-
+erogeneity among regressions. The regression 
+coefﬁ cient estimates for the three formulations, 
+along with multiple comparison results, are 
+reported in Table 5. The regression coefﬁ cients 
+are obtained from the solution vector for the 
+model block + conc•form. Note that the factor 
+form has four levels (Table 2): one for each of 
+the three formulations and one for the control. 
+Nevertheless, the term conc•form corresponds 
+to only three estimable regression coefﬁ cients 
+for the three gibberellin formulations. When 
+ﬁ tting the model with PROC GLM, however, 
+an additional regression coefﬁ cient is produced 
+for the control (not shown). For this coefﬁ cient, 
+an estimate of 0 is returned, and no associated 
+standard error is printed, because no separate 
+regression coefﬁ cient is estimable for the con-
+trol. The regression coefﬁ cient for the control 
+should be ignored in interpreting the results. 
+None of the slopes for the three formulations 
+are signi ﬁ cantly different (Table 5), and this 
+agrees with the nonsigni ﬁ cant heterogeneity 
+among slopes found by an F test. Comparison 
+among slopes required multiple ESTIMATE 
+statements. The following SAS code was used 
+to obtain this analysis:
+PROC GLM; 
+CLASS block form;
+MODEL set=block form*conc/solution;
+ESTIMATE ‘slope 35-63’ form*conc 1 –1 
+0 0;
+ESTIMATE ‘slope 35-68’ form*conc 1 0 
+–1 0;
+ESTIMATE ‘slope 63-68’ form*conc 0 1 
+–1 0;
+RUN.
+Example 2
+The treatment structure is hierarchical, as 
+visualized in Fig. 2. The treatments (genotypes; 
+geno) fall into two groups: entries and standards. 
+The standards are coded as geno = 1001, …, 
+1006, while entries are coded as geno = 1, …, 
+90. The dichotomy of standards versus entries 
+may be de ﬁ ned by a factor stand_vs_entry 
+with a different level for both groups (Table 
+6). To compare standards in an ANOVA, we 
+deﬁ ne a factor standards, which has a separate 
+level for each standard and a common level for 
+all entries (0). If this factor is nested within 
+stand_vs_entry, the ANOVA will yield a test 
+of the null hypothesis that all standards have the 
+same yield. In an analogous fashion, we deﬁ ne 
+a factor entries for the entries. The treatment 
+structure can then be written as
+stand_vs_entry/(standards + entries),
+which expands as
+stand_vs_entry +
+stand_vs_entry•standards +
+stand_vs_entry•entries
+The randomization structure can be repre-
+sented as rep/block, where rep codes complete 
+replications, while blocks are coded by block 
+(Piepho et al., 2003). A full ANOVA, which 
+takes all effects as ﬁ xed, is shown in Table 7. 
+The assumption of ﬁ xed block effects results 
+in an intra-block analysis that does not recover 
+inter-block information. Two different orders 
+of ﬁ tting effects are needed when using Type I 
+SS. The correct test for standards is obtained 
+by ﬁ tting standards last in the sequence of ef-
+fects. Conversely, entries need to be ﬁ tted last 
+to obtain the correct test for entries. Type III SS 
+yield the correct test for both effects. The tests 
+for stand_vs_entry also differ between Type 
+I and Type III SS. In the present case, Type III 
+SS give equal weight to each genotype within 
+a group, while Type I SS accounts for unequal 
+sample sizes. In case there are real differences 
+among standards or among entries, this causes the 
+hypothesis being tested to depend on the design 
+(Searle, 1987), which is not desirable. Type III 
+SS may be preferable here, because the F test 
+for stand_vs_entry is equivalent to a contrast 
+test among the least square means for standards 
+vs. entries. Alternatively, one can argue that a 
+comparison of the mean of standards versus the 
+mean of entries will be meaningful only if there 
+are no differences among entries and among 
+Table 4. Fruit set marginal means for concentration and for control vs. treatments in apple experiment.
+Term Level Least square meanz
+Concentration (contr_vs_trt•conc) 0 35.7 a
+ 10 55.9 b
+ 20 68.7 c
+Control vs. treatments (contr_vs_trt) Control 35.7 a
+ Six treatments 62.3 b
+zMeans for a term that are followed by a common letter are not signi ﬁ cantly different according to a t 
+test.
+Table 5. Multiple comparison among regression 
+slopes for apple experiment.
+Formulation Slope z
+35 1.37
+63 2.01
+68 1.30
+SEDy 0.44
+zSlope estimates are not signi ﬁ cantly different ac-
+cording to a t test.
+ySED = standard error of a difference.
+Fig. 1. Plot of treatment means for apple data as 
+depending on gibberellin concentration and 
+formulation.
+Fig 2. Hierarchical treatment structure of maize 
+experiment.
+Table 6. Treatment structure and deﬁ nition of treatment factors for maize experiment.
+Genotype (geno) Group stand_vs_entry standards entries
+1 Entry 1 0 1
+2 Entry 1 0 2
+3 Entry 1 0 3
+• • • • •
+• • • • •
+• • • • •
+89 Entry 1 0 89
+90 Entry 1 0 90
+1001 Standard 2 1001 0
+1002 Standard 2 1002 0
+1003 Standard 2 1003 0
+1004 Standard 2 1004 0
+1005 Standard 2 1005 0
+1006 Standard 2 1006 0
+AprilBook.indb   448AprilBook.indb   448 2/13/06   2:53:51 PM2/13/06   2:53:51 PM
+449HORTSCIENCE VOL. 41(2) APRIL 2006
+standards. In this case, Type I and Type III SS test 
+the same hypothesis, and Type I SS will have the 
+advantage of better power (Nelder, 1994).
+With regard to the comparison among 
+standards and among entries, note that the 
+treatment design may be viewed as being com-
+posed of two nonoverlapping subdesigns. This 
+nonoverlap is the prerequisite for a single joint 
+analysis of both subdesigns by a single model. 
+By contrast, in Example 3 the two subdesigns 
+of interest are overlapping, so two separate 
+analyses are necessary.
+Table 7. Analysis of variance for maize experiment. 
+Source Term in SAS model statement df Type MS F P > F
+   Type III SS
+Replications rep 1 37062 37062 30.68 <0.0001
+Block, nested in replications rep*block 18 48895 2716 2.25 0.0071
+Standards vs. entries stand_vs_trt 1 103451 103451 85.65 <0.0001
+Standards stand_vs_trt*standards 5 56352 11270 9.33 <0.0001
+Entries stand_vs_trt*entries 89 524102 5889 4.88 <0.0001
+Error  83 100251 1208
+   Type I SS
+Replications rep 1 37062 37062 30.68 <0.0001
+Block, nested in replications rep*block 18 48895 2716 2.25 0.0071
+Standards vs. entries stand_vs_trt 1 70910 70910 58.71 <0.0001
+Standards, ﬁ tted before entries stand_vs_trt*standards 5 62230 12446 10.30 <0.0001
+Entries, ﬁ tted after standards stand_vs_trt*entries 89 524102 5889 4.88 <0.0001
+Error  83 100251 1208
+   Type I SS
+Replications rep 1 37062 37062 30.68 <0.0001
+Block, nested in replications rep*block 18 48895 2716 2.25 0.0071
+Standards vs. entries stand_vs_trt 1 70910 70910 58.71 <0.0001
+Entries, ﬁ tted before standards stand_vs_trt*entries 89 529980 5955 4.93 <0.0001
+Standards, ﬁ tted after entries stand_vs_trt*standards 5 56352 11270 9.33 <0.0001
+Error  83 100251 1208
+Table 8. Treatment structure for carrot experiment. Factor variable names are boldfaced.
+Nitrogen Light (%) Substrate Horn silica Horn manure Treatment Selector variables
+(n) (light) (sub) (hs) (hm) (trt) w1 w2
+With (1) 100 (1) Loamy soil (1) Without (1) Without (1) 1 0 0
+    With (2) 2 0 0
+   With (2) Without (1) 3 0 0
+    With (2) 4 0 0
+  Sand (2) Without (1) Without (1) 5 0 5
+    With (2) 6 0 6
+   With (2) Without (1) 7 0 7
+    With (2) 8 0 8
+ 75 (2) Loamy soil (1) Without (1) Without (1) 9 0 9
+    With (2) 10 0 10
+   With (2) Without (1) 11 0 11
+    With (2) 12 0 12
+  Sand (2) Without (1) Without (1) 13 0 13
+    With (2) 14 0 14
+   With (2) Without (1) 15 0 15
+    With (2) 16 0 16
+Without (2) 100 (1) Loamy soil (1) Without (1) Without (1) 17 17 0
+    With(2) 18 18 0
+   With (2) Without (1) 19 19 0 
+    With (2) 20 20 0
+Table 9. Four-way ANOVA (light × substrate × horn silica × horn manure) for carrot experiment.
+Source Term in SAS model statement df SSz MS F P > F
+Take out treatments without nitrogen fertilizer w1 4 16703.04 4175.76 91.63 <0.0001
+Light light*w1 1 3607.50 3607.50 79.16 <0.0001
+Substrate sub*w1 1 123.49 123.49 2.71 0.1050
+Light × substrate light*sub*w1 1 240.64 240.64 5.28 0.0251
+Horn silica hs*w1 1 77.22 77.22 1.69 0.1980
+Light × horn silica light*hs*w1 1 60.26 60.26 1.32 0.2548
+Substrate × horn silica sub*hs*w1 1 22.21 22.21 0.49 0.4878
+Light × substrate × horn silica light*sub*hs*w1 1 11.99 11.99 0.26 0.6099
+Horn manure hm*w1 1 26.39 26.39 0.58 0.4496
+Horn manure × light light*hm*w1 1 25.13 25.13 0.55 0.4607
+Horn manure × substrate sub*hm*w1 1 8.05 8.05 0.18 0.6757
+Horn manure × light × substrate light*sub*hm*w1 1 0.26 0.26 0.01 0.9397
+Horn manure × horn silica hs*hm*w1 1 1.59 1.59 0.03 0.8523
+Horn manure × light × horn silica light*hs*hm*w1 1 0.02 0.02 0.00 0.9838
+Horn manure × substrate × horn silica sub*hs*hm*w1 1 78.99 78.99 1.73 0.1930
+Horn manure × light × substrate × horn silica light*sub*hs*hm*w1 1 29.03 29.03 0.64 0.4280
+Error  60 2734.27 45.57
+zType I and Type III SS in SAS are the same.
+AprilBook.indb   449AprilBook.indb   449 2/13/06   2:53:55 PM2/13/06   2:53:55 PM
+HORTSCIENCE VOL. 41(2) APRIL 2006450
+Example 3
+The design for the carrot experiment was 
+analysed as a completely randomized design 
+with four replications. The light factor could 
+not be randomised and thus may be confounded 
+with other environmental factors. The carrot 
+data give rise to two overlapping subdesigns: 
+the 24 factorial light × substrate × horn silica × 
+horn manure for the subset of treatments fertil-
+ized with nitrogen and the 23 factorial nitrogen 
+× horn silica × horn manure for the subset of 
+all treatments with 100% light and loamy soil. 
+For the 2 4 factorial, a four-way ANOVA of 
+light × substrate × horn silica × horn manure 
+is required, ignoring all unfertilized treatments, 
+while for the 23 factorial a three-way ANOVA 
+of nitrogen × horn silica × horn manure is 
+required, ignoring treatments with 75% light 
+or sandy soil. As can be seen from Table 8, 
+the two designs are overlapping: they share 
+the four treatments with fertilizer, 100% light, 
+and loamy soil ( ﬁ rst four treatments in Table 
+8). Thus, two separate model ﬁ ts are needed. 
+The treatment factors are coded light, sub, n, 
+hs, and hm for light, substrate, nitrogen, horn 
+silica, and horn manure, respectively. A running 
+number (trt) is deﬁ ned for uniquely identifying 
+all 20 treatments. The analyses may be done by 
+deﬁ ning additional factors (Table 8).
+Light × substrate × horn silica × horn manure 
+ANOVA: In order to select the subset of treat-
+ments in the four-way classiﬁ cation, we deﬁ ne 
+a new variable w1, which is equal to 0 for all 
+treatments of interest and equal to trt for all 
+treatments not receiving nitrogen. Note that the 
+particular value assigned to w1 for each level 
+is not important. The important property of w1 
+is that all treatments of interest have the same 
+level, whereas each treatment to be excluded 
+has a different level. The variable w1 can then 
+be used to block out the treatments without 
+nitrogen from the four-way ANOVA. Nested 
+within w1, we specify the four-way model. The 
+treatment structure for the four-way ANOVA 
+has the form
+w1/(light × sub × hs × hm)     .
+The resulting ANOVA is given in Table 
+9. Note that Type I and Type III SS coincide 
+in this case, because the four-way subdesign 
+is orthogonal. The only signiﬁ cant effects are 
+light and light•sub. Thus, we compute the 
+least square means for light•sub and compare 
+light regimes for levels of substrate and vice 
+versa (Table 10). All pairwise comparisons are 
+signiﬁ cant, except that between sand and loamy 
+soil at 75% light. It emerges that light was the 
+limiting factor under the shaded regime (75% 
+light), while with full light the better soil led to 
+improved growth. This pattern nicely explains 
+the light × substrate interaction. It should be 
+stressed that it would be misleading to compare 
+marginal means for light or substrate, because 
+the interaction was signi ﬁ cant. Clearly, a 
+comparison of marginal means would miss a 
+central feature of the data. The SAS statements 
+are as follows:
+PROC GLM;
+CLASS light sub hs hm w1;
+MODEL srmass = w1
+ w1*light
+ w1*sub
+ w1*light*sub
+ w1*hs
+ w1*hs*light
+ w1*hs*sub
+ w1*hs*light*sub
+ w1*hm
+ w1*hm*light
+ w1*hm*sub
+ w1*hm*light*sub
+ w1*hm*hs
+ w1*hm*hs*light
+ w1*hm*hs*sub
+ w1*hm*hs*light*sub/SS1;
+LSMEANS w1*light*sub/PDIFF;
+RUN.
+The analysis could also be obtained with 
+the new GLIMMIX procedure of SAS, using 
+exactly the same statements as with GLM 
+(dropping the SS1 option from the model 
+statement). A very useful new feature of GLIM-
+MIX is the SLICEDIFF option. For example, 
+comparisons of w1•light•sub means at the same 
+level of substrate would be obtained by adding 
+SLICEDIFF = w1*sub to the LSMEANS 
+statement.
+Nitrogen × horn silica × horn manure 
+ANOVA: In analogy to the four-way ANOVA 
+a new variable w2 is deﬁ ned, which is equal 
+to 0 for all treatments of interest (100% light, 
+loamy soil) and equal to trt otherwise. This 
+variable takes out treatments with 75% light 
+or sand from the three-way ANOVA. The 
+three-way model is then nested within w2. The 
+treatment structure for the three-way ANOVA 
+has the form w2/(n × hs × hm)  .
+The resulting ANOVA is given in Table 11. 
+Again Type I and Type III SS coincide, because 
+the three-way subdesign is orthogonal. The only 
+signiﬁ cant effect is nitrogen, so we compute 
+the corresponding marginal means (Table 12). 
+Fertilization more than doubles single root mass 
+compared to the mean of fertilizer-de ﬁ cient 
+treatments (without fertilizer).
+The ANOVAs for the two subdesigns 
+revealed signi ﬁ cant effects only for light, 
+light•substrate, and nitrogen, while no sig-
+niﬁ cant main effects or interactions were 
+found for horn manure or horn silica. Neither 
+of these analyses used the full information on 
+horn silica and manure, as far as main effects 
+are concerned, because the focus was on the 
+orthogonal subdesigns. In case of nonsigni ﬁ -
+cant interaction of horn manure and silica with 
+factors light, substrate and nitrogen, it is useful 
+to perform an ANOVA for horn silica × horn 
+manure, adjusting for signiﬁ cant effects in the 
+light × substrate × nitrogen classiﬁ cation. In the 
+present case, this amounts to ﬁ tting the model 
+light•sub + n + hs × hm. The Type III SS 
+yield nonsigniﬁ cant p-values for hs, hm, and 
+hs•hm (P = 0.208, P = 0.365, and P = 0.901, 
+respectively). The means for factors hs and hm 
+are quite different among the different analyses, 
+i.e., for the 24 and 23 factorials and the present 
+analysis that used all information from both 
+subdesigns. Table 13 bears this out for the horn 
+silica means. The reason for this difference is 
+that treatments included differ in the levels of 
+the other factors. By contrast, differences among 
+means are of the same order of magnitude, if 
+related to their standard errors.
+So far, all treatment effects have been taken 
+as ﬁ xed. If a factor has many levels, which may 
+be regarded as a random sample from some par-
+ent distribution, it may be preferable to analyse 
+the associated effects as random (Searle et al., 
+1992; Piepho, 1998). In plant breeding trials 
+one will be interested in estimating random 
+effects, which is done by best linear unbiased 
+prediction (BLUP; Searle et al., 1992; Panter 
+and Allen, 1995). For the maize data, one may 
+want to take entries as random, while standards 
+are taken as ﬁ xed. The rationale for this ap-
+proach is that standard varieties are expected to 
+be different from the population of entries and 
+it is not reasonable to regard them as a random 
+Table 10. Single root mass means [g] for substrate 
+× light in carrot experiment.
+ Lightz (%)
+Substratey 100 75
+Loamy soil 89.46 aA 70.56 aB
+Sand 82.80 bA 71.66 aB
+SEDx 2.39
+zMeans in a column followed by the same lower-
+case letter are not signiﬁ cantly different according 
+to a t test.
+yMeans in a row followed by the same upper-case 
+letter are not signiﬁ cantly different.
+xSED = standard error of a difference.
+Table 11. Three-way ANOVA (nitrogen × horn silica × horn manure) for carrot experiment. 
+Source Term in SAS model statement df SSz MS F P > F
+Take out treatments with 75% light or sand w2 12 3313.83 276.15 6.06 <0.0001
+Horn silica hs*w2 1 2.05 2.05 0.04 0.8327
+Horn manure hm*w2 1 10.93 10.93 0.24 0.6261
+Horn silica × horn manure hs*hm*w2 1 26.10 26.10 0.57 0.4521
+Nitrogen n*w2  1 17629.73 17629.73 386.86 <0.0001
+Nitrogen × horn silica n*hs*w2 1 13.13 13.13 0.29 0.5934
+Nitrogen × horn manure n*hm*w2 1 2.48 2.48 0.05 0.8165
+Nitrogen × horn silica × horn manure n*hk*hm*w2 1 17.55 17.55 0.39 0.5372
+Error  60 2734.27 45.57
+zType I and Type III SS in SAS are the same.
+AprilBook.indb   450AprilBook.indb   450 2/13/06   2:53:57 PM2/13/06   2:53:57 PM
+451HORTSCIENCE VOL. 41(2) APRIL 2006
+sample from that population (Piepho and Pillen, 
+2004). Furthermore, BLUP is designed to maxi-
+mize the probability of correct ranking among 
+effect estimates (Searle et al., 1992), and it is 
+reasonable to do so only for those entries among 
+which selections are to be made, thus exclud-
+ing standards. Model speciﬁ cation is similar to 
+the case when all treatment effects are ﬁ xed. 
+Essentially, the entry effects are moved from 
+the ﬁ xed to the random part. Thus, the effect 
+stand_vs_entry•entries could be declared as a 
+random effect. The resulting model is not quite 
+correct, however, because the effect will have a 
+separate level for all entries plus an additional 
+level for standards. Speci ﬁ cally, standards 
+would have a genetic variance component. 
+Clearly, this variance structure would be mis-
+speciﬁ ed, as we want standards to be associated 
+with no random genetic effect, while all entries 
+have a separate random effect. This may be 
+achieved by de ﬁ ning a dummy variable z so 
+that z = 0 for standards and z = 1 for entries. 
+The variable z is deﬁ ned as a quantitative rather 
+than a qualitative factor. In SAS this requires 
+omitting z from the list of CLASS factors. The 
+random entry effect may then be speci ﬁ ed as 
+z•entries. This effect induces a genetic variance 
+of zero for all standards and a common genetic 
+variance for all entries. Care must be taken so 
+that z is not automatically mean-centered by 
+the statistical package.The statements for the 
+MIXED procedure are as follows, using the 
+Kenward-Roger method to adjust the Wald F 
+statistic and degrees of freedom, and taking 
+blocks as random for recovery of inter-block 
+information:
+PROC MIXED; 
+CLASS rep block stand_vs_entry standards 
+entries;
+MODEL yield=rep stand_vs_entry 
+stand_vs_entry*standards/DDFM=KR;
+RANDOM rep*block z*entries;
+RUN;
+It should be stressed that the model would 
+not be strictly correct if z were declared as a 
+qualitative factor (CLASS variable), because 
+this would also induce a random genetic effect 
+for the group of standards, thus in ﬂ ating the 
+variance associated with observations in that 
+group. This can best be seen by the resulting 
+change in the Type III Wald F test for the fac-
+tor stand_vs_entry. With the assumption of 
+random entries, the null hypothesis tested here 
+is that the mean of the standards equals the 
+expected value of the parent population from 
+which entries have been sample. Note that this is 
+not quite the same as under a model with ﬁ xed 
+entries, where the null hypothesis states equality 
+of the mean of standards and the mean of tested 
+entries. When z is a continuous variable, the 
+rating treatments of interest from controls or 
+factors pertaining to other subdesigns need not 
+be at the top of the factorial hierarchy, i.e., it need 
+not be crossed with all other treatment effects 
+appearing in a model. For example, consider 
+a ﬁ eld experiment evaluating three different 
+types of fertilizer (fert) plus a control treatment. 
+If w is a dichotomous variable separating the 
+control from fertilizer treatments, this yields the 
+treatment structure w/fert. Now assume that 
+on each plot some soil property is measured 
+at three different depths ( depth). This factor 
+needs to be crossed with w/fert, resulting in the 
+model (w/fert) × depth, which expands to w 
++ w•fert + depth + w•depth + w•fert•depth. 
+It is seen that the model has a main effect for 
+depth that is not crossed with w.
+It should be emphasized that the approach 
+advocated in this paper is strongest when the 
+treatment structure has been carefully designed. 
+At the design stage, one should also think about 
+how exactly the data are going to be analysed 
+and how the model is to be parameterised. 
+This will often involve an iterative process, in 
+which the treatment structure is successively 
+ﬁ ne-tuned to address all relevant research 
+questions. Developing the model in parallel 
+can help clarifying the research objectives and 
+ﬁ nding a useful treatment design. Conversely, 
+difﬁ culty in specifying an appropriate model can 
+indicate that the treatment design is not entirely 
+appropriate for the purpose of the experiment. 
+As our examples have illustrated, speciﬁ cation 
+of a model requires that additional factors be 
+suitably deﬁ ned by the user. This may not always 
+a straightforward exercise, and if in doubt a 
+statistician should be consulted. 
+Our examples mainly required the use of 
+ﬁ xed effects models with normal errors. The 
+suggested approach to modelling the treatment 
+structure is applicable to any linear model, 
+including linear mixed models (LMM), which 
+allow great ﬂ exibility in accounting for multi-
+ple random sources of variation, as occur, e.g., 
+with split-plot designs, and generalized linear 
+mixed models (GLMMs), which can also handle 
+nonnormal errors. LMMs and GLMMs may 
+be ﬁ tted, e.g., with the MIXED and GLIM-
+MIX procedures of the SAS System. These 
+procedures, especially GLIMMIX, provide 
+improved capabilities for comparisons among 
+adjusted means. 
+In the example we touched upon the issue 
+of sequential sums-of-squares (Type I SS in 
+SAS) versus other types such as Type III SS. 
+All our comments in this regard apply equally 
+to Type I and Type III hypotheses tested in a 
+generalized linear and/or mixed model, where 
+sums-of-squares are not or cannot be computed. 
+Table 12. Marginal single root mass means [g] for 
+fertilizer in carrot experiment.
+Fertilizer Mean z
+With 89.46 a
+Without 42.51 b
+SEDy 4.77
+zMeans followed by a common letter are not signiﬁ -
+cantly different according to a t test.
+ySED = standard error of a difference.
+Wald  F value for this test is 67.51, which is 
+highly signiﬁ cant (P < 0.0001), while when z 
+declared as a qualitative factor (CLASS vari-
+able), the Wald F value drops to 3.33 and is not 
+signiﬁ cant (P = 0.0729). Essentially this occurs 
+because the model mis-speciﬁ cation leads to an 
+inﬂ ated error term for the standards. Interest-
+ingly, the test for stand_vs_entry is the only part 
+of the analysis that is affected by declaring z as 
+a qualitative factor. Everything else is identical 
+between both analyses, including all parameter 
+estimates, the log-likelihood, and all BLUPs of 
+random effects. The reason is that standards 
+provide no degrees of freedom for the genetic 
+variance in either case as all genetic variation 
+is accounted for by the ﬁ xed effects structure, 
+while the models differ in the variance structure 
+implied for the standards, thus affecting the 
+Wald F value for stand_vs_entry.
+With Examples 2 and 3, we have not pre-
+sented the corresponding GenStat code. Com-
+parative examples of SAS and GenStat code are 
+given, however, by Williams et al. (2002). The 
+SAS code for all three examples is available 
+from the ﬁ rst author upon request.
+Concluding Remarks
+Treatment structures deviating from simple 
+textbook examples are often quite useful in 
+answering complex research questions. It is 
+not always obvious, however, in which way 
+such designs should be analysed. A common 
+recommendation is to ﬁ t a one-way model 
+and deﬁ ne linear contrasts for hypotheses of 
+interest (Perry, 1986; Marini, 2003; Frömke 
+and Bretz, 2004), and this is indeed generally 
+a viable option. In fact, use of contrasts is often 
+the most useful approach, e.g., when there is 
+a complex design for a set of standards with 
+logical order (Hothorn and Bleiholder, 2006) 
+or when heterosis effects in breeding trials or 
+mixture effects in inter-cropping experiments 
+are to be estimated. In many cases, however, 
+this approach is somewhat tedious. In Example 
+2, one would have to deﬁ ne a contrast with 96 
+coefﬁ cients to compare the mean of standards 
+to the mean of entries. It often turns out that 
+an essentially equivalent analysis can be ob-
+tained from an ANOVA, followed by mean 
+comparisons, if a suitable parameterization 
+of the linear model is used (Williams et al., 
+2002). This paper has discussed three such 
+cases, and in all of them the key feature of the 
+model used was a nested treatment structure. 
+Also, with carefully de ﬁ ned model effects, it 
+was straightforward to derive all least square 
+means of interest. 
+It is worth mentioning that the factor sepa-
+Table 13. Means and differences for horn silica under different treatment models.
+Treatment model Level of horn silica Estimate SE
+w1/(light × sub × hs × hm) Without 79.7 1.19
+ With 77.5 1.19
+ Difference 2.2 1.69
+w2/(n × hs × hm) Without 65.7 1.69
+ With 66.2 1.69
+ Difference –0.5 2.39
+light*sub + n  + hs × hm Without 56.1 1.35
+ With 54.2 1.35
+ Difference 1.9 1.44
+AprilBook.indb   451AprilBook.indb   451 2/13/06   2:54:01 PM2/13/06   2:54:01 PM
+HORTSCIENCE VOL. 41(2) APRIL 2006452
+More often than not there is a natural order for 
+the terms in the analysis. For example, one will 
+generally want to ﬁ t blocks before treatments. 
+Similarly, in Example 2 it seems natural to 
+ﬁ t standards before entries, because the main 
+interest is usually in the entries. Power consid-
+erations also lead to a general preference for 
+Type I SS (Nelder, 1994). There are, however, 
+situations, where Type III SS may be useful, 
+e.g. in multiple regression. The test for control 
+vs. treatments in Example 2 turned out to be 
+more meaningful with Type III SS if signiﬁ cant 
+differences are assumed between standards or 
+between entries. The same test can be obtained, 
+however, by a t test comparing marginal means 
+of standards and entries. Thus, it does not 
+seem possible to give very simple rules here. 
+Nevertheless, it is our experience that most 
+experiments can be very ef ﬁ ciently analysed 
+with Type I SS (Williams et al., 2002). When 
+the design is orthogonal in some sense, both 
+types typically yield identical results.
+The use of multiple comparisons in facto-
+rial experiments is often discouraged (Perry, 
+1986), and some scientiﬁ c journals as well as 
+ofﬁ cial guidelines for evaluation trials (e.g., 
+Anonymous, 1998) explicitly make recom-
+mendations to this effect. The recommendation 
+seems to be mostly a reaction to the common 
+but unfortunate practice of analysing a two-
+factorial experiment by a one-way treatment 
+model, using multiple pairwise comparisons 
+among all treatments. This practice is indeed to 
+be discouraged as it ignores the inherent treat-
+ment structure. It is not, however, the multiple 
+comparison as such that is inappropriate, it is 
+the type of multiple comparison performed that 
+is problematic (Hothorn and Bleiholder, 2006). 
+Clearly, if the treatment design has a two-way 
+structure, the data should be analysed accord-
+ingly. If the interaction is not signi ﬁ cant, it is 
+useful to do a multiple comparison of marginal 
+means for both factors, while with signiﬁ cant 
+interaction, multiple comparisons are needed 
+among levels of one factor, ﬁ xing the level of 
+the other factor. Another argument frequently 
+put forward against the use of multiple com-
+parison procedures is that often at least one 
+factor of interest is quantitative, e.g., different 
+levels of fertilizer. In this case a regression 
+is often more meaningful than a multiple 
+comparison of means. One may, however, 
+wish to perform multiple comparisons among 
+regression coefﬁ cients, and Example 1 gives 
+an illustration. Thus, presence of quantitative 
+treatment factors in a design does not rule out 
+the need for multiple comparisons. If one is 
+prepared to look at multiple comparisons, a 
+crucial and long-debated issue is the appropriate 
+error rate, the most common choices being the 
+comparison-wise and the experiment-wise Type 
+I error rate (Frömke and Bretz, 2004; Saville, 
+2003). In examples, we have controlled only 
+the comparison-wise error rate for simplicity. 
+Regardless of continuing controversies revolv-
+ing around the choice of error rate, we believe 
+that multiple comparison procedures do have an 
+important role to play in the analysis of facto-
+rial treatment structures. As was illustrated in 
+this paper, a suitable deﬁ nition of model terms 
+may considerably facilitate the computation of 
+treatment means and their pairwise comparison 
+in complex factorial designs.
+Literature Cited
+Frömke, C. and F. Bretz. 2004. Simultaneous tests and 
+conﬁ dence intervals for the evaluation of agricul-
+tural ﬁ eld trials. Agron. J. 96:1323–1330.
+Hothorn, L.A. and H. Bleiholder. 2006 Statistical 
+aspects of efﬁ cacy evaluation of plant protection 
+products in ﬁ eld trials—A comment on the EPPO 
+PP1/152(2) guideline (in press)
+Littell, R.C., W.W. Stroup, and R. Freund. 2002. SAS 
+for linear models. 4th ed. SAS Inst., Cary, N.C.
+Marini, R.P. 2003. Approaches to analyzing experi-
+ments with factorial arrangements of treatments 
+plus other treatments. HortScience 38:117–120.
+McCullagh, P. and J.A. Nelder. 1989. Generalized lin-
+ear models. 2nd ed. Chapman & Hall, London.
+Nelder, J.A. 1994. The statistics of linear models: back 
+to basics. Stat. Compu ting 4:221–234. 
+OEPP/EPPO. 1998. OEPP/EPPO: Design and analy-
+sis of efﬁ cacy evaluation trials, EPPO Standard 
+PP1/152(2). Bul. OEPP/EPPO 28:273–348.
+Panter, D.M. and F.L. Allen. 1995. Using best linear 
+unbiased predictions to enhance breeding for 
+yield in soybean. 2. Selection of superior crosses 
+from a limited number of yield trials. Crop Sci. 
+35:405–410.
+Perry, J.N. 1986. Multiple-comparison proce-
+dures: a dissenting view. J. Econ. Entomol. 
+79:1149–1155.
+Piepho, H.P. 1998. Empirical best linear unbiased 
+prediction in cultivar trials using factor analytic 
+variance–covariance structures. Theor. Appl. 
+Genet. 97:195–201.
+Piepho, H.P., A. Büchse, and K. Emrich. 2003. A 
+hitchhiker’s guide to the mixed model analysis 
+of randomized experiments. J. Agron. Crop Sci. 
+189:310–322.
+Piepho, H.P. and K. Pillen. 2004. Mixed modelling 
+for QTL × environment interaction analysis. 
+Euphytica 137:147–153.
+Saville, D. 2003. Basic statistics and the inconsist-
+ency of multiple comparison procedures. J. Expt. 
+Psychol. 57:167–175.
+Searle, S.R. 1987. Linear models for unbalanced data. 
+Wiley, New York.
+Searle, S.R., G. Casella, and C.E. McCulloch. 1992. 
+Variance components. Wiley, New York.
+Williams, E.R., A.C. Matheson, and C.E. Harwood. 
+2002. Experimental design and analysis for tree 
+improvement. 2nd ed. CSIRO Publ., Canberra.
+AprilBook.indb   452AprilBook.indb   452 2/13/06   2:54:04 PM2/13/06   2:54:04 PM

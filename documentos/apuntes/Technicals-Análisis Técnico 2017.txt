@@ -1,0 +1,1159 @@
+=== Fuente: Technicals-Análisis Técnico 2017.pdf ===
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 1
+Análisis Técnico
+(Technicals)
+OBJETIVOS:
+- Lograr una acertada interpretación de los gráficos de precios.
+- Identificar las tendencias y diseñar estrategias para aprovecharlas. 
+- Comprender las posibilidades y limitaciones del análisis gráfico.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 2
+Temario
+Módulo I
+ Introducción. Marco Conceptual. Filosofía y Fundamento Lógico. Análisis Técnico vs. Análisis Fundamental.
+ Teoría de Dow. Hipótesis de Eficiencia de los Mercados. Fases de Mercado.
+ Gráficos: Construcción, Escalas y Tipologías. Volumen, su importancia. Acumulación de datos.
+ Conceptos Básicos de Tendencia. Definición. Direcciones. Líneas de Tendencia. Canales.
+ Soportes y Resistencias. Definición. Importancia. Características. Zonas. Identificación. Factores psicológicos.
+ Ejemplos y ejercicios prácticos actuales del Módulo I.
+Módulo II
+ Patrones de Continuación de Tendencia: Definición. Banderas. Estandartes.
+ Patrones de Cambio de Tendencia: Definición. Hombro Cabeza Hombro. Doble Techo y Doble Piso. Vueltas Redondeadas. Diamantes.
+ Accidentes Técnicos. Vueltas en “V”. Pull-back. Ruptura y Fuga.
+ Ejemplos y ejercicios prácticos actuales del Módulo II.
+Módulo III
+ Indicadores y Osciladores. Concepto. Aplicación.
+ Medias Móviles. Concepto. Variedades (Simple, Ponderada y Logarítmica). Aplicaciones. Combinaciones.
+ MACD y RSI. Concepto. Aplicación. Interpretación.
+ Camino Crítico para la Toma de Decisiones basadas en el Análisis Técnico.
+ Ejemplos y ejercicios prácticos actuales con todos los temas desarrollados.
+Tema adicional sujeto a disponibilidad horaria: La teoría de Elliot. Ondas: Características y extensión. Fibonacci.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 3
+ Análisis Técnico de los Mercados Financieros. (John J. Murphy)
+ Come into my Trading Room. (Dr. Alexander Elder)
+ A Random Walk Down Wall Street. (Burton G Malkiel)
+ Técnicas de gráficos para rentabilizar las inversiones en bolsa. (Brian J. Millard)
+ Invertir en Bolsa. (Eduardo, Martínez Abascal)
+ Papers específicos: Bloomberg, Presentación de las clases, Varios Internet.
+Bibliografía Sugerida
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 4
+Introducción
+Incorporación o 
+Eliminación de 
+Activos
+Modificación 
+en las 
+Proporciones 
+de Clases de 
+Activos
+ANALISIS FUNDAMENTAL
+ANÁLISIS TÉCNICO
+RENTA FIJARENTA VARIABLE
+ALTERNATIVAS
+ Monedas
+ Commodities
+ Real State
+ CHAs
+ ONs
+ Fondo RF
+ Soberanos
+ Fondo RV
+ Acciones
+ Opción “A”
+ Futuro “B”
+INVERSOR MERCADO
+MÓDULO I
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 5
+Un Ejemplo: Universidad de Harvard
+ Renta Variable: 30%
+Acciones USA 15%
+Acciones Internacionales 10%
+Acciones Emergentes 5%
+ Inversiones Alternativas: 48%
+Empresas Privadas 13%
+Hedge Funds 12%
+Comodities 13%
+Real State 10%
+ Renta Fija: 27%
+Bonos USA 11%
+Bonos Internacionales 5%
+Bonos Alto Retorno 5%
+Bonos Ajustables 6%
+US$ 26.000 Millones
+105% Invertido
+Rendimiento promedio del 
+16% anual durante los últimos 
+15 años.
+Su base es la Teoría 
+Moderna del Portafolio.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 6
+Análisis Técnico: Definición
+“Es el estudio de los movimientos del mercado, principalmente mediante el
+uso de gráficos, con el propósito de pronosticar las futuras tendencias de los
+precios”. (John J. Murphy).
+El análisis técnico es el estudio de la acción del mercado, principalmente a
+través del uso de gráficas, con el propósito de identificar y sacar provecho de
+tendencias en el precio.
+Es el estudio de los movimientos del mercado, a través de la evolución del
+precio de un activo, con el objeto de aprovechar situaciones repetitivas.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 7
+Filosofía y Principios del A.T.
+La acción del mercado descuenta todo:
+La acción del mercado es el reflejo de movimientos en la Oferta y en la
+Demanda, independientemente de los motivos.
+Los precios se mueven por tendencias:
+El fin de todo estudio técnico es el de identificar en qué tendencia se
+mueven los precios para intentar tomar posiciones aprovechando dicha
+tendencia.
+La historia se repite:
+Existen determinadas patrones y dinámicas que se reiteran en términos
+conceptuales. El mercado “tiene memoria”.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 8
+Tipos de Estudio
+Análisis Gráfico
+(Chartismo)
+Análisis Cuantitativo
+(Indicadores)
+Automatización
+(Sist. de Trading)
+Subjetividad
+Identificar tendencias. 
+Reconocer formaciones y 
+figuras de consolidación y 
+cambio de tendencia.
+Análisis de series, utilizando 
+indicadores estadísticos y  
+matemáticos.
+Diseño de sistemas 
+automáticos de trading. 
+Decisiones objetivas por 
+parámetros.
+Objetividad
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 9
+Teoría del Dow – Fases de los Mercados
+Fases de un Mercado Alcista
+ Fase de acumulación:
+Se producen descensos en el mercado, los inversores venden ya que las noticias económicas son malas.
+Existe una actividad moderada que comienza tímidamente a recuperarse.
+ Fase de expansión:
+La actividad comienza con tímidos avances y se va produciendo una tímida alza de cotizaciones.
+ Fase de distribución:
+Hay gran actividad en el mercado. Se suelen producir avances de precios y de volúmenes de cotización y los
+inversores toman posiciones de compra sin reparos.
+Fases de un Mercado Bajista
+ Fase de distribución:
+Es la ultima etapa de la tendencia contraria, en éste caso, la tendencia alcista. El volumen es alto todavía,
+pero tiende a disminuir en sus recuperaciones.
+ Fase de pánico:
+La presión vendedora es muy superior a la compradora. Los precios caen dramáticamente y se acelera el
+movimiento bajista. Suelen producirse reacciones secundarias alcistas (correcciones)
+ Fase tercera:
+Las ventas continúan. Los informes son muy negativos y continua el descenso generalizado de precios, pero
+de forma menos violenta que en el inicio de la fase anterior.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 10
+Cotización y volumen. Interpretación
+Precio y volumen son dos variables sumamente importantes:
+El Precio está asociado a la tendencia.
+El Volumen nos ayuda a entender la “fuerza” de dicha tendencia.
+Situaciones donde se debe diseñar una estrategia de:
+Incorporación o sobre-ponderación de 
+un activo:
+ Aumentos de precios con alto 
+volumen.
+ Descensos de precios con reducido 
+volumen.
+Eliminación o sub-ponderación de un 
+activo:
+ Aumentos de precios con bajo 
+volumen.
+ Descensos de precios con alto 
+volumen.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 11
+Interpretación del Volumen
+ Se supone que un aumento en la cotización de un titulo, va acompañado de un aumento del volumen y
+significa que la tendencia continuará. Si el volumen es elevado, supone fortaleza tanto al alza como a la baja.
+ Por el contrario, si los movimientos del mercado van acompañados por un volumen más bien escaso,
+quiere decir que esos movimientos no solamente son de escasa magnitud, sino que, además, también lo
+serán de una duración reducida.
+ Cuando el volumen es escaso y el precio toca el nivel de soporte, quiere decir que están disminuyendo las
+operaciones de venta, lo que a su vez significa que se esta iniciando un movimiento alcista
+ Si hay poco volumen, y el precio se aproxima al nivel de resistencia, quiere decir que hay pocos
+inversionistas que se estén animando a comprar y en consecuencia se inicia una tendencia bajista.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 12
+Gráficos: Tipos y escalas
+Gráfico de barras
+26 2 9
+September
+16 23 30 7
+October
+14 21 28 4 11
+November
+18 25
+360
+365
+370
+375
+380
+385
+390
+395
+400
+405
+410
+415
+420
+425
+430
+435
+440
+445
+450
+455
+460
+465
+470
+475
+480
+485
+490
+495
+500
+505
+510
+515
+520
+El tipo de gráfico más utilizado es el denominado “de barras”, formado por una barra vertical para cada período, siendo la
+parte superior el máximo, la inferior el mínimo, y una pequeña línea horizontal indicando el nivel del cierre. Este gráfico se
+denomina HLC (high-low-close), al que podemos también añadir el precio de apertura en la parte izquierda (OHLC, open-
+high-low-close), de manera análoga al de cierre.
+cierre
+máximo
+apertura
+mínimo
+cierre
+máximo
+apertura
+mínimo
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 13
+Gráfico de líneas
+3
+July
+10 17 24 31 7
+August
+14 21 28 5 11
+September
+18 25 2 9
+October
+17 23 30 7 13
+November
+20 27 4 11
+December
+18 26 2 8
+2007
+15 22
+5000
+10000
+15000
+20000
+25000
+30000
+x1000
+26.0
+26.5
+27.0
+27.5
+28.0
+28.5
+29.0
+29.5
+30.0
+30.5
+31.0
+31.5
+32.0
+32.5
+33.0
+33.5
+34.0
+De acuerdo con la teoría de Dow, nuestro dato principal será el precio de cierre, por lo que será este dato el que
+usemos para dibujar una línea. Por supuesto que podemos dibujarlo con los precios de apertura, alto, etc.; pero
+el más significativo será el de cierre.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 14
+30
+November
+7 13 20 27 4
+December
+11 18 26 2
+2007
+8 15 22
+5000
+10000
+x1000
+27.5
+28.0
+28.5
+29.0
+29.5
+30.0
+30.5
+31.0
+31.5
+>ALCOA INC (AA) (29.1100, 29.2400, 28.4900, 28.7600, -0.35000)
+Gráfico de velas (Candlestick)
+Es una forma de representación similar a la de barras, en que se dibuja una barra vertical entre máximo y mínimo, y un
+rectángulo entre apertura y cierre. El rectángulo será de color blanco cuando el cierre sea mayor que la apertura, y de
+color negro cuando el cierre sea inferior a la apertura. A las partes que sobresalen de la caja (máximo y mínimo) las
+llamaremos “sombras”, y al rectángulo “cuerpo.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 15
+Gráficos: Acumulación de Datos
+ Diario: Es el más común. Adecuado para trading de corto plazo.
+ Semanal: Es el que generalmente muestra de manera más clara las diferentes situaciones del
+mercado. Adecuado para el mediano plazo.
+ Mensual: Adecuado para el estudio de ciclos de largo plazo.
+ Intradiario: Si toman datos para un análisis a corto plazo construiremos barras horarias, de 5
+minutos, o del dato mínimo, el “tick”, que expresa cada movimiento del valor, segundo a segundo.
+ OTROS: Muchos analistas acumulan los datos de una manera especial para cada activo que
+estudian. Pueden ser desde minutos hasta años.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 16
+Soportes y Resistencias
+ Soporte: es un nivel de precio que el mercado reconoce y donde se concentra
+suficiente demanda para contener el descenso de precios o incluso impulsar un
+desplazamiento alcista.
+ Resistencia: es nivel de precios que el mercado reconoce y donde se concentra
+suficiente oferta para contener el aumento de precios o incluso impulsar un
+desplazamiento bajista.
+Soporte
+Resistencia
+Resistencia
+Resistencia
+Soporte
+SoporteSoporte
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 17
+Niveles críticos de precio: Líneas de Tendencia
+Línea de tendencia alcista:
+Se construye bajo la curva de cotizaciones uniendo los mínimos relativos ascendentes.
+Se comporta como un soporte dinámico, frenando las correcciones secundarias bajistas.
+La ruptura se produce cuando los precios se sitúan por debajo de la línea.
+Línea de tendencia bajista:
+Se construye sobre de la curva de cotizaciones uniendo los máximos relativos.
+Se comporta como una resistencia dinámica ante recuperaciones secundarias alcistas.
+La ruptura se produce cuando los precios se sitúan por encima de la línea.
+Un línea de tendencia es una recta que mejor se adapta al movimiento de los precios.
+Se construye uniendo al menos dos puntos, esperando que un tercero confirme su validez.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 18
+- Un canal puede definirse como dos líneas
+paralelas que contienen la evolución de los
+precios. Los precios, en consecuencia,
+oscilan dentro de esas dos líneas (línea de
+soporte y línea de resistencia).
+- Los canales pueden ser horizontales,
+ascendentes o descendentes. Si la línea de
+tendencia es positiva, la línea paralela que
+delimita el canal quedará por encima de la
+línea de tendencia, y en el caso bajista
+quedará por debajo de dicha línea.
+Niveles críticos de precio: Canales de Tendencia
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 19
+1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+5000
+10000
+x100000
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500$$MERVAL_IDX (13,128.38, 13,364.49, 12,351.04, 12,656.28, -465.279)
+Ejemplo 1: Soportes, Resistencias, Canales
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 20
+D 2003 A M J J A S O N D 2004 A M J J A S O N D 2005 A M J J A S O N D 2006 A M J J A S O N D 2007 A M J J A S O N D 2008 A M J J A S O N D 2009
+2.70
+2.75
+2.80
+2.85
+2.90
+2.95
+3.00
+3.05
+3.10
+3.15
+3.20
+3.25
+3.30
+3.35
+3.40
+3.45
+3.50
+3.55
+3.60
+$ARG Peso (14.04000, 14.44000, 13.96000, 14.36000, -0.09000)
+Ejemplo 2: Soportes, Resistencias, Canales, Ruptura
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 21
+Ejercicios Prácticos Actuales del Módulo I
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 22
+Las formaciones chartistas se dividen en 2 grandes bloques:
+Figuras de cambio de tendencia: Indican que se va a producir un importante cambio en la
+tendencia, ya sea de alcista a bajista o viceversa.
+Figuras de consolidación de tendencia: Indican y/o reafirman la continuación de la
+tendencia actual.
+Nota: Algunas Figuras pueden ser tanto de cambio como de consolidación de tendencia; en
+determinadas circunstancias.
+Figuras o Patrones Chartistas
+MÓDULO II
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 23
+Figuras de Cambio de Tendencia
+HOMBRO – CABEZA – HOMBRO
+Es una de las principales figuras de cambio de tendencia alcista a bajista. Su nombre provienen de la semejanza a la cabeza y
+hombros de un hombre. El objetivo de precio al que el valor tendera a llegar en muy corto plazo se calcula tomando la distancia
+que hay desde la línea de soporte hasta el máximo nivel de la figura, es decir, la "cabeza", y proyectándola hacia abajo
+obtenemos el precio objetivo al cual tenderán los precios. A veces, se produce una pequeña reacción alcista muy breve, que
+lleva a los precios a cotizar hacia la línea del cuello, que después de haber sido superada, invierte su papel de soporte a
+resistencia y frena esta subida de precio. Se le denomina comúnmente como pull backs.
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 24
+HOMBRO – CABEZA - HOMBRO INVERTIDO
+Es como la figura anterior, solo que denota un cambio de tendencia bajista a alcista. Sin embargo, y a pesar de ser 
+muy parecida a su homóloga, difiere en lo concerniente al volumen.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 25
+DOBLE TOP 
+Tan solo constan de dos picos o valles respectivamente. La diferencia temporal entre ambos puede estar entre varias
+semanas y dos meses. Se puede establecer un precio objetivo para este tipo de figuras de cambio que sería la distancia
+entre el valle y el máximo alcanzado en la figura. Estas figuras son difíciles de encontrar con datos diarios y es necesario
+recurrir a datos semanales, ya que se trata de un cambio de tendencia primaria. Los dos máximos de la figura, deberán
+alcanzar aproximadamente la misma cotización, permitiéndose una diferencia del 3%. La distancia que separa ambos
+máximos o Top deberá de ser como mínimo de tres semanas, y la profundidad del valle debe de ser de al menos un 15%
+de caída de cotización.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 26
+DOBLE BOTTOM
+Al igual que en el doble top, se permite una diferencia del 3% entre las alturas de los mínimos.
+La profundidad del valle ha de ser como mínimo de un 15% de la cotización.
+En cuanto a la cotización objetivo, se espera una subida de las cotizaciones de al menos la distancia entre el mínimo y
+la línea del valle.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 27
+TRIPLE TECHO Y TRIPLE PISO
+Es mucho menos frecuente. La diferencia principal es que los tres picos o valles en un patrón superior o inferior triple
+están aproximadamente al mismo nivel. El volumen tiende a declinar con cada pico sucesivo en la parte superior y
+debería crecer en el punto de ruptura.
+Son confundibles con otras figuras como los rectángulos y con hombro - cabeza - hombro.
+Esta figura se caracterizan por tener unos picos o valles muy espaciados en el tiempo. El volumen se comporta de
+manera particular ya que va descendiendo paulatinamente desde la formación del primer techo hasta la formación del
+ultimo y tercer techo. No es necesario que las distancias sean exactas entre si, ni que los picos o valles lleguen
+exactamente a los mismos niveles. La señal de compra o de venta, se produce cuando las cotizaciones atraviesan el
+nivel del valle más profundo o el periodo más alto.
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 28
+SOPERA
+El cambio se produce de una manera poco violenta. El volumen de contratación forma una figura reflejo de la figura de los
+precios. En la figura se tiene que observar que la tendencia bajista va perdiendo peso y, llega un momento en el que los
+precios tienden hacia la horizontalidad, volviendo después a aumentar: primero de una manera sosegada y luego de un
+modo más violento. Es una figura de larga duración y en general, según haya sido la importancia de la caída de precios, así
+será la de la subida de los mismos. Es una figura de las llamadas de ACUMULACIÓN.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 29
+SOPERA INVERTIDA
+El volumen es más irregular que en la sopera, aumentando de forma considerable cuando ya las cotizaciones están
+cayendo de una forma espectacular (casi en caída libre). Es una figura de las llamadas de DISTRIBUCIÓN.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 30
+DIAMANTE
+Sin duda es la figura Chartista más difícil de localizar y sus consecuencias suelen ser bajadas de precios espectaculares, casi en 
+caída libre, produciendo situaciones de auténtico CRACK. Con volúmenes son muy irregulares en su formación. 
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 31
+Figuras de Continuación de Tendencia
+BANDERAS
+Son figuras claramente de consolidación de la tendencia. En situación Alcista, se producen como consecuencia de
+una toma de beneficios (TOMA DE GANANCIAS) tras una acelerada subida de precios produciendo una caída de
+precios por un espacio de tiempo no superior a tres semanas, para después volver a retomar la tendencia Alcista
+con el mismo ímpetu que la dejó. También se puede encontrar un precio objetivo, y será la altura del mástil desde
+donde se produce la ruptura.
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 32
+ESTANDARTES
+Las formaciones de estandarte, son completamente análogas a las banderas, solo que en este tipo de
+figuras el estrechamiento bajista de los precios no se produce de forma rectangular, sino que lo hace de
+forma triangular.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 33
+TRIÁNGULO SIMÉTRICO
+Es una figura de cambio o de consolidación, en la que los máximos van siendo cada vez más bajos y los mínimos
+cada vez más altos. Si venimos de una situación alcista, y el corte se produce en la línea directriz bajista, entonces la
+figura es de consolidación alcista. Si el corte se produce en la línea directriz alcista, entonces la figura es de cambio
+de tendencia alcista a bajista. El volumen debe tender a descender mientras se forma la figura. Para que la figura
+tenga credibilidad, ha de ser traspasada por los precios antes de que se cubran los 2/3 de la distancia hasta el vértice
+desde la formación del triángulo. Si no ocurre así, el poder “predictivo” de esta figura es mucho menor. Además, todo
+triángulo debe quedar definido por, al menos, cuatro puntos de contacto (dos máximos y dos mínimos).
+Figuras de Cambio o Continuación de Tendencia
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 34
+RECTANGULO
+Figura de cambio o de consolidación de la tendencia en la que los volúmenes de contratación van disminuyendo mientras se
+está formando la figura y aumentan en el momento de corte.
+Para su formación, se necesitan como mínimos cuatro puntos de contacto: dos máximos (del mismo nivel) y dos mínimos (del
+mismo nivel).
+La cotización objetivo se calcula tomando la distancia entre las dos líneas, y se espera que los precios suban o bajen al menos
+esta distancia.
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 35
+VUELTAS EN “V”
+Aparecen muy rápidamente, con un periodo de transición muy corto casi inexistente. Este patrón aparece en un
+mercado que se ha sobre extendido tanto en una dirección que una información adversa repentina hace que el
+mercado se vuelva en la dirección contraria de forma abrupta.
+Accidentes Técnicos
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 36
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+10000
+20000
+x1000
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+BHIP# (6.80000, 6.90000, 6.40000, 6.69000, -0.09000)
+Ejemplo 1: Figuras de Cambio de Tendencia
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 37
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+5000
+10000
+15000
+x100
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+10.0
+10.5
+11.0
+11.5
+12.0
+12.5CELU# (19.2000, 19.3000, 17.6000, 17.6000, -1.60000)
+Ejemplo 2: Figuras de Cambio y consolidación de Tendencia
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 38
+Ejercicios Prácticos Actuales del Módulo II
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 39
+MÓDULO III
+Indicadores y Osciladores
+- Los INDICADOR y OSCILADOR técnicos son la representación gráfica de una relación
+matemática entre var iables (generalmente cotizaciones), que según su tendencia,
+cambio de sentido o corte de líneas de referencia, indica el momento de compra o de
+venta de un título / valor.
+- Es preciso distinguir entre her ramientas que estudian la tendencia (indicadores) y
+her ramientas que estudian lo que puede ocurr ir cuando nos encontramos inmersos en
+plena tendencia (osciladores).
+- No existe un indicador universal que sir va para cualquier activo o situación de
+mercado, por lo que es conveniente utilizar más de un indicador u oscilador técnico en
+un momento deter minado.
+- Estadísticamente, los más utilizados son:
+ MEDIAS MÓVILES
+ MACD (Moving Average Convergence-Divergence)
+ RSI (Relative Strength Index)
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 40
+Indicadores: Medias Móviles
+• La señal de compra se produce cuando la media móvil es cor tada por una
+cur va de precios ascendentes
+• La señal de venta se produce cuando la media móvil es cortada por una
+cur va de precios descendente.
+- Una MEDI A MOVI L es el indicador más empleado en el análisis técnico.
+- Se trata de un promedio ar itmético que "suaviza" la cur va de precios y se
+convierte en una línea o cur va de la tendencia.
+- Es una media sobre un conjunto de valores (precios, volúmenes...), cuyo cálculo se
+efectúa sobre un número concreto de datos (n días) que marcan el per íodo. A
+medida que se incor pora un nuevo dato desaparece el primero, para mantener
+siempre este per íodo de cálculo.
+- Se trata de un indicador seguidor, no-líder.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 41
+Media Móvil Simple
+Es una media simple pero que tiene la particularidad de que cada período que transcurre, se elimina
+la primera observación de la serie en el cálculo y se añade la del último período. Solamente tiene en
+cuenta el periodo sobre el que se calcula y concede la misma importancia al primer día de la serie
+que al último.
+Es la media aritmética de los últimos N períodos ; por ejemplo para calcular una media móvil simple
+de 3 días, la fórmula sería:
+Ante esta media se plantean dos cuestionamientos :
+1) Proporciona el mismo peso al primer día que al último; a esto lo soluciona la Media Móvil
+Ponderada.
+2) Sólo tiene en cuenta el período elegido, el resto lo ignora; a esto lo soluciona la Media Móvil
+Exponencial.
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 42
+Media Móvil Ponderada
+Da más peso a los valores más próximos en el tiempo que a los más lejanos. Para tres días su
+fórmula sería:
+Media Móvil Exponencial
+Tiene en cuenta toda la serie histórica. Su fórmula es:
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 43
+Lo recomendable es usar la combinación de medias móviles , es decir, una media móvil larga para
+seguir la tendencia del mercado a largo plazo, y otra media móvil corta para detectar movimientos a
+corto plazo.
+Un sistema muy utilizado es el denominado "método del doble cruce" que también señala los
+momentos de compra o de venta. El método es el siguiente:
+Señal de Compra:
+Se produce cuando la media móvil corta atraviesa desde abajo hacia arriba a la media móvil larga.
+Señal de Venta:
+Se produce cuando la media móvil corta atraviesa desde arriba hacia abajo a la media móvil larga.
+Este método puede retrasar la entrada o salida del mercado, pero reduce de manera notable el
+numero de señales falsas que pueden producirse.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 44
+1998 February March April May June July August September October November December 1999
+60
+65
+70
+75
+80
+85
+90
+95
+100
+105
+110
+115
+120
+125
+130
+135
+140
+145
+150Microsoft (139.188, 140.000, 138.000, 138.688, -0.31200)
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 45
+Indicadores: MACD
+El MACD (Moving Average Convergence Divergence), útil para entender la tendencia vigente , es un
+indicador que se grafica junto con la línea Señal, una media exponencial de la línea del MACD.
+El MACD se calcula restando a la media móvil de 12 días del precio de una acción la media móvil de 26
+días, también tomando como base el precio. El resultado es un indicador que oscila por encima y por
+debajo de cero.
+Cuando el MACD está por encima de cero, significa que la media de 12 días es mayor que la media de 26
+días. Esta situación es alcista ya que muestra que las expectativas actuales (esto es, la media de 12 días)
+son más alcistas que las expectativas previas (es decir, la media de 26 días). Esto implica un cambio
+alcista, o hacia arriba en las líneas de oferta/ demanda.
+Cuando el MACD cae bajo cero, significa que la media móvil de 12 días es menor que la de 26 días, lo que
+nos lleva a un cambio bajista en las líneas de oferta/demanda.
+En resumen, la línea MACD aporta información a medio y largo plazo sobre la evolución del valor, y la
+línea Señal aporta información sobre el comportamiento de la línea MACD a muy corto plazo.
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 46
+Interpretación:
+(1) Funcionamiento de la línea señal:
+Cuando el MACD supera el valor de la línea “señal” se genera una señal alcista y, por lo tanto
+de compra.
+Si la MACD corta la línea “señal” de arriba abajo, se produce una indicación de tendencia
+descendente y, consecuentemente, una señal de venta.
+(2) Por divergencias.
+(3) Por corte de la línea cero.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 47
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 48
+Osciladores: RSI
+El RSI (Relative Strength Index), conocido como Indicador de Fuerza Relativa es un indicador que
+mide en cada momento la fuerza con que actúa la oferta y la demanda . El RSI se expresa en
+porcentaje, es decir es un oscilador que se mueve entre el 0% y el 100%, siendo 50% la zona neutra.
+Es un oscilador de la tasa de cambio que trata de medir la velocidad a la que los precios se mueven.
+Matemáticamente la expresión del RSI es:
+An = Media de las variaciones del precio que resultaron positivas de los últimos n períodos.
+Bn = Media de las variaciones del precio que resultaron negativas de los últimos n períodos.
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 49
+La interpretación del RSI es la siguiente :
+- Dado que el RSI es una línea que sigue al gráfico de precios, va mostrando los máximos y mínimos
+que va formando el mismo .
+- Cuando la línea RSI sobrepasa la zona de 70% se considera que el valor ha entrado en zona de
+sobrecompra. Por el contrario, si se sitúa por debajo de la zona del 30%, se considera que el valor ha
+entrado en zona de sobreventa.
+- A partir del RSI se puede hacer también análisis chartista , es decir, se puede detectar triángulos,
+soportes, resistencias, rectángulos, etc.
+- Una de las figuras más importantes, es la observación de las divergencias entre la actuación actual
+del valor en el mercado y su línea RSI. Por ejemplo, si observamos un alza continuada del precio, y
+por el contrario, observamos una aceleración en el RSI no proporcional con el valor en el mercado,
+estaríamos ante una posible divergencia que mostraría debilidad de la tendencia.
+- En resumen, por encima de cincuenta el título empieza a estar sobrecomprado y por debajo de este
+nivel se encuentra sobrevendido. Pero esta información no debe tenerse en cuenta hasta que el RSI
+se aleje suficientemente del centro (zona neutra).
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 50
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+150WTI (45.9000, 49.2900, 43.0300, 48.4100, +2.49000)
+30
+40
+50
+60
+70
+80Relative Strength Index (42.0005)
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 51
+Secuencia de estudio
+1) DETERMINACIÓN DE L A TENDENCIA
+- Tendencia pr imaria - Tendencia secundar ia - Tendencias terciar ias
+- Soportes y Resistencias. L íneas de tendencia. Canales de tendencia
+- Niveles de soporte y resistencia
+2) ANÁLISIS DE VOLUMEN
+- Dinámica del volumen en la alzas y en las bajas
+3) I DENTIFICACIÓN DE PATRONES
+- I dentificación de posibles figuras. Cor relación del volu men
+- Posibles objetivos y r upturas
+4) ESTUDIO DE L AS MEDI AS MÓVI LES
+- Selección de las medias óptimas
+- I ndicaciones por doble cr uce
+5) I NDICADORES / OSCILADORES
+- Selección de parámetros de los indicadores
+- Análisis de sobre compra o sobre venta
+- Evaluación de divergencias significativas
+6) DI AGNÓSTICO – DEFI NICIÓN DE L A ESTARTEGIA – EJECUCIÓN
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 52
+Ejemplo 1: MACD y Medias Móviles
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 53
+Ejemplo 2: RSI y niveles críticos
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 54
+Ejercicios Prácticos Actuales del Módulo III
++
+Ejercicios Prácticos Actuales Integradores de los 3 Módulos
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 55
+Muchas Gracias
+Pedro Marcelo LUIS
+pm-luis@hotmail.com
+(54  11) 15-4043-8436
+Raúl  Antonio MALVESTITI
+ramalvestiti@gmail.com
+(54  11) 15-3684-7877
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 56
+TEMA  ADICIONAL
+Principio de las Ondas de Elliot
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 57
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 58
+Onda 3
+Onda 4
+Onda B
+Onda 5
+Onda 2
+Onda 1
+Onda C
+Onda A
+Pauta de Impulso Pauta Correctiva
+Representación gráfica
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 59
+Características de las ondas
+Onda 1:
+ Representa el cambio de tendencia del mercado.
+ Por lo general es la más corta de las cinco.
+ Equivaldría a la Fase de Acumulación de la Teoría de Dow.
+Onda 1
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 60
+Onda 2:
+ Devuelve parte del recorrido de la onda 1.
+ Es retroceso sería entre 38.2% y 61.8%.
+ Si el retroceso es mayor al 100%, es porque en realidad no había un cambio de tendencia.
+ Es importante su identificación porque antecede a la onda 3, generalmente de mayor impulso.
+Onda 2
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 61
+Onda 3:
+ Por lo general es la onda más larga (por lo menos no debe ser más corta que las tres de impulso).
+ Por lo general tiene una variación entre 161.8% y 262.8% del efectuado por la onda 1.
+ Suele tener una mayor pendiente
+ Suelen aparecer “huecos de precios”
+ Corresponde a la segunda fase de la Teoría de Dow
+Onda 3
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 62
+Onda 4:
+ Se genera por una “toma de ganancias”.
+ Suele tener un retroceso de precios del 32.8% de la onda 3.
+ Si la tendencia es al alza (baja), el piso (techo) no deberá sobrepasar el techo (piso) de la onda 1.
+Onda 4
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 63
+Onda 5:
+ Tiene un recorrido menor a la onda 3.
+ Empiezan a aparecer señales contradictorias en algunos osciladores técnicos.
+ Correspondo a los operadores no profesionales: aparece la psicología de las masas, que 
+creen que el mercado nunca dejará de subir (mientras que los operadores ya está afuera)
+ Corresponde a la última fase de la Teoría de Dow.
+Onda 5
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 64
+Pauta correctiva:
+Onda A:
+ Difícil de identificar
+ Debe recurrirse a osciladores para corroborarlo, aunque muchas veces resultan divergentes.
+ El análisis del volumen suele ser el mejor indicador para verificar el cambio de tendencia.
+Onda A
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 65
+Onda B:
+ Es un pequeño rebote
+ El volumen suele ser menor.
+Onda C:
+ Corresponde a un movimiento fuerte, con alto volumen.
+ Tiene un recorrido mayor que el de la onda A
+Onda B
+Onda C
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 66
+Extensiones de Onda
+Onda 3
+Onda 4
+Onda 2
+Onda 1
+Extensión de la 
+quinta onda
+Onda 5
+Durante una pauta de impulso, es común que una de las ondas (1, 3 o 5) tenga un 
+recorrido más amplio, con una pauta de cinco ondas de grado menor adicionales.
+4
+3
+2
+1
+5
+Implicancias de las extensiones:
+ Únicamente una de las tres ondas de impulso 
+se extenderá.
+ Las dos restantes tenderán a ser similares en 
+cuanto a recorrido y duración.
+ Suele presentarse con una secuencia interior 
+menor de cinco ondas.
+ La variación de precios es por lo menos un 
+161.8% de la última onda de mayor duración de 
+su mismo grado.
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 67
+Mapa de Elliot
+
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 68
+Fibonacci en Elliot - Secuencia de Fibonacci -
+Consiste en una serie de números que se construye desde el numero 1, después el numero
+2. y luego se obtiene el siguiente numero por la suma del anterior y su precedente:
+1, 2 =2+1=3, 3+2=5, 5+3 =8, etc…
+Aplicaciones :
+Una de las aplicaciones prácticas de la serie es el análisis de las correcciones técnicas de
+la bolsa. Cuando los mercados están en tendencia alcista o bajista, se ha podido comprobar
+que las correcciones generalmente coinciden en porcentaje con las proporciones de
+Fibonacci.
+Cuando un mercado ha empezado a corregir después de una tendencia claramente alcista
+o bajista, se pueden establecer objetivos de corrección del 38% o del 62% del movimiento.
+Esta aplicación es de especial interés a la hora de aplicar la teoría de Elliot. Son las llamadas
+líneas de Fibonacci.
+Como propiedad de la secuencia, los porcentajes mencionados surgen a partir de la
+relación entre los elementos que la componen y se convierten en parámetros sumamente
+útiles para determinar niveles de soporte y resistencia .
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 69
+1
+2
+3
+4
+5
+6
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+7
+2522
+23
+23
+26
+27
+28
+29
+30
+31
+32
+33
+34
+1 ; 2 ; 3 ; 5 ; 8 ; 13 ; 21 ; 34 ; 55 ; 89 ; 144 ; …
+5,02 1 =
+618,0144 89 89 55 55 34 34 21 21 13 13 8 ≅≅≅≅≅≅
+667,03 2 ≅ 6,05 3 = 625,08 5 =
+Se puede observar las siguientes reglas que se cumplen siempre en esta serie:
+ La proporción que hay entre cada numero (n) y el siguiente (n+1) se aproxima a 61,8%.
+ La proporción que hay entre cada numero (n) y uno más del siguiente (n+2) en la serie se
+aproxima a 38,2%.
+382,0144 55 89 34 55 21 34 13 21 8 ≅≅≅≅≅
+618,189 144 55 89 34 55 21 34 13 21 ≅≅≅≅≅
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 70
+61,8%
+Ejemplo 1: Ondas de Elliot / Fibonacci
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 71
+Ejemplo 2: Ondas de Elliot / Fibonacci
+38,2%
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 72
+Ejercicios Prácticos Actuales
+Área de Agronegocios
+Diploma en Gestión y Comercialización de Granos
+Análisis Técnico – Technicals (Profesores: Raúl Antonio Malvestiti y Pedro Marcelo Luis )
+Buenos Aires, Argentina – Agosto de 2017 73
+Muchas Gracias
+Pedro Marcelo LUIS
+pm-luis@hotmail.com
+(54  11) 15-4043-8436
+Raúl  Antonio MALVESTITI
+ramalvestiti@gmail.com
+(54  11) 15-3684-7877

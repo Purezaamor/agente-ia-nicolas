@@ -1,0 +1,811 @@
+=== Fuente: Why have no new herbicide modes of action.pdf ===
+
+505
+Perspective
+Received: 2 September 2011 Revised: 21 September 2011 Accepted article published: 12 October 2011 Published online in Wiley Online Library: 22 December 2011
+(wileyonlinelibrary.com) DOI 10.1002/ps.2333
+Why have no new herbicide modes of action
+appeared in recent years?
+Stephen O Duke∗
+Abstract
+Herbicides with new modes of action are badly needed to manage the evolution of resistance of weeds to existing herbicides.
+Yet no major new mode of action has been introduced to the market place for about 20 years. There are probably several
+reasons for this. New potential products may have remained dormant owing to concerns that glyphosate-resistant (GR) crops
+have reduced the market for a new herbicide. The capture of a large fraction of the herbicide market by glyphosate with
+GR crops led to signiﬁcantly diminished herbicide discovery efforts. Some of the reduced herbicide discovery research was
+also due to company consolidations and the availability of more generic herbicides. Another problem might be that the best
+herbicide molecular target sites may have already been discovered. However, target sites that are not utilized, for which there
+are inhibitors that are highly effective at killing plants, suggests that this is not true. Results of modern methods of target site
+discovery (e.g. gene knockout methods) are mostly not public, but there is no evidence of good herbicides with new target
+sites coming from these approaches. In summary, there are several reasons for a long dry period for new herbicide target sites;
+however, the relative magnitude of each is unclear. The economic stimulus to the herbicide industry caused by the evolution of
+herbicide-resistant weeds, especially GR weeds, may result in one or more new modes of action becoming available in the not
+too distant future.
+c© 2011 Society of Chemical Industry
+Keywords: glyphosate; herbicide; mode of action; resistance
+1 INTRODUCTION
+No new major herbicide mode of action has been introduced in a
+commercial herbicide active ingredient in the last 20 years. Before
+this drought, a new mode of action was introduced approximately
+every 3 years, leading to current use of approximately 20 known
+modes of action (Table 1). The same is not true of insecticides and
+fungicides, for which major modes of action such as ryanodine
+receptor insecticides and fungicides such as the strobilurins that
+attack the Qol binding site of respiration have been introduced
+within the past two decades. Gerwick4 reported 137 new herbicide
+active ingredients introduced from 1980 to 2009. They all had
+modes of action of herbicides introduced before 1990. The uses
+of some older herbicides and new herbicides with old modes
+of action have sometimes been expanded through the use of
+herbicide safeners, a strategy unavailable for insecticides and
+fungicides. Gerwick’s analysis of 2009 US, Japanese and PCT patent
+applications found that the total composition of matter patents for
+insecticides (57), fungicides (78) and herbicides (51) did not differ
+that much. However, the patents in which the modes of action
+were not obvious from the chemical structure were quite different:
+ten insecticides, ten fungicides and only two herbicides. New
+herbicides launched or scheduled for launch during 2010–2012 all
+target old target sites (aminocyclopyrachlor, an auxinic molecule;
+pyroxasulfone, a very-long-chain fatty acid synthesis inhibitor;
+bicyclopyrone, a hydroxyphenylpyruvate dioxygenase inhibitor;
+indaziﬂam, a cell wall biosynthesis inhibitor). Why are herbicides
+lagging behind in introducing new modes of action, and what are
+the prospects for a major new mode of action being introduced in
+the future? This review sets out the author’s thoughts regarding
+this question. The views expressed are quite similar to those
+espoused by Gerwick in his recent short review.4
+2 WHY NEW HERBICIDE MODES OF ACTION
+ARE NEEDED
+According to the sixteenth-century physician and writer Franc¸ois
+Rabelais, ‘Nature abhors a vacuum’. This is certainly the case
+with the ecological vacuum caused by highly efﬁcient herbicides,
+where any weed that can inhabit the unoccupied ecological niche
+formed by a highly efﬁcient herbicide has the marked advantage
+of reduced competition. However, as the playwright Tennessee
+Williams wrote in one of Big Daddy’s lines in CatonaHotTin
+Roof, ‘sometimes I think a vacuum is a hell of a lot better than the
+stuff that nature replaces it with’. In the case of herbicide-resistant
+weeds occupying the ecological vacuum created by herbicides,
+farmers would agree with Big Daddy’s sentiments.
+Since the advent of synthetic herbicides in the mid-twentieth
+century, weeds have readily evolved to ﬁll the ecovacuums formed
+by herbicides.5 With some modes of action the delay between
+introduction of the herbicide and evolved resistance has taken
+only 3 or 4 years [e.g. acetolactate synthase (ALS) inhibitors],
+whereas with others the evolution of resistance has taken
+∗ Correspondence to: Stephen O Duke, United States Department of Agriculture,
+Agricultural Research Service, Natural Products Utilization Research Unit, PO
+Box 8048, University, MS 38677, USA. E-mail: Stephen.Duke@ars.usda.gov
+AgriculturalResearchService,NaturalProductsUtilizationResearchUnit,United
+States Department of Agriculture, University of Mississippi, Oxford, MS, USA
+Pest Manag Sci 2012; 68: 505–512 www.soci.org c© 2011 Society of Chemical Industry
+506
+www.soci.org SO Duke
+Table 1. Modes of action of currently used commercial herbicides.1–3 The numbers of the target sites are given in bold
+Herbicide or herbicide class Target site
+Amino acid metabolism
+Glyphosate 1 EPSPS
+Glufosinate 2 Glutamine synthetase
+Sulfonylureas, imidazolinones, triazolpyrimidines, pyrmidinyl(thio)benzoates and
+sulfonylamino-carbonyl-triazolinones
+3 Acetolactate synthase
+Auxin receptors
+Pyridine carboxylic acids, benzoates, phenylcarboxylic acids, quinolinecarboxylic acids and
+others
+4 F-box proteins
+Auxin transport inhibition
+Naptalam and diﬂufenzopyr-sodium 5 ABCB proteins
+Carotenoid synthesis
+Triﬂuroheterocyclic compounds such as ﬂuridone and norﬂurazon 6 Phytoene desaturase
+Triketones, isoxazones and benzoylpyrazoles 7 Hydroxyphenylpyruvate dioxygenase
+Clomazone 8 Deoxyxylulose-5-phosphate synthase
+Cellulose synthesis
+Nitriles, isoxaben, alylazines and ﬂupoxam 9 Cellulose synthase
+Folate synthesis
+Asulam 10 7,8-Dihydropteroate synthase
+Lipid synthesis
+Aryloxyphenoxypropionates, cyclohexanediones and pinoxaden 11 Acetyl-CoA carboxylase
+Acetamides, oxyacetamides, chloroacetamides, tetrazolinines and others 12 Very long-chain fatty acid synthase
+Mitosis
+Dinitroanilines, benzamides, pyridines, phosphoroamidates and DCPA 13 Tubulin
+Carbamates 14 Other sites related to microtubule organization
+Photosynthesis
+Triazines, ureas, nitriles and many others 15 D-1 of PSII
+Bipyridyliums 16 Accepts protons from PSI
+Porphyrin synthesis
+Diphenyl ethers, phenylpyrazoles, thiadiazoles, pyrimidinediones and others 17 Protoporphyrinogen oxidase
+Protein phosphatase
+Endothall 18 Serine/threonine protein phosphatases
+Uncoupler
+Dinitrophenols 19 Membrane disruptors
+decades [e.g. glyphosate, the inhibitor of 5-enolpyruvylshikimate-
+3-phosphate synthase (EPSPS)]. The lag time between introduction
+and the ﬁrst reported case of evolved resistance is a complex
+function of many factors, including weed species, selection
+pressure, existing genetic diversity and the nature of the target
+site. The mechanism of resistance is usually an altered target site.6
+Thus, applying a herbicide with a different mechanism of action
+would generally eliminate the herbicide-resistant weeds.
+Before the 1990s, farmers could rely on new mechanisms of
+action being introduced every few years. Thus, site-of-action
+resistance could usually be easily countered, even in cases of
+multiple resistance, based on site-of-action mutations of several
+herbicide target sites within the same species. There were cases
+of cross-resistance based on metabolic degradation of herbicides
+with different modes of action owing to a single gene or two
+or more genes for enzymes involved in metabolic alteration of
+xenobiotics.6 Even in these cases, there were usually effective
+herbicides that were not degraded by these weed biotypes.
+There are now many examples of multiple resistance, as well as
+ﬁelds with mixtures of weed species with resistance to different
+herbicides with different modes of action. In some situations,
+farmers have run out of cost effective and/or even technologically
+effective herbicide options.
+From a biological standpoint, glyphosate-resistant (GR) crops
+have made the situation worse. In 1996, the same year that the
+ﬁrst GR weed was reported,2 GR soybeans were introduced.7 Since
+then, the adoption of GR soybean, maize, cotton, alfalfa and sugar
+beet has been rapid, now accounting for about 85% of the more
+than 1 billion accumulated hectares of transgenic crops grown
+worldwide.8,9 Many of the farmers who adopted this technology
+used it year after year, with glyphosate as the only herbicide
+for weed mangement.10 Adoption of this technology provided
+several environmental and toxicological beneﬁts.11,12 However,
+the extensive selection pressure exacerbated the evolution of
+glyphosate resistance.
+Natural site-of-action mutations can give a more resistant form
+of EPSPS, but a one codon change in the gene does not provide
+a high level of resistance.13 Alteration of more than one codon,
+as was done by site-directed mutagenesis to produce the GA21
+version of EPSPS, provides a much higher level of resistance.14
+wileyonlinelibrary.com/journal/ps c© 2011 Society of Chemical Industry Pest Manag Sci 2012; 68: 505–512
+507
+New modes of herbicide action www.soci.org
+However, such double mutations of EPSPS have apparently not
+occurred in nature. The most resistant weed biotypes have other
+mechanisms of resistance based on gene ampliﬁcation15,16 or
+sequestration of glyphosate in the vacuole.17,18 Weeds with these
+two mechanisms of action have been highly problematic in some
+places where GR crops have been grown continuously for several
+years, such as GR cotton in the southeastern United States19 and GR
+soybeans in the mid-southern and mid-western United States.5,20
+There are now ﬁelds in the mid-western United States that
+have Amaranthus tuberculatus individuals with resistance to ALS,
+protoporphyrinogen oxidase inhibitors (PPO) and glyphosate
+in every possible combination.21 Of 18 ﬁelds sampled, all
+ﬁelds with glyphosate resistance (10 out of 18) also had
+ALS inhibitor resistance, and four had resistance to all three
+modes of action with the A. tuberculatis population. In addition
+to these target-site resistances, non-target-site resistance to
+photosystem II (PSII)-inhibiting herbicides is also found in this
+species in some of these ﬁelds. One ﬁeld had an A. tuberculatis
+population with resistance to all four herbicide classes, and
+all four resistances were found in some individuals within
+this ﬁeld. This level of multiple resistance greatly reduces the
+farmers’ options for effective and economical weed management.
+Furthermore, some populations of this species in the same area
+have evolved resistance to hydroxyphenylpyruvate dioxygenase
+(HPPD)-inhibiting herbicides.22 HPPD was the last new target site
+introduced for herbicides. Stacking of HPPD resistance with the
+other herbicide resistances of A. tuberculatis can be expected.
+In addition to the problem with this species within these ﬁelds,
+there are other weed species with their own arrays of herbicide
+resistances. A. tuberculatis is only one of several weed species with
+resistance to multiple herbicides.5 Tranel et al.21 concluded that
+there is an urgent need for new herbicide options or a new weed
+management paradigm. As efﬁcacy of herbicides is lost owing to
+the evolution of herbicide resistance, herbicides with new modes
+of action are needed more than ever. Furthermore, some of the
+older herbicides with unique modes of action are being lost from
+the marketplace in some countries or states (e.g. the banning
+of paraquat in some European countries) owing to regulatory
+factors.
+3 THE CHANGING ECONOMICS OF HERBICIDE
+DISCOVERY
+The fact that there have been no new herbicide modes of action
+for over two decades is partly due to three major economic factors.
+The ﬁrst of these is the adoption of GR crops. There was massive
+reliance on glyphosate alone by farmers who had previously used
+combinations of several herbicides for weed management before
+GR crops. This led to the devaluation of other herbicides, as their
+use substantially decreased in cotton, soybean and maize.23 The
+price of seed with the glyphosate resistance gene(s) was higher
+than that of conventional seed, so a signiﬁcant portion of the cost
+of weed control was shifted from herbicides to a ‘technology fee’
+added to the price of seeds. Even with the technology fee, the
+cost of superior weed management was generally reduced by GR
+crops.24
+The reduction in the price of glyphosate after the patent expired
+exacerbated the situation.24 Also, during the past two decades,
+the patents for many other herbicides have expired, leading to
+further devaluation of the herbicide market by generic herbicides.
+Before the evolution of GR weeds began to threaten this
+technology, companies involved in pesticide discovery had good
+reason to think that the utility of GR crops would remain high
+for decades. At this time, the general view was that evolution
+of GR weeds would be a very minor problem, with very slow
+evolution of very low levels of resistance, if it happened at all.25
+Weed species shifts to those with a low level of natural resistance
+to glyphosate26 were thought by many to be controllable with
+higher rates of glyphosate. Considering a devalued herbicide
+market for three major crops and the possibility that GR wheat27
+and rice28 might be eventually introduced, companies reduced
+their discovery efforts for new herbicides in relation to those
+for insecticides and fungicides. This can be seen in the dramatic
+decrease in herbicide patents in less than 5 years after GR soybeans
+were introduced, which was followed by a clear reduction in the
+number of herbicide active ingredients introduced (∼5.5 per year
+before 2001 and only ∼2 per year after 2001) (Fig. 1).
+The second economic factor that has slowed mode-of-action
+discovery involves the consolidation of the pesticide discovery
+Year
+1975 1980 1985 1990 1995 2000 2005 2010 2015
+Cumulative new herbicide AI introductions0
+20
+40
+60
+80
+100
+120
+140
+160
+Cumulative AI introductions
+Issued US herbicide patents per year
+0
+100
+200
+300
+400
+500
+US herbicide patents
+< Introduction of glyphosate- resistant crops
+ca 2/year
+ca 5.5/year
+Figure 1. US herbicide patents and new active ingredient introductions over the past 30 years. Redrawn from Gerwick.4
+Pest Manag Sci 2012; 68: 505–512 c© 2011 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+508
+www.soci.org SO Duke
+Year
+1970 1975 1980 1985 1990 1995 2000 2005
+Number of companies doing herbicide
+discovery research
+0
+10
+20
+30
+40
+50
+Figure 2. Attrition of companies involved in herbicide discovery. Drawn
+from data provided by Appleby.29
+industry over the past 50 years. The 20 or so currently utilized
+herbicide modes of action were discovered at a time when
+there were many companies involved in herbicide discovery
+research compared with the past 20 years. This can be seen
+graphically in Fig. 2.29 Examination of the changes in the number
+of members and membership afﬁliations of scientiﬁc societies
+to which herbicide discovery scientists belong reveals that the
+consolidation of this industry has resulted in tremendous attrition
+in the number of scientists engaged in this type of research,
+even before GR crops were introduced. Different cultures and
+philosophies between different companies, different countries
+in which those companies operated and cultural differences
+between sites within the same company maximized invention. The
+contribution of this diversity to discovery is something that cannot
+be quantiﬁed. The reduction in diversity between the relatively
+few remaining research groups has probably contributed to the
+stagnation in the growth in numbers of herbicide modes of action.
+Lastly, the cost of discovery, development and meeting
+regulatory requirements has increased. The cost of bringing a
+synthetic pesticide to the market increased from $184 million in
+2000 to $246 million in 2008.30 This is partly due to the fact
+that many more compounds must be evaluated to discover a
+viable active ingredient than in the past. All the low-hanging fruit
+may have been picked already. Furthermore, after discovery, the
+toxicological and environmental hurdles that must be cleared are
+increasingly higher and, thus, more costly. This increased cost has
+partially fueled the merger of pesticide companies. These costs
+have also made it attractive to introduce familiar compounds with
+old modes of action for which the results of testing are more
+predictable than for an entirely new chemical class with a new
+mode of action and an unpredictable toxicity proﬁle.
+To paraphrase Gerwick,4 not only has the cost of getting a
+new product to market risen, but getting the new product on the
+market has been of less value owing to glyphosate-resistant crops
+and generic herbicides.
+4 WHAT MAKES A GOOD HERBICIDE TARGET
+SITE?
+From what is known of the target sites and modes of action of
+commercial herbicide active ingredients, there is no easy answer
+to this question. One can list desirable properties of a herbicide
+target site (Table 2). However, there is no rule of thumb, as there
+Table 2. Desirable properties of a herbicide target site
+Critical for plant survival
+No similar target in non-target organisms, particularly mammals
+Subject to irreversible inhibition
+Inhibition of a relatively small percentage of the target causes
+lethality
+Inhibition causes accumulation of a toxin
+No alternative isozymes or pathways around the target
+Inhibitor binding site that binds compounds with physicochemical
+properties compatible with good uptake and translocation
+are exceptions to almost any criterion that might be formulated,
+apart from the essential one – that the molecular target is essential
+for plant survival. For example, chemical descriptor criteria have
+been proposed for predicting whether a compound might be
+a herbicide,31 but the most ideal herbicide thus far introduced,
+glyphosate,32 does not ﬁt these chemical parameters.
+Clearly, there are many more potential target sites for herbicides
+than are currently being used. The companion paper by Dayan
+et al.33 and a recent review34 describe a number of natural
+phytotoxin target sites that are different to those of commercial
+herbicides. In a few cases, these compounds are as active as some
+commercial herbicides. However, a signiﬁcant fraction of the target
+sites of natural phytotoxins are suspect in terms of mammalian
+toxicity and even general cytotoxicity. Furthermore, many of these
+excellent natural phytotoxins are too structurally complex to be
+economical and/or lack the proper physicochemical properties
+required for sufﬁcient uptake, translocation and/or environmental
+stability.
+One criterion for a mode of action is that the target site not
+be one that is present in relatively great abundance in the plant
+cell. For example, it might be thought that the enzymes of the
+dark reactions of photosynthesis would be good herbicide target
+sites, but these enzymes are found at high concentrations in order
+to process the large amount of carbon dioxide ﬁxed by plants.
+For example, ribulose-1,5-bisphosphate carboxylase oxygenase
+(RuBisCo) is the most abundant protein in green plant cells. The
+fact that it is a rather inefﬁcient enzyme requires the plant to
+have even larger amounts of it. Inhibiting only a small fraction of
+this enzyme in target plants would take kilograms of herbicide
+per hectare. A number of inhibitors of the enzymes of carbon
+assimilation, including RuBisCo, have been studied as potential
+herbicides, but none has been commercialized.35
+Good inhibitors with similar in vitro Ki values of the six enzymes
+of the branched-chain amino acid pathway have been found,
+but only inhibitors of acetolactate synthease (ALS) have been
+commercialized.36 This is partly because ALS is a low-abundance
+enzyme that is rate limiting in the pathway. The irreversible
+inactivation by ALS inhibitor herbicides also contributes to their
+effectiveness. Still, 60–80% inhibition is required for lethality. The
+enzyme that precedes ALS, ketol-acid reductoisomerase (KARI), is
+present in higher amounts, and 95% in vivo inhibition is needed
+to kill a plant.36 The best ALS inhibitor herbicides are effective at
+lessthan1gha−1.
+Low-use-rate herbicides are more desirable than those with
+higher use rates, and the target site strongly inﬂuences the use
+rate of a herbicide. However, if a herbicide is safe, effective and
+inexpensive, the use rate may be less important. For example,
+glyphosate is used at relatively high rates, but it is perhaps the
+most perfect herbicide yet discovered.32 Nevertheless, when the
+wileyonlinelibrary.com/journal/ps c© 2011 Society of Chemical Industry Pest Manag Sci 2012; 68: 505–512
+509
+New modes of herbicide action www.soci.org
+number of molecules of EPSPS is signiﬁcantly increased by gene
+ampliﬁcation, the amount of glyphosate needed for effective use
+becomes too high to be used in the ﬁeld.15,16
+A desirable feature of a target site is that inhibition of a relatively
+small part of the pool of the enzyme is lethal. Protoporphyrinogen
+oxidase (PPO) has this property. Inhibition of PPO leads to the
+substrate moving to parts of the cell where it is oxidized to the PPO
+product, protoporphyrin IX (ProtoIX).37 ProtoIX is very toxic in the
+presence of light and molecular oxygen, causing rapid cell death.
+Other enzymes of the porphyrin pathway are not good herbicide
+targets, presumably because the unique accumulation of a highly
+photodyamic porphyrin intermediate (ProtoIX) in a vulnerable
+cellular compartment does not occur when they are inhibited.
+There is some evidence that accumulation of a toxic substrate,
+α-ketobutryrate, may play a role in the toxicity of acetolactate
+synthase (ALS)-inhibiting herbicides.38 Toxic intermediates do not
+accumulate when other enzymes of branched-chain amino acid
+synthesis are inhibited. This may be another reason why good
+inhibitors of the enzymes prior to ALS in the branched-chain
+amino acid pathway are not good herbicides.36
+As stated by Wittenbach and Abell,36 the limitation for obtaining
+new herbicide modes of action is not due to failures in ﬁnding good
+inhibitors of essential plant enzymes, but rather to the difﬁculty
+of ﬁnding sensitive, lethal target sites. The best herbicides are
+generally those that translocate to target sites that are essential to
+meristematic tissue. Thus, compounds that are good inhibitors of
+such target sites in vitro but that are poorly or not translocated are
+not good herbicides.
+5 CURRENT APPROACHES TO HERBICIDE
+DISCOVERY
+The traditional method of discovering a mode of action was
+to discover a herbicidal or phytotoxic compound and then
+determine its mode of action using physiological and biochemical
+approaches. The mode of action of relatively few herbicides
+introduced before 1980 were understood before the herbicide
+was marketed. The modes of action of these herbicides were often
+discovered by public sector scientists. There are still several older
+herbicides that have unknown modes of action (e.g. the organic
+arsenical herbicide MSMA).2 In some cases, the lack of knowledge
+may be due to more than one target site for the same herbicide,
+but the lack of interest in exploring the modes of action of old
+herbicides that have relatively little market share is probably the
+major cause of this knowledge gap.
+Another approach has been to pick a new molecular target
+site without knowing its potential for herbicides and to ﬁnd
+efﬁcient inhibitors with in vitro screening. This approach has been
+facilitated by evaluating vast combinatorial chemistry libraries of
+compounds using high-throughput in vitro screens. At the time
+that this strategy was ﬁrst implemented, most pesticide discovery
+companies were afﬁliated with companies that were using
+this method for pharmaceutical discovery. The pharmaceutical
+industry has used this approach successfully. There is no published
+claim that any commercial herbicide mode of action has been
+discovered in this way. This may be because the herbicide
+discovery efforts with this approach did not have the resources of
+the pharmaceutical discovery endeavors that used it. To use this
+method on unvalidated target sites may often be unsuccessful,
+even when excellent in vitro inhibitors are discovered.
+More recently, ‘omics’ approaches have been used to determine
+the mode of action of phytotoxins with unknown modes of action.
+Table 3. Examples of studies to determine the modes of action of
+phytotoxins by ‘omics’ approaches
+Approach(es) Phytotoxin Reference
+Metabolomics Ascaulitoxin 40
+Metabolomics Pyrenophorol 41
+Metabolomics Several herbicides 42
+Physionomics and
+metabolomics
+Cinmethylin 43
+Genomics Glyphosate 44
+Genomics Cinidon-ethyl, tribenuron-methyl,
+2,4-D
+45
+Genomics 2,4-D 46
+Genomics Flufenacet 47
+Genomics Atrazine and bentazon 48
+Using this strategy, a library of response proﬁles to compounds
+(both commercial and experimental) with known modes of action
+is ﬁrst generated. Then, the response proﬁle to a compound with
+an unknown mode of action is produced and compared with those
+of known mode of actions. If a new compound does not ﬁt the
+proﬁle of any of the known modes of action, it can be assumed that
+it has a new mode of action, for which the proﬁle might provide
+clues.39
+Going from the most fundamental to phenotypic re-
+sponses, ‘omics’ approaches include transcriptomics, proteomics,
+metabolomics, physionomics and phenomics. The last two of
+these approaches have been used for many years. The ﬁrst three
+were ushered in with the introduction of powerful genomics tools,
+advances in proteomics methods and powerful analytic capabili-
+ties for quantitative analysis of hundreds of metabolites in plant
+extracts. Table 3 provides examples of papers using these ap-
+proaches to determine new modes of action. Herbicide discovery
+company data are generally not published, so the published in-
+formation is only a hint of what has been done. Such studies have
+generally not resulted in discovery of a published new mode of
+action. However, even if a new mode of action is not found, the
+study eliminates known target sites and provides clues as to what
+the actual target site is.
+There are several difﬁculties with this approach. First, the effort
+and cost in generating a robust database is high, especially
+for transcriptomics through metabolomics. Dose and sampling
+times are problems, in that comparing two compounds with very
+different modes of action, for example one that acts fast (e.g. a
+PPO inhibitor) and another that acts slowly (e.g. glyphosate), is
+difﬁcult. All lethal phytotoxins eventually cause many secondary
+and tertiary effects that can be confounding. Therefore, most
+researchers use sublethal doses and hope that there are clear
+indicators of the mode of action soon after treatment. Compounds
+with multiple target sites will also provide confounding results.
+Other approaches to mode-of-action discovery include gene
+expression manipulation, such as overexpression, and reducing or
+eliminating expression via knockout or gene silencing methods.49
+Several potential herbicide target sites have been identiﬁed using
+antisense or RNAi technologies (Table 4). Calibrational methods
+are needed to get realistic answers, as herbicides never inhibit all
+of the target-site molecules. These methods can be used partially
+to knock out gene expression. Finding a new potential target site
+is just the ﬁrst step. Discovery of a good herbicide for that site
+may be more daunting than ﬁnding the site. Indeed, in spite of the
+Pest Manag Sci 2012; 68: 505–512 c© 2011 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+510
+www.soci.org SO Duke
+Table 4. Examples of herbicide target sites identiﬁed by antisense or
+RNAi methods
+Target site Reference
+Aldolase 50
+Biotin synthase 51
+Carbonic anhydrase 52
+Chlorophyll synthase 53
+Coproporphyringen oxidase 54
+Cystathionine β-lyase 55
+Dehydroquinate dehydrase/shikimate dehydrogenase 56
+Ferredoxin : NADP reductase 57
+Flavanone 3-hydroxylase 58
+Geranylgeranyl reductase 59
+Glutamine-semialdehyde amino transferase 60
+Mg protoporphyrin monomethylester cyclase 61
+Pectin esterase 62
+Sphingolipid 4-hydroxylase 63
+Thioredoxin 64
+Transketolase 65
+Uroporphyrinogen decarboxylase 66
+many potential target sites found by gene silencing methods, no
+herbicides have been introduced with any of these target sites.
+Multiple approaches to a mode-of-action discovery are probably
+more productive than reliance on a single method. After a putative
+target site has been identiﬁed, the ultimate proof of this site is
+engineering a plant with a resistant form of the putative target
+site.
+6 FUTURE DEVELOPMENTS
+AND CONCLUSIONS
+The spectre of increased evolution and spread of glyphosate-
+resistant weeds has apparently caused the agrochemical industry
+to increase investment in herbicide discovery. This renewed
+interest has not yet resulted in signiﬁcant increases in herbicide
+patents. A number of new herbicide-resistant crops, some with
+stacked resistances to more than one herbicide, are due to be
+launched in the near future (Table 5).4,67 However, in every case,
+the herbicides to be used with these crops have modes of action
+to which there are already examples of evolved resistance.5 If
+used properly, they will give farmers new tools to prevent and
+mitigate evolved resistances. However, if the past is a predictor
+of the future, it would be optimistic to predict that farmers will
+use these products as part of a robust resistance management
+strategy. In places where multiple resistance to several of these
+modes of action has already occurred,21 the utility of some of these
+new transgenic crops is questionable.
+Thus, a better solution to such weed problems would be
+herbicides with new modes of action for which no resistance has
+evolved. Although there is no clear timeline for the introduction
+of new modes of action, considering the need and thus the
+economics, there is little doubt that such products will be
+introduced eventually. It would be na¨ıve to believe that a
+pipeline of herbicides with new modes of action will be a long-
+range solution to weed management problems without farmers
+guarding the long-term utility of such products by using them as
+only part of a diverse array of weed management tools to delay or
+avoid evolution of resistance.
+Table 5. Herbicide-resistant crops likely to be introduced within the
+next 5 years. Data are from Gewick4
+Crop Herbicide(s) Mode of action or target site
+Maize 2,4-D/aryloxyphenoxys Auxin mimic and ACCase
+Maize ALS inhibitors ALS
+Maize Dicamba Auxin mimic
+Soybean ALS inhibitors ALS
+Soybean 2,4-D/glufosinate Auxin mimic/GS
+Soybean Isoxaﬂutole HPPD
+Soybean Glufosinate/isoxaﬂutole GS/HPPD
+Soybean Mesotrione HPPD
+Cotton Dicamba/glufosinate Auxin mimic/GS
+Cotton 2,4-D Auxin mimic
+ACKNOWLEDGEMENTS
+The author thanks Dr Dale Shaner for his helpful suggestions and
+Dr Cliff Gerwick for providing the data for Fig. 1.
+REFERENCES
+1 Duke SO and Dayan FE, Bioactivity of herbicides, in Comprehensive
+Biotechnology, Vol. 4, 2nd edition, ed. by Moo-Young M. Elsevier,
+Amsterdam, The Netherands, pp. 23–35 (2011).
+2 The World of Herbicides, according to HRAC Classiﬁcation
+on the Mode of Action 2010. [Online]. Herbicide Resis-
+tance Action Committee. Available: http://www.hracglobal.
+com/Publications/WorldofHerbicidesMap/tabid/354/Default.aspx
+[15 November 2011].
+3 Tresch S, Schmotz J and Grossmann K, Probing mode of action in
+plant cell cycle by the herbicide endothall, a protein phosphatase
+inhibitor. Pestic Biochem Physiol 99:86–95 (2011).
+4 Gerwick BC, Thirty years of herbicide discovery: surveying the past
+and contemplating the future. Agrow (Silver Jubilee Edition): VII–IX
+(2010).
+5HeapI,International Survey of Herbicide Resistant Weeds. [Online].
+Available: http://www.weedscience.org/In.asp [16 August 2011].
+6 Hall LM, Holtum JAM and Powles SB, Mechanisms responsible for cross
+resistance and multiple resistance, in Herbicide Resistance in Plants,
+Biology and Biochemistry, ed. by Powles SB and Holtum JAM. CRC
+Press, Boca Raton, FL, pp. 243–261 (1994).
+7 Duke SO and Powles SB, Glyphosate-resistant crops and weeds: now
+and in the future. AgBioForum 12:346–357 (2009).
+8JamesC,Global Status of Commercialized Biotech/GM Crops: 2010.
+ISAAA Brief 42–2010, ISAAA, Ithaca, NY (2010).
+9 Duke SO, Comparing conventional- and biotechnology-based pest
+management. J Agric Food Chem 59:5793–5798 (2011).
+10 Wilson RG, Young BG, Matthews JL, Weller SC, Johnson WG, Jordan
+DL, et al, Benchmark study on glyphosate-resistant cropping
+systems in the United States. Part 4: Weed management practices
+and effect on weed populations and soil seedbanks. Pest Manag Sci
+67:771–780 (2011).
+11 Cerdeira AL and Duke SO, The current status and environmental
+impacts of glyphosate-resistant crops: a review. J Environ Qual
+35:1633–1658 (2006).
+12 Gardner JG and Nelson GC, Herbicides, glyphosate resistance and
+acute mammalian toxicity: simulating an environmental effect of
+glyphosate-resistant weeds in the USA. Pest Manag Sci 64:470–478
+(2008).
+13 Perez-Jones A and Mallory-Smith C, Biochemical mechanisms and
+molecular basis of evolved glyphosate resistance in weed species,
+in Glyphosate Resistance in Crops and Weeds, ed. by Nandula VK.
+Wiley, Singapore, pp. 119–140 (2010).
+14 Green JM, Evolution of glyphosate-resistant crop technology. Weed
+Sci 57:108–117 (2009).
+15 Gaines TA, Zhang W, Wang D, Bukun B, Chisholm ST, Shaner DL, et al,
+Gene ampliﬁcation confers resistance in Amaranthus palmeri. Proc
+Natl Acad Sci USA 107:1029–1034 (2010).
+wileyonlinelibrary.com/journal/ps c© 2011 Society of Chemical Industry Pest Manag Sci 2012; 68: 505–512
+511
+New modes of herbicide action www.soci.org
+16 Gaines TA, Shaner DL, Ward SM, Leach JE, Preston C and Westra P,
+Mechanism of resistance of evolved glyphosate-resistant Palmer
+amaranth (Amaranthus palmeri). J Agric Food Chem 59:5886–5889
+(2011).
+17 Ge X, d’Avignon DA, Ackerman JJH and Sammons RD, Rapid vacuolar
+sequestration: the horseweed glyphosate resistance mechanism.
+Pest Manag Sci 66:345–348 (2010).
+18 Ge X, d’Avignon DA, Ackerman JJH, Duncan B, Spaur MB and
+Sammons RD, Glyphosate-resistant horseweed made resistant to
+glyphosate: low-temperature suppression of glyphosate vacuolar
+sequestration revealed by 31PNMR.Pest Manag Sci 67:1215–1221
+(2011).
+19 Culpepper AS, Webster TM, Sosnoskie LM and York AC, Glyphosate-
+resistant palmer amaranth in the United States, in Glyphosate
+Resistance in Crops and Weeds, ed. by Nandula VK. Wiley, Singapore,
+pp. 195–212 (2010).
+20 Davis VM, Gibson KD, Mock VA and Johnson WG, In-ﬁeld and
+soil-related factors that affect the presence and prediction of
+glyphosate-resistant horseweed (Conyza Canadensis) populations
+from Indiana soybean ﬁelds. Weed Sci 57:281–289 (2010).
+21 Tranel PJ, Riggins CW, Bell MS and Hager AG, Herbicide resistances in
+Amaranthus tuberculatus: a call for new options. J Agric Food Chem
+59:5808–5812 (2011).
+22 Hauseman NE, Singh S, Tranel PJ, Riechers DE, Kaudun SS, Polge ND,
+et al, Resistance to HPPD-inhibiting herbicides in a population of
+waterhemp (Amaranthus tuberculatus) from Illinois, United States.
+Pest Manag Sci 67:258–261 (2011).
+23 Nelson DS and Bullock GC, Simulating a relative environmental effect
+of glyphosate-resistant soybeans. Ecol Econom 45:189–202 (2003).
+24 Giannessi LP, Economic impacts of glyphosate-resistant crops. Pest
+Manag Sci 64:346–353 (2008).
+25 Bradshaw LD, Padgette SR, Kimball SL and Wells BH, Perspectives on
+glyphosate resistance. Weed Technol 11:189–198 (1997).
+26 Shaner DL, The impact of glyphosate-tolerant crops on the use of
+other herbicides and on resistance management. Pest Manag Sci
+56:320–326 (2000).
+27 Wilson RG, Miller SD, Westra P, Kniss AR, Stahlman PW, Wicks GW, et al,
+Glyphosate-induced weed shift in glyphosate-resistant corn or a
+rotation of glyphosate-resistant corn, sugarbeet, and spring wheat.
+Weed Technol 21:900–909 (2007).
+28 Cao MX, Huang JQ, Wei ZM, Yao QH, Wan CZ and Lu JA, Engineering
+higher yield and herbicide resistance in rice by Agrobacterium-
+mediated multiple gene transformation. Crop Sci 44:2206–2213
+(2004).
+29 Appleby AP, A history of weed control in the United States and
+Canada – a sequel. Weed Sci 53:762–768 (2005).
+30 Bomgardner MM, Germinating pesticides. Chem Eng News
+89(16):13–17.
+31 Tice CM, Selecting the right compounds for screening: does Lipinski’s
+rule of 5 for pharmaceuticals apply to agrochemicals? Pest Manag
+Sci 57:3–16 (2001).
+32 Duke SO and Powles SB, Glyphosate: a once in a century herbicide.
+Pest Manag Sci 64:319–325 (2008).
+33 Dayan FE, Owens DK and Duke SO, Rationale for a natural
+products approach to herbicide discovery. Pest Manag Sci DOI:
+10.1002/ps.2332.
+34 Duke SO and Dayan FE, Modes of action of microbially-produced
+phytotoxins. Toxins 3:1038–1064 (2011).
+35 Devine MD, Duke SO and Fedtke C, Physiology of Herbicide Action.
+Prentice Hall, Englewood Cliffs, NJ, 441 pp. (1993).
+36 Wittenbach VA and Abell LM, Inhibitors of valine, leucine, and
+isoleucine biosynthesis, in Plant Amino Acids, ed. by Singh BK.
+Marcel Dekker, New York, NY, pp. 385–416 (1999).
+37 Dayan FE and Duke SO, Protoporphyinogen oxidase-inhibiting
+herbicides, in Haye’s Handbook of Pesticide Toxicology. Vol. 2. Agents,
+3rd Edition, ed. by Krieger RI, Doull J, Hodgson E, Maiback H, Reiter L,
+Ross J, et al. Academic Press/Elsevier, San Diego, CA, pp. 1733–1751
+(2010).
+38 LaRossa RA and Van Dyk TK, Leaky pantohenate and thiamin
+mutations of Salmonella typhimurium conferring sulfometuron
+methyl sensitivity. J Gen Microbiol 207:2209–2222 (1989).
+39 Ott K-H, Aranibar N, Singh B and Stockton GW, Metabonomics
+classiﬁes pathways affected by bioactive compounds. Artiﬁcial
+neural network classiﬁcation of NMR spectra of plant extracts.
+Phytochemistry 62:971–985 (2003).
+40 Duke SO, Evidente A, Fiore M, Rimando AM, Vurro M, Christiansen
+N, et al, Effects of the aglycone of ascaulitoxin on amino
+acid metabolism in Lemna pausicostata. Pestic Biochem Physiol
+100:41–50 (2011).
+41 Aliferis KA and Chrysayi-Tokousbalides M, Metabonomic strategy for
+the investigation of the mode of action of the phytotoxin
+(5S,8R,13S,16R)-(−)-pyrenophorol using 1H nuclear magnetic
+resonance ﬁngerprinting. J Agric Food Chem 54:1687–1692 (2006).
+42 Oikawa A, Nakamura Y, Ogura T, Kumura A, Suzuki H, Sakurai N, et al,
+Clariﬁcation of pathway-speciﬁc inhibition by Fourier transform
+ion cyclotron resonance/mass spectrometry-based metabolic
+phenotyping studies. Plant Physiol 142:398–413 (2006).
+43 Grossmann K, Hutzler J, Tresch S, Christiansen N, Looser R and
+Ehrhardt T, On the mode of action of the herbicides cinmethylin and
+5-benzyloxymethyl-1,2-isoxazolines: putative inhibitors of plant
+tyrosine aminotransferase. Pest Manag Sci DOI: 10.1002/ps.2319.
+44 Zhu J, Patzoldt WL, Shealy RT, Vodkin LO, Clough SK and Tranel PJ,
+Transcriptome response to glyphosate in sensitive and resistant
+soybean. J Agric Food Chem 56:6355–6363 (2008).
+45 Pasquer F, Oschner U, Zarn J and Keller B, Common and distinct
+gene expression patterns induced by the herbicides 2,4-
+dichlorophenoxyacetic acid, cinidon-ethyl and tribenuron-methyl
+in wheat. Pest Manag Sci 62:1155–1167 (2006).
+46 Raghavan C, Ong EK, Dalling MJ and Stevenson TW, Effect of herbicidal
+application of 2,4-dichlorophenoxyacetic acid in Arabidopsis. Funct
+Integrative Genomics 5:4–17 (2005).
+47 Lechelt-Kunze C, Meissner RR, Drewes M and Tietjen K, Flufenacet
+herbicide treatment phenocopies the ﬁddlehead mutant in
+Arabidopsis thaliana. Pest Manag Sci 59:847–856 (2003).
+48 Zhu J, Patzoldt WL, Radwan O, Tranel PJ and Clough SJ, Effects of
+photosystem-II-interfering herbicides atrazine and bentazon on
+the soybean transcriptome. Plant Genome 2:191–205 (2009).
+49 Duke SO, Baerson SR and Gressel J, Genomics and weeds: a synthesis,
+in Weed and Invasive Plant Genomics, ed. by Stewart CN. Blackwell
+Publishing, Singapore, pp. 221–247 (2009).
+50 Haake V, Zrenner R, Sonnewald U and Stitt M, A moderate decrease
+in plastid aldolase activity inhibits photosynthesis, alters the levels
+of sugars and starch, and inhibits growth of potato plants. Plant J
+14:147–157 (1998).
+51 Hoffman N, Gorlach J, Boyes D, Zayed A, Woessner J, Hamilton C,
+et al, Identiﬁcation of inhibitors of biotin synthase expression or
+activity in plants for screening of herbicides. US Patent Application
+20050101485 A1 20050512 (2005).
+52 Davis K, Zayed A, Ascenzi R, Smith M, Kurnik BS, Boyes D, et al,
+Identiﬁcation of carbonic anhydrase as an essential plant enzyme
+for plant growth and a target for herbicides. US Patent Application
+2004248152 A1 20041209 (2004).
+53 Aslamkhan A, Guo L, Mulpur R, Hoffman N, Kjemtrup S, Kearney J, et al,
+Fluorescent assays for identifying inhibitors of plant or fungal
+chlorophyll synthase useful as herbicides. US Patent Application
+2005130118 (2005).
+54 Kruse E, Mock HP and Grimm B, Reduction of coproporphyrinogen
+oxidase level by antisense RNA synthesis leads to deregulated gene
+expression of plastid proteins and affects the oxidative defense
+systems. EMBO J 14:3712–3720 (1995).
+55 Maimann S, Wagner C, Kreft O, Zeh M, Willmitzer L, H ¨ofgren R, et al,
+Transgenic plants reveal the indispensible role of cystathionine
+β-lyase in plant growth and development. Plant J 23:747–758
+(2000).
+56 Freund A, Sonnewald U and Ding L, Plant dehydroquinate dehy-
+dratase/shikimate dehydrogenases for use as herbicide targets and
+increasing plant dry weight yield. US Patent 200330145348 (2003).
+57 Wagner A, Rohl R, Grossmann K, Schmidt RM, Sonnewald U and
+Hajirezaei M, Herbicidal compositions and processes based on
+ferrodoxin : NADP reductase inhibitors. US Patent 6,124242 (2000).
+58 Davis K, Zayed A, Ascenzi R, Boyes D, Hoffman N, Gorlach J, et al,
+Identiﬁcation of inhibitors of ﬂavanone 3-hydroxylase expression or
+activity in plants for screening of herbicides. US Patent Application
+20050100879 A1 20050512 (2005).
+59 Tanaka R, Oster U, Kruse E, Rudiger W and Grimm B, Reduced
+activity of geranylgeranyl reductase leads to loss of chlorophyll
+and tocopherol and to partially geranylgeranylated chlorophyll
+in transgenic tobacco plants expressing antisense RNA for
+geranylgeranyl reductase. Plant Phyiol 120:695–704.
+60 H ¨ofgren R, Axelsen KB, Kannangara CG, Schutte I, Pohlenze HD,
+Willmitzer L, et al, A visible marker for antisense mRNA expression
+Pest Manag Sci 2012; 68: 505–512 c© 2011 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+512
+www.soci.org SO Duke
+in plants: inhibition of chlorophyll synthesis with a glutamate-1-
+semialdehyde aminotransferase antisense gene. Proc Natl Acad Sci
+USA 91:1726–1730 (1994).
+61 Enrico P, Rothbart M, Oelze M-L, Shalygo N, Deitz K-J and Grimm B, Mg
+protoporphyrin monomethylester cyclase deﬁciency and effects on
+tetrapyrrole metabolism in different light conditions. Plant Cell
+Physiol 51:1229–1241 (2010).
+62 Zayed A, Ascenzi R, Boyes D, Mulpuri R, Hoffman N, David K, et al,
+Identiﬁcation of inhibitors of pectin esterase expression or activity
+in Arabidopsis for screening of herbicides. US Patent Application
+20050112715 A1 200500526 (2005).
+63 Todd MD, Guo L, Davis K, Zayed A, Kjemtrup S, Boyes D, et al,
+Identiﬁcation of sphingolipid 4-hydroxylase as an essential enzyme
+for plant growth and a target for herbicides. US Patent Application
+204265836 (2005).
+64 Kurnik BS, Davis K, Azyed A, Ascenzi R, Harper A, Boyes D, et al,
+Transgenic Arabidopsis expressing antisense thioredoxin gene for
+herbicide screening. US Patent Application 2003113786 (2003).
+65 Henkes S, Sonnewald U, Badur R, Flachmann R and Stitt M,
+A small decrease of plastid transketolase activity in antisense
+tobacco transformants has dramatic effects on photosynthesis
+and phenylpropanoid metatolism. Plant Cell 13:535–551 (2001).
+66 Mock HP and Grimm B, Reduction of uroporphyrinogen decarboxylase
+by antisense RNA expression affects activities of other enzymes
+involved in tetrapyrole biosynthesis and leads to light-dependent
+necrosis. Plant Physiol 113:1101–1112 (1997).
+67 Green JM, Outlook on weed management in herbicide-resistant crops:
+need for diversiﬁcation. Outlooks Pest Manag 22:100–104 (2011).
+wileyonlinelibrary.com/journal/ps c© 2011 Society of Chemical Industry Pest Manag Sci 2012; 68: 505–512

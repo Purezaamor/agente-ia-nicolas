@@ -1,0 +1,1139 @@
+=== Fuente: Matsuhashi Effects of bovine fatty acid synthase SCD sterol regulatory element binding protein and GH gene polymorphisms o.pdf ===
+
+and E. Kobayashi
+T. Matsuhashi, S. Maruyama, Y. Uemoto, N. Kobayashi, H. Mannen, T. Abe, S. Sakaguchi
+fatty acid composition and carcass traits in Japanese Black cattle
+regulatory element-binding protein 1, and growth hormone gene polymorphisms on 
+Effects of bovine fatty acid synthase, stearoyl-coenzyme A desaturase, sterol
+doi: 10.2527/jas.2010-3121 originally published online September 17, 2010
+2011, 89:12-22.J ANIM SCI 
+http://www.journalofanimalscience.org/content/89/1/12
+the World Wide Web at: 
+The online version of this article, along with updated information and services, is located on
+www.asas.org
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from  by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+ABSTRACT: The quality of fat is an important fac-
+tor in defining the quality of meat. Fat quality is deter-
+mined by the composition of fatty acids. Among lipid 
+metabolism-related genes, including fatty acid synthe-
+sis genes, several genetic variations have been reported 
+in the bovine fatty acid synthase (FASN), stearoyl-CoA 
+desaturase (SCD), sterol regulatory element-binding 
+protein 1 (SREBP1), and GH genes. In the present 
+study, we evaluated the single and epistatic effects of 5 
+genetic variations (4 SNP and 1 insertion/deletion) in 
+4 genes (FASN, SCD, SREBP1, and GH) on the fatty 
+acid composition of the longissimus thoracis muscle 
+and carcass and meat quality traits in 480 commer-
+cial Japanese Black cattle. Significant single effects of 
+FASN, SCD, and GHL127V polymorphisms on the fatty 
+acid composition of the longissimus thoracis muscle 
+were detected. The A293V polymorphism of SCD had 
+the largest effect on myristic acid (C14:0, P < 0.001), 
+myristoleic acid (C14:1, P < 0.001), stearic acid (C18:0, 
+P < 0.001), oleic acid (C18:1, P < 0.001), and MUFA 
+(P < 0.001). Polymorphisms in the FASN, SCD, and 
+SREBP1 genes showed no effect on any meat yield 
+trait. There were no significant epistatic effects on fatty 
+acid composition among pairs of the 3 genes (FASN, 
+SCD, and SREBP1) involved in fatty acid synthesis. No 
+epistatic interactions (P > 0.1) were detected between 
+FASN and SCD for any carcass trait. When the geno-
+types of 3 markers (FASN, SCD, and GHL127V) were 
+substituted from the lesser effect allele to the greater ef-
+fect allele, the proportion of C18:1 increased by 4.46%. 
+More than 20% of the genetic variance in the C18:1 
+level could be accounted for by these 3 genetic markers. 
+The present results revealed that polymorphisms in 2 
+fatty acid synthesis genes (FASN and SCD) indepen-
+dently influenced fatty acid composition in the longis-
+simus thoracis muscle. These results suggest that SNP 
+in the FASN and SCD genes are useful markers for the 
+improvement of fatty acid composition in commercial 
+Japanese Black cattle.
+Key words:  bovine, carcass trait, fatty acid, fatty acid synthase, growth hormone,  
+stearoyl-coenzyme A desaturase
+©2011 American Society of Animal Science. All rights reserved. J. Anim. Sci. 2011. 89:12–22 
+ doi:10.2527/jas.2010-3121
+INTRODUCTION
+Wagyu beef is highly rated because of its abundant 
+marbling and desirable tenderness. Recently, the qual-
+ity of the fat has become an important factor in defin-
+ing the quality of the meat in the Japanese beef market. 
+The quality of the fat is determined by its fatty acid 
+composition, and fat tissue containing MUFA possesses 
+a lower melting point, which contributes positively to 
+favorable beef flavor and tenderness (Westerling and 
+Hedrick, 1979; Melton et al., 1982). Oleic acid (C18:1) 
+is one of the major MUFA in beef fat, and C18:1 is 
+thought to be the source of the aroma of the cooked 
+beef (Melton et al., 1982; Mandell et al., 1998). For 
+Effects of bovine fatty acid synthase, stearoyl-coenzyme A desaturase, 
+sterol regulatory element-binding protein 1, and growth hormone gene 
+polymorphisms on fatty acid composition and carcass  
+traits in Japanese Black cattle1
+T. Matsuhashi,*2 S. Maruyama,* Y. Uemoto,† N. Kobayashi,* H. Mannen,‡  
+T. Abe,† S. Sakaguchi,* and E. Kobayashi†
+*Gifu Prefectural Livestock Research Institute, Kiyomi, Takayama, Gifu 506-0101, Japan;  
+†National Livestock Breeding Center, Nishigo, Fukushima 961-8511, Japan;  
+and ‡Graduate School of Agricultural Science, Kobe University, Rokkodai, Kobe 657-8501, Japan
+1 This work was supported in part by a grant-in-aid for a research 
+project for utilizing advanced technologies in agriculture, forestry, 
+and fisheries (No. 1673) from the Agriculture, Forestry and Fisheries 
+Research Council, Ministry of Agriculture, Forestry and Fisheries, 
+Japan, and by a Koshiyama Research Grant from The Koshiyama 
+Science and Technology Foundation (Gifu, Japan). The authors 
+thank the staff of Hida Meat Agricultural Cooperatives and Hida 
+Beef Cattle Production Conference (Gifu, Japan) for providing meat 
+samples and animal records to support this work.
+2 Corresponding author: matsuhashi-tamako@pref.gifu.lg.jp
+Received April 28, 2010.
+Accepted September 3, 2010.
+12
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+optimal beef, it is important to improve the fatty acid 
+composition, especially the proportion of C18:1.
+The fatty acid composition is a heritable trait with 
+heritability ranging between 0.31 and 0.73 (Inoue et 
+al., 2008). Several genetic variations have been reported 
+in the bovine 3 fatty acid synthesis genes: fatty acid 
+synthase (FASN; Abe et al., 2009), stearoyl-CoA de-
+saturase (SCD; Taniguchi et al., 2004), and sterol reg-
+ulatory element-binding protein 1 (SREBP1; Hoashi 
+et al., 2007). In addition to these fatty acid synthesis 
+genes, it has been reported that polymorphisms in the 
+bovine GH gene are related to the fatty acid composi-
+tion in adipose tissue (Ardiyanti et al., 2009).
+Considering the strong functional relationships 
+among these factors, it is important not only to reveal 
+the independent effects of each factor, but also to ana-
+lyze their combined effects. However, previous studies 
+have been sporadic in their reporting of the single-fac-
+tor effects, and have not always considered independent 
+and combined effects. Additionally, for the beef cattle 
+breeding program, it is important to ensure that there 
+are no negative influences on carcass traits when they 
+are used as genetic markers for the improvement of fat-
+ty acid composition in meat.
+In the present study, we evaluated the independent 
+and epistatic effects of 5 polymorphisms [4 SNP and 
+1 insertion/deletion (ins/del)] in 4 lipid metabolism-
+related genes [3 fatty acid synthesis genes (FASN, SCD, 
+SREBP1, and GH) on the fatty acid composition of the 
+longissimus thoracis muscle and carcass traits in the 
+commercial Japanese Black cattle population.
+MATERIALS AND METHODS
+Animal Care and Use Committee approval was not 
+obtained for this study because data were collected 
+from beef cattle shipped to a meat processing plant in 
+Gifu, Japan.
+Animals and Carcass Traits
+The present study used a commercial Wagyu popula-
+tion produced in Gifu, Japan. Animals were the prog-
+eny of 84 sires and were fattened at 38 farms. A total of 
+2,390 animals, traced back for 3 generations, were used 
+to generate pedigree information in this study. Adipose 
+tissue and longissimus thoracis muscle fat were collected 
+from 480 Japanese Black cattle slaughtered at 24 to 34 
+mo of age (mean ± SD: 28.05 ± 1.34 mo), with over 300 
+kg of carcass weight (CW). The samples were collected 
+a few days after the cattle were slaughtered during 2005 
+to 2008. Each carcass was graded at the 6th- to 7th-
+rib interface by official Japanese graders in accordance 
+with the Japanese Grading Standards (JMGA, 1989). 
+Analyzed traits were as follows: CW (kg), rib eye area 
+(REA, cm2), rib thickness (RT, cm), subcutaneous fat 
+thickness (SFT, cm), carcass yield estimate (YE), beef 
+marbling standard [BMS, ranging from 1 (poor) to 12 
+(very abundant)], beef color standard [ranging from 1 
+(light) to 7 (dark)], luster [ranging from 1 (debased) to 
+5 (excellent)], firmness [ranging from 1 (debased) to 5 
+(excellent)], and texture [ranging from 1 (debased) to 5 
+(excellent)]. Carcass yield estimate was calculated us-
+ing CW, REA, RT, and SFT as the estimated percent-
+age of salable meat [YE (%) = 69.419 + 0.130REA + 
+0.667RT – 0.025CW – 0.896SFT]. Adipose tissues and 
+longissimus thoracis muscle samples were harvested 
+from sliced meat 1 cm thick between the 6th and 7th 
+ribs. The moisture content of the longissimus thoracis 
+muscle was calculated from the weight difference be-
+tween wet and dried samples. Quantitative analysis of 
+crude fat in the longissimus thoracis muscle was deter-
+mined by the standard Soxhlet extraction technique.
+Fatty Acid Analysis
+We used the longissimus thoracis muscle in this study 
+because this muscle has the most influence on the mar-
+ket price in Japan. Fatty acid content was analyzed by 
+HPLC using the method by Borch (1975) with some 
+modifications. Approximately 500 mg of minced long-
+issimus thoracis muscle samples were saponified in 5 
+mL of 25% KOH/EtOH (1:1, vol/vol) at 90°C for 2 
+h. After the addition of an equal amount of H2O and 
+15 mL of hexane for washing, 2 N HCl was added for 
+acidification, and the hydrolysate was extracted twice 
+with 5 mL of hexane. The hexane extracts were dehy-
+drated with anhydrous sodium sulfate, and dried with 
+a nitrogen purge at 60°C. The pellets were converted to 
+phenacyl esters by adding 100 µL of 50 mM phenacyl 
+bromide and 100 µL of triethylamine at 60°C for 2 h. 
+Prepared fatty acid phenacyl esters (FAPE) were sepa-
+rated by HPLC using a Shim-pack FC-ODS column (75 
+mm × 4.6 mm inner diameter; Shimazu, Kyoto, Ja-
+pan), with elution (1 mL/min, 45°C) by a linear gradi-
+ent of acetonitrile/10 mM sodium phosphate (pH 2.6), 
+started at 80/20 (vol/vol) for 20 min, increased to 90:10 
+(vol/vol) for 7 min, and returned to 80:20 (vol/vol) for 
+3 min. Elution of FAPE was monitored by absorbance 
+at 254 nm.
+DNA Isolation and Genotyping
+In this study, we genotyped the polymorphisms of 4 
+lipid metabolism-related genes, FASN, SCD, SREBP1, 
+and GH, as described by Abe et al. (2009), Taniguchi 
+et al. (2004), Hoashi et al. (2007), and Chikuni et al. 
+(1997), respectively. The polymorphisms of these genes 
+analyzed in this study were g.16024A > G (T1950A) 
+and g.16039T > C (W1955R) in exon 34 of FASN gene, 
+c.878T > C (A293V) in exon 5 of SCD gene, 84-bp 
+insertion (allele L) or deletion (allele S) in intron 5 of 
+SREBP1 gene, and L127V and T172M in exon 5 of GH 
+gene. Two SNP in the GH gene were analyzed individu-
+ally in the present study because they had independent 
+effects on fatty acid composition and carcass traits.
+Total DNA was prepared from adipose tissue using a 
+NucleoSpin Food kit (Macherey-Nagel, Düren, Germa-
+Effects of 5 polymorphisms on fatty acids 13
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+ny). The PCR-RFLP, amplified fragment-length poly-
+morphism (AFLP), and quenching probe (QP) sys-
+tems (Kurata et al., 2001; Matsumoto et al., 2007) were 
+applied to detect the 5 nucleotide substitutions in the 
+4 genes. The PCR amplification was performed with 5- 
+to 20-ng genomic DNA, a primer set, and Animal Taq 
+(ABgene, Epsom, UK). Primers and PCR conditions 
+for genotyping are shown in Table 1. Flanking genome 
+sequences of each mutation site are shown in Supple-
+mental Table 1 (http://jas.fass.org/content/vol89/is-
+sue1/). Amplification was performed using a TaKaRa 
+PCR Thermal Cycler MP (TP-3000; Takara Bio, Shiga, 
+Japan). Because SNP g.16024A > G and g.16039T > 
+C in the FASN gene are completely linked (Abe et al., 
+2009), either SNP was selected to genotype the FASN 
+gene. Similarly, SNP c.702G > A and c. 878T > C in 
+the SCD gene are completely linked (Taniguchi et al., 
+2004), so c.702G > A only was genotyped in place of 
+c. 878T > C. The FASN, SCD, and SREBP1 geno-
+types of some samples were identified simultaneously 
+using the QP system. A ready-made QP Genotyping 
+Probe/Primer Set for the bovine SCD gene (Prescribe 
+Genomics, Ibaraki, Japan), and custom QP Genotyp-
+ing Probe/Primer Sets for the bovine FASN gene and 
+the bovine SREBP1 gene (J-Bio21, Tokyo, Japan) were 
+used. Genotypes of markers GHL127V and GHT172M were 
+determined with the QP system for all samples, using 
+a bovine GH 2plex QP Genotyping Probe/Primer Set 
+(Prescribe Genomics).
+Statistical Analyses
+A mixed-inheritance animal model was used to evalu-
+ate the genotypic effects on the traits under study. The 
+snp_ad option of Qxpak software (Pérez-Enciso and 
+Misztal, 2004) was used for individual SNP. The ins/
+del polymorphism in SREBP1 was treated as a SNP. 
+The assumed model for the phenotypic data of each 
+trait was as follows:
+ 
+ysex year monthfarmbx
+SNPu e
+ijklm ij klijklm
+ijklm ijklm
+=+ +++
++++ ,  [1]
+where yijklm is the observation ijklm for the traits, sexi is 
+the fixed effect of sex i (2 classes), yearj is the fixed ef-
+fect of slaughter year j (4 classes, 2005 to 2008), monthk 
+is the fixed effect of slaughter month k (12 classes), 
+farml is the fixed effect of farm l (38 classes), b is a co-
+variate coefficient with xijklm being slaughter age, uijklm is 
+the infinitesimal genetic effect of animal ijklm, which is 
+distributed as N u(, )0 2As  (A is the numerator relation-
+ship matrix), and eijklm is the residual effect. The SNP 
+is the single-locus SNP genotypic effect, which was par-
+titioned into additive (a) and dominance (d) effects. 
+For carcass traits, we also included parity effect (55 
+classes) as a fixed effect in this model (Eq. [1]). Pedi-
+grees of the base population animals were traced back 
+for 3 generations to create the numerator relationship 
+Table 1. Oligonucleotide primers and genotyping conditions 
+Marker1
+Genotyping  
+method2 Primer sequence (5′ to 3′)
+Annealing  
+temperature,  
+°C
+Substitution  
+site Enzyme Source
+FASN PCR-RFLP TTAAGGGCACCTTAGGCTTG 55 T1950A HhaI Abe et al. (2009)
+  GCCTTTGGA
+GGGCTTCTTAG  (g.16024A > G)  
+    W1955R Nci
+I  
+    (g.16039T > C)   
+ QP —3     
+SCD PCR-RFLP
+GTGTCCTGTTGTTGTGCTTCATCCTGCC 63 V293A NcoI Taniguchi et al. (2004)
+  AA
+TATTCTCTCGGGGGTTGATGGTCTTG  (c.702G > A)  
+ QP —3     
+SREBP1 AFLP CCA
+CAACGCCATCGAGAAACGCTAC 60   Hoashi et al. (2007)
+  GGCCTTCCCTGA
+CCACCCAACTTAG    
+ QP —3     
+GHL127V QP —3  L127V   
+GHT172M QP —3  T172M   
+1FASN = fatty acid synthase; SCD = stearoyl-CoA desaturase; SREBP1 = sterol regulatory element-binding protein 1.
+2QP = quenching probe method; AFLP = amplified fragment-length polymorphism.
+3Sequence information for QP probes and primers was not disclosed. Instead, the flanking sequence of each mutation site is provided in Supplemental Table 1 (http://jas.fass.org/content/vol89/
+issue1/).
+Matsuhashi et al.14
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+matrix, and 2,390 animals were included in the pedi-
+gree analysis. Likelihood ratio tests were performed by 
+removing the single locus SNP genotypic effects in the 
+model (Eq. [1]), and nominal P-values were obtained 
+assuming a χ2 distribution of the likelihood ratio test. 
+The proportion of additive genetic variance accounted 
+for by the single locus SNP genotypic effect was calcu-
+lated as
+ variance percentage =+-{[ ()]}/,2 2pq adqp VA  
+where p
+ and q were the allelic frequencies at the SNP 
+locus, and VA was the additive genetic variance of the 
+trait obtained from an animal model analysis ignor-
+ing the single locus SNP genotypic effects (Falconer, 
+1989).
+For epistasis analysis, the epi_snp option of Qxpak 
+software (Pérez-Enciso and Misztal, 2004) was used. 
+The statistical model for testing epistasis effects was 
+as follows:
+ 
+ysex year monthfarmbx
+SNPSNP SNPSNP
+ijklm ij klijklm=+ +++
++++12( 1 × 22),++ueijklm ijklm
+ [2]
+where SNP1
+ and SNP2 are the 2 single-locus genotypic 
+effects, and SNP1 × SNP2 is the 2-locus interaction 
+effect. The 2 locus interaction effect was partitioned 
+into 4 individual epistasis effects (additive × additive, 
+additive × dominance, dominance × additive, and 
+dominance × dominance) using the extended Cocker-
+ham model (Cockerham, 1954). Likelihood ratio tests 
+were performed by removing the 2-locus interaction ef-
+fect in the model (Eq. [2]), and nominal P-values were 
+obtained assuming a χ2 distribution of the likelihood 
+ratio test.
+To account for multiple testing, we considered the 
+false discovery rate (FDR) and calculated q-values 
+with the R procedure (http://www.r-project.org/) us-
+ing the method of Benjamini and Hochberg (1995). A 
+q-value of a test measures the proportion of false posi-
+tive incurred (referred to as FDR) when a particular 
+test is called significant. The FDR procedure was run 
+separately for single effects analyses (105 tests) and for 
+epistatic effects analyses (210 tests).
+RESULTS
+Summary of the Animals  
+and Allele Frequencies
+Statistical data for the fatty acid composition of in-
+tramuscular fat in the longissimus thoracis muscle, and 
+carcass traits, are shown in Table 2. Genotypic and 
+allelic frequencies for the 5 polymorphic genetic mark-
+ers (4 SNP and 1 ins/del) in 4 genes, FASN, SCD, 
+SREBP1, and GH, are shown in Table 3. The major 
+alleles of each marker were as follows: allele TW in 
+FASN, allele A in SCD, allele V in GHL127V, and allele 
+T in GHT172M. The allele frequencies for FASN were 
+substantially biased toward the allele TW. There were 
+only 4 animals with the genotype AR/AR among the 
+analyzed samples (Table 3). There was little bias in the 
+allele frequencies for SREBP1.
+Single Effects on Fatty Acid Composition
+There are 2 groups of fatty acids: the SFA and the 
+unsaturated fatty acids. Saturated fatty acids in beef 
+fat are mainly composed of myristic (C14:0), palmitic 
+(C16:0), and stearic (C18:0) acids. Unsaturated fat-
+ty acids are mainly composed of myristoleic (C14:1), 
+palmitoleic (C16:1), oleic (C18:1), linoleic (C18:2), and 
+linolenic (C18:3) acids.
+Independent effects on fatty acid composition are 
+shown in Table 4. In this study, we detected significant 
+effects of FASN, SCD, and GHL127V polymorphisms 
+on fatty acid composition of the longissimus thoracis 
+muscle. When allele AR was substituted for allele TW 
+in FASN, the proportion of 16-C or shorter fatty acids 
+(C14:0, P < 0.001; C14:1, P < 0.05; C16:0, P < 0.05; 
+C16:1, P < 0.05) was decreased, and the proportion of 
+C18:1 (P < 0.001) was increased. The q-values of C14:0 
+(q < 0.001) and C18:1 (q < 0.01) were also significant. 
+In SCD, when allele V was substituted for allele A, the 
+proportion of SFA (C14:0, P < 0.001; C18:0 P < 0.001) 
+was decreased and the proportion of MUFA (C14:1, 
+P < 0.001; C18:1, P < 0.001; MUFA, P < 0.001) was 
+increased. The q-values of all effects against these fatty 
+acids remained significant (q < 0.001). When allele L 
+was substituted for allele V in GHL127V, the proportion 
+of 16-C or shorter fatty acids (C14:0, P < 0.001; C14:1, 
+P < 0.05; C16:0, P < 0.05; C16:1, P < 0.01) were de-
+creased and the proportion of C18:1 (P < 0.05) was in-
+creased. The q-values of C14:0 (q < 0.01) and C16:1 (q 
+< 0.01) remained significant. No significant single effect 
+(P > 0.1) on any fatty acid composition was detected 
+for the SREBP1 or GHT172M polymorphisms. No effects 
+(P > 0.1) on C18:2 or C18:3 were detected among these 
+5 genetic markers.
+For C18:1, when the genotypes of 3 markers (FASN, 
+SCD, and GHL127V) were substituted from the lesser ef-
+fect allele to the greater effect allele, the proportion of 
+C18:1 would rise by 4.46% [= (0.79% × 2) + (1.12% 
+× 2) + (0.32% × 2)]. More than 20% of the genetic 
+variance in C18:1 level could be accounted for by these 
+3 markers: 7.55% from FASN, 11.72% from SCD, and 
+3.84% from GHL127V.
+Single Effects on Carcass Traits
+Independent effects on carcass traits are shown in 
+Table 4. Carcass traits were classified into 2 groups. 
+The meat yield traits were CW, REA, RT, SFT, and 
+YE. The meat quality traits were BMS, beef color stan-
+dard, luster, firmness, texture, moisture, and crude 
+fat. Polymorphisms of the 3 fatty acid synthesis genes 
+(FASN, SCD, and SREBP1) showed no effect on any 
+Effects of 5 polymorphisms on fatty acids 15
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+meat yield trait. Gene effects of SCD were detected for 
+3 meat quality traits (luster, P < 0.05; firmness, P < 
+0.05; and texture, P < 0.05). However, none of the ef-
+fects remained significant at the FDR threshold (q < 
+0.05). A significant effect of GHL127V on SFT (P < 0.01) 
+was detected, and it remained significant after correct-
+ing for FDR. Gene effects of GHT172M were detected for 
+both types of carcass traits (CW, P < 0.05; RT, P < 
+0.01; SFT, P < 0.01; and firmness, P < 0.05). However, 
+none was significant after multiple testing corrections.
+Epistatic Effects on Fatty Acid Composition
+Epistatic effects between all pairs of genes affecting 
+fatty acid composition are shown in Table 5. There were 
+no significant epistatic effects on fatty acid composition 
+among pairs of the 3 fatty acid synthesis genes (FASN, 
+SCD, and SREBP1). Epistatic interactions were de-
+tected between SCD and GHL127V for C14:0 (P < 0.05), 
+C18:2 (P < 0.05), and C18:3 (P < 0.001) levels and 
+between FASN and GHL127V for C18:0 levels (P < 0.05). 
+However, none of the effects remained significant after 
+correcting for FDR, except for the effect between SCD 
+and GHL127V on C18:3.
+Epistatic Effects on Carcass Traits
+Epistatic effects between all pairs of genes affecting 
+carcass traits are shown in Table 5. No epistatic inter-
+actions (P > 0.1) were detected between FASN and 
+SCD for any carcass trait. Although an independent 
+effect of SREBP1 was not detected on carcass traits, 
+epistatic interactions were detected between SREBP1 
+and other markers. Epistatic effects were detected be-
+Table 2. Number of records, means, SD, and genetic variance of traits1 
+Trait Abbrev Records Mean SD VA
+Fatty acid composition, %
+ Myristic acid C14:0 480
+3.01 0.53 0.11
+ Myristoleic acid C14:1 480
+0.90 0.32 0.04
+ P
+almitic acid C16:0 480 26.12 1.91 1.48
+ P
+almitoleic acid C16:1 480 4.47 0.71 0.20
+ Stearic acid C18:0 480
+10.74 1.53 0.90
+ Oleic acid C18:1 480
+50.94 2.73 3.02
+ Linoleic acid C18:2 480
+2.91 0.77 0.23
+ Linolenic acid C18:3 480
+0.29 0.33 0.02
+ MUF
+A MUFA 480 56.31 2.84 3.22
+Carcass trait
+ Carcass w
+eight, kg CW 480 409.4 42.5 693.3
+ Rib ey
+e area, cm2 REA 480 53.90 6.90 18.70
+ Rib thic
+kness, cm RT 480 7.56 0.76 0.22
+ Sub
+cutaneous fat thickness, cm SFT 480 2.29 0.66 0.17
+ Yield estimate2 YE 480 74.30 1.10 0.50
+ Beef marbling standard3 BMS 480 5.88 1.92 1.43
+ Beef color standard4 480 3.75 0.55 0.12
+ Luster5  480 4.09 0.73 0.21
+ Firmness5  480 4.02 0.77 0.23
+ T
+exture5  480 4.08 0.74 0.22
+ Moist
+ure, %  471
+48.30 4.70 8.59
+ Crude fat, %  471
+36.20 6.20 15.50
+1Abbrev = abbreviation of traits; VA = additive genetic variance.
+2YE (%) = 69.419 + 0.130REA + 0.667RT – 0.025CW – 0.896SFT.
+3BMS was scored from 1 to 12.
+4Beef color standard was scored from 1 to 7.
+5Luster, firmness, and texture were scored from 1 to 5.
+Table 3. Genotypic and allelic frequencies of markers 
+Marker1 Records
+Genotypic frequencies (freq.) Allelic freq.
+pp pq qq p q
+Genotype Freq. Genotype Freq. Genotype Freq. Allele Freq. Allele Freq.
+FASN 480 TW/TW 0.71  TW/AR
+0.28  AR/AR
+0.01  TW
+0.85  AR
+0.15
+SCD 480 AA 0.50  VA 0.42  VV 0.08  A
+0.71  V
+0.29
+SREBP1 480 SS 0.27  LS 0.49  LL 0.24  S
+0.51  L
+0.49
+GHL127V 441 VV 0.56  LV 0.35  LL 0.09  V 0.74  L 0.26
+GHT172M 473 TT 0.71  MT 0.27  MM 0.02  T 0.85  M 0.16
+1FASN = fatty acid synthase; SCD = stearoyl-CoA desaturase; SREBP1 = sterol regulatory element-binding protein 1.
+Matsuhashi et al.16
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+Table 4. Single gene effects on fatty acid composition and carcass traits1 
+Trait2 Marker3 LRT P-value q-value4 a ± SE d ± SE %VA due  to marker
+Fatty acid composition, %
+ C14:0 F
+ASN 23.8 <0.001 <0.001 −0.07 ± 0.12 0.19 ± 0.13 9.08
+ SCD 25.3
+<0.001 <0.001 −0.23 ± 0.05 −0.07 ± 0.06 14.22
+ GHL127V 18.1 <0.001 0.01 −0.14 ± 0.05 0.06 ± 0.06 9.86
+ C14:1 F
+ASN 8.3 0.02 0.12 −0.06 ± 0.08 0.03 ± 0.08 4.29
+ SCD 35.0
+<0.001 <0.001 0.15 ± 0.03 0.01 ± 0.03 20.42
+ GHL127V 8.2 0.02 0.12 −0.05 ± 0.03 0.03 ± 0.03 4.35
+ C16:0 F
+ASN 7.5 0.02 0.13 −0.43 ± 0.46 0.08 ± 0.47 4.02
+ GHL127V 7.6 0.02 0.13 −0.11 ± 0.17 0.42 ± 0.21 2.48
+ C16:1 F
+ASN 8.5 0.01 0.12 −0.05 ± 0.17 0.16 ± 0.18 3.29
+ GHL127V 13.3 0.01 0.02 −0.18 ± 0.06 0.04 ± 0.08 7.35
+ C18:0 SCD 24.7
+<0.001 <0.001 −0.60 ± 0.14 −0.04 ± 0.16 15.45
+ C18:1 F
+ASN 14.7 <0.001 0.01 0.79 ± 0.65 −0.24 ± 0.67 7.55
+ SCD 21.9
+<0.001 <0.001 1.12 ± 0.24 0.45 ± 0.28 11.72
+ GHL127V 8.8 0.01 0.11 0.32 ± 0.24 −0.47 ± 0.30 3.84
+ MUF
+A FASN 6.9 0.03 0.15 0.67 ± 0.68 −0.06 ± 0.70 3.89
+ SCD 25.5
+<0.001 <0.001 1.25 ± 0.25 0.48 ± 0.30 13.96
+Carcass trait
+ CW, kg GHT172M 6.8 0.03 0.16 16.33 ± 6.27 15.20 ± 7.03 1.29
+ R
+T, cm GHT172M 9.8 0.01 0.07 0.34 ± 0.12 0.24 ± 0.13 3.63
+ SFT, cm GHL127V 11.3 0.01 0.04 −0.20 ± 0.06 −0.15 ± 0.07 3.86
+ GHT172M 8.0 0.02 0.12 0.28 ± 0.10 0.19 ± 0.12 3.42
+ Luster SCD 7.0
+0.03 0.15 0.12 ± 0.06 −0.05 ± 0.08 3.68
+ Firmness SCD 7.2
+0.03 0.14 0.12 ± 0.07 −0.05 ± 0.08 3.7
+ GHT172M 6.3 0.04 0.19 0.13 ± 0.12 −0.05 ± 0.13 3.09
+ T
+exture SCD 7.5 0.02 0.13 0.12 ± 0.07 −0.06 ± 0.08 3.78
+1Only those for which statistically significant (P < 0.05) gene effects were detected are listed for each trait. LRT = likelihood ratio test; a = 
+additive effect; d = dominance effect; %VA = proportion of additive genetic variance.
+2C14:0 = myristic acid; C14:1 = myristoleic acid; C16:0 = palmitic acid; C16:1 = palmitoleic acid; C18:0 = stearic acid; C18:1 = oleic acid; 
+CW = carcass weight; RT = rib thickness; SFT = subcutaneous fat thickness.
+3FASN = fatty acid synthase; SCD = stearoyl-CoA desaturase.
+4The q-value of a test measures the proportion of false positives incurred when that particular test is called significant.
+Table 5. Epistatic effects between pairs of 4 genes on fatty acid composition and car-
+cass traits1 
+Trait2
+Marker3
+LRT P-value q-value4SNP1 SNP2
+Fatty acid composition, %
+ C14:0 SCD GHL127V 4.11 0.04 0.63
+ C18:0 F
+ASN GHL127V 4.24 0.04 0.63
+ C18:2 SCD GHL127V 4.23 0.04 0.63
+ C18:3 SCD GHL127V 14.11 <0.001 0.04
+Carcass trait
+ CW, kg F
+ASN GHL127V 4.73 0.03 0.63
+ SREBP1
+GHL127V 3.99 0.05 0.63
+ REA, cm2 SREBP1 GHL127V 5.82 0.02 0.63
+ Beef color standard SCD SREBP1 5.99
+0.01 0.63
+ Firmness F
+ASN SREBP1 4.05 0.04 0.63
+ SREBP1
+GHT172M 4.85 0.03 0.63
+ T
+exture SREBP1 GHT172M 4.77 0.03 0.63
+ Moist
+ure, % SREBP1 GHT172M 4.22 0.04 0.63
+ Crude fat, % SCD GHL127V 4.02 0.05 0.63
+1Only those pairs for which statistically significant (P < 0.05) gene effects were detected are listed for each 
+trait. LRT = likelihood ratio test statistic.
+2C14:0 = myristic acid; C18:0 = stearic acid; C18:2 = linoleic acid; C18:3 = linolenic acid; CW = carcass 
+weight; REA = rib eye area.
+3SCD = stearoyl-CoA desaturase; FASN = fatty acid synthase; SREBP1 = sterol regulatory element-binding 
+protein 1.
+4The q-value of a test measures the proportion of false positives incurred when that particular test is called 
+significant.
+Effects of 5 polymorphisms on fatty acids 17
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+tween SREBP1 and GHL127V for CW (P < 0.05) and 
+REA (P < 0.05), between SREBP1 and SCD for beef 
+color standard (P < 0.05), between SREBP1 and FASN 
+or GHT172M for firmness (P < 0.05 each), and between 
+SREBP1 and GHT172M for texture (P < 0.05) and mois-
+ture (P < 0.05). The GHL127V was involved in epistatic 
+effects on meat yield traits (CW, P < 0.05; and REA, 
+P < 0.05) and crude fat ratio. The GHT172M was in-
+volved in some epistatic effects on meat quality traits 
+(firmness, texture, and moisture). However, those sig-
+nificances were generally low, and significant q-values 
+were not detected between any pair of genes.
+DISCUSSION
+Population and Phenotypic Measurement
+In previous studies, half-sib families or experimental 
+populations were used to detect the effects of polymor-
+phisms in lipid metabolism-related genes (Ge et al., 
+2003; Morris et al., 2007; Oka et al., 2007; Abe et al., 
+2009). To use genetic markers in breeding programs by 
+marker-assisted selection, it is necessary to estimate the 
+actual effects in field data. In this study, we used the 
+commercial Wagyu beef cattle population, produced in 
+a representative Japanese Black cattle-producing area 
+in Japan, to clarify the actual effects of these gene poly-
+morphisms.
+The fatty acid composition in the longissimus thora-
+cis muscle is very important in Wagyu beef because the 
+quality of the beef is mainly evaluated in this muscle. 
+The longissimus thoracis muscle commands increased 
+prices because it is regarded as the most palatable cut. 
+Therefore, it is important to investigate the relation-
+ship between the effects of these genes and the fatty 
+acid composition of the longissimus thoracis muscle. In 
+previous studies, discarded tissues, such as the peri-
+nephric fat and the backfat, were used to analyze the 
+relationship between gene polymorphisms and fatty 
+acid composition (Taniguchi et al., 2004; Morris et al., 
+2007; Abe et al., 2008, 2009; Hoashi et al., 2008). How-
+ever, we used samples from graded sections of the long-
+issimus thoracis muscle itself to ensure that any gene 
+effects detected were valid in this tissue.
+Allele Frequencies
+In a previous study, Abe et al. (2009) reported that 
+the frequency of allele TW of the FASN gene was great-
+er in Japanese Black cattle than in Angus, Hereford, 
+and Holstein. In the present study, the frequency of 
+allele TW was much greater (0.85) than in the previous 
+report (0.67; Abe et al., 2009). The effective popula-
+tion size of Japanese Black cattle has been reported to 
+be very small as the result of the side-effects of animal 
+improvement (Nomura et al., 2001; Honda et al., 2005). 
+A small effective population size could easily bias allele 
+frequencies in local populations.
+In the present study, the frequencies of allele A in the 
+SCD gene and allele S in the SREBP1 gene were al-
+most similar to those previously reported for Japanese 
+Black cattle (Taniguchi et al., 2004; Hoashi et al., 2007; 
+Ohsaki et al., 2009). A comparable polymorphism of 
+SCD has been reported in other cattle breeds, such as 
+Holstein or Jersey (Mele et al., 2007; Moioli et al., 2007; 
+Komisarek and Dorynek, 2009). These results might 
+indicate that the SCD polymorphism analyzed in the 
+present study had little effect on the traits selected for 
+the breeding of cows or beef cattle.
+Three GH haplotypes (haplotype A, Leu127/Thr172; 
+haplotype B, Val127/Thr172; haplotype C, Val127/
+Met172), based on the combination of 2 nonsynony-
+mous SNP (L127V and T172M), have been observed 
+in Japanese Black cattle (Chikuni et al., 1994, 1997). 
+Allele frequencies of GHL127V and GHT172M in Japanese 
+Black cattle can be calculated from previous reports: 
+the frequencies of alleles V and L of GHL127V were 0.5 
+each (Chikuni et al., 1994), or 0.732 and 0.269, respec-
+tively (Tatsuda et al., 2008). The frequencies of alleles 
+T and M of GHT172M were 0.644 and 0.356 (Chikuni et 
+al., 1994) or 0.690 and 0.311 (Tatsuda et al., 2008), 
+respectively. The frequencies of allele V of GHL127V and 
+allele T of GHT172M in the present study were similar to 
+those in previous results.
+Single Effects on Fatty Acid Composition
+For FASN gene polymorphisms, Abe et al. (2009) re-
+ported significant effects of the FASN genotype on the 
+C14:0, C14:1, C16:0, C16:1, and C18:1 content of the 
+trapezius muscle intramuscular fat in Japanese Black 
+populations. In the present study, the same effect of the 
+FASN marker was detected for the intramuscular fat of 
+the longissimus thoracis muscle. Detection of same effect 
+in different breeding populations increases its reliabil-
+ity. Fatty acid synthase produces 16-C or shorter-chain 
+SFA from acetyl-CoA and malonyl-CoA. The present 
+result, that the composition of C16 and shorter-chain 
+fatty acids were decreased by the AR > TW substitu-
+tion, might indicate that the analyzed mutation was 
+related to the function of FASN. Because these muta-
+tions are located in the β-ketoacyl reductase domain in 
+the FASN gene (Abe et al., 2009), they might influence 
+that function.
+For SCD gene polymorphisms, a previous report 
+showed the effects of the SCD genotype on C14:1, C18:0, 
+C18:1, and MUFA abundance (Ohsaki et al., 2009). The 
+present results corroborate these effects. When allele V 
+was changed to allele A in SCD, the proportion of SFA 
+(C14:0 and C18:0) was decreased, and the proportion of 
+MUFA (C14:1 and C18:1) was increased. Stearoyl-CoA 
+desaturase introduces a double bond between carbon 
+atoms 9 and 10 of a SFA to produce C14:1, C16:1, 
+and C18:1. The mutations analyzed in present study 
+were located in the transmembrane region. The pres-
+ent result reinforces the possibility that the analyzed 
+Matsuhashi et al.18
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+mutation is related to the function of SCD. The results 
+might imply that SCD generated from an SCD gene 
+with the allele A has greater functionality than that 
+generated from an SCD gene with the allele V. Analysis 
+of gene function is necessary for the evaluation of these 
+polymorphisms.
+For GH gene polymorphisms, in a previous study, the 
+group with genotype LL for the GHL127V marker had a 
+greater percentage of C14:1 and C16:1 and a reduced 
+percentage of C18:0 in LM lipid, compared with the 
+group with genotype VV (Oka et al., 2007). In the pres-
+ent study, similar effects were detected at the same mu-
+tation site. In addition to the effect of a decreased ratio 
+of 16-C or shorter fatty acids, the presence of allele V of 
+the GHL127V marker resulted in an increased proportion 
+of C18:1, though q-value was not significant.
+Epistatic Effects on Fatty Acid Composition
+None of the expected interactions were significant for 
+fatty acid composition except for SCD and GHL127V. 
+For fatty acid synthesis genes, no epistatic effects were 
+detected between FASN and SCD markers, or between 
+FASN and SREBP1 markers. Because the function of 
+FASN is to synthesize SFA from acetyl-CoA, FASN can-
+not increase C18:1 abundance by itself (Chakravarty et 
+al., 2004). Considering this, it was expected that the 
+effect of the FASN marker on C18:1 would be influ-
+enced by the function of SCD and SREBP1. However, 
+no epistatic effects for C18:1 abundance were found in 
+the present study. This could indicate that the effect of 
+FASN on C18:1 abundance is influenced by fatty acid 
+synthesis factors other than SCD or SREBP1. Epistatic 
+effects were expected between SREBP1 and other genes 
+because SREBP1 is a major transcription factor that 
+regulates the expression of several fatty acid synthesis 
+genes including SCD and FASN (Magaña and Osborne, 
+1996; Magaña et al., 1997; Shimano et al., 1999; Tabor 
+et al., 1999; Horton et al., 2003; Zhang et al., 2003; Mi-
+yazaki et al., 2004; Matsuzaka et al., 2007). However, 
+in the present study, no epistatic effects were detected 
+between SREBP1 and these genes. That the SREBP1 
+marker did not show direct or indirect effects on fat-
+ty acid composition might indicate that the analyzed 
+polymorphism in SREBP1 is not relevant to variation 
+in fatty acid composition.
+Polymorphism in the regulatory factor, GH, was ex-
+pected to influence the function of downstream genes 
+because it has been reported that GH influences the 
+expression of FASN, SCD, and SREBP1 (Beswick and 
+Kennelly, 2000; Frick et al., 2002; Louveau and Gon-
+dret, 2004). In this study epistatic effects were detected 
+between GHL127V and SCD on C14:0, C18:2, and C18:3 
+levels and between GHL127V and FASN on C18:0 levels. 
+However, none of the effects, except for that between 
+GHL127V and SCD on C18:3, remained significant af-
+ter correcting for FDR. It has been reported that GH 
+enhances the expression of SREBP1, SCD, and FASN 
+in the rat liver, but not in adipose tissue (Frick et al., 
+2002). The present results imply that, although GH 
+polymorphisms are related to lipolysis (Asada et al., 
+2000a,b), the effects of GH on fatty acid synthesis might 
+be limited in adipose tissue. In this study, a significant 
+epistatic effect for C18:3 between SCD and GHL127V was 
+detected, and further study must be necessary to con-
+firm the epistatic effect of these loci in other commer-
+cial population.
+Single Effects on Carcass Traits
+For the fatty acid synthesis genes, the gene effects 
+of SCD and SREBP1 polymorphisms on carcass traits 
+have been studied previously. Ohsaki et al. (2009) re-
+ported that the SREBP1 polymorphism was related to 
+CW and that no significant effect on carcass traits was 
+detected for the SCD polymorphism. The present study 
+indicated that 3 markers in the 3 fatty acid synthe-
+sis genes (FASN, SCD, and SREBP1) were not related 
+to meat yield traits. These results imply that if the 
+genotypes of FASN, SCD, and SREBP1 were used as 
+markers to improve fatty acid composition, there would 
+be no effect on the meat yield traits. Among those 3 
+genes, only the SCD marker showed significant effect 
+on meat quality traits (luster, firmness, and texture 
+of the meat). However, their significances were gener-
+ally small, and the effects on these traits did not re-
+main significant after correcting for FDR. In present 
+study, significant relations were detected between those 
+meat quality traits and fatty acid composition (data 
+not shown). Animals with decreased C18:0, increased 
+C14:1, and increased MUFA abundance tended to have 
+greater scores of luster, firmness, and texture. The ef-
+fect of SCD polymorphism on fatty acid composition 
+might influence those meat quality traits. The present 
+study suggests that the SNP in the FASN and SCD 
+genes analyzed in this study are excellent markers for 
+the improvement of fatty acid composition.
+For GH gene polymorphisms, previous studies re-
+ported that animals possessing allele L of the GHL127V 
+marker showed a faster growth rate, greater CW, small-
+er BMS, and greater fat thickness than those possessing 
+allele V (Oprządek et al., 2005; Barendse et al., 2006; 
+Oka et al., 2007; Tatsuda et al., 2008). On the other 
+hand, other studies detected no significant effects on 
+carcass traits (Yao et al., 1996; Di Stasio et al., 2002; 
+Han et al., 2010). In the present study, animals pos-
+sessing allele V of the GHL127V marker showed a thin-
+ner SFT than those possessing allele L. However, no 
+significant effect of the GHL127V marker was detected 
+on CW or BMS. The discordance among the results 
+on carcass traits implies that the analyzed SNP in GH 
+gene might not be the polymorphisms responsible for 
+variations in those carcass traits. Further analysis is 
+required for the evaluation of GH polymorphisms on 
+carcass traits. The GHT172M polymorphism has not been 
+detected in breeds other than Japanese Black and Jap-
+anese Brown cattle (Chikuni et al., 1994). A previous 
+study reported that animals possessing allele M (haplo-
+Effects of 5 polymorphisms on fatty acids 19
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+type C) of the GHT172M marker showed a greater BMS 
+than those possessing allele T (Tatsuda et al., 2008). 
+However, no effect of the GHT172M marker was detected 
+on BMS in the present study. Although effects of the 
+GHT172M polymorphism on CW, RT, SFT, and firmness 
+were detected, none of those effects remained signifi-
+cant correcting for FDR.
+Epistatic Effects on Carcass Traits
+Epistatic effects between fatty acid synthesis genes 
+were detected on some meat quality traits. Considering 
+the fact that single effects of SCD were observed on 
+the luster, firmness, and texture of the meat, and that 
+SREBP1 is a transcription factor affecting the expres-
+sion of the FASN and SCD genes, there might be rela-
+tions between fatty acid synthesis genes and those meat 
+quality traits. However, their significance was generally 
+small, and none of the associations remained significant 
+after correcting for FDR.
+Epistatic effects of the GH markers were detected 
+for meat yield and quality traits. These effects might 
+occur because GH stimulates the expression of particu-
+lar downstream factors. It has been reported that GH 
+regulates the expression of FASN, SCD, and SREBP1 
+in the liver (Frick et al., 2002) and that GH stimulates 
+lipolysis in adipocytes (Asada et al., 2000a,b). The 
+epistatic effects of GHL127V on crude fat content might 
+reflect these functions of GH. However, none of the 
+effects remained significant after correcting for FDR. 
+Further study in a larger number of animals is neces-
+sary to reveal the relation between GH and other genes 
+to carcass traits.
+Other Candidate Genes Affecting Fatty  
+Acid Composition
+The present results revealed that SNP from the 
+FASN and SCD genes independently influenced fatty 
+acid composition in the longissimus thoracis muscle. 
+Other polymorphisms in these or other genes must also 
+affect fatty acid composition because these 5 gene poly-
+morphisms contributed only approximately 25% of the 
+total genetic variation in C18:1 abundance. In previ-
+ous studies, several other polymorphisms were reported 
+in the FASN gene, and some of those polymorphisms 
+were related to fatty acid composition in adipose fat 
+and milk fat (Roy et al., 2006; Zhang et al., 2008). 
+One of those polymorphisms has also been analyzed in 
+a Japanese Black half-sibling population, although no 
+variation was detected (Abe et al., 2009). However, it 
+is not clear whether this lack of variation for that poly-
+morphism extends to all the Japanese Black cattle, and 
+whether these polymorphisms, including the polymor-
+phism described above, have effects on the fatty acid 
+composition in Wagyu beef. Several other enzymes, 
+such as acetyl-CoA carboxylase and the elongation of 
+very long chain fatty acid proteins, are related to fatty 
+acid synthesis. There are also many other factors in-
+volved in triglyceride synthesis, lipolysis, or β-oxidation 
+of fatty acids. Other proteins control the gene expres-
+sion of lipid metabolism-related factors, like SREBP1. 
+Many fat-metabolizing hormones and factors exist that 
+function as adipocyte-stimulating factors, such as GH. 
+It is important to consider the effect of these factors 
+and their interactions when planning the improvement 
+of fatty acid composition in livestock.
+In this study, we analyzed 5 gene polymorphisms in 
+lipid metabolism-related genes (FASN, SCD, SREBP1, 
+and GH) for their effects on fatty acid composition and 
+carcass traits in the commercial Wagyu beef cattle pop-
+ulation. The present study is the first report to assess 
+the epistatic effects among pairs of lipid metabolism-re-
+lated genes. The results revealed that polymorphisms in 
+2 fatty acid synthesis genes (FASN and SCD) separately 
+influence fatty acid composition in the longissimus tho-
+racis muscle. This suggests that the analyzed SNP in 
+the FASN and SCD genes are appropriate markers for 
+the improvement of fatty acid composition. If particu-
+lar genotypes of these genes were selected to increase 
+the C18:1 content, there would be no adverse effects 
+on the carcass traits. To use these gene polymorphisms 
+directly for marker-assisted selection, the additive and 
+dominance effect values should be estimated more ex-
+actly in a larger number of animals. We are currently 
+performing candidate gene analysis of these genes in a 
+large number of animals to confirm the effects of these 
+polymorphisms.
+LITERATURE CITED
+Abe, T., J. Saburi, H. Hasebe, T. Nakagawa, T. Kawamura, K. 
+Saito, T. Nade, S. Misumi, T. Okumura, K. Kuchida, T. 
+Hayashi, S. Nakane, T. Mitsuhasi, K. Nirasawa, Y. Sugimoto, 
+and E. Kobayashi. 2008. Bovine quantitative trait loci analysis 
+for growth, carcass, and meat quality traits in an F2 population 
+from a cross between Japanese Black and Limousin.  J. Anim. 
+Sci.  86:2821–2832.
+Abe, T., J. Saburi, H. Hasebe, T. Nakagawa, S. Misumi, T. Nade, 
+H. Nakajima, N. Shoji, M. Kobayashi, and E. Kobayashi. 2009. 
+Novel mutations of the FASN gene and their effect on fatty 
+acid composition in Japanese Black beef.  Biochem. Genet.  
+47:397–411.
+Ardiyanti, A., Y. Oki, Y. Suda, K. Suzuki, K. Chikuni, Y. Obata, 
+and K. Kato. 2009. Effects of GH gene polymorphism and sex 
+on carcass traits and fatty acid compositions in Japanese Black 
+cattle.  Anim. Sci. J.  80:62–69.
+Asada, N., Y. Takahashi, and M. Honjo. 2000a. Effects of 22K or 
+20K human growth hormone on lipolysis, leptin production in 
+adipocytes in the presence and absence of human growth hor-
+mone binding protein.  Horm. Res.  54:203–207.
+Asada, N., Y. Takahashi, M. Wada, N. Naito, H. Uchida, M. Ikeda, 
+and M. Honjo. 2000b. GH induced lipolysis stimulation in 3T3–
+L1 adipocytes stably expressing hGHR: Analysis on signaling 
+pathway and activity of 20K hGH.  Mol. Cell. Endocrinol.  
+162:121–129.
+Barendse, W., R. J. Bunch, B. E. Harrison, and M. B. Thomas. 2006. 
+The growth hormone 1 GH1:c.457C>G mutation is associated 
+with intramuscular and rump fat distribution in a large sample 
+of Australian feedlot cattle.  Anim. Genet.  37:211–214.
+Benjamini, Y., and Y. Hochberg. 1995. Controlling the false discov-
+ery rate: A practical and powerful approach to multiple testing.  
+J. R. Stat. Soc., B  57:289–300.
+Matsuhashi et al.20
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+Beswick, N. S., and J. J. Kennelly. 2000. Influence of bovine growth 
+hormone and growth hormone-releasing factor on messenger 
+RNA abundance of lipoprotein lipase and stearoyl-CoA de-
+saturase in the bovine mammary gland and adipose tissue.  J. 
+Anim. Sci.  78:412–419.
+Borch, R. F. 1975. Separation of long chain fatty acids as phenacyl 
+esters by high pressure liquid chromatography.  Anal. Chem.  
+47:2437–2439.
+Chakravarty, B., Z. Gu, S. S. Chirala, S. J. Wakil, and F. A. Quio-
+cho. 2004. Human fatty acid synthase: Structure and substrate 
+selectivity of the thioesterase domain.  Proc. Natl. Acad. Sci. 
+USA  101:15567–15572.
+Chikuni, K., Y. Fukumoto, R. Tanabe, S. Muroya, and S. Ozawa. 
+1997. A simple method for genotyping the bovine growth hor-
+mone gene.  Anim. Genet.  28:230–232.
+Chikuni, K., T. Nagatsuma, T. Tabata, M. Monma, M. Saito, S. 
+Ozawa, and K. Ozutsumi. 1994. Genetic variants of the growth 
+hormone gene in Japanese cattle.  Anim. Sci. Technol.  65:340–
+346.
+Cockerham, C. C. 1954. An extension of the concept of partitioning 
+hereditary variance for analysis of covariances among relatives 
+when epistasis is present.  Genetics  39:859–882.
+Di Stasio, L., S. Sartore, and A. Albera. 2002. Lack of association of 
+GH1 and POU1F1 gene variants with meat production traits in 
+Piemontese cattle.  Anim. Genet.  33:61–64.
+Falconer, D. S. 1989. Introduction to Quantitative Genetics, 3rd ed. 
+Longman Scientific & Technical, Harlow, UK.
+Frick, F., D. Linden, C. Ameen, S. Eden, A. Mode, and J. Oscarsson. 
+2002. Interaction between growth hormone and insulin in the 
+regulation of lipoprotein metabolism in the rat.  Am. J. Physiol. 
+Endocrinol. Metab.  283:E1023–E1031.
+Ge, W., M. E. Davis, H. C. Hines, K. M. Irvin, and R. C. Sim-
+men. 2003. Association of single nucleotide polymorphisms in 
+the growth hormone and growth hormone receptor genes with 
+blood serum insulin-like growth factor I concentration and 
+growth traits in Angus cattle.  J. Anim. Sci.  81:641–648.
+Han, S. H., I. C. Cho, M. S. Ko, H. Y. Jeong, H. S. Oh, and S. S. 
+Lee. 2010. Effects of POU1F1 and GH1 genotypes on carcass 
+traits in Hanwoo cattle.  Genes & Genomics  32:105–109.
+Hoashi, S., N. Ashida, H. Ohsaki, T. Utsugi, S. Sasazaki, M. Tani-
+guchi, K. Oyama, F. Mukai, and H. Mannen. 2007. Genotype of 
+bovine sterol regulatory element binding protein-1 (SREBP-1) 
+is associated with fatty acid composition in Japanese Black 
+cattle.  Mamm. Genome  18:880–886.
+Hoashi, S., T. Hinenoya, A. Tanaka, H. Ohsaki, S. Sasazaki, M. Tan-
+iguchi, K. Oyama, F. Mukai, and H. Mannen. 2008. Association 
+between fatty acid compositions and genotypes of FABP4 and 
+LXR-alpha in Japanese black cattle.  BMC Genet.  9:84.
+Honda, T., T. Nomura, and F. Mukai. 2005. Conservation of ge-
+netic diversity in the Japanese Black cattle population by the 
+construction of partially isolated lines.  J. Anim. Breed. Genet.  
+122:188–194.
+Horton, J. D., N. A. Shah, J. A. Warrington, N. N. Anderson, S. 
+W. Park, M. S. Brown, and J. L. Goldstein. 2003. Combined 
+analysis of oligonucleotide microarray data from transgenic and 
+knockout mice identifies direct SREBP target genes.  Proc. 
+Natl. Acad. Sci. USA  100:12027–12032.
+Inoue, K., N. Shoji, and M. Kobayashi. 2008. Genetic relations 
+among fat melting point, fatty acid composition and carcass 
+traits in Japanese Black cattle.  Nihon Chikusan Gakkaiho  
+79:1–8. (in Japanese).
+JMGA. 1989. New Beef Carcass Grading Standards. Japan Meat 
+Grading Assoc., Tokyo.
+Komisarek, J., and Z. Dorynek. 2009. Effect of ABCG2, PPARG-
+C1A, OLR1 and SCD1 gene polymorphism on estimated breed-
+ing values for functional and production traits in Polish Hol-
+stein-Friesian bulls.  J. Appl. Genet.  50:125–132.
+Kurata, S., T. Kanagawa, K. Yamada, M. Torimura, T. Yokomaku, 
+Y. Kamagata, and R. Kurane. 2001. Fluorescent quenching-
+based quantitative detection of specific DNA/RNA using a 
+BODIPY((R)) FL-labeled probe or primer. Nucleic Acids Res. 
+29:E34. 
+Louveau, I., and F. Gondret. 2004. GH and insulin affect fatty acid 
+synthase activity in isolated porcine adipocytes in culture with-
+out any modifications of sterol regulatory element binding pro-
+tein-1 expression.  J. Endocrinol.  181:271–280.
+Magaña, M. M., S. S. Lin, K. A. Dooley, and T. F. Osborne. 1997. 
+Sterol regulation of acetyl coenzyme A carboxylase promoter 
+requires two interdependent binding sites for sterol regulatory 
+element binding proteins.  J. Lipid Res.  38:1630–1638.
+Magaña, M. M., and T. F. Osborne. 1996. Two tandem binding 
+sites for sterol regulatory element binding proteins are required 
+for sterol regulation of fatty-acid synthase promoter.  J. Biol. 
+Chem.  271:32689–32694.
+Mandell, I. B., J. G. Buchanan-Smith, and C. P. Campbell. 1998. 
+Effects of forage vs grain feeding on carcass characteristics, 
+fatty acid composition, and beef quality in Limousin-cross 
+steers when time on feed is controlled.  J. Anim. Sci.  76:2619–
+2630.
+Matsumoto, N., F. Kakihara, S. Kimura, Y. Kurebayashi, M. Hirai, 
+M. Yohda, and S. Hasegawa. 2007. Single nucleotide polymor-
+phism genotyping of CYP2C19 using a new automated system.  
+Anal. Biochem.  370:121–123.
+Matsuzaka, T., H. Shimano, N. Yahagi, T. Kato, A. Atsumi, T. 
+Yamamoto, N. Inoue, M. Ishikawa, S. Okada, N. Ishigaki, H. 
+Iwasaki, Y. Iwasaki, T. Karasawa, S. Kumadaki, T. Matsui, M. 
+Sekiya, K. Ohashi, A. H. Hasty, Y. Nakagawa, A. Takahashi, 
+H. Suzuki, S. Yatoh, H. Sone, H. Toyoshima, J. Osuga, and 
+N. Yamada. 2007. Crucial role of a long-chain fatty acid elon-
+gase, Elovl6, in obesity-induced insulin resistance.  Nat. Med.  
+13:1193–1202.
+Mele, M., G. Conte, B. Castiglioni, S. Chessa, N. P. Macciotta, 
+A. Serra, A. Buccioni, G. Pagnacco, and P. Secchiari. 2007. 
+Stearoyl-coenzyme A desaturase gene polymorphism and milk 
+fatty acid composition in Italian Holsteins.  J. Dairy Sci.  
+90:4458–4465.
+Melton, S. L., M. Amiri, G. W. Davis, and W. R. Backus. 1982. Fla-
+vor and chemical characteristics of ground beef from grass-, for-
+age-grain- and grain-finished steers.  J. Anim. Sci.  55:77–87.
+Miyazaki, M., A. Dobrzyn, W. C. Man, K. Chu, H. Sampath, H. 
+J. Kim, and J. M. Ntambi. 2004. Stearoyl-CoA desaturase 1 
+gene expression is necessary for fructose-mediated induction of 
+lipogenic gene expression by sterol regulatory element-binding 
+protein-1c-dependent and -independent mechanisms.  J. Biol. 
+Chem.  279:25164–25171.
+Moioli, B., G. Contarini, A. Avalli, G. Catillo, L. Orru, G. De Mat-
+teis, G. Masoero, and F. Napolitano. 2007. Short communica-
+tion: Effect of stearoyl-coenzyme A desaturase polymorphism on 
+fatty acid composition of milk.  J. Dairy Sci.  90:3553–3558.
+Morris, C. A., N. G. Cullen, B. C. Glass, D. L. Hyndman, T. R. 
+Manley, S. M. Hickey, J. C. McEwan, W. S. Pitchford, C. D. 
+Bottema, and M. A. Lee. 2007. Fatty acid synthase effects on 
+bovine adipose fat and milk fat.  Mamm. Genome  18:64–74.
+Nomura, T., T. Honda, and F. Mukai. 2001. Inbreeding and effec-
+tive population size of Japanese Black cattle.  J. Anim. Sci.  
+79:366–370.
+Ohsaki, H., A. Tanaka, S. Hoashi, S. Sasazaki, K. Oyama, M. Tani-
+guchi, F. Mukai, and H. Mannen. 2009. Effect of SCD and 
+SREBP genotypes on fatty acid composition in adipose tissue 
+of Japanese Black cattle herds.  Anim. Sci. J.  80:225–232.
+Oka, A., F. Iwaki, E. Iwamoto, and K. Tatsuda. 2007. Effects of 
+growth rate during the early fattening period on growth, car-
+cass characteristics and circulating hormones in the different 
+growth hormone genotypes of Japanese Black steers.  Anim. 
+Sci. J.  78:142–150.
+Oprządek, J., K. Fliskowski, L. Zwierzchowski, E. Juszczuk-Kubiak, 
+S. Rosochacki, and E. Dymnicki. 2005. Associations between 
+polymorphism of some candidate genes and growth rates, feed 
+intake and utilisation, slaughter indicators and meet quality in 
+cattle.  Arch. Tierz.  48:81–87.
+Effects of 5 polymorphisms on fatty acids 21
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+Pérez-Enciso, M., and I. Misztal. 2004. Qxpak: A versatile mixed 
+model application for genetical genomics and QTL analyses.  
+Bioinformatics  20:2792–2798.
+Roy, R., L. Ordovas, P. Zaragoza, A. Romero, C. Moreno, J. Altar-
+riba, and C. Rodellar. 2006. Association of polymorphisms in 
+the bovine FASN gene with milk-fat content.  Anim. Genet.  
+37:215–218.
+Shimano, H., N. Yahagi, M. Amemiya-Kudo, A. H. Hasty, J. Osuga, 
+Y. Tamura, F. Shionoiri, Y. Iizuka, K. Ohashi, K. Harada, T. 
+Gotoda, S. Ishibashi, and N. Yamada. 1999. Sterol regulatory 
+element-binding protein-1 as a key transcription factor for nu-
+tritional induction of lipogenic enzyme genes.  J. Biol. Chem.  
+274:35832–35839.
+Tabor, D. E., J. B. Kim, B. M. Spiegelman, and P. A. Edwards. 
+1999. Identification of conserved cis-elements and transcription 
+factors required for sterol-regulated transcription of stearoyl-
+CoA desaturase 1 and 2.  J. Biol. Chem.  274:20603–20610.
+Taniguchi, M., T. Utsugi, K. Oyama, H. Mannen, M. Kobayashi, Y. 
+Tanabe, A. Ogino, and S. Tsuji. 2004. Genotype of stearoyl-
+CoA desaturase is associated with fatty acid composition in 
+Japanese Black cattle.  Mamm. Genome  15:142–148.
+Tatsuda, K., A. Oka, E. Iwamoto, Y. Kuroda, H. Takeshita, H. 
+Kataoka, and S. Kouno. 2008. Relationship of the bovine 
+growth hormone gene to carcass traits in Japanese black cattle.  
+J. Anim. Breed. Genet.  125:45–49.
+Westerling, D. B., and H. B. Hedrick. 1979. Fatty acid composition 
+of bovine lipids as influenced by diet, sex and anatomical loca-
+tion and relationship to sensory characteristics.  J. Anim. Sci.  
+48:1343–1348.
+Yao, J., S. E. Aggrey, D. Zadworny, J. F. Hayes, and U. Kuhnlein. 
+1996. Sequence variations in the bovine growth hormone gene 
+characterized by single-strand conformation polymorphism 
+(SSCP) analysis and their association with milk production 
+traits in Holsteins.  Genetics  144:1809–1816.
+Zhang, S., T. J. Knight, J. M. Reecy, and D. C. Beitz. 2008. DNA 
+polymorphisms in bovine fatty acid synthase are associated 
+with beef fatty acid composition.  Anim. Genet.  39:62–70.
+Zhang, Y., L. Yin, and F. B. Hillgartner. 2003. SREBP-1 integrates 
+the actions of thyroid hormone, insulin, cAMP, and medium-
+chain fatty acids on ACCalpha transcription in hepatocytes.  J. 
+Lipid Res.  44:356–368.
+Matsuhashi et al.22
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 
+Supplementary Material
+-3121.DC1.html
+http://www.journalofanimalscience.org/content/suppl/2010/12/23/jas.2010
+Supplementary material can be found at: 
+References
+http://www.journalofanimalscience.org/content/89/1/12#BIBL
+This article cites 49 articles, 20 of which you can access for free at: 
+Citations
+http://www.journalofanimalscience.org/content/89/1/12#otherarticles
+This article has been cited by 3 HighWire-hosted articles: 
+ by guest on October 28, 2014www.journalofanimalscience.orgDownloaded from 

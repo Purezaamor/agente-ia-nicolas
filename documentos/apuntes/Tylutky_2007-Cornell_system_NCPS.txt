@@ -1,0 +1,1259 @@
+=== Fuente: Tylutky_2007-Cornell_system_NCPS.pdf ===
+
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+Animal Feed Science and Technology
+xxx (2007) xxx–xxx
+Cornell Net Carbohydrate and Protein System:
+A model for precision feeding of dairy cattle
+T.P. Tylutki a,∗, D.G. Fox a, V.M. Durbal a,1, L.O. Tedeschi b,
+J.B. Russell c, M.E. Van Amburgh a, T.R. Overton a,
+L.E. Chase a, A.N. Pell a
+a Cornell University, Department of Animal Science, 132 Morrison Hall, Ithaca, NY 14853, USA
+b Texas A&M University, 230 Kleberg Center, 2471 TAMU, College Station, TX 77843, USA
+c U.S. Plant, Soil and Nutrition Laboratory, ARS/USDA, Ithaca, NY 14853, USA
+Abstract
+The Cornell Net Carbohydrate and Protein System (CNCPS) predicts cattle requirements and
+nutrient supply for site-speciﬁc situations. This paper describes the CNCPS version 6 (CNCPSv6),
+which represents a re-engineering and updating of CNCPS version 5 with the following objectives:
+(1) improve the organization of the model and user interface to improve speed and accuracy in
+formulating diets for a herd of dairy cattle, (2) expand the carbohydrate pools to include sugars,
+soluble ﬁbers, and organic and volatile fatty acids, (3) integrate a fat model to account for ruminal
+lypolization and biohydrogenation, and absorption of fatty acids in the small intestine, and (4) update
+the computational sub-models with new information. The CNCPSv6 model was re-designed using
+object-oriented programming in which physiological functions (e.g. growth, lactation, pregnancy) and
+anatomical compartments (e.g. rumen, intestines) were programmed as objects. The interface uses
+farm, location, and group ﬂow, which decreases the number of inputs required per cattle group and
+allows for more rapid evaluation of diets, feed requirements, and nutrient excretion by location, group,
+and herd. The revised implementation of the body reserves sub-model allows accounting for ﬂuxes
+in energy reserves when formulating diets. Updated equations and coefﬁcients include the prediction
+of rumen ammonia balance and feed passage rates, indigestible DM, MP lactation efﬁciency, and
+DMI. The CNCPSv6 was evaluated with data from individually fed lactating dairy cows from three
+independent studies. As implemented, CNCPSv6 accounted for a similar proportion of the variation
+∗ Corresponding author at: AMTS LLC, 418 Davis Rd, Cortland, NY 13045, USA. Tel.: +1 607 838 3322;
+fax: +1 607 838 3523.
+E-mail address: tom@agmodelsystems.com (T.P. Tylutki).
+1 Present address: AMTS LLC, 1302 Cashel Drive, Bloomington, IL 61704, USA.
+0377-8401/$ – see front matter © 2007 Elsevier B.V. All rights reserved.
+doi:10.1016/j.anifeedsci.2007.05.010
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+2 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+(86%) in ﬁrst limiting (ME or MP) milk production as CNCPSv5 but with a lower bias (1% versus
+4%, respectively). We concluded the re-designing and updating of the CNCPS improved its ability to
+formulate and evaluate a feeding program for a herd of dairy cattle with greater accuracy and efﬁciency.
+© 2007 Elsevier B.V. All rights reserved.
+Keywords: Modeling; Simulation; Cattle; Nutrient; Requirement; Supply; Rumen
+1. Introduction
+The Cornell Net Carbohydrate and Protein System version 5 (CNCPSv5) is a model
+designed to evaluate diets and animal performance for all classes of cattle in unique pro-
+duction situations, using science-based principles of rumen function, microbial growth,
+feed digestion and passage, and physiological state (Fox et al., 2004). By accounting for
+farm-speciﬁc animal, feed, and environmental characteristics, more accurate prediction of
+dietary nutrient requirements for maintenance, growth and milk production of cattle and
+nutrient excretion in diverse production situations is possible. The CNCPSv5 model was
+used as the biological structure for developing a computer program for consulting dairy
+nutritionists to use in formulating rations for individual groups in a herd through a col-
+laborative effort by scientists at Cornell University, University of Pennsylvania, and Miner
+Institute. The result of this collaboration was the development of the CPM Dairy model
+(Boston et al., 2000). The CNCPS version 5 and CPM Dairy version 3 software are being
+routinely used by both nutritional consultants and feed companies. The CNCPS has been
+used as a farm management tool to optimize use of farm-speciﬁc feeds, decrease the need
+for purchased supplements, optimize herd size, predict the manure nutrients that will have
+to be managed, and improve the annual return over feed cost (Tylutki et al., 2004; Fox et al.,
+2004). However, the software interface was not designed for efﬁcient routine use in devel-
+oping whole herd feeding plans. The United States Department of Agriculture National
+Resource Conservation Service (USDA-NRCS) identiﬁed the need to improve herd feed
+management to reduce manure nutrients, and to address this issue has developed a Feed
+Management Standard for use in nutrient management planning on farms. The purposes
+of the USDA-NRCS 592 standard are (1) to supply the quantity of nutrients required by
+livestock in the diet while reducing the quantity of nutrients excreted, and (2) to improve
+net farm income by feeding nutrients more efﬁciently (USDA-NRCS, 2003).
+The objective of this paper is to describe the re-designed CNCPSv5 and to evaluate
+its prediction in meeting the USA NRCS Feed Management Standard objective of more
+accurately supplying the quantity of energy and protein required in the diets of dairy cattle
+on USA dairy farms for milk production.
+2. Model development
+This model must predict the following for each animal group (and the whole herd) when
+accounting for nutrient management: (1) accurately predict the nutrient requirements and
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 3
+supply for each group in each production unit (e.g. barn, pen, paddock) from inputs currently
+available on the farm, (2) evaluate the adequacy of each diet accurately and quickly, (3)
+predict nutrient excretion for the herd for a designated period of time, (4) predict feed
+requirements for the same period of time, and (5) have an efﬁcient interface that minimizes
+inputs that must be made manually for each group of animals.
+The CNCPS version 6 (CNCPSv6) represents an evolution of the model that was ﬁrst
+published by Russell et al. (1992), Sniffen et al. (1992), and Fox et al. (1992). The object-
+oriented programming structure was used in the development of CNCPSv6 in which each
+object was designed to represent speciﬁc physiological or structural functions as shown in
+Fig. 1.
+Each of the following sections describes changes made to CNCPSv5 resulting in
+CNCPSv6. Deﬁnitions for variable names used in the equations are provided in Table 1
+for acronyms used in equations presented in the text and tables.
+2.1. Growth requirements
+Energy and protein requirements for growth are predicted in the CNCPS from body
+weight, rate of body weight gain, chemical composition of gain, and mature weight. The
+basic equations for the growth model were provided in Table 4 of Fox et al. (2004).A
+size scaling system based on the ratio of current to mature weight is used to predict the
+composition of gain. Shrunk body weight (SBW) is adjusted to a weight equivalent to
+that of a standard reference animal at the same stage of growth. This equivalent SBW
+(EqSBW) is calculated as SBW × (SRW/AFBW), in which SRW is the mature SBW of
+the standard reference animal and AFBW is the expected mature SBW. In beef or dairy
+cows, mature SBW is deﬁned as the weight at which additional added body mass does not
+contain additional net protein gain, a condition assumed to occur by 4 years of age and at
+Fig. 1. Diagram of the object-oriented programming structure of the Cornell Net Carbohydrate and Protein System,
+version 6.0. GIT is gastrointestinal tract.
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+4 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+Table 1
+Description and units of the abbreviations used in this paper
+Abbreviations Units Description
+AA None Amino acids
+AATISSi g/g Content of ith AA of tissue protein
+ADGPreg kg/day Average daily gain during pregnancy
+ADICP %DM ADF indigestible CP
+ADFIP % DM ADF insoluble protein
+Af None Adjustment factor of passage rates for peNDF
+Afbiohyd None Adjustment factor for biohydrogenation of FFA
+AfLip None Adjustment factor for lipolysis rate
+Adj None Adjustment
+AGE Days Age of animal
+BCS None Body condition score
+BCS1–5 None Body condition score, 1–5 scale
+BCS1–9 None Body condition score, 1–9 scale
+BioHydKb %/h Adjusted rate of biohydrogenation
+CA1 % DM CHO A1 fraction (acetate + propionate + butyrate)
+CA2 % DM CHO A2 fraction (lactate)
+CA3 % DM CHO A3 fraction (other organics)
+CA4 % DM CHO A4 fraction (sugars)
+CB1 % DM CHO B1 fraction (starch)
+CB2 % DM CHO B2 fraction (soluble ﬁber)
+CB3 % DM CHO B3 fraction (available NDF)
+CBW kg Calf birth weight
+CC % DM CHO C fraction (lignin × 2.4)
+CHO % DM Carbohydrate
+CpW kg Conceptus weight
+DE Mcal/kg Digestible energy
+Denovo None Fatty acid synthesis in the rumen
+DMI kg/d Dry matter intake
+EBEnergy Mcal Empty body energy
+EBFat kg Empty body fat
+EBProtein kg Empty body protein
+EBG kg/d Empty body gain
+EBW kg Empty body weight
+EBWBCS5 kg Empty body weight at BCS 5
+EBWr kg Empty body weight for computing energy reserves
+EE % DM Ether extract
+EqEBW kg Equivalent empty body weight
+EqSBW kg Equivalent shrunk body weight
+FBF kg Final body fat
+FC % DM Fiber carbohydrates
+FA g/d Fatty acids
+FAID Fatty acids intestinal digestibility
+FEFA g/d Amount of undigested feed ash in feces
+FFA % DM Free fatty acids
+FFADig Free fatty acids intestinal digestibility
+Ft None Fermentable
+HP Mcal/d Heat production
+IntDigAsh g/g Ash intestinal digestibility (default = 0.5)
+KbA %/h Rate of biohydrogenation
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 5
+Table 1 (Continued )
+Abbreviations Units Description
+Kd %/h Degradation rate for each fraction
+Kp h−1 Passage rate from the rumen
+Kpc h−1 Passage rate of concentrates
+Kpf h−1 Passage rate of forages
+Kpl h−1 Passage rate of liquids
+LE Mcal/d Metabolizable energy required for lactation
+LP g/d Requirement of metabolizable protein for lactation
+ME Mcal ME required
+ME Mcal/d Metabolizable energy intake
+MEmm Mcal/d Requirement of metabolizable energy for MAMMOGENESIS
+MEPreg Mcal/d Metabolizable energy requirement for pregnancy
+MF % Milk fat
+Milk kg/d Milk production
+ML % of milk Milk lactose
+MP g/d Metabolizable protein
+MPmm g/d Requirement of metabolizable protein for mammogenesis
+MPPreg g/d Metabolizable protein requirement for pregnancy
+MTP % of milk Milk true protein
+NDF % DM Neutral detergent ﬁber
+NDFIP or NDIN % CP Insoluble protein in the NDF
+NDICP % DM NDF indigestible CP
+NEL Mcal Net energy lactation
+NFC % DM Non-ﬁber carbohydrate
+NPl g/d Requirement of net protein for lactation
+NPmm g/d Requirement of net protein for mammogenesis
+NPN % Soluble CP Non-protein nitrogen for each feed
+PA % DM Protein A fraction for each feed
+PB1 % DM Protein B1 fraction for each feed
+PB2 % DM Protein B2 fraction for each feed
+PB3 % DM Protein B3 fraction for each feed
+PC % DM Protein C fraction for each feed
+pEBF dmls Proportion of empty body fat
+pEBP dmls Proportion of empty body protein
+peNDF % NDF Physical effective neutral detergent ﬁber
+peNDFr kg/d peNDF required
+PepBal g/d Balance of peptide nitrogen in the rumen
+RDCA1 g/d Ruminally degraded CA1
+RDCA2 g/d Ruminally degraded CA2
+RDCA3 g/d Ruminally degraded CA3
+RDCA4 g/d Ruminally degraded CA4
+RDCB1 g/d Ruminally degraded CB1
+RDCB2 g/d Ruminally degraded CB2
+RDCB3 g/d Ruminally degraded CB3
+RDGlycerol g/d Rumen degraded glycerol
+RDP % DM Ruminally degraded protein
+RDPA g/d Ruminally degraded PA
+RDPB1 g/d Ruminally degraded PB1
+RDPB2 g/d Ruminally degraded PB2
+RDPB3 g/d Ruminally degraded PB3
+RDPEP g/d Ruminally degraded peptides
+RE Mcal/d Retained energy
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+6 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+Table 1 (Continued )
+Abbreviations Units Description
+REAA g/d Total amount of the ith AA at the duodenum
+RECA1 g/d Ruminally escaped carbohydrate A1
+RECA2 g/d Ruminally escaped carbohydrate A2
+RECA3 g/d Ruminally escaped carbohydrate A3
+RECA4 g/d Ruminally escaped carbohydrate A4
+RECB1 g/d Ruminally escaped carbohydrate B1
+RECB2 g/d Ruminally escaped carbohydrate B2
+RECB3 g/d Ruminally escaped carbohydrate B3
+RECC g/d Ruminally escaped carbohydrate C
+Recycled N g/d Amount of NH3 recycled in the rumen
+REFAA g/d Amount of ith dietary AA at the duodenum
+REFAT g/d Amount of ruminally escaped fat (ether extract)
+REPB1 g/d Ruminally escaped protein B1
+REPB2 g/d Ruminally escaped protein B2
+REPB3 g/d Ruminally escaped protein B3
+REPC g/d Ruminally escaped protein C
+RFC18:0 g/d Rumen free C18:0 fatty acids
+RNB g/d Rumen N balance
+RTFC18 g/d Free C18 produced in the rumen by lipolysis
+SBW kg Shrunk body weight
+SolCP % CP Soluble CP for each feed
+SRW kg Standard reference weight (default is 478 kg)
+t d Days pregnant
+TDN % DM Total digestible nutrients
+TFA g/d Total long chain fatty acids
+TI ◦C Mcal/m2/d Tissue (internal) insulation
+a BCS of 5 on a 1–9 scale for beef cows, or at BCS 3 on a 1–5 scale for dairy cows. For
+growing cattle to be harvested for beef, mature SBW is the expected SBW at the target
+body composition. For beef and dairy herd replacement heifers, SRW is always 478 kg, but
+the SRW of growing and ﬁnishing steers, heifers, or bulls is 400, 435, 462, or 478 kg when
+the harvest target is 22, 25, 27, or 28 kg body fat/100 kg SBW, respectively, as described
+by NRC (2000, 2001). These body fat contents are equivalent to devoid, trace, slight, and
+small degrees of marbling, respectively.
+A continuous equation (Eq. (1)) was developed to compute standard reference weight
+(SRW) for growing and ﬁnishing cattle based on ﬁnal body fat (FBF) as recommend by
+NRC (2000).
+SRW = 399.9 − (1019.5 × FBF) + (4621.1 × FBF2) (1)
+where SRW is standard reference weight (kg) and FBF is ﬁnal body fat (kg/100 kg FBW).
+The requirement for metabolizable protein (MP) for mammary growth is based on the
+values reported by VandeHaar and Donkin (1999). This new version computes MP for
+mammary growth using Eq. (2) instead of using a ﬁxed value of 276.7 g/d as proposed by
+Fox et al. (2004). This allows a continuous calculation of MP required for mammary growth
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 7
+as EqSBW changes.
+MPmm = 80 0.834 − 0.00114 × EqSBW (2)
+where MPmm is metabolizable protein for mammary growth (g/d) and EqSBW is equivalent
+shrunk body weight (kg).
+Thus, a heifer with an EqSBW of 380 kg will have a mammary growth requirement of
+200 g (80/0.40) versus 276 g for a heifer with an EqSBW of 478 kg (80/0.29).
+2.2. Pregnancy requirements
+The CNCPS computes pregnancy requirements and SBW gain from growth of the gravid
+uterus based on expected calf birth weight and day of gestation. Requirements for pregnancy
+were summarized in Table 5 of Fox et al. (2004). For dairy cattle, we decided to modify
+Eqs. (1), (3), (5) and (7) in Fox et al. (2004) to be consistent with NRC (2001), which begins
+accounting for pregnancy starting at 190 d pregnant. Eqs. (3)–(6) show those modiﬁcations.
+ADGpreg =
+( CBW
+45
+)
+665 (3)
+CpW =
+( CBW
+45
+)
+(18 + (t − 190)0.665) (4)
+MEpreg =
+( CBW
+45
+) (2 × 0.00159 × t − 0.0352)
+0.14 (5)
+MPpreg =
+( CBW
+45
+) (0.69 × t − 69.2)
+0.33 (6)
+where ADGpreg is average daily gain during pregnancy (kg/d); CBW the calf birth weight
+(kg); CpW the conceptus weight (kg); t the days pregnant; ME the metabolizable energy
+(Mcal/d); and MP is metabolizable protein (g/d).
+Since most requirement predictions (e.g. maintenance energy) were originally deter-
+mined with non-pregnant animals, CNCPSv6 subtracts the predicted conceptus weight
+from inputted body weight to determine SBW for pregnant cattle.
+2.3. Lactation requirements
+Energy and protein required for lactation are calculated from actual milk production and
+components. Requirements for lactation were summarized in Table 7 in Fox et al. (2004).
+NRC (2001) developed new coefﬁcients and equations to compute lactation requirements,
+based on an extensive review of the literature. We decided to update the CNCPS with these
+equations. The following Eqs. (7) and (8) were added to compute lactation requirements
+for dairy cows as suggested by NRC (2001). Eq. (7) uses a default of 4.85 g lactose/100 g
+milk when this value is not available. Eq. (8) was updated from CNCPSv5 to use efﬁciency
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+8 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+of MP to net protein for lactation (NPl) of 0.67 as suggested by NRC (2001).
+LE = Milk(0.0929 × MF) +
+( 0.0547 × MTP
+0.93
+)
++ (0.0395 × ML) (7)
+LP = Milk
+( (MTP/100)
+0.67
+)
+× 1000 (8)
+where LE is net energy for lactation (Mcal/d); Milk the milk production (kg/d); MF the milk
+fat (g/100 g milk); MTP the milk true protein (g/100 g milk); ML the milk lactose (g/100 g
+milk); and LP is metabolizable protein for lactation (g/d).
+2.4. Maintenance requirements
+Maintenance requirements in the CNCPS are determined by accounting for breed, physi-
+ological state, activity, urea excretion, heat or cold stress and environmental acclimatization
+effects. The equations used to compute maintenance requirements were summarized in Table
+2inFox et al. (2004), and Table 3 in that publication provided default values for use in
+computing maintenance requirements. In CNCPSv6, conceptus weight is subtracted from
+SBW to compute maintenance requirements. An additional change was made to use the
+previous effective temperature index when the previous temperature is greater than 20 ◦C;
+otherwise the previous temperature is utilized.
+Heat production calculations were modiﬁed to be a function of energy utilization versus
+dietary energy values as follows.
+HP = MEI − (RE + LE + PE)
+where HP = heat production (Mcal/d), MEI = metabolizable energy intake (Mcal/d),
+RE = retained energy (Mcal/d), LE = lactation energy (Mcal/d) and PE = pregnancy (con-
+ceptus) energy (Mcal/d).
+The age adjustment for TI (tissue insulation, Eq. (16) in Table 2 of Fox et al., 2004)was
+differentiated for different age groups as recommended by NRC (2000).
+TI = 5.25 + 0.75 × BCS for AGE > 364 d (9)
+TI = 2.5 for AGE < 31 d (10)
+TI = 6.5 for AGE > 31 < 184 d, (11)
+and
+TI = 5.1875 + (BCS × 0.03125) for AGE > 184 < 364 d (12)
+where TI is tissue insulation (◦C/Mcal/m2/d) and BCS is body condition score (scale 1–9).
+In Table 3 in Fox et al. (2004), hide thickness codes were added for each breed for use
+as defaults; hide code is 1 for dairy and Bos indicus breeds, 3 for Hereford, and 2 for all
+other breeds.
+In Eq. (29) in Table 2 in Fox et al. (2004), a conditional statement was added that only
+includes recycled nitrogen in computing urea cost when rumen N balance is greater than
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 9
+recycled N calculation as shown in Eqs. (13) and (14).
+Urea cost = (RNB − recycled N + excess N from MP) × 0.0073
+if RNB > recycled N (13)
+Urea cost = excess N from MP × 0.0073 if RNB < recycled N (14)
+where RNB is rumen nitrogen balance (g/d), and recycled N is nitrogen recycled to the
+rumen (g/d).
+2.5. Body reserves
+After reaching maturity, body weight changes reﬂect use of energy reserves to either sup-
+plement ration deﬁciencies or to store energy consumed above requirements. The CNCPS
+energy reserves model uses BCS at a particular BW to compute energy reserves changes
+with changes in animal dietary energy deﬁciencies or surpluses. Table 6 in Fox et al. (2004)
+summarized the equations used to compute body reserves. The CNCPS uses the reserves
+model developed for NRC (2000) and adapted for dairy cattle (NRC, 2001) as described
+by Fox et al. (1999). In the database used to develop this submodel, mean SBW was
+642 kg (BCS 5 on the 1–9 scale), the average SBW change per BCS change was 44 kg
+(6.85 kg/100 kg mean SBW), and EBW was 85.1 kg/100 kg SBW. NRC (2000) computes
+SBW change per condition score as 6.85 kg/100 kg SBW for each BCS on either side of
+the SBW at BCS 5. NRC (2000) model was adapted for dairy cattle (Fox et al., 1999)
+by converting dairy BCS of 1–5 to the 1–9 score ((dairy BCS − 1) × 2 + 1), with one con-
+dition score resulting in a 13.5, 7.54 and 1.33 kg change in SBW, fat and protein/100 kg
+SBW.
+Because of the large number of equations added for this revision, Table 2 provides all
+of the equations for the body reserves model as implemented in CNCPSv6. The following
+changes were made for CNCPSv6, to compute contributions of body reserves to ME supply
+and replenishment of body reserves from the diet, as described by Reynoso-Campos et
+al. (2004), Tedeschi et al. (2006); (1) adjustment factors used to predict SBW at BCS 3
+were converted to an equation, (2) equations were added to compute daily ME and MP
+required from the diet to reach a user entered target BCS gain in a user entered number
+of days, and (3) equations were added to compute daily ME and MP provided by reserves
+for user entered BCS loss in a user entered number of days. This allows the user to deﬁne
+or understand where the additional energy is being partitioned relative to energy allowable
+milk.
+2.6. Amino acid requirements
+Amino acid requirements in the CNCPS are computed from tissue and milk protein
+content of amino acids. Tables 8–10 in Fox et al. (2004) provided the equations used to
+compute amino acid requirements. The values for amino acid composition of tissue (g/100 g
+of CP) were revised, based on recent analyses of dairy heifer soft tissue (M.E. Van Amburgh,
+personal communication): Methionine, 1.79; Lysine, 6.26; Histidine, 2.41; Phenylalanine,
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+10 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+Table 2
+Equations to estimate energy and protein in the body reserves
+Variables Equations
+BCS1–9 (BCS1−5 − 1) × 2 + 1 (20)
+EBWr 0.851 × SBW (21)
+pEBFat 0.037683 × BCS9 (22)
+pEBProtein 0.200886 − (0.0066762 × BCS9) (23)
+EBFat EBW × pEBFat (24)
+EBProtein EBW × pEBProtien (25)
+EBEnergy (9.4 × EBFat) + (5.7 × EBProtein) (26)
+EBWBCS5a EBW 0.657167 + (BCS9 × 0.068567) (27)
+BCS9 Diff Target BCS9 − BCS9 (28)
+Target BCS5 Target BCS9 − 1 2 + 1 (29)
+Target BCS EBW EBWBCS5 × (0.657167 + Target BCS9 × 0.068567) (30)
+Target BCS Fat Prop 0.037683 × Target BCS9 (31)
+Target BCS Protein Prop 0.200886 − (0.0066762 × Target BCS9) (32)
+Target BCS Fat Target BCS EBW × Target BCS Fat Prop (33)
+Target BCS Protein Target BCS EBW × Target BCS Protein Prop (34)
+Target BCS Energy (9.4 × Target BCS Fat) (35)
+Target BCS EBW Diff Target BCS EBW − EBW at BCS5 Days (36)
+Target BCS Fat Prop Diff Target BCS Fat Prop − EB Fat Prop Days (37)
+Target BCS Protein Prop Diff Target BCS Protein Prop − EB Protein Prop Days (38)
+Target BCS Fat Diff Target BCS Fat − EB Fat Days (39)
+Target BCS Protein Diff Target BCS Protein − EB Protein Days (40)
+Target BCS Energy Diff Target BCS Energy − (9.4 × EB Fat) Days (41)
+Target BCS MP Diff Target BCS Protein Diff × 1000 NP to MP (42)
+Target BCS AAj AA Tissuej × Target BCS MP Diff (43)
+a Adjustment factors used to develop equation are 0.726, 0.794, 0.863, 0.931, 1, 1.069, 1.137, 1.206 and 1.274
+for BCS 1–9.
+3.65; Tryptophan, 1.18; Threonine, 3.83; Leucine, 6.96; Isoleucine, 2.94; Valine, 4.28; and
+Arginine, 6.75.
+2.7. Dry matter intake (DMI)
+The CNCPS computes supply of nutrients from actual dry matter (DM) intake (DMI).
+However, empirical equations are provided to predict DMI when intake is not known and
+for comparison with measured intakes. Table 11 in Fox et al. (2004) provides the equations
+used to predict DMI. NRC (2001) developed new equations to predict DMI of all classes
+of dairy cattle, and we decided to update the CNCPS with these equations. The following
+changes were made to make CNCPS equations consistent with NRC (2001): (1) NRC
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 11
+(2001) equations were added for open and pregnant dairy heifers, (2) NRC (2001) equation
+for lactating cows was added, and (3) the dry cow equation was changed to NRC (2001)
+equation.
+2.8. Levels 1 and 2 for predicting supply of energy and protein
+The CNCPS has two levels of solution to predict supply of energy and protein to
+accommodate the needs of different types of users. Level 1 is intended for conditions
+where feeds cannot be well characterized or the user is not knowledgeable enough to
+use the CNCPS rumen model with conﬁdence. Level 1 computes TDN and MP values
+with empirical equations. Level 2 is intended for users who have adequate information
+on feed composition and DMI and an understanding of how to use the level 2 rumen
+model. In level 2 of the CNCPS, rumen outﬂow of TDN and MP are derived mech-
+anistically from digestion (Kd) and passage (Kp) rates, using the simple relationship,
+Kd/(Kd + Kp).
+Table 12 in Fox et al. (2004) provided the equations used to compute level 1 solution
+as published by Tedeschi et al. (2005). The intent of level 1 remains to provide a more
+empirical system that predicts feed energy and the ratio of rumen degradable protein (RDP)
+to rumen undegradable protein (RUP) values from feed carbohydrate and protein fractions
+that are consistent with the CNCPS level 2 when limited information and/or knowledge is
+available to use level 2. The equations to adjust both TDN and RUP for level of intake were
+developed from values obtained with level 2 as described in Tedeschi et al. (2005). The
+resulting level 1 gives feed energy values that are consistent with level 2 and compared very
+favorably with level 2 when evaluated with growing cattle performance data (Tedeschi et
+al., 2005) and lactating dairy cows.
+2.9. Carbohydrate and protein fractionation and feed passage rates
+Feed composition in the CNCPS is described by carbohydrate and protein fractions
+and their digestion rates, which are used to compute the amount of SC and NSC avail-
+able for each of these two microbial pools in the rumen submodel. Digestion and passage
+rates have been developed for common feeds, based on data in the literature. Table 13 in
+Fox et al. (2004) provided the equations used to compute carbohydrate and protein pools.
+Because of the large number of equations added, Table 3 provides all of the equations for
+the prediction of feed carbohydrate and protein pools as implemented in CNCPSv6. The
+complete feed library containing feed carbohydrate and protein fractions and their diges-
+tion rates used by the model to compute these pools is available on the CNCPS website
+(http://www.cncps.cornell.edu).
+The carbohydrate (CHO) pools have been expanded to eight fractions: CA1 (acetic,
+propionic and butyric acids), CA2 (lactic acid), CA3 (organic acids), CA4 (sugars), CB1
+(starch), CB2 (soluble ﬁber), CB3 (available NDF) and CC (unavailable NDF) to calculate
+rumen degradation and escape, as described by Lanzas et al. (2007). In previous versions
+of the CNCPS, carbohydrate fractions were categorized into four fractions: A, B1, B2 and
+C(Fox et al., 2004). The previous CNCPS fractionation system resulted in sugars, organic
+acids, and oligosaccharides in the CHO A, and starch and soluble ﬁber compounds in the
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+12 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+Table 3
+Equations to compute feed carbohydrate and protein fractions available and degraded in the rumen for use in the
+level 2 rumen model
+Variablesa Constraints Equations
+CHOj 100 − CPj − EEj − Ashj (44)
+CCj
+NDFj × Ligninj × 2.4
+100 (45)
+CB3j NDFj − CCj (46)
+NFCj CHOj − NDF (47)
+CB2j NFCj − CA1 − CA2 − CA3 − CA4 − CB1 (48)
+PAj NPNj ×
+( SolCPj
+100
+)
+×
+( CPj
+100
+)
+(49)
+PB1j
+SolCPj × CPj
+100 − PAj
+(50)
+PCj
+ADFIPj × CPj
+100 (51)
+PB3j
+(NDFIPj − ADFIPj ) × CPj
+100 (52)
+PB2j CPj − (PAj − PB1j − PB3j − PCj ) (53)
+Kpf 2.365 + (0.214 × FpBW) + (0.734 × CpBW) + (0.069 × FDMI) (54)
+Kpc 1.169 + (1.375 × FpBW) + (1.721 × CpBW) (55)
+Kpl 4.524 + (0.223 × FpBW) + (2.046 × CpBW) + (0.344 × FDMI) (56)
+peNDFr Growing/ﬁnishing 0.1 × DMI (57)
+peNDFr Otherwise 0.23 × DMI (58)
+RDCA1j DMIj × CA1j ×
+(
+kdCA1j
+(kdCA1j + kpj )
+)
+(59)
+RDCA2j DMIj × CA2j ×
+(
+kdCA2j
+(kdCA2j + kpj )
+)
+(60)
+RDCA3j DMIj × CA3j ×
+(
+kdCA3j
+(kdCA3j + kpj )
+)
+(61)
+RDCA4j DMIj × CA4j ×
+(
+kdCA4j
+(kdCA4j + kpj )
+)
+(62)
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 13
+Table 3 (Continued )
+Variablesa Constraints Equations
+RDCB1j DMIj × CB1j ×
+(
+kdCB1j
+(kdCB1j + kpj )
+)
+(63)
+RDCB2j DMIj × CB2j ×
+(
+kdCB2j
+(kdCB2j + kpj )
+)
+(64)
+RDCB3j DMIj × CB3j ×
+(
+kdCB3j
+(kdCB3j + kpj )
+)
+(65)
+RDPAj DMIj × PAj ×
+(
+kdPAj
+kdPAj + kpj
+)
+(66)
+RDPB1j DMIj × PB1j ×
+(
+kdPB1j
+(kdPB1j + kpj )
+)
+(67)
+RDPB2j DMIj × PB2j ×
+(
+kdPB2j
+(kdPB2j + kpj )
+)
+(68)
+RDPB3j DMIj × PB3j ×
+(
+kdPB3j
+(kdPB2j + kpj )
+)
+(69)
+RDPEPj RDPB1j + RDPB2j + RDPB3j (70)
+RECA1j DMIj × CA1j ×
+(
+kpj
+(kdCA1j + kpj )
+)
+(71)
+RECA2j DMIj × CA2j ×
+(
+kpj
+(kdCA2j + kpj )
+)
+(72)
+RECA3j DMIj × CA3j ×
+(
+kpj
+(kdCA3j + kpj )
+)
+(73)
+RECA4j DMIj × CA4j ×
+(
+kpj
+(kdCA4j + kpj )
+)
+(74)
+RECB1j DMIj × CB1j ×
+(
+kpj
+(kdCB1j + kpj )
+)
+(75)
+RECB2j DMIj × CB2j ×
+(
+kpj
+(kdCB2j + kpj )
+)
+(76)
+RECB3j DMIj × CB3j ×
+(
+kpj
+(kdCB3j + kpj )
+)
+(77)
+RECCj DMIj × CCj (78)
+REPB1j DMIj × PB1j ×
+(
+kpj
+(kdPB1j + kpj )
+)
+(79)
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+14 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+Table 3 (Continued )
+Variablesa Constraints Equations
+REPB2j DMIj × PB2j ×
+(
+kpj
+(kdPB2j + kpj )
+)
+(80)
+REPB3j DMIj × PB3j ×
+(
+kpj
+(kdPB3j + kpj )
+)
+(81)
+REPCj DMIj × PCj (82)
+Equations will be added to mathematically describe how the fat model of Moat et al. (2004) is implemented.
+a Subscript j means for each feed in the diet. Variable without the subscript j implies the sum of the variable
+with the subscript j across all feeds in the diet.
+CHO B1. Organic acids, which can be quite high in forages, are used less efﬁciently for
+microbial growth compared to sugars, and lactate can be quite high in silages and, contrary
+to VFA, produces microbial protein (Doane et al., 1997; Molina, 2002). Lanzas et al. (2007)
+used published information to develop degradation rates for the CHO A fractions, soluble
+ﬁber, and starch, which varies with type of grain and processing method, which are used in
+CNCPSv6. Lanzas et al. (2007) reported that the expanded CHO scheme provides a more
+biologically correct and appropriate feed description that more closely relates to rumen
+fermentation characteristics to account for variation in changes in silage quality and diet
+NFC composition.
+The passage rate equations were replaced with those developed by Seo et al. (2006). Seo et
+al. (2006) equations accounted for more variation and had lower mean bias in predicting for-
+age, concentrate and liquid passage rates than other passage rate equations, including those
+used in Fox et al. (2004). An important difference between the CNCPSv5 and CNCPSv6
+passage rate equations is in Seo et al. (2006) equations the physical effective NDF (peNDF)
+adjustment factor is not used. This adjustment was removed due to potential double account-
+ing, as discussed by Seo et al. (2006). For example, the peNDF adjustment previously used
+increases soybean meal hourly passage rate by 8 g/100 g in a typical lactating dairy cow
+ration. However, it was already in meal form in the database used to develop the passage
+rate equations; thus applying the peNDF adjustment to Kp was double accounting for the
+small particle size of soybean meal.
+2.10. Ruminal pH
+The CNCPS reduces microbial growth for the effects of acidic pH. The CNCPS predicts
+rumen pH from physical characteristics of feeds as related to their effectiveness in stimulat-
+ing chewing, rumination and increased rumen motility based on their total cell wall content
+and particle size within classes of feeds (physically effective NDF; peNDF). Table 14 in Fox
+et al. (2004) provided the equations used to compute rumen pH. In order to use a non-linear
+optimizer more efﬁciently, the equation to predict pH and to adjust the degradation rate of
+available CHO NDF are replaced by those developed for use with the optimizer in CPM
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 15
+Dairy version 3 (Boston et al., 2000).
+Ruminal pH = (1 − g) × (5.418454 + 4.26014
+× peNDF concentration + (g × 6.459806)), (15)
+where
+g = 1 1 + e(−282.7726 × (peNDF concentration − 0.2429614)) (16)
+Fox et al. (2004) discussed limitations of the CNCPS approach to predicting rumen pH,
+which were not addressed in this revision. The CNCPS does not attempt to integrate ruminal
+pH with the rate or amount of NFC digestion, and effects of ruminal ﬂuid dilution rate on
+VFA removal from the rumen are not considered. The development of a more integrated
+rumen model is underway, in which microbial growth is more integrated with digestion and
+passage and rumen concentrations of VFA are used to predict pH.
+2.11. Microbial growth
+In level 2 of the CNCPS, ruminal microorganisms are categorized as bacteria that fer-
+ment ﬁber carbohydrate (FC) and non-ﬁber carbohydrate (NFC). The FC bacteria degrade
+cellulose and hemicellulose, grow more slowly, and utilize ammonia as their primary N
+source for microbial protein synthesis. The NFC bacteria utilize starch, pectin, and sugars
+and grow more rapidly than FC bacteria and can utilize ammonia or AA’s as N sources.
+The rate of NFC and FC bacterial growth (μ) is dictated by the amount of carbohydrate that
+is digested in the rumen and the rate of carbohydrate digestion (Kd) so long as adequate
+N sources and other essential nutrients are available. The CNCPS assumes that bacterial
+growth rate (μ) is proportional to Kd, and this assumption is, in turn, based on the hypothesis
+that the rumen operates as a substrate-limited, enzyme (microbial mass) excess system.
+Table 15 in Fox et al. (2004) listed the equations used to compute microbial growth,
+which were implemented in CNCPSv6 as presented in that table except for Eqs. (17) and
+(18), which were revised as shown below.
+NFC NH3 required = 0.333 × NFC bacteria × 0.625 6.25 + if (peptide balance
+< 0, absolute (peptide balance), 0) (17)
+If bacteria N balance < 0, nitrogen allowable bacteria
+= peptide uptake N + NH3 diet + recycled N 0.1 (18)
+This represents a better accounting for ruminal N balance. This correction increases the
+ammonia requirement of the NFC microbes when the peptide N balance is negative ensuring
+adequate N availability whereas previously, if rumen degraded peptides were deﬁcient in
+meeting the NFC peptide requirement, no additional ammonia was required.
+In the CNCPS, peptides are considered stimulatory to NFC bacteria. In accounting for
+peptides as N sources, previous versions did not properly default to ammonia N requirements
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+16 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+for NFC bacteria when peptides were not available as N sources for this pool of bacteria.
+This has been corrected and in doing so, the ammonia N requirement increases to meet the
+N requirements of the NFC bacteria as the peptide supply drops.
+2.12. Intestinal digestion and the prediction of feed energy values
+The CNCPS uses experimentally measured digestibility coefﬁcients to predict intestinal
+digestibilities and fecal losses. Table 16 in Fox et al. (2004) summarized the equations
+used to compute intestinal digestion, fecal output, and feed energy values. Modiﬁcations
+for CNCPSv6 were as follows.
+It was discovered that fecal ash was being miscalculated, since the ash content of bacteria
+was not subtracted from intake ash. In correcting this error, it was determined that bacterial
+ash could not be partitioned back to individual feeds as the CHO substrate utilized by
+bacteria may not represent the ash source for bacteria. This resulted in an equation that
+calculates ash ﬂow (feed and bacterial) for the entire diet as described below.
+Dietary FEFA = (DMI × ASH − REBASH)(1 − IntDigAsh) (19)
+where FEFA is fecal escape of feed ash (g/d); DMI the dry matter intake, ASH the ash
+content of DM (g/g); REBASH the rumen escape bacterial ash, (g/d); and IntDigAsh is
+intestinal digestibility of ash (g/g).
+As a result, the model computes apparent TDN and fecal composition for the total diet
+in predicting diet ME supply. However, individual feed metabolizable energy values can be
+computed by adding 0.1 kg of the feed to the diet, then using the diet change in ME supply
+due to that amount of feed to compute its ME value.
+Implementing the 2001 Dairy NRC equation to compute NEL of feeds from ME (NELp
+(Mcal/kg) = 0.703 × MEp − 0.19) was considered. However, this equation, which is based
+on Moe et al. (1972) does not predict efﬁciencies consistent with those developed by Moe
+et al. (1970) and Moe (1981). The average ME from the diets (2.58 Mcal/kg) fed to 332
+lactating cows (Moe et al., 1972) used to derive that equation gives an average efﬁciency of
+0.629. The equation proposed by Moe et al. (1972) was developed after extensive energy
+adjustments for maintenance, excess dietary nitrogen, pregnancy, and tissue gain or loss. As
+a result the average predicted efﬁciency (Moe et al., 1972) does not agree with the average
+efﬁciency of the unadjusted data (Moe et al., 1970). Therefore, we decided to continue using
+the efﬁciency constant of 0.644 for MEl to NEl that Moe et al. (1970) determined by direct
+caloric measurements across all 350 lactating dairy cows in their studies.
+2.13. Fatty acids absorbed
+The CNCPS version 5 assumed all fat escapes the rumen undegraded, and has an intestinal
+digestibility efﬁciency of 0.95. To improve this aspect of the model, equations were devel-
+oped (Table 4) to incorporate the fatty acid model as published by Moate et al. (2004). These
+equations compute intake of individual fatty acids, and predict the de novo synthesis of fatty
+acids by rumen microbes, the biohydrogenation of mono- and poly-unsaturated fatty acids
+in the rumen, passage of individual fatty acids to the small intestine, and intestinal digestion
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 17
+Table 4
+Equations to predict long chain fatty acid rumen de novo synthesis, biohydrogenation, and intestinal digestiona
+Variables Constraints Equations
+AdjFactori Concentrates 100 ((NDFi × peNDFi)/100) + 90 (83)
+AdjFactori Forages 100 ((NDFi × peNDFi)/100) + 70 (84)
+AfLipi e((−Adj.Factori ×(TFAi/DMI)/10)) (85)
+AdjLipolysisi AfLip × LipolysisRatei (86)
+Lipolysisi,j
+( AdjLipolysisi
+AdjLipolysisi + 100 × kpi
+)
+× FAj,i (87)
+LipolysisFFAi
+10∑
+j=1
+Lipolysisj,i (88)
+LipolysisRTFC18i
+9∑
+j=5
+Lipolysisj,i (89)
+FermentableCHOi RDCA1i + RDCA2i + RDCA3i + RDCA4i + RDCB1i + RDCB2i + RDCB3i + RDCCi (90)
+TotalLipolysisj
+n∑
+i=1
+Lipolysisj,i (91)
+TotalLipolysisFFA
+n∑
+i=1
+LipolysisFFAi (92)
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+18 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+Table 4 (Continued )
+Variables Constraints Equations
+TotalLipolysisRFTC18
+n∑
+i=1
+LipolysisRTFC18i (93)
+TotalFermentableCHO
+n∑
+i=1
+FermentableCHOi (94)
+Afbiohydj For j =4,6,7,8,and9 e
+( −KbBj,i ×0.1×TotalLipolysisFFA
+DMI
+)
+(95)
+BioHydKbj For j =4,6,7,8,and9 Kbaj,I × Afbiohydj,i (96)
+Denovoj For j = 3, 4, and 10 FermentableCHO 1000 × DenovoFtCHOj(3,4,10) ,i × e(−DenovoRumenFAj(3,4,10) ,i ×TotalLipolysisj(3,4,10) ,i/DMI) (97)
+Denovoj,i For j =5 FermentableCHO 1000 × DenovoFtCHOj=5,i × e(−DenovoRumenFAj=5,i ×TotalLipolysisj=5,i /DMI) (98)
+BioHydj For j = 1 and 2 Lipolysisj,i (99)
+BioHydj For j = 3 Lipolysisj=3,i +
+(
+BioHydKbj=4,i
+kpi + BioHydKbj=4,i
+)
+× Lipolysisj=4,i + Denovoj=3,i (100)
+BioHydj For j =4
+(
+BioHydKbj=4,i
+kpi + BioHydKbj=4,i
+)
+× Lipolysisj=4,i + Denovoj=4,i (101)
+BioHydj For j = 5 DenovoRFC18 : 0i + Denovoj=5,i (102)
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 19
+BioHydj For j =6
+(
+BioHydKbj=6,i
+kpi + BioHydKbj=6,i
+)
+× Lipolysisj=6,i
++
+(
+BioHydKbj=8,i
+kpi + BioHydKbj=8,i
+)
+× Lipolysisj=8,i +
+(
+BioHydKbj=9,i
+kpi + BioHydKbj=9,i
+)
+× Lipolysisj=9,i (103)
+BioHydj For j =7
+(
+BioHydKbj=7,i
+kpi + BioHydKbj=7,i
+)
+× Lipolysisj=7,i (104)
+BioHydj For j =8
+(
+BioHydKbj=8,i
+kpi + BioHydKbj=8,i
+)
+× Lipolysisj=8,i +
+(
+BioHydKbj=9,i
+kpi + BioHydKbj=9,i
+)
+× Lipolysisj=9,i (105)
+BioHydj For j =9
+(
+BioHydKbj=8,i
+kpi + BioHydKbj=9,i
+)
+× Lipolysisj=9,i (106)
+BioHydj For j = 10 Lipolysisj=10,i + Denovoj=10,i (107)
+DenovoRFC18:0i LipolysisRFTC18i −
+9∑
+j=6
+BioHydj,i (108)
+BioHydTotalTFAi
+10∑
+j=1
+BioHydj,i (109)
+RDGlycerol
+( GlycerolKdi
+GlycerolKdi + kpi
+)
+× Glyceroli (110)
+FADuodenalj,i
+kpi
+kpi + Lipolysisj,i
+× FAIntakej,i (111)
+FAAbsorbedj,i FADuodenalj,i × FAIDj,i + FFADuodenalj,i × RumenFFADigj,i (112)
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+20 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+Table 4 (Continued )
+Variables Constraints Equations
+Apparent TDN (ProteinIntake − FecalProtein) + (CHOIntake − FecalCHO) + 2.25 ×
+n,10∑
+i,j
+FAAbsorbedi,j (113)
+ProteinDE 4.409 × (ProteinIntake − FecalProtein) (114)
+CHODE 4.409 × (CHOIntake − FecalCHO) (115)
+FatDE 4.409 × 2.25 ×
+n,10∑
+i,j
+FAAbsorbedi,j (116)
+ME Lactating, dairy cow (1.01 × (ProteinDE + CHODE + 1.23 × FatDE) − 0.45 ++0.0046 × (DietEE × 100 − 3)) × DMI
+(117)
+ME Otherwise 0.82 × (ProteinDE + CHODE + 1.23 × FatDE) × DMI (118)
+a i is the ith feed and j is the jth fatty acid in which C12:0 (j = 1), C14:0 (j = 2), C16:0 (j = 3), C16:1 (j = 4), C18:0 (j = 5), C18:1t (j = 6), C18:1c (j = 7); C18:2 (j = 8),
+C18:3 (j = 9), and others (j = 10).
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 21
+of individual lypolized and unlypolized fatty acids (assigned variable intestinal digestibility
+coefﬁcients). When the fatty acid model is used, diet energy values are computed as shown
+in Table 4 Eqs. (114)–(118). The major difference between these equations and those used
+when the fatty acid model is not used is in the apparent TDN computation for fat. When the
+fatty acid model is not used, the apparent TDN from fat is 2.25(fat intake − fecal fat), which
+includes microbial and endogenous fat. When the fat model is used, glycerol is added to the
+absorbed feed CHO pool and only the absorbed fatty acids derived from feed are used in
+the apparent TDN computations. Pigment and waxes from ether extract (EE) are assumed
+undigested and excreted via feces. The rumen degraded CHO is used to calculate microbial
+de novo fat synthesis. The CPM model (Boston et al., 2000) does not calculate bacterial
+fatty acids and therefore does not include them in the absorbed fat pool. On the other hand,
+the CPM model does not discount digested fat for endogenous fat because their regression
+analysis indicated that there is no endogenous fat to be accounted for. These two effects are
+offsetting in calculating apparent TDN. As in the CNCPS, the CPM model uses fecal EE
+from feed and bacteria in the calculation of indigestible dry matter (IDM), which is used to
+estimate MP allowable milk. The fatty acid model provides ﬂows of individual fatty acids,
+and indicates that a digestibility efﬁciency for EE of 0.95 is not feasible. Also it indicates not
+removing bacteria CHO from degraded feed CHO results is double accounting. However,
+this approach does not allow direct calculation of apparent TDN from fatty acid ﬂows and
+fecal content of fat. Further work is required to improve this aspect of the fatty acid model.
+3. Model evaluation
+The CNCPSv6 model was evaluated for precision and accuracy in predicting milk pro-
+duction of lactating dairy cows with data from three published studies with lactating dairy
+cows described by Ruiz et al. (2001, 2002) and Stone (1996). A second evaluation was
+conducted with data from an experiment conducted at the Brazilian Agricultural Research
+Corporation (EMBRAPA in Coronel Pacheco, MG, Brazil) with lactating Holstein cows
+(Fernando C.F. Lopes, unpublished) to test the adequacy of the CNCPSv6 for tropical con-
+ditions. A third evaluation was conducted with data from a study (Recktenwald and Van
+Amburgh, 2006) to evaluate model predictions with diets formulated to be nitrogen deﬁcient
+in the rumen or deﬁcient in supply of MP for the energy allowable milk production. In this
+study, 89 multiparous Holstein cows were individually fed three different diets: (1) control
+diet to provide adequate rumen N and MP balances, (2) diet to be deﬁcient in MP, and (3)
+diet to be deﬁcient in rumen N. Body weight and BCS changes were accounted for in the
+evaluations including the expanded carbohydrate scheme and new passage rate equations
+(Seo et al., 2006). Methods for testing model adequacy described by Tedeschi (2006)1 were
+used for all evaluations.
+The comparisons made in the ﬁrst evaluation were: (1) CNCPS v5, (2) the re-engineered
+CNCPSv6 with CNCPSv5 passage rates, CHO fractions, and fat accounting, (3) CNCPSv6
+with the new passage rate equations, (4) CNCPSv6 with the new fatty acids model, and (5)
+1 http://nutritionmodels.tamu.edu.
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+22 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+CNCPSv6 with the expanded CHO pools. The evaluation of level 1 was done by assigning
+values for RUP values for each feed similarly to what was done in the evaluations of
+CNCPSv5 (Fox et al., 2004). The evaluation of the new fractionation of CHO was performed
+assuming the current NFC content of the feeds and allocating the NFC into CHO A1, A2, A3,
+A4, B1, and B2 based on the their proportion in the NFC of similar feeds (based on DM, CP,
+and NDF values) from the CPM Dairy feed dictionary2. Table 5 lists the feed CHO fractions
+content and degradation rates that were used for this evaluation. Other organic acids (i.e.
+malic and citric acids), sugars (i.e. glucose), and starch were assigned to be 30.3, 52.5, and
+17.2 g/100 g of NFC for fresh forage based on information from the DairyOne3 database.
+Lactate and acetate was assumed to be 63 and 37 g/100 g of the total acids for corn silage;
+59.5 and 40.5 g/100 g of the total acids for alfalfa haylage; and 76.4 and 23.6 g/100 g of the
+total acids for high-moisture shelled corn, respectively. The degradation rates of CHO A2,
+A3, A4, and B2 shown in Table 4.5 were changed to match those reported by Molina (2002),
+who reported fractional hourly rates of 0.068 for lactic acid (A2), 0.055 for other organic
+acids (A3), 0.398 for sugars (A4), and 0.156 for pectin (arabinose) (B2). The degradation
+rates for starch (B1) varied accordingly to the degree of processing of the feed.
+Table 6 lists the mean bias (bias), the r2 of the linear regression between observed
+(Y-axis) and model-predicted (X-axis) values, the simultaneous probability to test for inter-
+cept = 0 and slope = 1, the linear regression mean square error (MSE), the mean square
+error of prediction (MSEP), the concordance correlation coefﬁcient (CCC), and the MSEP
+decomposition for all evaluations as described by Tedeschi (2006).
+The CNCPSv6 level 1 (run 8 in Table 6) to predict feed energy and protein developed
+by Tedeschi et al. (2005) based on Weiss et al. (1992) had the greatest precision (measured
+by the r2, 89%) and greatest accuracy (measured by the CCC = 0.943 and MSEP = 14.6) in
+predicting milk production across the three studies analyzed. Tedeschi et al. (2005) found
+no difference between the CNCPSv6 levels 1 and 2 in predicting average daily gain of high-
+grain and high-forage fed beef cattle, and similar predictions of feed energy and protein bio-
+logical values were obtained by both levels of solution when evaluating the beef NRC (2000)
+feed library. More mechanistic models (e.g. CNCPSv6 level 2) tend to have lower accuracy
+than simple theoretical or empirical models due to increased complexity and numbers of
+inputs required (France et al., 2000). It should also be noted that level 1 rumen degraded
+protein (RDP) values were calculated using level 2, thus level 1 feed energy and protein
+values are auto-correlated with level 2 predictions. Under certain circumstances, CNCPSv6
+level 1 can be used to formulate diets and be more accurate, especially when detailed feed
+analysis (carbohydrate and protein fractions and their digestion rates) is lacking.
+The comparison between runs 1 (CNCPSv5) and 2 (CNCPSv6) (Table 6) shows improved
+accuracy for the CNCPSv6, with similar precision. Implementing the new passage rate
+equations and expanded CHO scheme had little effect on the precision but bias was decreased
+four units in predicting milk production with CNCPSv6 (Table 6, runs 2–5). Additionally,
+the MSEP partitioning was improved such that all error (run 5) is random, a 9.3 unit
+improvement over version 5. The prediction improvements were primarily due to the re-
+engineering and bacterial ash adjustments. Lanzas et al. (2007) performed an extensive
+2 http://www.cpmdairy.com.
+3 http://www.dairyone.com.
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 23
+Table 5
+Composition of organic acids, sugar, starch, and pectin of several feeds in the CNCPSv6 feed dictionary (modiﬁed from the CPM Dairy feed dictionary (Boston et al.,
+2000))
+Reference Feed %NFC Degradation rates of CHO (%/h)
+VFA Lac OA Sugar Starch Pectin A1 A2 A3 A4 B1 B2 B3
+1 Pasture 0 0 30.3 52.5 17.2 0 0 6.8 5.0 39.8 – – –
+1 CS 7.03 12.0 0 2.0 77.0 2.0 0 6.8 5.0 39.8 35.0 15.6 6.0
+1 HMSC 0.472 1.53 0 2.4 94.0 1.6 0 6.8 5.0 39.8 35.0 15.6 6.0
+2 AS 10.1 14.9 0 12.0 5.0 58.0 0 6.8 5.0 39.8 30.0 15.6 7.5
+2 CS 6.29 10.7 0 4.0 79.0 0 0 6.8 5.0 39.8 32.0 15.6 5.1
+2 HMSC 0.472 1.53 0 2.4 94.0 1.6 0 6.8 5.0 39.8 30.0 15.6 6.0
+References: 1, Ruiz et al. (2001, 2002) and 2, Stone (1996). VFA is volatile fatty acids, Lac is lactate, OA is organic acids, NFC is non-ﬁber carbohydrate, CHO is
+carbohydrate, CS is corn silage, AS is alfalfa silage, and HMSC is high-moisture shelled corn.
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+24 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+Table 6
+Model adequacy statistics of the predictions of the CNCPSv6a
+Simulations Linear regressionb r2 (%) MSE CCCa Biasc (%) MSEP MSEP partitiond (%)
+abP UM UR UD
+(1) CNCPS version 5 (v5) 1.23 1.00 0.001 86.1 18.3 0.918 4.31 19.9 9.3 0.0 90.7
+(2) v6 + kpFox 0.49 0.98 0.91 85.4 19.4 0.922 −0.03 19.1 0.0 0.10 99.9
+(3) v6 + kpSeo 0.57 0.99 0.89 84.7 20.3 0.918 0.32 20.0 0.10 0.10 99.8
+(4) v6 + kpFox + expanded CHO 0.45 0.98 0.88 86.2 18.3 0.927 −0.24 18.0 0.04 0.16 99.8
+(5) v6 + kpSeo + expanded CHO 0.52 0.99 0.91 85.6 19.0 0.920 0.15 18.8 0.0 0.10 99.9
+(6) v6 + kpFox + fatty acid (FA) model 0.21 1.00 0.75 85.3 19.4 0.920 0.88 19.2 0.40 0.0 99.6
+(7) v6 + kpSeo + expanded CHO + FA model 0.30 1.00 0.67 85.4 19.2 0.92 1.04 19.1 0.60 0.0 99.4
+(8) v6 + level 1 solution for energy and protein 1.50 0.97 0.22 89.0 14.5 0.943 1.38 14.6 1.4 0.9 97.7
+a MSE = mean square error, MSEP = mean square error of prediction, and CCC = concordance correlation coefﬁcient.
+b a = intercept, b = slope, and P=simultaneous probability of a = 0 and b =1.
+c Mean bias as a percent of the model-predicted mean (X-axis values). A negative value indicates overprediction and a positive value indicates underprediction. Mean
+of observed milk production was 32.845 kg/d for 134 lactating dairy cows.
+d UM = percentage of errors due to mean bias, UR = percentage of errors due to systematic bias, and UD = percentage of errors due to random errors. The sum of
+UM + UR + UD = 100.
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 25
+evaluation and sensitivity analysis and found little effect on ME and MP allowable milk
+production due to the expanded CHO pools. Implementation of Moate et al. (2004) fatty
+acid model had little effect on precision and accuracy of predicting ME and MP allowable
+milk production. Further evaluations with the fat model are required since the diets in the
+evaluation data set did not contain added fat.
+The evaluation of the CNCPSv6 using the tropical experiment data was performed using
+the rate of passage equation described by Seo et al. (2006) and the expanded carbohydrate
+scheme, similar to simulation 5 in Table 6. Fig. 3 shows the relationship between observed
+and model-predicted milk production with and without adjustment for changes in BCS. The
+prediction with the adjustment for BCS changes (Fig. 3B) resulted in lower mean bias (3.2%
+versus 14.2%), greater CCC (0.9 versus 0.85; likely due to a greater accuracy, Cb of 0.98 ver-
+sus 0.92), and lower MSEP (4.58 kg/d versus 7.9 kg/d) compared to without adjustment for
+BCS changes (Fig. 3A), respectively. The precision of the prediction with and without adjust-
+ments for BCS changes was identical based on the correlation of determination (r2 of 85%).
+Based on these evaluations, we concluded the predictions of CNCPSv6 level 2, with the
+new passage rates, expanded carbohydrate fractions, and fatty acid model were improved
+(Figs. 2 and 3), suggesting the re-engineering of the CNCPSv5 to meet the objectives of
+CNCPSv6 was successfully completed.
+However, the model evaluations with the Recktenwald and Van Amburgh (2006) data
+with CNCPSv6 indicated the predictions of the model were inconsistent among the diets
+fed in this study. In all evaluations, MP was predicted to be ﬁrst limiting. Across all diets,
+the precision was low (r2 of 29%) even though the mean bias was low and the accuracy
+was high (−0.49 and 0.96, respectively). There was substantial systematic bias (48.3% of
+MSEP) which is sustained by the low slope (0.39), and 51.6% of the MSEP being due to
+random errors. With the control and MP-deﬁcient diets, accuracy was good (Cb of 0.79 and
+0.94, respectively) but the model was imprecise (r2 of 15 and 16%, respectively). The causes
+of the problem were diverse. In the MP-deﬁcient diet, the source of errors in the MSEP were
+mean bias (25.7%), systematic error (37.6%), and random error (36.6%), meaning the model
+was not able to explain the variation in the data. This suggested to us the CNCPS was not
+able to account for the variation in supply of MP due to offsets in N transactions not currently
+accounted for in the rumen submodel. For example, Ouellet et al. (2002) demonstrated that
+endogenous protein in the form of peptides could supply the microbial population with N at
+levels equal to recycled urea. This would over-estimate the requirement for rumen available
+protein as indicated by the variation. For the positive control, even though the mean bias was
+only −3.26% of the model-predicted values, the precision was very low (r2 of 16%) and most
+of the source of variation in the MSEP was random error. For the diet deﬁcient in rumen N, the
+model had a better precision (r2 of 57%) and high accuracy (Cb of 0.94), but mean bias was
+high (10.8% underprediction). The evaluations of the CNCPS recycled N equation with the
+model of Lanzas (2006) suggested recycled N was underpredicted for this treatment. Cannas
+et al. (2004) found that in sheep with very low rumen N balance, the model underpredicted
+performance, likely because animals with ruminal N deﬁciency recycled more N than the
+model accounts for. This evaluation indicated the CNCPS needs equations to account for
+the effects of monensin, and models to account for recycled N and unexplained differences
+in protein supply based on microbial turnover, endogenous protein re-absorption, and rates
+of protein degradation and passage when MP is predicted to be deﬁcient.
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+26 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 27
+Fig. 3. Relationship between observed and model-predicted ﬁrst-limiting metabolizable energy or metabolizable
+protein allowable milk production of the tropical experiment with lactating Holstein cows without (A) and with
+(B) adjustment for changes in body condition score.
+4. Implications
+The evolution of the CNCPS is a continuous process as our biological understanding
+improves and user needs evolve. The latest version (CNCPSv6) was developed primarily
+to meet user needs for more accurate formulation of dairy rations given the increased focus
+on precision feeding in the United States. It represents a re-engineering process including
+object-oriented programming approaches and improvements in the user interface to assist in
+Fig. 2. Relationship between observed and model-predicted milk production using (A) the level 2 solution of
+CNCPSv5 (run 1 in Table 6), (B) the level 2 solution of CNCPSv6 (run 2 in Table 6), and (C) the level 1 solution
+of the CNCPSv6 (run 8 in Table 6).
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+28 T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx
+herd level nutrient management planning. Through this process, ease of use, speed of data
+input, and software stability were concerns that were addressed. Based on these changes,
+our on farm experience with CNCPS version 6 indicates it can be utilized in day-to-day
+formulation and nutrient management planning with improved prediction accuracy than
+CNCPS version 5 with increased user efﬁciency.
+References
+Boston, R.C., Fox, D.G., Sniffen, C.J., Janczewski, R., Munsen, R., Chalupa, W., 2000. The conversion of a
+scientiﬁc model describing dairy cow nutrition and production to an industry tool: the CPM Dairy project.
+In: McNamara, J.P., France, J., Beever, D. (Eds.), Modelling Nutrient Utilization in Farm Animals. CABI
+Publishing, Oxford, pp. 361–377.
+Cannas, A., Tedeschi, L.O., Fox, D.G., Pell, A.N., Van Soest, P.J., 2004. A mechanistic model for predicting the
+nutrient requirements and feed biological values for sheep. J. Anim. Sci. 82, 149–169.
+Doane, P.H., Schoﬁeld, P., Pell, A.N., 1997. Neutral detergent ﬁber disappearance and gas and volatile fatty acids
+production during the in vitro fermentation of six forages. J. Anim. Sci. 75, 3342–3352.
+Fox, D.G., Van Amburgh, M.E., Tylutki, T.P., 1999. Predicting requirements for growth, maturity, and body
+reserves in dairy cattle. J. Dairy Sci. 82, 1968–1977.
+Fox, D.G., Sniffen, C.J., O’Connor, J.D., Russell, J.B., Van Soest, P.J., 1992. A net carbohydrate and pro-
+tein system for evaluating cattle diets. III. Cattle requirements and diet adequacy. J. Anim. Sci. 70, 3578–
+3596.
+Fox, D.G., Tedeschi, L.O., Tylutki, T.P., Russell, J.B., Van Amburgh, M.E., Chase, L.E., Pell, A.N., Overton,
+T.R., 2004. The Cornell Net Carbohydrate and Protein System model for evaluating herd nutrition and nutrient
+excretion. Anim. Feed Sci. Technol. 112, 29–78.
+France, J., Theodorou, M.K., Lowman, R.S., Beever, D.E., 2000. Feed evaluation for animal production. In:
+Theodorou, M.K., France, J. (Eds.), Feeding Systems and Feed Evaluation Models. CABI Publishing, New
+York, pp. 1–9.
+Lanzas, C., 2006. Models to predict ruminal carbohydrate and nitrogen supply and nitrogen excretion in cattle.
+Ph.D. Dissertation. Cornell University, Ithaca, NY.
+Lanzas, C., Sniffen, C.J., Seo, S., Tedeschi, L.O., Fox, D.G., 2007. A feed carbohydrate fractionation scheme for
+formulating rations for ruminants. Anim. Feed Sci. Technol., doi:10.1016/j.anifeedsci.2006.08.025, in press.
+Moate, P.J., Chalupa, W., Jenkins, T.G., Boston, R.C., 2004. A model to describe ruminal metabolism and intestinal
+absorption of long chain fatty acids. Anim. Feed Sci. Technol. 112, 79–105.
+Moe, P.W., Tyrrell, H.F., Flatt, W.P., 1970. Partial efﬁciency of energy use for maintenance, lactation, body gain
+and gestation in the dairy cow. In: Proceedings of Energy Metabolism of Farm Animals, vol. 5, Vitznau,
+Switzerland, EAAP, pp. 65–68.
+Moe, P.W., Flatt, W.P., Tyrrell, H.F., 1972. Net energy value of feeds for lactation. J. Dairy Sci. 55, 945–958.
+Moe, P.W., 1981. Energy metabolism of dairy cattle. J. Dairy Sci. 64, 1120–1139.
+Molina, D.O., 2002. Prediction in intake of lactating cows in the tropics and of the energy value of organic acids.
+Ph.D. Dissertation. Cornell University, Ithaca, NY.
+NRC, 2000. Nutrient Requirements of Beef Cattle, updated seventh ed. National Academy Press, Washington,
+DC.
+NRC, 2001. Nutrient Requirements of Dairy Cattle, seventh ed. National Academy Press, Washington, DC.
+Ouellet, D.R., Demers, M., Zuur, G., Lobley, G.E., Seoane, J.R., Nolan, J.V., Lapierre, H., 2002. Effect of dietary
+ﬁber on endogenous nitrogen ﬂows in lactating dairy cows. J. Dairy Sci. 85, 3013–3025.
+Reynoso-Campos, O., Fox, D.G., Blake, R.W., Barry, M.C., Tedeschi, L.O., Nicholson, C.F., Kaiser, H.M., Olte-
+nacu, P.A., 2004. Predicting nutritional requirements and lactation performance of dual-purpose cows using a
+dynamic model. Agric. Syst. 80, 67–83.
+Recktenwald, E.B., Van Amburgh, M.E., 2006. Examining nitrogen deﬁciencies in lactating dairy cattle using corn
+silage based diets. In: Proceeding of Cornell. Nutr. Conf. Feed Manuf., New York State College of Agriculture
+& Life Sciences, Cornell University, pp. 205–217.
+Please cite this article in press as: Tylutki, T.P. et al., Cornell Net Carbohydrate and Pro-
+tein System: A model for precision feeding of dairy cattle, Anim. Feed Sci. Technol. (2007),
+doi:10.1016/j.anifeedsci.2007.05.010
+ARTICLE IN PRESSANIFEE-11741; No. of Pages 29
+T.P. Tylutki et al. / Animal Feed Science and Technology xxx (2007) xxx–xxx 29
+Russell, J.B., O’Connor, J.D., Fox, D.G., Van Soest, P.J., Sniffen, C.J., 1992. A net carbohydrate and protein
+system for evaluating cattle diets. I. Ruminal fermentation. J. Anim. Sci. 70, 3551–3561.
+Ruiz, R., Albrecht, G.L., Tedeschi, L.O., Jarvis, G., Russell, J.B., Fox, D.G., 2001. Effect of monensin on
+the performance and nitrogen utilization of lactating dairy cows consuming fresh forage. J. Dairy Sci. 84,
+1717–1727.
+Ruiz, R., Tedeschi, L.O., Marini, J.C., Fox, D.G., Pell, A.N., Jarvis, G., Russell, J.B., 2002. The effect of a ruminal
+nitrogen (N) deﬁciency in dairy cows: evaluation of the Cornell Net Carbohydrate and Protein System ruminal
+N deﬁciency adjustment. J. Dairy Sci. 85, 2986–2999.
+Seo, S., Tedeschi, L.O., Schwab, C.G., Fox, D.G., 2006. Development and evaluation of empirical equations to
+predict feed passage rate in cattle. Anim. Feed Sci. Technol. 128, 67–83.
+Sniffen, C.J., O’Connor, J.D., Van Soest, P.J., Fox, D.G., Russell, J.B., 1992. A net carbohydrate and protein
+system for evaluating cattle diets. II. Carbohydrate and protein availability. J. Anim. Sci. 70, 3562–3577.
+Stone, W.C., 1996. Applied topics in dairy cattle nutrition. 1. Soyhulls as either a forage or concentrate replacement
+in early lactation Holstein dairy cattle. 2. Evaluation of the Cornell Net Carbohydrate and Protein System’s
+metabolizable protein requirement as supply in Holstein dairy cattle. 3. In vitro effects of lipids on fermentation
+systems. Ph.D. Dissertation. Cornell University, Ithaca, NY.
+Tedeschi, L.O., 2006. Assessment of the adequacy of mathematical models. Agric. Syst. 89, 225–247.
+Tedeschi, L.O., Fox, D.G., Doane, P.H., 2005. Evaluation of the tabular feed energy and protein undegradability
+values of the National Research Council nutrient requirements of beef cattle. Profess. Anim. Sci. 21, 403–415.
+Tedeschi, L.O., Seo, S., Fox, D.G., Ruiz, R., 2006. Accounting for energy and protein reserves changes in predicting
+diet-allowable milk production in cattle. J. Dairy Sci. 89, 4795–4807.
+Tylutki, T.P., Fox, D.G., McMahon, M., 2004. Implementation of nutrient management planning on a dairy farm.
+Profess. Anim. Sci. 20, 58–65.
+USDA-NRCS, 2003. Conservation practice standard. Feed Management 592. Available at: http://www.nrcs.
+usda.gov/technical/Standards/nhcp.html.
+VandeHaar, M.J., Donkin, S.S., 1999. Protein nutrition of dry cows. In: Proceedings of Tri-State Dairy Nutrition
+Conference, Fort Wayne, IN, The Ohio State University, pp. 112–131.
+Weiss, W.P., Conrad, H.R., St. Pierre, N.R., 1992. A theoretically based model for predicting total digestible
+nutrient values of forages and concentrates. Anim. Feed Sci. Technol. 39, 95–110.

@@ -1,0 +1,821 @@
+=== Fuente: Silanikove - Effects of heat stress on the welfare - LPSci (2000).pdf ===
+
+Livestock Production Science 67 (2000) 1–18
+www.elsevier.com/locate/livprodsci
+Review article
+Effects of heat stress on the welfare of extensively managed
+domestic ruminants
+*Nissim Silanikove
+Institute of Animal Science, Agricultural Research Organization, The Volcani Centre, P.O. Box 6, Bet Dagan 50250, Israel
+Received 7 December 1998; received in revised form 20 September 1999; accepted 10 January 2000
+Abstract
+High ambient temperatures, high direct and indirect solar radiation, and humidity are environmental stressing factors that
+impose strain on animals. This review concerns the heat stress–strain response of domestic ruminants from the viewpoint of
+animal welfare. Despite having well developed mechanisms of thermoregulation, ruminants do not maintain strict
+homeothermy under heat stress. There is unequivocal evidence that hyperthermia is deleterious to any form of productivity,
+regardless of breed, and stage of adaptation. The best recognized effect of raised body temperature is an adaptive depression
+of the metabolic rate associated with reduced appetite. Thus, in domestic ruminants a rise of body temperature marks the
+transition from aversive stage to noxious stage. Physiological (sweating, panting), hormonal (cortisol, thyroid gland activity),
+and behavioral thermoregulatory responses are discussed in respect to animal welfare. Factors such as water deprivation,
+nutritional imbalance and nutritional deﬁciency may exacerbate the impact of heat stress. The higher sensitivity of cattle to
+heat stress in comparison with sheep, and of animals at various productive stages in comparison with animals at maintenance
+is highlighted. Some practical measures that are applicable under extensive conditions, such as provision of shade shelter, are
+suggested. Ó 2000 Elsevier Science B.V. All rights reserved.
+Keywords: Welfare; Ruminants; Extensive conditions; Heat stress; Hot environments
+1. Introduction environment (Broom, 1986). The effects of heat
+stress on the welfare of intensively managed cattle
+There is great public pressure concerning farm have been considered (Young, 1993; Jacobsen,
+animal welfare in many European countries (Broom, 1996). However, there is very little discussion in the
+1992). Recent developments in housing and manage- scientiﬁc literature regarding the interrelationships
+ment practice of farm animals under intensive sys- between heat stress and animal welfare under exten-
+tems reﬂect the increase in moral concerns about sively managed systems. There is much knowledge
+animal welfare. The welfare of an individual is its regarding the interaction between heat stress and
+state in regard to an attempt to cope with its livestock productivity under intensive and extensive
+management systems. Heat is a major constraint on
+animal productivity in the tropical belt and arid areas
+(Silanikove, 1992). The effect of heat stress is also*Tel.: 1972-8-948-4436; fax: 1972-8-947-5075.
+E-mail address: nsilanik@agri.huji.ac.il (N. Silanikove). substantial in the subtropical-Mediterranean zones,
+0301-6226/00/$ – see front matter Ó 2000 Elsevier Science B.V. All rights reserved.
+PII: S0301-6226(00)00162-7
+2 N. Silanikove / Livestock Production Science 67 (2000) 1 –18
+and farm animals raised in central and western 2.1. Indices of heat stress
+Spain, or in the southern areas of France, Italy and
+Greece, are exposed annually for 3–5 months to In hot climates, high ambient temperatures, and
+considerable heat stress. Growth, milk production high direct and indirect solar radiation, wind speed
+and reproduction are impaired under heat stress as a and humidity, are the main environmental stressing
+result of the drastic changes in biological functions factors that impose strain on animals (Finch, 1984).
+caused by the stress (Habeeb et al., 1992; Silanikove, The formulation of physiological temperature scales
+1992). However, these response are also indications is important for delineating a suitable climatic space
+for poor welfare (Broom and Johnson, 1993). for a breed or species (Finch, 1984). Heat stress
+This paper reviews the heat stress–strain response indices range from simple measurement of air tem-
+of domestic ruminants from the viewpoint of animal perature to indices that try to provide a weighted
+welfare. We question whether recommendations can estimation of these factors. Black globe temperature
+be drawn up to increase animal welfare under combines the effects of total incoming radiation from
+extensive conditions and, if yes, whether such mea- the sun, horizon, ground and other subjects with air
+sures are compatible with the input restraints on such temperature and wind speed (Bond and Kelly, 1955).
+systems. The combination of black globe temperature with
+wet bulb temperature provides a black globe-humidi-
+ty index (Bufﬁngton et al., 1983). This index proba-
+2. Deﬁning the relations among heat stress, bly represents one of the best indices to represent
+strain and animal welfare heat stress in open areas; nevertheless, it accounted
+for only 24% of the variance of heat stress-related
+Thermal physiologists commonly use the term milk yield depression in dairy cows (Bufﬁngton et
+heat stress to mean the demand made by the environ- al., 1983). This is in part because of large variations
+ment for heat dissipation. Physiologists adopted the between individuals and in part, because the animal
+stress–strain relationship from physical sciences as a is related to its environment in a much more complex
+concept applicable to animals. Accordingly, strain manner than is represented by this index.
+refers to an internal displacement from the resting or Solar radiation has a major effect on the ther-
+basal state brought about by external stress (Finch, moregulation of grazing ruminants (Gebremedhin,
+1984). The internal readjustment to maintain homeo- 1985). Yamamato et al. (1994) calculated the effec-
+stasis in the face of external temperature changes, is tive temperature (ET) from ambient temperature (dry
+called an adaptation to the thermal environment bulb temperature, DBT) and radiation (black globe
+(Finch, 1984). Behavioral adaptation to cope with temperature, BGT) by multiple regression analysis
+environmental conditions is the learning process using respiration rate and body temperature as the
+habituation (Broom and Johnson, 1993). Welfare is a dependent response variable. They found that:
+characteristic of an animal, which varies from poor
+to very good and can be deﬁned by discrete mea- ET 5 0.24DBT 1 0.76BGT (1)
+sures, such as changes in hormone level, body
+temperature, and normal behavior. Poor welfare will This equation suggests that long-wave and short-
+develop when an individual has difﬁculty in coping wave (solar) radiation as measured by black globe
+with its environment. There is a lot of overlap temperature contributes substantially more to the
+between productive and welfare measures, such as heat load than does ambient temperature.
+disease, mortality risk, growth, milk yield and re- In addition, McDowell et al. (1976) suggested that
+production. However, some physiological and be- the temperature–humidity index (THI), a parameter
+havioral measures of poor welfare may occur in the widely used to describe heat load on humans, is a
+absence of productive responses, at least in the short good indicator of stressful thermal climatic con-
+term. It is within this latter frame of reference that ditions. The THI is arrived at from a combination of
+the stress–strain–welfare relationships will be dis- wet and dry bulb air temperatures for a particular day
+cussed in this review. and expressed in a formula as follows:
+N. Silanikove / Livestock Production Science 67 (2000) 1 –18 3
+THI 5 0.72(W8C 1 D8C) 1 40.6 (2) Peripheral thermoreceptors and thermosensitive units
+in the central nervous system mediate temperature
+where W8C5wet bulb and D8C5dry bulb. Tempera- reception (Baker, 1989). Warming the pre-optic
+ture–humidity index values of 70 or less are consid- region of the hypothalamus activates all available
+ered comfortable, 75–78 stressful, and values greater physiological and behavioral heat-loss mechanisms
+than 78 cause extreme distress and animals are (Baker, 1989). Heat stress causes the rostral cooling
+unable to maintain thermoregulatory mechanisms or center of the hypothalamus to stimulate the medial
+normal body temperature. Lemerle and Goddard satiety center which inhibits the lateral appetite
+(1986) reported that, although rectal temperature center, resulting in reduced dietary intake and conse-
+only increased when THI was greater than 80, the quently lower milk production (Albright and Allis-
+respiration rate would increase from THI value of ton, 1972). The general homeostatic responses to
+about 73 and probably more steeply above 80. This thermal stress in mammals include raised respiration
+ﬁnding suggests that homeostatic mechanisms, in- rates (Yousef, 1985), panting, drooling, reduced
+cluding increased respiration, can prevent a rise in heart rates and profuse sweating (Blazquez et al.,
+rectal temperature until the THI reaches 80. This is 1994), decreased feed intake (Silanikove, 1992) as
+similar to the critical THI level of 78 quoted by well as reduced milk production (Albright and
+McDowell et al. (1976). Alliston, 1972; Lu, 1989).
+The severity of heat stress depends to a large
+extent on the diurnal ﬂuctuations of the ambient 2.3. Heat balance between an animal and itstemperature. If the temperature drops at night to environmentbelow 218C for 3–6 h, the animal has sufﬁcient
+opportunity to lose at night all the heat gained from The heat balance between an animal and itsthe previous day (Igono et al., 1992; Muller et al., environment is given by the following equation1994a,b). In the Northern Hemisphere, the most (Berman et al., 1985):severe heat stress is expected during the months of
+July and August, because in many instances the M 5 (HS 1 K 1 C 1 R 1 E) (3)
+temperature does not drop below 218C at night, and
+the capacity to completely dissipate heat gained where: M5metabolic heat production, HS5heat
+during the preceding day is severely hampered. storage, R5heat exchanged by radiation, E5heat
+However, so far there was no effort to develop an exchanged by evaporation, C5heat exchanged by
+indices of heat stress that is based dry bulb, wet bulb convection, K5heat exchanged by conduction.
+and black globe temperature. Such a putative indices
+will take in account the three major factors (i.e. 2.4. Heat storage
+ambient temperature, humidity, and radiation) that
+inﬂuence the thermal balance between an animal and In mammals, the body temperature is maintained
+its environment, and therefore may provide a better at a relatively constant level because of the balance
+measure of heat stress. Nowadays, the THI become which exists between heat production and heat loss.
+the method of choice in most countries, because Heat storage (gain) can be expressed as:
+meteorological stations in most countries routinely
+provide this information. (heat gained (in Joules) 5 mass (in kg) 3 speciﬁc
+heat (in Joules) 3 temperature change (in 8C) (4)
+2.2. Physiological thermoregulation
+Factors that increase heat production over BMR
+The ability to regulate temperature is an evolution- include, exercise or shivering, imperceptible tensing
+ary adaptation that allows homeotherms to function of muscles, chemical increase of metabolic rate, heat
+in spite of variation in ambient temperature (Baker, increment and disease (fever). Factors decreasing
+1989); this ability also allows temperature to be used heat loss are an internal shift in blood distribution,
+as a signal to control physiological processes. decrease in tissue conductance and counter-current
+4 N. Silanikove / Livestock Production Science 67 (2000) 1 –18
+heat exchange. On the other hand, heat loss from the tive heat loss declines as ambient temperatures rise,
+animal is enhanced by sweating, panting, a cooler making the animal more dependent upon peripheral
+environment, increased skin circulation (vasodilata- vasodilatation and water evaporation to enhance heat
+tion), shorter fur insulation, increased sensible water loss and prevent a rise in body temperature (Berman
+loss, increased radiating surface, and increased air et al., 1985). Peripheral vasodilatation however, is
+movement or convection. unlikely to be a major method of increasing heat
+dissipation in cattle because of their large body mass.
+2.5. Rectal temperature Berman et al. (1985) reported that the maximal
+rate of water evaporation in lactating cows was 1.5
+Rectal temperature is an indicator of thermal kg/h, which translates to 4.3 kJ/day. This rate of
+balance and may be used to assess the adversity of heat loss is close to the heat production of a dry
+the thermal environment which can affect the non-pregnant 600-kg cow but only about half of that
+growth, lactation, and reproduction of dairy cows produced by a cow yielding 30 kg/day. This may
+(Johnson, 1980; Hahn, 1999; Hansen and Arechiga, explain the low sensitivity of dry cows to high
+1999; West, 1999). A rise of 18C or less in rectal ambient temperatures. The importance of water as a
+temperature is enough to reduce performance in most medium for ridding the body of excess heat through
+livestock species (McDowell et al., 1976; Shebaita sweating and respiration greatly increases as the
+and El-Banna, 1982), which makes body temperature ambient temperature rises (Richards, 1985).
+a sensitive indicator of physiological response to heat In cattle under heat load, about 15% of the
+stress in the cow because it is nearly constant under endogenous heat is lost directly from the body core
+normal conditions. Scott et al. (1983) found signiﬁ- via the respiratory tract (McDowell et al., 1976). The
+cant negative relationships of feed consumption (in remainder of the metabolic heat must be transferred
+kilogram per day on the y-axis) and average THI as to the skin, where it is dissipated either non-evapora-
+well as average dry bulb temperature (degrees Cel- tively by radiation, convection and conduction, or
+sius on the x-axis) as expressed in the equations: evaporatively by sweating. For beef cattle standing
+2
+y510125.4x, r 520.66 (P,0.05) for the THI, in a hot radiant environment, metabolism accounts
+2
+and y557.325.7x, r 520.66 (P,0.05) for the for about one-third of the total heat load (Finch,
+average dry bulb temperature, respectively, in non- 1976), and the ability of animals to remove metabol-
+lactating Holstein dairy cows. The results of Scott et ic heat efﬁciently is important for maintenance of
+al. (1983) suggest that night cooling may be an steady body temperature.
+effective natural method to alleviate thermoregulat-
+ory limitations of a hot climate on optimal animal
+performance. It appears that there are notable differ- 2.7. Heat loss and gain by radiation
+ences between breeds in their ability to regulate
+rectal temperature: the mean rectal temperature is The amount of heat absorbed by an object from
+higher in B. taurus than in B. indicus cattle (Finch, direct (solar) radiated heat depends not only on the
+1986) and, as a result, B. taurus cattle are more temperature of the object, but also on its color and
+sensitive to heat stress than their B. indicus counter- texture, with dark surfaces radiating and or absorbing
+parts. more heat than light colored surfaces at the same
+temperature. An animal with a black coat will
+2.6. Heat loss therefore have an absorbance of 1 of the direct
+radiation; whereas, a white-coated one will have an
+An animal loses heat by conduction, convection, absorbance of 0.37 and one with red fur has an
+radiation, evaporation of water, and through expired absorbance of 0.65 (Cena and Monteith, 1975).
+air. Heat dissipation is shifted from radiation and Radiant heat transfer between bodies takes place in
+convection at lower environmental temperatures to both directions, and if the bodies are at different
+vaporization at higher temperatures. Heat lost by the temperatures there is a net transfer of heat from the
+skin is dependent partly on the temperature gradient warmer to the cooler body (Esmay, 1969). This net
+between skin and air and solid objects. Non-evapora- heat transfer involves the loss or gain of heat by the
+N. Silanikove / Livestock Production Science 67 (2000) 1 –18 5
+animal through absorption or reﬂection of electro- According to Chew (1965) formula, a 600-kg cow
+magnetic infrared waves. would lose 12 l of water/day, which is very close to
+In experiments using artiﬁcial radiant heat loads, the RCW loss of 13 l/day measured in dry cows
+Stewart and Brody (1954), and Kibler and Brody under thermoneutral conditions (Silanikove et al.,
+(1954) found that cows did not respond to radiation 1997).
+at an ambient temperature of 7.28C. However, at The proportion of metabolic heat that is dissipated
+temperatures of 21.1 and 26.78C, Jersey cows had a from an animal’s body by evaporation increases with
+mean heat production rate 12–14% lower with rising environmental temperatures and a decreasing
+maximum radiation load. On the other hand, Holstein temperature gradient between animal and air. John-
+cows showed heat production decreases of 26% at son (1976) showed that the differences in the ratio of
+21.18C and of 9% at 26.78C. In the same experiment, evaporative cooling to total heat loss (heat produced)
+Brahman cows showed little response to radiation is species variable and that the evaporative ratio of
+insofar as heat production was concerned. The cattle begins to increase markedly at 16.6–18.38C. In
+authors concluded that the lack of response by hot climates, the potential for non-evaporative heat
+Brahman cows was due to their low heat production loss is reduced and animals rely on the evaporation
+rate; therefore, their heat dissipation requirement was of water to dissipate any excess heat generated bynot more than half that of the lactating Jerseys and metabolism (McArthur and Clark, 1988). However,Holsteins. the efﬁciency of evaporative cooling declines with anAccording to Bond and Kelly (1955) and Muller increase in relative humidity. This was demonstratedet al. (1994a), a well-designed shade structure should by decline in milk production between 328C withreduce total heat load by 30–50%. The beneﬁcial 20% relative humidity and 328C with 45% relativeeffects of providing shade shelter to cattle and sheep humidity (Johnson and Vanjonack, 1976). This dif-in terms of thermoregulatory responses and prod- ference in relative humidity reduced respiratory anductive responses have been demonstrated on numer- surface evaporation, which resulted in a rise in rectalous occasions (Roman-Ponce et al., 1977; Collier et temperature, reducing feed intake and milk product-al., 1981; Roberts, 1984; Legates et al., 1991; Muller ion.et al., 1994a,b,c). The beneﬁcial effects of providing Under thermal stress, cattle increase evaporativeshade shelter to cattle and sheep in improving their heat loss by both panting and sweating, with sweat-reproductive performance are also well established ing being quantitatively superior to panting(Stott et al., 1972; Stephenson et al., 1984). (McLean, 1963). Heat transfer by evaporation is
+described by the equation:2.8. Evaporative heat loss: respiratory and
+cutaneous water (RCW) losses Q 5 kAV( p 2 p ) (5)eeen sa
+The heat required to convert water into vapor is where Q 5evaporative heat transfer, k 5eereferred to as the latent heat of vaporization. The evaporative constant, A 5effective evaporativeevaporization of 1 ml of water requires 2.43 Joules (wet) area, V 5air velocity to some power n, p 5n sand this is the amount of heat lost when 1 ml of vapor pressure of water on the animal’s surface,water evaporates from the skin or from the respirato- p 5vapor pressure of water in the air.ary tract. Loss of RCW can be separated into passive It is important to note that evaporative and con-and thermoregulatory components. Passive water vective effects on heat loss are not easily separable.loss is the respiratory and cutaneous diffusion losses, As indicated in Eq. (5), air velocity is one of thethe latter constituting approximately two-thirds of important factors inﬂuencing evaporative heat trans-passive water loss (Yousef, 1985). Thermoregulatory fer. Ittner et al. (1951) reduced skin and bodywater loss is activated by panting and sweating. temperatures by increasing the air velocities overPassive (insensible) water loss (IW) relates to body pigs and cattle subjected to high ambient tempera-weight according to the following formula of Chew tures. These ﬁndings were pivotal to the develop-(1965): ment of modern forms of air ventilation to ameliorate
+0.826
+[IW (ml/h) 5 2.58 3 BW (kg)] (4) heat stress in domestic animals. However, the time
+6 N. Silanikove / Livestock Production Science 67 (2000) 1 –18
+that a volume of air at a speed of 1.6 km/h (typical 0.05) in Ayrshire calves than in Guernsey calves and
+breeze in the Mediterranean zone) passes over an suggested that Ayrshire calves were more capable of
+11-m long shade is too short (25 s) to induce a acclimation to hot weather than Guernsey calves.
+signiﬁcant reduction in the heat load. Therefore, The morphology and functioning of the apocrine
+most of the beneﬁt from shade for animals under sweat glands of cattle during hot climatic conditions
+extensive conditions should be gained from reducing has been extensively investigated (Montgomery et
+the radiation. al., 1984). Blazquez et al. (1994) reported that
+Basal respiration rate is about 20 breaths per min. increased blood ﬂow to the skin is positively corre-
+in cattle (Thomas and Pearson, 1986) and little bit lated to the sweating rate. Earlier, Kibler and Brody
+higher (25–30 breaths per min) in goats (Robertshaw (1952) found similar sweating rates for B. taurus and
+and Damiel, 1983) and sheep (Hales and Brown, B. indicus breeds; however, Allen (1962) showed
+1974). Therefore, increase in breaths rate above 40 that B. indicus and Zebu cattle had signiﬁcantly
+may be regarded as panting in order to increase body higher sweating rates than breeds from temperate
+cooling by respiratory evaporation. Under severe regions. Ferguson and Dowling (1955) and Allen
+heat stress the respiration rate reach values of 200 (1962) ascribe elevated sweating rates of B. indicus
+breaths per min in cattle (Thomas and Pearson, and Zebu cattle to their higher density of sweat
+1986), and 300 breaths per min in sheep (Hales and glands. Schmidt-Nielsen (1964) reported that as the
+Brown, 1974). In sheep, panting is the major environmental temperature rose, B. taurus cattle
+evaporatory heat loss mechanism and respiratory showed an appreciable increase in evaporation be-
+frequencies tend to follow closely the heat loss by tween 15 and 208C, with a maximum rate of
+evaporation (Hales and Brown, 1974). In non-shel- evaporation being reached before 308C. On the
+tered sheep under summer Mediterranean conditions contrary, Brahman cows (B. indicus) had initially
+respiration rate (125 breaths per min) was 56% lower evaporation rates, but rapid evaporation rates
+higher than in sheltered sheep (80 breaths per min) occurred when temperatures were between 25 and
+due to direct effect of solar radiation (Silanikove, 308C, and continued rising up to 408C. Cattle in
+1987). Measuring breath rate and deciding if an temperate and tropical regions possess the same type
+animal is panting, and qualifying the severity of heat and number of sweat glands, one to each hair follicle
+stress according to panting rate (low: 40–60 breaths (Findlay and Yang, 1950). However, tropical breeds
+2
+per min, medium high: 60–80, high: 80–120, and have a higher density of hair follicles (1698/cm for
+2
+severe heat stress: above 150 breaths per min in Zebu) than is the case in B. taurus breeds (1064/cm
+cattle, and above 200 in sheep) appears to be the for Shorthorn) according to Dowling (1955). Further,
+most accessible and easiest method for evaluating the Dowling (1955) reported that Zebu have sweat
+impact heat stress on farm animals under extensive glands that are located much closer to the skin
+conditions; all it requires is direct observation of the surface than is the case in temperate breeds of cattle.
+animal and a watch. Blazquez et al. (1994) did not attach signiﬁcance to
+The measurement of sweating rate is difﬁcult and the number of sweat glands per unit area or to their
+results have been varied. Robertshaw and Vercoe individual size, but more to the product that these
+(1980) reported a twofold increase in the rate of skin sweat glands produce.
+2
+moisture loss (up to 77 g/m /h) from the scrotum
+after exposure to a temperature of 408C. Blazquez et
+al. (1994) measured a ﬁvefold increase in the rate of 2.9. Heat loss and gain by convection
+2
+skin moisture loss (up to 279 g/m /h) from the
+scrotum at 36.28C. Finch (1986) found that the When cool air meets a warm body, a layer of air
+sweating rates of B. indicus increased exponentially surrounding the surface of the body is heated and
+with rises in body temperature; whereas, in B. rises moving away from the body, carrying with it
+taurus, the sweating rates tended to plateau after an heat, and thereby cooling the body through the
+initial increase. Within B. taurus breeds, Singh and process of convection. On the contrary, if air tem-
+Newton (1978) found higher sweating rates (P, perature is greater than skin temperature, then air
+N. Silanikove / Livestock Production Science 67 (2000) 1 –18 7
+movement will promote the movement of heat into tone, shredded paper and rubber mats), Cummins
+the animal until air temperature equals skin tempera- (1998) found that cows had highest preference for
+ture when transfer of heat ceases. The transfer of ground limestone which had the lowest temperature
+heat during respiration is a form of convective heat of 25.98C at 25 mm below the surface. This under-
+transfer. Inspired air is adjusted to the body tempera- scores the importance of bedding material selection
+ture by the time it reaches the trachea (Yousef, as part of heat stress abatement strategies. In the
+1985). The velocity of air movement affects the rate standing animal, conductive heat loss is minimal
+of convection and anything that resists air movement because of the presence of a layer of air against the
+such as fur in cattle will decrease the rate of heat skin, which means that most of the heat transfer from
+transfer by convection. the animal takes place to air, and air has a poor
+thermal conductivity (Yousef, 1985). Furthermore, in
+a standing animal, transfer of heat to the ground only2.10. Heat loss and gain by conduction
+takes place through the feet with a very small area of
+contact, and in cows the distance between the bloodThe heat ﬂow between two media or bodies in
+vessels and the surface is much greater in the feetdirect contact is described as conductive heat ex-
+than it is in the skin. On the other hand, an animalchange. Conductive heat exchange is between the
+lying on a cool wet surface will have greateranimal and its surrounding air environment, and
+conductive heat transfer depending on the thermalbetween the animal and any other media, solid or
+conductance of the substrate as well as the tempera-otherwise that the animal may be in direct contact
+ture gradient and magnitude of the area of contactwith. When the other media with which the animal is
+relative to the total surface area (Eq. (6)). If airin contact with are either gases or liquid, the
+temperature or temperature of the ground on whichconductive heat exchange is further complicated by
+the animal is lying is greater than skin temperature,heat exchange through convection in these media.
+then the animal will gain heat by conduction, addingThe ﬂow of heat by conduction depends on the
+to the metabolic heat load.temperature difference, the conductance of the
+media, and the area of contact (Schmidt-Nielsen,
+2.11. Summary of factors governing the heat1964). Esmay (1969) reported a proportional rela-
+balance between an animal and its environmenttionship between the bulk density of materials and
+their conductivity, thus the more dense the material
+The general homeostatic responses to thermalthe greater the conductivity or inversely the less the
+stress in mammals include reduction in fecal andresistance to heat ﬂow. The conductive heat transfer
+urinary water losses, reduction in feed intake andwas described in Yousef (1985) in a simple diffusion
+production, and increased sweating, respiratory ratesequation as:
+and heart rates. In response to stress, mammals sets
+physical, biochemical, and physiological processesK 5 Ah (t 2 t ) (6)cs a
+into play to try and counteract the negative effects of
+heat stress and maintain thermal equilibrium. Mostwhere K5conductive heat exchange, A5is surface
+of the adjustments made by an animal involvearea, h 5is thermal conductivity of the material inc
+dissipating heat to the environment and reducing thecontact with the skin, t 5is mean skin temperature,s
+production of metabolic heat.t 5is air temperature.a
+The heat stress imposed by the environmentFor the high producing dairy cow, it is important
+depends on the internal heat load and on the factorsto know that the magnitude of conductive heat
+that govern heat exchange. The latter is dependent ontransfer depends on the nature of material in contact
+the temperature and vapor pressure gradients thatwith its skin, in particular its thermal conductivity.
+exist between the animal and the environment andTo alleviate heat stress, utilization of bedding materi-
+the resistance to heat ﬂow along these gradients. Theals with high conductance may facilitate cooling of
+color of the fur and its resistance can affect con-the animals. From experiments with different bed-
+siderably the non-evaporative heat gain and lossesding materials (wood shavings, sand, ground limes-
+8 N. Silanikove / Livestock Production Science 67 (2000) 1 –18
+(Esmay, 1969; Yousef, 1985). The thermoregulatory secretion of cortisol stimulates physiological adjust-
+responses of ruminant held in a climate-controlled ments that enable an animal to tolerate the stress
+room differ qualitatively and quantitatively from caused by a hot environment (Christison and John-
+those in animals exposed to natural environment son, 1972). Plasma cortisol may increase within 20
+(Robertshaw and Damiel, 1983; Legates et al., min of exposure to acute heat stress, and reach a
+1991). This is because direct and indirect radiation plateau within 2 h (Christison and Johnson, 1972).
+and local heating of the skin have a large inﬂuence Plasma cortisol rises markedly when cattle are
+on stimulation of the sweat glands. acutely exposed to high environmental temperatures
+The complexities of the above described factors and decreases during the chronic phase (Habeeb et
+that govern heat exchange make it clear why any al., 1992). However, Muller et al. (1994b) found that
+physical measurement of the environment is less than shaded cows under South African Mediterranean
+satisfactory as an index of thermal stress, hence summer conditions maintained lower plasma cortisol
+animal welfare. The impact of the environment may concentration, along with lower rectal temperatures
+be modiﬁed by animal behavior, and can differ on a and respiration rates, during periods of peak heat
+species, breed, and individual levels. The suscep- stress. This suggests that cows are sensitive to heat
+tibility to other stresses may exacerbate the effects of stress even in a temperate environment, and that
+heat stress. These considerations emphasize further basal cortisol concentrations may increase in chroni-
+the problematic nature of establishing a useful cally heat-stressed cows if heat stress intensiﬁes.
+relationship between heat stress indices and animal Collins and Weiner (1968) suggested that the
+welfare and productivity, particularly in extensive initial reactions of the animal to acute heat stress
+systems. Nevertheless, an environmental proﬁle pro- represent an emotional rather than a thermoregulat-
+vides baseline data on which to estimate average ory response. However, under severe acute heat
+expected climatic effects, their variation and the stress the hyperglycemic action of cortisol is most
+duration of any extremes. Such information is neces- likely required to provide the expected increase in
+sary for understanding animal responses to environ- glucose utilization. It may be concluded that decline
+mental conditions, deﬁning the climatic space for a in plasma cortisol activity under chronic heat stress
+given species or breed, and as a ﬁrst approximation indicates adaptation to the stress, whereas an in-
+in evaluating its susceptibility to exposure to con- crease in the cortisol concentration over the basal
+ditions which will reduce its welfare. Thus this level in animals that are chronically exposed to heat
+information is essential in making decisions to load is an indication that the animal became dis-
+expend economic and energy resources in order to tressed.
+improve the climate for animal welfare and pro-
+duction. 3.2. Thyroid hormones
+The anterior lobe of the pituitary gland produces
+3. Hormonal responses the hormone thyrotropin, which acts primarily on the
+thyroid gland to produce thyroxin (T ) and tri-4
+3.1. Glucocorticosteroids iodothyronine (T ). These hormones inﬂuence differ-3
+ent cellular processes, in particular the thermogenesis
+Activation of the pre-optic area stimulates the activity that accounts for approximately 50% of the
+hypothalamus to release a corticotrophin-releasing basal metabolic rate of normal animals (Habeeb et
+factor that acts on the anterior pituitary to release al., 1992). Certain physical stress factors tend to
+adrenocorticotropic hormone. This stimulates the inhibit the secretion of the thyroid gland (Habeeb et
+adrenal cortex to produce glucocorticosteroids (main- al., 1992). The concentrations of T and T in blood43
+ly cortisol). Activation of the hypothalamic–pitui- plasma were found to decline under heat-stress
+tary–adrenal axis and the consequent increase of conditions by up to 25% (Magdub et al., 1982;
+plasma cortisol concentration are the most prominent Beede and Collier, 1986). The response is slower
+responses of an animal to stressful conditions. The than that described for cortisol, and it took several
+N. Silanikove / Livestock Production Science 67 (2000) 1 –18 9
+days for T and T levels to reach a new steady state bient temperature range point deﬁne the limits of the43
+(Kamal and Ibraim, 1969). The readjustment in TNZ (Robertshaw, 1981). However, whereas the
+thyroid response is chronic and, as a result, summer deﬁnition of the lower critical point is precise and
+thyroid activity is lower than during winter (Habeeb unambiguous, the upper critical point may be deﬁned
+et al., 1992). These modiﬁcations in thyroid activity in several ways (Mount, 1973). The ambient tem-
+are consistent with decrease in metabolic rate, feed perature, below which the rate of heat production of
+intake, and growth and milk production under heat a resting homeotherm increases to maintain thermal
+stress (Beede and Collier, 1986). balance, is the lower critical temperature. The upper
+From the above discussion its appears that a critical temperature may be deﬁned as the ambient
+reduction in thyroid activity reﬂects an animal under temperature when the: (a) metabolic rate increases;
+strain that is adapted to its environment, whereas (b) evaporative heat loss increases; or (c) tissue
+elevated cortisol reﬂects distress. Consequently, it thermal insulation is minimal.
+may be concluded that the welfare of an animal with Deﬁning the upper critical temperature under
+elevated cortisol concentration is much poorer than natural conditions according to deﬁnitions (a) and (c)
+in an animal with reduced thyroid gland activity. is very difﬁcult. These criteria may be measured in
+climate-controlled chambers, but it is doubtful
+whether the results are applicable to outdoor situa-
+4. Thermoregulatory behavior tions because, in the chambers; diurnal and seasonal
+cycles of climate do not prevail; and the effect of
+Domesticated ruminants are mainly diurnal in their radiation is not considered. Consequently, some
+habits, being active during the day and resting at researchers choose to deﬁne the upper critical tem-
+night. However, during hot weather in tropical and perature of cows as the point where evaporative heat
+subtropical-Mediterranean conditions, grazing rumin- loss in the form of panting increases (Berman et al.,
+ants tend to lie down and to reduce their locomotion 1985; Igono et al., 1992). However, sweating and
+during the day. Instead, they tend to graze before panting can be activated independently and, for goats
+sunrise, at dawn and during the night. Seeking shade, (Robertshaw and Damiel, 1983) and cows
+particularly during the heat of the day, is a conspicu- (Silanikove et al., 1997), sweat secretion is activated
+ous form of behavioral adaptation in these areas long before panting. Furthermore, sweating in dairy
+(Finch, 1984; Silanikove, 1987). If shade is not cows apparently is activated at fairly low tempera-
+available, an animal will change its posture to the tures (12–148C), which are considered to be well
+vertical position in respect to the sun in order to within the thermoneutral zone (Silanikove et al.,
+reduce the effective area for heat exchange (Hafez, 1997). In horses, the upper critical temperature point
+1968). Sheep tend to crowd, and to stand intimately varied from 208C (increased evaporation) to 258C
+side by side for the same purpose. Under severe heat (increased metabolic rate) to 308C (minimal tissue
+stress, animals moisten their body surface with water insulation), depending on which physiological pa-
+saliva, or nose secretions. This range of behavioral rameter was used for deﬁnition (Morgan, 1998).
+response affects the heat exchange between the These data and more information reviewed by Web-
+animal and its environment by reducing heat gain ster (1991) show that it is hard to establish a uniform
+from radiation, and increasing heat loss via convec- deﬁnition for the upper critical temperature.
+tion and conduction (Hafez, 1968).
+6. Thermal well-being in relation to the TNZ
+5. The thermoneutral zone (TNZ) concept
+The subdivision of the TNZ into a zone of thermal
+TNZ concept is a convenient means to describe well-being, as for humans (Fig. 1), is suggested to be
+schematically the interrelationships between an ani- most suitable to describe the relation between an
+mal and its environment. The lower critical ambient animal and its environment from the viewpoint of
+temperature range point and the upper critical am- animal welfare. In humans, the original term that was
+10 N. Silanikove / Livestock Production Science 67 (2000) 1 –18
+Fig. 1. Schematic presentation of the zones of survival, well being, and homeothermy in respect to environmental conditions in ruminants.
+See text for more detailed deﬁnitions of the four stages of diminished welfare.
+used was thermal comfort. However, comfort implies heating come into operation: in addition to general
+cognitive recognition, whereas the decision regarding vasodilatation, sweating occurs in large and small
+the animal state of welfare are made by those who ruminants (Berman, 1971; Robertshaw and Damiel,
+raise the animals. Therefore, we prefer to use the 1983; Silanikove et al., 1997). In small mammals
+objective term — thermal well-being, to describe the such as goats, sweating may be associated at this
+state of animal welfare in relation to its ambient stage with modest panting. In summary, the animals
+environment. are under heat stress and activating strain responses.
+However, homeothermy is attained without difﬁcul-
+6.1. Zone of optimal thermal well-being ty, ﬁtness is not hampered, and productivity is not
+necessarily affected.
+Within the zone of optimal thermal well-being, the
+energetic and physiological efforts of thermoregula- 6.1.2. Stage II: the aversive stage
+tion (principally vasodilatation of peripheral blood This stage is deﬁned by point A0 (the ﬁrst sharp
+vessels) are minimal, the animal’s health is optimum, increase in evaporative cooling) and point B9 (upper
+and growth rate and milk yield are maximized critical point). Based on increases in body tempera-
+(Bianca, 1968). ture, the upper critical point of sheep and cattle is
+around 24–268C (Robertshaw, 1981; Igono et al.,
+6.1.1. Stage I: the innocuous stage 1992; Hahn, 1999). Above point A9 the evaporative
+This stage is deﬁned by the upper optimal thermal cooling mechanisms are intensiﬁed exponentially
+well-being point (A9) and a point (A0) that precedes with the increase in internal and external heat loads
+the upper critical point (B9). When environmental (Silanikove et al., 1997). As a result, water con-
+temperature rises above the optimal thermal well- sumption per unit of dry matter ingested by cows
+being (A9), strain defense mechanisms against over- was constant between 212 and 148C and rose at an
+N. Silanikove / Livestock Production Science 67 (2000) 1 –18 11
+accelerated rate between 4 and 388C (Winchester and more frequently than during the cool winter months.
+Morris, 1956). At this stage the animals are much Other than parasitic problems during warm months,
+more vulnerable to negative interactions with nutri- it is apparent that heat stress itself can directly and
+tional and other environmental stresses (Silanikove adversely affect the health of the dairy cow (Collins
+et al., 1997); some of these negative interactions are and Weiner, 1968). Using data from dairy herds,
+discussed later. DuBois and Williams (1980) calculated that 24% of
+cows (79 parturitions) that calved during the warm
+season of May through September had retained6.1.3. Stage III: the noxious stage placenta and developed postpartum metritis, com-This stage is deﬁned by point B9 and point C0 in pared to 12% (98 parturitions) for the rest of the yearwhich coping attempts to maintain homeothermy are when temperatures were low. This difference (P,unsuccessful and therefore ﬁtness is impaired. 0.05) was wholly attributed to the effects of heatAbove point B9, two physiological responses are stress on the dairy cows during the warm months.possible: Further, DuBois and Williams (1980) found a differ-
+ence in the gestation length (273 vs. 279 days) of
+1. Feed consumption and thermogenic hormone cows having retained placenta and postpartum met-
+secretion decrease to lower the basal metabolism, ritis than of cows not exhibiting these symptoms.
+resulting in a reduction of the internal heat load. Retained placenta and postpartum metritis occur with
+This response will be activated whenever the early parturition and are of major economic signiﬁ-
+increase in heat stress is gradual, allowing the cance for dairy producers. Collins and Weiner (1968)
+animals to adapt to the new situation, and when reported that heat stress causes a variety of neuroen-
+the combined effects of reduced internal heat load docrine changes, which may contribute to the short-
+and evaporative cooling enable the maintenance ening of the gestation period. Although literature on
+of homeothermy. If animals are at a productive the effects of heat stress livestock health is scant, it
+stage (growth, lactation), the reduction in feed seems logical to postulate that the inﬂuence of
+intake and internal heat production is reﬂected in thermal stress on the physiological functions may
+a reduction in productivity (Silanikove, 1992). trigger clinical or sub-clinical health conditions.
+2. If an animal does not have an opportunity for Cavestany et al. (1985) determined the relation-
+adaptation (B9 in Fig. 1) or with temperature ship between ambient temperature and breeding
+rising further in adapted animals (C9 in Fig. 1), efﬁciency and demonstrated that seasonal high en-
+cooling is insufﬁcient to maintain homeothermy vironmental temperatures were associated with low
+despite intensiﬁcation of evaporation, with the breeding efﬁciency due to a variety of factors. High
+result that body temperature starts to rise. summer temperature above the TNZ of cattle and
+sheep drastically reduced conception rate and pre-
+sumably increased embryonic loss (Cavestany et al.,Most of the efforts in farm animal management
+1985; Holmes et al., 1986; Biggers et al., 1987;should be targeted in preventing the animals from
+Dollah et al., 1990; Adballa et al., 1993) andentering stage III, because: (i) the danger of entering
+perinatal losses (Lynch, 1985). Heat stress alsostage IV, which may fatal, and (ii) impaired ﬁtness is
+adversely affects the ovum and sperm in the re-associated with poor welfare, health, and reduced
+productive tract and early embryo developmentproductive and reproductive performances.
+(Ingraham et al., 1979; Ocfemia et al., 1993), andFor a variety of reasons, the incidence of health
+may alter the hormonal balance of the dam (Stott etproblems in livestock increases during warm summer
+al., 1972; Thatcher, 1974).months (Collins and Weiner, 1968; Niwano et al.,
+1990). Vectors and other disease causing agents
+6.1.4. Stage IV: the extreme stagethrive better under warm to hot and humid en-
+This stage is deﬁned by point C0 (sharp increase invironmental conditions. In tropical locations, tick and
+body temperature) and point D9 (death from heat),internal parasite populations explode during summer,
+and occurs when a vicious circle of rising bodyforcing farmers to dip and drench their livestock
+12 N. Silanikove / Livestock Production Science 67 (2000) 1 –18
+temperature sets in. External emergency aid is kept lower than the core body temperature
+needed to save the animal from immediate death. (Robertshaw and Damiel, 1983). Thus, water scarci-
+If the strain is high, and body temperature con- ty, or water deprivation, will enhance the heat stress
+tinues to rise, the animal enters into an acute phase effect, and cause deterioration in the animal welfare
+of heat stress that induces heavy panting and maxi- due to the steeper increase in core body temperature.
+mal sweating. Heat production will rise under this On the other hand, heat load increases plasma and
+condition because of the acceleration in the bio- extracellular volume, apparently in proportion to the
+chemical processes (the van’t Hoff effect) and thermoregulatory requirement of the exposed animal
+because of the energetic cost of heavy panting (Hales (Silanikove, 1987; Chaiyabtur et al., 1990). This
+and Brown, 1974). If these dramatic measures fail to response may be interpreted as pre-adaptation to heat
+stop the elevation in body temperature, a vicious stress and water deprivation, as the expended ﬂuid
+circle set in and the animal succumbs to heat stroke pools will buffer increase in body temperature and
+and dies. Most mammals die when deep body will resist dehydration longer. Maintaining feed
+temperature reaches 42–458C (Bianca, 1968), which intake and milk yield in heat-stressed desert goats
+exceeds normal body temperature by about only even after exposure to 48 h of dehydration has been
+3–68C. related to their ability to maintain a sufﬁcient blood
+Stages I, II, III, and IV in the zone below the ﬂow to the gut and the udder (Maltz et al., 1984).
+lower critical temperature represent the deterioration The increase in body water content in animals in a
+in animal well-being in the cold environment. How- hot climate is considered, therefore, as an adaptive
+ever, the detailed justiﬁcations of this are beyond the reaction to ameliorate heat stress. Thus, like the
+scope of this review. reduction in thyroid gland activity, an increase in
+body water content is a sign of an animal in stress
+that is adapted to its environment.
+7. Interaction with water metabolism The reduced homeostatic efﬁciency of plasma
+monovalent ions in hot weather observed in lactating
+Under thermoneutral conditions, feed intake is the cows may consist of an accumulation of their
+major determinant of water intake, or water turnover deﬁciencies, enhanced secretion in sweat, and the
+(Silanikove, 1989). Heat stress increases considera- transient sequestration of sodium and chlorine ions in
+bly water and ion losses of ruminants, and hence the rumen (Maltz et al., 1994). Ruminants secrete
+increases their requirements (Beede and Collier, large amounts of saliva to buffer their rumen content.
+1986). Cerebral thermal sensors and sensors regulat- The amount of sodium secreted with the saliva is
+ing thirst and release of vasopressin are interrelated 5–10-times greater than that present in plasma
+at the hypothalamic level and heat defense mecha- (Silanikove et al., 1987). Reabsorption of sodium
+nisms are adjusted to the water balance of the animal from the rumen is an active process that accounts for
+(Baker, 1982, 1989). Dehydration and increase of |50% of the sodium absorption from the gastro-
+solutes concentration in the body ﬂuid of mammals intestinal tract (Silanikove and Tadmor, 1989). The
+exposed to heat will reduce their thermoregulatory reduction in feed intake and volatile fatty acid
+evaporation and allow the body temperature to rise production under heat stress may, therefore, delay
+(Silanikove, 1992). This readjustment in thermoregu- sodium absorption from the rumen (Maltz et al.,
+lation has been observed in both panting and sweat- 1994). Thus, an increase in the ﬂuctuation of plasma
+ing species and appears to be a regulated response ions, and a mid-day decrease in their concentration,
+that allows the dehydrated animal to save water. In may serve as an indication of failure of animals to
+species that both pant and sweat, such as the goat, ameliorate heat stress effectively.
+progressive dehydration leads to suppressed sweating
+and increased panting (Baker, 1989). A panting
+animal does not lose salt and therefore blood plasma 8. Interaction with supplementation
+volume is better preserved. An additional advantage
+of panting relates to cooling of the blood passing the Pastures along the summer dry belts on earth, such
+nasal area, which allows the brain temperature to be as the Mediterranean pasture, are dry during the
+N. Silanikove / Livestock Production Science 67 (2000) 1 –18 13
+summer, and their quality in most instances do not ﬂected in extended negative energy balance in this
+sustain the energy and nitrogen requirements of group. The excess consumption in poultry litter
+cattle and sheep for maintenance and pregnancy. induced toxic effects on the liver, and the combina-
+These dry pastures are characteristically highly ﬁbr- tion of metabolic burden and negative energy bal-
+ous and release much heat during the processes of ance increased embryo loss in the non-shaded cows.
+fermentation and absorption (heat increment). This Thus, providing shade ameliorated the heat stress,
+heat increment exacerbates the heat load of the prevented excessive reduction in pasture intake,
+animal by increasing the internal heat load (Beede allowed the cows to consume a better balanced diet,
+and Collier, 1986; Goetsch and Johnson, 1999; West, and prevented embryo loss.
+1999). Thus, supplementing grazing ruminants with
+low-quality highly ﬁbrous food may sustain the 8.2. Nutritional deﬁciencyanimals when those pastures are meager, but cannot
+improve their well being. On the other hand, supple- Addition of solutes (NaHCO and KCl) beneﬁted3mentation of ruminal escape protein and fat may heat-stressed cows in terms of milk yield, regulationreduce the heat increment of food, improve nitrogen of acid–base balance, and lowering body tempera-utilization, and therefore animal welfare (Bunting et tures (Coppock et al., 1982; Schneider et al., 1986).al., 1992; West, 1999). These responses may be related to the deﬁciency of
+the major monovalent ions (sodium, potassium, and8.1. Nutritional imbalance chlorine), particularly in early lactation under heat
+load (Shalit et al., 1991; Silanikove et al., 1997).Nutritional imbalance and deﬁciencies may ex- Low quality grasses are also low in sodium content.acerbate the impact of heat stress (Manteca and It has been shown that sodium chloride application toSmith, 1994; West, 1999). Generally, an excess of pasture, or its direct supplementation, increased thedegradable dietary protein is undesirable because of productivity of dairy cows (Chiy and Phillips, 1991).energy cost to metabolize and excrete excess N as Thus, NaCl supplementation to grazing cattle mayurea (West, 1999). One particular case that will be improve their heat tolerance, although this is not yetdiscussed is the interaction between heat stress and tested.supplementation based on foodstuff rich in non-
+protein nitrogen. Poultry litter is widely used as a
+cheap source of nitrogen in Israel and other coun-
+tries. When pasture is plentiful, supplementing graz- 9. Species, breed and productive state
+ing beef cows with poultry litter provided their
+nutritional requirements for maintenance and early Among the domestic ruminant species, goats are
+pregnancy (Silanikove et al., 1987). However, re- best adapted to harsh hot environments (see
+duced pasture availability resulted in a considerable Silanikove, 1997, 2000, for recent reviews on the
+increase in poultry litter consumption (Silanikove subject). Breeds of ruminants indigenous to tropical
+and Tiomkin, 1992). Excessive consumption of and subtropical environments generally performed
+poultry litter has been found to cause severe damage better than their counterparts from more temperate
+to the liver, which may be fatal when consumption zones in terms of survival, reproduction and expres-
+increases from 2 or 3 to 10 kg/day (Silanikove and sion of their genetic potential for growth and milk
+Tiomkin, 1992). Beef cows that had no access to yield (Finch, 1984). These characteristics relate to
+shade consumed much more poultry litter than their capacity to maintain their appetite under heat
+shaded cows, despite the fact that pasture conditions stress or during moderate growth and milk yield
+were similar (Silanikove and Gutman, 1992). Phys- (Silanikove, 1992). Some comparative aspects such
+iological indices (total body water content and as the important of the color of the fur, morphology
+breathing rate) suggest the non-shaded cows ex- of sweat glands, and extend of sweating were already
+perienced much greater strain. This caused a shift in discussed. Additional physiological basis for this has
+preference from the pasture — with its high heat been reviewed extensively over the years (MacFar-
+increment effect — to poultry litter, and was re- lane and Howard, 1972; Robertshaw, 1981; Finch,
+14 N. Silanikove / Livestock Production Science 67 (2000) 1 –18
+1984; Silanikove, 1992, 1994), and therefore will not 10. General discussion
+considered in detail in this review. As cattle and
+sheep are the most prevalent and numerous rumin- According to the present deﬁnition of animal
+ants in southern Europe, the differences between welfare, welfare is a characteristic of an animal that
+them in respect to resistance of heat stress will be can be measured in a scientiﬁc way that is free from
+highlighted in this review. moral considerations (Broom and Johnson, 1993).
+Cattle have a higher metabolic rate than most Therefore, welfare measurements should be based
+other domestic ruminants and a poorly developed on: (i) environmental indices of heat stress, (ii) the
+water retention mechanism in the kidney and gut animal’s response in coping with difﬁculties, and
+(MacFarlane and Howard, 1972). The rate of water (iii) on signs that coping effects to maintain
+use by cattle under summer Mediterranean condi- homeothermy are failing. In mammals, the body
+tions was approximately twice that of Merino sheep temperature is maintained at a relatively constant
+on a metabolic-weight basis (Silanikove, 1987; level because of the balance that exists between heat
+Silanikove et al., 1987). Voluntary feed intake and production and heat loss. Rectal temperature is an
+resting salivary ﬂow-rate were both |40% lower in indicator of thermal balance and may be used to
+the summer in stall-fed beef cows given water once assess the adversity of the thermal environment that
+daily in comparison with those given water twice can affect the growth, lactation, and reproduction of
+daily (Silanikove and Tadmor, 1989). As European farm animals. Despite having well-developed mecha-
+cattle suffer from even short periods of water nisms of thermoregulation, both wild and domestic
+deprivation, they respond to shadeless conditions herbivores do not maintain strict homeothermy
+much more acutely than do sheep (Silanikove and (McLean et al., 1983). For cattle under considerable
+Gutman, 1992). heat stress the diurnal variation in body temperature
+Sheep are able to maintain remarkable thermo- may be as much as 38C, although the rate of rise in
+stability in spite of heat stress (Degen and Shkolnik, core body temperature is slower in adapted breeds
+1978; Silanikove, 1987). This ability relates to their (Finch, 1984). Animals that are adapted to extremely
+excellent insulation capacity (Degen and Shkolnik, hot environments, such as the oryx and the camel,
+1978). Depriving Merino sheep at a maintenance can tolerate a rectal temperature of 458C for 8 h
+level of feeding from shade shelter had no effect on without any apparent damage (Finch, 1984). This
+their voluntary food intake (Silanikove, 1987). How- raises the question whether body temperature can be
+ever, shade-deprivation increased their strain, as used as a general measure of an animal’s welfare.
+reﬂected by an increase in plasma and total body With regard to domestic species, there is unequivocal
+water content (Silanikove, 1987). evidence that hyperthermia is deleterious to any form
+Water deprivation and heat stress in pregnant and of productivity, regardless of breed and stage of
+lactating ruminants would result in a more acute adaptation (Finch, 1984). This conclusion is also
+reduction in feed intake than in the same animals fed valid on the individual level; ewes of the same ﬂock
+at near maintenance. This difference is because in and breed that managed to maintain lower rectal
+highly productive animals dehydration is faster, and temperature (,39.88C) produced lambs with higher
+the interaction with the high internal heat load would birth weight than sheep with higher rectal tempera-
+tend to increase body temperature faster (Silanikove, ture (.39.88C) (McCrabb et al., 1993a,b). McCrabb
+1992). Pregnant and lactating sheep increase their et al. (1995) concluded that measurement of rectal
+water intake markedly during heat stress. The result temperature in sheep exposed to a hot environment
+is voluntary overhydration (Adballa et al., 1993; in any one year is an accurate measure of their rectal
+Olsson et al., 1995), and in sheep this phenomenon temperature during subsequent years.
+was observed also in non-pregnant and non-lactating Thus, the best physiological parameter to objec-
+animals under shadeless conditions (Silanikove, tively monitored animal welfare in hot environment
+1987). Such a response allows the animals to buffer should be rectal temperature. In domestic ruminants
+themselves against short periods of water depriva- a rise in body temperature marks the transition from
+tion, and therefore may be regarded as anticipatory aversive (stage II, coping with difﬁculty) to the
+drinking (Silanikove, 1987). noxious (stage III, coping attempts to maintain body
+N. Silanikove / Livestock Production Science 67 (2000) 1 –18 15
+temperature are unsuccessful and therefore ﬁtness 2. Provision of water: It is recommended that the
+impaired) stage. The innocuous stage (stage I), distance between watering spot and grazing area
+which precedes the aversive stage, marks the am- be such that grazing cattle are able to visit the
+bient conditions where for the ﬁrst time thermo- water spot at least twice a day, and goats and
+regulatory mechanisms are operated, and the aver- sheep at least once a day. In order to avoid
+sive stage marks the limit of the animal’s ability to negative interactions with other stressful factors,
+do so without a raise in body temperature. The particular emphasize should be given to adequate
+extreme stage (stage IV) is deﬁned as that in which a supplementation and provision of clean water.
+vicious cycle of rising body temperature starts. 3. Limitation on type of breed: It would be unethical
+External emergency aid is needed to save the animal from welfare considerations to grow purebred
+from immediate death. breeds from temperate environments in areas
+The problem is that rectal temperature can not be where typical ambient temperature during sum-
+simply measured in free ranging animal. In the mer exceeds 248C and THI exceeds 70.
+future, developing cheap miniature telemetric equip- 4. Limitation on transportation: Since adaptation
+ment might solve this problem. In the mean time, takes time, it is recommended to avoid the
+stage III can be relatively easy identiﬁed by counting transfer of farm animals from a relatively cool to
+animal breaths rate of 100 per min and above. In a hot environment during the summer.
+sheep, where respiration rate follows closely
+evaporative water loss, counting breaths rate of 50– Acknowledgements60 breaths per min most likely indicates that the
+animals are in stage II. THI of around 80 and above Contribution from the Institute of Animal Science,imply that most domestic ruminants would be in Agricultural Research Organization, The Volcanistage III, with danger in being drifted to stage IV. Centre, Bet Dagan, Israel, No. 318/98.
+11. Practical considerations References
+Relatively, there is a lot of basic knowledge on the Adballa, E.B., Kotby, E.A., Johnson, H.D., 1993. Physiological
+responses to heat-induced hypothermia of pregnant and lactat-interaction between heat stress and livestock pro-
+ing ewes. Small Rumin. Res. 11, 125–134.duction, reproduction, and health traits. The im-
+Albright, J.L., Alliston, C.W., 1972. Effects of varying theplementation of these knowledge to maintain the environment upon performance of dairy cattle. J. Anim. Sci.
+welfare of animals maintained under extensive man- 32, 566–577.
+agement systems is difﬁcult because of objective Allen, T.E., 1962. Responses of Zebu, Jersey and Zebu and Jersey
+crossbred heifers to rising temperatures with particular refer-limitations to monitor heat stress and because of
+ence to sweating. Aust. J. Agric. Res. 13, 165–179.economical restriction in applying measures to relief
+Baker, M.A., 1982. Brain cooling in endotherms in heat andheat stress. From welfare point of view, ideally the exercise. Annu. Rev. Physiol. 44, 85–96.
+animals should be raised in the zone of optimal Baker, M.A., 1989. Effect of dehydration and rehydration on
+thermal well being. However, these would be almost thermoregulatory sweating in goats. J. Physiol. Lond. 417,
+421–435.impracticable goal to attain in large grazing part of
+Beede, D.K., Collier, R.J., 1986. Potential nutritional strategies forthe world. A more practical goal would be to
+intensively managed cattle during heat stress. J. Anim. Sci. 62,maintain livestock within stages I and II of thermal 543–550.
+well being, or in other words to prevent the animals Berman, A., 1971. Thermoregulation in intensely lactating cows in
+entering stage III. near-natural conditions. J. Physiol. Lond. 215, 477–481.
+Berman, A., Folman, Y., Kaim, M., Mamen, M., Herz, Z.,The following recommendations are general rules
+Wolfenson, D., Arieli, A., Graber, Y., 1985. Upper criticalthat can be applied under extensive conditions:
+temperatures and forced ventilation effects for high-yielding
+dairy cows in a subtropical climate. J. Dairy Sci. 68, 1488–1. Provision of shade shelter: This measure is essen- 1495.tial to the welfare of farm animals in areas where Bianca, W., 1968. Thermoregulation. In: Hafez, E.S.E. (Ed.),
+typical ambient temperature during summer ex- Adaptation of Domestic Animals. Lea and Febiger, Philadel-
+ceeds 248C and THI exceeds 70. phia, PA, pp. 97–118, Chapter 7.
+16 N. Silanikove / Livestock Production Science 67 (2000) 1 –18
+Biggers, B.G., Geisert, R.D., Wetteman, R.P., Buchanan, D.S., Dollah, M.A., Fradhlulah, A.M., Nordin, H.M., Ibrahim, C.E.,
+1987. Effect of heat stress on early embryonic development in 1990. Alleviation of environmental heat stress for improvement
+the beef cow. J. Anim. Sci. 64, 1512–1518. of reproduction of exotic sheep in humid tropics. In: Proc. 5th
+Blazquez, N.B., Long, S.E., Mayhew, T.M., Perry, G.C., Prescott, AAAP Animal Science Congress, May 27–June 1, 1990,
+N.J., Wathes, C.M., 1994. Rate of discharge and morphology of Taipei, Taiwan, Republic of China, Vol. 3. AAAP Organization
+sweat glands in the perineal, lumbodorsal and scrotal skin of Committee, Chunan, Miaoli, Taiwan, p. 155.
+cattle. Res. Vet. Sci. 57, 277–284. Dowling, D.F., 1955. The hair follicle and apocrine gland popula-
+Bond, T.E., Kelly, C.F., 1955. The globe thermometer in agricul- tions of Zebu (Bos indicus L.) and (Bos taurus L.) cattle skin.
+tural research. Agric. Eng. 36, 251–260. Aust. J. Agric. Res. 6, 645–654.
+Broom, D.M., 1986. Indicators of poor welfare. Br. Vet. J. 142, DuBois, P.R., Williams, D.J., 1980. Increased incidence of retained
+524–526. placenta associated with heat in dairy cows. Theriogenology
+Broom, D.M., 1992. Animal welfare: Its scientiﬁc measurement 13, 115–121.
+and current relevance to animal husbandry in Europe. In: Esmay, M.L., 1969. In: Principles of Animal Environment. AVI
+Phillips, C., Pigginns, D. (Eds.), Farm Animals and the Publishing, New York, p. 319.
+Environment. CAB, Wallingford, UK, pp. 245–253. Ferguson, K.A., Dowling, D.F., 1955. The functions of cattle
+Broom, D.M., Johnson, K.G., 1993. Stress and Animal Welfare. sweat glands. Aust. J. Agric. Res. 6, 640–644.
+Chapman and Hall, London. Finch, V.A., 1976. An assessment of the energy budget of Boran
+Bufﬁngton, D.E., Collier, R.J., Canton, G.H., 1983. Shade man- cattle. J. Therm. Biol. 1, 143–148.
+agement systems to reduce heat stress for dairy cows in hot, Finch, V.A., 1984. Heat as a stress factor in herbivores under
+humid climates. Trans. Am. Soc. Agric. Eng. 26, 1798–1803. tropical conditions. In: Gilchrist, F.M.C., Mackie, R.I. (Eds.),
+Bunting, L.D., Sticker, L.S., Wozniak, P.J., 1992. Effect of ruminal Herbivore Nutrition in the Subtropics and Tropics. The Science
+escape protein and fat on nitrogen utilization in lambs exposed Press, Graighall, South Africa, pp. 89–105.
+to elevated ambient temperatures. J. Anim. Sci. 70, 1518– Finch, V.A., 1986. Body temperature in beef cattle: Its control and
+1525. relevance to production in the tropics. J. Anim. Sci. 62,
+Cavestany, D., El-Wishy, A.B., Foote, R.H., 1985. Effect of 531–542.
+season and high environmental temperature on fertility of Findlay, J.D., Yang, S.H., 1950. The sweat glands and Ayrshire
+Holstein cattle. J. Dairy Sci. 68, 1471–1478. cattle. J. Agric. Sci. Camb. 40, 126–133.
+Cena, K., Monteith, P., 1975. Transfer processes in animal coats. Gebremedhin, K.G., 1985. Heat exchange between livestock and
+1. Radiative transfer. Proc. R. Soc. Lond. B 188, 377. the environment. In: Yosef, M.K. (Ed.). Stress Physiology in
+Chaiyabtur, N., Buranakal, C., Loypetjra, P., Chanpongsang, S., Livestock, Vol. 1. CRC Press, Boca Raton, FL, pp. 15–33.
+1990. Effect of prolonged exposure to the sun on body water Goetsch, A.L., Johnson, Z.B., 1999. Feed intake and digestion in
+turnover and volume of the blood in swamp buffaloes. Asian- the summer and fall by different breeds of ewes consuming
+Aust. J. Anim. Sci. 3, 47–52. forages differing in quality. Small Rumin. Res. 31, 109–116.
+Chew, R.M., 1965. Water metabolism of mammals. In: Mayer, Habeeb, A.A.M., Marai, I.F.M., Kamal, T.H., 1992. Heat stress.
+W.W., Van Gelder, R.G. (Eds.). Physiological Mammalogy, Vol. In: Phillips, C., Pigginns, D. (Eds.), Farm Animals and the
+2. Academic Press, New York, p. 43. Environment. CAB International, Wallingford, UK, pp. 27–47.
+Chiy, P.C., Phillips, C.J.C., 1991. The effects of sodium chloride Hafez, E.S.E., 1968. Behavioral adaptation. In: Hafez, E.S.E.
+application to pasture or its direct supplementation on dairy (Ed.), Adaptation of Domestic Animals. Lea and Febiger,
+cow production and grazing preference. Grass Forage Sci. 46, Philadelphia, PA, pp. 202–214, Chapter 15.
+325–332. Hahn, G.L., 1999. Dynamic responses of cattle to thermal heat
+Christison, G.I., Johnson, H.D., 1972. Cortisol turnover in heat- loads. J. Anim. Sci. 77 (Suppl. 2), 10–20.
+stressed cows. J. Anim. Sci. 53, 1005–1010. Hales, J.R.S., Brown, G.D., 1974. Net energetic and ther-
+Collier, R.J., Eley, R.M., Sharma, A.K., Pereira, R.M., Bufﬁngton, moregulatory efﬁciency during panting in the sheep. Comp.
+D.E., 1981. Shade management in subtropical environment for Biochem. Physiol. 49A, 413–422.
+milk yield and composition in Holstein and Jersey cows. J. Hansen, P.J., Arechiga, C.F., 1999. Strategies for managing
+Dairy Sci. 64, 844–849. reproduction in the heat-stressed dairy cow. J. Anim. Sci. 77
+Collins, K.H., Weiner, H.S., 1968. Endocrinological aspects of (Suppl. 2), 36–50.
+exposure to high environmental temperature. Physiol. Rev. 48, Holmes, J.H.G., Prasetyo, S., Miller, H.M., Scheurmann, E.A.,
+785–794. 1986. Effect of chronic heat load during pregnancy on birth
+Coppock, C.E., Grant, P.A., Portzer, S.J., Charles, D.A., Escobosa, weight, behaviour and body composition of Australian feral
+A., 1982. Lactating dairy cows responses to dietary sodium, goat kids. Trop. Anim. Health Prod. 18, 185–190.
+chloride, and bicarbonate in hot weather. J. Dairy Sci. 65, Igono, M.O., Bjotvet, G., Sanford-Crane, H.T., 1992. Environ-
+566–576. mental proﬁle and critical temperature effects on milk pro-
+Cummins, K., 1998. Bedding plays role in heat abatement. Dairy duction of Holstein cows in desert climate. Int. J. Biometeorol.
+Herd Manag. 6 (June), 20. 36, 77–87.
+Degen, A.A., Shkolnik, A., 1978. Thermoregulation in fat-tailed Ingraham, R.H., Stanley, R.W., Wagner, W.C., 1979. Seasonal
+Awassi, a desert sheep, and in German Mutton Merino, a mesic effects of tropical climate on shaded and nonshaded cows as
+sheep. Physiol. Zool. 51, 333–339. measured by rectal temperature, adrenal cortex hormones,
+N. Silanikove / Livestock Production Science 67 (2000) 1 –18 17
+thyroid hormone, and milk production. Am. J. Vet. Res. 40, McDowell, R.E., Hooven, N.W., Camoens, J.K., 1976. Effects of
+1792–1797. climate on performance of Holsteins in ﬁrst lactation. J. Dairy
+Ittner, N.R., Kelly, C.F., Guilbert, H.R., 1951. Water consumption Sci. 59, 965–973.
+of Hereford and Brahman cattle and the effect of cooled MacFarlane, W.V., Howard, B., 1972. Comparative water and
+drinking water in a hot climate. J. Anim. Sci. 10, 742–751. energy economy of wild and domestic mammals. Symp. Zool.
+Jacobsen, K.L. (Ed.), 1996. The well-being of dairy cows in hot Soc. Lond. 31, 261–296.
+and humid climates. II. Reducing stress. Compendium of McLean, J.A., 1963. The partition of insensible losses of body
+Continues Education in Practical Veterinary, Vol. 18. Veterinary weight and heat from cattle under various climatic conditions.Learning Systems, Trenton, NJ, pp. S242–S254. J. Physiol. (Lond.) 167, 427–434.Johnson, H.D., 1976. World climate and milk production. McLean, J.A., Stombaugh, D.P., Downie, A.J., Glasbey, C.A.,Biometeorology 6, 171–175. 1983. Body heat storage in steers (Bos taurus) in ﬂuctuatingJohnson, H.D., 1980. Depressed chemical thermogenesis and thermal environment. J. Agric. Sci. Camb. 100, 315–322.hormonal functions in heat. In: Physiology: Aging, Heat and Magdub, A.B., Johnson, H.D., Belyea, R.L., 1982. Effect ofAltitude. Elsevier, Amsterdam, pp. 3–9. environment heat and dietary ﬁber on thyroid physiology of theJohnson, H.D., Vanjonack, W.J., 1976. Effects of environmental lactating cows. Int. J. Biometeorol. 25, 2323–2329.and other stressors on bloodpatterns in lactating animals. J. Maltz, E., Olsson, K., Glick, S.M., Fyhrquist, F., Silanikove, N.,Dairy Sci. 59, 1603–1617. Choshniak, H., Shkolnik, A., 1984. Homeostatic responses toKamal, I., Ibraim, I.I., 1969. The effect of natural environment of water deprivation or haemorrhage in lactating and non-lactatingthe Sahara and controlled climate on thyroid gland activity in
+Bedouin goats. Comp. Biochem. Physiol. 77A, 79–84.Friesian cattle and water buffaloes. Int. J. Biometeorol. 13,
+Maltz, E., Silanikove, N., Shalit, U., Berman, A., 1994. Diurnal275–285.
+ﬂuctuations in plasma ions and water intake of dairy cows asKibler, H.H., Brody, S. (Eds.), 1952. Relative efﬁciency of surface
+affected by lactation in warm weather. J. Dairy Sci. 77,evaporative, respiratory evaporative and non-evaporative cool-
+2630–2639.ing in relation to heat production in Jersey, Holstein, Brown
+Manteca, X., Smith, A.J., 1994. Effects of poor forage conditionsSwiss and Brahman cattle, 50 to 1058F. Agricultural and
+on the behaviour of grazing ruminants. Trop. Anim. HealthExperimental Station Research, University of Missouri, Bul-
+Prod. 26, 129–138.letin 497.
+Montgomery, I., Jenkinson, D.M., Elder, H.Y., Czarnecki, D.,Kibler, H.H., Brody, S. (Eds.), 1954. Inﬂuence of radiation
+Mackie, R.M., 1984. The effects of stimulation on the ultra-intensity on evaporative cooling, heat production and cardio-
+structure of the human atrichial sweat gland. 1. The fundus. Br.respiratory activities in Jersey, Holstein and Brahman cows.
+J. Dermatol. 110, 319–320.Agricultural and Experimental Station Research, University of
+Morgan, M., 1998. Thermoneutral zone and critical temperaturesMissouri, Bulletin 574.
+of horses. J. Therm. Biol. 23, 59–61.Legates, J.E., Farthing, B.R., Casady, R.B., Barrada, M.S., 1991.
+Body temperature and respiratory rate of lactating dairy cattle Mount, L.E., 1973. The concept of thermal neutrality. In: Mon-
+under ﬁeld and chamber conditions. J. Dairy Sci. 74, 2491– teith, J.L., Mount, L.E. (Eds.), Heat Loss from Animals and
+2500. Man Assessment and Control. Butterworth, London, pp. 425–
+Lemerle, C., Goddard, M.E., 1986. Assessment of heat stress in 435.
+dairy cattle in Papua New Guinea. Anim. Health Prod. 18, Muller, C.J.C., Botha, J.A., Smith, W.W., 1994a. Effect of shade
+232–242. on various parameters of Friesian cows in a Mediterranean
+Lu, C.D., 1989. Effect of heat stress on goat production. Small climate in South Africa. 1. Feed and water intake, milk
+Rumin. Res. 2, 151–162. production and milk composition. South Afric. J. Anim. Sci.
+Lynch, J.J., 1985. Perinatal and post-shearing losses in sheep. In: 24, 49–55.
+Moore, B.L., Chenoweth, P.J. (Eds.). Grazing Animal Welfare Muller, C.J.C., Botha, J.A., Coetzer, W.A., Smith, W.W., 1994b.
+Symposium: Proc. Symp. held at the Bardon Professional Effect of shade on various parameters of Friesian cows in a
+Development Centre, Brisbane, on April 26th and 27th, 1985. Mediterranean climate in South Africa. 2. Physiological re-
+Australian Veterinary Association (Queensland Division), In- sponses. South Afric. J. Anim. Sci. 24, 56–60.
+dooroopilly, QLD, pp. 83–94. Muller, C.J.C., Botha, J.A., Smith, W.W., 1994c. Effect of shade
+McArthur, A.J., Clark, J.A., 1988. Body temperature of on various parameters of Friesian cows in a Mediterranean
+homeotherms and the conservation of energy and water. J. climate in South Africa. 3. Behavior. South Afric. J. Anim. Sci.
+Therm. Biol. 3, 9–13. 24, 61–66.
+McCrabb, G.J., McDonald, B.J., Hennoste, L.M., 1993a. Lamb Niwano, Y., Becker, B.A., Mitra, R., Caldwell, C.W., Abdalla,
+birthweight in sheep differently acclimatized to a hot environ- E.B., Johnson, H.D., 1990. Suppressed peripheral blood
+ment. Aust. J. Agric. Res. 44, 933–943. lymphocyte blastogenesis in pre- and postpartal sheep by
+McCrabb, G.J., McDonald, B.J., Hennoste, L.M., 1993b. Heat chronic heat-stress, and suppressive property of heat-stressed
+stress during mid-pregnancy in sheep and the consequences for sheep serum on lymphocytes. Dev. Comp. Immunol. 14, 139–
+placental and fetal growth. J. Agric. Sci. Camb. 120, 265–271. 149.
+McCrabb, G.J., McDonald, B.J., Hennoste, L.M., McDonald, B.J., Ocfemia, G.O., Sharun, A., Miller, H.M., Holmes, J.H.G., 1993.
+1995. The thermal response of sheep to a hot environment in Reduced foetal growth and lactation by does heat-stressed from
+different years. J. Agric. Sci. Camb. 125, 153–158. mid-pregnancy. Small Rumin. Res. 11, 33–43.
+18 N. Silanikove / Livestock Production Science 67 (2000) 1 –18
+Olsson, K., Josater-Hermelin, M., Hossaini-Hillali, J., Cvek, K., goats to scarcity of food and water in harsh environments.
+Hydbring, E., Dahlborn, K., 1995. Heat stress causes excessive Small Rumin. Res. 35, 181–193.
+drinking in fed and food deprived pregnant goats. Comp. Silanikove, N., Tadmor, A., 1989. Rumen volume saliva ﬂow-rate,
+Biochem. Physiol. 110A, 309–317. and systemic ﬂuid homeostasis in dehydrated cattle. Am. J.
+Richards, J.I., 1985. Milk production of Friesian cows subjected to Physiol. 256, R809–R815.
+high daytime temperatures when food either ad lib or at Silanikove, N., Gutman, M., 1992. Interrelationships between lack
+nighttime only. Trop. Anim. Health Prod. 17, 141–152. of shading shelter and poultry litter supplementation: feed
+Roberts, G., 1984. Plotting a better future for lambs: a practical intake, body weight, water metabolism and embryo loss in beef
+guide to providing shade [Heat stress reduction, sheep pro- cows grazing dry Mediterranean pasture. Anim. Prod. 55,
+duction, Tamarix articulata, Queensland]. Queensland Agric. J. 371–376.
+110, 25–26. Silanikove, N., Tiomkin, D., 1992. Toxicity induced by poultry
+Robertshaw, D., 1981. The environmental physiology of animal litter consumption: Effect on parameters reﬂecting liver func-
+production. In: Clark, J.A. (Ed.), Environmental Aspects of tion in beef cows. Anim. Prod. 54, 203–209.
+Housing for Animal Production. Butterworth, London, pp. Silanikove, N., Holzer, Z., Cohen, D., Benjamin, R., Gutman, M.,
+3–17. Meltzer, A., 1987. Interrelationship between metabolism of
+22
+Robertshaw, D., Vercoe, J.E., 1980. Scrotal thermoregulation of tritiated water, sodium and dry matter intake in beef cows fed
+the bull (Bos spp.). Aust. J. Agric. Res. 31, 401–407. poultry litter and wheat straw in free choice. Comp. Biochem.
+Robertshaw, D., Damiel, R., 1983. The effect of dehydration on Physiol. 87A, 113–118.
+the control of panting and sweating in the black Bedouin goat. Silanikove, N., Maltz, E., Halevi, A., Shinder, D., 1997. Metabo-
+Physiol. Zool. 56, 412–418. lism of water, sodium, potassium and chlorine by high yielding
+Roman-Ponce, H., Thatcher, W.W., Bufﬁngton, D.E., Wilcox, C.J., dairy cows at the onset of lactation. J. Dairy Sci. 80, 949–956.
+van Horn, H.H., 1977. Physiological and production responses Singh, S.P., Newton, W.M., 1978. Acclimatization of young calves
+of dairy cattle to shade structure in a subtropical environment. to high temperatures:responses. Am. J. Vet. Res. 39, 795–797.
+J. Dairy Sci. 60, 424–430. Stephenson, R.G.A., Suter, G.R., Le-Feuvre, A.S., 1984. Reduc-
+Schmidt-Nielsen, K., 1964. Desert Animals: Physiological Prob- tion of the effects of heat stress on lamb birth weight and
+lems of Heat and Water. Clarendon Press, Oxford. survival by provision of shade. In: Lindsay, D.R., Pearce, D.T.
+Schneider, P.L., Beede, D.K., Wilcox, C.J., 1986. Responses of (Eds.), Reproduction in Sheep. Cambridge University Press,
+lactating cows to dietary sodium source and quantity and Cambridge, pp. 223–225, Australian Wool Corporation Techni-
+potassium quantity during heat stress. J. Dairy Sci. 69, 99–110. cal Publication.
+Scott, I.M., Johnson, H.D., Hahn, G.L., 1983. Effect of pro- Stewart, R.E., Brody, S. (Eds.), 1954. Effect of radiation intensity
+grammed diurnal temperature cycles on plasma thyroxine level, on hair and skin temperatures and on rates of Holstein, Jersey
+body temperature, and feed intake of Holstein Dairy cows. Int. and Brahman cattle at air temperatures 45, 70 and 808F.
+J. Biometeorol. 27, 47–62. Agricultural and Experimental Station Research, University of
+Shalit, O., Maltz, E., Silanikove, N., Berman, A., 1991. Water, Na, Missouri, Bulletin 561.
+K, and Cl metabolism of dairy cows at onset of lactation in hot Stott, G.H., Wiersma, F., Woods, J.M., 1972. Reproductive health
+weather. J. Dairy Sci. 74, 1873–1874. program for cattle subjected to environmental temperatures. J.
+Shebaita, M.K., El-Banna, I.M., 1982. Heat load and heat dissipa- Am. Vet. Med. Assoc. 16, 1339–1344.
+tion in sheep and goats under environmental heat stress. In: Thatcher, W.W., 1974. Effects of season, climate and temperature
+Proc. 6th Int. Conf. on Animal and Poultry Production, held at on reproduction and lactation. J. Dairy Sci. 57, 360–368.
+University of Zagazig, Zagazig, Egypt, 21–23 September 1982, Thomas, C.K., Pearson, R.A., 1986. Effects of ambient tempera-
+Vol. 2. Egyptian Society of Animal Production, pp. 459–469. ture and heat cooling on energy expenditure, food intake and
+Silanikove, N., 1987. Impact of shade in hot Mediterranean heat tolerance of Brahman and Brahman3Fresian cattle work-
+summer on feed intake, feed utilization and body ﬂuid dis- ing on treadmills. Anim. Prod. 43, 83–90.
+tribution in sheep. Appetite 9, 207–215. Webster, A.J.F., 1991. Metabolic responses of farm animals to
+Silanikove, N., 1989. Interrelationships between water, food and high temperature. Eur. Assoc. Anim. Prod. 55, 15–22.
+digestible energy intake in desert and non-desert goats. Appe- West, J.W., 1999. Nutritional strategies for managing the heat-
+tite 12, 163–170. stressed dairy cow. J. Anim. Sci. 77 (Suppl. 2), 21–35.
+Silanikove, N., 1992. Effects of water scarcity and hot environ- Winchester, C.F., Morris, M.J., 1956. Water intake rates of cattle.
+ment on appetite and digestion in ruminants: a review. Livest. J. Anim. Sci. 15, 722–729.
+Prod. Sci. 30, 175–194. Yamamato, S., Young, B.A., Purwanto, B.P., Nakamasu, F.,
+Silanikove, N., 1994. The struggle to maintain hydration and Natsumoto, T., 1994. Effect of solar radiation on the heat load
+osmoregulation in animals experiencing severe dehydration and of dairy heifers. Aust. J. Agric. Res. 45, 1741–1749.
+rapid rehydration: the story of ruminants. Exp. Physiol. 79, Young, B.A., 1993. Implication of excessive heat load to the
+381–400. welfare of cattle in feedlots. In: Farell, D.J. (Ed.), Recent
+Silanikove, N., 1997. Why goats raised on harsh environment Advances in Animal Nutrition in Australia. University of New
+perform better than other domesticated animals. Options England, Armidale, Australia, pp. 45–50.
+´´Mediterranennes 34 (Ser. A), 185–194. Yousef, M.K. (Ed.), 1985. Stress Physiology in Livestock. Basic
+Silanikove, N., 2000. The physiological basis of adaptation of Principles, Vol. 1. CRC Press, Boca Raton, FL.

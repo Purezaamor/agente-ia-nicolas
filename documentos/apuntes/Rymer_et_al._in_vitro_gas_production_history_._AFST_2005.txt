@@ -1,0 +1,977 @@
+=== Fuente: Rymer_et_al._in_vitro_gas_production_history_._AFST_2005.pdf ===
+
+Animal Feed Science and Technology
+123–124 (2005) 9–30
+In vitro cumulative gas production techniques:
+History, methodological considerations
+and challenges
+C. Rymer a,∗, J.A. Huntington b, B.A. Williams c, D.I. Givens a
+a Animal Science Research Group, School of Agriculture, Policy and Development,
+University of Reading, P. O. Box 237, Reading RG6 6AR, UK
+b Harper Adams University College, Newport TF10 8NB, UK
+c Animal Nutrition Group, Wageningen University, Marijkeweg 40,
+6709 PG Wageningen, The Netherlands
+Abstract
+Methodology used to measure in vitro gas production is reviewed to determine impacts of sources
+of variation on resultant gas production proﬁles (GPP). Current methods include measurement of
+gas production at constant pressure (e.g., use of gas tight syringes), a system that is inexpensive,
+but may be less sensitive than others thereby affecting its suitability in some situations. Automated
+systems that measure gas production at constant volume allow pressure to accumulate in the bottle,
+which is recorded at different times to produce a GPP, and may result in sufﬁciently high pressure
+that solubility of evolved gases in the medium is affected, thereby resulting in a recorded volume of
+gas that is lower than that predicted from stoichiometric calculations. Several other methods measure
+gas production at constant pressure and volume with either pressure transducers or sensors, and these
+may be manual, semi-automated or fully automated in operation. In these systems, gas is released as
+pressure increases, and vented gas is recorded. Agitating the medium does not consistently produce
+more gas with automated systems, and little or no effect of agitation was observed with manual
+systems. The apparatus affects GPP, but mathematical manipulation may enable effects of apparatus
+to be removed. The amount of substrate affects the volume of gas produced, but not rate of gas
+production, provided there is sufﬁcient buffering capacity in the medium. Systems that use a very
+small amount of substrate are prone to experimental error in sample weighing. Effect of sample
+preparation on GPP has been found to be important, but further research is required to determine the
+Abbreviations: DM, dry matter; GPP, gas production proﬁle; NDF, neutral detergent ﬁbre; OM, organic matter;
+SCFA, short chain fatty acids
+∗ Corresponding author. Tel.: +44 118 3786436; fax: +44 118 3786595.
+E-mail address: c.rymer@reading.ac.uk (C. Rymer).
+0377-8401/$ – see front matter © 2005 Published by Elsevier B.V.
+doi:10.1016/j.anifeedsci.2005.04.055
+10 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+optimum preparation that mimics animal chewing. Inoculum is the single largest source of variation
+in measuring GPP, as rumen ﬂuid is variable and sampling schedules, diets fed to donor animals and
+ratios of rumen ﬂuid/medium must be selected such that microbial activity is sufﬁciently high that it
+does not affect rate and extent of fermentation. Species of donor animal may also cause differences in
+GPP. End point measures can be mathematically manipulated to account for species differences, but
+rates of fermentation are not related. Other sources of inocula that have been used include caecal ﬂuid
+(primarily for investigating hindgut fermentation in monogastrics), efﬂuent from simulated rumen
+fermentation (e.g., ‘Rusitec’, which was as variable as rumen ﬂuid), faeces, and frozen or freeze-
+dried rumen ﬂuid (which were both less active than fresh rumen ﬂuid). Use of mixtures of cell-free
+enzymes, or pure cultures of bacteria, may be a way of increasing GPP reproducibility, while reducing
+reliance on surgically modiﬁed animals. However, more research is required to develop these inocula.
+A number of media have been developed which buffer the incubation and provide relevant micro-
+nutrients to the microorganisms. To date, little research has been completed on relationships between
+the composition of the medium and measured GPP. However, comparing GPP from media either rich
+in N or N-free, allows assessment of contributions of N containing compounds in the sample.
+© 2005 Published by Elsevier B.V.
+Keywords: Gas production; Feed characterisation; Rumen in vitro methodology
+1. Introduction
+In vitro cumulative gas production techniques were developed to predict fermentation of
+ruminant feedstuffs. A feedstuff is incubated with buffered rumen ﬂuid and gas produced
+is measured as an indirect indicator of fermentation kinetics. When a feedstuff is incubated
+with buffered rumen ﬂuid, it is ﬁrst degraded and the degraded fraction may either be
+fermented to produce gas and fermentation acids, or incorporated into microbial biomass.
+When combined with measures of degradation, gas production techniques provide a measure
+of the proportion of feed that is fermented as opposed to that which is partitioned to microbial
+growth.
+The principle of determining potential rumen degradability/fermentability of a feed by
+measuring gas produced from a batch culture was ﬁrst developed by McBee (1953) and
+Hungate (1966). Trei et al. (1970) adapted the earlier techniques by attaching a water
+displacement manometer to each vessel to measure the gas produced. Similarly, Jouany and
+Thivend (1986) and Beuvink and Spoelstra (1992) used inverted measuring cylinders to
+determine the volume of water displaced. Beuvink et al. (1992) then automated this water
+displacement technique.
+Direct displacement of a plunger by fermenting a feedstuff within a glass syringe was
+developed by Czerkawski and Breckenridge (1975) and was the basis of the ‘Hohenheim
+Gas Test’ later developed by Menke et al. (1979). Bl¨ummel and Ørskov (1993) modiﬁed the
+technique by incubating syringes in a waterbath rather than a rotating incubator. The syringe
+technique was originally developed to determine end-point fermentability of feedstuffs, at
+24 h, and has been incorporated into the German national feedstuff evaluation system.
+However, by recording plunger displacement at more frequent intervals, the kinetics of the
+fermentation proﬁle can also be determined.
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 11
+Wilkins (1974) described a different approach to measure fermentation kinetics in vitro,
+whereby fermentation took place in a sealed vessel and gas produced was determined using
+a pressure transducer to measure accumulation of pressure in the vessel headspace. This
+principle of measuring pressure with a sensor or transducer has been widely adopted as a
+simple, yet sensitive, method of determining fermentation kinetics. The simplest pressure
+measurement technique requires manual measurement of headspace pressure, as described
+by Theodorou et al. (1994). Semi- and full automation of headspace pressure recording
+have also been developed, as described by Pell and Schoﬁeld (1993), Cone et al. (1996),
+Mauricio et al. (1999a) and Davies et al. (2000).
+Although the pressure transducer technique is a simple approach to estimate fermentation
+kinetics of a feed, a number of factors in application of the method could potentially affect
+the gas production proﬁle of any feedstuff. The objective of this review is to consider these
+sources of variation and assess what impact they have on the GPP, how this variation may
+be reduced, and how results produced from one laboratory, and from one experiment within
+a laboratory, may be compared with, and extrapolated to, data from other laboratories.
+2. Effect of venting gas during the incubation
+Gas produced during the in vitro fermentation technique of Pell and Schoﬁeld (1993) is
+not vented, but the accumulating headspace pressure is recorded at regular time intervals.
+However, in the techniques described by Theodorou et al. (1994), Cone et al. (1996) and
+Davies et al. (2000), headspace gases are released at pre-determined times, or when pre-set
+threshold pressures have been reached. The accumulated pressure, venting times, and/or
+number of times that gas is released are recorded, and these data are used to calculate the
+cumulative volume of gas produced.
+Theodorou et al. (1998) suggested that the system of Pell and Schoﬁeld (1993) would
+produce less gas than other systems because of lack of venting, with its resultant accumu-
+lation of pressure. Pell et al. (1998) argued that this was not the case, as no difference in
+the volume of gas produced was observed when the headspace of the fermentation vessel
+was increased by 100 ml, with a concurrent reduction in system pressure. However, Pell
+et al. (1998) did acknowledge the observation of Theodorou et al. (1994), that pressures
+in excess of 7 psi (48 kPa) did perturb microbial growth, but argued that this was avoided
+by increasing vessel size or decreasing the amount of substrate fermented. Mertens and
+Weimer (1998) modiﬁed the Pell and Schoﬁeld (1993) system to allow venting, and ob-
+served a small, though insigniﬁcant, increase in gas production when bottles were vented,
+and attributed this response to the relatively large ratio of headspace/culture medium vol-
+ume. Theodorou et al. (1998) suggested that the interface between headspace and culture
+medium would affect the amount of gaseous exchange that can occur, and cited Lowenadler
+and Ronner (1994) who observed that as the ratio of headspace to culture medium volume
+increased, solubility of gases in the medium decreased.
+In a comparison of the systems of Pell and Schoﬁeld (1993) and Cone et al. (1996),
+Moss et al. (1998) observed little difference in GPP of grass silages, but noted that for
+maize silage and molassed sugarbeet feed, the system of Pell and Schoﬁeld (1993) tended
+to produce more gas, at an earlier stage, than the system of Cone et al. (1996), the opposite
+12 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+of what would have been expected. These differences could have been due to differences
+in apparatus, or because of differences in diets of the donor animals (Moss et al., 1998).
+Results suggest that accumulation of gas in the headspace affects GPP, although perhaps
+not in the way predicted. Results could also reﬂect differences in the relative surface area
+of the culture at the headspace, whereby exchange of fermentation gases between medium
+and headspace occurs more readily in a culture with a larger surface area.
+Lowman et al. (1998), using a manual pressure transducer system, allowed headspace
+pressure to vary by changing the interval between recordings of gas pressure. Although
+production of short chain fatty acids , and the proportion of dry matter degraded, were not
+affected by reading interval, the GPP was affected as a smaller volume of gas was released
+when recordings were made every 6 rather than every 2 h. Similarly, Mauricio et al. (1999b)
+reported a reduced gas volume when the recording interval was increased from 1 to 3 h,
+suggesting that accumulated pressure in the fermentation vessel did not affect fermentation
+stoichiometry, but that the volume of gas that could be released was reduced if the pressure
+was increased. This is most likely a consequence of increased CO2 solubility with increasing
+headspace pressure.
+3. Effect of changes in atmospheric pressure
+Pell et al. (1998) noted that in the course of in vitro incubation, atmospheric pressure
+can change. It was noted that during summer thunderstorms at Cornell University in Ithaca
+(NY, USA), the change in pressure could be as much as 0.4 kPa. For systems that use
+pressure transducers, this could be a problem as pressure in the fermentation vessel is
+measured relative to atmospheric pressure. In the system of Cone et al. (1996), the pressure
+accumulation that is required to cause the valve to open is only 0.25 kPa. Therefore, during
+a storm, Pell et al. (1998) suggested that valve opening could be delayed as a low-pressure
+weather front passes and accelerated as atmospheric pressure rises at the end of a storm.
+Theodorou et al. (1994) also observed that the volume of gas produced, with respect to
+a change in atmospheric pressure, was affected by altitude, and that this needed to be
+considered when comparing results between laboratories.
+Pell and Schoﬁeld (1993) and Pell et al. (1998) postulated that changes in atmospheric
+pressure could be corrected in unvented systems by use of blanks. However, in vented
+systems, this is only possible if blank fermentations produce enough gas to cause regular
+valve openings, usually during the ﬁrst 6 h of fermentation (Pell et al., 1998), and these
+authors advised that atmospheric pressure changes be recorded during incubation. Later,
+Schoﬁeld (2000) suggested that it was possible to allow for changes in atmospheric pressure
+by recording results relative to a reference pressure. However, it was concluded that most
+changes in atmospheric pressure are not sufﬁcient to have much effect on GPP.
+4. Effect of agitation of the medium
+There is wide variation among systems in agitation of bottles during incubation For
+example, the automated system of Cone et al. (1996) uses a shaking water bath which
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 13
+is continually agitated, while the system of Pell and Schoﬁeld (1993) uses a magnetic
+stir bar that intermittently stirs the medium. The manual pressure transducer technique of
+Theodorou et al. (1994), in contrast, permits shaking only when a measurement is made.
+Wilkins (1974) vigorously agitated vessels at 200 oscillations/min, which was four times
+faster than that of Cone et al. (1996) and more vigorous than the intermittent stirring of Pell
+and Schoﬁeld (1993). Results of Wilkins (1974) showed no effect of agitation on lag time,
+but he did observe that shaking increased rate of gas production. Conversely, Stevenson
+et al. (1997) observed no change in the pattern of fermentation, or in yield of microbial
+biomass, when the medium was agitated. However, Pell and Schoﬁeld (1993) observed
+that the coefﬁcient of variation of the GPP increased if the incubation medium was not
+agitated.
+Pell and Schoﬁeld (1993) suggested that the CO2 tended to form supersaturated solu-
+tions if it was not shaken or stirred. In a study of Rymer et al. (1998b), volume of gas
+produced by adding propionic acid to a medium increased 58% when shaking speed was
+increased from 0 to 45 oscillations/min, although there was no further increase in volume
+of gas produced when shaking speed was increased to 60 oscillations/min. In a subsequent
+experiment using a manual pressure transducer technique, there was no effect of agita-
+tion (Rymer et al., 1998a). A comparison between laboratories in which the automated
+system of Cone et al. (1996), which agitates the medium, was compared with the auto-
+mated system of Davies et al. (2000), which does not, found no consistent differences
+between apparatus, and data between apparatus were well correlated (Rymer et al., 2005),
+suggesting that agitating the medium has relatively little effect on reproducibility of re-
+sults within and between laboratories, though a consistent approach within experiment is
+advisable.
+5. Effect of sample size and preparation
+Sch¨oner (1981) and Theodorou et al. (1994) observed that increasing the amount of
+substrate resulted in a linear increase in total gas volume, but the rate of gas production was
+not affected. The sample size used by different research groups ranged from 100 to 1250 mg
+(Getachew et al., 1998). Small sample sizes used by some (e.g., Pell and Schoﬁeld, 1993)
+may make the system more prone to experimental errors in weighing of heterogeneous
+samples. However, where large sample sizes are used, it is essential that the system is
+capable of buffering the acid produced, and that the accumulated pressure is not so high
+that it affects the GPP.
+Using cereals as substrates resulted in particle size having no effect on GPP (Trei et al.,
+1970; Lowman et al., 2002), provided that the grain kernel had been cut (Lowman et al.,
+2002). With highly soluble feeds, it would appear that as long as the feed has undergone
+some abrasion, its particle size does not affect estimates of gas production rate. However,
+there is some evidence to contradict this argument, as maize grain that was steam-ﬂaked,
+rolled or left intact, had the same rate and extent of gas production when it was ground
+through a 1 mm screen, but not when it had been ground through a 4 mm screen (Pell,
+personal communication) Investigating the effect of processing may require a larger mesh
+size to ensure that zein protein is not disrupted.
+14 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+With ﬁbrous and more slowly degraded feeds, gas production rate increases as particle
+size decreases (Menke and Steingass, 1988; Lowman et al., 2002) and it seems likely that
+this is a consequence of increased surface area as a result of grinding, thereby allowing
+better microbial access. However, this presents a problem when using the in vitro GPP to
+predict kinetics of degradation and fermentation in vivo, as substrate particles are contin-
+ually changing shape, size and composition in the gut (Lowman et al., 2002). Although
+adoption of a standardised approach to sample preparation may be possible to enable com-
+parison between independently produced gas production data of different feeds, it seems
+unlikely that GPP will represent kinetics of plant biomass as it is digested in the rumen
+(Lowman et al., 2002) or in the hindgut of monogastric animals, although in the case
+of the latter, processes of mastication will not further disturb the physical nature of the
+feed.
+Menke and Steingass (1988) showed that drying silage at 60 or 105 ◦C had no ef-
+fect on total gas volume produced, but it did affect GPP. However, there was no differ-
+ence between the GPP of maize meal or maize residues when they were freeze dried or
+dried at 60 ◦C. In contrast, Cone (1998) observed that freeze-drying enhanced gas pro-
+duction of substrates compared with oven-drying. He also noted that fresh silage samples
+had a different GPP compared with their dried counterparts. Sanderson et al. (1997) ob-
+served that rate of fermentation of silage in vitro was grossly overestimated if a ground
+and freeze-dried sample was used, rather than a fresh or chopped sample, although ef-
+fects of drying were confounded by differences in particle size of samples. Davies et al.
+(1998), comparing four silages, were unable to detect differences in GPP when samples
+were freeze-dried and ground. However, there were differences when unprocessed sam-
+ples were compared. Lowman et al. (2002) observed that GPP of freeze-dried, oven-dried
+or microwave-dried ryegrass were similar, but all differed from the GPP of fresh grass,
+with the fresh grass producing less gas (and SCFA) than dried samples. The estimated
+apparent DM degradability of fresh grass was similar to frozen- and oven-dried grass
+(Lowman et al., 2002), and they suggested that this discrepancy was due to the dried
+samples being altered or damaged in such a way that microbial attachment was easier,
+thereby facilitating degradation and fermentation (i.e., resulting in increased gas produc-
+tion), but the attached microbial biomass resulted in apparently reduced DM loss. Data
+from these sources indicate that dried samples will overestimate fermentability of feed,
+and this should be considered when using GPP data to predict fermentability of a feed in
+vivo.
+Hydrating samples with medium before inoculation increased the volume of gas produced
+and advanced the onset of a second phase of gas production (Rymer et al., 1999). The time
+to half gas volume was reduced, and the fractional rate of gas production at this time was
+increased as hydration time increased to 6 h. However, there was then little difference in
+GPP as hydration time increased from 6 to 48 h (Rymer et al., 1999). Comparisons between
+laboratories should account for differences in hydration times since, for example, the Pell
+and Schoﬁeld (1993) technique hydrates samples for a shorter time than the method of,
+for example, Huntington et al. (1998). Preparation of samples may, therefore, have an
+effect on fermentation dynamics and the GPP. Standardised approaches within and between
+laboratories, and/or developing mathematical means of correcting for these differences,
+could help overcome this situation.
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 15
+6. Effect of inoculum
+The husbandry conditions of the donor animals, their diet, and the timing of inoculum
+collection may all have an effect on consistency of results between runs. This is true even for
+animals fed the same diet and living under the same conditions. It seems clear that samples
+should be collected from several animals, and then combined, to reduce variation (Williams,
+2000), because variability among animals, as assessed by the in situ technique, can be higher
+than between day variation within animals (Mehrez and Ørskov, 1977). However, there are
+other factors affecting the inoculum.
+6.1. Effect of inoculum concentration and sampling time
+A wide range of inoculum concentrations have been used in the various gas production
+techniques. Increasing the proportion of rumen ﬂuid in the incubation medium increased
+the volume of gas produced (Wood et al., 1998b), the rate of gas production (Pell and
+Schoﬁeld, 1993; Rymer et al., 1999), and reduced lag time (Pell and Schoﬁeld, 1993). Rymer
+et al. (1999) calculated that gas production rate was ﬁrst order with respect to inoculum
+concentration, while data from other sources indicated that rates were zero order with
+respect to substrate concentration (see Section 5). Pell and Schoﬁeld (1993) recommended
+a minimum concentration of 20 ml inoculum/100 ml incubation medium, as this reduced
+chances of inoculum limiting gas production.
+Jessop and Herrero (1998) described gas production as a three pool exponential model,
+where the pools corresponded to fermentation of soluble material, neutral detergent ﬁbre
+and microbial biomass. The model simulations were well related to other experimental
+observations (Jessop and Herrero, 1998). They observed that if NDF degradation rate was
+ﬁxed, but initial microbial activity was allowed to vary, there were large differences in GPP.
+There were also differences if NDF degradation rate varied, but initial microbial activity
+was ﬁxed. However, differences in GPP were much smaller when it was due to changes
+in NDF degradation rate, compared with changes in initial microbial activity. These model
+simulations demonstrate the importance of ensuring that microbial activity of inocula is
+constant between experiments, and that the initial microbial activity is measured.
+Nagadi et al. (1999) investigated changes in microbial activity at various rumen sampling
+times. Activity was measured as bacterial DM, absorbance at 600 nm, and gas produced
+by ‘blank’ fermentations. Rumen ﬂuid was sampled every day for 5 days, or at 72 h in-
+tervals, and there was no difference in microbial activity when rumen ﬂuid was sampled
+at 72 h intervals. However, with the daily sampling regime, microbial activity declined
+and gas production proﬁles of cellulose and glucose were affected after 3 days. Nagadi et
+al. (1999) recommended a minimum microbial activity of 94 mg bacterial DM/ml, which
+corresponded to an absorbance of 0.111 (when diluted 50-fold) or a blank gas volume of
+15.5 ml (when total incubation volume was 30 ml). This was twice the minimum microbial
+activity recommended by Menke and Steingass (1988), which was 7 ml/24 h when the incu-
+bation volume was also 30 ml, and higher than that used by many research groups (Nagadi
+et al., 1999). Menke and Steingass (1988) suggested that a minimum acceptable microbial
+activity was likely to occur in normal circumstances if the donor animals had been fed
+within the previous 16 h. Cone et al. (1996) observed that rate of fermentation increased
+16 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+when rumen ﬂuid was collected after the morning feed, although it had no effect on the
+total gas volume produced. Payne et al. (2002) observed that the GPP of both starch and
+ground straw were less variable between replicate bottles, and between weeks of collec-
+tion, when rumen ﬂuid inoculum was collected either 4 or 8 h post feeding, compared with
+samples collected just before, or 2 h after feeding. However, Menke and Steingass (1988)
+stated that sampling rumen contents just before feeding reduced variation in composition
+(and activity) of the inoculum. Although differences in microbial activity of inoculum occur
+at different sampling times, it appears that the most important factor is whether the sam-
+pling schedule will allow collection of inoculum with sufﬁcient microbial activity, which
+can be determined by measuring absorbance of the inoculum (following a 50-fold dilu-
+tion) at 600 nm (Nagadi et al., 2000). A minimum absorbance of 0.11 is required to ensure
+that GPP are not affected by low microbial activity of the inoculum (Nagadi et al., 2000),
+when the inoculum is rumen ﬂuid, and a ratio of rumen ﬂuid: medium of 1:2 (v/v) is used.
+However, this does not account for the presence of very small particles in the inoculum.
+It would seem likely that higher absorbencies would be required if smaller concentrations
+of inoculum were used in the incubation mixture, and data regarding optimum absorben-
+cies for other sources of inocula (e.g., caecal ﬂuid or faeces) could not be found in the
+literature.
+6.2. Effect of donor animal diet
+Trei et al. (1970) observed that the volume of gas produced was higher when rumen ﬂuid
+was collected from steers fed grain rather than hay, and grain was the substrate. However,
+Mertens et al. (1998) fed four diets to lactating Holstein cows, consisting of either maize
+or lucerne silage with 240 or 320 g NDF/kg DM in the diet, and found no differences in
+fermentation rates (as measured by the time to half maximum gas production), although the
+low ﬁbre maize silage diet produced less total gas. The higher ﬁbre diets tended to produce
+more gas than the lower ﬁbre diets, but this effect was not as large as the effect of ﬁbre source.
+Huntington et al. (1998) showed a similar response when dry cows were fed a diet of either
+straw or grass silage with rolled barley, and no differences in the GPP of high temperature
+dried grass occurred. Cone et al. (1996) also observed only small differences in GPP due to
+changes in the diet of the donor animals. Menke and Steingass (1988) cited Sch¨oner’s (1981)
+observation that there was little difference in GPP of treated straw when hay in the diet of
+donor animals was replaced with treated straw, and stated that it was more important that a
+minimum level of microbial activity was attained in the rumen ﬂuid, rather than ensuring
+that donor animals were fed the feedstuffs incubated. This observation is consistent with
+Nagadi et al. (2000), who fed sheep with diets varying in relative proportions of hay and
+concentrate, and showed that rate and extent of gas production increased when sheep were
+fed diets consisting of 400, rather than 200 g concentrate/kg diet DM, and that this was
+associated with an increase in bacterial DM content of the inoculum. However, no further
+increase in rate and extent of gas production occurred when the proportion of concentrate
+increased to 800 g concentrate/kg diet DM. All these data support the contention that, as
+noted in the discussion of sampling time, a minimum level of microbial activity is required
+in the inoculum, above which no effects on GPP are evident. Diet of the donor animals
+is of importance only in so far as it produces rumen ﬂuid with the required microbial
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 17
+activity. Generally, this can be achieved by feeding a diet of 600 g/kg forage and 400 g/kg
+concentrate (Nagadi et al., 2000), although this will be affected by the nature of the forage
+and concentrate. Provided that this level of microbial activity is attained, the composition of
+the donor animals’ diet appears to have little effect. However, it is also possible that when
+animals are well adapted to a speciﬁc substrate, such as starch, or tannin-containing browse
+trees, that there may be differences in the in vitro GPP of these substrates, compared with
+proﬁles from inocula collected from animals not fed these ingredients.
+6.3. Effect of donor species
+Menke and Steingass (1988) suggested that the variation in the amount of gas produced
+using inocula from different species of animal could be compensated for by use of blanks
+and standards. Goncalves and Borba (1996) observed that rumen ﬂuid collected from sheep
+yielded more gas than rumen ﬂuid from cows. In contrast, a study by Bueno et al. (1999)
+compared rumen ﬂuid from either a dry cow or six wether sheep when all were fed similar
+diets, and found that total gas production was similar between the two sources of inocula, as
+was in vitro organic matter degradability. However, rumen ﬂuid from sheep resulted in GPP
+with a longer lag time (6.1 h versus 4.2 h) when a range of tropical and temperate forages
+were the substrates. Differences in microbial composition of rumen ﬂuid from these two
+species appeared to affect kinetics of fermentation, but not end point measures. Cone et al.
+(2002) compared rumen ﬂuid from cows and sheep fed a similar diet, and observed that the
+volume of gas produced was lower with rumen ﬂuid from sheep, although there was a good
+relationship between volumes of gas produced by the two inocula. However, this was not
+true for estimates of the gas production rate and, as with Bueno et al. (1999), inocula from
+sheep resulted in lower rates of gas production compared with inocula from cows. Calabr`o
+et al. (2004) compared rumen ﬂuid from cows and buffalo fed a similar diet, and found
+that while the total gas volume was generally higher with cow inoculum, maximum rate of
+substrate degradation generally occurred earlier, even though actual rates did not differ. All
+of these data indicate that species of donor animal will affect GPP. Appropriate use of blanks
+and standards may correct for some of the differences (Menke and Steingass, 1988), and
+mathematical relationships might permit extrapolation of data from one species to another
+for estimation of end-point measures (Cone et al., 2002). However, rates of fermentation
+based on inocula from different species are different, and may not be accounted for by
+simple mathematical equations.
+6.4. Alternative sources of inoculum
+A considerable amount of research has investigated the use of alternatives to rumen
+ﬂuid as a source of inoculum. In part, this has been to devise more appropriate inocula
+for studying hindgut fermentation in monogastric species. Thus caecal ﬂuid from broilers
+(Williams et al., 1997), pigs (Williams et al., 1998) and ponies (Lowman et al., 1996) has
+been used in avian, porcine and equine nutrition, respectively. In ruminant nutrition, the
+driving force has either been to reduce use of surgically modiﬁed animals and/or to provide
+a more standardised inoculum than is possible with variable rumen ﬂuid.
+18 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+6.4.1. Continuous culture (in vitro) efﬂuent
+Barbi et al. (1993) investigated use of efﬂuent from a simulated rumen fermentation
+(i.e., Rusitec) to replace rumen ﬂuid. The microbial activity of efﬂuent was much lower
+than that observed for rumen ﬂuid, and so Barbi et al. (1994a,b) tried to increase this
+activity by increasing feed input and decreasing particle size of the feed that was fed to the
+Rusitec, and by infusing glucose. These interventions did not increase microbial activity, but
+addition of hay to the efﬂuent ﬂask did increase the microbial concentration. van Kessel and
+Russell (1996) were able to maintain a mixed culture of predominantly ruminal bacteria in
+continuous culture for up to four months, but methanogens did not persist and Selenomonas
+ruminantium had to be added. Variation in Rusitec efﬂuent ﬂuid between days was also
+found to be similar to that in rumen ﬂuid (Barbi et al., 1995).
+6.4.2. Faeces
+Use of faeces as an inoculum would overcome the need for surgically modiﬁed ani-
+mals, although the effect of the donor animal’s diet might still have an impact on faecal
+microbial activity, although presumably this would be much less than its impact on rumen
+ﬂuid. In ruminants, the faecal microbial population differs from that of rumen ﬂuid, as it
+has been inﬂuenced by gastric digestion and the contributions of the caecum to the mi-
+crobial population. Intuitively, the study of monogastric hindgut digestion would be easier
+to simulate using monogastric faeces as a replacement for caecal digesta. Lowman et al.
+(1996) observed similar results when using faeces or caecal ﬂuid from ponies. Machboeuf
+et al. (1998) also observed that caecal ﬂuid and faeces from horses produced similar po-
+tential gas volume from 54 forages. However, faecal inoculum resulted in faster rates
+of fermentation with some forages. It was thought that this was because faecal inocu-
+lum had a higher density of microﬂora compared with caecal digesta. For pigs, Bauer
+et al. (2004) showed that faeces were highly representative of microbial activity of di-
+gesta from the rest of the large intestine, although there were small differences with caecal
+contents.
+Endpoint measures, such as gas production or digestibility after 24 h or more, from
+faecal inocula are well related to estimates using rumen ﬂuid inocula (Akhter et al., 1994,
+1995; Harris et al., 1995; Altaf et al., 1998; Cone et al., 2002; Zhao and Chen, 2004), or
+estimates of in vivo digestibility in horses (Lowman et al., 1999). However, the rate of
+gas production is usually lower with faeces compared with rumen ﬂuid (Mauricio et al.,
+1998a,b, 2001; Cone et al., 2002), making estimations of dynamic parameters of the GPP
+difﬁcult. If the diet of the donor animal is highly ﬁbrous, such that the microbial activity
+of the rumen is low, then differences between rumen ﬂuid and faeces are much smaller
+(Mauricio et al., 1999c), but when characterising feeds that will be fed to highly productive
+animals, such inocula are of limited value. These data show that microbial activity of faecal
+inocula is generally much lower than that of rumen ﬂuid inocula, and apart from the drastic
+changes to the diet as in the work of Mauricio et al. (1999c), it is not clear how activity of
+faecal inocula might be increased. However, a mathematical means of adjusting GPP from
+faecal inocula to those produced by rumen ﬂuid inocula has been proposed (Dhanoa et al.,
+2004). While this approach needs development, it does offer a means whereby dynamics of
+feed fermentation in ruminants might be estimated without relying on surgically modiﬁed
+animals.
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 19
+6.4.3. Cell-free enzymes
+Use of a cocktail of cell-free enzymes could overcome the need to maintain experimental
+animals, and provide a more consistent inoculum source. To date, relatively little has been
+done to develop means of predicting fermentation dynamics (Broderick, 1998), and it could
+be that for this approach to be viable, at least in the context of the gas production technique,
+that the enzymes used would need to be those associated with fermentation, as well as
+degradation, pathways as any gas produced would be indirect rather than a combination of
+direct and indirect. It is not known whether or not this is feasible.
+6.4.4. Bacterial cultures
+Bacterial cultures could, in theory, be used to produce standard inoculum without the
+need for experimental animals, provided such a culture could be developed with a sufﬁ-
+ciently wide range of activity, and that conditions could be maintained to reduce variation in
+its activity. Luchini et al. (1996) compared freeze-dried and frozen rumen bacteria with fresh
+cultures, and observed initial differences in fermentation pattern, although there were no
+differences at later times. Rates of protein degradation were similar for fresh and frozen bac-
+teria, but much lower for freeze-dried bacteria. They concluded that if frozen bacteria were
+incubated overnight, they could be used as an alternative inoculum, but that freeze-dried
+bacteria were not a viable option. Rymer et al. (2000) investigated use of a bacterial culture
+made from mixing pure cultures of Ruminococcus ﬂavefaciens, Fibrobacter succinogenes,
+Ruminococcus albus, Selenomonas ruminantium, Butyrivibrio ﬁbrisolvens, Prevoletta ru-
+minicola and Streptococcus bovis, and compared GPP of several feeds produced by use of
+this inoculum with GPP produced by rumen ﬂuid inoculum. Although there were differ-
+ences in the shape of the GPP, with the bacterial culture producing gas at a much lower
+rate and in two distinct phases, there were good mathematical relationships between GPP
+parameters of the inocula. Much would need to be done, and it seems likely that many more
+bacterial species would need to be included in the mixture, before such an approach could
+be used to replace rumen ﬂuid. However, it could produce an inoculum that would eliminate
+the need for surgically modiﬁed animals, and it would be a deﬁned inoculum, in contrast to
+rumen ﬂuid or faeces, with its speciﬁcity and activity adjustable by addition or removal of
+any bacterial species.
+6.5. Effect of inoculum preparation
+Pell and Schoﬁeld (1993) and Rymer et al. (1999) observed no differences in GPP
+when inocula were strained or blended to include attached bacteria. However, Mertens
+and Weimer (1998) observed that mixing rumen solids with chilled medium, and then
+blending the mixture, resulted in slightly decreased lag times and increased rates of gas
+production. Senshu et al. (1980) repeatedly squeezed and washed rumen contents under
+CO2 to incorporate adherent bacteria in the inoculum. This resulted in the SCFA proﬁle in
+vitro becoming more similar to that in vivo. Clearly there is a danger that, particularly with
+ﬁbrous feedstuffs, not blending the inoculum will exclude adherent, cellulolytic bacteria
+from the inoculum, and this may adversely affect the GPP. However, Pell and Schoﬁeld
+(1993) suggested that blending inoculum potentially exposes bacteria to O2, and results in
+small amounts of undegraded feed in the inoculum being added to the incubation medium.
+20 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+Since the evidence suggests that blending inoculum has only a limited, if any, effect on
+GPP, it seems that simply straining inoculum provides adequate preparation.
+7. Use of blanks
+Fermentation vessels containing identical components to all other vessels, with exclu-
+sion of any substrate, are termed ‘blank’ incubations and are routinely used during gas
+production runs. Blanks can be used to correct for changes in atmospheric pressure (Pell
+and Schoﬁeld, 1993; Cone et al., 1996), as discussed earlier, as well as to correct for residual
+fermentable OM that is included with the inoculum. However, Cone (1998) noted that blank
+incubations do not produce gas at the same rate as the sample because the blanks begin mi-
+crobial turnover sooner. Calculated dynamics of fermentation are therefore incorrect if the
+cumulative volume of gas from the blank is simply deducted from the cumulative volume
+of gas from the sample at each time interval. Williams (2000) suggested that blank results
+should always be reported in tables of results, but not subtracted from sample results. Blank
+incubations also provide conﬁrmation of activity of the initial inoculum and, for end point
+measures, it is a useful correction for contribution of OM in the inoculum.
+8. Effect of medium composition
+There is considerable variation in the composition of the medium used between gas
+production techniques. A distinction should be made between ‘medium’ (i.e., a solution
+containing a number of components including buffering agents, trace elements, true protein
+and reducing agents) and the ‘buffer’ that is a component of the medium (Williams, 1998).
+The bicarbonate component of the buffer complicates interpretation of the GPP, because
+of indirect gas that is produced by the reaction between bicarbonate ions and fermenta-
+tion acids. However, it is an important component of the rumen buffering system, and is
+usually included in all media to simulate rumen conditions more closely. However, Omed
+et al. (1998) suggested that phosphate could completely replace bicarbonate in the buffer,
+although microorganisms require both bicarbonate and phosphate for growth (Williams,
+1998). Phosphates also increase ﬁbre digestibility to some extent (Kennedy et al., 2000)
+and so phosphate buffers might also alter the GPP.
+Rymer et al. (1998b) examined the composition of a variety of media used in gas produc-
+tion techniques, with the objective of determining effects of various media compositions on
+the volume of indirect gas produced. The media of Goering and van Soest (1970), Theodorou
+(1993), Steingass (1983) and Huntington et al. (1998) were compared (Table 1). Aliquots
+of propionic acid (2 mmol) were sequentially added to each medium until 12 mmol acid had
+been added, and the volume of gas produced was measured. Although the Goering and van
+Soest (1970) medium produced more gas, compared with the other media, the difference
+was very small (14.8 ml/mmol acid compared with 13.7, 14.1 and 13.7 ml/mmol acid for
+the Theodorou (1993), Steingass (1983) and Huntington et al. (1998) media, respectively).
+There was no difference between media in initial pH, but there were large differences in the
+ﬁnal pH, with the media of Steingass (1983) and Goering and van Soest (1970) maintaining
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 21
+Table 1
+Composition of the media (g/l) used in various gas production techniques
+Component Medium
+Menke and Steingass
+(1988)
+Steingass
+(1983)
+Goering and van
+Soest (1970)
+Theodorou
+(1993)
+CaCl2·2H2O 0.013 0.017 0.016 0.015
+MnCl2·4H2O 9.7×10−3 0.015 0.012 0.011
+CoCl3·6H2O 0.97×10−3 0.002 1.25×10−3 1.11×10−3
+FeCl3·6H2O 0.77×10−3 0.012 9.96×10−3 8.84×10−3
+Na2HPO4 1.09 1.43 1.42 2.09
+KH2PO4 1.19 1.55 1.55 1.37
+MgSO4·7H2O 0.12 0.15 0.15 0.13
+NaHCO3 6.71 8.75 8.74 7.73
+(NH4)HCO3 0.77 1.00 1.00 0.88
+Resazurin 9.87×10−4 0.125 1.25×10−3 1.11×10−3
+Na2S 0.23 0.52 0.016 2.79×10−4
+Trypticase 1.00 2.50 2.21
+Cysteine hydrochloride 0.016 2.79×10−4
+a pH above 5.5, while others had a pH of 5.42 (Theodorou, 1993) and 5.29 (Huntington
+et al., 1998). In a study reported by Fakhri et al. (1997), the pH at 72 h of incubation of
+wheat and maize grains was much lower with the Steingass (1983) medium, but there was
+little difference between the media of Goering and van Soest (1970) and Theodorou (1993).
+The bicarbonate ion concentration is lower in the Theodorou (1993) and Huntington et al.
+(1998) media (Table 1) compared with those of Goering and van Soest (1970) and Steingass
+(1983), which could explain the low pH observed by Rymer et al. (1998b) with the ﬁrst two
+media.
+8.1. Effect of N in medium
+The original medium developed by Theodorou et al. (1994) was designed to study sub-
+strates as energy sources, and so all other components, including N, were present in excess
+(Williams, 1998). Casein or trypticase may be added as a source of amino acids and peptides,
+and Debersaques et al., (1998) showed that addition of a source of peptides was essential for
+in vitro fermentation of citrus pulp, a comparatively pure carbohydrate. However, they may
+also contribute to gas production if the microbes use it as an energy source (Williams, 1998).
+If a gas production technique is used to characterise carbohydrate sources, it is important
+that sufﬁcient N is present. If carbohydrate is in excess, relative to N, then microorganisms
+will ‘spill’ energy (Russell and Strobel, 1993), because an excess of ATP appears to be
+toxic to microbes, and so they have to adopt strategies that yield less ATP from fermenta-
+tion of carbohydrates (Russell, 1998). This results in different fermentation pathways being
+adopted that yield lactate and propionate rather than acetate. Adding amino N to the culture
+will alter fermentation stoichiometry, as the microorganisms are able to grow and do not
+need to spill the energy provided by the fermentation of carbohydrates (van Kessel and
+Russell, 1995).
+22 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+Dryhurst and Wood (1998) observed that the incubation medium, including the contri-
+bution of N from the feed, should contain at least 80 mg N/l, if the rate of carbohydrate
+degradation is to be maximised. This is more than the 50 mg N/l recommended by Satter
+and Slyter (1974) determined with continuous culture fermenters but, as noted by Dryhurst
+and Wood (1998), the requirement for N is dependant on the supply of carbohydrate. When
+more carbohydrate was supplied, particularly if it is rapidly fermentable, then more N is re-
+quired to meet bacterial growth requirements. Sufﬁcient N should be added to the medium
+to ensure that carbohydrate from the substrate is not in excess, so that the fermentation
+pathway adopted is a consequence of the feed, and not the result of an N deﬁcient medium.
+However, if the feed is being evaluated for its N sufﬁciency, then it is appropriate to
+compare fermentation of the substrate in N-rich and N-poor media. Wood et al. (1998a)
+incubated wheat straw (an N-poor substrate) in both N-rich and N-free media. Differences in
+gas production were considered to be an indication of N availability of the substrate. When
+Romney et al. (1998), used this technique, differences in gas production were negatively
+related to the N content of the feed, particularly as incubation time increased. This technique
+could also be used to study interactions between substrates. For example, adding dried
+grass or dried lucerne as a supplement to straw, in the studies of Wood et al. (1998a),
+increased total gas from the N-free medium, but had little effect with the N-rich medium. It
+appeared that the amount of supplementation required was at least 50% (w/w) before gas
+production was no longer limited. In a similar study by Rosales et al. (1998), interactions
+between tropical fodder trees were observed in some instances when an N-free medium
+was used, but not when an N-rich medium was used. It may be that this was because
+fodder trees with a rich supply of N were able to stimulate fermentation when an N-free
+medium was used, but this effect was masked when ample N was available from the medium.
+However, the reverse was also true, in that some fermentations were stimulated with an N-
+rich media but not with an N-free media. Other nutrients, present in one of the fodder trees
+must have been stimulating fermentation in these cases, but the ﬁrst limiting nutrient was
+not N.
+9. Effect of apparatus
+Rymer and Givens (1997) compared three types of apparatus using the same methodol-
+ogy. High temperature dried grass, soybean meal and straw were the substrates in an auto-
+mated pressure transducer (Cone et al., 1996), a manual pressure transducer (Theodorou et
+al., 1994) and ﬂexible plastic bottles. In general, the automated pressure transducer produced
+more gas than the manual methods, but the combined fractional rates of gas production were
+similar for the automated technique and the ﬂexible plastic bottles, but lower for the manual
+pressure transducer. In contrast, a comparison of the manual pressure transducer (Theodorou
+et al., 1994) with the automated pressure transducers of Cone et al. (1996) and Davies et
+al. (2000) indicated that the manual pressure transducer produced more gas, but at a slower
+rate, than automated transducers (Rymer et al., 2005). Despite large differences between
+apparatus used, and interactions of the laboratories involved, there were good mathematical
+relationships between GPP from the different apparatus, suggesting that GPP produced by
+one apparatus can be corrected to standardised apparatus.
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 23
+Table 2
+Summary of the common methods used in the in vitro gas production technique (adapted from Getachew et al., 1998)
+Menke et al.
+(1979)
+Bl¨ummel and
+Ørskov (1993)
+Theodorou et al.
+(1994)
+Mauricio et al.
+(1999)
+Pell and Schoﬁeld
+(1993)
+Cone et al. (1996) Davies et al.
+(1998)
+Incubation conducted
+in:
+Syringes kept in
+rotor (50 cm
+diameter,
+1 rotation/min)
+Syringes kept in
+waterbath
+Bottle in incubator Bottle in
+incubator
+Bottle and stirrer
+(48 rpm) kept in
+incubator
+Bottle in shaking
+water bathe
+(50 oscillations/min)
+Bottle in
+incubator
+Microbial inoculum Liquid phase Liquid and solid
+phase
+Liquid and solid
+phase
+Liquid phase Liquid phase Liquid phase Liquid and
+solid phase
+Rumen ﬂuid collection
+time
+Before feeding Before feeding Before feeding Before feeding 2 h after feeding 2 h after feeding Before
+feeding
+Inoculum volume (ml) 10 20 10 10 2 33 10
+Incubation volume
+(ml)
+30 30 100 100 10 100 100
+Medium reference Menke et al.
+(1979)
+Menke et al.
+(1979) +
+trypticase
+Theodorou (1993) Theodorou
+(1993)
+Goering and van
+Soest (1970)
+Steingass (1983) Theodorou
+(1993)
+Sample (mg) 200–300 200 500–1000 1000 100 400–500 1000
+Sample container (ml) 100 100 125 125 50 250 125
+Number of
+fermentation vessels
+60 – As required As required 15 12 50
+HCO3 mmol/g sample 7.2 7.2 9.3 9.3 9.3 11.7 9.3
+24 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+10. Comparison of systems
+When comparisons are made between different systems in current use, care must be
+taken to separate effects of inoculum source, method of sample and inoculum preparation,
+medium, apparatus, and method of collecting gas production data. Some differences are
+small and of no practical importance, but the biggest source of variation between laboratories
+is likely to be the inoculum. Getachew et al. (1998) summarised several systems and an
+adapted form of their summary is provided in Table 2.
+11. Conclusions
+In vitro gas production techniques have been developed in a number of laboratories,
+and this has resulted in a range of methods and apparatus to record GPP. Of the studies
+examined in this review, there appear to be a number of factors that are of lesser importance
+in terms of their effect on GPP. These include whether or not the medium is agitated during
+fermentation (although in the case of small quantities of substrate, it may have an effect
+on the coefﬁcient of variation between replicates), and the diet fed to the inoculum donor
+(as long as a speciﬁed minimum microbial activity is reached). The apparatus that have
+been developed to measure gas production affect GPP obtained, but there are few reports
+of comparisons between apparatus. However, the evidence suggests that, while apparatus
+does have an effect on GPP, it should be possible to develop mathematical corrections to
+allow comparisons between GPP produced by different apparatus.
+In contrast, there are factors that have a substantial inﬂuence on GPP, and care must
+be taken to ensure that these are consistent, certainly between runs within laboratory, and
+preferably between laboratories. For example, it is essential that buffering capacity of the
+medium is appropriate to the amount of substrate used. It is also important that enough
+substrate is used to minimize experimental error associated with weighing. The actual
+fermentation vessels should not allow gas pressure to accumulate beyond 48 kPa, as this
+affects microbial growth and causes development of a super-saturated solution, which results
+in a reduced amount of gas production being measured.
+An ideal system of substrate preparation requires further investigation, since ground
+and dried materials are not what reach the rumen in vivo. While particle size of readily
+degradable feeds appears to have only a limited effect on GPP, optimum particle size of
+forage samples should be further investigated to ensure that rates of fermentation in vitro
+relate to rates of digestion in vivo. Similarly, fresh forages should be used where possible, as
+drying exerts large effects on GPP of forages. Physical and chemical factors that enhance,
+or inhibit, digestion of the feed in vivo should also be present in the sample that is incubated
+in vitro.
+The largest source of variation in the gas production technique is the source of inoculum,
+and the activity of the microbial inoculum can have a larger effect on GPP than substrate.
+Inocula samples should be collected and pooled from more than one animal, and the diet and
+sampling schedule should be designed to minimise variation between runs (and maximise
+microbial activity of the inocula). The microbial activity of the inoculum should be deter-
+mined before inoculation begins, and this is possible with rumen ﬂuid inocula by measuring
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 25
+absorbance at 600 nm after 50-fold dilution. Future research should focus on developing in-
+ocula that minimise requirements for surgically modiﬁed animals, and this may involve use
+of mathematical manipulations to ‘shift’ GPP produced by one inoculum to that produced
+by an alternative ‘standard’ inoculum.
+It may also be necessary to re-examine the objectives of gas production techniques.
+Should the objective be to simulate the animal, or should substrate fermentability in vitro be
+considered as a characteristic per se? If it is the former, then a lot of time is required to further
+alter fermentation conditions, while knowing that they will always suffer the limitations of
+a batch culture system, given that animals more closely resemble a continuous culture.
+However, if it is the latter, the aim should be to standardize the methods that already exist,
+and accept that the maximum fermentability of a substrate in vitro may not emulate what
+occurs in animals, but that it is a useful measure to assist in ration formulation. Research
+could then focus on relating standardised GPP for individual feeds to in vivo measures of
+importance, making the GPP useful in animal nutrition.
+References
+Akhter, S., Owen, E., Fall, A., O’Donovan, F., Theodorou, M.K., 1994. Use of fresh or frozen faeces instead of
+sheep rumen liquor to provide micro-organisms for in vitro digestibility assays for forages. Anim. Prod. 58,
+452A.
+Akhter, S., Owen, E., Tembo, S.L., Theodorou, M.K., Deaville, E.R., 1995. Repeatability of in vitro digestibility
+assays of forages when using fresh, frozen or freeze-dried cow faeces instead of sheep rumen liquor as sources
+of micro-organisms. Anim. Prod. 60, 540A.
+Altaf, U.R., Mauricio, R., Mould, F.L., Smith, T., Owen, E., Phipps, R.H., Theodorou, M.K., 1998. Comparison of
+bovine rumen liquor and bovine faeces as sources of micro-organisms for the in vitro gas production technique
+for assessing silages of maize and maize plant fractions. Proc. Br. Soc. Anim. Sci., 60.
+Barbi, J.H.T., Owen, E., Theodorou, M.K., 1993. Use of the rumen simulation technique (RUSITEC) to provide
+micro-organisms for assessing the rate of fermentation, in vitro, of forages. Anim. Prod. 56, 462A.
+Barbi, J.H.T., Owen, E., Theodorou, M.K., 1994a. Use of the rumen simulation technique (Rusitec) to provide
+micro-organisms for assessing forage rate-of-fermentation in vitro: effect of solid food input to Rusitec. Anim.
+Prod. 58, 450A.
+Barbi, J.H.T., Owen, E., Theodorou, M.K., 1994b. Use of the rumen simulation technique (Rusitec) to provide
+micro-organisms for assessing forage rate-of-fermentation in vitro: effect of soluble carbohydrate inputs to
+Rusitec. Anim. Prod. 58, 450A.
+Barbi, J.H.T., Owen, E., Theodorou, M.K., 1995. To test the repeatability of a gas production method for assessing
+the in vitro fermentation of forages using micro-organisms derived from a rumen simulation technique (Rusitec)
+or from sheep rumen liquor. Anim. Sci. 60, 542A.
+Bauer, E., Williams, B.A., Bosch, M.W., Voigt, C., Mosenthin, R., Verstegen, M.W.A., 2004. Differences in
+microbial activity of digesta from three sections of the porcine large intestine according to in vitro fermentation
+of carbohydrate-rich substrates. J. Sci. Food Agric. 84, 2097–2104.
+Beuvink, J., Spoelstra, S., 1992. Interactions between substrate, fermentation end-products, buffering systems and
+gas production upon fermentation of different carbohydrates by mixed rumen microorganisms in vitro. Appl.
+Microbiol. Biotechnol. 37, 505–509.
+Beuvink, J., Spoelstra, S., Hogendorp, R., 1992. An automated method for measuring time course of gas production
+of feedstuffs incubated with buffered rumen ﬂuid. Neth. J. Agric. Sci. 40, 401–407.
+Bl¨ummel, M., Ørskov, E.R., 1993. Comparison of in vitro gas production and nylon bag degradability of roughages
+in predicting feed intake in cattle. Anim. Feed Sci. Technol. 40, 109–119.
+Broderick, G.A., 1998. Can cell-free enzymes replace rumen micro-organisms to model energy and protein supply?
+In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro
+26 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+Techniques for Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh, UK, pp. 99–114, BSAS Occ.
+Publ. No. 22.
+Bueno, I.C.S., Abdalla, A.L., Cabral Filho, S.L.S., Vitta, D.M.S.S., Owen, E., Mauricio, R.M., Givens, I., Sutton,
+J.D., Mould, F.L., 1999. Comparison of inocula from sheep and cattle for the in vitro gas production technique
+under tropical conditions. Proc. Br. Soc. Anim. Sci., 151.
+Calabr`o, S., Williams, B.A., Piccolo, V., Infascelli, F., Tamminga, S., 2004. A comparison between buffalo (Bubalus
+bubalis) and cow (Bos taurus) rumen ﬂuids in terms of the in vitro fermentation characteristics of three ﬁbrous
+feedstuffs. J. Sci. Food Agric. 84, 645–652.
+Cone, J.W., 1998. The development, use and application of the gas production technique as the DLO Institute for
+Animal Science and Health (ID-DLO), Lelystad, The Netherlands. In: Deaville, E.R., Owen, E., Adesogen,
+A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply
+to Ruminants. BSAS, Edinburgh, UK, pp. 65–78, BSAS Occ. Publ. No. 22.
+Cone, J.W., van Gelder, A.H., Bachmann, H., 2002. Inﬂuence of inoculum source on gas production proﬁles.
+Anim. Feed Sci. Technol. 99, 221–231.
+Cone, J.W., van Gelder, A.H., Visscher, G.J.W., Oudshoorn, L., 1996. Inﬂuence of rumen ﬂuid and substrate
+concentration on fermentation kinetics measured with a fully automated time related gas production apparatus.
+Anim. Feed Sci. Technol. 61, 113–128.
+Czerkawski, J.W., Breckenridge, G., 1975. New inhibitors of methane production by rumen micro-organisms.
+Development and testing of inhibitors in vitro. Br. J. Nutr. 34, 429–444.
+Davies, Z.S., Brooks, A.E., Grifﬁth, G.W., Theodorou, M.K., 1998. Assessment of fermentation characteristics of
+ruminant foods using an automated pressure evaluation system. In: Deaville, E.R., Owen, E., Adesogen, A.T.,
+Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply to
+Ruminants. BSAS, Edinburgh, UK, pp. 190–192, BSAS Occ. Publ. No. 22.
+Davies, Z.S., Mason, D., Brooks, A.E., Grifﬁth, G.W., Merry, R.J., Theodorou, M.K., 2000. An automated system
+for measuring gas production from forages inoculated with rumen ﬂuid and its use in determining the effect
+of enzymes on grass silage. Anim. Feed Sci. Technol. 83, 205–221.
+Debersaques, F.M.A., Williams, B.A., Tamminga, S., 1998. Effect of nitrogen source on fermentation character-
+istics of citrus pulp. Proc. Br. Soc. Anim. Sci., 174.
+Dhanoa, M.S., France, J., Crompton, L.A., Mauricio, R.M., Kebreab, E., Mills, J.A.N., Sanderson, R., Dijkstra,
+J., Lopez, S., 2004. Technical note: A proposed method to determine the extent of degradation of a feed in
+the rumen from the degradation proﬁle obtained with the in vitro gas production technique using feces as the
+inoculum. J. Anim. Sci. 82, 733–746.
+Dryhurst, N., Wood, C.D., 1998. The effect of nitrogen source and concentration on in vitro gas production using
+rumen micro-organisms. Anim. Feed Sci. Technol. 71, 131–143.
+Fakhri, S., Moss, A.R., Givens, D.I., Owen, E., 1997. Comparison of four in vitro gas production methods to study
+rumen fermentation kinetics of starch rich feeds. Proc. Br. Soc. Anim. Sci., 196.
+Getachew, G., Bl¨ummel, M., Makkar, H.P.S., Becker, K., 1998. In vitro gas measuring techniques for assessment
+of nutritional quality of feeds: a review. Anim. Feed Sci. Technol. 72, 261–281.
+Goering, H.K., van Soest, P.J., 1970. Forage ﬁber analyses (apparatus, reagents, procedures and some applications).
+In: USDA Agriculture Handbook No. 379. USDA-ARS, Washington, DC, USA.
+Goncalves, L.M.B., Borba, A.E.S., 1996. Study of gas production capacity by three sources of inocula. J. Agric.
+Sci. (Camb.) 127, 511–515.
+Harris, D.M., Barlet, A., Chamberlain, A.T., 1995. The use of dairy cow faeces rather than rumen liquor in the gas
+pressure transducer techniques for assessing digestion kinetics in vitro. Anim. Sci. 60, 541A.
+Hungate, R.E., 1966. The Rumen and its Microbes. Academic Press, New York, NY, USA.
+Huntington, J.A., Rymer, C., Givens, D.I., 1998. The effect of host diet on the gas production proﬁle of hay and
+high-temperature dried grass. Anim. Sci. 67, 59–64.
+Jessop, N.S., Herrero, M., 1998. Modelling fermentation in an in vitro gas production system: effects of microbial
+activity. In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.),
+In Vitro Techniques for Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh, UK, pp. 81–84, BSAS
+Occ. Publ. No. 22.
+Jouany, J.P., Thivend, P., 1986. In vitro effect of avoparcin on protein degradability and rumen fermentation. Anim.
+Feed Sci. Technol. 15, 215–229.
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 27
+Kennedy, P.M., Lowry, J.B., Conlan, L.L., 2000. Phosphate rather than surfactant accounts for the main contribution
+to enhanced ﬁbre digestibility resulting from treatment with boiling neutral detergent. Anim. Feed Sci. Technol.
+86, 177–190.
+Lowenadler, J., Ronner, U., 1994. Determination of dissolved carbon-dioxide by colorimetric titration in modiﬁed
+atmosphere systems. Lett. Appl. Microbiol. 18, 285–288.
+Lowman, R.S., Brooks, A.E., Theodorou, M.K., Dhanoa, M.S., Cuddeford, D., 1998. The effect of head-space
+pressure on gas production proﬁles. In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A.,
+Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh,
+UK, pp. 205–206, BSAS Occ. Publ. No. 22.
+Lowman, R.S., Theodorou, M.K., Cuddeford, D., 2002. The effect of sample processing on gas production proﬁles
+obtained using the pressure transducer technique. Anim. Feed Sci. Technol. 97, 221–237.
+Lowman, R.S., Theodorou, M.K., Hyslop, J.J., Dhanoa, M.S., Cuddeford, D., 1999. Evaluation of an in vitro batch
+culture technique for estimating the in vivo digestibility and digestible energy content of equine feeds using
+equine faeces as the source of microbial inoculum. Anim. Feed Sci. Technol. 80, 11–27.
+Lowman, R.S., Theodorou, M.K., Longland, A.C., Cuddeford, D., 1996. A comparison of equine faeces or caecal
+digesta as sources of inoculum for in vitro fermentation studies using the pressure transducer technique. Anim.
+Sci. 62, 683A.
+Luchini, N.D., Broderick, G.A., Combs, D.K., 1996. In vitro determination of ruminal protein degradation using
+freeze-stored ruminal microorganisms. J. Anim. Sci. 74, 2488–2499.
+Machboeuf, D., Jestin, M., Martin-Rosset, W., 1998. Utilization of the gas test method using horse faeces as a
+source of inoculum. In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A., Lawrence,
+T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh, UK, pp.
+187–189, BSAS Occ. Publ. No. 22.
+Mauricio, R., Abdalla, A.L., Mould, F.L., Altaf, U.R., Smith, T., Owen, E., Givens, D.I., Dhanoa, M.S., Theodorou,
+M.K., 1998a. Comparison of bovine rumen liquor and faeces as sources of micro-organisms for the in
+vitro gas production technique assessed using twelve graminaceous forages. Proc. Br. Soc. Anim. Sci.,
+68.
+Mauricio, R.M., Mould, F.L., Dhanoa, M.S., Owen, E., Channa, K.S., Theodorou, M.K., 1999a. A semi-automated
+in vitro gas production technique for ruminant feedstuff evaluation. Anim. Feed Sci. Technol. 79, 321–
+330.
+Mauricio, R.M., Mould, F.L., Owen, E., Dhanoa, M.S., Theodorou, M.K., 1999b. Effect of reducing the interval of
+recording from three to one hour on gas production proﬁles in the semi-automated technique using a pressure
+transducer. Proc. Br. Soc. Anim. Sci., 148.
+Mauricio, R.M., Owen, E., Abdalla, A.L., Bueno, I.C.S., Mould, F.L., Gilmour, S., Theodorou, M.K., 1999c.
+Comparison of rumen liquor and faeces, in UK and Brazil, as sources of microorganisms for in vitro gas
+production for assessing twelve forages. Proc. Br. Soc. Anim. Sci., 147.
+Mauricio, R.M., Owen, E., Dhanoa, M.S., Theodorou, M.K., 1998b. Comparison of rumen liquor and faeces
+from cows as sources of micro-organisms for the in vitro gas production technique. In: Deaville, E.R.,
+Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques for
+Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh, UK, pp. 182–184, BSAS Occ. Publ. No.
+22.
+Mauricio, R.M., Owen, E., Mould, F.L., Givens, I., Theodorou, M.K., France, J., Davies, D.R., Dhanoa, M.S., 2001.
+Comparison of bovine rumen liquor and bovine faeces as inoculum for an in vitro gas production technique
+for evaluating forages. Anim. Feed Sci. Technol. 89, 33–48.
+McBee, R.H., 1953. Manometric method for the evaluation of microbial activity in the rumen with application to
+utilization of cellulose and hemicelluloses. Appl. Microbiol. 1, 106–110.
+Mehrez, A.Z., Ørskov, E.R., 1977. The use of a Dacron bag technique to determine rate of degradation of protein
+and energy in the rumen. J. Agric. Sci. (Camb.) 88, 645–650.
+Menke, K., Raab, L., Salewski, A., Steingass, H., Fritz, D., Schneider, W., 1979. The estimation of the digestibility
+and metabolizable energy content of ruminant feedingstuffs from the gas production when they are incubated
+with rumen liquor in vitro. J. Agric. Sci. (Camb.) 93, 217–222.
+Menke, K.H., Steingass, H., 1988. Estimation of the energetic feed value obtained from chemical analysis and in
+vitro gas production using rumen ﬂuid. Anim. Res. Dev. 28, 7–55.
+28 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+Mertens, D.R., Weimer, P.J., Waghorn, G.M., 1998. Inocula differences affect in vitro gas production kinetics.
+In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro
+Techniques for Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh, UK, pp. 95–98, BSAS Occ. Publ.
+No. 22.
+Mertens, D.R., Weimer, P.J., 1998. Method for measuring gas production kinetics. In: Deaville, E.R., Owen, E.,
+Adesogen, A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring
+Nutrient Supply to Ruminants. BSAS, Edinburgh, UK, pp. 209–211, BSAS Occ. Publ. No. 22.
+Moss, A.R., Pell, A.N., Givens, D.I., 1998. Use of the Cornell University gas production technique to mea-
+sure kinetics of carbohydrate degradation in ﬁve foods: a comparison between laboratories. In: Deaville,
+E.R., Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques
+for Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh, UK, pp. 218–220, BSAS Occ. Publ. No.
+22.
+Nagadi, S., Herrero, M., Jessop, N.S., 2000. The inﬂuence of diet of the donor animal on the initial bacterial
+concentration of ruminal ﬂuid and in vitro gas production degradability parameters. Anim. Feed Sci. Technol.
+87, 231–239.
+Nagadi, S., Herrero, M., Jessop, N.S., 1999. Effect of frequency of ovine ruminal sampling on microbial activity
+and substrate fermentation. Proc. Br. Soc. Anim. Sci., 153.
+Omed, H.M., Faza, A., Axford, R.F.E., Ap Dewi, I., Givens, D.I., 1998. A low tech in vitro procedure using faecal
+liquor for the estimation of digestibility of forages. Proc. Br. Soc. Anim. Sci., 59.
+Payne, J.S., Hamersley, A.R., Milligan, J.C., Huntington, J.A., 2002. The affect of rumen ﬂuid collection time
+on its fermentative capacity and the stability of rumen conditions in sheep fed a constant diet. Proc. Br. Soc.
+Anim. Sci., 165.
+Pell, A.N., Pitt, R.E., Doane, P.H., Schoﬁeld, P., 1998. The development, use and application of the gas production
+technique at Cornell University, USA. In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C., Hunting-
+ton, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply to Ruminants. BSAS,
+Edinburgh, UK, pp. 45–54, BSAS Occ. Publ. No. 22.
+Pell, A.N., Schoﬁeld, P., 1993. Computerised monitoring of gas production to measure forage digestion in vitro.
+J. Dairy Sci. 76, 1063–1073.
+Romney, D.L., Cadario, F.C., Owen, E., Murray, A.H., 1998. Comparison of parameters from the Theodorou
+gas production technique using nitrogen-free and nitrogen-rich media as predictors of dry matter intake and
+digestibility. In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J.
+(Eds.), In Vitro Techniques for Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh, UK, pp. 172–174,
+BSAS Occ. Publ. No. 22.
+Rosales, M., Gill, M., Wood, C.D., Speedy, A.W., 1998. Associative effects in vitro of mixtures of tropical fodder
+trees. In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In
+Vitro Techniques for Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh, UK, pp. 175–177, BSAS
+Occ. Publ. No. 22.
+Russell, J.B., 1998. Strategies that ruminal bacteria use to handle excess carbohydrate. J. Anim. Sci. 76, 1955–1963.
+Russell, J.B., Strobel, H.J., 1993. Microbial energetics. In: Forbes, J.M., France, J. (Eds.), Quantitative Aspects
+of Ruminant Digestion and Metabolism. CABI, Wallingford, UK, pp. 165–186.
+Rymer, C., Brooks, A.E., Theodorou, M.K., Givens, D.I., 1998a. The effect of shaking on the gas production
+proﬁle of high temperature dried grass. Proc. Br. Soc. Anim. Sci., 65.
+Rymer, C., Givens, D.I., 1997. A comparison of different types of apparatus used for measuring gas production
+in vitro. Proc. Br. Soc. Anim. Sci., 193.
+Rymer, C., Huntington, J.A., Givens, D.I., 1999. Effects of inoculum preparation method and concentration,
+method of inoculation and pre-soaking the substrate on the gas production proﬁle of high temperature dried
+grass. Anim. Feed Sci. Technol. 78, 199–213.
+Rymer, C., Moss, A.R., Deaville, E.R., Givens, D.I., 1998b. Factors affecting the amount of indirect gas produced by
+the in vitro gas production technique. In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C., Huntington, J.A.,
+Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply to Ruminants. BSAS, Edinburgh,
+UK, pp. 89–91, BSAS Occ. Publ. No. 22.
+Rymer, C., Stewart, C.R., Garstang, T.F., Givens, D.I., 2000. The use of mixtures of pure bacterial cultures as
+an alternative inoculum to rumen ﬂuid in the in vitro gas production technique. In: Gas production: fermen-
+C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30 29
+tation kinetics for feed evaluation and to assess microbial activity. EAAP Satellite Symposium, Wageningen
+International Conference Centre, Wageningen, The Netherlands. Br. Soc. Anim. Sci., Penicuik, UK, pp. 29–
+30.
+Rymer, C., Williams, B.A., Brooks, A.E., 2005. The inter-laboratory variation in the in vitro gas production proﬁles
+of feeds. Anim. Feed Sci. Technol. (this issue).
+Sanderson, R., Lister, S.J., Sargeant, A., Dhanoa, M.S., 1997. Effect of particle size on in vitro fermentation of
+silages differing in dry matter content. Proc. Br. Soc. Anim. Sci., 197.
+Satter, L.D., Slyter, L.L., 1974. Effect of ammonia concentration on rumen microbial production in vitro. Br. J.
+Nutr. 32, 199–208.
+Schoﬁeld, P., 2000. Gas production methods. In: D’Mello, J.P.F. (Ed.), Farm Animal Metabolism and Nutrition.
+CABI Publishing, Wallingford, UK, pp. 209–232.
+Sch¨oner, F.J., 1981. Sch¨atzung des energetischen Futterwertes von Milchleistungsfuttern (Erg¨anzungsfutter f¨ur
+Milchk¨uhe) unter besonderer Ber¨ucksichtigung des Hohenheimer Futterwerttestes. Dissertation, Bonn Uni-
+versity, Bonn, Germany.
+Senshu, T., Nakamura, K., Sawa, A., Miura, H.A., Matsumoto, T., 1980. Inoculum for in vitro rumen fermentation
+and composition of volatile fatty acids. J. Dairy Sci. 63, 305–312.
+Steingass, H., 1983. Bestimmung des energetischen Futterwertes von wirtschaftseigenen Futtermitteln aus der
+Gasbildung bei der Pansenfermentation in vitro. PhD Thesis, University of Hohenheim, Hohenheim, Germany.
+Stevenson, A., Buchanan, C.J., Abia, R., Eastwood, M., 1997. A simple in vitro fermentation system for
+polysaccharides—the effects of fermenter ﬂuid surface area/ﬂuid volume ratio and amount of substrate. J.
+Sci. Food Agric. 73, 101–105.
+Theodorou, M.K., 1993. A new laboratory procedure for determining the fermentation kinetics of ruminant feeds.
+Ciencia e investigaci´on agraria 20, 332–344.
+Theodorou, M.K., Lowman, R.S., Davies, Z.S., Cuddeford, D., Owen, E., 1998. Principles of techniques that
+rely on gas measurements in ruminant nutrition. In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C.,
+Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply to Ruminants.
+BSAS, Edinburgh, UK, pp. 55–64, BSAS Occ. Publ. No. 22.
+Theodorou, M.K., Williams, B.A., Dhanoa, M.S., McAllan, A.B., France, J., 1994. A simple gas production
+method using a pressure transducer to determine the fermentation kinetics of ruminant feeds. Anim. Feed Sci.
+Technol. 48, 185–197.
+Trei, J., Hale, W., Theurer, B., 1970. Effect of grain processing on in vitro gas production. J. Anim. Sci. 30,
+825–831.
+van Kessel, J.S., Russell, J.B., 1995. The Effect of Amino Nitrogen on the Energetics of Ruminal Bacteria and its
+Impact on Energy Spilling. US Dairy Forage Research Center Research Summaries, Madison, WI, USA, pp.
+78–80.
+van Kessel, J.S., Russell, J.B., 1996. The effect of amino nitrogen on the energetics of ruminal bacteria and its
+impact on energy spilling. J. Dairy Sci. 79, 1237–1243.
+Wilkins, J., 1974. Pressure transducer method for measuring gas production by microorganisms. Appl. Microbiol.
+27, 135–140.
+Williams, B.A., 1998. Poster discussion session report. In: Deaville, E.R., Owen, E., Adesogen, A.T., Rymer, C.,
+Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply to Ruminants.
+BSAS, Edinburgh, UK, pp. 282–284, BSAS Occ. Publ. No. 22.
+Williams, B.A., 2000. Cumulative gas production techniques for forage evaluation. In: Givens, D.I., Owen, E.,
+Axford, R.F.E., Omed, H.M. (Eds.), Forage Evaluation in Ruminant Nutrition. CABI Publishing, Wallingford,
+UK, pp. 189–213.
+Williams, B.A., van Osch, L.J.M., Kwakkel, P., 1997. Fermentation characteristics of the caecal contents of broiler
+chickens fed ﬁne and coarse particle diets. Br. Poult. Sci. 38 (S), S41–S42.
+Williams, B.A., Voigt, C., Verstegen, M.W.A., 1998. The faecal microbial population can be representative of
+large intestinal microﬂoral activity. Proc. Br. Soc. Anim. Sci., 165.
+Wood, C.D., Murray, A.H., Moss, A.R., Givens, D.I., 1998a. Use of the gas production technique to investigate
+responses of supplementing low quality forages: 1. In vitro interactions. In: Deaville, E.R., Owen, E., Adesogen,
+A.T., Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply
+to Ruminants. BSAS, Edinburgh, UK, pp. 92–94, BSAS Occ. Publ. No. 22.
+30 C. Rymer et al. / Animal Feed Science and Technology 123–124 (2005) 9–30
+Wood, C.D., Prathalingam, N.S., Murray, A.M., Matthewman, R.W., 1998b. Use of the gas production technique
+to investigate supplementation of nitrogen-deﬁcient foods. In: Deaville, E.R., Owen, E., Adesogen, A.T.,
+Rymer, C., Huntington, J.A., Lawrence, T.L.J. (Eds.), In Vitro Techniques for Measuring Nutrient Supply to
+Ruminants. BSAS, Edinburgh, UK, pp. 202–204, BSAS Occ. Publ. No. 22.
+Zhao, G.Y., Chen, X.J., 2004. The suitability of a faecal suspension of sheep as inocula for the estimation
+of utilizable crude protein of feeds by in vitro incubation. Arch. Anim. Nutr. -Arch. Tierernahr. 58, 137–
+148.

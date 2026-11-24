@@ -1,0 +1,305 @@
+=== Fuente: 16_Transformaciones.pdf ===
+
+1
+Transformaciones de VariablesTransformaciones de Variables
+Transformaciones para Transformaciones para corregircorregir inadecuaciones inadecuaciones 
+del modelodel modelo
+Vimos que los gráficos de residuos son métodos poderosos 
+para detectar inadecuaciones de los supuestos.
+Veremos algunos métodos, basados en la transformacitransformaci óón n 
+de variablesde variables , para analizar datos, cuando no se cumplen 
+algunos de los supuestos. Las transformaciones se emplean 
+para modificar la escala de medición de los datos, con el 
+objeto de que se cumplan los supuestos del modelo lineal 
+para proporcionar inferencias válidas.
+2
+En el caso ideal la elección de la métrica debiera 
+efectuarla el especialista en el materia pero hay 
+muchos casos en que no hay conocimiento y la 
+transformación se debe elegir en forma heurística. 
+La inferencia estadística se realiza sobre la variable 
+transformada, por lo tanto, cuando las 
+transformaciones son necesarias, es común realizar 
+el análisis y efectuar las inferencias en la escala 
+transformada, pero presentando además las medias 
+en la escala original.
+3
+Transformaciones estabilizadoras de la varianzaTransformaciones estabilizadoras de la varianza
+Una posible razón por la cual la varianza no es constante es que la 
+respuesta sigue una distribución de probabilidad en la que una 
+función relaciona la varianza con la media. 
+En estos casos son útiles las transformaciones estabilizadoras 
+de la varianza.
+La transformación suele proporcionar estimadores más precisos 
+y mayor sensibilidad en las pruebas de hipótesis.
+Cuidado: una transformaciCuidado: una transformaci óón que corrige heterogeneidad de n que corrige heterogeneidad de 
+varianzas puede hacer que no se cumplan otros supuestos.varianzas puede hacer que no se cumplan otros supuestos.
+4
+Ejemplos para datos con distribución conocida
+(Para las vbles originales se emplea como notación y y para las transformadas t)
+Distribución Poisson : la media es igual a la varianza ⇒ usar la 
+transformación raíz cuadrada o la raíz cuadrada corregida por el 
+factor 3/8 si la media es inferior a 3.
+( ) ( )( ) 1012 ≤≤−∝ yyEyEσ y
+( )ysenoarcot =
+⇒ la trasformación apropiada es:
+8/3+== ytoyt
+Distribución Binomial : para una proporción (y = p) la relación entre 
+la media y la varianza es:
+5
+222
+yyy µλµσ +=
+( )yohiperbólicsenoarcot λ= 1
+Distribución Binomial Negativa : la relación entre la media y la 
+varianza es:
+Cuando la distribución es desconocida y la relación empírica entre 
+la media y el desvío estándar es: 
+α
+yy µσ ∝
+α
+α
+α −=⇒=−+⇒∝ −+ 1011 ppµσ p tt
+Si  t = yp puede demostrarse que: 
+La trasformación apropiada (requiere conocimiento de λ) es:
+6
+p yp Nombre Observaciones 
+2 Y2 Cuadrado  
+1 y Datos originales No hay transformación 
+1/2 y  Raíz Cuadrada Distribución Poisson 
+0 log( y) Logaritmo  
+-1/2 y 1  Raíz Cuadrada Recíproca   
+-1 y1  Recíproco Re-expresa el tiempo como tasa 
+Ejemplos de Transformaciones exponenciales.
+7
+Para respuestas y positivaspositivas , Box y Cox (1964) propusieron la 
+familia de transformaciones de potencias con un parámetro 
+desconocido λ > 0 ( λ = p de las páginas previas) :
+MMéétodos analtodos anal ííticos para seleccionar una Transformaciticos para seleccionar una Transformaci óónn
+MMéétodo de Boxtodo de Box --Cox para la variable respuestaCox para la variable respuesta
+( )
+( )
+
+
+ 
+
+=
+>≠−
+=
+0ln
+001
+λy
+yλλ y t λ
+λ
+Es una familia continua en λ, donde λ se estima de manera que la 
+variable transformada cumpla adecuadamente con los supuestos, 
+maximizando la función de verosimilitud L( λ).
+8
+Un intervalo de confianza del 100(1-α)% aproximado para λ se 
+obtiene trazando una recta horizontal en el gráfico L( λ) vs λ a la 
+altura:
+Para estimar λ:
+1.- elegir valores de λ dentro de un rango (por ej. [-2, 2])
+2.- para cada valor elegido evaluar L( λ) (o SC Error( λ))
+3.- graficar L( λ) vs λ (o SC Error( λ) vs λ ) y elegir como 
+estimación aquel valor que produzca el máximo (mínimo).
+Se sugiere usar un valor aproximado, por ej. si el máximo fuera 
+0,48 elegir 0,50.
+( ) ( )( ) 2 1,1
+2
+1ˆ
+α
+χ
+λ −−L
+La recta corta a la curva en dos puntos cuyos lugares en el eje λ
+definen los valores extremos del intervalo.
+Si el intervalo cubre el 1 no sería necesario transformar.
+9
+EjemplosEjemplos
+No requiere No requiere 
+transformacitransformaci óónn
+yt =
+10
+Para respuestas y > -λ1 con λ1 >0, la familia de Box y Cox es:
+( )
+( )
+( )
+
+
+ 
+
+=+
+−>≠−+
+=
+0ln
+01
+,
+1
+1
+1
+1
+λy
+yλλ y t
+λ λ
+λ
+λ
+λλ
+Cuando el gráfico de residuos indica distribución bastante 
+simétrica pero no normal conviene usar la familia de potencias de 
+John y Draper:
+ Si los datos son positivos, ambas familias concuerdan.
+ Si los datos poseen valores positivos y negativos, la familia de 
+potencias de John y Draper requiere que λ1 ≥ 0, para que se pueda 
+retransformar a la escala original.
+( )
+( ) ( )
+( ) ( )
+ℜ∈
+
+
+
+ 
+
+=+
+≠−+
+= y
+yysigno
+yysigno
+t
+0log
+01
+,
+1
+1
+1
+λ
+λ
+λ
+λλ
+λλ
+λ
+11
+En ciertos artículos donde se emplean transformaciones, 
+presentan las medias de los datos transformados y la 
+retransformación de las medias a la escala original. Finney (1973) 
+sugiere que se presenten las medias de los datos originales y las 
+de los datos transformados, pues la retransformación de las 
+medias a la escala original son estimadores sesgados de las medias 
+poblacionales.
+Ejemplo
+Un Ingeniero Agrónomo dedicado a la Floricultura está interesado 
+en determinar si hay diferencias entre 4 variedades de rosas. 
+Efectúa un ensayo en invernáculo en macetas (con una planta en 
+cada una) con un D.C.A. de 6 repeticiones. Los datos de peso de la 
+raíz de cada planta (en unidades convenientes) figuran a 
+continuación. Se presentan las sentencias SAS y algunos 
+resultados de las salidas.
+Variedad Repetición 
+1 2 3 4 
+1 0.34 0.91 6.31 17.15 
+2 0.12 2.94 8.37 11.82 
+3 1.23 2.14 9.75 10.95 
+4 0.70 2.36 6.09 17.20 
+5 1.75 2.86 9.82 14.35 
+6 0.12 4.55 7.24 16.82 
+12
+data rosa;
+do variedad= 1 to 4;
+do rep=1 to 6;
+input rendimiento @@;
+output;
+end;
+end;
+datalines;
+0.34  0.12  1.23  0.70  1.75  0.12
+…
+17.15 11.82 10.95 17.20 14.35 16.82
+run ;
+proc glm data=rosa;
+class variedad;
+model rendimiento=variedad;
+means variedad/hovtest=levene(TYPE=ABS);
+output out=resi r=res p=pred;
+symbol1 c=red v=star;
+proc gplot data=resi;
+plot res*pred=1/vref=0;
+proc univariate data=resi noprint ;
+histogram res /normal cbarline=grey ;
+QQPLOT/NORMAL (mu=est sigma=est) ;
+var res;
+run ;
+Levene's Test for Homogeneity of rendimiento Variance 
+ANOVA of Absolute Deviations from Group Means  
+Source  DF  Sum of Squares  Mean Square  F Value  Pr > F 
+variedad  3 11.5397  3.8466  6.41  0.0032  
+Error  20  12.0093  0.6005      
+Goodness-of-Fit Tests for Normal Distribution  
+Test  Statistic  p Value  
+Kolmogorov-Smirnov  D 0.12891502 Pr > D  >0.150 
+
+13
+%inc 'C:\Trabajo\Floricultura\Clases\macro1.sas';
+%transf (-2,2,0,rosa,rendimiento,variedad,variedad,glm,.95 )
+ 
+Valores de Lambda, L de Lambda y cota para el intervalo de confianza  
+para Lambda1=0 y lambda en [-2,2] 
+ 
+Lambda  L de Lambda  Cota para  Int.Conf.  
+-2.00 -135.350 -6.59274 
+-1.75 -118.329 -6.59274 
+-1.50 -101.640 -6.59274 
+-1.25 -85.360 -6.59274 
+-1.00 -69.592 -6.59274 
+-0.75 -54.484 -6.59274 
+-0.50 -40.253 -6.59274 
+-0.25 -27.251 -6.59274 
+0.00 -16.119 -6.59274 
+0.25 -8.062 -6.59274 
+0.50 -4.672 -6.59274 
+0.75 -6.311 -6.59274 
+1.00 -11.405 -6.59274 
+1.25 -18.249 -6.59274 
+1.50 -25.921 -6.59274 
+1.75 -34.016 -6.59274 
+2.00 -42.357 -6.59274 
+En el intervalo [-2,2] para Lambda1=0 
+ 
+El Lambda  
+adecuado  
+es:  
+0.5  
+14
+%inc 'C:\Trabajo\Floricultura\Clases\macro2.sas';
+%analisis (.5 ,0,rosa,rendimiento,variedad,variedad)
+data rosa;
+set rosa;
+y_trans=SIGN(rendimiento)*((ABS(rendimiento)+ 0)** 0.5 );
+run ;
+proc means data=rosa mean stddev;
+class variedad;
+var rendimiento y_trans;
+run ;
+variedad  N Obs  Variable  Mean  Std Dev  
+1 6 rendimiento  
+y_trans  
+0.7100000  
+0.7574175  
+0.6610900  
+0.4044534  
+2 6 rendimiento  
+y_trans  
+2.6266667  
+1.5819852  
+1.1922024  
+0.3857295  
+3 6 rendimiento  
+y_trans  
+7.9300000  
+2.8032951  
+1.6470701  
+0.2929908  
+4 6 rendimiento  
+y_trans  
+14.7150000  
+3.8208340  
+2.8008909  
+0.3734610  

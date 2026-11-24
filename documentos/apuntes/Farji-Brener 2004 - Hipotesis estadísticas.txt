@@ -1,0 +1,228 @@
+=== Fuente: Farji-Brener 2004 - Hipotesis estadísticas.pdf ===
+
+Ecología Austral 14:201-203. Diciembre 2004
+Asociación Argentina de Ecología
+¿Son hipótesis las hipótesis estadísticas?
+ALEJANDRO G FARJI-BRENER
+Laboratorio Ecotono, Centro Regional Universitario Bariloche, Univ. Nac. del Comahue, Bariloche, Argentina
+[Palabras clave: hipótesis biológicas, método científico, predicciones]
+[Keywords: biological hypothesis, scientific method, statistics, predictions]
+Recibido: 5 de enero de 2004; Fin de arbitraje: 3 de marzo de
+2004; Revisión recibida: 17 de marzo de 2004; Aceptado: 17 de
+marzo de 2004
+Laboratorio Ecotono, Centro Regional Univer-
+sitario Bariloche, Univ. Nacional del Comahue,
+Quintral 1250, (8400) Bariloche, Argentina.
+alefarji@crub.uncoma.edu.ar
+Dado que la ciencia avanza por la acumula-
+ción de conocimientos, el aporte de una inves-
+tigación científica depende de que su conteni-
+do pueda trasmitirse y comprenderse correct-
+amente. Para ello es importante que exista
+consenso sobre el significado de los términos
+utilizados, minimizando confusiones en la
+planificación de los proyectos de investiga-
+ción y en la comprensión e interpretación de
+sus resultados. Entre los ecólogos, un ejemplo
+muy común de confusión en el uso de la ter-
+minología es la utilización de los términos
+“hipótesis” y “predicciones” como si fuesen
+sinónimos (ver Farji-Brener 2003). Esta breve
+nota pretende expandir el debate sobre su
+correcta utilización, analizando si las denomi-
+nadas “hipótesis estadísticas” concuerdan con
+la definición que comúnmente utilizamos de
+“hipótesis científica”. Para ello, (1) describiré
+el significado que poseen los términos “hipó-
+tesis” y “predicciones” al elaborar una inves-
+tigación científica, (2) discutiré el significado
+del término “hipótesis” cuando es utilizado
+en las pruebas estadísticas, y (3) compararé
+ambos significados, intentando establecer una
+relación entre ellos.
+Los términos “hipótesis” y “predicciones”
+representan diferentes pasos del método cien-
+tífico. Si bien diferentes autores adhieren a
+diferentes definiciones del significado de
+hipótesis, en general las hipótesis científicas
+se definen como una proposición general
+(particular o universal) que puede verificarse
+solo de manera indirecta, esto es, por el exa-
+men de sus predicciones (Bunge 1997). Las
+predicciones son, por ende, los resultados
+esperados bajo el supuesto de que nuestra
+hipótesis es verdadera (i.e., sus posibles con-
+secuencias). Comparando estos resultados
+esperados con los resultados reales obtenidos
+de nuestra investigación, podemos entonces
+rechazar (o no) la veracidad de nuestra idea.
+Por ende, los términos “hipótesis” y “predic-
+ciones” no solo son diferentes pasos del méto-
+do científico, sino que siguen una secuencia
+direccional lógica que no es intercambiable.
+Sin embargo, la confusión en el uso de dichos
+términos es muy frecuente y su utilización
+incorrecta excede el error semántico. Alrede-
+dor del 50% de los trabajos publicados en
+varias de las principales revistas de ecología
+(incluyendo a Ecología Austral ) utilizan
+erróneamente los términos “hipótesis” y
+“predicciones” (Farji-Brener 2003). La gran
+mayoría de los errores es producto de enun-
+ciar predicciones como si fuesen hipótesis, lo
+cual impide al lector conocer la idea general
+que se quiso poner a prueba y comprender,
+apoyar o criticar la capacidad deductiva del
+Ayuda didáctica
+202 AG FARJI-BRENER Ecología Austral 14:201-203
+autor. Por ejemplo, definir como hipótesis al
+resultado esperado de encontrar una mayor
+densidad de plántulas de ciprés abajo de ar-
+bustos que afuera de ellos impide conocer
+cuál idea el autor está poniendo a prueba, ya
+que este mismo resultado puede ser esperado
+bajo diferentes hipótesis (ver Farji-Brener
+2003). ¿Será que el autor pretende poner a
+prueba que los arbustos funcionan como
+trampa de semillas, o que brindan protección
+a las plántulas de ciprés contra sus herbívoros,
+o que benefician el establecimiento de plántu-
+las al disminuir la desecación del suelo? Las
+predicciones representan los resultados espe-
+rados bajo el supuesto de que nuestra hipóte-
+sis es verdadera, no la hipótesis en sí. En con-
+secuencia, todo enunciado que exprese un
+resultado esperado no es una hipótesis, sino
+una predicción. La verdadera hipótesis es la
+idea funcional que, de ser correcta, generaría
+dicho resultado.
+Una de las aplicaciones más frecuentes de
+la estadística en la investigación biológica es
+la comprobación de hipótesis científicas
+(Sokal & Rholf 1981). Esta aplicación se realiza
+comúnmente mediante pruebas denominadas
+en los libros de texto como “pruebas de hipó-
+tesis” (Sokal & Rohlf 1981; Zar 1999). Pese a
+existir diferentes tipos, el funcionamiento bá-
+sico de estas pruebas es similar: para compa-
+rar algún parámetro entre dos o más poblacio-
+nes (e.g., el promedio) se construye una
+fórmula o “estadístico” (e.g., t de Student),
+del cual ya se conoce su distribución esperada
+bajo lo que se denomina la “hipótesis nula”
+(i.e., que no hay diferencia de dicho paráme-
+tro entre las poblaciones). Los programas
+estadísticos se encargan luego de decirnos la
+probabilidad exacta de que el estadístico cal-
+culado con nuestros datos ocurra bajo el su-
+puesto de que la hipótesis nula es verdadera.
+¿Son hipótesis las hipótesis “nulas” (H 0) o
+las “alternativas” (H a)? En cierto sentido, lo
+son. La similitud o desigualdad del paráme-
+tro entre las poblaciones (H0 y Ha, respectiva-
+mente) no es calculada, sino inferida en fun-
+ción de la probabilidad que tiene el estadístico
+calculado de ocurrir bajo el supuesto de que
+no existen diferencias de los parámetros en-
+tre las poblaciones. Si este valor es muy pe-
+queño (usualmente menor al 5%), la hipótesis
+nula se rechaza y, por descarte, uno se queda
+con la hipótesis estadística alternativa (i.e., el
+parámetro difiere entre las poblaciones) como
+“verdadera”. Dicho de otra forma, si la “hipó-
+tesis” nula fuese verdadera, es poco probable
+que el estadístico calculado con nuestros datos
+obtenga ese valor (e.g., ocurrirá menos de 5
+veces cada 100). Las “hipótesis” estadísticas
+podrían entonces considerarse como hipótesis
+porque son propuestas (i.e., “escenarios”
+posibles), que se comprueban de manera
+indirecta (Bunge 1997). Sin embargo, su
+sentido difiere al de las hipótesis científicas
+comúnmente utilizadas en la planificación y
+desarrollo de un proyecto de investigación.
+Como puede observarse, las “hipótesis” esta-
+dísticas representan claramente resultados
+esperados bajo diferentes escenarios biológi-
+cos, y no verdaderas hipótesis en el sentido
+previamente discutido. Dado que los resulta-
+dos esperados o predicciones no son hipótesis
+científicas en sí mismas, sino sus consecuen-
+cias, ¿qué representan entonces las hipótesis
+estadísticas?
+Las denominadas “hipótesis estadísticas”, al
+ser resultados esperados bajo diferentes
+hipótesis biológicas, representan realmente
+predicciones biológicas. En particular, la
+denominada “hipótesis” estadística alternati-
+va (H a) expresa exactamente el resultado
+esperado si nuestra hipótesis biológica es
+correcta, mientras que la “hipótesis” estadísti-
+ca nula (H0) representa uno de los resultados
+esperados posibles si nuestra hipótesis bioló-
+gica es falsa (Tabla 1). Es posible que el uso
+en estadística del término “hipótesis” en
+forma diferente al utilizado en la elaboración
+de proyectos de investigación sea, sino el
+origen, al menos una de las causas del man-
+tenimiento de la confusión en el uso de los
+términos “hipótesis” y “predicciones” en eco-
+logía. Según mi experiencia, esto es espe-
+cialmente notorio en los estudiantes de bio-
+logía. Al mantener el concepto de “hipótesis”
+estadística como hipótesis biológica, los
+estudiantes habitualmente cometen el error
+de presentar resultados esperados (i.e., pre-
+dicciones biológicas) como hipótesis en sus
+proyectos de investigación. Como mencioné
+anteriormente, presentar predicciones bioló-
+Ayuda didáctica
+Diciembre de 2004 ¿SON HIPÓTESIS LAS HIPÓTESIS ESTADÍSTICAS? 203
+gicas (i.e., “hipótesis” estadísticas) como si
+fuesen las verdaderas hipótesis de trabajo
+impide (1) evaluar la capacidad deductiva del
+autor, y (2) conocer la verdadera idea o teoría
+que el autor intenta poner a prueba.
+Valga el juego de palabras, la propuesta de
+modificar los textos de estadística como al-
+ternativa sería considerada nula. Seguramen-
+te H0 y Ha seguirán llamándose de ese modo.
+Sin embargo, considero que para minimizar
+la confusión terminológica, aclarar que las de-
+nominadas “hipótesis” estadísticas represen-
+tan las predicciones biológicas puede ser una
+forma de diferenciar el sentido de ambos tipos
+de “hipótesis”. Posiblemente de esta forma
+evitaremos confusiones en el planteamiento
+lógico de los proyectos de investigación, mejo-
+rando de esta forma su realización y la divul-
+gación de sus resultados.
+BIBLIOGRAFÍA
+BUNGE, M. 1997. La Ciencia, su método y su filosofía.
+2da edn. Editorial Panamericana. Bogotá.
+FARJI-BRENER, AG. 2003. Uso correcto, parcial e
+incorrecto de los términos “hipótesis” y
+“predicciones” en ecología. Ecología Austral
+13:223-227.
+SOKAL, RR & FJ RHOLF. 1981. Biometry. 2da edn. WH
+Freeman & Co. San Francisco.
+ZAR, JH. 1999. Biostatistical analysis. 3ra edn.
+Prentice-Hall. Upper Saddle River.
+Hipótesis biológica "La presencia de arbustos, al dar sombra y disminuir la desecación
+del suelo, favorece el establecimiento de plÆntulas de ciprØs"
+Predicción biológica "Mayor densidad de plÆntulas de ciprØs debajo (Ddebajo) que afuera
+(Dafuera) de la sombra de arbustos" (i.e., Ddebajo > Dafuera)
+"Hipótesis" estadísticas
+asociadas
+(a) Nula: Ddebajo = Dafuera
+(b) Alternativa (una cola): Ddebajo > Dafuera
+Tabla 1. Ejemplo de una hipótesis biológica con una predicción asociada, y su relación con las “hipótesis”
+estadísticas que habitualmente se formulan en la realización de una prueba estadística. Nótese que la
+“hipótesis” estadística alternativa es idéntica a la predicción biológica. Se enuncia solo una predicción
+biológica de las propuestas en Farji-Brener (2003).
+Table 1. Example of a biological hypothesis, its associated prediction, and their relationship with the
+term “statistical hypothesis” commonly used in statistical tests. Note that the statistical alternative
+“hypothesis” is the same as the biological prediction. Out of the biological predictions described by
+Farji-Brener (2003) for this example, only one is presented here.
+Ayuda didáctica
+204 Ecología Austral 2004(2)

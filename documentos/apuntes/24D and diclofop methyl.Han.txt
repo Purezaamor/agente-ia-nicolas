@@ -1,0 +1,464 @@
+=== Fuente: 24D and diclofop methyl.Han.pdf ===
+
+Rapid Report
+Received: 15 November 2012 Revised: 1 March 2013 Accepted article published: 5 April 2013 Published online in Wiley Online Library:
+(wileyonlinelibrary.com) DOI 10.1002/ps.3552
+Enhanced herbicide metabolism induced by
+2,4-D in herbicide susceptible Lolium rigidum
+provides protection against diclofop-methyl
+Heping Han,a Qin Yu,a∗ Gregory R Cawthrayb and Stephen B Powlesa
+Abstract
+BACKGROUND: The auxinic herbicide 2,4-D amine is known, in vitro, as a cytochrome P450 inducer. The current study uses
+2,4-D pre-treatment, at the whole plant level, to study mechanism(s) of non-target site based herbicide resistance to the
+ACCase-inhibiting herbicide diclofop-methyl in Lolium rigidum.
+RESULTS: The 2,4-D pre-treatment caused up to 10-fold shift in LD50 and GR50 in dose–response to subsequently applied
+diclofop-methyl in a herbicide susceptible L. rigidum population. Foliar uptake and translocation of 14C-diclofop-methyl did
+not differ in 2,4-D pre-treated versus untreated plants. HPLC analysis revealed that de-esteriﬁcation of diclofop-methyl to
+toxic diclofop acid was similar, but further metabolism of diclofop acid to non-toxic metabolites was signiﬁcantly (1.8-fold)
+faster in 2,4-D pre-treated than untreated plants. HPLC proﬁle of major polar metabolites was similar when L. rigidum and
+diclofop-methyl tolerant wheat were compared, but wheat metabolised diclofop acid three-fold faster than L. rigidum.In
+addition, 2,4-D pre-treatment also induced cross-protection against the ALS-inhibiting herbicide chlorsulfuron, and the known
+P450 inhibitor malathion can reverse this effect.
+CONCLUSIONS: Protection against diclofop-methyl provided by 2,4-D pre-treatment in susceptible L. rigidum is associated
+with higher rates of herbicide metabolism, mirroring that identiﬁed in ﬁeld-evolved, non-target site-based diclofop-methyl
+resistant populations. 2,4-D may induce higher level expression of herbicide-metabolising genes hence providing protection,
+and therefore, this 2,4-D induction system can be used, in combination with other genomic approaches, to assist isolating
+cytochrome P450 and other genes that are involved in herbicide metabolism and endow herbicide resistance in L. rigidum.
+c© 2013 Society of Chemical Industry
+Keywords: 2,4-D amine; antagonism; chlorsulfuron; cytochrome P450; diclofop-methyl; herbicide metabolism; Lolium rigidum
+1 INTRODUCTION
+The annual diploid grass Lolium rigidum is genetically diverse,
+present at high densities in Australia, where since the ﬁrst report1
+it has evolved herbicide resistance across vast areas, especially
+to the ACCase- and ALS-inhibiting herbicides (hereafter referred
+to ACCase or ALS herbicides).2 It is a feature of these L. rigidum
+populations that multiple herbicide resistance mechanisms are
+accumulated within individual resistant plants.3,4 While target
+site resistance can be precisely determined,5 non-target site
+herbicide resistance (NTSR) is relatively difﬁcult to study. For
+many years our laboratory has been investigating NTSR in L.
+rigidum and has established that NTSR to ACCase and ALS
+herbicides in L. rigidum populations involves enhanced rates
+of herbicide metabolism.6,7 Additionally, we have compelling
+indirect evidence using known cytochrome P450 inhibitors that
+P450s are involved in the enhanced rates of metabolism of
+ACCase and ALS herbicides.7,8 However, progress has been
+slow at the molecular level in understanding P450 genes
+involved in herbicide resistance. Plant P450s have wide diversity
+and substrate speciﬁcity, and so far only a small number of
+herbicide-metabolising plant P450s have been identiﬁed and
+characterised.9
+The auxinic herbicide 2,4-D is known, in vitro, as a P450
+inducer,10 but its relevance to in vivo herbicide metabolism
+and hence herbicide resistance is unknown in L. rigidum.
+Here, in whole plant studies we show that 2,4-D pre-
+treatment can protect a herbicide susceptible L. rigidum
+population against diclofop-methyl and the dissimilar herbicide
+chlorsulfuron. We demonstrate that this 2,4-D induced protection
+against diclofop-methyl is due to enhanced rates of diclofop-
+methyl metabolism, mimicking that which occurs in ﬁeld-
+evolved herbicide resistant L. rigidum populations. Application
+of this 2,4-D induced protection system is discussed in
+assisting the discovery of genes responsible for NTSR in L.
+rigidum.
+∗ Correspondence to: Qin Yu, Australian Herbicide Resistance Initiative, School
+of Plant Biology, University of Western Australia, Crawley, WA 6009, Australia.
+E-mail: qin.yu@uwa.edu.au; yuqin@plants.uwa.edu.au
+a Australian Herbicide Resistance Initiative, School of Plant Biology, Faculty of
+Natural and Agricultural Sciences, University of Western Australia, Crawley, WA
+6009, Australia
+b School of Plant Biology, Faculty of Natural and Agricultural Sciences,University
+of Western Australia, Crawley, WA 6009, Australia
+Pest Manag Sci (2013) www.soci.org c© 2013 Society of Chemical Industry
+www.soci.org H Han et al.
+2 MATERIALS AND METHODS
+2.1 Plant material and herbicide treatment
+The herbicide susceptible L. rigidum population VLR1 (hereafter
+referred to as ‘susceptible’), subjected to recurrent herbicide
+selection with low rates of the ACCase herbicide diclofop-methyl,
+is uniformly susceptible to ACCase and ALS herbicides.11
+Seeds were germinated in plastic trays containing potting
+soil and maintained in a controlled environmental room (CER)
+or glasshouse, as speciﬁed below. Uniform two-leaf stage
+germinating seedlings were herbicide treated. Herbicides were
+applied as commercial formulations. To obtain maximum effects
+and to avoid any direct herbicide physical/chemical interactions,
+the 2,4-D (amine, 4000 g a.i. ha−1 commercial formulation plus
+0.2% surfactant BS 1000) was applied 24 h prior to the subsequent
+herbicide treatment. Herbicides were applied using a laboratory
+spray cabinet equipped with two ﬂat fan nozzles delivering
+118 L ha−1 water at 200 kPa pressure. Mortality (no new growth or
+active tillering) was determined 21 days after herbicide application.
+Plant above-ground material was harvested, oven dried (70 ◦C) for
+2 days and dry biomass obtained.
+2.2 Diclofop-methyl dose response with and without 2,4-D
+pre-treatment
+Experiments were conducted in a CER under day/night
+temperatures of 15/10 ◦C. L. rigidum seedlings (about 30–40 per
+pot) were treated with diclofop-methyl, that had or had not
+been previously treated with 2,4-D (4000 g a.i. ha−1). Pots were
+randomised every 2 d to minimise variation and there were 2
+replicate pots per treatment.
+2.3 Effect of 2,4-D on efﬁcacy of the ALS herbicide
+chlorsulfuron in the absence and presence of P450-inhibitor
+malathion
+Seedlings (about 50 per tray) were grown in the glasshouse
+(20–25 ◦C under natural light) and treated with chlorsulfuron
+alone (100, 200 g ha−1), 2,4-D plus chlorsulfuron, and 2,4-D plus
+malathion (at 1000 g ha−1) plus chlorsulfuron. The 2,4-D was
+applied 24 h prior to the malathion application then immediately
+followed by chlorsulfuron treatment. There were three replicates
+for each treatment.
+2.4 Foliar uptake and translocation of 14C-diclofop-methyl
+Seedlings were grown in trays in a CER with 20/15 ◦C day/night
+temperatures, 12 h photoperiod with 650 µmol photons m−2 s−1
+and relative humidity of 75%. Two-leaf stage seedlings were
+treated with 2,4-D followed 24 h later by a low rate of diclofop-
+methyl (50 g ha−1) to induce metabolic activity. Treated plants
+were returned to the CER for 2 h before application of a
+droplet of 14C-diclofop-methyl (uniformly labelled with 14Cin
+the phenyl ring adjacent to the oxypropanoid acid moiety,
+with a speciﬁc radioactivity of 179 µCi mg−1; Bayer CropScience,
+Frankfurt, Germany). The 14C-diclofop-methyl was dissolved in
+acetonitrile and diluted in aqueous solution containing 0.25%
+BS1000, giving a ﬁnal radioactivity of 0.76 kBq µL−1 and diclofop-
+methyl concentration of 0.45 mM (equivalent to 17 g ha−1). A 1 µL
+droplet of the treatment solution was applied with a micropipette
+on the middle of the ﬁrst leaf. Individual plants (including roots)
+were harvested 24, 48 and 72 h after treatment, and the treated
+leaf of each plant rinsed in 20 mL washing buffer containing
+20% (v/v) methanol and 0.2% (v/v) Triton X-100. The radioactivity
+in the leaf wash solution was determined by liquid scintillation
+spectrometry to determine unabsorbed radioactivity. Root tissue
+for each plant was rinsed in another 20 mL washing buffer and the
+radioactivity in root wash was found to be negligible. Plants were
+blot dried with tissue paper and oven dried (70 ◦C) for 2 days and
+14C translocation was visualised using a BioRad Personal Molecular
+Imager (BioRad PMI, Sydney, Australia) and quantiﬁed using the
+QuantityOne software (version 4.6.7; Bio-Rad PMI). There were ﬁve
+replicate plants per harvest per treatment.
+2.5 Metabolism of 14C-diclofop-methyl
+Experimental conditions, plant growth and herbicide treatment
+was the same as described for the leaf uptake and translocation
+experiments, except that 14C-radioactivity contained in 1 µL
+droplet treatment solution was 4.75 kBq with a ﬁnal concentration
+of 2.81 mM (equivalent to 105 g ha−1 as compared to the ﬁeld
+recommended rate of 375 g ha−1). The treatment solution was
+spread along the adaxial surface (close to the leaf base) of the ﬁrst
+leaf to facilitate diclofop-methyl translocation and to avoid local
+phytotoxicity. The shoots of treated seedlings were harvested 48
+and 96 h after treatment. The treated leaf of each plant was rinsed
+as described above, blotted dry, snap frozen in liquid N2 and stored
+at −80 ◦C. Six plants per treatment were bulked as a replicate and
+two replicates per treatment were analysed for each time point.
+Extraction, separation and HPLC identiﬁcation of the parent
+diclofop-methyl herbicide and its metabolites were according to
+Holtum et al.3 Parent herbicide and its metabolites were separated
+by gradient reverse-phase HPLC equipped with a 600E dual-head
+pump with 717 plus autosampler (Waters, Milford, MA, USA).
+Separation was done on a Waters Spherisorb 5 µm ODS2 (250 mm
+long × 4.6 mm i.d.) column. Radioactivity was detected with an in-
+line Beta-RAM model 2B (IN/US Systems Inc., Pine Brook, NJ, USA)
+detector. Injection volumes were adjusted to provide the same
+sample loading with respect to total radioactivity in all samples.
+The proportion of the herbicide and metabolites were expressed
+as a percentage peak area of total radioactivity in the sample
+injection. This experiment was conducted twice. Wheat seedlings,
+known to rapidly metabolise diclofop-methyl,12 were included in
+the metabolism study as a positive control.
+2.6 Statistics
+Data were expressed as percentage of untreated controls and
+subjected to non-liner regression analysis using SigmaPlot 12.0.
+The LD50 or GR50 (herbicide rate causing 50% plant mortality or dry
+mass reduction) were estimated using the four-parameter logistic
+equation: y = C + (D − C)/[1 + (x/I50)b], where C is the lower limit at
+the indeﬁnitely large doses, D is the upper limit close to untreated
+controls, I50 is the herbicide dose giving 50% response, and b
+is the slope of the best ﬁtting curve through the LD50 or GR50.
+The treatment means were subjected to analysis of variance and
+compared using Tukey’s HSD (α = 0.05).
+3 RESULTS
+3.1 2,4-D induces protection against diclofop-methyl in L.
+rigidum
+As expected, the susceptible population was susceptible to
+diclofop-methyl with no survivors at the ﬁeld rate of 375 g ha−1
+(Fig. 1). The estimated LD50 and GR50 were 64 ± 2.1 and 63 ± 7.2 g
+diclofop-methyl ha−1, respectively, for the susceptible plants. How-
+ever, when there was 2.4-D pre-treatment of the susceptible plants
+there was 71% survival at the ﬁeld diclofop-methyl rate and the
+wileyonlinelibrary.com/journal/ps c© 2013 Society of Chemical Industry Pest Manag Sci (2013)
+2,4-D enhanced diclofop-methyl metabolism www.soci.org
+Survival (% control)
+0
+20
+40
+60
+80
+100
+Diclofop-methyl (g ha-1)
+1 10 100 1000
+Dry weight (% control)
+0
+20
+40
+60
+80
+100
+Figure 1. Diclofop-methyl dose response of the susceptible L. rigidum
+population with (closed circle) or without (open circle) 2,4-D (4000 g
+a.i. ha−1) pre-treatment. The experiment was conducted in a controlled
+environmental room under day/night temperature of 15/10 ◦C. Each data
+point is the mean ± SE (n = 2).
+estimated LD50 and GR50 were 664 ± 56 and 504 ± 100 g ha−1,
+respectively, which is eight- to 10-fold greater than that without
+2,4-D pre-treatment (Fig. 1). The similar LD50 and GR50 ratios
+were obtained when the experiment was conducted at 30/25 ◦C
+(data not shown). Clearly, in this susceptible L. rigidum population
+the 2,4-D pre-treatment induced high level protection against
+diclofop-methyl.
+3.2 2,4-D induces cross-protection against chlorsulfuron
+and the protection can be reversed by the P450 inhibitor
+malathion
+In addition to 2,4-D inducing protection against diclofop-methyl,
+there was concomitant protection against the dissimilar ALS
+herbicide chlorsulfuron (Table 1). As expected, 2,4-D or malathion
+alone did not affect plant mortality. When chlorsulfuron was
+used alone at 100 or 200 g ha−1, there was only maximum
+5% survival. However, when plants were pre-treated with 2,4-
+D, there was 15–32% survival. Chlorsulfuron was evaluated
+because both diclofop-methyl and chlorsulfuron are known to be
+readily metabolised by cytochrome P450 enzymes in wheat6,12
+and in herbicide resistant L. rigidum.3,6 Malathion, a known
+P450 inhibitor, is able to reverse metabolism-based chlorsulfuron
+resistance, especially in Lolium.7,8 When the susceptible plants
+were pre-treated with 2,4-D and malathion, chlorsulfuron regained
+efﬁcacy (Table 1). In contrast, malathion could not reverse 2,4-
+D induced protection against diclofop-methyl (data not shown),
+suggesting that different P450s are induced by 2,4-D to metabolise
+chlorsulfuron and diclofop-methyl, respectively.
+Table 1. Antagonistic effect of 2,4-D on the ALS herbicide
+chlorsulfuron and reversal by the P450 inhibitor malathion in the
+susceptible Lolium rigidum population
+Chlorsulfuron
+(g ha-1)
+2,4-D
+(g ha−1)
+Malathion
+(g ha−1) Survival (%)
+0 4000 0 100 ± 0a
+0 0 1000 100 ± 0a
+100 0 0 5.3 ± 1.3d
+100 4000 0 32.3 ± 2.3b
+100 4000 1000 6.7 ± 1.3d
+200 0 0 2.0 ± 1.2d
+200 4000 0 14.7 ± 0.7c
+200 4000 1000 0.7 ± 0.7d
+Each value is the mean ± SE (n = 3).
+Means with different letters in a column are signiﬁcantly different
+according to Tukey’s HSD (α = 0.05)
+3.3 2,4-D pre-treatment does not change leaf uptake or
+translocation of 14C- diclofop-methyl
+Foliar uptake of 14C-diclofop-methyl was rapid such that 92% of
+applied 14C was within the leaf by 24 h after treatment. There was
+no difference in leaf diclofop-methyl uptake in 2,4-D pre-treated
+versus untreated plants (24 to 72 h after treatment, data not
+shown). Movement of radioactivity away from the application
+site increased with time, with a maximum of 21% basipetal
+translocation. Overall there was no major difference in the 14C-
+translocation pattern, between 2,4-D pre-treated and untreated
+plants (data not shown).
+3.4 2,4-D pre-treatment induced enhanced rates of diclofop
+acid metabolism
+The HPLC proﬁle of 14C-diclofop-methyl metabolism in vivo was
+found to be qualitatively similar but quantitatively different in
+2,4-D pre-treated versus untreated plants. As shown in Fig. 2,
+diclofop-methyl, diclofop acid and its metabolites were clearly
+resolved at 31, 29, and between 2–6 and 10–13 min, respectively,
+under our HPLC conditions and compared to authentic standards
+(diclofop-methyl, diclofop acid). As expected, the conversion
+of diclofop-methyl to phytoxic diclofop acid was rapid, with
+only 3–7% of total radioactivity recovered as diclofop-methyl
+24 h after treatment. There were no signiﬁcant differences in
+rates of diclofop-methyl de-esteriﬁcation observed in 2,4-D pre-
+treated versus untreated plants, although a relatively higher
+de-esteriﬁcation rate was consistently observed in 2,4-D pre-
+treated samples (Table 2, Fig. 2). However, metabolism of diclofop
+acid to non-toxic metabolites was faster in the 2,4-D treated versus
+untreated plants such that the diclofop acid level was about 1.8-
+fold lower in 2,4-D pre-treated versus untreated plants, 48 h or 96 h
+after treatment. This lower diclofop acid level in 2,4-D pre-treated
+plants was well correlated with a higher level of total metabolites,
+and especially the percentage of the major metabolites (retention
+time 2–4 min) was increased nearly two-fold by 2,4-D treatment.
+As wheat is known to tolerate diclofop-methyl due to rapid P450-
+mediated herbicide metabolism,12 it was used as the positive
+control in this study. We conﬁrmed that diclofop acid metabolism
+in wheat is much faster than in L. rigidum (Table 2, Fig. 2). The
+major metabolites resolved at retention time 2–6 min were similar
+in wheat and L. rigidum, but wheat did not have the less polar
+Pest Manag Sci (2013) c© 2013 Society of Chemical Industry wileyonlinelibrary.com/journal/ps
+www.soci.org H Han et al.
+Diclofop-methyl
+Polar metabolites
+(a)
+(b)
+(c)
+Diclofop acid 
+Polar metabolites
+Diclofop acid
+Diclofop-methyl
+Polar metabolites
+Diclofop-methyl
+Diclofop acid
+Figure 2. HPLC chromatograms of 14C-diclofop-methyl and its metabolites
+in extracts of susceptible L. rigidum 96 h after treatment with diclofop-
+methyl alone (a) or pre-treated with 2,4-D (4000 g a.i. ha−1) (b). Wheat 48 h
+after treatment without 2,4-D was included as a positive control (c).
+(relative to the major metabolite) metabolite peaks at retention
+time 10–14 min (Fig. 2).
+4 DISCUSSION
+The herbicide susceptible L. rigidum population used in this
+study is susceptible to the ACCase herbicide diclofop-methyl11
+(Fig. 1). However, it can be protected against diclofop-methyl by
+pre-treatment with the auxinic herbicide 2,4-D. In addition, the 2,4-
+D pre-treatment also induced a level of protection to the dissimilar
+ALS herbicide chlorsulfuron (Table 1). It is striking that this 2,4-D
+induced protection pattern in susceptible L. rigidum against both
+ACCase and ALS herbicides is very similar to that exhibited in
+ﬁeld-evolved herbicide resistant L. rigidum biotypes, where the
+resistance is non-target site, metabolism based.6 –8 The obvious
+question is how 2,4-D pre-treatment can provide protection in
+susceptible L. rigidum against diclofop-methyl and chlorsulfuron?
+Our hypothesis is that 2,4-D pre-treatment enhances the existing
+capacity for metabolism of diclofop-methyl and chlorsulfuron,
+hence endowing a level of protection against these subsequently
+applied herbicides.
+It is known that ACCase herbicide efﬁcacy is reduced by
+2,4-D (and MCPA) in Avena fatua and other grass species,
+and various mechanisms have been proposed including
+recovery from membrane depolarisation,13 reduction in herbicide
+uptake or translocation14,15 and altered herbicide metabolism
+including reduced diclofop-methyl de-esteriﬁcation.15,16 Here, we
+demonstrate that 2,4-D induced protection against diclofop-
+methyl in susceptible L. rigidum is not caused by altered
+herbicide uptake or translocation. Rather, the 2,4-D pre-treatment
+induces enhanced rates of herbicide metabolism (Table 2, Fig. 2).
+This is similar to the NTSR mechanism determined for ﬁeld-
+evolved ACCase herbicide resistant L. rigidum populations.3,7 In
+addition, the HPLC chromatograph showed similar number of
+metabolite peaks in 2,4-D pre-treated versus untreated samples
+(Fig. 2), indicating 2,4-D mainly enhances (up-regulates) pre-
+existing herbicide metabolic capacity, rather than inducing new
+pathways. The major metabolite peaks with the retention time
+at 2–3 min were resolved in HPLC chromatographs of both
+wheat and 2,4-D pre-treated L. rigidum, suggesting similar (but
+not identical) metabolic pathways for diclofop acid. In wheat,
+the major detoxiﬁcation reactions are P450-mediated diclofop
+ring-hydroxylation followed by conjugation to an acidic aryl
+glycoside.12 Therefore, 2,4-D induced protection against diclofop-
+methyl in L. rigidum likely involves wheat-like enhanced metabolic
+activities of (unknown) P450 and glucosyl transferase (GT). There
+is evidence showing 2,4-D induces P450 activities and P450 gene
+expression,10,17 and 2,4-D antagonises the inhibitory effect of
+terbufos (a P450 inhibitor) on ALS herbicide metabolism.18 In the
+current study, we also demonstrated that 2,4-D induces cross-
+protection against the ALS herbicide chlorsulfuron and this cross-
+protection can be reversed by the known P450 inhibitor malathion
+(Table 1), further implicating P450 involvement. This is similar
+to ﬁeld-evolved resistance to diclofop-methyl and chlorsulfuron
+Table 2. Metabolism of 14C-diclofop-methyl by the susceptible Lolium rigidum plants*
+Radiolabel (% of radioactivity recovered)
+Time point Population Treatment Total metabolites Diclofop acid Diclofop-methyl
+48 h Susceptible − 2,4-D 30.44 ± 0.61c 64.86 ± 0.22a 4.71 ± 0.40ab
++ 2,4-D 56.27 ± 6.60b 36.87 ± 3.05b 6.86 ± 3.55a
+Wheat − 2,4-D 87.67 ± 0.65a 12.15 ± 0.63c 0.19 ± 0.12b
+96 h Susceptible − 2,4-D 36.61 ± 0.30c 60.15 ± 1.63a 3.25 ± 1.34ab
++ 2,4-D 57.85 ± 1.26b 35.81 ± 0.42b 6.35 ± 0.84a
+*The herbicide susceptible L. rigidum population VLR1.
+The proportion of the parent herbicide and metabolites were expressed as a percentage peak area of total radioactivities in the sample injection.
+Six plants per treatment were bulked as a replicate and two replicates per treatment were analysed for each time point.
+Means with different letters in a column are signiﬁcantly different by the Tukey’s HSD test (α = 0.05)
+wileyonlinelibrary.com/journal/ps c© 2013 Society of Chemical Industry Pest Manag Sci (2013)
+2,4-D enhanced diclofop-methyl metabolism www.soci.org
+in resistant L. rigidum biotypes where our previous work
+established the resistance is due to enhanced rates of herbicide
+metabolism involving P450s.6 –8 This is also similar to rapidly
+evolved resistance to diclofop-methyl and chlorsulfuron in initially
+herbicide susceptible L. rigidum populations under recurrent low-
+herbicide-dose selection where we recently established that the
+resistance is due to enhanced capacity of herbicide metabolism.19
+Based on this evidence, 2,4-D induced enhanced herbicide
+metabolism may involve enhanced expression of a number of
+P450s, and these genes are likely also responsible for ﬁeld-evolved
+resistance to diclofop-methyl and chlorsulfuron in L. rigidum.
+Therefore, 2,4-D induction system can be explored in L. rigidum to
+assist identiﬁcation and cloning of speciﬁc P450 and other genes
+that are involved in herbicide metabolism and resistance evolution.
+ACKNOWLEDGEMENTS
+This research was funded by the Grains Research and Development
+Corporation of Australia (GRDC) and the Rural Industries Research
+and Development Corporation (RIRDC).
+REFERENCES
+1 Heap J and Knight R, A population of ryegrass tolerant to the herbicide
+diclofop-methyl. J Aust Inst Agric Sci 48:156–157 (1982).
+2 Owen MJ, Walsh MJ, Llewellyn RS and Powles SB, Widespread
+occurrence of multiple herbicide resistance in Western Australian
+annual ryegrass (Lolium rigidum) populations. Aust J Agric Res
+58:711–718 (2007).
+3 Holtum JAM, Matthews JM, Hausler RE, Liljegren DR and Powles SB,
+Cross-resistance to herbicides in annual ryegrass (Lolium rigidum).
+3. On the mechanism of resistance to diclofop-methyl. Plant Physiol
+97:1026–1034 (1991).
+4 Powles SB and Matthews JM, Multiple herbicide resistance in annual
+ryegrass (Lolium rigidum): A driving force for the adoption of
+intergrated weed management, in Resistance ’91: Achievements
+and Developments in Combating Pest Resistance, ed. by Denholm
+I, Devonshire AL and Holloman DW. Elsevier Science Publishers,
+London, pp. 75–87 (1992).
+5 Powles SB and Yu Q, Evolution in action: plants resistant to herbicides.
+Annu Rev Plant Biol 61:317–347 (2010).
+6 Christopher JT, Powles SB, Liljegren DR and Holtum JAM, Cross-
+resistance to herbicides in annual ryegrass (Lolium rigidum). 2.
+Chlorsulfuron resistance involves a wheat-like detoxiﬁcation system.
+Plant Physiol 95:1036–1043 (1991).
+7 Preston C, Tardif FJ, Christopher JT and Powles SB, Multiple resistance
+to dissimilar herbicide chemistries in a biotype of Lolium rigidum
+due to enhanced activity of several herbicide degrading enzymes.
+Pestic Biochem Physiol 54:123–134 (1996).
+8 Christopher JT, Preston C and Powles SB, Malathion antagonizes
+metabolism-based chlorsulfuron resistance in Lolium rigidum. Pestic
+Biochem Physiol 49:172–182 (1994).
+9 Siminszky B, Plant cytochrome P450-mediated herbicide metabolism.
+Phytochem Rev 5:445–458 (2006).
+10 Hirose S, Kawahigashi H, Tagiri A, Imaishi H, Ohkawa H and Ohkawa Y,
+Tissue-speciﬁc expression of rice CYP72A21 induced by auxins and
+herbicides. Plant Biotechnol Rep 1:27–36 (2007).
+11 Manalil S, Busi R, Renton M and Powles SB, An herbicide-susceptible
+rigid ryegrass (Lolium rigidum) population made even more
+susceptible. Weed Sci 60:101–105 (2012).
+12 Shimabukuro RH, Walsh WC and Jacobson A, Aryl-o-glucoside of
+diclofop – a detoxication product in wheat shoots and wild oat cell
+suspension culture. J Agric Food Chem 35:393–397 (1987).
+13 Shimabukuro RH, Walsh WC and Wright JP, Effect of diclofop-methyl
+and 2,4-D on transmembrane proton gradient – a mechanism for
+their antagonistic interaction. Physiol Plant 77:107–114 (1989).
+14 Qureshi FA and Vandenborn WH, Interaction of diclofop-methyl and
+mcpa on wild oats (Avena fatua). Weed Sci 27:202–205 (1979).
+15 Todd BG and Stobbe EH, The basis of the antagonistic effect of 2,4-
+D on diclofop-methyl toxicity to wild oat (Avena fatua). Weed Sci
+28:371–377 (1980).
+16 Kaﬁz B, Caussanel JP, Scalla R and Gaillardon P, Interaction between
+diclofop-methyl and 2,4-D in wild oat (Avena fatua L.) and cultivated
+oat (Avena sativa L.), and fate of diclofop-methyl in cultivated oat.
+Weed Res 29:299–305 (1989).
+17 Pasquer F, Ochsner U, Zarn J and Keller B, Common and
+distinct gene expression patterns induced by the herbicides 2,4-
+dichlorophenoxyacetic acid, cinidonethyl and tribenuron-methyl in
+wheat. Pest Manag Sci 62:1155–1167 (2006).
+18 Simpson DM, Diehl KE and Stoller EW, 2,4-D safening of nicosulfuron
+and terbufos interaction in corn (Zea mays). Weed Technol 8:547–552
+(1994).
+19 Yu Q, Han H, Cawthray GR, Wang SF and Powles SB, Enhanced rates
+of herbicide metabolism in low herbicide-dose selected resistant
+Lolium rigidum. Plant Cell Environ 36:818–827 (2013).
+Pest Manag Sci (2013) c© 2013 Society of Chemical Industry wileyonlinelibrary.com/journal/ps

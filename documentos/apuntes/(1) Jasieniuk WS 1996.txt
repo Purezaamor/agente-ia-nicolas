@@ -1,0 +1,1972 @@
+=== Fuente: (1) Jasieniuk WS 1996.pdf ===
+
+The Evolution and Genetics of Herbicide Resistance in Weeds
+Marie Jasieniuk; Anita L. Brûlé-Babel; Ian N. Morrison
+Weed Science, Vol. 44, No. 1. (Jan. - Mar., 1996), pp. 176-193.
+Stable URL:
+http://links.jstor.org/sici?sici=0043-1745%28199601%2F03%2944%3A1%3C176%3ATEAGOH%3E2.0.CO%3B2-5
+Weed Science is currently published by Weed Science Society of America.
+Your use of the JSTOR archive indicates your acceptance of JSTOR's Terms and Conditions of Use, available at
+http://www.jstor.org/about/terms.html. JSTOR's Terms and Conditions of Use provides, in part, that unless you have obtained
+prior permission, you may not download an entire issue of a journal or multiple copies of articles, and you may use content in
+the JSTOR archive only for your personal, non-commercial use.
+Please contact the publisher regarding any further use of this work. Publisher contact information may be obtained at
+http://www.jstor.org/journals/wssa.html.
+Each copy of any part of a JSTOR transmission must contain the same copyright notice that appears on the screen or printed
+page of such transmission.
+The JSTOR Archive is a trusted digital repository providing for long-term preservation and access to leading academic
+journals and scholarly literature from around the world. The Archive is supported by libraries, scholarly societies, publishers,
+and foundations. It is an initiative of JSTOR, a not-for-profit organization with a mission to help the scholarly community take
+advantage of advances in technology. For more information regarding JSTOR, please contact support@jstor.org.
+http://www.jstor.org
+Fri Jan 18 03:09:12 2008
+Weed Science. 1996. Volume 44:176-193 
+The Evolution and Genetics of Herbicide Resistance in Weeds1 
+MARIE JASIENIUK, ANITA L. BR~LE-BABEL, and IAN N. MORRISON' 
+Abstract. The importance of various factors influencing the 
+evolution of herbicide resistance in weeds is critically exam- 
+ined using population genetic models. The factors include 
+gene mutation, initial frequency of resistance alleles, inheri- 
+tance, weed fitness in the presence and absence of herbicide, 
+mating system, and gene flow. Where weed infestations are 
+heavy, the probability of selecting for resistance can be high 
+even when the rate of mutation is low. Subsequent to the 
+occurrence of a resistant mutant, repeated treatments with 
+herbicides having the same mode of action can lead to the 
+rapid evolution of a predominantly resistant population. At 
+a given herbicide selection intensity, the initial frequency of 
+resistance alleles determines the number of generations re- 
+quired to reach a specific frequency of resistant plants. The 
+initial frequency of resistance alleles has a greater influence 
+on the evolutionary process when herbicides impose weak 
+selection, as opposed to very strong selection. Under selec- 
+tion, dominant resistance alleles increase in frequency more 
+rapidly than recessive alleles in random mating or highly 
+outcrossing weed populations. In highly self-fertilizing spe- 
+cies, dominant and recessive resistance alleles increase in 
+frequency at approximately the same rate. Gene flow 
+through pollen or seed movement from resistant weed popu- 
+lations can provide a source of resistance alleles in previously 
+susceptible populations. Because rates of gene flow are gen- 
+erally higher than rates of mutation, the time required to 
+reach a high level of resistance in such situations is greatly 
+reduced. Contrary to common misconception, gene flow 
+from a susceptible population to a population undergoing 
+resistance evolution is unlikely to slow the evolutionary proc- 
+ess significantly. Accurate measurements of many factors 
+that influence resistance evolution are dimcult, if not impos- 
+sible, to obtain experimentally. Thus, the use of models to 
+predict times to resistance in specific situations is markedly 
+limited. However, with appropriate assumptions, they can be 
+invaluable in assessing the relative effectiveness of various 
+management practices to avoid, or delay, the occurrence of 
+herbicide resistance in weed populations. 
+Additional index words. Gene mutation, initial frequency, se- 
+lection, fitness, inheritance, mating system, gene flow, popu- 
+lation genetic models. 
+INTRODUCTION 
+Herbicide resistance in weeds has become a threat to conven- 
+tional agricultural practices. Since the discovery of resistance to 
+'~eceived for publication April 28,1995, and in revised form June 28. 1995. 
+Contribution No. 975, Dep. Plant Sci., Univ. Manitoba. 
+2~es.Assoc., Assoc. Prof., and Prof., Dep. Plant Sci., Univ. Manitoba, 
+Winnipeg, Manitoba, Canada, R3T 2N2. 
+the triazine herbicides in common groundsel (Senecio vulgaris 
+L.) in 1968 (93, the incidence of herbicide resistance has in- 
+creased dramatically worldwide (54, 65, 66, 90, 116). To date, 
+resistance to at least 15 classes of herbicides has been reported 
+in more than 100 weed species (65, 116). Moreover, the area of 
+land infested with resistant weeds is increasing rapidly (65). 
+The development of herbicide resistance in weeds is an evo- 
+lutionary process. In response to repeated treatment with a par- 
+ticular class or family of herbicides, weed populations change in 
+genetic composition such that the frequency of resistance alleles 
+and resistant individuals increases. In this way, weed populations 
+become adapted to the intense selection imposed by herbicides. 
+Numerous factors influence evolutionary processes in natural 
+populations of plants and animals. Several of these have been 
+included as parameters in mathematical models of herbicide 
+resistance evolution (40, 41, 42, 43, 79, 85). The models have 
+had limited application as predictive tools, however, because 
+quantitative data on many parameters are lacking. As a result, 
+various assumptions have been made concerning rates of muta- 
+tion, initial frequencies of resistance, the inheritance of resis- 
+tance, and the relative fitness of resistant and susceptible 
+phenotypes. The impetus for this review arose out of a need to 
+better understand and evaluate these assumptions since the theo- 
+retical andlor empirical basis of many have not been explained 
+fully in the literature. 
+The objective of this paper is to critically review the theory 
+and data on the major population genetic factors influencing the 
+evolution of herbicide resistance in weed populations. The fac- 
+tors discussed include mutation, selection, gene flow, mating 
+pattern, and the inheritance of resistance. 
+MUTATION TO RESISTANCE 
+Genetic variation for resistance must be present in a suscep- 
+tible weed population for the evolution of herbicide resistance to 
+occur. The major source of genetic variation in an area where 
+resistance has not been detected previously is likely to be gene 
+mutation. In general, gene mutations conferring resistance to a 
+specific herbicide class are not induced by application of the 
+herbicide, but rather are believed to occur spontaneously. How- 
+ever, it has been demonstrated that s-triazine herbicides can 
+induce mutations at loci that do not confer herbicide resistance 
+in a few non-weedy species (89). 
+Spontaneous mutations at gene loci recur with characteristic 
+frequency such that new mutations are continually being gener- 
+ated in natural populations of plants, including weeds (19). 
+Mutations at some loci, particularly those encoding herbicide 
+sites of action, may confer resistance. Typical spontaneous mu- 
+tation rates in biological organisms are often cited as 1 x low5or 
+1 x lo4 gametes per locus per generation (84).These values have 
+WEED SCIENCE 
+Table I. Probabilities of occurrence of at least one resistant mutant plant in 30 hectare fields with varying weed densities. Resistance is assumed to be conferred by a 
+single, nuclear completely dominant or recessive mutation. Values are given for both random mating and 95% selfing weed species. 
+Probability of occurrence of R plants 
+Dominant mutation Recessive mutation 
+Weed 
+density Random 
+Mutation rate (per m2) mating 
+1 x lo4 1 0.45 
+5 0.95 
+50 1.OO 
+500 1.OO 
+I x lo-S 1 0.006 
+5 0.03 
+50 0.26 
+500 0.95 
+1 x lo-1o 1 0.00006 
+5 0.0003 
+50 0.003 
+500 0.03 
+been assumed for single, nuclear gene inheritance of resistance 
+in models of herbicide resistance evolution (41,79). 
+Actual rates of mutation to herbicide resistance are unknown 
+for any weed species, although a few estimates have been made 
+in other plants. The frequency of spontaneous chlorsulfuron 
+resistance and imidazolinone resistance ALS mutations in 
+mouse-ear cress [Arabidopsis thaliana (L.) Heynh.] is estimated 
+to be approximately 1 x (96). The rate of spontaneous 
+mutation to primisulfuron resistance per cell generation in to- 
+bacco (Nicotiana tabacum L.) cell cultures is estimated as 2.7 x 
+1k8(47). 
+Despite mutation rates that are considered to be very low, the 
+probability of occurrence of at least one herbicide resistant 
+mutant plant in fields heavily infested with a particular weed 
+species can be high (Table 1). Assuming resistance and suscep- 
+tibility are conferred by a single locus with two alleles, the 
+frequency of resistant and susceptible phenotypes has a binomial 
+distribution (1 10). Thus, the probability of at least one resistant 
+plant occurring in populations differing in weed density and total 
+weed numbers can be estimated using the formula: 
+where P = probability of finding at least one resistant plant, p = 
+expected frequency of resistant plants in the population, and n = 
+total number of plants in a population. 
+The expected frequency of resistant plants is calculated using 
+equations for the computation of genotype frequencies for a 
+locus with two alleles (34,48). For random mating (and highly 
+outcrossing) weeds, genotypic frequencies are based on Hardy- 
+Weinberg expectations. Thus, if resistance is conferred by a 
+single, dominant allele, the expected frequency of resistant plants 
+would be: 
+959% Random 95% 
+selfing mating selfing 
+0.28 -0 0.24 
+0.78 -0 0.74 
+1.OO -0 1.OO 
+1 .OO -0 1 .00 
+0.003 -0 0.003 
+0.02 -0 0.01 
+0.15 -0 0.13 
+0.81 -0 0.74 
+0.00003 -0 0.00003 
+0.0002 -0 0.0001 
+0.002 -0 0.001 
+0.02 -0 0.01 
+where p and q are the frequencies of the resistance and suscepti- 
+bility alleles, respectively. If resistance is conferred by a single, 
+recessive allele, the expected frequency of resistant plants is p2. 
+For self-fertilizing weeds, genotypic frequencies are ex-
+pressed in terms of the inbreeding coefficient. If resistance is 
+conferred by a single, dominant allele, the expected frequency of 
+resistant plants would be: 
+where F is the inbreeding coefficient calculated as: 
+where c is the proportion of outcrossing in the population. If 
+resistance is conferred by a single, recessive allele, the expected 
+frequency of resistant plants is: 
+Based on the above equations and a rate of mutation to a 
+single, dominant resistance allele of 1 x lo4, the probability of 
+occurrence of at least one resistant plant in a 30 hectare field with 
+a weed density equal to, or exceeding, five plants perm2 is greater 
+than 0.95 for a random mating species (Table 1). Thus, at least 
+one resistant plant is almost certain to occur in a weed population 
+of this size despite the low rate of mutation to resistance. Several 
+factors, including seed inviability or predation and seedling 
+death, may cause the plant's mortality prior to reproduction. If it 
+should survive and reproduce, however, and if the corresponding 
+herbicide class is applied for several generations, the single 
+resistant plant could give rise to a predominantly resistant popu- 
+lation of weeds. 
+Probabilities of occurrence of a resistant mutant are markedly 
+reduced at low weed densities if mutation rates are less than 1 x 
+lo4 (Table 1). For instance, densities greater than 50 plants per 
+Volume 44, Issue 1 (January-March) 1996 177 
+JASIENIUK ET AL.: THE EVOLUTION AND GENETICS OF HERBICIDE RESISTANCE IN WEEDS 
+m2 are necessary for a reasonable chance of occurrence of a 
+resistant mutant (P = 0.26) if the mutation rate is 1 x The 
+positive relation between the size of a susceptible weed popula- 
+tion and the probability of occurrence of resistant mutant plants 
+may partly explain why herbicide resistance has evolved in some 
+species but not others. The probability of a herbicide resistant 
+plant occurring in a population is greater for weeds which occur 
+in high numbers, such as rigid ryegrass (Lolium rigidum Gaudin) 
+and green foxtail [Setaria viridis (L.) Beauv.], than for those 
+which typically occur at lower densities. 
+The likelihood of a resistant plant appearing in a susceptible 
+weed population of any size described in Table 1 is approxi- 
+mately zero for a random mating species if the resistance muta- 
+tion is recessive. For this reason, and others to be discussed in 
+following sections, herbicide resistance is unlikely to be under 
+recessive control in outcrossing species. In contrast, the prob- 
+ability of occurrence of a recessive resistant mutant plant is 
+similar to that of a plant with a dominant allele for resistance in 
+highly selfing species. Moreover, probabilities are only slightly 
+lower than those for dominant resistance mutations in random 
+mating species. 
+INITIAL FREQUENCY OF RESISTANCE 
+The frequency of mutant plants resistant to a particular herbi- 
+cide prior to its initial use in a weed population has been esti- 
+mated empirically in few studies. Matthews and Powles (76) 
+obtained a frequency of 0.02 + 0.0092 plants resistant to diclo- 
+fop-methyl in previously unsprayed farm populations and a 
+frequency of < 0.002 resistant plants in non-farm populations of 
+rigid ryegrass across southern Australia. Frequencies of triazine 
+resistant mutants in seven populations of common lambsquarters 
+(Chenopodium album L.) from private gardens in France ranged 
+from 1 x lo4 to 3 x (22, 37). The values obtained for both 
+species are higher than predicted based on expected rates of 
+spontaneous mutation. Whether or not these estimates are typical 
+of initial frequencies of herbicide resistant plants, in general, 
+remains to be seen as additional data become available for other 
+species and herbicide classes. 
+Reliable empirical estimates of initial frequencies of resistant 
+plants are difficult to obtain. Since frequencies are likely to be 
+very low, accurate estimates require intensive sampling and the 
+screening of enormous numbers of seeds or plants. For instance, 
+if the frequency of resistant plants is 1.0 x lo4, an order of 
+magnitude commonly assumed in models of herbicide resistance 
+evolution (41, 79), a minimum of 3,000,000 seeds must be 
+screened to be 95% confident of finding at least one resistant 
+plant. 
+Since data from field populations is lachng, and because of 
+the inherent difficulty in obtaining reliable estimates of initial 
+frequencies in the field, values are normally estimated theoreti- 
+cally using population genetic equations. Several equations may 
+be used, each with numerous underlying assumptions which may 
+or may not be valid. At best, therefore, the estimates obtained are 
+highly approximate. 
+Using mutation-selection equilibrium theory, the frequency 
+of resistance prior to herbicide exposure can be estimated by the 
+equilibrium reached between the continual generation of resis- 
+tance alleles by recurrent mutation (at mutation rate, y) and the 
+selective disadvantage of the newly arisen resistant plant in the 
+absence of herbicide (denoted by the selection coefficient, s) 
+(48). The selection coefficient is defined such that the fitness of 
+the most fit homozygote (the susceptible in this case) is one and 
+the fitness of the least fit homozygote (resistant) is 1 -s. Its value 
+is directly proportional to the intensity of selection against the 
+least fit genotype. Thus, s = 0.01 if R plants are 99% as fit as S 
+plants and s = 0.75 if R plants are 25% as fit as S plants. 
+If h is the degree of dominance of the resistance allele, the 
+frequency of resistance alleles at equilibrium can be estimated 
+using the equation: 
+for resistance controlled by a dominant (h = 1) or partially 
+dominant (0 < h < 1) allele. For resistance controlled by a 
+recessive allele (h = O), the equilibrium frequency is estimated 
+by: 
+The initial frequencies of resistance prior to herbicide expo- 
+sure, as estimated by the mutation-selection equilibria for a 
+mutation rate of 1 x are given in Table 2. In general, the 
+frequencies of resistant plants at equilibrium are only 1to 5 times 
+larger than the mutation rate if the fitness of resistant mutants is 
+considerably reduced relative to the fitness of susceptible plants 
+(s = 0.75). These estimates of initial frequencies are of the same 
+order of magnitude as those assumed by Gressel and Segel (40, 
+41) for single gene, dominant control of resistance. In contrast, 
+the frequency of resistant plants at equilibrium is approximately 
+100 to 400 times larger than the mutation rate if resistant mutants 
+are almost as fit as susceptible plants. Recent studies indicate that 
+the fitness of plants resistant to some nontriazine herbicides may 
+approximate the fitness of susceptible plants in the absence of 
+herbicide treatment (3, 44, 87, 112). The frequency of resistant 
+plants at the time of initial herbicide exposure, therefore, may be 
+higher than previously expected as indicated in Table 2 when s 
+=0.01. The higher initial frequencies may partly explain the very 
+rapid evolution of resistance to several of the newer, nontriazine 
+herbicides. 
+Frequencies of recessive resistance alleles, and resistant 
+plants in a highly selfing species, are two to three orders of 
+magnitude larger than equilibrium frequencies for dominant or 
+partially dominant resistance alleles (Table 2).Despite the higher 
+equilibrium frequencies predicted for recessive alleles, resis- 
+tance to most herbicides is a dominant trait. The following 
+section on the inheritance of resistance suggests why this may be 
+SO. 
+Although mutation-selection equilibrium theory is an appro- 
+priate population genetic model to use to estimate initial frequen- 
+Volume 44, Issue 1 (January-March) 1996 
+WEED SCIENCE 
+Table 2. Initial frequencies of resistance alleles and resistant plants estimated by 
+the equilibrium frequencies obtained based on mutation-selection balance theory. 
+A rate of mutation from susceptibility to resistance (I) of 1 x 10" is assumed. 
+Selective Equilibrium frequency of 
+disad- R plants 
+vantage Degree Equilibrium 
+of R plant of domi- frequency of Ibndom 95% 
+6) nance (h) R allele (q,) mating sel fing 
+0.01 I .o 1.00x lo4 2.00 x lo4 1.09 x lo4 
+0.8 1.25 x lo4 2.50 x lo4 1.37 x lo4 
+0.5 2.OOxl0~ 4.O0x1o4 2.19x104 
+0 l.OOx10-~ l.OOx10~ 9.06x10-~ 
+0.75 1 .O 1.33 x 2.66 x lo4 1.46 x lo" 
+0.8 1.67 x 3.33 x lo4 1.83x lo" 
+0.5 2.66 x 10" 5.33 x lo4 2.91 x lo4 
+0 1.15 x 1.33 x lo4 1.05x 
+cies when one assumes mutations to resistance are recurrent, 
+three major drawbacks exist. Firstly, the rate of spontaneous 
+mutation to resistance for a particular herbicide is unknown for 
+any weed species and must be assumed. Mutation rates are 
+influenced by numerous factors, however, and are likely to vary 
+considerably among gene loci (84). Moreover, obtaining accu- 
+rate measurements of rates of spontaneous mutation is extremely 
+difficult. In practice, since actual rates of mutation to resistance 
+cannot be determined accurately, theoretical estimates of initial 
+frequencies will also be inaccurate. 
+Secondly, many generations may be required for a population 
+to reach equilibrium, particularly if a gene mutation is recessive 
+and the mutant and resident genotypes are almost equally fit. For 
+instance, more than 500 generations are required for a population 
+to reach equilibrium when a resistance mutation is recessive and 
+the fitness of resistant and susceptible phenotypes is almost 
+equal. It is unlikely, therefore, that weed populations are always 
+in mutation-selection balance. When they are not, equilibrium 
+frequencies may not closely approximate initial frequencies of 
+resistance alleles. 
+Thirdly, accurate estimates of s, the selective disadvantage of 
+a newly arisen resistant plant in the absence of herbicide, are 
+usually not available and require considerable effort to obtain. 
+The initial frequency of resistance is of interest because it 
+influences, to varying degrees, the number of generations for 
+resistance to evolve in a weed population. Consider, for instance, 
+a random mating population in which resistance to a particular 
+herbicide is controlled by a single, dominant allele. A one hun- 
+dred-fold difference in the initial frequency of resistance alleles 
+is equivalent to a one generation difference in the time required 
+for the frequency of resistant plants to reach levels between 0.02 
+to 0.8 if a herbicide is 99% effective in killing susceptible weeds 
+but has no effect on resistant plants, i.e. s = 0.99 (Figure 1A). 
+When herbicides exert a less intense selection pressure, initial 
+frequencies have more of an influence on the time to evolve 
+resistance. For example, when a herbicide confers moderately 
+intense selection (s = 0.75), a one hundred-fold difference in the 
+initial frequency of resistance alleles results in a three generation 
+difference in the time required to reach a frequency of resistant 
+plants ranging from 0.02 to 0.8 (Figure 1B). 
+Volume 44, Issue 1 (January-March) 1996 
+*,)Zjj------- -----d 
+Initial Frequency 
+- of R alleles 
+0-0 1 x 10-4 
+8-1 1 x 10-6 
+3-L
+.-.
+1 x 10-8 
+1 X 10-10 
+s=0.99 
+Time (generations) 
+Figure 1.Effect of the initial frequency of resistance (R) alleles on the evolution 
+of herbicide resistance. A, selection by herbicide is very strong (s = 0.99). B, 
+selection by herbicide is weaker (s =0.75). Resistance is assumed to be conferred 
+by a single, completely dominant, nuclear allele in a random mating weed 
+population. 
+INHERITANCE OF RESISTANCE 
+Nuclear versus cytoplasmic inheritance. With one exception, 
+resistance to all classes of herbicides examined to date is deter- 
+mined by nuclear inheritance (Table 3). Transmission of resis- 
+tance alleles thus occurs through pollen and ovules. In contrast, 
+resistance to the triazine herbicides is inherited cytoplasmically 
+in the vast majority of weed species. The gene conferring triazine 
+resistance is located in the chloroplast genome (50). Transmis- 
+sion of the chloroplast resistance gene largely occurs through the 
+ovules of the maternal parent although a very low level of 
+transmission by pollen has been observed in a few species (20, 
+38). The sole exception to the cytoplasmic inheritance of triazine 
+resistance is velvetleaf (Abutilon theophrasti Medicus). Resis- 
+tance to the triazine herbicides in this species is controlled by a 
+single, partially dominant, nuclear gene (4). 
+The evolutionary significance of selection on a trait deter- 
+mined by maternal cytoplasmic inheritance is the complete re- 
+striction of genetic recombination and the ensuing rapid loss of 
+allelic polymorphism in natural populations (17, 97). Since no 
+segregation for resistance occurs in the seed offspring of a newly 
+arisen resistant mutant, the application of triazine herbicides will 
+quickly result in fixation of the resistance allele in a weed 
+population. Moreover, immigration of susceptibility alleles from 
+adjacent populations or the seedbank will not significantly delay 
+the evolution of resistance, since genetic recombination among 
+plants does not occur. 
+JASIENIUK ET AL.: THE EVOLUTION AND GENETICS OF HERBICIDE RESISTANCE IN WEEDS 
+Table 3. Inheritance of herbicide resistance in arricultural weeds 
+Species 
+Alopecurus myosuroides 
+Hordeum jubatum 
+Conyza bonariensis 
+Erigeron canadensis 
+E. philadelphicus 
+Sinupis arvensis 
+Abutilon theophrasti 
+Avena fatua 
+A. sterilis ssp. ludoviciana 
+Hordeum glaucum 
+Lactuca serriola 
+Lolium multflorum 
+Setaria viridis 
+Amaranthus bouchonii 
+Brassica campestris 
+Chenopodium album 
+C. polyspermum 
+Solanum nigrum 
+Poa annua 
+Senecio vulgaris 
+Herbicide 
+Chlorotoluron 
+Siduron 
+Paraquat 
+Paraquat 
+Paraquat 
+Dicamba 
+Triazine 
+Fenoxaprop-p-ethyl 
+Fenoxaprop and fluazifop 
+Paraquat 
+Metsulfuron 
+Diclofop-methyl 
+Trifluralin 
+Atrazine 
+Atrazine 
+Atrazine 
+Atrazine 
+Triazine 
+Simazine 
+Simazine 
+Nuclear vs 
+cytoplasmic inheritance 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Nuclear 
+Cytoplasmic (maternal) 
+Cytoplasmic (maternal) 
+Cytoplasmic (maternal) 
+Cytoplasmic (maternal) 
+Cytoplasmic (maternal) 
+Cytoplasmic (99% maternal) 
+(I % paternal) 
+Cytoplasmic (99.88 maternal) 
+(0.2% paternal) 
+Number 
+of genes Dominance Reference 
+Additive 
+Dominant 
+Dominant 
+Dominant 
+Dominant 
+Dominant 
+Inc. dom. 
+Inc. dom. 
+Inc. dom. 
+Inc. dom. 
+Inc. dom. 
+Inc. dom. 
+Recessive 
+The mutation that confers maternally inherited triazine resis- 
+tance involves a single base substitution in the psbA chloroplast 
+gene which codes for a Photosystem I1 membrane protein to 
+which triazine herbicides bind (49,50). The expected frequency 
+with which such a mutation occurs in the chloroplast genome and 
+gives rise to gamete transmissible triazine resistance is very low. 
+Amtzen and Duesing (6) and Duesing (27) derived an estimate 
+of 1 x to 1 x 10-l2 mutations per gene locus. 
+A nuclear gene, a plastome mutator, may be responsible for 
+increasing the rate of spontaneous mutation of the chloroplast 
+genome and the probability of triazine resistance mutations (6). 
+Such a nuclear mutation-inducing gene has been reported in a 
+few species of higher plants including triazine-resistant black 
+nightshade (Solanurn nigrurn L.) (6,28, 114). In common lambs- 
+quarters, a small percentage of plants, collected from populations 
+that were never treated with herbicide, produced an unusually 
+high number of offspring (between 1 and 12%) with the triazine 
+resistance mutation. These may have possessed a nuclear mutator 
+gene (9,22). 
+Polygenic versus major gene inheritance. Most instances of 
+adaptive evolution in plant and animal populations are achieved 
+by the selection of phenotypes encoded by many genes each with 
+small additive effect, i.e., polygenes (64). This is generally 
+believed to be due to the fact that mutations with minor effects 
+are present in populations at higher frequencies than those with 
+major effects, which may be deleterious or pleiotropic (64, 122). 
+In contrast, herbicide resistance is determined by major genes in 
+the weeds examined to date. Moreover, in the majority of cases 
+in which the number of genes has been determined, resistance is 
+controlled by a single, major gene (Table 3). 
+The predominance of major gene inheritance of herbicide 
+resistance can be attributed to two factors. Firstly, most recently 
+registered herbicides are highly target site specific and interfere 
+with single enzymes in major metabolic pathways. Mutation of 
+the gene encoding for the enzyme may alter a plant's sensitivity 
+to the herbicide and result in resistance. Secondly, repeated 
+application of these highly effective chemicals imposes strong 
+selection, often causing 95-99% mortality, against susceptible 
+phenotypes in weed populations. Adaptation is possible only if 
+resistance genes are present in a population and have a suffi- 
+ciently large phenotypic effect to allow the survival of a few 
+individuals in a single generation (71). With polygenic inheri- 
+tance, recombination among individuals for many generations is 
+required to bring together a sufficient number of favorable alleles 
+to produce a highly resistant phenotype. Polygenic inheritance 
+of resistance is thus more likely under conditions of weak selec- 
+tion as would occur with sublethal herbicide applications. 
+Substantial continuous or quantitative variation in suscepti- 
+bility to herbicides has been documented among, and within, 
+populations of weeds (12, 24, 30, 31, 60, 91, 92, 106, 111). 
+Estimates of heritability in a few of these studies (Table 4) 
+indicate the potential for selection of increasing levels of resis- 
+tance by repeated sublethal herbicide applications. Levels of 
+resistance to ioxynil, MCPA, and simazine increased following 
+artificial selection by herbicide in scentless mayweed [Tri-
+pleurospermum inodorurn (L.)Schultz Bip.] (32). The presence 
+of such heritable variation in response to low herbicide rates is 
+sometimes erroneously interpreted as indicative of a high risk of 
+a weed population evolving resistance to herbicides applied at 
+field rates. This is not the case. As indicated above, few plants 
+survive field rates of herbicides. The recombination and accumu- 
+lation of favorable alleles increasing resistance to a herbicide 
+among these plants, when such alleles are present at low frequen- 
+cies, will not occur sufficiently rapidly to produce offspring that 
+Volume 44, Issue 1 (January-March) 1996 
+WEED SCIENCE 
+Table 4. Estimates of the heritabllity of plant response to herbicide treatment. 
+Plant 
+Species 
+Avena barbata 
+Avena farua 
+Lolium perenne 
+Sertecio vulgaris 
+Herbicide (dosage) response Heritability estimate Reference 
+Barban (0.10 kg ai ha-') Injury 0.11-0.39 (broad-sense) 92 
+Barban (0.15 kg ai ha-') Injury 0.12-0.63 (broad-sense) 92 
+Paraquat (2M0 mg m-') Injury, yield 0.26-0.78, 0.42-0.85 (narrow-sense) 35 
+Simazine (0.7 kg ai ha-') Survival 0.22 (broad-sense) 51 
+will survive the next field dose of a particular herbicide. More- 
+over, most weed species are highly selfed. Therefore, the evolu- 
+tion of resistance contingent on gene exchange among 
+individuals will be very slow and improbable. 
+Dominance. When nuclear inheritance is involved, herbicide 
+resistance is conferred by an allele(s) that is at least partially 
+dominant to the allele(s) for susceptibility in all but two species 
+(Table 3). There are good theoretical reasons why resistance may 
+largely be determined by dominant alleles. When a favored allele 
+is rare, it will spread much faster in a population if it is at least 
+partially dominant than if it is recessive since heterozygotes will 
+manifest at least part of the phenotype of the homozygote under 
+selection (15,61). Arare dominant resistance allele is thus much 
+more likely to become established in a weed population, follow- 
+ing herbicide treatment, than a recessive resistance allele. The 
+significant role of dominant genes in adaptive evolution is not 
+restricted to herbicide resistance. They appear to play an impor- 
+tant role in a number of evolutionary processes, particularly if a 
+species is forced to adapt rapidly to a new, strong selection 
+pressure (84). 
+A notable exception to the partially or completely dominant 
+control of herbicide resistance is trifluralin resistance in green 
+foxtail, which is determined by a single, recessive allele (62). 
+The establishment and spread of a recessive resistance mutation 
+in this species may be attributable to two features of its repro- 
+ductive biology. Firstly, green foxtail is highly self-fertilized. 
+Average selfing rates of plants from four field populations ex- 
+ceeded 99% (unpublished data). Favorable recessive mutations 
+are more likely to become established in a selfing population as 
+opposed to an outcrossing population (15). Secondly, the prolific 
+seed return of green foxtail, which can produce as many as 
+12,000 seeds per plant (26), may have facilitated evolution of the 
+recessive trait. 
+Herbicide-induced resistance. Three biotypes of common 
+lambsquarters differing in levels of resistance to atrazine (sus- 
+ceptible [S], intermediate [I], and resistant [R]) are found in 
+France. Whereas the R biotype is highly resistant to atrazine, the 
+I biotype exhibits an intermediate response in terms of lethal dose 
+and pattern of chlorophyll fluorescence following atrazine ab- 
+sorption (23, 36, 37). After treatment with herbicide, however, 
+type I plants give rise to fully resistant progeny that do not differ 
+in response to atrazine from resistant plants collected in the field 
+(9). 
+The mechanism conferring full resistance to the progeny of 
+type I plants is unknown. Type I plants have the same psbA gene 
+mutation and their entire chloroplast populations are mutated as 
+is characteristic of fully resistant plants (9). Moreover, type I 
+plants do not differ from their herbicide-induced resistant [Ri] 
+progeny in growth, reproduction, QAto QBelectron transfer, and 
+thylakoid response to atrazine (9. 23). Yet I plants are not as 
+resistant to atrazine as Ri plants and will produce fully resistant 
+progenies only after herbicide treatment. 
+The I to Ri transition may be due to nuclear control of 
+chloroplast gene expression. Reciprocal crosses between S and 
+I plants indicate that in the absence of herbicide, the unique 
+characteristics of Type I mutants (intermediate lethal dose and 
+intermediate fluorescence curve) are conferred by maternal cy- 
+toplasmic inheritance (37). Similarly, crosses between S and Ri 
+plants indicate that the Ri characteristics are inherited maternally 
+and cytoplasmically (9). In contrast, reciprocal crosses between 
+I and Ri phenotypes demonstrated maternal cytoplasmic inheri- 
+tance in the F,, but the F2generation segregated I and R pheno- 
+types in such a way that the maternal phenotype had the highest 
+frequency. The results suggest incomplete cytoplasmic inheri- 
+tance or nucleocytoplasmic interaction involving an unidentified 
+nuclear component (9). Additional research is required to fully 
+understand the genetic control of this unique expression of 
+resistance. 
+SELECTION BY HERBICIDES 
+A unique feature of the evolution of herbicide resistance in 
+weeds, in contrast to most evolutionary processes occurring in 
+natural plant populations, is the intensity of selection imposed 
+by herbicides. Most are applied at rates that result in the mortality 
+of 90 to 99% of the susceptible weed seedlings in a field (41). If 
+genetic variation for resistance is present due to mutation or gene 
+flow, even at very low frequencies, repeated herbicide applica- 
+tion will normally result in a rapid increase in the frequency of 
+resistant individuals until they dominate the population. 
+Because treatment with herbicides generally results in such a 
+high mortality of susceptible plants, mathematical models have 
+shown that selection pressure by herbicide is the most important 
+factor determining the rate of enrichment of herbicide resistance 
+in a weed population (40,41,42,43,79). The higher the intensity 
+of selection against susceptible seedlings imposed by a particular 
+herbicide, the faster the expected rate of evolution and spread of 
+resistance (40,41). Several herbicide characteristics and patterns 
+of use result in higher plant mortality than others, and thus 
+impose a more intense selection pressure for the development of 
+resistance. These include a single target site and highly specific 
+Volume 44, Issue 1 (January-March) 1996 
+JASIENIUK ET AL.: THE EVOLUTION AND GENETICS OF HERBICIDE RESISTANCE IN WEEDS 
+Table 5. Computation of the relative fitness of resistant and susceptible genotypes, the selection coefficient against the susceptible genotype, and the change in frequency 
+of resistance alleles after one generation of selection by herbicide. Resistance is controlled by a single, completely dominant allele in a random mating weed species: 
+p =frequency of resistance (R) alleles; q = frequency of susceptibility (r) alleles; s = 
+Genotype 
+RR Rr 
+Adult plant frequency (f) p2 
+No. of seeds produced (fitness) 10000 
+Relative fitness (w) 1 
+Contribution of each genotype to the p2
+next generation (= f x w) 
+Normalized frequency in next P2 generation 1 -sq2 
+Increase in resistance alee frequency p?r- - p(q2) = (1 -q) sq2 
+after one generation of selection 1 -sq2 1-sq2 1-sq2 
+s = selection coefficient = 1 -w(rr) = 1-0.01 = 0.99 
+mechanism of action, long-term soil residual activity, and fre- 
+quent applications (66). 
+Selection pressure in the presence of herbicide treatment. 
+Despite the importance of selection by herbicide on the rate of 
+resistance evolution, accurate quantitative estimates of the inten- 
+sity of selection by herbicide in terms of plant response are 
+lacking. To date, most studies measure reductions in weed den- 
+sity or biomass in response to varying herbicide dosages. Al- 
+though the intensity of selection by herbicide in field populations 
+can be approximated by indicators of plant mortality, the reduc- 
+tion in seed return is a more accurate estimate of selection 
+pressure. The reason for this is that seed production more closely 
+reflects the change in relative numbers of resistant and suscepti- 
+ble plants in a weed population in the next generation. Seed 
+production assessed at the end of the growing season takes into 
+account the influence of susceptible individuals that miss herbi- 
+cide treatment and contribute progeny to the next generation. 
+These individuals essentially reduce the effective selection pres- 
+sure and slow the rate of resistance evolution (40). 
+Gressel and Segel (41) have included seed production as a 
+component of their estimate of selection pressure by measuring 
+"effective kill." Effective lull is defined as the percentage reduc- 
+tion in seed yield at the end of a growing season due to herbicide 
+treatment. Values are obtained for both resistant and susceptible 
+plants, and the selection pressure of a herbicide is calculated as 
+the ratio of the fraction of resistant plants that survive herbicide 
+application to the corresponding fraction of susceptible plants 
+(41, 42, 43). Thus Gressel and Segel (41) define the selection 
+pressure of a herbicide on a particular weed species as (1 -
+effective kill of resistant plants) divided by (1 -effective kill of 
+susceptible plants). 
+To date, empirical values of effective kill have been calculated 
+in a single study. Beckie and Morrison (8) measured the effective 
+lull of green foxtail by trifluralin, applied preplant incorporated 
+(PPI) in rapeseed and preemergence incorporated (PEI) in wheat. 
+In addition to the measurement of effective kill, the authors also 
+measured reductions in plant density and biomass due to herbi- 
+selection coefficient. 
+Frequency 
+rr Total of R allele 
+cide treatment 4 wk after seedling emergence. The values of 
+selection pressure calculated on the basis of density and biomass 
+differed markedly from those based on effective lull. Based on 
+effective kill, the selection pressure of trifluralin on green foxtail 
+was greater when herbicide was applied PPI in rapeseed than 
+when applied PEI in wheat. The converse results were obtained 
+using density and biomass reductions. Thus, based solely on the 
+conventional indicators of herbicide selection pressure, namely, 
+reductions in plant density and biomass, one would erroneously 
+predict that the probability of resistance evolution was greater 
+when trifluralin was applied PEI in wheat than when applied PPI 
+in rapeseed. 
+By convention, population geneticists measure selection pres- 
+sure by the relative fitnesses of genotypes in the presence of a 
+selective factor such as herbicide treatment (Table 5). Fitness is 
+a measure of the number of gametes or progeny contributed by 
+a genotype to the next generation. The relative fitness of geno- 
+types is calculated by assigning a value of 1 to the genotype with 
+the highest gametic or progeny contribution and values corre- 
+sponding to their relative contributions to the remaining geno- 
+types. The difference between the relative fitness of the most fit 
+genotype and that of the least fit genotype is termed the selection 
+coefficient (s) and is directly proportional to the intensity of 
+selection against the least fit genotype. In the context of herbicide 
+resistance evolution in weed populations, a relative fitness value 
+of 1 would be assigned to fully resistant genotypes in the pres- 
+ence of herbicide. Values corresponding to their relative repro- 
+ductive success would then be assigned to the partially resistant 
+and susceptible genotypes. The magnitude of the selection coef- 
+ficient would then indicate the intensity of selection favoring the 
+resistant genotype. This approach to estimating selection pres- 
+sure was used by Mortimer et al. (85) who defined selection 
+against the susceptible biotype in terms of the coefficient S, = [l 
+-(Ps/PR)], where Ps and PR represent the per capita seed produc- 
+tion of the susceptible and resistant biotypes, respectively. Values 
+of the coefficient range from 0 in the case where susceptible and 
+resistant plants have equal seed return to 1 when all susceptible 
+Volume 44, Issue 1 (January-March) 1996 
+WEED SCIENCE 
+*-• 3 on:O off 
+=-j 2 on:? off 
+1 on:l off 
+-O 1 on:2 off 
+Time (generations) 
+Figure 2. Effect of herbicide rotation on the evolution of herbicide resistance. A, B, C, resistant and susceptible phenotypes are equally fit, and D, E, F, resistant 
+phenotypes are 75% as fit as susceptible phenotypes, during the "herbicide-off' periods of a rotation. The selection coefficient, s, indicates the intensity of selection 
+by herbicide against the susceptible genotype during the "herbicide-on" periods. Resistance is assumed to be conferred by a single, completely dominant, nuclear 
+allele in a random mating weed population. The initial frequency of resistance alleles is 1 x lo4. 
+plants are lulled by the herbicide or are injured sufficiently to 
+prevent any seed production. 
+The intensity of selection for resistance imposed by a particu- 
+lar herbicide, and thus the selection coefficient and relative 
+fitness of resistant and susceptible genotypes, may vary due to 
+the environment. Estimates are thus specific to the conditions, 
+such as climate, weather, and soil type at the time of herbicide 
+application. 
+Density- and frequency-dependent effects commonly alter 
+the selective environment of natural populations of plants. For 
+example, the relative fitness of resistant and susceptible bio- 
+types of blackgrass (Alopecurus myosuroides Huds.) grown in 
+winter wheat was dependent on both the density and frequency 
+of resistant and susceptible plants treated with chlorotoluron 
+(85). At half and full recommended rates, reductions in seed 
+production of the susceptible biotype due to density were greater 
+than corresponding reductions in the resistant biotype. The in- 
+tensity of selection against the chlorotoluron-susceptible biotype 
+as estimated by the coefficient, S,, (85) thus increased towards 
+1.0 with increasing density of the susceptible biotype but de- 
+creased away from 1.0 with increasing density of the resistant 
+biotype. 
+Herbicide rotations. When herbicides are used in rotation, 
+selection for resistance to a particular herbicide is generally 
+restricted to the growing seasons during which the herbicide is 
+applied. With the exception of those herbicides having long 
+residual activity, the frequency of resistant plants is unlikely to 
+increase more rapidly than the frequency of susceptible plants 
+during the "herbicide-off' periods, and may even decline. The 
+time to reach a given frequency of plants resistant to a specific 
+herbicide will be extended by rotating the herbicide with various 
+cultural practices or with herbicides differing in mode of action 
+(42,43). 
+Early models (40,41) predicted that resistance would evolve 
+at a rate that was a function of the number of generations or 
+seasons a weed was treated with a particular herbicide. Thus, if 
+it took 8 yr for resistance to evolve in monoculture with annual 
+applications of a particular herbicide, it would take 24 years in a 
+rotation where the herbicide was used once in 3 yr. More recent 
+models consider that resistant plants may have reduced fitness 
+relative to susceptible plants in the absence of herbicide applica- 
+tion, i.e., during the "off' seasons of a rotation (42, 43). The 
+reduced fitness of resistant plants would further slow the evolu- 
+tion of resistance. 
+Figure 2 illustrates that the effect of herbicide rotations on the 
+frequency of resistant plants over time depends on the intensity 
+of selection by a herbicide during the "herbicide-on" periods 
+(which is equivalent to the fitness differential between resistant 
+and susceptible plants during the "on" periods), the number of 
+"herbicide-off' periods in a rotation, and the fitness differential 
+between resistant and susceptible phenotypes during the "off' 
+periods. 
+Volume 44, Issue 1 (January-March) 1996 183 
+JASIENIUK ET AL.: THE EVOLUTION AND GENETICS OF HERBICIDE RESISTANCE IN WEEDS 
+At a given selection intensity, the time to reach a specific 
+frequency of resistant plants increases as the number of "off' 
+years increases. For example, when s = 0.9 and resistant and 
+susceptible phenotypes are equally fit, a weed population will 
+become 80% resistant in approximately 7 yr if a herbicide group 
+is applied repeatedly without rotation. However, to reach the 
+same level of resistance in the population it will take 10 yr if the 
+herbicide group is used 2 out of every 3 yr, and 20 yr if the 
+herbicide group is used 1 out of every 3 yr. Thus herbicide 
+rotation can be very effective in delaying the evolution of resis- 
+tance. The effect of the number of "off' years is particularly 
+evident when the herbicide applied during the "on" years im- 
+poses relatively weak selection (s = 0.75 versus s = 0.99). If a 
+herbicide exerts very strong selection during the "herbicide-on" 
+seasons (s =0.99), a larger number of "off' periods in the rotation 
+will be required to delay resistance. 
+A fitness differential between resistant and susceptible plants 
+during the "herbicide-off' periods will also affect the evolution 
+of resistance (Figures 2A, B, C versus Figures 2D, E, and F). 
+Resistant and susceptible plants are assumed to have equal fitness 
+in Figures 2A, B, and C. The frequency of resistant plants neither 
+increases nor decreases but remains constant in the absence of 
+herbicide treatment. In contrast, resistant plants are assumed to 
+be only 75% as fit as susceptible plants during the "herbicide-off' 
+periods in Figures 2D, E, and F. The reduced fitness of resistant 
+plants causes a decrease in the frequency of resistant plants in 
+the absence of herbicide treatment. As a result, herbicide rota- 
+tions are more effective in slowing the evolution of resistance in 
+weed populations when a resistance mutation is associated with 
+a reduction in plant fitness in the absence of herbicide. The 
+magnitude of the fitness reduction also affects the rate at which 
+a population returns to a predominantly susceptible state after 
+use of a particular herbicide group is stopped (79).The larger the 
+fitness cost, the more rapidly will the susceptible type replace the 
+resistant type. 
+Fitness in the absence of herbicide treatment. The assumption 
+that resistant plants are less fit than susceptible plants in the 
+absence of herbicide application is based on early studies of 
+triazine resistance. These studies indicated a marked reduction 
+in the reproductive success of s-triazine resistant biotypes rela- 
+tive to susceptible biotypes of most species in the absence of 
+triazine application (reviewed in 42). In addition, since many 
+novel mutations in biological organisms have deleterious, pleio- 
+tropic effects on an organism's likelihood of survival andlor 
+reproduction (64), it generally is assumed that herbicide resis- 
+tance mutations will be associated with an initial cost to a plant's 
+fitness (53). 
+Accurate quantitative estimates of the relative fitness of resis- 
+tant and susceptible plants in the absence of herbicide are diffi- 
+cult to obtain. Three major problems exist: 1) the choice of 
+material for comparison, 2) the experimental conditions under 
+which the fitnesses of resistant and susceptible types are com- 
+pared, and 3) the characteristics used to measure fitness. 
+In order to show causal effect of a resistance mutation on 
+fitness reduction in an organism, isogenic resistant and suscep- 
+tible lines must be compared. Only a few studies have made 
+comparisons using isogenic lines (1 1, 39, 59, 81, 82, 109). All 
+involved triazine resistant species and indicated that the triazine 
+resistance mutation was associated with a cost in fitness in the 
+species examined (Table 6). Fitness differences between nearly 
+isogenic resistant and susceptible lines of spring rapeseed (Bras-
+sica napus L.) were statistically significant when lines were 
+grown together (in mixture), but were not significant when 
+grown separately (in monoculture). 
+Interactions between the resistance allele and the genetic 
+background (the nuclear and chloroplast genome) have been 
+examined in a single study. McCloskey and Holt (82) showed 
+that there was a large differential temperature effect on the 
+amount of biomass produced by common groundsel containing 
+the same chloroplast genome but different nuclear genomes 
+(triazine-resistant or -susceptible). Plants with the resistant nu- 
+clear genome were better adapted to cooler growth temperatures 
+while plants with the susceptible nuclear genome were better 
+adapted to warmer growth conditions. In contrast, there was no 
+differential temperature effect on biomass production of isonu- 
+clear plants possessing resistant or susceptible chloroplast 
+genomes. However, plants containing the susceptible chloroplast 
+genome produced more biomass and had higher photosynthetic 
+rates than those with the resistant chloroplast genome. Further 
+research in other species is required to determine whether the 
+cost of resistance varies in different genetic backgrounds and 
+environments. 
+The most appropriate fitness comparison to be used to esti- 
+mate the delay in resistance evolution due to "herbicide-off' 
+periods of a rotation is a comparison of the average fitness of 
+resistant plants in the weed population with the average fitness 
+of susceptible plants from the same population. Since in most 
+circumstances resistant and susceptible plants from the same 
+population cannot be distinguished in the absence of herbicide, 
+studies have generally compared the fitness of resistant and 
+susceptible plants collected from different populations (Table 6). 
+A major drawback of these studies is that the fitness differential 
+between resistant and susceptible plants may be confounded by 
+differences in response to both abiotic and biotic environmental 
+conditions among populations. If comparisons must be made 
+using plants drawn from different populations, care must be 
+taken to select populations from the same geographic area and 
+growing conditions. Several resistant and susceptible popula- 
+tions should be compared. A comparative study of one resistant 
+and one susceptible population is unlikely to be truly repre- 
+sentative. 
+The experimental conditions under which the fitnesses of 
+resistant and susceptible phenotypes are compared should reflect 
+typical field conditions as closely as possible since relative 
+fitness may vary due to the environment. The major drawback of 
+most studies is that resistant and susceptible plants are grown 
+neither in a crop nor in mixtures with one another (Table 6). 
+Under normal field conditions, resistant and susceptible plants 
+compete with each other and the crop. The term "productivity" 
+has been used to describe the fitness of resistant and susceptible 
+Volume 44, Issue 1 (January-March) 1996 
+WEED SCIENCE 
+plants when each type is grown in monoculture in contrast to 
+"competitive fitness" which describes fitness under conditions 
+of interbiotype competition (39). 
+In addition to concerns regarding the genetic material and the 
+experimental conditions used to compare the fitness of resistant 
+and susceptible plants in the absence of herbicide, the variables 
+measured to estimate fitness must reflect those that most directly 
+result in changes in gene frequencies in weed populations. Most 
+studies have measured plant biomass (typically, vegetative and 
+reproductive dry weight) to estimate the relative fitness of resis- 
+tant and susceptible phenotypes (Table 6). Assuming a phenotype 
+has a higher fitness on the basis of dry matter production alone 
+is likely to be subject to considerable error. In order to accurately 
+predict rates of increase or decline in resistance due to herbicide 
+rotation or the complete cessation of use of a particular herbicide 
+group, measures of relative fitness must incorporate the differ- 
+ential survival and reproduction (fecundity) of resistant and 
+susceptible phenotypes. Survival and fecundity will be deter- 
+mined by a number of factors such as seed viability, seedling 
+vigour, competitive ability, and time to maturity. Maxwell et al. 
+(79), for example, consider that the relative fitness of resistant 
+and susceptible phenotypes is determined by the survival of 
+seeds, seedlings, and mature plants, in addition to the fecundity 
+(pollen and seed production) of each phenotype. 
+Despite the difficulties associated with measuring fitness, 
+some generalizations can be made with the data available to date. 
+As stated previously, studies comparing isogenic lines indicate 
+that triazine resistant phenotypes are either less fit, or as fit, as 
+susceptible phenotypes (Table 6). Triazine resistant plants rarely 
+exhibit greater fitness than susceptible plants for the characters 
+measured to date. 
+Environmental conditions influenced the relative fitnesses of 
+triazine resistant and susceptible phenotypes to varying degrees. 
+Resistant plants were less fit when grown in mixture with sus- 
+ceptible plants than when grown in pure stands in some studies 
+(1, 39, 120), but not in others (18, 109). Differences in light 
+intensity also affected the relative fitness of resistant and suscep- 
+tible phenotypes of common groundsel (55). Fitness was shown 
+to vary among populations of a species when several resistant 
+and susceptible populations were examined (74, 115). Thus, 
+although triazine resistant phenotypes appear to be less fit than 
+susceptible phenotypes, on average, the magnitude of the fitness 
+reduction and, therefore, the effectiveness of rotations in slowing 
+the evolution of triazine resistance in weed populations, is likely 
+to vary with environmental conditions and among populations 
+of a species. The relative fitness of triazine resistant and suscep- 
+tible biotypes in the absence of triazine treatment is reviewed in 
+greater detail by Holt (52), Radosevich and Holt (93), and 
+Warwick (116). 
+Few studies have compared the fitness of plants resistant and 
+susceptible to the nontriazine herbicides (Table 6). It is thus 
+difficult to draw any generalizations. In studies examining a large 
+number of populations andlor fitness variables, differences be- 
+tween resistant and susceptible phenotypes were found for some 
+variables but not for others (2, 3, 75, 87). A single study (85) 
+examined the fitness of resistant and susceptible phenotypes in 
+the presence of crop competition. In the absence of herbicide, the 
+per capita seed production of chlorotoluron resistant and suscep- 
+tible biotypes of blackgrass was observed to be both density- and 
+frequency-dependent when grown in mixtures in the presence of 
+winter wheat. Susceptible plants produced more seed than resis- 
+tant plants at low densities, whereas the reverse was true at high 
+densities. 
+WEED MATING SYSTEMS 
+One of the underlying assumptions of most mathematical 
+models of herbicide resistance evolution is random mating 
+among plants in weed populations (40,41,42,43,85). However, 
+many of the world's major weeds, including several that have 
+developed resistance to herbicides, are highly self-fertilizing (1 3, 
+14). Selfing in a plant population has the effect of greatly 
+increasing the probability and rate of evolution of favorable 
+recessive mutations (15). 
+A newly arisen resistance mutation will initially be present in 
+the heterozygous state. Thus, its probability of survival in a 
+population will depend on its degree of dominance. If the muta- 
+tion is dominant, it will survive a herbicide treatment. If, on the 
+other hand, it is recessive, the plant carrying the mutation will be 
+susceptible to herbicide treatment. Therefore, a resistant plant 
+would only occur if the mutant escaped herbicide treatment and 
+mated with another plant carrying the mutation. In a highly 
+outcrossing weed species, the very few heterozygotes that may 
+survive herbicide treatment will most likely mate with homozy- 
+gous, dominant, susceptible plants because of the lack or extreme 
+rarity of plants carrying the resistance allele in the population. 
+Therefore, most of the progeny from heterozygotes would be 
+susceptible to herbicide. A recessive resistance mutation is thus 
+unlikely to spread in response to selection by herbicide in com- 
+parison with a resistance gene with some degree of dominant 
+expression. In general, natural selection strongly favors nonre- 
+cessive favorable mutations in random mating or predominantly 
+outcrossing species (15, 45, 83). Several examples of adaptive 
+evolutionary change, such as insecticide resistance, industrial 
+melanism (the evolution of dark-colored wings in peppered 
+moths inhabiting industrial areas), and heavy metal tolerance in 
+plants support this generalization (72). 
+In contrast to outcrossing, selfing in a plant population greatly 
+increases the probability and rate of evolution of a favorable 
+recessive mutation (15). With selfing, 25% of the progeny from 
+a heterozygous plant that escaped herbicide treatment will be 
+resistant. By rapidly increasing the frequency of recessive ho- 
+mozygotes, selfing reduces the chance of loss of a newly arisen 
+recessive mutation. As a result, in highly self-fertilizing species, 
+recessive resistance mutations will spread at approximately the 
+same rate as dominant resistance mutations (Figure 3). One 
+might expect, therefore, that recessive genes conferring herbi- 
+cide resistance would have a good chance of establishment in 
+populations of highly selfing weed species. 
+It will be of considerable interest to determine whether the 
+genetic basis of herbicide resistance differs among weed species 
+Volume 44, Issue 1 (January-March) 1996 
+JASENIUK ET AL.: THE EVOLUTION AND GENETICS OF HERBICIDE RESISTANCE IN WEEDS 
+Table 6. Relative fitness of resistant and susceptible phenotypes in the absence of herbicide treatment. 
+Experimental conditions 
+Phenotype 
+Plant with 
+material Crop vs Monoculture highest Refer-
+Herbicide Species compared no crop vs mixturea Fitness variable fitness ence 
+Triazine herbicides: 
+Triazine Brassica napus Nearly No crop Monoculture Vegetative biomass -- 39 
+isogenic Silique biomass --
+lines Silique no. --
+Seed biomass --
+Seed no. (est.) --
+Germination rate --
+Seedling survival --
+Initial growth rate --
+Plant height --
+Mixture Vegetative biomass S 
+Silique biomass S 
+Silique no. S 
+Seed biomass S 
+Seed no. S 
+Germination rate --
+Seedling survival --
+Initial growth rate --
+Plant height --
+Isogenic No crop Monoculture Plant height S 
+lines Days to maturity S 
+Seed yield S 
+Triazine Senecio vulgaris Nearly No crop Monoculture Shoot biomass S 
+isogenic Leaf area S 
+lines Flower biomass S 
+Reproductive output S 
+Relative growth rate --
+Nearly No crop* Monoculture Shoot biomass S 
+isogenic lines Photosynthetic rate S 
+Isogenic No crop Monoculture Plant height S 
+lines Leaf no. --
+Leaf area --
+Root biomass --
+Shoot biomass --
+Leaf biomass --
+Flower biomass --
+Populations No crop Monoculture Plant height S 
+Leaf no. --
+Leaf area S 
+Root biomass S 
+Shoot biomass S 
+Leaf biomass S 
+Flower biomass S 
+Populations No crop Monoculture Aboveground biomass S 
+Resource allocation --
+Mixture Aboveground biomass S 
+Competitive ability S 
+Resource allocation --
+Populations No crop Monoculture Vegetative biomass S 
+(3R, 5s) Total plant biomass S 
+Seedling biomass --
+No. days to flowering --
+Reproductive biomass --
+Reproductive effort --
+Seed biomass --
+Populations No crop Monoculture 	 Plant biomass S 
+(1R, 1s) 	 Reproductive output S 
+Leaf no. --
+Root/shoot ratio --
+Total leaf area --
+aMonoculture-R and S plants are grown separately in pure stands. Mixture-R plants are grown in mixture with S plants. 
+b3daylnight temp., 1318 C, 20115 C, 30125 C. 
+186 	 Volume 44, Issue 1 (January-March) 1996 
+WEED SCIENCE 
+Table 6. (conrinued) 
+Relative growth rate --
+Net assimilation rate --
+% Leaf biomass R 
+% Reproductive biomass R 
+Leaf area ratio R 
+Mixture Plant biomass S 
+Reproductive output 
+Leaf no. 
+S 
+--
+Root/shoot ratio 
+Total leaf area 
+----
+Relative growth rate --
+Net assimilation rate --
+% Leaf biomass R 
+8Reproductive biomass R 
+Leaf area ratio R 
+Populations No crop Monoculture Plant biomass S 
+(low and high Plant height S 
+light) Leaf no. S 
+Leaf area S 
+(Low light) Root/shoot ratio --
+Leaf area ratio/interval --
+Net assimilation rate S 
+Relative growth rate --
+% Reproductive biomass --
+Developmental ageharvest = 
+(High light) Root/shoot ratio R 
+Leaf area ratiolinterval R 
+Net assimilation rate S 
+% Reproductive biomass R 
+Triazine Solanum nigrum Isogenic No crop Monoculture 
+Developmental agehanest 
+Leaf area 
+S 
+--
+lines Plant biomass S 
+Populations No crop Monoculture Leaf area --
+Plant biomass S 
+Triazine Phalaris paradoxa Populations No crop Monoculture % Seed germination R 
+Seedling emergence R 
+Shoot biomass R 
+Main spike biomass R 
+Triazine Amaranthus Populations No crop Monoculture Plant height --
+hybridus Aboveground biomass --
+Seed biomass --
+Relative growth rate S 
+Net assimilation rate S 
+Mixture Plant height S 
+Aboveground biomass S 
+Seed biomass S 
+Atrazine Amaranthus Populations No crop Monoculture Plant height S 
+poweliii (3R, 1s) Days to flowering S 
+Stem biomass S 
+Leaf biomass S 
+Seed biomass S 
+Reproductive effort R 
+Populations 
+(IR, 1s) 
+No crop Monoculture Aboveground biomass 
+Seed no. 
+----
+Seed weight R 
+Mixture Aboveground biomass S 
+Seed no. S 
+Atrazine Amaranthus Populations No crop Monoculture Plant height R 
+retrojlexus (IR, 4s) Days to flowering S 
+Stem biomass R 
+Leaf biomass R 
+Seed biomass --
+Reproductive effort S 
+Populations No crop Monoculture Aboveground biomass -- 120 
+(IR, 1s) Seed no. --
+Seed weight R 
+Mixture Aboveground biomass S 120 
+Seed no. S 
+Volume 44, Issue 1 (January-March) 1996 187 
+JASIENIUK ET AL.: THE EVOLUTION AND GENETICS OF HERBICIDE RESISTANCE IN WEEDS 
+Table 6. (continued) 
+Experimental conditions 
+Phenotype 
+Plant with 
+material Crop vs monoc culture highest Refer-
+Herbicide Species compared no crop vs mixturea Fitness variable fitness ence 
+Populations No crop Monoculture Plant biomass 18 
+Resource allocation 
+Mixture Plant biomass 
+Competitive ability 
+Resource allocation 
+Atrazine Chenopodium album Populations No crop Monoculture Aboveground biomass 
+(IR, 1s) Reproductive biomass 
+Mixture Competitive ability 
+Aboveground biomass 
+Reproductive biomass 
+Populations No crop Monoculture Percent germination 
+(lR, 2s) Seedling biomass 
+Aboveground biomass 
+Vegetative biomass 
+Floral biomass 
+Reproductive effort 
+Time to maturation 
+Atrazine Chenopodium Populations No crop Monoculture Aboveground biomass 
+strictum (1R. 1s) Reproductive biomass 
+Mixture Competitive ability 
+Nontriazine herbicides: 
+Chlorotoluron Alopecurus Populations Crop Mixture Seed production 
+mvosuroides (lR, 1s) (low density) 
+Crop Mixture Seed production 
+(high density) 
+Cyclohexanedionesl PopulationsEleusine indica No crop Monoculture Plant biomass 
+aryloxyphenoxy- (1R. IS) Plant height 
+propionates Leaf area 
+Tiller no./plant 
+Rachis no./plant 
+Inflorescence biomass 
+Inflorescence no. 
+% Reproductive biomass 
+Relative growth rate 
+Net assimilation rate 
+Leaf area ratio 
+Dinitroanilines Eleusine indica Populations No crop Monoculture Plant height 
+(6R34S) Tiller no./plant 
+Aboveground biomass 
+Relative growth rate 
+Inflorescence no./plant 
+Inflorescence dry wt.plant 
+Paraquat Erigeron canadensis Populations No crop Monoculture Plant growth 
+Paraquat Hordeum glaucum Populations No crop Monoculture Competitive ability 
+Mixture Competitive ability 
+Sulfonylureas Lactuca serriola Populations No crop Monoculture Aboveground biomass 
+(IR, 1s) Relative growth rate 
+Competitive ability 
+Populations No crop Mixture Aboveground biomass 
+(1R, 1s) Competitive ability 
+Populations No crop Mixture Seed no./plant 
+(IR, 1s) Head no./plant 
+Seed longevity 
+Seed viability 
+Germination rate 
+Sulfonylureas Kochia scoparia Populations No crop Monoculture Growth rate 
+(2R, 2s) Seed production 
+Competitiveness 
+Mixture Competitiveness 
+Populations No crop Monoculture Germination rate 
+(2R, 2s) 8C-Kansas 
+-North Dakota 
+Volume 44, Issue 1 (January-March) 1996 188 
+WEED SCIENCE 
+Table 6. (continued) 
+Organic arsenicals Xanthium Populat~ons No crop 
+I 8C-Kansas 
+-North Dakota 
+28C-Kansas 
+-North Dakota 
+Monoculture Plant height 
+strumarium (3R, 4s) 
+varying in mating system. To date, recessive control of herbicide 
+resistance has been observed in a single species. The inheritance 
+of trifluralin resistance in green foxtail, a species with a selfing 
+rate that exceeds 9996, supports the hypothesis that recessive 
+control of herbicide resistance, if observed, will occur in pre- 
+dominantly self-fertilizing weeds (62). Nuclear inheritance of 
+herbicide resistance in the remaining species in which genetic 
+studies have been performed, including those that are predomi- 
+nantly self-fertilizing, appears to be determined by dominant 
+genes (Table 3). An alternative hypothesis for the frequent estab- 
+lishment of dominant resistance mutations is that they involve 
+gain-of-function or altered-function changes whereas recessive 
+mutations involve loss-of-function changes. Additional data on 
+the genetics and mechanisms of herbicide resistance, and the 
+mating systems of weed species, are required to rule out one or 
+the other explanation. 
+- ,- -
+73-0-U--
+Mating Dominance 
+0-0 random dom~nant 
+m-rn random recessive 
+0-0 99% selling dominant I 
+c-c 99% selflng recessive 
+I 
+Time (generations) 
+Figure 3. Rate of evolution of herbicide resistance as a function of the mating 
+system of a weed species and the dominance of aresistance mutation. A, selection 
+by herbicide is very strong (s = 0.99). B, selection by herbicide is weaker (s = 
+0.75). "Random" indicates a random mating population; "99% selfing", a popu- 
+lation that is 99% self-fertilizing. The initial frequency of resistance alleles is 
+assumed to be 1 x 
+Leaf area 
+Aboveground biomass 
+Relative growth rate 
+Days to flowering 
+Bur biomass 
+Bur no./plant 
+INTERPOPULATION GENE FLOW 
+Spread of resistance among weed populations. Gene flow, via 
+pollen or seed, from a field with herbicide resistant plants to an 
+adjacent or nearby field with susceptible plants may provide an 
+initial source of resistance genes, similar to mutation, for the 
+evolution of herbicide resistance. Rates of gene flow are gener- 
+ally believed to be higher than rates of mutation and therefore 
+would result in a higher frequency of plants resistant to a particu- 
+lar herbicide prior to its initial application. Therefore, gene flow 
+and the resultant increase in initial frequency of resistance genes 
+would reduce the time required to reach a specific level of 
+resistance within a field once the herbicide is applied (Figure 1). 
+The relative importance of mutation versus gene flow as a 
+source of resistance genes in susceptible weed populations is 
+unknown. Mutation is likely to result in the initial appearance of 
+herbicide resistance in a particular geographic area whereas gene 
+flow is more likely to bring about its spread among populations 
+in a region. Afew studies of isozyme variation in triazine resistant 
+and susceptible populations of common lambsquarters support 
+this hypothesis. Distinct isozyme phenotypes were observed in 
+triazine resistant populations from different regions of France 
+(36). The same isozyme phenotype was found in populations 
+from a geographical location, however. Similar results were 
+obtained for triazine resistant populations in Canada (I 19). The 
+data suggest that mutation for resistance in populations of com- 
+mon lambsquarters occurred independently in the separate geo- 
+graphic regions but that spread of the resistant type within a 
+region was likely due to gene flow. 
+Until recently, the role of gene flow in the spread of herbicide 
+resistance among weed populations has largely been ignored. 
+One reason may be that rates of gene flow between plant popu- 
+lations in natural environments are generally believed to be too 
+low to have much evolutionary significance (29,45,67,69,70). 
+On average, levels of gene flow are estimated to be less than 1 % 
+among populations separated by a few hundred meters and at 
+least two orders of magnitude less between populations 1.5 km 
+or more apart for most plant species (68, 70). In many highly 
+self-fertilizing species, effective gene flow between populations 
+is expected to be so low as to approach rates of mutation (46). 
+More recent studies, however, challenge the widely held view 
+that interpopulation gene flow is highly limited. Migration rates 
+ranging from 0.5 to 5.5 individuals per generation have been 
+inferred from statistical analyses of allele distributions among 
+Volume 44, Issue 1 (January-March) 1996 
+JASIENIUK ET AL.: THE EVOLUTION AND GENETICS OF HERBICIDE RESISTANCE IN WEEDS 
+plant populations (102, 103, 104). In addition, studies based on 
+paternity-exclusion analysis (25) have shown that a significant 
+proportion of a population's seed crop can be fathered by plants 
+from outside of the population. For instance, 6.3 to 17.9% of the 
+seeds assayed from five small populations of wild radish 
+(Raphanus sativus L.), a self-incompatible, insect-pollinated 
+weed, were estimated to be fathered by foreign pollen from 
+populations at least 100 m away (25,33). Such rates of gene flow 
+could lead to the rapid spread of a herbicide resistance gene 
+among weed populations in a particular area. 
+Empirical data on levels of gene flow between weed popula- 
+tions of herbicide resistant species are lacking. Pollen movement 
+of resistance genes within populations, however, has been meas- 
+ured in two species: sulfonylurea resistant kochia [Kochia sco- 
+paria (L.) Schrad.] and diclofop-methyl resistant Italian ryegrass 
+(Lolium multijlorum Lam.). Outcrossing of resistant pollen to 
+susceptible plants was 1.4% at a distance of 28.9 m in kochia and 
+1%at > 6.84 m in Italian ryegrass (77, 108). In a separate study, 
+kochia pollen was recovered as far as 50 m from its source 
+indicating that pollen dispersal could lead to long distance spread 
+of herbicide resistance genes (86). Thus, the establishment of 
+new sulfonylurea resistant kochia populations in previously sus- 
+ceptible fields through gene flow is possible. 
+Although pollen dispersal has generally been assumed to be 
+the major mechanism of interpopulation gene flow in plants, seed 
+dispersal may play a far greater role in weed populations. Many 
+weed species are highly self-fertilizing and pollen flow is prob- 
+ably minimal. Indirect evidence of the importance of seed move- 
+ment in determining the spread of resistant weeds can be obtained 
+from information on the introduction and spread of weeds in a 
+region. Weed seed movement due to agricultural implements can 
+be considerable (78,80). Grain harvesting equipment, in particu- 
+lar, may be an important mechanism of weed seed dispersal 
+among fields. For instance, roughly 3% of the seed of the 
+black-seeded biotype of wild-proso millet (Panicurn miliaceum 
+L.) in one field was moved to a second field by combine harvest- 
+ers (80). Movement of harvesting equipment from one field to 
+another may similarly disperse herbicide resistant seed into 
+susceptible populations. 
+Immigration of susceptibility genes. The immigration of genes 
+for susceptibility to a particular herbicide into a weed population 
+undergoing selection by that herbicide can slow the evolution of 
+resistance. Immigration of susceptibility genes can occur by 
+pollen or seed dispersal from nearby susceptible weed popula- 
+tions or as a result of the germination of susceptible seed from 
+the seed bank. The effectiveness of gene flow in opposing 
+selection for resistance will depend on the intensity of selection 
+by herbicide, the inheritance of resistance, and the rate of immi- 
+gration of genes for susceptibility into the weed population (5). 
+It has been suggested that immigration of susceptibility genes 
+into a weed population that has evolved resistance can lead to its 
+"recovery" or return to susceptibility. For instance, Maxwell's 
+RSIM (Resistance Simulation) model shows that 2 yr after 
+abandoning herbicide use, the proportion of resistant plants in a 
+highly outcrossing weed population declines markedly if a large 
+1.o 
+0.8 Immigration Rate 
+V) 
+C 
+-0.6 0-0 0% 
+a, 0.4 5%1-1 
+Time (generations) 
+Figure 4. Effect of the immigration of alleles for susceptibility (S) to a particular 
+herbicide into a weed population undergoing selection by that herbicide. A, 
+selection by herbicide is very strong (s ~0.99).B, selection by herbicide is weaker 
+(S = 0.75). Resistance is assumed to be conferred by a single, completely 
+dominant, nuclear allele in a random mating weed population. The initial 
+frequency of resistance alleles is 1 x lo4. 
+population of susceptible plants is nearby (79, 94). The propor- 
+tion of resistance can be reduced also, but to a lesser degree, by 
+small, nearby sources of susceptibility alleles or large, more 
+distant sources if resistance is controlled by a recessive gene. 
+The delay in evolution of resistance and the potential recovery 
+from resistance attributable to the immigration of susceptibility 
+alleles has led to the proposal of maintaining sources of the 
+susceptible phenotype as a strategy to manage herbicide resis- 
+tance (79, 94). Not only is this unacceptable from a farmer78 
+perspective, it is unlikely to be effective. Figure 4 illustrates that 
+when resistance is dominant and selection pressure is high, 
+immigration rates as high as 10%do not significantly delay the 
+time to reach a specific frequency of resistant plants. Resistance 
+must be conferred by a recessive allele in a highly outcrossing 
+species for this strategy to be effective. As indicated by Figure 
+3, the recessive control of resistance in random mating weed 
+populations is highly improbable. 
+CONCLUSIONS 
+Many factors have been shown to be important in determining 
+the evolution of herbicide resistance. The source of genetic 
+variation for resistance (mutation or immigration), the initial 
+frequency of resistance alleles, fitness in the presence and/or 
+absence of herbicide, a weed's mating system, and the inheri- 
+tance of resistance are among those discussed in this review. 
+Relative fitness of resistant and susceptible plants in the 
+presence of herbicide is the single most important factor in the 
+Volume 44, Issue 1 (January-March) 1996 
+WEED SCIENCE 
+determination of the rate of evolution of herbicide resistance. At 
+any given selection pressure, the initial frequency of the resistant 
+plants will determine the time required to reach a specific fre- 
+quency of resistant plants. Accurate measures of initial frequency 
+are difficult to obtain for a given population and will depend on 
+mutation rate, gene flow, mating system, and inheritance of 
+resistance. Mating system and nature of inheritance will further 
+influence the rate of evolution of resistance. 
+Rotating a herbicide with various cultural practices or with 
+herbicides differing in mode of action will have the largest 
+impact on delaying the time to reach a high frequency of plants 
+resistant to the herbicide. The larger the number of "herbicide- 
+off' years, the longer the delay. Differences in fitness between 
+resistant and susceptible plants during the "herbicide-off' peri- 
+ods will significantly delay resistance only if the susceptible 
+plants are substantially more fit than the resistant plants. Simi- 
+larly, maintaining a source of susceptible plants to dilute the 
+frequency of resistant plants is not likely to be effective or 
+desirable. 
+Mathematical models can assist in assessing different strate- 
+gies to delay the evolution of resistance. Unfortunately, it is 
+unlikely that models will be able to accurately predict a specific 
+time to resistance for any given population because of the inher- 
+ent difficulties in obtaining accurate measures of many important 
+factors. Models should continue to be used to assess the effec- 
+tiveness of strategies to delay resistance evolution, but the lirni- 
+tations in their ability to predict specific outcomes must be 
+recognized. 
+ACKNOWLEDGEMENTS 
+The authors gratefully acknowledge Henri Darmency and 
+Suzanne Warwick for commenting on the manuscript. We also 
+thank the graduate students and research associates of the Weed 
+Science and Plant Genetics laboratories for stimulating discus- 
+sions on herbicide resistance. Financial support for this research 
+was provided by the Natural Sciences and Engineering Research 
+Council of Canada. 
+LITERATURE CITED 
+1. Ahrens, W. H. and E. W. Stoller. 1983. Competition, growth rate, and C02 
+fixation in triazine-susceptible and -resistant smooth pigweed (Amaranth~rs 
+hybridus).Weed Sci. 31:438-444. 
+2. Alcocer-Ruthling, M., D. C. Thill, and R. Shafi. 1992. Differential competi- 
+tiveness of sulfonylurea resistant and susceptible prickly lettuce (Lactucu 
+serriola). Weed Technol. 6:303-309. 
+3. 	 Alcocer-Ruthling, M., D. C. Thill, and R. Shafi. 1992. Seed biology of 
+sulfonylurea-resistant and -susceptible biotypes of prickly lettuce (Lactuca 
+serriola). Weed Technol. 6:858-864. 
+4. 	Andersen, R. N. and J. W. GronwaId. 1987. Noncytoplasmic inheritance of 
+atrazine tolerance in velvetleaf (Abutilon theophrasti). Weed Sci. 35:49& 
+498. 
+5. Antonovics, J. 1968. Evolution in closely adjacent plant populations. VI. 
+Manifold effects of gene flow. Heredity 23507-524. 
+6. 	Amtzen, C. J. and J. H. Duesing. 1983. Chloroplast-encoded herbicide 
+resistance. Pages 273-294 in K. Downey, R. W. Voellmy, F. Ahmad, and J. 
+Schultz, eds. Advances in Gene Technology: Molecular Genetics of Plants 
+and Animals. Academic Press, New York. 
+Volume 44, Issue 1 (January-March) 1996 
+7. 	Barr, A. R., A. M. Mansooji, J. A. M. Holtum, and S. B. Powles. 1992. The 
+inheritance of herbicide resistance in Avenasterilis ssp. Iudoviciana,biotype 
+SAS 1. Proc. First Int. Weed Control Congr. 2:7@-72. 
+8. 	Beckie. H. J. and I. N. Momson. 1993. Effective kill of trifluralin-suscep- 
+tible and -resistant green foxtail (Setaria viridis). Weed Technol. 7: 15-22. 
+9. 	Bettini, P., S. McNally, M. Sevignac, H. Darmency, J. Gasquez, and M. 
+Dron. 1987. Atrazineresistance in Chenopodiurn album: low and high levels 
+of resistancc to the herbicide are related to the same chloroplast psbA gene 
+mutation. Plant Pbysiol. 84: 1442-1446. 
+10. Betts, K. J., N. J. Ehlke. D. L. Wyse, J. W. Gronwald, and D. A. Somers. 
+1992. Mechanism of inheritance of diclofop resistance in Italian ryegrass 
+(Loliltm multijlorum). Weed Sci. 40: 184-189. 
+11. Beversdorf, W. D.. D. 	J. Hume. and M. J. Donnelly-Vanderloo. 1988. 
+Agronomic performance of triazine-resistant and susceptible reciprocal 
+spring canola hybrids. Crop Sci, 28:932-934. 
+12. Bourdot. G. W., G. A. Hurrell, and D. J. Saville. 1990. Variation in MCPA- 
+resistance in Ranunculus acn's L. subsp. czcris and its correlation with 
+historical exposure to MCPA. Weed Res. 30:449-457. 
+13. Brown, A. H. D. and J. J. Burdon. 1987. Mating systems and colonizing 
+success in plants. Pages 115-131 in A. J. Gray, M. J. Crawley, and P. J. 
+Edwards, eds. Colonization, Succession, and Stability. Blackwell Scientific 
+Publ., Oxford. 
+14. Brown, A. H. D. and D. R. Marshall. 1981. Evolutionaty changes accompa- 
+nying colonization in plants. Pages 351-363 in G. G. E. Scudder and J. L. 
+Reveal, eds. Evolution Today. Proc. 2nd Int. Congress Syst. Evol. Biol. 
+Camegie-Mellon Univ., Pittsburgh. 
+15. Charlesworth, B. 1992. Evolutionary rates in partially self-fertilizing spe- 
+cies. Am. Nat. 140: 126148. 
+16. Chauvel, B. 1991. Polymorphsme genktique et sklection de la rksistance 
+aux urCes substitukes chez Alopectrrus myosuroides Huds. Ph.D. Thesis, 
+UniversitC de Paris-Sud. 130 pp. 
+17. Clark, A. G. 1984. Natural selection with nuclearand cytoplasmic transmis- 
+sion. I. A deterministic model. Genetics 107:679-701. 
+18. Conard. S. C. and S. R. Radosevich. 1979. Ecological fitness of Senecio 
+vulgaris and Amaranrhus refroflexus biotypes susceptible or resistant to 
+atrazine. J. Appl. Ecol. 16: 171-177. 
+19. Crow, J. F. and M. Kimura. 1970. An Introduction to Population Genetics 
+Theory. Harper & Row Publ., New York. 591 pp. 
+20. 	 Darmency. H. and J. Gasquez. 1981. Inheritance of triazine resistance in Poa 
+annua: consequences for population dynamics. New Phytol. 89:487493. 
+21. 	 Darmency, H. and J. Gasquez. 1985. Triazine herbicide resistance in Che-
+nopodium album L.: occurrence and characteristics of an intermediate 
+biotype. Pestic. Sci. 16:390-395. 
+22. 	 Darmency, H. and J. Gasquez. 1990. Appearance and spread of triazine 
+resistance in common lambsquarters (Chenopodium album). Weed Technol. 
+4:173-177. 
+23. 	 Darmency, H. and J. Gasquez. 1990. Fate of herbicide resistance genes in 
+weeds. Pages 353-363 in M. B. Green, W. K. Moberg, and H. LeBaron, eds. 
+Managing Resistance to Agrochenlicals: From Fundamental Research to 
+Practical Strategies. American Chemical Soc., Washington, D.C. 
+24. 	 DeGennaro. F. P. and S. C. Weller. 1984. Differential susceptibility of field 
+bindweed (Convo1vztlt~samensis)biotypes to glyposate. Weed Sci. 32:472- 
+476. 
+25. Devlin, B. and N. C. Ellstrand. 1990. The development and application of 
+a refined method for estimating gene flow from angiosperm paternity 
+analysis. Evolution 44~248-259. 
+26. Douglas, B. J., A. G. Thomas, I. N. Momson, and M. G. Maw. 1985. The 
+biology of Canadian weeds. 70. Setaria viridis (L.)Beauv. Can. J. Plant Sci. 
+65:669-690. 
+27. Duesing, J. 1983. Genetic analysis of herbicide resistance. NCWCC Pro- 
+ceedings 38:143-147. 
+28. 	 Duesing, J. H. and S. Yue. 1983. Evidence for a plastome mutator (cpm)in 
+triazine-resistant Solanum nigrum. Weed Sci. Soc. Amer. Abstr. Pages 
+77-78. 
+29. Ehrlich, P. R. and P. H. Raven. 1969. Differentiation of populations. Science 
+165:1228-1232. 
+30. 	 Ellis, M. and Q. 0.N. Kay. 1975. Genetic variation in herbicide resistance 
+in scentless mayweed (Tripleurospermurn inodorum (L.) Schultz Bip.) I. 
+Differences between populations in response to MCPA. Weed Res. 15:285- 
+293. 
+JASIENIUK ET AL.: THE EVOLUTION AND GENETICS OF HERBICIDE RESISTANCE IN WEEDS 
+31. Ellis, M. and Q. 0.N. Kay. 1975. Genetic variation in herbicide resistance 
+in scentless mayweed (Tripleurospermum inodorum (L.) Schultz Bip.) 11. 
+Intraspecific variation in response to MCPA and ioxynil, and the role of 
+spray retention characteristics. Weed Res. 15:295-304. 
+32. Ellis, M. and Q. 0.N. Kay. 1975. Genetic variation in herbicide resistance 
+in scentless mayweed (Tripleurospermum inodorum (L.) Schultz Bip.) 111. 
+Selection for increased resistance to ioxynil, MCPA and simazine. Weed 
+Res. 15:327-333. 
+33. Ellstrand, N. C. and D. L. Marshall. 1985. Interpopulation gene flow by 
+pollen in wild radish, Raphanus sativus. Am. Nat. 126:606-616. 
+34. Falconer, D. S. 1989. Introduction to Quantitative Genetics. 3rd Edition. 
+Longman Scientific & Technical, New York. 438 pp. 
+35. Faulkner, J. S. 1974. Heritability of paraquat tolerance in Lolium pererzne 
+L. Euphytica 23:281-288. 
+36. Gasquez, J. and J.-P. Compoint. 1981. Enzymatic variations in populations 
+of Chenopodium album L. resistant and susceptible to triazines. Agroeco- 
+system 7: 1-10. 
+37. Gasquez, J., A. A1 Mouemar, and H. Darmency. 1985. Triazine herbicide 
+resistance in Chenopodium album L.: occurrence and characteristics of an 
+intermediate biotype. Pestic. Sci. 16:39&395. 
+38. Gasquez, J., H. Darmency, and J.-P. Compoint. 1981. ~tude de la transmis- 
+sion de la rtsistance chloroplastique aux triazines chez Solarium nigrum L. 
+C. R. Acad. Sc. Paris, t. 292. Strie 111947-849. 
+39. Gressel, J. and G. Ben-Sinai. 1985. Low intraspecific competitive fitness in 
+a triazine-resistant, nearly nuclear-isogenic line of Brassica napus. Pages 
+489-504 in L. van Vloten-Doting, G. S. P. Groot, and T. C. Hall, eds. 
+Molecular Form and Function of the Plant Genome. Plenum Press, New 
+York. 
+40. 	 Gressel, J. and L. A. Segel. 1978. The paucity of plants evolving genetic 
+resistance to herbicides: possible reasons and implications. J. Theor. Biol. 
+75:349-371. 
+41. 	 Gressel, J. and L. A. Segel. 1982. Interrelating factors controlling the rate 
+of appearance of resistance: the outlook for the future. Pages 325-347 in H. 
+M. LeBaron and J. Gressel, eds. Herbicide Resistance in Plants. John Wiley 
+& Sons, New York. 
+42. 	 Gressel, J. and L. A. Segel. 1990. Modelling the effectiveness of herbicide 
+rotations and mixtures as strategies to delay or preclude resistance. Weed 
+Technol. 4:186198. 
+43. 	 Gressel J. and L. A. Segel. 1990. Herbicide rotations and mixtures: effective 
+strategies to delay resistance. Pages 430-458 in M. B. Green, H. M. 
+LeBaron, and W. K. Moberg, eds. Managing Resistance to Agrochemicals: 
+From Fundamental Research to Practical Strategies. American Chemical 
+Soc., Washington, D.C. 
+44. 	Haigler, W. E., B. J. Gossett, J. R. Harris, and J. E. Toler. 1994. Growth and 
+development of organic arsenical-susceptible and -resistant common cock- 
+lebur (Xanthium strumarium) biotypes under noncompetitive conditions. 
+Weed Technol. 8: 154-158. 
+45. 	 Haldane, J. B. S. 1924. A mathematical theory of natural and artificial 
+selection. I. Trans. Cambr. Phil. Soc. 23:1941. 
+46. Hamrick, J. L. 1982. Plant population genetics and evolution. Amer. J. Bot. 
+69:1685-1693. 
+47. 	 Harms, C. T. and J. J. DiMaio. 1991. Primisulfuron herbicide-resistant 
+tobacco cell lines. Application of fluctuation test design to in vitro mutant 
+selection with plant cells. J. Plant Physiol. 137:513-519. 
+48. Hartl, D. L. and A. G. Clark. 1989. Principles of Population Genetics, 2nd 
+Edition. Sinauer Associates Inc., Sunderland. 682 pp. 
+49. 	 Hirschberg, J., A. Bleecker,D. J. Kyle, L. McIntosh, andC. J. Arntzen. 1984. 
+The molecular basis of triazine-herbicide resistance in higher-plant chloro- 
+plasts. Z. Naturforsch. 39c:412-420. 
+50. 	 Hirschberg, J. and L. McIntosh. 1983. Molecular basis for herbicide resis- 
+tance in Amaranthus hybridus. Science 22:134&1349. 
+51. Holliday, R.J. and P.D. Putwain. 1980. Evolution of herbicide resistance in 
+Senecio vulgaris: variation in susceptibility to simazine between and within 
+populations. J. Appl. Ecol. 17:779-791. 
+52. Holt, 	J. S. 1988. Reduced growth, competitiveness, and photosynthetic 
+efficiency of triazine-resistant Senecio vulgaris from California. J. Appl. 
+Ecol. 25:307-318. 
+53. Holt, J. S. 1990. Fitness and ecological adaptability of herbicide-resistant 
+biotypes. Pages 419429 in M. B. Green, H. M. LeBaron, and W. K. Moberg, 
+eds. Managing Resistance to Agrochemicals: From Fundamental Research 
+to Practical Strategies. American Chemical Soc., Washington, D.C. 
+54. 	 Holt, J. S. and H. M. LeBaron. 1990. Significance and distribution of 
+herbicide resistance. Weed Technol. 4:141-149. 
+55. Holt, J. S. and S. R. Radosevich. 1983. Differential growth of two common 
+groundsel (Senecio vulgaris) biotypes. Weed Sci. 3 1: 112-120. 
+56. 	 Islam, A. K. M. R. and S. B. Powles. 1988. Inheritance of resistance to 
+paraquat in barley grass Hordeum glaucum Steud. Weed Res. 28:393-397. 
+57. Itoh, K. and S. Matsunaka. 1990. Parapatric differentiation of paraquat 
+resistant biotypes in some Compositae species. Pages 3349 in S. Kawano, 
+ed. Biological Approaches and Evolutionary Trends in Plants. Academic 
+Press, London. 
+58. Itoh, K. and M. Miyahara. 1984. Inheritance of paraquat resistance in 
+Erigeron philadelphic~ts L. Weed Res. (Japan) 29:47-52. 
+59. Jacobs, B. F., J. H. Duesing, J. Antonovics, andD. T. Patterson. 1988. Growth 
+performance of triazine-resistant and -susceptible biotypes of Solanum 
+riigrum over a range of temperatures. Can. J. Bot. 66:847-850. 
+60. Jacobsohn, R. and R. N. Andersen. 1968. Differential response of wild oat 
+lines to diallate, triallate, and barban. Weed Sci. 16:491-494. 
+61. James, J. W. 	 1965. Simultaneous selection for dominant and recessive 
+mutants. Heredity 20:142-144. 
+62. 	 Jasieniuk, M., A. L. Briilt-Babel, and I. N. Morrison. 1994. Inheritance of 
+trifluralin resistance in green foxtail (Setaria viridis). Weed Sci. 42:123- 
+127. 
+63. Jasieniuk, M., I. N. Morrison, and A. L. BNIC-Babel. 1994. Inheritance of 
+dicamba resistance in wild mustard (Brassica kaber). Weed Sci. 43:192- 
+195. 
+64. 	Lande, R. 1983. The response to selection on major and minor mutations 
+affecting a metrical trait. Heredity 50:4745. 
+65. LeBaron, H. M. 1991. Distribution and seriousness of herbicide-resistant 
+weed infestations worldwide. Pages 2743 in J. C. Caseley, G. W. Cussans, 
+and R. K. Atkin, eds. Herbicide Resistance in Weeds and Crops. Butter- 
+worth-Heinemann Ltd., Oxford. 
+66. LeBaron, H. M. and J. McFarland. 1990. Herbicide resistance in weeds and 
+crops: an overview and prognosis. Pages 336352 in M. B. Green, H. M. 
+LeBaron, and W. K. Moberg, eds. Managing Resistance to Agrochemicals: 
+From Fundamental Research to Practical Strategies. American Chemical 
+Soc., Washington, DC. 
+67. 	 Levin, D. A. 1979. The nature of plant species. Science 204:381-384. 
+68. 	 Levin, D. A. 198 1. Dispersal versus gene flow in plants. Ann. Mo. Bot. Gard. 
+68:233-253. 
+69. Levin, D. A. 1984. Immigration in plants: an exercise in the subjunctive. 
+Pages 242-260 in R. Dirzo and J. Samkhin, eds. Perspectives on Plant 
+Population Ecology. Sinauer Associates, Sunderland, Mass. 
+70. 	 Levin, D. A. and H. W. Kerster. 1974. Gene flow in seed plants. Evol. Biol. 
+7:139-220. 
+71. Macnair, M. R. 1991. Why the evolution of resistance to anthropogenic 
+toxins normally involves major gene changes: the limits to natural selection. 
+Genetica 84:213-219. 
+72. Macnair, M. R. and 	Q. R. Cumbes. 1989. The genetic architecture of 
+interspecific variation in Mimulus. Genetics 122:211-222. 
+73. 	Mallory-Smith, C. A,, D. C. Thill, M. J. Dial, and R. S. Zemetra. 1990. 
+Inheritance of sulfonylurea resistance in Lactuca spp. Weed Technol. 4:787- 
+790. 
+74. 	 Marriage, P. B. and S. I. Warwick. 1980. Differential growth and response 
+to atrazine between and within susceptible and resistant biotypes of Che- 
+nopodium album L. Weed Res. 20:9-15. 
+75. Marshall, G., R. C. Kirkwood, and G. E. Leach. 1993. Comparative studies 
+on graminicide-resistant and susceptible biotypes of Eleusirze indica. Weed 
+Res. 34: 177-185. 
+76. Matthews, J. M. and S. B. Powles. 1992. Aspects of the population dynamics 
+of selection for herbicide resistance in Lolium rigidum (Gaud.). Proc. First 
+Int. Weed Control Congr. 2:3 18-320. 
+77. 	 Maxwell, B. D. 1992. Predicting gene flow from herbicide resistant weeds 
+in annual agriculture systems. Bull. Ecol. Soc. Am. Abstr. 73:264. 
+78. 	 Maxwell, B. D. and C. Ghersa. 1992. The influence of weed seed dispersion 
+versus the effect of competition on crop yield. Weed Technol. 6: 196204. 
+79. Maxwell, B. D., M. L. Rousb, and S. R. Radosevich. 1990. Predicting the 
+evolution and dynamics of herbicide resistance in weed populations. Weed 
+Technol. 4:2-13. 
+80. 	 McCanny, S. J. and P. B. Cavers. 1988. Spread of proso millet (Panicum 
+miliaceum) in Ontario Canada. 2. Dispersal by combines. Weed Res. 28:67- 
+72. 
+Volume 44, Issue 1 (January-March) 1996 
+WEED SCIENCE 
+81. McCloskey, W. B. and J. S. Holt. 1990. Triazine resistance in 	Senecio 
+vulgaris parental and nearly isonuclear backcrossed biotypes is correlated 
+with reduced productivity. Plant Physiol. 92:954-962. 
+82. McCloskey, W. B. and J. S. Holt. 1991. Effect of growth temperature on 
+biomass production of nearly isonuclear triazine-resistant and -susceptible 
+common groundsel (Senecio vulgaris L.). Plant, Cell and Environment 
+14:699-705. 
+83. Merrell, D. J. 1968. The evolutionary role of dominant genes. Genet. Lect. 
+(Oregon) 1: 167-194. 
+84. Merrell, D. J. 1981. Ecological Genetics. University of Minnesota Press, 
+Minneapolis. 500 pp. 
+Mo*imer' A' M.' P' F. and P' D' Putwain' 1992. 
+herbicide resistance-a study of ecological fitness. Pages 283-306 in I. 
+Denholm, A. L. Devonshire, and D. W. Hollomons, eds. Achievements and 
+Developments in Combating Pesticide Resistance. Elsevier Science Pub- 
+lishers, Essex. 
+86. Mulugeta. D., P. K. Fay, and W. E. Dyer. 1992. The role of pollen in the 
+spread of sulfonylurea resistant Kochia scoparia L. (Schrad.). Weed Sci. 
+Soc. Amer. Abstr. 32:16. 
+87. Murphy, T. R., B. J. Gossett, and J. E. Toler. 1986. Growth and development 
+of dinitroaniline-susceptible and -resistant goosegrass (Eleusine indica) 
+biotypes under noncompetitive conditions. Weed Sci. 34:704-7 10. 
+88. Murray, B. G., I. N. Monison, and A. L. Bdlt-Babel. 1995. Inheritance of 
+acetyl-coAcarboxylase inhibitor resistance in wild oat (Avena farua). Weed 
+Sci. 43:233-238. 
+89. Plewa, M. J., E. D. Wagner, G. J. Gentile, and J. M. Gentile. 1984. An 
+evaluation of the genotoxic properties of herbicides following plant and 
+animal activation. Mutation Res. 136:233-245. 
+90. Powles, S. B. and P. D. Howat. 1990. Herbicide-resistant weeds in Australia. 
+Weed Technol. 4: 178-185. 
+91. Price, S. C., R. W. Allard, J. E. Hill, and J. Naylor. 1985. Associations 
+between discrete genetic loci and genetic variability for herbicide reaction 
+in plant populations. Weed Sci. 33:650-653. 
+92. Price, S. C., J. E. Hill, and R. W. Allard. 1983. Genetic variability for 
+herbicide reaction in plant populations. Weed Sci. 31:652-657. 
+93. 	 Radosevich, S. R. and J. S. Halt. 1982. Physiological responses and fitness 
+of susceptible and resistant weed biotypes to triazine herbicides. Pages 
+163-183 in H. M. LeBaron and J. Gressel, eds. Herbicide Resistance in 
+Plants. John Wiley & Sons, New York. 
+94. Roush, M. L., S. R. Radosevich, and B. D. Maxwell. 1990. Future outlook 
+for herbicide-resistance research. Weed Technol. 4:208-214. 
+95. Ryan, G. F. 1970. Resistance of common groundsel to simazine and atrazine. 
+Weed Sci. 18:614-616. 
+96. 	 Saari, L. L.,J. C. Cotterman, andD. C. Thill. 1994. Resistance to acetolactate 
+synthase inhibiting herbicides. Pages 83-139 in S. B. Powles and J. A. M. 
+Holtum, eds. Herbicide Resistance in Plants: Biology and Biochemistry. 
+Lewis Publ. Boca Raton, F1. 
+97. 	 Sagar, R. 1974. Patterns of inheritance of organelle genomes: molecular 
+basis and evolutionary significance. Pages 252-267 in C. W. Birky, Jr., P. S. 
+Perlman, and T. J. Byers, eds. Genetics and Biogenesis of Mitochondria and 
+Chloroplasts. Ohio State University Press, Columbus. 
+98. 	 Schonfeld, M., T. Yaacoby, 0. Michael, and B. Rubin. 1987. Triazine 
+resistance without reduced vigor in Phalaris paradoxa. Plant Physiol. 
+83:329-333. 
+99. 	 Schooler, A. B., A. R. Bell, and J. D. Nalewaja. 1972. Inheritance of siduron 
+tolerance in foxtail barley. Weed Sci. 20: 167-169. 
+100, Scott, K. R. and p, D.Putwain, 1981. Maternal inheritance of simazine 
+resistance in a population of Senecio vulgaris. Weed Res. 21:137-140. 
+101. Shaaltiel, Y., N.-H. Chua, S. Gepstein, and J. Gressel. 1988. Dominant 
+pleiotropy controls enzymes co-segregating with paraquat resistance in 
+Conyza bonariensis. Theor. Appl. Genet. 75:850-856. 
+102. Slatkin, M. 1985. Gene flow in natural populations. Ann. Rev. Ecol. Syst. 
+16:393430. 
+103. Slatkin, M. 1985. Rare alleles as indicators of gene flow. Evolution 39:53- 
+65. 
+104. Slatkin, M. 1987. Gene flow and the genetic structure of natural populations. 
+Science 234:787-792. 
+105. Solymosi, p,, Z, ~ ~ ~ t ~ ~ l1986, characterization , of inter.and E, ~~h~~~ki, 
+mediate biotypes in atrazine-susceptible populations of Chenopodiumpoly-
+spemum L. and A~naranthus bouchonii Thell. in Hungary. Plant Sci. 
+47: 173-179. 
+106. Somody, C. N., J. D. Nalewaja, and S. D. Miller. 1984. Wild oat (Avena 
+farua) and Avena steri!is morphological characteristics and response to 
+herbicides. Weed Sci. 32:353-359. 
+107. Souza Machado, V. and J. D. Bandeen. 1982. Genetic analysis of chloroplast 
+atrazine resistance in Brassica campestris-cytoplasmic inheritance. Weed 
+Sci. 30:281-285. 
+108. Stallings, G. P., Thill, D. C. andC. A. Mallory-Smith. 1993. Pollen-mediated 
+gene flow of sulfonylurea-resistant kochia (Kochia scoparia (L.) Schrad.). 
+Weed Sci. Soc. Amer. Abstr. 33:60. 
+109. Stowe, A. E. and J. S. Holt. 1988. Comparison of triazine-resistant and 
+-susceptible biotypes of Senecio vulgaris and their F, hybrids. Plant Physiol. 
+87:183-189. 
+110. Strickberger, M. W. 1985. Genetics. 3rd Edition. Macmillan Publishing Co., 
+New York. 842 pp. 
+111. Thai, K. M., S. Jana, and J. M. Naylor. 1985. Variability for response to 
+herbicides in wild oat (Avena fatua) populations. Weed Sci. 33:829-835. 
+112. Thompson, C. R., D. C. Thill, and B. Shafii. 1992. Germination charac- 
+teristics of sulfonylurea-resistant and -susceptible kochia (Kochia scoparia). 
+Weed Sci. 4250-56. 
+113. Thompson, C. R., D. C. Thill, and B. Shafii. 1994. Growth and competitive- 
+ness of sulfonylurea-resistant and -susceptible kochia (Kochia scoparia). 
+Weed Sci. 42:172-179. 
+114. Tilney-Bassett, R. A. E. 1974. Genetics of variegated plants. Pages 268-308 
+in C. W. Birky, Jr., P. S. Perlman, and T. J. Byers, eds. Genetics and 
+Biogenesis of Mitochondria and Chloroplasts. Ohio State University Press, 
+Columbus. 
+115. Warwick, S. 1, 1980. Differential growth between and within triazine-resis- 
+tant and triazine-susceptible biotypes of Senecio vulgaris L. Weed Res. 
+20:299-303. 
+116. Wanvick, S. I. 1991. Herbicide resistance in weedy plants: physiology and 
+population biology. Annu. Rev. Ecol. Syst. 22:95-114. 
+117. Warwick, S. I. and L. Black. 1980. Uniparental inheritance of atrazine 
+resistance in Chenopodium album L. Can. J. Plant Sci. 60:751-753. 
+118. Wanvick, S. I. and L. Black. 1981. The relative competitiveness of atrazine 
+susceptible and resistant populations of Chenopodium album and C. srric- 
+tum. Can. J. Bot. 59:689-693. 
+119. Wanvick, S. I. and P. B. Marriage. 1982. Geographical variation in popula- 
+tions of Chenopodium alburn resistant and susceptible to atrazine. I. Be-
+tween and within-population variation in growth response to atrazine. Can. 
+J. Bot. 60:483493. 
+120. Weaver, S. E. and S. I. Warwick. 1982. Competitive relationships between 
+atrazine resistant and susceptible populations of Amaranthus retroflexus and 
+A. powelli from southern Ontario. New Phytol. 92:131-139. 
+121. Weaver, S. E., S. I. Warwick, and B. K. Thompson. 1982. Comparative 
+growth and atrazine response of resistant and susceptible populations of 
+Amaranthus from southern Ontario. J. Appl. Ecol. 19:611-620. 
+122. Wright, S. 1977. Evolution and the Genetics of Populations. Val. 3. Experi- 
+mental Results and Evolutionary Deductions. Univ. of Chicago Press, 
+Chicago. 61 3 pp. 
+123. Yamasue, Y., K. Kamiyama, Y. Hanioka, and T. Kusanagi. 1992. Paraquat 
+resistance and its inheritance in seed germination of the foliar-resistant 
+biotypes of Erigeron canadensis L. and E. sumatrensis Retz. Pestic. Bio- 
+chem. Physiol. 44:21-27. 
+Volume 44, Issue 1 (January-March) 1996 
+You have printed the following article:
+The Evolution and Genetics of Herbicide Resistance in Weeds
+Marie Jasieniuk; Anita L. Brûlé-Babel; Ian N. Morrison
+Weed Science, Vol. 44, No. 1. (Jan. - Mar., 1996), pp. 176-193.
+Stable URL:
+http://links.jstor.org/sici?sici=0043-1745%28199601%2F03%2944%3A1%3C176%3ATEAGOH%3E2.0.CO%3B2-5
+This article references the following linked citations. If you are trying to access articles from an
+off-campus location, you may be required to first logon via your library web site to access JSTOR. Please
+visit your library's website or contact a librarian to learn about options for remote access to JSTOR.
+Literature Cited
+15 Evolutionary Rates in Partially Self-Fertilizing Species
+Brian Charlesworth
+The American Naturalist, Vol. 140, No. 1. (Jul., 1992), pp. 126-148.
+Stable URL:
+http://links.jstor.org/sici?sici=0003-0147%28199207%29140%3A1%3C126%3AERIPSS%3E2.0.CO%3B2-W
+18 Ecological Fitness of Senecio vulgaris and Amaranthus retroflexus Biotypes Susceptible or
+Resistant to Atrazine
+S. G. Conard; S. R. Radosevich
+The Journal of Applied Ecology, Vol. 16, No. 1. (Apr., 1979), pp. 171-177.
+Stable URL:
+http://links.jstor.org/sici?sici=0021-8901%28197904%2916%3A1%3C171%3AEFOSVA%3E2.0.CO%3B2-P
+20 Inheritance of Triazine Resistance in Poa annua: Consequences for Population Dynamics
+H. Darmency; J. Gasquez
+New Phytologist, Vol. 89, No. 3. (Nov., 1981), pp. 487-493.
+Stable URL:
+http://links.jstor.org/sici?sici=0028-646X%28198111%2989%3A3%3C487%3AIOTRIP%3E2.0.CO%3B2-4
+http://www.jstor.org
+LINKED CITATIONS
+- Page 1 of 4 -
+NOTE: The reference numbering from the original has been maintained in this citation list.
+25 The Development and Application of a Refined Method for Estimating Gene Flow From
+Angiosperm Paternity Analysis
+B. Devlin; N. C. Ellstrand
+Evolution, Vol. 44, No. 2. (Mar., 1990), pp. 248-259.
+Stable URL:
+http://links.jstor.org/sici?sici=0014-3820%28199003%2944%3A2%3C248%3ATDAAOA%3E2.0.CO%3B2-4
+29 Differentiation of Populations
+Paul R. Ehrlich; Peter H. Raven
+Science, New Series, Vol. 165, No. 3899. (Sep. 19, 1969), pp. 1228-1232.
+Stable URL:
+http://links.jstor.org/sici?sici=0036-8075%2819690919%293%3A165%3A3899%3C1228%3ADOP%3E2.0.CO%3B2-Q
+33 Interpopulation Gene Flow by Pollen in Wild Radish, Raphanus sativus
+Norman C. Ellstrand; Diane L. Marshall
+The American Naturalist, Vol. 126, No. 5. (Nov., 1985), pp. 606-616.
+Stable URL:
+http://links.jstor.org/sici?sici=0003-0147%28198511%29126%3A5%3C606%3AIGFBPI%3E2.0.CO%3B2-S
+46 Plant Population Genetics and Evolution
+J. L. Hamrick
+American Journal of Botany, Vol. 69, No. 10. (Nov. - Dec., 1982), pp. 1685-1693.
+Stable URL:
+http://links.jstor.org/sici?sici=0002-9122%28198211%2F12%2969%3A10%3C1685%3APPGAE%3E2.0.CO%3B2-R
+50 Molecular Basis of Herbicide Resistance in Amaranthus hybridus
+Joseph Hirschberg; Lee McIntosh
+Science, New Series, Vol. 222, No. 4630. (Dec. 23, 1983), pp. 1346-1349.
+Stable URL:
+http://links.jstor.org/sici?sici=0036-8075%2819831223%293%3A222%3A4630%3C1346%3AMBOHRI%3E2.0.CO%3B2-V
+51 Evolution of Herbicide Resistance in Senecio vulgaris: Variation in Susceptibility to
+Simazine Between and Within Populations
+R. J. Holliday; P. D. Putwain
+The Journal of Applied Ecology, Vol. 17, No. 3. (Dec., 1980), pp. 779-791.
+Stable URL:
+http://links.jstor.org/sici?sici=0021-8901%28198012%2917%3A3%3C779%3AEOHRIS%3E2.0.CO%3B2-I
+http://www.jstor.org
+LINKED CITATIONS
+- Page 2 of 4 -
+NOTE: The reference numbering from the original has been maintained in this citation list.
+52 Reduced Growth, Competitiveness, and Photosynthetic Efficiency of Triazine-Resistant
+Senecio Vulgaris from California
+J. S. Holt
+The Journal of Applied Ecology, Vol. 25, No. 1. (Apr., 1988), pp. 307-318.
+Stable URL:
+http://links.jstor.org/sici?sici=0021-8901%28198804%2925%3A1%3C307%3ARGCAPE%3E2.0.CO%3B2-8
+67 The Nature of Plant Species
+Donald A. Levin
+Science, New Series, Vol. 204, No. 4391. (Apr. 27, 1979), pp. 381-384.
+Stable URL:
+http://links.jstor.org/sici?sici=0036-8075%2819790427%293%3A204%3A4391%3C381%3ATNOPS%3E2.0.CO%3B2-P
+68 Dispersal Versus Gene Flow in Plants
+Donald A. Levin
+Annals of the Missouri Botanical Garden, Vol. 68, No. 2. (1981), pp. 233-253.
+Stable URL:
+http://links.jstor.org/sici?sici=0026-6493%281981%2968%3A2%3C233%3ADVGFIP%3E2.0.CO%3B2-N
+102 Gene Flow in Natural Populations
+Montgomery Slatkin
+Annual Review of Ecology and Systematics, Vol. 16. (1985), pp. 393-430.
+Stable URL:
+http://links.jstor.org/sici?sici=0066-4162%281985%2916%3C393%3AGFINP%3E2.0.CO%3B2-C
+103 Rare Alleles as Indicators of Gene Flow
+Montgomery Slatkin
+Evolution, Vol. 39, No. 1. (Jan., 1985), pp. 53-65.
+Stable URL:
+http://links.jstor.org/sici?sici=0014-3820%28198501%2939%3A1%3C53%3ARAAIOG%3E2.0.CO%3B2-1
+104 Gene Flow and the Geographic Structure of Natural Populations
+Montgomery Slatkin
+Science, New Series, Vol. 236, No. 4803. (May 15, 1987), pp. 787-792.
+Stable URL:
+http://links.jstor.org/sici?sici=0036-8075%2819870515%293%3A236%3A4803%3C787%3AGFATGS%3E2.0.CO%3B2-W
+http://www.jstor.org
+LINKED CITATIONS
+- Page 3 of 4 -
+NOTE: The reference numbering from the original has been maintained in this citation list.
+116 Herbicide Resistance in Weedy Plants: Physiology and Population Biology
+Suzanne I. Warwick
+Annual Review of Ecology and Systematics, Vol. 22. (1991), pp. 95-114.
+Stable URL:
+http://links.jstor.org/sici?sici=0066-4162%281991%2922%3C95%3AHRIWPP%3E2.0.CO%3B2-Z
+120 Competitive Relationships Between Atrazine Resistant and Susceptible Populations of
+Amaranthus retroflexus and A. powellii from Southern Ontario
+S. E. Weaver; S. I. Warwick
+New Phytologist, Vol. 92, No. 1. (Sep., 1982), pp. 131-139.
+Stable URL:
+http://links.jstor.org/sici?sici=0028-646X%28198209%2992%3A1%3C131%3ACRBARA%3E2.0.CO%3B2-%23
+121 Comparative Growth and Atrazine Response of Resistant and Susceptible Populations of
+Amaranthus From Southern Ontario
+S. E. Weaver; S. I. Warwick; B. K. Thomson
+The Journal of Applied Ecology, Vol. 19, No. 2. (Aug., 1982), pp. 611-620.
+Stable URL:
+http://links.jstor.org/sici?sici=0021-8901%28198208%2919%3A2%3C611%3ACGAARO%3E2.0.CO%3B2-Y
+http://www.jstor.org
+LINKED CITATIONS
+- Page 4 of 4 -
+NOTE: The reference numbering from the original has been maintained in this citation list.

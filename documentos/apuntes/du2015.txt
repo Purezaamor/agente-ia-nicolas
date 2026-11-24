@@ -1,0 +1,850 @@
+=== Fuente: du2015.pdf ===
+
+Review
+Fetal programming in meat production
+Min Du a,⁎,BoWanga, Xing Fu a, Qiyuan Yang a, Mei-Jun Zhu b
+a Department of Animal Sciences, Washington State University, Pullman, WA 99164, United States
+b School of Food Science, Washington State University, Pullman, WA 99164, United States
+abstractarticle info
+Article history:
+Received 5 January 2015
+Received in revised form 14 April 2015
+Accepted 16 April 2015
+Available online xxxx
+Keywords:
+Adipogenesis
+Fetal programming
+Meat
+Myogenesis
+Progenitor cells
+Quality
+Nutrient ﬂuctuations during the fetal stage affects fetal development, which has long-term impacts on the
+production efﬁciency and quality of meat. During the early development, a pool of mesenchymal progenitor
+cells proliferate and then diverge into either myogenic or adipogenic/ﬁbrogenic lineages. Myogenic progenitor
+cells further develop into muscle ﬁbers and satellite cells, while adipogenic/ﬁbrogenic lineage cells develop
+into adipocytes, ﬁbroblasts and resident ﬁbro-adipogenic progenitor cells. Enhancing the proliferation and myo-
+genic commitment of progenitor cells during fetal development enhances muscle growth and lean production in
+offspring. On the other hand, promoting the adipogenic differentiation of adipogenic/ﬁbrogenic progenitor cells
+inside the muscle increases intramuscular adipocytes and reduces connective tissue, which improves meat
+marbling and tenderness. Available studies in mammalian livestock, including cattle, sheep and pigs, clearly
+show the link between maternal nutrition and the quantity and quality of meat production. Similarly, chicken
+muscle ﬁbers develop before hatching and, thus, egg and yolk sizes and hatching temperature affect long-term
+growth performance and meat production of chicken. On the contrary, because ﬁshes are able to generate new
+muscle ﬁbers lifelong, the impact of early nutrition on ﬁsh growth performance is expected to be minor, which
+requires further studies.
+© 2015 Elsevier Ltd. All rights reserved.
+Contents
+1. Introduction............................................................... 0
+2. Programmingofskeletalmuscleandadiposetissuedevelopment....................................... 0
+2.1. Fetalprogrammingofskeletalmuscledevelopment ......................................... 0
+2.2. Fetalprogrammingoffatandconnectivetissuedevelopment ..................................... 0
+2.3. Competitive relationship between myogenesis, adipogenesis and ﬁbrogenesis.............................. 0
+2.4. Long-termeffectoffetalprogrammingonoffspring.......................................... 0
+2.5. Applicationoffetalprogrammingtomeatproduction......................................... 0
+3. Epigeneticmechanismsoffetalprogramming................................................ 0
+4. Fetal programming in poultry and ﬁsh................................................... 0
+5. Conclusions............................................................... 0
+Acknowledgments .............................................................. 0
+References.................................................................. 0
+1. Introduction
+Forage and feed deﬁciency is a common occurrence in the livestock
+industry in many areas of the world. Such deﬁciency could be due to
+drought which results in a signiﬁcant reduction in forage production
+subjecting cows and ewes to nutrient deﬁciency during gestation
+(Du et al., 2013). In addition, nutrient deﬁciency could also be due to
+the lack of feeds and the poor quality of feeds, rendering sows and
+hens to nutrient deﬁciency (Altmann et al., 2012).
+Fetal programming, also called developmental programming or fetal
+developmental programming, is the response to a speciﬁcchallengeto
+Meat Science xxx (2015) xxx–xxx
+⁎ Corresponding author. Tel.: +1 509 335 2744; fax: +1 509 335 1082.
+E-mail address: min.du@wsu.edu (M. Du).
+MESC-06683; No of Pages 8
+http://dx.doi.org/10.1016/j.meatsci.2015.04.010
+0309-1740/© 2015 Elsevier Ltd. All rights reserved.
+Contents lists available at ScienceDirect
+Meat Science
+journal homepage: www.elsevier.com/locate/meatsci
+Please cite this article as: Du, M., et al., Fetal programming in meat production, Meat Science (2015), http://dx.doi.org/10.1016/
+j.meatsci.2015.04.010
+the mammalian organism during a critical developmental time window
+that alters the trajectory of development qualitatively and/or quantita-
+tively with resulting persistent effects (Nathanielsz, Poston, & Taylor,
+2007). Studies linking fetal programming to animal performance in live-
+stock and other experimental species were initiated relatively recently.
+In these studies, both malnutrition and over-nutrition during gestation
+impacts offspring growth performance (Benyshek, Johnston, & Martin,
+2004; Bieswal et al., 2006; Bispham et al., 2003; Desai, Gayle, Babu, &
+Ross, 2005; Fernandez-Twinn, Ekizoglou, Wayman, Petry, & Ozanne,
+2006; Fernandez-Twinn et al., 2005; Ford et al., 2007; King, 2006;
+Long, Shasa, Ford, & Nathanielsz, 2012a; Long et al., 2012b; Meyer
+et al., 2013; Reynolds et al., 2010; Symonds, Pearce, Bispham, Gardner,
+& Stephenson, 2004; Vonnahme et al., 2013; Yan et al., 2013; Zambrano
+et al., 2006). Therefore, in addition to genetic background, proper fetal
+development is also important to maximize the growth potential of
+animals.
+Meat animals are raised for their skeletal muscle. The fetal stage
+is crucial for skeletal muscle development in mammalian livestock, be-
+cause there is no net increase in the muscle ﬁber number after birth
+(Stickland, 1978; Zhu, Ford, Nathanielsz, & Du, 2004). A decrease in
+the number of muscle ﬁbers due to fetal programming permanently
+reduces muscle mass and negatively affects animal performance.
+Marbling (intramuscular fat) is crucial for meat palatability and
+the fetal and neonatal stages are major stages for generation of intra-
+muscular adipocytes (Tong et al., 2008), which provide the sites for in-
+tramuscular fat accumulation or marbling formation during fattening.
+Hence, fetal programming also affects the marbling in offspring cattle.
+In addition, the overall fat accumulation in offspring is also affected by
+maternal nutrition (Zhu et al., 2006).
+In this review, we summarize recent progress in the impact of
+maternal nutrition on fetal development, focusing on myogenesis and
+intramuscular adipogenesis, as well as the impacts of fetal programming
+on the growth performance and meat quality of offspring of mammalian
+livestock. In the end, as a comparison, we also discuss the possible
+impacts of fetal programming on poultry and ﬁsh production.
+2. Programming of skeletal muscle and adipose tissue development
+2.1. Fetal programming of skeletal muscle development
+Muscle cells, adipocytes and ﬁbroblasts are all derived from
+the mesoderm. Speciﬁcally, skeletal muscle cells are developed from
+dermomyotome during the early embryonic development, while adipo-
+cyte progenitors are derived from lateral mesoderm (Fig. 1). Mesoderm
+cells undergoing myogenic commitment initially become Pax3+ and
+then Pax7 +; and the subsequent expression of Myf5 commits these
+cells to the myogenic lineage. Myogenic differentiation involves the se-
+quential expression of MyoD, myogenin and MYF-4 (Buckingham et al.,
+2003; Collins et al., 2009). These myogenic transcription factors then
+initiate the expression of myogenic speciﬁc genes including embryonic
+myosin heavy chain. Interestingly, brown adipocytes can be developed
+from Myf5 + cells during fetal development (Seale et al., 2008). Recently,
+there is a new pool of brown-like adipocytes identiﬁed in adipose tissue,
+so called beige adipocytes. These cells also express UCP-1, generating
+heat (Harms & Seale, 2013). Selected markers for satellite cells, muscle
+ﬁbers, ﬁbroblasts, brown and beige adipocytes are listed in Table 1.
+Ontogenetically, the early skeletal muscle development can be sepa-
+rated into primary myogenesis and secondary myogenesis. Primary
+myoﬁbers form ﬁrst during the embryonic stage, followed by the forma-
+tion of secondary myoﬁbers which accounts for the majority of muscle
+ﬁbers in adults (Beermann, Cassens, & Hausman, 1978). There is no fur-
+ther increase in muscle ﬁbers after birth, and postnatal muscle growth is
+mainly due to increase in muscle ﬁber size without forming new muscle
+ﬁbers (Karunaratne, Ashton, & Stickland, 2005; Stickland, 1978). Satel-
+lite cells are derived from fetal myoblasts, which become quiescent
+and locate surrounding mature muscle ﬁbers in postnatal muscle. The
+asymmetrical proliferation and myogenic differentiation of satellite
+cells, and their fusion with existing muscle ﬁbers are crucial for postna-
+tal muscle growth (Kuang, Kuroda, Le Grand, & Rudnicki, 2007).
+Since the majority of muscle ﬁbers, if not all, form during the fetal
+stage and myogenesis requires large amount of nutrients (Rehfeldt &
+Fig. 1. Early mesoderm development and the commitment of mesenchymal progenitor cells into myogenic and ﬁbro-adipogenic cell lineages during fetal muscle development.
+2 M. Du et al. / Meat Science xxx (2015) xxx–xxx
+Please cite this article as: Du, M., et al., Fetal programming in meat production, Meat Science (2015), http://dx.doi.org/10.1016/
+j.meatsci.2015.04.010
+Kuhn, 2006), muscle development during this stage is vulnerable to
+maternal nutrient deﬁciency (Zhu et al., 2004). Furthermore, skeletal
+muscle has a lower priority in nutrient partitioning during fetal devel-
+opment when compared to organs, such as the brain, heart and liver,
+which render skeletal muscle development particularly vulnerable to
+nutrient availability (Zhu et al., 2006). In the bovine fetus, primary mus-
+cle ﬁbers form within the ﬁrst 2 month post-conception, which only
+accounts for a limited number of muscle ﬁbers (Russell & Oteruelo,
+1981). Conversely, the majority of muscle ﬁbers form in the fetal stage
+between 2 and 7 months of gestation in cattle (Russell & Oteruelo,
+1981). Reduction in the formation of muscle ﬁbers during this
+stage reduces muscle ﬁber number and muscle mass, negatively
+affecting growth performance of offspring (Stannard & Johnson, 2004;
+Zambrano et al., 2005; Zhu et al., 2006). Skeletal muscle matures
+at late gestation in sheep (approximately day 105 of gestation) and
+cattle (approximately day 210 of gestation or slightly earlier) (Picard,
+Gagniere, Robelin, & Geay, 1995), and nutrient restriction after this
+stage has no major impact on muscle ﬁber number. Maternal nutrient
+restriction during the late gestation reduces fetal sheep muscle ﬁber
+size but not the number (Du et al., 2010). However, based on rodent
+studies, maternal nutrient restriction during late gestation reduces
+satellite cell density, which may affect postnatal muscle growth and
+muscle regeneration (Woo et al., 2011).
+2.2. Fetal programming of fat and connective tissue development
+Intramuscular fat (i.e., marbling) is crucial for the palatability of beef
+because marbling contributes to both ﬂavor and juiciness. The amount
+of intramuscular fat is determined by the number and size of intramus-
+cular adipocytes. Fetal programming has a major effect on the number
+of adipocytes in offspring. Adipocyte progenitors are derived from later-
+al mesoderm, and likely have an endothelial origin. These progenitor
+cells also have ﬁbrogenic capacity and named ﬁbro/adipogenic progen-
+itors (FAPs) (Joe et al., 2010; Uezumi, Fukada, Yamamoto, Takeda, &
+Tsuchida, 2010; Uezumi et al., 2011). Platelet derived growth factor re-
+ceptor α (PDGFRα) positive cells are progenitors for adipogenesis
+(Table 1)(Catalano & Hauguel-De Mouzon, 2011; Joe et al., 2010;
+Uezumi et al., 2010; Uezumi et al., 2011). Stem cell antigen-1 (Sca-1)
+is another marker for adipogenic progenitors, and PDGFRα+/CD45 −
+and Sca-1 +/CD34 +/CD45− mark the similar pool of progenitor cells
+possessing high adipogenic capacity (Joe et al., 2010; Tan, Eminli,
+Hettmer, Hochedlinger, & Wagers, 2011; Uezumi et al., 2010; 2011),
+with more than 85% cells identical (Joe et al., 2010). Progenitors and
+preadipocytes account for about 15 to 50% of stromal vascular cells in
+adipose tissue (Catalano & Hauguel-De Mouzon, 2011; Sepe, Tchkonia,
+Thomou, Zamboni, & Kirkland, 2011). These cells reside in the adipose
+vasculature. The source of these cells remains to be established, but a
+large portion of FAPs are formed during fetal development (Yang
+et al., 2013). During the fetal stage, it appears that mesoderm-derived
+precursors with the capacity to differentiate into both endothelial and
+mesenchymal lineage cells, called mesenchymoangioblasts, are formed
+ﬁrst, and mesenchymal cells further develop into FAPs (Fig. 1). Indeed,
+adipose development in the fetuses initiates with the formation of cap-
+illary vessels in the spaces between mesenchymal tissues (Hausman &
+Dodson, 2013).
+During postnatal development, a portion of FAPs remain in the stro-
+mal vascular fraction of adipose tissue, which becomes the source of
+preadipocytes and adipocytes during later adipose tissue development
+(Du et al., 2013; Huang, Das, Yang, Zhu, & Du, 2012a). Adipogenesis
+can be separated into two stages, adipogenic commitment and
+adipogenic differentiation, which are regulated by Zfp423 and peroxi-
+some proliferator-activated receptor γ (PPARγ) respectively (Farmer,
+2006; Gupta et al., 2010; 2012; Rosen & MacDougald, 2006; Spiegelman
+& Flier, 1996; Vernochet, Peres, & Farmer, 2009).
+Adipogenesis and neovascularization are temporally and spatially
+associated processes (Cao, 2007). During embryogenesis, the primitive
+fat organs are formed at the perivascular site (Hausman & Richardson,
+1982). Preadipocytes migrate toward developing capillary network
+to develop adipose tissue, a process regulated by αvβ3integrin
+and plasminogen activator inhibitor 1, which are expressed in
+both preadipocytes and capillary endothelial cells (Crandall, Busler,
+McHendry-Rinde, Groeling, & Kral, 2000). Maternal food restriction
+inhibits the expression of vascular epithelial growth factor (VEGF) in
+microvascular and aortic endothelial cells during fetal development,
+which decreases angiogenesis (Khorram et al., 2007). As adipose tissue
+development is closely associated with capillary network development,
+impaired neovascularization negatively affects fetal adipose develop-
+ment. However, because adipose tissue has high plasticity, compensatory
+growth of adipose tissue often result in fatter offspring born to nutrient
+restricted mothers. Such growth is frequently associated with increased
+feed intake and adipocyte hypertrophy (Gonzalez-Bulnes et al., 2012;
+Zhu et al., 2006).
+The initial events of adipose tissue development, including the for-
+mation of a vascular network in future adipose tissue, initiates at a com-
+parable time with primary myogenesis (Feve, 2005; Gnanalingham,
+Mostyn, Symonds, & Stephenson, 2005; Muhlhausler, Dufﬁeld, &
+McMillen, 2006). Roughly, the stage of adipogenic commitment over-
+laps with the period of secondary myogenesis, and the major formation
+of adipocytes occurs during late gestation to early weaning stages. Thus,
+maternal nutritional management during this period affects adipocyte
+hyperplasia, which alters overall adipose tissue development, as well
+as intramuscular adipocyte density and thus marbling (Du et al., 2013).
+The adipose tissue development is inseparable from the connective
+tissue formation. Actually, adipose tissue is considered as a specialized
+connective tissue. Accompanying adipogenesis, ﬁbrogenesis is also on-
+going, together forming the adipose tissue and associated connective
+tissue. Because both adipogenesis and ﬁbrogenesis share a common cell
+lineage, a positive correlation between adipogenesis and ﬁbrogenesis is
+expected. Consistently, in genetically high marbling Wagyu cattle, both
+intramuscular adipogenesis and collagen accumulation are higher than
+relatively low marbling Angus cattle (Duarte et al., 2013). Fibroblasts
+also synthesize connective tissue surrounding muscle bundles, together
+Table 1
+Markers for major progenitors and differentiated cells during muscle and adipose tissue development.
+Cell name Markers References
+Satellite cells Pax7, Integrin α7 Conboy, Cerletti, Wagers, and Conboy (2010) and Lapin, Gonzalez, and Johnson (2013)
+Muscle ﬁbers Myosin heavy chain Cassar-Malek et al. (2010) and Fu et al. (2013)
+Brown adipocytes Zic1, Lhx8, UCP-1 Petrovic et al. (2010) and Wu et al. (2012)
+Beige adipocytes Cd137, Tmem26, Tbx1, UCP-1 Lidell et al. (2013), Petrovic et al. (2010) and Wu et al. (2012)
+Fibroblasts FSP1 Strutz et al. (1995)
+White adipocytes FABP4, perilipin Brasaemle, Subramanian, Garcia, Marcinkiewicz, and Rothenberg (2009) and
+Wang, Guan, Li, and Bernlohr (2009)
+Fibro/adipogenic progenitors PDGFRα, Sac-1 Joe et al. (2010), Uezumi et al. (2010) and Uezumi et al. (2011)
+Preadipocytes Zfp423, PPARγ Huang et al. (2012a) and Yang et al. (2013)
+Abbreviations: Cd137: tumor necrosis factor receptor superfamily member 9; FABP4: fatty acid binding protein 4; FSP1: ﬁbroblast-speciﬁc protein 1; Lhx8: LIM homeobox 8; Pax7: paired
+box protein 7; P4H: prolyl 4-hydroxylase; PDGFRα: platelet-derived growth factor receptor α; Sac-1: stem cell antigen-1; Tbx1: T-box protein 1; Tmem26: transmembrane protein 26;
+UCP-1: uncoupling protein-1; Zic1: Zic family member 1.
+3M. Du et al. / Meat Science xxx (2015) xxx–xxx
+Please cite this article as: Du, M., et al., Fetal programming in meat production, Meat Science (2015), http://dx.doi.org/10.1016/
+j.meatsci.2015.04.010
+forming the basic structure of muscle. Limited studies also show that
+maternal nutrition alters ﬁbrogenesis in fetal skeletal muscle and affects
+the collagen content in the skeletal muscle of progeny. Piglets with
+lower birth-weight compared to their littermates experience nutrient
+deﬁciency due to improper placental nutrient delivery. When compared
+to their littermates, grown pigs with lower birth-weight have a higher
+content of collagen in their skeletal muscle (Karunaratne et al., 2005).
+Overall, our understanding of ﬁbrogenesis in livestock is very limited
+and more studies on the association among maternal nutrition,
+ﬁbrogenesis, and collagen accumulation in offspring muscle are needed.
+2.3. Competitive relationship between myogenesis, adipogenesis and
+ﬁbrogenesis
+As previously discussed, both skeletal muscle cells and adipocytes
+are derived from the mesoderm during the embryonic stage, early
+myogenesis and adipo/ﬁbrogenesis can be considered as a competitive
+process. As much, enhanced muscle growth, such as double muscling
+cattle, is associated with lower marbling. Interestingly, in our studies
+with Wagyu cattle, we found that myogenesis was lower but intramus-
+cular adipogenesis was higher in Wagyu cattle compared to Angus
+cattle (Duarte et al., 2013).
+Because adipogenic and ﬁbrogenic cells share immediate common
+progenitor cells, it provides an opportunity for us to manipulate the
+differentiation of progenitor cells to favor adipogenesis. Enhancing adi-
+pogenesis in developing muscle increases intramuscular fat, thereby
+improving beef ﬂavor. On the other hand, less ﬁbrogenic differentiation
+reduces intramuscular connective tissue, thereby decreasing back-
+ground toughness of beef. In combination, the eating quality of beef
+can be improved. However, the mechanisms determining adipogenic
+or ﬁbrogenic differentiation remain to be deﬁned. In our previous
+studies, we found that Zfp423 is a critical regulator of adipogenic
+differentiation. Over-expression of Zfp423 in stromal-vascular cells
+separated from beef cattle enhanced adipogenic differentiation, while
+knockdown of Zfp423 attenuated adipogenic capacity. Furthermore,
+higher adipogenic differentiation due to enhanced Zfp423 expression
+reduces ﬁbrogenesis (Huang et al., 2012a). Therefore, Zfp423 may pro-
+vide a molecular target for enhancing intramuscular adipogenesis and
+marbling in beef cattle, while reducing intramuscular collagen accumu-
+lation and toughness of beef. Factors which can strengthen Zfp423
+expression or enhance its function as a transcription factor are expected
+to enhance adipogenesis and marbling in beef cattle. For example, vita-
+min A supplementation can increase Zfp423 expression (Reichert et al.,
+2011; Yasmeen, Jeyakumar, Reichert, Yang, & Ziouzenkova, 2012), and
+its supplementation during a critical stage for intramuscular adipose
+development is expected to enhance marbling.
+2.4. Long-term effect of fetal programming on offspring
+Fetal programming has long-term effects on offspring performance.
+Lambs from dams subjected to nutrient restriction during mid-gestation
+were fatter and had a lower lean to fat ratio than their counterparts
+(Zhu et al., 2006). Piglets with lower birth-weight compared to their
+littermates are fatter and have a low growth efﬁciency compared to
+normal littermates (Wigmore & Stickland, 1983). Restriction in protein
+intake during pregnancy reduces the size of progeny pigs (Pond, Yen,
+Mersmann, & Maurer, 1990). Similarly, in sheep and beef cattle, nutrient
+deﬁciency impairs muscle growth and increases overall fatness
+(Funston, Larson, & Vonnahme, 2010; Funston & Summers, 2013;
+Greenwood & Cafe, 2007). Maternal nutritional status may inﬂuence
+fetal adipose tissue development by changing the prevailing glucose en-
+vironment (Symonds & Lomax, 1992; Symonds, Pope, Sharkey, & Budge,
+2012). During the early and middle gestation, maternal nutrition
+restriction enhances glucose exchange capacity (Dandrea et al., 2001;
+Heasman, Clarke, Firth, Stephenson, & Symonds, 1998)andmayin-
+crease sensitivity to insulin-like growth factor-1 (IGF1) to promote
+adipose development (Symonds et al., 2012). Once the maternal dietary
+intake is restored in the late stage of gestation, fetal glucose supply is in-
+creased and lead to fetal adiposity (Bispham et al., 2005; Zhu et al.,
+2006). In addition, the reduced muscle mass due to maternal nutrient
+deﬁciency reduces nutrient consumption in the muscle, and the exces-
+sive energy is diverted to adipose development and lipid accumulation,
+increasing the overall fatness of offspring.
+Up to now, most studies in livestock focus on the effect of maternal
+nutrient deﬁciency on the performance of offspring. In addition, increas-
+ing evidence also points the impact of maternal over-nutrition on fetal
+development. Over-feeding of sows from conception to day 50 of
+gestation increased offspring fatness at birth, and the muscle ﬁber
+type composition of progeny was altered due to maternal nutritional
+management (Bee, 2004). Rats born to mothers fed a high fat diet either
+during gestation alone or during both gestation and lactation exhibited
+a 25% reduction in muscle cross-sectional area with approximately 20%
+fewer ﬁbers compared with pups born to mothers fed a balanced chow
+diet (Bayol, Simbi, & Stickland, 2005). In sheep, maternal over-nutrition
+enhances intramuscular adipocyte density of fetuses at the late gesta-
+tion (Yan et al., 2010) and also the resulting lambs (Huang et al.,
+2012b; Yan et al., 2011). Besides enhanced adipocyte development
+due to maternal obesity, maternal over-nutrition or obesity increases
+fetal circulatory leptin levels (Kleiblova et al., 2010; Uzelac et al.,
+2010), which may induce leptin resistance in the offspring and lead to
+hyperphagia (Rooney & Ozanne, 2011).
+The maternal impact on offspring growth and development is not
+only limited to the fetal stage, and increasing evidence points to the
+importance of lactation nutrition on offspring adipose development.
+Maternal high energy intake during lactation affects milk composition,
+which has long-term effect on the offspring metabolism (Vogt et al.,
+2014). Maternal milk composition is altered by maternal diet, providing
+another opportunity to alter neonatal nutrition and thus, offspring
+development and subsequent meat production.
+2.5. Application of fetal programming to meat production
+In many parts of the world, drought is a recurring meteorological
+problem, which reduces forage production. As a result, sheep and cattle,
+which primarily depend on forage, undergo periodic nutrient deﬁciency.
+Due to the seasonal nature of cow and sheep reproduction, they fre-
+quently experience nutrient deﬁciency during pregnancy due to limited
+forage availability. Maternal nutrient deﬁciency potentially reduce mus-
+cle ﬁber numbers, decrease marbling and increase overall fatness of off-
+spring animals (Du et al., 2013). To avoid negative effects of nutrient
+deﬁciency on meat production of offspring, nutrient supplementation
+is needed. Nutrient supplementation during the second trimester
+in ruminant animals promotes muscle development, which increase
+muscle mass and overall production efﬁciency of offspring (Du et al.,
+2010), while supplementation at late gestation only increases muscle
+ﬁber sizes without change in muscle ﬁber number (Du et al., 2011;
+Greenwood & Cafe, 2007). On the other hand, nutrient supplementation
+at middle to late gestation, a stage corresponding to adipose tissue
+development, promotes adipogenesis (Underwood et al., 2008).
+Marbling is correlated with the number and size of adipocytes inside
+the skeletal muscle. Increased adipogenesis in fetal muscle leads to
+an increase in the number of intramuscular adipocytes. These intramus-
+cular adipocytes accumulate fat during post-natal growth, forming
+marbling. For calves which experienced nutrient deﬁciency during late
+gestation and lactation stages, there are less intramuscular progenitors
+formed, which limits marbling formation during the ‘ﬁnishing’ phase.
+Therefore, maternal nutritional management to increase adipogenesis
+in fetal muscle is an effective method for promoting marbling
+(Du et al., 2013). The approximate timelines for muscle and adipose
+tissue development for beef cattle are depicted in Fig. 2.Moredetailed
+information is available in our previous publications (Du et al., 2010;
+Du et al., 2013).
+4 M. Du et al. / Meat Science xxx (2015) xxx–xxx
+Please cite this article as: Du, M., et al., Fetal programming in meat production, Meat Science (2015), http://dx.doi.org/10.1016/
+j.meatsci.2015.04.010
+3. Epigenetic mechanisms of fetal programming
+While the genotype associated with high efﬁciency and quality of
+meat production can be improved through genetic selection, the growth
+efﬁciency of animals is also profoundly affected by epigenetic changes.
+Environmental factors, especially nutrients, available for fetuses shape
+the epigenetic landscapes of cells and tissues relevant to meat produc-
+tion. During animal early development, stem cells and progenitor cells
+maintain their pluri- or multi-potency through reversible inhibition of
+lineage-speciﬁc genes while allowing genes for self-renewal to express
+(Meissner et al., 2008a,b; Mohn et al., 2008). Polycomb repression com-
+plexes (PRCs), including PRC1 and 2, are mainly responsible for revers-
+ible inhibition of genes. One core component of PRC2 is EZH2 (Enhancer
+of Zeste 2), which catalyzes histone 3 lysine 27 trimethylation
+(H3K27me3) (McCabe et al., 2012; Qi et al., 2012), a marker for gene
+silencing (Bernstein et al., 2006). One the other hand, trithorax group
+(trxG) catalyzes H3K4 trimethylation (H3K4me3), which activates
+gene transcription (Schuettengruber, Martinez, Iovino, & Cavalli,
+2011). Interestingly, H3K4me3 and H3K27me3 co-exist, forming a
+‘bivalent state’, which poise genes for activation or inhibition
+(Meissner et al., 2008a,b; Mikkelsen et al., 2007). Most divalent genes
+are key developmental genes; during differentiation, non-induced biva-
+lent developmental genes lost active H3K4me3 but kept repressive
+H3K27me3 mark (Schuettengruber & Cavalli, 2009), leading to largely
+permanent inhibition of gene expression by inducing DNA methylation
+(Mohn et al., 2008).
+In our previous studies, we observed that adipogenic differentiation
+was enhanced in fetuses of obese dams (Yan et al., 2010; Zhu et al.,
+2008), and increased intramuscular fat content in offspring (Yan et al.,
+2011), as well as overall adiposity (Samuelsson et al., 2008; Tong
+et al., 2011). Our bioinformatics analyses show that the Zfp423 promot-
+er presents exceptionally rich CpG sites and islands, meeting the charac-
+teristics of “key developmental gene” with high CpG density promoters
+(Meissner et al., 2008a,b). We observed that maternal obesity reduced
+DNA methylation in the Zfp423 promoter by about 50% (Yang et al.,
+2013), which aligned with the higher expression of Zfp423 in obese
+fetal tissue. Our data has been independently conﬁrmed by another
+study in rats (Borengasser et al., 2013). In addition, the H3K27me3
+and EZH2 levels in the Zfp423 promoter were lower in obese compared
+to control fetal tissue, consistent with the lower DNA methylation and
+the high expression of Zfp423. We further observed that the DNA meth-
+ylation changes in adipogenic progenitor cells during the fetal stage has
+long-term impacts on the DNA methylation and adipogenic capacity of
+adipogenic progenitor cells separated from offspring fat (Unpublished
+data). Similar epigenetic changes likely occur in other tissues and organs
+(Sebert, Sharkey, Budge, & Symonds, 2011; Simmons, 2011). In summary,
+epigenetic changes during early fetal development alters epigenetic
+signature in progenitor cells and likely differentiated cells in offspring
+adipose tissue, providing a key mechanism linking maternal nutrition to
+long-term performance of offspring.
+4. Fetal programming in poultry and ﬁsh
+Up to date, studies on fetal programming mainly focuses on
+mammalian species, and the impact of maternal nutrition on poultry
+is far less studied. Similar to mammals, the muscle development in
+chicken is mainly accomplished during the embryonic stage (in ovo)
+(Al-Musawi, Lock, Simbi, Bayol, & Stickland, 2011; Velleman, 2007),
+and environmental factors affect embryo development. A recent study
+compared the effect of exposure to high hatching temperature on the
+growth performance of chicken. Brieﬂy, eggs were challenged with
+39.5 °C for 12 h/d between E7 to E16 compared to 37.8 °C. Chicken
+were harvested at day 35 and day 70, and found that the exposure to
+a high incubation temperature reduced abdominal fat pad by 8% but in-
+creased breast muscle yield (Loyau et al., 2013), and the feed conversion
+ratio was also improved (Piestun, Druyan, Brake, & Yahav, 2013), clearly
+showing the programming effect of early development on the subse-
+quent performance of chicken. In another study, the impact of incuba-
+tion temperature (37.5 versus 38.5 °C) on muscle development of
+chicken embryos of laying hens and broilers was compared, and found
+that high incubation temperature enhanced muscle growth only in
+laying chicks (Al-Musawi, Stickland, & Bayol, 2012). In a recent study,
+the effect of eggshell temperature on the hatchability of chicks and
+their growth performance was compared and found that hatching
+temperature affects the feed efﬁciency and body weight (Ipek, Sahan,
+Baycan, & Sozcu, 2014). Interestingly, low-protein diet to hens reduced
+the hatching weight of chicks; however, these chicks demonstrated
+faster post-hatch growth and resulted in heavier chicken at harvest
+(Rao et al., 2009). Besides, hatching temperature, the egg sizes
+determine the nutrients available for embryo development, which is
+expected to impact the growth performance of chicken. In summary,
+despite limited studies, available evidence strongly support that envi-
+ronmental factors during hatching has impacts on the long-term growth
+performance of chicks.
+The ﬁsh consumption is increasing rapidly, mainly due to their
+health beneﬁcial effects compared to red meat. Compared to mam-
+malian livestock and poultry, ﬁsh has similar mechanisms regulating
+myogenesis and adipogenesis (Rescan, 2001). However, ﬁsh has life-
+long capacity to generate new muscle ﬁbers (Rossi & Messina, 2014).
+Due to such plasticity in growth and development, the effects of hatch-
+ing and early development on the long-term growth and performance
+of ﬁsh are expected to be small. However, more studies are needed to
+Fig. 2. Approximate timelines for skeletal muscle and adipose tissue development of beef cattle. Nutrient deﬁciency during the speciﬁc periods of cattle development negatively affects
+muscle and fat development either through reducing cell numbers (hyperplasia) or sizes (hypertrophy). On the other hand, nutrient supplementation enhances muscle ﬁber number
+or sizes, or adipocyte number or sizes correspondingly.
+5M. Du et al. / Meat Science xxx (2015) xxx–xxx
+Please cite this article as: Du, M., et al., Fetal programming in meat production, Meat Science (2015), http://dx.doi.org/10.1016/
+j.meatsci.2015.04.010
+test the impact of early growth and development on the long-term
+growth performance of ﬁsh.
+5. Conclusions
+Available studies clearly show that maternal nutrition affects the de-
+velopment of fetal skeletal muscle and adipose tissue, which exert long-
+term effects on the growth performance and meat quality of offspring.
+In mammalian livestock and poultry, maternal under-nutrition during
+fetal development reduces skeletal muscle ﬁber number, increases
+fatness and reduces growth performance of progeny. Proper nutrient
+supplementation, however, improves fetal skeletal muscle develop-
+ment and adipogenesis in fetal and pre-weaning skeletal muscle,
+enhancing marbling in offspring. Increasing evidence also demonstrates
+the programming effects of hatching temperature on the growth perfor-
+mance of chicken. Up to now, very few evidence is available regarding to
+the ﬁsh. More studies on the programming effects of chicken and ﬁsh
+are apparently needed.
+Acknowledgments
+This project was supported by the National Research Initiative Com-
+petitive Grant no. 2015-67015-23219 from the USDA National Institute
+of Food and Agriculture.
+References
+Al-Musawi, S. L., Lock, F., Simbi, B. H., Bayol, S. A., & Stickland, N. C. (2011). Muscle speciﬁc
+differences in the regulation of myogenic differentiation in chickens genetically selected
+for divergent growth rates. Differentiation, 82(3), 127–135.
+Al-Musawi, S. L., Stickland, N. C., & Bayol, S. A. (2012). In ovo temperature manipulation differen-
+tially inﬂuences limb musculoskeletal development in two lines of chick embryos selected
+for divergent growth rates. Journal of Experimental Biology, 215(Pt 9), 1594–1604.
+Altmann, S., Murani, E., Schwerin, M., Metges, C. C., Wimmers, K., & Ponsuksili, S. (2012). Maternal
+dietary protein restriction and excess affects offspring gene expression and methylation of
+non-SMC subunits of condensin I in liver and skeletal muscle. Epigenetics, 7(3), 239–252.
+Bayol, S. A., Simbi, B. H., & Stickland, N. C. (2005). A maternal cafeteria diet during gestation and
+lactation promotes adiposity and impairs skeletal muscle development and metabolism in
+rat offspring at weaning. Journal of Physiology, 567(Pt 3), 951–961.
+Bee, G. (2004). Effect of early gestation feeding, birth weight, and gender of progeny on muscle
+ﬁber characteristics of pigs at slaughter. Journal of Animal Science, 82(3), 826–836.
+Beermann, D. H., Cassens, R. G., & Hausman, G. J. (1978). A second look at ﬁber type differenti-
+ation in porcine skeletal muscle. Journal of Animal Science, 46(1), 125–132.
+Benyshek, D. C., Johnston, C. S., & Martin, J. F. (2004). Post-natal diet determines insulin
+resistance in fetally malnourished, low birthweight rats (F1) but diet does not modify the
+insulin resistance of their offspring (F2). Life Sciences, 74(24), 3033–3041.
+Bernstein, B. E., Mikkelsen, T. S., Xie, X., Kamal, M., Huebert, D. J., Cuff, J., et al. (2006). A bivalent
+chromatin structure marks key developmental genes in embryonic stem cells. Cell, 125(2),
+315–326.
+Bieswal, F., Ahn, M. T., Reusens, B., Holvoet, P., Raes, M., Rees, W. D., et al. (2006). The importance
+of catch-up growth after early malnutrition for the programming of obesity in male rat.
+Obesity (Silver Spring), 14(8), 1330–1343.
+Bispham, J., Gardner, D. S., Gnanalingham, M. G., Stephenson, T., Symonds, M. E., & Budge, H.
+(2005). Maternal nutritional programming of fetal adipose tissue development: Differential
+effects on messenger ribonucleic acid abundance for uncoupling proteins and peroxisome
+proliferator-activated and prolactin receptors. Endocrinology, 146(9), 3943–3949.
+Bispham, J., Gopalakrishnan, G. S., Dandrea, J., Wilson, V., Budge, H., Keisler, D. H., et al. (2003).
+Maternal endocrine adaptation throughout pregnancy to nutritional manipulation: Conse-
+quences for maternal plasma leptin and cortisol and the programming of fetal adipose
+tissue development. Endocrinology, 144(8), 3575–3585.
+Borengasser, S. J., Zhong, Y., Kang, P., Lindsey, F., Ronis, M. J., Badger, T. M., et al. (2013). Maternal
+obesity enhances white adipose tissue differentiation and alters genome-scale DNA
+methylation in male rat offspring. Endocrinology, 154(11), 4113–4125.
+Brasaemle, D. L., Subramanian, V., Garcia, A., Marcinkiewicz, A., & Rothenberg, A. (2009).
+Perilipin A and the control of triacylglycerol metabolism. Molecular and Cellular Biochemistry,
+326(1–2), 15–21.
+Buckingham, M., Bajard, L., Chang, T., Daubas, P., Hadchouel, J., Meilhac, S., et al. (2003). The
+formation of skeletal muscle: From somite to limb. Journal of Anatomy, 202(1), 59–68.
+Cao, Y. (2007). Angiogenesis modulates adipogenesis and obesity. Journal of Clinical Investigation,
+117(9), 2362–2368.
+Cassar-Malek, I., Picard, B., Jurie, C., Listrat, A., Guillomot, M., Chavatte-Palmer, P., et al. (2010).
+Myogenesis is delayed in bovine fetal clones. Cellular Reprogramming, 12(2), 191–201.
+Catalano, P. M., & Hauguel-De Mouzon, S. (2011). Is it time to revisit the Pedersen hypothesis in
+the face of the obesity epidemic? American Journal of Obstetrics and Gynecology, 204(6),
+479–487.
+Collins, C. A., Gnocchi, V. F., White, R. B., Boldrin, L., Perez-Ruiz, A., Relaix, F., et al. (2009). Inte-
+grated functions of Pax3 and Pax7 in the regulation of proliferation, cell size and myogenic
+differentiation. PloS One, 4(2), e4475.
+Conboy, M. J., Cerletti, M., Wagers, A. J., & Conboy, I. M. (2010). Immuno-analysis and FACS
+sorting of adult muscle ﬁber-associated stem/precursor cells. Methods in Molecular
+Biology, 621,165–173.
+Crandall, D. L., Busler, D. E., McHendry-Rinde, B., Groeling, T. M., & Kral, J. G. (2000). Autocrine
+regulation of human preadipocyte migration by plasminogen activator inhibitor-1. Journal
+of Clinical Endocrinology and Metabolism, 85(7), 2609–2614.
+Dandrea, J., Wilson, V., Gopalakrishnan, G., Heasman, L., Budge, H., Stephenson, T., et al. (2001).
+Maternal nutritional manipulation of placental growth and glucose transporter 1 (GLUT-1)
+abundance in sheep. Reproduction, 122(5), 793–800.
+Desai, M., Gayle, D., Babu, J., & Ross, M. G. (2005). Programmed obesity in intrauterine growth-
+restricted newborns: Modulation by newborn nutrition. American Journal of Physiology.
+Regulatory, Integrative and Comparative Physiology, 288(1), R91–R96.
+Du, M., Huang, Y., Das, A. K., Yang, Q., Duarte, M. S., Dodson, M. V., et al. (2013). Meat science and
+muscle biology symposium: Manipulating mesenchymal progenitor cell differentiation to
+optimize performance and carcass value of beef cattle. Journal of Animal Science, 91(3),
+1419–1427.
+Du, M., Tong, J., Zhao, J., Underwood, K. R., Zhu, M., Ford, S. P., et al. (2010). Fetal programming of
+skeletal muscle development in ruminant animals. Journal of Animal Science, 88,E51–E60.
+Du, M., Zhao, J. X., Yan, X., Huang, Y., Nicodemus, L. V., Yue, W., et al. (2011). Fetal muscle devel-
+opment, mesenchymal multipotent cell differentiation, and associated signaling pathways.
+Journal of Animal Science, 89(2), 583–590.
+Duarte, M. S., Paulino, P. V., Das, A. K., Wei, S., Serao, N. V., Fu, X., et al. (2013). Enhancement of
+adipogenesis and ﬁbrogenesis in skeletal muscle of Wagyu compared with Angus cattle.
+Journal of Animal Science, 91(6), 2938–2946.
+Farmer, S. R. (2006). Transcriptional control of adipocyte formation. Cell Metabolism, 4(4),
+263–273.
+Fernandez-Twinn, D. S., Ekizoglou, S., Wayman, A., Petry, C. J., & Ozanne, S. E. (2006). Maternal
+low-protein diet programs cardiac beta-adrenergic response and signaling in 3-mo-old
+male offspring. American Journal of Physiology. Regulatory, Integrative and Comparative
+Physiology, 291(2), R429–R436.
+Fernandez-Twinn, D. S., Wayman, A., Ekizoglou, S., Martin, M. S., Hales, C. N., & Ozanne, S. E.
+(2005). Maternal protein restriction leads to hyperinsulinemia and reduced insulin-
+signaling protein expression in 21-mo-old female rat offspring. American Journal of Physiology.
+Regulatory, Integrative and Comparative Physiology, 288(2), R368–R373.
+Feve, B. (2005). Adipogenesis: Cellular and molecular aspects. Best Practice & Research Clinical
+Endocrinology & Metabolism, 19(4), 483–499.
+Ford, S. P., Hess, B. W., Schwope, M. M., Nijland, M. J., Gilbert, J. S., Vonnahme, K. A., et al. (2007).
+Maternal undernutrition during early to mid-gestation in the ewe results in altered growth,
+adiposity, and glucose tolerance in male offspring. Journal of Animal Science, 85(5),
+1285–1294.
+Fu, X., Zhao, J. X., Zhu, M. J., Foretz, M., Viollet, B., Dodson, M. V., et al. (2013). AMP-activated
+protein kinase alpha1 but not alpha2 catalytic subunit potentiates myogenin expression
+and myogenesis. Molecular and Cellular Biology, 33(22), 4517–4525.
+Funston, R. N., Larson, D. M., & Vonnahme, K. A. (2010). Effects of maternal nutrition on conceptus
+growth and offspring performance: Implications for beef cattle production. Journal of Animal
+Science, 88(13 Suppl), E205–E215.
+Funston, R. N., & Summers, A. F. (2013). Epigenetics: Setting up lifetime production of beef cows
+by managing nutrition. Annual Review of Animal Biosciences, 1,339–363.
+Gnanalingham, M. G., Mostyn, A., Symonds, M. E., & Stephenson, T. (2005). Ontogeny and
+nutritional programming of adiposity in sheep: Potential role of glucocorticoid action and
+uncoupling protein-2. American Journal of Physiology. Regulatory, Integrative and Comparative
+Physiology, 289(5), R1407–R1415.
+Gonzalez-Bulnes, A., Ovilo, C., Lopez-Bote, C. J., Astiz, S., Ayuso, M., Perez-Solana, M. L., et al.
+(2012). Gender-speciﬁc early postnatal catch-up growth after intrauterine growth retarda-
+tion by food restriction in swine with obesity/leptin resistance. Reproduction, 144(2),
+269–278.
+Greenwood, P. L., & Cafe, L. M. (2007). Prenatal and pre-weaning growth and nutrition of cattle:
+Long-term consequences for beef production. Animal, 1(9), 1283–1296.
+Gupta, R. K., Arany, Z., Seale, P., Mepani, R. J., Ye, L., Conroe, H. M., et al. (2010). Transcriptional
+control of preadipocyte determination by Zfp423. Nature, 464(7288), 619–623.
+Gupta, R. K., Mepani, R. J., Kleiner, S., Lo, J. C., Khandekar, M. J., Cohen, P., et al. (2012). Zfp423
+expression identiﬁes committed preadipocytes and localizes to adipose endothelial and
+perivascular cells. Cell Metabolism, 15(2), 230–239.
+Harms, M., & Seale, P. (2013). Brown and beige fat: Development, function and therapeutic
+potential. Nature Medicine, 19(10), 1252–1263.
+Hausman, G. J., & Dodson, M. V. (2013). Stromal vascular cells and adipogenesis: Cells within
+adipose depots regulate adipogenesis. Journal of Genomics, 1,56–66.
+Hausman, G. J., & Richardson, L. R. (1982). Histochemical and ultrastructural analysis of
+developing adipocytes in the fetal pig. Acta Anatomica (Basel), 114(3), 228–247.
+Heasman, L., Clarke, L., Firth, K., Stephenson, T., & Symonds, M. E. (1998). Inﬂuence of restricted
+maternal nutrition in early to mid gestation on placental and fetal development at term in
+sheep. Pediatric Research, 44(4), 546–551.
+Huang, Y., Das, A. K., Yang, Q. Y., Zhu, M. J., & Du, M. (2012a). Zfp423 promotes adipogenic
+differentiation of bovine stromal vascular cells. PloS One, 7(10), e47496.
+Huang, Y., Zhao, J. X., Yan, X., Zhu, M. J., Long, N. M., McCormick, R. J., et al. (2012b). Maternal
+obesity enhances collagen accumulation and cross-linking in skeletal muscle of ovine off-
+spring. PloS One, 7(2), e31691.
+Ipek, A., Sahan, U., Baycan, S. C., & Sozcu, A. (2014). The effects of different eggshell temperatures
+on embryonic development, hatchability, chick quality, and ﬁrst-week broiler performance.
+Poultry Science, 93(2), 464–472.
+Joe, A. W., Yi, L., Natarajan, A., Le Grand, F., So, L., Wang, J., et al. (2010). Muscle injury activates
+resident ﬁbro/adipogenic progenitors that facilitate myogenesis. Nature Cell Biology, 12(2),
+153–163.
+Karunaratne, J. F., Ashton, C. J., & Stickland, N. C. (2005). Fetal programming of fat and collagen in
+porcine skeletal muscles. Journal of Anatomy, 207(6), 763–768.
+Khorram, O., Khorram, N., Momeni, M., Han, G., Halem, J., Desai, M., et al. (2007). Maternal un-
+dernutrition inhibits angiogenesis in the offspring: A potential mechanism of programmed
+hypertension. American Journal of Physiology. Regulatory, Integrative and Comparative
+Physiology, 293(2), R745–R753.
+King, J. C. (2006). Maternal obesity, metabolism, and pregnancy outcomes. Annual Review of
+Nutrition, 26,271–291.
+Kleiblova, P., Dostalova, I., Bartlova, M., Lacinova, Z., Ticha, I., Krejci, V., et al. (2010). Expression
+of adipokines and estrogen receptors in adipose tissue and placenta of patients with
+gestational diabetes mellitus. Molecular and Cellular Endocrinology, 314(1), 150–156.
+6 M. Du et al. / Meat Science xxx (2015) xxx–xxx
+Please cite this article as: Du, M., et al., Fetal programming in meat production, Meat Science (2015), http://dx.doi.org/10.1016/
+j.meatsci.2015.04.010
+Kuang, S., Kuroda, K., Le Grand, F., & Rudnicki, M. A. (2007). Asymmetric self-renewal and
+commitment of satellite stem cells in muscle. Cell, 129(5), 999–1010.
+Lapin, M. R., Gonzalez, J. M., & Johnson, S. E. (2013). Substrate elasticity affects bovine satellite
+cell activation kinetics in vitro. Journal of Animal Science, 91(5), 2083–2090.
+Lidell, M. E., Betz, M. J., Dahlqvist Leinhard, O., Heglind, M., Elander, L., Slawik, M., et al. (2013).
+Evidence for two types of brown adipose tissue in humans. Nature Medicine, 19(5),
+631–634.
+Long, N. M., Shasa, D. R., Ford, S. P., & Nathanielsz, P. W. (2012a). Growth and insulin
+dynamics in two generations of female offspring of mothers receiving a single course
+of synthetic glucocorticoids. American Journal of Obstetrics and Gynecology, 207(3),
+e201–e208 (203).
+Long, N. M., Tousley, C. B., Underwood, K. R., Paisley, S. I., Means, W. J., Hess, B. W., et al. (2012b).
+Effects of early- to mid-gestational undernutrition with or without protein supplementa-
+tion on offspring growth, carcass characteristics, and adipocyte size in beef cattle. Journal
+of Animal Science, 90(1), 197–206.
+Loyau, T., Berri, C., Bedrani, L., Metayer-Coustard, S., Praud, C., Duclos, M. J., et al. (2013). Thermal
+manipulation of the embryo modiﬁes the physiology and body composition of broiler
+chickens reared in ﬂoor pens without affecting breast meat processing quality. Journal of
+Animal Science, 91(8), 3674–3685.
+McCabe, M. T., Ott, H. M., Ganji, G., Korenchuk, S., Thompson, C., Van Aller, G. S., et al. (2012).
+EZH2 inhibition as a therapeutic strategy for lymphoma with EZH2-activating mutations.
+Nature, 492(7427), 108–112.
+Meissner, A., Mikkelsen, T. S., Gu, H., Wernig, M., Hanna, J., Sivachenko, A., et al. (2008a).
+Genome-scale DNA methylation maps of pluripotent and differentiated cells. Nature,
+454(7205), 766–770.
+Meissner, A., Mikkelsen, T. S., Gu, H., Wernig, M., Hanna, J., Sivachenko, A., et al. (2008b).
+Genome-scale DNA methylation maps of pluripotent and differentiated cells. Nature.
+Meyer, A. M., Neville, T. L., Reed, J. J., Taylor, J. B., Reynolds, L. P., Redmer, D. A., et al. (2013).
+Maternal nutritional plane and selenium supply during gestation impact visceral organ
+mass and intestinal growth and vascularity of neonatal lamb offspring. Journal of Animal
+Science, 91(6), 2628–2639.
+Mikkelsen, T. S., Ku, M., Jaffe, D. B., Issac, B., Lieberman, E., Giannoukos, G., et al. (2007). Genome-
+wide maps of chromatin state in pluripotent and lineage-committed cells. Nature,
+448(7153), 553–560.
+Mohn, F., Weber, M., Rebhan, M., Roloff, T. C., Richter, J., Stadler, M. B., et al. (2008). Lineage-
+speciﬁc polycomb targets and de novo DNA methylation deﬁne restriction and potential
+of neuronal progenitors. Molecular Cell, 30(6), 755–766.
+Muhlhausler, B. S., Dufﬁeld, J. A., & McMillen, I. C. (2006). Increased maternal nutrition stimu-
+lates peroxisome proliferator activated receptor-{gamma} (PPAR{gamma}), adiponectin
+and leptin mRNA expression in adipose tissue before birth. Endocrinology.
+Nathanielsz, P. W., Poston, L., & Taylor, P. D. (2007). In utero exposure to maternal obesity and
+diabetes: Animal models that identify and characterize implications for future health.
+ClinicsinPerinatology, 34(4), 515–526.
+Petrovic, N., Walden, T. B., Shabalina, I. G., Timmons, J. A., Cannon, B., & Nedergaard, J. (2010).
+Chronic peroxisome proliferator-activated receptor gamma (PPARgamma) activation of
+epididymally derived white adipocyte cultures reveals a population of thermogenically
+competent, UCP1-containing adipocytes molecularly distinct from classic brown adipo-
+cytes. Journal of Biological Chemistry, 285(10), 7153–7164.
+Picard, B., Gagniere, H., Robelin, J., & Geay, Y. (1995). Comparison of the foetal development of
+muscle in normal and double-muscled cattle. Journal of Muscle Research and Cell Motility,
+16(6), 629–639.
+Piestun, Y., Druyan, S., Brake, J., & Yahav, S. (2013). Thermal manipulations during broiler
+incubation alter performance of broilers to 70 days of age. Poultry Science, 92(5),
+1155–1163.
+Pond, W. G., Yen, J. T., Mersmann, H. J., & Maurer, R. R. (1990). Reduced mature size in progeny
+of swine severely restricted in protein intake during pregnancy. Growth, Development, and
+Aging, 54(3), 77–84.
+Qi, W., Chan, H., Teng, L., Li, L., Chuai, S., Zhang, R., et al. (2012). Selective inhibition of Ezh2 by a
+small molecule inhibitor blocks tumor cells proliferation. Proceedings of the National
+Academy of Sciences of the United States of America, 109(52), 21360–21365.
+Rao, K., Xie, J., Yang, X., Chen, L., Grossmann, R., & Zhao, R. (2009). Maternal low-protein diet
+programmes offspring growth in association with alterations in yolk leptin deposition
+and gene expression in yolk-sac membrane, hypothalamus and muscle of developing
+Langshan chicken embryos. British Journal of Nutrition, 102(6), 848–857.
+Rehfeldt, C., & Kuhn, G. (2006). Consequences of birth weight for postnatal growth performance
+and carcass quality in pigs as related to myogenesis. JournalofAnimalScience, 84(Suppl.),
+E113–E123.
+Reichert, B., Yasmeen, R., Jeyakumar, S. M., Yang, F., Thomou, T., Alder, H., et al. (2011). Concerted
+action of aldehyde dehydrogenases inﬂuences depot-speciﬁc fat formation. Molecular
+Endocrinology, 25(5), 799–809.
+Rescan, P. Y. (2001). Regulation and functions of myogenic regulatory factors in lower
+vertebrates. Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular
+Biology, 130(1), 1–12.
+Reynolds, L. P., Borowicz, P. P., Caton, J. S., Vonnahme, K. A., Luther, J. S., Hammer, C. J., et al.
+(2010). Developmental programming: The concept, large animal models, and the key
+role of uteroplacental vascular development. Journal of Animal Science, 88(13 Suppl),
+E61–E72.
+Rooney, K., & Ozanne, S. E. (2011). Maternal over-nutrition and offspring obesity predisposition:
+Targets for preventative interventions. International Journal of Obesity, 35(7), 883–890.
+Rosen, E. D., & MacDougald, O. A. (2006). Adipocyte differentiation from the inside out. Nature
+Reviews Molecular Cell Biology, 7(12), 885–896.
+Rossi, G., & Messina, G. (2014). Comparative myogenesis in teleosts and mammals. Cellular and
+Molecular Life Sciences, 71(16), 3081–3099.
+Russell, R. G., & Oteruelo, F. T. (1981). An ultrastructural study of the differentiation of skeletal
+muscle in the bovine fetus. Anatomy and Embryology (Berlin), 162(4), 403–417.
+Samuelsson, A. M., Matthews, P. A., Argenton, M., Christie, M. R., McConnell, J. M., Jansen, E. H.,
+et al. (2008). Diet-induced obesity in female mice leads to offspring hyperphagia, adiposity,
+hypertension, and insulin resistance: A novel murine model of developmental program-
+ming. Hypertension, 51(2), 383–392.
+Schuettengruber, B., & Cavalli, G. (2009). Recruitment of polycomb group complexes and their
+role in the dynamic regulation of cell fate choice. Development, 136(21), 3531–3542.
+Schuettengruber, B., Martinez, A. M., Iovino, N., & Cavalli, G. (2011). Trithorax group proteins:
+Switching genes on and keeping them active. Nature Reviews Molecular Cell Biology,
+12(12), 799–814.
+Seale, P., Bjork, B., Yang, W., Kajimura, S., Chin, S., Kuang, S., et al. (2008). PRDM16 controls a
+brown fat/skeletal muscle switch. Nature, 454(7207), 961–967.
+Sebert, S., Sharkey, D., Budge, H., & Symonds, M. E. (2011). The early programming of metabolic
+health: Is epigenetic setting the missing link? American Journal of Clinical Nutrition,
+94(6 Suppl), 1953S–1958S.
+Sepe, A., Tchkonia, T., Thomou, T., Zamboni, M., & Kirkland, J. L. (2011). Aging and regional
+differences in fat cell progenitors — Amini-review.Gerontology, 57(1), 66–75.
+Simmons, R. (2011). Epigenetics and maternal nutrition: Nature v. nurture. Proceedings of the
+Nutrition Society, 70(1), 73–81.
+Spiegelman, B. M., & Flier, J. S. (1996). Adipogenesis and obesity: Rounding out the big picture.
+Cell, 87(3), 377–389.
+Stannard, S. R., & Johnson, N. A. (2004). Insulin resistance and elevated triglyceride in muscle:
+More important for survival than “thrifty” genes? Journal of Physiology, 554(Pt 3), 595–607.
+Stickland, N. C. (1978). A quantitative study of muscle development in the bovine foetus
+(Bos indicus). Anatomia Histologia and Embryologia, 7(3), 193–205.
+Strutz, F., Okada, H., Lo, C. W., Danoff, T., Carone, R. L., Tomaszewski, J. E., et al. (1995). Identiﬁ-
+cation and characterization of a ﬁbroblast marker: FSP1. Journal of Cell Biology, 130(2),
+393–405.
+Symonds, M. E., & Lomax, M. A. (1992). Maternal and environmental inﬂuences on thermoreg-
+ulation in the neonate. Proceedings of the Nutrition Society, 51(2), 165–172.
+Symonds, M. E., Pearce, S., Bispham, J., Gardner, D. S., & Stephenson, T. (2004). Timing of nutrient
+restriction and programming of fetal adipose tissue development. Proceedings of the
+Nutrition Society, 63(3), 397–403.
+Symonds, M. E., Pope, M., Sharkey, D., & Budge, H. (2012). Adipose tissue and fetal program-
+ming. Diabetologia, 55(6), 1597–1606.
+Tan, K. Y., Eminli, S., Hettmer, S., Hochedlinger, K., & Wagers, A. J. (2011). Efﬁcient generation of
+iPS cells from skeletal muscle stem cells. PloS One, 6(10), e26406.
+Tong, J. F., Yan, X., Zhao, J. X., Zhu, M. J., Nathanielsz, P. W., & Du, M. (2011). Metformin mitigates
+the impaired development of skeletal muscle in the offspring of obese mice. Nutrition and
+Diabetes, 1(e7).
+Tong, J., Zhu, M. J., Underwood, K. R., Hess, B. W., Ford, S. P., & Du, M. (2008). AMP-activated pro-
+tein kinase and adipogenesis in sheep fetal skeletal muscle and 3T3-L1 cells. Journal of
+Animal Science, 86(6), 1296–1305.
+Uezumi, A., Fukada, S., Yamamoto, N., Takeda, S., & Tsuchida, K. (2010). Mesenchymal progeni-
+tors distinct from satellite cells contribute to ectopic fat cell formation in skeletal muscle.
+Nature Cell Biology, 12(2), 143–152.
+Uezumi, A., Ito, T., Morikawa, D., Shimizu, N., Yoneda, T., Segawa, M., et al. (2011). Fibrosis and
+adipogenesis originate from a common mesenchymal progenitor in skeletal muscle. Journal
+of Cell Science, 124(Pt 21), 3654–3664.
+Underwood, K. R., Kimzey, J. M., Tong, J., Price, P. L., Grings, E. E., Hess, B. W., et al. (2008).
+Gestational nutrition affects growth and adipose tissue deposition in steers. Proceedings,
+Western Section American Society of Animal Science, 59.
+Uzelac, P. S., Li, X., Lin, J., Neese, L. D., Lin, L., Nakajima, S. T., et al. (2010). Dysregulation of
+leptin and testosterone production and their receptor expression in the human placenta
+with gestational diabetes mellitus. Placenta, 31(7), 581–588.
+Velleman, S. G. (2007). Muscle development in the embryo and hatchling. Poultry Science, 86(5),
+1050–1054.
+Vernochet, C., Peres, S. B., & Farmer, S. R. (2009). Mechanisms of obesity and related pathologies:
+Transcriptional control of adipose tissue development. FEBS Journal, 276(20), 5729–5737.
+Vogt,M.C.,Paeger,L.,Hess,S.,Steculorum,S.M.,Awazawa,M.,Hampel,B.,etal.(2014).Neonatal
+insulin action impairs hypothalamic neurocircuit formation in response to maternal high-fat
+feeding. Cell, 156(3), 495–509.
+Vonnahme, K. A., Neville, T. L., Perry, G. A., Redmer, D. A., Reynolds, L. P., & Caton, J. S. (2013).
+Maternal dietary intake alters organ mass and endocrine and metabolic proﬁles in pregnant
+ewe lambs. Animal Reproduction Science, 141(3–4), 131–141.
+Wang, Q., Guan, T., Li, H., & Bernlohr, D. A. (2009). A novel polymorphism in the chicken adipo-
+cyte fatty acid-binding protein gene (FABP4) that alters ligand-binding and correlates with
+fatness. Comparative Biochemistry and Physiology Part B: Biochemistry and Molecular Biology,
+154(3), 298–302.
+Wigmore, P. M., & Stickland, N. C. (1983). Muscle development in large and small pig fetuses.
+Journal of Anatomy, 137(Pt 2), 235–245.
+Woo, M., Isganaitis, E., Cerletti, M., Fitzpatrick, C., Wagers, A. J., Jimenez-Chillaron, J., et al. (2011).
+Early life nutrition modulates muscle stem cell number: Implications for muscle mass and
+repair. Stem Cells and Development, 20(10), 1763–1769.
+Wu, J., Bostrom, P., Sparks, L. M., Ye, L., Choi, J. H., Giang, A. H., et al. (2012). Beige adipocytes are
+a distinct type of thermogenic fat cell in mouse and human. Cell, 150(2), 366–376.
+Yan, X., Huang, Y., Zhao, J. X., Long, N. M., Uthlaut, A. B., Zhu, M. J., et al. (2011). Maternal obesity-
+impaired insulin signaling in sheep and induced lipid accumulation and ﬁbrosis in skeletal
+muscle of offspring. Biology of Reproduction, 85(1), 172–178.
+Yan, X., Huang, Y., Zhao, J. X., Rogers, C. J., Zhu, M. J., Ford, S. P., et al. (2013). Maternal obesity
+downregulates microRNA let-7g expression, a possible mechanism for enhanced adipogenesis
+during ovine fetal skeletal muscle development. International Journal of Obesity, 37(4), 568–575.
+Yan, X., Zhu, M. J., Xu, W., Tong, J. F., Ford, S. P., Nathanielsz, P. W., et al. (2010). Up-regulation of
+Toll-like receptor 4/nuclear factor-kappaB signaling is associated with enhanced adipogen-
+esis and insulin resistance in fetal skeletal muscle of obese sheep at late gestation.
+Endocrinology, 151(1), 380–387.
+Yang, Q. Y., Liang, J. F., Rogers, C. J., Zhao, J. X., Zhu, M. J., & Du, M. (2013). Maternal obesity in-
+duces epigenetic modiﬁcations to facilitate zfp423 expression and enhance adipogenic dif-
+ferentiation in fetal mice. Diabetes, 62(11), 3727–3735.
+Yasmeen, R., Jeyakumar, S. M., Reichert, B., Yang, F., & Ziouzenkova, O. (2012). The contribution
+of vitamin A to autocrine regulation of fat depots. Biochimica et Biophysica Acta, 1821(1),
+190–197.
+Zambrano, E., Bautista, C. J., Deas, M., Martinez-Samayoa, P. M., Gonzalez-Zamorano, M.,
+Ledesma, H., et al. (2006). A low maternal protein diet during pregnancy and lactation
+has sex- and window of exposure-speciﬁc effects on offspring growth and food intake,
+glucose metabolism and serum leptin in the rat. Journal of Physiology, 571(Pt 1), 221–230.
+Zambrano, E., Martinez-Samayoa, P. M., Bautista, C. J., Deas, M., Guillen, L., Rodriguez-Gonzalez,
+G. L., et al. (2005). Sex differences in transgenerational alterations of growth and
+7M. Du et al. / Meat Science xxx (2015) xxx–xxx
+Please cite this article as: Du, M., et al., Fetal programming in meat production, Meat Science (2015), http://dx.doi.org/10.1016/
+j.meatsci.2015.04.010
+metabolism in progeny (F2) of female offspring (F1) of rats fed a low protein diet during
+pregnancy and lactation. Journal of Physiology, 566(Pt 1), 225–236.
+Zhu, M. J., Ford, S. P., Means, W. J., Hess, B. W., Nathanielsz, P. W., & Du, M. (2006). Maternal nu-
+trient restriction affects properties of skeletal muscle in offspring. Journal of Physiology,
+575(Pt 1), 241–250.
+Zhu, M. J., Ford, S. P., Nathanielsz, P. W., & Du, M. (2004). Effect of maternal nutrient restriction in
+sheep on the development of fetal skeletal muscle. Biology of Reproduction, 71(6), 1968–1973.
+Zhu, M. J., Han, B., Tong, J., Ma, C., Kimzey, J. M., Underwood, K. R., et al. (2008). AMP-activated pro-
+tein kinase signalling pathways are down regulated and skeletal muscle development im-
+paired in fetuses of obese, over-nourished sheep. Journal of Physiology, 586(10), 2651–2664.
+8 M. Du et al. / Meat Science xxx (2015) xxx–xxx
+Please cite this article as: Du, M., et al., Fetal programming in meat production, Meat Science (2015), http://dx.doi.org/10.1016/
+j.meatsci.2015.04.010

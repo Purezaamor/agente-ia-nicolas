@@ -1,0 +1,130 @@
+=== Fuente: 10_Ejemplo_qqplop.pdf ===
+
+Ejemplo de niveles de acidez en 26 muestras de precipitaciones en la localidad 
+de Allegheny 
+ 
+   
+The UNIVARIATE Procedure 
+Variable: pH 
+Moments  
+N 26  Sum Weights  26  
+Mean     4.68153846     Sum Observations  121.72  
+Std Deviation     0.49659394     Variance  0.24660554  
+Skewness  1.13032696  Kurtosis  0.09624761  
+Uncorrected SS  576.002  Corrected SS  6.16513846  
+Coeff Variation  10.6074946  Std Error Mean  0.09739008  
+   
+ 
+ 
+Basic Statistical Measures  
+Location  Variability  
+Mean  4.681538  Std Deviation  0.49659  
+Median  4.540000  Variance  0.24661  
+Mode  4.120000  Range  1.66000  
+    Interquartile Range  0.51000  
+  The mode displayed is the smallest of 3 modes with a count of 2.  
+ 
+Tests for Location: Mu0=0  
+Test  Statistic  p Value  
+Student's t  t 48.06997  Pr > |t|  <.0001  
+Sign  M 13  Pr >= |M|  <.0001  
+Signed Rank  S 175.5  Pr >= |S|  <.0001  
+   
+ 
+ 
+Tests for Normality  
+Test  Statistic  p Value  
+Shapiro-Wilk  W 0.842442  Pr < W  0.0010  
+Kolmogorov-Smirnov  D 0.225639  Pr > D  <0.0100  
+Cramer-von Mises  W-Sq  0.286155  Pr > W-Sq  <0.0050  
+Anderson-Darling  A-Sq  1.62621  Pr > A-Sq  <0.0050  
+   
+ 
+Quantiles (Definition 5)  
+Quantile  Estimate  
+100% Max  5.78  
+99%  5.78  
+95%  5.67  
+90%  5.62  
+75% Q3  4.82  
+50% Median  4.54  
+25% Q1  4.31  
+10%  4.26  
+5%  4.12  
+1%  4.12  
+0% Min  4.12  
+   
+Extreme Observations  
+Lowest  Highest  
+Value  Obs  Value  Obs  
+4.12  2 5.29  22  
+4.12  1 5.51  23  
+4.26  4 5.62  24  
+4.26  3 5.67  25  
+4.29  5 5.78  26  
+   
+        Stem Leaf                     #             Boxplot      
+          56 278                      3                0         
+          54 1                        1                |         
+          52 9                        1                |         
+          50 8                        1                |         
+          48 2                        1             +-----+      
+          46 0343                     4             |  +  |      
+          44 015267                   6             *-----*      
+          42 6690199                  7             +-----+      
+          40 22                       2                |         
+             ----+----+----+----+                                
+         Multiply Stem.Leaf by 10**-1                                              
+  
+                         Normal Probability Plot                 
+       5.7+                                      * *   +*++      
+          |                                    *   ++++          
+          |                                  * ++++              
+          |                                +*++                  
+       4.9+                            ++++*                     
+          |                        +++*** *                      
+          |                    ++*****                           
+          |            * * ****                                  
+       4.1+     *    * ++++                                      
+           +----+----+----+----+----+----+----+----+----+----+   
+               -2        -1         0        +1        +2        
+                                                             
+ 
+   
+ 
+Cálculos para realizar el gráfico cuantil – cuantil  (QQ plot) a partir  del ejemplo 
+ 
+Archivo de niveles de acidez de las precipitaciones con la recta teórica 
+ 
+Obs  pH  i 3/1 3/1 + −= n iP  z = Probit_P  y = recta_teor  
+1 4.12  1 0.02532  -1.95458  3.71091  
+2 4.12  2 0.06329  -1.52772  3.92288  
+3 4.26  3 0.10127  -1.27437  4.04869  
+4 4.26  4 0.13924  -1.08374  4.14336  
+5 4.29  5 0.17722  -0.92603  4.22168  
+6 4.30  6 0.21519  -0.78854  4.28995  
+7 4.31  7 0.25316  -0.66456  4.35152  
+8 4.39  8 0.29114  -0.55006  4.40838  
+9 4.39  9 0.32911  -0.44236  4.46186  
+10  4.40  10  0.36709  -0.33957  4.51291  
+11  4.41  11  0.40506  -0.24026  4.56223  
+12  4.45  12  0.44304  -0.14327  4.61039  
+13  4.52  13  0.48101  -0.04761  4.65789  
+14  4.56  14  0.51899  0.04761  4.70518  
+Obs  pH  i 3/1 3/1 + −= n iP  z = Probit_P  y = recta_teor  
+15  4.57  15  0.55696  0.14327  4.75269  
+16  4.60  16  0.59494  0.24026  4.80085  
+17  4.63  17  0.63291  0.33957  4.85017  
+18  4.64  18  0.67089  0.44236  4.90121  
+19  4.73  19  0.70886  0.55006  4.95469  
+20  4.82  20  0.74684  0.66456  5.01156  
+21  5.08  21  0.78481  0.78854  5.07312  
+22  5.29  22  0.82278  0.92603  5.14140  
+23  5.51  23  0.86076  1.08374  5.21972  
+24  5.62  24  0.89873  1.27437  5.31438  
+25  5.67  25  0.93671  1.52772  5.44019  
+26  5.78  26  0.97468  1.95458  5.65217  
+ 
+ 
+Gráfico cuantil - cuantil 
+ 

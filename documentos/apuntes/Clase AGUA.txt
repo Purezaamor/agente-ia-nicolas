@@ -1,0 +1,1550 @@
+=== Fuente: Clase AGUA.pdf ===
+
+Dr. Gustavo A. Maddonni
+Cátedra de Cereales FA-UBA-CONICET
+Clase “Economía del Agua en los sistemas cultivados”
+25 de Abril de 2024
+Actualización en Cultivos de Granos
+Curso “Determinantes del rendimiento y la calidad de 
+los granos”
+Material de lectura. Capítulo 16 Libro Prodccion de granos
+
+1ra Parte
+09:00 a 10:00 hs
+• Balance de energía. 
+• Balance de agua. 
+• Componentes del balance de agua
+• Cálculo del consumo
+• Consumo, diferencias entre cultivos y 
+ambientes
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+1-Balance de energía
+Flujos de calor sensible Flujos de calor latente Uniones químicas
+Intercambio de Energía
+Transpiración (CL)
+Evaporación 
+desde el suelo
+(CL)
+RnTemperatura
+Canopeo (CS)
+Temperatura suelo 
+(CS)
+(evaporación del agua)(Aire, vegetación y suelo)
+Temperatura
+del aire (CS)
+(fotosíntesis)
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Rn= H + L*(T+Es)
+-400
+-200
+0
+200
+400
+600
+H
+L*(T+Es)
+W m-2
+Horas
+-600
+-400
+-200
+0
+5 10 15 20
+200
+400
+600
+Rn
+L*(T+Es)
+1-Balance de energía
+Rn= radiación neta
+H= temperatura del follaje
+T= transpiración
+Es= evaporación
+Cultivo de soja sin restricción hídrica
+Cultivo de soja con restricción hídrica
+Fuente: Da porta et al., 1985
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+1-Balance de energía
+Fuente: DeJonge  et   al. Agricultural  Water  Management  156   (2015)  51–62
+Maíz, cambios en el potencial
+agua de las hojas (variaciones
+en la transpiracion, i.e. calor
+latente) determinan cambios en
+la temperatura foliar (i.e. calor
+sensible). 
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Fuente: DeJonge  et   al. Agricultural  Water  Management  156   (2015)  51–62
+1-Balance de energía
+Maíz, variaciones de la Temp 
+foliar en función del manejo
+hídrico y del ambiente. 
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+La reducción en la transpiración se manifiesta como un incremento en la 
+temperatura foliar (calor sensible). Con alto contenido de agua, mayores 
+demandas (alto DPV) determinan mayor tasa de transpiración (menor T 
+foliar). 
+Híbridos templados
+Híbridos tropicales?
+Fte: Cárcova et al., 1998 FCR 55: 165-174 
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+1-Balance de energía
+1-Balance de energía
+Fte: Cárcova et al., 1998 FCR 55: 165-174 
+El seguimiento del CWSI, es indicativo del contenido de agua util del 
+suelo (CC-PMP). 
+CWSI= (Tc-Ta)a – (Tc-Ta)p
+ -------------------------
+              (Tc-Ta)u – (Tc-Ta)p
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+(adaptado de Ritchie y Otter, 1983) 
+Agua 
+en el suelo
+Precipitaciones
+Intercepción 
+canopeo
+Infiltración
+Transpiración
+cultivo
+Absorción
+Evaporación
+Drenaje
+Ascenso capilar
+Escurrimiento
+Fuente o destino
+Variable de control
+Variable de estado
+Flujo de materia
+Agua 
+en el suelo
+PrecipitacionesPrecipitaciones
+Intercepción 
+canopeo
+Intercepción 
+canopeo
+InfiltraciónInfiltración
+Transpiración
+cultivo
+Transpiración
+cultivo
+AbsorciónAbsorción
+EvaporaciónEvaporación
+DrenajeDrenaje
+Ascenso capilarAscenso capilar
+EscurrimientoEscurrimiento
+T= Pp + R + Nf   Esc 
+ D Alm – Es – D
+ETC= T+Es (consumo)
+   
+2-Balance de agua
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+CutículaEstomas
+-10 a –200 MPa 
+Capa límite?
+Evaporación a
+la atmósfera
+Mesófilo
+Xilema
+Transferencia
+radial por raíz
+Interfase
+raíz/suelo
+Flujo de agua
+en el suelo -0.03 a –1.5 MPa 
+Gradiente decreciente de potencial hídrico
+Suelo Raíz Tallo Hoja
+Cutícula
+-
+Capa límite?
+Evaporación a
+Mesófilo
+Xilema
+-0.2 a –3MPa
+Interfase
+raíz/suelo
+Flujo de agua
+en el suelo
+Suelo Raíz Tallo Hoja
+Resistencias al flujo de agua en el sistema suelo-planta-atmósfera.
+Las resistencias aumentan 
+a medida que el potencial 
+hídrico disminuye
+J= D y w
+r
+2-Balance de agua
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+El flujo de agua es 
+directamente 
+proporcional a la 
+diferencia de 
+potencial agua e 
+inversamente 
+proporcional a la 
+suma de las 
+resistencias
+Ley de Ohm
+Evolución estacional de la demanda (ETo) y del consumo 
+(ETc) de diversas especies creciendo sin restricción hídrica
+Las curvas corresponden a medias de datos de 7 años en Davis, California.
+3-Componentes del balance de agua= I-Demanda
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Relación entre valores de la ET0, estimados con diferentes métodos (ET0 ec) y valores medidos 
+con lisímetro (ET0 lis ), expresados como promedio anual y en el mes de mayor demanda 
+atmosférica .
+Además de la Rn, la demanda de agua sobre una superficie cultivada se asocia con 
+ciertas características de la dicha superficie (cobertura, altura, etc). 
+Esta demanda atmosférica es propia de cada ambiente y se caracteriza por la 
+Evapotranspiración potencial de referencia (ET0). La ET0 se puede medir con 
+lisímetros o estimar por fórmula. Los primeros pueden ser simples superficies de 
+agua libre (e.g. Tanque clase ‘A’) o contener suelo y una especie creciendo con 
+buena cobertura y características particulares (e.g. alfalfa de 30-50 cm o pastura de 
+8-15 cm). Las fórmulas (e.g. Penman, Priestley-Taylor) incluyen variables 
+meteorológicas (radiación, temp, veloc. viento, DPV).
+Anual Mes máximo
+Método ET0ec /ET0lis *100 EE EE
+Tanque “A” 118 0.87 113 1.56
+Thornthwaite 79 1.47 79 1.70
+Priestley-Taylor 85 1.02 86 1.72
+Penman FAO 121 0.65 111 0.76
+Penman - Monteith 101 0.36 97 0.47
+ET0ec /ET0lis *100
+Smith, 1992
+3-Componentes del balance de agua= I-Demanda
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+II-Evaporación desde la superficie del suelo
+0
+1
+2
+3
+4
+5
+6
+-2 0 2 4 6 8 10
+Días desde superficie húmeda (t)
+Es= 5 mm día-1
+Es= 3.5 t-1/2
+Fase 1 Fase 2
+Evaporación del suelo (mm día-1)
+0
+1
+2
+3
+4
+5
+6
+-2 0 2 4 6 8 10
+Días desde superficie húmeda (t)
+Es= 5 mm día-1
+Es= 3.5 t-1/2
+Fase 1 Fase 2
+Evaporación del suelo (mm día-1)
+Loomis y Connor, 1996Fase 1: Es= E0 (evapotranspiración potencial)
+Fase 2: Es=  t (donde  es un coeficiente empírico asociado al suelo)
+3-Componentes del balance de agua=
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+0
+8 mm
+16 mm
+24 mm
+FrArc
+Fr
+Arc
+Are
+Evaporación acumulada (mm)
+Días después de una lluvia
+Suelo Cond.Hidr.
+(K; cm d-1)
+Máxima Es en fase 
+1 (U; mm)
+
+(mm d-1/2)
+Adelanto (Fr-Arc) 0.15 12 5.08
+Yolo (Fr) 0.10 9 4.04
+Houston (Arc.negra) 0.06 6 3.50
+Plainfield (Are) 0.05 6 3.34
+y = 17.194x + 2.4426
+R² = 0.989
+0
+1
+2
+3
+4
+5
+6
+0 0.05 0.1 0.15 0.2
+Alfa (mm/d 0.5)
+Conductividad hidráulica (cm/d)
+TR=1                                 si ADCADCu
+TR= 1 + b (ADC-ADCu)    si ADC<ADCu
+TR= transpiración relativa a un control
+ADC= agua disponible para el cultivo,  ADC= qa-qli / qls-qli
+ADCu= ADC umbral (sp, cv, Eto, suelo, dist. de raíces)
+0 0.2 0.4 0.6 0.8
+0.2
+0.4
+0.6
+0.8
+0
+1.0
+1.0
+ET0= 8 mm d-1
+ET0= 4 mm d-1
+ADC 
+TR
+ADCU (4 mm d-1) ADCU (8 mm d-1)
+0 0.2 0.4 0.6 0.8
+0.2
+0.4
+0.6
+0.8
+0
+1.0
+1.0
+ET0= 8 mm d-1
+ET0= 4 mm d-1
+ADC 
+TR
+ADCU (4 mm d-1) ADCU (8 mm d-1)
+III-Transpiración
+3-Componentes del balance de agua=
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+¿Cómo calculamos/estimamos el consumo del cultivo?
+Consumo= Agua útil en el suelo a la siembra + Precipitaciones + 
+Riego + Ascenso de la napa +- Escurrimiento–Drenaje-agua útil 
+en el suelo a madurez 
+1-Por balance de agua entre muestreos
+2-A partir de la ETo y el Kc
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+ETC: consumo de agua del cultivo. ETc= T + E
+Cuando ADC>ADCu ETc=  ET0 * Kc Kc: coeficiente de cultivo
+0
+0,2
+0,4
+0,6
+0,8
+1,0
+1,2
+0 50 100 150 200
+Soja
+Trigo
+Kc
+Días desde la siembra
+0
+0,2
+0,4
+0,6
+0,8
+1,0
+1,2
+0 50 100 150 200
+Soja
+Trigo
+Kc
+Días desde la siembra
+Kc muy superior a 1 (e.g. 1.28 para trigo 
+usando método de Ritchie) indica 
+subestimación del consumo (ETC) por el 
+método empleado
+Cultivo1 KC EE Nº de casos
+Girasol 1.13 0.03 6
+Maíz 0.99 0.03 9
+Soja 1.04 0.03 12
+Trigo 0.96 0.04 10
+1 Datos provenientes de diferentes experimentos. Girasol, maíz
+y soja fueron sembrados a mediados  de noviembre y trigo a 
+mediados de junio 
+0
+50
+100
+150
+200
+250
+0 100 200 300
+ET0 (mm)
+ETC (mm) Penman-FAO= 0.93 X
+R2= 0.96
+tanque “A”= 0.86X
+R2= 0.95
+Ritchie= 1.28 X
+R2= 0.78
+0
+50
+100
+150
+200
+250
+0 100 200 300
+Penman-FAO= 0.93 X
+R2= 0.96
+tanque “A”= 0.86X
+R2= 0.95
+Ritchie= 1.28 X
+R2= 0.78
+Abatte, Dardanelli y Cantarero, datos no pub.
+Kc= f (cobertura, altura, rugosidad,
+resistencia al flujo)
+Trigo diferentes ambientes, sin limitación hídrica 
+y en cobertura completa
+4-Cálculo del consumo con ETo y Kc
+4-Cálculo del consumo con ETo y Kc
+Modelo Ing. R. C. Gil
+Se puede analizar una campaña pasada o la actual, cargando agua
+inicial, y diariamente Kc segun fenologia esperada y datos de Eto y 
+Pp. 
+Consumo
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+4-Cálculo del consumo con ETo y Kc
+Modelo Ing. R. C. Gil
+Ejemplos de salidas del modelo sin y con la aplicacion del riego. 
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+0,60
+1,20
+1
+DPV (K Pa)
+Córdoba
+Balcarce
+Día Juliano
+La ET0 es función del déficit de 
+presión de vapor de la atmósfera 
+(DPV)
+DPV= f ( temp y humedad relativa)Días desde la siembra
+Girasol
+Soja
+Maíz
+Trigo (Córdoba)
+0
+100
+200
+300
+400
+500
+600
+700
+0 100 200
+Trigo (Balcarce)
+Consumo acumulado (ETC)
+Dardanelli y Cantarero, datos no pub.
+100 200 300
+0,00
+0,20
+0,40
+0,80
+1,00
+1,40
+1-Ene 31-Dic
+CORDOBA Y BALCARCE 
+SIMILAR Rn PERO 
+DISTINTO DPV
+5-Consumo= diferencia entre cultivos y ambientes
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+Diferencias entre 
+ambientes (ETo) y ritmos 
+de cobertura (Kc) 
+determinan diferencias del 
+consumo entre ambientes y 
+cultivos
+10:00 a 10:15hs Break
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+2ra Parte
+10:15 a 11:30 hs
+• Agua disponible= tipo de suelo, profundización 
+de raíces y tasas de extracción. 
+• Agua disponible, expansión foliar y fotosíntesis.
+• Déficit hídrico efectos sobre el rendimiento y 
+estrategias para su manejo (escape y tolerancia)
+• Genes relevantes de respuesta a la sequía
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Depende de:
+• SUELO (textura, cantidad de agua)
+• CULTIVO (exploración radical, conductividad hidráulica, capacidad de ajuste 
+osmótico, tolerancia al marchitamiento)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Arenoso Franco
+-arenoso
+Franco Franco
+-limoso
+Franco
+-arcillo
+-limoso
+Arcilloso
+ls
+li
+Contenido Volumétrico (%)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Contenido Volumétrico (%)
+-250
+-200
+-150
+-100
+-50
+0
+0,05 0,15 0,25 0,35
+Contenido volumétrico
+Profundidad (cm)
+li
+ls
+Girasol C3
+Girasol G100
+Soja GM3
+Soja GM5
+Soja GM7
+Maíz
+Trigo
+AU= ls-li (aprox. entre 130 y 140 mm m-1 de perfil, salvo en arenosos 80 mm m-1)
+Li: -1.5MPa   Ls: -0.03 MPa
+Mínimo contenido de agua alcanzado por diferentes 
+cultivos sobre un Haplustol éntico (Córdoba, Arg)
+Ratcliff et al. 1983 Dardanelli y Bachmeier, 1993
+Contenido volumétrico (%) de diferentes clases 
+texturales en el límite superior (ls) y el límite inferior 
+(li)
+6-Agua disponible= tipo de suelo
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Dinámica de profundización de raíces obtenida a campo, (a) de observación directa y (b) por 
+medio de estimaciones a través del consumo de agua en perfiles bien provistos de agua. 
+Representa presencia de raíces, pero no indica densidad del sistema radical. Los cultivos 
+tienen en común el patrón sigmoideo de la profundización radical y que la máxima 
+profundidad se alcanza al comenzar el llenado activo de los granos.
+En las primeras etapas el crecimiento en profundidad de la raíz no sólo obedece al contenido hídrico de los 
+horizontes (si fuera así las raíces no profundizarían en condición de suelo húmedo en superficie), sino 
+también al geotropismo positivo y la partición de asimilados (sólo existen destinos vegetativos en activo 
+crecimiento, uno de ellos el sistema radical).
+-250
+-200
+-150
+-100
+-50
+0
+0 50 100 150 200
+Días desde la siembra
+Profundidad (cm)
+soja
+maíz
+trigo
+girasol
+0 50 100 150 200
+a b
+-250
+-200
+-150
+-100
+-50
+0
+0 50 100 150 200
+Días desde la siembra
+Profundidad (cm)
+soja
+maíz
+trigo
+girasol
+0 50 100 150 200
+a b
+Andriani, 2000
+6-Agua disponible= profundización de raíces
+Profundidad de suelo (cm)
+Y= 21.2 - 2.56X
+r2= 0.91
+Días desde siembra
+-250
+-200
+-150
+-100
+-50
+0 0 20 40 60 80
+Y= 25.8 - 3.56X
+r2= 0.93 a
+Balcarce
+Córdoba
+ºCdía desde siembra
+0 500 1000 1500
+Y= 1.32 – 0.22X
+r2= 0.92 b
+Y= 37 - 3.08X
+r2= 0.86
+Y = 34.5 - 2.32X
+r2 = 0.92
+-250
+-200
+-150
+-100
+-50
+0 0 20 40 60 80
+Soja
+Maíz
+Y = 2.6 - 0.18X
+r2= 0.8473
+0 500 1000 1500
+Balcarce
+Pergamino
+c d
+Andriani y Dardanelli (no publicados), Cárcova y Otegui, 1997
+Aparentes diferencias de profundización de raíces entre experimentos (e.g. sitios) para
+especie prácticamente desaparecen cuando la evolución del ciclo se expresa en tiempo térmico
+(ºCdía) desde la siembra. Las pendientes de las ecuaciones representan la velocidad
+produndización de raíces (VPR)
+6-Agua disponible= profundización de raíces
+Fuente: Sciarresi et al. 2024
+qd= qd-1- (qd-1-qli) * K
+qd= contenido volumétrico día d
+qd-1= cont. vol. día [d – 1]
+qli= cont. vol. en el límite inferior
+K= tasa de extracción (mm mm-1 día-1); 
+máxima fracción de agua útil que se 
+puede extraer en un día
+K adquiere el valor máximo cuando no 
+existen limitaciones a la distribución 
+uniforme de raíces y se alcanza una 
+densidad que permite maximizar la 
+extracción (densidad crítica).
+25
+30
+35
+40
+0 20 40 60 80 100
+Días desde siembra
+Humedad volumétrica (%)
+40 cm
+80 cm
+Para que se cumpla este patrón exponencial es necesario:
+(i) que la capa llegue a ser explorada totalmente por las
+raíces
+(ii) que la demanda atmosférica supere la capacidad de
+oferta de agua
+(iii) que no haya aportes de agua durante el período
+considerado
+HV= VOLUMEN DE AGUA/VOLUMEN DE SUELO SECO
+HV= HG*DAP SUELO (HG= MASA DE AGUA/MASA SUELO SECO)
+LAMINA (cm)= HV(%)*PROF(cm)/100
+6-Agua disponible= tasa de extracción 
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+-350
+-300
+-250
+-200
+-150
+-100
+-50
+0
+0.0 0.05 0.10 0.15
+Tasa de extracción (mm mm-1 día-1)
+Profundidad de suelo (cm)
+girasol
+maiz
+soja
+Tasa de extracción (mm mm-1 día-1)
+Profundidad de suelo (cm)
+-350
+-300
+-250
+-200
+-150
+-100
+-50
+0
+0.0 0.05 0.1 0.15
+Dekalb G100
+Contiflor C3
+Girasol> soja > maíz
+refleja diferente resistencia al flujo 
+de agua, que también se pone en 
+evidencia en el diferente KC
+ en dos genotipos de girasol
+Dardanelli et al. 1997
+6-Agua disponible= tasa de extracción
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Diferente tasa de extracción en maíces antiguos y modernos
+En período de sequía el híbrido mas antiguo ha agotado la 
+reserva de agua en los primeros 60cm.
+Fuente: . Campos et al. Field Crops Research 90 (2004) 19–34
+6-Agua disponible= tasa de extracción
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+-250
+-200
+-150
+-100
+-50
+0
+0.00 0.03 0.06 0.09 0.12
+Tasa de extracción (mm mm-1 día-1 )
+Profundidad de suelo (cm)
+Hapludol (soja)
+Argiudol vértico (soja)
+Argiudol (soja)
+Vertisol (sorgo)
+ K en suelos diferentes
+K no alcanza el valor máximo cuando existen limitaciones a la distribución uniforme de raíces, aún cuando la 
+densidad radical supere el valor crítico.  Este comportamiento es típico de horizontes con acumulación de 
+arcillas expansibles. Los valores de K se recuperan por debajo de estos estratos (e.g. Argiudoles) si el suelo no 
+presenta impedimentos, pero no alcanza los valores del suelo testigo pues la arquitectura del sistema radical no 
+se restablece completamente. En suelos vertisoles, con elevado contenido de arcillas expansibles en todo el 
+perfil, los valores de K son reducidos en todos los estratos.
+Ritchie, Dardanelli, Calmon y Andriani, datos no pub
+Lee et al. 1996
+Dardanelli et al. 1991
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Boyer (1970)
+0
+20
+40
+60
+0 -4 -8 -12 -16
+Maíz
+Fotosíntesis neta
+(mg h-1 100 cm-2)
+0 -4 -8 -12 -16
+Elongación (%)
+0
+10
+20
+30
+0 -4 -8 -12 -16
+//
+Girasol Soja
+Potencial agua hoja (bares)
+Sadras y Milroy (1996)
+0
+0
+1
+1.0
+Agua disponible
+umbrales
+Tasa relativa al control sin déficit hídrico
+AB
+0
+0.2
+0.4
+0.6
+0.8
+Umbral de agua disponible
+ para las plantas
+Expansión
+Potencial agua hoja
+Intercambio gaseoso
+Conductancia estomática
+A B
+Variables
+0.60.40.2 0.8
+7-Agua disponible, expansión foliar y fotosíntesis
+Respuesta al déficit hídrico del rendimiento en grano y sus componentes
+PERÍODOS CRÍTICOS
+Loomis y Connor (1992)
+Etapas ontogénicas
+Rendimiento relativo al testigo 
+sin déficit hídrico
+Tiempo desde siembra
+1
+0.75
+0.50
+0.25
+0
+Emergencia
+Macollaje
+Antesis
+Llenado del grano
+Madurez
+Trigo
+1
+0.75
+0.50
+0.25
+0
+Maíz
+Iniciación floral masculina
+Iniciación floral femenina
+Floración
+Principio llenado
+activo del grano
+Fin llenado
+activo del grano
+Valor relativo al testigo sin 
+déficit hídrico
+Etapas ontogénicas
+Tiempo
+Número de granos
+Peso del grano
+Hall (1984)
+8-Déficit hídrico: efectos sobre el rendimiento
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Escape
+En climas mediterráneos con sequías 
+terminales
+Según régimen hídrico
+Tolerancia
+Déficit hídrico en cualquier momento
+de la estación de crecimiento
+Diferentes estrategias:
+• Mantener alto nivel de agua o
+• Tolerar bajos niveles de agua transitorios
+10
+0
+0
+Adecuar períodos críticos a la 
+estación lluviosa
+y en climas monzónicos
+S A MF
+Contenido hídrico
+ del suelo (%)
+l
+i
+S A MF
+10
+0
+0
+l
+i
+Contenido hídrico
+ del suelo (%)
+0
+100
+S A MF
+l
+i
+S: siembra
+A: antesis
+MF: madurez fisiológica
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+9-Déficit hídrico: estrategias para el manejo
+9-Déficit hídrico: estrategias para el manejo 
+Fuente Rotili et al. 2021
+Particion del ETc hacia etapas reproductivas
+Rotili, tesis doctoral
+9-Déficit hídrico: estrategias para el manejo
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Necesidad de agua en el período crítico (AU250mm)
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+0 50 100 150 200 250 300
+Frecuencia
+Necesidad de riego en período crítico (mm)
+Marcos Juárez
+Sept
+Oct
+Nov
+Dic
+2-120mm 
+(50% años)
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+R1
+8/12
+20/12
+08/01
+01/02
+Años húmedos
+(0-25mm)
+Años medios 
+(0-150mm)
+Años secos 
+(70-300mm)
+En años secos, los maíces de Sept y Oct. (tempranos) tienen una mayor 
+necesidad de agua que los tardíos. En años medios menor necesidad de 
+riego en maíces de Oct. y Dic. En años húmedos muy poca necesidad de 
+agua en todas las fechas. 
+Adaptado de Maddonni 2012 (TAC)
+9-Déficit hídrico: estrategias para el manejo
+Escape crítico por fecha de siembra
+Fuente: Cattivelli et al. Field Crops Research 105 (2008) 1–14
+9-Déficit hídrico: estrategias para el manejo
+Tolerancia
+Mecanismo Preantesis Postantesis
+a- Reducción de la radiación 
+interceptada (RI)
+• Reducción del IAF por:
+-reducción de la expansión foliar
+-aumento de la senescencia 
+foliar
+• Reducción de RI IAF-1 
+(marchitamiento)
++++
++
++
+---
+++
+++
+b- Reducción de la transpiración 
+por unidad de RI (T RI-1)
+--- ++
+Morfología del canopeo 
+Expansión foliar
+Senescencia foliar
+Orientación foliar
+Rasgos  fisiológicos
+Sensibilidad estomática
+(e.g., maíz y soja >girasol y algodón)
+Ajuste osmótico (e.g., girasol>maíz)
+Morfología radical
+Profusión radical
+Profundización radical
+Importancia relativa de diferentes mecanismos que regulan la 
+transpiración en Girasol (Connor y Sadras, 1992)
+9-Déficit hídrico: estrategias para el manejo
+Tolerancia
+Para tolerar se puede reducir el 
+consumo o incrementar al agua útil
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+INC: intercambio neto de C
+Cox y Jolliff (1987)
+-0.4
+-0.8
+-1.2
+-1.6
+0 riego
+secano
+Girasol Soja
+yl (MPa) 
+100
+200
+300
+400
+r (s m-1)
+15
+30
+45
+700 1200 1700
+INC (mol m-2 s-1)
+700 1200 1700
+Hora del día
+9-Déficit hídrico: estrategias para el manejo
+Sensibilidad estomática
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Genotipos de maíz con menor transpiración en alto DPV reducirían el 
+consumo
+Fuente: Gholipoor et al. J Agro Crop Sci (2013 ) 
+9-Déficit hídrico: estrategias para el manejo
+Conductancia hidráulica
+Cambios en la conductancia de la planta se correlaciona con la 
+conductancia de raíz (a > K raíz, mayor DPV para reducir transpiración)
+Fuente: Sunita et al. Crop Sci. 54:1147–1152 (2014)
+9-Déficit hídrico: estrategias para el manejo
+Conductancia hidráulica
+Suelo
+w= - 1.2 MPa
+Con
+Ajuste Osmótico
+Sin
+Ajuste Osmótico
+p= 0 MPa
+o= -1.2 MPa
+w= -1.2 MPa
+Déficit hídrico
+p= +0.5 MPa
+o= -2.0 MPa
+w= -1.5 MPa
+Planchon (1990)
+El ajuste osmótico (AO) consiste en la acumulación activa de solutos orgánicos e
+inorgánicos dentro de los límites de las membranas, como resultado de lo cual el potencial
+osmótico cae (figuras). En las especies capaces de producir AO, éste se manifiesta en mayor
+magnitud cuando el déficit hídrico se desarrolla lentamente (fig. derecha para girasol)
+0 -0.5 -1.0 -1.5 -2.0 yl (MPa)
+-1.0
+-1.5
+-2.0
+-2.5
+yo (MPa) 
+Déficit muy rápido
+Déficit progresivo
+Ww=Wp+Wo
+9-Déficit hídrico: estrategias para el manejo
+Ajuste osmótico
+Marchitamiento y transpiración
+1-Hay diferencias genotípicas en el marchitamiento
+2-El valor de AU para marchitamiento es menor 
+que para transpiración
+3-Las diferencias genotípicas de marchitamiento
+estarían más relacionadas con la velocidad de transpiración 
+(mayor o menor AU) que por las respuestas al AU.
+Fte: King et al., 2009 Crop Sci.
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Fuente: Carretero et al., Agron. J. 106:2287–2295 (2014)
+9-Déficit hídrico: estrategias para el manejo
+Profundidad de enraizamiento
+9-Déficit hídrico: estrategias para el manejo
+Profundidad de enraizamiento
+Fuente: Sciarresi et al. 2024
+Las diferencias genotípicas de profundización de raíces no se 
+asociaron a los niveles de rendimiento. Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+10. Genes relevantes de la respuesta de las plantas 
+a la sequía
+Fuente: Cattivelli et al. Field Crops Research 105 (2008) 1–14
+10. Genes relevantes de la respuesta de las plantas 
+a la sequía
+Gentileza
+: 
+Matías
+ Ruffo
+ (
+Bioceres
+)
+La 
+soja
+ HB4 en 
+ambientes
+ restrictivos
+ puede
+ dar
+ un “plus” de 
+rendimiento
+ frente
+ a la 
+convencional
+ (
+tolerancia
+ al 
+estrés
+). 
+10. Genes relevantes de la respuesta de las plantas 
+a la sequía
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+11:30 a 11:45hs Break
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+3ra Parte
+11:45 a 13:00 hs
+• Manejo de los cultivos y economía del agua: 
+impactos sobre el agua disponible y la EUA para la 
+producción de biomasa y el rendimiento
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+11- Manejo de los cultivos y economía 
+del agua
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+Biomasa= Agua disponible * ETc/ agua disponible * Biomasa/ETc
+Rinde= Biomasa* IC
+0
+50
+100
+150
+200
+250
+300
+0 50 100 150 200 250
+precipitación (mm)
+Escurrimiento (mm)
+90
+80
+70
+60
+50
+40
+30
+100
+0
+50
+100
+150
+200
+250
+300
+0 50 100 150 200 250
+precipitación (mm)
+Escurrimiento (mm)
+90
+80
+70
+60
+50
+40
+30
+100
+Curva número:
+SCS, USDA
+Textura del suelo
+Coberrtura
+Uso (pastura, cultivo)
+Humedad previa a la lluvia
+Adaptado de Boughton (1989)
+11- Manejo de los cultivos y economía 
+del agua: escorrentía
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Pp Esc 
+ 
+ 
+ 
+Localidad 
+ 
+ 
+Periodo 
+ 
+ 
+Textura 
+superficial 
+ 
+ 
+Pendiente mm mm % Rango% 
+ 
+ 
+ CN 
+Manfredi 
+(Córdoba) 
+92/93 Fr lim < 1% 379 145  6 38 35-40 92-94 
+Balcarce 
+(Bs. Aires) 
+86/87 Fr 2% 301 62  11 21 15-27 78-88 
+Oliveros 
+(Santa Fe) 
+97/98 Fr lim < 1% 365 188  8 51 47-54 88-91 
+Marcos Juárez 
+(Córdoba) 
+98/99 Fr lim <1% 346 85 25  90 
+ 
+Dardanelli y col. Datos no publicados
+Valores simulados en soja
+Importancia de los rastrojos: labranza conservacionista
+Trigo: Convencional: 46%
+          Conservacionista: 31%
+Soja: Convencional: 62%
+         Conservacionista: 37% 
+Marelli et al.1995
+11- Manejo de los cultivos y economía 
+del agua: escorrentía
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Adaptado de Dardanelli et al. (1994)
+0 2 4 6 8
+Días desde superficie húmeda (t)
+U= 5-14 mm
+Es= 1.7-8.2 t-1/2
+Fase I Fase II
+Evaporación del suelo
+ (mm día-1)
+-2
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+0 10 20 30 40
+Días
+Es acumulada 
+(mm)
+Labranza
+tradicional
+Laboreo
+reducido
+11- Manejo de los cultivos y economía del 
+agua: evaporación
+Tiempo
+Tasa de evaporación
++
+0
+20
+40
+60
+80
+100
+0 1 2 3 4 5 6
+Masa de rastrojos (Mg MS ha-1)
+Cobertura (%)
+Maíz
+Trigo
+Soja
+Girasol
+11- Manejo de los cultivos y economía del 
+agua: evaporación/ETc (densidad)
+Sadras y Calviño, 2001
+Sadras et al. 2002
+PROFUNDIDAD EFECTIVA
+respuesta diferencial según cultivos
+SALINIDAD
+Distribución de frecuencias del límite inferior (li) de 
+agua extraíble por cultivos de trigo para estratos de 
+suelo arcillosos y franco-arcillosos con conductividad 
+eléctrica (CE) y concentración de Na o B menores o 
+superiores al promedio. Los histogramas representan 
+las distribuciones reales, que se apartaron 
+significativamente (P<0.05) de la distribución normal 
+esperada (curvas), excepto para CE<0.45 dS/m.
+Soja: Y= 1.10 (1- e2.425 X); r2= 0.67
+Trigo: Y= 0.53 + 0.41X; r2= 0.66
+Girasol: Y= 0.32 + 0.54X; r2= 0.61
+Máíz: Y= 0.10 + 0.76X; r2= 0.60
+Profundidad de suelo (m)
+Rendimiento relativo
+0.2 0.4 0.6 0.8 1.0 1.2
+0.0
+0.5
+1.0
+CE>0.45 dS/m CE 0.45 
+dS/m
+Na>10.9 g/kg Na 10.9 g/kg
+B>9.5 mg/kg B 9.5 mg/kg
+0
+30
+20
+10
+0
+30
+20
+10
+0
+30
+20
+10
+40
+0 4 8 12 0 4 8 12li (%)
+Frecuencia (%)
+11- Manejo de los cultivos y economía del 
+agua: limitantes 
+edáficas
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Lo favorecen:
+Suelos arenosos
+Sistemas radicales superficiales
+Lluvias intensas o riegos abundantes
+Riesgo: contaminación de napas
+Asseng et al. 2001, Australia
+Tipo de suelo Rango de lluvia anual 
+(mm)
+Drenaje medido o estimado 
+(mm)
+Arenoso 165 - 258 44 - 154
+Franco arenoso 740 50 - 270
+Franco arcilloso 469 - 705 0 - 112
+11- Manejo de los cultivos y economía 
+del agua: drenaje
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Aporte de napa a la ETc en la región Pampeana: entre 0 y 45%
+11- Manejo de los cultivos y economía del 
+agua: napas
+Organo/Tiempo Parámetros medidos Unidades Representación
+Hoja; minutos (m) Asimilación (A) de C y 
+Transpiración (T) de hoja
+mmol mol-1 EUA(A,T,m)
+Planta; días (d) Biomasa aérea (B) y 
+Transpiración de planta
+g g-1 EUA (B,T,d)
+Cultivo; días 
+semanas (s) o ciclo 
+(c)
+Biomasa aérea y 
+Transpiración de cultivo
+g kg-1, kg mm-1 EUA(B,T,d)
+Cultivo; ciclo (c) Biomasa aérea y 
+evapotranspiración del 
+cultivo (ETc) o 
+precipitaciones (Pp)
+g kg-1, kg mm-1 EUA(B,ETc,c)
+EUA(B,Pp,c)
+Cultivo; ciclo Rendimiento en grano (G) y 
+ETc, precipitaciones (Pp) o 
+riego (R)
+g kg-1, kg mm-1 EUA(G,ETc,c)
+EUA(G,Pp,c)
+EUA= biomasa producida vs  T, Etc, Pp
+Asimilación de CO2
+Biomasa total
+Rendimiento en grano
+Transpiración
+Evapotranspiración
+Agua que ingresa al sistema
+11- Manejo de los cultivos y economía del 
+agua: EUA
+Producción de biomasa vs 
+consumo a lo largo del ciclo 
+de distintas especies
+Las pendientes representan EUA (B, T,c)
+Cebada: 2.11 g kg-1
+Trigo: 2.5 g kg-1
+Alfalfa:2.35 g kg-1
+Maíz: 4.49 g kg-1
+11- Manejo de los cultivos y economía del 
+agua: EUA(B,T,c) diferencias entre sp.
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+• Fines experimentales
+• Pendiente (EUAB, T, C) 
+es especie dependiente 
+(EUR) y el ambiente 
+la afecta si afecta la 
+EUR.
+• Ordenada al origen 
+estima la Es de cada 
+situación.
+La EUA disminuye al aumentar 
+el DPV
+Córdoba
+Balcarce
+Trigo
+Y = 36.0X; r2= 0.92 
+Y = 73.2X; r2= 0.98
+0
+3000
+6000
+9000
+12000
+15000
+0 100 200 300 400
+ETC (mm)
+Biomasa aérea (kg ha-1)
+a
+Y = -117 + 34.8X; r2= 0.92
+0
+3000
+6000
+9000
+12000
+15000
+0 100 200 300 400
+ETC DPV-1 (mm kPa-1)
+b
+Daradanelli et al. (1998)
+20
+30
+40
+50
+60
+70
+80
+0.0 0.5 1.0 1.5 2.0
+DPV (kPa)
+EUA(B,T,c) (kg ha-1 mm-1)
+Balcarce
+Córdoba
+Paraná
+Pergamino
+11- Manejo de los cultivos y economía del 
+agua: cambios en la EUA(B, T, c) por DPV
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+a: EUA evapotranspirada
+Se obtiene como Dy/ Dx. Como el 
+valor del denominador incluye la a 
+la Es, la EUA(B,ET,c) nunca puede 
+superar a la EUA(B,T,c)
+b: EUA transpirada
+Se obtiene como la pendiente del 
+modelo ajustado a la relación entre la 
+producción de biomasa aérea y la 
+ETC acumuladas a lo largo del ciclo.
+Despejando de cada ecuación en la figura (b) se puede obtener el valor de ETC cuando la 
+biomasa es cero, el cual representa la componente de evaporación del suelo (Es) de cada 
+ejemplo. En la figura (b), la pendiente de las ecuaciones no difiere estadísticamente entre los 
+tratamientos representados (fechas de siembra y regímenes hídricos)
+Siembra octubre secano
+Adaptado de Otegui (1992)
+Siembra noviembre riego
+Es2
+Dyo
+0
+500
+1000
+1500
+2000
+2500
+0 100 200 300 400 500 600 700
+y = -597 + 5.6 ETc
+r2= 0.98
+y = -1104 + 5.3 ETc
+r2= 0.99
+0 100 200 300 400 500 600 700
+Evapotranspiración del cultivo (kg m-2)
+Biomasa total aérea (g m-2)
+a b
+b1= 3.5 g g-1 
+b0= 4.2 g g-1 
+Dy1
+Es1
+Dxo
+Dx1
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Lenteja. Efecto del control (CM+) o ausencia de control (CM-) 
+de malezas, y de la fertilización (F+) o ausencia de fertilización 
+(F-) con N y P en la EUA evapotranspirada  durante el ciclo en el 
+cultivo de lenteja.
+Cooper et al. 1984
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+CM+F+ CM+F- CM-F+ CM-F-
+EUA(B,ET,c) (kg ha-1 mm-1) Labranza
+tradicional 
+Siembra
+directa
+Control
+Malezas
+Fertilización
+CM
+F
+11- Manejo de los cultivos y economía del 
+agua: EUA (B, ETc, c) fertilización y control de 
+malezas
+• Los cambios en la 
+EUA (B, Etc, c) 
+principalmente se 
+originaron por efectos 
+de la fertilización.
+• El control de malezas 
+y el sistema de 
+labranzas modificó la 
+EUA a través del agua 
+disponible para el 
+consumo de la arveja
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+11- Manejo de los cultivos y economía del 
+agua: EUA (R, ETc, c) 
+Fuente: Cakir Field Crops Research 89 (2004) 1–16
+• En este caso para cada año el autor trato de estimar una EUA (R, ETc, c)
+• Se podría interpretar que los cambios entre años fueron originados por 
+cambios en IC
+Hernández   et   al. Field  Crops  Research  178   (2015)  8–15
+Símbolos: estaciones de 
+crecimiento.
+Vacío: sin N
+Lleno: +120kgN/ha
+Riego
+Oferta N
+11- Manejo de los cultivos y economía del 
+agua: EUA (R, ETc, c) riego y fertilización
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Hernández   et   al. Field  Crops  Research  178   (2015)  8–15
+La EUA(R, ETc,c) aumentó con la oferta de N 
+11- Manejo de los cultivos y economía del 
+agua: EUA (R, ETc, c) riego y fertilización
+Dr. Gustavo Maddonni
+FA-UBA-IFEVA-CONICET
+
+Trigo (Australia). La línea representa la EUA(R,Pp,c) potencial, después de una 
+pérdida de 110 mm por Es. Las barras verticales destacan rendimientos contrastantes 
+para un mismo valor de lluvias. La dispersión puede atribuirse a factores climáticos 
+adversos, deficiencias en el manejo agronómico, plagas, enfermedades y otros. La 
+distancia horizontal entre un determinado valor y la línea de EUA potencial está 
+inversamente relacionada con la eficiencia con que el cultivo utilizó el agua disponible 
+para transpiración.
+French y Schultz, 1984
+Rendimiento en grano (t ha-1)
+8
+6
+4
+2
+0 0
+Es= 110 mm
+400 600
+Lluvias de Abril a Octubre (mm)
+11- Manejo de los cultivos y economía del 
+agua: EUA (R, Pp, c)
+13:00 a 14:30 hs
+Almuerzo
+
+14:30 a 14:45hs 
+• Presentación de ejercitación
+14:45 a 16:00 hs 
+• Ejercitación en grupos
+16:00 a 16:15 hs Break
+16:15 a 17:00 hs
+• Puesta en común ejercicios

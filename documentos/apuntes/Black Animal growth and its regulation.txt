@@ -1,0 +1,2168 @@
+=== Fuente: Black Animal growth and its regulation.pdf ===
+
+ANIMAL GROWTH AND ITS REGULATION 
+J. L. Black 
+CSIRO1, Blacktown, 2148, Australia 
+ABSTRACT 
+There are large variations both within and among animal species in size, growth rate, body 
+composition and metabolism. If the reasons for these differences are understood, the poten­
+tial for improving the efficiency of animal production could be markedly enhanced. This 
+paper has two sections. First, a computer simulation model that integrates current descrip­
+tive information on the rates of protein and energy deposition in domestic animals is used to 
+illustrate the consequences of genotype and administration of exogenous growth hormone 
+on growth rate, meat quality and whole enterprise profitability for pigs. Second, the deter­
+minants of animal growth and its regulation are discussed. Organ size is primarily determined 
+by cell number when defined as the amount of DNA per organ, whereas the rate of tissue 
+accretion is influenced by the rate of mitogenesis and the relative rates of protein synthesis 
+and degradation and of lipogenesis and lipolysis. Although the fundamental biochemical 
+reactions and methods of their control are similar for all species, large differences result from 
+minor variations in the regulation of these basic processes. The regulation results from an 
+intricate interaction between the genome and many mediators of metabolism. The peptide 
+growth factors, prostaglandins and cyclic-AMP, play particularly important roles in this 
+regulation. Aspects of the control of mitosis, protein turnover and cell differentiation are 
+discussed. 
+Introduction 
+There are large variations both within and 
+between animal species in mature body weight, 
+size of individual organs, rate of tissue accretion 
+and whole body composition. For example, 
+within the canine species, mature body weight 
+ranges from around 1 kg in the small breeds to 
+over 70 kg in the large breeds. Although most 
+mammals and birds have a finite body size that 
+is determined primarily by the potential num­
+ber of cells in each organ (Munro and Gray, 
+1969), many aquatic species of animals, in­
+cluding some cetaceans, appear to have an un­
+limited capacity for growth (Goss, 1976). The 
+continued enlargement of these aquatic species 
+is known to be associated with a progressive 
+increase in cell number and, in contrast to the 
+terrestrial mammals, also with an increase in 
+functional units such as kidney nephrons, teeth 
+and myocardial muscle fibers in the heart; there 
+is no epiphyseal closure in the long bones 
+ Div. of Anim. Prod., Prospect, P.O. Box 239. 1
+(Goss, 1974). Furthermore, some animal 
+species have the capacity to completely regen­
+erate lost appendages, such as is seen following 
+the removal of fins from fish or of tails from 
+lizards (Goss, 1976). The salamanda will 
+regenerate an entire limb following its amputa­
+tion, yet it is unable to regenerate a muscle or 
+bone that is taken from an otherwise intact 
+limb. 
+There are many examples of organs that 
+grow to different sizes in different animal 
+species because of evolutionary adaptations 
+within each species to its particular environ­
+ment. One example is the tail of the tree kanga­
+roo (Dendrolagus bennettianus), which is 
+almost twice the length of the rest of the body, 
+whereas in another arboreal marsupial of simi­
+lar weight, the koala (Phascolarctos cinereus), 
+the tail is virtually absent (Strahan, 1983). An 
+example of variation in the rate of growth of 
+animal species is seen in comparison of man 
+and sheep. Both have similar birth weight and 
+final body weight; man takes 15 to 20 yr to 
+reach mature size, whereas the sheep takes only 
+1.5 to 2 yr. The efficiency of conversion of 
+J. Anim. Sci. 66(Suppl. 3):l-22 
+
+2 BLACK 
+dietary energy into body tissue also varies 
+widel
+y between animal species, depending on 
+the rate of energy gain relative to maintenance 
+and the proportion of energy deposited as fat 
+and protein (Black, 1983a). There are wide  dif­
+ferences in the ratio of fat to protein deposited 
+in the body of animals; a value of .4 has been 
+reported in the carp (Nijkamp et al., 1974) 
+compared with a value of 7 to 9 in sheep during 
+the fattening phase of growth (Searle et al., 
+1972; Blaxter et al., 1982). Furthermore, the 
+response of animals to nutrient deprivation can 
+differ markedly. Although the rate of protein 
+catabolism is much reduced in most species 
+following fasting or prolonged undernutrition, 
+this is not true for the cat (Rogers and Morris, 
+1979). An extreme of body protein preserva­
+tion is seen in the black bear during winter 
+sleep (Nelson, 1980) and in the rutting stag 
+(Fennessy and Suttie, 1984); both lose large 
+amounts of body weight but do not lose body 
+protein. 
+If the reasons for these differences between 
+animals were understood, the potential for im­
+proving the efficiency of animal production 
+could be markedly enhanced. Prior to the last 
+decade, most research into animal growth and 
+metabolism was concerned with describing 
+changes in the organs and whole bodies of ani­
+mals in relation to various animal, dietary and 
+environmental phenomena. However, in recent 
+years there has been a substantial increase in 
+understanding of the determinants of animal 
+growth and its regulation, and it is now possible 
+to speculate on probable reasons for many of 
+the observed differences outlined above. It is 
+the role of animal scientists both to adopt 
+appropriate ways of utilizing current knowledge 
+and to conduct research for improving the effi­
+ciency and profitability of livestock production 
+now and in the future. The purpose of this 
+paper is, therefore, twofold. First, it is to illu­
+strate how current knowledge of the descrip­
+tion of animal growth and its components can 
+be integrated into computer simulation models 
+and used to improve the efficiency and profita­
+bility of meat production in domestic animals. 
+Second, it will discuss the determinants of 
+growth and its regulation with the aim of 
+focusing on the research needs of the future. 
+Description of Whole Animal Growth 
+Domestic mammals used in animal produc­
+tion such as cattle, sheep, goats and pigs show a 
+sigmoidal pattern to live weight increase with 
+time when reared under ideal dietary and en­
+vironmental conditions. The rate of live weight 
+gain increases during approximately the first 
+third of growth, remains relatively constant 
+during the middle third and decreases to reach a 
+plateau in live weight at maturity (Taylor and 
+Figure 1. Postnatal growth of organs and tissues relative to their mature weight. After Black, 1983b. 
+
+ANIMAL GROWTH AND ITS REGULATION 3 
+Murray, 1987). The actual rate of gain and final 
+matur
+e weight within each species is affected 
+by the strain and sex of animal. The increase in 
+weight is associated with different growth pat­
+terns for the organs that make up the body. 
+Figure 1 illustrates, for some organs in sheep, 
+differences in the rate of maturity relative to 
+body weight. Most internal organs are early 
+maturing and approach their mature weight 
+long before final body weight is reached. Brain 
+represents the extreme, having reached about 
+90% of its maximum size by the time the 
+animal is 35% of mature weight (Black, 1983b). 
+Of the other major body components, the order 
+of maturation is skeleton, muscle and fat, with 
+only fat approaching its maximum weight at a 
+faster rate than the whole body during the final 
+stages of growth. The species, strain and sex of 
+animal affect the pattern of organ development. 
+For example, males have a greater postnatal 
+development of bones and muscles, particularly 
+of the head and neck region, than do females 
+or castrates. 
+The consequence of these differences in the 
+rate of maturity between organs is that the 
+pattern of protein and fat deposition varies 
+both throughout the growth phase and between 
+animals of different strain and sex (Searle et al., 
+1972; Searle and Griffiths, 1976a,b). As an 
+example, the relationship between total body 
+fat and digesta free body weight is shown in 
+Figure 2 for entire male, castrated male and fe­
+male pigs fed a high-quality diet ad libitum to 
+maturity (Black et al, 1986). Similar relation­
+ships have been obtained for sheep of different 
+strains (Searle and Griffiths, 1976b). When 
+comparisons are made at the same weight, geno­
+types that are heavier at maturity generally 
+grow faster, contain less fat and more protein 
+and bone in their bodies than do animals of 
+smaller mature size (Black, 1983b). However, 
+differences due to sex do not become apparent 
+until around puberty. 
+The relative rates of fat and protein deposi­
+tion are also affected by plane of nutrition, 
+amino acid adequacy of the diet and climatic 
+conditions. The magnitude of these effects on 
+body composition and interactions between 
+various factors have been reviewed for sheep by 
+Black (1983b). Although there are some differ­
+ences in degree among the domestic species, the 
+effects of nutrition and climate on growth and 
+body composition are generally similar. A 
+reduction in the intake of an otherwise nutri­
+tionally balanced diet decreases the rate of fat 
+o 
+Empty body weight (kg) 
+Figure 2. Relationship between body fat weight 
+an
+d empty body weight for entire males •, females a 
+and barrows o. Lines are fitted by equations given by 
+Black et al., 1986. 
+deposition relative to protein and, when com­
+pare
+d at the same weight, produces a leaner 
+animal. Similarly, animals housed in conditions 
+below their lower critical temperature are 
+generally leaner than their counterparts housed 
+in a thermoneutral environment. Conversely, 
+animals fed amino acid-deficient diets deposit 
+fat at a faster rate than others fed amino acid-
+adequate diets and are fatter when compared at 
+any given live weight. 
+Prediction of Whole Animal Growth 
+and Composition 
+Many of the observed interrelationships 
+described above can be incorporated into com­
+puter programs that simulate animal growth and 
+body composition. These programs can then be 
+used to assess the likely consequences on 
+performance of manipulations to the strain or 
+sex of animal and to its diet and climatic en­
+vironment. The procedures involved in develop­
+ment of such programs were described for 
+sheep by Black (1983b) and have been further 
+refined in a simulation model developed for 
+pigs (Black et al., 1986). The pig program pre­
+dicts the potential rates of protein and energy 
+deposition for different strains and sex of 
+animals in relation to their live weight. It also 
+predicts the energy requirements for mainte­
+nance in relation to the protein content of the 
+body and the rate of protein deposition. Endo­
+genous amino acid losses through inevitable 
+catabolism and from the digestive tract are pre-
+
+4 BLACK 
+dieted as described by Black and Davies (1989). 
+The relationship between protein deposition 
+and energy intake is also defined for each strain 
+and sex of pig. Thus, the extent to which pro­
+tein deposition will be reduced below its poten­
+tial can be estimated for animals on restricted 
+feeding regimes. The effects of an inadequate 
+supply of amino acids and of adverse hot or 
+cold climatic conditions can also be predicted. 
+Details of the procedures used to predict the 
+potential rates of protein and energy deposition 
+and the relationship between protein deposition 
+and energy intake are now described for pigs of 
+different strain and sex. These relationships are 
+then used to illustrate the likely consequences 
+of exogenous administration of porcine growth 
+hormone on the performance of pigs and on 
+whole enterprise profitability. 
+Potential Rate of Energy and 
+Protein Deposition 
+It is assumed that when animals, growing 
+from birth to maturity, are given free access to 
+a high-quality diet in a situation in which feed 
+intake is not limited by gut capacity, disease or 
+the climatic or social environment, the rate of 
+energy and protein deposition represents the 
+maximum capacity of the animal to lay down 
+body tissue. The rate of deposition of both 
+energy and protein in pigs increases from birth 
+to a maximum when the animal weighs from 60 
+to 120 kg, depending on the genotype, and 
+then falls to zero when maximum body size is 
+reached. Unfortunately, there are few experi­
+ments in which pigs have been grown to matu­
+rity under ideal conditions. Results from Tullis 
+(1982) for a British strain of pig and for Austra­
+lian pigs grown to 100 kg (Hodge, 1974; 
+Robards and Radcliffe, 1987) were originally 
+used to estimate the parameters for predicting 
+potential rates of energy and nitrogen retention 
+in pigs of two strains using equations developed 
+for sheep by Black (1983b). Predictions from 
+these equations (Black et al, 1986) for entire 
+male, female and barrows for a superior geno­
+type and barrows of an inferior genotype are 
+shown in Figure 3. Results from a recent ex­
+periment (L. R. Giles and J. L. Black, unpu­
+blished data) in which pigs at the Wollongbar 
+Research Institute, New South Wales, Austra­
+lia, were grown from weaning to 150 kg under 
+ideal conditions indicate that the form of the 
+original equations should be modified slightly 
+to allow prediction of sufficiently high rates of 
+deposition in light weight pigs and still main­
+tain near maximal rates over the observed range 
+of body weights in heavier pigs. The equations 
+Figure 3. Relationship between potential daily gain in energy (a) and nitrogen (b) for entire males —, 
+females -— and barrows ••• of a genotype selected for fast growth and for barrows of a slow growing 
+genotype. After Black et al., 1986. 
+
+ANIMAL GROWTH AND ITS REGULATION 5 
+currently used for predicting the potential rate 
+of body energy (G EB, MJ/day) and body nitro­
+gen (GNB, g/day) gain are: 
+GEB = kE(W +  SE)aE((EB - EB)/EB) 
+[1] 
+GNB = kN(W +  SN)AN((NB - NB)/NB) 
+[2] 
+where kE(MJ/(W +  SE)AE daily) and kN(kg/(W 
++ Sfj)aN daily) are, respectively, the maximum 
+daily rates of gain in energy and nitrogen, E B 
+(MJ) and NB (kg) are the maximum amount of 
+energy and nitrogen in the body of animals at 
+maturity and EB (MJ) and NB (kg) are the 
+amounts at weight W. SE and SN are constants 
+added as a result of the recent experiment. 
+Eight parameters (k E, aE, SE, EB, kN, a^, SJJ 
+and NB) are, therefore, required to describe the 
+potential rates of energy and nitrogen deposi­
+tion in each genotype of pig. 
+Parameters fitted to these equations for both 
+entire male and female pigs of the Wollongbar 
+genotype are given in Table 1. The predicted 
+potential rates of nitrogen and energy deposi­
+tion are shown in Figure 4, where predicted ad 
+libitum feed intake, liveweight gain and P2 
+backfat thickness also are compared with 
+observations. Potential energy needs are pre­
+dicted from the sum of potential energy deposi­
+tion and maintenance energy requirements; 
+these are adjusted for the efficiency of energy 
+use and the digestible energy content of the 
+diet to predict ad libitum feed intake. Live 
+weight gain is predicted from the rate of 
+protein and fat deposition after accounting for 
+the water and ash associated with body protein 
+(Black et al., 1986). P2 is predicted from total 
+body fat. Observed and predicted values agree 
+closely with the fitted parameters, but informa­
+tion on pigs weighing more than 150 kg is re­
+quired to better determine the maximum 
+amount of energy and nitrogen in their bodies 
+at maturity. 
+TABLE 1.  PARAMETERS  FOR  EQUATIONS  1, 2 AND 3  THAT HAVE  BEEN  ESTABLISHED 
+TO DESCRIBE  THE  RATES  OF  ENERGY  AND  NITROGEN DEPOSITION  IN  ENTIRE 
+MALE AND  FEMALE  PIGS  OF THE  WOLLONGBAR STRAIN  AND IN 
+AN AMERICAN  STRAIN  OF  DUROC  X  HAMPSHIRE  BARROWS 
+WITH AND  WITHOUT  THE DAILY  ADMINISTRATION 
+OF 100  MG/KG  PORCINE  GROWTH  HORMONE 
+Pi
+g type  
+American Duroc X 
+Hampshire barrows 
+Wo"0"gbar Growth 
+Parameter Entire male Female hormone Control 
+Potential energy deposition 
+kg (MJ/«W + SE>aE • d» .404 
+aE .9 
+SE 12.5 
+EB(MJ) 5960 
+Potential nitrogen 
+deposition 
+kN (g/(W +  SN)aN . d)) .00609 
+aN .45 
+SN 25.0 
+NB(kg) 3.3 
+Nitrogen deposition: 
+energy intake relationship 
+aNBE 1-15 
+bNBE .0362 
+CNBE -75 
+dNBE .24 
+.335 .25 .19 
+.9 1.0 1.1 
+32.5 20.0 20.0 
+5960 2000 5800 
+.005 .00078 .0035 
+.45 .9 .5 
+25.0 20.0 20.0 
+3.0 10.0 5.5 
+1.35 .1 1.2 
+.045 .0192 .0192 
+.65 1.5 .45 
+.15 .75 .60 
+
+6
+(a)
+(I»
+"...---....... , ..... ..... -, -,
+\
+BLACK
+....
+(a)
+~-- .....- -..... .....,,
+<,
+\
+~ 3.10
+: './lO
+~ ,..
+m, ..
+r:~ LOO
+o,sQ
+"
+(c)
+"""
+(c)
+"/lO
+....
+J .•
+I ICC
+i:
+(d)
+.,
+(d)
+~ » c • c ,= ~ t~ ~ ~ _ _
+~IVEW£Il»fT (KO)
+~ • ~ E • l~ 1. '4 '. ~ _ _
+LIV£W£IQHT (1<0)
+Figure 4. Potential rates of energy --- and protein - deposition predicted from parameters given in Table 1
+for entire male and female pigs of the Wollongbar genotype. Predicted ad libitum feed intake, live weight gain
+and p 2 back fat thickness also are compared with experimental observations •.
+Relationship between Energy Intake
+and Protein Deposition
+Many recent experiments (Campbell et al.,
+1985a,b; Dunkin et al., 1986; Dunkin and
+Black, 1987; Campbell and Taverner, 1988a)
+indicate that protein deposition in the body of
+pigs increases linearly with energy intake until
+the potential for the particular genotype and
+body weight is reached. Comparison of results
+from entire male pigs of the one strain ranging
+in weight from 6 to 90 kg (Dunkin and Black,
+1987 and unpublished data) show that the
+slope of the relationship between nitrogen
+retention falls with increasing body weight. The
+change in slope was greater as weight increased
+for lighter than for heavier pigs and there was
+little change for pigs weighing more than 50 kg.
+This change in slope of the body nitrogen
+deposition, metabolizable energy intake rela­
+tionship (GNBE, g/MJ) with increasing body
+ANIMAL GROWTH  AND ITS REGULATION 7 
+weight is  described  in the  computer program 
+using a  declining exponential function  of the 
+form: 
+GNBE =  ANBEE bNBE w + cNBE 
+[3] 
+where a^gE, b^BE ar>d cNBE  are constants  and 
+W is  empty body weight.  The  slope  of the 
+relationship is  also affected  by the  strain 
+(Campbell and Taverner, 1988a)  and sex (Camp­
+bell et al,  1985b)  of pig. It is  greater  in  fast 
+growing, leaner strains  and in  entire males than 
+it is in  slower growing, fatter strains, females  or 
+barrows. In  addition, these experiments indi­
+cate that  the  intercept  of the  relationship 
+differs with genotype such that  the  faster 
+growing, leaner pigs require more energy  for 
+zero protein deposition than  do  slower growing 
+pigs of the  same weight. When  the  energy 
+intake required  for  zero nitrogen deposition  is 
+expressed as a  proportion  of the  energy  re­
+quired for  maintenance, there  is  little indication 
+of a  systematic change with body weight 
+(Dunkin and  Black,  1987 and  unpublished 
+data). However, more experiments  are  required 
+to justify this assumption. 
+Thus, to  describe  the  relationship between 
+energy intake  and  protein deposition, four 
+parameters, three defining  the  slope (a^g^, 
+bNBE and CNBE)  ar>d  one  (dNBE) describing  the 
+intercept, must  be  specified  for  each genotype. 
+In the  experiment conducted recently with  the 
+Wollongbar pigs, five groups  of  either entire 
+male or  female pigs were each given different 
+feed intakes between  30 and 50 kg, and  their 
+rates of  growth, nitrogen  and  energy retention 
+were estimated. Parameters describing  the  rela­
+tionship between energy intake  and  nitrogen 
+retention that were derived  for  this genotype 
+are given  in  Table  1, and a  comparison between 
+predictions and  observations  is  presented  in 
+Table 2. 
+Predicted Effects  of  Exogenous Growth 
+Hormone Administration 
+The daily administration  of  exogenous por­
+cine growth hormone  has  resulted in a  substan­
+tial increase  in  growth rate,  an  improvement  in 
+feed conversion efficiency  and the  production 
+of a  leaner carcass  in  pigs from  25 to 100 kg 
+(Machlin, 1972;  Boyd  et al., 1986;  Etherton 
+et al., 1986, 1987;  Campbell et al.,  1988a,b). 
+Although there are normally large differences  in 
+these characteristics between entire males, 
+females and  barrows,  the  administration  of 
+growth hormone eliminates them  and  reduces 
+voluntary intake  in all  sexes below that nor­
+mally recorded  for  entire males (Campbell  et 
+al., 1988b). However,  it  does  not  eliminate dif­
+ferences between strains (Campbell  and  Taver­
+ner, 1988b).  In the two  experiments reported 
+by Campbell  et al.  (1988a,b), 100  fxg/kg of  por­
+cine growth hormone  was administered daily  to 
+Duroc x  Yorkshire pigs growing from  25 to 55 
+kg and  from  60 kg for 31 d. The  lighter pigs 
+were fed at  three levels  of  intake including  ad 
+libitum, whereas  the  heavier pigs were  fed ad 
+libitum; comparisons were made with  un­
+treated controls. Because live weight gain  and 
+the rates  of fat and  protein deposition were 
+measured, these experiments provide sufficient 
+information to  allow  an  approximate estima­
+tion of the  parameters outlined above  for de­
+scribing genotype.  It can be  assumed that  the 
+growth hormone-treated pigs behave  as if  they 
+were another "genotype," because their poten­
+tial to  deposit protein  and  energy have been 
+altered. Parameters derived  for the  untreated 
+and growth hormone-treated barrows  are in­
+cluded in  Table  1. The  predicted and  observed 
+performance of the  pigs  are  compared  in 
+Table 3 and  show reasonable agreement.  It is 
+interesting to  note that because  the  body pro­
+tein content  and  rate  of  protein deposition 
+were greater  in the  treated pigs, energy require­
+ments for  maintenance were predicted  to be 
+higher in  these pigs than  in the  controls.  The 
+predicted differences  for the  pigs growing from 
+25 to 55 kg  ranged from  .7 to 2.4 MJ/d  depend­
+ing on  intake  and are  similar to the  difference 
+of 1.3 MJ/d  observed  by  Campbell  et al. 
+(1988a). Furthermore,  the  observed reduction 
+in ad  libitum intake  in the  treated pigs  was 
+predicted because  of  their reduced potential 
+for energy deposition. 
+A major advantage  of  incorporating  a de­
+scription of  growth hormone-treated pigs  in 
+the computer program  is  that  it  allows  the 
+likely effects  on  amino acid requirements  and 
+enterprise profitability  to be  assessed. Predicted 
+differences between  the  growth hormone-
+treated and  control barrows  in  requirement  for 
+available lysine  are  shown  in  Figure  5. The 
+shapes of  these curves depend  on the  parame­
+ters used  to  describe  the  potential rates  of 
+energy and  protein deposition,  but the  com­
+parisons in  Table  3  between predicted  and ob­
+served pig  performance suggest that they  are 
+
+TABLE 2. COMPARISON BETWEEN OBSERVATIONS (O) AND PREDICTIONS (P) FROM THE PIG SIMULATION PROGRAM 
+FOR THE WOLLONGBAR STRAIN OF PIGS FED ONE OF FIVE LEVELS OF INTAKE FROM 
+30 TO 50 KG LIVE WEIGHT 
+T Digestible energy Nitrogen balance, Energy retention, Live weight gain, 
+(feeding intake, MJ/d g/d MJ/d g/d 
+level
+) OP OP OP O 
+Entire males 
+1 
+2 
+3 
+4 
+5 
+29.6 
+26.9 
+22.3 
+18.0 
+13.6 
+29.7 
+25.7 
+22.7 
+18.3 
+13.9 
+26.2 
+23.0 
+19.8 
+15.4 
+10.4 
+27.1 
+23.2 
+20.2 
+16.0 
+11.8 
+16.8 
+13.7 
+11.2 
+9.0 
+3.7 
+14.8 
+12.3 
+10.4 
+7.7 
+4.8 
+1085 
+924 
+758 
+583 
+322 
+1090 
+921 
+795 
+613 
+428 
+Females 
+1 
+2 
+3 
+4 
+5 
+31.7 
+27.5 
+22.5 
+18.0 
+13.5 
+31.6 
+26.7 
+22.7 
+17.6 
+13.9 
+21.9 
+21.6 
+16.9 
+13.8 
+11.1 
+22.0 
+21.3 
+17.8 
+13.5 
+10.6 
+17.8 
+13.3 
+10.9 
+6.8 
+4.2 
+16.4 
+13.3 
+10.6 
+7.3 
+4.9 
+1010 
+883 
+683 
+483 
+351 
+1000 
+890 
+739 
+541 
+459 
+
+TABLE 3. DUROC X HAMPSHIRE BARROWS GROWING FROM EITHER 25 TO 55 KG OR 60 KG FOR 31 DAYS, WITH AND WITHOUT 
+THE DAILY ADMINISTRATION OF 100 uG/KG PORCINE GROWTH HORMONE 
+Digestible 
+energ
+y 
+intake, 
+MJ/d 
+Nitrogen 
+balance
+, 
+g/d 
+Fat 
+deposition
+, 
+g/d 
+Energy 
+balance
+, 
+MJ/d 
+Live 
+weigh
+t gain, 
+g/d 
+Prediction 
+fo
+r meta-
+bolizable 
+energy 
+for main­
+tenance, 
+Feeding level a O pa O P O P o P O P MJ/d 
+Pigs 25 to 55 k 
+302 
+16
+3 
+129 
+Control 
+A
+d libitum 
+80% Ad libitum 
+60% Ad libitum 
+33.9 
+23.
+9 
+20.1 
+30.8 
+23.
+2 
+19.6 
+17.6 
+13.
+6 
+12.5 
+18.0 
+15.
+8 
+13.0 
+283 
+17
+1 
+110 
+Pigs 25 to 55 k 
+302 
+16
+3 
+129 
+g 
+13.7 
+8.
+7 
+6.1 
+14.5 
+8,
+7 
+6.9 
+965 
+67
+0 
+543 
+847 
+63
+6 
+520 
+9.1 
+8.
+5 
+7.9 
+Growth hormone 
+administered 
+A
+d libitum 
+80% Ad libitum 
+60% Ad libitum 
+30.5 
+23.
+7 
+19.6 
+28.6 
+24.
+0 
+19.6 
+24.2 
+20.
+3 
+16.8 
+26.4 
+21.
+9 
+17.9 
+193 
+12
+7 
+76 
+189 
+13
+8 
+102 
+11.1 
+7.
+9 
+5.4 
+11.2 
+8.
+2 
+6.4 
+1052 
+84
+2 
+681 
+972 
+79
+4 
+647 
+11.5 
+9.
+7 
+8.6 
+Control 
+A
+d libitum 53.6 47.2 22.2 21.1 462 
+rigs OU Kg lur J 1 cidyS ' 
+48
+7 21.4 22.2 1057 1131 14.0 
+Growth hormone 
+administere
+d 
+Ad libitum 41.5 40.9 37.4 36.3 222 218 14.1 13.7 1224 1273 19.1 
+O = observed value; P = predicted value. 
+
+10 BLACK 
+and 5. The animals were assumed to be grown 
+unde
+r ideal conditions and were fed either ad 
+libitum or 80% of ad libitum. Many observa­
+tions in Australia suggest that pigs in commer­
+cial piggeries consume only 70 to 80% of the 
+feed eaten under ideal conditions. Two diets, 
+which were formulated to be close to ideal for 
+the treated pigs and which contained 19 and 
+15.3% crude protein and cost A$328 and $221 
+per ton, respectively, were fed to all groups. 
+Profitability was calculated for a typical Austra­
+lian piggery with 275 sows. Each sow was 
+assumed to produce 2.35 litters per year with 
+11.0 piglets born alive and 9.7 weaned. A linear 
+program (Black et al, 1987a) was used to cal­
+culate the most profitable carcass sale weight 
+for pigs sold to a typical Australian company 
+that pays a considerable premium for lean pigs. 
+Feed and other costs associated with the breed­
+ing herd were taken into account. Capital was 
+required to purchase the breeding stock and 
+construct pig accommodation; a 20-yr deprecia­
+tion was allowed, but interest on borrowed 
+capital was not included. 
+The untreated barrows fed ad libitum under 
+ideal conditions were predicted to be exceed­
+ingly fat, with only 3% of carcasses making the 
+top two grades of the buyers schedule. By com­
+parison, the growth hormone-treated pigs grew 
+faster, had 99% of carcasses in the top grades 
+and returned 50 cents/kg more than the un­
+treated animals. Because the treated pigs grew 
+TABLE 4. PREDICTED EFFECT OF THE DAILY ADMINISTRATION OF 100  uG/KG 
+PORCINE GROWTH HORMONE ON THE PERFORMANCE OF 
+DUROC X HAMPSHIRE PIGS GROWN FROM WEANING 
+TO 100 KG AND FED EITHER AD LIBITUM 
+O
+R AT 80% AD LIBITUM UNDER IDEAL CONDITIONS 
+Control 
+Growth 
+hormone-treate
+d 
+Item Ad libitum Restricted Ad libitum Restricted 
+a 
+Weaning to 100 kg 
+Live weight gain, g/d 
+Feed conversion, kg/kg
+871 
+2.6
+1 
+746 
+2.5
+9 
+1003 
+2.0
+6 
+721 
+2.1
+1 
+At 100 kg live weight 
+Age
+, d 
+ back fat, mm 
+Carcas
+s in top grades, % 
+Carcass value, A$/kg 
+2P
+131 
+26.
+6 
+3.4 
+1.40 
+148 
+21.
+4 
+22.6 
+1.67 
+116 
+12.
+6 
+99.3 
+1.90 
+152 
+11.
+8 
+99.8 
+1.90 
+Kilogram feed/kg live weight gain assuming 5% feed wastage. 
+O.GQ -
+0.5
+5 -
+0.50 • 
+0.45 • 
+0.40 • 
+0.35 • 
+0.30 -
+0.?5 -
+Q.2D 
+Q.15 -
+0.10 • 
+0.05 -
+0.00 L 
+GROWTH HORMONE 
+UVEWE1GHT JKg) 
+Figur
+e 5. Predicted effect of the daily administra­
+tion of 100 Mg/kg porcine growth hormone on the 
+lysine requirements of Duroc X Hampshire barrows. 
+within the correct range. The predictions in­
+dicate that the amino acid requirements of the 
+growth hormone-treated pig are considerably 
+greater than those of the untreated barrow and 
+that they do not decline greatly as the pig in­
+creases in weight. Differences in amino acid 
+requirements between entire male and female 
+pigs have been observed previously and show a 
+close relationship with rate of protein deposi­
+tion (Batterham et al., 1985; Giles et al., 1986). 
+Predicted effects of the daily administration 
+of 100 Mg/kg of growth hormone to barrows 
+grown from 8 to 100 kg on their performance 
+and on enterprise profitability are compared 
+with those for untreated animals in Tables 4 
+
+ANIMAL GROWTH AND ITS REGULATION 11 
+TABLE 5. PREDICTED EFFECT OF ADMINISTRATION OF 100  fiG/D 
+PORCINE GROWTH HORMONE AND LEVEL OF FEEDING 
+ON ANNUAL PROFITABILITY AND RESOURCES 
+USED BY A 275-SOW PIGGERY 
+Growth 
+Control hormone-treated 
+Item Ad libitum Restricted Ad libitum Restricted 
+Herd statistics 
+Grower pigs sold 5992 
+Carcass sale weight, kg 76.6 
+Grower pigs on hand 2213 
+Profitability, A$ 
+Gross income 659,416 
+Feed costs 385,989 
+Other costs 300,336 
+Net return -26,910 
+Resources used 
+Capital, A$ 591,255 
+Pen floor area, m1 1112 
+5992 5992 5992 
+73.7 77.2 77.2 
+2431 2012 2588 
+741,555 892,830 892,830 
+364,713 324,531 336,416 
+301,532 299,107 302,923 
+75,310 269,192 253,490 
+628,084 549,065 656,783 
+1250 995 1383 
+faster, there were fewer on hand at any time 
+and they required less floor area and less capi­
+tal than the control animals. Consequently, a 
+A$27,000 loss was predicted to be converted 
+to a A$270,000 profit by administration of 
+growth hormone, assuming that it was without 
+cost. A reduction in the intake of the control 
+pigs slowed growth rate and depressed fat 
+deposition; this resulted in a substantial im­
+provement in the proportion of pigs in the 
+higher carcass grades and a profit of A$75,000. 
+In contrast, a reduction in intake for the 
+treated pigs caused a larger depression in 
+growth rate because protein deposition was re­
+duced and not fat deposition, as in the controls. 
+Thus, reducing the intake of the treated pigs 
+had little effect on carcass grades and reduced 
+profit. These predictions suggest that there are 
+considerable benefits from treating pigs with 
+growth hormone, provided they can eat suffi­
+cient feed to grow fast and there is a premium 
+for lean pigs. The comparison is, however, not 
+a true reflection of the effects of growth hor­
+mone on profitability. First, the same diets 
+were fed to all pigs. When three cheaper diets 
+with appropriate amino acid contents were 
+given to the untreated animals, profit was pre­
+dicted to be A$29,000 and $113,000 for ad 
+libitum and restricted feeding. Secondly, the 
+cost of treatment should be included in the 
+calculations. 
+Cellular Factors Associated 
+with the Size and Growth Rate of Organs 
+The size of an animal is the result of the size 
+of its individual organs, which depend on the 
+number and size of cells they contain. Growth 
+rate is determined by the rate of increase in cell 
+contents in each organ and is primarily the 
+result of the rate of mitogenesis and the relative 
+rates of protein synthesis and degradation and 
+of lipogenesis and lipolysis. Although the num­
+ber of cells in some tissues such as mammalian 
+muscle is fixed near birth, the number of nuclei 
+in each muscle fiber cell continues to increase 
+into postnatal life through transfer from satel­
+lite cells outside the fiber (Allen et al., 1979). 
+Cheek et al. (1971) suggested that each nucleus 
+in a tissue has the capacity to support a certain 
+amount of cell tissue. Because the DNA content 
+of a diploid nuclei is virtually constant in ani­
+mals (Vendrely, 1955), cell number is often 
+expressed as the amount of DNA in an organ 
+and cell size as the mass of tissue/unit DNA. 
+This avoids problems with polyploid tissues. 
+Organ Size 
+Although there are substantial differences in 
+the size of cells between organs (Colebrook et 
+al., 1988), considerable evidence both among 
+(Munro and Gray, 1969) and within (Robinson 
+and Bradford, 1969; Falconer et al., 1978a; 
+
+12 BLACK 
+Bernier et al., 1987; Colebrook et al., 1988) 
+specie
+s indicates that the difference in the size 
+of a specific organ is due mainly to a difference 
+in cell number, with only minor variation in 
+cell size. For example, Munro and Gray (1969) 
+observed that liver cells in the mouse, rat, 
+rabbit, dog, bullock and horse were approxi­
+mately the same size and that the difference in 
+liver mass from 1.7 g in the mouse to 9.0 kg in 
+the horse was due entirely to the number of 
+cells. There was, however, a small variation be­
+tween the species in the size of muscle cells 
+when measured as mass tissue/DNA. Muscle 
+mass was 23,000 times greater in the horse 
+than in the mouse; there were 10,000 more 
+cells in the horse muscle and they were 2.3 
+times larger. Colebrook et al. (1988) examined 
+the cellularity of 16 organs in six breeds of 
+mature rams fed a high-quality diet ad libitum 
+and found that cell number was the major 
+determinant of organ mass for all organs except 
+perirenal fat, for which cell number and cell 
+size contributed approximately equally. Cell 
+size contributed significantly, but to a minor 
+extent, to the mass of only three other organs, 
+spleen, liver and vastus lateralis muscle. Falco­
+ner et al. (1978a) selected large and small 
+strains of mice and found also that cell size as 
+well as cell number contributed significantly 
+to differences in the mass of spleen, liver, lung 
+and kidney. Cell size also contributed more to 
+the differences in organ mass between males 
+and females than it did between the strains. 
+Chimeras developed from the two strains of 
+mice (Falconer et al., 1978b) showed a positive 
+relationship between body weight and the pro­
+portion of cells contributed from the large 
+strain, further suggesting that cell size accounts 
+for some of the difference in organ size be­
+tween animal strains. 
+Limited evidence indicates that the major 
+effect of endocrine manipulation of growth is 
+also through hyperplasia. Introduction of addi­
+tional copies of the growth hormone gene into 
+mice markedly increases growth rate and can 
+result in a doubling of body size (Palmiter et 
+al., 1982). However, the effect on indivdual 
+organs differs (Hammer et al., 1985). The liver 
+and spleen were 3.5-fold and 3.0-fold larger, 
+respectively, in the treated animals than in the 
+controls, with approximately 80% of the differ­
+ence being due to hyperplasia. Kidney, heart, 
+lung and testes were twice as large due solely 
+to an increase in cell number, whereas the size 
+and cellularity of brain was unaffected. 
+The cessation of cellular hyperplasia in most 
+organs is one feature of growth that distin­
+guishes land-dwelling mammals and birds from 
+many other forms of animal life. In mammals, 
+organs attain their full complement of cells at 
+different stages of the animal's development. 
+For example, hyperplasia of the brain in sheep 
+is completed soon after birth (Black, 1983b), 
+whereas it occurs in the gastrocnemius muscle 
+when the animal weighs about 35 kg (Johns and 
+Bergen, 1976) and in adipose tissue at about 
+45 kg live weight (Hood and Thornton, 1979). 
+Prolonged nutrient restriction during the period 
+of hyperplastic growth slows the rate of cell 
+division and can result in a reduction in the 
+final number of cells in the organ and perma­
+nent reduction in ultimate organ size (Winick 
+and Noble, 1966; Dobbing and Sands, 1971). 
+After the period of hyperplastic growth is com­
+pleted, variation in organ size results almost 
+entirely from variation in cell size. Prolonged 
+under-nutrition (Masters, 1963) or the severe 
+infestation with gastrointestinal nematodes 
+(Symons and Jones, 1975) dramatically reduces 
+the size of many organs in adult sheep but does 
+not alter the number of cells in the heart, liver, 
+kidneys, spleen, lungs or muscles. Similarly, a 
+change in cell size totally accounts for an in­
+crease in organ size in adult animals following 
+an enhanced work load, such as results in the 
+heart from partial restriction of the aorta 
+(Morkin and Ashford, 1968). 
+Rate of Tissue Accretion 
+The rate of tissue accretion depends pri­
+marily on the rate of mitogenesis and the net 
+rates of protein and lipid deposition. These 
+functions, particularly the rate of mitogenesis 
+and protein accretion, are closely associated 
+(White et al., 1988). Many cells must reach 
+about 80% of their mature size before they are 
+capable of dividing (Bertalanffy, 1960). 
+Baserga (1984) speculates that procession of 
+cells though the cell cycle depends on the 
+successive synthesis of receptors for different 
+growth factors responsible for mitosis. Be­
+cause of the similarity in cell size within organs 
+across species, differences in the rate of tissue 
+accretion must reflect closely differences in the 
+rate of mitogenesis. Thus, despite a similar 
+mature muscle mass in man and sheep, the 
+DNA content of human muscle continues to 
+increase in individuals until they are at least 
+17 yr of age (Cheek et al., 1975), whereas it 
+
+ANIMAL GROWTH AND ITS REGULATION 13 
+reaches a peak in well-fed sheep by the time 
+the
+y are 6 mo old (Johns and Bergen, 1976). 
+Similarly, faster growing, large breeds of dogs 
+(Walton et al., 1988) and strains of mice 
+(Falconer et al., 1978a; Bernier et al., 1987) 
+have a faster rate of mitogenesis than their 
+slower growing, smaller counterparts. The rate 
+of mitogenesis is also reduced following feed 
+restriction (Bernier et al., 1987; Walton et al., 
+1988), inadequate dietary protein (Campbell 
+and Dunkin, 1983) and hypophysectomy 
+(Everitt, 1976). There is an interesting negative 
+association between the rate of mitogenesis 
+and longevity in mammals. Smaller dogs can 
+live about twice as long as larger dogs, and rats 
+deprived of food live longer than those that 
+grow quickly (Walton et al., 1988). However, 
+the opposite appears to exist with aquatic 
+species, which maintain a high mitogenic rate 
+throughout their existence and are thought to 
+have no inherent limit to longevity (Goss, 
+1974). 
+Net rate of protein deposition within an 
+organ depends on the differences between rates 
+of synthesis and degradation of the proteins it 
+contains. There are large differences in the turn­
+over rates of proteins within each tissue, with 
+estimates for the half-life of liver proteins 
+ranging from .2 to 150 h (Dice and Goldberg, 
+1975). Many dietary, animal and environmental 
+factors are known to affect the rate of protein 
+deposition, but this does not result from any 
+consistent change in the rates of protein synthe­
+sis and degradation. The only consistency is 
+that protein deposition is increased whenever 
+the difference between the rate of synthesis and 
+degradation is enhanced. For example, refeed-
+ing animals after protein deprivation stimulates 
+both synthesis and degradation, but the effect 
+on synthesis is greater (Millward et al., 1975; 
+Reeds et al., 1981). In contrast, an increase in 
+protein deposition following an improvement in 
+the amino acid balance of dietary protein does 
+not change synthesis rate but depresses degrada­
+tion rate (Fuller et al., 1987). Black bears 
+(Ursus americanus) fasting during winter sleep, 
+in contrast to summer starvation, totally pre­
+serve body protein by increasing the rate of 
+protein turnover threefold to fivefold and pre­
+sumably equalize the rates of protein synthesis 
+and degradation (Nelson, 1978). Stretch and 
+work hypertrophy in muscles as well as ad­
+ministration of triiodothyronine increase pro­
+tein deposition by increasing synthesis rate 
+more than degradation rate (Reeds and Palmer, 
+1986). However, growth hormone administra­
+tion appears to stimulate synthesis with little 
+change in degradation rate (Eisemann et al., 
+1986). The synthetic anabolic steroid tren-
+bolone acetate stimulates protein deposition by 
+reducing both synthesis and degradation rates, 
+but having a greater effect on degradation 
+(Vernon and Buttery, 1976). Examination of 
+protein turnover rates in genetically fast and 
+slow growing mice indicate that there is no 
+more than a 10% difference in either synthesis 
+or degradation rate between the strains despite 
+a 45% difference in growth rate (Bernier and 
+Calvert, 1987). It is suggested that a difference 
+in the energetic efficiency of fat deposition 
+may be more important than a difference in 
+protein turnover for determining differences 
+in growth rate of these mice (Bernier et al., 
+1987). 
+Prediction of Cellularity 
+and Protein Turnover 
+Baldwin and Black (1979) developed a 
+computer program to simulate the changes 
+described above in tissue cellularity and turn­
+over rates for mammals ranging in size from 
+mice to humans. Although the program could 
+predict satisfactorily differences in growth 
+between species and the effects on organ 
+growth and cellularity of changes in nutrient 
+supply, it required a better understanding of 
+the biochemical regulation of the processes of 
+mitogenesis, protein turnover and metabolism 
+to have wide application for assessing the deter­
+minants of growth. 
+Biochemical Regulation of Organ Size 
+and Growth Rate 
+Stability of the Biochemical System 
+Basic biochemical pathways of metabolism 
+have remained essentially unchanged during 
+evolution from the prokaryote cell. It has been 
+proposed by Sager (1965) that life began with 
+the stabilization of three interacting systems: 
+nucleic acids for replication, either photo­
+synthesis or chemosynthesis for trapping 
+energy, and a protein-enzyme system to cata­
+lyze the two processes, to mediate responses 
+and to form structures. After this scheme 
+stabilized, any mutation that strongly modified 
+it would be lethal; hence the extreme conser­
+vatism in evolution of biochemical reactions. 
+Variation in metabolism between animals has 
+
+14 BLACK 
+resulted occasionally from additions to the sys­
+te
+m through gene replication, but most of the 
+variation comes from modifications to the 
+existing system. For example, Hochachka 
+(1976) reviewed the biochemical features in 
+muscle tissue ranging from obligate-anaerobe 
+to obligate-aerobe in mammals from many  dif­
+ferent environments. He showed that the basic 
+biochemical features were identical in all tissues 
+but that each was adapted to its particular en­
+vironment by differences in the concentrations 
+of enzymes and the regulation of reaction rates. 
+Regulation of Biochemical Reactions 
+The principles underlying the control of the 
+rate of each biochemical reaction (V) are 
+embodied in the Michaelis-Menten kinetic 
+equation 
+V = VmBX(l+Km/[S]) [4] 
+where V,^ is the maximum rate of the reac­
+tion and Km represents the binding affinity 
+between substrate and enzyme catalyzing the 
+reaction, and is defined as the concentration 
+of the substrate ([S]) when the reaction is 
+half maximum. VmJ of a reaction depends pri­
+marily on the amount of enzyme required to 
+catalyze the reaction that is availabe at the 
+reaction site. This is influenced by many fac­
+tors, including the rate of transcription of the 
+gene that leads to the formation of the mRNA 
+required for the synthesis of the particular 
+enzyme and the rate of degradation of that 
+mRNA. The rate of enzyme synthesis is influ­
+enced by the availability of several other RNA 
+species, particular amino acids, GTP, ATP and 
+initiation factor proteins, whereas its degrada­
+tion is determined by its susceptibility to inter­
+cellular proteases, which is a feature of its 
+amino acid sequence, the availability of these 
+proteases and of their specific inhibitors. The 
+binding affinity between the enzyme and sub-
+state is influenced primarily by the tertiary 
+structure of the enzyme and its electronic prop­
+erties, which together determine the availability 
+of suitable binding sites. This is influenced by 
+the amino acid sequence of the enzyme and the 
+presence of other substances that bind to either 
+the enzyme or substrate to alter their con­
+figuration and, hence, affinity. The concentra­
+tion of substrates available for metabolism 
+depends on the relative rate of supply and re­
+moval at the reaction site. The rate of sub­
+strate supply depends partially on the rate of 
+transport across cell membranes, on its concen­
+tration in blood and on the rate of blood flow. 
+Membrane transport is influenced by several 
+endocrine factors, whereas substrate concentra­
+tion in blood is determined by its absorption 
+from the gut and its uptake and release by all 
+body tissues. The importance of blood flow for 
+regulating the rate of metabolic reactions has 
+been emphasized by Coulson and Herbert 
+(1981). They argue that the small differences 
+between a shrew and a whale in enzyme con­
+centrations, substrate concentrations or Km 
+of biochemical reactions are quite insufficient 
+to explain the  1,000-fold  difference in the rate 
+of metabolic reactions, and that the major 
+determinant is the rate of blood flow and hence 
+delivery of substrates for metabolism. An in­
+crease in mammary blood flow is also impli­
+cated in the milk production response to 
+thyroxine and growth hormone (Davis et al., 
+1988). 
+When competition between alternative bio­
+chemical pathways within a tissue is considered, 
+the final outcome depends on the relative 
+velocities of the competing reactions; that is, 
+the relative V,^, affinities and substrate con­
+centrations for each reaction. For example, 
+acetyl Co A can be catabolized via the tri­
+carboxylic acid cycle, used for the synthesis of 
+fatty acids or converted to acetate. All reac­
+tions are likely to proceed, but the flux of 
+acetyl CoA through each pathway depends on 
+the relative kinetics of the three reactions and 
+will vary with concentration of acetyl CoA 
+(Black etal., 1987b). 
+Mediators of Metabolism and Growth 
+There are many substances that influence 
+the rate of metabolic reactions in animals. They 
+include hormones, peptides, growth factors, 
+prostaglandins, catecholamines, metabolites, 
+free ions, toxins and other substances. These 
+mediators regulate metabolism, and thereby 
+growth, primarily by altering the kinetics of 
+biochemical reactions through an effect on 
+Vmax, Km and substrate availability. They bind 
+to "receptors" that are typically proteins and 
+elicit a conformational change that results in 
+the metabolic response. There is close speci­
+ficity between a transmitter and its receptor, 
+and this allows considerable control over the 
+regulation of metabolism. However, specificity 
+is not absolute, and several transmitters with 
+
+ANIMAL GROWTH AND ITS REGULATION 15 
+similar morphological structure may bind the 
+one receptor. Receptors occur on cell mem­
+branes, within the cytoplasm and in the 
+nucleus. Some mediators elicit their response as 
+a direct result of interaction with the receptor, 
+whereas with others, it is the mediator-receptor 
+complex that binds with a further receptor to 
+elicit the response. Many mediators regulate 
+the production and action of other mediators, 
+and it is common for them to regulate the num­
+ber of their own receptors. Examples of how 
+mediators influence V^x by altering gene 
+transcription, Km by altering binding affinities 
+and substrate availability by altering blood flow 
+are given by Black (1984) and Di Liegro et al. 
+(1987). 
+Many endocrine-related manipulators of 
+growth have been identified (Buttery et al., 
+1986). They fall broadly into three groups with 
+overlapping actions: those associated with the 
+growth hormone mode of action, those of 
+steroid origin and the beta-adrenergic agonists. 
+Administration of growth hormone (Hart and 
+Johnsson, 1986), growth hormone-releasing 
+factor (Baile et al., 1986) or immunization 
+against somatostatin (Spencer, 1986) have all 
+been reported to stimulate animal growth. 
+Their effects on protein synthesis are mediated 
+mainly through an increase in the production of 
+insulin-like growth factor (IGF-1), whereas 
+their effects on lipolysis are probably a direct 
+result of growth hormone action (Boyd and 
+Bauman, 1988). Pygmies (Merimee et al., 
+1987), miniature poodles and sheep selected for 
+slow growth (P. C. Wynn and P. Speck, unpub­
+lished data) all have lower serum levels of IGF-1 
+than faster growing counterparts. However, the 
+same positive relationship between IGF-1 levels 
+and growth has not been observed in different 
+strains of chickens (Goddard et al., 1988). Al­
+though the administration of testosterone, 
+estrogens and their analogues stimulate mam­
+malian growth (Roche and Quirk, 1986), 
+immunization against luteinizing hormone-
+releasing hormone (LHRH), which reduces 
+serum levels of testosterone and sexual beha­
+vior, does not depress growth rate of bulls 
+(Robertson et al., 1982). The beta-adrenergic 
+agonists, cimaterol and clenbuterol, have been 
+shown to increase weight gain, increase the 
+proportion of muscle and decrease the propor­
+tion of fat in rats and sheep (Baker et al., 
+1984; Sharpe et al., 1986), but their action 
+depends on the presence of glucocorticoids 
+(Sharpe et al., 1986). 
+Prediction of the Effects 
+of Nutrient Supply and Metabolic 
+Mediators on Growth 
+The principles outlined above on the regu­
+lation of biochemical reactions have been used 
+in the development of several computer pro­
+grams that simulate nutrient utilization in ani­
+mals (Smith et al., 1975; Gill et al., 1984; 
+Baldwin et al., 1987; Sainz and  Wolff,  1987). 
+These models provide the means for testing the 
+validity of current concepts and assist in the 
+evaluation of factors that may influence the 
+pathways of nutrient utilization. The model 
+described by Gill et al. (1984) was developed to 
+assist the understanding of factors that influ­
+ence the efficiency of utilization of absorbed 
+nutrients in young sheep. It simulates the utili­
+zation of acetic acid, amino acids, butyric acid, 
+glucose, lipid and propionic acid, and each sub­
+strate is partitioned between synthetic, oxidative 
+and intermediate reactions. The flow of material 
+through the model is calculated on the basis of 
+accepted stoichiometrics of biochemical path­
+ways, and reaction rates are determined using 
+standard enzyme kinetics. The simulation 
+model was used to investigate the effects of 
+varying the proportions of absorbed nutrients 
+on the efficiency of energy utilization and the 
+rate of protein and fat deposition (Black et al., 
+1987b,c). 
+A similar model developed by Sainz and 
+Wolff (1987) that included the endocrine regu­
+lation of protein and lipid synthesis through 
+variations in Vmj and km was used to evaluate 
+alternative hypotheses regarding the mode of 
+action of j3-adrenergic agonists in altering 
+growth and body composition in lambs. 
+Changes in parameters of adipose tissue or 
+muscle protein metabolism alone were insuffi­
+cient to account for the observed effects of 
+cimaterol on growth. Simultaneous changes of 
+only 13% in both muscle and adipose meta­
+bolism were required to produce the observed 
+doubling of carcass protein and depression 
+in carcass fat. The magnitude of the effects 
+on metabolism required to produce the ob­
+served changes was within the experimental 
+variance of the measurements and indicates the 
+extreme difficulty in identifying the reasons 
+for differences in growth in many situations. 
+Computer simulation models could play an 
+important role in identifying the significance 
+of possible alternative means of metabolic 
+control of growth. 
+
+16 BLACK 
+1 TABLE 6. PEPTIDE GROWTH FACTOR FAMILIES
+Group Members 
+Epidermal growth factor EGF Epidermal growth factor 
+Transforming growth factor -a 
+Vaccinia growth factor 
+Insulin-like growth factor IGF-I 
+IGF-II 
+Relaxin 
+Transforming-growth factor-(3 TGFJ3, 
+2 TGF(3
+TGF)3,_2 
+Inhibin A 
+Inhibin B 
+Activin A 
+Activin AB 
+Miillerian inhibiting substance 
+Heparin-binding growth factors Acidic HBGF (acidic fibroblast growth factor) Heparin-binding growth factors 
+Basic HBGF 
+Products of the int-2, Lst and Kaposi's oncogenes 
+Platelet-derived growth factor PDGF-A 
+PDGF-B 
+PDGF-AB 
+After Mercola and Stiles (1988). a
+Role of Peptide Growth Factors 
+Ove
+r the past decade, it has become clear 
+that many aspects of animal growth and differ­
+entiation are controlled by interactions among 
+peptide growth factors and between them and 
+other mediators including free ions, cyclic 
+nucleotides, prostaglandins and the oncogenes 
+(Rozengurt, 1986; Mercola and Stiles, 1988). 
+There is evidence that these peptides were pres­
+ent during the early period of animal evolu­
+tion. Similar molecules are present in mammals, 
+as in Caenorhadhitis elegans, Drosophilia and 
+Xenopus (Mercola and Stiles, 1988). The high 
+degree of conservation is seen in insulin, which 
+has a 62% homology between the human and 
+the hagfish (agnathan), even though these 
+species have had divergent evolutionary paths 
+for about 500 million years (Barrington, 1986). 
+The amino acid sequence of many growth fac­
+tors is similar, and they have been grouped into 
+several related families shown in Table 6 
+(Mercola and Stiles, 1988). Other growth fac­
+tors not included are bombesin, gastric-releasing 
+peptide, the interleukins, tumor necrosis fac­
+tors, interferons and neuromedins. More than 
+80 regulators of growth and metabolism have 
+now been identified (Norman and Litwack, 
+1987). 
+These growth factors appear to have endo­
+crine, paracrine and autocrine effects (Flant et 
+al., 1986; Underwood et al., 1986). There is 
+strong evidence that many cells are able to pro­
+duce and respond to their own growth factors, 
+which may regulate their own receptors (Sporn 
+and Roberts, 1985). It is also thought that 
+many of the oncogenes code for the growth fac­
+tors or their receptors (Reeds, 1987; Woodland 
+and Jones, 1988). The initial event in growth 
+factor action is to bind to a cell surface recep­
+tor, which for many are tyrosine-specific 
+kinases. This binding produces soluble intra­
+cellular second messages thought to include 
+phosphoproteins, inositol phosphates, cyclic 
+nucleotides and ions which, within minutes, 
+result in a cascade of events that change gene 
+expression (Rozengurt, 1986). 
+Regulation of Mitosis 
+Stages in the regulation of cell proliferation 
+have recently been reviewed by Pardee et al. 
+(1986). There appear to be two stages con­
+cerned with bringing a quiescent cell into full 
+
+ANIMAL GROWTH AND ITS REGULATION 17 
+mitosis. The first takes about 6 h and involves 
+a
+n activation that brings the cell to the stage 
+similar to that existing in cells that have just 
+completed mitosis. This activation is dependent 
+on the binding of platelet-derived growth factor 
+(PDGF) to the cell surface and is followed by a 
+cascade of events involving the transmodulation 
+of EGF, changes in free ion concentrations, the 
+formation of stable E-type prostaglandins and 
+the production of cyclic AMP (Rozengurt, 
+1986). These events lead to a marked increase 
+in the mRNA concent of the cell (Stiles, 1983). 
+The second phase, which starts about 6 h 
+before the onset of DNA synthesis, also in­
+volves rapid gene transcription and protein 
+synthesis. This stage is dependent on the pres­
+ence of IGF-1 and it may be associated with the 
+synthesis of the reptilase complex that contains 
+many of the enzymes required for DNA synthe­
+sis (Pardee et al., 1986). 
+There is considerable evidence showing that 
+transforming growth factor-beta (TGFj3) is a 
+potent inhibitor of mitosis in many cell types 
+(Sporn et al., 1986). Nevertheless, depending 
+on the cell type and other growth factors pres­
+ent, there are some situations in which TGFj3 
+stimulates mitogenesis. The concentration of 
+TGFJ3 is extremely high in osteoblasts and is 
+associated with collagen and bone formation 
+and may be concerned with epyphaseal closure 
+in mammals (Sandberg et al., 1988). The serum 
+from fasted animals is known also to inhibit the 
+growth of cultured cells (Sporn et al., 1986; 
+White et al., 1988). It contains low levels of 
+IGF-1, but it also appears to contain a mitotic 
+inhibition factor (White et al., 1988), which 
+may be related to its high levels of TGF0. It 
+would be interesting to know whether TGF0 
+has a role in the cessation of hyperplasia in 
+mammals. 
+Regulation of Protein Synthesis 
+and Degradation 
+There is now clear evidence that the control 
+of protein synthesis and degradation within 
+muscle cells is mediated through second mes­
+sengers that are derived from the metabolism 
+of arachidonic acid (Reeds and Palmer, 1986). 
+A series of elegant studies with isolated exten­
+sor muscles from the forelimb of immature 
+rabbits involving stretch hypertrophy and 
+various metabolic inhibitors demonstrated the 
+close association between the formation from 
+arachidonic acid of the prostaglandins PGF2O1; 
+and PGE2  and, respectively, protein synthesis 
+and protein degradation. Muscle stretch and 
+elevated calcium concentrations activate the 
+membrane phospholipase A2, and the increased 
+release of arachidonic acid leads to the synthe­
+sis of the prostaglandins. Subsequent studies 
+with other mediators of protein turnover such 
+as dexamethasone, which results in a long-term 
+depression in protein deposition, insulin, which 
+stimulates protein deposition, and inter-
+leukin-1, which causes elevated protein degrada­
+tion in fever, have all shown close associations 
+between prostaglandin formation and the rates 
+of protein synthesis and degradation. 
+Differences in protein deposition result from 
+changes in the relative rates of synthesis and 
+degradation. Because the release of both pros­
+taglandins occur together, Reeds and Palmer 
+(1986) suggest that the relative rates of synthe­
+sis and degradation change with the rate of 
+arachidonate metabolism. They speculate that 
+at low rates of metabolism degradation pre­
+dominates, at intermediate rates synthesis pre­
+dominates and at high rates degradation again 
+predominates because the maximum synthetic 
+rate has been achieved. However, there are 
+some observations not fully explained by this 
+hypothesis. It is likely that part of the associa­
+tion between mitosis and protein turnover is 
+mediated through the prostaglandins (Reeds 
+and Palmer, 1986; Rozengurt, 1986). 
+Regulation of Differentiation 
+The final size of an organ or tissue depends 
+on the number of germ cells committed to a 
+particular cell type and on the increase in num­
+ber of those cells before the end of the hyper­
+plastic growth phase. There is now strong evi­
+dence that the commitment of germ cells to a 
+particular type is determined by the concen­
+tration of certain inducing signals. Experiments 
+with the nematode C. elegans demonstrate that 
+the fate of precursor cells in the developing 
+gonads and vulva is dependent on the presence 
+of specific inducing cells and on the distance 
+from these cells (Emmons, 1987). In one 
+experiment, a single vulval precursor cell was 
+shown to follow one of three pathways depend­
+ing on its distance from the "anchor" or in­
+ducing cell. Similarly, in slime molds a small 
+group of cells known as the "tip" determine the 
+direction of morphogenic movement of two cell 
+types, the pattern of arrangement of these cells 
+and the final morphology of the cell group 
+
+18 BLACK 
+(Schaap, 1986). Some of the morphogenic 
+factor
+s responsible for this control have been 
+identified. In the slime molds, an oscillating 
+concentration of cyclic-AMP appears to be the 
+main regulating factor, but a feedback with 
+adenosine finally determines the size of the 
+organism and the distribution of cell types. 
+Ammonia and an unidentified stalk-inducing 
+factor are also thought to be involved with 
+certain phases of the differentiation of slime 
+molds (Schaap, 1986). In addition, several of 
+the peptide growth factors including TGF(3, 
+EGF, fibroblast growth factor and retinoic acid 
+have been implicated in the control of mor­
+phogenesis and differentiation in several animal 
+species (Eichele and Thaller, 1987; Heine et al., 
+1987; Mercola and Stiles, 1988; Woodland and 
+Jones, 1988). It is thought that these factors 
+may operate in two ways. They are involved in 
+determining the fate of a particular cell at a 
+critical period of differentiation (Mercola and 
+Stiles, 1988) and they also may influence final 
+organ size by inhibiting of mitosis, as has been 
+suggested for TGF/3 (Sporn et al., 1986). 
+Mathematical Models of Differentiation. 
+Because the translation of genotype into pheno-
+type seems to involve spatial patterning, 
+Turing (1952) suggested the concept of a wave­
+like pattern developing in the concentration 
+of morphogenic substances that diffuse through 
+tissue, react with one another to alter the 
+pattern and affect differentiation. This reac­
+tion-diffusion system can be represented 
+mathematically and has been applied to the 
+differentiation of several biological systems, in­
+cluding the pattern of wool follicle initiation 
+(Nagorcka, 1986), the committment of wool 
+follicle bulb cells to the fiber and cortical cell 
+types in mature wool follicles (Nagorcka and 
+Mooney, 1982) and coat color patterns in mam­
+mals (Murray, 1988). These models presume 
+that there is a certain threshold concentration 
+of the morphogen that is required to commit a 
+precursor cell to alternative cell types. An 
+essential component of the reaction-diffusion 
+system is the dependence of the pattern on the 
+size and shape of the tissue containing the mor-
+phogens. Thus, the commitment of cells to 
+one type may alter the domain in which diffu­
+sion will take place and establish an entirely 
+new pattern. In this way, a progressing pattern 
+of differentiation can take place within one 
+tissue. A good example of this is seen in the 
+predictions of the waves of wool follicle initia­
+tion in sheep (Nagorcka, 1986). 
+Conclusions 
+There is a large variation between animals in 
+size, growth rates, body composition and 
+metabolism, yet the fundamental biochemical 
+reactions and methods of their control are simi­
+lar for all species. The differences result from 
+minor variations in the regulation of these pro­
+cesses. The regulation is controlled by the 
+intricate interaction of many mediators of 
+metabolism, particularly the peptide growth 
+factors. Knowledge of these mediators and their 
+actions has expanded enormously during the 
+last half decade, and it is clear that the control 
+of many of the interactions is indeed subtle. 
+Further research concentrating on the mecha­
+nism of these reactions, using in particular the 
+modern biochemical techniques of monoclonal 
+antibodies, DNA probes and metabolic inhibi­
+tors, should rapidly enhance knowledge in the 
+next few years. However, because of the intri­
+cacy of these interactions, further progress can 
+probably be made by integrating the knowledge 
+and concepts into mathematical simulation 
+models. This process will allow the rigorous 
+evaluation of concepts and pre-experimental 
+assessment of hypotheses. It also has been 
+shown that the sensitivity of minor changes in 
+an intricate system is often better demonstrated 
+using simulation models than experiments with 
+their inherent biological variation. The next few 
+years should be both exciting and rewarding in 
+terms of understanding the regulation of animal 
+growth and its manipulation. 
+Literature Cited 
+Allen, R. E., R. A. Merkel and R. B. Young. 1979. 
+Cellular aspects of muscle growth: myogenic cell 
+proliferation. J. Anim. Sci. 49:115. 
+Baile, C. A., M. A. Della-Fera and F. C. Buonomo. 
+1986. The neurophysiological control of growth. 
+In: P. J. Buttery, D. B. Lindsay and N. B. Haynes 
+(Ed.) Control and Manipulation of Growth, pp 
+105-118. Butterworths, London. 
+Baker, P. K., R. H. Dalrymple, D. L. Ingle and C. A. 
+Ricks. 1984. Use of a 0-adrenergic agonist to alter 
+muscle and fat deposition in lambs. J. Anim. Sci. 
+59:1256. 
+Baldwin, R. L. and J. L. Black. 1979. Simulation of 
+the effects of nutritional and physiological status 
+on the growth of mammalian tissues: description 
+and evaluation of a computer program. Animal 
+Research Laboratories Tech. Paper No. 6. pp  1 — 
+35. CSIRO, Australia. 
+Baldwin, R. L., J. France and M. Gill. 1987. Lactating 
+cow metabolism: 1. Animal elements of a 
+mechanistic model. J. Dairy Res. 54:77. 
+Barrington, E.J.W. 1986. The phylogeny of the endo­
+crine system. Experientia 42:775. 
+
+ANIMAL GROWTH AND ITS REGULATION 19 
+Baserga, R. 1984. Growth in size and cell DNA repli­
+cation. Exp. Cell Res.  152:1. 
+Batterham, E. S., L. R. Giles and B. E. Dettmann. 
+1985. Amino acid and energy interactions in 
+growing pigs. 1. Effects of food intake, sex and 
+liveweight on the responses or growing pigs to 
+lysine concentration. Anim. Prod. 40:331. 
+Bernier, J. F. and C. C. Calvert. 1987. Effect of a 
+major gene for growth on protein synthesis in 
+mice. J. Anim. Sci. 65:982. 
+Bernier, J. F., C. C. Calvert and R. L. Baldwin. 1987. 
+Energetics of protein synthesis in mice with a 
+major gene for growth. J. Nutr. 117:2036. 
+Bertalanffy, L. von. 1960. Principles and theory of 
+growth. In: W. W. Nowinski (Ed.) Fundamental 
+Aspects of Normal and Malignant Growth, pp 
+137—259. Elsevier, Amsterdam. 
+Black, J. L. 1983a. Evolutionary adaptations and their 
+significance in animal production. In: L. Peel and 
+D. E. Tribe (Ed.) Domestication, Conservation 
+and Use of Animal Resources, pp 107—132. 
+Elsevier, Amsterdam. 
+Black, J. L. 1983b. Growth and development of 
+lambs. In: W. Haresign (Ed.) Sheep Production, 
+pp 21—58. Butterworths, London. 
+Black, J. L. 1984. Regulation of fat and protein de­
+position in animals. Proc. Nutr. Soc. N. Z. 9:76. 
+Black, J. L., R. G. Campbell, I. H. Williams, K. J. 
+James and G. T. Davies. 1986. Simulation of 
+energy and amino acid utilisation in the pig. Res. 
+Develop. Agric. 3:121. 
+Black, J. L. and G. T. Davies. 1989. Amino acid 
+requirements of pigs—a theoretical reevaluation. 
+Anim. Prod. (In press). 
+Black, J. L., J. F. Fleming and G. T. Davies. 1987a. 
+A computer modelling package for the nutri­
+tional management of pigs. Aust. Poult. Feed 
+Conv. 7:273. 
+Black, J. L., M. Gill, D. E. Beever, J.H.M. Thornley 
+and J. D. Oldham. 1987b. Simulation of the 
+metabolism of absorbed energy-yielding nutrients 
+in young sheep: efficiency of utilization of ace­
+tate. J. Nutr. 117:105. 
+Black, J. L., M. Gill, J.H.M. Thornley, D. E. Beever 
+and J. D. Oldham. 1987c. Simulation of the 
+metabolism of absorbed energy-yielding nutrients 
+in young sheep: efficiency of utilization of lipid 
+and amino acid. J. Nutr. 117:116. 
+Blaxter, K. L., V. R. Fowler and J. C. Gill. 1982. A 
+study of the growth of sheep to maturity. J. 
+Agric. Sci. (Camb.) 99:405. 
+Boyd, R. D. and D. E. Bauman. 1988. Mechanisms of 
+action for somatotropin in growth. (In press). 
+Boyd, R. D., D. E. Bauman, D. H. Beerman, A. F. De 
+Neergaard, L. Souza and R. D. Butler. 1986. 
+Titration of the porcine growth hormone dose 
+which maximizes lean deposition in swine. J. 
+Anim. Sci. 63(Suppl. 1):218 (Abstr.). 
+Brown, K. D. and J. Blay. 1986. Epidermal growth 
+factor: origins, cellular actions and some possible 
+physiological roles. In: P. J. Buttery, D. E. 
+Lindsay and N. B. Haynes (Ed.) Control and 
+Manipulation of Animal Growth, pp 119—134. 
+Butterworths, London. 
+Buttery, P. J., D. B. Lindsay and N. B. Haynes. 1986. 
+Control and Manipulation of Animal Growth. 
+Butterworths, London. 
+Campbell, R. G. and A. C. Dunkin. 1983. The influ­
+ence of protein nutrition in early life on growth 
+and development of the pig. 2. Effects on the 
+cellularity of muscle and subcutaneous adipose 
+tissue. Br. J. Nutr. 50:619. 
+Campbell, R. G., N. C. Steele, T. J. Caperna, J. P. 
+McMurtry, M. B. Solomon and A. D. Mitchell. 
+1988a. Interrelationships between energy intake 
+and exogenous porcine growth hormone adminis­
+tration on the performance, body composition, 
+and protein and energy metabolism of growing 
+pigs weighing 25 to 55 kg live weight. J. Anim. 
+Sci. 66:1653. 
+Campbell, R. G., N. C. Steel, T. J. Caperna, J. P. 
+McMurtry, M. B. Solomon and A. D. Mitchell. 
+1988b. Interrelationships between sex and exo­
+genous porcine growth hormone administration 
+on performance, body composition and protein 
+and fat accretion of growing pigs. J. Anim. Sci. 
+(In press). 
+Campbell, R. G. and M. R. Taverner. 1988a. Genotype 
+and sex effects on the relationship between 
+energy intake and protein deposition in growing 
+pigs. J. Anim. Sci. 66:676. 
+Campbell, R. G. and M. R. Taverner. 1988b. Genotype 
+and sex effects on the responsiveness of growing 
+pigs to exogenous porcine growth hormone 
+(PGH) administration. J. Anim. Sci. 66(Suppl. 
+1):257 (Abstr.). 
+Campbell, R. G., M. R. Taverner and D. M. Curie. 
+1985a. The influence of feeding level on the pro­
+tein requirements of pigs between 20 and 45 kg 
+live weight. Anim. Prod. 40:489. 
+Campbell, R. G., M. R. Taverner and D. M. Curie. 
+1985b. Effect of sex and energy intake between 
+48 and 90 kg live weight on protein deposition 
+in growing pigs. Anim. Prod. 40:497. 
+Cheek, D. B., A. B. Holt, D. E. Hill and J. L. Talbert. 
+1971. Skeletal muscle mass and growth: the con­
+cept of the deoxyribonucleic acid unit. Ped. Res. 
+5:312. 
+Cheek, D. B., A. Parra and J. White. 1975. Overnutri-
+tion. In: D. B. Cheek (Ed.) Fetal and Postnatal 
+Cellular Growth, pp 453-473. Wiley, New York. 
+Colebrook, W. F., J. L. Black, G. H. Brown and J. B. 
+Donnelly. 1988. Cellularity of organs in mature 
+rams of different breeds. Ausc. J. Biol. Sci. 41 
+(In press). 
+Coulson, R. A. and J. D. Herbert. 1981. Relationship 
+between metabolic rate and various physiological 
+and biochemical parameters. A comparison of 
+alligator, man and shrew. Comp. Biochem. 
+Physiol. 69A:1. 
+Davis, S. R., R. J. Collier, J. P. McNamara, H. H. Head 
+and W. Sussman. 1988. Effects of thyroxine and 
+growth hormone treatment of dairy cows on milk 
+yields, cardiac output and mammary blood flow. 
+J. Anim. Sci. 66:70. 
+Dice, J. F. and A. L. Goldberg. 1975. A statistical 
+analysis of the relationship between degradative 
+rates and molecular weights of proteins. Arch. 
+Biochem. Biophys. 170:213. 
+Di Liegro, I., G. Savettieri and A. Cestelli. 1987. Cellu­
+lar mechanisms of action of thyroid hormones. 
+Differentiation 35:165. 
+Dobbing, J. T. and J. Sands. 1971. Vulnerability of 
+developing brain. IX. The effect of growth re-
+
+20 BLACK 
+tardation on the timing of the brain growth-
+spurt. Biol. Neonat. 19:363. 
+Dunkin, A. C. and J. L. Black. 1987. The relationship 
+between energy intake and nitrogen balance in 
+the growing pig. In: P. W. Moe, H. F. Tyrrell and 
+P. J. Reynolds (Ed.) Energy Metabolism of Farm 
+Animals, pp 110-114. Eur. Assoc. Anim. Prod. 
+Pub!. No. 32. Rowman and Littlefield, Totowa, 
+NJ. 
+Dunkin, A. C„ J. L. Black and K.J.James. 1986. Nitro­
+gen balance in relation to energy intake in entire 
+male pigs weighing 75 kg. Br. J. Nutr. 55:201. 
+Eichele, G. and C. Thaller. 1987. Characterization of 
+concentration gradients of a morphogenetically 
+active retinoid in the chick limb bud. J. Cell Biol. 
+105:1917. 
+Eisemann, J. H., A. C. Hammond, D. E. Bauman, P. J. 
+Reynolds, S. N. McCutcheon, H. F. Tyrrell and 
+C. L. Haaland. 1986. Effect of bovine growth 
+hormone administration on metabolism of grow­
+ing Hereford heifers; protein and lipid metabo­
+lism and plasma concentrations of metabolites 
+and hormones. J. Nutr. 116:2504. 
+Emmons, S. W. 1987. Mechanisms of C. elegans de­
+velopment. Cell 51:881. 
+Etherton, T. D., J. P. Wiggins, C. S. Chung, C. M. 
+Evock, J. F. Rebhun and P. E. Walton. 1986. 
+Stimulation of pig growth performance by por­
+cine growth hormone and growth hormone-
+releasing factor. J. Anim. Sci. 63:1389. 
+Etherton, T. D., J. P. Wiggins, C. M. Evock, C. S. 
+Chung, J. F. Rebhun, P. E. Walton and N. C. 
+Steele. 1987. Stimulation of pig growth perfor­
+mance by porcine growth hormone: determi­
+nation of the dose-response relationship. J. Anim. 
+Sci. 64:433. 
+Everitt, A. V. 1976. Hypophysectomy and aging in the 
+rat. In: A. V. Everitt and L. L. Burgess (Ed.) 
+Hypothalamus, Pituitary and Aging, pp 68—85. 
+Thomas, Springfield, IL. 
+Falconer, D. S., I. K. Gauld and R. C. Roberts. 1978a. 
+Cell numbers and cell sizes in organs of mice 
+selected for large and small body size. Genet, 
+Res., Camb. 31:287. 
+Falconer, D. S., I. K. Gauld and R. C. Roberts. 1978b. 
+Growth control in chimeras. In: L. B. Russell 
+(Ed.) Genetic Mosaics and Chimeras in Mammals, 
+pp 39—49. Plenum Press, New York. 
+Fcnnessy, P. F. and J. M. Suttie. 1984. Prolactin and 
+androgens—their role in the utilization of nutri­
+ents. Proc. Nutr. Soc. N. Z. 9:95. 
+Flant, M., H. Munro and A. C. Moses. 1986. An auto­
+crine/paracrine role for insulin-like growth fac­
+tors in the regulation of human placental growth. 
+J. Clin. Endocrinol. Metab. 63:499. 
+Fuller, M. F., P. J. Reeds, A. Cadenhead and B. Seve. 
+1987. Effects of the amount and quality of die­
+tary protein on nitrogen metabolism and protein 
+turnover of pigs. Br. J. Nutr. 58:287. 
+Giles, L. R., E. S. Batterham and B. E. Dettmann. 
+1986. Amino acid and energy interactions in 
+growing pigs. 2. Effects of food intake, sex and 
+live weight on responses to lysine concentration 
+in barley-based diets. Anim. Prod. 42:133. 
+Gill, M., J.H.M. Thornley, J. L. Black, J. D. Oldham 
+and D. E. Beever. 1984. Simulation of the 
+metabolism of absorbed energy-yielding nutrients 
+in young sheep. Br. J. Nutr. 54:621. 
+Goddard, C, R. S. Wilkie and I. C. Dunn. 1988. The 
+relationship between insulin-like growth factor-1, 
+growth hormone, thyroid hormones and insulin 
+in chickens selected for growth. Domest. Anim. 
+Endocrinol. 5:165. 
+Goss, R. J. 1974. Aging versus growth. Perspect. Biol. 
+Med. 17:485. 
+Goss, R. J. 1976. The right size. In; D. Lister, D. N. 
+Rhodes, V. R. Fowler and M. F. Fuller (Ed.) 
+Meat Animals Growth and Productivity, pp 237  — 
+254. Plenum Press, New York. 
+Hammer, R. E., R. L. Brinster and R. D. Palmiter. 
+1985. Use of gene transfer to increase animal 
+growth. Cold Spring Harbour Symp. Quant. Biol. 
+50:379. 
+Hart, I. C. and I. D. Johnsson. 1986. Growth hormone 
+and growth in meat producing animals. In: P. J. 
+Buttery, D. B. Lindsay and N. B. Haynes (Ed.) 
+Control and Manipulation of Animal Growth, pp 
+135-159. Butterworths, London. 
+Heine, U. I., E. F. Munoz, K. C. Flanders, L. R. 
+Ellingsworth, H.Y.P. Lam, N. L. Thompson, 
+A. B. Roberts and M. B. Sporn. 1987. Role of 
+transforming growth factor -/3 in the development 
+of the mouse embryo. J. Cell Biol. 105:2861. 
+Hochachka, P. W. 1976. Design of metabolic and 
+enzymic machinery to fit lifestyle and environ­
+ment. Biochem. Soc. Symp. 41:3. 
+Hodge, R. W. 1974. Efficiency of feed conversion and 
+body composition of the preruminant lamb and 
+the young pig. Br. J. Nutr. 32.113. 
+Hood, R. L. and R. F. Thornton. 1979. The cellularity 
+of ovine adipose tissue. Aust. J. Agric. Res. 30: 
+153. 
+Johns, J. T. and W. G. Bergen. 1976. Growth in sheep. 
+Pre- and post-weaning hormone changes and mus­
+cle and liver development, J. Anim. Sci. 43:192. 
+Machlin, L. J. 1972. Effect of growth hormone on 
+growth and carcass composition of the pig. J. 
+Anim. Sci. 35:794. 
+Masters, C. J. 1963. Nucleic acids and protein stores in 
+Merino sheep. Aust. J. Biol. Sci. 16:192. 
+Mercola, M. and C. D. Stiles. 1988. Growth factor 
+superfamilies and mammalian embryogenesis. 
+Development 102:451. 
+Merimee, T. J., J.  Zapf,  B. Hewlett and L. L. Cavalli-
+Sforza, 1987. Insulin-like growth factors in 
+Pygmies. The role of puberty in determining final 
+stature. N. Eng. J. Med. 316:906. 
+Millward, D. J., P. J. Garlick, R.J.C. Stewart, D. O. 
+Nnanyelugo and J. C. Waterlow. 1975. Skeletal-
+muscle growth and protein turnover. Biochem. J. 
+150:235. 
+Morkin, E. and T. P. Ashford. 1968. Myocardial DNA 
+synthesis in experimental cardiac hypertrophy. 
+Am. J. Physiol. 215:1409. 
+Munro, H. N. and J.A.M. Gray. 1969. The nucleic acid 
+content of skeletal muscle and liver in mammals 
+of different body size. Comp. Biochem. Physiol. 
+28:897. 
+Murray, J. D. 1988. How the leopard gets its spots. 
+Sci. Am. 258(3):62. 
+Nelson, R. A. 1978. Urea metabolism in the hiber­
+nating black bear. Kidney Int. 13(Suppl. 8): 177. 
+Nelson, R. A. 1980. Protein and fat metabolism in 
+hibernating bears. Fed. Proc. 39:2955. 
+
+ANIMAL GROWTH AND ITS REGULATION 21 
+Nagorcka, B. N. 1986. The reaction-diffusion system: 
+a spacial organizer in the vertebrate epidermis. 
+Proc. Devel. Biol. A:319. 
+Nagorcka, B. N. and J. R. Mooney. 1982. The role of 
+a reaction-diffusion system in the formation of 
+hair fibres. J. Theor. Biol. 98:575. 
+Nijkamp, H. J., A.J.H. van Es and E. A. Huisman. 
+1974. Retention of nitrogen, fat, ash, carbon and 
+energy in growing chickens and carp. Eur. Assoc. 
+Anim. Prod. Publ. No. 14. pp 277-280. 
+Norman, A. W, and G. Litwack. 1987. Hormones. 
+Academic Press, Orlando, FL. 
+Paimiter, R. D., R. L. Brinster, R. E. Hammer, M. E. 
+Trumbauer, M. G. Rosenfeld, N. C. Birnbergand 
+R. M. Evans. 1982. Dramatic growth of mice that 
+develop from eggs microinjected with metallo-
+thioein-growth hormone fusion genes. Nature 
+300:611. 
+Pardee, A. B., D. L. Coppock and H. C. Yang. 1986. 
+Regulation of cell proliferation at the onset of 
+DNA synthesis. J. Cell Sci. Suppl. 4:171. 
+Reeds, P. J. 1987. Metabolic control and future oppor­
+tunities for growth regulation. Anim. Proc. 45; 
+149. 
+Reeds, P. J., M. F. Fuller, A. Cadenhead, G. E. Lobley 
+and J. D. McDonald. 1981. Effects of changes in 
+the intakes of protein and non-protein energy on 
+whole-body protein turnover in growing pigs. 
+Br. J. Nutr. 45:539. 
+Reeds, P. J. and R. M. Palmer. 1986. The role of pros­
+taglandins in the control of muscle protein turn­
+over. In: P. J. Buttery, D. B. Lindsay and N. B. 
+Haynes (Ed.) Control and Manipulation of Animal 
+Growth, pp 161-185. Butterworths, London. 
+Robards, G. E. and J. C. Radcliffe. 1987. Feeding 
+Standards for Australian Livestock: Pigs. CSIRO, 
+Melbourne. 
+Robertson, I. S., N. M. Fraser, G. M. Innes and A. S. 
+Jones. 1982. Effect of immunological castration 
+on sexual and production characteristics in male 
+cattle. Vet. Rec. 111:529. 
+Robinson, D. W. and G. E. Bradford. 1969. Cellular 
+response to selection for rapid growth in mice. 
+Growth 33:221. 
+Roche, J. F. and J. F. Quirk. 1986. The effect of 
+steroid hormones and xenobiotics on growth of 
+farm animals. In: P. J. Buttery, D. B. Lindsay and 
+N. B. Haynes (Ed.) Control and Manipulation of 
+Growth, pp  39—51.  Butterworths, London. 
+Rogers, Q. R. and J. G. Morris. 1979. Why does the 
+cat require a high protein diet? In: H. Meyer 
+(Ed.) Nutrition of Dogs and Cats, pp 50—56. 
+Schlutersche, Hannover. 
+Rozengurt, E. 1986. Early signals in the mitogenic 
+response. Science 234:161. 
+Sager, R. 1965. Genes outside chromosomes. Sci. Am. 
+212:70. 
+Sainz, R. D. and J. E.  Wolff.  1987. Mechanisms of 
+action of repartitioning agents: quantitative and 
+dynamic evaluation of alternative hypotheses. 
+In: M. Rose (Ed.) Herbivore Nutrition Research 
+Papers, Second Int. Symp. on Nutrition of Herbi­
+vores, pp 153—154. Aust. Soc. Anim. Prod., 
+Brisbane. 
+Sandberg, M., T. Vuorio, H. Hirvonen, K. Alitalo and 
+E. Vuorio. 1988. Enhanced expression of TGF(3 
+and c-fos  mRNAs in the growth plates of de­
+veloping human long bones. Development 102: 
+461. 
+Schaap, P. 1986. Regulation of size and pattern in the 
+cellular slime mould. Differentiation 33:1. 
+Searle, T. W. and D. A. Griffiths. 1976a. The body 
+composition of growing sheep during milk feed­
+ing, and the effect on composition of weaning at 
+various body weights. J. Agric. Sci. (Camb.) 86: 
+483. 
+Searle, T. W. and D. A. Griffiths. 1976b. Differences 
+in body composition between three breeds of 
+sheep. Proc. Aust. Soc. Anim. Prod. 11:57. 
+Searle, T. W., N.McC. Graham and M. O'Callaghan. 
+1972. Growth in sheep. I. The chemical composi­
+tion of the body. J. Agric. Sci. (Camb.) 79:371. 
+Sharpe, P. M., N. B. Haynes and P. J. Buttery. 1986. 
+Glucocorticoid status and growth. In: P. J. 
+Buttery, D. B. Lindsay and N. B. Haynes (Ed.) 
+Control and Manipulation of Growth, pp 207  — 
+222. Butterworths, London. 
+Smith, N. E., L. O. Ely, R. L. Baldwin, C. Dolkas, 
+L. J. Koong, G. Moberg and T. Plucinski. 1975. 
+Models of energy metabolism of intact animals: 
+data tabulations, representation of basal meta­
+bolic activities and endocrine effects upon 
+metabolism. Comp. Bio. Med. 5:315. 
+Spencer, G.S.G. 1986. Hormonal manipulation of ani­
+mal production by immunoneutralization. In: 
+P. J. Buttery, D. B. Lindsay and N. B. Haynes 
+(Ed.) Control and Manipulation of Growth, pp 
+279-291. Butterworths, London. 
+Sporn, M. B. and A. B. Roberts. 1985. Autocrine 
+growth factors and cancer. Nature 313:745. 
+Sporn, M. B., A. B. Roberts, L. M. Wakefield and 
+R. K. Assoian. 1986. Transforming growth factor 
+biological function and chemical structure. 
+Science 233:532. 
+Stiles, C. D. 1983. The molecular biology of platelet-
+derived growth factor. Cell 33:653. 
+Strahan, R. 1983. Complete Book of Australian Mam­
+mals. Angus and Robertson, Sydney. 
+Symons, L.E.A. and W. O. Jones. 1975. Skeletal 
+muscle, liver and wool protein synthesis by sheep 
+infected by the nematode Trichostrongylus 
+colubriformis. Aust. J. Agric. Res. 26:1063. 
+Taylor, St. C. S. and J. I. Murray. 1987. Genetic 
+aspects of mammalian survival and growth in rela­
+tion to body size. In: j. B. Hacker and J. H. 
+Ternbouth (Ed.) The Nutrition of Herbivores, 
+pp 487—533. Academic Press, Sydney. 
+Tullis, J. B. 1982. Protein growth in pigs. Ph.D. Thesis. 
+University of Edinburgh. 
+Turing, A. M. 1952. The chemical basis of morpho­
+genesis. Phil. Trans. R. Soc. B. 237:37. 
+Underwood, L. E., A. J. O'Ercole, D. R. Clemmons 
+and J. J. Van Wyk. 1986. Paracrine functions of 
+somatomedins. Clin. Endocrinol. Metab. 15:59. 
+Vendrely, R. 1955. The deoxyribonucleic acid content 
+of the nucleus. In: E. Chargaff and J. N. David­
+son (Ed.) The Nucleic Acids. Vol. II. pp 155-80. 
+Academic Press, New York. 
+Vernon, R. G. and P. J. Buttery. 1976. Protein turn­
+over in rats treated with acetate trienbolone. Br. 
+J. Nutr. 36:575. 
+Walton, J., J. Pruss and A. V. Everitt. 1988. Adreno­
+cortical cell turnover and aging in growth-
+retarded rats. Interdiscip. Top. Gerontol. 24:7. 
+
+22 BLACK 
+White, M. E., C. E. Allen and W. R. Dayton. 1988. 
+Effec
+t of sera from fed and fasted pigs on pro­
+liferation and protein turnover in cultured myo­
+genic cells. J. Anim. Sci. 66:34. 
+Winick, M. and A. Noble. 1966. Cellular response in 
+rats during malnurition at various ages. J. Nutr. 
+89:300. 
+Woodland, H. and L. Jones. 1988. Growth factors 
+in amphibian cell differentiation. Nature 3 32: 
+113. 

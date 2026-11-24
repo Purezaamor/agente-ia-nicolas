@@ -1,0 +1,622 @@
+=== Fuente: Efectos de la suplementacion y la carga animal(OK).pdf ===
+
+ 1 
+EFECTOS DE LA SUPLEMENTACION Y LA CARGA ANIMAL  
+SOBRE EL RESULTADO FÍSICO Y ECONÓMICO DE 
+ SISTEMAS LECHEROS ARGENTINOS 
+ 
+J. Baudracco 1, N. López-Villalobos 2, y C.W. Holmes 2 
+ 
+ 
+ 
+ 
+Resumen 
+La producción de leche en Argentina se basa en la utilización de  pasturas con animales 
+en pastoreo, con la inclusión de suplementos como una fuente adicional de 
+alimentación. La carga animal  es uno de los factores con mayor influencia sobre la 
+productividad y el resultado económico de sistemas lecheros de base pastoril. El 
+objetivo de este trabajo fue cuantificar los efectos de la carga animal y de la inclusión 
+de alimentación suplementaria (concentrados) sobre la productividad y el ingreso neto 
+de los sistemas lecheros argentinos. 
+Se utilizó  un modelo de simulación físico y económico. Veintidós sistemas de leche 
+fueron modelados, a partir de combinaciones de carga animal y niveles de concentrados. 
+La carga varió desde 1,0 a 2,4 vacas totales/ha, y la suplementación desde 1,2 a 3,6 
+toneladas de materia seca (MS) de concentrado por hectárea/año. El modelo predijo que 
+a bajas cargas (relativamente común en Argentina), casi la mitad del pasto producido se 
+desaprovecha (eficiencia de utilización de 53%). Eficiencias de utilizaciones de pastura 
+del 70% o mayores sólo fueron alcanzadas en sistemas con cargas animales superiores a 
+1,5 vacas por hectárea, para una producción de 8,6 toneladas de MS en el sistema. El 
+ingreso neto se incrementó a medida que la carga animal se incrementó, hasta llegar a 
+una meseta, y luego descendió. 
+Los resultados de este estudio sugieren que la relativamente baja la producción de leche 
+por hectárea, que es característica de los sistemas argentinos de producción de leche, 
+pueda ser mejorada por un aumento simultáneo de la carga animal y de la cantidad de 
+concentrados comprados. Para sistemas que producen aproximadamente 8,6 toneladas 
+de MS/ha/año, la carga animal óptima, desde el punto de vista del resultado económico 
+y la sustentabilidad del sistema, estaría alrededor 1.5, 1.7, y 1,9 vacas por hectárea, para 
+sistemas que importan (compran) 1,2, 2,4, y 3,6 toneladas de MS de concentrados por 
+hectárea por año, respectivamente. Un sistema de leche que produzca 8,6 t de 
+MS/ha/año, importando 3,6 t MS de concentrados de por año, con 1,8 vacas totales por 
+hectárea, sería capaz de utilizar el 73% de las pasturas y produciría 10.300 litros de 
+leche/ha/año, equivalente a 685 kilogramos de sólidos/ha/año (grasa + proteína). 
+ 
+ 
+                                                 
+1 Facultad de Ciencias Agrarias, Universidad Nacional del Litoral, Argentina.  
+ 
+2 Institute of Veterinary, Animal & Biomedical Sciences, Massey University, New Zealand   
+ 
+ 2 
+1. Introducción 
+La producción de leche en Argentina se basa principalmente en pasturas como fuente de 
+alimentación, debido a que históricamente y actualmente, el precio de la leche es bajo, 
+en comparación a la mayoría de los países. Sin embargo, la inclusión de suplementos 
+puede ser muy rentable, dependiendo de la respuesta en leche por cada Kg. de 
+suplementos y de la relación de precios de los suplementos y la leche.  
+La productividad de los sistemas lecheros puede medirse en litros de leche/ha/año, o en 
+Kg. de sólidos/ha/año, denominándose sólidos a los Kg. de grasa más los Kg. de 
+proteína. La producción de leche y sólidos por hectárea está en función de la cantidad 
+de forraje producido y utilizado por hectárea, de la cantidad de suplementos 
+suministrados y utilizados por hectárea, y de la eficiencia de conversión de los 
+alimentos en leche (Holmes et al., 2002). 
+La relativamente baja productividad promedio de los sistemas lecheros de Argentina, se 
+debe principalmente a las bajas producciones de forraje por hectárea, a una moderada a 
+baja suplementación por hectárea, y a la baja eficiencia de cosecha del forraje producido 
+por hectárea, lo cual es principalmente una consecuencia de la baja carga animal. La 
+eficiencia de cosecha de las pasturas producidas en Argentina se ubicaría entre 50% y 
+65% (Guaita and Gallardo, 1995; Romero et al., 1998).  
+La carga animal (CA) actúa como vínculo  entre las pasturas y los animales en sistemas 
+pastoriles de producción de leche. La CA puede influir la producción de pasturas, 
+utilización de pasturas y la eficiencia de conversión de alimentos, componentes claves 
+de la eficiencia de sistemas pastoriles (Holmes et al., 2002). La carga animal utilizada 
+en  los sistemas lecheros de Argentina  es baja, si se la compara con la CA utilizada en 
+los países más eficientes en producción de leche sobre pastura. En Nueva Zelanda, la 
+carga animal es de 2,8 vacas/ha (LIC, 2005), en Australia es de 2,5 vacas/ha y en 
+Irlanda es de 1,9 vacas/ha (Dillon et al., 2005). Sin embargo, es técnicamente posible 
+incrementar la carga animal en Argentina hasta 2 vacas por hectárea (Garcia, 1997).  
+La carga animal, expresada como vacas por hectárea, es una simplificación de la 
+relación entre la demanda de alimentos y el suministro de alimentos. Esta fórmula 
+podría ser mejorada si se utiliza el peso vivo (PV) como estimación de la demanda de 
+alimentos potencial de la vaca (en vez del número de vacas), y la cantidad total de 
+alimentos ofrecidos, en lugar del número de hectáreas. Entonces, la relación del PV 
+total del rodeo y la cantidad de MS ofrecida total sería una mejor medida de la CA. Esta 
+expresión es conocida como carga animal comparativa (Penno, 1999).   
+El objetivo del presente estudio fue cuantificar los efectos de CA comparativa y de la 
+inclusión de alimentación suplementaria (concentrados) sobre la productividad y el 
+ingreso neto de los tambos argentinos, a partir de un modelo de simulación desarrollado 
+para este fin. S puso énfasis en las interacciones entre la CA, utilización de pasturas, 
+producción de leche por vaca y por hectárea y substitución de pasturas por suplementos. 
+ 
+ 
+2. Metodología 
+Se desarrolló un modelo de simulación que predice la producción de leche y de sólidos, 
+el cual fue integrado a un modelo económico preexistente. El modelo productivo 
+permite la predicción del consumo de MS en pastoreo, la producción de leche y el 
+cambio de PV. El modelo económico estima el ingreso neto. 
+ 3 
+ 
+2.1. Modelo productivo 
+Este modelo simula dos procesos biológicos básicos: consumo de alimentos (y energía) 
+y partición de la energía dentro de la vaca, ya sea hacia síntesis de leche o cambio de 
+PV. El modelo productivo resultó de la integración de un modelo desarrollado para 
+predecir consumo de materia seca en pastoreo (Baudracco  et al. , 2006) y un modelo 
+desarrollado para predecir la producción de leche y el cambio de PV (Baudracco, 2006). 
+Se utilizó a la energía metabolisable (EM) como unidad común intercambiable. 
+Para mayor simplicidad, se asumió que la proteína no es un factor restrictivo, 
+asumiendo que la energía es por lo general la principal restricción nutritiva para vacas 
+en pastoreo en regiones templadas (Macdonald et al., 1998). 
+ 
+Datos necesarios para el modelo  
+Los datos Requeridos para correr el modelo productivo y simular el consumo de MS y 
+la producción de leche son los siguientes: superficie total y uso del suelo, producción de 
+MS en pasturas y cultivos, cantidad y calidad (EM y FDN) de concentrados importados 
+al sistema (comprados), composición del rodeo, número de vacas paridas por mes, PV y 
+condición corporal al momento del parto, contenido de grasa y proteína en la leche.   
+El modelo económico requiere los siguientes datos como inputs: lista detallada de 
+activo, uso del suelo, lista detallada de gastos, número de animales, producción de 
+leche, composición de la leche, precio de la leche y precio de venta de carne.   
+ 
+Validación del modelo 
+Se utilizaron datos reales de ocho tambos argentinos para validar la confiabilidad del 
+modelo para predecir la producción de leche. Los kilogramos de sólidos (grasa más 
+proteína) producidos por hectárea son un indicador que integra los principales 
+parámetros productivos del modelo, tales como consumo de MS/vaca, producción de 
+sólidos por hectárea y CA. Los datos utilizados para validar el modelo fueron obtenidos 
+de un tambo experimental (Tambo Roca, INTA Rafaela) y de siete tambos comerciales 
+con información física y económica detallada (tambos CREA).   
+ 
+2.2. Modelos simulados 
+Un tambo de 100 hectáreas fue utilizado como base para estudiar los efectos de la CA 
+comparativa y de la cantidad de concentrados importados por hectárea sobre la 
+productividad y el resultado  económico del sistema. La producción y calidad de los 
+forrajes producidos en el campo se muestran en la Tabla 1. 
+El modelo productivo descripto anteriormente se articuló con un modelo económico 
+preexistente, llamado TAMBO 2000 (Cursack  et al. , 2003a). Una descripción detallada 
+del modelo puede ser encontrada en Cursack et al. (2003b). El análisis económico se 
+basa en los valores medios de insumos y de gastos en los tambos de Argentina. Los 
+resultados económicos se expresan como ingreso neto (IN), el cual se calculó como la 
+diferencia entre ingresos por venta de leche y carne menos gastos directos, gastos de 
+estructura, amortizaciones  y arrendamientos.   
+ 
+ 4 
+Tabla 1:  Uso de la tierra, producción (y calidad) de pasturas y cultivos  asumidos en el 
+presente estudio. 
+Pastura / cultivo Superficie  
+(has) 
+Producción 
+(Kg. MS/ha/año) 
+Energía 
+(MJ EM/Kg. MS) 
+FDN (%) 
+Alfalfa 65 8.000 10,2 44 
+Avena 30 5.000 10,3 52 
+Moha (heno) 20 4.500 8,8 67 
+Maíz (silaje) 10 10.000 9,2 53 
+No productivo 5 0 - - 
+Total /promedio 100 8.600 - - 
+ 
+Veintidós sistemas de leche fueron simulados con el modelo, combinando ocho niveles 
+de CA y tres niveles de concentrados importados (excluyendo los dos sistemas extremos 
+con CA comparativa más alto y más bajo). Así, se obtuvieron diferentes CA 
+comparativas, con diferentes proporciones de alimentos importados y producido en el 
+campo (Tabla 2). 
+ 
+Tabla 2:  Carga animal comparativa (Kg. PV/t MS total ofrecida) para los sistemas 
+simulados con el modelo, para producciones de MS promedio de 8,6 t/ha y vacas de 550 
+Kg. PV. 
+ Carga animal (vacas/ha) 
+Concentrado importado 
+ (t DM/ha/año) 
+1,0 1,2 1,2 1,2 1,8 2,0 2,2 2,4 
+1,2 56 67 79 90 101 112 123  
+2,4 50 60 70 80 90 100 110 120 
+3,6  54 63 72 81 90 99 108 
+ 
+ 
+ 
+2.3. Supuestos 
+• Se asumió que toda la tierra es alquilada. 
+• Se asumió un 25% de reposición, con vaquillonas preñadas (parto a los 24 meses). 
+• Los terneros machos se venden a pocos días de nacer, y las hembras son criadas hasta 
+los dos meses de edad, luego llevadas a pastaje fuera del campo, para regresar 
+preñadas dos meses antes del parto. 
+• A medida que se incrementó la CA, se asumió que los gastos en sanidad, 
+inseminación y control lechero, gastos de ordeñe, electricidad y pastaje se 
+incrementan proporcionalmente al número de vacas. Los gastos en mano de obra, 
+administración y asesoramientos variaron en proporción al volumen de leche 
+producida por año. Los gastos en reparación y mantenimiento, producción y 
+conservación de forrajes e impuestos se asumieron constantes frente a cambios en la 
+CA. 
+ 5 
+• Fue asumido que el capital invertido en instalaciones, maquinaria de ordeño y 
+maquinaria para alimentación aumentó proporcional al número de vacas. La inversión 
+sobre el resto de la maquinaria, mejoras de tierra y instalaciones fue asumida 
+constante, independientemente de la CA.  
+• 1,00 $US = 3,18 peso argentino. 
+• El presente estudio asumió que sólo se utilizan vacas Holando Argentino, que tiene 
+una alta proporción de genes americanos (Molinuevo, 2001), un promedio de PV de 
+aproximadamente 550 kilogramos, 3,6 % de grasa y el 3,2 % de proteína en la leche 
+(Comerón, 2003). Se asumió un porcentaje de vacas en ordeño de 78 % del año. 
+ 
+2.4. Análisis estadístico 
+Las producciones de sólidos predichas por el modelo (P) fueron comparadas contra las 
+producciones de sólidos reales observadas (A) usando  el mean-square prediction error  
+(MSPE) definido como: 
+2
+P)(An 1MSPE ∑ −=  
+Donde n es el número de pares de valores A y P que son comparados. La confiabilidad 
+del modelo fue evaluada a través del mean prediction error  (MPE), calculado como la 
+raíz cuadrada de MSPE dividido por el promedio de la producción de sólidos real. La 
+exactitud de la predicción fue considerada satisfactoria cuando MPE fue inferior a 10% 
+de la producción real de sólidos, relativamente buena cuando MPE estuvo entre 10 y  
+20%, e insatisfactoria cuando MPE fue mayor que 20% (Fuentes Pila  et al. , 1996).  
+ 
+ 
+3. Resultados y discusión 
+ 
+3.1. Validación del modelo 
+La Figura 1 muestra que el modelo predijo la producción de sólidos con exactitud 
+razonable, para los ocho tambos utilizados en la validación. La confiabilidad del modelo 
+fue satisfactoria: MPE de 7,1 % de la producción de sólidos. 
+ 
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+Tambo
+1
+Tambo
+2
+Tambo
+3
+Tambo
+4
+Tambo
+5
+Tambo
+6
+Tambo
+7
+Tambo
+8
+Kg solidos/ha (grasa + proteina)
+ 
+Figura 1: Producción de sólidos/ha (/square5) observada en los ocho tambos Argentinos y ( --) 
+predicciones del modelo.  
+ 
+ 6 
+3.2. Eficiencia de utilización de pasturas 
+Se observó una relación curvilínea entre CA comparativa y la eficiencia de utilización 
+anual de pasturas para los sistemas modelados (Figura 2). A una CA de 60 Kg. PV/t MS 
+(relativamente común en Argentina), casi la mitad de las pasturas producidas fue 
+desaprovechado (eficiencia de utilización del 53%). La eficiencia de utilización de las 
+pasturas aumentó hasta el 78% cuando la CA aumento hasta 90 kilogramos PV/t MS y 
+hasta el 88% para CA de 110 kilogramos PV/t MS. Porcentajes de utilización de 
+pasturas de 72% o mayores fueron alcanzados sólo en sistemas con CA comparativa de 
+80 kilogramos PV/t MS o mayores, según las predicciones del modelo (Figura 2 y Tabla 
+3). Porcentajes de utilización anual de pasturas de 72% o superiores, implicarían un 
+aumento importante de eficiencia de utilización de pasturas para el sistema lechero 
+promedio de Argentina. 
+A un valor común de CA comparativa, la utilización de pasturas fue apenas afectada por 
+la inclusión de concentrados (Figura 2a), pero la utilización de pasturas disminuyó 
+cuando se incremento la cantidad de concentrado por hectárea, a un valor común de CA 
+en vacas por hectárea (Figura 2b).  
+ 
+Tabla 3:  Performance por vaca y por hectárea de los 22 sistemas simulados con el 
+modelo utilizado en el presente estudio (8,6 t DM producida/ha/año). 
+ Concentrados 
+importados 
+(t MS/ha/año) 
+Carga animal 
+(vacas/ha) 
+  1,0 1,2 1,2 1,2 1,8 2,0 2,2 2,4 
+1,2 6,2 5,7 5,3 4,9 4,5 4,2 3,9  
+2,4 6,5 6,2 5,8 5,4 5,0 4,7 4,3 4,1 
+Consumo total 
+(t MS/vaca/año) 
+3,6  6,8 6,5 6,2 5,8 5,4 5,1 4,8 
+          
+1,2 6197  5636  5064  4569  4126  3698  3308   
+2,4 6867  6460  5934  5430  4944  4527  4099  3757  
+Producción  leche/vaca  
+(litros/año) 
+3,6  7051  6632  6178  5690  5242  4823  4463  
+          
+1,2 416 377 339 305 276 247 221  
+2,4 461 433 398 363 330 302 273 250 
+Producción de sólidos 
+por vaca 
+(Kg./vaca/año) 3,6  473 445 413 380 350 322 297 
+          
+1,2 416 453 475 488 496 494 486  
+2,4 461 520 557 581 594 604 602 595 
+Producción de sólidos 
+por ha 
+(Kg. /vaca/año) 3,6  567 623 661 685 700 708 700 
+          
+1,2 67 66 64 63 61 59 56  
+2,4 71 70 69 68 66 65 63 61 
+Eficiencia  conversión 
+alimentic. 
+(Kg. sólidos/t MS consumida) 3,6  73 72 71 70 69 67 66 
+          
+1,2 52% 63% 71% 77% 83% 87% 91%  
+2,4 38% 53% 64% 72% 78% 84% 88% 92% 
+Utilización anual de 
+pasturas (%) 
+3,6  40% 55% 65% 73% 79% 84% 89% 
+ 7 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+40 50 60 70 80 90 100 110 120 130
+Carga animal (kg PV/t MS ofrecida)
+Utilización Anual pastura     
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 2.6
+Carga animal (vacas/ha)
+Utilización Anual pastura     
+ 
+ 
+Figura 2: Utilización anual de pasturas (pastura consumida/pastura producida x 100) en 
+función de la CA comparativa (a), y de la CA en vacas/hectárea (b), para un sistema que 
+produce 8,6 t MS/ha/año y con 1,2 ( ●), 2,4 ( ) y 3,6 ( /trianglecentup) toneladas de MS de concentrado 
+por hectárea por año.  
+ 
+3.3. Consumo de materia seca 
+El consumo total de MS por vaca por año disminuyó linealmente a medida que la CA 
+comparativa aumentó. El consumo total anual de MS/vaca disminuyó de 6,3 a 4,4 t 
+MS/vaca caundo la CA comparativa aumentó de 60 a 110 Kg. PV//t MS (Tabla 3). Para 
+un sistema que produce 8,6 t MS/ha/año, el total de MS consumido anualmente  por 
+vaca debería disminuir de 6,3 a 5,2 t MS/año, si se desea alcanzar una eficiencia de 
+utilización anual de las pasturas del 72 %, de acuerdo a los datos utilizados en el 
+presente estudio. 
+ 
+3.4. Producción de sólidos de  leche 
+El tambo promedio de Argentina tiene aproximadamente 1,2 vacas/ha (equivale a una 
+CA comparativa de aproximadamente a 60 - 70 kilogramos PV/t MS) y utiliza 1,2 
+toneladas de MS de concentrado importado por vaca por año (Gambuzzi  et al. , 2003), lo  
+que es aproximadamente 1,4 t el MS/ha. Así, la producción del tambo promedio de 
+Argentina es de aproximadamente 334 Kg. de sólidos/ha. Esto es relativamente similar 
+al sistema con 1,2 vacas/ha y 1,2 t MS de concentrado simulado en este estudio (Tabla 
+3). 
+La producción máxima por vaca (473 Kg. sólidos) fue alcanzada a la CA comparativa 
+más baja, en el sistema que importó 3,6 t MS/ha. Sin embargo, la eficiencia de 
+utilización de pasturas anual fue muy baja en este sistema (40%). La producción de 
+sólidos máxima por hectárea fue alcanzada con CA de 101, 100 y 99 kilogramos PV/t 
+MS para sistemas con 1,2, 2,4 y 3,6 toneladas de MS de concentrados importados por 
+hectárea por año, respectivamente (Tabla 3 y Figura 3). La Figura 4 muestra la 
+producción de leche expresada como función de la expresión tradicional de CA 
+(vacas/ha). 
+ 
+ 
+(a) (b) 
+ 8 
+0
+100
+200
+300
+400
+500
+600
+40 50 60 70 80 90 100 110 120 130
+Carga animal (kg PV/t MS ofrecida)
+Kg solidos/vaca (grasa + proteina) 
+200
+300
+400
+500
+600
+700
+40 50 60 70 80 90 100 110 120 130
+Carga animal (kg PV/t MS ofrecida)
+Kg solidos/ha (grasa + proteina) 
+ 
+ 
+Figura 3:  Producción de leche (Kg. sólidos) por vaca (a) y por hectárea (b) en función 
+de la carga animal comparativa (Kg. PV/t MS ofrecida),  para un sistema que produce 
+8,6 t MS/ha/año y que utiliza 1,2 ( ●), 2,4 ( ) o 3,6 ( /trianglecentup) toneladas de MS de concentrados 
+importados/ha/año.  
+ 
+ 
+ 
+200
+300
+400
+500
+600
+700
+0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 2.6
+Carga animal (kg PV/t MS ofrecida)
+Kg solidos/ha (grasa + proteina) 
+ 
+Figura 4: Producción de leche (Kg. sólidos) por hectárea en función de la carga animal 
+(vacas/hectárea),  para un sistema que produce 8,6 t MS/ha/año y que utiliza 1,2 ( ●), 2,4 
+() o 3,6 ( /trianglecentup) toneladas de MS de concentrados importados/ha/año.  
+ 
+ 
+Schneider et al. (2001) simularon los efectos de la cantidad de pasturas producida en el 
+campo (7,8, 9,8 y 12,7 t MS/ha/año) y el porcentaje de utilización de pasturas (55% y 
+70%) sobre el resultado productivo y económico de sistemas lecheros argentinos. Así, 
+seis alternativas fueron evaluadas. Los resultados de este estudio indican que la 
+producción de leche se incrementó 14% cuando la eficiencia de utilización de las 
+pasturas aumentó del 55 a 70%. En forma similar, los sistemas modelados en este 
+(a) (b) 
+ 9 
+estudio muestran que, cuando la eficiencia de utilización de las pasturas aumentó del 55 
+al 70%,  la producción de leche por hectárea se incremento el 12%,  como promedio de 
+los tres niveles de concentrados utilizados. 
+Comerón y Schilder (1997) simularon tres sistemas de producción de leche para 
+Argentina con diferencias en CA, suplementación y producción de leche por vaca. El 
+objetivo de este estudio fue analizar si es más conveniente alcanzar una alta 
+productividad (9,050 litros leche/ha/año) con alta CA (y baja producción por vaca) o 
+con la alta producción de leche por vaca (y baja CA). Los resultados del estudio indican 
+que el ingreso neto más alto por hectárea se obtuvo en el sistema con mayor CA y 
+menor producción individual 
+Para las condiciones de Nueva Zelanda, Macdonald et al. (2001) reportaron que vacas 
+alimentadas sólo con pasto maximizarían el IN/ha a una CA comparativa de 90 Kg. 
+PV/t MS ofrecida. A cargas comparativas más bajas, el efecto negativo de la baja 
+eficiencia de utilización de pasto fue más importante que el beneficio de producir más 
+sólidos por vaca, en términos de IN/ha. En el otro extremo, a CA más altas, la ventaja 
+de una alta eficiencia de utilización de pasto no fue suficiente para compensar la baja 
+eficiencia de conversión de alimentos.   
+En una revisión de estudios de Nueva Zelanda, Penno (1999) reportó que CA 
+comparativas de 84 y 85 kilogramos PV/t el MS maximizarían el IN, para vacas Jersey 
+y Holstein-Friesian, respectivamente. Los resultados del presente estudio mostraron que 
+el IN fue maximizado a una CA comparativa de aproximadamente 90 kilogramos PV/t 
+MS ofrecida, independientemente de la cantidad de concentrados importados. Los 
+aumentos en cantidad de concentrados importados aumentaron la cantidad (y el 
+contenido) de EM consumida por vaca, y por lo tanto la producción de leche por vaca.  
+ 
+3.5. Eficiencia de conversión alimenticia 
+La eficiencia de conversión alimenticia (FCE) puede ser definida como los kilogramos 
+de sólidos de leche producidos por vaca por cada tonelada de MS de alimento 
+consumido (Holmes et al., 2002). La FCE se redujo a medida que la CA comparativa 
+aumentó en el presente estudio. La máxima FCE (73 Kg. de sólidos/t MS consumida) 
+fue obtenida con el nivel más alto de concentrados importados, la producción de sólidos 
+más alta por vaca y la CA comparativa más baja, para el tipo de vaca usado en este 
+estudio. La mínima FCE (56 Kg. de sólidos/ t MS consumida) fue obtenida con el nivel 
+más bajo de concentrados importado, la producción de sólidos más baja por vaca y la 
+CA comparativa más alta (Tabla 3).  
+Los valores de eficiencia de conversión alimenticia (FCE) obtenidos en el presente 
+estudio para sistemas argentinos varían desde 56 a 73 kilogramos de sólidos/t MS 
+consumida (Tabla 3), lo cual es inferior a los valores reportados  para sistemas lecheros 
+de Nueva Zelanda. Los valores de FCE reportados por Macdonald et al. (2001) en 
+Nueva Zelanda varían desde 73 a 86 Kg. sólidos/t MS consumidas. Las FCE más bajas 
+en sistemas argentinos podrían deberse al PV más alto de las vacas, a la inferior 
+concentración de sólidos en leche y a la inferior calidad de las pasturas en Argentina, en 
+comparación con Nueva Zelanda. 
+ 
+3.6. Resultados económicos 
+El ingreso neto aumentó a medida que la CA comparativa aumentó, alcanzando un 
+máximo a una CA de 90 Kg. PV/t MS. Posteriores incrementos en la CA disminuyeron 
+ 10  
+el IN/ha (Tabla 3 y Figura 5). Para el precio del concentrados (0,13 US$/Kg.) y el 
+precio de la leche (0,24 US$/litro) usados en este estudio, el incremento de la cantidad 
+de concentrados importado hasta 3,6 t el DM/ha incrementó el IN/ha, excepto a CA 
+comparativas muy bajas. Niveles de suplementación más altos no fueron evaluados. 
+El costo de producción (costos de estructura + costos directos + arrendamiento + 
+amortizaciones) fue de US$ 0,184 por litro de la leche, como un promedio de todos los 
+sistemas evaluados. 
+200
+300
+400
+500
+600
+700
+800
+40 60 80 100 120
+Carga animal (kg PV/t MS ofrecida)
+Ingreso Neto (US$/ha)
+ 
+ 
+Figura 5:  Ingreso neto por hectárea en función de la carga animal comparativa (Kg. 
+PV/t MS) para vacas de 550 Kg. PV, en un sistema que produce 8,6 toneladas de 
+MS/ha/año, y utiliza 1,2 ( ●), 2,4 ( ) o 3,6 ( /trianglecentup) t MS de concentrados importados por 
+hectárea por año. 
+ 
+ 
+Tabla 4:  Ingreso neto para los sistemas modelados, para un tambo que produce 8,6 t 
+MS/ha/año, con un precio de venta de la leche de $US 0,24 por litro y un costo de $US 
+0,13 por Kg. de concentrado comprado. 
+ Concentrados 
+Importados 
+(t MS/ha/año) 
+Carga animal  
+(vacas/ha) 
+  1,0 1,2 1,2 1,2 1,8 2,0 2,2 2,4 
+1,2 342 434 478 504 500 480 437  
+2,4 286 440 529 584 615 608 590 565 
+Ingreso neto  
+($US/ ha) 
+3,6  391 533 631 682 713 703 680 
+ 
+ 
+3.7. Carga animal (vacas/ha) necesarias para maximizar el ingreso neto 
+Los sistemas lecheros evaluados con el modelo utilizado en el presente estudio se basan 
+en un tambo que produce 8,6 t MS/ha/año. La CA comparativa que dio el máximo IN/ha 
+fue de 90 Kg. PV/ t MS, para los tres niveles de alimentos concentrados. Sin embargo, 
+cuando se expresa la CA en vacas por hectárea (vacas Holando Argentino de 550 Kg. 
+ 11  
+PV), la CA que maximizó el IN fue de 1,5, 1,7 y 1,9 vacas por hectárea para los 
+sistemas que utilizaron 1,2, 2,4 y 3,6 toneladas de alimentos concentrados por hectárea, 
+respectivamente. Se realizaron simulaciones adicionales, con el objetivo de predecir el 
+número de vacas por hectárea que maximizaría el IN para sistemas que producen 6,6 o 
+10,6 DM de t por hectárea. Los resultados se muestran en la Tabla 5. 
+Tabla 5:  Carga animal (vacas/ha) necesaria para maximizar el ingreso neto en sistemas 
+lecheros de Argentina, para tres niveles de materia seca producida en el campo y tres 
+niveles de concentrados importados/ha/año. Los cálculos se realizaron con modelo 
+descripto en el presente trabajo, utilizando un precio de venta por litro de leche de $US 
+0,24 y un costo por Kg. de concentrado de $US 0,13. 
+Concentrados importados (t MS/ha/año) Materia seca producida   
+(t MS/ha/año) 1,2 2,4 3,6 
+6,6 1,2 1,3 1,5 
+8,6 1,5 1,7 1,9 
+10,6 1,8 2,0 2,2 
+ 
+ 
+4. Conclusiones 
+• En las pruebas de validación estadística, el modelo productivo realizó predicciones 
+satisfactorias. Esto sugiere que el modelo predice el consumo en pastoreo y  la 
+producción de sólidos de leche dentro de límites razonables y comparables a 
+situaciones reales. 
+• A partir de los sistemas modelados en el presente estudio, se puede concluir que los 
+bajos porcentajes de utilización de pasturas y las bajas producciones de sólidos por 
+hectárea, características de sistemas lecheros argentinos, pueden ser mejoradas por un 
+incremento simultáneo de la CA y de la cantidad de concentrados importados por 
+hectárea.   
+• La CA comparativa óptima, desde el punto de vista del ingreso neto del sistema, 
+parecería estar alrededor de los 90 Kg. PV/ t MS ofrecida, lo cual es relativamente 
+similar al valor reportado para los sistemas lecheros de Nueva Zelanda.  
+• Un incremento en la cantidad de concentrado importado hasta 3,6 t MS ha/año sería 
+económicamente beneficioso a las relaciones de precio de la leche y concentrados 
+actuales, siempre y cuando se incremente simultáneamente la carga animal, para 
+obtener una CA comparativa cercana a los 90 Kg., PV/t MS ofrecida, 
+• En a general, los resultados de este estudio ilustraron la relación entre la carga animal 
+comparativa, la cantidad de concentrados importados al sistema, la utilización de las 
+pasturas, la producción de sólidos por hectárea y el ingreso neto. Estos resultados 
+proporcionan un marco para comprender los distintos sistemas de producción de leche 
+en Argentina. 
+ 12  
+5. Referencias 
+Baudracco, J. (2006). Effects of stocking rate and supplementation on the productivity 
+and profitability of Argentine dairy systems.  MSc Thesis, Massey University, 
+Palmerston North, New Zealand. 
+Baudracco, J., Lopez-Villalobos, N., Holmes, C. W., Brookes, I. M., Kemp, P., 
+comeron, E. A., et al. (2006). Development of a model to predict pasture intake 
+for grazing dairy cows in Argentina. Proceedings of the New Zealand Society of 
+Animal Production , 66, 35-41. 
+Comerón, E. A., Schilder, E. (1997). Intensificación de la producción de leche: análisis 
+de alternativas para lograr producciones de leche mas altas. Revista Argentina 
+de Produccion Animal , 17(3), 293-300. 
+Cursack, A. M., Castignani, M. I., Travadelo, M., Osan, O. E., Suero. M.M. (2003a). 
+TAMBO 2000. Modelo de análisis técnico-económico para empresas mixtas 
+predominantemente lecheras (Tambo – Invernada – Agricultura). Dirección 
+Nacional de Derechos de Autor.  Inscripción de Obra Inédita-Software. 
+Expediente nro. 270164 (CESSI). 
+Cursack, A. M., Castignani, M. I., Travadelo, M., Suero. M.M., Osan, O. E. (2003b, 
+Julio). Sistema de apoyo a las decisiones e indicadores en la gestión de 
+empresas agropecuarias.  XXXIV Reunión anual de la Asociación Argentina de 
+Economía AgrariaAGRARIA. 
+Dillon, P., Roche, J. R., Shalloo, L., Horan, B. (2005). Optimising financial return from 
+grazing in temperate pastures. Utilisation of grazed grass in temperate animal 
+systems. Proceedings of a satellite workshop of the XXth International 
+Grassland Congress, Cork, Ireland, July 2005, 131-147. 
+Fuentes Pila, J., DeLorenzo, M. A., Beede, D. K., Staples, C. R., Holter, J. B. (1996). 
+Evaluation of equations based on animal factors to predict intake of lactating 
+Holstein cows. Journal of Dairy Science , 79(9), 1562-1571. 
+Gambuzzi, E. L., Zhender, R., Chimicz, J. (2003). Análisis de Sistemas de Producción 
+Lechera . Retrieved 19 October, 2004, from http://www.inta.gov.ar  
+Garcia, S. C. (1997). Milk production in Argentina. Dairyfarming Annual. Massey 
+University , 49, 86-91. 
+Guaita, M. S., Gallardo, M. (1995). Utilización de la pastura de alfalfa en un sistema 
+intensivo de producción de leche  (Informacion Tecnica para Productores): INTA 
+Rafaela, Argentina. 
+Holmes, C. W., Wilson, G. F., Mackenzie, D. D. S., Flux, D. S., Brookes, I. M., Davey, 
+A. W. F. (2002). Milk production from pasture  (3rd ed.). Butterworths of New 
+Zealand Ltd., Wellington, New Zealand. 
+LIC. (2005). Dairy Statistics 2004 - 2005. Livestock Improvement Corporation Ltd,  . 
+Hamilton, New Zealand. 
+Macdonald, K. A., Penno, J. W., Kolver, E. S., Carter, W. A., Lancaster, J. A. (1998). 
+Balancing pasture and maize silage diets for dairy cows using urea, soybean 
+meal or fishmeal. Proceedings of the New Zealand Society of Animal 
+Production , 58, 102-105. 
+Macdonald, K. A., Penno, J. W., Nicholas, P. K., Lile, J. A., Coulter, M., Lancaster, J. 
+A. S. (2001). Farm systems - impact of stocking rate on dairy farm efficiency. 
+Proceedings of the New Zealand Grassland Association , 63, 223-227. 
+Molinuevo, H. A. (2001). Ajuste entre el potencial genético-productivo y el sistema de 
+producción lechera.  Estación Experimental Agropecuaria Balcarce. Argentina. 
+Penno, J. W. (1999). Stocking rate for optimum profit.  Paper presented at the South 
+Island Dairy Event. 
+ 13  
+Romero, L. A., Comerón, E. A., Bruno, O. A. (1998). Evaluación de diferentes métodos 
+de utilización de una pastura de alfalfa para vacas lecheras. Revista Argentina de 
+Produccion Animal , 118(1), 166-1167. 
+Schneider, G., Comerón, E. A., Romero, L. A. (2001). El rendimiento y la eficiencia de 
+uso de la secuencia de cultivos forrajeros sobre la productividad física y 
+económica del tambo en Argentina : Instituto Nacional de Tecnología 
+Agropecuaria, Argentina. 
+ 

@@ -1,0 +1,655 @@
+=== Fuente: 02. El enfoque de sistemas, decisiones y herramientas.pptx ===
+
+--- Diapositiva 1 ---
+2. El enfoque de sistemas: decisiones y herramientas
+Cristian R. Feldkamp
+Dr. rer. agr., Ing. Agr.
+FAUBA / FCA-UCU / AACREA
+--- Diapositiva 2 ---
+Weltanschauung (cosmovisión)
+Las decisiones que se toman dependen de cómo se asume que funciona el mundo
+Las decisiones cambian si el 
+método de toma de decisiones cambia
+--- Diapositiva 3 ---
+¿Cómo resolvemos problemas?
+
+--- Diapositiva 4 ---
+¿Cómo resolvemos problemas?
+Prueba y error
+
+--- Diapositiva 5 ---
+¿Cómo resolvemos problemas?
+Prueba y error
+
+El método científico
+Observación
+Manipulación de la 
+	realidad
+Análisis
+--- Diapositiva 6 ---
+¿Cómo resolvemos problemas?
+Prueba y error
+El método científico
+Extrapolación (inducción)
+
+
+
+--- Diapositiva 7 ---
+¿Cómo resolvemos problemas?
+Prueba y error
+El método científico
+Extrapolación
+Visión sistémica
+Interacciones
+Contexto
+--- Diapositiva 8 ---
+¿Cómo resolvemos problemas?
+
+Prueba y error
+El método científico
+Extrapolación
+Visión sistémica
+Interacciones
+Contexto
+Comportamiento emergente
+Eficiencia
+Estabilidad
+Sustentabilidad
+Intervención
+--- Diapositiva 9 ---
+¿Cómo resolvemos problemas?
+Prueba y error
+El método científico
+Extrapolación
+Visión sistémica
+Interacciones
+Contexto
+¿?
+
+Modelos
+Formulación matemática de las teorías
+Generalización
+Comprensión
+Predicción
+Aprendizaje
+Estructurador
+--- Diapositiva 10 ---
+¿Cómo resolvemos problemas?
+Prueba y error
+
+El método científico
+
+Visión sistémica
+Interacciones
+Contexto
+
+Modelos
+Formulación matemática de las teorías
+Generalización
+Comprensión
+Predicción
+Aprendizaje
+Estructurador
+
+Modelos distintos
+Problema
+
+
+
+
+
+
+
+Modelo compartido
+Problema
+--- Diapositiva 11 ---
+
+
+
+
+Entendimiento, datos y enfoque
+Estadística
+Física
+(-)
+Nivel de entendimiento relativo
+Modificado de Grant y Swannack, 2008
+(-)
+(+)
+(+)
+Cantidad relativa de datos
+Análisis de sistemas y simulación
+--- Diapositiva 12 ---
+Los modelos en la investigación
+¿Investigar?
+"Science is built of facts the way a house is built of bricks; but an accumulation of facts is no more science than a pile of bricks is a house“ 
+	Henri Poincaré 
+--- Diapositiva 13 ---
+Los modelos en la investigación
+13
+¿Investigar?
+--- Diapositiva 14 ---
+Emergencia
+--- Diapositiva 15 ---
+Nuestro propósito
+Indicadores
+Modelo de simulación
+--- Diapositiva 16 ---
+Nuestro propósito
+--- Diapositiva 17 ---
+Tipos de modelo
+
+
+Resultados y 
+cálculos
+Resultados
+Cálculos
+Cálculos
+--- Diapositiva 18 ---
+Nuestro propósito
+La navaja de Ockham
+--- Diapositiva 19 ---
+Las entidades no deberían multiplicarse innecesariamente
+La navaja de Ockham
+¡¡¡Hacerla fácil!!!
+--- Diapositiva 20 ---
+Objetivos de un modelo dinámico
+Respuesta dinámica
+Estado constante
+
+
+
+Estructura del modelo
+Variables  conductoras
+Estado del sistema en t-1
+Estructura del modelo
+Variables  conductoras
+
+t
+t+1
+--- Diapositiva 21 ---
+Características de los modelos
+Descripciones incompletas de sistemas
+Construidos sobre supuestos
+Simpleza versus precisión
+No hay modelo para todo
+Modelación no es sobre computadoras o tecnología de la información
+Adaptado de Teh (2006)
+--- Diapositiva 22 ---
+Características de los modelos
+Descripciones incompletas de sistemas
+Construidos sobre supuestos
+Simpleza versus precisión
+No hay modelo para todo
+Modelación no es sobre computadoras o tecnología de la información
+Adaptado de Teh (2006)
+
+--- Diapositiva 23 ---
+Características de los modelos
+Descripciones incompletas de sistemas
+Construidos sobre supuestos
+Simpleza versus precisión
+No hay modelo para todo
+Modelación no es sobre computadoras o tecnología de la información
+Adaptado de Teh (2006)
+
+--- Diapositiva 24 ---
+Características de los modelos
+Descripciones incompletas de sistemas
+Construidos sobre supuestos
+Simpleza versus precisión
+No hay modelo para todo
+Modelación no es sobre computadoras o tecnología de la información
+Adaptado de Teh (2006)
+
+--- Diapositiva 25 ---
+Impacto de aumentar la complejidad
+
+
+
+Realidad
+Número de variables de estado o procesos
+(Complejidad)
+Adaptado de Passioura, 1996
+
+
+
+Resultados del modelo
+Error del modelo
+--- Diapositiva 26 ---
+Características de los modelos
+Descripciones incompletas de sistemas
+Construidos sobre supuestos
+Simpleza versus precisión
+No hay modelo para todo
+Modelación no es sobre computadoras o tecnología de la información
+Adaptado de Teh (2006)
+
+--- Diapositiva 27 ---
+Características de los modelos
+Descripciones incompletas de sistemas
+Construidos sobre supuestos
+Simpleza versus precisión
+No hay modelo para todo
+Modelación no es sobre computadoras o tecnología de la información
+Adaptado de Teh (2006)
+
+--- Diapositiva 28 ---
+Razones para modelar
+Experimentar
+Encontrar vacíos de conocimiento
+Pronosticar
+Aprender
+Organizador de pensamientos
+Almacén de datos e ideas
+Adaptado de Shannon y Ruth (1997)
+--- Diapositiva 29 ---
+Razones para modelar: Experimentar
+--- Diapositiva 30 ---
+Razones para modelar: Pronosticar
+--- Diapositiva 31 ---
+Razones para modelar: Detectar vacíos
+--- Diapositiva 32 ---
+Razones para modelar: Aprender
+Mundo Real
+Estrategia, estructura,
+reglas de decisión
+Adaptado de Sterman (2000)
+Mundo virtual
+Realimentación
+virtual
+Decisiones
+virtuales
+Modelos mentales
+Realimentación de 
+información
+Decisiones
+--- Diapositiva 33 ---
+Descubriendo la estructura sistémica
+Diagramas causales
+--- Diapositiva 34 ---
+
+
+Relaciones causa-efecto
+
+Realimentaciones
+
+Retardos
+Diagramas causales
+--- Diapositiva 35 ---
+
+
+
+Relaciones causa-efecto
+
+Realimentaciones
+
+Retardos
+Diagramas causales
+Prod Leche
+Disponibilidad
+Defoliación
+CMS
+E lact
+(+)
+(+)
+(+)
+(A)
+(+)
+(-)
+(+)
+(E)
+--- Diapositiva 36 ---
+
+
+
+Relaciones causa-efecto
+
+Realimentaciones
+
+Retardos
+Diagramas causales
+Prod Leche
+Disponibilidad
+Defoliación
+CMS
+E lact
+(+)
+(+)
+(+)
+(A)
+(+)
+(-)
+(+)
+(E)
+--- Diapositiva 37 ---
+
+
+
+Relaciones causa-efecto
+
+Realimentaciones
+
+Retardos
+Diagramas causales
+Prod Leche
+Disponibilidad
+Defoliación
+CMS
+E lact
+(+)
+(+)
+(+)
+(A)
+(+)
+(-)
+(+)
+(E)
+--- Diapositiva 38 ---
+
+
+
+Relaciones causa-efecto
+
+Realimentaciones
+
+Retardos
+Diagramas causales
+Prod Leche
+Disponibilidad
+Defoliación
+CMS
+E lact
+(+)
+(+)
+(+)
+(A)
+(+)
+(+)
+(E)
+Todos (+) 
+Número par de (-)
+--- Diapositiva 39 ---
+
+
+
+Relaciones causa-efecto
+
+Realimentaciones
+
+Retardos
+Diagramas causales
+Prod Leche
+Disponibilidad
+Defoliación
+CMS
+E lact
+(+)
+(+)
+(+)
+(A)
+(+)
+(+)
+(E)
+Número impar de (-)
+--- Diapositiva 40 ---
+Diagramas causales: La mano invisible
+Oferta
+Precio
+(+)
+(-)
+(+)
+(E)
+Valor relativo
+(+)
+Rentabilidad
+Costo de 
+producción
+Precio de 
+sustitutos
+(+)
+(-)
+(+)
+(-)
+(E)
+Demanda
+--- Diapositiva 41 ---
+Diagramas causales: Ciclo ganadero
+Producción de
+carne
+Precio
+Rodeo nacional
+(+)
+(-)
+(+)
+(E)
+Retención de 
+hembras
+(+)
+--- Diapositiva 42 ---
+Diagramas causales: Ciclo ganadero
+Producción de
+carne
+Precio
+Rodeo nacional
+(+)
+(-)
+(+)
+(E)
+Retención de 
+hembras
+(+)
+--- Diapositiva 43 ---
+Pros
+Capturar modelos mentales
+Ordenar el pensamiento
+Presentar los resultados de manera sencilla
+
+Contra
+Es incompleto
+Diagramas causales: Pros y contras
+--- Diapositiva 44 ---
+Más ejemplos…
+
+--- Diapositiva 45 ---
+Eficiencia productiva (kg/ha/año)
+Prod individual 
+Carga animal
+(-)
+(+)
+(+)
+Relación entre carga, prod individual y prod/ha
+Al aumentar la carga, reduzco la prod invid y la prod / ha
+E
+--- Diapositiva 46 ---
+Consumo EM
+CMS
+Densidad EM
+Req mant
+Energía disp GPV
+Prod individual 
+Potencial productivo
+(+)
+(+)
+(+)
+(-)
+(+)
+(+)
+(+)
+(+) / (-)
+(+)
+Disponibilidad forrajera
+Defoliación
+Carga animal
+(+)
+(-)
+(+)
+(+)
+(+)
+Peso vivo potencial
+(+)
+(+)
+E
+E
+Eficiencia conversión
+(+)
+Eficiencia productiva (kg/ha/año)
+(+)
+Los bucles estabilizadores hacen que el aumento de carga no lleve a un aumento de prod / ha
+--- Diapositiva 47 ---
+Objetivo del MGA peso al destete (PD)
+PD actual
+Diferencia PD actual-deseado
+Selección por mayor PD
+Requer mantenim
+(+)
+(+)
+(-)
+(+)
+Energía dispon. para prod.
+E
+CMS
+(+)
+(+)
+Eficiencia energética
+(+)
+(-)
+(-)
+Busco aumentar el Peso al destete (PD) sin mirar el resto
+Al aumentar la carga, reduzco la prod invid y la prod / ha
+--- Diapositiva 48 ---
+Objetivo del MGA peso al destete (PD)
+PD actual
+Diferencia PD actual-deseado
+Selección por mayor PD
+(+)
+(+)
+(-)
+(+)
+Energía dispon. para prod.
+E
+CMS
+(+)
+(+)
+Defoliación
+Disponibilidad forrajera
+(+)
+(-)
+(+)
+E
+Busco aumentar el Peso al destete (PD) sin considerar el CMS el resto
+Los bucles estabilizadores van en contra de la búsqueda de aumentar el PD. Si no aumenta el alimento disponible, no aumenta el PD.
+--- Diapositiva 49 ---
+Objetivo del MGA peso al destete (PD)
+PD actual
+Diferencia PD actual-deseado
+Selección por mayor PD
+Requer mantenim
+(+)
+(+)
+(-)
+(+)
+Energía dispon. para prod.
+A
+Eficiencia energética
+(+)
+(-)
+(-)
+Busco aumentar el Peso al destete (PD) a través de mejora de eficiencia
+El bucle es amplificador, por lo que mayor selección puede llevar a cada vez más eficiencia. Pero: ¿es factible seleccionar por eficiencia energética?
+--- Diapositiva 50 ---
+Eficiencia productiva objetivo (kg/ha/año)
+Cabezas vendidas / año
+Peso venta individual
+Peso Destete terneros
+Peso adulto
+Terneros 
+Req energía mantenim
+CC al servicio
+Porcentaje de preñez
+(+)
+(-)
+(+)
+(+)
+(+)
+(+)
+(+)
+(+)
+(+)
+(+)
+Si decido aumentar el peso al destete de los terneros por cambio de genética, cambiando el peso adulto
+Al aumentar el Peso al destete, cae la preñez y la cantidad de cab vendidas
+--- Diapositiva 51 ---
+Eficiencia productiva objetivo (kg/ha/año)
+Cabezas vendidas / año
+Peso venta individual
+Terneros 
+CC al servicio
+Porcentaje de preñez
+(+)
+(+)
+Vientres
+(+)
+(+)
+Carga actual / receptividad
+(+)
+(-)
+(+)
+(+)
+Si decido aumentar la carga de vientres
+Disponib de alimento terneros
+Peso de los terneros
+PV vientres a la venta
+(-)
+(+)
+(+)
+(-)
+(+)
+E
+Al aumentar la carga, reduzco el % de preñez y el PV de venta. 
+--- Diapositiva 52 ---
+¿Preguntas?
+--- Diapositiva 53 ---
+Reflexiones
+
+--- Diapositiva 54 ---
+El enfoque de sistemas
+Límites
+--- Diapositiva 55 ---
+El enfoque de sistemas
+Nivel de agregación
+Límites
+--- Diapositiva 56 ---
+El enfoque de sistemas
+Nivel de agregación
+Interacciones
+Límites
+--- Diapositiva 57 ---
+El enfoque de sistemas
+Nivel de agregación
+Interacciones
+Límites
+Emergencia
+--- Diapositiva 58 ---
+¿Preguntas?
+
+--- Diapositiva 60 ---
+El desarrollo de un modelo
+--- Diapositiva 61 ---
+Decisiones y modelos
+--- Diapositiva 62 ---
+Decisiones y modelos
+
+--- Diapositiva 63 ---
+Decisiones y modelos
+
+--- Diapositiva 64 ---
+Decisiones y modelos
+
+--- Diapositiva 65 ---
+Decisiones y modelos
+
+--- Diapositiva 66 ---
+Decisiones y modelos
+
+--- Diapositiva 67 ---
+Decisiones y modelos

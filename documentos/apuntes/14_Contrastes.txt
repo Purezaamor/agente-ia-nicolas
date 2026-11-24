@@ -1,0 +1,695 @@
+=== Fuente: 14_Contrastes.pdf ===
+
+ 19  
+7. Procedimientos “a priori”. 
+ 
+Se entiende por comparaciones planeadas o “a priori”, a los tests o intervalos de confianza 
+para las medias que el investigador decide realizar antes (a priori) de efectuar el ensayo, y 
+generalmente son sugeridas por los objetivos de la experimentación.  
+Además, en algunos experimentos los tratamientos presentan una estructura particular, por 
+lo que puede ser más conveniente recurrir a procedimientos que permitan comparar las 
+medias de los tratamientos, teniendo en cuenta dicha relación. 
+Los tratamientos, cuanti o cualitativos, que definen poblaciones relacionadas, pueden 
+clasificarse de la manera siguiente: 
+1. relacionados por una estructura de variable específica: pueden describirse como 
+aquellas medias de poblaciones conectadas por algún tipo de función de regresión. 
+Un caso particular puede ser la estructura de gradiente: son aquellos en los que 
+aparecen diferencias incrementales (cuantitativos), tal como diferentes temperaturas 
+(10ºC, 15ºC, 20ºC) en el estado larval de un insecto. No es necesario que los 
+incrementos estén igualmente espaciados, pero hace más sencillo el análisis. 
+2. estructura factorial: los tratamientos (cuali o cuantitativos) son combinaciones de dos 
+ó más diferentes factores de interés 
+3. estructura de grupo: puede describirse simplemente como dos o más conjuntos de 
+tratamientos relacionados (cuali o cuantitativos). En un ensayo para evaluar la 
+producción de leche, pueden presentarse tres tratamientos con suplementación de 
+grano y cuatro raciones sin suplementación. Otro ejemplo, estudiar el rendimiento de 
+un cultivo con fertilizantes granulados y líquidos (dos grupos); y dentro de cada uno 
+de estos grupos puede presentarse una estructura de gradiente. 
+ 
+ 
+7.1.  Contrastes. 
+ 
+Los procedimientos de comparación de medias “a posteriori"  (punto 1) están enfocados a 
+comparaciones de a pares (diferencias de dos medias), ya que son las únicas 
+comparaciones interpretables (con significado), no habiendo una relación particular de los 
+tratamientos. 
+En presencia de una estructura de tratamientos, las comparaciones no se restringen a pares 
+de medias, sino que pueden construirse comparaciones más generales. 
+Un contraste es una combinación lineal de medias, de la forma:  
+∑
+=
+=
+t
+i
+iic
+1
+)15(μθ  
+cuyos coeficientes, ci suman cero, es decir:  ∑
+=
+=
+t
+i
+ic
+1
+0 , no todos cero simultáneamente, o 
+sea, θ puede ser cualquier combinación lineal de las μ siempre que la suma de los 
+coeficientes sea cero. 
+ 
+El caso más sencillo, es tener sólo dos coeficientes distintos de cero e iguales a  -1  y +1, 
+este contraste no es más que la diferencia de dos medias.  
+Algunos contrastes de interés pueden ser: 
+ 20  
+3217
+5216
+543215
+43214
+64323
+4212
+3211
+422
+4,06,0
+22233
+3
+32
+2
+μμμθ
+μμμθ
+μμμμμθ
+μμμμθ
+μμμμθ
+μμμθ
+μμμθ
+−+=
+−−=
+−−−+=
+−−−=
+−−+=
+−+=
+−+=
+                                  (16) 
+ 
+De (16) se desprende que los coeficientes del contraste θ7 son el doble de los coeficientes 
+de  θ1 . Es decir,  multiplicando un contraste por constantes distintas de cero, pueden 
+generarse infinitos contrastes diferentes. Las estimaciones serán diferentes, así como los 
+límites de confianza, no así las pruebas de hipótesis. 
+ 
+Para un contraste pueden realizarse tests de hipótesis e intervalos de confianza. Se asumen 
+los supuestos usuales del ANOVA, por lo que el C.M.Error  es un estimador insesgado de σ2.  
+La hipótesis nula del contraste se plantea:  
+H0 : θ  = 0                                                          (17) 
+Para el θ4  de (16):  
+03: 43210 =−−− μμμμH                                             (18) 
+que puede rescribirse como: 
+         3/)(: 43210 μμμμ ++=H                                              (19) 
+ 
+Este último contraste permite comparar la media del tratamiento 1 con el promedio de las 
+medias de los tratamientos 2, 3, y 4 . Podría ser de interés cuando el tratamiento 1 es el 
+control, y permitiría determinar si el control tiene el mismo efecto que los otros tratamientos, 
+en conjunto 
+El θ5  de (16): 
+)(3 1)(2 1: 543210 μμμμμ ++=+H                                    (20) 
+permite comparar dos grupos en promedio, uno formado por los tratamientos 1 y 2, y el 
+segundo por los tratamientos 3, 4, y 5. 
+ 
+Para el ejemplo del punto 6, referido al efecto del nuevo fungicida (Nurelle) en azaleas, con 
+los siguientes tratamientos: 
+ 
+1: Truban 
+2: Fungicida N, 1 oz. 
+3: Fungicida N, 3 oz.        3 días antes de la inoculación 
+4: Fungicida N, 5 oz. 
+5: Fungicida N, 1 oz. 
+6: Fungicida N, 3 oz.        7 días después de la inoculación 
+7: Fungicida N, 5 oz. 
+ 
+algunos contrastes de interés podrían ser: 
+)(6 1 76543211 μμμμμμμθ +++++−=  
+7654322 μμμμμμθ −−−++=  
+    63523 μμμμθ −−+=  
+siendo las hipótesis nulas respectivas: 
+ 21  
+)(6 1: 76543210 μμμμμμμ +++++=H  
+     7654320 : μμμμμμ ++=++H  
+     63520 : μμμμ +=+H  
+ 
+El contraste θ1 compara el tratamiento Truban (control) vs. el resto, es decir, el promedio de 
+Truban vs. el promedio del funguicida Nurelle, para todas las dosis y momentos de 
+aplicación. El contraste θ2 compara el promedio del funguicida Nurelle aplicado 3 días antes 
+de la inoculación, con el promedio del funguicida Nurelle aplicado siete días después de la 
+inoculación. El contraste θ3 compara el promedio de las dosis de 1 oz. vs de 3 oz. , del 
+funguicida Nurelle.  
+El estimador puntual insesgado, obtenido por el método de mínimos cuadrados, de un 
+contraste θ  (17) es la misma combinación lineal, pero de las medias muestrales: 
+∑
+=
+=
+t
+i
+ii Yc
+1
+. )21(ˆθ  
+por lo que: θθ =)ˆ(E . 
+La varianza del contraste es: 
+ [ ]∑ ∑∑∑
+= ===
+====
+t
+i
+t
+i i
+i
+i
+t
+i
+i
+t
+i
+iiii
+r
+c
+rcYVcYcVV 1 1
+2
+2
+2
+1
+2
+1
+.
+2
+. )22()()()()ˆ( σσθ  
+por el supuesto de independencia de las .iY  y de homogeneidad de varianzas. Para igual 
+número de repeticiones por tratamiento, se obtiene la expresión: 
+∑
+=
+=
+t
+i
+icrV 1 2
+2
+)23()ˆ( σθ  
+Por ser θˆ  una combinación lineal de variables .iY  con distribución normal: 
+∑ ∑
+= =
+=≈
+t
+i
+t
+i i
+i
+ii
+r
+ccN
+1 1
+2
+2 )24();(ˆ σμθθ  
+estandarizando: 
+)25()1;0(
+ˆ
+1
+2
+N
+r
+c
+z
+t
+i i
+i
+≈−=
+∑
+=
+σ
+θθ  
+ 
+Utilizando el estimador insesgado de σ2 , el C.M.Error  , se obtiene:  
+ 
+)26(
+..
+/)ˆ(
+..
+ˆ 1
+2
+1
+2 tN
+t
+i i
+i
+t
+i i
+i
+t
+ErrorMC
+r
+c
+r
+cErrorMC
+t −
+=
+=
+≈
+−
+=−= ∑
+∑
+θθ
+θθ  
+ 
+donde: ∑
+=
+=
+t
+i
+irN
+1
+. 
+Esta variable t puede usarse para efectuar tests de hipótesis (unilaterales o bilaterales) o 
+intervalos de confianza para θ. Para realizar tests bilaterales, también puede utilizarse la 
+variable F, ya que  tNtN Ft −− = ;1 2  , por lo que se obtiene: 
+ 22  
+)27(..
+/)ˆ(
+;1
+1
+2
+2
+tN
+t
+i i
+i
+FErrorMC r
+c
+F −
+=
+≈
+−
+=
+∑θθ
+ 
+ 
+De (27) se desprende que cada contraste así construido, tiene un solo grado de libertad. 
+Para la hipótesis de (17),  H 0 : θ  = 0 , el valor del estadístico F se expresa: 
+)28(..
+/ˆ
+;1
+1
+2
+2
+tN
+t
+i i
+i
+FErrorMC r
+c
+F −
+=
+≈=
+∑θ
+ 
+ 
+El numerador es, entonces, la Suma de Cuadrados del Contraste , )ˆ.(. θCS : 
+)29(/ˆ)ˆ.(.
+1
+2
+2
+∑
+=
+=
+t
+i i
+i
+r
+cCS θθ  
+ 
+En el contexto del ANOVA, una F es el cociente de dos cuadrados medios, por lo que: 
+)30(.. 1/)ˆ.(. ;1 tNFErrorMC CS −≈θ  
+bajo H 0 ,  y se rechaza H 0 si: 
+)31(.. )ˆ.(. ;1; tNFErrorMC CS −> α θ  
+ 
+Si se realizan varios contraste (pueden ser infinitos) los tests son dependientes y la 
+probabilidad total de Error Tipo I es desconocida, o sea, P(rechazar H 0 / H 0 verdadera) es 
+desconocida, por lo cual es conveniente “limitar” de alguna manera el número total de 
+contrastes. 
+Con respecto a los contrastes θ1  y θ7  de (16), a pesar de sus distintos coeficientes, tienen 
+las mismas sumas de cuadrados, por lo que conducen a la misma prueba de hipótesis. Una 
+manera de limitar el número de contrastes, es definiendo una condición adicional: ∑
+=
+=
+t
+i
+ic
+1
+2 1, 
+con lo cual se eliminan todos los contrastes que difieren en una constante. 
+ 
+ 
+7.2. Contrastes ortogonales. 
+ 
+La mayoría de los contrastes contienen cierto grado de “información superpuesta”, tal el 
+caso de (16). Idealmente, se desearía que cada contraste se refiriera a un aspecto diferente 
+y no relacionado de los tratamientos, en otras palabras, que proveyera “información 
+disjunta”.  
+Dos contrastes: 
+∑ ∑
+= =
+==
+t
+i
+t
+i
+iiii cc
+1 1
+2211 )32(y μθμθ  
+son ortogonales  sii: 
+∑
+=
+=
+t
+i i
+ii
+r
+cc
+1
+21 )33(0  
+o, si los ri son iguales                       
+                                         )34(0
+1
+21∑
+=
+=
+t
+i
+ii cc  
+ 23  
+Entonces, un conjunto de contrastes de tratamientos θ1, θ2 ,..., θ t , constituye un conjunto 
+mutuamente ortogonal si todos los pares de contrates son ortogonales entre si.  
+A continuación, todos los ejemplos se realizarán para  ri  iguales. 
+Para el ejemplo del punto 6, referido al efecto del nuevo fungicida (Nurelle) en azaleas, dos 
+posibles contrastes ortogonales son: 
+)(6 1ˆ .7.6.5.4.3.2.11 YYYYYYY +++++−=θ  
+.7.6.5.4.3.22
+ˆ YYYYYY −−−++=θ  
+Los coeficientes son: 
+ 
+ 
+Trat. 1  Trat. 2 Trat. 3 Trat. 4 Trat. 5 Trat. 6 Trat. 7   ∑
+=
+t
+i
+ic
+1
+ 
+θ1 1 -1/6 -1/6 -1/6 -1/6 -1/6 -1/6 0 
+θ2 0 1 1 1 -1 -1 -1 0 
+c1i c2i  0 -1/6 -1/6 -1/6 +1/6 +1/6 +1/6  
+ 
+Como puede observarse: ∑
+=
+=
+t
+i
+ii cc
+1
+21 0 . 
+Puede verse que θ1 y θ2  proveen diferente información, θ1 compara el tratamiento Truban 
+(control) vs. Nurelle (resto de los tratamientos), mientras que θ2 compara los dos momentos 
+de inoculación. 
+Si  θ1  y  θ2  son dos contrastes ortogonales  y  si:   ∑
+=
+=
+t
+i
+ii Yc
+1
+.11
+ˆθ y   ∑
+=
+=
+t
+i
+ii Yc
+1
+.22
+ˆθ  la 
+0)ˆ,ˆ( 21 =θθCov  porque ∑
+=
+=
+t
+i i
+ii
+r
+cc
+1
+21 0 . Esto implica que 21 ˆˆ θθ y  son 
+independientes, debido a la distribución normal de cada uno de los estimadores. Los 
+estadísticos son independientes y es apropiado hacer tests simultáneos con 2 ó más 
+contrastes ortogonales. En realidad, los tests para dos contrastes ortogonales no son 
+totalmente independientes, ya que los dos usan el mismo denominador ( C.M.Error ). 
+Una de las mayores aplicaciones de los contrates ortogonales es particionar la Suma de 
+Cuadrados de Tratamientos ( S.C.Trat .) en componentes aditivas, que totalizan dicha suma. 
+O sea, que cualquier conjunto de t -1 contrastes ortogonales se denomina conjunto 
+ortogonal completo  de contrastes de tratamientos. Esto implica que no existe un “único” 
+conjunto ortogonal completo de contrastes de tratamientos. Cuando los tratamientos tienen 
+2 ó más grados de libertad, siempre existen 2 ó más conjuntos ortogonales completos de 
+contrastes de tratamientos. 
+Los contrastes ortogonales tienen dos ventajas con respecto a un conjunto arbitrario de 
+contrastes, o a las comparaciones de medias: 
+1. Para t tratamientos, puede construirse t -1 contrastes ortogonales, siendo (29) la 
+S.C.Contraste, para θ1 , θ2 ,..., θt-1 ,  todos ortogonales (de a pares):  
+ 
+)35(...)ˆ.(.)ˆ.(.)ˆ.(. 121 TratCSCSCSCS t =+++ −θθθ L  
+y cada suma de cuadrados tiene un grado de libertad. 
+2. La tasa de error compuesta,  αp  (9) para un conjunto de contrastes ortogonales, en 
+general, es menor que para cualquier conjunto de contrastes, ya que el número de 
+contrastes ortogonales suele ser menor. Pero, el valor exacto de la tasa de error 
+compuesta  no puede especificarse porque los tests para contrastes ortogonales no son 
+independientes, ya que los dos usan el mismo denominador ( C.M.Error ), aunque esto no 
+acarrea un gran aumento de los valores de α. 
+ 24  
+Un conjunto completo de contrastes ortogonales, para el ejemplo del punto 6, referido al 
+efecto del nuevo fungicida (Nurelle) en azaleas, son: 
+ 
+)(6 1 76543211 μμμμμμμθ +++++−=  
+7654322 μμμμμμθ −−−++=  
+63523 μμμμθ −−+=  
+7465324 22 μμμμμμθ −−+++=  
+53625 μμμμθ −−+=  
+6547326 22 μμμμμμθ −−−++=  
+ 
+donde: 
+ 
+θ1 Truban vs. Nurelle 
+θ2 Nurelle: 3 días antes de la inoculación vs. 7 días después de inoculación  
+θ3 Nurelle: dosis 1 oz. vs 3 oz.  
+θ4 Nurelle: promedio de dosis 1 oz. y 3 oz. vs. dosis 5 oz.  
+θ5 Nurelle: interacción entre momento de aplicación y las dos primeras dosis  
+θ6 Nurelle: interacción entre momento de aplicación y las tres dosis  
+ 
+siendo los coeficientes: 
+ 
+ 
+Trat. 1  Trat. 2 Trat. 3 Trat. 4 Trat. 5 Trat. 6 Trat. 7   ∑
+=
+t
+i
+ic
+1
+ 
+θ1 6 -1 -1 -1 -1 -1 -1 0 
+θ2 0 1 1 1 -1 -1 -1 0 
+θ3 0 1 -1 0 1 -1 0 0 
+θ4 0 1 1 -2 1 1 -2 0 
+θ5 0 1 -1 0 -1 1 0 0 
+θ6 0 1 1 -2 -1 -1 2 0 
+ 
+ 
+ 
+ 
+Programa SAS y salida 
+ 
+ 
+proc  glm ; 
+class  trat; 
+model  peso=trat; 
+contrast  'Truban vs. Nurelle'     trat  6 -1  -1   -1 -1 -1 -1; 
+contrast  'N: 3 d. vs. 7 d.'      trat  0  1   1    1 -1 -1 -1; 
+contrast  'N: 1 oz. vs 3 oz.'      trat  0  1  -1    0  1 -1  0; 
+contrast  'N: 1-3 oz. vs. 5 oz.'   trat  0  1   1  -2  1  1   -2; 
+contrast  'N: inter. entre 2 y 3'  trat  0  1  -1    0 -1  1  0; 
+contrast  'N: inter. entre 2 y 4'  trat  0  1   1  -2 -1 -1  2; 
+run ; 
+ 
+ 
+ 
+ 
+ 
+ 25  
+Contrast  DF  Contrast SS  Mean Square  F Value  Pr > F 
+Truban vs. Nurelle 1 78.5850340  78.5850340  2.55  0.1177  
+N: 3 d. vs. 7 d.  1 378.0000000  378.0000000  12.27  0.0011  
+N: 1 oz. vs 3 oz.  1 43.7500000  43.7500000  1.42  0.2400  
+N: 1-3 oz. vs. 5 oz.  1 192.0119048  192.0119048  6.23  0.0165  
+N: inter. entre 2 y 3  1 2.8928571  2.8928571  0.09  0.7608  
+N: inter. entre 2 y 4  1 8.6785714  8.6785714  0.28  0.5984  
+ 
+ 
+Puede concluirse, al 5%, que: no hay diferencias significativas entre Truban (control) y el 
+nuevo fungicida Nurelle, hay diferencias significativas entre los momentos de aplicación del 
+fungicida (3 días antes y 7 días después); no hay diferencias significativas entre las dosis 1 
+oz. y 3 oz. del fungicida Nurelle; hay diferencias significativas entre el promedio de las dosis 
+1-3 oz. y la dosis de 5 oz. del fungicida Nurelle; no hay diferencias significativas en la 
+interacción entre los momentos de aplicación y las dosis 1 oz. y 3 oz. del fungicida Nurelle; 
+no hay diferencias significativas entre la interacción entre los momentos de aplicación y el 
+promedio de las dosis 1-3 oz. y la dosis de 5 oz. del fungicida Nurelle. 
+ 
+ 
+7.2.1. Conjunto particular de contrastes ortogonales.  
+ 
+Cualquier suma de cuadrados se puede calcular a partir de un conjunto de contrastes 
+ortogonales. Algunos conjuntos de contrastes tienen más sentido que otros, y a veces algún 
+contraste es sólo necesario para completar el conjunto. En la mayoría de los casos, se 
+utiliza un conjunto específico de contrastes sugerido por la estructura de los datos 
+(tratamientos o factores), pero si no hubiera una estructura en particular, pueden obtenerse 
+todos los contrastes, ortogonales entre si, de acuerdo con los siguientes coeficientes: 
+ 
+Medias  Contrastes 
+1 2 3 4 5 ... t - 1 t 
+θ 1 +1 -1 0 0 0 ... 0 0 
+θ 2 +1 +1 -2 0 0 ... 0 0 
+θ 3 +1 +1 +1 -3 0 ... 0 0 
+: … … … … … … … … 
+θ t - 2  +1 +1 +1 +1 +1 ... - ( t - 2 ) 0 
+θ t  - 1  +1 +1 +1 +1 +1 ... +1 - ( t - 1 ) 
+ 
+Así, para 3 tratamientos (2 grados de libertad) corresponden las dos primeras filas y tres 
+columnas. Para 4 tratamientos (3 grados de libertad) corresponden las tres primeras filas y 
+cuatro columnas, y así sucesivamente.   
+ 
+ 
+7.3. Contrastes de tendencias para medias. 
+ 
+Cuando un tratamiento o factor de un experimento es de naturaleza cuantitativa, puede ser 
+de utilidad para el investigador ajustar una curva, con el objeto de determinar la función 
+matemática de la respuesta a los niveles del tratamiento o factor, es decir, permiten estudiar 
+ 26  
+los datos en busca de una tendencia. En el caso de tratamientos igualmente espaciados y 
+con igual número de repeticiones, el método de polinomios ortogonales puede utilizarse con 
+el objeto de particionar la suma de cuadrados de tratamientos en términos con un grados de 
+libertad, de igual manera que la descripta en 7.2.. En caso contrario, debido a la 
+complejidad, es conveniente estudiar el grado del polinomio a través de un análisis de 
+regresión. 
+  
+7.3.1. Contrastes para tratamientos igualmente espaciados y con igual número de 
+repeticiones. 
+ 
+En este análisis de la tendencia, se ajusta un polinomio a las medias de tratamientos, 
+usando los niveles del gradiente como variable independiente, por lo que los gráficos de 
+medias vs. variable independiente (diagramas de dispersión) pueden proveer de información 
+sobre el grado del polinomio a ajustar. 
+En los diagramas siguientes se indican las tendencias más preponderantes (existen otras 
+posibilidades en cada caso), se asume que los tratamientos están igualmente espaciados: 
+ 
+      Tendencia cuadrática            Tendencia lineal y cuadrática   
+ 
+ 
+   Tendencia lineal y cúbica             Tendencia cúbica 
+ 
+Cada componente del polinomio es evaluado por un contraste ortogonal específico. Para t 
+tratamientos, el máximo grado del polinomio es t - 1.  
+Los contrastes se construyen muy fácilmente a partir de los coeficientes de polinomios 
+ortogonales (existen tablas a tal fin). A  los coeficientes, generalmente se los indica como ξ i j   
+donde i  corresponde al tratamiento y  j = 1,2, ... t -1 es el grado del polinomio. 
+El contraste es: ∑
+=
+=
+t
+i
+iij Y
+1
+.
+ˆ ξθ  y su suma de cuadrados  ∑
+=
+=
+t
+i
+ij
+rCS 1
+2
+2 /ˆ)ˆ.(. ξθθ  .  El valor 
+D
+t
+i
+ij =∑
+=1
+2ξ  también figura en dichas tablas. 
+ 
+ 
+Ejemplo: Un biólogo ha estudiado el retardo del crecimiento de cierta bacteria, cuando se le 
+aplica calor. Se usaron cuatro temperaturas y los ocho cultivos de bacterias fueron 
+asignados aleatoriamente a cada temperatura. Después de un cierto período, se midió la 
+pérdida de peso (en gr.): 
+ 
+ 
+
+ 27  
+Temperaturas 
+90ºF 105ºF 120ºF 135ºF 
+7.42  8.90 12.17 12.53 
+3.48  9.42  7.39 10.48 
+6.33 10.15  9.97 15.42 
+9.71  7.43  8.41 14.88 
+7.76 12.84 10.32 13.26 
+6.72 11.33 13.88 10.94 
+7.33  7.81  9.74 11.68 
+8.61 11.78 11.46 10.32 
+ 
+Existe alguna tendencia en la pérdida de peso de las bacterias? 
+ 
+ 
+Programa y salida SAS 
+data  bacteria; 
+input  trat peso @@; 
+cards ; 
+       1    7.42  2   8.90  3 12.17    4  12.53 
+       1    3.48  2   9.42  3  7.39    4  10.48 
+       1    6.33  2  10.15  3  9.97    4  15.42 
+       1    9.71  2   7.43  3  8.41    4  14.88 
+       1    7.76  2  12.84  3 10.32    4  13.26 
+       1    6.72  2  11.33  3 13.88    4  10.94 
+       1    7.33  2   7.81  3  9.74    4  11.68 
+       1    8.61  2  11.78  3 11.46    4  10.32 
+; 
+proc  glm ; 
+class  trat; 
+model  peso=trat; 
+contrast  'Lineal'       trat   -3  -1     1     3 ; 
+contrast  'Cuadrático'   trat    1  -1    -1    + 1; 
+contrast  'Cúbico'      trat   -1   3    -3     1; 
+means  trat/ hovtest =levene; 
+symbol1  v=star c=red i=rl; 
+proc  gplot ; 
+ plot  peso *trat; 
+run ; 
+Class Level Information  
+Class  Levels  Values  
+trat  4 1 2 3 4  
+ 
+Number of observations  32  
+ 
+Dependent Variable: peso 
+Source  DF  Sum of Squares  Mean Square  F Value  Pr > F 
+Model  3 113.0612710  37.6870903  9.94  0.0001  
+Error  28  106.1406010  3.7907357      
+Corrected Total  31  219.2018720        
+ 28  
+ 
+R-Square  Coeff Var  Root MSE  peso Mean  
+0.515786  19.47760  1.946981  9.996000  
+ 
+Source  DF  Type I SS  Mean Square  F Value  Pr > F 
+trat  3 113.0612710  37.6870903  9.94  0.0001  
+ 
+Contrast  DF  Contrast SS  Mean Square  F Value  Pr > F 
+Lineal  1 105.8396089  105.8396089  27.92  <.0001  
+Cuadrático  1 1.1750445  1.1750445  0.31  0.5821  
+Cúbico  1 6.0466176  6.0466176  1.60  0.2170  
+Del análisis de contrastes de tendencias, al 5%, se observa que la pérdida de peso de las 
+bacterias tiene tendencia lineal  
+ 

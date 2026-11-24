@@ -1,0 +1,518 @@
+=== Fuente: 3Chilibroste et al 2012 Effect of herage allowance on grazing behaviour and productive performance of holsteein cows_raul.pdf ===
+
+Animal Feed Science and Technology 173 (2012) 201– 209
+Contents lists available at SciVerse ScienceDirect
+Animal Feed Science and Technology
+journal homepage: www.elsevier.com/locate/anifeedsci
+Effect of herbage allowance on grazing behavior and productive
+performance
+ of early lactation primiparous Holstein cows
+P. Chilibroste a,∗, D.A. Mattiauda a, O. Bentancur b, P. Soca a, A. Meikle c
+a Agronomy Faculty, Animal Science Department, Grass Production and Utilization on Grazing Systems, EEMAC, Paysandú, CP 60000, Uruguay
+b Agronomy Faculty, Biometric and Statistics Department, EEMAC, Paysandú, CP 60000, Uruguay
+c Veterinary Faculty, Laboratory of Nuclear Techniques, C/Lasplaces 1550, Montevideo 11600, Uruguay
+a r t i c l e i n f o
+Article history:
+Received
+ 7 July 2011
+Received
+ in revised form 30 January 2012
+Accepted
+ 2 February 2012
+Keywords:
+Grazing
+Early
+ lactation
+Primiparous
+Herbage
+ allowance
+a b s t r a c t
+Effects of daily herbage allowance (DHA) on milk production and composition, body condi-
+tion
+ score (BCS) and grazing behavior of primiparous Holstein cows during early lactation
+were
+ investigated. Cows were blocked by body weight (BW), age and BCS, and randomly
+assigned
+ within block to one of three grazing treatments (n = 11 cows each) being: high
+(HA,
+ 30 kg DM/cow/d), medium (MA, 15 kg DM/cow/d) and low (LA, 7.5 kg DM/cow/d)
+DHA.
+ Cows were grazed in 8 consecutive grazing paddocks (GP) of 7 d of occupation each.
+The
+ experiment was a completely randomized block design and data were analyzed as
+repeated
+ measurement in time. Milk production was higher in HA and MA groups than
+in
+ LA (24.3 and 22.7 vs. 19.2 L, P<0.01 respectively). Milk response to extra DHA was
+0.43
+ L of milk/kg DHA between LA and MA treatments, which dropped to 0.19 L of milk/kg
+between
+ LA and HA treatments. Cows in the HA treatment had higher BCS than cows in
+MA
+ and LA treatments (3.18 vs. 3.05 and 3.07; P<0.05). Cows on all treatments mobi-
+lized
+ BCS during the ﬁrst 3 weeks after calving but, while HA cows lost ∼0.5 points of
+BCS,
+ LA cows lost 1 point. The probability of a cow grazing at any time increased (P<0.01)
+as
+ the experiment progressed, being 54.5, 61.3, 66.8 and 68.7 min/100 min for GP 3, 5,
+7
+ and 8, respectively. Probability of grazing increased linearly for cows receiving HA
+(0.39
+ min/100 min/d) and MA (0.44 min/100 min/d) treatments at higher rate than cows
+receiving
+ LA (0.22 min/100 min/d) treatment. A linear effect of days in milk (DIM) on bite
+rate
+ as well as an interaction of DIM by treatment occurred. At DIM = 0, the mean value for
+bite
+ rate was ∼15 bites/min, and the slope relative to DIM was higher for HA and MA cows
+(0.54
+ and 0.69 bites/min/d, respectively) than for LA cows (0.29 bites/min/d). The result of
+the
+ present experiment evidence the major role of DHA on milk production in primiparous
+dairy
+ cows during early lactation, being more important at lower levels of DHA. The lack
+of
+ response on milk production to higher levels of DHA might have been related to the low
+effective
+ grazing time and bite rate exhibited by early lactation grazing primiparous cows.
+© 2012 Elsevier B.V. All rights reserved.
+1. Introduction
+The quantity and quality of nutrients consumed by cows can be controlled and manipulated and relatively accurately
+predicted, in intensive milk production systems where TMR’s are generally fed. However in extensive systems, where herbage
+Abbreviations: BCS, body condition score; BW, body weight; DHA, daily herbage allowance; DIM, days in milk; DM, dry matter; GP, grazing paddock;
+ME,
+ metabolizable energy; NEB, negative energy balance.
+∗ Corresponding  author at: EEMAC, Ruta 3, km 363, Paysandú, CP 60000, Uruguay. Tel.: +598 472 27950; fax: +598 472 27950.
+E-mail
+ address: pchili@fagro.edu.uy (P. Chilibroste).
+0377-8401/$
+ – see front matter ©  2012 Elsevier B.V. All rights reserved.
+doi:10.1016/j.anifeedsci.2012.02.001
+202 P. Chilibroste et al. / Animal Feed Science and Technology 173 (2012) 201– 209
+is the primary diet component, manipulation of nutrient availability, and its prediction, is more complex since it includes the
+quantitative uncertainties associated with grazing. Digestion and utilization of nutrients in dairy cows is an interaction of
+the animal, its diet and the ruminal microbial population. The most important aspects in this interaction, which determine
+productive efﬁciency under grazing conditions, are herbage characteristics and animal ingestive behavior (Chilibroste et al.,
+2005).
+The gap between energy need and DMI by dairy cows during the transition from the non-lactating to lactating state
+generally results in a negative energy balance (NEB; Drackley, 1999) which, under grazing conditions, has been reported
+to be more severe in primiparous vs. multiparous cows (Meikle et al., 2004). A lower dry matter (DM) intake of grazing
+primiparous dairy cows in early lactation resulted in a higher NEB, and large mobilization of body reserves as lactation
+progressed, vs. multiparous cows (McEvoy et al., 2009). Thus, the grazing process places an extra constraint on primiparous
+cows attempting to achieving high herbage DM intake (Kolver and Muller, 1998), and ultimately to express their genetic
+potential for milk production. Daily herbage allowance (DHA) plays a major role in determining animal DM intake and
+productive performance, as well as residual herbage mass which inﬂuences grass growth and productivity. Assessment of
+the effect of DHA on milk production is critical to identify losses in animal performance in grazing dairy systems, as well as
+to develop feeding strategies to increase the efﬁciency of dairy systems which include grazing.
+The effect of DHA on DM intake and milk production has been extensively investigated in mid lactation dairy cows
+(Peyraud et al., 1996; Wales et al., 1999; Bargo et al., 2002). In contrast, there is limited information on effects of DHA
+on productive performance of early lactation dairy cows. Kennedy et al. (2005) concluded that medium DHA of 15 kg of
+DM/cow and 3 kg of DM/cow of concentrate were enough to support a reasonably high level of milk production. However
+Kennedy et al. (2007) later found that when cows were offered a low DHA, milk yield was not compromised vs. a medium
+DHA (13 vs. 16 kg DM/cow respectively), but a higher DHA of 19 kg/DM/cow increased milk yield while reducing herbage
+utilization. McEvoy et al. (2009) developed an equation to predict DM intake and milk performance of grazing cows, where
+effects of parity and DHA were estimated. However, we are not aware of any study which determined the impact of DHA
+on productive performance of primiparous grazing dairy cows. Moreover, previous studies investigating the effects of DHA
+on productive performance in early lactation (Kennedy et al., 2005, 2007; McEvoy et al., 2008) did not include measures of
+grazing behavior.
+Regardless of the production system, cows tend to consume discrete meals, and animal selectivity and searching compete
+with grazing time, which is directly related to DM intake (Newman et al., 1994). We studied adaptive changes in grazing
+behavior of lactating dairy cows relative to contrasting feeding strategies (Chilibroste et al., 2007), involving groups of prim-
+iparous and multiparous dairy cows that were past peak milk production (i.e., over 60 days in milk [DIM]). However, effects
+of DHA on productive performance and feeding behavior in early lactation primiparous cows has been hardly investigated,
+and this is a critical deﬁciency due to the impact of DM intake during early lactation on animal performance and metabolism
+(Meikle et al., 2004).
+The objective of this research is to establish the inﬂuence of DHA on milk production and composition, body condition
+score (BCS) as well as the underlying adaptative mechanisms, such as grazing behavior, in primiparous Holstein dairy cows
+during early lactation. The hypothesis was that the level of DHA during early lactation in primiparous cows affects grazing
+behavior and milk yield.
+2.
+ Materials and methods
+The experiment was completed at the EEMAC Research Station Paysandu (Uruguay). Pregnant heifers (n = 33, age at
+calving = 2.96 ± 0.113 years, body weight (BW) = 595 ± 41.4 kg and BCS = 3.7 ± 0.267 (both 20 d prior to expected calving
+date) calving between March 25 and April 15 (i.e., autumn) were selected from the experimental herd. Cows were blocked
+by BW, age and BCS, and randomly assigned within block to 1 of 3 treatments (n = 11 each) being: high (HA, 30 kg DM/cow/d),
+medium (MA, 15 kg DM/cow/d) and low (LA, 7.5 kg DM/cow/d) DHA. Research was compliant with regulations of the Ethical
+Committee of the University of Uruguay (Montevideo, Uruguay).
+2.1.
+ Management and feeding
+Cows were milked at 5:00 and 16:00 h and daily allowed to graze between 8:00 and 15:00 h on a mix sward composed
+by Tall fescue (Festuca arundinacea), Birds foot trefoil (Lotus corniculatus) and White clover (Trifolium repens). Pasture was
+sown during April 2004 with 10 kg/ha of seed for Tall Fescue and Birdsfoot trefoil and 2 kg/ha for White clover. At the time
+of sowing it was fertilized with 18 kg of N and 46 kg of P/ha and, on the second year, 7 kg of N and 40 kg of P/ha were
+added. Cows grazed in a 7 d rotational system wherein the three treatments were moved weekly to a new set of adjacent
+independent grazing paddocks (GP) separated by electric fences. No GP was re-grazed during the experiment. To achieve
+targeted herbage allowances, the 11 cows/treatment grazed paddocks of 1, 0.5 and 0.25 ha for HA, MA and LA, respectively.
+In this experimental design, time and GP were deliberately confounded since cows grazed paddocks 1–8 from calving to 56
+DIM. Since determination of herbage characteristics and depletion dynamics, as well as milk components, were determined
+within each GP at days 3 and 4 of occupation, GP was used as a repeated unit in time and average DIM of the cows for each
+treatment within each GP is reported.
+P. Chilibroste et al. / Animal Feed Science and Technology 173 (2012) 201– 209 203
+Cows were individually supplemented at 18:00 h with corn silage (10 kg), a commercial concentrated (4.8 kg) and grass
+hay (0.4 kg), on a fresh weight basis, designed to meet maintenance metabolizable energy (ME) needs plus 8–10 L/d of milk
+(NRC, 2001), leaving any difference in performance to effects of the DHA treatments. Samples of each feed were collected
+on days 1, 3 and 6 of occupation of each GP, composited, oven dried at 60 ◦C for 48 h and then ground at 1 mm for chemical
+analysis.
+2.2.
+ Analytical methods
+Herbage and supplementary feeds were analyzed by DM, ash and N, according to AOAC (1990) methods numbered 167.03,
+942.05 and 984.13, respectively. Neutral detergent ﬁber (NDF) and acid detergent ﬁber (ADF) were measured sequentially
+(Van Soest et al., 1991; without sodium sulﬁte in the neutral detergent solution) using an ANKOM200 Fiber Analyzer (ANKOM
+Technology Corp., Fairport, NY, USA). Neutral detergent ﬁber assayed without a heat stable amylase. Fiber contents were
+expressed inclusive of residual ash.
+2.3.
+ Measurements and calculations
+2.3.1. Sward features
+Pre and post grazing sward mass was estimated with a rising plate meter (Ashgrove Co., Palmerston North, New Zealand),
+using the double sampling technique of Haydock and Shaw (1975). Botanical composition pre and post grazing herbage mass
+was assessed by visual observations in a quadrant of 0.3 m × 0.3 m randomly distributed within each GP (12, 6 and 4 replicates
+in pre and 18, 12 and 8 replicates in post grazed for HA, MA and LA, GP respectively). At each of these observation points,
+the area occupied by grasses, legumes and weeds was determined.
+Herbage mass depletion on GP 2, 4, 6, 7 and 8 was estimated measuring herbage height daily with the rising plate meter
+for each treatment every hour during the grazing session.
+2.3.2.
+ Grazing behavior
+On GP 3, 5, 7 and 8, the cows of each treatment were observed every 15 min on 3 alternate days and the animals ruminating
+or engaged in other activities were recorded. In the same paddocks during three alternate days, 4 individual cows from the
+same block of each treatment were observed to determine bite rate. During three grazing sessions of 1 h each, bite rate (i.e.,
+bites/min) was counted for each cow every 15 min. The grazing session started at 8:00 h (INITIAL), 10:30 h (MIDDLE) and
+13:30 h (FINAL).
+2.3.3.
+ Animal
+Daily
+ milk yield was recorded during the experimental period for all cows. Milk samples were collected from 4 consecutive
+milking within each GP and composited to a single weekly milk sample for analysis of crude protein (CP), fat and lactose by
+midinfrared spectrophotometry (Milko-Scan, Foss Electric, Hillerød, Denmark). Body condition score was determined every
+15 d by the same person from 2 months before until the 3rd months after parturition on a scale from 1 (emaciated) to 5 (fat)
+to the nearest quarter point according to Edmonson et al. (1989). Body weight was determined after morning milking at the
+same time as BCS.
+2.4.
+ Statistical design and statistical analysis
+The experiment was statistically analyzed as a completely randomized block design. Milk and milk composition, as well
+as grazing behavior variables, were regressed against GP (the 7 d grazing unit) since they were determined at ﬁxed days
+within each GP. The BCS data was statistically analyzed with DIM as the time variable since it was determined every 15 d,
+and BCS values were regressed against DIM.
+The probability of cows grazing, ruminating or engaging in other activities in the GP was analyzed with GLM as repeated
+measurements in time (GENMOD; SAS, 2002) as:
+ln
+(
+Pijklm
+1 − Pijklm
+)
+= /SYN + /FSi + ˇj + /NAKk + ıl(/NAKk) + /DC1m + (/DC1/FS)im + /FSiıl(/NAKk) + ıl/DC1m(/NAKk)
+where Pijklm = probability of each activity, /SYN = overall mean, /FSi = effect of herbage allowance (I = 1–3), ˇj = effect of block
+(j = 1–11), /NAKk = effect of GP (k = 1–8), ıl(/NAKk) = effect of day l within GPk, (/NAK/FS)ik = interaction between treatment and GP,
+/DC1m = effect of grazing session (m = 1–3), (/DC1/FS)im = interaction between treatment and grazing session, /FSiıl(/NAKk) = day effect by
+treatment within GP and ıl/DC1m(/NAKk) = day effect within grazing session and GP. Dependent variables were evaluated for linear
+and quadratic effects of DIM and differences in slope heterogeneity estimated.
+Bite rates of individual cows were analyzed as repeated measurements in time (MIXED; SAS), with the model:
+Yijklm = /SYN + /FSi + ˇj + εij + /NAKk + εijk + ıl(/NAKk) + /FSiıl(/NAKk) + /SUBijkl + /DC1m + (/DC1t )im + ıl/DC1m(/NAKk) + εijklm
+204 P. Chilibroste et al. / Animal Feed Science and Technology 173 (2012) 201– 209
+Table
+ 1
+Weather
+ conditions during the experiment.
+Grazing Paddock Mean temperature (◦ C) Relative humidity (%) Precipitation (mm)
+120 73 114
+2
+ 18 76 63
+3
+ 17 71 1
+416 67 0
+518 75 41
+617
+ 85 145
+7
+ 13 74 0
+8
+ 15 74 0
+where Yijk = response variable, /SYN = overall mean, /FSi = effect of treatment (i = 1–3), ˇj = effect of block (j = 1–11),
+εij = experimental error within experimental units, /NAKk = effect of GP (k = 1–8), εijk = error of repeated measurement (within
+experimental units between weeks), ıl(/NAKk) = effect of day l within GPk, /FSiıl(/NAKk) = day effect by treatment within GP,
+εijkl = error of repeated measurement (within experimental units between days), /DC1m = effect of grazing session (m = 1–3),
+(/DC1/FS)im = interaction between treatment and grazing session, ıl/DC1m(/NAKk) = day effect by treatment within GP and εijklm = error of
+repeated measurement (within experimental units between grazing sessions). For both models (i.e., grazing behavior and
+bite rate) a ﬁrst order autoregressive covariance structure was selected.
+Milk production and composition was analyzed as repeated measurements in time using MIXED (SAS, 2002) with block,
+treatment and GP as ﬁxed effects and cows as the repeated unit.
+Variation of BCS was analyzed by a heterogeneity slope test regressing BCS on DIM within periods of 20 d from calving
+(period I: 0–20; period II: 21–40; period III: 41–60 DIM). This approach allowed quantiﬁcation and comparison of rapid
+changes in BCS in the periods of lactation where major changes in metabolic status would be expected.
+3.
+ Results
+The dominant weather conditions during the experiment are in Table 1. Rain ranged from 0 mm in GP 3, 4, 7 and 8 to
+145 mm in GP 6.
+3.1.
+ Milk production and composition
+Average milk production differed (P<0.01) among treatments being higher in HA (24.3 L/d) and MA groups (22.7 L/d) than
+in LA (19.2 L/d). There was an interaction between treatment and GP (P<0.01). The evolution of milk and milk component
+production throughout the GP are shown in Table 2. Differences in milk yield due to treatments occurred in GP 3 through 8
+with HA cows having higher milk yields than LA cows, but not from MA cows.
+Neither crude protein nor fat content in milk differed among treatments, but an interaction among GP and treatment
+occurred (Table 2). Milk fat content values were extremely high during the ﬁrst two weeks of lactation. Differences in fat
+content only occurred in GP 2, where LA cows had fat contents higher than MA cows (P<0.05) while MA cows did not
+differ from HA. A linear decline on milk fat content through lactation with no differences between treatments was observed
+(Table 2). Protein content only differed in GP 2, where LA cows had lower milk protein levels (P<0.05) than the other
+treatments.
+Table 2
+Change
+ in milk production and composition throughout experimental grazing paddocks.
+Variable Herbage allowance Grazing paddocks Effect
+2 3 4 5 6 7 8
+Milk (L/d) LA 19.1 21.4 19.8 19.6 16.7 18.6 19.3 Trt P<0.01
+MA
+ 19.1 22.0 23.1 24.5 20.1 23.0 24.8 Trt × GP
+HA
+ 22.5 24.1 24.7 26.0 22.1 23.9 25.4 P<0.05
+Milk fat (g/kg) LA 9.93 5.53 5.51 4.28 4.77 3.97 3.84 Trt NS
+MA
+ 6.48 6.33 4.45 4.08 4.31 3.70 3.70 Trt × GP
+HA 8.62
+ 6.20 4.21 4.10 4.58 3.84 3.79 P<0.01
+Milk crude protein
+(g/kg)
+LA 3.19 3.13 2.95 2.92 2.93 2.92 2.87 Trt NS
+MA
+ 3.60 3.02 2.96 2.93 3.03 2.92 2.87 Trt × GP
+HA
+ 3.66 3.10 3.08 2.97 3.09 3.01 2.95 P<0.01
+DIM days LA 6.9 13.8 20.8 27.8 34.8 41.7 48.7 Trt NS
+MA
+ 7.7 14.5 21.5 28.6 35.4 42.5 49.6 Trt × GP
+HA 6.3
+ 13.3 20.2 27.2 34.2 41.2 48.2 NS
+Trt = treatments; GP = grazing paddock; DIM = days in milk.
+P. Chilibroste et al. / Animal Feed Science and Technology 173 (2012) 201– 209 205
+Fig. 1. Body condition score (BCS) throughout the study for cows receiving high (HA), medium (HM) and low (LA) herbage allowances. Dots = observed
+values;
+ continued lines = ﬁtted curves.
+3.2. Body condition score
+Changes in BCS over time is presented in Fig. 1. Cows receiving treatment HA had a higher (P<0.05) average BCS (3.18
+units) than MA and LA cows (3.05 and 3.07, respectively). Cows in all treatments mobilized body reserves during the ﬁrst
+20 DIM but, while HA cows lost ∼0.5 BCS points, LA cows lost 1 point of BCS in addition to having lower milk production.
+During the ﬁrst 20 DIM, cows lost BCS at a rate of 0.038 BCS units/d with no differences among treatments. From day 21 to
+40, HA cows moved to a positive balance (0.0088 BCS units/d) while MA and LA remained in a negative balance (−0.001 and
+−0.004 BCS units/d). From 41 to 60 DIM the HA cows remained in a positive BCS positive while MA and LA cows increased
+the negative slope compared with the previous period (i.e., −0.008 and −0.015 BCS units/d).
+3.3.
+ Herbage: mass, allowance and depletion dynamics
+Mean herbage availability pre grazing during the whole experiment was 2750 ± 275.5 kg DM with no differences among
+GP. Actual DHA were 36.5, 17.2 and 9.1 kg DM cow/d for HA, MA and LA, respectively, values which were within the target
+range.
+The experiment was designed such that herbage height and mass at the end of paddock occupation differed among
+treatments covering a range from restricted condition for grazing (i.e., herbage height below 5–7 cm; LA) to non restricted
+conditions for grazing (i.e., herbage height over 10–12 cm; HA). Average botanical composition of the herbage on offer before
+grazing was 240 g/kg DM Tall fescue, 300 Birdsfoot trefoil and 380 White clover. The proportion of ground not occupied by
+productive species was due to uncovered soil (50 m2/1000 m2) and annual weeds (30 m2/1000 m2). Chemical composition
+of herbage samples collected during calibration according to Haydock and Shaw (1975) varied between 135 and 172 g CP/kg
+DM, 440–482 g NDF/kg DM and 292–305 g ADF/kg DM.
+Changes in herbage height during the 7 d of occupation within GP is in Fig. 2. Mean herbage height depletion for the three
+treatments was exponential with a fractional rate of −0.01, −0.018 and −0.024 cm/h for HA, MA and LA swards, respectively.
+Mean herbage utilization (i.e., the difference between herbage mass pre and post r grazing) was 470, 610 and 730 g/kg DM
+of initial herbage mass for HA, MA and LA swards, respectively.
+The supplement individually fed at 18:00 h to each cow (i.e., a mixture of 10 kg corn silage plus 4.8 kg of a compound feed
+plus 0.4 kg of grass hay (fresh weight) was totally consumed by the cows. Ash, CP, NDF and ADF content for corn silage were
+78 ± 5.1, 81 ± 8.0, 628 ± 102.0 and 349 ± 73.3 g/kg DM, respectively, while those for hay were 100 ± 4.4, 78 ± 8.2, 722 ± 20.6
+and 413 ± 17.7 g/kg DM, respectively. The compound feed had 243 ± 13.1 g CP/kg DM, 241 ± 11.3 g NDF/kg DM and 83 ± 8.4 g
+ADF/kg DM.
+3.4.
+ Grazing behavior
+The probability of ﬁnding cows grazing when the group was observed was affected (P<0.01) by GP and day within GP, but
+there were no treatment or treatment by GP interactions. The probability of a cow grazing was 619, 638 and 632 min/1000 min
+for cows receiving the HA, MA and LA treatment, respectively. Grazing probability increased (P<0.01) as the experiment
+progressed being 545, 613, 668 and 687 min/1000 min for GP 3, 5, 7 and 8, respectively. Cows in all treatments increased
+(P<0.01) grazing activity during the 7 d of GP occupation (Fig. 3), although there was no treatment by day interaction within
+GP.
+The probability of cows grazing at each individual grazing session (i.e., INITIAL, MIDDLE, FINAL) showed that grazing in
+the INITIAL grazing session was higher (P<0.01) than in the MIDDLE and FINAL sessions, although it did not differ among
+treatments (910, 860 and 920 min/1000 min for HA, MA and LA cows, respectively). At the end of the grazing session (FINAL),
+grazing probability  tended  to  be  higher  (P<0.07)  for  LA  (620)  than  for  HA  (520)  and  MA  (530  min/1000  min)  cows.
+206 P. Chilibroste et al. / Animal Feed Science and Technology 173 (2012) 201– 209
+y = 20.8e-0.01 x
+R² = 0.86
+y = 20.3 e-0.018 x
+R² = 0.98
+y = 18.8 e-0.024 x
+R² = 0.97
+0
+5
+10
+15
+20
+25
+8:00
+10:00
+12:00
+14:00
+9:00
+11:00
+13:00
+15:00
+10:00
+12:00
+14:00
+9:00
+11:00
+13:00
+15:00
+10:00
+12:00
+14:00
+9:00
+11:00
+13:00
+15:00
+10:00
+12:00
+14:00
+0 123 4 5 6 7
+sward height 
+Days
+HA MA LA Expon . (HA ) Exp on. (MA) Expon. (LA)
+Dots=observed  value s; conti nued lines=fitted c urves.   
+Fig. 2. Herbage height change for cows receiving high (HA), medium (HM) and low (LA) treatments. Fitted exponential equations for each treatment are
+shown
+ within the ﬁgure under the series identiﬁcation.
+Along with the change in grazing time, bite rate of individual cows was determined. All ﬁxed effects in the model differed
+(P<0.01), except the interaction of grazing session by treatment, which tended (P<0.067) to differ. Mean bite rates were
+46.6, 49.5 and 43.4 bites/min (P<0.01) for HA, MA and LA cows, respectively. Similar to the probability of grazing, bite rate
+increased during the experiment with the lowest values in GP 3 (39.8 bites/min) and the highest in GP 8 (60 bites/min). Cows
+grazed at higher (P<0.01) bite rates in the INITIAL grazing bout (50.1 bites/min) than in the MIDDLE and FINAL bouts (46.6
+and 42.7 bites/min, respectively).
+4. Discussion
+Mean temperature and humidity were relatively high for the autumn although, based upon previous experimentalist
+experience, but were not judged to be limiting milk production. Rainfall ranged from 145 mm in GP 6 to zero in GP 3, 4, 7
+Grazing time/acces time to GP
+Day s in the grazing paddock
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1 23456 7
+GP  3 GP   5 GP  7
+Fig. 3. Actual grazing time over total access time throughout days within grazing paddocks 3, 5 and 7.
+P. Chilibroste et al. / Animal Feed Science and Technology 173 (2012) 201– 209 207
+and 8. The wet conditions of GP 6 appeared to affect milk production of the groups (Table 2; P<0.01), without observable
+effects in other GP.
+4.1. Milk production and composition
+The evolution of milk production differed among treatments. While MA and HA cows increased milk production with
+time, milk yield of LA cows remained stable after GP 3, with the exception of GP 6 when all treatments had lower milk
+yield due to high rainfall (Table 1). The relatively stable milk production of around 19 L/d throughout the experiment of
+cows receiving treatment LA suggests that a limited nutrient availability and/or energy balance in this group limited milk
+production. While differences in milk production between HA and MA cows remained relatively stable throughout the
+experiment (i.e., 1–2 L/cow/d), the difference between HA and LA cows increased from 2.5 to 6 L/cow/d. Milk response to
+extra DHA was 0.43 L of milk/kg extra DHA between LA and MA treatments. This response dropped to 0.19 L of milk/kg extra
+DHA between HA and LA treatments. The response between HA and MA was close to zero (i.e., 0.08 L of milk/kg extra DHA).
+The high response in milk to extra DHA at low DHA concurs with Kennedy et al. (2007) and McEvoy et al. (2008) with spring
+calving early lactation mixed parity dairy cows. However, the result of the present experiment are over than values reported
+by Delaby et al. (2001) with mid lactation mixed parity cows. The high responses in milk from LA to MA indicates that LA
+may have been restricting DM intake resulting in higher mobilization of body reserves. However the relevance of results of
+Kennedy et al. (2007) and McEvoy et al. (2008) to our data is unclear, as their data refer to DHA over 4 cm while those in our
+study are values at ground level.
+The low milk CP level of LA cows in GP 2 (3.19 vs. 3.66 and 3.59 for LA, HA and MA, respectively) might be evidence of faster
+body protein mobilization and consequent depletion of body protein reserves in LA cows. Tamminga et al. (1997) determined
+that the largest portion of body protein mobilization was during the ﬁrst week after parturition (579 g of protein/kg of tissue
+mobilized), reaching a plateau at week 4 of lactation; which is consistent with results reported by Komaragiri et al. (1998),
+who found a limited capacity for protein mobilization during the ﬁrst 5 week postpartum. Milk protein production was
+higher for HA (0.75 kg/d) than LA (0.57 kg/d) cows, but it did not differ from MA cows (0.68 kg/d). The same trend occurred
+for milk fat production, which was higher for HA (1.16 kg/d) than LA (1.0 kg/d) cows, although neither differed from MA
+cows.
+4.2. Body condition score
+The MA cows lost BCS at a higher rate in the ﬁrst 2 wks of lactation, but remained stable thereafter (Fig. 1). The main
+trends in BCS changes are consistent with McEvoy et al. (2009), Kennedy et al. (2007) and Delaby et al. (2001), although
+availability of published information relating DHA and BCS change is very limited. Differences in the rate of BCS change
+among treatments were evident, with HA cows mobilizing body reserves during the ﬁrst 20 DIM in contrast to HA and LA
+cows which remained in NEB during the whole experiment, but with a higher rate of mobilization during the ﬁrst 20 DIM.
+During the last 40 d of the experiment, MA cows sustained 23.1 L/d while LA cows only produced 18.8 L/d. Data suggest
+that MA cows overcame DHA limitations to sustain high milk production with a similar rate of body reserve mobilization
+compared to cows receiving LA treatment.
+4.3. Grazing behavior
+Although the treatment groups did not differ in mean grazing time during the experiment, the change over time of this
+variable suggests that all treatment had less grazing activity during the ﬁrst weeks of lactation than have been reported
+previously by Chilibroste et al. (2007). The reduction in grazing time associated with low bite rate suggests that actual DM
+intake relies mainly on bite mass which ultimately is determined by herbage mass, structure and allowance (McEvoy et al.,
+2009; Chilibroste et al., 2005). Although grazing behavior variables were not measured during GP 1 and 2, according to the
+trend in Fig. 3, low grazing probability values would be expected.
+Since GP and DIM followed the same tend as dictated by the experimental design (Table 2), an alternative model was
+used to study effects of DIM on grazing behavior. Using this approach, grazing activity on a continuous basis (i.e., DIM) was
+examined with calving ﬁxed as day 0. Heterogeneity of slopes in time among treatments was examined and the probability
+of a cow grazing did not differ between treatments. A signiﬁcant linear increase in the probability of a cow being grazing
+with DIM was detected with a signiﬁcant interaction (P<0.05) treatment × DIM. While the probability of a cow grazing at
+the beginning of lactation (Fig. 4A) did not differ among treatments (338, 325, 350 min/1000 min for HA, MA and LA cows,
+respectively) the slopes for HA (0.39 min/1000 min/d) and MA (0.44 min/1000 min/d) cows were higher than for LA cows
+(0.22 min/1000 min/d). The same approach was used to estimate effects of DIM on bite rate (Fig. 4) where a linear effect
+of DIM on bite rate, as well as a treatment × DIM interaction, occurred. While at DIM = 0 the mean value for bite rate was
+∼25 bites/min with no differences between treatments, the slope differed for HA and MA cows (0.54 and 0.69 bites/min/DIM,
+respectively) from LA cows (0.29 bites/min/DIM).
+Based upon our ﬁndings as a whole, it is clear that these early lactation primiparous cows faced severe restrictions in
+fulﬁlling their ME needs under grazing conditions reported. The cows grazed a very low proportion of allowed grazing time
+(i.e., <35%) and grazed at a very low rate (i.e., <25 bites/min) which suggests a slow and selective grazing down process. It
+208 P. Chilibroste et al. / Animal Feed Science and Technology 173 (2012) 201– 209
+Fig. 4. Actual grazing time over total access time (A), and bite rates (B) of cows grazing paddocks with high (HA), medium (MA) and low (LA) herbage
+allowance.
+seems that it takes at least 3 weeks after calving for primiparous dairy cows to achieve values for grazing time and bite
+rate comparable with those reported by others for mixed parity cows over 60 DIM (Chilibroste et al., 2005; Gibb, 2006).
+Nevertheless it is noteworthy that for all the DHA treatments, cows always grazed actively at the INITIAL grazing session
+but reduced activity during the MIDDLE and FINAL grazing bouts thereby highlighting the importance of behavioral changes
+of cows as adaptations to changes in sward conditions (Gibb, 2006). This also suggests that differences in herbage DM
+intake between DHA levels must be mainly relative to mean bite mass rather than to grazing time and/or bite rate since the
+cows exhibited a similar grazing pattern after calving among DHA treatments. Recent research (e.g., Kennedy et al., 2007;
+McEvoy et al., 2008) suggests that low to medium herbage allowances would be enough to meet the ME requirements of
+early lactation dairy cows on herbage supplemented with 3–4 kg of concentrate. However our ﬁndings do not support this
+suggestion since the lack of responses in milk production to higher levels of herbage allowance might have been related to
+low adaptation capability of early lactation grazing primiparous dairy cow to the grazing harvest process.
+5. Conclusions
+Daily
+ herbage allowance plays a major role on milk production of primiparous dairy cows with high response in milk
+and component yields with an increase from low to medium DHA. In contrast, increases from medium to high DHA result
+in lower milk production responses, but with changes in BCS suggesting effects of higher DHA on metabolic status of early
+lactation dairy cows.
+Early lactation primiparous cows faced severe restrictions in fulﬁlling their ME needs under grazing conditions. Primi-
+parous cows grazed a very low proportion of allowed grazing time (i.e., <35%) and grazed at a very low rate (i.e., <25 bites/min)
+which suggests a slow and selective grazing down process. Mean bite mass is determinant of herbage DMI during the ﬁrst
+three weeks of lactation.
+References
+AOAC, 1990. Ofﬁcial Methods of Analysis, 15th ed. Association of Ofﬁcial Analytical Chemists, Washington, DC.
+Bargo, F., Muller, L.D., Delahoy, J.E., Cassidy, T.W., 2002. Milk response to concentrate supplementation of high producing dairy cows grazing at two pasture
+allowances. J. Dairy Sci. 85, 1777–1792.
+Chilibroste, P., Gibb, M.J., Tamminga, S., 2005. Pasture characteristics and animal performance. In: Dijkstra, J., Forbes, J.M., France, J. (Eds.), Quantitative
+Aspects of Ruminant Digestion and Metabolism. CAB International, pp. 681–706.
+Chilibroste, P., Soca, P., Mattiauda, D.A., Bentancur, O., Robinson, P.H., 2007. Short term fasting as a tool to design effective grazing strategies for lactating
+dairy cattle: a review. Aust. J. Agric. Res. 47, 1075–1084.
+Delaby, L., Peyraud, J.L., Delagarde, R., 2001. Effect of the level of concentrate supplementation, herbage allowance and milk yield at turn-out on the
+performance of dairy cows in mid lactation at grazing. Anim. Sci. 73, 171–181.
+Drackley, J.K., 1999. Biology of dairy cows during the transition period: the ﬁnal frontier? J. Dairy Sci. 82, 2259–2273.
+P. Chilibroste et al. / Animal Feed Science and Technology 173 (2012) 201– 209 209
+Edmonson,
+ A.J., Lean, L., Weaver, L.D., Farver, T., Webster, G., 1989. A body condition scoring chart for Holstein dairy cows. J. Dairy Sci. 72, 68–78.
+Gibb, M.J., 2006. Grassland management with emphasis on grazing behavior. In: Elgersma, A., Dijkstra, J., Tamminga, S. (Eds.), Fresh Herbage for Dairy
+Cattle. Springer, Dordrecht, The Netherlands, pp. 141–157.
+Haydock, K.P., Shaw, N.H., 1975. The comparative yield method for estimating dry matter yield of pasture. Aust. J. Exp. Agric. 15, 663–670.
+Kennedy, E., O’Donovan, M., Murphy, J.P., Delaby, L., O’Mara, F.P., 2005. Effects of grass pasture and concentrate based feeding systems for spring calving
+dairy cows in early spring on lactation performance. Grass Forage Sci. 60, 310–318.
+Kennedy, E., O’Donovan, M., O’Mara, F.P., Murphy, J.P., Delaby, L., 2007. The effect of early-lactation feeding strategy on the lactation performance of
+spring-calving dairy cows. J. Dairy Sci. 90, 3060–3070.
+Kolver, E.S., Muller, L.D., 1998. Performance and nutrient intake of high producing Holstein cows consuming pasture or a total mixed ration. J. Dairy Sci. 81,
+1403–1411.
+Komaragiri, M.V., Casper, D.P., Erdman, R.A., 1998. Factors affecting body tissue mobilization in early lactation dairy cows. 2. Effect of dietary fat on
+mobilization of body fat and protein. J. Dairy Sci. 81, 169–175.
+McEvoy, M., Delaby, L., Kennedy, E., Boland, T.M., O’Donovan, M., 2009. Early lactation dairy cows: development of equations to predict intake and milk
+performance at grazing. Livest. Sci. 122, 214–221.
+McEvoy, M., Kennedy, E., Murphy, J.P., Boland, T.M., Delaby, L., O’Donovan, M., 2008. The effect of herbage allowance and concentrate supplementation on
+milk production performance and dry matter intake of spring-calving dairy cows in early lactation. J. Dairy Sci. 91, 1258–1269.
+Meikle, A., Kulcsar, M., Chilliard, Y., Febel, H., Delavaud, C., Cavestany, D., Chilibroste, P., 2004. Effects of parity and body condition score at calving on
+endocrine and reproductive parameters of the dairy cow under grazing conditions. Reproduction 127, 727–737.
+National Research Council, 2001. Nutrient Requirements of Dairy Cattle, 7th revised ed. National Academy Press, Washington, DC, USA.
+Newman, J.A., Parsons, A.J., Penning, P.D., 1994. A note on the behavioural strategies used by animals to alter their intake rates. Grass Forage Sci. 49, 502–505.
+Peyraud, J.L, Comeron, E.A., Wade, M.H., Lemaire, G., 1996. The effect of daily herbage allowance, herbage mass and animal factors upon herbage intake by
+grazing dairy cows. Ann. Zootech. 45, 201–217.
+SAS Institute, 2002. SAS User’s Guide: Statistics. SAS Institute Inc., Cary, NC, USA.
+Tamminga, S., Luteijn, P.A., Meijer, R.G.M., 1997. Changes in composition and energy content of liveweight loss in dairy cows with time after parturition.
+Livest. Prod. Sci. 52, 31–38.
+Van Soest, P.J., Robertson, J.B., Lewis, B., 1991. Methods for dietary ﬁber neutral detergent ﬁber, and non starch polysaccharides in relation to animal
+nutrition. J. Dairy Sci. 74, 3583–3597.
+Wales, W.J., Doyle, P.T., Stockdale, C.R., Dellow, D.W., 1999. Effects of variations in herbage mass, allowance, and level of supplement on nutrient intake
+and milk production of dairy cows in spring and summer. Aust. J. Exp. Agric. 39, 119–130.

@@ -1,0 +1,819 @@
+=== Fuente: Morales and Moyano - in vitro GI model ... - Aquac (2010) vol 300, 244-251.pdf ===
+
+Application of an in vitro gastrointestinal model to evaluate nitrogen and phosphorus
+bioaccessibility and bioavailability in ﬁsh feed ingredients
+Gabriel A. Morales ⁎, Francisco J. Moyano
+Departamento Biología Aplicada, Escuela Politécnica Superior, Universidad de Almería, La Cañada S Urbano s/n, 04120 Almería, Spain
+abstractarticle info
+Article history:
+Received 23 March 2010
+Received in revised form 14 May 2010
+Accepted 17 May 2010
+Keywords:
+Amino acids
+Gastrointestinal model
+In vitro digestion
+Protein
+Rainbow trout
+In the present work a gastrointestinal model (GIM) designed to reproduce closely the conditions existing in
+the gut of live ﬁsh was used to evaluate differences in bioaccessibility and bioavailability of nitrogen and
+phosphorus present in two different feedstuffs (ﬁsh meal and soybean meal) as a result of the action of
+rainbow trout digestive enzymes. In contrast to previous similar works, the operating conditions are
+established considering the enzyme:substrate ratio estimated from data obtained from live ﬁsh, as well as pH
+changes taking place during digestion. In addition, the GIM allows evaluation of other important parameters,
+like the solubilisation of proteins and phosphorus, or the relative contribution of the enzymes to total
+bioavailability of those nutrients. The results obtained showed the key role of the gastric digestion on further
+intestinal bioavailability of N and P, and clearly established the higher biological value of the ﬁsh meal
+compared to the soybean meal tested. Considering its versatility and the great amount of information which
+it can provide, the use of this GIM is suggested as a complementary approach that may help to provide a
+better understanding of results obtained in vivo.
+© 2010 Elsevier B.V. All rights reserved.
+1. Introduction
+From a long time ago, research in animal or human nutrition has
+beneﬁted from the use of in vitro models to mimic to a variable extent
+digestive processes. Once their correlation to the in vivo response is
+demonstrated, those assays have a number of advantages since they are
+rapid, safe, and do not have the ethical restrictions affecting assays carried
+out with live animals. Thus, in vitro assays are now routinely used to assess
+digestibility of ingredients used in feeds for terrestrial animals (Boissen
+and Eggum, 1991; Fuller, 1991). Various techniques have been utilized in
+digestibility studies of aquatic organisms involving in vitro methods. For
+example, the pH-stat method has been applied to evaluate digestibility of
+materials based on the estimation of the percentage of hydrolysis of
+peptide bonds by protease enzymes during incubation (Dong et al., 1993;
+Dimes and Haard, 1994; Ezquerra et al., 1997). Changes in the pH value of
+an enzyme and ingredient incubation (pH-drop method) have also been
+used in a number of in vitro studies (Lazo et al., 1998; Eid and Matty, 1989).
+Incubation of an ingredient with enzymes to determine the amount of
+left-over undigested nutrient in order to estimate the relative amount of
+digested nutrient as compared with the level in ingredient have been also
+extensively used (Grabner and Hofer, 1985; Carter et al., 1999;
+Rungruangsak-Torrissen et al., 2002; Tonheim et al., 2007).
+As pointed by Carter et al. (1999), the major issues to consider in the
+validation in such methods are related to the sensitivity of the assays,
+whether they have the potential to separate different feed ingredients and
+how accurately they predict in vivo digestibility values. In this sense it is
+noteworthy that most of the above mentioned works were carried out
+using systems that do not reproduce the main functional characteristics of
+ﬁshdigestivetracts.Forexample,someassaysarebasedintheuseof
+mammal or bacterial enzymes, although different authors have demon-
+strated the suitability of using enzyme extracts obtained from the selected
+ﬁsh species (Rungruangsak-Torrissen et al., 2002; Chong et al., 2002).
+With very few exceptions (Bassompierre et al., 1998) the assays are based
+in the use of closed reactors on which the accumulation of the ﬁnal
+products of hydrolysis in the reaction mixture limits the reaction and
+makes difﬁcult their evaluation. On the other hand, most studies only
+reproduce the intestinal digestion, thus omitting the gastric phase, which
+represents a relevant step of food digestion, particularly in carnivorous
+ﬁsh (Buddington et al., 1997). Finally, the enzyme:substrate (E:S) ratios
+used in the assays are rarely indicated (Eid and Matty, 1989; Tonheim
+et al., 2007) and when done, they are not justiﬁed by in vivo estimations.
+There are computer-controlled systems that allow closer simula-
+tion of in vivo dynamic physiological processes occurring within the
+stomach and small intestine of humans. For example the gastric-small
+intestine system TIM-1 (TNO, Zeist, The Netherlands) reproduces with
+high reliability the main parameters of digestion, such as pH,
+temperature, gastric, biliary and pancreatic secretion, peristaltic
+mixing and passive absorption of water and small molecules. This
+system has been extensively used in pharmaceutical studies of drugs
+sensitive to digestive conditions (Blanquet et al., 2004). Even though
+this system might be closest to an in vivo situation, and could be used
+as a reference to design a similar model for studies in ﬁsh nutrition, it
+Aquaculture 306 (2010) 244–251
+⁎ Corresponding author. Tel.: + 34 950 014135; fax: + 34 950 015476.
+E-mail address: moralesg@ual.es (G.A. Morales).
+0044-8486/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.aquaculture.2010.05.014
+Contents lists available at ScienceDirect
+Aquaculture
+journal homepage: www.elsevier.com/locate/aqua-online
+has the disadvantages of the high cost and the difﬁculty of carrying
+out experiments routinely.
+Recently, Hamdan et al. (2009) optimized a ﬁsh gastrointestinal
+model (GIM) which develops a two-step hydrolysis using sequentially
+a closed reactor for acid digestion and a semi-permeable membrane
+reactor for alkaline digestion. In this system, the continuous removal
+of digestion products during hydrolysis of substrates represents a
+more practical and realistic model of the in vivo mechanism, where
+the epithelial brush-border membranes remove the products of
+digestion from the lumen by independent mechanisms (Moyano
+and Savoie, 2001). The efﬁciency of digestion can be evaluated by
+measuring either bioaccessibility (fraction which can be potentially
+hydrolyzed from the food matrix by the combined action of digestive
+enzymes and pH) and the bioavailability (fraction which could be
+really available for intestinal absorption and further physiological
+utilization and storage) (Parada and Aguilera, 2007). The GIM
+operates using ﬁsh enzyme extracts and can be used to estimate the
+bioaccessibility of some major nutrients, like protein or carbohy-
+drates, present in the feeds, as well as the resulting bioavailability of
+amino acids, oligosaccharides or even mineral elements. In this sense,
+assays performed with such GIM may be highly interesting not only
+from a nutritional perspective, but also considering that the
+environmental impact of aquaculture is mainly due to the release of
+N and P to the water, both in the form of soluble excretions, faecal
+wastes and not consumed feed (Talbot and Hole, 1994). The
+formulation of diets with highly digestible nutrients and low pollution
+capacity has been a priority study area in aquaculture in the last
+decades (Lall, 1991; Sugiura et al., 2000; Cho and Bureau, 2001). In
+this sense, the development of methodologies allowing an easy
+preliminary and comparative evaluation of the effect of the different
+factors affecting the digestibility of both N and P present in raw
+materials has become a major need.
+The aim of the present study was to evaluate the suitability of that
+GIM to evaluate the bioaccessibility and bioavailability of N and P
+present in ﬁsh feed ingredients. This latter was considered particularly
+interesting since to date very few studies have used an in vitro
+methodology to assess the digestive utilization of P in ﬁsh (Weerasinghe
+et al., 2001). Two ingredients widely used in feed ﬁsh formulations,
+ﬁsh meal (FM) and soybean meal (SM) were evaluated, with the
+GIM adapted to simulate the digestive tract of rainbow trout
+(Oncorhynchus mykiss). Prior to the assays, a preliminary experiment
+with live ﬁsh was carried out to estimate the E:S ratio to be used in
+protein hydrolysis. The experiments were designed to evaluate the
+relative importance of the gastric phase on the whole digestion
+process, the relative contribution of free amino acids present in the
+protein sources to the whole release of products, as well as the effect of
+pH changes, this latter being considered the most important factor
+affecting bioavailability of phosphorus.
+2. Materials and Methods
+2.1. Experiment 1: Estimation of the enzyme:substrate (E:S) ratio
+existing for proteases in the gut of rainbow trout
+The operation of the GIM required to use of an E:S ratio close to
+that existing in the gut of live ﬁsh. This was estimated considering, in
+one hand, the average total protease production measured in the
+stomach and intestine of a number of ﬁsh and in the other hand,
+the mean protein intake of ﬁsh in a single meal (calculated from the
+amount of feed ingested by day and the proximate composition of
+the feed) as follows:
+E: SUmg−1protein /C16/C17 = ½ fresh tissue weight gðÞ* protease activity
+Ug−1fresh tissue /C16/C17 /C138 = ½daily protein intake gðÞ*1; 000/C138
+Eight-month-old rainbow trout Oncorhynchus mykiss (n=25; 162 ±
+34 g body weight) provided by a local farmer ﬁsh were sampled from a
+rearing raceway and maintained in a 500-l ﬁbreglass tank during 1 week
+at an average temperature of 16 °C being fed (3% body weight day-1)
+with a commercial diet (44% crude protein). Prior to sampling, ﬁsh were
+starved for 6 h, and then sacriﬁced by immersion in ice-cold water
+containing some drops of clove oil. After dissection of the organs
+(stomach or proximal intestine including pyloric caeca), crude extracts
+were prepared by manual homogenization in distilled water (1:10, w/v)
+followed by centrifugation (12,000 rpm, 3 °C, 15 min). Supernatants
+were stored at -20 °C until used in the assays. Acid protease activity in
+stomach extracts was measured using the method of Anson (1938)
+using substrate haemoglobin (5 g l-1) in 100 mmol l-1 glycine-HCl buffer
+(pH 2.0). Total alkaline protease activity in the extracts from intestine
+was evaluated using the method of Kunitz as modiﬁed by Walter (1984)
+using substrate casein (5 g l-1)in50mmoll-1 Tris-HCl buffer (pH 9.0).
+Trypsin activity was measured using as substrate Nα-benzoyl-DL-
+arginine-p-nitroanilide (BAPNA) by the method of Erlanger et al. (1961)
+while chymotrypsin activity was measured using as substrate N-
+succinyl-Ala-Ala-Pro-Phe-p-nitroanilide (SAPNA) using the method
+described by Ásgeirsson and Bjarnasson (1991).
+2.2. Experiment 2: In vitro assays
+The in vitro assays involved a two-step hydrolysis designed to
+simulate stomach and intestinal digestion in the GIM. The acid phase
+was simulated in a closed chamber; after inclusion of substrate,
+between 0.9 and 1.1 ml 500 mmol l-1 HCl were added to achieve the
+desired pH (2.0), this being followed by the addition of crude
+enzymatic extract from ﬁsh stomach. During this phase (60 min),
+reaction products were not removed. After this time, the reaction
+mixture was transferred to a semi-permeable membrane reactor
+adapted from that described by Savoie and Gauthier (1986). The
+device was formed by an inner reaction chamber separated from an
+outer chamber by a dialysis membrane of 1,000 Da MWCO (Spec-
+traPor 6, Spectrum Medical Industries, Los Angeles, CA, USA). Crude
+extract from pyloric caeca providing alkaline proteases was added to
+the inner chamber and the pH was gradually raised to 9.0 by pumping
+100 mmol l-1 borate buffer (Fig. 3). The alkaline hydrolysis was
+maintained for 180 min. Solubilization of protein, as well as changes
+in pH during the assays were continuously monitored. The small
+molecules released during this digestion phase passed across the
+membrane and were continuously removed from the outer chamber
+by the continuous ﬂow of buffer controlled by a peristaltic pump
+(0.5 ml min-1). Both reaction chambers were placed in a thermal
+water bath which maintained reaction temperature at 37 °C. Although
+this is not a physiological temperature for salmonids, and considering
+that maximum activity of digestive ﬁsh proteases is placed within the
+range 50–60 C, it was selected in order to increase the activity of the
+enzymes, this resulting into a shorter time required for each analysis
+and also into a better discriminating power of the assay, as stated in
+our previous work (Hamdan et al., 2009). The inner reaction chamber
+has a valve, which allowed taking samples from the reaction mixture
+as well as monitoring the pH of reaction. Different sampling points
+were established during each digestion phase to measure the release
+of both N and P hydrolysis products both in the dialysate and in the
+reaction mixture inside the reaction chamber.
+Once the suitable E:S ratio to be used in the assays was established,
+different assays were designed to determine the bioaccessibility and
+bioavailability of N and P in two common ﬁsh feed ingredients; ﬁsh
+meal (750 g kg-1 crude protein; 22,7 g kg-1 total P) and a soybean
+meal (470 g kg-1 crude protein; 4,2 g kg-1 total P) obtained from a
+national feedstuffs supplier (EPSA, Valencia, Spain). The effect of acid
+digestion was assessed by comparing results obtained in assays
+comprising both stages of hydrolysis (acid + alkaline) compared with
+those simulating only the alkaline phase. Amino acids and soluble P
+245G.A. Morales, F.J. Moyano / Aquaculture 306 (2010) 244–251
+were determined in dialysates using the o-phthaldialdehyde method
+(Church et al., 1983) and the phospho-molybdovanadate method
+(Engelen et al., 1994), respectively. Soluble protein in the reaction
+mixture was determined after centrifugation (4,000 rpm, 3 °C,
+15 min) of samples obtained from the inner chamber by the method
+of Bradford (1976). Total amino acids and soluble P were determined
+in those same samples after precipitation of protein by 200 g l-1
+trichloroacetic acid (TCA) followed by a another centrifugation
+(4,000 rpm, 3 °C, 15 min) of the supernatant solution. Protein-
+bound P was determined as the amount of total P in TCA precipitated
+by the phospho-molybdovanadate method after acid mineralization
+of the sample (AOAC, 1995). All the assays were run in triplicate. The
+schematic diagram of the device used for assays in the gastrointestinal
+model is presented in Fig. 1.
+Speciﬁc assays were run to estimate release of N or P either from
+the enzyme extract or the protein sources when incubated solely. The
+values obtained allowed the estimation of what could be considered
+the “basal liberation” of either amino acids or P not derived from the
+action of the enzyme extract on the substrates, being subtracted to
+determine the net release of products obtained when both the
+enzymes and substrates were present in the reaction mixture. In all
+cases, the amount of substrate used was equivalent to 80 mg substrate
+protein in each digester. Taking into account the protease activities
+determined in Experiment 1 (2,486 and 1,537 U ml crude extract,
+respectively, for stomach and intestine), the E:S ratio used were 31
+and 19 U mg-1 substrate protein in the acid and alkaline phases,
+respectively. The general conditions and parameters evaluated in the
+assays are summarized in Table 1.
+The above detailed parameters were used to estimate the
+biological accessibility or availability of either nitrogen or phosphorus
+as follows:
+N or P bioaccessibility = 100 * ½ðaccessible N=P from substrate
+– accessible N=P from enzyme extractÞ/C138
+= total N=P in substrate
+where:
+Accessible N (µg) = [soluble protein + inner chamber released AA +
+dialysed AA] / 6.25 and Accessible P (PO4-3) (µg) = [protein-bound
+P + inner chamber released P + dialysed P] * (P / PO4-3 molecular
+weight: 0.326)
+N or P bioavailability = 100 * ½ðavailable N=Pfromsubstrate
+– available N=PfromenzymeextractÞ/C138
+= total N=Pinsubstrate
+where:
+Available N (µg) = [inner chamber released AA + dialysed AA] /
+6.25 and Available P (PO4-3) (µg) = [inner chamber released P +
+dialysed P] * 0.326.
+2.3. Statistical analysis
+All assays were carried out in triplicate. Results were always
+presented as the total amount of product released during the different
+digestion phases. After veriﬁcation of the assumptions of normality
+and homocedasticity, data were subjected to Student's t-test. In the
+case of dialysed products, cumulated values were plotted against time,
+ﬁtted to straight lines the slope of which represented the rate of
+amino acid or soluble P released during the time of hydrolysis.
+Progressive liberations of amino acids or soluble P were subjected to
+ANCOVA, using time as the covariate. All the analyses were performed
+using the Statgraphics software package (STSC Software Group,
+Rockville, MD, USA).
+3. Results
+3.1. Experiment 1: Estimation of the E:S ratio existing for proteases in the
+gut of rainbow trout
+In spite of being maintained under similar conditions, ﬁsh showed
+a great variability in the amount of protease activity determined in
+their stomachs, which ranged from 10,000 to nearly 35,000 U g-1 fresh
+tissue. Such variability was clearly evidenced when total activity of
+acid protease was plotted against the amount of feed found in the
+stomachs, previously normalised as the ratio existing between the
+weights of feed contained and that of the stomach itself (Fig. 2). In
+contrast, a mean value of 5,000 U g-1 fresh tissue was determined for
+the activity of intestinal proteases, irrespective of the amount of feed
+present in the stomach. The enzyme activities considered for further
+calculations (23,162 and 5,075 U g-1 fresh tissue, for gastric and
+intestinal proteases, respectively) were those corresponding to ﬁsh
+with a 50% ﬁlling of the stomach, assuming that this ﬁgure could
+better represent the enzyme activity existing at any moment in the
+gut of a given ﬁsh. The calculation of the E:S also required to estimate
+the average food intake in ﬁsh of such size (3% body weight day-1)as
+well as the protein contents in feeds (44%), this resulting in 31.1 U and
+19.2 U of total protease per mg ingested protein for gastric and
+intestinal hydrolysis, respectively (Table 2). In this latter case, the
+speciﬁc E:S ratio for trypsin or chymotrypsin was also calculated,
+being 988 U BAEE and 17.3 U BTEE per mg substrate protein,
+respectively.
+3.2. Experiment 2: In vitro assays
+The evolution of pH during the assays is shown in Fig. 2. The lapse
+between acid and alkaline hydrolysis was considered a transition
+phase (TP) and lasted nearly 30 min. Solubilization of protein during
+the course of the hydrolysis of both protein sources is detailed in
+Fig. 3. Nearly ﬁve times more soluble protein was released from SM
+than from FM. Protein solubilisation was signiﬁcantly affected by the
+pH change (from 2.0 to 9.0) taking place between the acid and the
+alkaline phases of hydrolysis. A sharp decrease in protein solubility
+was observed during this TP, with the effect more evident for SM. On
+Fig. 1. Schematic diagram of the device used as gastrointestinal model. a) closed gastric
+compartment; b) pyloric caecum-duodenal compartment (outer reaction chamber);
+c) buffer solution to control the intestinal pH; d) peristaltic pump; e) multiple magnetic
+stirrer; f) cross head magnetic stir bar; g) thermal water bath; h) pH electrodes;
+i) gastric sampler tube; j) intestinal sampler tube; k) semi-permeable membrane
+system (inner reaction chamber); dialysed collector; m) valves; n) microplate
+spectrophotometer; o) microplate ﬂuorometer.
+246 G.A. Morales, F.J. Moyano / Aquaculture 306 (2010) 244–251
+the other hand, the 60-min acid pre-digestion resulted in a 61 and 50%
+increase in the soluble protein released from FM and SM, respectively,
+when compared to that obtained with alkaline hydrolysis only.
+The course of protein hydrolysis and P release are detailed in Figs. 5
+and 6, while the total amount of amino acids or P produced by each
+protein source and type of digestion are summarized in Table 3. In the
+absence of enzyme extracts, a signiﬁcant release of amino acids from
+both protein sources was measured, accounting for nearly 3 mg in the
+case of FM or around 2 mg for SM. Released amino acids from FM were
+not signiﬁcantly affected by the acid preincubation in assays
+simulating the two phases of digestion, while SM showed a slight
+increase. As expected, the action of proteases present in enzyme
+extracts signiﬁcantly increased the amount of amino acids released
+from the protein sources. In assays simulating only the intestinal
+hydrolysis, the net release of products resulting from enzyme action
+on FM and SM (obtained after subtraction of the basal values of N and
+P released from either the extract and the substrate) resulted in a
+104% and 45% increase over that obtained in the absence of enzyme,
+respectively. Corresponding values obtained with the two-step
+hydrolysis, were 143% and 72%, respectively. Then, the relative
+increment produced by the acid pre-digestion over alkaline hydrolysis
+accounted for 50% in FM and for more than 60% in SM. The total
+amount of amino acids released from FM was signiﬁcantly higher than
+that of SM for any type of digestion. The relative contribution of the
+amino acids present in enzyme extracts to the reaction mixture
+ranged from 37% (FM) to 53% (SM) and 45% to 59% for one and two-
+step digestion, respectively (Table 3).
+In a similar way, the different factors evaluated in the hydrolysis
+also resulted in changes in available P. In the absence of enzyme
+extracts, basal release of P was signiﬁcantly higher for FM (1.9-
+3.7 mg) than for SM (0.5-0.6 mg) but a signiﬁcant effect of the acid
+pre-incubation on this basal release was observed for FM. On the other
+hand, soluble P released from enzyme extracts accounted for 19% or
+47% of total P measured in one-step assays and 9% or 58% in two-step
+assays for FM or SM, respectively. The net increase of P release over
+the aforementioned values as a result of enzyme action on the protein
+substrates was 9% and 6% (alkaline digestion) or 75% and 23%
+(complete digestion) for FM and SM, respectively.
+When cumulated values of both amino acids and P measured at
+each sampling point were plotted against time, the slope of the linear
+equations represented the rate of product release per min (Table 4).
+For both protein sources, the presence of the acid pre-hydrolysis
+resulted in a signiﬁcant increase in the rate of release of amino acids
+over that measured with only alkaline hydrolysis. In the case of P, this
+effect was also signiﬁcant and highly appreciable for FM.
+All the above detailed information was resumed after calculation
+of the bioaccessibility and bioavailability for both N and P in the
+protein sources evaluated (Fig. 7). It was concluded that acid pre-
+digestion signiﬁcantly increased protein bioaccesibility in both feed-
+stuffs. On the other hand, a signiﬁcantly higher fraction of the protein-
+N was potentially accessible for enzyme hydrolysis in SM (from 17 to
+25%) when compared to FM (less than 10%). In contrast, the
+bioavailability of nitrogen obtained after enzyme action was compar-
+atively lower for SM. In the case of P, acid pre-digestion signiﬁcantly
+increased its bioaccesibility from FM (from 26 to 87%) but to a lesser
+extent from SM (from 34 to 65%). Bioavailability calculated for both
+protein sources and types of digestion followed a similar pattern,
+showing a clear reduction (30% and 20% for FM and SM, respectively,
+for this latter type of digestion).
+Table 1
+Summary of the general conditions used and parameters evaluated in the assays.
+Digestion
+phase
+Time Temp. pH Substrate 1 Enzyme
+activity 2
+Enzyme:
+substrate ratio
+Parameters measured
+in digestion cell
+Parameters measured
+in dialysed solution
+Acid 0 vs. 60 min. 37 °C 2.0 FM; SM
+(80 mg protein)
+2486 U ml-1 31 U mg-1 protein Soluble protein; total amino acids, P04-3,
+protein-bound P
+Total amino acids; P04-3
+Alkaline 180 min. 9.0 1537 U ml-1 19 U mg-1 protein
+Acid 0 vs. 60 min. 2.0 FM; SM (80 mg protein) ——
+Alkaline 180 min. 9.0 ——
+Acid 0 vs. 60 min. 2.0 — 2486 U ml-1 —
+Alkaline 180 min. 9.0 1537 U ml-1 —
+1 FM: Fishmeal LT (750 g kg-1 crude protein); SB: Soybean meal (470 g kg-1 crude protein).
+2 Activity of crude extracts from stomach (used in acid phase) and pyloric caecum (used in alkaline phase) of rainbow trout.
+Table 2
+Values of enzyme activities and food intake parameters used to estimate E:S ratio used
+on the in vitro assays.
+Corporal weight (g) 162
+Feed intake (%BW day-1) 3.0
+Crude protein content in feed (%) 44
+Protein intake (g day-1) 2.1
+Stomach Intestine
+Fresh tissue weight (g) 2.9 8.1
+Trypsin activity (U BAEE mg-1 fresh tissue) 1 - 519
+Chymotrypsin activity (U BTEE mg-1 fresh tissue) 2 - 9.1
+Total protease activity (U mg-1 fresh tissue) 23.2 5.1
+ES ratio (U mg-1 protein) 31.1 19.2
+1 BAPNA units converted to BAEE units. One trypsin unit will produce a ΔA253nm of
+0.001 per minute with BAEE as substrate at pH 7.6 at 25 °C.
+2 SAPNA units converted to BTEE units. One chymotrypsin unit will hydrolyze 1.0
+umole of BTEE per minute at pH 7.8 at 25 °C.
+Fig. 2. Relationship between protease activity in gastric and intestinal tissues and the
+stomach content:stomach tissue ratio for juvenile rainbow trout. Dotted line indicates
+the protease activity corresponding to ﬁsh with a 50% ﬁlling of the stomach, being
+selected to establish the E:S ratio in the GIM.
+247G.A. Morales, F.J. Moyano / Aquaculture 306 (2010) 244–251
+4. Discussion
+Most studies oriented to the in vitro simulation of ﬁsh digestion
+have been focused on the evaluation of protein hydrolysis. However,
+regardless of the system used, few studies have considered the use of
+an E:S ratio close to that existing in live ﬁsh, this being an important
+requisite for a more realistic simulation of the digestion process.
+Moreover, in order to decrease time for analysis and to increase
+sensitivity, most studies use high concentrations of puriﬁed enzymes
+or crude extracts which lie far from physiological conditions. In the
+present study an attempt to correlate total production of digestive
+proteases in live ﬁsh to their protein intake was carried out. The values
+obtained closely agreed to estimations made by Alarcón et al. (2002)
+for in vitro assays with pH-stat using enzyme extracts of sea bream,
+but were far from those estimated by the works of Eid and Matty
+(1989) or Tonheim et al. (2007). In this last work, the authors used a
+closed in vitro method to estimate the digestibility of water-soluble
+and water-insoluble protein fractions of some common ﬁsh larval
+feeds and feed ingredients using two puriﬁed mammal enzymes and
+one bacterial protease. The E:S ratios calculated from their data were
+2,190 U BAEE, 29 U BTEE and 1.2 U BP per mg substrate protein, which
+represent proximately twice the E:S ratio used in the present work for
+adult ﬁsh.
+In the present study, the simulation of pH variations taking place
+during the different stages of feed digestion by the ﬁsh showed a clear
+effect on protein solubilisation (and its further bioaccesibility). In
+addition, the transition from acid to alkaline pH taking place in the
+duodenum of live ﬁsh was simulated by a gradual modiﬁcation during
+a certain time considered the “transition phase” of the hydrolysis.
+During this stage, the solubility of the protein fraction of either FM or
+SM (Fig. 4) or total P (Fig. 6) was signiﬁcantly affected. It is widely
+recognized that pH is an important factor affecting protein solubility
+(Turgeon et al., 1992; Monahan et al., 1995), since as the pH
+approaches the isoelectric point, the negative and positive charges
+existing among protein molecules are neutralized, this resulting in
+precipitation. In contrast, at pH above or below the isoelectric point
+the net charges of proteins provide more binding sites for water, what
+increases their solubility (Hamm, 1960). In the case of FM, the soluble
+protein fraction should be mainly constituted by myosin, which
+accounts for nearly 55-60% of the myoﬁbrillar proteins (Lanier et al.,
+2005) which has an isoelectric point of pH 4.8–6.2 (Malamud and
+Drysdale, 1978; Kinsella, 1981).
+Similarly, the major fraction of soluble protein in SM is formed by
+globulins (glycinin and b-conglycinin), whose isoelectric point is close
+to pH 4.8 (Virkar et al., 1982). Despite the quantitative differences
+observed in the precipitation of FM and SM soluble protein fractions
+during the TP, the amount of soluble protein available for enzyme
+hydrolysis during the alkaline phase was signiﬁcantly increased when
+the ingredients were exposed to a gastric pre-digestion (Fig. 4). In
+fact, although simulation of the alkaline phase of the digestion seems
+to be a good predictor of proteins hydrolysis in vivo (Dimes et al.,
+1994, Bassompierre et al., 1998, Carter et al., 1999), probably it does
+not reproduce accurately what occurs in the digestive tract of
+carnivorous ﬁsh, on which the stomach pre-digestion produced by
+HCl and pepsin enhances subsequent hydrolysis by intestinal
+endopeptidases and exopeptidases. This facilitates the liberation of
+amino acids particularly from some proteins like those present in ﬁsh,
+meat and bone, blood and soybean meals (Alarcón et al., 2002). This
+fact is supported by authors developing in vitro digestibility assays
+aimed to reproduce human digestion on some feeds (Gatellier and
+Santé-Lhoutellier, 2009) who point that treatment by pepsin prior to
+trypsin/chymotrypsin treatment undoubtedly affects the nature of the
+latter enzyme products obtained. In addition, the use of a two-step
+digestion model provides interesting information about the relative
+importance of each stage on total hydrolysis. As shown in Fig. 5, and
+detailed in Table 3, acid pre-digestion with enzyme extracts of both
+FM and SM resulted in a signiﬁcant increment of the amount of amino
+acids released (48% and 62%, respectively) over those obtained only
+during the intestinal phase of the hydrolysis. This effect can be
+observed also when calculating the rates of amino acids release during
+the dialysis phase (linear ﬁtting equations in Table 4). These results
+completely agree with those obtained previously in assays performed
+with a similar GIM using commercial feeds and enzyme extracts from
+Argyrosomus regius (Hamdan et al., 2009).
+The experimental design also evidenced the relative contribution
+of amino acids released from either FM or SM in the absence of
+enzymes (considered a “basal release”) to their total bioavailability, as
+Fig. 4. Soluble protein content in the GIM during the hydrolysis of ﬁsh meal (A) and
+soybean meal (B) by rainbow trout digestive enzymes. G + I; gastric and intestinal
+digestion, I; only intestinal digestion.
+Fig. 3. Plot of the pH values maintained within the reaction chamber of the GIM in
+assays simulating a complete (G + I) or only intestinal (I) hydrolysis. During the
+transition phase, the pH change of the reaction mixture into inner reaction chamber is
+the result of a continuous ﬂow of 100 mmol l-1 borate buffer pH 9.0 across the outer
+reaction chamber of the GIM, simulating the pH changes of the chyme like occurs in the
+gut of rainbow trout.
+248 G.A. Morales, F.J. Moyano / Aquaculture 306 (2010) 244–251
+well as the enzyme extract contribution to the reaction mixture. This
+point is not assessed in most in vitro assays carried out with other
+methodologies, but it offers important information about the
+differences in the composition of the molecular fractions of nitrogen
+compounds present in a given protein source and also allows the
+quantiﬁcation of the amount of amino acids really released by the
+action of digestive enzymes.
+Release of P was not so closely linked to the action of the enzymes,
+but more dependent on the pH changes taking place in the digestive
+tract. This could explain the relatively high levels of P measured in
+assays carried out in the absence of enzyme extracts, as well as the
+very signiﬁcant effect of the acid phase on its bioaccesibility (Sugiura
+et al., 2006). Nevertheless, the presence of enzyme extracts in the
+digestion mixture signiﬁcantly increased the amount of P released
+(Table 3). This could be explained taking into account that a fraction of
+the organic phosphates covalently linked to proteins may be
+hydrolyzed by alkaline phosphatases present in the intestinal extracts
+used in the GIM.
+Nutrient bioavailability is an important but often nebulous concept
+associated with the efﬁciency of absorption and metabolic utilization
+of an ingested nutrient (Solomons, 2001; Gregory et al., 2005). In vitro
+digestibility models can be used to measure accurately the bioacces-
+sibility of a given nutrient and to estimate its bioavailability (Parada
+and Aguilera, 2007). In the present study, important differences in
+both parameters were found between the two protein sources tested,
+as well as signiﬁcant effects of other factors, like the existence of acid
+digestion prior to that taking place in the intestine. A higher N
+bioaccessibility was determined for SM when compared to that of FM,
+what can be apparently due to the high contents of soluble protein
+potentially available for enzyme action in SM. However, digestive
+enzymes present in trout extracts hydrolyzed more efﬁciently the
+soluble protein present in FM, this resulting in a signiﬁcantly higher
+bioavailability of amino acids for this latter protein source. Similarly,
+in plant protein sources a great amount of P, ranging from 60% to 80%
+of total P, is present as phytate (myo-inositol hexaphosphate)
+(Ravindran et al., 1995). Since most carnivorous ﬁsh do not possess
+phytase in their digestive tracts, the digestibility of phytate-P is very
+poor (Ogino et al., 1979; Lall, 1991) and this could explain the low
+values of P released in SM (Fig. 6).
+Similar to the results obtained by Hamdan et al. (2009), the GIM
+proved to be a good tool to separate the protein bioavailability
+between two raw materials, but also demonstrated the potential to be
+adapted for some nutrients, like dietary P, hence could allow an easy
+preliminary and comparative evaluation of P bioaccessibility and
+bioavailability. In this sense, assays performed with such GIM may be
+highly interesting not only from a nutritional perspective, but also
+from an environmental perspective.
+In vitro values for both N and P bioaccessibility obtained in the
+present study were appreciably less than those frequently obtained by
+mean of in vivo digestibility trials. For example, N apparent
+digestibility coefﬁcient of ﬁsh meal and soybean meal in rainbow
+trout are near 89 to 97% (Gaylord and Barrows, 2008). Similarly, high
+values have been reported by other authors who developed in vitro
+assays using mammal enzymes at E:S ratios not based on data
+obtained from live ﬁsh (Tonheim et al., 2007). Our results showed
+values lesser to 30% of N bioaccessibility or bioavailability as in other
+Fig. 6. Net release of soluble P (PO4-3) in the GIM after hydrolysis of (A) ﬁsh meal or
+(B) soybean meal by rainbow trout digestive enzymes. G + I; gastric and intestinal
+digestion, I; only intestinal digestion. GP, TP and IP, correspond to the gastric phase,
+transition phase and intestinal phase, respectively.
+Fig. 5. Net release of amino acids in the GIM after hydrolysis of (A) ﬁsh meal or
+(B) soybean meal by rainbow trout digestive enzymes. G + I; gastric and intestinal
+digestion, I; only intestinal digestion. GP, TP and IP, correspond to the gastric phase,
+transition phase and intestinal phase, respectively.
+249G.A. Morales, F.J. Moyano / Aquaculture 306 (2010) 244–251
+in vitro studies (e.g., Moyano and Savoie, 2001) and this could be
+explained by a combination of the following factors:
+a) Although the E:S ratio in the reactor was maintained close to that
+estimated to exist in ﬁsh gut, their relative concentration was
+much lower, due to the greater volume of the cell reaction
+chamber (20 ml) when compared to that of ﬁsh stomach or
+intestine. The presence of both enzymes and substrate in a more
+diluted form should result in a much slower rate of hydrolysis. In
+addition, the contractions of the gut taking place in the living ﬁsh
+ensure a proper mixing of food and enzymes and results in a close
+contact between them, an effect that is not achieved to the same
+extent by the agitation provided by the magnetic stirrer within the
+reaction chamber.
+b) Diffusion of amino acids released by the action of proteases
+through the semi- permeable membrane is a passive process based
+only on the differences in their relative concentrations at both
+sides of the membrane. This means that amino acids are probably
+not evacuated by the circulating buffer at a similar rate to what
+they are hydrolysed from protein. In contrast, amino acids released
+as a result of digestion in vivo are also actively transported across
+the intestinal mucosa (Berge et al., 2004) this resulting in a much
+faster reduction of their concentration within the intestinal lumen.
+c) The time established for digestion in the GIM is much shorter than
+that available for digestion in live ﬁsh.
+In spite of the above mentioned limitations, which are common to any
+other in vitro assays routinely developed in nutritional evaluation of feeds
+for terrestrial animals or humans, the key point is to consider that the
+proposed assay was not designed to reproduce,butto simulate digestion
+taking place in ﬁshgut,throughanevidentsimpliﬁcation of the real
+process. As pointed by Larsson et al. (1997), the simulation of the
+successive changing conditions in the gastrointestinal tract is probably the
+most critical step for the estimation of the bioavailability of minerals and
+trace elements. In addition, the availability of other nutritional compounds
+is compromised by factors like low permeability and/or solubility within
+the gut, as well as variations in gastrointestinal conditions (pH, enzymes,
+interactions with other nutrients, etc). In the present work, the use of a
+GIM which simulates the changes in pH and E:S ratios existing in the
+digestive of a selected ﬁsh species evidenced the importance of including
+an acid phase for a more realistic simulation of the effects that may take
+place in the gut of stomached ﬁsh.
+The proposed GIM may be an interesting alternative to other
+methods widely used in the evaluation of protein hydrolysis (i.e., the
+pH-stat method) because it allows better insight on the factors which
+may affect bioavailability of N and P in live ﬁsh. The results obtained in
+assays performed with different protein sources are clear enough to
+support it as a powerful tool to making it applicable in the evaluation
+and quality control of ingredients and feeds for aquaculture.
+5. Conclusion
+To our knowledge, the present study is the ﬁrst developing a GIM for
+ﬁsh which allows to evaluate simultaneously the changes in bioaccessi-
+bility and bioavailability of both N and P in the ingredients assayed. This
+point is of a high relevance as a preliminary step in the nutritional
+evaluation of feed ingredients and compounds feeds and could help lead
+to a better understanding of the responses obtained with in vivo assays.
+Acknowledgements
+This research was supported by Project AGL2007-64450-O2-02
+and by the Agencia Española de Cooperación Internacional para el
+Desarrollo (MAEC-AECID) through a doctoral fellowship for G.
+Morales.
+Table 3
+Total amount amino acids and soluble P released by digestive enzymes of rainbow trout
+(S + E) after intestinal digestion with (G + I) or without (I) a gastric pre-digestion using
+ﬁsh meal and soybean meal as substrates. Basal release obtained in the absence of
+enzyme extracts (S) is included for comparison. Values not sharing the same ﬁrst
+superscript letter (between feed ingredients), the same second letter (between
+digestion phase) or the same third letter (between incubation mixture) are
+signiﬁcantly different at P b 0.05.
+Feed
+ingredient
+Digestion
+phase
+Incubation
+mixture
+Total amino acids
+released (mg)
+Total soluble P
+released (mg)
+FM I S + E 9.75 ± 0.40 a,a,a 2.53 ± 0.14 a,a,a
+S 3.04 ± 0.24 a,a,b 1.88 ± 0.28 a,a,b
+G + I S + E 14.41±0.77 a,b,a 7.08 ± 0.34 a,b,a
+S 3.28 ± 0.15 a,a,b 3.68 ± 0.30 a,b,b
+SM I S + E 6.72±0.16 b,a,a 1.05 ± 0.10 b,a,a
+S 2.18 ± 0.03 b,a,b 0.51±0.04 b,a,b
+G + I S + E 10.91±0.62 b,b,a 1.40 ± 0.13 b,b,a
+S 2.60 ± 0.07 b,b,b 0.62±0.08 b,a,b
+Intestinal enzyme extract 3.56 ± 0.12 0.48 ± 0.02
+Gastric + intestinal enzyme extract 6.44 ± 0.36 0.64 ± 0.05
+Table 4
+Equations obtained after plotting cumulated values of N (total amino acids) or P (PO4 -3)
+dialysed against time after hydrolysis of ﬁsh meal (FM) of soybean meal (SM) by
+digestive enzymes of rainbow trout in assays including or not an acid pre-digestion.
+Values not sharing the same ﬁrst superscript letter (between digestion phase) or the
+same second letter (between feed ingredients) for the same nutrient are signiﬁcantly
+different at P b 0.05.
+Feed
+ingredient
+Nutrient Digestion
+phase
+Linear ﬁtting of dialysed
+products
+r2
+FM N I y = 41.8x – 564 a,a 0.990
+G+I y = 57.3x + 729 b,a 0.959
+PI y = 4.08x - 12.6 a,a 0.996
+G+I y = 12.6x + 304 b,a 0.988
+SM N I y = 2.21x - 7.96 a,b 0.988
+G+I y = 3.73x + 64.9 b,b 0.979
+PI y = 2.22x - 7.96 a,b 0.988
+G+I y = 3.73x + 64.9 b,b 0.979
+Fig. 7. Calculated bioaccessibility and bioavailability of N (A) and P (B) after hydrolysis
+in the GIM of ﬁsh meal (FM) and soybean meal (SM). G + I; gastric and intestinal
+digestion, I; only intestinal digestion.
+250 G.A. Morales, F.J. Moyano / Aquaculture 306 (2010) 244–251
+References
+Alarcón, F.J., Moyano, F.J., Díaz, M., 2002. Evaluation of different protein sources for
+aquafeeds by an optimized pH-stat system. J. Sci. Food Agric. 82, 697–704.
+Anson, M., 1938. The estimation of pepsin, trypsin, papain, and catepsin with
+hemoglobin. J. Gen. Physiol. 22, 79–89.
+AOAC, 1995. Ofﬁcial Methods of Analysis of AOAC International, 16 ed. AOAC
+International, Arlington.
+Ásgeirsson, B., Bjarnasson, J.B., 1991. Structural and kinetic properties of chymotrypsin
+from atlantic cod (Gadus morhua). Comparison with bovine chymotrypsin. Comp.
+Biochem. Physiol. 99 (B), 327–335.
+Bassompierre, M., Kristiansen, H.R., McLean, E., 1998. Inﬂuence of weight upon in vitro
+protein digestion in rainbow trout. J. Fish Biol. 52, 213–216.
+Berge, G., Goodman, M., Espe, M., Lied, E., 2004. Intestinal absorption of amino acids in
+ﬁsh: kinetics and interaction of the in vitro uptake of image-methionine in Atlantic
+salmon (Salmo salar L.). Aquaculture 229, 265–273.
+Blanquet, S., Zeijdner, E., Beyssac, E., Meunier, J.P., Denis, S., Havenaar, R., Alric, M., 2004.
+A dynamic artiﬁcial gastrointestinal system for studying the behavior of orally
+administered drug dosage forms under various physiological conditions. Pharm.
+Res. 21 (4), 585–591.
+Boissen, S., Eggum, B.O., 1991. Critical evaluation of in vitro methods for estimating
+digestibility in simple stomach animals. Nutr. Res. Rev. 4, 141–162.
+Bradford, M.M., 1976. A rapid and sensitive method for the quantitation of microgram
+quantities of protein utilizing the principle of protein-dye biding. Anal. Biochem.
+72, 248–254.
+Buddington, R.K., Krogdahl, A., Bakke-Mckellep, A.M., 1997. The intestines of
+carnivorous ﬁsh: structure and functions and the relations with diet. Acta Physiol.
+Scand. Suppl. 638, 67–80.
+Carter, C.G., Bransden, M.P., Van Barneld, R.J., Clarcke, S.M., 1999. Alternative methods
+for nutrition research on the southern blueﬁn tuna, Thunnus maccoyii: in vitro
+digestibility. Aquaculture 179, 57–70.
+Cho, C.Y., Bureau, D.P., 2001. A review of diet formulation strategies and feeding systems to
+reduce excretory and feed wastes in aquaculture. Aquac. Res. 32, 349–360.
+Chong, A.S.C., Hashim, R., Ali, A.B., 2002. Assessment of dry matter and protein
+digestibility of selected raw ingredients by discus ﬁsh (Symphysodon aequifasciata)
+using in vivo and in vitro methods. Aquac. Nutr. 8, 229–238.
+Church, F.C., Swaisgood, H.E., Porter, D.H., Catignani, G., 1983. Spectrophotometric assay
+using o-phthaldehyde for determination of proteolysis in milk proteins. J. Dairy Sci.
+66, 1219–1227.
+Dimes, L.E., Haard, N.F., 1994. Estimation of protein digestibility. I. Development of an in
+vitro method for estimating protein digestibility in salmonids. Comp. Biochem.
+Physiol. 108 (A), 349–362.
+Dimes, L.E., Garcia-Carreno, F.L., Haard, N.F., 1994. Estimation of protein digestibility -
+III. Studies on the digestive enzymes from the pyloric ceca of rainbow trout and
+salmon. Comp. Biochem. Physiol. 109 (A), 349–360.
+Dong, F.M., Hardy, R.W., Haard, N.F., Barrows, F.T., Rasco, B.A., Fairgrieve, T.W., Foster, I.P.,
+1993. Chemical composition and protein digestibility of poultry by-product meals for
+salmonid diets. Aquaculture 116, 149–158.
+Eid, A.E., Matty, A.J., 1989. A simple in vitro method for measuring protein digestibility.
+Aquaculture 79, 111–119.
+Engelen, A.J., Van der Heeft, F.C., Randsdorp, P.H.G., Smit, E.L.C., 1994. Simple and rapid
+determination of phytase activity. J. AOAC Int. 77, 760–764.
+Erlanger, B., Kokowsky, N., Cohen, W., 1961. The preparation and properties of two new
+chromogenic substrates of trypsin. Arch. Biochem. Biophys. 95, 271–278.
+Ezquerra, J.M., García Carreño, F.L., Civera, R., Haard, N., 1997. pH-stat method to predict
+protein digestibility in white shrimp (Penaeus vannamei). Aquaculture 157, 251–262.
+Fuller, M.F., 1991. Methodologies for the measurement of digestion. In: Verstegen, M.W.A.,
+Huisman, J., Den Hartog, L.A. (Eds.), Digestive Physiology in Pigs. European Association
+of Animal Production (EAAP). Publication No. 54, Pudoc. Wageningen, pp. 273–278.
+Gatellier, P., Santé-Lhoutellier, V., 2009. Digestion study of proteins from cooked meat
+using an enzymatic microreactor. Meat Sci. 81, 405–409.
+Gaylord, T.G., Barrows, F.T., 2008. Apparent digestibility of gross nutrients from
+feedstuffs in extruded feeds for rainbow trout, Oncorhynchus mykiss. J. World
+Aquacult. Soc. 39 (6), 827–834.
+Grabner, M., Hofer, R., 1985. The digestibility of the proteins of broad bean (Vicia faba)and
+soya bean (Glycine max)underin vitro conditions simulating the alimentary tracts of
+rainbow trout (Salmo gairdneri)andcarp(Cyprinus carpio). Aquaculture 48, 111–122.
+Gregory, J.F., Quinlivan, E.P., Davis, S.R., 2005. Integrated the issues of folate
+bioavailability, intake and metabolism in the era of fortiﬁcation. Trends Food Sci.
+Technol. 20, 229–240.
+Hamdan, M., Moyano, F.J., Schuhardt, D., 2009. Optimization of a gastrointestinal model
+applicable to the evaluation of bioaccessibility in ﬁsh feeds. J. Sci. Food Agric. 89,
+1195–1201.
+Hamm, R., 1960. Biochemistry of meat hydration. Adv. Food Res. 10, 355–423.
+Kinsella, J.E., 1981. Relationship between structure and functional properties of food
+proteins. In: Fox, P.F., Condon, J.J. (Eds.), Chapter 3 in Food Proteins. Applied Science
+Publisher, New York, pp. 51–103.
+Lall, S.P., 1991. Digestibility, metabolism and excretion of dietary phosphorus in ﬁsh. In:
+Cowey, C.B., Cho, C.Y. (Eds.), Nutritional Strategies and Aquaculture Waste.
+Proceedings of the First International Symposium on Nutritional Strategies in
+Management of Aquaculture Waste. University of Guelph, Guelph, Ontario, Canada,
+pp. 21–36.
+Lanier, T.C., Carvajal, P., Yongsawatdigul, J., 2005. Surimi gelation chemistry, In: Park, J.W.
+(Ed.), Surimi and surimi seafood, 2nd ed. Taylor and Francis Group, Boca Raton (FL),
+pp. 435–489.
+Larsson, M., Minekus, M., Havenaar, R., 1997. Estimation of the bioavailability of iron
+and phosphorus in cereals using a dynamic in vitro gastrointestinal model. J. Sci.
+Food Agric. 74, 99–106.
+Lazo, J.P., Romaire, R.P., Reigh, R.C., 1998. Evaluation of three in vitro enzyme assays for
+estimating protein digestibility in Paciﬁc white shrimp Penaeus vannamei. J. World
+Aquac. Soc. 29, 441–449.
+Malamud, D., Drysdale, J.W., 1978. Isoelectric points of proteins: A table. Anal. Biochem.
+86, 620–647.
+Monahan, F.J., German, J.B., Kinsella, J.E., 1995. Effect of pH and temperature on protein
+unfolding and thiol/disulﬁde interchange reactions during heat-induced gelation of
+whey proteins. J. Agric. Food Chem. 43, 46–52.
+Moyano, F.J., Savoie, L., 2001. Comparison of in vitro systems of protein digestion using
+either mammal or ﬁsh proteolytic enzymes. Comp. Biochem. Physiol. 128 (A),
+359–368.
+Ogino, C., Takeuchi, L., Taheda, H., Watanabe, T., 1979. Availability of dietary
+phosphorus in carp and rainbow trout. Bull. Jpn Soc. Sci. Fish. 49, 1527–1532.
+Parada, J., Aguilera, J.M., 2007. Food microstructure affects the bioavailability of several
+nutrients. J. Food Sci. 72, 21–32.
+Ravindran, V., Bryden, W.L., Kornegay, E.T., 1995. Phytates: occurrence, bioavailability
+and implications in poultry nutrition. Poult. Avian Biol. Rev. 6, 125–143.
+Rungruangsak-Torrissen, K., Rustad, A., Sunde, J., Eiane, S.A., Jensen, H.B., Opstvedt, J.,
+Nygard, E., Samuelsen, T.A., Mundheim, H., Luzzana, U., Venturini, G., 2002. In vitro
+digestibility based on ﬁsh crude enzyme extract for prediction of feed quality in
+growth trials. J. Sci. Food Agric. 82, 644–654.
+Savoie, L., Gauthier, S.F., 1986. Dialysis cell for the in vitro measurement of protein
+digestibility. J. Food Sci. 51, 494–498.
+Solomons, N., 2001. Bioavailability of nutrients and other bioactive components from
+dietary supplements. J. Nutr. 131, 1392–1395.
+Sugiura, S., Babbitt, J., Dong, F., Hardy, R., 2000. Utilization of ﬁsh and animal by-product
+meals in low-pollution feeds for rainbow trout Oncorhynchus mykiss (Walbaum).
+Aquacult. Res. 31, 585–593.
+Sugiura, S.H., Roy, P.K., Ferraris, R.P., 2006. Dietary acidiﬁcation enhances phosphorus
+digestibility but decreases H+/K+-ATPase expression in rainbow trout. J. Exp. Biol.
+209, 3719–3728.
+Talbot, C., Hole, R., 1994. Fish diets and the control of eutrophication resulting from
+aquaculture. J. Appl. Ichthyol. 10, 258–270.
+Tonheim, S.K., Nordgreen, A., Høgøy, I., Hamre, K., Rønnestad, I., 2007. In vitro
+digestibility of water-soluble and water-insoluble protein fractions of some
+common ﬁsh larval feeds and feed ingredients. Aquaculture 262, 426–435.
+Turgeon, S.L., Gauthier, S.F., Paquin, P., 1992. Emulsifying property of whey peptide
+fractions as a function of pH and ionic strength. J. Food Sci. 57, 601–604.
+Virkar, P.D., Hoare, M., Chan, M.Y.Y., Dunnill, P., 1982. Kinetics of the acid precipitation
+of soya protein in a continuous ﬂow tubular reactor. Biotechnol. Bioeng. 24,
+871–887.
+Walter, H.E., 1984. Proteinases: methods with hemoglobin, casein and azocoll as
+substrates. In: Bergmeyer, H.U. (Ed.), Methods of Enzymatic Analysis. Verlag
+Chemie, Weinheim, pp. 270–277.
+Weerasinghe, V., Hardy, R.W., Haard, N.F., 2001. An in vitro method to determine
+phosphorus digestibility of rainbow trout Oncorhynchus mykiss (Walbaum) feed
+ingredients. Aquac. Nutr. 7, 1–9.
+251G.A. Morales, F.J. Moyano / Aquaculture 306 (2010) 244–251

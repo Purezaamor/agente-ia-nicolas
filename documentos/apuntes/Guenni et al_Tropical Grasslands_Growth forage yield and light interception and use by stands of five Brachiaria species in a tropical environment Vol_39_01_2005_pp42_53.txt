@@ -1,0 +1,1460 @@
+=== Fuente: Guenni et al_Tropical Grasslands_Growth forage yield and light interception and use by stands of five Brachiaria species in a tropical environment Vol_39_01_2005_pp42_53.pdf ===
+
+ 
+Tropical Grasslands 
+ 
+(2005) Volume 39, 42–53 42
+ 
+Growth, forage yield and light interception and use by stands of 
+ﬁve 
+ 
+Brachiaria
+ 
+ species in a tropical environment
+ 
+O. GUENNI
+ 
+1
+ 
+, J.L. GIL
+ 
+2
+ 
+ 
+ 
+AND
+ 
+ Y. GUEDEZ
+ 
+1
+1
+ 
+Universidad Central de Venezuela (UCV), 
+Facultad de Agronomía, Instituto de Botánica 
+Agrícola, Maracay, Venezuela
+ 
+2
+ 
+Instituto Nacional de Investigaciones Agrícolas 
+(INIA), Centro Nacional de Investigaciones 
+Agropecuarias (CENIAP), Maracay, Venezuela 
+ 
+Abstract
+ 
+Light interception and use were studied in ferti-
+lised stands of 5 
+ 
+Brachiaria
+ 
+ species: 
+ 
+B. brizantha,
+B. decumbens
+ 
+, 
+ 
+B. dictyoneura
+ 
+,
+ 
+ B. humidicola
+ 
+ and
+ 
+B. mutica
+ 
+ over a regrowth period of 45 days
+during the wet season. Aerial dry matter (DM)
+accumulation, nutrient concentrations in the
+forage, photosynthetically active radiation (PAR)
+interception and light use efﬁciency (
+ 
+ε
+ 
+) for
+different plant components were measured on
+6 occasions. Growth and forage yield were
+analysed in terms of biomass partitioning and its
+inﬂuence on absorbed PAR and 
+ 
+ε
+ 
+. Final DM yields
+were similar among species (280–350 g/m
+ 
+2
+ 
+),
+despite wide variation (1.7–4.1) in the leaf area
+index (LAI). In general, N accumulation into
+aerial biomass was lower than theoretical values
+expected for a C
+ 
+4
+ 
+ grass. Although 
+ 
+ε
+ 
+ for leaf pro-
+duction and consequently LAI in 
+ 
+B. humidicola
+ 
+and 
+ 
+B. mutica
+ 
+ were low, 
+ 
+ε
+ 
+ for tiller production was
+high, thus compensating for the lower partitioning
+to assimilatory biomass. The pattern of biomass
+partitioning in 
+ 
+B. brizantha
+ 
+, 
+ 
+B. decumbens
+ 
+ and
+ 
+B. dictyoneura
+ 
+ favoured leaf DM resulting in a
+higher leaf:tiller ratio, LAI and 
+ 
+ε
+ 
+ for leaf biomass.
+Different partitioning coefﬁcients resulted in
+similar PAR interception among species. It was
+concluded that similar ﬁnal yields were achieved
+by different strategies of biomass partitioning and
+therefore conversion efﬁciencies. The calculated
+value of 
+ 
+ε
+ 
+ for total forage biomass fell within the
+range 1.3–1.7 g/MJ.
+ 
+Introduction 
+ 
+For any crop and particularly for forage grasses,
+both the rate at which a stand produces biomass
+and the total amount accumulated by the time it
+is harvested or grazed, depend on many environ-
+mental and genetic factors. Success in pasture
+management will depend, therefore, on how well
+these interactions are understood.
+Several authors have proposed a physiological
+framework for the analysis of crop growth and
+biomass accumulation (Monteith 1972, 1977;
+Charles-Edwards 1982; Charles-Edwards 
+ 
+et al
+ 
+.
+1986), which has been very helpful in deter-
+mining causes of yield variation among C
+ 
+4
+ 
+grasses (Ludlow and Charles-Edwards 1980;
+Sinoquet and Cruz 1993; Muchow 
+ 
+et al
+ 
+. 1994;
+Maddonni and Otegui 1996; Robertson 
+ 
+et al
+ 
+.
+1996).
+Charles-Edwards (1982) and Charles-Edwards
+ 
+et al
+ 
+. (1986) consider that growth rate and eco-
+nomic yield can be analysed biologically in terms
+of 5 determinant factors which are common to all
+crops: 1) the daily amount of photosynthetically
+active radiation (PAR) intercepted by the leaf
+canopy (J); 2) the efﬁciency (
+ 
+ε
+ 
+) with which light
+energy is converted into biomass through photo-
+synthesis (PAR use efﬁciency or RUE); 3) the dry
+matter partitioning coefﬁcient into different plant
+components (
+ 
+η
+ 
+); 4) the length of the growth
+period; and ﬁnally 5) the rate of loss of dry
+matter (V). If we consider only the above-ground
+biomass, the net growth rate of a forage crop per
+unit area over a time period (
+ 
+∆
+ 
+W/
+ 
+∆
+ 
+t) can be
+written as:
+ 
+∆
+ 
+W
+ 
+a
+ 
+/
+ 
+∆
+ 
+t = 
+ 
+η
+ 
+a
+ 
+ε
+ 
+J 
+ 
+−
+ 
+ V
+ 
+a
+ 
+(1)
+where the subindex, a, refers to the above-ground
+dry matter yield. For a grass stand, dry matter
+losses during an active growth period can be
+ 
+Correspondence: O Guenni, Universidad Central de
+Venezuela, Facultad de Agronomía, Instituto de Botánica
+Agrícola, Apartado Postal 4579, Maracay 2101, Venezuela.
+E-mail: guennio@agr.ucv.ve.
+03/05_05_Guenni et al.fm  Page 42  Friday, April 8, 2005  9:32 AM
+ 
+Growth and light use by 
+ 
+Brachiaria 43
+ 
+considered as minimal, so equation (1) can be
+re-written as:
+ 
+∆
+ 
+W
+ 
+a
+ 
+/
+ 
+∆
+ 
+t = 
+ 
+η
+ 
+a
+ 
+ε
+ 
+J (2)
+Thus, under optimal or non-limiting condi-
+tions (
+ 
+i.e
+ 
+., adequate water and mineral nutrition),
+the amount of PAR intercepted by the canopy,
+the conversion efﬁciency for radiation intercep-
+tion, and the length of the growing period are
+the main factors controlling crop growth rate
+(Squire 1990). In tropical C
+ 
+4
+ 
+ species like cereals
+and grasses, ranges for maximum growth
+rates and annual production are typically
+37–57 g/m
+ 
+2
+ 
+/d and 20–70 t/ha, respectively
+(Ludlow 1985; Squire 1990).
+Under such environmental conditions and at
+least during vegetative growth, forage biomass
+accumulation is linearly related to the daily
+amount of PAR absorbed by the stand foliage
+(Monteith 1972), and depends primarily on the
+degree of leaf area index (LAI) development
+(Squire 1990). This relationship is maintained
+until nearly 80–85% of radiation is intercepted,
+which usually starts to occur at LAI values
+around 4–5 for most crops and forage grasses
+(Charles-Edwards 
+ 
+et al
+ 
+. 1986; Humphreys 1991;
+Sinoquet and Cruz 1993; Maddonni and Otegui
+1996). Differences in J among forage stands are
+attributed to differences in the efﬁciency of light
+interception, which in turn depends on canopy
+architecture, and hence LAI vertical distribution
+through the canopy (Ludlow and Charles-
+Edwards 1980; Sinoquet and Cruz 1993).
+Under optimal environments, the efﬁciency of
+light conversion appears also to be relatively
+more stable among tropical legumes and grasses
+than J (Ludlow 1985; Charles-Edwards 
+ 
+et al
+ 
+.
+1986; Squire 1990), but it can be substantially
+modiﬁed by environmental factors (Cruz 1995,
+1996; Jeuffroy and Ney 1997; Sinclair and
+Muchow 1999; Black and Ong 2000).
+The advantage of this physiological approach
+for the analysis of crop growth is that it allows a
+comparison of the performance of grass stands
+under different agronomic situations, as related to
+2 parameters (J and 
+ 
+ε
+ 
+), which are fairly easy to
+quantify under ﬁeld conditions. 
+In the present study, we applied this growth-
+analysis technique to compare growth, dry matter
+accumulation patterns, radiation interception and
+light-use efﬁciency in 5 
+ 
+Brachiaria
+ 
+ species under
+fertilised conditions in a tropical environment. 
+ 
+Materials and methods
+ 
+Location, species, plot management and 
+harvesting 
+ 
+The ﬁeld experiment was conducted at the experi-
+mental station of the Universidad Central de
+Venezuela (UCV), Maracay (10°15
+ 
+′
+ 
+N, 67°39´W;
+elevation 450 masl), on a sandy loam soil, during
+the peak of the wet period (July–September) of
+1999. The climate is classiﬁed as dry to subhumid,
+with a monthly mean temperature of 24.6°C and
+a mean annual rainfall (1973–2001) of 980 mm
+and potential evapotranspiration (1980–1998) of
+1359 mm. Nearly 90% of the annual rainfall falls
+in April–November (meteorological service of the
+Agronomy Faculty, UCV). Weather data were
+collected from a meteorological station located
+near the site. An initial soil analysis gave the
+following characteristics (0–20 cm): pH-6.8;
+organic matter-1.34%; electrical conductivity-
+0.13 dS/m; P, K, Ca and Na concentrations of 42,
+100, 954 and 30 ppm, respectively. 
+For this study, 5 species of 
+ 
+Brachiaria
+ 
+ were
+used: 
+ 
+B. brizantha
+ 
+,
+ 
+ B. decumbens, B. dicty-
+oneura
+ 
+,
+ 
+ B. humidicola
+ 
+ and
+ 
+ B. mutica
+ 
+. The
+grasses had been established 3 years before in
+9 m 
+ 
+×
+ 
+ 5 m plots, and were frequently mowed
+and fertilised to allow continuous stand regrowth
+and full plant cover. For the purpose of this
+experiment, all plots were mowed on July 10,
+1999 and 2 days after they were fertilised with a
+complete formula of N:P:K (12:24:12) at a rate
+of 150 kg/ha.
+Aerial biomass production was measured at
+weekly intervals (8, 17, 22, 29, 39 and 45 days
+after mowing, DAM) using a single 1 m 
+ 
+×
+ 
+ 0.5 m
+quadrat placed at random within each plot. A new
+sampling site was used on each occasion. Weed
+control was performed manually. No insect attack
+was observed during the experiment, which
+extended for 45 days: July 10–August 24.
+ 
+Plant and light measurements
+ 
+At each harvest, all above-ground material within
+each quadrat was collected, and a subsample was
+separated into green leaves, tillers (stem + leaf
+sheath) and dead matter. A subsample of green
+leaves (200–350 cm
+ 
+2
+ 
+) was also taken for determi-
+nation of speciﬁc leaf area (SLA). The area of
+leaf lamina was measured by using a leaf area
+meter (CI-202; CID Inc., USA) before drying all
+ 
+03/05_05_Guenni et al.fm  Page 43  Friday, April 8, 2005  9:32 AM
+ 
+44
+ 
+O. Guenni, J.L. Gil and Y. Guedez
+ 
+plant components at 65 °C for 4 days to obtain
+dry matter yield (DMY, g/m
+ 
+2
+ 
+). The SLA was cal-
+culated as leaf area per unit of its dry weight
+(cm
+ 
+2
+ 
+/g), and LAI from green leaf weight per unit
+ground area multiplied by the SLA. 
+A permanent 1 m 
+ 
+×
+ 
+ 1 m quadrat in the centre
+of the plot was used to record light interception
+by the foliage around noon on 2 different clear
+days during the harvesting week. A quantum line
+sensor (LI-191SB model; LICOR, USA) was
+used to record the incident (PAR
+ 
+i
+ 
+) and trans-
+mitted (PAR
+ 
+t
+ 
+) radiation at the top and bottom (cut
+level) of the sward canopy, respectively. Though
+the calculation of the fractional PAR interception
+is more accurate by considering the integral value
+of PAR transmittance (T = PAR
+ 
+t 
+ 
+/PAR
+ 
+i
+ 
+) on daily
+bases, in this study that measurement was not
+possible, so an estimate of J (S) on the selected
+date was obtained by using:
+S = 0.96(1
+ 
+−
+ 
+T) (3)
+where the value of 0.96 represents the constant
+fraction of PAR that is reﬂected by the soil (Sino-
+quet and Cruz 1993). Non-linear regressions of
+S on time (days) were used to obtain PAR frac-
+tional interception on any particular day during
+the regrowth period. The light extinction coefﬁ-
+cient within the canopy (k) was calculated as the
+slope of the regression of T 
+ 
+vs
+ 
+ LAI. In this case,
+the data sets were ﬁtted to the general equation
+(Squire 1990; Jeuffroy and Ney 1997):
+T = a exp 
+ 
+(
+ 
+−
+ 
+k LAI)
+ 
+(4)
+The term J (MJ/m
+ 
+2
+ 
+) was calculated from the
+absolute incident short wave radiation (R
+ 
+a
+ 
+) values
+obtained from meteorological data, so:
+J = 0.48R
+ 
+a
+ 
+S (5)
+where the value of 0.48 is used to convert R
+ 
+a
+ 
+ into
+PAR. Between consecutive sampling dates, daily
+values of T and J were estimated by interpolation.
+The slopes derived from the linear regressions of
+total accumulated above-ground DM 
+ 
+vs
+ 
+ total
+accumulated J (
+ 
+Σ
+ 
+J) for the various regrowth
+periods refer to RUE or 
+ 
+ε
+ 
+T
+ 
+ (g/MJ). Values of RUE
+for leaf and tiller production are referred to as 
+ 
+ε
+ 
+L
+ 
+and 
+ 
+ε
+ 
+t
+ 
+, respectively.
+Mineral nutrition of the pastures was moni-
+tored by determining total N, P and K concentra-
+tion in forage subsamples at each harvest. The
+uptake of these nutrients by the different species
+was calculated as the product of the measured
+above-ground biomass and its nutrient concentra-
+tion. The level of N nutrition was analysed by
+comparing the theoretical relationship between N
+uptake (kg/ha) and DMY (t/ha) for a C
+ 
+4
+ 
+ grass and
+the actual curve obtained from the experimental
+data (Cruz 1997). 
+A randomised block design with 3 replicates
+was used, and the proper ANOVA test and mean
+comparisons (Duncan, P<0.05) were performed
+by using the statistical package SAS (SAS Insti-
+tute 1989). Linear regressions were used to ana-
+lyse the relationship between forage yield and
+accumulated PAR interception, and the slopes
+were compared by Duncan’s test using the SAS-
+GLM-MCSLO procedure. The value of k was
+compared among species by analysing the linear
+regressions of ln (T) on LAI. The SAS-NLIN
+procedure was used to ﬁt experimental data to
+exponential and polynomial equations. 
+ 
+Results
+ 
+Weather conditions
+ 
+Daily temperature varied mostly between 20 and
+30°C, with a total rainfall of 590 mm, distributed
+throughout the whole regrowth period (Figure 1).
+This rain was well above the historic average of
+347 mm for the months of July and August. For
+most days, mean daily global radiation was above
+12 MJ/m
+ 
+2
+ 
+. 
+ 
+Above-ground biomass accumulation and 
+partitioning
+ 
+Total above-ground dry matter accumulation in
+all species followed a somewhat exponential pat-
+tern, with no decrease in growth by the end of
+the experiment (Figure 2a). Maximum recorded
+yields at 45 DAM varied from 280 g/m
+ 
+2
+ 
+(
+ 
+B. humidicola
+ 
+) to 350 g/m
+ 
+2
+ 
+ (
+ 
+B. mutica
+ 
+),
+although no signiﬁcant differences (P>0.05) were
+found among species (Table 1). A similar dry
+matter accumulation pattern occurred for tiller
+biomass (Figure 2b). Rate of leaf biomass accu-
+mulation varied markedly among species, with
+ 
+B. brizantha
+ 
+, 
+ 
+B. mutica
+ 
+ and 
+ 
+B. decumbens
+ 
+remaining almost constant throughout while
+ 
+B. dictyoneura
+ 
+ and 
+ 
+B. humidicola
+ 
+ accumulated
+minimal leaf DW after 22 and 29 days of
+regrowth, respectively (Figure 2c). This led
+to a corresponding reduction in green LAI
+ 
+03/05_05_Guenni et al.fm  Page 44  Friday, April 8, 2005  9:32 AM
+ 
+Growth and light use by 
+ 
+Brachiaria 45
+ 
+development in these species, with maximum
+values of 2.5 compared with 3.5 and 4.1 in 
+ 
+B.
+decumbens
+ 
+ and 
+ 
+B. brizantha
+ 
+, respectively
+(Figure 3). Similarly, in 
+ 
+B. mutica
+ 
+, a low leaf
+biomass production (Figure 2c) resulted in the
+slowest rate of green LAI growth, reaching a
+maximum value of 2.7 (Figure 3). Maximum
+leaf senescence (4.3–6.4 g/m
+ 
+2
+ 
+) was observed in
+ 
+B. humidicola
+ 
+ and 
+ 
+B. mutica
+ 
+ 36 and 45 DAM,
+respectively (data not shown), though this repre-
+sented less than 2% of total above-ground bio-
+mass. Early ﬂowering induction (after 22 days of
+regrowth) was observed only in 
+ 
+B. dictyoneura
+ 
+,
+ 
+B. humidicola
+ 
+ and to a lesser extent 
+ 
+B. decum-
+bens
+ 
+, with maximum inﬂorescence production
+(measured as weight of ﬂowering tillers) by the
+end of the experiment of 9.5–59.0 g/m
+ 
+2
+ 
+ for the
+former 2 species, which represented 4% and 24%
+of total shoot biomass, respectively. At Day 45,
+the leaf:tiller ratio varied signiﬁcantly (P<0.05)
+among species, from 0.5 in 
+ 
+B. humidicola
+ 
+ and
+ 
+B. mutica
+ 
+ to 3.4 in 
+ 
+B.brizantha
+ 
+ (Table 1). Con-
+sequently, mean dry matter partitioning to green
+leaves increased from 45% and 47% in 
+ 
+B. humid-
+icola 
+ 
+and 
+ 
+B. mutica
+ 
+ to 65, 78 and 86% for
+ 
+B. decumbens
+ 
+, 
+ 
+B. dictyoneura
+ 
+ and 
+ 
+B. brizantha
+ 
+,
+respectively.
+ 
+Light interception and PAR use efﬁciency
+ 
+The patterns of light extinction within the
+canopies and fractional light interception (S) are
+ 
+Figure 1.
+ 
+ Rainfall distribution and mean daily temperature during the experiment.
+ 
+Within columns, values followed by different letters are signiﬁcantly different (P<0.05). 
+ 
+Table 1. 
+ 
+Total aerial biomass produced over 45 days of regrowth, leaf : tiller ratio (L : T), ﬁnal leaf area index (LAI), total
+intercepted PAR (PAR
+ 
+T
+ 
+), light extinction coefﬁcient (k) and PAR radiation use efﬁciency for total aerial biomass (
+ 
+ε
+ 
+T
+ 
+), tiller biomass
+(
+ 
+ε
+ 
+t
+ 
+) and leaf biomass (
+ 
+ε
+ 
+L
+ 
+) in 5 
+ 
+Brachiaria species.
+Species Aerial biomass L : T LAI PART k εT εt εL
+(g/m2) (MJ/m2) (g/MJ) (g/MJ) (g/MJ)
+B. brizantha 293 a 3.4 a 4.1 a 214.8 a 0.5 ab 1.3 a 0.3 c 0.9 a
+B. decumbens 312 a 1.2 b 3.5 ab 158.6 a 0.4 bd 1.4 a 0.6 abc 0.8 ab
+B. dictyoneura 282 a 1.2 b 2.5 bc 187.9 a 0.3 d 1.3 a 0.5 bc 0.8 ab
+B. mutica 350 a 0.5 c 2.7 bc 221.5 a 0.8 a 1.5 a 1.0 a 0.5 ab
+B. humidicola 279 a 0.5 c 1.7 c 164.1 a 0.5 bc 1.7 a 0.9 ab 0.5 ab
+July
+Rainfall (mm)
+Temperature (°C)
+140
+120
+100
+80
+60
+40
+20
+0
+40
+35
+30
+25
+20
+15
+10
+12 16 20 24 28 1 5 9 13 17 21 25
+August
+Rain Max. Temp. Min. Temp.
+03/05_05_Guenni et al.fm  Page 45  Friday, April 8, 2005  9:32 AM
+46 O. Guenni, J.L. Gil and Y. Guedez
+Figure 2. Dry matter accumulation for: (a) shoot or total above-ground; (b) tiller; and (c) leaf biomass of 5 Brachiaria
+species during a regrowth period of 45 days. Vertical lines refer to least signiﬁcant differences (LSD, P = 0.05) between
+species at Day 45.
+Total shoot biomass (g/m2) 400
+350
+300
+250
+200
+150
+100
+50
+0
+62
+Time of regrowth (days)
+B. brizantha
+B. mutica
+B. decumbens
+B. humidicola
+B. dictyoneura
+0 10 20 30 40 50
+(a)Tiller biomass (g/m2)
+250
+200
+150
+100
+50
+0
+31
+Time of regrowth (days)
+B. brizantha
+B. mutica
+B. decumbens
+B. humidicola
+B. dictyoneura
+0 10 20 30 40 50
+(b)
+Leaf biomass (g/m2) 250
+200
+150
+100
+50
+0
+56
+Time of regrowth (days)
+B. brizantha
+B. mutica
+B. decumbens
+B. humidicola
+B. dictyoneura
+0 10 20 30 40 50
+(c)
+03/05_05_Guenni et al.fm  Page 46  Friday, April 8, 2005  9:32 AM
+Growth and light use by Brachiaria 47
+shown in Figures 4a and 4b, respectively. The
+value of k in each species was calculated using
+all experimental data, which were ﬁtted by the
+equations given in Table 2. PAR extinction coefﬁ-
+cients ranged from 0.3 ( B. dictyoneura ) to 0.8
+(B. mutica) (Table 1). Maximum S values were
+observed around 37 DAM and varied from 0.6
+(B. decumbens, B. humidicola  and B. dicty-
+oneura) to 0.8 ( B. brizantha and B. mutica )
+(Figure 4b), for LAI values between 1.8
+(B. humidicola) and 4.3 (B. brizantha). The value
+of S was estimated using the equations given in
+Table 2. Total intercepted PAR varied from
+159 MJ/m 2 (B. decumbens ) to 222 MJ/m 2
+(B. mutica ) (Table 1), but differences were not
+signiﬁcant (P>0.05).
+The regression lines between plant biomass
+and accumulated PAR interception are shown in
+Figures 5a, 5b and 5c for total above-ground, tiller
+and leaf biomass, respectively. In general, the
+regressions represented a good ﬁt to the observed
+data (0.65<R 2<0.98, 0.0001<P<0.052; Table 3).
+In terms of total shoot biomass, the calculated
+slopes ( εT) were similar for all species (P>0.05)
+(Table 1), varying from 1.25 g/MJ ( B. brizantha )
+to 1.68 g/MJ ( B. humidicola ). In contrast, light
+Figure 3. Changes in leaf area index (LAI) of 5 Brachiaria species during a regrowth period of 45 days. Vertical line
+refers to the least signiﬁcant difference (LSD, P = 0.05) between species at Day 45.
+Table 2. Regression statistics for the equations (T = a exp -k LAI) used to calculate the light extinction coefﬁcient (k), and the fraction
+of PAR intercepted by the canopy (S) at any time (t) during the regrowth of 5 Brachiaria species.
+Light extinction coefﬁcient (k)
+Species n a (±s.e.)1 k (±s.e.) R2 P
+B. brizantha 16 0.95 (0.06) 0.48 (0.08) 0.96 < 0.0001
+B. decumbens 17 0.92 (0.04) 0.37 (0.04) 0.98 < 0.0001
+B. dictyoneura 15 0.91 (0.05) 0.25 (0.04) 0.99 < 0.0001
+B. mutica 16 0.91 (0.05) 0.81 (0.09) 0.98 < 0.0001
+B. humidicola 17 1.00 (0.04) 0.46 (0.04) 0.99 < 0.0001
+1 Standard error of the estimate.
+Fraction of PAR intercepted by the canopy (S)
+Species Regression equation n R2 P
+B. brizantha S = (−5 × 10−5)t3 + 0.0004t2 − 0.08t + 0.50 6 0.97 0.0393
+B. decumbens S = (−5 × 10−5)t3 + 0.004t2 − 0.07t + 0.41 6 0.98 0.0315
+B. dictyoneura S = (−1 × 10−5)t3 + 0.001t2 + 0.01t − 0.07 6 0.85 0.2208
+B. mutica S = (−3 × 10−5)t3 + 0.002t2 − 0.07t + 0.01 6 0.99 0.0162
+B. humidicola S = (−3 × 10−5)t3 + 0.002t2 − 0.01t + 0.04 6 0.99 0.0103
+LAI (m2/m2)
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0
+1.2
+Time of regrowth (days)
+B. brizantha
+B. mutica
+B. decumbens
+B. humidicola
+B. dictyoneura
+0 10 20 30 40 50
+03/05_05_Guenni et al.fm  Page 47  Friday, April 8, 2005  9:32 AM
+48 O. Guenni, J.L. Gil and Y. Guedez
+use efﬁciencies for tiller ( εt) and leaf production
+(εL) differed (P<0.05) among species (Table 1).
+Minimum and maximum εt values were 0.3 g/MJ
+(B. brizantha) and 1.0 g/MJ ( B. mutica), respec-
+tively, whereas εL ranged from 0.5 g/MJ
+(B. humidicola  and B. mutica ) to 0.9 g/MJ
+(B. brizantha). As observed in Figure 2, accumu-
+lated forage yield per unit intercepted PAR tended
+to decrease by the time of ﬂowering in B. humid-
+icola and B. dictyoneura . However, regression
+analysis of accumulated leaf yield vs PAR inter-
+ception for all species during vegetative growth
+(ﬁrst 4 weeks of regrowth), showed a mean value
+of 0.9 ± 0.1 g/MJ for B. brizantha, B. decumbens,
+B. humidicola and B. dictyoneura, compared with
+0.5 g/MJ in B. mutica (data not shown).
+N uptake and mineral concentration in the forage
+Since no differences were found in the pattern of
+N nutrition among species, all experimental data
+were included to produce the relationship shown
+in Figure 6. In all cases, the rate of N accumula-
+tion into aerial biomass per unit of DM yield was
+Figure 4.  Transmittance (T) of PAR (a) and the proportion of incident PAR (S) intercepted by the canopy (b) of
+5 Brachiaria species during a regrowth period of 45 days. Experimental data were ﬁtted by exponential and polynomial
+curves, respectively (see Table 2).
+(a)
+LAI (m2/m2)
+T (MJ/MJ)
+1
+0.8
+0.6
+0.4
+0.2
+0
+0 0.5 1 1.5 2 2.5 3 3.5 4
+B.dic.
+B.d.
+B.h.
+B.b.
+B.m.
+B. brizantha B. decumbens B. mutica B. humidicola B. dictyoneura
+(b)
+Time of regrowth (days)
+S (MJ/MJ)
+1
+0.8
+0.6
+0.4
+0.2
+0
+0 7 14 21 28 35 42 49
+B.b., B.m.
+B. brizantha B. decumbens B. mutica B. humidicola B. dictyoneura
+B.dic.
+B.h., B.d.
+03/05_05_Guenni et al.fm  Page 48  Friday, April 8, 2005  9:32 AM
+Growth and light use by Brachiaria 49
+always lower than the theoretical value expected
+for a C 4 grass. In all species, nitrogen concentra-
+tion decreased from around 1.9% at the begin-
+ning of the regrowth period to nearly 1% at
+Day 45 (Table 4). The species B. mutica  and
+B. brizantha  had higher (P=0.05) N concentra-
+tions than the remaining grasses from Day 7 to
+Day 22 (1.7–1.8%). Afterwards, N concentration
+in the forage was similar in all species. P and K
+concentrations within and among species varied
+during the regrowth period, 0.2–0.5% and
+1.3–2.9%, respectively (Table 4). In all cases,
+there was no clear relationship between P and K
+concentration and pasture age.
+Discussion 
+All grasses showed a similar dry matter
+accumulation pattern, with ﬁnal yields around
+2800–3500 kg/ha for a 6-week regrowth period.
+Both rainfall and temperature were considered
+very favourable for growth so there was contin-
+uous biomass accumulation and minimum plant
+senescence. These yields were similar to those
+reported in different agronomic evaluations
+carried out in neotropical savannas under
+medium-high fertility conditions (Mata 1989;
+Navarro et al. 1992; Pietrosemoli et al. 1996). 
+Estimation of absolute rates of regrowth gave
+values around 71–97 kg/ha/d. This range is
+similar to that obtained by Navarro et al. (1992)
+in B. humidicola  (82–92 kg/ha/d) for a period of
+42–70 days of regrowth, and the maximum value
+(101 kg/ha/d) reported by Tejo et al . (1985) in
+Dichanthium annulatum  after 2 months of
+regrowth. However, these values are well below
+1 Mean nutrient concentration at Day 45.
+2 Mean nutrient concentration at Day 7.
+Table 4 . Maximum ranges for nutrient (N, P and K) con-
+centrations (g/g dry weight × 100) in the forage biomass of
+5 Brachiaria species during the regrowth period and the mean
+range of variation among them.
+Species N P K
+B. brizantha 0.95 1–1.99 2 0.24–0.33 2.16–2.50
+B. decumbens 0.92–1.91 0.16–0.27 1.26–2.09
+B. dictyoneura 0.88–1.33 0.23–0.45 1.92–2.28
+B. mutica 0.84–2.83 0.28–0.37 2.10–2.89
+B. humidicola 0.97–1.39 0.28–0.40 1.63–1.78
+Mean range 
+of variation
+0.9–1.9 0.2–0.5 1.3–2.9
+1 Standard error of the estimate.
+Table 3 . Regression statistics for the equations (DM = b + εPAR) used to calculate the efﬁciency of PAR conversion into total
+above-ground biomass (εT), tiller biomass (εt) and leaf biomass ( εL) during the regrowth of 5 Brachiaria species.
+Total above-ground biomass 
+Species n b (±s.e.)1 ε (±s.e.) R2 P
+B. brizantha 6 3.06 (13.27) 1.25 (0.10) 0.98 0.0002
+B. decumbens 6 −6.43 (39.91) 1.44 (0.39) 0.78 0.0206
+B. dictyoneura 6 22.91 (26.83) 1.30 (0.25) 0.87 0.0068
+B. mutica 6 −31.83 (27.37) 1.49 (0.21) 0.93 0.0020
+B. humidicola 6 20.49 (11.32) 1.68 (0.11) 0.98 0.0001
+Tiller biomass 
+Species n b (±s.e.) ε (±s.e.) R2 P
+B. brizantha 6 −6.89  (4.70) 0.30 (0.04) 0.95 0.0011
+B. decumbens 6 −6.47 (22.78) 0.61 (0.22) 0.65 0.0521
+B. dictyoneura 6 −6.55 (16.21) 0.50 (0.15) 0.73 0.0307
+B. mutica 6 −26.30 (21.36) 1.01 (0.16) 0.91 0.0033
+B. humidicola 6 4.76 (10.79) 0.91 (0.11) 0.95 0.0011
+Leaf biomass
+Species n b (±s.e.) ε (±s.e.) R2 P
+B. brizantha 6 10.09 (11.80) 0.94 (0.09) 0.97 0.0005
+B. decumbens 6 3.10 (17.76) 0.79 (0.17) 0.84 0.0100
+B. dictyoneura 6 29.26 (20.59) 0.77 (0.19) 0.80 0.0167
+B. mutica 6 −4.58  (5.33) 0.46 (0.04) 0.97 0.0003
+B. humidicola 6 19.29 (11.30) 0.50 (0.11) 0.83 0.0113
+03/05_05_Guenni et al.fm  Page 49  Friday, April 8, 2005  9:32 AM
+50 O. Guenni, J.L. Gil and Y. Guedez
+Figure 5.  Relationship between accumulated plant biomass and cumulative intercepted PAR. a) Total above-ground
+(shoot) biomass; b) tiller biomass; and c) leaf biomass. Experimental data were ﬁtted by linear regressions (see Table 3). 
+(a)
+Cumulative intercepted PAR (MJ/m2)
+Total shoot biomass (g/m2) 400
+350
+300
+250
+200
+150
+100
+50
+0
+0 50 100 150 200 250
+B. brizantha
+B. decumbens
+B. mutica
+B. humidicola
+B. dictyoneura
+(b)
+Cumulative intercepted PAR (MJ/m2)
+Tiller biomass (g/m2)
+250
+200
+150
+100
+50
+0
+0 50 100 150 200 250
+B. brizantha
+B. decumbens
+B. mutica
+B. humidicola
+B. dictyoneura
+(c)
+Cumulative intercepted PAR (MJ/m2)
+Leaf biomass (g/m2)
+250
+200
+150
+100
+50
+0
+0 50 100 150 200 250
+B. brizantha
+B. decumbens
+B. mutica
+B. humidicola
+B. dictyoneura
+03/05_05_Guenni et al.fm  Page 50  Friday, April 8, 2005  9:32 AM
+Growth and light use by Brachiaria 51
+the potential yields ( i.e. 270–580 kg/ha/d) for C 4
+grasses (Monteith 1978; Piedade et al . 1991;
+Kubota et al. 1994). 
+Concentrations of P and K in the shoot bio-
+mass showed no apparent limitation for growth,
+since they were always above the critical levels
+reported by Rao et al . (1998) for these species.
+In the case of N, the overall mean value of
+1.4 ± 0.6% for the regrowth period is also similar
+to that reported for these and other forage
+grasses grown on infertile soils but with
+medium-high N fertilisation levels (Navarro
+et al . 1992; Pietrosemoli et al . 1996; Rao et al .
+1998; Pérez-Silva et al . 1999). However, the
+observed common pattern of N uptake by the
+grasses indicated an obvious low N availability
+for a given level of accumulated above-ground
+biomass (Cruz 1997). Theoretically, critical N
+concentrations for total forage yield in C 4
+grasses are above 2% (Lemaire et al . 1989;
+Greenwood et al . 1990). This may explain the
+lower absolute growth rates reported here when
+compared with the maximum values mentioned
+above. In savanna soils with low natural fertility,
+this critical N percentage is usually reached with
+only very high levels ( i.e. ≥ 200 kg/ha/yr) of N
+fertilisation (Pietrosemoli et al. 1996). Addition-
+ally, these Brachiaria species are reputed to be
+well adapted to soils with restricted N conditions
+(Rao et al . 1998), so we can only speculate
+whether growth and hence biomass accumulation
+in these species were strongly limited by
+N availability. 
+Differences in the pattern of leaf and tiller dry
+matter accumulation with time were related to
+growth habit. Thus, in the case of B. brizantha,
+more assimilates were devoted to leaves, so the
+pattern of above-ground biomass accumulation
+was very similar to that observed for leaves. This
+was supported by the higher leaf:tiller ratio
+observed in this species. In contrast, the high
+proportion of tillers and stolons in B. mutica
+meant that patterns of accumulation of above-
+ground biomass and tillers were similar. In
+B. humidicola  and B. dictyoneura , leaf produc-
+tion and hence LAI growth were reduced by initi-
+ation of ﬂowering. For these species, it is evident
+that ﬂowering induction may in some cases even
+reduce total biomass accumulation by the end of
+the growing period and consequently reduce
+potential forage production during this time
+of the year. Flowering induction may then be the
+reason for B. humidicola and B. dictyoneura
+producing relatively lower forage yields within
+the range observed in this study. Some Brachi-
+aria species are recognised as long-day plants so
+they usually ﬂower during the wet period in the
+neotropics (Hopkinson et al. 1998). 
+Similar yields in these forage grasses with
+different growth habits may be explained by the
+Figure 6.  Relationship between N uptake and above-ground biomass in 5 Brachiaria species ( /H17009) over 45 days of
+regrowth, and the theoretical optimal relationship for C4 plants ( /H17040) (Cruz 1997). 
+Above-ground biomass (t/ha)
+N uptake (kg/ha)
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+0 0.5 1 1.5 2 2.5 3 3.5 4
+y = 36x0.67
+y = 12.6x0.81   R2 = 0.98
+03/05_05_Guenni et al.fm  Page 51  Friday, April 8, 2005  9:32 AM
+52 O. Guenni, J.L. Gil and Y. Guedez
+interaction between biomass partitioning and
+light interception and use. Slow-growing species
+like B. humidicola  and B. dictyoneura  accumu-
+lated lower LAI (1.7–2.5), which was also associ-
+ated with more competition for assimilates by
+reproductive structures. However, these 2 species
+produced the same DM yield as B. decumbens
+and B. brizantha , which developed maximum
+LAI of 3.5–4.1. In this case, an increase in LAI
+was not directly related to higher radiation inter-
+ception due to the different light extinction
+coefﬁcients among the species. The lower LAI in
+B. humidicola and B. dictyoneura was apparently
+compensated for by a better vertical distribution
+of light within the canopy (0.3<k<0.5). This
+implies a pattern of mostly erect leaves and
+this feature is considered as the main reason for
+the high productivity in Pennisetum purpureum
+(Kubota et al . 1994). Light attenuation rate was
+very high (k = 0.8) in stands of B. mutica, which
+may be related to a high proportion of horizontal
+leaves. However, according to ﬁeld observations,
+this characteristic seemed not to be present, so
+the relatively high k value is perhaps explained
+by the presence of a large amount of stemmy
+material like stolons contributing to high light
+interception in this species. A huge proportion of
+non-photosynthetic structures can strongly
+increase k (Asner et al. 1998), so estimating light
+interception in these forage grasses may need
+more detailed measurements of radiation inter-
+ception by leaves. In the stoloniferous grass
+Digitaria decumbens, a k value of 0.87 was con-
+sidered high by Sinoquet and Cruz (1993) when
+compared with other grasses (0.5–0.6). Ludlow
+(1985) summarised information from other
+studies, where k values for C 4 grasses like
+Panicum maximum  var. trichoglume, Setaria
+sphacelata and D. decumbens  were 0.4–0.7, 0.6
+and 0.9, respectively. 
+The other physiological determinant of grass
+yield according to Equation 2 is ε. The range
+obtained in this study (1.3–1.7 g shoot dry
+matter/MJ PAR) was higher than the one reported
+for D. decumbens  at a low N supply (Sinoquet
+and Cruz 1993), but closer to 2.1 g/MJ when this
+species was cultivated in mixtures with forage
+legumes (Cruz and Sinoquet 1994). For forage
+grasses like P. maximum , B. decumbens  and
+D. aristatum , light use efﬁciency under fertilised
+and well watered conditions was 1.6–2.3 g/MJ
+(Wilson and Ludlow 1991; Cruz 1995).
+The range is still lower than the potential
+value (2.5–4.0 g/MJ) proposed for C 4 species
+under optimal growth conditions (Goose et al .
+1986; Sinclair and Muchow 1999). This again
+may be attributed to the low level of N nutrition
+experienced by these forage grasses. However, it
+is similar to more realistic values reported for
+other C 4 grasses (Sinclair and Muchow 1999),
+such as maize (1.6–1.7 g/MJ), sorghum
+(1.2–1.4 g/MJ) and sugar cane (1.8–2.0 g/MJ). 
+Though statistically similar among species,
+the relatively higher values for εT (1.5–1.7 g/MJ)
+found in B. humidicola  and B. mutica may have
+compensated for the lower LAI. In these species,
+equivalent ﬁnal yields in comparison with the
+other Brachiaria species were partially achieved
+by a higher efﬁciency of radiation conversion
+into tiller biomass. In B. brizantha, B. decumbens
+and to a lesser extent, B. dictyoneura , relatively
+lower εT values (1.3–1.4 g/MJ) were apparently
+compensated for by a greater εL which in turn
+resulted in a higher LAI growth and perhaps radi-
+ation interception for a given k value. A high LAI
+development was a consequence of a higher pro-
+portion of assimilates diverted into assimilatory
+tissue. In agronomic terms, a pasture containing a
+tufted grass such as B. brizantha , with a high
+leaf:stem ratio, is more suitable for grazing, since
+leaﬁness increases pasture intake and the amount
+of good quality forage to be ingested by the
+animal (Humphreys 1991). However, stolonif-
+erous grasses such as B. humidicola  and
+B. mutica , though having a lower L:T ratio
+and hence less feeding value for livestock, may
+be able to withstand intensive grazing by having
+a great number of meristems well below bite
+height. 
+We concluded that, under N-limiting condi-
+tions, an apparent compensatory effect between
+radiation interception efﬁciency and ε resulted in
+similar ﬁnal yields among these forage grasses. 
+Acknowledgements
+This study was partially ﬁnanced by the Council
+of Scientiﬁc and Humanistic Development
+(CDCH) of the Universidad Central de
+Venezuela, under the scope of the Project number
+01/31/3477/99. Nutrient concentrations in plant
+material were determined at the Nutrition
+Laboratory of INIA-CENIAP, Maracay.
+03/05_05_Guenni et al.fm  Page 52  Friday, April 8, 2005  9:32 AM
+Growth and light use by Brachiaria 53
+References
+ASNER, G.P., W ESSMAN, C.A. and A RCHER, S. (1998) Scale
+dependence of absorption of photosynthetically active radia-
+tion in terrestrial ecosystems. Ecological Applications , 8,
+1003–1021.
+BLACK, C. and ONG, C. (2000) Utilization of light and water in
+tropical agriculture. Agricultural and Forest Meteorology ,
+104, 25–47.
+CHARLES-EDWARDS, D.A. (1982) Physiological Determinants
+of Crop Growth. (Academic Press: Sydney).
+CHARLES-EDWARDS, D.A., DOLEY, D. and RIMMINGTON, G.M.
+(1986) Modelling Growth and Development . (Academic
+Press: Sydney).
+CRUZ, P.A. (1995) Use of the RUE concept for analysing
+growth of pure and mixed tropical forage crops. In:
+Sinoquet, H. and Cruz, P. (eds) Ecophysiology of Tropical
+Intercropping. pp. 319–329. (INRA: Paris).
+CRUZ, P. (1996) Growth and nitrogen nutrition of a Dichantium
+aristatum pasture under shading. Tropical Grasslands , 30,
+407–413.
+CRUZ, P. (1997) Effect of shade on the growth and mineral
+nutrition of a C 4 perennial grass under ﬁeld conditions.
+Plant and Soil, 188, 227–237.
+CRUZ, P.A. and SINOQUET, H. (1994) Competition for light and
+nitrogen during a regrowth cycle in a tropical forage mix-
+ture. Field Crops Research, 36, 21–30. 
+GOSSE, G., V ARLET-GRANCHER, C., B ONHOMME, R.,
+CHARTIER, M., A LLIRAND, J.M. and L EMAIRE, G. (1986)
+Production maximale de matiére séche et rayonnement
+solaire intercepté par un couvert. Agronomie, 6, 47–56.
+GREENWOOD, D.J., L EMAIRE, G., G OSSE, G., C RUZ, P.,
+DRAYCOTT, A. and N EETESON, J.J. (1990) Decline in per-
+centage N of C 3 and C 4 crops with increasing plant mass.
+Annals of Botany, 66, 425–436.
+HOPKINSON, J.M., D E SOUZA, F.H.D., D IULGHEROFF, S.,
+ORTIZ, A. and S ÁNCHEZ, M. (1998) Fisiología Reproduc-
+tiva, Producción de semilla y Calidad de la semilla en
+el Género  Brachiaria . In: Miles, J.W., Maass, B.L. and
+do Valle, C.B. (eds)  Brachiaria: Biología, Agronomía y
+Mejoramiento. pp. 136–155. (CIAT: Cali). 
+HUMPHREYS, L.R. (1991) Tropical Pasture Utilization . (Cam-
+bridge University Press: Cambridge).
+JEUFFROY, M.H. and NEY, B. (1997) Crop physiology and pro-
+ductivity. Field Crops Research, 53, 3–16.
+KUBOTA, F., M ATSUDA, Y., AGATA, W. and N ADA, K. (1994)
+The relationship between canopy structure and high produc-
+tivity in napier grass, Pennisetum purpureum  Schumach.
+Field Crops Research, 38, 105–110.
+LEMAIRE, G., G ASTAL, F. and S ALETTE, J. (1989) Analysis of
+the effect of N nutrition on dry matter yield of a sward by
+reference to potential yield and optimum N content. Pro-
+ceedings of the XVI International Grassland Congress, Nice,
+1989. pp. 179–180.
+LUDLOW, M.M. (1985) Photosynthesis and dry matter
+production in C 3 and C 4 pasture plants, with special
+emphasis on tropical C 3 legumes and C 4 grasses. Australian
+Journal of Plant Physiology, 12, 557–572.
+LUDLOW, M.M. and C HARLES-EDWARDS, D.A. (1980)
+Analysis of the regrowth of a tropical grass/legume sward
+subjected to different frequencies and intensities of defolia-
+tion. Australian Journal of Agricultural Research , 31,
+673–692.
+MADDONNI, G.A. and O TEGUI, M.E. (1996) Leaf area, light
+interception, and crop development in maize. Field Crops
+Research, 48, 81–87.
+MATA, P.D. (1989) Rendimiento y composición química de
+seis gramíneas introducidas en una sabana del sureste del
+Estado Guárico. Zootecnia Tropical, 6, 69–92.
+MONTEITH, J.L. (1972) Solar radiation and productivity in
+tropical ecosystems. Journal of Applied Ecology , 9,
+747–766.
+MONTEITH, J.L. (1977) Climate and the efﬁciency of crop
+production in Britain. Philosophical Transactions of the
+Royal Society, London, Britain, 281, 277–329.
+MONTEITH, J.L. (1978) Reassessment of maximum growth
+rates for C 3 and C 4 crops. Experimental Agriculture , 14,
+1–5.
+MUCHOW, R.C., S PILMAN, M.F., W OOD, A.W. and
+THOMAS, M.R. (1994) Radiation interception and biomass
+accumulation in a sugarcane crop grow under irrigated
+tropical conditions. Australian Journal of Agricultural
+Research, 45, 1–13. 
+NAVARRO, L., V ÁSQUEZ, D. and T ORRES, A. (1992) Efecto
+de la dosis de nitrógeno y la edad en el rendimiento, tasa de
+acumulación de materia seca y en el valor nutricional
+del pasto Brachiaria humidicola.  Zootecnia Tropical , 10,
+65–86.
+PÉREZ-SILVA, G., M ÁRMOL-FARIA, J. and G ONZÁLEZ, B.
+(1999) Evaluación agronómica de gramíneas forrajeras en
+Carora, estado Lara, Venezuela. Revista de la Facultad de
+Agronomía (LUZ), 16, 621– 636.
+PIEDADE, M.T. M., LONG, S.P. and JUNK, W.J. (1991) The pro-
+ductivity of the C 4 grass Echinochola polystachya  on
+the Amazon ﬂoodplain. Ecology, 72, 1456–1463.
+PIETROSEMOLI, S., G ERARDO, L. and V ILLALOBOS, N. (1996)
+Respuesta del pasto Bracharia brizantha  a la fertilización
+nitrogenada. Revista de la Facultad de Agronomía (LUZ) ,
+13, 551–560.
+RAO, I.M., K ERRIDGE, P.C. and M ACEDO, M.C.M. (1998)
+Requerimientos nutricionales y adaptación a los suelos
+ácidos de especies de Brachiaria. In: Miles J.W., Maass,
+B.L. and do Valle, C.B. (eds)  Brachiaria: Biología,
+Agronomía y Mejoramiento. pp. 58–78. (CIAT: Cali). 
+ROBERTSON, M.J., W OOD, A.W. and M UCHOW, R.C. (1996)
+Growth of sugarcane under high input conditions in tropical
+Australia. I. Radiation use, biomass accumulation and parti-
+tioning. Field Crops Research, 48, 11–25.
+SAS INSTITUTE (1989) SAS/STAT™. Guide for personal com-
+puters. Version 7. (SAS Institute Inc.: Cary, NC).
+SINCLAIR, T.R. and M UCHOW, R.C. 1999. Radiation use efﬁ-
+ciency. Advances in Agronomy, 65, 215–265.
+SINOQUET, H. and C RUZ, P. (1993) Analysis of light intercep-
+tion and use in pure mixed stands of Digitaria decumbens
+and Arachis pintoi. Acta Ecológica, 14, 327–339.
+SQUIRE, G.R. (1990) The Physiology of Tropical Crop
+Production. (CAB International: Wallingford).
+TEJO, R., M UÑOZ, A. and S EQUERA, R. (1985) Efecto de
+nitrógeno y fósforo sobre el rendimiento y valor nutritivo
+del pasto tejano ( Dichanthium annulatus Stap f) en sabanas
+bajas de Portuguesa, Venezuela. Zootecnia Tropical , 3,
+63–80.
+WILSON, J.R. and L UDLOW, M.M. (1991) The environment
+and potential growth of herbage under plantations. In:
+Shelton, H.M. and Stür, W.W. (eds) Forage for Plantation
+Crops. pp. 10–24. ACIAR Proceedings No 32 .
+(Received for publication November 12, 2003; accepted August 11, 2004)
+03/05_05_Guenni et al.fm  Page 53  Friday, April 8, 2005  9:32 AM

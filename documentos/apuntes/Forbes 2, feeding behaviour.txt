@@ -1,0 +1,1036 @@
+=== Fuente: Forbes 2, feeding behaviour.PDF ===
+
+2 Feeding Behaviour
+The term ‘feeding behaviour’ generally refers to meal-taking activity, in which
+the time (and weight) of each meal is monitored. However, it can also
+encompass events within a meal and the number, frequency and size of
+individual bites have been monitored and, in some cases, at an even ﬁner
+scale, the movement of the head and mouth during a bite have been recorded.
+Monitoring and analysing feeding behaviour are areas of considerable
+scientiﬁc activity, but their importance in understanding and predicting food
+intake and selection over longer periods, e.g. a day, is dubious. While the weight
+of food eaten over periods of a few days can be related to such factors as the
+animal’s nutrient requirements and the composition of the food, there is very
+considerable variation in biting and meal-taking activity during the course of a
+day, even between similar individuals within a group. Many factors affect feeding
+behaviour, including the degree of competition for food and environmental
+variables – the weather and management system – without having major impacts
+on food intake over periods of several days.
+An example of this disparity between feeding behaviour and long-term
+food intake is shown in Fig. 7.9, in which it can be seen that daily choices of a
+cow ﬂuctuate markedly, while weekly intake is very stable. If our interest is
+primarily in farm animal production, then feeding behaviour may simply be a
+distraction and, even if it is important in the physiological control of meals,
+then we need to know how short-term variations in intake can be cumulated
+into long-term consistency.
+The justiﬁcation for monitoring feeding behaviour is, on the one hand, to
+allow measurement of daily intake in situations in which it cannot be measured
+directly (e.g. group housing, see below) and, on the other, to satisfy curiosity
+and with the hope of gaining understanding about the factors controlling intake
+over periods of a day or more.
+12 © J.M. Forbes 2007.Voluntary Food Intake and Diet Selection  
+in Farm Animals 2nd Edition (J.M. Forbes)
+Monitoring Individual Feeding Behaviour
+This has traditionally been carried out by many hours of patient observation,
+noting at regular intervals whether or not each animal is eating, ruminating,
+standing, etc. While there is no substitute for this in terms of learning about
+animal behaviour, and certain types of behaviour are not amenable to
+quantiﬁcation in any other way, this method suffers from two major drawbacks:
+it is very time-consuming (this can be overcome to some degree by video
+recording and observing the playback at a fast speed) and it does not provide
+information on the weight of food eaten, but only on the timing of meals.
+Automated systems
+Comprehensive data can be collected by continuous automatic recording of the
+weight of the food container. If the weight is static the animal is not eating. The
+duration of a meal is signalled by frequent oscillations in the weight of the
+container as it is disturbed by the animal’s head; the weight of food eaten
+during that meal is the difference between the weights before and after the
+meal. It is often possible to obtain intermediate weights during a meal when the
+animal is not touching the container and thereby to determine the rate of
+eating at different stages during the meal.
+In fully automated systems used at Leeds University, UK, for sheep, pigs and
+chickens, each balance is programmed to transmit continuously the weight as a
+string of digits through a multiplexer to a PC. Each time a weight is obtained it is
+compared with the previous weight from that balance. If there has been no
+change then it is initially assumed that the animal is not eating; if previously the
+animal was eating then a potential end of meal is stored. However, in case this is
+just a pause in a meal, a series of stable weights over the period required for an
+inter-meal interval is necessary to conﬁrm that the meal has indeed ended.
+If, on the other hand, there is a difference between two successive weights
+on the same balance, then the animal is detected as eating; if this follows a
+period of stable, i.e. non-eating, weights, then the start of a meal is signalled.
+Each pen or cage can be provided with more than one weigher, so that the
+intake of two or more different foods and water can be monitored.
+Operant conditioning
+In the systems just described, the animal has free access to the food; an
+alternative is to teach the animal to ‘work’ for a reward of food (reinforcement)
+by pressing a button (response), a technique known as operant conditioning
+(pigs and sheep, Baldwin, 1979; chickens, Clifton, 1979; cattle, Matthews and
+Kilgour, 1980). The number of responses the animal has to make before a
+reward is given (the reinforcement schedule) can be increased in order to see
+how strong is its desire for food. The use of operant conditioning techniques
+ensures that the animal eats only when it has a deﬁnite urge to do so, and not
+Feeding Behaviour 13
+simply when it happens to ﬁnd itself near to food. The apparatus used to
+control the reinforcement schedule can easily be adapted to keep a record of
+the timing of responses for subsequent analysis of meal occurrence.
+Perhaps operant conditioning, in which the animal has to ‘work’ for food,
+might be a method of avoiding the social eating so often seen when animals
+are penned in sight of each other – one animal’s eating often triggers that of
+another when the second would not have otherwise taken a meal at that time,
+thus confounding a strict ‘physiological’ experimental design. It must be
+recognized, however, that single conﬁnement may induce abnormal behaviour.
+Savory (1989) has suggested that having to do a moderate amount of work for
+food avoids eating from boredom and gives more natural patterns of feeding
+under laboratory conditions.
+Monitoring of jaw movements
+The timing of eating and ruminating can be monitored by means of a small
+balloon or a pressure transducer held on the animal’s lower jaw by means of a
+bridle. In the upper half of Fig. 2.1 can be seen patterns typical of eating,
+showing both long and short timescales. At the left, eating bouts can be seen
+while at the right the individual jaw movements are clear and allow
+differentiation to be made between prehension (1) and mastication (2). In the
+lower part of the ﬁgure can be seen rumination jaw movements, at low and
+high resolution, the latter demonstrating the very regular movements compared
+with the irregularities of eating. Some progress has been made in analysing
+such records by computer (S.M. Rutter, personal communication).
+Monitoring Feeding Behaviour in Groups
+The relatively simple methods available for automatically recording the meals
+taken by individuals penned by themselves are not all suitable for monitoring
+14 Chapter 2
+Fig. 2.1. Recordings of traces of jaw movements of sheep using a small foam-ﬁlled balloon
+in the submandibular space connected to a pressure transducer (from Jarridge et al., 1995).
+the behaviour of individuals in a group. Observation, either direct or by video
+recording, is still possible for animals in groups when individuals can be
+identiﬁed by sight. With modern electronic equipment, recognition of
+individuals is possible and a food dispensing system can identify animals and
+record the amount of food eaten by each individual. Such systems are
+available commercially for the recording and/or control of the concentrate
+allowance to individual dairy cows kept in groups (out-of-parlour dispensers)
+and for groups of growing pigs for genetic selection purposes on breeding
+farms. While these systems are suitable for pelleted foods, they cannot be used
+to dispense long roughages.
+Full details of meal patterns of forages by individuals in a group can be
+monitored by continuous automatic weighing of the box containing the food,
+with animals identiﬁed as they eat by means of transponders worn on their ear
+tags or collars. An example is that developed by Forbes et al. (1986), in which
+cows wear collars with transponders of the type available commercially for
+identiﬁcation in the milking parlour or at out-of-parlour concentrate dispensers.
+The food is placed in boxes mounted on top of load platforms which are
+capable of weighing to the nearest 0.1 kg. Both food weighing and
+identiﬁcation systems are multiplexed to a PC with software to collect meal
+patterns at each weigher and also for each cow. A controlled-entry, solenoid-
+controlled door can be provided for each feeder (e.g. a Calan ® door), which
+allows certain animals to be prevented from eating from some or all of the food
+boxes for some or all of the day.
+Thus, it is possible to have a group of animals, managed as a herd, in which
+different individuals have access to different foods; it is also possible to restrict
+animals to eating within given periods of the day and/or to predetermined
+weight of food(s). Figure 2.2 illustrates an example of the feeding pattern of one
+cow obtained using this system (known as the LUCIFIR system).
+Other systems have been developed elsewhere (e.g. Insentec, http://www.
+insentec.nl/). Equipment such as this is expensive but yields a very large amount of
+detail about feeding behaviour; it also allows animals to be kept in groups for the
+measurement of intake and thus avoids the likely effects of individual conﬁnement.
+In addition to its use for research, it is being used by breeding companies to enable
+the intakes and thus efﬁciencies of individual animals to be used in the selection
+index. Several pig breeding companies are using automated food intake recording
+systems to monitor daily intakes of individual pigs kept in a group.
+We have recently developed a system (Leeds University Pig Intake System,
+LUPINS) for monitoring feeding of weaned piglets, in which small weighed food
+hoppers are suspended from electronic balances alongside which are antennae for
+detection of piglet identity from transponders carried in their ear tags. Figure 2.3 is
+a diagram of the system, while Fig. 2.4 is a photograph showing the feeders in a
+pen of pigs. The output is similar to that for the bovine system, but the advantage
+of using commercial digital balances is that they provide an additional signal
+(stable/unstable) that assists in the analysis of the data; sometimes animals change
+so quickly at a given feeder that it is impossible to obtain a stable weight. In this
+case, an ‘unstable’ signal accompanies the weight, which can then be ‘corrected’
+(i.e. the best estimate calculated) during the subsequent analysis phase.
+Feeding Behaviour 15
+16 Chapter 2
+Fig. 2.2. An example of the meals of silage and concentrates and the drinks of water taken
+by a lactating dairy cow during a 24-h period using the LUCIFIR system (D.A. Jackson, J.M.
+Forbes and C.L. Johnson, unpublished results). S, meals of silage; C, meals of concentrates;
+U, visits to the concentrate dispenser that go unrewarded as the requisite time since last
+dispensation has not elapsed; D, drinks of water; E, visits to the concentrate dispenser that
+go unrewarded as the daily allowance has been exhausted.
+Fig. 2.3. Diagram of side view of a LUPINS feed station for young pigs.
+Analysis of Meal Data
+Reduction of meal data: calculation of inter-meal interval
+Typically, the data generated by automatic recording systems are of the form:
+(i) animal identity; (ii) serial number of feeding station; (iii) times of start and
+end of meal; and (iv) weights of start and end of meal, with each meal forming
+a record in a computer ﬁle. These data can be manipulated by statistical
+analysis programs, by purpose-written software or by means of a spreadsheet
+or database program. Calculation of total intake per day or during particular
+periods of the day is straightforward, as is calculation of inter-meal interval, rate
+of eating, hunger and satiety ratios.
+However, it is ﬁrst necessary to consider ‘When is a meal not a meal?’ Animals
+invariably take short pauses during a meal and these must be differentiated from
+the longer gaps between separate meals. Sometimes an arbitrary period has been
+used. However, examination of the frequency distribution of inter-meal intervals
+often shows that these intervals form two distinct populations. In several species of
+bird, for example, intervals of more than a few minutes between feeding bouts are
+distributed in the form of negative exponentials, implying that there is a constant
+probability of a meal starting. However, the shortest intervals between meals do not
+follow this pattern and can be regarded as breaks in a meal, rather than true
+intervals between meals.
+Feeding Behaviour 17
+Fig. 2.4. Piglets in pen with four-station feed monitoring system. Balances are protected by a
+lid and feeding apertures are adjusted according to the size of pigs with masks, through
+which the feed hoppers can be seen.
+Duncan et al. (1970) plotted the frequency distribution of inter-meal
+intervals for domestic fowl and noted that there were far more intervals of /H11088 2
+min than would be predicted from the negative exponential of the rest of the
+data, and 2 min was therefore adopted as the minimum inter-meal interval. For
+lactating cows fed grass silage at the Leeds University farm, the critical inter-
+meal interval was found to be close to 7 min (Forbes et al. , 1986), and this
+varied little between animals or with season or physiological state of the cows.
+However, these approaches to deﬁning meals have been seriously questioned
+by Tolkamp and colleagues (1998c), based on the convincing argument that if
+meals are satiating then the probability of an animal starting to eat again after a
+meal should initially be low, but then increase as the satiating properties of the
+meal decline. Thus, there would be a large number of short (within-meal) intervals
+and a large number of long (inter-meal) intervals, with relatively few of
+intermediate length. They tested this proposition with data collected from 16 dairy
+cows and compared the following methods of deriving the inter-meal interval
+(Tolkamp and Kyriazakis, 1999):
+● ‘Broken stick’ (two straight intersecting lines, both with a negative slope) to
+the frequency distribution.
+● Log(e)-transformed cumulative frequency distribution (the log-survivorship
+curve).
+● Log(e)-transformed frequency distribution.
+● Two Gaussians ﬁtted to the frequency distribution of log-transformed
+interval length (log-normal models).
+● Three Gaussians ﬁtted to the frequency distribution of log-transformed
+interval length (log-normal models).
+They found that the frequency of intervals to visits to feeders was much
+better described by two log-normal distributions than by a random probability.
+Inter-meal interval was estimated as 1.9, 6.0, 7.5, 32.4 and 49.1 min by these
+methods, respectively, while meal number was between 5.7 and 12.1/cow/day
+and meal size from 4.0 to 8.4 kg. The two log-normal models ﬁtted the data
+most closely, and it can be concluded that they are the most useful for
+estimating meal criteria in cattle and probably in other species as well.
+It was noted that there was a small third peak, seen as an irregularity on
+the descending part of the ﬁrst, and this was traced to intervals between meals
+and drinks, which often occur in close association. Inclusion of a third
+distribution representing these intervals – including drinking – gave an even
+better ﬁt than the two-peak model (Tolkamp and Kyriazakis, 1999). These three
+segments of the relationship can be seen in Fig. 2.5, which was generated from
+almost 80,000 pauses between automatically recorded meals of dairy cows
+offered completed foods. They represent: (i) intra-meal pauses; (ii) intervals
+between eating and drinking; and (iii) true inter-meal intervals. Once the critical
+inter-meal interval has been determined or estimated for the animal(s) in
+question, raw meal data can be merged into ‘true’ meals.
+This log-normal approach has been used for growing pigs by Morgan et al.
+(2000a), who analysed visits to feeders by 16 individually housed growing pigs for
+35 days. Intervals between visits were described by two log-normal distributions,
+18 Chapter 2
+as described for cows, above. For all the animals, the mean intra-meal interval was
+11.2 s and the mean inter-meal interval was 110.1 min; the critical interval
+separating the two types of intervals was 1.29 min. The three-Gaussian model
+gave an improved ﬁt to the interval distribution and an estimate of the inter-meal
+criterion of 2.78 min. Although this was more than twice the criterion from the
+two-Gaussian model, this has little effect on the number (approximately 14/day)
+and size of meals as there are relatively few intervals in this part of the distribution
+– most intervals are short (< 30 s) or long (> a few min). The probabilities of
+meals of these pigs starting were different between daytime and night-time
+(Morgan et al. , 2000b), so that pooling data for all times of the 24-h cycle
+introduces a false appearance of randomness.
+Meal Patterns
+Farm animals feed in discrete meals and considerable effort has gone into
+trying to discover what causes them to start and stop eating, on the premise
+that if we understand this then we will understand how food intake is
+controlled. However, despite the discovery of numerous factors that inﬂuence
+meal onset and cessation, we have to take on board the fact that intakes over
+Feeding Behaviour 19
+Fig. 2.5. Observed frequencies of inter-meal intervals for lactating cows offered
+concentrate/silage mixtures (●) and probability density functions for the three-Gaussian
+curves (––), with their summation (––) (from Tolkamp and Kyriazakis, 1999).
+longer periods are invariably much more stable than those over short periods
+of one or a few meals. Stability of intake over several days is observed in the
+face of extreme variability of meal size and interval.
+This is shown nowhere more clearly than in the results of Savory (1989),
+from a study in which chickens were trained to respond in order to obtain
+access to food. As the number of pecks required for access (the ﬁxed ratio, FR)
+was increased, so the meal size increased, the number of meals decreased and
+the rate of eating increased, but the daily intake of food remained stable
+(except at the very high FR of 160) (see Fig. 2.6).
+Nevertheless, meal size and inter-meal interval must be co-controlled in order
+that daily intake be regulated, and there has been considerable speculation as to
+which of these is modiﬁed. Are meals initiated at random and their size controlled,
+or is the interval between meals controlled by the size of previous meal(s)? These
+questions will be addressed below in a discussion of hunger and satiety ratios.
+Even when the food, the environment and the animal itself do not change
+signiﬁcantly, there can be considerable differences in the patterns shown by
+different individuals, even when conditions are similar (e.g. Barrio et al., 2000).
+Clearly, variability in meal patterns is enormous and its analysis features in
+studies of feeding behaviours (below), as well as in the use of feeding
+parameters in animal breeding programmes (see Chapter 15).
+It has been suggested that grazing animals are not meal-eaters because they
+often seem to spend most of the day eating. This is because the slow rate at
+which they can harvest herbage means that they have to take very long meals in
+order to try to satisfy their hunger but, with more easily harvested foods, where
+the rate of eating easily outpaces the rate of utilization of nutrients, meals are
+20 Chapter 2
+Fig. 2.6. Food intake (♦, g/day), time spent eating (/H18546, min/day), meal size (/H17073, g) and number
+of meals per day (●) for chickens with different numbers of pecks required to gain access to
+food (from Savory, 1989).
+Feeding Behaviour 21
+discrete. Our assumption is that the various classes of farm animal, ruminant and
+non-ruminant, have similar basic mechanisms of controlling their food intake,
+although differences in anatomy and metabolism that have evolved to suit them
+for particular niches have resulted in emphasis on different mechanisms in
+different species and in different physiological states.
+The study of feeding behaviour has been given a great boost by the
+development of automated methods of monitoring meal timing and weights,
+described above. While the primary purpose of such methodology is to allow
+daily intakes of food by individual animals kept in a group to be monitored, it
+has resulted in some development of our understanding of feeding behaviour.
+Movement between feed stations
+When housed in groups with access to several food hoppers, animals usually
+move between feeders during a meal. To what extent should this be taken into
+account in determining meal occurrence? Tolkamp et al. (2000) analysed visits
+to feeders by cows offered two foods of differed protein content and those with
+access only to one of the two foods. Single-visit characteristics were poorly
+correlated with daily intake and the probability of cows ending a visit did not
+change greatly with visit length.
+Visits were then grouped into meals according to the log-normal model
+described above; neither inter-meal interval (44.7 +/– 2.1 min), meal duration
+(36.9 +/– 1.3 min) nor daily number of meals (6.1 +/– 0.1) were affected by
+treatment, and the probability of cows ending and starting a meal increased with
+meal length and interval between meals, as predicted by the satiety concept. It
+can safely be concluded, therefore, that it is meals rather than visits to feeders
+that are the more meaningful description of short-term feeding behaviour.
+Statistical Analysis of Meal Data
+Various ways of analysing meal pattern data are discussed by Panksepp (1978).
+This section covers some of the more commonly used methods.
+Univariate analyses
+Methods such as t-test and analysis of variance have usually been used to
+compare means of parameters such as daily intake, meal size and rate of eating.
+However, because many feeding characteristics, such as meal duration, meal
+size and inter-meal interval, are inter-correlated, the use of univariate tests for
+each variable is likely to yield some false signiﬁcant differences. It is, therefore,
+often advisable to use multivariate methods of analysis. Where intake has been
+measured at several intervals during and after an experimental treatment, the
+intakes during each time interval should be analysed rather than cumulative
+intakes (Fitts, 2006).
+Multivariate analyses
+These methods include multiple analysis of variance, discriminant analysis and
+multiple regression analysis, in which more than one meal-related variable can
+be included. This is a complex area of statistical analysis (see Geiselman et al.,
+1980, for examples).
+Sometimes, to reduce the huge amount of data collected by automatic
+systems, calculations are made of mean meal size and inter-meal interval.
+When done for whole days this disguises the fact that there is a circadian
+rhythm of feeding behaviour, so the day can be divided into periods of, say,
+4 h and means calculated for each period (Forbes et al., 1989).
+Figure 2.7 shows the number of meals, meal size and rate of eating by
+sheep during the six 4-h periods of the day during late pregnancy, lactation and
+after weaning. The number of meals/4 h declined from the time when fresh
+food was offered, as did meal size. However, rate of eating did not differ
+between different periods of the day. The increase in total food intake between
+pregnancy and lactation was due to an increase in meal numbers, while the
+slight fall in intake after weaning was due to fewer meals of larger size than in
+lactation, eaten at a faster rate.
+22 Chapter 2
+1000
+600
+500
+400
+200
+0
+Food intake (g/4 h)
+No. of meals (/4 h)
+1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6
+1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 61 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6
+Period of day
+Physiological status
+Pregnant     Lactating     Weaned
+Pregnant    Lactating     Weaned
+1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6
+Pregnant    Lactating     Weaned
+Pregnant     Lactating     Weaned
+(a) (b)
+(d)(c)
+10
+8
+6
+4
+2
+0
+Rate of eating (g/min)
+40
+30
+20
+10
+0
+Meal size (g)
+150
+120
+90
+60
+30
+0
+Fig. 2.7. (a) Food intake, (b) meal numbers, (c) meal size and (d) rate of eating by pregnant,
+lactating and weaned ewes during different periods of the day (from Forbes et al., 1989).
+Feeding Behaviour 23
+Forbes et al . (1989) conﬁrmed that feeding behaviour of ewes was
+markedly affected by physiological state using discriminant function analysis,
+which showed that there was very little overlap between pregnancy, lactation
+and weaning in the characteristics of eating as described by total daily intake,
+rate of eating, meal weight, number of meals, satiety ratio and time spent
+eating.
+Division of the day into arbitrary periods is an artiﬁcial procedure, and
+methods that adopt a more continuous approach have been developed.
+Deswysen et al. (1989) used Fourier analysis to extract rhythms from meal
+patterns recorded from heifers offered maize silage. There were large and
+consistent cycles with phases of 24, 12 and 8 h; the authors speculate about
+the physiological signiﬁcance of these rhythms, but only the 24-h cycle is
+clearly explicable as it is related to the diurnal light cycle and the daily offering
+of fresh food.
+Barrio et al. (2000) noted that individual water buffalo had different
+feeding patterns but that any one animal had a similar pattern on consecutive
+days. They used cluster analysis to characterize these patterns and saw that the
+ﬁrst meal after fresh food (hay) had been offered was longer and heavier than
+subsequent meals.
+Hunger and satiety ratios
+Close correlation between the size of meals and the length of the preceding
+inter-meal intervals implies that there is a mechanism that determines when
+feeding should stop, i.e. that satiety mechanisms predominate. If, on the other
+hand, there is a signiﬁcant correlation between meal size and post-meal
+interval, this implies that there is a mechanism for determining when feeding
+should start, i.e. a hunger mechanism. The hunger ratio has usually been found
+to be more important than the satiety ratio in chickens, as in rats. It has been
+suggested that using a ﬁxed schedule operant situation gives more ‘normal’
+feeding patterns with more reliable hunger ratios. In cattle, Metz (1975) found a
+positive correlation between meal size and the length of the pre-meal interval,
+as did Baile (1975) with sheep offered a 0.6 concentrate:0.4 forage mixture,
+i.e. the hunger ratio was thought to be more useful than the satiety ratio.
+Note, however, that statistically signiﬁcant ratios between meal weight and
+prior or subsequent intervals might be a consequence of using inappropriate
+inter-meal intervals. If arbitrarily deﬁned inter-meal criteria are used that are
+shorter than the ‘true’ biologically deﬁned interval (as in the two examples cited
+immediately above), there will be many small meals separated by short
+intervals, which will give closer correlations between meal size and pre- or
+postprandial interval than if the more biologically meaningful interval is used. It
+is important, therefore, that a method with biological integrity be used for the
+calculation of inter-meal intervals if false conclusions are not to be drawn from
+data on feeding behaviour.
+In Tolkamp’s observations, lengths and weights of meals by cows were
+distributed according to negative exponentials, suggesting that the termination of
+meals was largely random and not tightly controlled by the animal reaching a
+threshold level of satiety. Although statistically signiﬁcant, pre- and postprandial
+correlations were associated with very small proportions of the variation in meal
+size (Tolkamp et al. , 2002). Preprandial correlations, although low ( r ≈ 0.12)
+were about four times higher than postprandial correlations. This is a sign that
+feeding behaviour is determined more by satiety than by hunger mechanisms,
+and means that cows manage their daily intake by means other than inter-meal
+interval, i.e. feeding behaviour is ﬂexible but, the longer the time over which
+meals are summed, the more stable and predictable is intake. Therefore,
+detailed studies of feeding behaviour are of little direct help in improving our
+understanding of what physiological mechanisms underlie the control of
+voluntary food intake on a longer timescale.
+Description of Feeding Behaviour and its Development
+In this chapter we do not describe in detail the many and various methods
+animals use to harvest food. The book by Fraser and Broom (1997) gives a
+useful introduction to feeding behaviour, while considerable detail of the
+feeding process can be found in that edited by Bels (2006). It is, however,
+appropriate to describe brieﬂy some of the main features.
+Poultry
+For the ﬁrst 2 days after hatching, chicks are not dependent on eating food as
+they have sufﬁcient reserves from the yolk sac. In the ﬁrst few hours they eat
+little or nothing, although they are exploring their environment and pecking at
+small, round objects.
+Chickens peck jerkily at food items, pick up the grain in their beak and
+then lift the head back before swallowing (see Appleby et al. , 1992b for a
+detailed description of feeding behaviour in poultry). Yo et al. (1997a) provide
+very detailed studies based on high-speed video recording and Picard et al.
+(2000) follow this up with further observations that demonstrate the rapid
+learning of day-old chicks to associate nutritional effects with the sensory
+properties of the food, based on both their visual and tactile senses.
+A novel analytical technique has been applied to describe the patterns of
+activity during pecking at food by chicks, in which hidden (i.e. not obvious to
+the human observer) time patterns of behaviours not randomly distributed in
+time are exposed (Martaresche et al., 2000). It was seen that some pecking at
+food is organized in regular patterns while other pecking, which increases when
+the physical form of the food is changed, is not so organized. It was suggested
+that the latter might be a way in which the chick gathers information about
+novel foods.
+Isolated birds feed in frequent, brief bouts from which it is difﬁcult to deﬁne
+a meal (Kaufman and Collier, 1983). However, when the cost of feeding is
+24 Chapter 2
+increased, chickens exhibit similar patterns of feeding to mammals, and similar
+functional relations between foraging cost, meal frequency and meal size, i.e.
+meal frequency and, eventually, daily intake, decline with increasing difﬁculty
+of obtaining food. The authors conclude that: ‘Meal patterns do not reﬂect
+momentary ﬂuctuations in the internal environment; rather, they appear to be a
+behavioural device that animals adjust to exploit the available resources in their
+current habitat efﬁciently’. Savory (1989) has suggested that feeding behaviour
+should be studied in conditions where birds have to do a modest amount of
+work to get food, as this provides more clearly deﬁned meals than when food is
+easily available all the time.
+Although broiler chickens eat almost twice as much as layers of the same
+age, they spend only half as much time eating and take more meals of shorter
+duration (Masic et al., 1974).
+Feeding data of poultry have not yet been subjected to the rigorous
+analytical methods of Tolkamp and colleagues to deﬁne the critical inter-meal
+interval. However, analysis of a modest amount of data – from 11 individually
+caged male chicks of a layer strain, 9 weeks of age with an average body
+weight of 1115 g – has been performed (Hannah, 2001, using data from M.
+Picard). The food provided 13.0 MJ ME and 190 g protein/kg. In every bird
+there were two peaks of interval frequencies, and an example is given in Fig.
+2.8. Note that intervals of /H11088 5 s have been ﬁltered out before analysis, so the
+left-hand distribution is artiﬁcially truncated at 1.6 (natural logarithm of 5).
+It is clear from these relative frequency distribution plots that two
+populations of intervals are present, i.e. intervals within and between meals.
+These initial observations suggest that the log-normal model incorporating two
+Gaussian distributions can be used to analyse the data to obtain the critical
+interval time between meals in chickens, which was found to be 1 min 49 s for
+the bird shown in Fig. 2.8. The proportion of intervals in the ﬁrst distribution
+was calculated to be 0.82. To calculate how many meals/day this bird was
+Feeding Behaviour 25
+Fig. 2.8. Relative frequency distribution of natural log-transformed intervals between feeding
+activity (interval length in s) of an individual chicken (from Hannah, 2001).
+eating, the number of intervals/day between feeding activities must be
+multiplied by the proportion of intervals in the second distribution (1 – 0.82 =
+0.18). The total number of intervals recorded for this chicken was 175/day, so
+the number of meals/day eaten was 175 /H11003 (1 – 0.82) = 31.5. Ten other birds
+in the same study had critical inter-meal intervals of 18–163 s and took 30–70
+meals/day.
+The mean critical interval time between meals is therefore just under 3
+min. The relative paucity of intervals in the middle of the distribution (between
+1 and 20 min) means that changes in the critical interval within this range do
+not have a very large effect on the calculated number of meals.
+Beak trimming
+While beak trimming, sometimes carried out on laying hens to overcome
+ﬁghting, does not affect daily food intake or meal number or size (Persyn et al.,
+2004), beak-trimmed birds spent more time per day eating (3.3 versus
+2.0 h/day), so ate more slowly (0.43 g/min-kg 0.75 versus 0.79 g/min-kg 0.75).
+Trimmed hens seemed to be more selective as there was a higher proportion of
+large particles in the food refusals, suggesting that they found it more difﬁcult to
+pick up particles, for which the tip of the beak is required. Because of this
+selection the food actually eaten by the trimmed birds had somewhat higher
+crude protein and mineral contents than for the untrimmed hens.
+Pigs
+Pigs grasp at food with their mouths and chew vigorously to mix it with saliva
+before swallowing the bolus. When kept outdoors, they spend a lot of time
+rooting in the soil with their snouts. Pregnant sows with nose rings to inhibit
+rooting ate pellets more slowly than did those without rings, especially when
+they had to root in turves for the food pellets, putting them at a disadvantage if
+a mixed group is given a limited amount of pelleted food (Horrell et al., 2000).
+Stolba and Wood-Gush (1989) described the behaviour of domestic pigs in
+a semi-natural environment. Concentrates were given, as the paddocks were
+not large enough to support the groups with natural food. Even so, on average,
+31% of the day was spent grazing and 21% rooting, i.e. over half of the time
+was spent in ingestive activity. The animals turned turves over to get at worms
+and prized certain types of root, especially tree roots and those of sedge.
+Stereotypies and vices, common in indoor conﬁnement, were absent.
+Individually housed pigs have shorter and more frequent visits to the
+feeder than do pigs kept in groups. Nielsen et al. (1996) initially housed
+growing pigs in groups of ten for 14 days and then moved selected animals into
+individual housing. Contrary to expectations, the animals’ feeding behaviour
+did not appear to change greatly within this new social environment. The
+individual housing resulted in only a small increase in the frequency of feeder
+visits. The authors suggested that the feeding pattern of growing pigs may be
+less ﬂexible than expected.
+26 Chapter 2
+Cattle
+Dulphy et al. (1980) and Dulphy and Faverdin (1987) have reviewed the
+feeding behaviour of ruminants in detail. A characteristic of grazing cattle is that
+they wrap their tongue around herbage and pull rather than biting cleanly.
+They walk slowly forward, moving their head from side to side to take
+mouthfuls as they go.
+The feeding behaviour of housed cattle depends to a large extent on the
+ratio of animal numbers to length of trough. If there is sufﬁcient space for all
+animals to eat at once then this they will do, especially when fresh food has
+been given or when they have just returned from milking. At other times a
+proportion will be eating leisurely. If, however, there is insufﬁcient space for all
+animals to eat simultaneously then a great deal of manoeuvring takes place,
+dominant animals displacing timid ones, and meals tend to be a succession of
+brief episodes interspersed with movement to other feeding positions. Those
+cows lower in the social dominance order are forced to eat at less popular times
+of day, including late at night.
+Using a critical inter-meal interval of 9 min, it was found that Friesian-
+Holstein cows in early lactation ate an average of 8.7 meals/day, irrespective of
+whether the silage dry matter (DM) content was high (H, 449 g/kg) or low (L,
+215 g/kg) or whether the supplementary compound food was high in starch or
+high in digestible ﬁbre (Romney et al., 2000). The results show that chewing
+indices (time spent eating silage, ruminating and total time chewing/kg DM
+ingested) were signiﬁcantly greater for the L silage, while time spent eating, and
+duration and number of meals were similar for either silage. The most likely
+explanation for the greater intakes of H is a faster particle breakdown in the
+rumen, allowing larger meal sizes before animals became constrained (see
+Table 2.1). Factors affecting silage intake are discussed in Chapter 14; the
+information given here is as an example of eating parameters in dairy cows.
+In a similar experiment, intake reached a peak in mid-lactation, while the
+number of meals per day reached a nadir around week 15 of lactation
+(Jackson et al., 1991). The daily intakes of silage for the two supplement types
+were 10.8 and 13.0 kg DM, respectively, eaten in 209 and 229 min. Thus the
+higher silage intake was achieved on the digestible ﬁbre supplement by eating
+Feeding Behaviour 27
+Table 2.1. Food intake parameters derived from 48 h continuous recording of intake for dairy
+cows consuming low (L) or high (H) DM silage supplemented with 9 g/day concentrates (from
+Romney et al., 2000).
+Silage L H Signiﬁcance
+Silage intake (kg DM/day) 9.0 13.8 +++
+Time spent eating (min/day) 183 200 nsa
+Rate of eating (g/kg) 49 69 +++
+Number of meals 8.4 8.6 ns
+Intra-meal pauses (min/day) 27.6 36.8
+a Not signiﬁcant.
+larger, longer meals. Figure 2.2 shows an example of a 24-h meal pattern of
+one cow. In this case, nine meals of silage were taken and three allocations
+each of 2 kg concentrates were dispensed. At 230 min, she tries to get
+concentrates but is not allowed and diverts her attention to eating silage. Some
+of the silage meals are protracted and fragmented (e.g. those at 650–750 min),
+while others are continuous (e.g. that starting at 840 min).
+Dado and Allen (1994) have monitored feeding, ruminating and drinking
+behaviour in lactating cows offered a total mixed ration and have concluded
+that a Latin Square design with 12 cows monitored for 5 days would be
+sufﬁcient to detect a 10% difference between means for feeding-related
+behaviour variables with a probability of 80%.
+Sheep
+From 2 or 3 weeks of age, lambs spend increasing amounts of time nibbling at
+food. After weaning they eat by prehending food with their lips and tongue,
+pulling it back into the mouth for extensive chewing.
+Sheep can select well as they have a narrow bite. However, they have a
+blind area about 30 mm in front of the nose so they can’t see clearly what they
+are eating! Perhaps they use touch to decide exactly what to eat. When they
+are selecting actively, e.g. green material from a predominantly dead sward,
+rate of eating is greatly reduced. The best way to monitor what sheep are
+selecting is to collect oesophageal extrusa from ﬁstulated animals, although it is
+then difﬁcult to identify the various parts of the plants. Lynch et al. (1992)
+cover feeding behaviour of sheep in detail.
+Dulphy et al. (1980) reported a mean total eating time of 305 min/day for
+wether sheep fed fresh-cut green forages, with a mean rate of eating of 4.3 g
+DM/min. These animals took 7.5 meals/day and spent an average of 537
+min/day ruminating.
+Rate of Eating
+When it is possible to measure intermediate weights of the food during the
+course of a meal it can be seen that rate of eating sometimes declines towards
+the end of the meal.
+Poultry
+Growing broilers eat faster than layers of the same age (Masic et al., 1974), but it
+is not clear whether this is because they are bigger and heavier or have a greater
+need of nutrients. Rates of eating were signiﬁcantly faster for pellets than for the
+same food in powdered form, and declined during the 30 min after giving food
+after a 0–4-h fast (Savory, 1988). The weight eaten in the ﬁrst 5–10 min was
+proportional to the length of the previous deprivation period (see below).
+28 Chapter 2
+Pigs
+Auffray and Marcilloux (1983) observed a deceleration in the rate of eating as
+the meal progressed. ‘Unpalatable’ foods are eaten more slowly than ‘normal’
+ones and rate of eating often increases over a period of several weeks as the
+animals learn that the food is completely safe. It had been assumed that rate of
+eating would be inﬂuenced by the bitter-tasting glucosinolates present in
+rapeseed meals but, in the work of Lambert et al. (1992), the food eaten most
+slowly was that lowest in glucosinolate!
+Cattle
+Faverdin (1985) observed that the rate of eating of a complete food by a
+lactating cow increased linearly from 50 g/min in the ﬁrst few days of lactation
+to 90 g/min in week 9 of lactation. The rate declined as a large meal
+proceeded, from 120 to about 50 g/min due to longer pauses in actual chewing
+as the meal progressed. Intake rate at the beginning of the meal is four to ﬁve
+times higher than at the end for cows eating maize silage.
+The mean rate at which lactating mature cows ate grass silage (54 g DM/min,
+Jackson et al. , 1991) was very similar to that for lactating heifers eating a
+complete silage/concentrate mixed food, with an average rate of approximately
+50 g DM/min (J.M. Forbes, unpublished observations).
+Presumably in systems where food is limited, e.g. dairy cows fed con-
+centrates in a group, the fastest eaters will consume more and produce more
+milk, thus rendering themselves more likely to be selected as the mothers of
+future cows, i.e. selection for fast rate of eating. However, the rate of eating by
+cows low in the dominance order was found by Kenwright and Forbes (1993)
+to be signiﬁcantly faster during the 40-min peak periods after each milking (300
+g fresh matter/min) than at a quiet period (10.00–12.00 h) (200 g/min) and the
+time spent eating signiﬁcantly less (14.6 versus 18.7 min/h).
+The most dominant animals did not eat signiﬁcantly more quickly during
+these peak times than at other times of day (270 versus 250 g/min), but spent a
+little more time eating than at other times of day (19.9 versus 17.6 min). Thus,
+the dominant cows did not feel under pressure to eat quickly at busy times as
+they were conﬁdent of being able to continue eating when they were hungry.
+Rate of eating of concentrates is particularly important when cows are fed in
+the parlour at milking time. Any cow not having eaten all her allowance when
+her group has ﬁnished milking will hold up the whole group, or miss part of her
+ration which will then be eaten by the next cow to come into that position in the
+milking parlour. Inclusion of rapeseed meal in a dairy compound food slows rate
+of eating, but only to a marked extent during the ﬁrst two or three foods after the
+rapeseed is introduced (Frederick et al., 1988). A familiar ﬂavour incorporated
+in the food successfully prevents this initial slow rate of eating.
+Wet food is eaten more quickly than the same food given in the dry form,
+and Clough (1972) found that cows that ate loose meal at 323 g/min ate pellets
+at 455 g/min and slurry at 1670 g/min; even though the slurry contained water,
+the rate of DM intake was considerably higher with the food in this form.
+Feeding Behaviour 29
+Sheep
+Pregnant ewes fed throughout on a complete, pelleted food ate at an average
+rate of 15 g/min and this increased to around 20 g/min during lactation and to
+over 30 g/min after weaning (Forbes et al., 1989; Fig. 2.7).
+Rates of eating during the ﬁrst 30 min of the large meal taken after offering
+fresh hay, chopped dried grass or pelleted dried grass were 7.3, 9.4 and 10.8
+g/min, respectively (Forbes et al., 1972). During the second and third 30-min
+periods there were progressive reductions in the rate of eating. In a further
+experiment, the same authors penned ewes either singly or in groups of six and
+fed them on hay either ad libitum or at two-thirds of ad libitum. Rate of eating
+in the 30 min after giving fresh hay was signiﬁcantly higher for the lower level
+of feeding (9.7 g/min) than for ad libitum (8.4 g/min), but only slightly higher
+for group-fed ewes (9.3 g/min) than for those penned individually (8.8 g/min).
+The fact that restricted-fed sheep ate more quickly than those fed ad
+libitum shows that the latter were not eating at their maximum rate, and
+therefore that neither jaw fatigue nor lack of saliva were likely to have limited
+ad libitum intake.
+Detailed studies of long meals have shown an exponential slowing of rate
+of eating. In the example given in Fig. 2.9, the sheep was allowed access to
+lucerne for only 6 h/day and would therefore have been very hungry at the
+start of this meal (Baumont et al., 1989).
+30 Chapter 2
+Fig. 2.9. Cumulative intake of lucerne by a sheep given access for 6h/day: intake (g DM) =
+1975(1–e(–0.0044.time)) (from Baumont et al., 1989).
+Short-term Intake Rate
+It has been suggested that foods that are initially eaten more quickly than
+others will have a higher daily intake, and Short-term Intake Rate (STIR) has
+been proposed as a way of predicting intake, or at least of ranking the intake
+potential and as a test for intake potential of foods initially only available in
+small quantities (e.g. from plots of new varieties of herbage plant) (Harrison et
+al., 1998). STIR was deﬁned for cows as the amount eaten in 4 min after a 4-h
+fast. Although there was some evidence that STIR predicted rank order of
+intakes of different forage mixtures, there were quite marked effects of the order
+in which forages were offered on test days. However, many factors are likely to
+affect STIR, including starvation time, length of ingestion period, form of
+presentation of food, ﬁbre concentration, DM content, feeding level, body
+condition of animals and physiological state of the animals.
+One very important consideration is the experience the test animals have
+had of the tested foods, or of foods with similar sensory properties (see Chapter
+6). For example, lambs that had received intra-ruminal infusions of starch just
+after feeding increased intake, intake rate, bite rate and intake per bite of the
+food available just after the infusion, compared with lambs that had received
+only intra-ruminal infusions of the vehicle (water) (Villalba et al., 1999).
+This demonstrates that STIR is inﬂuenced to a great extent by the post-
+ingestive consequences of food ingestion, so that it is not suitable for testing
+foods that are only available in sufﬁcient quantities to make one or two tests,
+i.e. insufﬁcient experiences to allow learning.
+Rate of eating silage or grazed herbage was found to increase with length
+of pre-fasting, mainly through increases in biting rate and dry matter intake
+(DMI)/bite (Patterson et al., 1998, Fig. 2.10). Extending the fasting period from
+6 to 13 h did not cause any further increase in rate of eating, however,
+suggesting a physical limit to the frequency and size of bites. Intake rate was
+found to decline during an eating bout, as the hunger drive declined.
+Circadian Rhythms of Feeding
+Rats eat more frequent and larger meals at night than during the day, as they
+are nocturnal animals, while farm mammals are more active during the day
+and eat a greater proportion of their meals in daylight than at night.
+Poultry
+Unless the nights are very long, poultry do not eat during the hours of
+darkness, so there is a very marked diurnal rhythm of feeding. Savory (1979)
+observed a peak of feeding activity and intake during the hour before dusk,
+presumably to ﬁll the crop as a reservoir of food to last the bird through the
+night. It is not necessary for the light to dim slowly for this feeding to occur, as
+the peak of feeding still occurs when the lights are extinguished abruptly.
+Feeding Behaviour 31
+In order to see the extent to which birds learn to anticipate a fast, Petherick
+and Waddington (1991) housed pullets individually in a circadian-free
+environment and, on days 17–47, 50% were shown a coloured card during the
+ﬁnal hour of food availability, prior to food deprivation of 8 or 12 h. There was
+no indication of increased intake during this period and so no suggestion that
+they could learn to use the colour cue to anticipate a fast. Do they learn when
+dusk is approaching by the number of hours since dawn?
+Pigs
+There are two peaks of feeding, one in the morning and one in the early
+afternoon (de Haer and Merks, 1992) but Fig. 2.11 shows that the second is by
+far the greater. Note than some feeding still takes place at night and that there is
+little effect of single versus group penning. However, examination of the data in
+more detail showed that, in groups, 69% of meals accounted for 87% of intake
+and 83% of eating time. With individual housing, only 39% of meals
+contributed 90% of the food eaten and 79% of the feeding time.
+In other words, there were a lot of small, short meals when pigs were kept
+individually, compared with when they were in groups; with group feeding there
+can be considerable competition for a single feeder, resulting in many interrupted
+meals and therefore fragmented feeding behaviour. The repeatabilities of day-to-
+day recordings of intake traits were high within 2-week periods compared with
+months or the whole fattening period, indicating a steady change in feeding
+behaviour as pigs grow.
+The difference in behaviour between day and night is likely to be a result
+of social constraints, but may also represent a reluctance by the animals to feed
+32 Chapter 2
+Fig. 2.10. Intake of grazed herbage (●) and silage (/H18546) by lactating cows after various lengths
+of fast (from Patterson et al., 1998).
+at night. The two daylight feeding peaks may be coincidental with the entrance
+of the stockperson into the animal house or may be the preferred feeding times
+of the pigs.
+Cattle
+A high level of feeding activity is usually observed after fresh food is offered. A
+smaller peak often occurs before sunset and another just after midnight. Data
+from individual young bulls fed from automatically recording feeders showed
+that the sunset peak moved according to the time of year and that the night-
+time quiet period was longer in winter (Stricklin, 1988). In another trial, cattle
+were either trough-fed or fed from a single automatic feeder. While those fed
+from the trough showed a normal diurnal pattern of feeding, those on the
+single-space feeder ate at any time of day or night, presumably due to
+competition. Trough-fed cattle spent about 120 min/day feeding compared with
+80 min/day for those on the single feeder.
+Under conditions where little competition for feeder space exists, dairy cows
+eat few meals from around 01.00–06.00 h. When there are more animals than
+feeder spaces there is strong competition at busy times, particularly after milking
+and when fresh food has been delivered. Kenwright and Forbes (1993)
+observed a clear triphasic pattern of eating in cows milked three times per day,
+peaks of feeding activity occurring during the periods after return from milking,
+including large meals, which shows that some cows were monopolizing feeders,
+thereby preventing others from eating at that time. The more dominant animals
+Feeding Behaviour 33
+Fig. 2.11. Diurnal patterns of feed intake in group-housed growing pigs. The three lines
+represent different batches of animals (from de Haer and Merks, 1992).
+ate less at night (01.00–06.00 h) than those at the bottom of the ‘pecking’ order.
+Therefore, heifers low in the social dominance order might not be able to satisfy
+fully their desire to eat when the level of competition for feeding space was high.
+The high incidence of aggressive interactions during the period immediately
+after return from milking has implications for the health and nutrition of the
+animals.
+The fact that lower-yielding cows were lower in the dominance order
+(calculated according to Rutter et al., 1987) than high yielders but ate more at
+night suggests that high demand for nutrients was not the prime cause of
+nocturnal eating, although it is possible that low dominance caused low intake,
+resulting in lower milk yield. It is more likely that those lower in the dominance
+order were prevented from meeting their needs during the day and were thus
+forced to satisfy their requirements by eating in the middle of the night. When
+they did manage to eat at the most popular times of day it was in short meals,
+eaten at a rapid speed and terminated by the arrival of a more dominant
+animal.
+What are the implications of these ﬁndings for the management of dairy
+herds? Jackson et al. (1991) suggested that, up to a ratio of 3.5 cows/feeder, there
+was no effect on daily intake of silage, while Elizalde and Mayne (1993) have
+shown that, although feeding behaviour is affected with 5 or more cows/feeder
+(increased rate of eating and shorter total feeding times), it is not until there is a
+ratio of 7 cows for each feeder that daily intake of silage becomes depressed.
+Sheep
+Sheep show similar light-entrained circadian rhythms of feeding to cattle (see Fig.
+17.7). Another factor affecting feeding rhythms is environmental temperature:
+sheep do not eat in the hottest part of the day when the heat load is so great that
+they must seek shelter.
+Food Restriction and Fasting
+Periods without food leave the animal in a different state than when fully fed. It
+is important to measure fully this state in order to predict how the animal will
+respond when fully fed again. Care needs to be given to the choice and
+description of the treatment(s) during the rehabilitation period.
+Poultry
+Pecks at food become faster, stronger and less accurate after increasing periods of
+deprivation (Wood-Gush and Gower, 1968) but, when food is unavailable for 1
+day in 5, there is complete compensation of intake and growth. Petherick et al.
+(1992) trained hens to run down a 14.4-m alley for food after being deprived for
+0, 6, 12 or 18 h. The speed of running was signiﬁcantly increased by deprivation,
+34 Chapter 2
+but there was no difference between deprivation periods (0.29, 0.62, 0.65, 0.57
+m/s, respectively), suggesting that 0.65 m/s was the fastest they could run.
+Food restriction is sometimes used to delay puberty in pullets. When pullets
+were subsequently restricted to that weight of food eaten voluntarily at 6 weeks
+of age (45 g/day), the birds ate and pecked at empty feeders for the same
+amount of time per day as ad libitum controls spent eating, i.e. there was no
+increase in attempts to get food, as is seen in more severe types of underfeeding.
+Broiler breeder stock are usually restricted to less than one-half of ad
+libitum intake. Such animals have a high rate of working for food, even just
+after their ration has been consumed, and are highly motivated to eat at all
+times (Savory et al. , 1993). If offered food ad libitum after a period of
+restriction, at ﬁrst they eat up to three times the restricted daily level, gradually
+falling to about double the restricted level (de Jong et al., 2003).
+When food was returned to cockerels of an egg-laying strain after food
+deprivation, the rate of eating was higher after a 24-h fast than after a 2-h fast,
+but there was no further effect of 48 h (Wood-Gush and Gower, 1968). It is
+likely that the size of the ﬁrst meal after a long fast is limited by the capacity of
+the crop, which acts as a storage organ, the distension of which inhibits
+feeding.
+Rather than restrict intake by offering weighed amounts of food, it is often
+more convenient to give access to unlimited amounts of food for limited periods
+of time. Cockerels of a layer strain allowed food for one or two periods of 2 h
+each per day ate 65 and 80%, respectively, of the amount eaten by control
+groups with 24 h/day access and, somewhat surprisingly, they did not increase
+their intake as they became accustomed to the situation (Barach et al., 1992).
+In a review of the welfare of poultry in modern production systems, Mench
+(1992) discusses food deprivation and restriction which pose a welfare
+dilemma as, if fed ad libitum, broiler breeders experience reduced fertility and
+health problems, yet if fed at the usual severely restricted level they are hungry
+for most of the time. The welfare aspects of feeding restricted amounts of food
+or imbalanced foods are discussed further in Chapter 18.
+Pigs
+There was a linear increase in the weight of food eaten by growing pigs during
+the ﬁrst meal after deprivation of 1–6 h (M. Corbett, S. McNicholas and J.M.
+Forbes, unpublished observations).
+Restriction of protein intake in pigs has been shown to cause increased
+rooting and general activity, suggesting that speciﬁc nutritional needs increase
+foraging motivation (Lawrence et al. , 1993). Restriction of food intake gives
+rise to increases in ‘working’ for food in an operant conditioning situation, but
+normal farm environments do not provide facilities for foraging. Therefore,
+animals develop stereotypies such as chewing chains; ingestion of even a small
+amount of food stimulates such activities. Pregnant sows are usually restricted
+to about 60% of their ad libitum intake and such animals have a high rate of
+working for food, even just after their ration has been consumed. In order to
+Feeding Behaviour 35
+give sows a more natural way of getting food by working for it, a feeding ball
+has been developed that delivers food pellets at random intervals if it is rolled
+around (Young and Lawrence, 1993). The lower the level of feeding, the more
+sows push the ball around.
+Quite severe food restriction of boars makes them much more willing to
+press a button to obtain small rewards of food, compared with those fed almost
+ad libitum (Lawrence et al. , 1989). When the bulk of the restricted ration is
+increased by incorporating straw, there is no reduction in operant responding,
+showing that the mere presence of bulk in the digestive tract is not satiating.
+However, pregnant gilts and sows given restricted amounts of food with
+different levels of ﬁbre showed a signiﬁcant reduction in stereotypies with
+higher ﬁbre foods, and so Robert et al. (1993) concluded that bulky food may
+be beneﬁcial for the welfare of pregnant sows.
+Pigs spend a considerable amount of time chewing materials in their
+environment, but it is unclear whether this reﬂects motivation to feed, to
+explore or a combination of both. By providing a tube containing water,
+saccharin solution or sucrose solution, Day et al. (1996a) were able to separate
+these possibilities. They observed that chewing at the plain water tube was at a
+low level and not affected by the degree of food deprivation. Saccharin only
+slightly increased chewing whereas sucrose, which provided energy as well as a
+sweet taste, caused large increases in chewing activity, especially in food-
+deprived animals, demonstrating that nutritional feedback during exploration
+modiﬁes foraging behaviour towards correction of energy deﬁciency.
+Cattle
+The intake of hay by cows increased by 20% as the increase in time of access
+to food was increased from 5 to 24 h/day, in contrast to an 80% increase in
+intake when the food was a concentrate mixture (Freer and Campling, 1963),
+suggesting a physical limit to intake of the hay. Daily access for at least 6 h is
+necessary for maximum intake of silage by beef cattle (Wilson and Flynn,
+1974). Dry cows ate 8.0 kg/day when given access to silage for 5 h/day, while
+those with continuous access ate 10.1 kg (Campling, 1966).
+Sniffen and Chase (1987) observed that mildly intake-restricted cows
+(100% of calculated net energy requirement) ate an average of 4.4 meals daily,
+compared with an ad libitum group (111% of net energy (NE) requirement)
+that ate 12.4 meals.
+Sheep
+When sheep were given access to hay cubes for 3, 6, 12 or 24 h/day, intakes
+were 1502, 1869, 2086 and 2413 g/day (Hidari, 1981). With fasts of 1–6 h,
+sheep fed on a pelleted 0.5 dried grass:0.5 barley compound food compensated
+for the fasting period in the ﬁrst two or three meals after the food had been
+36 Chapter 2
+replaced and there was no effect on daily intake (J. Black, F. Carey-Wood and
+J.M. Forbes, unpublished observations).
+Abnormal Feeding-related Behaviour
+In intensive husbandry it is not uncommon for abnormal feeding-related
+behaviours to occur. While these have been ascribed to boredom, it is also
+possible that such behaviours as tail biting and feather pecking are expressions
+of a desire to obtain nutrient(s) not provided in sufﬁcient quantities by the diet.
+A stereotypy is ‘a repeated, relatively invariate sequence of movements
+which has no obvious purpose’ (Fraser and Broom, 1997), such as repeated
+chewing of metal bars by individually penned sows. They are mostly performed
+during the post-feeding period and are initiated by giving a small amount of
+food. This, and the fact that they are not normally elicited by non-food-related
+stimuli, suggests that they are due to underfeeding and exacerbated by the lack
+of alternative possibilities for exploration and activity.
+Excessive water consumption is sometimes seen in poultry, pigs, sheep and
+horses, the latter taking up to 140 l/day. When this occurs, it is usually in
+conﬁned animals and can be overcome by provision of more space and
+exercise. Often, the apparently high consumption of water is due to excessive
+waste, as bored animals stand with their noses on nipple drinkers, allowing
+most of the water to go to waste.
+Poultry
+Feather pecking can occur in all types of poultry, especially if insufﬁcient trough
+space is provided. This can be alleviated by giving birds something to search
+for, e.g. by giving some whole grains in the food or on the ﬂoor, but this does
+not necessarily alleviate hunger (de Jong and Jones, 2006). Feather pecking
+sometimes leads to body pecking and wounding.
+Egg eating by hens may be an indication of mineral deﬁciency in the diet,
+as it is reduced by providing grit, although this again may be a question of lack
+of variety of activities rather than a nutrient deﬁciency. Birds eat shavings on
+which they are bedded if they have insufﬁcient trough space; this can result in
+gizzard compaction and eventual death if not forestalled by increasing the
+availability of food.
+Pecking at metal or wood in a stereotypic manner is sometimes observed in
+birds, again when the environment is monotonous. It has been noted that the
+amount of time spent stereotypically pecking was negatively related to plasma
+corticosterone levels, and it has been suggested that such activity relieves stress.
+Pigs
+It is natural for newly weaned animals to explore their environment and they
+often lick and chew objects, including other animals. However, this sometimes
+Feeding Behaviour 37
+develops into biting each other’s tails if pigs are heavily stocked in a boring
+environment. The use of straw bedding and/or the provision of ‘toys’ is helpful
+as it gives the pigs more interest and activity. Belly nosing in early-weaned
+piglets is a response to the lack of the mother. Pigs also show increased tail biting
+when the diet is deﬁcient in salt or protein. This is probably a general increase in
+oral activity rather than a speciﬁc alleviation of the nutrient deﬁciency, as the
+little blood obtained would not signiﬁcantly improve their salt or protein status
+(Fraser and Broom, 1997).
+Stereotypies by pigs are increased by low levels of feeding, leading to
+persistent feeding motivation. Bar chewing or sham chewing in sows, common
+in individual pens or stalls when restricted feeding is practised, is usually
+reduced if straw or sawdust is provided (Lawrence et al., 1993). Sows often eat
+dead piglets but occasionally a sow may attack, kill and eat a piglet. Usually
+only ﬁrst litters are affected and in the ﬁrst few hours after parturition.
+Cattle
+Calves spend about 1 h/day sucking naturally from their mothers, but can drink
+milk replacer much more quickly than this, leading to boredom and sucking of
+other calves, particularly the navel. The use of dispensers that deliver the milk
+slowly to simulate natural suckling is helpful, as is the provision of straw bedding.
+Many calves in crates lick their own hair, a symptom of boredom and
+possibly of nutrient deﬁciency. This often creates hairballs in the stomach,
+which can occasionally become so large that they block the digestive tract.
+Restricted-fed heifers sometimes show stereotypies in the post-feeding
+period, and those individuals spending less time eating spend more time
+exhibiting stereotypies. Feeding-related activities such as snifﬁng or licking the
+feeding trough are seen more frequently around the time that stereotypies are
+exhibited, suggesting that oral stereotypies are indicative of frustrated feeding
+behaviour. Although lactating cows are usually fed ad libitum, they are often in
+negative energy balance and higher-yielding cows, which typically lose more
+weight in early lactation, have been seen to show more stereotypies.
+Redbo et al. (1996) studied the effect of mild restriction of food on oral
+stereotypies in lactating cows. A total mixed ration was given ad libitum from
+weeks 3 to 26 of lactation or ad libitum from weeks 3 to 14, with restriction to
+Swedish standards for maintenance and lactation from weeks 17 to 26, while
+the third treatment was restriction throughout. When food was available ad
+libitum there were almost no stereotypies, while with restricted feeding the
+amount of time spent in stereotypic activities was noticeable (see Fig. 2.12).
+Those cows that were restricted in both periods showed distinctly more
+stereotypies in period 2, i.e. when they had been on restriction longer. It seems
+as if stereotypic activity is caused by underfeeding, but it is not always clear
+whether it is hunger or boredom that is the main determinant.
+38 Chapter 2
+Sheep and goats
+Sheep will pull and eat the wool of others if too tightly penned, but this can
+usually be prevented by providing roughage for them to chew. Agile, young
+goat does can suck their own teats.
+Marsden and Wood-Gush (1986) fed individually penned lambs aged 8
+weeks either high (174 g/kg DM) or low (110 g/kg DM) protein foods ad libitum
+or restricted to 1 kg/day. More time was spent in abnormal activities (such as
+biting empty food bins, wood or wool, ‘star-gazing’) by those on the restricted
+level of food but, when hay was offered in addition, there was much less
+abnormal behaviour. Blackface lambs chewed wool more when on low-protein
+than when on high-protein food, while there was no difference in Suffolk
+crosses. The former spent less time eating than the latter when on ad libitum
+feeding and more time in abnormal food searching. These ad libitum fed
+animals grew at a very high rate, thus showing that high performance is not
+necessarily an indication of good welfare.
+Conclusions
+There are various ways of monitoring food intake, but some of the indirect
+ones have a large amount of variability associated with them. Automation
+allows the collection of large amounts of data without the presence of a human
+observer to disturb the animals. It is possible to monitor the feeding behaviour
+and food intake of individual animals kept in a group, which allows monitoring
+under realistic farm conditions.
+This has paved the way for the use of food intake and efﬁciency of
+utilization in selecting breeding stock. It has also allowed better statistical
+Feeding Behaviour 39
+Fig. 2.12. Time spent feeding (blank) and performing stereotypies (ﬁlled) by lactating cows
+fed on a total mixed ration. Period 1, weeks 3–14 of lactation; period 2, weeks 17–26. AL, ad
+libitum throughout; AL-R, ad libitum in period 1, restricted in period 2; R, restricted throughout
+(from Redbo et al., 1996).
+methods of deﬁning inter-meal intervals to be developed. Feeding is
+characterized by relatively stable food intakes over periods of several days, but
+also by widely different meal patterns between individuals on the same food
+and within individuals with different foods.
+The feeding behaviour of an animal in a barren experimental environment
+might be quite different from that of the same animal in more natural
+surroundings, and it has been suggested that the use of operant systems that
+make the animal work to obtain food encourage the animal to adopt a more
+natural feeding pattern. Unnatural feeding-related behaviour is seen in animals
+that are frustrated, either by lack of food or by being kept in a restricting
+environment.
+There are strong circadian rhythms of feeding, but these are not inﬂexible:
+for example, chicks will eat during the dark if that is the only time food is
+available, even though they normally eat nothing at night. Short periods
+without food can be compensated for when food becomes available, but longer
+periods of fasting result in a signiﬁcant reduction in daily intake.
+40 Chapter 2

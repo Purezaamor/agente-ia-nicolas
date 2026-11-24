@@ -1,0 +1,718 @@
+=== Fuente: Du Cellular signaling pathways regulating the initial stage of adipogenesis and marbling of skeletal muscle.pdf ===
+
+Review
+Cellular signaling pathways regulating the initial stage of adipogenesis and marbling
+of skeletal muscle
+Min Du a,⁎, Jingdong Yin b, Mei J. Zhu a
+a Department of Animal Science, University of Wyoming, Laramie, WY 82071, USA
+b College of Animal Science and Technology, China Agricultural University, Beijing 100193, China
+abstractarticle info
+Article history:
+Received 26 January 2010
+Received in revised form 19 March 2010
+Accepted 8 April 2010
+Keywords:
+Adipogenesis
+Meat
+Skeletal muscle
+Mesenchymal stem cells
+Signaling
+Marbling
+Due to extensive efforts to increase lean growth, intramuscular fat (marbling) is reducing in beef, pork and
+chicken breast, which impairs the eating quality of meat. Because fat is the major contributor to meat ﬂavor,
+the presence of intramuscular fat is indispensible for the high eating quality of meat. However, up to now,
+our understanding of adipogenesis (formation of fat cells) in skeletal muscle is limited. Adipocyte
+differentiation in skeletal muscle initiates from multipotent mesenchymal stem cells, which are abundant in
+skeletal muscle at early developmental stages. In this review, the known cellular mechanisms regulating
+adipogenesis from multipotent cells are summarized, which include hedgehog, Wingless and Int (Wnt)/β-
+catenin, and bone morphogenesis protein (BMP) mediated signaling pathways, as well as AMP-activated
+protein kinase. Promoting adipogenesis within skeletal muscle will effectively increase intramuscular fat,
+improving the quality of meat.
+© 2010 The American Meat Science Association. Published by Elsevier Ltd. All rights reserved.
+Contents
+1. Introduction .............................................................. 103
+2. Adipogenesis.............................................................. 104
+3. Hedgehog signaling .......................................................... 105
+4. Wnt/β-catenin signaling ........................................................ 106
+5. Bone morphogenetic proteins ...................................................... 106
+6. AMP-activated protein kinase ...................................................... 106
+7. Other signaling pathways involved in adipogenesis. ........................................... 107
+8. Conclusion............................................................... 107
+Acknowledgement ............................................................. 107
+References ................................................................. 107
+1. Introduction
+Intensive genetic selection of animals for their lean growth has
+dramatically reduced intramuscular fat (marbling) and impaired the
+eating quality of meat. Intramuscular fat is crucial for meat palatability
+(Hausman et al., 2009; Tong et al., 2008). In recent years, huge efforts
+have been exerted to enhance intramuscular fat but only obtained
+very limited success. Intramuscular fat can be enhanced through the
+enlargement of existing adipocytes (hypertrophy) and increase in the
+number of adipocytes (hyperplasia) (Du et al., 2010b). The majority of
+available studies on intramuscular fat focus on the conversion of pre-
+adipocytes to adipocytes, adipocyte lipid metabolism and hypertro-
+phy through nutritional management (Hausman et al., 2009; Smith et
+al., 2009). Mechanisms regulating the initial stage of adipogenesis, the
+conversion from a multipotent mesenchymal stem cell to pre-
+adipocytes, are far less studied especially in livestock (Fig. 1). The
+poor understanding of such mechanisms limits our ability to
+effectively enhance marbling in beef cattle and other livestock.
+Both muscle cells and adipocytes (fat cells) are derived from
+mesenchymal stem cells (MSCs), which are abundant in the skeletal
+muscle at early developmental stages, especially during the fetal and
+neonatal stages, but wanes as animals become older. The majority of
+MSCs develop into myogenic cells, but a small portion of these cells
+differentiate into adipocytes which are the basis for intramuscular fat
+Meat Science 86 (2010) 103–109
+⁎ Corresponding author. Tel.: +1 307 766 3429; fax: +1 307 766 2355.
+E-mail address: mindu@uwyo.edu (M. Du).
+0309-1740/$ – see front matter © 2010 The American Meat Science Association. Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.meatsci.2010.04.027
+Contents lists available at ScienceDirect
+Meat Science
+journal homepage: www.elsevier.com/locate/meatsci
+accumulation that produce marbling in offspring (Du et al., in 2010b).
+Adipogenesis is regulated by genetic, nutrition and environmental
+factors, all of which dictate the key signaling pathways regulating
+adipogenesis in skeletal muscle and, thus, marbling in resulting meat
+(Harper & Pethick, 2004). Japanese black cattle is well known for its
+extremely high marbling, which is apparently mainly due to increase in
+the number of intramuscular adipocytes, though an increase in
+adipocyte size was also detected when compared to European cattle
+(Gotoh et al., 2009). Because the association between the late stage
+adipogenesis, lipid metabolism and marbling has been the subject of
+several excellent previous reviews (Fernyhough, Okine, Hausman,
+Vierck, & Dodson, 2007; Hausman et al., 2009; Hocquette et al. 2010;
+Smith et al., 2009), in this review, we only discuss important cell
+signaling pathways regulating the initial stage of adipogenesis (Fig. 1).
+We ﬁrst describe the key transcription factors regulating adipogenesis,
+followed by the discussion of important cell signaling pathways
+regulating these key transcription factors and the early stage of
+adipogenesis.
+2. Adipogenesis
+In the bovine fetus, primary muscle ﬁbers form within the ﬁrst two
+months post-conception (Russell & Oteruelo, 1981), and the majority
+of muscle ﬁbers form during the secondary myogenesis which occurs
+in the fetal stage between 2 and 7 months of gestation in cattle
+(Russell & Oteruelo, 1981). In fetal cattle and sheep, maternal nutrient
+ﬂuctuation during late gestation reduces muscle ﬁber size but not
+number (Du et al., 2010a; Greenwood, Slepetis, Hermanson & Bell,
+1999). However, this stage is crucial for intramuscular adipogenesis.
+Adipogenesis is initiated around mid-gestation in ruminant animals
+(Feve, 2005; Gnanalingham, Mostyn, Symonds & Stephenson, 2005;
+Muhlhausler, Dufﬁeld, & McMillen, 2006), which partially overlaps
+with the period of secondary myogenesis (Du & Zhu, 2009). The mid
+to late gestation is a period critical for adipogenesis in cattle, and
+maternal nutritional management to enhance the number of MSCs
+committed to adipogenesis will increase the number of intramuscular
+adipocytes and thus marbling.
+Adipogenesis is regulated by several key transcription factors,
+including CAAT/enhancer binding proteins (C/EBPs) and peroxisome
+proliferator-activated receptor γ (PPARγ)(Hausman et al., 2009). C/
+EBPβ and -δ are ﬁrst induced by adipogenic stimuli and followed by an
+increase in PPARγ and C/EBPα expression. C/EBPα is induced during
+the initial phase of adipogenesis and directly binds to the PPARγ
+promoter to induce its expression (Clarke, Robinson, & Gimble, 1997;
+Wu et al., 1999). The expression of PPARγ further promotes the
+expression of C/EBPα, providing a self-reinforcing regulatory loop.
+Terminal differentiation of an adipocyte needs the concerted action of
+PPARγ and C/EBPs to turn on lipid synthesis and other adipocyte-
+speciﬁc programs (Fernyhough et al., 2007; Hausman et al., 2009).
+PPARγ, but not C/EBPα alone can stimulate adipocyte differentiation,
+clearly showing the critical role of PPARγ in adipogenesis (Rosen et al.,
+2002). The basic helix–loop–helix protein, adipocyte determination
+and differentiation-dependent factor-1/sterol regulatory element-
+binding protein-1 (ADD-1/SREBP-1), is another important protein
+induced during the early stages of adipogenesis (Kim & Spiegelman,
+1996). Activation of PPARγ promotes terminal differentiation through
+the induction of a range of genes important for triglyceride uptake and
+storage, such as fatty acid-binding protein (aP2), acyl-CoA synthetase,
+fatty acid transport protein-1, lipoprotein lipase and others (Frohnert,
+Hui, & Bernlohr, 1999; Rosen & MacDougald, 2006).
+Fig. 1. Strategies to increase intramuscular fat (marbling) in beef cattle. Panel A: early stage development of intramuscular fat is characterized by adipocyte hyperplasia through
+adipogenesis from multipotent cells, while late stage development is characterized by hypertrophy; Panel B: Adipogenesis from mulitpotent cells within skeletal muscle is regulated
+by complex cell signaling pathways, and genetic, nutrition and other factors regulate adipogenesis via altering these pathways.
+104 M. Du et al. / Meat Science 86 (2010) 103–109
+PPARγ has two isoforms, PPARγ1 and PPARγ2, with PPARγ2
+possessing 30 extra amino acids in the N-terminal. As a nuclear
+receptor, PPARγ shares a common structure which includes several
+distinct domains: ligand independent activation domain, DNA binding
+domain, hinge domain, and ligand binding domain. The Ser 112
+within the ligand independent activation domain is subject to
+phosphorylation by mitogen-activated protein kinase (MAPK) (Shao
+et al., 1998) which inhibits its ligand binding and reduces adipogen-
+esis (Hu, Kim, Sarraf, & Spiegelman, 1996).
+PPARγ forms a heterodimer in partner with retinoid × receptor α
+(R × Rα) and binds to peroxisome proliferator response elements
+(PPREs) on the promoters of targeted genes (IJpenberg, Jeannin,
+Wahli, & Desvergne, 1997). Therefore, retinoid acids affect adipogen-
+esis via R × Rα and its interaction with PPARγ (Ziouzenkova & Plutzky,
+2008; Ziouzenkova et al., 2007). PPARγ is a ligand-activated
+transcriptional factor. In the inactive state, PPARγ is associated with
+co-repressors to silence its transcription activity. Binding of ligands
+leads to the replacement of co-repressors with co-activators posses-
+sing histone acetyl transferase activity such as cAMP response
+element-binding protein binding protein (CBP/p300). Acetylation of
+histones leads to local chromatin decondensation and gene expres-
+sion. Fatty acids are ligands for PPARγ (Kliewer et al., 1995; Schopfer
+et al., 2005); oxidized fatty acids activate PPARγ with higher potency
+compared to the native fatty acids (Nagy, Tontonoz, Alvarez, Chen, &
+Evans, 1998). The potency of PPARγ to initiate adipogenesis also
+depends on the recruitment of other co-activators and/or co-
+repressors. Peroxisome proliferator-activated receptor γ co-activator
+1 (PGC-1α) is an important highly regulated co-activator, which binds
+to PPARγ in a ligand independent manner (Puigserver et al., 1998).
+The interaction between PPARγ and PGC-1α is crucial for the
+generation of brown adipose tissue (Nedergaard, Petrovic, Lindgren,
+Jacobsson, & Cannon, 2005).
+Brown adipogenesis receives lots of attention recently due to its role
+in obesity and base energy consumption. Brown fat is characterized by
+high mitochondrial density and the presence of uncoupled protein-1
+(UCP-1) which uncouples oxidative phosphorylation leading to large
+amounts of heat generation. Brown fat is crucial for neonatal animals to
+cope with hypothermia shortly after birth. The amount of brown fat in
+animals peaks at birth and then brown fat converts to white fat
+postnatally. The brown fat differentiation is initiated by a transcription
+complex composed of C/EBPβ and PR domain containing 16 (PRDM16)
+(Kajimura et al., 2009), while the complex of PPARγ and PRDM16 is
+necessary for later stage brown fat differentiation and maintenance of
+brown fat identity (Seale et al., 2008). Muscle cells can be converted into
+brown fat by force expression of PRDM16 (Seale et al., 2008), enhancing
+brown fat differentiation inside skeletal muscle is a promising method
+to enhance marbling.
+In short, PPARγ governs the adipogenic process and its expression
+leads to adipogenesis. The expression of PPARγ and its function in
+adipogenesis is regulated by several known signaling pathways,
+which are reviewed in the following.
+3. Hedgehog signaling
+Hedgehog signaling pathway has fundamental roles in the formation
+of tissue patterns during the embryonic development. There are three
+different hedgehog proteins in mammals, which are Sonic, India and
+Desert hedgehogs. The Sonic hedgehog (SHH) is the best studied and our
+discussion will focus on SHH. SHH is synthesized as a precursor protein
+which undergoes proteolytic cleavage and lipid modiﬁcations to
+generate a mature morphogen. Secreted morphogen is recognized by a
+12-transmembrane domain receptor, Patched (PTC). There are two
+patched homologues, PTCH1 and PTCH2, with PTCH1 as the primary
+mediator (Nieuwenhuis et al., 2006). The binding of SHH to PTCHs
+changes its structure to release an associated protein Smoothened
+(SMO). SMO then binds to glioma-associated oncogenes (GLIs) to induce
+gene expression. There are three GLIs, namely GLI1, GLI2 and GLI3. GLI1
+and GLI2 primarily work as transcriptional-activators while GLI3 as a
+repressor (Park et al., 2000; Persson et al., 2002). The down-stream
+effectors of GLIs include myogenic regulatory factor, Myf5, to promote
+myogenesis (Borello et al., 2006; Gustafsson et al., 2002). GLIs enhance
+myogenesis through Pax3/7 activation (Feng, Adiarte, & Devoto, 2006).
+A growing body of evidences shows the role of SHH signaling in
+adipogenesis. Obesity down-regulates SHH signaling, including the
+expression of Smo, Gli1, Gli2 and Gli3 (Suh et al., 2006). Activation of
+SHH signaling inhibits adipogenesis in 3T3-L1 and C3H10T1/2 cells
+(Cousin, Fontaine, Dani, & Peraldi, 2007; Spinella-Jaegle et al. 2001;
+Suh et al. 2006; Zehentner, Leser & Burtscher, 2000). A decrease in
+Hedgehog signaling is necessary but not sufﬁcient to trigger adipocyte
+differentiation (Fontaine, Cousin, Plaisant, Dani, & Peraldi, 2008). It
+appears that SHH signaling promotes stem cell differentiation to
+either myogenic cells or osteogenic cells, while SHH down-regulation
+enhances adipogenesis. Myogenic, osteogenic and adipogenic cells are
+all derived from the mesoderm.
+Mechanisms linking SHH signaling and adipogenesis remain poorly
+deﬁned. SHH may elicit antiadipogenic effects by enhancing GATA
+binding protein 2 (GATA2) expression (Suh et al., 2006). GATA2
+interacts directly with PPARγ and C/EBPα, which may deplete PPARγ
+involved in the promotion of adipogenesis (Hu & Davies, 2009; Schupp
+et al., 2009). GATA2 inhibits brown adipogenesis (Tsai et al., 2005). On
+Fig. 2. Hedgehog, Wingless and Int (Wnt)/β-catenin, bone morphogenesis proteins (BMPs) and adipogenesis. C/EBPα: CAAT/enhancer binding protein α; COUP-TFII: chicken
+ovalbumin upstream promoter-transcription factor II; GATA2: GATA binding protein 2; Shn: Schnurri protein; PPARγ: peroxisome proliferator-activated receptor γ.
+105M. Du et al. / Meat Science 86 (2010) 103–109
+the other hand, GATA proteins recruit MEF2 to promote myogenesis and
+other cell differentiation processes (Morin, Charron, Robitaille, & Nemer,
+2000). Another mechanism for the role of SHH signaling in adipogenesis
+is mediated through chicken ovalbumin upstream promoter-transcrip-
+tion factor II (COUP-TFII, also called NR2F2). COUP-TFII binds to the
+promoters of PPARγ and C/EBPα to inhibit their expression (Fig. 2)
+(Okamura et al. 2009; Xu, Yu, Hsu, Eguchi, & Rosen, 2008). SHH induces
+expression of COUP-TFII (Krishnan et al., 1997), and a SHH response
+element has been identiﬁed in the COUP-TFII promoter (Krishnan,
+Elberg, Tsai, & Tsai, 1997).
+4. Wnt/β-catenin signaling
+Wnt proteins are secreted glycoproteins crucial for the development
+of many cell types and tissues (Johnson & Rajamannan, 2006). The
+canonical Wnt pathway is β-catenin dependent and called the Wnt/β-
+catenin signaling pathway (Huelsken & Birchmeier, 2001). Binding of
+Wnt to Frizzled proteins activates Disheveled (DSH) family proteins
+(Johnson & Rajamannan, 2006), which then inhibits a complex of
+proteins that includes axin, glycogen synthesis kinase-3 β (GSK-3β), and
+anaphase-promoting complex (APC), leading to β-catenin accumulation
+(Katanaev, Ponzielli, Semeriva, & Tomlinson, 2005; Polesskaya, Seale, &
+Rudnicki, 2003). Without Wnt stimulation, the axin/GSK-3β/APC
+complex promotes the degradation of β-catenin through its phosphor-
+ylation by GSK-3β (Liu, Rubin, & Kimmel, 2005). Stabilized β-catenin
+enters the nucleus and interacts with members of the T cell factor/
+Lymphoid enhancer factor (TCF/LEF) family of transcription factors to
+activate speciﬁc target genes (Dierick & Bejsovec, 1999; Hecht & Kemler,
+2000). Therefore, β-catenin plays a pivotal role in canonical Wnt/β-
+catenin signaling (Armstrong & Esser, 2005; Mermelstein, Portilho,
+Mendes, Costa, & Abreu, 2007). In skeletal muscle, β-catenin regulates
+the expression of transcription factors Pax3 and Gli (Borycki, Brown, &
+Emerson, 2000; Capdevila, Tabin, & Johnson, 1998). Pax3 is essential for
+skeletal myogenesis and acts upstream of MyoD during skeletal muscle
+development, while Gli factors induce Myf-5 expression (Gustafsson et
+al., 2002; Ridgeway & Skerjanc, 2001). Myf5 is a direct target of Wnt/β-
+catenin (Borello et al., 2006). Activation of the Wnt signaling pathway
+enhances myogenesis and inhibits adipogenesis in cultured mesenchy-
+mal stem cells (Shang et al., 2007). Blocking the β-catenin pathway
+reduces myogenesis (Pan et al., 2005; Yamanouchi, Hosoyama,
+Murakami, & Nishihara, 2007). In our previous study in pregnant ewes
+which were fed 150% (over-nourished) or 100% (control) of nutrient
+requirements, the Wnt/β-catenin signaling was down-regulated in fetal
+muscle from over-nourished ewes compared to control ewes, which
+should at least partially be responsible for the down-regulation of
+myogenesis, but up-regulation of adipogenesis in the fetal muscle of
+over-nourished ewes (Tong et al., 2008; Zhu et al., 2008).
+Besides binding with TCF/LEF transcription factors to induce myogen-
+esis, β-catenin also serves as a cofactor of forkhead transcription factors
+(FOXO) (Manolagas & Almeida, 2007). β-Catenin binds directly to FOXO
+and enhances FOXO transcription activity in mammalian cells (Essers et
+al., 2005). Inﬂammation and oxidative stress enhance the expression of
+FOXO, which cause a diversion of the limited pool of β-catenin from TCF-
+mediated transcription to FOXO-mediated transcription (Du et al.,
+2010a). Reduced binding between TCF and β-catenin is observed after
+FOXO over-expression and cellular oxidative stress (Hoogeboom et al.,
+2008). In our over-nourished sheep study, an inﬂammatory response was
+observed in fetal skeletal muscle, which enhanced the formation of FOXO/
+β-catenin complex, down-regulating myogenesis and up-regulating
+adipogenesis (Tong et al., 2009). Furthermore, Wnt/β-catenin signaling
+regulates adipogenesis through COUP-TFII. Wnt/β-catenin signaling
+activates the expression of COUP-TFII, which recruits the silencing
+mediator for retinoic acid receptor and thyroid hormone receptor
+(SMRT) co-repressor complex to inhibit the expression of PPARγ1and
+γ2(Fig. 2)(Okamura et al., 2009).
+5. Bone morphogenetic proteins
+BMPs regulate diverse cellular processes such as cell differentiation,
+proliferation and apoptosis. BMPs belong to the transforming growth
+factor β (TGFβ) super-family. Two types of receptors are needed to
+activate BMP signaling, namely type 1 and type 2 receptors. Both
+receptors contain a domain with serine/threonine kinase activity. Upon
+binding to BMPs, the kinase activity of type 2 receptor is activated and
+phosphorylates type I receptor resulting the activation of intrinsic
+serine/threonine kinase which further phosphorylates Smad 1, 5 and/or
+8, so called regulatory Smads. Phosphorylated Smads then partner with
+Smad 4 to form a heterodimer which in turn migrates to nuclei to initiate
+gene expression.
+There are around 15 BMPs identiﬁed in mammals. BMP-2 and 4
+regulates adipogenesis and osteogenesis, while BMP-7 promotes brown
+adipogenesis (Tseng et al., 2008). The effect of BMPs on adipogenesis
+depends on the dosage. At low dosages, BMPs promote adipogenesis but
+at high dosages osteogenesis is enhanced instead. BMP-2, 4 and 7 all
+induce intracellular lipid accumulation and PPARγ expression, but only
+BMP-7 promote the expression of UCP-1, a marker of brown adipogen-
+esis. In addition, the expression of PRDM16, a critical regulator of brown
+adipogenesis, was also enhanced by BMP-7 (Tseng et al., 2008). BMP-2
+promotes the adipocytic lineage and the expression of genes associated
+with the fat-cell phenotype (Zehentner et al., 2000). Therefore, low
+levels of BMP-2 and 4 promote white adipogenesis while BMP-7
+promotes brown adipogenesis.
+BMP-2 promotes adipogenesis through Smad1 and p38, with the
+activation of both needed for adipogenesis induced by BMP-2 (Hata et al.,
+2003). The Smad 1, 5 and 8 generally prefer GC-rich binding elements
+even better than the Smad binding elements (5′-GTCTAGAC-3′), a DNA
+sequence in certain promoters preferably bound by Smad 2 and 3 (Zawel
+et al., 1998). Due to the non-speciﬁc binding of Smad 1, 5 and 8 with their
+target sequence, it is thought that co-activators are crucial in selecting
+BMP targets. Schnurri (Shn) is one of such co-activators. In vertebrates,
+there are three Shn orthologs, namely Shn-1, -2 and -3. Shn-2 knockout
+mice have less white adipose tissue compared to wild-type mice (Jin et
+al., 2006). Shn-2 enters nuclei upon BMP-2 stimulation and then, forms a
+complex with Smad1/4 and C/EBPα to induce PPARγ2 expression
+(Fig. 2)(Jin et al., 2006). Certainly, our current understanding regarding
+the identiﬁcation of gene targets by BMPs and its link to adipogenesis
+remains rudimentary, and more studies are apparently warranted.
+6. AMP-activated protein kinase
+Different from the previously discussed signaling pathways induced
+by extracellular morphogens, AMP-activated protein kinase (AMPK) is
+an intracellular kinase involved in the regulation of adipogenesis. AMPK
+is ubiquitously expressed in all mammalian cells and in the lower
+eukaryotes as its homologues (Aschenbach et al., 2002; Hardie, 2008).
+AMPK is composed of a 63 kDa catalytic subunit (α), a 30 kDa β subunit
+and a 38–63 kDa γ subunit (Davies et al., 1994; Mitchelhill et al. 1994).
+All three subunits, in a ratio of 1α:1β:1γ, are required for a functional
+AMPK (Dyck et al., 1996; Woods et al., 1996). Each subunit has isoforms
+(α1, α2, β1, β2, γ1, γ2, and γ3) and their expression shows tissue
+speciﬁcity (Beri et al., 1994; Cheung, Salt, Davies, Hardie, & Carling,
+2000; Hardie, Carling, & Carlson, 1998; Stapleton et al., 1997). The major
+role of AMPK is to regulate energy metabolism, which is allosterically
+activated by AMP through phosphorylation of Thr 172 on α subunit by
+upstream kinases (Hardie, 2008).
+In our previous studies in cattle, AMPK activity was positively
+associated with muscularity and negatively associated with the content
+of intramuscular adipocytes (Underwood et al., 2007; Underwood et al.,
+2007), indicating that AMPK switches MSCs in skeletal muscle from
+adipogenesis to myogenesis. Activation of AMPK by AICAR increases the
+expression of myogenic enhancer factor-2 (MEF2), enhancing myogen-
+esis (Al-Khalili et al., 2004). On the other hand, activation of AMPK
+106 M. Du et al. / Meat Science 86 (2010) 103–109
+inhibits the expression of PPARγ and C/EBPs in 3T3-L1 cells and also in
+obese mice (Giri et al., 2006; Habinowski & Witters, 2001). Genistein
+inhibits adipocyte differentiation via activation of AMPK (Hwang et al.,
+2005). Over-nutrition in pregnant ewes inhibited AMPK activity in fetal
+skeletal muscle while enhancing expression of PPARγ, a marker of
+adipogenesis; in addition, activation of AMPK by AICAR inhibited
+adipogenesis in cultured 3T3-L1 cells (Dagon, Avraham, & Berry, 2006;
+Tong et al., 2008; Zhu et al., 2008). Above evidences clearly demonstrate
+that AMPK activation inhibits adipogenesis. However, the mechanisms
+linking AMPK to adipogenesis remains undeﬁned, which might be
+associated with the role of AMPK in lipid metabolism. Inhibition of
+AMPK promotes lipid synthesis while reducing oxidation, which
+induces intracellular lipid accumulation. As ligands of PPARγ,such
+accumulation of lipids is expected to activate PPARγ to promote
+adipogenesis (Du et al., 2010b).
+7. Other signaling pathways involved in adipogenesis
+There are other pathways implicated in the regulation of adipogen-
+esis, of which Notch signaling is a major one. Notch signaling is a matrix
+dependent signaling pathway conserved throughout the animal
+kingdom (Bray, 2006). In an early study, Notch signaling pathway is
+identiﬁed to be crucial for adipogenesis in preadipocyte 3T3-L1 cells
+(Garces et al., 1997). However, in a later study, Notch pathway was
+observed to be unnecessary for adipogenesis (Nichols et al., 2004).
+Preadipocyte factor-1 (Pref-1, also called Dlk-1) inhibits Notch signaling
+and potentiates adipogenesis in C3H10T1/2 cells (Nueda, Baladron,
+Sanchez-Solana, Ballesteros, & Laborda, 2007), yet in another study,
+Pref-1 is observed to inhibit adipogenesis in 3T3-L1 cells (Wang, Kim,
+Kim, & Sul, 2006). These reports appear to be contradictory with each
+other. The possible reasons for such controversy may be due to the
+difference in treatments and cellular conditions, indicating that the
+effect of Notch signaling on adipogenesis is quite complicated. Other
+proteins, such as the retinoblastoma (pRb) family proteins, promote
+adipogenesis through direct interaction with C/EBPs (Chen, Riley, Chen,
+& Lee, 1996). Hormones such as insulin and IGF-1 also affect
+adipogenesis Tseng et al., 2005; Grohmann et al., 2005). In addition,
+myostatin, a member of transforming growth factor β family, is involved
+in the regulation of adipogenesis in bovine pre-adipocytes (Hirai et al.,
+2007a, b). Continued studies are likely to identify much more factors
+inﬂuencing the expression and function of PPARγ and adipogenesis.
+8. Conclusion
+Available studies identiﬁed that extracellular morphogens, including
+hedgehog, Wnt/β-catenin, and BMP signaling pathways regulate the
+early stage of adipogenesis. AMPK, an intracellular kinase, also has
+crucial roles in this process. Future efforts to elucidate the mechanisms
+regulating adipogenesis should be focused on: 1) deepening our
+understanding of identiﬁed pathways on the initial stage of adipogen-
+esis including co-activators and co-inhibitors involved in and their
+molecular interactions; 2) further efforts to identify additional path-
+ways regulating adipogenesis; 3) examining the integration of these
+identiﬁed signaling pathways and their cross-talks to regulate adipo-
+genesis; and 4) up to now, most of these knowledge about adipogenesis
+is obtained from rodent and cell line studies, studies using primary
+cultures of farm animals and in vivo studies in livestock are apparently
+needed, especially those studies directed at assessing the impact of
+genetic, physiological and nutritional factors on the early stage of
+adipogenesis in farm animals.
+Acknowledgement
+This work was supported by Research Initiative Grants 2008-35206-
+18826 and 2006-55618-16914 from the USDA Cooperative State
+Research, Education and Extension Service.
+References
+Al-Khalili, L., Chibalin, A. V., Yu, M., Sjodin, B., Nylen, C., Zierath, J. R., et al. (2004). MEF2
+activation in differentiated primary human skeletal muscle cultures requires
+coordinated involvement of parallel pathways. American Journal of Physiology Cell
+Physiology, 286, C1410−C1416.
+Armstrong, D. D., & Esser, K. A. (2005). Wnt/beta-catenin signaling activates growth-
+control genes during overload-induced skeletal muscle hypertrophy. American
+Journal of Physiology Cell Physiology, 289, C853−C859.
+Aschenbach, W. G., Hirshman, M. F., Fujii, N., Sakamoto, K., Howlett, K. F., & Goodyear, L. J.
+(2002). Effect of AICAR treatment on glycogen metabolism in skeletal muscle.
+Diabetes, 51,567−573.
+Beri, R. K., Marley, A. E., See, C. G., Sopwith, W. F., Aguan, K., Carling, D., et al. (1994).
+Molecular-cloning, expression and chromosomal localization of human AMP-
+activated. FEBS Letters, 356,117−121.
+Borello, U., Berarducci, B., Murphy, P., Bajard, L., Buffa, V., Piccolo, S., et al. (2006). The
+Wnt/beta-catenin pathway regulates Gli-mediated Myf5 expression during
+somitogenesis. Development, 133, 3723−3732.
+Borycki, A., Brown, A. M., & Emerson, C. P., Jr. (2000). Shh and Wnt signaling pathways
+converge to control Gli gene activation in avian somites. Development, 127, 2075−2087.
+Bray, S. J. (2006). Notch signalling: A simple pathway becomes complex. Nature Reviews
+Molecular Cell Biology, 7, 678−689.
+Capdevila, J., Tabin, C., & Johnson, R. L. (1998). Control of dorsoventral somite
+patterning by Wnt-1 and beta-catenin. Developmental Biology, 193, 182−194.
+Chen, P. L., Riley, D. J., Chen, Y., & Lee, W. H. (1996). Retinoblastoma protein positively
+regulates terminal adipocyte differentiation through direct interaction with C/EBPs.
+Genes and Development, 10,2794−2804.
+Cheung, P. C. F., Salt, I. P., Davies, S. P., Hardie, D. G., & Carling, D. (2000).
+Characterization of AMP-activated protein kinase gamma-subunit isoforms and
+their role in AMP binding. Biochemical Journal, 346, 659−669.
+Clarke, S. L., Robinson, C. E., & Gimble, J. M. (1997). CAAT/enhancer binding proteins directly
+modulate transcription from the peroxisome proliferator-activated receptor gamma 2
+promoter. Biochemical and Biophysical Research Communications, 240,99−103.
+Cousin, W., Fontaine, C., Dani, C., & Peraldi, P. (2007). Hedgehog and adipogenesis: Fat
+and ﬁction. Biochimie, 89, 1447−1453.
+Dagon, Y., Avraham, Y., & Berry, E. M. (2006). AMPK activation regulates apoptosis,
+adipogenesis, and lipolysis by eIF2alpha in adipocytes. Biochemical and Biophysical
+Research Communications, 340,43−47.
+Davies, S. P., Hawley, S. A., Woods, A., Carling, D., Haystead, T. A., & Hardie, D. G. (1994).
+Puriﬁcation of the AMP-activated protein kinase on ATP-gamma-sepharose and
+analysis of its subunit structure. European Journal of Biochemistry, 223, 351−357.
+Dierick, H., & Bejsovec, A. (1999). Cellular mechanisms of wingless/Wnt signal
+transduction. Current Topics in Developmental Biology, 43, 153−190.
+Du, M., & Zhu, M. J. (2009). Fetal programming of skeletal muscle development. In M.
+Du, & R. J. McCormick (Eds.), Applied muscle biology and meat science (pp. 81−96).
+Boca Raton, FL: CRC Press.
+Du, M., Yan, X., Tong, J. F., Zhao, J., & Zhu, M. J. (2010a). Maternal obesity, inﬂammation,
+and fetal skeletal muscle development. Biology of Reproduction, 82,4−12.
+Du, M., Tong, J., Zhao, J. F., Zhao, J., Underwood, K. R., Zhu, M., Ford, S. P., & Nathanielsz, P.
+W. (2010b). Fetal programming of skeletal muscle development in ruminant
+animals. Journal of Animal Science, 88, E51−E60.
+Dyck, J. R., Gao, G., Widmer, J., Stapleton, D., Fernandez, C. S., Kemp, B. E., et al. (1996).
+Regulation of 5′-AMP-activated protein kinase activity by the noncatalytic beta and
+gamma subunits. Journal of Biological Chemistry, 271, 17798−17803.
+Essers, M. A., de Vries-Smits, L. M., Barker, N., Polderman, P. E., Burgering, B. M., &
+Korswagen, H. C. (2005). Functional interaction between beta-catenin and FOXO in
+oxidative stress signaling. Science, 308, 1181−1184.
+Feng, X., Adiarte, E. G., & Devoto, S. H. (2006). Hedgehog acts directly on the zebraﬁsh
+dermomyotome to promote myogenic differentiation. Developmental Biology, 300,
+736−746.
+Fernyhough, M. E., Okine, E., Hausman, G., Vierck, J. L., & Dodson, M. V. (2007). PPARγ
+and GLUT-4 expression as developmental regulators/markers for preadipocyte
+differentiation into an adipocyte. Domestic Animal Endocrinology, 33, 367−378.
+Feve, B. (2005). Adipogenesis: Cellular and molecular aspects. Best Practice and Research
+Clinical Endocrinology and Metabolism, 19, 483−499.
+Fontaine, C., Cousin, W., Plaisant, M., Dani, C., & Peraldi, P. (2008). Hedgehog signaling alters
+adipocyte maturation of human mesenchymal stem cells. Stem Cells, 26,1037−1046.
+Frohnert, B. I., Hui, T. Y., & Bernlohr, D. A. (1999). Identiﬁcation of a functional
+peroxisome proliferator-responsive element in the murine fatty acid transport
+protein gene. Journal of Biological Chemistry, 274, 3970−3977.
+Garces, C., Ruiz-Hidalgo, M. J., Font de Mora, J., Park, C., Miele, L., Goldstein, J., et al.
+(1997). Notch-1 controls the expression of fatty acid-activated transcription factors
+and is required for adipogenesis. Journal of Biological Chemistry, 272, 29729−29734.
+Giri, S., Rattan, R., Haq, E., Khan, M., Yasmin, R., Won, J. S., et al. (2006). AICAR inhibits
+adipocyte differentiation in 3T3L1 and restores metabolic alterations in diet-
+induced obesity mice model. Nutrition & Metabolism, 3,31−51.
+Gnanalingham, M. G., Mostyn, A., Symonds, M. E., & Stephenson, T. (2005). Ontogeny
+and nutritional programming of adiposity in sheep: Potential role of glucocorticoid
+action and uncoupling protein-2. American Journal of Physiology: Regulatory,
+Integrative and Comparative Physiology, 289, R1407−R1415.
+Gotoh, T., Albrecht, E., Teuscher, F., Kawabata, K., Sakashita, K., Iwamoto, H., et al.
+(2009). Differences in muscle and fat accretion in Japanese Black and European
+cattle. Meat Science, 82, 300−308.
+Greenwood, P. L., Slepetis, R. M., Hermanson, J. W., & Bell, A. W. (1999). Intrauterine growth
+retardation is associated with reduced cell cycle activity, but not myoﬁbre number, in
+ovine fetal muscle. Reproduction, Fertility, and Development, 11,281−291.
+107M. Du et al. / Meat Science 86 (2010) 103–109
+Grohmann, M., Sabin, M., Holly, J., Shield, J., Crowne, E., & Stewart, C. (2005).
+Characterization of differentiated subcutaneous and visceral adipose tissue from
+children: The inﬂuences of TNF-alpha and IGF-I. Journal of Lipid Research, 46,93−103.
+Gustafsson, M. K., Pan, H., Pinney, D. F., Liu, Y., Lewandowski, A., Epstein, D. J., et al.
+(2002). Myf5 is a direct target of long-range Shh signaling and Gli regulation for
+muscle speciﬁcation. Genes & Development, 16, 114−126.
+Habinowski, S. A., & Witters, L. A. (2001). The effects of AICAR on adipocyte
+differentiation of 3T3-L1 cells. Biochemical and Biophysical Research Communica-
+tions, 286, 852−856.
+Hardie, D. G. (2008). AMPK: A key regulator of energy balance in the single cell and the
+whole organism. International Journal of Obesity, 32,S7−S12.
+Hardie, D. G., Carling, D., & Carlson, M. (1998). The AMP-activated/SNF1 protein kinase
+subfamily: Metabolic sensors of the eukaryotic cell? Annual Review of Biochemistry,
+67, 821−855.
+Harper, G. S., & Pethick, D. W. (2004). How might marbling begin? Australian Journal of
+Experimental Agriculture, 44, 653−662.
+Hata, K., Nishimura, R., Ikeda, F., Yamashita, K., Matsubara, T., Nokubi, T., et al. (2003).
+Differential roles of Smad1 and p38 kinase in regulation of peroxisome proliferator-
+activating receptor gamma during bone morphogenetic protein 2-induced
+adipogenesis. Molecular Biology of the Cell, 14, 545−555.
+Hausman, G. J., Dodson, M. V., Ajuwon, K., Azain, M., Barnes, K. M., Guan, L. L., et al.
+(2009). Board-invited review: The biology and regulation of preadipocytes and
+adipocytes in meat animals. Journal of Animal Science, 87, 1218−1246.
+Hecht, A., & Kemler, R. (2000). Curbing the nuclear activities of beta-catenin. Control
+over Wnt target gene expression. EMBO Reports, 1,24−28.
+Hirai, S., Matsumoto, H., Hino, N., Kawachi, H., Matsui, T., & Yano, H. (2007a). Myostatin
+inhibits differentiation of bovine preadipocyte. Domestic Animal Endocrinology, 32,1−14.
+Hirai, S., Matsumoto, H., Hino, N., Kawachi, H., Matsui, T., & Yano, H. (2007b). Follistatin
+rescues the inhibitory effect of activin A on the differentiation of bovine
+preadipocytes. Domestic Animal Endocrinology, 33, 269−280.
+Hocquette, J. F., Gondret, F., Baeza, E., Medale, F., Jurie, C., & Pethick, D. W. (2010).
+Intramuscular fat content in meat-producing animals: Development, genetic and
+nutritional control, and identiﬁcation of putative markers. Animal, 4, 303−319.
+Hoogeboom, D., Essers, M. A., Polderman, P. E., Voets, E., Smits, L. M., & Burgering, B. M.
+(2008). Interaction of FOXO with beta-catenin inhibits beta-catenin/T cell factor
+activity. Journal of Biological Chemistry, 283, 9224−9230.
+Hu, Y., & Davies, G. E. (2009). Berberine increases expression of GATA-2 and GATA-3
+during inhibition of adipocyte differentiation. Phytomedicine, 16, 864−873.
+Hu, E., Kim, J. B., Sarraf, P., & Spiegelman, B. M. (1996). Inhibition of adipogenesis through
+MAP kinase-mediated phosphorylation of PPARgamma. Science, 274, 2100−2103.
+Huelsken, J., & Birchmeier, W. (2001). New aspects of Wnt signaling pathways in higher
+vertebrates. Current Opinion in Genetics & Development, 11, 547−553.
+Hwang, J. T., Park, I. J., Shin, J. I., Lee, Y. K., Lee, S. K., Baik, H. W., et al. (2005). Genistein,
+EGCG, and capsaicin inhibit adipocyte differentiation process via activating AMP-
+activated protein kinase. Biochemical and Biophysical Research Communications,
+338, 694−699.
+IJpenberg, A., Jeannin, E., Wahli, W., & Desvergne, B. (1997). Polarity and speciﬁcsequence
+requirements of peroxisome proliferator-activated receptor (PPAR)/retinoid× recep-
+tor heterodimer binding to DNA. A functional analysis of the malic enzyme gene PPAR
+response element. Journal of Biological Chemistry, 272,20108−20117.
+Jin, W., Takagi, T., Kanesashi, S. N., Kurahashi, T., Nomura, T., Harada, J., et al. (2006).
+Schnurri-2 controls BMP-dependent adipogenesis via interaction with Smad proteins.
+Developmental Cell, 10,461−471.
+Johnson, M. L., & Rajamannan, N. (2006). Diseases of Wnt signaling. Reviews in
+Endocrine & Metabolic Disorders, 7,41−49.
+Kajimura, S., Seale, P., Kubota, K., Lunsford, E., Frangioni, J. V., Gygi, S. P., et al. (2009).
+Initiation of myoblast to brown fat switch by a PRDM16-C/EBP-beta transcriptional
+complex. Nature, 460, 1154−1158.
+Katanaev, V. L., Ponzielli, R., Semeriva, M., & Tomlinson, A. (2005). Trimeric G protein-
+dependent frizzled signaling in Drosophila. Cell, 120, 111−122.
+Kim,J.B.,&Spiegelman,B.M.(1996).ADD1/SREBP1promotesadipocytedifferentiationand
+gene expression linked to fatty acid metabolism. Genes & Development, 10, 1096−1107.
+Kliewer, S. A., Lenhard, J. M., Willson, T. M., Patel, I., Morris, D. C., & Lehmann, J. M.
+(1995). A prostaglandin J2 metabolite binds peroxisome proliferator-activated
+receptor gamma and promotes adipocyte differentiation. Cell, 83, 813−819.
+Krishnan, V., Elberg, G., Tsai, M. J., & Tsai, S. Y. (1997). Identiﬁcation of a novel sonic
+hedgehog response element in the chicken ovalbumin upstream promoter-
+transcription factor II promoter. Molecular Endocrinology, 11, 1458−1466.
+Krishnan, V., Pereira, F. A., Qiu, Y., Chen, C. H., Beachy, P. A., Tsai, S. Y., et al. (1997). Mediation
+of Sonic hedgehog-induced expression of COUP-TFII by a protein phosphatase. Science,
+278, 1947−1950.
+Liu, X., Rubin, J. S., & Kimmel, A. R. (2005). Rapid, Wnt-induced changes in GSK3beta
+associations that regulate beta-catenin stabilization are mediated by Galpha
+proteins. Current Biology, 15, 1989−1997.
+Manolagas, S. C., & Almeida, M. (2007). Gone with the Wnts: Beta-catenin, T-cell factor,
+forkhead box O, and oxidative stress in age-dependent diseases of bone, lipid, and
+glucose metabolism. Molecular Endocrinology, 21, 2605−2614.
+Mermelstein, C. S., Portilho, D. M., Mendes, F. A., Costa, M. L., & Abreu, J. G. (2007). Wnt/
+beta-catenin pathway activation and myogenic differentiation are induced by
+cholesterol depletion. Differentiation; Research in Biological Diversity, 75, 184−192.
+Mitchelhill, K. I., Stapleton, D., Gao, G., House, C., Michell, B., Katsis, F., et al. (1994).
+Mammalian AMP-activated protein kinase shares structural and functional homology
+with the catalytic domain of yeast Snf1 protein kinase. Journal of Biological Chemistry,
+269,2361−2364.
+Morin, S., Charron, F., Robitaille, L., & Nemer, M. (2000). GATA-dependent recruitment
+of MEF2 proteins to target promoters. EMBO Journal, 19, 2046−2055.
+Muhlhausler, B. S., Dufﬁeld, J. A., & McMillen, I. C. (2006). Increased maternal nutrition
+stimulates Peroxisome Proliferator Activated Receptor-gamma (PPARgamma),
+adiponectin and leptin mRNA expression in adipose tissue before birth. Endocrinology,
+148,878−885.
+Nagy, L., Tontonoz, P., Alvarez, J. G., Chen, H., & Evans, R. M. (1998). Oxidized LDL
+regulates macrophage gene expression through ligand activation of PPARgamma.
+Cell, 93, 229−240.
+Nedergaard, J., Petrovic, N., Lindgren, E. M., Jacobsson, A., & Cannon, B. (2005).
+PPARgamma in the control of brown adipocyte differentiation. Biochimica et
+Biophysica Acta, 1740, 293−304.
+Nichols, A. M., Pan, Y., Herreman, A., Hadland, B. K., De Strooper, B., Kopan, R., et al.
+(2004). Notch pathway is dispensable for adipocyte speciﬁcation. Genesis, 40,
+40−44.
+Nieuwenhuis, E., Motoyama, J., Barnﬁeld, P. C., Yoshikawa, Y., Zhang, X., Mo, R., et al.
+(2006). Mice with a targeted mutation of patched2 are viable but develop alopecia
+and epidermal hyperplasia. Molecular and Cellular Biology, 26, 6609−6622.
+Nueda, M. L., Baladron, V., Sanchez-Solana, B., Ballesteros, M. A., & Laborda, J. (2007).
+The EGF-like protein dlk1 inhibits notch signaling and potentiates adipogenesis of
+mesenchymal cells. Journal of Molecular Biology, 367, 1281−1293.
+Okamura, M., Kudo, H., Wakabayashi, K., Tanaka, T., Nonaka, A., Uchida, A., et al. (2009).
+COUP-TFII acts downstream of Wnt/beta-catenin signal to silence PPARgamma
+gene expression and repress adipogenesis. Proceedings of the National Academy of
+Science of the United States of America, 106, 5819−5824.
+Pan, W., Jia, Y., Wang, J., Tao, D., Gan, X., Tsiokas, L., et al. (2005). Beta-catenin regulates
+myogenesis by relieving I-mfa-mediated suppression of myogenic regulatory
+factors in P19 cells. Proceedings of the National Academy of Sciences of the United
+States of America, 102, 17378−17383.
+Park, H. L., Bai, C., Platt, K. A., Matise, M. P., Beeghly, A., Hui, C. C., et al. (2000). Mouse
+Gli1 mutants are viable but have defects in SHH signaling in combination with a
+Gli2 mutation. Development, 127, 1593−1605.
+Persson, M., Stamataki, D., te Welscher, P., Andersson, E., Bose, J., Ruther, U., et al.
+(2002). Dorsal-ventral patterning of the spinal cord requires Gli3 transcriptional
+repressor activity. Genes & Development, 16, 2865−2878.
+Polesskaya, A., Seale, P., & Rudnicki, M. A. (2003). Wnt signaling induces the myogenic
+speciﬁcation of resident CD45+ adult stem cells during muscle regeneration. Cell,
+113, 841−852.
+Puigserver, P., Wu, Z., Park, C. W., Graves, R., Wright, M., & Spiegelman, B. M. (1998). A
+cold-inducible coactivator of nuclear receptors linked to adaptive thermogenesis.
+Cell, 92, 829−839.
+Ridgeway, A. G., & Skerjanc, I. S. (2001). Pax3 is essential for skeletal myogenesis and
+the expression of Six1 and Eya2. Journal of Biological Chemistry, 276, 19033−19039.
+Rosen, E. D., & MacDougald, O. A. (2006). Adipocyte differentiation from the inside out.
+Nature Reviews Molecular Cell Biology, 7, 885−896.
+Rosen, E. D., Hsu, C. H., Wang, X., Sakai, S., Freeman, M. W., Gonzalez, F. J., et al. (2002).
+C/EBPalpha induces adipogenesis through PPARgamma: A uniﬁed pathway. Genes
+& Development, 16,22−26.
+Russell, R. G., & Oteruelo, F. T. (1981). An ultrastructural study of the differentiation of
+skeletal muscle in the bovine fetus. Anatomy and Embryology, 162, 403−417.
+Schopfer, F. J., Lin, Y., Baker, P. R., Cui, T., Garcia-Barrio, M., Zhang, J., et al. (2005).
+Nitrolinoleic acid: An endogenous peroxisome proliferator-activated receptor
+gamma ligand. Proceedings of the National Academy of Sciences of the United States of
+America, 102, 2340−2345.
+Schupp, M., Cristancho, A. G., Lefterova, M. I., Hanniman, E. A., Briggs, E. R., Steger, D. J.,
+et al. (2009). Re-expression of GATA2 cooperates with peroxisome proliferator-
+activated receptor-gamma depletion to revert the adipocyte phenotype. Journal of
+Biological Chemistry, 284, 9458−9464.
+Seale, P., Bjork, B., Yang, W., Kajimura, S., Chin, S., Kuang, S., et al. (2008). PRDM16
+controls a brown fat/skeletal muscle switch. Nature, 454, 961−967.
+Shang, Y. C., Zhang, C., Wang, S. H., Xiong, F., Zhao, C. P., Peng, F. N., et al. (2007).
+Activated beta-catenin induces myogenesis and inhibits adipogenesis in BM-
+derived mesenchymal stromal cells. Cytotherapy, 9, 667−681.
+Shao, D., Rangwala, S. M., Bailey, S. T., Krakow, S. L., Reginato, M. J., & Lazar, M. A. (1998).
+Interdomain communication regulating ligand binding by PPAR-gamma. Nature,
+396, 377−380.
+Smith, S. B., Kawachi, H., Choi, C. B., Choi, C. W., Wu, G., & Sawyer, J. E. (2009). Cellular
+regulation of bovine intramuscular adipose tissue development and composition.
+Journal of Animal Science, 87, E72−E82.
+Spinella-Jaegle, S., Rawadi, G., Kawai, S., Gallea, S., Faucheu, C., Mollat, P., et al. (2001).
+Sonic hedgehog increases the commitment of pluripotent mesenchymal cells into
+the osteoblastic lineage and abolishes adipocytic differentiation. Journal of Cell
+Science, 114, 2085−2094.
+Stapleton, D., Woollatt, E., Mitchelhill, K. I., Nicholl, J. K., Fernandez, C. S., Michell, B. J.,
+et al. (1997). AMP-activated protein kinase isoenzyme family: Subunit structure
+and chromosomal location. FEBS Letters, 409, 452−456.
+Suh, J. M., Gao, X., McKay, J., McKay, R., Salo, Z., & Graff, J. M. (2006). Hedgehog signaling
+plays a conserved role in inhibiting fat formation. Cell Metabolism, 3,25−34.
+Tong, J., Zhu, M. J., Underwood, K. R., Hess, B. W., Ford, S. P., & Du, M. (2008). AMP-
+activated protein kinase and adipogenesis in sheep fetal skeletal muscle and 3T3-L1
+cells. Journal of Animal Science, 86, 1296−1305.
+Tong, J. F., Yan, X., Zhu, M. J., Ford, S. P., Nathanielsz, P. W., & Du, M. (2009). Maternal
+obesity downregulates myogenesis and {beta}-catenin signaling in fetal skeletal
+muscle. American Journal of Physiology, Endocrinology and Metabolism, 296,
+E917−E924.
+Tsai, J., Tong, Q., Tan, G., Chang, A. N., Orkin, S. H., & Hotamisligil, G. S. (2005). The
+transcription factor GATA2 regulates differentiation of brown adipocytes. EMBO
+Reports, 6, 879−884.
+108 M. Du et al. / Meat Science 86 (2010) 103–109
+Tseng, Y. H., Butte, A. J., Kokkotou, E., Yechoor, V. K., Taniguchi, C. M., Kriauciunas, K. M.,
+et al. (2005). Prediction of preadipocyte differentiation by gene expression reveals
+role of insulin receptor substrates and necdin. Nature Cell Biology, 7, 601−611.
+Tseng, Y. H., Kokkotou, E., Schulz, T. J., Huang, T. L., Winnay, J. N., Taniguchi, C. M., et al.
+(2008). New role of bone morphogenetic protein 7 in brown adipogenesis and
+energy expenditure. Nature, 454, 1000−1004.
+Underwood, K. R., Means, W. J., Zhu, M. J., Ford, S. P., Hess, B. W., & Du, M. (2007). AMP-
+activated protein kinase is negatively associated with intramuscular fat content in
+longissimus dorsi muscle of beef cattle. Meat Science, 79, 394−402.
+Underwood, K. R., Tong, J., Zhu, M. J., Shen, Q. W., Means, W. J., Ford, S. P., et al. (2007).
+Relationship between kinase phosphorylation, muscle ﬁber typing, and glycogen
+accumulation in longissimus muscle of beef cattle with high and low intramuscular
+fat. Journal of Agricultural and Food Chemistry, 55, 9698−9703.
+Wang, Y., Kim, K. A., Kim, J. H., & Sul, H. S. (2006). Pref-1, a preadipocyte secreted factor
+that inhibits adipogenesis. Journal of Nutrition, 136, 2953−2956.
+Woods, A., Cheung, P. C., Smith, F. C., Davison, M. D., Scott, J., Beri, R. K., et al. (1996).
+Characterization of AMP-activated protein kinase beta and gamma subunits. Assembly of
+the heterotrimeric complex in vitro. Journal of Biological Chemistry, 271, 10282−10290.
+Wu, Z., Rosen, E. D., Brun, R., Hauser, S., Adelmant, G., Troy, A. E., et al. (1999). Cross-
+regulation of C/EBP alpha and PPAR gamma controls the transcriptional pathway of
+adipogenesis and insulin sensitivity. Molecular Cell, 3, 151−158.
+Xu, Z., Yu, S., Hsu, C. H., Eguchi, J., & Rosen, E. D. (2008). The orphan nuclear receptor
+chicken ovalbumin upstream promoter-transcription factor II is a critical regulator
+of adipogenesis. Proceedings of the National Academy of Science of the United States of
+America, 105, 2421−2426.
+Yamanouchi, K., Hosoyama, T., Murakami, Y., & Nishihara, M. (2007). Myogenic and
+adipogenic properties of goat skeletal muscle stem cells. Journal of Reproduction and
+Development, 53,51−58.
+Zawel, L., Dai, J. L., Buckhaults, P., Zhou, S., Kinzler, K. W., Vogelstein, B., et al. (1998). Human
+Smad3 and Smad4 are sequence-speciﬁc transcription activators. Molecular Cell, 1,
+611−617.
+Zehentner, B. K., Leser, U., & Burtscher, H. (2000). BMP-2 and sonic hedgehog have contrary
+effects on adipocyte-like differentiation of C3H10T1/2 cells. DNA and Cell Biology, 19,
+275−281.
+Zhu, M. J., Han, B., Tong, J., Ma, C., Kimzey, J. M., Underwood, K. R., et al. (2008). AMP-
+activated protein kinase signalling pathways are down regulated and skeletal
+muscle development impaired in fetuses of obese, over-nourished sheep. Journal of
+Physiology, 586, 2651−2664.
+Ziouzenkova, O., & Plutzky, J. (2008). Retinoid metabolism and nuclear receptor responses:
+New insights into coordinated regulation of the PPAR–RXR complex. FEBS Letters, 582,
+32−38.
+Ziouzenkova, O., Orasanu, G., Sukhova, G., Lau, E., Berger, J. P., Tang, G., et al. (2007).
+Asymmetric cleavage of beta-carotene yields a transcriptional repressor of
+retinoid × receptor and peroxisome proliferator-activated receptor responses.
+Molecular Endocrinology, 21,77−88.
+109M. Du et al. / Meat Science 86 (2010) 103–109

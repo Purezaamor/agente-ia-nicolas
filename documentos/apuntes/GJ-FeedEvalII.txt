@@ -1,0 +1,567 @@
+=== Fuente: GJ-FeedEvalII.pdf ===
+
+Evaluación de alimentos para 
+animales
+Cátedra de Nutrición y Alimentación Animal
+Departamento Producción Animal
+Facultad de Agronomía - UBA 
+PRINCIPIOS BASICOS 
+Alimentos 
+y 
+Nutrientes
+Evaluación de 
+la calidad
+Evaluación de 
+Requerimientos
+ALIMENTACION
+PRODUCCION ANIMAL
+METABOLISMO
+Objetivos
+/ring4 Analizar la importancia de la 
+evaluación de alimentos en los 
+sistemas de producción animal
+/ring4 Conocer los principales sistemas de 
+evaluación de alimentos para 
+animales
+Contenidos
+/ring4 Objetivos de la evaluación de alimentos
+/ring4 Concepto de valor nutritivo
+/ring4 Muestreo
+/ring4 Procesamiento y conservación de muestras
+/ring4 Tipos de evaluaciones
+/circle6 Características organolépticas
+/circle6 Aspectos microbiológicos
+/circle6 Aspectos físicos
+/circle6 Composición química
+/circle6 Valoraciones nutricionales
+/ring4 Digestibilidad
+/ring4 Factores que modifican la digestibilidad
+Valoraciones 
+nutricionales
+Métodos biológicos
+Métodos biológicos
+/ring4 In situ o in sacco
+/circle6 Degradabilidad (ambiente ruminal)
+/ring4 In vivo
+/circle6 digestibilidad
+/circle6 consumo
+/ring4 In vitro
+/circle6 métodos de punto final (Tilley y Terry, 1963)
+/circle6 producción de gas (Menke y Steingass, 
+1988 - Theodorou y otros, 1992)
+Técnica in situ o in sacco
+Degradabilidad
+
+Degradabilidad in situ
+/ring4 Bolsitas incubadas por
+tiempos variables dentro
+del rumen
+/ring4 Se determina la tasa y 
+extensión de la 
+“degradación” de MS, 
+FDN, FDA, almidón y PB
+/ring4 Pérdida de partículas
+
+Curva de Degradabilidad
+Tiempo (h)
+Proteína
+10
+60
+50
+40
+30
+20
+24 7248 96 126
+ab
+a + b
+c
+a = fracción inmediatamente soluble
+b = fracción insoluble potencialmente degradable
+c = tasa de degradación de b
+100 – (a + b) = fracción indigestible
+Deg = a + b (1 – e-ct)
+Curva de Degradabilidad
+Digestibilidad
+Digestibilidad
+Es la proporción del alimento consumido que 
+no aparece en las heces
+Digestibilidad * = -------------------------------
+Consumido - Heces
+Consumido
+* materia seca, materia orgánica, energía, nitrógeno, lípidos, fibra, etc
+Alimento
+Heces
+Digestibilidad = --------------------------------
+Consumido - Heces
+Consumido
+DIG
+IND IND
+Digestibilidad = --------------------------------
+Consumido - Heces
+Consumido
+¿Cómo se puede obtener el 
+valor de digestibilidad de los 
+alimentos?
+/ring4 Medición con animales ( in vivo )
+/ring4 Métodos de laboratorio ( in vitro )
+/ring4 Ecuaciones que utilizan los resultados 
+de química húmeda (fibra)
+Digestibilidad in vivo
+
+Métodos in vivo
+/ring4 Involucran 
+mediciones de 
+consumo y excretas
+/ring4 Desventajas:
+/circle6 demandan tiempo y 
+mano de obra 
+elevada
+/circle6 alto costo 
+(alimentación e 
+infraestructura)
+
+Utilidad de los métodos in 
+vivo
+/ring4 Investigación
+/ring4 Referencia para la calibración de 
+métodos más sencillos y rápidos 
+(química húmeda e in vitro )
+Cálculos
+/ring4 Oferta de alimento                 16 kg MS
+/ring4 Alimento rechazado                4 kg MS
+/ring4 Consumo                               12 kg MS
+/ring4 Heces                                      4.8 kg MS
+Digestibilidad =  (12  - 4.8)  * 100  =  60 % 
+12
+Cálculo de digestibilidad in vivo
+Día oferta  
+(g MS) 
+rechazo  
+(g MS)  
+ consumo 
+(g MS)  
+excreta 
+(g MS)  
+1 1250 150  425 
+2 1250 25  400 
+3 1250 64  423 
+4 1250 30  430 
+Promedio      
+ 
+ 
+1100
+1225
+1186
+1220
+1183 420
+DMS in vivo =  ( 1183  - 420 )  x  100  =  64.5 %
+1183 
+Digestibilidad
+/ring4 Aparente
+/circle6 En las heces se encuentran compuestos del 
+alimento consumido y de origen bacteriano y 
+endógeno, sin ser estos dos últimos 
+provenientes del mismo.
+/ring4 Real
+/circle6 Para su cálculo se deben descontar de las 
+heces los componentes de origen bacteriano y 
+endógeno. 
+/circle6 Cuantitativamente es siempre mayor que la 
+aparente
+Digestibilidad aparente vs. Digestibilidad real
+Dig. N Real = -----------------------------------------------
+N consumido – (N fecal – N endógeno)
+N consumido 
+DIG
+IND IND
+Alimento
+Heces
+Digestibiliad aparente vs. 
+Digestibilidad real
+Dig. N Real = -----------------------------------------------
+N consumido – (N fecal – N endógeno)
+N consumido 
+100%
+DIG
+IND IND
+Cálculos
+/ring4 Consumo                   12 kg MS
+/ring4 Heces                          4.8 kg MS
+/ring4 MS bacteriana             0.2 kg MS
+/ring4 MS endógena              0.3 kg MS
+Dig Real =   12 - [4.8 - (0.2 + 0.3)]  * 100  =  64.2 %
+12
+Métodos in vitro
+Métodos in vitro
+/ring4 Basados en la digestión del alimento en 
+un ambiente similar al tracto digestivo
+/ring4 Utilizan inóculos que realizan la digestión
+/circle6 licor de rumen
+/circle6 enzimas
+/circle6 combinación de licor + enzimas
+Animales donantes de licor 
+ruminal
+Métodos in vitro
+Métodos in vitro
+
+Métodos in vitro
+Método de evaluación in vitro
+/ring4 Medidas de punto final
+/circle6 Tilley y Terry (1963)
+/circle6 Goering y Van Soest (1970)
+/ring4 Cinéticas de digestión
+/circle6 Método de producción de gas
+/circle6 Sistema ANKOM
+Métodos in vitro
+Métodos de punto final (1)
+Tilley y Terry (1963)
+/circle6 licor ruminal
+/circle6 pepsina
+Mide el residuo final que no ha sido digerido
+Buena correlación con la digestibilidad 
+aparente ( in vivo )
+Métodos in vitro
+Métodos de punto final (2)
+Goering y Van Soest (1970)
+/circle6 licor ruminal
+/circle6 lavado con detergente neutro
+Permite estimar la digestibilidad de la fibra 
+insoluble en detergente neutro
+Buena correlación con la digestibilidad real 
+(in vivo )
+Métodos in vitro
+Correlación entre DMS in vivo e in vitro (Tilley
+y Terry)
+40
+50
+60
+70
+80
+40 50 60 70 80
+DMS in vitro (%)
+DMS in vivo (%)
+Adaptado de
+Givens y otros, 1993
+Métodos in vitro
+Métodos in vitro de 
+producción de gas
+
+Metabolismo energético
+Alimento
+Protoplasma microbiano
+Alimento sin digerirGases
+AGV
+Métodos in vitro de producción de gas
+Alimento
+Gases
+Microorganismos
+Alimento sin digerir
+P = 0 P > 0
+Incubación
+Gas producido : f (alimento digerido por los microorganismos)
+Método de producción de 
+gas
+/ring4 A causa de la 
+degradación del 
+alimento se libera 
+gas
+/ring4 La cantidad de gas 
+liberado es 
+proporcional a la 
+cantidad de materia 
+seca desaparecida
+Métodos in vitro de producción de gas
+
+Producción de gas - Reading
+Mauricio et al. (1999) AFST 79: 321-330
+Producción de gas - FAUBA
+
+Producción de gas - FAUBA
+
+Cinética de producción de gas
+0
+50
+100
+150
+200
+250
+0 50 100 150
+Tiempo de incubación (hs)
+Producción de gas acumulado (ml)
+Silaje de Maíz S. Maíz + 30% conc. S. Maíz + 60% conc.
+0
+2
+4
+6
+8
+10
+12
+0 5 10 15 20 25
+Silaje de Maíz S. Maíz + 30% conc. S. Maíz + 60% conc.
+Tasa de producción de gas (ml/h)
+Estimaciones de la 
+Digestibilidad a partir de la 
+composición química
+Predicción de la DMS a partir de la 
+FDA para silajes de maíz
+40
+50
+60
+70
+80
+10 20 30 40 50 60
+FDA (%)
+DMS (%)
+(Penn State)
+(Marten y otros,
+1975)
+(Givens y otros, 1995)
+Características de las predicciones 
+de digestibilidad
+/ring4 Predicen la digestibilidad máxima o potencial
+/ring4 Las calibraciones fueron realizadas  a nivel 
+de consumo mínimo (mantenimiento)
+/ring4 La disminución de la digestibilidad a causa 
+del aumento en el nivel de consumo no es 
+tenida en cuenta.
+Factores que 
+determinan la 
+digestibilidad
+Digestibilidad
+DEL ALIMENTO
+Composición química
+Procesamiento
+Efectos asociativos
+DEL ANIMAL
+Edad
+Especie
+INTERACCION
+Consumo 
+FACTORES QUE LA MODIFICAN
+Factores del animal
+Especie animal
+Factores del animal que modifican la digestibilidad
+Digestibilidad MS (g/kg MS)
+564324Heno de alfalfa
+820865Grano de maíz
+NovilloCerdo
+Edad
+/ring4 Durante la etapa de pre-rumiante los animales digieren 
+dietas líquidas, lactosa, glucosa y galactosa
+/ring4 La capacidad de absorber intactas inmunoglobulinas 
+disminuye a lo largo de los primeros días de vida
+Factores del animal que modifican la digestibilidad
+
+Factores del 
+alimento
+Predicción de la DMS a partir de la 
+FDA para silajes de pastura
+40
+50
+60
+70
+80
+90
+10 20 30 40 50
+FDA (%)
+DMS (%)
+(Yan y Agnew, 2004)
+(Givens y otros, 1989)
+(Givens y otros, 1993)
+Variación en el contenido de FDA del 
+grano y del silaje de planta entera de 
+maíz
+0
+0.2
+0.4
+0.6
+0.8
+1
+0 10 20 30 40 50 60
+Contenido de FDA (%)
+Frecuencia relativa
+0
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+Jaurena y Danelón, 2001
+Estado fenológico y composición química
+DMO
+(%)
+Tiempo
+Emergencia de inflorescencia
+Factores del alimento que afectan la digestibilidad
+50
+60
+70
+80
+90
+0 1 2 3 4 5 6 7
+Fechas de corte
+DMS, %
+Alfalfa Tr. Rojo Tr. Blanco
+Efecto del crecimiento del forraje sobre la 
+digestibilidad de la materia seca (MSD)
+Parte de la planta y composición 
+química
+Pl. joven Pl. madura
+25
+0
+30
+45
+60
+75
+Altura 
+(cm)
+65
+55 40
+46
+79 50
+63
+77
+DMS%
+Factores del alimento que afectan la digestibilidad
+Parte de la planta y composición 
+química
+H
+Tiempo
+DMS
+T
+Pasto ovillo Alfalfa
+H
+T
+Tiempo
+DMS
+Factores del alimento que afectan la digestibilidad
+0
+10
+20
+30
+40
+50
+60
+70
+80
+1 2 3 4 5 6
+Fechas
+% de Tallos
+0
+10
+20
+30
+40
+50
+60
+70
+DMS, %
+% Tallos Dig.hojas Dig. Tallos
+Efecto de la madurez de forraje de alfalfa 
+sobre la digestibilidad de la materia seca 
+(DMS)
+Especie Vegetal
+Factores del alimento que afectan la digestibilidad
+Para un estado fenológico similar las 
+leguminosas presentan mayor digestibilidad 
+que las gramíneas
+Especie Vegetal
+Factores del alimento que afectan la digestibilidad
+CC
+PCD
+PCI
+Gramíneas
+CC
+PCD
+PCI
+Leguminosas
+Especie Vegetal
+Factores del alimento que afectan la digestibilidad
+CC
+PCD
+PCI
+Gramíneas
+CC
+PCD
+PCI
+Leguminosas
+Efectos asociativos 
+0 100%grano
+DMS 
+ración
+DMS
+forraje
+DMS grano
+Carbohidratos 
+rápidamente 
+fermentados
+ACCION SINÉRGICA
+Prod. AGV’s
+pH
+Dfibra < DMS 
+Factores del alimento que determinan la digestibilidad
+Efecto asociativo negativo
+ pH rumen  horas degr. 
+celulosa 
+DMS % 
+celulosa 
+Heno 6.57 27 81 
+Heno + 
+concentrado  
+6.04 42 78 
+ 
+ 
+Terry, 1969
+Factores del alimento que determinan la digestibilidad
+Efecto asociativo positivo
+ 0 (A) 50 (B) B-A/B x 100  
+DMS % 41.5 60 45 
+CMS kg/d 2.91 4.22 45 
+CMSD 1.20 2.53 110 
+PB% ración  5.2 8.5 - 
+    
+    
+ 
+ 
+Dieta base de Pasto llorón
+gr urea / día
+Factores del alimento que determinan la digestibilidad
+Procesamiento
+/ring4 Químicos
+/circle6 NaOH y NH 3 para pajas y 
+granos
+Factores del alimento que modifican la digestibilidad
+420500590Heno de moha semillada
+620660670Heno alfalfa 10% Floración
+MolidoPicadoEntero
+Digestibilidad de la Energía 
+(g/kg MS)
+/ring4 Físicos 
+/circle6 Calor
+/circle6 Picado y molido
+Interacción entre el 
+animal y el alimento
+Efecto del consumo sobre la 
+digestibilidad
+Forrajes
+DMS
+%
+CMS, múltiplo del M
+1 2 3 4
+Blaxter, 1962
+Corte temprano
+Corte medio
+Corte tardío
+Interacción entre el animal y el alimento que modifican la digestibilidad
+Efecto del consumo sobre la 
+digestibilidad
+Dietas mixtas
+DMS%
+CMS, múltiplo de MTyrrel, 1972
+1 2 3 4
+25:75 F:C
+50:50 F:C
+75:25 F:C
+Interacción entre el animal y el alimento que modifican la digestibilidad

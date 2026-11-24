@@ -1,0 +1,1491 @@
+=== Fuente: J ANIM SCI-1999-Moore-122-35.pdf ===
+
+J. E. Moore, M. H. Brant, W. E. Kunkle and D. I. Hopkins
+performance
+Effects of supplementation on voluntary forage intake, diet digestibility, and animal
+1999, 77:122-135.J ANIM SCI 
+http://jas.fass.org/content/77/suppl_2/122.citation
+the World Wide Web at: 
+The online version of this article, along with updated information and services, is located on
+www.asas.org
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+Roche/ASAS Foundation Beef Cattle Nutrition Symposium: Forage 
+Supplementation and Grazing 
+Effects of Supplementation on Voluntary Forage Intake, Diet 
+Digestibility, and Animal Perf ormance1t2 
+J. E. Moore3, M. H. Brant*, W. E. Kunkle, and D. I. Hopkins 
+Department of Animal Science, University of Florida, Gainesville 32611 
+ABSTRACT: A data base was constructed to 
+describe and estimate supplementation effects in 
+nonlactating cattle consuming forage ad libitum. The 
+data base included 66 publications on 126 forages (73 
+harvested and 53 grazed) and a total of 444 compari- 
+sons between a control, unsupplemented treatment 
+and a supplemented treatment. Daily gains were 
+reported for 301 comparisons and voluntary intake for 
+258. Direct measures of forage digestibility were 
+reported for 202 comparisons, and total diet digestibil- 
+ity for 150. Supplements did not increase gain in all 
+cases. Change in ADG due to supplement was not 
+related closely to intake of supplemental TDN. Lowest 
+increases in ADG were with native forages sup- 
+plemented with molasses alone or with low intakes of 
+molasses containing high levels of NPN. Greatest 
+increases in gain were with improved forages, supple- 
+ments with > 60% TDN, and supplemental CP intake 
+> .05% of BW. Supplements decreased voluntary 
+forage intake (VFI) when supplemental TDN intake 
+was > .7% of BW, forage TDN:CP ratio was < 7 
+(adequate N), or VFI when fed alone was > 1.75% of 
+BW. When supplements increased VFI, forage TDN: 
+CP ratio was > 7 (N deficit), and VFI when fed alone 
+was often low. There was little relationship between 
+change in VFI and sources of supplemental CP and 
+TDN. Supplements caused total diet TDN concentra- 
+tion to deviate from expected values by -10 to +5% of 
+OM. When supplemental TDN intake was > .7% of 
+BW, diet TDN concentration was always less than 
+expected. There was little relationship between devia- 
+tion from expected total diet TDN and type or 
+composition of forages or supplements. Empirical 
+multiple regression equations were developed to esti- 
+mate effects of supplements on VFI and total diet TDN 
+concentration. The most acceptable intake equation 
+estimated VFI when fed with supplement (r2 = .84) 
+That equation included VFI when fed alone, supple- 
+ment intake, CP and TDN concentrations in forage 
+and supplement, and classification codes describing 
+forages and supplemental energy. The most acceptable 
+equation for estimating total diet TDN concentration 
+included only the expected total diet TDN concentra- 
+tion (r2 = .87). These equations may be used in 
+nutritional models to account for associative effects. 
+Key Words: Supplementary Feeds, Weight Gain, Forage, Diet 
+01999 American Society of Animal Science and American Dairy Science Association. All rights resewed. 
+Introduction quate to meet desired rates of animal performance 
+(i.e., ADG or milk production). In such cases, 
+supplements may be provided to attain the desired 
+source, intake of available energy may not be ade- performance. In many cases, animal responses to 
+When cattle consume forages as their only energy 
+lFlorida Agric. Exp. Sta. journal series no. R-06491. 
+'This research was supported in part by Special Grant in 3To whom correspondence should be addressed. Current address: 
+4Current address: 109 Amberchase Drive, Lexington, SC 29073. 
+Tropical Agriculture 94-34135-0653 from the USDA T-STAR Carib- 5920 W. 53rd St., Stillwater, OK 74074. 
+bean Program. 
+122 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+FORAGE SUPPLEMENTATION 123 
+supplements are either greater or less than expected. 
+The deviations between expected and observed perfor- 
+mance are usually explained by associative effects of 
+supplements upon voluntary intake and available 
+energy concentration of the total diet. The concept of 
+associative effects refers to nonadditive interactions 
+among ingredients in mixed diets. 
+This paper focuses on associative effects that occur 
+when forage intake is voluntary and supplements are 
+fed separately in restricted amounts. Although as- 
+sociative effects under these conditions are well- 
+documented, they are difficult to quantify and are not 
+considered in most nutritional models. After an 
+extensive review of associative effects in forage-based 
+diets, Horn and McCollum (1987) concluded that 
+“present relationships do not permit prediction of 
+effects of supplementation on forage intake and 
+utilization for the widely different production environ- 
+ments.” Their challenge is addressed in this article. 
+In most nutritional models, gain is a function of 
+both intake and available energy concentration (e.g., 
+TDN) of the total diet, and these are used indepen- 
+dently in computations. Because, in the context of this 
+article, supplement intake is known, supplement 
+effects on voluntary forage intake may be quantified. 
+It is not possible, however, to quantify the effect of 
+supplement on the TDN concentration of the forage 
+component of a mixed diet. Further, it is not known if 
+the associative effect applies to the supplement as well 
+as the forage. It is necessary, therefore, to compare the 
+observed TDN of the total diet with that expected from 
+the TDN of the ingredients (Brant, 1993). 
+The objectives of this review are to examine effects 
+of supplements on daily gain, voluntary forage intake, 
+and total diet TDN concentration and to develop and 
+evaluate equations for estimating total diet intake and 
+total diet TDN concentration. 
+Effects of Supplements on Gain, Intake, and TDN 
+Data base Construction. A literature review 
+provided 66 references that met the requirements for 
+inclusion in the data base (i.e., voluntary forage 
+intake, supplements fed separately, nonlactating cat- 
+tle, and an unsupplemented control treatment); these 
+references are found in the Appendix. The 66 refer- 
+ences included studies of 126 different forages: 73 
+harvested and 53 grazed. There were 444 comparisons 
+of an unsupplemented control with a supplemented 
+treatment. Table 1 summarizes the distribution of 
+these comparisons among forages and supplements in 
+the data base. 
+Most studies involved growing calves or yearlings. 
+If cows were used in the study, intake and digestibility 
+data were included, but their daily gains were not. If 
+full body weights and gains were reported, they were 
+converted to the shrunk basis using equations derived 
+from full and shrunk weights on forage-fed cattle 
+(Kunkle and Moore, unpublished data). Intake data 
+were converted to a percentage of mean shrunk body 
+weight. 
+Data on forage characteristics were limited to those 
+provided in the references. Digestibility data used in 
+the data base were limited to those from in vivo trials. 
+Table I. Distribution of comparisons between unsupplemented and supplemented 
+treatments (444 total comparisons) 
+By forage type n By supplement type n 
+Temperate 122 Liquid 150 
+Tropical 125 Dry 255 
+Native 175 Combined 39 
+Straw 22 
+By sources of supplemental energy and protein 
+Energy n Protein n 
+Protein feeds only 43 Energy feeds only 148 
+Molasses 178 Non-protein nitrogen 142 
+Grain 129 Protein feeds 143 
+By-products 35 Combinations (NPN + feeds) 11 
+Forages 27 
+Combinations 32 
+~ 
+J. him. Sci. Vol. 77, Suppl. 215. Dairy Sci. Vol. 82, Suppl. 211999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+124 MOORE ET AL. 
+Gain 
+5 1.0 
+CI 
+E a, 
+Q 
+Q .5 3 
+v) 
++ 
+- 
+00 u) 
+E 
+0 
+u, 
+-.5 
+In some cases, digestion trials were conducted with 
+sheep and these data were used without adjustment. 
+Data on DM digestibility of forages and mixed diets 
+were converted to OM digestibility by the following 
+formula (Moore, unpublished data): OM digestibility 
+(%) = -.664 + 1.032 x DM digestibility (5%). Forage 
+TDN was assumed to be equivalent to digestible OM. 
+Regarding supplements, composition data were 
+taken from the reference, or calculated from supple- 
+ment ingredient formulas, as given in the reference, 
+and tabulated values of CP and TDN concentration. 
+Because of the wide variation in ash percentage 
+reported for many forages and supplements, all data 
+were converted to the OM basis by dividing concentra- 
+tions on the DM basis by the OM concentration as a 
+percentage of DM. 
+Effects on DaiIy Gain. Associative effects between 
+supplements and forages were demonstrated clearly in 
+terms of ADG. In many cases, ADG was not increased 
+when forages were supplemented, and was sometimes 
+decreased (Figure 1). Effects of supplements on ADG 
+were quantified as the change in shrunk ADG 
+(GAINchg), using the following formula: GAINchg = 
+GAINtotal - GAINforage, where GAINtotal = shrunk 
+ADG on total mixed diet (kg/d) and GAINforage = 
+shrunk ADG on forage fed alone (kg/d). A positive 
+GAINchg indicates that ADG was increased when 
+supplements were fed. Most, but not all, GAINchg 
+values were positive. 
+Forage and supplement types were confounded 
+when GAINchg was at either extreme (Table 2). 
+Decreases and slight increases (< -02 kg/d) in daily 
+with and without Supplement, kgld 
+c 
+V 
+-.5 0 .5 1.0 
+Forage Alone 
+Figure 1. Comparison of daily gain by cattle when fed 
+forage plus supplement with daily gain when the same 
+forage was fed alone. 
+gain occurred primarily with grazed native forages 
+supplemented with molasses alone or molasses with 
+NPN. When GAINchg was greatest(> .4 kg/d), 
+however, it occurred with harvested improved forages 
+that were supplemented with either dry feeds or 
+molasses with added nitrogen. At intermediate ranges 
+of GAINchg, there was little difference among types of 
+forages and supplements with respect to GAINchg. 
+There was little relationship between GAINchg and 
+supplemental TDN intake (STDNI) (Figure 2). At 
+Table 2. Frequency distribution of forages and supplements according to ranges 
+of change in daily gain due to supplements 
+Range in gain change due to supplementation, kgld 
+>.40 .06 to .10 .11 to 20 .21 to .30 .31 to .40 Comparison c .02 .02 to .05 
+Total 
+Forages 
+Grazed 
+Harvested 
+Native+straw 
+Cool+warm 
+Supplements 
+Molasses 
+Alone 
++NPN 
++Meal 
++NPN+meal 
+Dry feeds 
+29 
+27 
+2 
+18 
+11 
+25 
+11 
+14 
+0 
+0 
+4 
+33 
+28 
+5 
+26 
+7 
+28 
+9 
+18 
+0 
+1 
+5 
+57 
+46 
+11 
+36 
+21 
+37 
+6 
+21 
+0 
+0 
+20 
+61 
+41 
+20 
+30 
+31 
+34 
+5 
+29 
+0 
+0 
+27 
+42 
+29 
+13 
+3 
+38 
+17 
+0 
+13 
+3 
+1 
+25 
+41 
+13 
+18 
+3 
+38 
+15 
+2 
+4 
+4 
+5 
+26 
+38 
+5 
+33 
+4 
+34 
+13 
+0 
+5 
+5 
+3 
+25 
+J. him. Sci. Vol. 77, Suppl. 2lJ. Dairy Sci. Vol. 82, Suppl. 211999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+FORAGE SUPPLEMENTATION 125 
+U 
+3l .5 Y 
+Change in Daily Gain; by Forage Type 
+I &- 
+(n = 87) 
+Change in Daily Gain; by Energy Source 
+I * - 
+* 
+I 
+c 
+(II 
+.- 
+* -.5 
+Native 
+(n = 121) 
+- 
+I 
+(n = 7) 
+0 .4 .% 
+Supp. TDN Intake, %BW 
+aFed with supplement - Fed alone 
+Figure 2. Effect of supplemental total digestible 
+nutrient (TDN) intake on change in daily gain due to 
+supplement, classified by type of forage. 
+low STDNI, there was often a large positive GAINchg, 
+especially with native forages. Negative GAINchg 
+occurred in a few cases with native forages and warm- 
+season improved forages. The same array of data 
+classified according to energy source (Figure 3) 
+illustrates the confounded nature of the data base 
+discussed above (e.g., native forages were sup- 
+plemented often with molasses). Also, most of the 
+Change in Daily Gain; by Energy Source 
+I *I 
+Protein feed 
+(n = 27) 
+Energy feed 
+(n = 95) 
+** 
+* 
+I Molasses 
+-.5 I- I I I 
+Mol. + feed 
+(n = 11) 0 .4 .8 1.2 Supp. TDN Intake, %BW 
+j with su-pplement - Fed alone 1 
+Figure 3. Effect of supplemental total digestible 
+nutrient (TDN) intake on change in daily gain due to 
+supplement, classified by source of supplemental 
+energy. 
+m Protein feed 
+5 .5 (n = 27) 
+a- m Energy feed 
+0 
+** 
+Y 
+(n = 95) c 20 
+.- c Molasses 
+(II (n = 162) 
+c3 -.5 
+40 50 60 70 80 90 
+Supp. TDN, % OM (n = 11) 
+Figure 4. Effect of supplemental total digestible 
+nutrient (TDN) concentration on change in daily gain 
+due to supplement, classified by source of supplemental 
+energy. 
+negative GAINchg values were with molasses having 
+a high TDN percentage (Figure 4); these supplements 
+contained nonprotein nitrogen (NPN) sources such as 
+urea and ammonium sulfate (Figure 5). 
+In many cases, the TDN concentration of molasses 
+supplements was less than 60% of OM (Figure 4); 
+these supplements contained high percentages of NPN 
+I 
+C 
+(II 
+.- 
+-.5 * 
+~ 
+0 .I .2 .3 .4 
+Supp. CP Intake, %BW 
+aFed with supplement - Fed alone 
+(n = 133) 
+Meal 
+(n = 70) 
+Both 
+(n = 11) 
+* 
+~ 
+Figure 5. Effect of supplemental crude protein (CP) 
+intake on change in daily gain due to supplement, 
+classified by source of added supplemental protein (in 
+addition to protein from energy feeds, if any). 
+J. him. Sci. Vol. 77, Suppl. 215. Dairy Sci. Vol. 82, Suppl. 2/1999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+126 MOORE ET AL. 
+because molasses was used simply as a carrier. 
+Generally, these supplements were fed in small 
+amounts and gave a positive but relatively small 
+GAINchg. When supplemental TDN percentage was 
+above 60% of OM and GAINchg was positive, 
+GAINchg was not related to energy source. 
+The largest increases in GAINchg occurred when 
+supplemental CP intake was greater than .05% of BW 
+(Figure 5). When supplemental CP intake was 
+greater than .l% of BW, GAINchg was always 
+positive. There was little difference among sources of 
+protein. Low GAINchg values were observed at low CP 
+intakes, but this effect is confounded with type of 
+forage and supplement (low GAINchg with native 
+pastures supplemented with molasses and NPN). 
+When responses to feed protein supplements were 
+examined (Figure 6), there was little difference 
+among grains, by-products, and plant protein feeds, 
+but supplements with added escape protein tended to 
+give the highest GAINchg at a given STDNI. 
+Effects on Volunfary Forage Intake. Voluntary intake 
+of forage was both increased and decreased by 
+supplementation (Figure 7). Most of the increases 
+were with native forages and straws, whereas most of 
+the decreases were with improved cool and warm 
+season forages. When forage intake fed alone was > 
+1.75% of BW, supplement decreased forage intake in 
+most cases. 
+Effects of supplements on voluntary forage intake 
+were quantified as the change in VFI, as a percentage 
+Change in Daily Gain; by Feed 
+c 
+m .- 
+* -.5 
+0 .4 .a 1 .; 
+Supp. TDN Intake, %BW 
+aFed with supplement - Fed alone 
+'rotein 
+Grain 
+(n = 27) 
+By-prod. 
+(n = 16) 
+Plant 
+(n = 30) 
+Escape 
+(n = 36) 
+4 
+_1 
+Figure 6. Effect of supplemental total digestible 
+nutrient (TDN) intake on change in daily gain due to 
+supplement, classified by source of feed protein (does 
+not include non-protein nitrogen sources). 
+Forage OM intake, %BW; by Forage Type 
+3.0 
+E 2.5 
++ 
+C 
+al - 
+E 2.0 
+3 
+0 
+5 1.5 
+3 .- 
+; 1.0 
+LL 
+.5 
+Y=X/ 
+.5 1.0 1.5 2.0 2.5 3.0 
+Fed alone 
+Cool 
+(n = 89) 
+Warm 
+(n = 77) 
+Native 
+(n = 67) 
+Straw 
+(n = 22) 
+4 
+r 
+Figure 7. Comparison of voluntary forage organic 
+matter (OM) intake when fed with supplement to intake 
+when the same forage was fed alone, classified by type 
+of forage. 
+of body weight (VFIchg), using the following formula: 
+VFIchg = VFIwith - VFIalone, where VFIwith = VFI 
+of forage fed with supplement (5% of BW, OM basis) 
+and VFIalone = VFI of forage fed alone (% of BW, OM 
+basis). A negative VFIchg means that supplement 
+decreased intake of the forage. This effect has been 
+termed substitution (i.e., supplement substitutes for 
+forage) and has been expressed as substitution rate, 
+the decrease in VFI per unit of supplement fed. The 
+use of VFIchg provides a more readily understood 
+expression of the effect of supplements on forage 
+intake; it is negative when intake is decreased, and 
+positive when intake is increased. 
+When VFIchg was compared with the ratio of TDN 
+to CP in forages (FTDN:CP; Figure 81, it appeared 
+that much of the effect due to forage type could be 
+explained by this characteristic of the forage. When 
+FTDN:CP was < 7, VFIchg was generally negative. 
+The straws that accounted for five of the seven 
+exceptions (i.e., positive VFIchg when FTDN:CP was 
+< 7) were ammoniated. When FTDN:CP was > 12, 
+almost all VFIchg were positive, and all forages were 
+native. When VFIchg was compared with STDNI and 
+responses classified by FTDN:CP (Figure 9), increas- 
+ing STDNI resulted in a more negative VFIchg with 
+forages having FTDN:CP < 7. There was little effect of 
+STDNI on VFIchg with those forages having FTDN: 
+CP > 7, except when STDNI was greater than .7% of 
+BW. In almost all comparisons, except for ammoniated 
+straws, when VFIchg was positive, FTDN:CP was > 7. 
+J. him. Sci. Vol. 77, Suppl. 215. Dairy Sci. Vol. 82, Suppl. 211999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+FORAGE SUPPLEMENTATION 127 
+<7 
+(n = 128) 
+>7 
+(n = 74) 
+* 
+Change in Forage Intake; by Forage Type 
+I - - I 
+g 1.0 
+go 
+.5 m s 
+t 
+([I 
+A= -.5 0 
+0 
+r -1.0 
+Cool 
+(n = 71) 
+Warm 
+(n = 61) 
+Native 
+(n = 55) 
+* 
+-1.51 *: 4 8 12 16 I straw 1 
+Forage TDN:CP Ratio (n = 15) I I 
+aFed with supplement - Fed alone u 
+Figure 8. Effect of the ratio between forage total 
+digestible nutrient (TDN) concentration and crude 
+protein concentration (CP) on the change in voluntary 
+forage organic matter intake (OMI) due to supplementa- 
+tion, classified by type of forage. 
+Perhaps FTDN:CP values greater than 7 indicate a 
+deficit of N in relation to available energy. 
+There was no clear distinction among energy 
+sources with respect to the effect of STDNI on VFIchg 
+(Figure 101, except that protein feeds generally gave 
+a negative VFIchg. When VFIchg was positive, there 
+was no difference in response between liquid and dry 
+Change in Forage Intake; by Forage TDN:CP 
+supplements. When STDNI was > .7% of BW, VFIchg 
+was always negative. There was no apparent relation- 
+ship between supplemental CP intake and VFIchg, 
+and no apparent difference in response among sources 
+of added protein (Figure 11). When VFIchg was 
+positive, NPN and meal were equally effective. 
+Effects on Dietary TDN. The TDN concentration of 
+total diets was both greater and less than expected 
+(Figure 12). Expected total diet TDN was calculated 
+as follows: TDNexpected (%# of OM) = [(VFIwith x 
+FTDN) + (SOMI x STDN)]/(VFIwith + SOMI), 
+where VFIwith is as defined above, FTDN = forage 
+TDN (% of OM), SOMI = supplement OM intake (% 
+of BW), and STDN = supplement TDN (% of OM). 
+When expected TDN was greater than 60% of OM, the 
+observed TDN was less than expected in most cases. 
+Effects of supplementation on total diet TDN 
+concentration were quantified as deviation from ex- 
+pected total diet TDN (TDNdev), calculated as 
+follows: TDNdev = TDNobserved - TDNexpected, 
+where TDNobserved = observed TDN of total diet (% 
+of OM) and TDNexpected is as defined above. A 
+negative TDNdev indicates simply that supplementa- 
+tion resulted in an observed total diet TDN concentra- 
+tion that was less than expected. It does not indicate 
+whether supplement altered the digestibility of the 
+forage, the supplement, or both. 
+There was a large range in TDNdev (Figure 13), 
+with many values between -10 and +5% of OM (not 
+TDN). Such large deviations from expected TDN 
+Change in Forage Intake; by Energy Source 
+** -1.5 1 
+0 .4 .a 1.2 
+Supp. TDN Intake, %BW 
+aFed with supplement - Fed alone 
+Figure 9. Effect of supplemental total digestible 
+nutrient (TDN) intake on the change in voluntary forage 
+organic matter intake (OMI), classified by forage TDN: 
+crude protein (CP) ratio. 
+g 1.0 
+$0 
+m .5 
+c m -.5 0 
+0 
+f -1.0 
+-1.5 1 ** 
+0 .4 .8 1.2 
+Supp. TDN Intake, %BW 
+aFed with supplement - Fed alone 
+Protein feed 
+(n = 25) 
+Energy feed 
+(n = 165) 
+Molasses 
+(n = 55) 
+* 
+Mol. + feed 
+(n = IO) 
+Figure 10. Effect of supplemental total digestible 
+nutrient (TDN) intake on the change in voluntary forage 
+organic matter intake (OMI), classified by source of 
+supplemental energy. 
+J. him. Sci. Vol. 77, Suppl. YJ. Dairy Sci. Vol. 82, Suppl. 211999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+128 MOORE ET AL. 
+Change in Forage Intake; by Added Protein 
+- r 0 -1.01 + e - 
+- 
+-1.5 1 1 . , , li, 
+0 .I .2 .3 .4 
+Supp. CP Intake, %BW 
+aFed with supplement - Fed alone 
+e 
+NPN 
+(n = 39) 
+Meal 
+(n = 113) 
+Both 
+(n = IO) 
+* 
+L 
+Figure 11. Effect of supplemental crude protein (CP) 
+intake on the change in voluntary forage organic matter 
+intake (OMI), classified by source of added supplemen- 
+tal protein (in addition to protein from energy feeds, if 
+any). 
+concentrations would have major effects on the NE 
+concentration of diets, and on estimated animal 
+performance. In most cases when TDNdev was posi- 
+tive, the forage was a native hay or straw having a 
+TDN concentration < 55% of OM. When STDNI was 
+greater than .7% of BW, TDNdev was negative in most 
+cases (Figure 14). There was little difference among 
+energy sources with respect to TDNdev. 
+Total Diet TDN, %OM; by Forage Type 
+80 
+u 70 
+$ 60 !!! 
+' 50 
+40 
+40 50 60 70 80 
+ExDected" 
+Cool 
+(n = 34) 
+Warm 
+(n = 49) 
+Native 
+(n = 52) 
+Straw 
+(n = 15) 
+e 
+aForage + Supplement 
+Figure 12. Comparison of observed to expected total 
+digestible nutrient (TDN) concentration in total diets 
+(forage plus supplement), classified by type of forage. 
+Deviation in Total TDN; by Forage Type 
+I- $1 -20 
+40 50 60 70 
+Forage TDN, %OM 
+aObserved - Expected 
+Cool 
+(n = 34) 
+Warm 
+(n = 49) 
+Native 
+(n = 52) 
+Straw 
+(n = 15) 
++ 
+* 
+r 
+Figure 13. Effect of forage total digestible nutrient 
+(TDN) concentration on the deviation from expected 
+total diet TDN concentration, classified by type of 
+forage. 
+Development and Evaluation of Equations 
+The data base was divided into two subsets: one for 
+equation development and the other for equation 
+evaluation. The development subset was used to select 
+variables and generate coefficients for the estimation 
+of total diet intake and TDN concentration. The 
+evaluation subset was used as an independent data 
+Deviation in Total TDN; by Enc 
+- 
+=I I- 0 -20 
+* 
+0 .4 .8 1.2 
+Supp. TDN Intake, %BW 
+rgy Source 
+Protein feed 
+(n = 13) 
+Energy feed 
+(n = 111) 
+Molasses 
+(n = 22) 
+Mol. + feed 
+(n = 4) 
++ 
+aObserved - Expected I 
+Figure 14. Effect of supplemental total digestible 
+nutrient (TDN) intake on the deviation from expected 
+total diet TDN concentration, classified by source of 
+supplemental energy. 
+J. him. Sci. Vol. 77, Suppl. YJ. Dairy Sci. Vol. 82, Suppl. 211999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+FORAGE SUPPLEMENTATION 129 
+set to evaluate equations. About 25% of the total 
+comparisons were assigned to the evaluation subset. A 
+particular reference was assigned to either one subset 
+or the other. Attempts were made to have each subset 
+similar with respect to distributions of forages and 
+means of forage and supplement variables (Table 3). 
+The range in variables was narrower in the evaluation 
+subsets than it was in the comparable development 
+subsets. When forage TDN was included in the intake 
+subsets, the number of comparisons was decreased in 
+the development subset more than it was in the 
+evaluation subset. 
+Equations were developed using the appropriate 
+development data sets. Independent variables ( X 1 
+included VFIalone, forage CP (% of OM), forage TDN 
+(%# of OM), forage TDN:CP ratio, supplement OM 
+intake (% of BW), supplement CP (% of OM), and 
+supplement TDN (% of OM). All independent varia- 
+bles were squared, and several products were calcu- 
+lated (e.g., supplement TDN intake, % of BW). In 
+addition, many linear interactions among forage and 
+supplement variables were calculated (e.g., forage 
+TDN x supplement TDN). Classification codes 
+describing types of forages and supplements were 
+included as independent variables; these are defined 
+in the following. 
+Forage type codes: 
+1 = temperate or tropical forage 
+2 = native mixed forage, or straw 
+Supplement type codes: 
+1 = dry 
+2 = liquid (e.g., based on molasses) 
+3 = combination (e.g., slurry) 
+Supplemental energy codes: 
+1 = protein supplement only (e.g., soybean meal) 
+2 = molasses 
+3 = grain or by-product (e.g., corn, wheat mid- 
+4 = forage (e.g., alfalfa) 
+dlings) 
+Supplemental carbohydrate degradability codes: 
+0 = rapid (e.g., corn) 
+1 = slow (e.g, soybean hulls) 
+Supplemental protein codes: 
+1 = energy feed (e.g., corn) 
+2 = non-protein nitrogen (e.g., urea) 
+Table 3. Description of data subsets used in development and evaluation of equations to estimate organic 
+matter intake (% of body weight) and total digestible nutrient concentration 
+(% of organic matter) of total diets 
+Intake subsets 
+Item 
+~~~ 
+Ignoring forage TDN Including forage TDN TDN subsets 
+Develop Evaluate Develop Evaluate Develop Evaluate 
+References, n 
+Comparisons, n 
+Temperate 
+Tropical 
+Native 
+Straw 
+Forages 
+OM intake, '% BW 
+CP, % OM 
+TDN, % OM 
+Supplements 
+OM intake, % BW 
+CP, % OM 
+TDN, LTC OM 
+OM intake, 5% BW 
+TDN, 8 OM 
+Observed 
+Expected 
+Total diets 
+31 
+187 
+68 
+56 
+48 
+187 
+1.87 f .64 
+10.2 f 5.6 
+.53 f .31 
+23.0 f 22.3 
+81.3 i 10.7 
+2.25 i: .47 
+15 
+59 
+18 
+21 
+16 
+4 
+1.83 f .62 
+9.1 f 4.3 
+.5l i .28 
+23.2 i 18.8 
+83.5 k 7.9 
+2.29 k .54 
+24 
+144 
+56 
+40 
+38 
+10 
+15 
+56 
+15 
+21 
+16 
+4 
+1.85 f .66 1.80 f .61 
+10.4 f 5.8 9.2 f 4.4 
+55.1 f 12.2 51.9 ? 8.9 
+56 ? .32 .52 k .28 
+19.8 f 12.9 21.9 f 18.5 
+82.1 f 10.0 83.5 f 8.1 
+2.23 f 50 2.27 k .54 
+23 
+111 
+26 
+36 
+35 
+14 
+9 
+37 
+8 
+13 
+16 
+0 
+1.87 ? .?7 1.82 _+ .50 
+9.7 k 5.9 8.3 f 3.4 
+52.8 f 12.2 52.2 f 8.1 
+.51 k .28 .47 k .27 
+21.0 i 15.8 21.4 f 16.3 
+80.6 f 9.2 85.0 i 8.4 
+2.32 f .57 2.28 f .44 
+57.3 i 9.0 57.3 f 6.6 
+59.4 i 10.1 58.9 f 7.8 
+~~~~~~ 
+J. him. Sci. Vol 77, Suppl. 2/J. Dairy Sci. Vol. 82, Suppl. 2/1999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+130 MOORE ET AL. 
+3 = protein feed (e.g, soybean meal, meat meal) 
+4 = combination of NPN and feed 
+Supplemental protein degradability codes: 
+0 = ruminally degraded (e.g., urea, soybean 
+1 = escape (e.g., fish meal, meat meal) 
+meal) 
+General relationships between dependent and in- 
+dependent variables (including squares, products, and 
+interactions) were explored using PROC REG of SAS 
+with stepwise selection at P < .15. Many combinations 
+of independent variables were examined to determine 
+which variables were most often included. Final 
+selection of variables was done using the R2 selection 
+with the Cp statistic to minimize bias and avoid 
+overfitting (MacNeil, 1983). In no case was the 
+correlation between interaction variables permitted to 
+exceed .7. Independent variables were tested in 
+various combinations. The final selection of variables 
+was made from a set that included variables that had 
+appeared frequently in previous runs. In this proce- 
+dure, the combinations of variables tested are selected 
+by the researcher rather than the computer. 
+After deciding which variables to include, coeffi- 
+cients for multiple regression equations were com- 
+puted using PROC REG. Linear variables were added 
+to the model if they occurred as squared terms or in 
+interactions. These equations were then used to 
+estimate intake or TDN variables for each comparison 
+in the appropriate evaluation subset. Equations were 
+evaluated by regressing observed values of dependent 
+variables (Y on the comparable estimate (X) and 
+recording the coefficient of determination (r2) and 
+root mean square error (RMSE). 
+The major criterion used to evaluate equations was 
+the difference between estimated and observed values 
+(difference = estimated - observed). A negative 
+difference indicates that the estimate was less than 
+the observed value. The following criteria of accepta- 
+bility of differences were based on common assump- 
+tions about the variability among animals fed alike for 
+intake ( 10 % 1 and digestibility ( 5%). 
+Mean total OM intake = 2.3% of BW 
+acceptable difference = 2.3 x .1 = .23 
+marginal difference = 2.3 x .2 = .46 
+unacceptable difference > .46 
+Mean total diet TDN = 57% of OM 
+acceptable difference = 57 x .05 = 2.9 
+marginal difference = 57 x .1 = 5.7 
+J. him. Sci. Vol. 77, Suppl. 215. Dairy Sci. Vol. 82, Suppl. 211999 
+unacceptable difference > 5.7 
+Equations were evaluated on the basis of the percen- 
+tage of differences that were acceptable, marginal, or 
+unacceptable. 
+Infake Equations. There were three approaches to 
+computing estimated total diet OM intake (ETOMI, % 
+of BW): 
+1. VFIchg was estimated and ETOMI = VFIalone 
++ estimated VFIchg + supplement OM intake. 
+2. VFIwith was estimated and ETOMI = esti- 
+mated VFIwith + supplement OM intake. 
+3. ETOMI was estimated directly. 
+Some equations were developed using the entire 
+development set. In addition, the development subset 
+was divided into two additional subsets having forage 
+TDN:CP ratios either above or below 7. Equations 
+based on the entire data set were more acceptable 
+than those based on the two subsets. The code for 
+forage type was included in most equations, and this 
+variable may have accounted for differences associated 
+with forage TDN:CP ratio. 
+There were high correlations between forage CP 
+concentration and forage TDN:CP, and between sup- 
+plement OM intake and TDN intake. Therefore, in the 
+final stages of equation development, either forage CP 
+or forage TDN:CP ratio, and either supplement OM 
+intake or TDN intake, were used in a 2 x 2 factorial 
+arrangement. In all, 47 intake equations were deve- 
+loped. Each equation was evaluated by regressing 
+observed or actual TOM1 on ETOMI, the latter being 
+calculated as described above for the three ap- 
+proaches. 
+The three best equations for each option gave very 
+similar statistical parameters and differences between 
+observed and estimated values (Table 41, but the 
+VFIchg and VFIwith equations were slightly superior 
+in terms of the difference criteria. In fact, the same 
+variables were included in the VFIchg and VFIwith 
+equations, even though they were developed indepen- 
+dently. All coefficients were identical in the two 
+equations, except for the coefficient for VFIalone. The 
+coefficients for VFIalone were .0101 for the VFIchg 
+equation and 1.0101 for the VFIwith equation; such a 
+difference would be expected because VFIchg is 
+calculated as the difference between VFIalone and 
+VFIwith. Because it would be the simplest equation to 
+use in nutritional computations, the VFIwith equation 
+was chosen as the “best” equation, instead of the 
+VFIchg equation; it is as follows: 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+FORAGE SUPPLEMENTATION 131 
+Table 4. Evaluation of equations for estimating total diet organic matter intake 
+and TDN concentration 
+Intake, % of BW 
+With 
+TDN, % of OM 
+Item Change SUPP. Total Complex Simple 
+Variables 15 15 13 7 2 
+Develop R2 .86 .90 .88 .84 .77 
+Evaluate r2 .84 .84 .82 .78 .87 
+RMSEa .22 .22 .23 3.2 2.4 
+Differenceb 
+Mean -.07 -.07 -.07 -1.0 -.9 
+Acceptable 67.9 67.9 66.1 64.9 75.7 
+Unacceptable 1.8 1.8 3.6 10.8 2.7 
+fSD .23 .23 .24 3.2 2.4 
+Percentage 
+Marginal 30.3 30.3 30.3 24.3 21.6 
+aRoot mean square error. 
+bDifference = estimate - observed. 
+Estimated forage OM intake with supplement = 
+-1.9875 
++ 1.0101 x VFIalone 
++ .0587 x (VFIaloneI2 
+- .0195 x forage CP concentration 
+- .0408 x forage TDN concentration 
+- .911 x supplement TDN intake 
++ .0204 x supplement CP concentration 
++ .0699 x supplement TDN concentration 
+- .000569 x (supplement TDN concentration)2 
++ 5.87 x supplement CP intake 
+- 9.74 x (supplement CP intakeI2 
+- .221 x VFIalone x supplement TDN intake 
+- .0143 x VFIalone x supplement CP concentration 
++ .000509 x forage TDN x supplement TDN 
++ .211 x forage type code 
+- .0638 x supplemental energy code 
+Intake values are OM as % of BW and concentration 
+variables are as % of OM. 
+As mentioned above, all intake equations were 
+evaluated relative to total OM intake. The regression 
+of observed on estimated total diet OM intake is 
+plotted in Figure 15. Even though the forage type code 
+was included, there appeared to be a discrepancy 
+related to forage type. Intake of diets containing cool 
+and warm season forages was often underestimated, 
+and intake of diets containing native forages and 
+straws was often overestimated. Nevertheless, 68% of 
+estimates were acceptable, and only 2% (one compari- 
+son) was unacceptable (Table 4). 
+TDN Equations. There were two approaches taken 
+for calculating estimated total diet TDN (ETTDN, % 
+of OM): 1) TDNdev was estimated and ETTDN = 
+expected TDN + estimated TDNdev and 2) ETTDN 
+was estimated directly and expected TDN was an 
+input variable. The first approach, estimating 
+TDNdev, was not successful because all equations 
+were unacceptable by all criteria. The second ap- 
+proach, estimating total TDN directly, gave 15 equa- 
+Total OM Intake, %BW; by Forage Type 
+3.0 
+X 2.5 
+2 
+2 a 2.0 
+0 
+1.5 
+Y = - .26 + 1.15 X 
+~ r2 = .84 
+Native 
+(n = 16) 
+Straw 
+ll 
+1.5 2.0 2.5 3.0 ' ' 
+Estimated 
+Figure 15. Regression of observed on estimated total 
+diet organic matter (OM) intake with the evaluation data 
+set, classified by type of forage. 
+J. him. Sci. Vol. 77, Suppl. 215. Dairy Sci. Vol. 82, Suppl. 2/1999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+132 MOORE 
+tions that were evaluated by regressing observed total 
+diet TDN on estimated total diet TDN. Evaluations of 
+two equations are shown in Table 4. The “complex” 
+equation was the one that best fit the development 
+set; it included the following variables: expected TDN 
+concentration, (expected TDN)2, forage TDN concen- 
+tration, forage TDN x expected TDN, forage code, 
+supplement type code, and energy code. The simple 
+equation fit the evaluation set best and was as follows: 
+Estimated total diet TDN = 59.71 
+- 3948 x expected TDN concentration (% of OM) 
++ .01399 x (expected TDN concentration)2 
+The regression of observed on estimated total diet 
+TDN is plotted in Figure 16. Based on the difference 
+between observed and estimated diet TDN, 76% of 
+estimates were acceptable and 3% (one comparison) 
+were unacceptable (Table 4). The evaluation data 
+subset was rather small (Table 3) and may not have 
+represented all the sources of variation in total diet 
+TDN that were present in the development data 
+subset. This equation does, however, have application 
+in accounting for at least part of the associative effects 
+on digestibility that occur in mixed diets. 
+Limits of lnpu t Variables. Equations presented here 
+should be used with caution when input variables are 
+outside the range of variables in the development data 
+set. Those ranges are as follows: 
+Forage OM intake fed alone (% of BW): .46 to 3.11 
+Forage CP (9% of OM): 2.1 to 23.0 
+Forage TDN (% of OM): 34.9 to 78.4 
+Supplement OM intake (9% of BW): .04 to 1.85 
+Supplement CP (% of OM): 6.7 to 98.4 
+Supplement TDN (% of OM): 52.7 to 95.4 
+Summary 
+The data base constructed here provided ample 
+evidence that associative effects in forage-based diets 
+occur and are often important quantitatively. Also, the 
+data base provided the opportunity to develop equa- 
+tions to account for these associative effects in 
+nutritional models. 
+Effect of Supplements on ADG. Supplements gener- 
+ally but not always increased ADG. There was little 
+relationship between supplemental TDN intake and 
+the change in ADG due to supplement. In many cases, 
+small amounts of supplemental TDN increased gains, 
+especially with native forages and straws. The use of 
+escape protein tended to give greater increases in gain 
+ET AL. 
+Total Diet TDN, %OM; by Forage Type 
+70 
+65 
+60 
+W 
+2 55 
+0 
+50 
+45 
+Y=-5.1 +1.11 X 
+45 50 55 60 65 70 
+Estimated 
+Cool 
+(n = 8) 
+Warm 
+(n = 13) 
+Native 
+(n = 16) 
++ 
+_1 
+Figure 16. Regression of observed on estimated total 
+digestible nutrient (TDN) concentration in the total diet 
+(forage plus supplement) with the evaluation data set, 
+classified by type of forage. 
+at a given intake of supplemental TDN than did other 
+sources of protein. The least ADG response to supple- 
+ment was seen with native forages supplemented with 
+molasses alone or with low intakes of molasses 
+containing high levels of NPN. The greatest response 
+was seen with improved forages, when supplemental 
+TDN was > 60% of OM (either dry feeds or molasses 
+plus added protein), and when supplemental CP 
+intake was > .05% of BW. 
+Effect of supplements on Voluntary Forage Intake. 
+The change in VFI due to supplement ranged from -1 
+to +1% of BW. Generally, supplements decreased 
+intake with improved forages, but with native forages 
+and straws, supplements both increased and 
+decreased forage intake. This discrepancy may be 
+related to the ratio of TDN to CP in forages, an 
+indicator of the amount of N relative to available 
+energy. When supplements increased forage intake, 
+forage TDN:CP ratio was > 7 (deficit of N relative to 
+available energy). Supplements decreased intake 
+when the TDN:CP ratio was < 7 (adequate N) except 
+for ammoniated straws, when forage intake fed alone 
+was > 1.75% of BW, or when supplemental TDN 
+intake was > .7% of BW. There was little difference 
+between sources of supplemental CP or TDN relative 
+to changes in forage intake. When forage intake was 
+increased by supplement, liquid and dry feeds were 
+equivalent as energy sources as long as the supple- 
+ment contained added protein. As protein sources, 
+NPN and protein meals were apparently equivalent 
+for increasing intake. 
+J. him. Sci. Vol. 77, Suppl. 215. Dairy Sci. Vol. 82, Suppl. 211999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+FORAGE SUPPLEMENTATION 133 
+Effect of Supplements on Total Diet TDN Concentra- 
+tion. When forages were supplemented, observed diet 
+TDN deviated from expected TDN by -10 to +5% of 
+OM. When diet TDN was greater than expected, the 
+forage was a native hay or straw in most cases. When 
+supplemental TDN intake was > .7% of BW, diet TDN 
+was generally less than expected. There was little 
+effect of type or composition of forages and supple- 
+ments on the deviation from expected total diet TDN. 
+Equations to Estimate Forage Intake and Diet TDN 
+in Mixed Diets. An acceptable equation to estimate 
+voluntary forage intake when fed with supplement 
+was developed. Inputs to the equation included 
+voluntary forage intake when fed alone (a function of 
+forage quality), supplement intake, forage and supple- 
+ment CP and TDN concentrations, and codes describ- 
+ing forage types and supplemental energy sources. No 
+attempt was made in this article to estimate voluntary 
+forage intake when fed alone. An acceptable equation 
+to estimate total diet TDN concentration was based on 
+expected total diet TDN calculated from the weighted 
+average of TDN concentrations in forages and supple- 
+ments. The equations could be applied in two types of 
+nutritional models: 1) in a static model to estimate 
+animal response to a known quantity of supplement 
+intake and 2) in an iterative model to compute the 
+amount of supplement required to achieve a desired 
+rate of animal performance. The equations should be 
+used with caution outside the range of inputs in the 
+data set used to develop them. 
+Implications 
+When forages are the only source of energy and 
+protein for growing cattle, growth rates may be less 
+than desired to meet production objectives. Supple- 
+ments of energy and protein are often fed to increase 
+growth rates, but the increase may be more or less 
+than expected based on the amount and type of 
+supplements fed. The deviations from expectations are 
+due to interactions among forages and supplements 
+that either increase or decrease forage consumption 
+and availability of dietary energy. Several of the 
+interactions that affect forage intake and diet availa- 
+ble energy can be accounted for by equations based on 
+common characteristics used to describe forages and 
+supplements. Estimates of performance effects and 
+economic consequences of supplementation strategies 
+should be more accurate when these equations are 
+included in nutritional models. Additional interactions 
+among forages and supplements are likely, and 
+further research is needed to elucidate and quantify 
+them. 
+Literature Cited 
+Brant, M. H. 1993. Predicting the effects of supplementation of 
+forage diets on forage intake and total diet metabolizable 
+energy concentration. M.S. thesis. Univ. of Florida, Gainesville. 
+Horn, G. W., and F. T. McCollum. 1987. Energy supplementation of 
+grazing ruminants. In: M. B. Judkins (Ed.) Proc. Grazing 
+Livest. Nutr. Conf., Univ. of Wyoming, Laramie. pp 125-136. 
+MacNeil, M. D. 1983. Choice of a prediction equation and the use of 
+the selected equation in subsequent experimentation. J. Anim. 
+Sci. 57:1328-1336. 
+Appendix: References Included in 
+Supplementation Data Base 
+Anderson, S. J., J. K. Merrill, and T. J. Klopfenstein. 1988. Soybean 
+hulls as an energy supplement for the grazing ruminant. J. 
+Anim. Sci. 66:2959-2964. 
+Balbuena, 0. 1996. Effects of corn and molasses supplements with 
+and without feed additives on performance, voluntary intake, 
+and digestive function in cattle fed bermudagrass hay. Ph.D. 
+dissertation. University of Florida, Gainesville. 
+Beames, R. M. 1959. Molasses and urea as a supplement to low 
+quality pasture hay for cattle. Queensl. J. Agric. Sci. 16: 
+Beck, T. J., D. D. Simms, R. C. Cochran, R. T. Brandt, Jr., E. S. 
+Vanzant, and G. L. Kuhl. 1992. Supplementation of am- 
+moniated wheat straw: Performance and forage utilization 
+characteristics in beef cattle receiving energy and protein sup- 
+plements. J. Anim. Sci. 70:349-357. 
+Biggerstaff, H. M., W. E. Kunkle, D. B. Bates, and A. C. Hammond. 
+1991. Effect of protein and molasses supplements on the perfor- 
+mance of calves grazing bahiagrass pasture during the fall. Fla. 
+Beef Cattle Res. Rep. pp 69-73. 
+Bond, J., and T. S. Rumsey. 1973. Liquid molasses-urea or biuret 
+(NPN) feed supplements for beef cattle: Wintering perfor- 
+mance, ruminal differences and feeding patterns. J. Anim. Sci. 
+Brake, A. C., A. L. Goetsch, L. A. Forster, Jr., and K. M. Landis. 
+1989. Feed intake, digestion and digesta characteristics of cat- 
+tle fed bermudagrass or orchardgrass alone or with ground 
+barley or corn. J. Anim. Sci. 67:3425-3436. 
+Brown, W. F. 1993. Cane molasses and cottonseed meal supplemen- 
+tation of ammoniated tropical grass hay for yearling cattle. J. 
+Anim. Sci. 71:3451-3457. 
+Brown, W. F., and D. D. Johnson. 1991. Effects of energy and 
+protein supplementation of ammoniated tropical grass hay on 
+the growth and carcass characteristics of cull cows. J. Anim. 
+Sci. 69:348-357. 
+Brown, W. F., J. D. Phillips, and D. B. Jones. 1987. Ammoniation or 
+cane molasses supplementation of low quality forages. J. Anim. 
+Sci. 64:1205-1214. 
+Butterworth, M. H., E. L. Aguirre, A. C. Aragon, and D. L. Huss. 
+1973. Use of molasses containing urea as a supplement to 
+pangolagrass pastures in northeast Mexico. J. Range Manage. 
+Cohen, R.D.H. 1974. Effect of molasses-urea supplements on digesti- 
+bility of mature carpet grass (Axonopus affinis) and liveweight 
+change of beef steers. Aust. J. Exp. Agric. Anim. Husb. 14: 
+Condon, M. J., P. C. Smith, and L. Winks. 1970. Molasses-urea 
+supplements for beef weaners. Queensl. Agric. J. 96:621-625. 
+DelCurto, T., R. C. Cochran, D. L. Harmon, A. A. Beharka, K. A. 
+Jacques, G. Towne, and E. S. Vanzant. 1990a. Supplementation 
+of dormant tallgrass-prairie forage: I. Influence of varying sup- 
+223-232. 
+37:593-598. 
+26(4):269-271. 
+589-592. 
+J. Anim. Sci. Vol. 77, Suppl. 215. Dairy Sci. Vol. 82, Suppl. 2/1999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+134 MOORE ET AL. 
+plemental protein and(or) energy levels on forage utilization 
+characteristics of beef steers in confinement. J. Anim. Sci. 68: 
+DelCurto, T., R. C. Cochran, T. G. Nagaraja, L. R. Corah, A. A. 
+Beharka, and E. S. Vanzant. 1990b. Comparison of soybean 
+meavsorghum grain, alfalfa hay and dehydrated alfalfa pellets 
+as supplemental protein sources for beef cattle consuming dor- 
+mant tallgrass-prairie forage. J. Anim. Sci. 68:2901-2915. 
+Ernst, A. J., J. F. Limpus, and P. K. ORourke. 1975. Effect of 
+supplements of molasses and urea in intake and digestibility of 
+native pasture hay by steers. Aust. J. Exp. Agric. Anim. Husb. 
+Essig, H. W., B. R. Higgason, K. P. Boykin, and C. E. Cantrell. 1995. 
+Protein supplements for steers grazing bermudagrass pasture. 
+Mississippi Agricultural and Forestry Experiment Station Res. 
+Rep. 205 
+Fike, G. D., D. D. Simms, R. C. Cochran, E. S. Vanzant, G. L. Kuhl, 
+and R. T. Brandt, Jr. 1995. Protein supplementation of am- 
+moniated wheat straw: Effect on performance and forage utili- 
+zation of beef cattle. J. Anim. Sci. 73:1595-1601. 
+Forbes, T. J., A. M. Raven, J.H.D. Irwin, and K. L. Robinson. 1967. 
+The utilization of grass fed indoors to young beef cattle, with or 
+without supplementary barley. J. Br. Grassl. SOC. 22:158-164. 
+Forster, L. A., Jr., A. L. Goetsch, D. L. Galloway, Sr., and 2. B. 
+Johnson. 1993. Feed intake, digestibility, and live weight gain 
+by cattle consuming forage supplemented with rice bran 
+and(or) corn. J. Anim. Sci. 71:3105-3114. 
+Galloway, D. L., Sr., A. L. Goetsch, L. A. Forster, Jr., A. R. Patil, W. 
+Sun, and Z. B. Johnson. 1993. Feed intake and digestibility by 
+cattle consuming bermudagrass or orchardgrass hay sup- 
+plemented with soybean hulls and(or) corn. J. him. Sci. 71: 
+Galloway, D. L., Sr., A. L. Goetsch, L. A. Forster, Jr., W. Sun and Z. 
+B. Johnson. 1991. Feed intake and digestion by Holstein steers 
+fed warm or cool season grass hays with corn, dried molasses, 
+or wheat middlings. J. Dairy Sci. 74:1038-1046. 
+Garces-Yepez, P., W. E. Kunkle, D. B. Bates, J. E. Moore, W. W. 
+Thatcher, and L. E. Sollenberger. 1997. Effects of supplemental 
+energy source and amount on forage intake and performance by 
+steers and intake and diet digestibility by sheep. J. Anim. Sci. 
+75: 19 1&1925. 
+Gibb, M. J., and R. D. Baker. 1987. Performance of young steers 
+offered silage or thermo-ammoniated hay with or without a 
+fish-meal supplement. Anim. Prod. 45:371-381. 
+Gibb, M. J., and R. D. Baker. 1988. Performance of young steers 
+offered stack-treated ammoniated hay or untreated hay with or 
+without a supplement. Anim. Prod. 47:223-229. 
+Gibb, M. J., and R. D. Baker. 1989. Performance and body composi- 
+tion of young steers given stack-ammoniated hay with or 
+without a supplement or untreated hay with a supplement. 
+Anim. Prod. 48:341-351. 
+Hall, K. L.. A. L. Goetsch, and L. A. Forster, Jr. 1990. Effects of 
+buffer or DL-methionine with different amounts of supplemen- 
+tal corn on feed intake and nutrient digestion by Holstein 
+steers consuming bermudagrass hay. J. Anim. Sci. 68: 
+Hannah, S. M., R. C. Cochran, E. S. Vanzant, and D. L. Harmon. 
+1991. Influence of protein supplementation on site and extent 
+of digestion, forage intake, and nutrient flow characteristics in 
+steers consuming dormant bluestem-range forage. J. Anim. Sci. 
+Hess, B. W., L. J. Krysl, M. B. Judkins, D. W. Holcombe, J. D. Hess, 
+D. R. Hanks, and S. A. Huber. 1996. Supplemental cracked corn 
+or wheat bran for steers grazing endophyte-free fescue pasture: 
+5 15-531. 
+15 145 1-455. 
+3087-3095. 
+1674-1682. 
+69:2624-2633. 
+Effects on live weight gain, nutrient quality, forage intake, 
+particulate and fluid kinetics, ruminal fermentation, and diges- 
+tion. J. Anim. Sci. 74:1116-1125. 
+Higgins, R. K., J. E. Moore, and W. E. Kunkle. 1991. Effect of 
+limited grain supplement on bermudagrass hay intake and gain 
+by steers. In: F. T. McCollum and M. B. Judkins (Ed.! Proc. 
+2nd Grazing Livest. Nutr. Conf. Oklahoma State Univ., Still- 
+water (Abstr.). p 189. 
+Holderbaum, J. F., L. E. Sollenberger, J. E. Moore, W. E. Kunkle, D. 
+B. Bates, and A. C. Hammond. 1991. Protein supplementation 
+of steers grazing limpograss pasture. J. Prod. Agric. 4:437-441. 
+Horn, G. W., M. D. Cravey, F. T. McCollum, C. A. Strasia, E. G. 
+Krenzer, Jr., and P. L. Claypool. 1995. Influence of high-starch 
+vs high-fiber energy supplements on performance of stocker 
+cattle grazing wheat pasture and subsequent feedlot perfor- 
+mance. J. him. Sci. 73:45-54. 
+Horton, G.M.J., and W. Holmes. 1976. A note on the influence of a 
+supplement of barley and dried lucerne on the intake of barley 
+straw by cattle. him. Prod. 22:419-421. 
+Hunt, C. W., J. F. Parkinson, R. A. Roeder, and D. G. Falk. 1989. 
+The delivery of cottonseed meal at three different time inter- 
+vals to steers fed low-quality grass hay: Effects on digestion 
+and performance. J. Anim. Sci. 67:1360-1366. 
+Jones, A. L., A. L. Goetsch, S. R. Stokes, and M. Colberg. 1988. 
+Intake and digestion in cattle fed warm- and cool-season grass 
+hay with or without supplemental grain. J. Anim. Sci. 66: 
+Kunkle, W. E., D. B. Bates, D. L. Pitzer, and A. C. Hammond. 1988. 
+Effect of protein and blackstrap molasses supplements on per- 
+formance of calves grazing bahiagrass pasture. Fla. Beef Cattle 
+Research Report, Univ. of Florida, Gainesville. pp 87-94. 
+Lagasse, M. P., A. L. Goetsch, K. M. Landis, and L. A. Forster, Jr. 
+1990. Effects of supplemental alfalfa hay on feed intake and 
+digestion by Holstein steers consuming high-quality ber- 
+mudagrass or orchardgrass hay. J. Anim. Sci. 68:2839-2847. 
+Lee, G. J., D. W. Hennessy, J. V. Nolan, and R. A. Leng. 1987. 
+Responses to nitrogen and maize supplements by young cattle 
+offered a low-quality pasture hay. Aust. J. Agric. Res. 38: 
+Lintzenich, B. A,, E. S. Vanzant, R. C. Cochran, J. L. Beaty, R. T. 
+Brandt, Jr., and G. St. Jean. 1995. Influence of processing 
+supplemental alfalfa on intake and digestion of dormant 
+bluestem-range forage by steers. J. Anim. Sci. 73:1187-1195. 
+McCollum, F. T.. and M. L. Galyean. 1985. Influence of cottonseed 
+meal supplementation on voluntary intake, rumen fermenta- 
+tion and rate of passage of prairie hay in beef steers. J. Anim. 
+Sci. 60:570-577. 
+McCullogh, T. A. 1976. The effect on young beef cattle of sup- 
+plementing hay with dried grass or concentrates. J. Br. Grassl. 
+McLennan, S. R., P. F. Dunster, P. K. O'Rourke, and G. M. Murphy. 
+1981. Comparison of dry season urea supplements containing 
+salt, sulfur or molasses for steers grazing native pasture in the 
+dry tropics of northern Queensland. Aust. J. Exp. Agric. Anim. 
+McLennan, S. R., D. J. Hirst, and P. K. ORourke. 1996. Effect of 
+molasses and nitrogen supplements on the liveweight perfor- 
+mance of weaner heifers grazing tropical pastures. Anim. Prod. 
+Aust. 15718 (Abstr.). 
+McLennan, S. R., D. J. Hirst, R. K. Shepard, and K. R. McGuigan. 
+1991. A comparison of various methods of feeding supplements 
+of urea, sulfur and molasses to weaner heifers during the dry 
+season in northern Queensland. Aust. J. Exp. Agric. 31: 
+194-203. 
+195-207. 
+SOC. 31:105-109. 
+Husb. 211457-463. 
+153- 158. 
+J. Anim. Sci. Vol. 77, Suppl. YJ. Dairy Sci. Vol. 82, Suppl. 211999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 
+FORAGE SUPPLEMENTATION 135 
+McLennan, S. R., M. D. Savage, J. A. Lindsay, P. K. O’Rourke, and 
+R. M. Murray. 1989. Effects of sulfur and different sources and 
+levels of nitrogen and energy on the intake and liveweight 
+change of steers fed tropical native pasture hay. Aust. J. Exp. 
+Agric. 29:157-163. 
+McLennan, S. R., G. S. Wright, and G. W. Blight. 1981. Effects of 
+supplements of urea, molasses and sodium sulfate on the in- 
+take and liveweight of steers fed rice straw. Aust. J. Exp. Agric. 
+Anim. Husb. 21:367-370. 
+Momont, P. A,, D. D. Hinman, M. V. Boggess, C. W. Hunt, and R. C. 
+Bull. 1994. Effects of energy supplementation of ammoniated 
+barley straw on performance of cull beef cows. J. Prod. Agric. 7: 
+437-439. 
+Owensby, C. E., R. C. Cochran, R. T. Brandt, Jr., E. S. Vanzant, L. 
+M. Auen, and E. M. Clary. 1995. Grain supplementation on 
+bluestem range for intensive-early stocked steers. J. Range 
+Manage. 48:246-250. 
+Petit, H. V., and D. M. Veira. 1994. Digestion characteristics of beef 
+steers fed silage and different levels of energy with or without 
+protein supplementation. J. Anim. Sci. 72:3213-3220. 
+Petit, H. V., D. M. Veira, and Y. Yu. 1994. Growth and carcass 
+characteristics of beef steers fed silage and different levels of 
+energy with or without protein supplementation. J. Anim. Sci. 
+Pitzer, D. L. 1992. Effect of blackstrap molasses and grain supple- 
+ments on performance of heifers grazing bahiagrass pasture. 
+Master’s thesis. Univ. of Florida, Gainesville. 
+Sanson, D. W., and D. C. Clanton. 1989. Intake and digestibility of 
+low-quality meadow hay by cattle receiving various levels of 
+whole shelled corn. J. him. Sci. 67:2854-2862. 
+Sanson, D. W., D. C. Clanton, and I. G. Rush. 1990. Intake and 
+digestion of low-quality meadow hay by steers and performance 
+of cows on native range when fed protein supplements contain- 
+ing various levels of corn. J. Anim. Sci. 68:595-603. 
+Smith, G. H., and B. Warren. 1986. Supplementation to improve the 
+production of yearling steers grazing poor quality forage. 1. The 
+effects of forage type and a cottonseed meal supplement. Aust. 
+Stafford, S. D., R. C. Cochran, E. S. Vanzant, and J. 0. Fritz. 1996. 
+Evaluation of the potential of supplements to substitute for 
+low-quality, tallgrass-prairie forage. J. Anim. Sci. 74:639-647. 
+72:3221-3229. 
+J. EXP. Agric. 26:1-6. 
+Stateler, D. A,, W. E. Kunkle, and A. C. Hamrnond. 1995. Effect of 
+protein level and source in molasses slurries on the perfor- 
+mance of growing cattle fed hay during winter. J. Anim. Sci. 73: 
+Stokes, S. R., A. L. Goetsch, H. H. Nejad, G. Murphy, A. L. Jones, S. 
+Mashburn, K. W. Beers, Z. B. Johnson, and E. L. Piper. 1988. 
+Effects of supplemental bermuda grass hay or corn on intake, 
+digestion and performance of cattle consuming endophyte-in- 
+fected fescue. J. Anim. Sci. 66:204-212. 
+Sunvold, G. D., R. C. Cochran, and E. S. Vanzant. 1991. Evaluation 
+of wheat middlings as a supplement for beef cattle consuming 
+dormant bluestem-range forage. J. Anim. Sci. 69:3044-3054. 
+Tayler, J. C., and J. M. Wilkinson. 1972. The influence of level of 
+concentrate feeding on the voluntary intake of grass and on 
+live-weight gain by cattle. Anim. Prod. 14235-96. 
+Templeton, J. A,, R. W. Swart, and 0. C. Bucek. 1970. Use of biuret 
+in liquid supplements for ruminants. Proc. West. Sect. Am. SOC. 
+him. Sci. 21:183-188. 
+Vadiveloo, J., and W. Holmes. 1979. The effects of forage digestibil- 
+ity and concentrate supplementation on the nutritive value of 
+the diet and performance of finishing cattle. Anim. Prod. 29: 
+121-129. 
+Vanzant, E. S., R. C. Cochran, K. A. Jacques, A. A. Beharka, T. 
+DelCurto, and T. B. Avery. 1990. Influence of level of sup- 
+plementation and type of grain in supplements on intake and 
+utilization of harvested, early-growing-season, bluestem-range 
+forage by beef steers. J. him. Sci. 68:1457-1468. 
+Winks, L., A. R. Laing, and J. Stokoe. 1972. Level of urea for grazing 
+yearling cattle during the dry season in tropical Queensland. 
+Proc. Aust. SOC. Anim. Prod. 9:258-261. 
+Winks, L., A. R. Laing, P. K. O’Rourke, and G. S. Wright. 1979. 
+Factors affecting response to urea-molasses supplements by 
+yearling cattle in tropical Queensland. Aust. J. Exp. Agric. 
+Anim. Husb. 19522-529. 
+Winks, L., P. K. ORourke, and S. R. McLennan. 1982. Liveweight of 
+grazing steers supplemented with molasses, urea, and sulfur in 
+northern Queensland. Aust. J. Exp. Agric. him. Husb. 22: 
+252-257. 
+Winks, L., R. W. Walker, P. K. ORourke, I. D. Loxton, A. E. Holmes, 
+and K. A. Shaw. 1983. Molasses supplementation of steers 
+grazing a tropical grass-legume pasture in north Queensland. 
+Trop. Grassl. 17(2):64-76. 
+3078-3084. 
+J. Anim. Sci. Vol. 77, Suppl. ZJ. Dairy Sci. Vol. 82, Suppl. 2/1999 
+ by guest on June 19, 2012jas.fass.orgDownloaded from 

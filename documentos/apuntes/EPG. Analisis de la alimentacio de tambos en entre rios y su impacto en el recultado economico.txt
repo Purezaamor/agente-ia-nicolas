@@ -1,0 +1,3582 @@
+=== Fuente: EPG. Analisis de la alimentacio de tambos en entre rios y su impacto en el recultado economico.pdf ===
+
+Análisis de la alimentación en tambos de Entre Ríos y su 
+impacto en el resultado económico. 
+ 
+ 
+ 
+Trabajo final presentado según el requerimiento del grado de Especialista en 
+Producción Lechera en Sistemas Argentinos. 
+ 
+ 
+ 
+ 
+ 
+ 
+Escuela de Posgrado “Alberto Soriano”, Facultad de Agronomía, UBA 
+Ciudad de Buenos Aires, Argentina 
+ 
+ 
+ 
+ 
+Autor: Federico Abel Vouilloud 
+Año: 2011 
+2 
+ 
+ 
+RESUME/glyph1197: 
+La producción de leche en la provincia de Entre Ríos presenta indicadores más bajos 
+comparados con otras cuencas. Atendiendo a la necesidad de mejorarlos se abordó un 
+estudio sobre tambos pertenecientes a grupos CREA de esta provincia. El objetivo de este 
+trabajo es estudiar la influencia de la carga animal, la producción individual, el consumo de 
+forraje y suplementos y el nivel de control en la alimentación sobre el resultado económico 
+y la productividad física de los tambos. Con este fin, se utilizaron registros físicos y 
+económicos analizados mediante agrupamientos, regresiones simples y múltiples. Se pudo 
+concluir que la producción individual y la carga interaccionan en la definición de la  
+producción por hectárea y que esta variable no siempre está positivamente asociada a 
+mejores márgenes brutos. También, se concluye que la incorporación de suplementos se 
+hace generalmente con valores medios de eficiencia y que el consumo de pastura por 
+hectárea es importante para mantener márgenes altos. A sí mismo, el control en el proceso 
+de alimentación permite aumentar la carga sin perder producción individual y tienen 
+efectos diferentes en la conversión de concentrados y voluminosos. 
+ 
+PALABRAS CLAVES: 
+Producción lechera, concentrados, voluminosos, pasturas, control de la alimentación. 
+ 
+ABSTRACT: 
+Dairy production in the province of Entre Rios show lower indicators compared to other 
+dairy basins. In order to improve them, a research to dairy farms belonging to this 
+province´s CREA groups was approached. The aim of this work is to study the influence of 
+stocking rate, individual production, forage and supplements consumption and the level of 
+control in feeding processes on economic results and physical productivity of the farms. In 
+order to achieve this, physical and economics information were use by means of analyzing 
+them using clustering, simple and multiple regressions. It was possible to conclude  that the 
+3 
+ 
+individual production and stock rate interact in the definition of production per hectare and 
+that those variables is not always positively associated with better gross margins. 
+Furthermore, it was concluded that adding supplements is usually done with average 
+efficiency and the consumption of pasture per hectare is important to maintain high 
+margins. Thus, the feeding process control allows increase the stock rate without losing the 
+individual production and it has different effects on the conversion of concentrates and 
+bulky food. 
+ 
+KEYWORDS: 
+Dairy production, concentrated food, bulky food, pasture, feed control.  
+4 
+ 
+ 
+AGRADECIMIE/glyph1197TOS: 
+A P. Chilibroste por el esfuerzo y tiempo dedicado, al grupo CREA Nogoyá por el apoyo 
+recibido y a los productores que me facilitaron la información. 
+5 
+ 
+ 
+Tabla de contenido 
+RESUMEN: .......................................................................................................................2 
+PALABRAS CLAVES: .....................................................................................................2 
+ABSTRACT: .....................................................................................................................2 
+KEYWORDS: ...................................................................................................................3 
+AGRADECIMIENTOS: ....................................................................................................4 
+LISTA DE FIGURAS: .......................................................................................................7 
+INTRODUCCIÓN: ............................................................................................................8 
+MÉTODOS: ..................................................................................................................... 11 
+Metodología de recopilación de datos. .......................................................................... 11 
+Asignación de Superficie: ............................................................................................. 12 
+Carga: .......................................................................................................................... 12 
+Producción de leche: .................................................................................................... 12 
+Suplementación: ........................................................................................................... 13 
+Ingresos Económicos: ................................................................................................... 13 
+Egresos Económicos: ................................................................................................... 14 
+Resultados Económicos: ............................................................................................... 15 
+Estrategia de investigación ........................................................................................... 16 
+RESULTADOS Y DISCUSIONES: ................................................................................ 18 
+Caracterización de las cuencas: ..................................................................................... 18 
+Caracterización por grupo según Ingreso Total. ............................................................ 22 
+Caracterización por grupo según Gastos Directos. ........................................................ 23 
+Caracterización por grupo según Margen Bruto Tambo Total. ...................................... 25 
+Análisis de casos combinados de márgenes brutos y gastos directos. ............................ 26 
+Control de los procesos de alimentación: ...................................................................... 28 
+Consideraciones sobre el análisis por agrupamiento: .................................................... 30 
+Regresiones simples entre variables económicas:.......................................................... 32 
+Regresiones simples entre variables económicas y físicas: ............................................ 34 
+Regresiones simples entre variables físicas: .................................................................. 36 
+Regresiones simples entre uso de alimentos: ................................................................. 37 
+Relación de uso de insumos y económicas: ................................................................... 41 
+6 
+ 
+Consideraciones sobre las regresiones simples: ............................................................ 43 
+Regresiones múltiples ................................................................................................... 44 
+Producción por hectárea vaca total................................................................................ 44 
+Producción por vaca total ............................................................................................. 45 
+Eficiencia de conversión de los suplementos. ............................................................... 53 
+Consumo de pastura por hectárea vaca total. ................................................................. 60 
+Ingreso en leche por hectárea vaca total. ....................................................................... 62 
+Gasto de alimentación por hectárea vaca total. .............................................................. 64 
+Margen de alimentación por hectárea vaca total. ........................................................... 66 
+Gasto directo del tambo total por hectárea de tambo total. ............................................ 67 
+Margen bruto del tambo total por hectárea de tambo total. ............................................ 69 
+Consideraciones sobre el análisis de regresiones múltiples: .......................................... 70 
+CONCLUSIONES: .......................................................................................................... 73 
+BIBLIOGRAFÍA ............................................................................................................. 76 
+ANEXOS: ........................................................................................................................ 77 
+ 
+7 
+ 
+ 
+LISTA DE FIGURAS: 
+Figura 1: Margen bruto por litro (A), margen bruto por vaca ordeño (B) vs margen bruto 
+por hectárea TT y margen bruto por litro (C) vs margen bruto por vaca en ordeño. .......... 32 
+Figura 2: Resultado por producción por hectárea TT vs margen bruto por hectárea TT (A) 
+y margen bruto por hectárea TT vs margen bruto de suplementación por hectárea TT (B).
+ ........................................................................................................................................ 33 
+Figura 3: Margen bruto por hectárea tambo total (A), margen bruto por vaca ordeño (B) y 
+margen bruto por litro(C) vs carga. .................................................................................. 34 
+Figura 4: Margen bruto por hectárea tambo total (A), margen bruto por vaca en ordeño (B) 
+y margen por litro (C) vs producción individual. .............................................................. 35 
+Figura 5: Margen bruto por hectárea TT vs producción por hectárea VT. ......................... 35 
+Figura 6: Producción individual (A) y producción por hectárea VT (B) vs carga y 
+producción por hectárea VT vs producción individual (C). ............................................... 36 
+Figura 7: Consumo de pasturas vs concentrados(A) y voluminosos (B) y consumos de 
+concentrados vs voluminosos (C). .................................................................................... 37 
+Figura 8: Carga vs consumo de concentrados (A), voluminosos (B) y pasturas (C)........... 38 
+Figura 9: Producción individual vs consumo de concentrados (A), voluminosos (B) y 
+pasturas (C). ..................................................................................................................... 39 
+Figura 10: Producción por hectárea VT vs consumo de concentrados (A), voluminosos (B) 
+y pasturas (C). .................................................................................................................. 40 
+Figura 11: Margen bruto por hectárea TT vs consumo de concentrados (A), voluminosos 
+(B) y pasturas (C). ............................................................................................................ 41 
+Figura 12: Margen bruto por litro vs consumo de concentrados (A), voluminosos (B) y 
+pasturas (C). ..................................................................................................................... 42 
+ 
+8 
+ 
+ 
+I/glyph1197TRODUCCIÓ/glyph1197: 
+La República Argentina se ubica en el 18° lugar en producción mundial de leche según 
+FAO, representando esta actividad el 13% de los negocios agropecuarios, luego de las 
+oleaginosas (24%), carnes (19%) y cereales (13%). Concentra su producción primaria en la 
+región pampeana bajo diferentes sistemas de producción, con climas que permiten el 
+pastoreo durante todo el año y relaciones favorables de precios con los granos (2:1) 
+comparado con países como Nueva Zelanda (1:1) (Greig, 2006). Tres provincias producen 
+el 95% del total nacional, Córdoba el 35%, Santa Fe el 34% y Buenos Aires el 26%. Con 
+una importancia inferior están Entre Ríos (3,5%) y La Pampa (1,5%), pero cuentan con un 
+gran potencial para transformarse en importantes productoras (Castignani, Zehnder, 
+Gambuzzi & Chimicz, 2005). Cada una de estas provincias son consideradas cuencas 
+lecheras, las cuales están divididas en subcuencas. La provincia de Santa Fe y Entre Ríos 
+presentan dos subcuencas, Córdoba y Buenos Aires se dividen en cuatro subcuencas y La 
+Pampa se considera como una cuenca única. Estas cuencas presentan modelos de 
+producción característicos de acuerdo a las condiciones ambientales y culturales de sus 
+productores. Si bien existen diferencias marcadas entre estos sistemas de producción, el 
+avance tecnológico en el sector primario e industrial hace que no puedan considerarse 
+como regiones aisladas y relativamente autónomas (Gutman, Guiguet & Rebolini, 2003). 
+ 
+El sector lechero argentino presenta variaciones en la producción a través del tiempo, con 
+ciclos anuales e interanuales. Estos ciclos están vinculados a las condiciones climáticas y a 
+los niveles de consumo interno de lácteos y al precio de la leche, siendo el primero un 
+factor importante en la determinación del segundo (Gutman, Guiguet & Rebolini, 2003). 
+Considerando una serie de 38 años de datos de producción nacional, se observa un primer 
+período desde 1970 a 1991 con un crecimiento promedio de 72 millones de litros por año, 
+con escasa diferencia entre los picos y caídas de producción. Pero en la década de 1990, la 
+tasa de crecimiento se duplicó a 145 millones de litros por año, con una intensificación del 
+modelo a semipastoril que resultó en aumentos de la productividad por animal y por 
+hectárea (Secretaría de agricultura, ganadería, pesca y alimentos, 2009). Este proceso 
+estuvo asociado a un modelo económico de paridad cambiaria del peso con el dólar y a 
+9 
+ 
+relaciones de precios favorables con los granos. En el año 2001 se combinó un año 
+climáticamente perjudicial, una relación leche/grano desfavorable y la devaluación de la 
+moneda, por lo que se retomaron los sistemas pastoriles con escasa suplementación. Esto 
+resultó en una caída abrupta de la producción nacional que solo se recuperó luego de 2003, 
+cuando el precio de la leche presentó una relación favorable con los insumos. Los 
+diferentes ciclos que presentó la actividad obligó a los productores a modificar las 
+estrategias empresariales, ajustar los niveles de suplementación y adecuar la producción a 
+las distintas situaciones (Rodriguez, Mancuso, Engler & Cancio, 2005).La característica 
+cíclica que tienen los precios en la actividad es un factor de riesgo que debe considerarse al 
+momento de aumentar la producción, ya que generalmente se hace en base a un mayor uso 
+de suplementos. Si la incorporación de estos no se realiza con un adecuado nivel de control 
+sobre los procesos de alimentación, pueden reducirse los beneficios económicos de esta 
+tecnología. Además, la incorporación de los suplementos responde a la ley de los 
+rendimientos marginales decrecientes, generando un menor beneficio económico por cada 
+nueva unidad producida, hasta que el costo marginal es mayor al valor marginal de la 
+producción (Galligan, 2001). Las estrategias de alimentación determinan costos, riesgos y 
+resultados económicos distintos, exponiendo a las empresas a que cuando las producciones 
+individuales o por hectárea no son alcanzadas, o son logradas con poca eficiencia en el uso 
+de los suplementos, pueden generar un aumento en el costo de producción que expondrían 
+a las empresas a resultados económicos desfavorables en los períodos de precios bajos. 
+ 
+Debido a la heterogeneidad que presentan las empresas lecheras en Argentina es difícil 
+caracterizar un tambo promedio y es necesario un abordaje a nivel de cuenca. Castignani et 
+al. (2005) realizaron una descripción de variables económicas y físicas de varios 
+establecimientos en todo el país. Encontraron que el promedio nacional de la superficie de 
+los tambos es de 271 hectáreas, pero casi el 50% está en el rango de 100 a 200 hectáreas. 
+El 40% de casos que evaluaron entregan entre 1000 y 2000 litros por día y el 84% se sitúa 
+por debajo de los 3000 litros. En cuanto a la tenencia de la tierra, solo el 40% produce en 
+tierra propia, el resto alquila desde un porcentaje menor hasta el 100% de la superficie 
+trabajada. En este mismo trabajo, la provincia de Entre Ríos presenta, en comparación con 
+otras cuencas, los establecimientos de menor tamaño en superficie, el menor porcentaje de 
+superficie alquilada, la dotación de vacas totales y carga más baja y la menor entrega diaria 
+de leche. En cuanto a los aspectos de alimentación, cuenta con el menor porcentaje de 
+10 
+ 
+superficie praderizada y destinada a granos húmedos o silo, pero niveles de 
+suplementación casi tan altos como en otras cuencas que consiguen producciones 
+individuales 2 a 3 litros mayores. A pesar de no contar con el mismo porcentaje de 
+superficie con pasturas, el porcentaje de los gastos en praderas y verdeos son similares a 
+otras zonas y los de suplementación se encuentran entre los más altos. Las características 
+de Entre Ríos resultan en una productividad por hectárea y resultados económicos 
+significativamente menores a otras zonas y al promedio del país. Estas características se 
+mantienen si se considera la relación con los tambos pertenecientes a grupos CREA de 
+Entre Ríos comparados con el resto de los tambos CREA del país (Snyder, 2007). Esto 
+indica la necesidad de aumentar la producción y mejorar los niveles de eficiencia en la 
+suplementación para optimizar los resultados económicos. 
+ 
+Si bien es necesario implementar medidas para aumentar la producción en la provincia de 
+Entre Ríos, existen riesgos que son necesarios considerar. Desde un punto de vista 
+ambiental, la provincia tiene un clima de dominio atlántico que en su mayoría corresponde 
+a la clasificación de templado húmedo de llanura (Rojas & Saluso, 1987). Presenta un 
+clima suave, con ausencia de situaciones extremas, que lo hacen de gran aptitud para el 
+cultivo de secano de cereales y forrajeras permitiendo el pastoreo durante todo el año. Las 
+isotermas características son las de 25ºC y 26ºC en verano y las de 11º a 13ºC en invierno. 
+Las precipitaciones disminuyen del NE al SO entre las isohietas de 1.100 mm y la de 900 
+mm con un promedio de 970 mm anuales pero con ciclos de 6 ó 7 años de duración 
+(Quinteros, Brizuela & Zimmermann, 2003). Los suelos son mayormente vertisoles, con 
+bajos niveles de fósforo y alto porcentaje de arcilla expandible, lo que le imprimen una 
+baja percolación y alta retención de humedad (INTA EEA Paraná, 1984). Las variaciones 
+que sufre el clima, principalmente las precipitaciones, hacen que la producción de forrajes 
+sea poco predecible entre años y entre estaciones. En las épocas o años de sequía se 
+resiente la producción forrajera, mientras que en los períodos húmedos las condiciones 
+físicas del suelo dificultan el tránsito de animales y maquinarias. Los meses con mayor 
+probabilidad de exceso de agua son septiembre, junio, octubre, agosto, mayo y abril 
+respectivamente, lo que indica que otoños con excesos de humedad son un problema 
+recurrente (Rojas & Saluso, 1987). 
+ 
+11 
+ 
+Estas características hacen necesario una cantidad de reservas forrajeras que permitan 
+suplir la variabilidad en la producción de forrajes en las épocas de sequías y estructuras 
+para alimentar que brinden confort a las vacas y permitan transitar a la maquinaria en 
+momentos de excesos hídricos. Estas medidas resultan costosas para las escalas de 
+producción promedio de la provincia, por lo que están presentes con diferentes niveles de 
+adopción en los establecimientos. Cuando ocurre alguna de las situaciones mencionadas, 
+frecuentemente se resienten los niveles de producción, aumenta la suplementación y si no 
+se logran los niveles de producción esperados, podría afectar el costo por litro producido y 
+el resultado económico de la empresa. 
+ 
+En base a los bajos resultados productivos observados para Entre Ríos y atendiendo la 
+necesidad de mejorarlos manteniendo un costo competitivo y superando las dificultades 
+climáticas y edáficas mencionados, se abordará un estudio sobre la carga, la forma y el 
+nivel de control de alimentación en tambos pertenecientes a grupos de Consorcio Regional 
+de Experimentación Agropecuaria (CREA) agrupados en la Asociación Argentina de 
+Consorcio Regional de Experimentación Agropecuaria (AACREA). El objetivo de este 
+trabajo es estudiar la influencia de la carga, la producción individual, el consumo de forraje 
+y suplementos y el nivel de control en la alimentación sobre el resultado económico y la 
+productividad física. Adicionalmente se realiza un análisis exploratorio de las variables 
+más relacionadas con la producción y cosecha de forraje por hectárea  
+ 
+MÉTODOS: 
+Metodología de recopilación de datos. 
+El período de análisis abarca los ejercicios 2005-2006, 2006-2007 y 2007-2008, para las 
+cuencas este y oeste de la provincia de Entre Ríos. Los ejercicios agrícolas inician en el 
+mes de julio y terminan en junio del año próximo. Los datos físicos fueron recopilados 
+según las Normas para recopilar datos de producción física (Zubizarreta, 1988) y los datos 
+económicos según las Normas de gestión agropecuarias (Colombo, Vila, & Zorraquín, 
+2007), ambas redactados por AACREA. En las normas se hace una diferencia, tanto para 
+variables físicas como económicas, entre las mediciones que afectan a las vacas en ordeño 
+12 
+ 
+(VO) y secas (VS) y las que incluyen a la recría. Para el primer grupo, se aplica el término 
+“Tambo” o “Vaca Total” mientras que cuando se incluye a la recría se usa “Tambo Total”  
+ 
+Asignación de Superficie: 
+Cuando el tambo es la única actividad se le asigna la superficie útil del establecimiento, 
+diferenciando solo el área ocupada por la recría. Si la empresa realiza otra actividad la 
+superficie que se le imputa es la efectivamente usada. Para esto, se determina el tiempo 
+efectivo de uso considerando los meses que el tambo utiliza el lote dividido por los doce 
+meses del año. Afectando la superficie total por el tiempo de uso se obtiene la superficie 
+efectiva del tambo. Dentro del tambo, se hace la misma consideración para los rodeos de 
+vacas adultas o la recría. Si fue utilizado por las vacas secas o en ordeño se asigna la 
+superficie a “Superficie Vaca Total” y la suma de esta con la utilizada por la recría e 
+instalaciones conforma la “Superficie Tambo Total”. En cuanto a la superficie de cultivos a 
+ensilar se consideran dentro del área de vaca total (VT), excepto en aquellos casos en que 
+fuera realizado para la recría en los que se computa como tambo total. Si se destina algún 
+lote a cosecha de forrajeras o granos de cultivos doble propósito se descuenta el tiempo 
+desde que los recursos se cierran al pastoreo hasta la cosecha de los mismos. 
+ 
+Carga: 
+En este trabajo se considera solamente la carga de vaca total, la que se calcula mediante la 
+existencia mensual promedio de vacas en ordeño y secas sobre la superficie efectiva de 
+vaca total. 
+ 
+Producción de leche: 
+Considerando que uno de los objetivos del trabajo es relacionar la producción de leche con 
+las variables económicas, se utiliza solamente los litros producidos sin corrección según 
+composición de grasa ni proteínas ya que la comercialización y el pago de la leche se 
+realiza por litro de leche enfriada. En el trabajo se considera la producción individual por 
+vaca por día promedio del año, la producción por hectárea vaca total y hectárea tambo total 
+y la producción anual por empresa. 
+13 
+ 
+ 
+Suplementación: 
+Los niveles de suplementación resultan de los registros mensuales de alimentación de las 
+vacas en ordeño y las dietas de vacas secas y preparto. En el caso de las compras de 
+reservas no se adiciona la superficie que da origen a esas reservas, como indican las 
+normas. Se analizaron por separados los concentrados y los voluminosos. En los primeros 
+se consideraron los granos, expeler, semilla de algodón y afrechillos, mientras que en los 
+voluminosos los silos, henos y la pulpa de citrus. Esta última se considera como 
+voluminoso por su bajo porcentaje de materia seca. En general se utilizan valores de 
+materia seca corrigiendo por tablas de composición estándar para cada alimento. 
+ 
+Ingresos Económicos: 
+Los ingresos se consideran en pesos argentinos en moneda corriente al no contar con los 
+gastos detallados mensualmente en todas las empresas. Los ingresos del Tambo están 
+conformados por la venta de leche y de hacienda como las vacas de descarte y vacas 
+productivas. En el ingreso del Tambo Total se suman al primero la venta de vaquillonas 
+preñadas, de descarte y terneros machos. Se debe distinguir entre ventas y cesiones 
+internas, las que se hacen al mismo valor neto de mercado, pero cuando se considera la 
+actividad Tambo Total los ingresos y egresos de cada actividad se compensan. Un ejemplo 
+es la leche utilizada en la guachera a la que se le asigna el mismo valor que la 
+comercializada, por lo que se constituye en un ingreso para el tambo y un gasto para la 
+guachera y no influye en el resultado del tambo total. A sí mismo, se considera que la 
+actividad tambo recibe vaquillonas preñadas de la recría y le cede los terneros nacidos. La 
+diferencia de inventario también constituye un ingreso en el caso de ser positiva o un 
+egreso cuando es negativa. La hacienda se valoriza con el precio neto de mercado al cierre 
+del ejercicio. En los casos en que se efectuó alguna actividad secundaria como semillero de 
+forrajeras o la cosecha de granos de cultivos doble propósito se descuenta la superficie 
+destinada a este fin y si no se dispone de la fecha de cierre al pastoreo se consideran como 
+otros ingresos del tambo contabilizándose en el margen bruto de la actividad. 
+ 
+14 
+ 
+Egresos Económicos: 
+En los costos directos se consideran a los insumos y servicios que se utilizan durante el 
+ejercicio en pesos argentinos en moneda corriente. Los gastos se imputan cuando es 
+consumido el bien o el servicio ya que algunos insumos pueden quedar en stock para otro 
+ejercicio o usarse uno comprado anteriormente. Algunas de los aspectos que deben 
+considerarse respecto a los gastos son el personal, la alimentación y la maquinaria. El rubro 
+personal incluye sueldos, aguinaldos, cargas sociales y bonificaciones. Se diferencian los 
+operarios relacionados con las actividades de tambo y los que se realizan labores en la 
+recría, maquinarias o mantenimientos, imputando los gastos a cada actividad. La 
+maquinaria es considerada una actividad intermedia que tiene gastos y realiza labores que 
+son cobradas a las actividades de la empresa a precio de mercado. La alimentación incluye 
+las pasturas y verdeos, los cultivos para granos y reservas y los alimentos comprados. 
+ 
+Los gastos en alimentación del tambo se desglosan en concentrado, voluminosos, verdeos 
+de invierno y de verano y praderas. Los concentrados comprenden a los balanceados 
+comerciales, granos y subproductos comprados para el tambo, como así también los granos 
+de producción propia que son cedidos a esta actividad a precio de mercado. La superficie 
+ocupada para producirlos es considerada como agrícola y no se suma a la del tambo. En los 
+casos como maíz o sorgo de producción propia conservados como grano húmedos, el 
+precio de cesión es el costo de producción ya que el producto no puede comercializarse y 
+no tiene valor de mercado. En este caso la superficie ocupada por el cultivo se considera 
+dentro de la actividad tambo. Los voluminosos incluyen los cultivos destinados a silos, los 
+rollos húmedos y secos que se produzcan en el campo y/o las compras de alimentos 
+categorizados como voluminosos, por ejemplo los rollos, la pulpa de citrus o cultivos 
+comprados en pie para ser cosechados y embolsados. Los gastos que se imputan a la 
+implantación de los cultivos anuales para granos o reservas, los verdeos de invierno o de 
+verano y las pasturas son los realizados durante el ejercicio. En pasturas no se aplica el 
+criterio de amortización ya que la superficie sembrada es similar en los diferentes 
+ejercicios, por eso se considera como gastos directo del tambo. 
+ 
+15 
+ 
+Las amortizaciones directas del tambo son las vinculadas con las mejoras derivadas de la 
+actividad, como la obra civil, instalaciones, ordeñadoras, etc. No se consideran en este 
+rubro las obras civiles de la estructura general ni las herramientas que forman parte de la 
+actividad intermedia de la maquinaria. 
+ 
+Los costos indirectos son aquellos costos que no son imputables directamente a ninguna 
+actividad productiva ni intermedia y que se generan por el propio funcionamiento de la 
+empresa. Se componen por gastos de administración, gastos de estructura, impuestos, 
+alquileres y las amortizaciones de los bienes de uso. Los gastos de administración engloban 
+a aquellos que son inherentes a la dirección de la empresa, como los honorarios del 
+administrador, sus vehículos y viáticos, el asesoramiento contable y legal, el personal 
+administrativo, los gastos de oficina, etc. Los gastos de estructura están vinculados a 
+aspectos operativos y contienen al encargado del establecimiento con sus honorarios y 
+gastos de movilidad, el personal y los gastos de mantenimiento vinculado al casco e 
+instalaciones generales, la energía eléctrica que no sea del tambo, etc. Los impuestos 
+considerados son los nacionales, provinciales y municipales imputados en la fecha de 
+vencimiento. No se incluyen los impuestos a las ganancias ni a los bienes personales. Los 
+alquileres se consideran como gastos globales de la empresa y no como particular de las 
+actividades productivas. En las empresas que tienen otra actividad además del tambo, los 
+gastos indirectos se prorratearon de acuerdo a la importancia de las actividades. 
+ 
+Resultados Económicos: 
+Los resultados económicos utilizados son el margen bruto de alimentación, el margen 
+bruto de tambo total, el resultado por producción del tambo total y el costo por litro de 
+leche producido. El margen bruto de alimentación se calcula restando al ingreso por 
+producción de leche los gastos de las pasturas, verdeos y suplementos. Es un indicador 
+directo del resultado económico de la alimentación. El margen bruto de tambo total se 
+obtiene de los ingresos del tambo total menos los costos y amortizaciones directas de esta 
+actividad. Representa la eficiencia económica de la actividad productiva y es el indicador 
+que permite comparar diferentes estrategias. El resultado por producción se calcula 
+sustrayendo los gastos y amortizaciones indirectas al margen bruto del tambo total. Refleja 
+16 
+ 
+el resultado final de la empresa pero está afectado por la escala y otros factores que no 
+dependen del planteo técnico empresarial en el tambo. A los fines de hacer comparables 
+los resultados en establecimientos de diferentes escalas las variables se afectan por las 
+hectáreas de tambo, tambo total y por las vacas totales. 
+ 
+Estrategia de investigación  
+Caracterización de las cuencas:  Para caracterizar la provincia de Entre Ríos y sus dos 
+cuencas, se utilizaron tablas con valores promedios y desvíos estándares de variables 
+físicas y económicas. Como indicadores de las escalas de los establecimientos se 
+consideran la superficie explotada, cantidad de vacas y los litros producidos en el año. La 
+carga, producción individual, productividad por hectárea, consumos de alimentos y 
+personas afectadas al tambo son utilizados para caracterizar el modelo promedio de las 
+cuencas y de la provincia. El control en los procesos de alimentación se estudió mediante 
+la frecuencia de casos en variables como la presencia de comederos en las salas de ordeño, 
+si estos son automáticos o manuales, si contaban con mixer con balanza y si utilizaban 
+comederos externos al tambo en pistas mejoradas. Para la caracterización económica se 
+observó el precio por litro de leche, el costo por kilo de los alimentos, el margen bruto por 
+hectárea del tambo total, el gasto por litro, los ingresos, gastos y márgenes por vaca en 
+ordeño y el resultado por producción sin arrendamiento. 
+ 
+Caracterización según nivel de ingresos, gastos y resultados:  Con el objetivo de describir 
+las características de las producciones, ingresos, gastos directos y resultados económicos se 
+calculó el promedio de diferentes variables para las cuencas o los grupos. El criterio de 
+agrupamiento fue estar por encima o debajo de la media para la variable de interés. 
+También se realizaron análisis de grupos con criterios dobles simultáneos (ej: alto margen 
+bruto y bajo costo). 
+ 
+Regresiones simples y múltiples:  Para conocer la relación entre diferentes pares de 
+variables físicas y económicas se ajustaron modelos de relaciones funcionales utilizando 
+regresiones simples en planillas de cálculo de Microsoft Excel. Se exploraron las 
+17 
+ 
+relaciones entre variables físicas, físicas y económicas y económicas entre sí. La regresión 
+simple entre variables permite obtener una primera aproximación al problema teniendo 
+claro tres niveles de restricciones: a) las relaciones sólo tienen validez dentro del rango en 
+que fueron establecidas, b) no identifican relaciones de causalidad y c) asumen 
+independencia entre las variables extremo que nunca se da en este tipo de estudios. Aún 
+con las restricciones mencionadas la regresión simple es útil para identificar el 
+comportamiento de algunos componentes principales del sistema bajo estudio. 
+ 
+Utilizando Infostat se realizaron regresiones múltiples con énfasis en el comportamiento de 
+las variables más que en la predicción de los valores. Se realizó con un enfoque desde lo 
+particular a lo general, comenzando desde las variables productivas que conforman el 
+ingreso y continuando con el análisis de los gastos, tanto en alimentación como totales. 
+Una vez estudiadas estas variables se evaluó como se relacionan para generar el margen 
+bruto de alimentación y total. Se verificó el cumplimiento de normalidad y 
+homocedasticidad de los datos. Se analizaron las variables físicas como la producción por 
+vaca total, la producción por hectárea vaca total, la eficiencia de conversión de los 
+suplementos y la pastura cosechada por las vacas por hectárea vaca total. Esta última es 
+calculada como la diferencia entre la producción de leche y los suplementos suministrados, 
+valor que es corroborado con las estimaciones que realizan los nutricionistas en forma 
+mensual. Las variables económicas fueron separadas en margen bruto de alimentación por 
+hectárea vaca total y margen bruto total por hectárea tambo total. A su vez, se estudiaron 
+los ingresos de leche y los gastos de alimentación por hectárea vaca total, como así 
+también los ingresos y gastos por hectárea de tambo total. Luego se analizó como impactan 
+estos en los respectivos márgenes brutos. 
+ 
+Los resultados se presentan en tablas con los modelos reducidos a las variables 
+significativas y en un anexo se presentan los modelos completos con todas las variables 
+analizadas. Los ejercicios fueron analizados por separado para evitar el efecto de la 
+inflación en las variables económicas y capturar las diferencias en las variables físicas que 
+pueden ocurrir por características económicas y climáticas propias del ejercicio. Para 
+algunas variables físicas se realizó otra partición según la utilización de algunas 
+18 
+ 
+tecnologías como mixer y comederos lineales externos a la sala de ordeñe. Cabe aclarar 
+que se evaluó la utilización del mixer como instrumento para repartir los alimentos ya que 
+no todos utilizan una ración totalmente mezclada. Como las variables con sus términos 
+cuadráticos e interacciones en algunos casos eran numerosas no se pudieron realizar las 
+corridas completas, por lo que se dividieron las interacciones y los términos cuadráticos en 
+dos modelos. Como el ejercicio 2005-2006 presenta pocos datos fue retirado del análisis 
+por ejercicio ya que dificultaba la corrida del estadístico pero se mantuvo para las otras 
+particiones.  
+ 
+  RESULTADOS Y DISCUSIO/glyph1197ES: 
+Caracterización de las cuencas: 
+En la tabla 1 se detallan la cantidad de casos y la escala de las empresas a través de los 
+litros producidos, la cantidad de hacienda y la superficie trabajada. Se puede observar que 
+la cantidad de empresas es similar para ambas cuencas. Los litros producidos, el total de 
+vacas adultas y las hectáreas dedicadas al tambo son sensiblemente mayores en la cuenca 
+Este, lo que indica una mayor escala productiva. Si se considera la superficie total 
+trabajada por las empresas, la diferencia entre cuencas se reduce. Además, la cuenca Oeste 
+destina un 49% al tambo mientras que en el Este llega al 75%. En la zona Oeste se ve muy 
+afectado por unos pocos establecimientos de gran tamaño que modifican el promedio de la 
+superficie total trabajada. En resumen, la superficie total trabajada no difiere tanto como la 
+dedicada al tambo, aunque esto está influenciado por la metodología de cálculo que arroja 
+promedios ponderados y no aritméticos. 
+ 
+Tabla 1: Caracterización de la escala de los establecimientos en cada cuenca. 
+Cuenca Este Oeste  Total General  
+N° Establecimientos 16 18 34 
+Litros Diarios Promedio  11671  6870 9130 
+ Desv.Est.  6179 3123 5319 
+Vacas Totales Promedio  695 423 551 
+ Desv.Est.  375 200 322 
+Superficie Vaca Total (has) Promedio  744 386 554 
+ Desv.Est.  456 165 376 
+19 
+ 
+Cuenca Este Oeste  Total General  
+Superficie Tambo Total (has) 
+Promedio  958 529 731 
+Desv.Est.  593 195 476 
+Superficie Total Trabajada  (has)  
+Promedio  1269 1087 1172 
+Desv.Est.  763 931 848 
+ 
+El sistema de producción de leche, definido por la alimentación, la carga y la producción 
+individual es uno de los aspectos más distintivos de una cuenca lechera. En la tabla 2 se 
+observa que el sistema de producción, según las variables mencionada, es similar en ambas 
+cuencas. La carga promedio en vacas totales es cercana a 1 VT/ha VT y la producción 
+individual llega a los 20 litros/VO/día resultando en una productividad de 6000 litros/ha 
+VT. El personal afectado al tambo es mayor en la cuenca Este pero se diluye logrando 
+1061 litros diarios por operario versus los 981 que se obtienen en la cuenca oeste. La 
+alimentación de los rodeos en ordeño muestra una diferencia de 2 kg de concentrados a 
+mayor la cuenca Este. Este mayor uso de concentrados no se ve reflejado en las 
+producciones individuales promedio y parece estar asociado a un menor consumo de 
+forrajes. La participación de los voluminosos no muestra diferencias. La escasa diferencia 
+en las variables de alimentación y productivas indican que los modelos son similares. 
+ 
+Tabla 2: Características de los sistemas de producción. 
+Cuenca Este Oeste  Total General  
+Producción Individual 
+Promedio  20.4 20.2 20.3 
+Desv.Est.  2.3 2.6 2.4 
+Carga (VT/Ha) 
+Promedio  1.02 1.07 1.04 
+Desv.Est. 0.25 0.20 0.22 
+Productividad (Lts/ha VT) 
+Promedio  5941  6061 6005 
+Desv.Est.  2013  1480 1724 
+Consumo Concentrados (kg MS/VO/Día)  
+Promedio  8.1 6.1 7.0 
+Desv.Est.  1.6 1.6 1.9 
+Consumo Voluminosos (Kg MS/VO/Día)  
+Promedio  4.0 4.4 4.2 
+Desv.Est.  2.2 1.7 1.9 
+Personas Afectadas al Tambo 
+Promedio  11 7 9 
+Desv.Est.  7 5 6 
+% Pastura Cosechada en Dieta 
+Promedio  42 49 45 
+Desv.Est.  12 11 12 
+Cosecha de forraje (Kg MS/Ha VT) 
+Promedio  3044  3777 3432 
+Desv.Est.  747 1047 978 
+20 
+ 
+ 
+La alimentación es uno de los principales rubros en los costos del tambo por lo que el nivel 
+de control en el suministro determina diferentes niveles de eficiencia. En la tabla 3 se 
+detallan algunos aspectos vinculados al control en la alimentación, como la utilización de 
+comederos en la sala de ordeño, uso de mixer con y sin balanza, comederos externos 
+lineales o grupales y las pistas de alimentación. Se considera que se utilizan comederos en 
+el tambo cuando una cantidad significativa de los concentrados se ofrece en estas 
+instalaciones y se los clasifica como automáticos cuando se cargan con cualquier sistema 
+que no sea manual con baldes. Con este criterio, el nivel de uso de comederos es similar 
+entre cuencas con una adopción casi total. En cuanto al uso de mixer, el 66% de los casos 
+analizados en el Este utiliza mixer y de estos el 66% cuentan con balanza. En la cuenca 
+Oeste, el 39% de casos usa mixer pero todos lo utilizan con balanza. Se observó que los 
+comederos externos no son de uso generalizado y que son más frecuentes en el Oeste, 
+aunque no todos son lineales como ocurre en el Este. Además, muchos casos que tienen 
+comederos externos utilizan además los alambrados y son muy pocos los casos con pista de 
+alimentación con algún nivel de mejora en el piso y comederos. En ambas cuencas se 
+observa que la adopción de las tecnologías son parciales, por ejemplo mixer sin balanza y 
+sin comederos, por lo que los niveles de control en los procesos de alimentación presentan 
+limitaciones. 
+ 
+Tabla 3: Nivel de control en la alimentación. Números de casos que cuentan con las 
+mejoras mencionadas. 
+Cuenca Este  Oeste  Total General  
+Comederos Sala Ordeño No  1 0 1 
+  Si 15 18 33 
+Comederos Automáticos No  1 1 2 
+  Si 15 17 32 
+Utiliza Mixer No  7 11 18 
+  Si 9 7 16 
+Quienes Utilizan Mixer, lo hacen con Balanza  No  3 0 3 
+  Si 6 7 13 
+Comederos Externos No  10 9 19 
+  Si 6 9 15 
+Suministra Debajo de Alambrados 
+No  4 0 4 
+Si 12 18 30 
+21 
+ 
+Cuenca Este  Oeste  Total General  
+Pista de Alimentación Mejorada 
+No  12 16 28 
+Si 4 2 6 
+Comederos Lineales No  10 14 24 
+  Si 6 4 10 
+Comederos No Lineales No  16 15 31 
+  Si 0 3 3 
+ 
+Los costos de los principales insumos como del producto final son indicadores de la 
+eficiencia de los sistemas de producción y los resultados económicos constituyen el fin 
+último y el mejor indicador de las virtudes de las empresas y sus planteos productivos. Para 
+analizar estos aspectos se consideran los costos por kilo de los suplementos y el forraje 
+comprado y producido, los gastos directos e indirectos y los resultados a nivel de margen 
+bruto y resultado por producción. Observando el precio que se comercializa la leche la 
+cuenca Este presenta un valor mayor. Considerando los alimentos, para esta cuenca el 
+costo de los concentrados por kilo comprado es más elevado mientras que los forrajes y 
+voluminosos producidos son menores. Esto genera un mayor costo de suplementación por 
+litro de leche ya que, como se mencionó anteriormente, consumen más concentrado y se 
+produce la misma cantidad de leche que en el Oeste. En cuanto a los costos directos por 
+litro de leche no se observan diferencias entre las cuencas, debido a las similitudes que 
+tienen los sistemas de producción. El margen bruto por hectárea Tambo Total es un 24% 
+mayor en la cuenca Este, probablemente influenciado por los mejores precios de la leche 
+ya que el costo directo, ya sea por litro de leche o vaca en ordeño, es similar en ambos 
+casos. Si se consideran el resultado por producción, la diferencia entre cuencas se 
+incrementa por la posibilidad de diluir los gastos indirectos por litro de leche. 
+ 
+Tabla 4: Indicadores económicos. 
+Cuenca Este Oeste Total General  
+Precio por Litro 
+Promedio  $ 0.696  $ 0.665  $ 0.680 
+Desv.Est.  $ 0.138  $ 0.141  $ 0.138 
+Costo Concentrado ($/kg Fresco) 
+Promedio  $ 0.476  $ 0.431  $ 0.452 
+Desv.Est.  $ 0.131  $ 0.124  $ 0.128 
+Costo Voluminoso ($/kg Fresco) 
+Promedio  $ 0.165  $ 0.232  $ 0.201 
+Desv.Est.  $ 0.072  $ 0.121  $ 0.105 
+Costo Forraje Pastoreado ($/kg MS) Promedio  $ 0.097  $ 0.115  $ 0.106 
+22 
+ 
+Cuenca Este Oeste Total General  
+Desv.Est.  $ 0.031  $ 0.030  $ 0.031 
+Costo Suplementación ($/lt leche) 
+Promedio  $ 0.257  $ 0.202  $ 0.228 
+Desv.Est.  $ 0.086  $ 0.078 $ 0.085 
+Margen Bruto Tambo ($/ha TT) 
+Promedio  $ 1264 $ 1022 $ 1136 
+Desv.Est.  $ 543 $ 496 $ 525 
+Resultado por Producción sin arrendamiento ($/ha TT)  
+Promedio  $ 988 $ 693 $ 832 
+Desv.Est.  $ 551 $ 373 $ 482 
+Gastos Directos ($/lt) 
+Promedio  $ 0.469  $ 0.465  $ 0.467 
+Desv.Est.  $ 0.107  $ 0.116  $ 0.110 
+Gastos Indirectos ($/Lt) 
+Promedio  $ 0.057  $ 0.073  $ 0.066 
+Desv.Est.  $ 0.022  $ 0.033  $ 0.029 
+Gastos Totales ($/Lt) 
+Promedio  $ 0.547  $ 0.562  $ 0.555 
+Desv.Est.  $ 0.107  $ 0.157  $ 0.134 
+Ingreso por VO 
+Promedio  $ 5526 $ 5143 $ 5323 
+Desv.Est.  $ 1237 $ 1527 $ 1391 
+Gastos Directos ($/VO) 
+Promedio  $ 3487 $ 3466 $ 3476 
+Desv.Est.  $ 817 $ 1106 $ 966 
+Margen Bruto Tambo Total ($/VO) 
+Promedio  $ 2010 $ 1621 $ 1804 
+Desv.Est.  $ 704 $ 615 $ 677 
+Resultado por Producción sin Arrendamiento ($/VO) 
+Promedio  $ 1590 $ 1089 $ 1325 
+Desv.Est.  $ 779 $ 482 $ 678 
+ 
+Los resultados observados en el agrupamiento por cuenca permiten considerar a los dos 
+grupos como homogéneos en sistemas de producción, niveles de control de la alimentación 
+y resultados físicos y económicos. Esta característica permite continuar con los futuros 
+análisis considerando al conjunto de datos sin distinción entre cuencas. 
+ 
+Caracterización por grupo según Ingreso Total. 
+Se dividieron los registros según se encuentre por encima o por debajo de la media de los 
+ingresos totales por hectárea para identificar las características de las empresas de cada 
+grupo. Se observa que los que están en el grupo de alto ingreso presentan mayor carga, 
+producción individual y por hectárea. La escala no parece ser un factor determinante ya 
+que la cantidad de vacas es similar en ambos casos y las hectáreas en bajo ingreso son 
+levemente mayores. En tanto que en la alimentación del rodeo en ordeño, el grupo de alto 
+ingreso utiliza mayor cantidad de concentrados y menos forraje. En estos la mayor 
+producción lograda determina un mejor margen bruto de alimentación. En este grupo 
+también se generan gastos más elevados pero resulta en un mayor margen bruto por 
+23 
+ 
+hectárea y resultado por producción. Si se analiza estas variables por litro producido, 
+vemos que tanto el precio como los gastos directos y totales son mayores en el grupo de 
+alto ingreso. Se podría generalizar que para este conjunto de casos, los mayores ingresos se 
+generan con mayor inversión y repercuten en mejores resultados económicos. 
+ 
+Tabla 5: Casos agrupados según Ingresos Totales por hectárea de tambo total. Promedio de 
+variables físicas y económicas.  
+Datos 
+Grupo Ingreso Total ($/ha TT) 
+Alto Bajo Total general  
+N° Casos 14 20 34 
+Producción Individual (lts/VO/día) 21.1 19.8 20 
+Número de personas afectadas al tambo 9 9 9 
+Carga (VT/Ha VT)  1.13 0.98 1 
+Producción anual VT (Lts /ha VT/año) 6954 5340 6005 
+Vacas Totales 536 562 551 
+Vacas Ordeño 445 450 448 
+Litros anuales 3446764  3252316  3332383 
+Superficie VO+VS (has) 475 610 554 
+Superficie VO+VS+Recría (has) 640 794 731 
+Superficie Total Trabajada 1074 1241 1172 
+Relación VO/VT 83 81 81 
+Concentrado (kg MS/VO/día) 8.3 6.1 7.0 
+Voluminosos (kg MS/VO día) 4.5 4.0 4.2 
+Forrajes (Kg MS/VO) 8.2 9.9 9.2 
+Cosecha de forraje (kg MS/Ha VT) 3358 3483 3432 
+Diferencia de Inventario ($) 138895 149018 144850 
+Margen Bruto Suplementación ($/ha VT) 3482 2365 2825 
+Ingreso Total ($/ha TT) 4529 2546 3362 
+Gastos Directos ($/ha TT) 2953 1670 2198 
+Margen Bruto Tambo Total ($/ha TT) 1558 841 1136 
+Gastos Totales s/arrendamientos ($/ha TT) 3280 1893 2464 
+Resultado por Producción s/arrendamiento ($/ha TT)  1161 601 832 
+Gastos Directos ($/lt) 0.558 0.403 0.467 
+Margen Bruto Tambo Total ($/lt) 0.295 0.206 0.242 
+Gastos Totales s/arrendamientos ($/lt) 0.629 0.465 0.533 
+Resultado por Producción s/arrendamiento ($/lt) 0.221 0.147 0.178 
+ 
+Caracterización por grupo según Gastos Directos. 
+Con el objetivo de determinar las características productivas y económicas en los casos que 
+presentan diferentes gastos directos totales se dividieron en grupos por encima o por 
+24 
+ 
+debajo del promedio. Los casos con alto gastos directos presentan una producción 
+individual levemente superior pero una carga y producción por hectárea notablemente 
+mayor. La cantidad de vacas totales que conforman los rodeos no es un factor 
+característico de los grupos. La superficie es algo menor en el grupo de alto gasto. En la 
+alimentación se observa que el grupo alto gasto utiliza más concentrados y voluminosos y 
+menos forrajes cuando se analiza por vaca (7,9 vs 6,4; 4,9 vs 3,7 y 7,9 vs 10,1 Kg 
+MS/VO/día respectivamente) y por litro producido (0,380 vs 0,320; 0,235 vs 0,185 y 0,380 
+vs 0,505 KgMS/lt respectivamente), pero cosechan una cantidad similar por hectárea por la 
+mayor carga. El margen bruto de suplementación, el ingreso, el margen bruto tambo total y 
+el resultado por producción expresados por unidad de superficie son mayores en el grupo 
+de alto gasto. Los resultados físicos y económicos indicarían que los mayores gastos 
+repercuten en mejores producciones y resultados económicos. 
+ 
+Tabla 6: Casos agrupados según Gastos Directos por hectárea de tambo total. Promedio de 
+variables físicas y económicas. 
+Datos 
+Grupo Gastos Directos ($/ha TT) 
+Alto Bajo Total general  
+N° Casos 14 20 34 
+Producción Individual (lts/VO/día) 20.8 20.0 20 
+Número de personas afectadas al tambo 9 9 9 
+Carga (VT/Ha VT) 1.14 0.97 1.04 
+Producción anual VT (Lts /ha VT/año) 7089 5245 6005 
+Vacas Totales 515 576 551 
+Vacas Ordeño 424 465 448 
+Litros  anuales 3264551  3379865  3332383 
+Superficie VO+VS (has) 454 624 554 
+Superficie VO+VS+Recría (has) 602 821 731 
+Superficie Total Trabajada 1089 1231 1172 
+Relación VO/VT 82 81 81 
+Concentrado (kg MS/VO/día) 7.9 6.4 7.0 
+Voluminosos (kg MS/VO día) 4.9 3.7 4.2 
+Forrajes (Kg MS/VO) 7.9 10.1 9.2 
+Cosecha de forraje VO+VS (kg MS/Ha VT) 3277 3540 3432 
+Diferencia de Inventario ($) 87323 185119 144850 
+Margen Bruto Suplementación ($/ha VT) 3381 2435 2825 
+Ingreso Total ($/ha TT) 4403 2634 3362 
+Gastos Directos ($/ha TT) 2972 1656 2198 
+25 
+ 
+Datos 
+Grupo Gastos Directos ($/ha TT) 
+Alto Bajo Total general  
+Margen Bruto Tambo Total ($/ha TT) 1402 950 1136 
+Gastos Totales s/arrendamientos ($/ha TT) 3322 1864 2464 
+Resultado por Producción s/arrendamiento ($/ha TT)  975 732 832 
+Gastos Directos ($/lt) 0.558 0.403 0.467 
+Margen Bruto Tambo Total ($/lt) 0.261 0.229 0.242 
+Gastos Totales s/arrendamientos ($/lt) 0.634 0.462 0.533 
+Resultado por Producción s/arrendamiento ($/lt) 0.181 0.175 0.178 
+ 
+Caracterización por grupo según Margen Bruto Tambo Total. 
+Los resultados económicos, como el margen bruto de tambo total, son los objetivos más 
+importantes de las empresas, por lo que es interesante identificar las características de los 
+casos que están por encima de la media. En cuanto a los niveles de producción, quienes 
+están en el grupo de alto margen bruto presentan más litros por hectárea, observándose la 
+mayor diferencia en la carga más que en la producción individual. A diferencia de los 
+casos anteriores, se observa un mayor tamaño del tambo del grupo de alto margen bruto, ya 
+sea en vacas como en superficie. Estos alimentan al rodeo en ordeñe con más 
+concentrados, menos voluminosos e igual cantidad de forraje por vaca, pero por la mayor 
+carga consumen un 17% más de forraje por hectárea. Una variable que presenta notorias 
+diferencias es la diferencia de inventario, siendo explicada en la mayoría de los casos por 
+una mejora en la recría. El precio de la leche, el margen de alimentación, los ingresos 
+totales, los gastos directos y totales y el resultado por producción son mayores en el grupo 
+de alto margen bruto. Se vuelve a observar que el grupo que presenta un margen bruto 
+superior a la media tienen en promedio mayores gastos directos y de alimentación que 
+determinan que el costo por litro producido también sea más alto. 
+ 
+Tabla 7: Casos agrupados según Margen Bruto por hectárea de tambo total. Promedio de 
+variables físicas y económicas. 
+Datos 
+Grupo Margen Bruto ($/ha TT) 
+Alto Bajo Total general  
+N° Casos 14 20 34 
+Producción Individual (lts/VO/día) 20.5 20.2 20 
+Número de personas afectadas al tambo 11 8 9 
+Carga (VT/Ha VT) 1.12 0.99 1 
+26 
+ 
+Datos 
+Grupo Margen Bruto ($/ha TT) 
+Alto Bajo Total general  
+Producción anual VT (Lts /ha VT/año) 6302 5797 6005 
+Vacas Totales 649 482 551 
+Vacas Ordeño 520 398 448 
+Litros anuales 3898407  2936166  3332383 
+Superficie VO+VS (has) 612 514 554 
+Superficie VO+VS+Recría (has) 804 679 731 
+Superficie Total Trabajada 1282 1095 1172 
+Relación VO/VT 81 82 81 
+Concentrado (kg MS/VO/día) 7.7 6.6 7.0 
+Voluminosos (kg MS/VO día) 3.7 4.6 4.2 
+Forrajes (Kg MS/VO) 9.2 9.2 9.2 
+Cosecha de forraje VO+VS (kg MS/Ha VT) 3751 3208 3432 
+Diferencia de Inventario ($) 235098 81676 144850 
+Margen Bruto Suplementación ($/ha VT) 3225 2545 2825 
+Ingreso Total ($/ha TT) 4197 2778 3362 
+Gastos Directos ($/ha TT) 2534 1963 2198 
+Margen Bruto Tambo Total ($/ha TT) 1639 784 1136 
+Gastos Totales s/arrendamientos ($/ha TT) 2823 2213 2464 
+Resultado por Producción s/arrendamiento ($/ha TT)  1295 508 832 
+Precio Leche ($/lt) 0.740 0.637 0.680 
+Gastos Directos ($/lt) 0.479 0.459 0.467 
+Margen Bruto Tambo Total ($/lt) 0.317 0.190 0.242 
+Gastos Totales s/arrendamientos ($/lt) 0.542 0.526 0.533 
+Resultado por Producción s/arrendamiento ($/lt) 0.253 0.125 0.178 
+ 
+Análisis de casos combinados de márgenes brutos y gastos directos. 
+En este caso se combinan la clasificación de cada caso según margen bruto total (MBT) y 
+gastos directo total (GDT) por hectárea para tener una caracterización más detallada de 
+cada combinación. En primer lugar se observa que el grupo bajo MBT – bajo GDT 
+presenta la menor producción por hectárea con diferencias más marcadas en la carga que 
+en la producción individual. No se observa una tendencia clara en cuanto a las escalas en 
+cada grupo, pero el promedio más bajo de superficie como de vacas se observa en la 
+combinación bajo MBT – alto GDT. La mayor participación de forraje en la dieta se da en 
+los casos de alto MBT- bajo GDT y bajo MBT – bajo GDT, pero en el primer caso la 
+cosecha por hectárea es mayor posibilitando una carga más elevada. El uso de 
+concentrados se destaca en la combinación alto MBT – alto GDT y es seguido por bajo 
+MBT – alto GDT. Con este detalle de los grupos se puede ver que la producción individual 
+27 
+ 
+ni la carga per se son elementos que determinen un mayor margen bruto. Tampoco una alta 
+producción por hectárea garantiza tener los mayores márgenes brutos, pero el hecho de 
+tenerla es propio del grupo de alto gastos directos. Una situación similar se observa con el 
+uso de concentrados, pero con el consumo de forrajes la tendencia es la opuesta, es decir 
+un alto consumo de forraje se observa en los grupos de bajo gastos directos ya sea con alto 
+o bajo margen bruto. Un elemento importante a destacar es que el mayor gasto se observan 
+en el grupo de mayor margen bruto. Estas descripciones están indicando la presencia de 
+interacciones ya que ni un bajo gasto ni un alto ingreso garantizan buenos resultados 
+económicos. Sin embrago, aumento de ingresos con gastos controlados presenta el mejor 
+resultado y esto se logra con control de procesos. La suma de procesos bien realizados son 
+más potentes que la incorporación de cualquier insumo en forma individual. 
+ 
+Tabla 8: Casos agrupados según Margen Bruto y Gastos Directos por hectárea de tambo 
+total. Promedio de variables físicas y económicas. 
+Grupo Margen Bruto ($/ha TT) Alto Bajo 
+Grupo Gastos Directos ($/ha TT) Alto Bajo Alto Bajo 
+N° Casos 8 6 6 14 
+Producción Individual (lts/VO/día) 21.1 19.8 20.4 20.1 
+Número de personas afectadas al tambo 10 12 8 8 
+Carga (VT/Ha VT) 1.12 1.12 1.17 0.91 
+Producción anual VT (Lts /ha VT/año) 7014 5352 7190 5199 
+Vacas Totales 564 763 450 496 
+Vacas Ordeño 462 598 373 409 
+Litros anuales 3566389  4341097  2862101  2967908  
+Superficie VO+VS (has) 509 748 381 571 
+Superficie VO+VS+Recría (has) 651 1008 536 740 
+Superficie Total Trabajada 1177 1423 972 1148 
+Relación VO/VT 82 80 82 82 
+Concentrado (kg MS/VO/día) 8.2 7.0 7.6 6.1 
+Voluminosos (kg MS/VO día) 4.5 2.6 5.5 4.2 
+Forrajes (Kg MS/VO) 8.2 10.5 7.5 9.9 
+Cosecha de forraje VO+VS (kg MS/Ha VT) 3353 4281 3176 3222 
+Diferencia de Inventario ($) 159329 336123 -8685 120403 
+Margen Bruto Suplementación ($/ha VT) 3615 2704 3068 2320 
+Ingreso Total ($/ha TT) 4994 3134 3615 2419 
+Gastos Directos ($/ha TT) 3128 1742 2764 1620 
+Margen Bruto Tambo Total ($/ha TT) 1845 1364 810 773 
+Gastos Totales s/arrendamientos ($/ha TT) 3479 1947 3111 1828 
+28 
+ 
+Grupo Margen Bruto ($/ha TT) Alto Bajo 
+Grupo Gastos Directos ($/ha TT) Alto Bajo Alto Bajo 
+Resultado por Producción s/arrendamiento($/haTT)  1421 1127 381 563 
+Precio Leche ($/lt) 0.843 0.604 0.716 0.603 
+Gastos Directos ($/lt) 0.561 0.370 0.554 0.418 
+Margen Bruto Tambo Total ($/lt) 0.334 0.295 0.163 0.201 
+Gastos Totales s/arrendamientos ($/lt) 0.634 0.419 0.634 0.480 
+Resultado por Producción s/arrendamiento ($/lt) 0.258 0.246 0.078 0.145 
+ 
+Control de los procesos de alimentación: 
+Para analizar el impacto que tienen las diferentes tecnologías de control de la alimentación 
+en los resultados físicos y económicos, se generaron cuadros que resumen a través del 
+promedio las diferencias entre los casos que adoptan o no adoptan las tecnologías. En la 
+tabla 8 se puede ver que solamente dos casos no utilizan comederos en la sala de ordeño, 
+por lo que la cantidad de casos no permite hacer un análisis. 
+ 
+Tabla 9: Cantidad de casos que utilizan comederos en la sala de ordeño. 
+N° de Establecimientos Utiliza comederos en sala de ordeño  
+Comederos Automáticos  No Si Total general 
+No 1 1 2 
+Si 0 32 32 
+Total general 1 33 34 
+ 
+Considerando la cantidad de casos que utilizan mixer vemos que son similares a los que no 
+lo utilizan. Dentro del primer grupo, solo unos pocos casos no cuentan con balanza. El 
+promedio de la producción individual es mayor en el grupo que utiliza el mixer y dentro de 
+estos los que tienen balanza. La alimentación del rodeo en ordeño en el grupo con mixer 
+presenta mayor cantidad de suplementos, tanto concentrados como voluminosos, que 
+resultan en mayores producciones individuales. Estas no alcanzan a diluir las mayores 
+cantidades de suplementos utilizadas en este grupo, requiriendo un 20% más de 
+suplementos por litro. Los mayores niveles de suplementación permiten lograr más 
+producción por hectárea, los márgenes de suplementación por VO son levemente menores 
+pero pasan a ser mayores cuando se consideran por hectárea. En todas estas variables el 
+grupo que tiene mixer sin balanza está por debajo del grupo que no tiene mixer. Esto 
+29 
+ 
+estaría demostrando una adopción parcial de la tecnología en quienes no cuentan con 
+balanza, logrando resultados físicos y económicos menores que quienes no tienen mixer. 
+Esto abonaría el concepto iniciado en el párrafo anterior en cuanto al control en los 
+procesos como el principal elemento de mejora de los indicadores. La utilización de un 
+mixer sin balanza no permite el suficiente control en la alimentación como para que se vea 
+reflejado en una mejora en los indicadores productivos. 
+ 
+Tabla 10: Promedio de diferentes variables físicas y económicas según utilicen mixer con y 
+sin balanza. 
+Datos 
+Utiliza Mixer 
+Total general  
+No 
+Si 
+SubTotal  
+Utiliza 
+Mixer  
+Mixer con balanza  
+No Si 
+N° de Casos 18 3 13 16 34 
+Producción Individual (Lts/VO/día) 19.9 19.3 21.1 20.8 20.3 
+Cantidad concentrado (kg MS/ VO/día) 6.7 5.5 7.8 7.3 7.0 
+Eficiencia Concentrado (kg MS/lt) 0.331  0.277 0.355 0.340  0.335 
+Cantidad voluminosos (kg MS/VO/día) 3.3 4.1 5.4 5.2 4.2 
+Eficiencia Voluminosos (kg MS/lt) 0.164  0.230 0.258 0.253  0.206 
+Cantidad suplemento total (Kg MS/VO/día) 10.0 9.7 13.2 12.5 11.2 
+Eficiencia suplemento (kg MS/lt) 0.494  0.507 0.613 0.593  0.541 
+Producción por Hectárea (Lts/ha VT) 5522 4668 6982 6548 6005 
+Margen Bruto de Suplementación ($/VO/año)  3432 2788 3317 3218 3331 
+Margen Bruto Suplementación ($/haVT/año) 2780 1850 3111 2875 2825 
+ 
+En la tabla 10 se muestran los promedio de los casos que utilizan comederos externos y 
+que además, pueden o no utilizar alambrados para racionar. La cantidad de casos que 
+utilizan comederos es levemente inferior a los que no utilizan, pero los que solamente usan 
+comederos son cuatro casos, por lo que se analizará el uso de comederos 
+independientemente de que además use alambrados para racionar. Los comederos son en 
+su gran mayoría lineales por lo que no hay diferencias en el diseño. La producción 
+individual es similar en ambos grupos como así también la cantidad de concentrados, que 
+solamente aumenta en los casos que no usan alambrados. La cantidad de voluminosos es 
+superior en 1,6 kilos de materia seca, resultando en niveles de suplementación total 
+(concentrados y voluminosos) de 1,2 kilos de materia seca por encima del promedio del 
+grupo “no comederos”. La eficiencia de utilización de los concentrados mejora levemente 
+30 
+ 
+con los comederos, pero no así la de voluminosos que no alcanza a compensar con la mejor 
+producción lograda, resultando en una eficiencia de la suplementación total muy similar. El 
+uso de los comederos está asociado a mayores producciones por hectárea, con márgenes de 
+suplementación mejores por hectárea pero más bajos por vaca en ordeño. 
+ 
+Tabla 11: Promedio de diferentes variables físicas y económicas según utilicen comederos 
+externos y/o alambrado para racionar. 
+      
+Datos 
+Comederos externos 
+Total  
+general  No 
+Si 
+Total 
+Comedero 
+Externo 
+Suministra debajo de alambrados  
+No Si 
+N° de Casos 19 4 11 15 34 
+Producción Individual (Lts/VO/día) 20.5 21.4 19.6 20.1 20.3 
+Cantidad concentrado (kg MS/ VO/día) 7.2 8.4 6.2 6.8 7.0 
+Eficiencia Concentrado (kg MS/lt) 0.344 0.384 0.303 0.324 0.335 
+Cantidad voluminosos (kg MS/VO/día) 3.5 5.7 4.9 5.1 4.2 
+Eficiencia Voluminosos (kg MS/lt) 0.167 0.260 0.252 0.254 0.206 
+Cantidad suplemento total (Kg MS/VO/día) 10.7 14.1 11.1 11.9 11.2 
+Eficiencia suplemento (kg MS/lt) 0.511 0.643 0.555 0.578 0.541 
+Producción por Hectárea (Lts/ha VT) 5771 7542 5849 6301 6005 
+Margen Bruto de Suplementación ($/VO/año)  3449 3156 3190 3181 3331 
+Margen Bruto  Suplementación ($/haVT/año) 2772 3437 2693 2982 2825 
+ 
+Consideraciones sobre el análisis por agrupamiento: 
+En la caracterización por grupos se observa que la cantidad de tambos es similar en ambas 
+cuencas. En la cuenca Este presentan escalas mayores en superficie, vacas y litros. Los 
+sistemas de producción tienen cargas cercanas a 1 VT/haVT, producciones individuales de 
+20 litros por día y alimentación que solo difiere en 2 kilos de forraje reemplazado con 
+concentrados. Tampoco muestra marcadas diferencias en los resultados económicos por 
+hectárea, lo que permite considerar a todos los casos bajo un único análisis. 
+ 
+El grupo de altos ingresos tienen mayor carga, producción individual y por hectárea, 
+utilizan más concentrados y menos forrajes, presentan mayores gastos pero también 
+mejores márgenes de alimentación y márgenes brutos por hectárea de tambo total. En la 
+31 
+ 
+caracterización por grupo de gastos directos, el grupo de alto gasto presentó mayores 
+cargas y producciones individuales y por hectárea, utilizan más suplementos pero también 
+consumen más forraje por hectárea y obtienen mejores resultados económicos. Estos 
+grupos estarían indicando que los mayores ingresos se logran con inversión que resultan en 
+mejores indicadores económicos. 
+ 
+Para el caso de grupos por márgenes brutos, el grupo de alta presentó más litros por 
+hectárea sustentado por diferencias en la carga. La escala del tambo fue un factor 
+diferencial y la alimentación presentó más concentrados y voluminosos por vaca y mayor 
+cosecha de forraje por hectárea. Este grupo presenta mayor precio de la leche y gastos 
+directos y totales. 
+ 
+En el análisis conjunto de gastos y margen se ve que la mayor participación de forraje en la 
+dieta se da en el grupo de alto margen-bajo gasto y de bajo margen-bajo gasto, pero en el 
+primer caso la cosecha por hectárea es mayor. Los mayores consumos de concentrados se 
+dan en alto margen-alto gasto y bajo margen-alto gasto. El alto uso de concentrados es 
+común en los casos de alto gasto mientras que las pasturas lo son en los de bajo gasto.  
+ 
+Los controles de alimentación como el uso del mixer con balanza permiten alcanzar 
+mayores producciones individuales y utilizan en promedio mayor cantidad de suplementos 
+obteniendo menores eficiencias de conversión. Logran mayores producciones y márgenes 
+de alimentación por hectárea, pero solo quienes tienen balanza en el mixer. En el análisis 
+por comederos lineales las producciones individuales como la cantidad de concentrado son 
+similares. Los voluminosos son mas consumidos por quienes cuentan con comederos. La 
+eficiencia de conversión de concentrados es levemente mejor pero no así la de 
+voluminosos. Esta tecnología se asocia a mayores producciones y márgenes de 
+suplementación por hectárea. 
+ 
+32 
+ 
+Los conceptos mencionados hace interesante explorar las posibles relaciones de estos 
+insumos entre sí y con los resultados económicos. A su vez, las mayores producciones por 
+hectárea no son exclusivas de grupos de altos márgenes, situación que indica la 
+importancia de estudiar con que combinación de insumos se logran. Por otro lado, el 
+control de la alimentación con mixer y comederos determina la posibilidad de suministrar 
+mayores cantidades de comida y resulta de interés evaluar su impacto en los parámetros 
+productivos y de eficiencia. Para esto se aborda el estudio mediante relaciones bivariadas y 
+regresiones múltiples. 
+ 
+Regresiones simples entre variables económicas: 
+Figura 1: Margen bruto por litro (A), margen bruto por vaca ordeño (B) vs margen bruto 
+por hectárea TT y margen bruto por litro (C) vs margen bruto por vaca en ordeño. 
+y = 0.0001x + 0.0946
+R² = 0.6057
+0.000
+0.050
+0.100
+0.150
+0.200
+0.250
+0.300
+0.350
+0.400
+0.450
+0 1000 2000 3000
+MB/Lt
+MB/haTT       
+y = 1.069x + 589.53
+R² = 0.6863
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+0 1000 2000 3000
+MB/VO
+MB/haTT  
+y = 0.0001x + 0.0242
+R² = 0.8724
+0.000
+0.050
+0.100
+0.150
+0.200
+0.250
+0.300
+0.350
+0.400
+0.450
+0 1000 2000 3000 4000
+MB/Lt
+MB/VO  
+En las tres regresiones se puede ver que la relación entre los márgenes presenta un buen 
+ajuste. En las dos primeras gráficas las curvas muestran dos zonas, una primera relación 
+lineal donde aumentan igualmente ambos márgenes, pero luego parece haber un quiebre 
+donde los márgenes por litro y por vaca se estabilizan y el margen por hectárea continua 
+incrementándose. Los casos que generan ese quiebre presentan producciones por hectárea 
+A B 
+C 
+33 
+ 
+de 8670 y 9930 litros, muy por encima del conjunto de puntos y podría indicar estrategias 
+que buscan alta producción de litros aunque esto signifique un menor beneficio marginal 
+por litro. En la figura C esta tendencia no se observa manteniéndose la pendiente de la 
+recta en todo el rango de valores. Esto ocurre al despejar la carga de la relación entre 
+variables. 
+ 
+Figura 2: Resultado por producción por hectárea TT vs margen bruto por hectárea TT (A) 
+y margen bruto por hectárea TT vs margen bruto de suplementación por hectárea TT (B). 
+y = 0.8605x - 145.7
+R² = 0.8793
+-500
+0
+500
+1000
+1500
+2000
+2500
+0 1000 2000 3000
+RPP/haTT
+MB/HaTT
+ 
+y = 1.0987x + 1576.5
+R² = 0.4961
+0.0
+1000.0
+2000.0
+3000.0
+4000.0
+5000.0
+6000.0
+0 1000 2000 3000
+MB/haTT
+MBSupl/haTT  
+El resultado por producción sin arrendamiento tiene un nivel de ajuste muy bueno con el 
+margen bruto por hectárea. Esta información permite realizar los análisis posteriores a 
+nivel de margen bruto ya que es la variable económica que mejor refleja las medidas de 
+manejo. Por otro lado, el margen bruto de suplementación por hectárea TT explica un 50% 
+de la variabilidad del margen bruto por hectárea TT. La dispersión parece ser menor a 
+medida que aumenta el margen bruto de suplementación. El nivel de ajuste está indicando 
+la importancia de la alimentación en el resultado. 
+A B 
+34 
+ 
+ 
+Regresiones simples entre variables económicas y físicas: 
+Figura 3: Margen bruto por hectárea tambo total (A), margen bruto por vaca ordeño (B) y 
+margen bruto por litro(C) vs carga. 
+y = 739.96x + 363.96
+R² = 0.098
+0
+500
+1000
+1500
+2000
+2500
+3000
+0.00 0.50 1.00 1.50 2.00
+MB/haTT
+VT/haVT
+y = -499.54x + 2325.3
+R² = 0.0268
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+0.00 0.50 1.00 1.50 2.00
+MB/VO
+VT/haVT  
+y = -0.0551x + 0.2999
+R² = 0.0195
+0.000
+0.050
+0.100
+0.150
+0.200
+0.250
+0.300
+0.350
+0.400
+0.450
+0.00 0.50 1.00 1.50 2.00
+MB/Lt
+VT/haVT  
+La carga no presenta relación con el margen bruto probablemente por la escasa disperción 
+de esta variable y la influencia que tiene la recría sobre el margen del tambo total. Ninguna 
+de las unidades sobre las que se consideró el margen muestra una tendencia clara ni 
+distintiva sobre las demás. Esto demuestra que las mejoras en las variables físicas, como la 
+carga, no respresenta por sí mismas una mejora de los resultados económicos de la 
+empresa global sino que estos se vinculan a la estrategia seguida para conseguir el 
+resultado. 
+A B 
+C 
+35 
+ 
+ 
+Figura 4: Margen bruto por hectárea tambo total (A), margen bruto por vaca en ordeño (B) 
+y margen por litro (C) vs producción individual. 
+y = 72.275x - 333.57
+R² = 0.1103
+0
+500
+1000
+1500
+2000
+2500
+3000
+0.0 10.0 20.0 30.0
+MB/Ha TT
+Lt*VO-1*día-1
+y = 111.6x - 465.28
+R² = 0.1579
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+0.0 10.0 20.0 30.0
+MB/VO
+Lt*VO-1*día-1  
+y = 0.0025x + 0.1912
+R² = 0.0048
+0.000
+0.050
+0.100
+0.150
+0.200
+0.250
+0.300
+0.350
+0.400
+0.450
+0.0 10.0 20.0 30.0
+MB/Lt
+Lt*VO-1*día-1  
+Como se observó con la carga también la producción individual no presenta relación con el 
+margen bruto por hectárea tambo total, por vaca ordeño ni por litro. Estas tendencias 
+indicarían que el objetivo de mayor producción por vaca, que es uno de los indicadores 
+más tradicionales de desempeño productivo utilizado por productores, no sería por sí solo 
+un indicador del resultado económico. La falta de asociación lineal simple entre los 
+indicadores como carga y producción individual con los resultados económicos lleva a la 
+necesidad de profundizar la relación entre las variables con regresiones múltiples. 
+Figura 5: Margen bruto por hectárea TT vs producción por hectárea VT. 
+A B 
+C 
+36 
+ 
+y = 0.1244x + 389
+R² = 0.1671
+0
+500
+1000
+1500
+2000
+2500
+3000
+0 5000 10000 15000
+MB/Ha TT
+Lt/haVT  
+La producción por hectárea no presenta relación estrecha con el margen bruto por hectárea 
+tambo total pero se puede ver dos grupos de datos. El primero logra aumentar el margen 
+con las mayores producciones mientras que el segundo mantiene un resultado similar. Esto 
+estaría marcando diferentes estrategias de elevar la producción por hectárea que resultan en 
+margenes diferentes. 
+ 
+Regresiones simples entre variables físicas: 
+Figura 6: Producción individual (A) y producción por hectárea VT (B) vs carga y 
+producción por hectárea VT vs producción individual (C). 
+y = -0.8568x + 21.229
+R² = 0.0062
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+0.00 0.50 1.00 1.50 2.00
+Lts*VO-1*día-1
+VT/haVT
+y = 4708.3x + 1091.4
+R² = 0.3674
+0
+2000
+4000
+6000
+8000
+10000
+12000
+0.00 0.50 1.00 1.50 2.00
+Lts/haVT
+VT/haVT
+y = 393.43x - 1995.7
+R² = 0.3027
+0
+2000
+4000
+6000
+8000
+10000
+12000
+0.0 10.0 20.0 30.0
+Lts/haVT
+Lts*VO-1*día-1  
+ 
+B A 
+C 
+37 
+ 
+La relación entre carga y producción individual es nula, lo que es esperable ya que las 
+estrategias para incrementar cada variables son diferentes. Se observa una gran nube de 
+puntos en los valores de 1 vt/ha vt y 20 lt*vo -1*día -1, pero aumenta la dispersión con 
+mayores valores de carga, registrandose casos que logran valores cercanos a los 25 lt*vo -
+1*día -1 y otros que bajan hasta los 15 lt*vo -1*día -1. Si consideramos la relación entre la 
+carga y la producción por hectárea se observa un ajuste con una tendencia positiva. En 
+segundo lugar, se pueden distinguir dos comportamientos diferentes, un grupo que 
+aumenta la carga y llega a 6000 lt/haVT y otro que llega a los 10000 lt/haVT. Esto es 
+debido a las diferentes estrategias seguidas para aumentar la carga vinculadas a la 
+alimentación de las vacas y las producciones individuales obtenidas. 
+ 
+Al analizar la relación entre la producción por hectárea y la producción individual, esta 
+presenta un coeficiente de determinación bajo similar al observado para la carga. Esto 
+indicaría que ambas variables explicaría con la misma intensidad los aumentos de 
+producción por hectárea. Pero las mayores producciones por superficie se logran solo con 
+elevados desempeños individuales, lo que muestra con claridad que la estrategia de 
+aumentar la productividad física por hectárea estuvo vinculada a mejoras en la producción 
+individual. A niveles bajos de producción por hectárea hay una gama amplia de 
+producciones individuales mientras que a niveles altos de producción por hectárea sólo le 
+logran con producciones individuales por encima de cierto nivel. 
+ 
+Regresiones simples entre uso de alimentos: 
+Figura 7: Consumo de pasturas vs concentrados(A) y voluminosos (B) y consumos de 
+concentrados vs voluminosos (C). 
+y = -0.5883x + 13.305
+R² = 0.2247
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+14.0
+16.0
+0.0 5.0 10.0 15.0
+KgMSPast*VO-1*día-1
+KgMSConc*VO-1*día-1
+y = -0.7656x + 12.386
+R² = 0.4069
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+14.0
+16.0
+0.0 5.0 10.0
+KgMPastl*VO-1*día-1
+KgMSVol*VO-1*día-1  
+A B 
+38 
+ 
+y = 0.0788x + 6.6888
+R² = 0.0066
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+0.0 5.0 10.0
+KgMSConc*VO-1*día-1
+KgMSVol*VO-1*día-1  
+Si bien no hay una relación fuerte entre las variables, la tendencia es que a mayores niveles 
+de consumo de concentrados caiga el de forrajes. Esto indicaría una tendencia a reemplazar 
+el consumo de forrajes con concentrados. Cabe aclarar que los consumos de pasturas 
+utilizados se tomaron de los informes de los nutricionistas y fueron ajustados por 
+diferencia en los casos en los que no se contaba con ese dato. 
+ 
+Como en el caso anterior, los mayores consumos de voluminosos están asociados con 
+menores consumos de pasturas con una pendiente y un coeficiente de determinación mayor 
+que en concentrados. Este último presenta un valor importante para tratarse de un estudio 
+observacional. Esta relación es mas tradicional ya que comunente se reemplaza la falta de 
+forraje con rollos, silos o voluminosos como la pulpa de citrus. En resumen, el menor 
+consumo de pastura se compensa con voluminosos o concentrados pero ninguno de estos 
+muestra una asociación fuerte, mientras que entre ellos es casi nula lo que indicaría que no 
+se reemplazaría voluminoso por concetrados ni viceversa. Esto tienen mayor implicancia 
+sobre modelos que apuestan a un uso muy intensivo de reservas forrajeras, donde es alta la 
+probabilidad de que esten cosechando muy poca pastura por hectárea mediante pastoreo 
+directo. 
+Figura 8: Carga vs consumo de concentrados (A), voluminosos (B) y pasturas (C). 
+C 
+39 
+ 
+y = -0.0057x + 1.0833
+R² = 0.0023
+0.00
+0.20
+0.40
+0.60
+0.80
+1.00
+1.20
+1.40
+1.60
+0.0 5.0 10.0 15.0
+VT/haVT
+KgMSConc*VO-1*día-1
+y = 0.0356x + 0.8943
+R² = 0.0958
+0.00
+0.20
+0.40
+0.60
+0.80
+1.00
+1.20
+1.40
+1.60
+0.0 5.0 10.0
+VT/haVT
+KgMSVol*VO-1*día-1
+y = -0.0332x + 1.3485
+R² = 0.1203
+0.00
+0.20
+0.40
+0.60
+0.80
+1.00
+1.20
+1.40
+1.60
+0.0 5.0 10.0 15.0
+VT/haVT
+KgMSPast*VO-1*día-1  
+Se presenta una leve tendencia a que los menores consumos de pastura por vaca se asocien 
+a mayores cargas pero con alta dispersión que resulta en un ajuste muy bajo. Pero 
+observando las bases de datos, los mayores consumos individuales de pastura como las 
+mayores cargas se asocian a elevados consumos de pastura por hectárea. El cosumo 
+individual de forraje se asocia mejor que la carga y ambos muestran mayor dispersión en el 
+consumo por hectárea con los valores mas altos de cada variable. Esto indicaría que si bien 
+el consumo individual tiende a bajar levemente con las mayores cargas, el consumo de 
+pastura por hectárea crece al aumentar la carga como el consumo individual. 
+ 
+La carga no explica el cambio en el consumo de concentrados, lo que podría indicar que 
+los aumentos en carga no se sustentan reemplazando la pastura con mas concentrado por 
+vaca. Se observa una leve tendencia a aumentar carga con mayores niveles de 
+voluminosos, pero existen algunos casos que logran altas cargas con una participación 
+menor de voluminosos, lo que generan mayor dispersión y resultan en coeficiente de 
+correlación bajos. En general se puede concluir que la carga no presenta asociación con los 
+alimentos consumidos por vaca. 
+Figura 9: Producción individual vs consumo de concentrados (A), voluminosos (B) y 
+pasturas (C). 
+A B 
+C 
+40 
+ 
+y = 0.5696x + 16.337
+R² = 0.1944
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+0.0 5.0 10.0 15.0
+Lts*VO-1*día-1
+KgMSConc*VO-1*día-1
+y = 0.4378x + 18.499
+R² = 0.1228
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+0.0 5.0 10.0
+Lts*VO-1*día-1
+KgMSVol*VO-1*día-1
+y = 0.1101x + 19.324
+R² = 0.0112
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+0.0 5.0 10.0 15.0
+Lts*VO-1*día-1
+KgMSPast*VO-1*día-1  
+ 
+La asociación observada entre las cantidades de cada tipo de alimentos con la producción 
+individual es baja. Con los concentrados y voluminosos se observa una relación positiva 
+registrándose mayores producciones individuales con los consumos más elevados. El nivel 
+de asociación y la pendiente de la misma es mayor para los concentrados. Esto concuerda 
+con lo esperado por las características nutricionales de los mismos. La cantidad de forraje 
+en la dieta no afecta el desempeño individual, como lo demuestra el bajo coeficiente de 
+determianción y su pendiente casi nula. Esto puede ocurrir debido a que los niveles de 
+producción observados no son elevados y las cantidades de forraje consumido por vaca no 
+son limitante para las producciones logradas. 
+ 
+Figura 10: Producción por hectárea VT vs consumo de concentrados (A), voluminosos (B) 
+y pasturas (C). 
+A B 
+C 
+41 
+ 
+y = 345.58x + 3579
+R² = 0.1399
+0
+2000
+4000
+6000
+8000
+10000
+12000
+0.0 5.0 10.0 15.0
+Lts/haVT
+KgMSConc*VO-1*día-1
+y = 411.05x + 4280.9
+R² = 0.2117
+0
+2000
+4000
+6000
+8000
+10000
+12000
+0.0 5.0 10.0
+Lts/haVT
+KgMSVol*VO-1*día-1
+y = -264.27x + 8429.6
+R² = 0.12610
+2000
+4000
+6000
+8000
+10000
+12000
+0.0 5.0 10.0 15.0
+Lts/haVT
+KgMSPast*VO-1*día-1  
+ 
+Observando los concentrados se puede mencionar que si bien el coeficiente de 
+determinación es bajo se observa que quienes suministraron más concentrados por vaca 
+lograron mayores litros por hectárea. A sí mismo, se pueden distinguir dos tipos de 
+respuestas, una que logra incrementos importantes en la producción con los mayores 
+consumos mientras que en otros la mejora es reducida. Con los voluminosos el ajuste de la 
+línea de tendencia es mejor que en los concentrados pero la dispersión en la variable 
+dependiente es mayor al aumentar la cantidad de voluminosos y no se observan grupos de 
+tendencias. El efecto de estos alimentos sobre la producción por hectárea parece estar más 
+relacionado al impacto que generan sobre la producción individual que a la carga, ya que 
+ambos presentan mejor un ajuste en las regresiones. Por otro lado, los mayores niveles de 
+consumo de pasturas por vacas parecen tener un impacto negativo sobre la producción por 
+hectárea. Al igual que en los otros alimentos, el mayor impacto se observa sobre la 
+producción individual, que es deprimida con los mayores consumos de pastura. 
+ 
+Relación de uso de insumos y económicas: 
+Figura 11: Margen bruto por hectárea TT vs consumo de concentrados (A), voluminosos 
+(B) y pasturas (C). 
+A B 
+C 
+42 
+ 
+y = 131.4x + 213.76
+R² = 0.2184
+0
+500
+1000
+1500
+2000
+2500
+3000
+0.0 5.0 10.0 15.0
+MB/haTT
+KgMSConc*VO-1*Día-1
+y = -12.383x + 1188.1
+R² = 0.0021
+0
+500
+1000
+1500
+2000
+2500
+3000
+0.0 5.0 10.0
+MB/haTT
+KgMSVol*VO-1*Día-1
+y = -19.677x + 1316.7
+R² = 0.0075
+0
+500
+1000
+1500
+2000
+2500
+3000
+0.0 5.0 10.0 15.0
+MB/haVT
+KgMSPast*VO-1*Día-1  
+ 
+Considerando la relación entre las cantidades de cada tipo de alimento con el margen bruto 
+por hectárea TT se puede ver que con los mayores consumos de concentrados la tendencia 
+es lograr mejores resultados económicos por hectárea. Si bien la relación es débil con un 
+coeficiente de determinación que apenas supera el 20%, el comportamiento de este tipo de 
+alimento contrasta con el observado para voluminosos y pasturas que no muestran ninguna 
+relación. Esto es importante ya que es característico de las diferentes estrategias de 
+intensificación. Además, la respuesta al concentrado seguramente no sea independiente del 
+mejor control que se puede lograr sobre este variable comparado con las otras dos. 
+ 
+Figura 12: Margen bruto por litro vs consumo de concentrados (A), voluminosos (B) y 
+pasturas (C). 
+A B 
+C 
+43 
+ 
+y = 0.0207x + 0.0972
+R² = 0.1939
+0.000
+0.050
+0.100
+0.150
+0.200
+0.250
+0.300
+0.350
+0.400
+0.450
+0.0 5.0 10.0 15.0
+MB/Lt
+KgMSConc*VO-1*Día-1
+y = -0.015x + 0.3055
+R² = 0.1097
+0.000
+0.050
+0.100
+0.150
+0.200
+0.250
+0.300
+0.350
+0.400
+0.450
+0.0 5.0 10.0
+MB/Lt
+KgMSVol*VO-1*Día-1
+y = 0.0013x + 0.2309
+R² = 0.0011
+0.000
+0.050
+0.100
+0.150
+0.200
+0.250
+0.300
+0.350
+0.400
+0.450
+0.0 5.0 10.0 15.0
+MB/Lt
+KgMSPast*VO-1*Día-1  
+ 
+El mayor consumo de concentrados genera incrementos en el margen bruto por litro 
+producido, a pesar de que este tipo de alimentos sea en general el más costoso de la dieta. 
+Parece que la mayor producción lograda con consumos crecientes diluye el incremento en 
+el costo generado en la dieta. El mayor consumo de voluminosos genera una leve tendencia 
+a disminuir el margen por litro, dado por la menor calidad con alta variación de los 
+alimentos que son considerados voluminosos y por la forma en que son usados por su 
+menor costo. Las pasturas parecen no afectar el costo del litro de leche debido 
+probablemente a su bajo costo. 
+ 
+Consideraciones sobre las regresiones simples: 
+Las regresiones simples permiten contar con una aproximación a la forma en que se 
+relacionan los pares de variables y permiten llegar a ciertas consideraciones. Si 
+observamos las relaciones entre variables económicas, el margen bruto de alimentación 
+explica el 50% del margen bruto del tambo total y este el 88% del resultado de la empresa. 
+También se observó que los márgenes por litro, vaca y hectárea mantienen relaciones 
+elevadas. Por otro lado, ninguno de estos márgenes es explicado por la carga ni la 
+producción individual independientemente, dos de las variables mas atendidas por los 
+44 
+ 
+productores. Además, solo un grupo de casos lograron mejorar el margen bruto al elevar la 
+producción de leche por hectárea, pero también hay casos que no mejoraron el margen a 
+pesar de subir la producción. 
+ 
+Considerando las variables de producción físicas y los consumos de alimentos, se observó 
+que niveles altos de producción por hectárea sólo se logran con producciones individuales 
+por encima de cierto nivel y que los aumentos de carga no siempre son efectivos por sí 
+solos para este objetivo. Por otro lado, se encontró una tendencia que a mayores consumos 
+de voluminosos y concentrados disminuye el de forrajes y que las cantidades de cada tipo 
+de alimento no se asocian a la carga. Solo lo hicieron levemente a la producción individual 
+y por este medio a la producción por hectárea, donde los suplementos se relacionan 
+positivamente mientras que las pasturas lo hicieron negativamente. También los mayores 
+consumos de concentrados lograron mejores margenes brutos por litro y por hectárea y los 
+voluminosos mostraron una tendencia opuesta. 
+ 
+Si bien las relaciones simples nos permiten conocer como se comportan las varibles 
+estudiadas al modificarse sus valores, no permiten conocer que sucede al considerar el 
+conjunto de factores que están determinando el comportamiento de un sistema biológico. 
+La necesidad de contar con esta información para lograr una mejor comprensión de los 
+sistemas de producción y de los impactos que generan las medidas de manejo aplicadas 
+hace necesario realizar el análisis de regresiones múltiples. 
+ 
+Regresiones múltiples 
+Producción por hectárea vaca total 
+Tabla 11: Resultados de la regresión de las variables exploratorias de la producción de 
+leche por hectárea vaca total particionado por ejercicio. 
+ 
+      
+Estadística de la 
+regresión 
+Modelo Var.Dep. Partición Var.Indep. b0 E.E. p-valor  R2 ajust Prob>F 
+Modelo ajustado Lts/ha VT ejer 06/07 const 1.60  2.73  0.5684  1 <0.0001 
+45 
+ 
+ 
+      
+Estadística de la 
+regresión 
+Modelo Var.Dep. Partición Var.Indep. b0 E.E. p-valor  R2 ajust Prob>F 
+      Lts/VT -3.10E-04  4.60E-04  0.5218     
+      VT/haVT -0.72  2.29  0.7597     
+      Lts/VT*CargaVT 1.00  3.90E-04  <0.0001     
+Modelo ajustado Lts/ha VT ejer 07/08 const -3.86  3.09  0.2409  1 <0.0001 
+      Lts/VT 6.40E-04  5.30E-04  0.2563      
+      CargaVT 2.64  2.42  0.3009      
+      Lts/VT*CargaVT 1 4.20E-04  <0.0001      
+         
+ 
+Para el modelo completo se seleccionaron las variables que conforman la producción por 
+hectárea como son los litros por vaca total en el ejercicio (Lts/VT), la relación vaca ordeñe 
+vaca total (VO/VT) y la carga de vaca total por hectárea vaca total (VT/haVT). También se 
+consideraron la interacción ente Lts/VT por carga y las potencias al cuadrado de estas 
+variables. Como se observa, para ambos ejercicios solamente la interacción de los términos 
+lineales de Lts/VT y carga es significativa conformando el modelo ajustado. Esto significa 
+que la relación VO/VT no tiene el suficiente peso en la definición de la leche por hectárea, 
+debido probablemente a la escasa dispersión que presenta. Los términos cuadráticos no son 
+significativos, lo que podría indicar que las mejoras son simultáneas en ambas variables. 
+Para el ejercicio 2006/2007 en el modelo ajustado los coeficientes de las variables son 
+negativos, pero la producción por vaca total tiene un valor más bajo. La situación es 
+opuesta en el ejercicio 2007/2008 donde los coeficientes son positivos y con valores más 
+altos. La interacción es igual a la variable en estudio por eso el coeficiente es igual a uno. 
+Los modelos presentan un muy buen ajuste y son significativos. Estos resultados muestran 
+la importancia de estudiar la producción individual ya que determina la producción por 
+hectárea. 
+ 
+Producción por vaca total 
+Tabla 12: Resultados de la regresión de las variables exploratorias de la producción de 
+leche por vaca total particionado por ejercicio. 
+       
+Estadística de la 
+ Regresión 
+46 
+ 
+Modelo  Var.Dep.  Partición  Var.Indep.  b0  E.E.  p-valor  R2 ajust  Prob>F  
+Ajustado Lts/VT ejer 06/07  const -2575.73 615.40 0.0024 0.97 <0.0001  
+     Conc.VTaño 0.98 0.08 <0.0001      
+     Past.Vtaño 1.32 0.09 <0.0001      
+     CargaVT 748.71 292.97 0.0309     
+     Vo l.Vtaño  2.12  0.44  0.001      
+     Vol.Vtaño^2 -3.40E-04 0.00 0.0825     
+Ajustado Final Lts/VT ejer 07/08  const 2291.32 2216.37 0.3486 1 <0.0001  
+     CargaVT -6438.22 1669.29 0.0119     
+     Vol.Vtaño 0.57 0.32 0.1378     
+     CargaVT*Past.VTaño 2.1 0.55 0.0122     
+     CargaVT*VolVTaño 0.89 0.31 0.0342     
+     Conc.VTaño -0.32 0.64 0.6323     
+     Conc.VTaño^2 2.60E-04 1.20E-04 0.0875     
+     Past.Vtaño 2.93 0.59 0.0042     
+     Past.Vtaño^2 -7.80E-04 1.30E-04 0.0020     
+ 
+La producción de leche por vaca total es una variable que depende de la composición y 
+cantidad de la alimentación que recibe. El modelo se construyó con las cantidades de los 
+diferentes tipos de alimentos. Se consideró la carga como un elemento que puede influir 
+esta composición. Por eso se estudio la interacción de la carga con los diferentes alimentos 
+y las interacciones entre estos. 
+  
+Las interacciones analizadas se comportan de manera diferente en cada ejercicio. En el 
+primero ninguna interacción se mantiene en el modelo ajustado. En el segundo están 
+presente carga con consumo de pastura y de voluminosos.  Si se observan las relaciones 
+lineales simples entre estas variables se encuentra que en el primer ejercicio el consumo de 
+pasturas decrece mientras que el de voluminosos aumenta con incremento de la carga. En 
+el segundo ejercicio no se observa relación entre ellas. Esto podría indicar que con 
+precipitaciones normales, como el 2006/2007 que llegaron a 1300 mm en la zona de 
+Nogoyá, habría sustitución de pastura por voluminosos. En los años secos la combinación 
+de estos tipos de alimentos es más errática generando la interacción observada con la carga 
+y entre los alimentos. 
+ 
+47 
+ 
+Los coeficientes cuadráticos de las variables son diferentes en cada ejercicio. Mientras en 
+2006/2007 solo los voluminosos presentan un término cuadrático significativo, en el 
+2007/2008 lo hacen las pasturas y los concentrados. El comportamiento diferente entre 
+ejercicios puede deberse a características climáticas como las mencionadas y a la 
+proporción de alimentos que componen los voluminosos ya que las cantidades son 
+similares. Mientras el silo se mantiene en valores semejantes en ambos años, los 
+subproductos como la pulpa de citrus pasan de constituir del 7% al 20% y los rollos 
+presentan una tendencia opuesta pasando del 17% al 8% de los voluminosos en el primer y 
+segundo ejercicio respectivamente. Las causas de este comportamiento pueden ser la mejor 
+calidad de los subproductos comparados con los rollos y las condiciones de sequía 
+registrada en el segundo año que permiten una mejor expresión de la producción. 
+ 
+Considerando los concentrados, el primer año es significativo solo el término lineal 
+mientras que en el segundo también lo es el término cuadrático. Este término es positivo, 
+por lo que por cada incremento se conseguirá una mejora aun mayor de la producción 
+individual. Puede explicarse por una diferencia significativa (p<0.005) en la cantidad 
+consumida a favor del último año y las condiciones ambientales que obligaron a elevar la 
+suplementación y permitieron buenas conversiones a leche. 
+ 
+En las pasturas el primer año solamente el término lineal es significativo mientras que en el 
+segundo también lo es el cuadrático. En este caso es negativo generando un punto óptimo 
+de participación del pasto en la dieta en torno a los 2000 kilos de materia seca al año por 
+VT. Este valor se encuentra entre los menores del rango registrado, por lo que se puede 
+inferir que estos casos debieron suplementar y por eso están asociados a mejores valores de 
+producción por vaca. Mientras que en el primer ejercicio como se contaba con forraje 
+suficiente la relación con la producción fue lineal y positiva. Se debe aclarar que existe una 
+diferencia a favor del 2007/2008 en la producción individual promedio pero no es 
+significativa al 99% de confianza. 
+ 
+48 
+ 
+La relación entre la producción individual y los alimentos estaría afectada por las 
+condiciones climáticas del año. Cuando está influenciado por la sequía se incrementa la 
+necesidad de suplementación, pero también se dan las condiciones de confort animal para 
+que pueda transformar los alimentos a leche. Esta composición diferente de la dieta cambia 
+la forma en que influye cada tipo de alimento sobre la vaca y como interaccionan entre 
+ellos. También cambian la magnitud y el signo con que la carga se presenta en el modelo, 
+siendo negativa para los años de sequía y positiva cuando las precipitaciones son normales. 
+Por lo tanto, debe diseñarse una estrategia nutricional para cada año considerando los 
+potenciales individuales que se pueden explorar en función del clima y la conveniencia 
+económica de sustituir o adicionar las pasturas con suplementos. 
+ 
+Tabla 13: Resultados de la regresión de las variables exploratorias de la producción de 
+leche por vaca total particionado por utilización de mixer. 
+       
+estadística de la 
+regresión 
+Modelo Var.Dep.  Partición Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Ajustado Lts/VT Mixer No Const 2.81E+03 1.56E+03  0.1145 0.99 <0.0001  
+     Vol.Vtaño 3.62E+00 6.00E-01  0.0005     
+     Past.Vtaño -1.67E+00  4.80E-01 0.0104     
+     CargaVT*ConcVTaño 9.30E-01 2.70E-01  0.0105     
+     CargaVT*VolVTaño -4.23E+00  6.20E-01  0.0003     
+     VolVTaño*ConcVTaño  7.00E-04 1.30E-04  0.0010     
+     Past.Vtaño*ConcVTaño  1.20E-03 1.90E-04  0.0004     
+     CargaVT 1.93E+04 3.40E+03  0.0008     
+     CargaVT^2 -8.57E+03  1.42E+03  0.0005     
+     Conc.VTaño -8.00E+00  1.38E+00  0.0007     
+     Conc.VTaño^2 8.70E-04 1.50E-04  0.0008     
+Ajustado Lts/VT Mixer Si Const 1.27E+04 4.28E+03  0.0176 0.97 <0.0001  
+     CargaVT -3.75E+03  1.34E+03  0.0228     
+     Conc.VTaño -3.49E+00  1.36E+00  0.0332     
+     Past.Vtaño -2.06E+00  9.90E-01  0.0706     
+     Vol.Vtaño -1.70E+00  1.03E+00  0.1376     
+     CargaVT*Past.VTaño 1.06E+00 4.10E-01  0.0325     
+     VolVTaño*ConcVTaño  1.30E-03 4.20E-04  0.0135     
+     Past.Vtaño*ConcVTaño  9.70E-04 3.00E-04  0.0126     
+ 
+49 
+ 
+En estas regresiones se particionan los datos por el uso de mixer. Se incluyen los tres 
+ejercicios para tener una mayor base datos. Como variables a analizar se consideran la 
+carga, las cantidades de cada tipo de alimento suministrado por vaca en el ejercicio, las 
+interacciones entre ellas con la carga y los términos cuadráticos de todas las variables. 
+Considerando las medias de cada grupo, los que utilizan mixer logran mayores 
+producciones individuales con menores desvíos estándar, pero la diferencia no es 
+significativa (p=0.1877). Esto indica que la incorporación de esta herramienta no mejora 
+estadísticamente la producción por sí sola, sino viene acompañada de medidas de manejo 
+que garanticen la incorporación completa de la tecnología de control de la alimentación. 
+ 
+La carga presenta una media cercana a la unidad siendo levemente superior en los que usan 
+mixer pero la diferencia no es significativa. En ambos grupos aumenta la dispersión de la 
+producción con los valores más altos de carga. En los que no usan mixer, también el 
+término cuadrático es significativo y con coeficiente negativo. Esto indicaría un punto por 
+encima del cual los aumentos de carga bajarían la producción por vaca. Puede estar 
+explicado por la falta de asociación entre la carga y las cantidades de cada tipo de 
+alimentos consumidos, lo que indicaría una falta de ajuste de dietas. En cambio, en el 
+grupo que utiliza mixer, las mayores cargas se asocian a menores consumos de pasturas 
+pero corregidas con mayores cantidades de voluminosos. A su vez, en el primer grupo la 
+carga muestra interacción con los concentrados y voluminosos mientras que en el segundo 
+solo lo hace con las pasturas.  
+ 
+Los concentrados son consumidos en cantidades similares por los dos grupos y el mayor 
+consumo se asocia a mejores producciones por vaca. Las relaciones lineales indican una 
+mayor pendiente y mejor respuesta productiva para el grupo que usa mixer. En las 
+regresiones múltiples, para los que no usan mixer los concentrados tienen un 
+comportamiento cuadrático con el término lineal negativo y el cuadrático positivo mientras 
+que en el otro grupo la relación es lineal negativa. Ambos grupos interaccionan 
+positivamente con voluminosos y pasturas y además con la carga en aquellos que no 
+utilizan mixer. 
+50 
+ 
+ 
+El consumo de voluminosos es significativamente mayor en los casos que utilizan el mixer 
+pero no muestra una asociación lineal simple clara con la producción por vaca. Los 
+alimentos que componen el rubro voluminoso son diferentes en cada grupo. Mientras que 
+en los que no usan mixer solo el 59% de los kilos de materia seca corresponde a silos, el 
+17% es heno y el 24% otros voluminosos, estos valores alcanzan el 80%, 10% y 10% 
+respectivamente en los que si usan mixer. En el primer grupo, los voluminosos presentan 
+una asociación lineal positiva con la producción individual pero con un coeficiente de 
+determinación bajo. Presentan una interacción positiva con los concentrados en ambos 
+grupos y negativa con la carga en los que no usan mixer. Las cantidades y composición de 
+este tipo de alimento observada le otorgan una función diferente en cada grupo con 
+relaciones particulares con otras variables explicativas y con la producción. 
+ 
+La cantidad de pastura consumida difiere significativamente entre grupos, siendo mayor 
+para quienes utilizan mixer. No muestra una relación lineal simple con la producción 
+individual, aunque para los consumos menores la dispersión es mayor. En la regresión 
+múltiple la pastura presenta un coeficiente negativo que es mayor para los que usan mixer. 
+Presenta interacción positiva con los concentrados en los dos grupos, donde las relaciones 
+lineales simples muestran la sustitución de pasturas. También presenta interacción con la 
+carga, en los casos que usan mixer, donde también se observa en las relaciones lineales 
+simples un menor consumo de pastura por vaca al subir la carga. Por consiguiente, la 
+cantidad consumida de pasturas por vaca afecta negativamente la producción individual y 
+se asocia a los concentrados mediante el efecto de sustitución con adición y en los que 
+tiene mixer también a la carga. 
+ 
+Tabla 14: Resultados de la regresión de las variables exploratorias de la producción de 
+leche por vaca total particionado por utilización de comederos lineales. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+Ajustado Lts/VT Comedero Lineal No  Const 12875.92 3.10E+03 0.0011 0.97 <0.0001 
+51 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+     CargaVT -6485.70 1.40E+03 0.0005     
+     Vol.Vtaño -2.05 1.00E+00 0.0613     
+     Past.Vtaño -1.51 5.80E-01 0.0217     
+     CargaVT*Past.VTaño 1.27 3.00E-01 0.0009     
+     CargaVT*ConcVTaño 1.16 4.10E-01 0.0132     
+     VolVTaño*ConcVTaño 8.50E-04 2.20E-04 0.0020     
+     Past.Vtaño*VolVTaño 3.90E-04 1.90E-04 0.0611     
+     Past.Vtaño*ConcVTaño  4.20E-04 1.50E-04 0.0120     
+     Conc.VTaño -3.22 1.19E+00 0.0179     
+     Conc.VTaño^2 2.20E-04 1.20E-04 0.0861     
+Ajustado Lts/VT Comedero Lineal Si Const 34.89 521.78 0.9493 0.99 <0.0001 
+     Vol.Vtaño 1.47 0.1 <0.0001     
+     Past.Vtaño 1.54 0.14 0.0001     
+     Conc.VTaño -1.08 0.65 0.1563     
+     Conc.VTaño^2 4.20E-04 1.40E-04 0.0265     
+ 
+La partición de los datos resulta en dos grupos con diferentes números de casos, lo que no 
+permiten explorar las interacciones en los que si usan los comederos. Por este motivo, es 
+que se seleccionaron solamente los términos cuadráticos de las variables. En los casos que 
+no usan comederos lineales el modelo completo se realizó considerando la interacción 
+entre los alimentos, entre estos y la carga y el término cuadrático de las variables. El 
+modelo ajustado presenta muchas interacciones y términos cuadráticos que dificultan la 
+interpretación completa pero se destacan algunos aspectos a detallar. 
+ 
+En el grupo que no usa comederos lineales, la regresión lineal simple muestra que la carga 
+presenta una leve tendencia a disminuir la producción individual, similar a lo observado 
+con los casos que no utilizan mixer pero con menor pendiente. La carga no difiere 
+significativamente entre los grupos, aunque es levemente inferior en los que no usan los 
+comederos. En el modelo ajustado, para este grupo, presenta un término lineal significativo 
+de signo negativo e interacciona con el consumo de pasturas y de concentrados por vaca 
+total. Mientras que en el grupo que si usa comederos la variables no es significativa en el 
+modelo ajustado. En principio, estos resultados indicarían que la producción por vaca no se 
+ve afectada por la carga en los casos que cuentan con comederos lineales. 
+52 
+ 
+ 
+Para los voluminosos solo el término lineal es significativo en los dos grupos pero con la 
+diferencia que en el grupo sin comederos el coeficiente es negativo mientras que en los 
+otros es positivo. La cantidad consumida es significativamente mayor en los que cuentan 
+con comederos. A su vez, la composición es diferente siendo cerca del 90% silo para este 
+grupo contra el casi 60% de los que no tienen comederos. La calidad de los alimentos en 
+cada grupo podría explicar la diferencia en el signo del coeficiente. El nivel de consumo 
+como la calidad parece ser un elemento diferencial de manejo que se suma a la presencia 
+de los comederos. Presentan interacción con las pasturas y los concentrados solamente en 
+quienes no utilizan comederos. 
+ 
+Los concentrados son utilizados en cantidades similares entre grupos pero son algo 
+inferiores en los que no cuentan con comederos lineales. En las regresiones lineales simple 
+muestra un pendiente positiva pero un coeficiente de determinación bajo para los que no 
+usan comederos y medio a alto para los que si los usan. En la regresión múltiple el término 
+lineal es negativo para ambos grupos, solo que para el primero el coeficiente triplica el 
+valor. Los dos grupos cuentan con el término cuadrático significativo con una confianza 
+del 90% y coeficiente positivo. Pero como en el segundo grupo este coeficiente es mayor el 
+efecto negativo sobre la producción por vaca se vuelve positivo en valores cercanos al 
+promedio de consumo de este grupo. Cuando se evaluó la interacción con otros alimentos 
+para quienes no usan comederos se encontró que es significativa con las pasturas, los 
+voluminosos y la carga. 
+ 
+La pastura presentan una diferencia significativa en la cantidad consumida entre grupos 
+siendo mayor para los que no usan comederos. En las regresiones simples no muestra una 
+tendencia lineal clara pero se observa una menor dispersión en los mayores consumos. En 
+la regresión múltiple solo es significativo el término lineal, que presenta pendiente positiva 
+para el segundo grupo y negativa para el primero, donde además interacciona con los otros 
+alimentos y con la carga. Estas interacciones hacen difícil inferir el impacto de los tipos de 
+alimentos y de la carga en la producción individual. 
+53 
+ 
+ 
+Eficiencia de conversión de los suplementos. 
+Tabla 15: Resultados de la regresión de las variables exploratorias de la eficiencia de 
+conversión de los suplementos particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep.  Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F  
+Ajustado Sup./lt Ejer 06/07 Const 6.90E-01  5.00E-02  <0.0001  1 <0.0001  
+     Conc.VTaño 1.70E-04  5.00E-06  <0.0001      
+     Vol.Vtaño 2.80E-04  1.80E-05  <0.0001      
+     Past.Vtaño -9.30E-05  9.90E-06  <0.0001      
+     Lts/VT -1.40E-04  1.00E-05  <0.0001      
+     Lts/VT*Vol.Vtaño -1.60E-08  3.00E-09  0.0007      
+     Lts/VT*Past.Vtaño 1.90E-08  1.60E-09  <0.0001      
+Ajustado  Supl./lt Ejer 07/08 Const 6.70E-01  0.05  <0.0001  1 <0.0001  
+     Lts/VT -1.20E-04  1.00E-05  0.0001      
+     Conc.VTaño 1.90E-04  9.10E-06  <0.0001      
+     Past.Vtaño -5.50E-05  2.00E-05  0.0438      
+     Lts/VT*Past.Vtaño 1.10E-08  4.70E-09  0.0625      
+     Past.Vtaño*ConcVTaño  -1.50E-08  4.40E-09  0.0193      
+     Past.Vtaño*VolVTaño 2.30E-08  6.10E-09  0.0123      
+     Vol.Vtaño 1.40E-04  1.40E-05  0.0002      
+     Vol.Vtaño^2 -1.20E-08  3.60E-09  0.0195      
+ 
+En los modelos completos se consideró la producción por vaca total y la cantidad de cada 
+tipo de alimento suministrado, sus interacciones y los términos cuadráticos. En este primer 
+análisis se dividió la base de datos según el ejercicio. Como esta no contiene una cantidad 
+suficientes de casos para analizar todas las interacciones y términos cuadráticos de interés 
+en un mismo modelo, se analizaron primero las interacciones y luego los términos 
+cuadráticos. Por último, se construyó un modelo con todas las variables significativas de 
+los anteriores y de este resultó el modelo ajustado. Luego se consideró como elemento de 
+partición la utilización de mixer y de comederos lineales siguiendo el mismo sistema 
+cuando fue necesario. 
+ 
+En los ejercicios analizados se puede ver que las relaciones lineales simples presentan 
+tendencias claras entre la cantidad de cada tipo de alimento y la eficiencia lograda. Por otro 
+54 
+ 
+lado, las relaciones simples con la producción individual son bajas. Si bien en el segundo 
+ejercicio el promedio es levemente superior, esta diferencia no es significativa. En la 
+regresión múltiple del primer ejercicio, la producción individual es significativa y presenta 
+un coeficiente negativo. Interacciona con el consumo de voluminosos con coeficiente 
+negativo y positivo con la pastura. En el segundo ejercicio el coeficiente lineal sigue 
+siendo negativo pero de menor intensidad y solamente interacciona con la pastura con 
+coeficiente positivo. Las mayores producciones logradas permiten diluir la cantidad de 
+suplementos requeridos por litro de leche pero está relacionado a la cantidad de pastura que 
+consumen las vacas. 
+ 
+Los concentrados tienen una relación lineal simple con pendiente positiva con los gramos 
+de suplementos por litro. Presentan bajo coeficiente de determinación en el primer 
+ejercicio y de valor medio en el segundo. En la regresión múltiple se mantiene ese 
+coeficiente lineal positivo para los dos años, pero algo superior en el segundo período 
+analizado. Esto puede deberse a una cantidad significativamente mayor consumida en ese 
+período. No presentan interacción con ninguna variable en el primer ejercicio, mientras que 
+en el segundo lo hace con las pasturas con coeficiente negativo. Este comportamiento 
+puede explicarse por la sustitución de pastura por concentrado observada en este ejercicio. 
+La participación creciente de concentrados disminuye la eficiencia de conversión de 
+suplementos, relacionado algunas veces con procesos de sustitución de pastura. Esto está 
+indicando que los sistemas se intensifican en base a inclusión progresiva de insumos 
+externos que se utilizan cada vez con menor eficiencia. 
+ 
+Los voluminosos también muestran pendiente positiva en la relación simple que es mayor 
+que la de concentrados comparada en cada año. Presentan un coeficiente de determinación 
+medio en primer año y bajo el segundo. En la regresión múltiple del primer ejercicio 
+presenta un coeficiente positivo, también de mayor intensidad que los concentrados y del 
+mismo signo e interacciona con la producción por vaca. En el siguiente, presenta los 
+términos lineales y cuadráticos significativos. El coeficiente lineal es positivo y el 
+cuadrático negativo, generando un incremento cada vez menor de los suplementos por litro 
+por cada incremento. En este año se utilizó una cantidad promedio igual al ejercicio 
+55 
+ 
+anterior pero una proporción mayor de sub productos como pulpa de citrus y una similar de 
+silos. Este cambio en la calidad de los voluminosos podría determinar el cambio de 
+comportamiento de esta variable en los años, como se observó al analizar el efecto sobre la 
+producción individual. 
+ 
+La pastura tiene una relación lineal simple negativa de alto coeficiente de determinación en 
+ambos años. Este comportamiento se mantiene en la regresión múltiple e interacciona con 
+la producción por vaca total con coeficiente positivo en primer ejercicio. En el segundo 
+período, disminuye el coeficiente pero mantiene el signo negativo. Como se comentó 
+anteriormente interacciona con los concentrados, con coeficiente negativo, y con los 
+voluminosos con signo positivo. Esto indicaría un efecto de sustitución con concentrados y 
+de adición con voluminosos. La cantidad consumida es levemente superior en el primer 
+ejercicio pero la diferencia no es significativa. La participación de las pasturas es 
+fundamental para disminuir la cantidad de suplementos por litro producido, aunque su 
+reemplazo por concentrados genera menores incrementos que si se utilizan voluminosos. 
+ 
+Tabla 16: Resultados de la regresión de las variables exploratorias de la eficiencia de 
+conversión de los suplementos particionado por utilización de mixer. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+Ajustado Supl./lt mixer no const 5.80E-01  4.00E-02  <0.0001  1 <0.0001 
+     Vol.Vtaño 3.60E-04  2.90E-05  <0.0001      
+     Lts/VT*Vol.Vtaño -1.60E-08  3.40E-09  0.0032      
+     Lts/VT*Past.Vtaño 1.60E-08  3.80E-09  0.0067      
+     VolVTaño*ConcVTaño -1.70E-08  3.80E-09  0.0047      
+     Past.Vtaño*VolVTaño -1.50E-08  3.90E-09  0.0082      
+     Past.Vtaño*ConcVTaño  -1.90E-08  3.70E-09  0.0022      
+     Past.Vtaño -2.90E-05  3.00E-05  0.3751      
+     Conc.VTaño 2.90E-04  2.80E-05  <0.0001      
+     Conc.VTaño^2 -1.40E-08  3.20E-09  0.0044      
+     Lts/VT -1.90E-04  1.50E-05  <0.0001      
+     Lts/VT^2 5.60E-09  2.30E-09  0.0531      
+Ajustado Supl./lt mixer si Const 7.40E-01  2.00E-02  <0.0001  1 <0.0001 
+     Lts/VT -3.20E-04  1.60E-05  <0.0001      
+56 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+     Vol.Vtaño 3.60E-04  2.10E-05  0.0001      
+     Lts/VT*Past.Vtaño 4.50E-08  2.80E-09  0.0001      
+     VolVTaño*ConcVTaño -5.30E-08  5.00E-09  0.0004      
+     Past.Vtaño*VolVTaño -2.60E-08  3.40E-09  0.0016      
+     Past.Vtaño*ConcVTaño  -7.50E-08  7.10E-09  0.0005      
+     Lts/VT*ConcVTaño 4.00E-08  3.70E-09  0.0004      
+     Conc.VTaño 3.70E-04  1.70E-05  <0.0001      
+     Conc.VTaño^2 -4.10E-08  3.00E-09  0.0002      
+     Past.Vtaño 8.50E-05  2.50E-05  0.0263      
+     Past.Vtaño^2 -2.70E-08  3.60E-09  0.0017      
+ 
+La relación lineal simple de producción individual y los suplementos por litros para los dos 
+grupos presenta un coeficiente de determinación muy bajo que indicaría la falta de relación 
+entre variables. Dentro del grupo que no utiliza mixer, en el modelo de regresión múltiple 
+se observan interacciones con la cantidad de voluminosos y pasturas, con signo negativo y 
+positivo respectivamente. Presenta un término cuadrático con un nivel de significancia 
+cercano al 95% pero con un coeficiente muy bajo. Esto indicaría que por cada litro 
+obtenido la reducción de suplementos es menor, respondiendo a la ley de rendimientos 
+marginales decrecientes. En el grupo que si utiliza mixer, el término presenta un 
+coeficiente lineal negativo e interacciones con la pastura y concentrados consumidos, los 
+dos casos con signo negativo. En resumen, la producción por vaca total participa en forma 
+significativa diluyendo la cantidad de suplementos por cada litro obtenido, pero presenta 
+interacciones con los alimentos que dificultan su comprensión. 
+ 
+Los concentrados muestran en la relación lineal simple una tendencia positiva con un 
+coeficiente de determinación medio en el grupo que no usa mixer y muy bajo en los que si 
+lo utiliza. Este último está afectado por dos puntos que rompen una clara tendencia 
+positiva. En la regresión múltiple ambos grupos presentan el término lineal positivo y el 
+cuadrático negativo, indicando que por cada kilo incorporado baja la eficiencia pero lo 
+hace cada vez en menor cantidad. Los que usan mixer logran un término lineal mayor y el 
+cuadrático menor, que resulta en menores eficiencias para las cantidades inferiores pero 
+que superan al otro grupo para los casos de mayor consumo de concentrados. Esto podría 
+57 
+ 
+deberse a que las cantidades consumidas son levemente superiores en los que usan mixer. 
+Si bien el término cuadrático es significativo, dentro del rango de concentrados 
+consumidos el comportamiento es casi lineal. Este comportamiento es similar al observado 
+para este tipo de alimentos particionado por años donde se manifiesta la incorporación de 
+unidades de insumos cada vez menos eficientes. 
+ 
+La pastura tiene una relación lineal simple con tendencia a disminuir los suplementos por 
+litros al aumentar la cantidad de pastura consumida. En los dos grupos el coeficiente de 
+determinación es elevado. Esto explicaría que, dentro de los niveles de producción 
+analizados, la mayor incorporación de pastura en las dietas no limita la producción 
+individual. Esto permite diluir la cantidad de suplementos utilizados por litro o si la 
+afectara el menor uso de suplementos permite mejorar su eficiencia. Otra forma de 
+interpretación es la sustitución de pasturas por suplementos con una pérdida de eficiencia. 
+Dentro de la regresión múltiple, presenta un coeficiente lineal negativo en el primer grupo 
+y lineal positivo y cuadrático negativo en el segundo. Esto dibuja una respuesta decreciente 
+en la cantidad de suplementos por litro al aumentar la participación de la pastura. La 
+diferencia en los grupos puede estar afectada por la diferencia significativa en el consumo 
+a favor del grupo sin mixer. 
+ 
+Los voluminosos presentan una tendencia a incrementar los suplementos por litros con 
+cada nueva unidad en las relaciones lineales simples. Los coeficientes de determinación 
+son muy bajos en los que no usan mixer y medios en el otro grupo. En el primer grupo, se 
+observa mayor dispersión en los menores niveles de consumo. Dentro de la regresión 
+múltiple los voluminosos presentan el término lineal positivo con igual coeficiente. 
+Interaccionan con los litros por vaca total en el primer grupo y con los concentrados y las 
+pasturas en ambos grupos siempre con signo negativo. En resumen, un mayor consumo de 
+voluminosos disminuye la eficiencia de uso de los suplementos aunque la magnitud 
+depende de la combinación con otros alimentos. 
+ 
+58 
+ 
+Tabla 17: Resultados de la regresión de las variables exploratorias de la eficiencia de 
+conversión de los suplementos particionado por utilización de comederos lineales. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Ajustado Supl./lt  Comederos Lineal no  Const 5.30E-01  1.00E-02  <0.0001  1 <0.0001 
+     Vol.Vtaño 3.40E-04  1.10E-05  <0.0001      
+     Lts/VT*ConcVTaño -2.50E-08  1.30E-09  <0.0001      
+     Lts/VT*Vol.Vtaño -2.80E-08  1.80E-09  <0.0001      
+     Conc.VTaño 3.00E-04  7.60E-06  <0.0001      
+     Lts/VT -1.80E-04  4.40E-06  <0.0001      
+     Lts/VT^2 1.50E-08  5.70E-10  <0.0001      
+Ajustado Supl./lt  Comederos lineal si Const 0.89  0.03  <0.0001  1 0.0001 
+     Lts/VT -1.60E-04  9.60E-06  0.0001      
+     Conc.VTaño 1.50E-04  8.10E-06  <0.0001      
+     Vol.Vtaño 1.70E-04  1.30E-05  0.0002      
+     Past.Vtaño -1.10E-04  1.90E-05  0.0035      
+     Lts/VT*Past.Vtaño 2.10E-08  2.50E-09  0.0011      
+ 
+El análisis según la utilización de comederos lineales requirió diferentes pasos en cada 
+partición. En el grupo de los que no utilizan comederos la cantidad de casos fueron 
+suficientes para probar todas las interacciones y términos cuadráticos. Mientras que para el 
+grupo que no usa comederos, como los casos son pocos, fue necesario evaluar las 
+interacciones por grupo de variables y luego los cuadrados de estas. Se utilizaron solo las 
+significativas para armar un modelo final. El modelo resultante coincide con el que resulta 
+de evaluar las interacciones de la producción con los alimentos. 
+ 
+La producción por vaca total presenta un coeficiente de determinación muy bajo con los 
+gramos de suplementos por litro en la regresión lineal simple, acompañado por una 
+dispersión alta sin tendencia clara en ambos grupos. Para el grupo que no usa comederos, 
+el modelo ajustado de la regresión múltiple presenta el término lineal y cuadrático 
+significativo. El primero es negativo y el segundo positivo generando una mayor dilución 
+de los suplementos hasta llegar a un punto óptimo, luego del cual las mayores 
+producciones incrementan los gramos de suplementos por litro. Esta variables interacciona 
+negativamente con la cantidad de concentrados y voluminosos consumidos. Mientras que 
+59 
+ 
+en el grupo que si tiene comederos esta variable solo mantiene significativo el término 
+lineal con un coeficiente negativo. Esto podría indicar que se mantienen la conversión en 
+leche con las mayores cantidades de alimentos. Esta variable interacciona con el consumo 
+de pastura. 
+ 
+La relación de la cantidad de suplementos por litro con la producción por vaca total es 
+similar al observado cuando se realizó la partición por uso de mixer. En ambos casos, la 
+incorporación de la tecnología cambió el comportamiento de la variable sacando el término 
+cuadrático del modelo final. Esto indicaría el aumento en la eficiencia de conversión de los 
+alimentos al utilizar estas tecnologías en los niveles más altos de producción individual. 
+Podría concluirse que tanto mixer como comederos, si bien no mejoran significativamente 
+la producción individual (p=0.666), permiten mejores eficiencias de conversión en las 
+mayores cantidades de suplementos. 
+ 
+Los concentrados tienen para los dos grupos un coeficiente de determinación medio para la 
+regresión lineal simple con una pendiente positiva similar a la obtenida en los casos que no 
+tienen mixer. En la regresión múltiple presenta un coeficiente lineal significativo y 
+positivo, el que se repite para el caso de los que si usan mixer. La diferencia entre los casos 
+es el valor del coeficiente, que determina una pendiente del doble de intensidad en el 
+primer grupo, indicando que la perdida de eficiencia es menor en el grupo que usa 
+comederos. 
+ 
+Los voluminosos tienen en los dos grupos una pendiente positiva con un R 2 muy bajo en el 
+modelo lineal simple. Las cantidades consumidas son significativamente mayor (p<0,0015) 
+para los que usan comederos. En la regresión múltiple de ambos grupos solo el término 
+lineal es significativo, pero la pendiente duplica el valor en los que no usan comederos. 
+Esto indicaría una mayor eficiencia al aumentar el consumo de voluminosos para los casos 
+que tienen comederos. En el primer grupo interacciona con la producción de leche por vaca 
+total con coeficiente negativo. 
+ 
+60 
+ 
+La pastura tiene en ambos grupos una pendiente negativa con alto coeficiente de 
+determinación para la regresión simple. La cantidad consumida es significativamente 
+mayor que en el grupo que usa comederos, situación similar a lo que ocurre con la 
+partición por uso de mixer. Para el grupo que no usa comenderos, si se acepta en la 
+regresión múltiple un término con una confianza de 90%, la pastura presenta un término 
+cuadrático negativo y uno lineal positivo. Si se excluye ese término la pastura no está 
+presente en el modelo ajustado. En el grupo que si usa comederos presenta un coeficiente 
+similar a los otros alimentos pero es la única de signo negativo, indicando que su 
+participación diluye el uso de suplementos. Además, interacciona con la producción por 
+vaca total con coeficiente positivo.  
+ 
+Consumo de pastura por hectárea vaca total. 
+Tabla 18: Resultados de la regresión de las variables exploratorias de la pastura consumida 
+por hectárea vaca total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Ajustado Past.Cos./haVT  Ejer 06/07  Const 2476.23  2.41E+03  0.3388  0.93  0.0001  
+     SilosMS/haVT -1.37  0.13  <0.0001      
+     HenoMS/haVT -1.69  0.37  0.0024      
+     Otr.Vol.MS/haVT -0.97  3.30E-01  0.0220      
+     Conc.MS/haVT -1.02  2.00E-01  0.0014      
+     CargaVT 503.51  2.04E+03  0.8118      
+     Lts/VT -0.40  4.10E-01  0.3676      
+     Lts/VT*CargaVT 1.08  3.80E-01  0.0236      
+Ajustado  Past.Cos./haVT  Ejer 07/08  Const  -7144.79  505.54  <0.0001  0.99  <0.0001  
+     SilosMS/haVT -1.08  0.07  <0.0001      
+     Otr.Vol.MS/haVT -0.76  0.12  0.0004      
+     Conc.MS/haVT -1.12  8.00E-02  <0.0001      
+     Lts/VT  0.94  0.05  <0.0001      
+     CargaVT 10177.5  1051.05  <0.0001      
+     CargaVT^2 -1923.94  479.09  0.0051      
+ 
+Para analizar esta variable se consideró la pastura que fue cosechada por la vaca y se 
+realizó la partición por ejercicio. Ninguna de las variables consideradas presenta diferencia 
+61 
+ 
+significativa entre los ejercicios. Considerando las relaciones lineales simples, solo la carga 
+en el último ejercicio muestra una asociación media y positiva con la cosecha de pasturas. 
+ 
+En la regresión múltiple la carga presenta una relación lineal con coeficiente positivo e 
+interacciona con la producción individual para el primer ejercicio. En el segundo ejercicio, 
+muestra un coeficiente lineal positivo y uno cuadrático negativo que determina un 
+incremento cada vez menor de la pastura consumida por cada unidad de carga que se 
+aumenta.  Esto podría indicar que la producción de forraje es acotada y que aumentos 
+sucesivos de carga no mejorarían la producción y cosecha de forraje sino que podrían 
+tender a deprimirla si no se realiza un buen control de manejo del pastoreo. Como se 
+comento anteriormente, el consumo de concentrado fue mayor mientras que el de pastura 
+fue menor para el segundo ejercicio. Esto puede estar influenciado por las menores 
+precipitaciones ocurridas en este ejercicio que afectaron el crecimiento de las pasturas. 
+ 
+Los henos, silos, y otros voluminosos tienen coeficientes lineales y negativos en el primer 
+ejercicio. En el segundo, los henos no participan del modelo ajustado, pero los silos y otros 
+voluminosos mantienen el signo negativo pero los coeficientes son mayores, es decir 
+menos negativos, comparados con el otro ejercicio. La menor participación del heno es 
+probablemente la causa de la salida del modelo ajustado. La falta de heno puede estar 
+explicada por las menores precipitaciones ya que generalmente se realiza con los 
+excedentes del mismo campo. Esto también explica el mayor consumo de otros 
+voluminosos. Estas relaciones sugieren un efecto de sustitución de pasturas por 
+voluminosos que es menor en el segundo ejercicio, lo que es lógico por la menor 
+producción y, por lo tanto, oferta de forraje.  
+ 
+El concentrado también tiene efectos sustitutivos sobre la cantidad de pastura consumida 
+por hectárea. Si se compara con los forrajes conservados el nivel de sustitución es menor 
+en el primer año y similar en el segundo. Esta característica puede estar causada por las 
+precipitaciones que fueron mayores en el primer año y permitieron la confección de 
+reservas mientras que en el segundo la restricción hídrica obligó a aumentar la cantidad de 
+62 
+ 
+concentrados y esto incrementó la sustitución de pastura por concentrados. Si bien las 
+cantidades consumidas son mayores en el primer año la diferencia no es significativa. 
+ 
+La producción individual tiene un coeficiente lineal negativo e interacciona con la carga, 
+indicando que las vacas más productivas consumen menos forraje por hectárea. Por otro 
+lado, el segundo ejercicio el coeficiente es positivo. Estas diferencias pueden estar dadas 
+por la menor producción por falta de precipitaciones, por lo que cada kilo de pasto 
+consumido hacía un aporte de proteína y materia seca que favorecería la producción. 
+Mientras que en el primer año, la disponibilidad de mayor pastura hace que quienes 
+comieron las mayores cantidades de pastura llegaron a niveles que son limitantes para la 
+producción individual. 
+ 
+La carga tiene un coeficiente lineal positivo en el primer ejercicio y suma el término 
+cuadrático negativo para el segundo. Este comportamiento mantiene la línea de 
+razonamiento desarrollada basada en menor producción de pasturas en el segundo 
+ejercicio. Mientras las pasturas produjeron forraje el aumento de carga corresponde a 
+mayor consumo. Pero cuando fue limitante, las mayores cargas resultaron en incrementos 
+cada vez menores de forraje consumido. En el primer ejercicio presenta interacción con la 
+producción por vaca total con coeficiente positivo. 
+ 
+Ingreso en leche por hectárea vaca total. 
+Tabla 19: Resultados de la regresión de las variables exploratorias del ingreso en leche por 
+hectárea vaca total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Ajustado IngLeche/haVT  Ejer 06/07  const 10.61 6.63 0.1376  1 <0.0001 
+     Lts/haVT -1.30E-03 1.10E-03 0.2708      
+     Precio -18.72 11.36 0.1276      
+     Lts/haVT*Precio 1 1.90E-03 <0.0001      
+Ajustado IngLeche/haVT  Ejer 07/08  const -2.78 18.42 0.8834  1 <0.0001 
+     Precio 6.22 21.41 0.7779      
+63 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+     Lts/haVT*Precio 1 3.80E-03 <0.0001      
+     Lts/haVT -6.50E-04 3.40E-03 0.8536      
+     Lts/haVT^2 6.10E-08 2.50E-08 0.0368      
+ 
+Las relaciones lineales simples muestran un ajuste casi perfecto entre la producción de 
+leche y el ingreso por hectárea VT. En cambio, el precio presenta una dispersión cada vez 
+mayor a medida que se incrementa. Comparando los dos ejercicios se puede ver que el 
+ingreso por venta de leche por hectárea VT fue un 54% mayor el segundo período. Esto se 
+explica principalmente por el mayor precio que superó en un 47% al obtenido en 
+2006/2007. Por otro lado, la productividad del primer año fue superada en un 5% siendo la 
+única variable que no difiere significativamente. 
+ 
+Para el primer ejercicio analizado mediante regresión múltiple, la producción como el 
+precio tienen un coeficiente lineal negativo. Los términos cuadráticos no están presentes en 
+el modelo ajustado. Además, presenta una interacción significativa entre ambos, lo que es 
+lógico ya que la interacción da por resultado la variable dependiente. La dispersión que 
+existe ente la producción por hectárea y el precio logrado indica que quienes son mejores 
+productores no necesariamente comercializan mejor su leche. Pero si se observa una leve 
+relación lineal simple entre litros totales producidos por los establecimientos y el precio 
+indicando la influencia de la escala. 
+ 
+En el segundo ejercicio, la relación lineal simple muestra que el ingreso por hectárea tiene 
+una leve tendencia a disminuir con los mayores precios. A su vez, el precio no presenta 
+relación con la escala del establecimiento. En la regresión múltiple, inversamente a lo 
+observado el año anterior el precio tiene un coeficiente alto y positivo. Por otro lado, la 
+producción por hectárea presenta en el modelo ajustado el término cuadrático positivo. 
+Esto indica un comportamiento exponencial del ingreso al aumentar la producción por 
+hectárea. La diferencia de comportamiento comparado al año anterior puede explicarse por 
+el mejor precio obtenido por litro de leche. 
+64 
+ 
+ 
+Gasto de alimentación por hectárea vaca total. 
+Tabla 20: Resultados de la regresión de las variables exploratorias del gasto de 
+alimentación total por hectárea vaca total particionado por ejercicio. 
+       Estadística de la regresión  
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor  R2 ajust Prob>F 
+Ajustado  GtoAlimTotal/haVT  Ejer 06/07  Const -750.14  360.28  0.1058  0.99 0.0001 
+     $/kgConc. 1582.94  418.11  0.0193      
+     $/kgVol. 846.27  377.55  0.0885      
+     $/kgPast. 2306.36  761.49  0.0388      
+     Past.Cos./haVT 0.01  0.04  0.8440      
+     RvasMS/haVT*Conc.MS/  -3.20E-04  9.30E-05  0.0272      
+     RvasMS/haVT*Past.Cos 1.00E-04  2.60E-05  0.0182      
+     Conc.MS/haVT 0.16  0.14  0.3103      
+     Conc.MS/haVT^2 2.10E-04  7.00E-05  0.0378      
+     RvasMS/haVT 0.04  0.22  0.8772      
+     RvasMS/haVT^2 8.80E-05  3.60E-05  0.0708      
+Ajustado  GtoAlimTotal/haVT  Ejer 07/08  const -2692.85  293.23  0.0008  1 <0.0001 
+     $/kgConc. 2844.3  186.18  0.0001      
+     $/kgVol. 1101.42  124.51  0.0009      
+     $/kgPast. 2939.03  324.51  0.0008      
+     Conc.MS/haVT 0.85  0.05  0.0001      
+     RvasMS/haVT -0.24  0.09  0.0604      
+     RvasMS/haVT*Past.Cos 1.10E-04  2.40E-05  0.0111      
+     Conc.MS/haVT*Past.Cos -4.90E-05  2.00E-05  0.0710      
+     Past.Cos./haVT 0.41  0.12  0.0286      
+     Past.Cos./haVT^2 -4.00E-05  1.70E-05  0.0746      
+ 
+Para analizar la influencia de las cantidades y los precios de los diferentes tipos de 
+alimentos sobre el gasto en alimentación se consideraron solo términos lineales de los 
+precios y las interacciones y términos cuadráticos de las cantidades. Si se consideran las 
+relaciones lineales simples para los dos ejercicios, se observa que solo la cantidad de 
+concentrados y voluminosos afectan positivamente los gastos con un coeficiente de 
+determinación medio. En el resto de las variables las relaciones son dispersas. Por otro 
+lado, solo el precio de los concentrados difiere significativamente (p<0,0001) entre años, 
+siendo superior para el último período. El precio del resto de los alimentos también es 
+superior para este ejercicio pero no significativamente. En cuanto a las cantidades, el único 
+65 
+ 
+alimento que aumenta su consumo en el ejercicio 2007/2008 son los concentrados. Estas 
+características resultan en un gasto en alimentación por hectárea superior para este 
+ejercicio. 
+ 
+Considerando los precios de los alimentos todos se mantienen en el modelo ajustado para 
+los dos ejercicios. Para el primer año el mayor coeficiente lo tiene el costo por kilo de 
+pastura cosechada, seguido por el precio de los concentrados y luego por los voluminosos. 
+Para el segundo año se repite el orden de magnitud de los coeficientes lineales, solo que los 
+concentrados son muy similares a los de pastura. Esto indicaría una alta influencia del 
+costo de la pastura cosechada, que por el método de cálculo depende principalmente del 
+nivel de producción y cuanto de esta es cosechada por la vaca. 
+ 
+Si se analiza la relación lineal simple entre la cantidad de pastura y el gasto de 
+alimentación se observa un coeficiente de determinación muy bajo y sin tendencia clara. 
+En la regresión múltiple el coeficiente es lineal para el primer ejercicio, mientras que para 
+el segundo presenta el término cuadrático negativo. El pequeño valor del coeficiente lineal 
+indica el escaso impacto de la pastura en el gasto en alimentación. Mientras que el término 
+cuadrático negativo señala un incremento cada vez menor por kilo que aumenta su 
+consumo. Presenta interacción con la cantidad de reservas consumidas en los dos 
+ejercicios, con coeficientes similares. 
+ 
+La cantidad de concentrados en la regresión múltiple presenta los términos lineales y 
+cuadráticos positivos indicando que por cada unidad incrementada el gasto en alimentación 
+lo hace en una proporción cada vez mayor. Mientras que para el segundo ejercicio solo el 
+término lineal participa del modelo ajustado, pero el coeficiente es elevado indicando un 
+impacto importante en la variable dependiente. Interacciona con las reservas para el primer 
+ejercicio y con la pastura cosechada en el segundo, en ambos casos con coeficiente 
+negativo. El consumo en el segundo ejercicio fue mayor, a pesar que el costo por kilo 
+aumentó, probablemente debido a las condiciones climáticas del año comentadas 
+anteriormente. 
+66 
+ 
+ 
+Una situación similar a los concentrados se da con las reservas, pero con coeficientes más 
+pequeños, que llegan a ser negativos en el segundo ejercicio. En el primer ejercicio las 
+cantidades de reservas se encuentran interaccionando con los concentrados y la pastura, 
+con coeficiente negativo para el primero y positivo en el segundo. Mientras que en el 
+segundo año interaccionan solo con la pastura con coeficiente positivo. 
+ 
+Margen de alimentación por hectárea vaca total. 
+Tabla 21: Resultados de la regresión de las variables exploratorias del margen bruto de 
+alimentación total por hectárea vaca total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Completo 
+y 
+ajustado 
+MBAlimTotal/haVT  Ejer 06/07 Const 0.2  1.95  0.9189  1 <0.0001  
+    IngLeche/haVT*GalimTotal/haVT  -2.40E-05  1.10E-05  0.0588      
+    GAlimTotal/haVT -0.99  0.01  <0.0001      
+    GAlimTotal/haVT^2 2.40E-05  1.20E-05  0.0754      
+     IngLeche/haVT 0.99  2.50E-03  <0.0001      
+     IngLeche/haVT^2 6.10E-06  2.60E-06  0.0421      
+Ajustado MBAlimTotal/haVT Ejer 07/08 Const -1.66  1.76  0.3695  1 <0.0001  
+     GAlimTotal/haVT -0.99  2.50E-03  <0.0001      
+     GAlimTotal/haVT^2 -1.40E-06  5.10E-07  0.0216      
+     IngLeche/haVT 1 1.00E-03  <0.0001      
+     IngLeche/haVT^2 2.20E-07  8.90E-08  0.0378      
+ 
+En las regresiones lineales simples se observa para los dos ejercicios que el ingreso 
+mantiene un coeficiente de determinación elevado y el coeficiente lineal indica que por 
+cada peso que ingresa el margen se incrementa en aproximadamente la mitad. A sí mismo, 
+el gasto en alimentación también presenta una relación lineal simple positiva resultando en 
+mejores márgenes para quienes más invirtieron en alimentación. Para el segundo ejercicio 
+esta relación se mantiene pero con menor ajuste, observándose que hasta los $2500 de 
+gasto no hay respuesta en el margen y luego de este valor la relación retoma la forma 
+lineal. 
+ 
+67 
+ 
+Analizando los promedios de las variables se observa que la diferencia en el ingreso en 
+leche, los gastos y el margen de alimentación son significativamente mayores en el último 
+ejercicio. En los ingresos por venta de leche la diferencia está dada por el precio, ya que 
+los litros producidos no son significativamente diferentes. En los gastos solo el precio de 
+los concentrados es significativo, pero la combinación de cantidades similares o mayores 
+de alimentos consumidos en el segundo ejercicio, con costos por kilo siempre más 
+elevados, hace que el gasto en alimentación sea significativamente mayor. La combinación 
+de estas variables da por resultado que el margen bruto de alimentación sea también 
+significativamente diferente. 
+ 
+En el modelo de regresión múltiple el gasto en alimentación presenta su término lineal y 
+cuadrático significativo para los dos ejercicios. En el primero el término lineal es negativo 
+y el cuadrático positivo, mientras que en el otro ambos son negativos. Esto determina que 
+para el primer año, los aumentos en el gasto generen descensos en el margen cada vez más 
+pequeños. Por otro lado, en el segundo ejercicio los mayores gastos generan márgenes cada 
+vez menores, pero el coeficiente es pequeño y la relación se asemejaría a una lineal 
+negativa. En el primer caso, el gasto interacciona con el ingreso con una confianza del 
+94%. El ingreso en leche por hectárea vaca total presenta los términos lineal y cuadrático 
+en el modelo ajustado de los dos ejercicios. En ambos casos los coeficientes son positivos, 
+pero los cuadráticos son muy pequeños por lo que pueden considerarse lineales. 
+ 
+Gasto directo del tambo total por hectárea de tambo total. 
+Tabla 22: Resultados de la regresión de las variables exploratorias del gasto directo del 
+tambo total por hectárea de tambo total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Ajustado GD/haTT año 2 const 563.63  129.89  0.0025  0.99  <0.001 
+     GtoRecria/haTT 1.2800  0.13  <0.0001      
+     GtoPast/haTT 0.8800  2.40E-01  0.0058      
+     GtoPers/haTT -1.5300  0.72  0.0665      
+     GtoPers/haTT^2 0.0048  1.40E-03  0.0076      
+     GtoSupl/haTT 0.6500  0.16  0.0034      
+68 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+     GtoSupl/haTT^2 0.0003  6.70E-05  0.0023      
+Ajustado GD/haTT año 3 const 283.16  70.78  0.0052  1 <0.0001 
+     GtoPers/haTT 1.59  0.13  <0.0001      
+     GtoPast/haTT 1.01  0.09  <0.0001      
+     GtoRecria/haTT 0.86  1.80E-01  0.0018      
+     GtoRecria/haTT^2 0.0004  2.00E-04  0.0779      
+     GtoSupl/haTT 0.70  8.00E-02  <0.0001      
+     GtoSupl/haTT^2 0.00  2.50E-05  0.0036      
+ 
+Las relaciones lineales simples muestran que los gastos de suplementación del rodeo 
+explican gran parte de la variación de los gastos directos para los dos ejercicios. Es seguido 
+por personal, recría y pasturas. .En cuanto a la diferencia entre años, el gasto directo fue 
+significativo aumentando un 50% al promedio del primer año. Esta diferencia está apoyada 
+en los cambios que sufrieron los rubros de personal y suplementos, cuyas diferencias 
+también son significativas entre años, mientras que pasturas y recría presentan aumentos 
+muy leves. En la regresión lineal múltiple se observa que los cuatro rubros analizados se 
+mantienen en el modelo ajustado. Solo se exploró la interacción de gasto de pastura con 
+suplementos ya que es la única que aportaría información valiosa. 
+ 
+La recría solo mantiene su término lineal en el primer ejercicio mientras que en el segundo 
+incorpora el cuadrático en el modelo ajustado. El término cuadrático es muy pequeño y la 
+relación es casi lineal. La recría en el primer ejercicio parece tener una importancia mayor 
+en la definición del gasto directo reflejado en la función que definen sus coeficientes y en 
+el porcentaje del gasto total que representa, si bien el valor absoluto es menor. 
+ 
+La pastura mantiene relaciones lineales en ambos ejercicios con un coeficiente algo menor 
+en el primero. Este rubro es el segundo en importancia luego de suplementos si se 
+consideran los valores absolutos. Esta relación se mantiene a través de los ejercicios, 
+representando el 21% de los gastos directos para el primero y 14% para el segundo, si bien 
+en términos absolutos este fue mayor. 
+69 
+ 
+ 
+El personal presenta el término lineal negativo y cuadrático positivo para el ejercicio 
+2006/2007 y lineal positivo mayor a la unidad para el 2007/2008. Los coeficientes indican 
+que los aumentos en personal están asociados a incrementos mayores a la unidad en gastos 
+directos. Esto puede representar que los mayores gastos de personal por hectárea estén 
+asociados a modelos más intensivos que también presentan mayores gastos en otros rubros. 
+La diferencia entre ejercicios es significativa explicada mayormente por el aumento de 
+sueldos más que por la incorporación de mayor mano de obra. En ambos ejercicios 
+representan alrededor del 12% del gasto directo promedio. 
+ 
+Los suplementos presentan los términos lineal y cuadrático en el modelo ajustado en los 
+dos ejercicios. Ambos términos son positivos impactando en mayores gasto directos por 
+cada incremento en el gasto en suplementos. Este puede estar asociado a un mayor uso de 
+la maquinaria para suministrarlos como a gastos de fletes. Estos gastos representaron el 
+53% y 62% de los gastos totales en cada ejercicio, donde el valor absoluto del segundo 
+duplica al primero asociado principalmente a mayores cantidades utilizadas. 
+ 
+Margen bruto del tambo total por hectárea de tambo total. 
+Tabla 23: Resultados de la regresión de las variables exploratorias del margen bruto por 
+hectárea del tambo total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor  R2 ajust  Prob>F 
+Completo y ajustado  MBTT/haTT  año 2 const -626.7100  288.08  0.0613  0.99  <0.0001 
+    GD/haTT -0.7000  0.29  0.0437      
+     GD/haTT^2 -0.0003  1.20E-04  0.0367      
+     IT/haTT*GD/haTT 0.0002  1.60E-04  0.2173      
+     IT/haTT*GD/haTT^2  6.30E-12  2.40E-12  0.0295      
+     IT/haTT 1.4300  0.18  <0.0001      
+     IT/haTT^2 -0.0002  7.70E-05  0.0439      
+Completo y ajustado  MBTT/haTT  año 3 const -359.5  145.88  0.0432  1 <0.0001 
+     GD/haTT -0.8200  0.12  0.0002      
+     GD/haTT^2 -0.0003  6.70E-05  0.0046      
+70 
+ 
+     IT/haTT*GD/haTT 0.0003  8.90E-05  0.0130      
+     IT/haTT*GD/haTT^2  1.00E-12  0.00E+00  0.0426      
+     IT/haTT 1.1400  0.07  <0.0001      
+     IT/haTT^2 -0.0001  3.10E-05  0.0049      
+ 
+Las relaciones lineales simples indican que las variables no muestran tendencias claras ya 
+que presentan coeficiente de determinación muy bajos para el primer ejercicio. En el 
+segundo esta situación es diferente ya que el margen muestra pendiente positiva de similar 
+coeficiente con gastos e ingresos con ajuste medio a alto respectivamente. Existe una 
+asociación positiva fuerte entre gasto e ingresos para los dos ejercicios. Entre grupos las 
+variables difieren significativamente y son mayores en el segundo. El margen bruto fue la 
+variable de mayor aumento seguido por el ingreso y por último los gastos afectados 
+mayormente por el factor monetario. 
+ 
+En la regresión múltiple el modelo completo resultó significativo en todas las variables. 
+Los gastos, los ingresos y la interacción de ambos son significativos para el término lineal 
+como cuadrático. En cuanto a los gastos ambos coeficientes son negativos lo que indicaría 
+que a mayores gastos se obtendrán márgenes brutos cada vez más negativos. En el ingreso 
+el término lineal es positivo y el cuadrático negativo indicando que los incrementos son 
+menores en el margen. En cuanto a la interacción entre las variables el término cuadrático 
+es muy pequeño siendo prácticamente una relación lineal positiva que indica que mayores 
+gastos darán mayores ingresos que resultan en márgenes superiores. 
+ 
+Consideraciones sobre el análisis de regresiones múltiples: 
+La producción por hectárea vaca total incluye solo el término lineal de la carga y la 
+producción individual. En el modelo ajustado que caracteriza la producción individual se 
+observa que la influencia de los alimentos difiere según las características climáticas de los 
+años. En años normales los voluminosos logran peores respuestas a los mayores consumos 
+mientras que en los años secos es lineal. Los concentrados mostraron una respuesta lineal 
+en años normales e incrementos mayores por cada kilo adicionado en los secos. Las 
+pasturas muestran una respuesta lineal positiva para años normales y un valor óptimo para 
+los secos. 
+71 
+ 
+ 
+Cuando se analiza la incorporación de mixer y comederos se observa que no generaron 
+mejoras en la producción individual, pero permitieron aumentar la carga sin afectarla. Los 
+voluminosos son más consumidos y presentan más silo en quienes utilizan mixer o 
+comederos. Los concentrados no muestran tendencias claras, probablemente al presentar 
+muchas interacciones y debido a que su suministro se hace principalmente en la sala de 
+ordeñe. 
+ 
+En el análisis del uso de los suplementos por año se encontró que las mejores producciones 
+individuales reducen las cantidades de suplementos por litro en forma lineal. Las pasturas 
+diluyen la cantidad de suplementos por litro con cada incremento en su consumo. Los 
+concentrados muestran una tendencia opuesta, algo superior en el año seco por el mayor 
+consumo registrado. Los voluminosos tienen un efecto similar, lineal positivo en años 
+normales pero cuadrático negativo en los secos, también influenciados por la calidad de los 
+alimentos que componen este rubro. Este comportamiento en los suplementos está 
+indicando que los procesos de intensificación presentan una menor eficiencia por cada 
+unidad de insumo incorporada. 
+ 
+En el análisis por uso de mixer y comederos la producción individual logró la dilución de 
+los suplementos en forma lineal para los que usan estas herramientas y con un punto 
+óptimo por encima del cual se pierde el efecto de dilución en el otro grupo. Los 
+concentrados muestran menos eficiencia por cada kilo incorporado en ambos grupos, pero 
+quienes usan mixer logran mejor desempeño en los consumos altos. Al considerar el uso de 
+comederos, las respuestas son lineales positivas con mayor coeficiente en los que no los 
+utilizan. Los voluminosos también bajan la eficiencia con cada kilo en forma lineal, 
+manteniendo la intensidad de esta pendiente al incorporar el uso del mixer. En caso de 
+comenderos se duplica para quienes no usan esta herramienta. Las pasturas diluyen los 
+suplementos por litro en forma lineal y cuadrática para quienes no usan y usan mixer y 
+comederos respectivamente. Esto indica la importancia de su participación para lograr 
+eficiencia en el uso de los suplementos. 
+72 
+ 
+ 
+El consumo de pastura por hectárea VT se ve afectado por la carga en forma lineal positiva 
+el año de precipitaciones normales mientras que en los años más secos aumentar la carga 
+repercute menos en la pastura consumida. Las mayores producciones individuales se 
+asocian a menos forraje en años húmedos, mientras que en los secos el comportamiento es 
+inverso. El mayor consumo de concentrados y voluminosos disminuye el de pastura en 
+forma lineal en ambos ejercicios, siendo menor en el año húmedo que en el seco. 
+ 
+El ingreso de leche por hectárea de vaca total se debe principalmente a la producción de 
+leche, relacionándose en forma lineal el primer año y cuadrática positiva en el segundo 
+cuando el precio fue más elevado. En cuanto al gasto en alimentación por hectárea, los 
+precios de alimentos están presentes en los modelos ajustados con alta influencia del costo 
+del kilo de pastura y de concentrados. A pesar de esto, la cantidad de pastura consumida 
+influye muy poco sobre los gastos. En cambio, un aumento en los voluminosos y 
+concentrados genera incrementos cada vez mayores en los gastos en años húmedos y 
+lineales en los secos. El mayor gasto en alimentación repercute en mejores resultados en el 
+primer año, mientras que en el segundo deteriora el margen. El ingreso en leche afecta el 
+margen de alimentación en forma cuadrática positiva, pero el bajo coeficiente cuadrático lo 
+asemeja a una relación lineal. 
+ 
+El gasto directo por hectárea de tambo total se ve afectado por la recría en forma 
+prácticamente lineal presentando mayor importancia relativa en el primer año. La pastura 
+también muestra relaciones lineales con menor peso para el primer año. La importancia del 
+rubro personal aumenta en el segundo año principalmente por un aumento de sueldos. Los 
+suplementos generan incrementos en los gastos directos proporcionalmente mayores a los 
+registrados para este rubro, posiblemente por el mayor uso de maquinaria para 
+suministrarlos. El margen bruto de tambo total presenta relaciones cuadráticas con los 
+gastos y los ingresos que interaccionan entre ellos indicando que mayores gastos darán 
+mayores ingresos que resultan en mayores márgenes. 
+ 
+73 
+ 
+CO/glyph1197CLUSIO/glyph1197ES: 
+La carga promedio resultó ser cercana de 1 VT/haVT. Los valores más altos fueron 
+característicos de los grupos de mayor gasto, ingreso y margen bruto por hectárea. A pesar 
+de esto, no mostró una relación lineal simple de peso con el margen por vaca, litro o 
+hectárea. Esto puede ser explicado porque aumentar solamente la carga no siempre 
+repercute en mayores producciones por hectárea. De todas formas, es una variable 
+importante para definir la producción por hectárea ya que está presente en el modelo 
+ajustado de regresión múltiple. También afectó positivamente el consumo de pastura por 
+hectárea, pero con diferente impacto según las características climáticas del año. 
+ 
+La producción individual alcanzó valores promedios de 20 litros/vaca/día. Los mayores 
+registros fueron característicos de los grupos de alto ingresos y altos gastos, pero no fue un 
+factor diferencial en los grupos de márgenes brutos. Tampoco presenta relación lineal 
+simple con los márgenes por vaca, litro de leche o hectárea. Esto demuestra que este 
+indicador de desempeño productivo no refleja los resultados económicos. Sin embargo, 
+fueron necesarios altas producciones individuales para lograr altas producciones por 
+hectárea. Aunque, solo un grupo de casos con alta producción por hectárea lograron 
+mejorar el margen bruto. La producción individual está afectada por la alimentación y las 
+características climáticas, logrando mejores respuesta al incremento en la suplementación 
+en años secos. Las pasturas la afectan en forma lineal los años normales y presentan un 
+óptimo de participación en la dieta los años secos. 
+ 
+El consumo de forraje es menor en el grupo de altos ingresos tanto en forma individual 
+como por hectárea. Un elevado consumo en la dieta por vaca es característico del grupo de 
+bajo gasto. Mientras que en los grupos de alto gasto y alto margen bruto el consumo de 
+forraje por hectárea fue mayor. En las regresiones simples se observa que el consumo 
+individual de forraje disminuye al aumentar el de suplementos. Como se mencionó, afecta 
+de diferente manera la producción individual según las características climáticas del año. 
+Logra diluir la cantidad de suplementos por litro al aumentar su participación en la dieta. 
+El consumo de pasturas por hectárea se ve afectado por la carga en forma diferencial según 
+las características climáticas del año. A su vez, los mayores consumos por hectárea se 
+74 
+ 
+asocian a altas producciones por vaca en años secos y es inverso en años normales. 
+También la sustitución por suplementos está afectada por los años siendo mayor en los 
+secos que en los normales. Una hipótesis de trabajo futura podría estudiar si el diferencial 
+en suplementos es responsable del menor consumo de pasturas o porque efectivamente 
+producen menos pasto están obligados a encarecer la suplementación. Entre los precios de 
+los alimentos, el costo del kilo de pastura cosechada es el que presenta mayor efecto sobre 
+el gasto en alimentos. Pero si se consideran las cantidades consumidas, la pastura es la que 
+menos impacta en este rubro de gastos. Dentro de la estructura de gastos totales del tambo 
+tienen una participación importante pero menor a la de suplementos y se asocia en forma 
+lineal a esta variable. 
+ 
+El consumo de suplementos es levemente mayor en la cuenca Este de la provincia. Los 
+concentrados son más utilizados en los grupos de alto ingreso mientras que los 
+suplementos en conjunto son mas consumidos en el grupo alto gasto y alto margen bruto. 
+Como se mencionó, en las relaciones lineales simples los mayores consumos de 
+suplementos disminuyeron el de pastura pero no se relacionan con la carga. Por otro lado, 
+se asociaron con mayores producciones individuales pero mientras los concentrados se 
+relacionaron con altos márgenes brutos por litro y hectárea, los voluminosos mostraban 
+una tendencia opuesta. En las regresiones múltiples, tanto concentrados como voluminosos 
+logran peores respuestas productivas al incremento de consumo en años de precipitaciones 
+normales. A pesar de esto, cuando se evaluó el impacto de las cantidades consumidas de 
+concentrados y voluminosos en forma independiente sobre los gramos de suplementos por 
+litro, se encontró que el mayor consumo de ambos no se diluye con un aumento en la 
+producción. Esto se agrava en los años secos debido a un nivel de consumo es superior que 
+en años normales. En línea con lo comentado anteriormente, se observa una reducción del 
+consumo de pastura por hectárea al aumentar el de suplementos. Esto está agravado cuando 
+el año es húmedo. El gasto en suplementos es de los más importantes en la estructura del 
+gasto de tambo total, registrándose incrementos en el gasto total proporcionalmente 
+mayores a los registrados para suplementos posiblemente a otros gastos asociados como el 
+mayor uso de maquinarias para su racionamiento. 
+ 
+75 
+ 
+Los mayores niveles de control sobre la alimentación mediante el uso de mixer y 
+comederos externos lineales muestran en el análisis de grupos mayores producciones 
+individuales. Por otro lado, los que usan mixer consumen mayor cantidad de suplementos 
+obteniendo menores eficiencias de conversión. Mientras que quienes incorporan 
+comederos mejoran levemente la eficiencia de conversión de concentrados pero no la de 
+voluminosos. Solo quienes tienen balanza en el mixer o comederos externos logran 
+mayores producciones y márgenes de alimentación por hectárea. En línea con lo observado 
+en los grupos, la incorporación de mixer y comederos demuestra en la regresión múltiple 
+que la producción individual permite diluir los suplementos en forma lineal. Los 
+concentrados muestran menos eficiencia por cada kilo incorporado, pero quienes usan 
+mixer logran mejor desempeño en los consumos altos comparado con quienes no lo 
+utilizan, mientras que con los comederos las mejores respuestas se dan en todo el rango de 
+consumo. Los voluminosos también bajan la eficiencia en forma lineal con cada kilo 
+incorporado, manteniendo este comportamiento al usar el mixer. Pero para el caso de 
+comederos, los kilos de voluminosos por litro se duplican para quienes no usan esta 
+herramienta. Esto indica la importancia de controlar las cantidades, forma de suministro y 
+consumo para lograr eficiencia en el uso de los suplementos. 
+ 
+Los que obtuvieron mayores márgenes por hectárea lograron 20,5 litros/VO/día, una carga 
+de 1,12 VT/haVT y produjeron 6302 lts/haVT/año en promedio. Alimentaron al rodeo de 
+ordeñe con 7,7; 3,7 y 9,2 kg MS/VO/día de concentrados, voluminosos y pasturas 
+respectivamente y cosecharon 3751 kgMS/ha/año. En las regresiones simples se observa 
+que el margen bruto de alimentación explica el 50% del margen bruto del tambo total y 
+éste el 88% del resultado de la empresa. Pero ninguno de estos márgenes es explicado por 
+la carga ni la producción individual independientemente. La producción por hectárea VT 
+tampoco explica la variación en el margen bruto por hectárea TT, pero solo un grupo de 
+casos lograron mejorar el margen bruto al elevar la producción de leche por hectárea. El 
+margen bruto de tambo total presenta relaciones cuadráticas con los gastos y los ingresos 
+que interaccionan entre ellos indicando que mayores gastos darán mayores ingresos que 
+resultan en mayores márgenes. 
+ 
+76 
+ 
+BIBLIOGRAFÍA  
+Castignani, H., Zehnder, R., Gambuzzi, E., & Chimicz, J. (2005). Caracterización de los 
+sistemas de producción lecheros y de sus principales cuencas. XXXVI Reunión anual de la 
+Asociación Argentina de Economía Agraria.  Asociación Argentina de Economía Agrária. 
+Colombo, F., Vila, J. O., & Zorraquín, T. (2007). /glyph817ormas de gestión agropecuarias.  (A. A. 
+Agrícola, Ed.) Buenos Aires, Argentina: Temas. 
+Galligan, D. T. (2001). Economics Principle in Nutritional Monitoring. Mid-South Rumiant 
+/glyph817utrition Conference , (págs. 67-73). Texas. 
+Greig, B. (2006). Aspect of south american dayring. 39  (161). 
+Gutman, G. E., Guiguet, E., & Rebolini, J. M. (2003). Los ciclos del complejo lacteo 
+argentino. Análisis de politicas lecheras en países seleccionados.  Buenos Aires: Secretaría 
+de agricultura, ganadería, pesca y alimentos. 
+INTA EEA Paraná. (1984). Suelos y erosión de la provincia de Entre Ríos. Serie 
+Relevamiento de Recursos /glyph817aturales.  Paraná: Plan Mapa de Suelos de la Provincia de 
+Entre Ríos. Proyecto PNUD/FAO/INTA. 
+Quinteros, C., Brizuela, A., & Zimmermann, L. (2003). Análisis estadístico de series 
+temporales de lluvias. (3). 
+Rodriguez, M. G., Mancuso, W., Engler, P. L., & Cancio, R. A. (2005). Rentabilidad en 
+sistemas tamberos de Entre Ríos - Año 2005.  Recuperado el 29 de mayo de 2009, de 
+www.inta.gov.ar/parana 
+Rojas, A., & Saluso, J. H. (1987). Informe climático de la provincia de Entre Ríos - 
+Publicación Técnica /glyph817° 14.  Paraná: INTA EEA Paraná. 
+Secretaría de agricultura, ganadería, pesca y alimentos. (2009). Producción Argentina de 
+Leche.  Serie Anual: www.alimentosargentinos.gov.ar 
+Snyder, M. (2007). Análsis de la producción física y económica de los tambos CREA. 
+Ejercicio 2005-2006. www.redcrea.org.ar 
+77 
+ 
+Zubizarreta, J. (1988). /glyph817ormas CREA para evaluarla producción física del tambo  (1° ed.). 
+(J. Zubizarreta, Ed.) Buenos Aires: Inforcampo. 
+ 
+A/glyph1197EXOS: 
+ 
+Tabla 11: Resultados de la regresión de las variables exploratorias de la producción de 
+leche por hectárea vaca total particionado por ejercicio. 
+ 
+      
+Estadística de la 
+regresión 
+Modelo Var.Dep. Partición Var.Indep. b0 E.E. p-valor  R2 ajust Prob>F 
+Modelo Completo  Prod/ha VT  ejer  06/07  Const -6.33  6.1  0.3302  1 <0.0001 
+      VO/VT 0.01  0.03  0.847     
+      Lts/VT 1.60E-03  1.50E-03  0.3194     
+      VT/haVT 2.44  3.84  0.5437     
+      Lts/VT*VT/haVT  1.00  5.50E-04  <0.0001     
+      Lts/VT *2 -1.20E-07  9.8E-08  0.2364     
+      VT/haVT *2 -0.21  1.69  0.904     
+Modelo ajustado Lts/ha VT ejer  06/07  const 1.60  2.73  0.5684  1 <0.0001 
+      Lts/VT -3.10E-04  4.60E-04  0.5218     
+      VT/haVT -0.72  2.29  0.7597     
+      Lts/VT*CargaVT 1.00  3.90E-04  <0.0001     
+         
+Modelo Completo  Lts/ha VT ejer  07/08  Const 1.1  11.03  0.9235  1 <0.0001 
+      VO/VT  -0.05  0.06  0.3576      
+      Lts/VT 3.80E-05  2.40E-03  0.9875      
+      VT/haVT 5.11  5.22  0.3602      
+      Lts/VT*VT/haVT  1 8.10E-04  <0.0001      
+      Lts/VT *2  2.3E -08  1.50E -07  0.8817      
+      VT/haVT *2 -2.31  2.01  0.2883      
+Modelo ajustado Lts/ha VT ejer  07/08  Const -3.86  3.09  0.2409  1 <0.0001 
+      Lts/VT 6.40E-04  5.30E-04  0.2563      
+      CargaVT 2.64  2.42  0.3009      
+      Lts/VT*CargaVT 1 4.20E-04  <0.0001      
+         
+ 
+78 
+ 
+Tabla 12: Resultados de la regresión de las variables exploratorias de la producción de 
+leche por vaca total particionado por ejercicio. 
+       
+Estadística de la 
+ Regresión 
+Modelo Var.Dep.  Partición Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+Completo 1 Lts/VT ejer 06/07  Const -7542.41 8967.29 0.462 0.94 0.0135 
+     CargaVT*ConcVTaño -0.23 0.93 0.8233     
+     CargaVT*VolVTaño -0.17 1.31 0.9066     
+     CargaVT*Past.VTaño -0.58 1.58 0.7366     
+     CargaVT 6854.44 8490.88 0.4786     
+     CargaVT^2 -1800.36 1972.89 0.4288     
+     Conc.VTaño  1.18  1.13  0.3754      
+     Conc.VTaño^2 1.20E-05 0.00 0.9698     
+     Past.Vtaño 2.42 3.81 0.5705     
+     Past.Vtaño^2 -8.30E-05  0.00 0.8568     
+     Vol.Vtaño 2.18 1.31 0.1938     
+     Vol.Vtaño^2 -3.00E-04  0.00 0.3927     
+Completo 2 Lts/VT ejer 06/07  const -1263.23 5246.77 0.8253 0.98 0.0029 
+     VolVTaño*ConcVTaño  0.00 0.00 0.3332     
+     Past.Vtaño*VolVTaño 0.00 0.00 0.4205     
+     Past.Vtaño*ConcVTaño  5.50E-04 2.80E-04  0.1395     
+     CargaVT 3823.73 1692.87 0.1091     
+     CargaVT^2 -1770.02 836.62 0.1247     
+     Conc.VTaño -2.21 1.77 0.3013     
+     Conc.VTaño^2 2.20E-04 1.80E-04  0.3171     
+     Past.Vtaño 1.85 1.62 0.3372     
+     Past.Vtaño^2 -2.10E-04  1.80E-04  0.3341     
+     Vol.Vtaño 2.08 2.49 0.4645     
+     Vol.Vtaño^2 -4.10E-04  0.00 0.2765     
+Ajustado Lts/VT ejer 06/07  const -2575.73 615.40 0.0024 0.97 <0.0001  
+     Conc.VTaño  0.98  0.08  <0.0001      
+     Past.Vtaño 1.32 0.09 <0.0001      
+     CargaVT 748.71 292.97 0.0309     
+     Vol.Vtaño 2.12 0.44 0.001     
+     Vol.Vtaño^2  -3.40E -04  0.00  0.0825      
+         
+Completo 1 Lts/VT ejer 07/08  const 1.24E+03 4.31E+03  0.8007 0.99 0.0069 
+     CargaVT*ConcVTaño 3.00E-01 3.50E-01  0.484     
+     CargaVT*Past.VTaño 1.94E+00 8.90E-01  0.1596     
+     CargaVT*VolVTaño 6.80E-01 1.05E+00  0.5827     
+     CargaVT -4.22E+03  5.74E+03  0.5385     
+     CargaVT^2 -1.02E+03  2.20E+03  0.6872     
+79 
+ 
+       
+Estadística de la 
+ Regresión 
+Modelo Var.Dep.  Partición Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+     Conc.VTaño -1.16E+00  2.50E+00  0.6894     
+     Conc.VTaño^2 3.50E-04 4.80E-04  0.5337     
+     Past.Vtaño 3.53E+00 1.75E+00  0.1811     
+     Past.Vtaño^2  -8.80E -04  3.70E -04  0.1408      
+     Vol.Vtaño 9.40E-01 7.40E-01  0.3303     
+     Vol.Vtaño^2 -5.70E-05  3.60E-04  0.89     
+Ajustado 1 Lts/VT ejer 07/08  const 2.29E+03 2.22E+03  0.3486 1 <0.0001  
+     CargaVT -6438.22 1.67E+03  0.0119     
+     Vol.Vtaño 0.57 3.20E-01  0.1378     
+     CargaVT*Past.VTaño 2.10 5.50E-01  0.0122     
+     CargaVT*VolVTaño 0.89 3.10E-01  0.0342     
+     Conc.VTaño -0.32 6.40E-01  0.6323     
+     Conc.VTaño^2 2.60E-04 1.20E-04  0.0875     
+     Past.Vtaño 2.93 5.90E-01  0.0042     
+     Past.Vtaño^2 -7.80E-04  1.30E-04  0.0020     
+Completo 2 Lts/VT ejer 07/08  const -1.87E+04  4.92E+03  0.0628 0.99 0.0058 
+     VolVTaño*ConcVTaño  -6.10E-04  3.70E-04  0.2403     
+     Past.Vtaño*VolVTaño -7.80E-04  3.40E-04  0.1511     
+     Past.Vtaño*ConcVTaño  -3.40E-04  3.10E-04  0.3908     
+     CargaVT 6.51E+03 3.63E+03  0.215     
+     CargaVT^2 -2.71E+03  1.71E+03  0.2549     
+     Conc.VTaño 1.71E+00 1.67E+00  0.4144     
+     Conc.VTaño^2  1.50E -04  3.60E -04  0.719      
+     Past.Vtaño 9.52E+00 2.94E+00  0.0835     
+     Past.Vtaño^2 -1.30E-03  4.50E-04  0.1004     
+     Vol.Vtaño 6.05E+00 1.94E+00  0.0889     
+     Vol.Vtaño^2 -3.50E-04  2.60E-04  0.3133     
+Ajustado 2 Lts/VT ejer 07/08  const -12453.62  2895.14 0.0077 0.99 <0.0001  
+     Conc.VTaño 1.56 0.24 0.0014     
+     Vol.Vtaño 4.73 1.4 0.0198     
+     VolVTaño*ConcVTaño  -5.90E-04  2.80E-04  0.0923     
+     Past.Vtaño*VolVTaño -6.60E-04  2.50E-04  0.0460     
+     CargaVT 5509.57 2086.44 0.0459     
+     CargaVT^2 -2359.96 910.46 0.0487     
+     Past.Vtaño 5.85 0.92 0.0014     
+     Past.Vtaño^2 -7.90E-04  1.60E-04  0.0050     
+Ajustado Final  Lts/VT ejer 07/08  const 2291.32 2216.37 0.3486 1 <0.0001  
+     CargaVT -6438.22 1669.29 0.0119     
+     Vol.Vtaño 0.57 0.32 0.1378     
+     CargaVT*Past.VTaño 2.1 0.55 0.0122     
+80 
+ 
+       
+Estadística de la 
+ Regresión 
+Modelo Var.Dep.  Partición Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+     CargaVT*VolVTaño 0.89 0.31 0.0342     
+     Conc.VTaño -0.32 0.64 0.6323     
+     Conc.VTaño^2 2.60E-04 1.20E-04  0.0875     
+     Past.Vtaño  2.93  0.59  0.0042      
+     Past.Vtaño^2 -7.80E-04  1.30E-04  0.0020     
+ 
+Tabla 13: Resultados de la regresión de las variables exploratorias de la producción de 
+leche por vaca total particionado por utilización de mixer. 
+       
+estadística de la 
+regresión 
+Modelo Var.Dep.  Partición Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Completo  Lts/VT Mixer No const 21421.99 19419.87  0.3505 0.98 0.0021 
+     CargaVT*ConcVTaño 1.21 0.53 0.1046     
+     CargaVT*VolVTaño -2.66 2.61 0.3825     
+     CargaVT*Past.VTaño 2.2 2.19 0.3889     
+     VolVTaño*ConcVTaño  7.00E-04 2.70E-04  0.0792     
+     Past.Vtaño*ConcVTaño  1.80E-03 8.50E-04  0.1239     
+     Past.Vtaño*VolVTaño -9.30E-05 7.00E-04  0.9026     
+     CargaVT 9970.78 15444.27  0.5645     
+     CargaVT^2 -8291.15 4507.82 0.1632     
+     Conc.VTaño -11.66 4.9 0.0975     
+     Conc.VTaño^2  1.20E -03  5.10E -04  0.1031      
+     Past.Vtaño -7.62 6.16 0.3037     
+     Past.Vtaño^2 3.90E-04 4.30E-04  0.4357     
+     Vol.Vtaño 2.37 5.1 0.6737     
+     Vol.Vtaño^2  -4.80E -07  3.20E -04  0.9989      
+Ajustado Lts/VT Mixer No const 2.81E+03 1.56E+03  0.1145 0.99 <0.0001  
+     Vol.Vtaño 3.62E+00 6.00E-01  0.0005     
+     Past.Vtaño -1.67E+00  4.80E-01  0.0104     
+     CargaVT*ConcVTaño 9.30E-01 2.70E-01  0.0105     
+     CargaVT*VolVTaño -4.23E+00  6.20E-01  0.0003     
+     VolVTaño*ConcVTaño  7.00E-04 1.30E-04  0.0010     
+     Past.Vtaño*ConcVTaño  1.20E-03 1.90E-04  0.0004     
+     CargaVT 1.93E+04 3.40E+03  0.0008     
+     CargaVT^2 -8.57E+03  1.42E+03  0.0005     
+     Conc.VTaño -8.00E+00  1.38E+00  0.0007     
+     Conc.VTaño^2 8.70E-04 1.50E-04  0.0008     
+         
+81 
+ 
+       
+estadística de la 
+regresión 
+Modelo Var.Dep.  Partición Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Completo  Lts/VT Mixer Si const 17085.92 31379.1 0.6826 0.93 0.1984 
+     CargaVT*ConcVTaño -0.12 3.05 0.9753     
+     CargaVT*VolVTaño 3.97 9.12 0.7389     
+     CargaVT*Past.VTaño  3.51  4.17  0.5543      
+     VolVTaño*ConcVTaño  1.80E-03 1.20E-03  0.3710     
+     Past.Vtaño*ConcVTaño  1.70E-03 1.60E-03  0.4895     
+     Past.Vtaño*VolVTaño -1.60E-03 2.10E-03  0.5786     
+     CargaVT -11194 19035.16  0.6616     
+     CargaVT^2 -2408.34 7155 0.7933     
+     Conc.VTaño -3.23 4.18 0.5815     
+     Conc.VTaño^2 -5.10E-04 8.40E-04  0.6534     
+     Past.Vtaño -4.81 13.4 0.7806     
+     Past.Vtaño^2 1.80E-04 1.30E-03  0.9121     
+     Vol.Vtaño 1.85 5.84 0.8046     
+     Vol.Vtaño^2 -1.50E-03 2.50E-03  0.6596     
+Ajustado Lts/VT Mixer Si Const 1.27E+04 4.28E+03  0.0176 0.97 <0.0001  
+     CargaVT -3.75E+03  1.34E+03  0.0228     
+     Conc.VTaño  -3.49E+00  1.36E+00  0.0332      
+     Past.Vtaño -2.06E+00  9.90E-01  0.0706     
+     Vol.Vtaño -1.70E+00  1.03E+00  0.1376     
+     CargaVT*Past.VTaño 1.06E+00 4.10E-01  0.0325     
+     VolVTaño*ConcVTaño  1.30E -03  4.20E -04  0.0135      
+     Past.Vtaño*ConcVTaño  9.70E-04 3.00E-04  0.0126     
+ 
+Tabla 14: Resultados de la regresión de las variables exploratorias de la producción de 
+leche por vaca total particionado por utilización de comederos lineales. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+Completo Lts/VT Comedero Lineal No  Const 1.36E+04 1.44E+04 0.3703 0.96 <0.0001 
+     CargaVT*Past.VTaño 1.18E+00 1.52E+00 0.4570     
+     CargaVT*ConcVTaño 1.24E+00 5.10E-01 0.0380     
+     CargaVT*VolVTaño 5.00E-02 1.63E+00 0.9748     
+     VolVTaño*ConcVTaño 9.30E-04 3.00E-04 0.0134     
+     Past.Vtaño*VolVTaño 5.70E-04 4.10E-04 0.1990     
+     Past.Vtaño*ConcVTaño  4.10E-04 3.60E-04 0.2842     
+     CargaVT -6.24E+03  1.06E+04 0.5687     
+     CargaVT^2 -1.30E+02  2.13E+03 0.9527     
+     Conc.VTaño -3.28E+00  2.22E+00 0.1733     
+82 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+     Conc.VTaño^2 2.10E-04 1.80E-04 0.2753     
+     Past.Vtaño -1.50E+00  4.00E+00 0.7157     
+     Past.Vtaño^2 -1.80E-05 3.00E-04 0.9532     
+     Vol.Vtaño -3.31E+00  3.51E+00 0.3702     
+     Vol.Vtaño^2 2.10E-04 2.50E-04 0.4302     
+Ajustado Lts/VT Comedero Lineal No  Const 12875.92 3.10E+03 0.0011 0.97 <0.0001 
+     CargaVT -6485.70 1.40E+03 0.0005     
+     Vol.Vtaño -2.05 1.00E+00 0.0613     
+     Past.Vtaño -1.51 5.80E-01 0.0217     
+     CargaVT*Past.VTaño 1.27 3.00E-01 0.0009     
+     CargaVT*ConcVTaño 1.16 4.10E-01 0.0132     
+     VolVTaño*ConcVTaño 8.50E-04 2.20E-04 0.0020     
+     Past.Vtaño*VolVTaño 3.90E-04 1.90E-04 0.0611     
+     Past.Vtaño*ConcVTaño  4.20E-04 1.50E-04 0.0120     
+     Conc.VTaño -3.22 1.19E+00 0.0179     
+     Conc.VTaño^2 2.20E-04 1.20E-04 0.0861     
+         
+Completo Lts/VT Comedero Lineal Si const -6019.56 17016.12 0.7835 0.97 0.1293 
+     CargaVT 10145.47 27962.26 0.7784     
+     CargaVT^2 -4135.25 11083 0.7727     
+     Conc.VTaño -0.22 2.51 0.9448     
+     Conc.VTaño^2 2.70E-04 4.60E-04 0.6627     
+     Past.Vtaño 2.28 3.31 0.6162     
+     Past.Vtaño^2 -2.60E-04 9.90E-04 0.8390     
+     Vol.Vtaño 0.47 3.4 0.9126     
+     Vol.Vtaño^2 1.20E-04 5.00E-04 0.8543     
+Ajustado Lts/VT Comedero Lineal Si const 34.89 521.78 0.9493 0.99 <0.0001 
+     Vol.Vtaño 1.47 0.1 <0.0001     
+     Past.Vtaño 1.54 0.14 0.0001     
+     Conc.VTaño -1.08 0.65 0.1563     
+     Conc.VTaño^2 4.20E-04 1.40E-04 0.0265     
+ 
+Tabla 15: Resultados de la regresión de las variables exploratorias de la eficiencia de 
+conversión de los suplementos particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep.  Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F  
+Completo Supl./lt Ejer 06/07 const 0.67  0.07  0.0002  1 <0.0001  
+     Lts/VT -1.40E-04  1.50E-05  0.0002      
+     Lts/VT*Vol.Vtaño -1.80E-08  5.60E-09  0.0251      
+83 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep.  Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F  
+     Lts/VT*Past.Vtaño 2.00E-08  2.70E-09  0.0007      
+     Conc.VTaño 1.60E-04  1.90E-05  0.0003      
+     Conc.VTaño^2 2.20E-09  5.20E-09  0.6917      
+     Past.Vtaño -7.70E-05  3.20E-05  0.0603      
+     Past.Vtaño^2 -3.10E-09  5.70E-09  0.6134      
+     Vol.Vtaño 2.90E-04  3.00E-05  0.0002      
+     Vol.Vtaño^2 2.7E-09  6.4E-09  0.6966      
+Ajustado Sup./lt Ejer 06/07 const 6.90E-01  5.00E-02  <0.0001  1 <0.0001  
+     Conc.VTaño 1.70E-04  5.00E-06  <0.0001      
+     Vol.Vtaño 2.80E-04  1.80E-05  <0.0001      
+     Past.Vtaño -9.30E-05  9.90E-06  <0.0001      
+     Lts/VT -1.40E-04  1.00E-05  <0.0001      
+     Lts/VT*Vol.Vtaño -1.60E-08  3.00E-09  0.0007      
+     Lts/VT*Past.Vtaño 1.90E-08  1.60E-09  <0.0001      
+         
+Medio Modelo Completo  Supl./lt Ejer 07/08 const 0.68  0.08  0.0036  1 <0.0001  
+     Lts/VT -1.10E-04  2.30E-05  0.0163      
+     Conc.VTaño 1.70E-04  2.40E-05  0.0056      
+     Vol.Vtaño 8.30E-05  7.40E-05  0.3466      
+     Past.Vtaño -4.90E-05  5.80E-05  0.4609      
+     Lts/VT*ConcVTaño 3.90E-09  7.10E-09  0.6243      
+     Lts/VT*Vol.Vtaño -1.20E-08 7.70E-09  0.2184      
+     Lts/VT*Past.Vtaño 7.90E-09  1.20E-08  0.5509      
+     VolVTaño*ConcVTaño 1.30E-08  1.20E-08  0.3527      
+     Past.Vtaño*VolVTaño 4.90E-08  3.50E-08  0.2555      
+     Past.Vtaño*ConcVTaño  -2.10E-08  1.30E-08  0.2074      
+Medio Modelo Completo  Supl./lt Ejer 07/08 const 0.39  0.23  0.1604  0.98 <0.0001  
+     Conc.VTaño 1.90E-04  9.90E-05  0.1075      
+     Conc.VTaño^2 -2.00E-10  1.60E-08  0.9904      
+     Lts/VT -1.40E-04  4.80E-05  0.0337      
+     Lts/VT^2 6.40E-10  2.70E-09  0.8204      
+     Past.Vtaño 1.20E-04  1.50E-04  0.4777      
+     Past.Vtaño^2 -1.40E-08  2.50E-08  0.5990      
+     Vol.Vtaño 2.90E-04  5.50E-05  0.0034      
+     Vol.Vtaño^2 -3.00E-08  1.60E-08  0.1181      
+Ajustado  Supl./lt Ejer 07/08 const 6.70E-01  0.05  <0.0001  1 <0.0001  
+     Lts/VT -1.20E-04  1.00E-05  0.0001      
+     Conc.VTaño 1.90E-04  9.10E-06  <0.0001      
+     Past.Vtaño -5.50E-05  2.00E-05  0.0438      
+     Lts/VT*Past.Vtaño 1.10E-08  4.70E-09  0.0625      
+     Past.Vtaño*ConcVTaño  -1.50E-08  4.40E-09  0.0193      
+     Past.Vtaño*VolVTaño 2.30E-08  6.10E-09  0.0123      
+84 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep.  Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F  
+     Vol.Vtaño 1.40E-04  1.40E-05  0.0002      
+     Vol.Vtaño^2 -1.20E-08  3.60E-09  0.0195      
+ 
+Tabla 16: Resultados de la regresión de las variables exploratorias de la eficiencia de 
+conversión de los suplementos particionado por utilización de mixer. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+Completo Supl./lt mixer no const 0.45  0.2  0.1092  1 <0.0001 
+     Lts/VT*ConcVTaño 8.50E-10  6.30E-08  0.9901      
+     Lts/VT*Vol.Vtaño -9.90E-09  6.90E-08  0.8943      
+     Lts/VT*Past.Vtaño 2.30E-08  8.10E-08  0.7915      
+     VolVTaño*ConcVTaño -2.80E-08  6.50E-08  0.6898      
+     Past.Vtaño*VolVTaño -3.60E-08  8.70E-08  0.7081      
+     Past.Vtaño*ConcVTaño  -3.60E-08  8.00E-08  0.6829      
+     Conc.VTaño 3.60E-04  1.20E-04  0.0532      
+     Conc.VTaño^2 -1.70E-08  3.00E-08  0.5999      
+     Lts/VT -2.40E-04  1.00E-04  0.105      
+     Lts/VT^2 7.10E-09  3.20E-08  0.8391      
+     Past.Vtaño 9.00E-05  1.90E-04  0.6714      
+     Past.Vtaño^2 -1.80E-08  5.60E-08  0.7715      
+     Vol.Vtaño 4.30E-04  1.20E-04  0.0384      
+     Vol.Vtaño^2 -1.10E-08  3.80E-08  0.795      
+Ajustado Supl./lt mixer no const 5.80E-01  4.00E-02  <0.0001  1 <0.0001 
+     Vol.Vtaño 3.60E-04  2.90E-05  <0.0001      
+     Lts/VT*Vol.Vtaño -1.60E-08  3.40E-09  0.0032      
+     Lts/VT*Past.Vtaño 1.60E-08  3.80E-09  0.0067      
+     VolVTaño*ConcVTaño -1.70E-08  3.80E-09  0.0047      
+     Past.Vtaño*VolVTaño -1.50E-08  3.90E-09  0.0082      
+     Past.Vtaño*ConcVTaño  -1.90E-08  3.70E-09  0.0022      
+     Past.Vtaño -2.90E-05  3.00E-05  0.3751      
+     Conc.VTaño 2.90E-04  2.80E-05  <0.0001      
+     Conc.VTaño^2 -1.40E-08  3.20E-09  0.0044      
+     Lts/VT -1.90E-04  1.50E-05  <0.0001      
+     Lts/VT^2 5.60E-09  2.30E-09  0.0531      
+         
+Completo Supl./lt mixer si const 0.64  0.03  0.0271  1 0.0015 
+     Lts/VT*ConcVTaño 6.00E-08  7.00E-09  0.0731      
+     Lts/VT*Vol.Vtaño 2.80E-08  9.40E-09  0.2094      
+     Lts/VT*Past.Vtaño 7.40E-08  8.90E-09  0.0764      
+85 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust Prob>F 
+     VolVTaño*ConcVTaño -8.40E-08  9.50E-09  0.0714      
+     Past.Vtaño*VolVTaño -7.70E-08  1.40E-08  0.1103      
+     Past.Vtaño*ConcVTaño  -1.10E-07  1.00E-08  0.0591      
+     Conc.VTaño 4.30E-04  1.70E-05  0.0254      
+     Conc.VTaño^2 -5.20E-08  3.90E-09  0.0467      
+     Lts/VT -3.80E-04  1.80E-05  0.0301      
+     Lts/VT^2 -8.20E-09  3.30E-09  0.2438      
+     Past.Vtaño 2.00E-04  3.00E-05  0.0968      
+     Past.Vtaño^2 -5.30E-08  6.80E-09  0.0819      
+     Vol.Vtaño 4.80E-04  3.00E-05  0.0393      
+     Vol.Vtaño^2 -2.70E-08  7.20E-09  0.1674      
+Ajustado Supl./lt mixer si const 7.40E-01  2.00E-02  <0.0001  1 <0.0001 
+     Lts/VT -3.20E-04  1.60E-05  <0.0001      
+     Vol.Vtaño 3.60E-04  2.10E-05  0.0001      
+     Lts/VT*Past.Vtaño 4.50E-08  2.80E-09  0.0001      
+     VolVTaño*ConcVTaño -5.30E-08  5.00E-09  0.0004      
+     Past.Vtaño*VolVTaño -2.60E-08  3.40E-09  0.0016      
+     Past.Vtaño*ConcVTaño  -7.50E-08  7.10E-09  0.0005      
+     Lts/VT*ConcVTaño 4.00E-08  3.70E-09  0.0004      
+     Conc.VTaño 3.70E-04  1.70E-05  <0.0001      
+     Conc.VTaño^2 -4.10E-08  3.00E-09  0.0002      
+     Past.Vtaño 8.50E-05  2.50E-05  0.0263      
+     Past.Vtaño^2 -2.70E-08  3.60E-09  0.0017      
+ 
+Tabla 17: Resultados de la regresión de las variables exploratorias de la eficiencia de 
+conversión de los suplementos particionado por utilización de comederos lineales. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Completo Supl./lt  Comederos Lineal no  const 0.35  0.08  0.0026  1 <0.0001 
+     VolVTaño*ConcVTaño -2.40E-08  3.50E-08  0.5028      
+     Past.Vtaño*VolVTaño -2.80E-08  4.20E-08  0.5181      
+     Past.Vtaño*ConcVTaño  -3.00E-08  3.60E-08  0.4248      
+     Lts/VT*ConcVTaño -1.40E-08  3.00E-08  0.6506      
+     Lts/VT*Vol.Vtaño -2.00E-08  3.60E-08  0.5844      
+     Lts/VT*Past.Vtaño 8.50E-09  3.70E-08  0.8236      
+     Conc.VTaño 4.20E-04  5.30E-05  <0.0001      
+     Conc.VTaño^2 -1.40E-08  1.50E-08  0.3795      
+     Lts/VT -2.60E-04  4.30E-05  0.0002      
+     Lts/VT^2 1.60E-08  1.60E-08  0.3203      
+86 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+     Past.Vtaño 1.60E-04  7.20E-05  0.0563      
+     Past.Vtaño^2 -1.80E-08  2.20E-08  0.4499      
+     Vol.Vtaño 4.60E-04  5.90E-05  <0.0001      
+     Vol.Vtaño^2 -1.20E-08  2.20E-08  0.5763      
+Ajustado Supl./lt  Comederos Lineal no  const 5.30E-01  1.00E-02  <0.0001  1 <0.0001 
+     Vol.Vtaño 3.40E-04  1.10E-05  <0.0001      
+     Lts/VT*ConcVTaño -2.50E-08  1.30E-09  <0.0001      
+     Lts/VT*Vol.Vtaño -2.80E-08  1.80E-09  <0.0001      
+     Conc.VTaño 3.00E-04  7.60E-06  <0.0001      
+     Lts/VT -1.80E-04  4.40E-06  <0.0001      
+     Lts/VT^2 1.50E-08  5.70E-10  <0.0001      
+         
+Completo A  Supl./lt  Comederos lineal si const 0.99  0.11  0.0126  1 0.0019 
+     Lts/VT -1.50E-04  1.80E-05  0.0132      
+     Conc.VTaño 1.80E-04  2.20E-05  0.0149      
+     Vol.Vtaño 1.10E-04  6.10E-05  0.2162      
+     Past.Vtaño -1.80E-04  6.30E-05  0.1018      
+     Lts/VT*ConcVTaño -6.30E-09  5.70E-09  0.3807      
+     Lts/VT*Vol.Vtaño 6.50E-09  6.50E-09  0.4277      
+     Lts/VT*Past.Vtaño 2.80E-08  6.80E-09  0.0555      
+Completo B  Supl./lt  Comederos lineal si const 0.6  0.35  0.2260  0.98 0.0176 
+     Lts/VT -1.20E-04  4.30E-05  0.1096      
+     Conc.VTaño 1.30E-04  8.90E-05  0.2739      
+     Vol.Vtaño 2.50E-04  1.90E-04  0.3083      
+     Past.Vtaño -4.50E-06  1.30E-04  0.9747      
+     VolVTaño*ConcVTaño -1.20E-08  3.10E-08  0.7336      
+     Past.Vtaño*VolVTaño -1.50E-08  3.90E-08  0.7351      
+     Past.Vtaño*ConcVTaño  1.90E-08  1.70E-08  0.3739      
+Completo C  Supl./lt  comederos lineal si const 0.88  0.17  0.1195  0.97 0.118 
+     Conc.VTaño 2.40E-04  1.20E-04  0.2938      
+     Conc.VTaño^2 -1.70E-08  3.20E-08  0.6849      
+     Lts/VT -2.20E-04  8.20E-05  0.2240      
+     Lts/VT^2 8.60E-09  7.00E-09  0.4341      
+     Past.Vtaño -8.20E-05  1.20E-04  0.6186      
+     Past.Vtaño^2 2.20E-08  2.20E-08  0.5030      
+     Vol.Vtaño 2.80E-04  1.00E-04  0.2259      
+     Vol.Vtaño^2 -3.00E-08  2.80E-08  0.4788      
+Ajustado Supl./lt  Comederos lineal si const 0.89  0.03  <0.0001  1 0.0001 
+     Lts/VT -1.60E-04  9.60E-06  0.0001      
+     Conc.VTaño 1.50E-04  8.10E-06  <0.0001      
+     Vol.Vtaño 1.70E-04  1.30E-05  0.0002      
+     Past.Vtaño -1.10E-04  1.90E-05  0.0035      
+87 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+     Lts/VT*Past.Vtaño 2.10E-08  2.50E-09  0.0011      
+ 
+Tabla 18: Resultados de la regresión de las variables exploratorias de la pastura consumida 
+por hectárea vaca total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Completo  Past.Cos./haVT  Ejer 06/07  const 2.31E+03  6.54E+03  0.7413  0.91  0.0086  
+     SilosMS/haVT -1.4100  0.94  0.2065      
+     HenoMS/haVT -1.6300  0.43  0.0193      
+     Otr.Vol.MS/haVT -9.50E-01  3.80E-01  0.0674      
+     Conc.MS/haVT -1.05E+00  2.30E-01  0.0102      
+     Lts/VT*CargaVT 9.70E-01  5.60E-01  0.1539      
+     SilosMS/haVT*CargaVT  5.00E-02  7.60E-01  0.9485      
+     CargaVT -2.00E+03  5.15E+03  0.7172      
+     CargaVT^2 1.52E+03  1.83E+03  0.4522      
+     Lts/VT 5.00E-02  1.55E+00  0.9780      
+     Lts/VT^2 -2.40E-05  9.20E-05  0.8060      
+Ajustado Past.Cos./haVT  Ejer 06/07  const 2476.23  2.41E+03  0.3388  0.93  0.0001  
+     SilosMS/haVT -1.37  0.13  <0.0001      
+     HenoMS/haVT -1.69  0.37  0.0024      
+     Otr.Vol.MS/haVT  -0.97  3.30E -01  0.0220      
+     Conc.MS/haVT -1.02  2.00E-01  0.0014      
+     CargaVT 503.51  2.04E+03  0.8118      
+     Lts/VT -0.40  4.10E-01  0.3676      
+     Lts/VT*CargaVT 1.08  3.80E-01  0.0236      
+         
+Completo  Past.Cos./haVT  Ejer 07/08  const -699.43  7525.98  0.9318 0.99 0.0018 
+     SilosMS/haVT -1.07  0.72  0.2304      
+     HenoMS/haVT 1 1.69  0.5932      
+     Otr.Vol.MS/haVT -0.9  0.23  0.0286      
+     Conc.MS/haVT -1.07  0.12  0.0033      
+     Lts/VT*CargaVT 0.79  0.85  0.4177      
+     SilosMS/haVT*CargaVT  -0.11  0.64  0.8785      
+     CargaVT 8161.6  4426.35  0.1624      
+     CargaVT^2 -3433.18  3299.35  0.3746      
+     Lts/VT -0.81  2.28  0.7450      
+     Lts/VT^2 7.60E-05  1.20E-04  0.5830      
+Ajustado Past.Cos./haVT  Ejer 07/08  const -7144.79  505.54  <0.0001  0.99 <0.0001 
+88 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+     SilosMS/haVT -1.08  0.07  <0.0001      
+     Otr.Vol.MS/haVT -0.76  0.12  0.0004      
+     Conc.MS/haVT -1.12  8.00E-02  <0.0001      
+     Lts/VT  0.94  0.05  <0.0001      
+     CargaVT 10177.5  1051.05  <0.0001      
+     CargaVT^2 -1923.94  479.09  0.0051      
+ 
+Tabla 19: Resultados de la regresión de las variables exploratorias del ingreso en leche por 
+hectárea vaca total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Completo  IngLeche/haVT  Ejer 06/07  const 29.82 32.66 0.3851  1 <0.0001  
+     Lts/haVT*Precio 1 2.10E-03 <0.0001      
+     Lts/haVT -1.20E-03 1.20E-03 0.3479      
+     Lts/haVT^2 1.40E-09 2.20E-08 0.9498      
+     Precio -87.57 114.75 0.4649      
+     Precio^2 61.72 101.37 0.5576      
+Ajustado IngLeche/haVT  Ejer 06/07  const 10.61 6.63 0.1376  1 <0.0001 
+     Lts/haVT -1.30E-03 1.10E-03 0.2708      
+     Precio -18.72 11.36 0.1276      
+     Lts/haVT*Precio 1 1.90E-03 <0.0001      
+         
+Completo IngLeche/haVT  Ejer 07/08  const 5.52 173.02 0.9755  1 <0.0001 
+     Lts/haVT -0.03 0.05 0.5971      
+     Lts/haVT^2 1.10E-06 1.80E-06 0.5871      
+     Lts/haVT*Precio 1.03 0.06 <0.0001      
+     Lts/haVT*Precio^2 -1.40E-06 2.60E-06 0.6066      
+     Precio 92.25 256.94 0.7301      
+     Precio^2 -114.26 109.3 0.3306      
+Ajustado IngLeche/haVT  Ejer 07/08  const -2.78 18.42 0.8834  1 <0.0001 
+     Precio 6.22 21.41 0.7779      
+     Lts/haVT*Precio 1 3.80E-03 <0.0001      
+     Lts/haVT -6.50E-04 3.40E-03 0.8536      
+     Lts/haVT^2 6.10E-08 2.50E-08 0.0368      
+ 
+Tabla 20: Resultados de la regresión de las variables exploratorias del gasto de 
+alimentación total por hectárea vaca total particionado por ejercicio. 
+89 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. 
+p-
+valor 
+R2 ajust  Prob>F 
+Complet
+o 
+GtoAlimTotal/
+haVT 
+Ejer 
+06/07  Const -438.4  823.4  0.6477  0.99  0.0124  
+     $/kgConc. 1226.75  658.11  0.2033      
+     $/kgVol. 740.69  503.72  0.2792      
+     $/kgPast. 2217.6  958.06  0.1467      
+     Conc.MS/haVT*Past.Cos 6.80E-05  9.40E-05  0.5442      
+     
+RvasMS/haVT*Conc.MS/h
+aVT -1.90E-04  2.00E-04  0.4331      
+     RvasMS/haVT*Past.Cos 6.40E-05  5.60E-05  0.3741      
+     Conc.MS/haVT -0.07  0.37  0.86      
+     Conc.MS/haVT^2 1.60E-04  1.10E-04  0.274      
+     Past.Cos./haVT 0.05  0.21  0.8254      
+     Past.Cos./haVT^2 -1.30E-05  2.30E-05  0.6208      
+     RvasMS/haVT 0.1  0.28  0.7511      
+     RvasMS/haVT^2 4.70E-05  6.80E-05  0.5556      
+Ajustado 
+GtoAlimTotal/
+haVT 
+Ejer 
+06/07  Const -750.14  360.28  0.1058  0.99 0.0001 
+     $/kgConc. 1582.94  418.11  0.0193      
+     $/kgVol. 846.27  377.55  0.0885      
+     $/kgPast. 2306.36  761.49  0.0388      
+     Past.Cos./haVT 0.01  0.04  0.8440      
+     RvasMS/haVT*Conc.MS/ -3.20E-04  9.30E-05  0.0272      
+     RvasMS/haVT*Past.Cos 1.00E-04  2.60E-05  0.0182      
+     Conc.MS/haVT 0.16  0.14  0.3103      
+     Conc.MS/haVT^2 2.10E-04  7.00E-05  0.0378      
+     RvasMS/haVT 0.04  0.22  0.8772      
+     RvasMS/haVT^2 8.80E-05  3.60E-05  0.0708      
+Complet
+o 
+GtoAlimTotal/
+haVT 
+Ejer 
+07/08  const -3069.69  1556.93  0.2988  0.99 0.0542 
+     $/kgConc. 2813.8  561.91  0.1255      
+     $/kgVol. 1056  367.93  0.2134      
+     $/kgPast. 2816.96  991.04  0.2154      
+     RvasMS/haVT*Conc.MS/ -2.50E-05  1.20E-04  0.8684      
+     RvasMS/haVT*Past.Cos 9.30E-05  6.70E-05  0.3950      
+     Conc.MS/haVT*Past.Co -5.90E-05  1.10E-04  0.6927      
+     Conc.MS/haVT 0.82  0.19  0.1462      
+     Conc.MS/haVT^2 2.00E-05  1.20E-04  0.8889      
+     Past.Cos./haVT 0.62  0.79  0.5770      
+     Past.Cos./haVT^2 -6.40E-05  7.50E-05  0.5530      
+     RvasMS/haVT -0.03  0.66  0.9754      
+     RvasMS/haVT^2 -2.20E-05  1.10E-04  0.8721      
+90 
+ 
+Ajustado 
+GtoAlimTotal/
+haVT 
+Ejer 
+07/08  const -2692.85  293.23  0.0008  1 <0.0001 
+     $/kgConc. 2844.3  186.18  0.0001      
+     $/kgVol. 1101.42  124.51  0.0009      
+     $/kgPast. 2939.03  324.51  0.0008      
+     Conc.MS/haVT 0.85  0.05  0.0001      
+     RvasMS/haVT -0.24  0.09  0.0604      
+     RvasMS/haVT*Past.Cos 1.10E-04  2.40E-05  0.0111      
+     Conc.MS/haVT*Past.Cos -4.90E-05  2.00E-05  0.0710      
+     Past.Cos./haVT 0.41  0.12  0.0286      
+     Past.Cos./haVT^2 -4.00E-05  1.70E-05  0.0746      
+ 
+Tabla 21: Resultados de la regresión de las variables exploratorias del margen bruto de 
+alimentación total por hectárea vaca total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Completo 
+y 
+ajustado 
+MBAlimTotal/haVT  Ejer 06/07 const 0.2  1.95  0.9189  1 <0.0001  
+    IngLeche/haVT*GalimTotal/haVT  -2.40E-05  1.10E-05  0.0588      
+     GAlimTotal/haVT -0.99  0.01  <0.0001      
+     GAlimTotal/haVT^2 2.40E-05  1.20E-05  0.0754      
+     IngLeche/haVT 0.99  2.50E-03  <0.0001      
+     IngLeche/haVT^2 6.10E-06  2.60E-06  0.0421      
+         
+Completo  MBAlimTotal/haVT  Ejer 07/08 const -1.7  1.89  0.3933  1 <0.0001  
+     IngLeche/haVT*GalimTotal/haVT  2.10E-07 1.50E-06  0.8936      
+     GAlimTotal/haVT -0.99  2.70E-03  <0.0001      
+     GAlimTotal/haVT^2 -1.70E-06  1.90E-06  0.4082      
+     IngLeche/haVT 1 1.10E-03  <0.0001      
+     IngLeche/haVT^2 1.70E-07  3.50E-07  0.6436      
+Ajustado MBAlimTotal/haVT  Ejer 07/08 const -1.66  1.76  0.3695  1 <0.0001  
+     GAlimTotal/haVT -0.99  2.50E-03  <0.0001      
+     GAlimTotal/haVT^2 -1.40E-06  5.10E-07  0.0216      
+     IngLeche/haVT 1 1.00E-03  <0.0001      
+     IngLeche/haVT^2 2.20E-07  8.90E-08  0.0378      
+ 
+Tabla 22: Resultados de la regresión de las variables exploratorias del gasto directo del 
+tambo total por hectárea de tambo total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+91 
+ 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor R2 ajust  Prob>F 
+Completo GD/haTT año 2 const 253.2  837.84  0.7747  0.99  <0.001 
+     GtoSupl/haTT*GtoPast -8.00E-04  3.20E-03  0.8125      
+     GtoPast/haTT 2.08E+00  3.39  0.5663      
+     GtoPast/haTT^2 -8.10E-04  1.00E-02  0.8861      
+     GtoPers/haTT -1.4  1.35  0.3470      
+     GtoPers/haTT^2 4.70E-03  2.70E-03  0.1432      
+     GtoRecria/haTT 1.29  0.68  0.1165      
+     GtoRecria/haTT^2 -1.00E-05  1.40E-03  0.9945      
+     GtoSupl/haTT 0.9  0.94  0.3823      
+     GtoSupl/haTT^2 3.00E-04  1.40E-04  0.0854      
+Ajustado GD/haTT año 2 const 563.63  129.89  0.0025  0.99  <0.001 
+     GtoRecria/haTT 1.2800  0.13  <0.0001      
+     GtoPast/haTT 0.8800  2.40E-01  0.0058      
+     GtoPers/haTT -1.5300  0.72  0.0665      
+     GtoPers/haTT^2 0.0048  1.40E-03  0.0076      
+     GtoSupl/haTT 0.6500  0.16  0.0034      
+     GtoSupl/haTT^2 0.0003  6.70E-05  0.0023      
+         
+Completo GD/haTT año 3 const 98.03  188.64  0.6307  1 <0.0001 
+     GtoSupl/haTT*GtoPast -2.40E-04  2.80E-04  0.4329      
+     GtoPast/haTT 1.48E+00  8.60E-01  0.16      
+     GtoPast/haTT^2 -1.20E-04  8.00E-04  0.8903      
+     GtoPers/haTT 2.46E+00  1.76E+00  0.2344      
+     GtoPers/haTT^2 -1.70E-03  3.20E-03  0.6271      
+     GtoRecria/haTT 0.75  0.44  0.1671      
+     GtoRecria/haTT^2 5.30E-04  5.60E-04  0.3981      
+     GtoSupl/haTT 0.69  0.32  0.0942      
+     GtoSupl/haTT^2 1.50E-04  1.10E-04  0.2275      
+Ajustado GD/haTT año 3 const 283.16  70.78  0.0052  1 <0.0001 
+     GtoPers/haTT 1.59  0.13  <0.0001      
+     GtoPast/haTT 1.01  0.09  <0.0001      
+     GtoRecria/haTT 0.86  1.80E-01  0.0018      
+     GtoRecria/haTT^2 0.0004  2.00E-04  0.0779      
+     GtoSupl/haTT 0.70  8.00E-02  <0.0001      
+     GtoSupl/haTT^2 0.00  2.50E-05  0.0036      
+ 
+Tabla 23: Resultados de la regresión de las variables exploratorias del margen bruto por 
+hectárea del tambo total particionado por ejercicio. 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor  R2 ajust  Prob>F 
+92 
+ 
+       
+Estadística de la 
+regresión 
+Modelo Var.Dep. Particion Var.Indep. b0 E.E. p-valor  R2 ajust  Prob>F 
+Completo y ajustado  MBTT/haTT  año 2 const -626.7100  288.08  0.0613  0.99  <0.0001 
+    GD/haTT -0.7000  0.29  0.0437      
+     GD/haTT^2 -0.0003  1.20E-04  0.0367      
+     IT/haTT*GD/haTT 0.0002  1.60E-04  0.2173      
+     IT/haTT*GD/haTT^2  6.30E-12  2.40E-12  0.0295      
+     IT/haTT 1.4300  0.18  <0.0001      
+     IT/haTT^2 -0.0002  7.70E-05  0.0439      
+Completo y ajustado  MBTT/haTT  año 3 const -359.5  145.88  0.0432  1 <0.0001 
+     GD/haTT -0.8200  0.12  0.0002      
+     GD/haTT^2 -0.0003  6.70E-05  0.0046      
+     IT/haTT*GD/haTT 0.0003  8.90E-05  0.0130      
+     IT/haTT*GD/haTT^2  1.00E-12  0.00E+00  0.0426      
+     IT/haTT 1.1400  0.07  <0.0001      
+     IT/haTT^2 -0.0001  3.10E-05  0.0049      
+ 

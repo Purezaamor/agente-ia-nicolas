@@ -1,0 +1,939 @@
+=== Fuente: Water_minerals_Castillo.pdf ===
+
+3388
+J. Dairy Sci.  96 :3388–3398
+http://dx.doi.org/  10.3168/jds.2012-6121  
+© American Dairy Science Association®,  2013 .
+  ABSTRACT 
+  Thirty-nine commercial dairies in Merced County, 
+California were enrolled in the present study to (1) 
+compare lactating cow mineral intakes (via drinking 
+water and total mixed ration) to the National Research 
+Council (NRC) requirements, (2) evaluate the associa-
+tion between dietary concentrations of minerals with 
+and without drinking water and adjusted for mineral 
+concentrations in milk, and (3) compare 4 different 
+methods to estimate excretion of minerals using either 
+assays or estimations of milk mineral outputs and total 
+daily mineral intake per cow with or without minerals 
+coming from drinking water. Dairies were selected to 
+represent a range of herd milk yields and a range of 
+water mineral contents. Samples of total mixed ration, 
+drinking water, and bulk tank milk were taken on 2 
+different days, 3 to 7 d apart in each farm. Across-farm 
+medians and percentile distributions were used to ana-
+lyze results. The herd median milk yield interquartile 
+ranged (10th to 90th percentile) from less than 25 to 
+more than 39 kg/d and the concentration of total solids 
+in water interquartile ranged from less than 200 to more 
+than 1,490 mg/L. Including drinking water minerals in 
+the diets increased dietary concentrations by <4% for 
+all minerals except for Na and Cl, which increased by 
+9.3 and 6.5%, respectively. Concentrations of P and K 
+in milk were essentially the same as the NRC value to 
+estimate lactation requirements. However, NRC milk 
+values of Ca, Cl, and Zn were 10 to 20% greater than 
+dairy farm values; and Na, Cu, Fe, and Mn were no less 
+than 36% below NRC values. Estimated excretion of 
+minerals via manure varied substantially across farms. 
+Farms in the 10th percentile did have 2 to 3 times 
+less estimated mineral excretions than those in the 
+90th percentile (depending on the mineral). Although 
+including water minerals increased excretion of most 
+minerals, the actual median effect of Ca, Mg, S, Cu, 
+Fe, and Mn was less than 5%, and about 8% for Na 
+and Cl. Replacing assayed concentrations of minerals in 
+milk with NRC constants resulted in reduced estimated 
+excretion of Ca, Na, Cu, Fe, and Zn, but median differ-
+ences were <5% except for Na which was 7.5%. Results 
+indicate that not including mineral intake via drinking 
+water and not using assayed concentrations of milk 
+minerals lead to errors in estimation manure excretion 
+of minerals (e.g., Ca, Na, Cl, and S). 
+  Key words:    dairy cow ,  mineral ,  manure ,  nutrient 
+management plan 
+  INTRODUCTION 
+  Dairy cows that consume inadequate amounts of 
+essential nutrients can suffer from a host of health 
+problems and often have reduced milk production and 
+reduced reproductive efficiency (NRC, 2001). Because 
+of numerous uncertainties associated with mineral nu-
+trition, including variation in mineral concentrations of 
+TMR feedstuffs, the lack of information regarding min-
+eral absorption, and potential antagonism with other 
+minerals, diets are often formulated so that mineral 
+intake by cows exceed mineral requirements. Overfeed-
+ing minerals can inflate feed costs, reduce absorption 
+of other minerals because of increased antagonism, and 
+have adverse effects on ruminal microbes and the cow 
+(i.e., toxicity; NRC, 2001; 2005). Even if overfeeding 
+minerals has no negative effects on the cow or feed 
+costs, it will certainly result in greater manure excre-
+tion of minerals, which could have negative environ-
+mental effects. 
+  Accurate estimates of mineral excretion by dairy 
+cows are needed for nutrient management plans (Ne-
+nnich et al., 2005). In California, the Water Quality 
+Control Board (WQCB) has implemented new water 
+quality regulations based on waste discharge require-
+ments, which affect all California dairy producers. 
+Today, dairy producers in California deal mainly with 
+nitrogen, but also have to calculate P and K balances. 
+The WQCB indicates that more minerals will be regu-
+lated in the near future. Ten minerals have been identi-
+  Mineral concentrations in diets, water, and milk and their value 
+in estimating on-farm excretion of manure minerals in lactating dairy cows 
+  A. R.   Castillo ,*1  N. R.   St-Pierre ,†  N.   Silva del Rio ,‡ and  W. P.   Weiss §
+   * University of California, Cooperative Extension, Merced 95341 
+   † Department of Animal Sciences, Ohio Agricultural Research and Development Center, The Ohio State University, Columbus 43210  
+   ‡ University of California, Veterinary Medicine Teaching and Research Center, Tulare 93274 
+   § Department of Animal Sciences, Ohio Agricultural Research and Development Center, The Ohio State University, Wooster 44691 
+  
+  
+ Received September 4, 2012.
+ Accepted January 12, 2013.
+  1   Corresponding author:  arcastillo@ucanr.edu 
+Journal of Dairy Science Vol. 96 No. 5, 2013
+OUR INDUSTRY TODAY 3389
+fied (NRC, 2005) that could be of concern because of 
+their potential negative effects on crop yields or the 
+environment: Cd, Cu, Fe, Hg, P, K, Na, Se, S, and Zn.
+Numerous equations have been derived (Morse et al., 
+1992; Beede and Davidson, 1999; Weiss and Wyatt, 
+2004; Nennich et al., 2005) to estimate mineral excre-
+tion by dairy cows but the underlying function for most 
+equations is as follows: manure excretion of mineral X 
+= intake of mineral X − milk secretion of mineral X. 
+In most equations, minerals provided by drinking wa-
+ter are ignored and the concentrations of minerals in 
+milk are assumed constant and book values (e.g., NRC, 
+2001) are used rather than assayed values. The impor-
+tance of including information on mineral composition 
+of drinking water and assayed mineral concentrations in 
+milk on estimated mineral balances is not known. The 
+objectives of this project were to (1) compare lactating 
+cow mineral intakes (via drinking water and TMR) to 
+the NRC (2001) requirements, (2) evaluate the associa-
+tion between dietary concentrations of minerals with 
+and without drinking water and adjusted for mineral 
+concentrations in milk, and (3) compare 4 different 
+methods to estimate excretion of minerals using either 
+assays or estimations of milk mineral outputs and total 
+daily mineral intake per cow with or without minerals 
+coming from drinking water.
+MATERIALS AND METHODS
+The study was carried out in Merced County, Cali-
+fornia on 39 commercial dairy farms. The dairy farms 
+were selected to represent a range of herd size (aver-
+aging 787 lactating cows, from 210 to 2,435), and a 
+range of milk yield per cow and mineral contents in 
+drinking water. The information was obtained using 
+DHIA records and by personally contacting the dairy 
+owners and dairy operators. Because the herds were 
+not randomly selected, this survey may not necessarily 
+reflect the broader population of dairy farms in Califor-
+nia. However, milk yields, herd sizes, and facilities are 
+representative of California dairies. All dairies milked 
+Holstein cows, were using TMR, and had freestalls for 
+lactating animals. None of the dairies declined to par-
+ticipate.
+Sampling
+Duplicate samples of TMR, drinking water for ani-
+mals, and bulk tank milk were obtained on 2 nonconsec-
+utive days (3 to 7 d apart) from each dairy. Free-choice 
+salts were not included in this survey. Total mixed ra-
+tion samples from each lactation group were taken by 
+hand immediately after the mixer wagon delivered the 
+feed mix, from the low, middle, and top portion of the 
+feed pile across the entire length of the feed bunk and 
+placed into a 25-L container. The contents of the con-
+tainer were mixed by hand on a clean dry surface and 
+2 subsamples (about 1-kg each) were placed in sealed 
+plastic bags with minimal air, maintained on ice, and 
+then frozen for later analysis. Wells were the source 
+of drinking water on all dairies in this survey. Water 
+samples were collected into sterile 250-mL bottles from 
+the water line at the entry valve into the water trough. 
+The water ran for about 1 min before the sample was 
+taken, the sample was maintained on ice, and was fro-
+zen when it arrived at the laboratory. A composite bulk 
+tank milk sample (a.m. and p.m.) was taken into sterile 
+250-mL containers, maintained on ice, and then frozen 
+for later analysis.
+Chemical Analysis
+Samples of TMR, water, and milk were assayed for 
+Ca, P, Mg, K, Na, Cl, S, Cu, Fe, Mn, Se, and Zn using 
+wet chemistry at the Agriculture and Natural Resources 
+Analytical Laboratory (University of California, Davis). 
+Samples of TMR were oven dried at 55 to 60°C for 24 
+h and ground to pass through a 400-μm screen. Water 
+TS concentration was quantitated using gravimetric 
+analysis following oven drying at 103 to 105°C (Clesceri 
+et al., 1998). Samples of TMR, milk, and water TS 
+were digested with nitric acid/hydrogen peroxide via 
+microwave (Sah and Miller, 1992) and concentrations 
+of Ca, P, Mg, K, Na, S, Cu, Fe, Mn, and Zn were deter-
+mined by inductively coupled plasma atomic emission 
+spectrometry (Meyer and Keliher, 1992). Chloride in 
+the TMR samples was extracted using water and then 
+analyzed by ion chromatography with conductivity de-
+tection (Jones, 2001). Chloride in water and milk was 
+quantitated using flow injection analysis based on the 
+formation of ferric thiocyanate with measurement at 
+480 nm (Diamond, 1994). Samples of TMR, water TS 
+and milk were digested with a mix of nitric, perchloric, 
+and sulfuric acids, which was followed by reduction with 
+hydrochloric acid. Those digests were assayed for Se by 
+vapor generation inductively coupled plasma emission 
+spectroscopy (Tracy and Moeller, 1990).
+Water and DMI
+Dry matter intake was calculated for each lactation 
+group by subtracting the amount of feed refusal from 
+the total amount of TMR delivered per group, multi-
+plying that by the DM concentration of the TMR and 
+then dividing by the number of cows in the group. Farm 
+DMI was calculated by weighting DMI for each pen 
+on the farm by the proportion of total lactating cows 
+in each pen. Water intake for each pen was estimated 
+3390 CASTILLO ET AL.
+Journal of Dairy Science Vol. 96 No. 5, 2013
+according to Murphy et al. (1983) using pen average 
+milk yield, DMI, preestimated Na intake (TMR and 
+Na water), and minimum environmental temperature 
+(from the nearest official weather recording station). 
+Farm median water intake for lactating cows was cal-
+culated using the same method as farm median DMI.
+Milk Yield and Minerals
+Milk production per cow was based on DHIA records 
+(36 farms), and when not available (3 farms), on the 
+total daily bulk tank milk produced divided by the 
+number of lactating cows in each sampling day.
+The milk mineral excretions were estimated on the 
+farm average milk yield per cow as follows: (1) mul-
+tiplying by the assayed concentration of each mineral 
+in the bulk tank milk, or (2) multiplying the average 
+milk yield per cow by concentration of minerals in milk 
+as used by NRC (2001): (g/kg of fluid milk for ma-
+jor minerals) Ca, 1.22; Cl, 1.15; K, 1.5; Mg, 0.15; Na, 
+1.15; (mg/kg of fluid milk for all trace minerals) P, 0.9; 
+S, 0.4; Cu, 0.15; Fe, 1.0; Mn, 0.03; Se, 0.03; and Zn, 
+4.0. These average concentrations of minerals in milk 
+are the milk values used by NRC (2001) to estimate 
+absorbed mineral requirements for lactation. Except 
+for S and Se, where no milk content data are given, a 
+nonfactorial approach based on feed intake was used to 
+estimate requirements (NRC, 2001).
+Intake, Requirements, and Estimated  
+Manure Excretion of Minerals
+Farm average DMI, milk yield, and water intake 
+were divided by the number of lactating cows on the 
+farm the day that samples and data were collected. 
+Intakes of minerals (on a per-cow basis) were calculated 
+2 ways. Dietary intake of each mineral was calculated 
+as measured mineral concentrations of the appropriate 
+TMR times pen average DMI and then a weighted farm 
+average was calculated according to the proportion of 
+animals in each pen. Total intake of each mineral was 
+calculated by summing dietary intake and mineral in-
+take from water. Water mineral intake was calculated 
+by multiplying measured mineral concentrations in 
+water by estimated pen average water intake and then 
+a weighted farm average water mineral intake was cal-
+culated according to the proportion of animals in each 
+pen. From the 39 dairies, 33 were feeding a complete 
+mineral mix package in the TMR and did not offer 
+any free-choice minerals. Six dairies offered free-choice 
+NaCl, NaHCO3, or a mix of the two. Four of those farms 
+fed adequate NaCl in the TMR, but 2 farms did not 
+include NaCl in the TMR. Disappearance of free-choice 
+salts was not included in the mineral-intake estimations 
+because immeasurable losses were observed from the 
+feeders and blocks. Excluding free-choice mineral intake 
+will result in an underestimation of Na and Cl manure 
+excretion from those 6 farms.
+Mineral requirements were calculated using NRC 
+(2001). For S and Se, NRC requirements are set at 0.2% 
+and 0.4 mg of S/kg of diet DM, and the Se requirement 
+is 0.3 mg/kg of supplemental Se; we assumed dietary 
+ingredients contained 0.1 mg of Se/kg. For the other 
+minerals, a standard Holstein cow (BW of 650 kg) was 
+used for all farms and then average DMI and milk yield 
+for each herd were entered into the model (ambient 
+temperature was set at 20°C for all farms) to calculate 
+total absorbed mineral requirements (g/d or mg/d). 
+Those values were divided by typical diet availability 
+coefficients (NRC, 2001): Ca, 0.50; Cl, K, and Na, 0.9; 
+Mg, 0.18; P, 0.68; Cu, 0.045; Fe, 0.1; Mn, 0.007, and 
+Zn, 0.15 (the same values were used for all farms) and 
+then those values were divided by farm average DMI to 
+obtain requirements as a concentration of DMI.
+Estimated total daily excretion of minerals in manure 
+was calculated by 4 different methods:
+ 1.  Total intake of minerals, from TMR and drink-
+ing water, minus assay-measured minerals in the 
+bulk tank milk. All other methods were com-
+pared with this method (reference method).
+ 2.  Same as 1 (reference method), but not including 
+minerals from drinking water.
+ 3.  Same as 1 (reference method), but not including 
+minerals from drinking water and using average 
+NRC (2001) values for milk mineral concentra-
+tions.
+ 4.  Same as 1 (reference method), but including to-
+tal intake of minerals, from TMR and drinking 
+water, and using average NRC (2001) values for 
+milk mineral concentrations.
+Statistical Analysis
+Across-farm medians and percentile distributions for 
+variables of interest were calculated using PROC UNI-
+VARIATE of SAS (SAS Institute, 2011). Percentiles 
+are shown rather than actual minimum and maximum 
+values because percentiles eliminate extreme outliers 
+and provide more realistic estimates of interquartile 
+ranges in measured variables. Normality was tested us-
+ing the Shapiro-Wilk test (PROC UNIVARIATE) and 
+data were declared normally distributed at P > 0.05. 
+Because several variables were not normally distributed, 
+the median is used to express central tendency for all 
+variables. Statistical correlations between dietary (in-
+cluding water) minerals and concentrations of minerals 
+in milk were determined using PROC CORR. The 4 
+Journal of Dairy Science Vol. 96 No. 5, 2013
+OUR INDUSTRY TODAY 3391
+different methods of estimating excretion of minerals 
+were compared using PROC MIXED. The statistical 
+model included the fixed effect of method (the 4 meth-
+ods to estimate mineral excretion described above) as a 
+repeated measure within farm, and the random effects 
+of farm and the farm by method interaction. An autore-
+gressive covariance structure was used. Three contrasts 
+were used to compare mineral excretion estimated us-
+ing water and assayed milk values to each of the other 
+methods (i.e., reference method described above).
+RESULTS AND DISCUSSION
+The 39 herds were selected to provide a range in 
+water mineral content and milk yields per cow, as is 
+shown in Table 1. The herd median milk yield inter-
+quartile ranged from less than 25 to more than 39 kg/d 
+and, as expected, DMI was also variable, reflecting the 
+differences in herd median milk yields. The concentra-
+tion of the TS in drinking water interquartile ranged 
+from less than 200 to more than 1490 mg/L. However, 
+the concentrations of trace minerals (Cu, Fe, Mn, Se, 
+and Zn) and P in the drinking water were not variable 
+across farms (Table 1). Based on the interquartile range 
+between the 10th and 90th percentiles, nitrate-N was 
+the most variable among herds (the 90th percentile was 
+more than 40-fold greater than the 10th percentile). 
+The concentrations of sulfate-S, Cl, and Mg in water 
+were also quite variable among herds (the 90th percen-
+tile was >18-fold greater than the 10th percentile). The 
+median concentrations of most minerals in this study 
+were similar to median concentrations from a larger 
+survey of water from CA (n = approximately 150) and 
+to median concentrations from a survey of livestock wa-
+ter supplies from across the United States (n = 1,740 
+to 4,676, depending on the mineral; Socha et al., 2009). 
+For the US data, median concentrations (mg/L) for Na, 
+Cl, and Mn were 14, 24, and 0.03; for the CA subset 
+from that survey, the median concentrations were 64, 
+45, and 0.01. Those values were generally much lower 
+than the mean concentrations observed in this study 
+(Table 1).
+Concentrations of Minerals in Diets
+The dietary concentrations of minerals that would 
+meet NRC (2001) requirements based on reported DMI, 
+actual dietary concentrations, and dietary concentra-
+tions including minerals supplied in consumed water 
+are in Tables 2 and 3. When including drinking water 
+minerals, dietary concentrations increased by <4% for 
+all minerals except for Na and Cl (increased median 
+concentrations by 7 and 5%, respectively). The relative 
+increase caused by water is a function of the concentra-
+tion of minerals in water (quite low in this study) and 
+the concentration of minerals in the diet.
+The macromineral that was fed closest to the require-
+ment was P (Table 2). The median concentration was 
+about 1.3 times the requirement and about 1.4 times 
+the requirement at the 90th percentile for dietary P 
+concentrations. A recent survey indicated that most 
+dairy nutritionists had reduced concentrations of P in 
+Table 1. Dairy farm (n = 39) statistics and water composition 
+Item Median
+Distribution, percentile
+10th 25th 75th 90th
+Milk yield, kg/d 32.1 24.9 27.2 35.8 39.0
+DMI, kg/d 23.3 20.7 22.5 24.4 25.5
+Water intake,1 kg/d 100.6 87.1 92.4 110.5 119.3
+Water composition, mg/L
+ TS 535* 200 335 705 1,490
+ Total suspended solids 42.3* 16.0 23.5 102.0 149.0
+ NO3-N 7.2* 0.8 2.5 12.7 33.2
+ SO4-S 11.6* 2.6 4.3 27.6 50.4
+ Ca 65.8* 17.2 43.3 87.9 124.0
+ P 0.10* 0.10 0.10 0.10 0.15
+ Mg 22.2* 3.4 8.6 39.1 60.2
+ K 3.0* 1.4 2.0 4.6 7.5
+ Na 60.0* 20.6 32.9 129.4 170.1
+ Cl 49.6* 7.1 17.0 106.4 205.6
+ Cu 0.2* All others: 0.2
+ Fe 0.2* 1 farm = 2.7; all others 0.2
+ Mn 0.2* 4 farms: 0.35; 1 farm: 0.8; all others: 0.2
+ Se, μg/L 1.0* 5 farms: 2.5; 1 farm: 7; all others: 1
+ Zn 0.1* All others: 0.1
+1Estimated (Murphy et al., 1983).
+*Data not normally distributed (P < 0.05).
+3392 CASTILLO ET AL.
+Journal of Dairy Science Vol. 96 No. 5, 2013
+Table 2. Approximate NRC (2001) requirements and median concentrations and interquartile ranges of dietary and total (includes those 
+provided by water) macrominerals on 39 California dairy farms1 
+Mineral, % of diet DM Median
+Distribution, percentile
+10th 25th 75th 90th
+Calcium
+ NRC requirement 0.55 0.50 0.54 0.58 0.62
+ Dietary concentration 0.80 0.63 0.67 0.87 0.96
+ Total concentration 2 0.80 0.65 0.71 0.91 1.00
+Phosphorus
+ NRC requirement 0.35 0.32 0.33 0.36 0.37
+ Dietary concentration 0.44 0.37 0.39 0.50 0.52
+Magnesium
+ NRC requirement 0.16* 0.14 0.15 0.17 0.18
+ Dietary concentration 0.33 0.28 0.30 0.36 0.40
+ Total concentration 0.35 0.30 0.31 0.37 0.40
+Sodium
+ NRC requirement 0.21 0.20 0.21 0.22 0.23
+ Dietary concentration 0.43* 0.25 0.37 0.50 0.58
+ Total concentration 0.46* 0.30 0.39 0.54 0.60
+Chloride
+ NRC requirement 0.25 0.21 0.23 0.26 0.27
+ Dietary concentration 0.59* 0.43 0.48 0.67 0.79
+ Total concentration 0.62* 0.44 0.50 0.76 0.83
+Potassium
+ NRC requirement 1.03 0.98 1.00 1.04 1.06
+ Dietary concentration 1.62 1.30 1.46 1.75 1.93
+Sulfur
+ NRC requirement 0.20 0.20 0.20 0.20 0.20
+ Dietary concentration 0.28 0.22 0.24 0.32 0.36
+ Total concentration 0.29 0.22 0.25 0.32 0.36
+1NRC (2001) requirements were calculated using pen median milk yield and DMI and breed average BW and typical absorption coefficients.
+2Total concentrations were calculated by dividing intake of mineral from diet and water by DMI.
+*Data not normally distributed (P < 0.05).
+Table 3. Median concentrations and interquartile ranges of dietary and total (includes those provided by water) trace minerals on 39 California 
+dairy farms and approximate NRC requirements1 
+Mineral, mg/kg of diet DM Median
+Distribution, percentile
+10th 25th 75th 90th
+Copper
+ NRC requiremen t 9.5 8.6 9.1 9.9 10.4
+ Dietary concentration 17.2* 9.1 11.3 19.7 29.9
+ Total concentration 2 18.0* 10.0 12.3 20.4 30.8
+Iron
+ NRC requiremen t 13.6 11.3 12.5 14.7 15.5
+ Dietary concentration 350.0* 229.8 265.2 459.0 622.9
+ Total concentration 350.6* 230.6 266.0 459.9 623.7
+Manganese
+ NRC requiremen t 13.8 12.7 13.4 14.4 15.1
+ Dietary concentration 71.7 47.5 59.0 82.9 105.0
+ Total concentration 73.0 48.4 59.9 83.9 105.8
+Selenium
+ NRC requirement 0.3 0.3 0.3 0.3 0.3
+ Dietary concentration 0.44 0.31 0.37 0.52 0.57
+ Total concentration 0.44 0.31 0.38 0.52 0.58
+Zinc
+ NRC requirement 45.1 38.3 41.8 47.6 49.9
+ Dietary concentration 73.7 51.0 61.0 89.2 102.1
+ Total concentration 74.1 51.4 61.5 89.7 102.5
+1NRC (2001) requirements were calculated using pen median milk yield and DMI and breed average BW and typical absorption coefficients.
+2Total concentrations were calculated by dividing intake of mineral from diet and water by DMI.
+*Data not normally distributed (P < 0.05).
+Journal of Dairy Science Vol. 96 No. 5, 2013
+OUR INDUSTRY TODAY 3393
+dairy cow diets (Harrison et al., 2012); however, the 
+degree of median overfeeding of P (i.e., 1.3 times NRC) 
+was essentially the same as reported in a survey of dairy 
+farms in the northeastern United States conducted 
+in 2002 (Dou et al., 2003). Diets with greater-than-
+required concentrations of P can cost less than lower-P 
+diets when less expensive byproducts (that often have 
+higher concentrations of P) are included in the diet 
+(Stewart et al. 2012). The S median was fed at 1.4 
+times the requirement (1.8 times the requirement at the 
+90th percentile). Diets with as little as 0.4% S (i.e., 2 
+times the requirement) can have detrimental effects to 
+cattle, ranging from secondary Cu and Se deficiencies 
+to polioencephalomalacia (NRC, 2005), which may be 
+the reason that dietary S concentrations are relatively 
+close to requirements. Median Ca and K concentrations 
+were about 1.4 and 1.6 times the requirement, respec-
+tively, and about 1.5 for both minerals when compared 
+with the 10th to 90th percentiles (Table 2) but some 
+of this overfeeding is likely caused by concentrations of 
+those minerals in the TMR ingredients. Median con-
+centrations of Mg, Na, and Cl were more than 2 times 
+the requirement and 10th to 90th percentile differences 
+were 1.3. 2.0, and 1.9, respectively. Dietary K interferes 
+with Mg absorption (Fisher et al., 1994; Weiss, 2004; 
+Schonewille et al., 2008). However, the NRC require-
+ment does not consider antagonisms among minerals 
+when establishing requirements. In addition, dietary 
+Mg (provided by MgO) concentrations greater than 
+NRC requirements can increase milk fat concentrations 
+and yields (Erdman, 1988). Therefore, some overfeed-
+ing of Mg can be justified; however in this study, di-
+etary concentrations of K and Mg were not correlated 
+(P > 0.15), suggesting that dietary K was not a major 
+factor influencing Mg supplementation. Sodium and 
+Cl were also substantially overfed by all herds and as 
+expected concentrations were correlated indicating an 
+oversupplementation of NaCl. Excess (i.e., greater than 
+NRC) Na from sodium bicarbonate or other Na-based 
+buffers can increase milk fat concentration and yield 
+(Erdman, 1988).
+For trace minerals (Table 3), dietary concentrations 
+were approximately 1.1 (Se) to 26 (Fe) times greater 
+than requirements. The Se requirement is 0.3 mg/kg 
+of supplemental Se and we assumed that dietary in-
+gredients contained 0.1 mg of Se/kg. Dietary Fe far 
+exceeded the requirement but this was likely caused 
+by TMR ingredients. Many feeds, especially forages, 
+have extremely high concentrations of Fe but because 
+of the low bioavailability of that Fe, it is not an animal 
+toxicity issue (NRC, 2005). The median Mn concentra-
+tion was about 5 times greater than the NRC (2001) 
+requirement; however, more recent publications (Weiss 
+and Socha, 2005; Hansen et al., 2006) indicate that 
+the NRC Mn requirement is too low, which justifies 
+greater than NRC dietary concentrations. The median 
+Cu concentration was about 1.9 times greater than 
+the requirement but at the 90th percentile, Cu con-
+centration was 3 times greater than the requirement. 
+Sulfur, Mo, and Fe can interfere with Cu absorption 
+or increase the Cu requirement, which can be used to 
+justify oversupplementation of Cu, but no correlations 
+(P > 0.15) were found between dietary Cu concentra-
+tions and dietary or total concentrations of S or Fe. 
+Diets with up to 20 mg of supplemental Cu/kg reduce 
+the severity of mastitis compared with diets containing 
+<10 mg of total Cu/kg (Scaletti et al., 2003), which is 
+additional justification for modest overfeeding of Cu. 
+Median Zn was overfed at approximately the same rate 
+as was Cu (1.6 times) but at the 90th percentile, Zn 
+was overfed at only 2 times the requirement compared 
+with 3 times the requirement for Cu. Improvements in 
+mammary gland health and increased milk yield have 
+been reported when cows were fed diets with about 62 
+mg of total Zn/kg (approximately 1.4 times the NRC 
+requirement) compared with those fed approximately 
+NRC requirements (Cope et al., 2009). These potential 
+benefits support modest overfeeding of Zn.
+Maximum tolerable levels (MTL) are defined as 
+“the dietary level that, when fed for a defined period of 
+time, will not impair animal health and performance” 
+(NRC, 2005). Median concentrations (i.e., diet plus 
+water minerals) of all measured minerals were below 
+the established MTL. At the 90th percentile, for total 
+concentrations most minerals were at least 30% less 
+than the MTL, except for K and Fe. The K concentra-
+tion was approximately at the MTL (90th percentile = 
+1.93 vs. MTL of 2%) and concentrations of Fe exceeded 
+the MTL (90th percentile = 624 vs. MTL of 500 mg/
+kg). The MTL for Fe is based on readily available Fe 
+but forages were likely the source of most Fe in these 
+diets, which has very poor bioavailability (Hansen and 
+Spears, 2009); therefore, even the highest Fe concentra-
+tions fed in this study are likely not a problem. The 
+mostly likely problem associated with K concentration 
+of approximately 2% for lactating cows is reduced Mg 
+absorption, but because all herds fed excess Mg, prob-
+lems with high K were unlikely.
+Concentrations of Minerals in Milk
+The median values for minerals in milk in this study 
+are similar to other recent surveys (Robinson et al., 
+2002; Gaucheron, 2005; van Hulzen et al., 2009). The 
+median concentrations of P and K in milk were similar 
+to the NRC (2001) values to estimate lactation re-
+quirements for those minerals (Table 4). Even at the 
+extremes (10th or 90th percentiles), concentrations 
+3394 CASTILLO ET AL.
+Journal of Dairy Science Vol. 96 No. 5, 2013
+were within 3% of the NRC value. The NRC values 
+for Ca, Cl, and Zn were 10 to 20% greater than the 
+median values and the median concentrations of Na, 
+Cu, Fe, and Mn are much (more than 36%) less than 
+the NRC values. The value from NRC (2003) for S 
+(NRC, 2001) was about 25% lower than the median 
+bulk tank milk assayed concentration and was lower 
+than the 10th percentile value. Among herds, the varia-
+tion in milk mineral concentration was low and dietary 
+minerals (with and without including water) concentra-
+tions were not correlated (P > 0.15) with the mineral 
+concentrations in milk (data not shown). For Cu, Fe, 
+and Mn, the NRC (2001) values for milk concentra-
+tions were approximately 2 to 6 times greater than the 
+measured mean concentrations; however, because these 
+concentrations in bulk tank milk are so low these large 
+errors had little overall effect on estimated require-
+ments. Using the NRC (2001) value for Fe, the median 
+cow in this study (32 kg of milk) would secrete 32 mg of 
+Fe in the milk daily, but using the median Fe bulk tank 
+milk concentration from this study, that cow would 
+secrete only 5 mg/d. For animal excretion estimations 
+(milk and manure), the calculated Fe difference (27 
+mg) needs to be compared with the median intake of 
+Fe in this study (8,955 mg/d) and the median intake 
+of available (as estimated by NRC) Fe (896 mg/d). 
+For macrominerals, the greatest difference between the 
+NRC value and the mean concentration in milk was 
+for Na. The NRC (2001) value was 233 mg/L greater 
+than the mean bulk tank milk value. The median cow 
+in this study secreted 7.5 g/d less Na in milk than the 
+NRC (2001) estimates. Compared with a daily intake 
+of 100 g of Na, the difference is not trivial, suggesting 
+that either the value used by NRC (2001) to estimate 
+the lactation requirement for Na should be reevaluated 
+or actual milk concentrations of Na should be used to 
+determine requirements.
+Estimating Excretion of Minerals
+The reference method for estimating mineral excre-
+tion for this project was to calculate total intake of each 
+mineral (diet and water) and subtracting the amount of 
+mineral secreted in milk based on assayed milk minerals 
+(Table 5). Because of waste and weather-caused wash-
+out, among other factors, disappearance of free-choice 
+minerals is likely greater than intake of free-choice min-
+erals. Therefore, we chose not to include disappearance 
+of free-choice minerals to estimate manure excretion 
+of minerals. However, for whole-farm nutrient manage-
+ment programs, it must be included because the min-
+eral that is lost will eventually enter the waste stream. 
+Not including free-choice mineral intake means that we 
+would underestimate the excretion of sodium and chlo-
+ride on 6 of the 39 farms in this survey. Consumption of 
+free-choice salt by lactating dairy cows is affected by the 
+type of salt and the salt concentration of the diet. Dairy 
+cows fed a diet with 0.1% Na consumed 34 g of NaCl/d 
+from blocks compared with 24 g/d for cows fed a diet 
+with 0.17% Na (Valk and Kogut, 1998). Those dietary 
+concentrations are lower concentrations than observed 
+in the current survey, suggesting that free-choice NaCl 
+intake would be less than 24 g/d (approximately 9 and 
+13 g/d of Na and Cl, respectively) measured by Valk 
+and Kogut (1998). This is approximately 10% of the 
+median estimated excretion of those 2 minerals. Be-
+cause free-choice NaCl or NaHCO 3 was fed on only 6 
+farms (15% of the farms), not including disappearance 
+of free-choice Na and Cl would not greatly affect the 
+median excretion for those minerals observed in the 
+Table 4. Median and interquartile ranges of concentrations (mg/kg) of minerals in milk on 39 California dairy farms 
+Mineral NRC1 Median
+Distribution, percentile
+10th 25th 75th 90th
+Ca 1,220 1,006 967 982 1,027 1,059
+P 900 900* 873 884 927 951
+Mg 150 101 93 97 105 107
+K 1,500 1,537 1,455 1,503 1,556 1,587
+Na 630 400 352 380 415 436
+Cl 1,150 1,030* 967 988 1,070 1,140
+S 230 306 293 302 315 327
+Cu 0.15 0.038* 0.026 0.03 0.041 0.048
+Fe 1.0 0.160* 0.140 0.15 0.17 0.18
+Mn 0.03 0.016 0.013 0.014 0.018 0.021
+Se — 0.034 0.025 0.029 0.0385 0.044
+Zn 4.0 3.30 3.0 3.15 3.4 3.55
+1Concentration of mineral in milk used to calculate the lactation requirement (NRC, 2001). The NRC does not use milk content to calculate 
+lactation requirement for S and Se. The S concentration in milk is from NRC (2003).
+*Data not normally distributed (P < 0.05).
+Journal of Dairy Science Vol. 96 No. 5, 2013
+OUR INDUSTRY TODAY 3395
+current study, but on a specific farm, the error could 
+be important and disappearance of free-choice minerals 
+should be included when estimating excretion.
+Estimated excretion of minerals varied substantially 
+across farms. Comparing the 10th to the 90th percen-
+tile, excretion of most minerals varied by a factor of 2 to 
+3. Compared with among-farm variation, the method of 
+estimating excretion had a minor effect (Table 6). Not 
+including mineral consumption via water reduced (P 
+< 0.05) the estimated manure excretion of all minerals 
+except P, K, and Se because water contained very low 
+concentrations of the minerals (Table 4; Figure 1). For 
+Ca, Mg, S, Cu, Fe, and Mn, including water minerals 
+increased the estimated excretion by less than 5%. For 
+Na and Cl, the difference was about 8%. The effect 
+of not including water minerals on estimated mineral 
+excretion on farms in this study was small; however, 
+the degree of error associated with not including water 
+minerals in calculations is dependent on water composi-
+tion and can vary greatly between farms.
+Table 5. Medians and distributions of estimated lactating dairy cow mineral excretion in manure on 39 California dairy farms1 
+Mineral Median
+Distribution, percentile
+10th 25th 75th 90th
+Major mineral, g/d
+ Calcium 160.0 97.2 133.9 183.3 194.4
+ Phosphorus 74.5 52.0 60.8 89.1 99.2
+ Magnesium 77.1 61.7 70.9 85.0 94.3
+ Potassium 321.2 239.5 273.0 370.1 424.6
+ Sodium 96.5* 64.1 81.6 109.9 125.0
+ Chloride 105.0* 68.5 86.9 137.0 167.5
+ Sulfur 59.7 38.2 46.6 69.0 73.3
+Trace mineral, mg/d
+ Copper 417* 232 263 471 725
+ Iron 8,255* 5,035 6,168 10,569 14,572
+ Manganese 1,784 1,133 1,368 2,127 2,420
+ Selenium 9.1 6.5 7.3 11.7 12.3
+ Zinc 1,693 919 1,336 1,982 2,291
+1Mineral excretion was estimated by summing total mineral intake (TMR + drinking water) and subtracting minerals secreted in cow’s milk 
+calculated from milk yield per cow and assayed concentrations of minerals in bulk tank milk.
+*Data not normally distributed (P < 0.05).
+Table 6. Effect of method of estimating manure excretion of minerals 
+Mineral
+Method1
+Reference  
+method
+Not including water minerals With water minerals
+Diet + assay Diet + NRC Tot + NRC
+Macromineral, g/d
+ Calcium 156.6 149.8** 143.0** 149.9**
+ Phosphorus 74.5 74.5 74.7 74.5
+ Magnesium 77.5 74.9* 73.3** 75.9
+ Potassium 327.5 327.4 328.5 328.6
+ Sodium 97.4 88.7** 81.2** 90.0**
+ Chloride 118.4 109.6* 106.0* 114.8
+ Sulfur 2 57.7 55.6** 58.1 60.2*
+Trace mineral, mg/d
+ Copp er 420 400** 396** 416**
+ Iron 8,917 8,897** 8,871** 8,891**
+ Manganese 1,727 1,704** 1,703** 1,726
+ Selenium 2 9.4 9.3 — —
+ Zinc 1,682 1,672* 1,649** 1,659**
+1Methods to estimate mineral excretion were as follows: (1) reference method: total intake of minerals (TMR + drinking water) minus assay-
+measured minerals in the bulk tank milk (all other methods were compared with the reference method); (2) same as reference method, but not 
+including minerals from drinking water (diet + assay); (3) same as reference method, but not including minerals from drinking water and using 
+median NRC (2001) values for milk mineral concentrations (diet + NRC); and (4) same as reference method, including all minerals (TMR + 
+drinking water) and using average NRC (2001) values for milk mineral concentrations (Tot + NRC).
+2NRC (2001) does not provide average concentration for S and Se in milk. Data from NRC (2003) was used to estimate S concentration in milk.
+*Differ from: 1. reference method (P < 0.05) or ** (P < 0.01).
+3396 CASTILLO ET AL.
+Journal of Dairy Science Vol. 96 No. 5, 2013
+Figure 1. Comparison of different methods to estimate manure excretion of Ca, Mg, Na, and Cl (a); P, K, and S (b); and Cu, Mn, Fe, and 
+Zn (c). The y axis represents the deviation (g/d or mg/d) from the reference method, calculated as follows: intake of mineral from diet and 
+water − secretion of mineral in milk (i.e., milk yield × assayed concentration of mineral). Mineral excretion was also estimated using that equa-
+tion except (1) water minerals were not included and NRC milk concentrations were used (D+N); (2) water minerals were not included but milk 
+minerals were assayed (D+A); and (3) all minerals (TMR + drinking water) and concentrations of minerals in milk from NRC (2001) were used 
+rather than assayed concentrations (T+N). Boxes indicate the 25th to 75th percentile limits and lines indicate the 5th and 95th percentile limits.
+Journal of Dairy Science Vol. 96 No. 5, 2013
+OUR INDUSTRY TODAY 3397
+Replacing assayed concentrations of minerals in milk 
+with NRC (2001) constants resulted in reduced (P < 
+0.01) estimates of excretion of Ca, Na, Cu, Fe, and Zn 
+(Table 4), but the median actual differences were <5% 
+except for Na, which was 7.5%. When NRC constants 
+were used and minerals supplied by water were ignored, 
+the estimated excretion was different for Ca, Mg, Na, 
+Cu, Fe, Mn, Zn (all P < 0.01), and S and Cl (P < 0.05). 
+The actual differences between estimated excretion us-
+ing water and assayed minerals and not using water 
+with NRC constants for the trace minerals were less 
+than 2%, except for Cu, which was 5.7%. Median differ-
+ences for the major mineral interquartile ranged from 
+5.4% Mg to 17% for Na (P and K did not differ between 
+methods of estimation). Because nutrient management 
+programs are for individual farms, not average farm, 
+across farm interquartile ranges, the differences between 
+the reference method and other estimation methods are 
+important. Interquartile ranges for 50% (25th to 75th 
+percentiles) and 90% (5th to 95th percentiles) for ma-
+jor and trace minerals are in Figures 1a, b, and c. For 
+P and K (Figure 1b), even at the extreme (95th per-
+centile), the estimation methods introduced only minor 
+errors on a daily basis. However, errors will accumulate 
+over days so that the 4 g/d per cow overestimation of 
+K excretion when NRC (2001) milk concentration value 
+is used converts to a 1.2 kg/cow overestimation for a 
+305-d lactation. For some major minerals (Ca, Na, Cl, 
+and S), substantial errors (Figures 1a and b) occurred 
+for some farms, justifying including water minerals 
+and assayed milk minerals when calculating on farm 
+mineral balances. The potential farm-to-farm variation 
+justifies including water minerals in estimated excre-
+tion calculations because water sampling and analysis 
+is straightforward and easily accomplished in the field. 
+The importance of including water and assayed milk 
+concentrations when calculating trace mineral balances 
+is less clear (Figure 1c). For example, using the most 
+extreme farms in this data set, estimated excretions of 
+Cu, Fe, and Zn were underestimated compared with 
+the reference method by about 8, 16, and 12 g/305-d 
+lactation per cow. For farms with a large number of 
+animals and limited land base for manure applications, 
+these errors could be important.
+Accurate estimates of mineral excretion on dairy 
+farms are needed in some regions for development of 
+nutrient-management plans. Mass balance can be an 
+accurate method to estimate excretion and is calculated 
+from easily measurable or obtainable inputs. Minerals 
+enter an animal via water and diet and are either se-
+creted in milk, excreted in manure, or retained in their 
+bodies or in the growing fetus. For this study, mineral 
+excretion was estimated only for lactating cows, and 
+mineral accretion in the fetus was trivial during most 
+of the lactation period and could be ignored. Body 
+retention of minerals is a function of growth (mostly 
+macrominerals) and tissue accumulation is caused by 
+excessive intake of minerals (mostly trace minerals). 
+Total removal of K, Mg, P, S, Cu, and Zn from dairy 
+farms via animals (this would include cows and calves 
+that were sold) was estimated by Hristov et al. (2006, 
+2007). On a daily per-lactating cow basis, this account-
+ed for approximately 5 g/d for P, 2 g/d for K, 1 g/d for 
+S, 0.3 g/d for Mg, 15 mg/d for Zn, and <1 mg/d for 
+Cu. Much of this accumulation of minerals would oc-
+cur during the heifer-rearing stage and not during the 
+lactation period and, relative to daily intakes of these 
+minerals, the amounts are minor (e.g., 4.9% for P, 0.3% 
+for K, 0.4% for Mg, 1.1% for S, 0.2% for Cu, and 0.7% 
+for Zn; Hristov et al., 2006, 2007).
+CONCLUSIONS
+The main objective of this project was to determine 
+the effect of including water minerals and using assayed 
+milk composition to estimate the excretion of minerals. 
+For some farms in this study, ignoring minerals con-
+sumed via water and using NRC constants for estimat-
+ing milk secretion of minerals rather than assayed con-
+centrations introduced significant errors when estimat-
+ing manure excretion of minerals via the mass balance 
+technique. Mineral excretion data from our study are 
+not necessarily extrapolatable to other farms; however, 
+the ability to identify farms a priori that should include 
+measured mineral data for water and milk is not pos-
+sible at this time. Therefore, sampling and analyzing 
+water and milk for mineral concentrations should be 
+considered for all farms that are estimating mineral 
+excretion via mass balance. Although not measured in 
+this experiment, ignoring disappearance of free-choice 
+minerals in the mass balance equation is another po-
+tential error and should be included when calculating 
+whole-farm mineral balances or when developing nutri-
+ent management plans.
+ACKNOWLEDGMENTS
+This project was financed by the University of Cali-
+fornia, Agriculture and Natural Resources, ANR Core 
+Issues Grants Program. The authors thank dairy pro-
+ducers in Merced County, California for their support 
+and participation in this study, and the permanent help 
+of the staff at the University of California Cooperative 
+Extension, Merced County office.
+REFERENCES
+Beede, D. K., and J. A. Davidson. 1999. Phosphorus: Nutritional 
+management for Y2K and beyond. Pages 51–97 in Proc. Tri-State 
+3398 CASTILLO ET AL.
+Journal of Dairy Science Vol. 96 No. 5, 2013
+Dairy Nutr. Conf., Ft. Wayne, IN. M. L. Eastridge, ed. The Ohio 
+State University, Columbus.
+Clesceri, L. S., A. E. Greenberg, and A. D. Eaton, editors. 1998. Meth-
+od 2540 B. Pages 2-55–59 in Standard Methods for the Examina-
+tion of Water and Wastewater. 20th ed. American Public Health 
+Association, Washington, DC.
+Cope, C. M., A. M. Mackenzie, D. Wilde, and L. A. Sinclair. 2009. 
+Effects of level and form of dietary zinc on dairy cow performance 
+and health.  J. Dairy Sci.  92:2128–2135.
+Diamond, D. 1994. Determination of chloride by flow injection analy-
+sis colorimetry. QuikChem method 10–117–07–1-B. Lachat Instru-
+ments, Milwaukee, WI.
+Dou, Z., J. D. Ferguson, J. Fiorini, J. D. Toth, S. M. Alexander, L. E. 
+Chase, C. M. Ryan, K. F. Knowlton, R. A. Kohn, A. B. Peterson, 
+J. T. Sims, and Z. Wu. 2003. Phosphorus feeding levels and critical 
+control points on dairy farms.  J. Dairy Sci.  86:3787–3795.
+Erdman, R. A. 1988. Dietary buffering requirements of the lactating 
+dairy cow: A review.  J. Dairy Sci.  71:3246–3266.
+Fisher, L. J., N. Dinn, R. M. Tait, and J. A. Shelford. 1994. Effect 
+of level of dietary potassium on the absorption and excretion of 
+calcium and magnesium by lactating cows.  Can. J. Anim. Sci.  
+74:503–509.
+Gaucheron, F. 2005. The minerals of milk.  Reprod. Nutr. Dev.  
+45:473–483.
+Hansen, S. L., and J. W. Spears. 2009. Bioaccessibility of iron from soil 
+is increased by silage fermentation.  J. Dairy Sci.  92:2896–2905.
+Hansen, S. L., J. W. Spears, K. E. Lloyd, and C. S. Whisnant. 2006. 
+Feeding a low manganese diet to heifers during gestation impairs 
+fetal growth and development.  J. Dairy Sci.  89:4305–4311.
+Harrison, J. H., K. F. Knowlton, B. James, M. D. Hanigan, C. Stall-
+ings, and E. Whitefield. 2012. Case study: National survey of bar-
+riers related to precision phosphorus feeding.  Prof. Anim. Sci.  
+28:564–568.
+Hristov, A. N., J. W. Ellsworth, and W. Hazen. 2006. Efficiency of use 
+of imported nitrogen, phosphorus, and potassium and potential 
+for reducing phosphorus imports on Idaho dairy farms.  J. Dairy 
+Sci.  89:3702–3712.
+Hristov, A. N., W. Hazen, and J. W. Ellsworth. 2007. Efficiency of use 
+of imported magnesium, sulfur, copper, and zinc on Idaho dairy 
+farms.  J. Dairy Sci.  90:3034–3043.
+Jones, J. B. 2001. Laboratory Guide for Conducting Soil Tests and 
+Plant Analysis. Pages 227–228. 1st ed. CRC Press, Boca Raton, 
+FL.
+Meyer, G. A., and P. N. Keliher. 1992. An overview of analysis by 
+inductively coupled plasma-atomic emission spectrometry. Pages 
+473–516 in Inductively Coupled Plasmas in Analytical Atomic 
+Spectrometry. A. Montaser and D. W. Golightly, ed. VCH Pub-
+lishers Inc. New York, NY.
+Morse, D., H. H. Head, C. J. Wilcox, H. H. Van Horn, C. D. His-
+sem, and B. Harris Jr. 1992. Effects of concentration of dietary 
+phosphorous on amount and route of excretion.  J. Dairy Sci.  
+75:3039–3049.
+Murphy, M. R., C. L. Davis, and G. C. McCoy. 1983. Factors affecting 
+water consumption by Holstein cows in early lactation.  J. Dairy 
+Sci.  66:35–38.
+NRC. 2001. Nutrient Requirements of Dairy Cattle. 7th rev. ed. Natl. 
+Acad. Press, Washington, DC.
+NRC. 2003. Air Emissions from Animal Feeding Operations: Current 
+Knowledge, Future Needs. Page 208. Natl. Acad. Press, Washing-
+ton, DC.
+NRC. 2005. Mineral Tolerance of Animals. 2nd rev. ed. Natl. Acad. 
+Press, Washington, DC.
+Nennich, T. D., J. H. Harrison, L. M. VanWieringen, D. Meyer, A. 
+J. Heinrichs, W. P. Weiss, N. R. St-Pierre, R. L. Kincaid, D. L. 
+Davidson, and E. Block. 2005. Prediction of manure and nutrient 
+excretion from dairy cattle.  J. Dairy Sci.  88:3721–3733.
+Robinson, P. H., T. Beaucaire, and D. Meyer. 2002. Mineral levels in 
+bulk milk of California dairy cows. Pages 1–6. Univ. CA Coop. 
+Ext. Accessed July 11, 2012. http://animalscience.ucdavis.edu/
+faculty/robinson/Articles/FullText/PDF/Web200211.pdf.
+Sah, R. N., and R. O. Miller. 1992. Spontaneous reaction for acid 
+dissolution of biological tissues in closed vessels.  Anal. Chem.  
+64:230–233.
+SAS Institute. 2011. SAS/STAT® 9.3 User’s Guide. SAS Inst. Inc. 
+Cary, NC.
+Scaletti, R. W., D. S. Trammell, B. A. Smith, and R. J. Harmon. 2003. 
+Role of dietary copper in enhancing resistance to Escherichia coli 
+mastitis.  J. Dairy Sci.  86:1240–1249.
+Schonewille, J. T., H. Everts, S. Jittakhot, and A. C. Beynen. 2008. 
+Quantitative prediction of magnesium absorption in dairy cows.  J. 
+Dairy Sci.  91:271–278.
+Socha, M. T., D. J. Tomlinson, and J. M. DeFrain. 2009. Variability of 
+water composition and potential impact on animal performance. 
+Pages 58–70 in Proc. Calif. Anim. Nutr. Conf., Fresno, CA. CANC 
+2009 Steering Committee, ed.
+Stewart, B. A., R. E. James, M. D. Hanigan, and K. F. Knowlton. 
+2012. Cost of reducing protein and phosphorus content in dairy 
+rations.  Prof. Anim. Sci.  28:115–119.
+Tracy, M. L., and G. Moeller. 1990. Continuous flow vapor generation 
+for inductively coupled argon plasma spectrometric analysis. Part 
+1: Selenium.  J. Assoc. Off. Anal. Chem.  73:404–410.
+Valk, H., and J. Kogut. 1998. Salt block consumption by high yielding 
+dairy cows fed rations with different amounts of NaCl.  Livest. 
+Prod. Sci.  56:35–42.
+van Hulzen, K. J. E., R. C. Sprong, R. van der Meer, and J. A. 
+M. van Arendonk. 2009. Genetic and nongenetic variation in con-
+centration of selenium, calcium, potassium, zinc, magnesium, and 
+phosphorus in milk of Dutch Holstein-Friesian cows.  J. Dairy Sci.  
+92:5754–5759.
+Weiss, W. P. 2004. Macromineral digestion by lactating dairy cows: 
+Factors affecting digestibility of magnesium.  J. Dairy Sci.  
+87:2167–2171.
+Weiss, W. P., and M. T. Socha. 2005. Dietary manganese for dry and 
+lactating Holstein cows.  J. Dairy Sci.  88:2517–2523.
+Weiss, W. P., and D. J. Wyatt. 2004. Macromineral digestion by lac-
+tating dairy cows: Estimating phosphorus excretion via manure.  
+J. Dairy Sci.  87:2158–2166.

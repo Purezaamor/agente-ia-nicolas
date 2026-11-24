@@ -1,0 +1,819 @@
+=== Fuente: Ehrhardt Development of a specific radioimmunoassay to measure physiological changes of circulating leptin in cattle and s.pdf ===
+
+Development of a speciﬁc radioimmunoassay to measure
+physiological changes of circulating leptin in cattle and sheep
+R A Ehrhardt, R M Slepetis, J Siegal-Willott, M E Van Amburgh,
+A W Bell and Y R Boisclair
+Department of Animal Science, Cornell University, Ithaca, New York 14853, USA
+(Requests for offprints should be addressed to Y R Boisclair, 259 Morrison Hall, Cornell University, Ithaca, New York 14853–4801, USA;
+Email: yrb1@cornell.edu)
+Abstract
+Studies of leptin in large domestic ruminants have been
+limited to measurements of gene expression because
+methods to measure circulating levels are not available. To
+develop a bovine leptin radioimmunoassay, we produced
+recombinant bovine leptin and used it to immunize
+rabbits, and to prepare bovine leptin tracer and standards.
+A single antiserum with suﬃcient aﬃnity and titer was
+identiﬁed. Using this antiserum, logit-transformed binding
+of 125I-labeled bovine leptin was linearly related (R2=
+0·99) to the log of added bovine or ovine leptin between
+0·1 to 2·0 ng. Serial dilution of bovine and ovine plasma,
+chicken serum and bovine milk gave displacement curves
+that were parallel to those of bovine or ovine leptin.
+Recoveries of external addition of bovine leptin in ewe
+and cow plasma ranged between 94 and 104%. Plasma
+leptin concentration measured by this assay was directly
+related to the plane of nutrition in growing calves and
+lambs. At 11–14 weeks of age, ewe lambs had a higher
+circulating leptin concentration than ram lambs. Finally,
+plasma leptin concentration was linearly related to the fat
+content of the empty carcass in growing cattle and to body
+condition score in lactating dairy cows. We conclude that
+circulating leptin in sheep and cattle is increased by fatness
+and plane of nutrition, consistent with results in humans
+and rodents. This assay provides an important tool to
+investigate mechanisms that regulate plasma leptin in cattle
+and sheep.
+Journal of Endocrinology (2000) 166, 519–528
+Introduction
+Leptin, the product of the OB gene, is a protein secreted
+predominantly by white adipose tissue (WAT) (Flier 1997,
+Friedman & Halaas 1998, Houseknecht & Portocarrero
+1998). Leptin acts on the central nervous system and
+perhaps on peripheral tissues to regulate food intake,
+the storage and dissipation of energy and the coordination
+of metabolism during periods of suboptimal nutrition
+(Flier 1997, Friedman & Halaas 1998, Houseknecht &
+Portocarrero 1998). Leptin also plays important roles in
+regulating processes critically dependent on energy supply
+such as reproductive and immune functions (Ahima et al.
+1997, Finn et al. 1998, Lord et al. 1998, Cunningham et al.
+1999).
+Thus far, actions and regulation of leptin have been
+studied most extensively in rodents and humans (Caro
+et al. 1996, Flier 1997, Friedman & Halaas 1998). Leptin
+mRNA in WAT and plasma leptin are increased chroni-
+cally by body fatness and by short term cues indicative of
+abundant nutrient supply such as insulin, and decreased by
+underfeeding, sympathetic activation of WAT and by cold
+exposure (Caro et al. 1996, Flier 1997, Trayhurn et al.
+1998). Leptin cDNAs have been cloned in most domestic
+animals including cattle, sheep, pigs and chickens (Bidwell
+et al. 1997, Dyer et al. 1997, Mendiola et al. 1997, Ji et al.
+1998, Taouis et al. 1998). In these animals, leptin mRNA
+is also expressed predominantly in WAT, with the excep-
+tion of the chicken which has high expression in liver
+(Taouis et al. 1998, Ashwell et al. 1999a). Leptin gene
+expression in WAT is increased by adiposity in pigs
+(Bidwell et al. 1997, Ramsay et al. 1998) and decreased by
+feed restriction in pigs and sheep (Bocquier et al. 1998,
+Spurlock et al. 1998). In chickens, feed restriction de-
+creases leptin expression in both WAT and liver (Ashwell
+et al. 1999b).
+Research on the biology of leptin in domestic animals
+has been seriously hampered by the lack of homologous
+leptin radioimmunoassays (RIAs). Estimates of plasma
+leptin have been reported in pigs (Qian et al. 1999), sheep
+(Bocquier et al. 1998) and cattle (Chilliard et al. 1998)
+using a commercial assay originally designed to measure
+human leptin (Ma et al. 1996). Essentially, no validation
+was reported for the use of this RIA in sheep or cattle
+samples. In preliminary work, we found that this RIA
+provided estimates of plasma leptin in sheep and cattle that
+were low and unresponsive to changes in nutrition or
+adiposity. Therefore, the aim of the present work was to
+519
+Journal of Endocrinology (2000) 166, 519–528
+0022–0795/00/0166–519 /p30 2000 Society for Endocrinology Printed in Great Britain
+Online version via http://www.endocrinology.org
+develop a speciﬁc RIA for bovine leptin and to provide
+evidence for regulation of circulating leptin by nutrition
+and fatness in cattle and sheep.
+Materials and Methods
+General reagents and methods
+Recombinant human (lot #AFP496C) and mouse leptin
+(lot #AFP341C) were obtained through the National
+Hormone and Pituitary Program and Dr Parlow (Torrance,
+CA, USA). Recombinant ovine leptin was purchased from
+Diagnostic Service Laboratory (Webster, TX, USA). The
+Multi-Species Leptin RIA was obtained from Linco
+Research Inc. (St Charles, MO, USA). The polymerase
+chain reaction (PCR) was performed using a Thermal
+cycler (GeneAmp PCR System 2400, Perkin Elmer,
+Norwalk, CT, USA). DNA sequencing, quantitative
+amino acid analysis and oligonucleotide synthesis were
+performed by the Biotechnology Resource Center at
+Cornell University (Ithaca, NY, USA). Restriction endo-
+nucleases and DNA modifying enzymes were purchased
+from Life Technologies (Gaithersburg, MD, USA) or New
+England Biolabs (Beverly, MA, USA). A Micromedic
+4/200 plus Automatic Gamma Counter (Micromedic,
+Horsham, PA, USA) was used for /afii9828-counting. Densito-
+metry was performed using an IS-1000 Digital Imaging
+System (Alpha Innotech, San Leandro, CA, USA).
+Production of recombinant bovine leptin
+Total RNA from subcutaneous WAT of an adult Holstein
+cow was reversed transcribed using random hexamers and
+AMV reverse transcriptase (Boisclair et al. 1996). The
+resulting cDNAs were used in PCR to amplify a fragment
+corresponding to nt+64 to nt+518 relative to (A+1TG) of
+the bovine leptin cDNA (GenBank accession #U50365).
+PCR was performed with the forward primer 5/p9GT-
+GCCCATCCGCAAGGTCCAGGAT 3/p9, the reverse
+primer 5/p9AGGCCTTCAAGGCTTCAGCA 3/p9 and
+KlenTaq DNA polymerase as recommended by the
+manufacturer (Clontech, Palo Alto, CA, USA).
+Using a second PCR, a unique BamHI site and the
+sequence coding for an enterokinase digestion site was
+added with forward primer 5/p9gccggatccagatgacgatgaca
+aaGTGCCCATCCGCAAGGTCCAGGAT 3/p9 (added
+sequence is shown in lower case), and an SalI site was
+added with reverse primer 5/p9ggccgtcgacttaTCAGCAC
+CCGGGACTGAGGTCCAG 3/p9. The expression plasmid
+bleptinA was obtained by inserting the resulting PCR
+product between the BamHI and SalI sites of pQE31
+(Qiagen, Valencia, CA, USA). A second expression plas-
+mid (bleptinB) was created by PCR using forward primer
+5/p9ggccggatccgatgacgatgacaaagccGTGCCCATCCGCAAG
+GT 3/p9 and the same reverse primer, followed by insertion
+of this product between the BamHI and SalI sites of
+pQE30 (Qiagen). Expression vectors were shown by
+DNA sequencing to encode mature bovine leptin (amino
+acid residues 22 to 167 of unprocessed bovine leptin) with
+an amino acid sequence identical to that of Kawakita
+(GenBank accession #AB003143). Leptin was preceded
+by the puriﬁcation tag MRGSHHHHHHTDPDDDDK
+in bleptinA and by the puriﬁcation tag MRGSHHHHH
+HGSDDDDKA in bleptinB.
+Expression vectors were transformed into the Escherichia
+coli strain M15, and leptin expression and puriﬁcation were
+performed according to the instructions of the manufac-
+turer (Qiagen). Brieﬂy, leptin synthesis was induced by
+addition of isopropyl-/afii9826--thiogalactopyranoside (IPTG) to
+a ﬁnal concentration of 1 mM. Cell pellets were lyzed in
+6 M guanidinium hydrochloride, 100 mM NaH2PO4,
+10 mM Tris-HCl, pH 8 (lysis buﬀer). His-tagged bovine
+leptin was adsorbed to Ni-NTA resin for 45 min at 20 /p8C.
+The resin was washed with step gradients of 20 and 50 mM
+imidazole in lysis buﬀer, followed by elution of bovine
+leptin with 250 mM imidazole in lysis buﬀer (elution
+buﬀer). Yield was typically 35–40 mg/l of E. coli culture.
+Bovine leptin was refolded according to a procedure
+described by Fawzi et al. (1996) for human leptin. Six
+milliliters elution buﬀer, containing approximately 12 mg
+bovine leptin, were slowly infused over a 20-h period into
+750 ml refolding buﬀer (50 mM Tris-HCl, pH 8·8,
+150 mM NaCl, 5 mM EDTA, 2 mM reduced and
+0·2 mM oxidized glutathione) and then gently mixed for
+an additional 24 h at 20 /p8C. The solution was concentrated
+approximately 50-fold at 4 /p8C using an ultraﬁltration unit
+(Amicon, Beverly, MA, USA) ﬁtted with a YM10 regen-
+erated cellulose membrane (Millipore, Bedford, MA,
+USA). The concentrated solution was dialyzed 4 times
+against a 200-fold excess of 5 mM phosphate buﬀer, pH 8
+and 50 mM NaCl using a Spectra/Por membrane (8 kDa
+molecular mass cut-oﬀ, Spectrum, Houston, TX, USA).
+The puriﬁcation tag was removed from recombinant
+bovine (rb) leptinB by incubation with recombinant entero-
+kinase (1 U/mg protein at 20 /p8C for 16 h) (Novagen,
+Madison, WI, USA). The reaction was terminated by
+addition of 4-(2-aminoethyl)-benzenesulfonyl ﬂuoride
+hydrochloride (ICN, Costa Mesa, CA, USA) to a ﬁnal
+concentration of 2 mM. The puriﬁcation tag was adsorbed
+to Ni-NTA resin in 50 mM NaH2PO4,pH8,300mM
+NaCl, 0·1% Triton X-100 (1 h at 20 /p8C). After removing
+the resin by centrifugation, mature bovine leptin (rbleptin)
+was concentrated by ultraﬁltration and then buﬀer
+exchanged as above. The concentration of rbleptin
+was determined by quantitative amino acid analysis
+(Bidlingmeyer et al. 1984).
+Production of antisera against bovine leptin
+Refolded rbleptinA (100 µg in 0·5 ml 12 mM phosphate
+buﬀer containing 150 mM NaCl, pH 8 (PBS)) was
+R A EHRHARDT and others · Bovine leptin RIA520
+www.endocrinology.orgJournal of Endocrinology (2000) 166, 519–528
+emulsiﬁed with an equal volume of complete Freund’s
+adjuvant for the primary immunizations or with incom-
+plete Freund’s adjuvant for the secondary immunizations.
+Emulsions were injected into 10 subcutaneous sites of
+5 Flemish Giant/p2Chinchilla rabbits. Secondary im-
+munizations were performed 2 weeks after the primary
+immunization and at 4-week intervals thereafter. Blood
+samples (5–10 ml) were collected 10 days following all
+secondary immunizations by venipuncture of the ear.
+Serum was stored at /p120 /p8C until further analysis.
+RIA procedures
+rbleptin (2·5 µg) was dissolved in 50 µl 50 mM Na2PO4,
+pH 8, 0·1% Triton X-100 and iodinated with 0·5 mCi
+Na125I (Amersham Pharmacia Biotech, Piscataway, NJ,
+USA) using 2 µg Iodo-gen (Pierce, Rockford, IL, USA).
+After 2 min, the reaction was stopped by addition of 50 µl
+PBS containing 10 mg/ml tyrosine, 10% glycerol and
+0·1% xylene cyanol. The reaction was applied to a
+Sephadex G-50 column equilibrated with PBS containing
+0·01% NaN3. Fractions (/p93300 µl) were eluted into tubes
+containing 1 ml assay buﬀer (PBS, pH 8, containing 0·01%
+NaN3 and 1% bovine serum albumin (BSA, RIA grade,
+Sigma, St Louis, MO, USA)). Radioactivity of each
+fraction was determined by /afii9828-counting. Incorporation of
+radioactivity into bovine leptin was 55–60%, yielding a
+tracer with a speciﬁc radioactivity of /p93200 µCi/µg.
+A disequilibrium, double antibody RIA was established.
+Unknown samples (25–200 µl, 100 µl in routine use) or
+mature rbleptin standards were diluted to 400 µl with assay
+buﬀer in glass tubes and pre-incubated for 2 h at 20 /p8Cin
+the presence of 0·375% (w/v) sodium dodecyl sulfate.
+When milk was analyzed, it was ﬁrst sonicated and mixed
+thoroughly prior to addition to assay sample buﬀer
+(Houseknecht et al. 1997). This was followed by the
+addition of 100 µl of the primary antiserum (diluted 1:300
+in assay buﬀer supplemented with 0·2% non-immunized
+rabbit serum). After 16 h incubation at 4 /p8C, 125I-labeled
+rbleptin (20 000 c.p.m. in 100 µl assay buﬀer) was added
+and allowed to equilibrate for 8 h at 4 /p8C. Separation of
+bound and free ligand was initiated by the addition of
+200 µl 50 mM phosphate buﬀer, pH 8, containing 5%
+(v/v) ovine anti-rabbit /afii9828-globulin (kind gift of W R
+Butler, Cornell University). After 16 h incubation at 4 /p8C,
+1 ml ice-cold 50 mM phosphate buﬀer, pH 8, contain-
+ing 3% (w/v) polyethylene glycol (PEG 8000) was added.
+The tubes were centrifuged immediately (1670/p2g,
+30 min at 4 /p8C) and the supernatant decanted. Precipitated
+radioactivity was quantiﬁed by /afii9828-counting.
+The Multi-Species Leptin RIA is also a disequilibrium,
+double antibody assay and was performed exactly as
+recommended by the supplier (Linco Research Inc.).
+Brieﬂy, plasma or recombinant human leptin standard
+(100 µl) was combined with assay buﬀer (200 µl; 50 mM
+phosphate buﬀer, pH 7·4, containing 150 mM NaCl,
+0·1% NaN3,0·05% Triton X-100, and 1% RIA grade
+BSA). After addition of guinea pig anti-human leptin
+antibody (100 µl), tubes were incubated for 20 h at 4 /p8C.
+Next, 125I-labeled human leptin tracer was added (100 µl,
+/p9320 000 c.p.m.). After 20 h at 4 /p8C, the supplier’s pre-
+cipitating reagent was added (1·0 ml) to precipitate bound
+leptin. After centrifugation, bound radioactivity was quan-
+tiﬁed exactly as for the bovine leptin RIA. Sensitivity of
+this assay is 100 pg or 1·0 ng/ml. Intra- and interassay
+coeﬃcients of variation for ovine and bovine samples were
+less than 8% and 15% respectively.
+Animal studies
+Experimental procedures were conducted with the ap-
+proval of the Cornell University Animal Use and Care
+Committee. Human serum was obtained from an adult
+male in accordance with the regulations of the Cornell
+University Committee on Human Subjects. Unless other-
+wise noted, all plasma samples were prepared using sodium
+heparin (15 IU/ml). Bovine milk was obtained from a
+Holstein cow and stored at /p120 /p8C until analysis.
+To study the eﬀects of nutrition in growing cattle,
+Holstein bull calves were fed a specially formulated milk
+replacer so as to grow at target rates of 500 or 1400 g/day
+from day 3 of postnatal life until they reached 105 kg body
+weight (5 calves per feeding level). The milk replacer was
+oﬀered 3 times per day and contained 31 g crude protein,
+20 g fat and 5·0 Mcal gross energy per kg dry matter. Four
+days before slaughter, blood samples were obtained within
+4 h of the ﬁrst feeding by jugular venipuncture. Fat
+content of the empty whole body (i.e. after removal of
+gastrointestinal contents) was determined by ether extrac-
+tion as applied by Diaz et al. (1998).
+Blood samples were obtained via coccygeal veni-
+puncture from 22 lactating Holstein cows (4·1/p50·3 years
+old, parity number=2·3/p50·3). They were sampled at day
+261/p516 of lactation when they produced 30/p52·2kg
+milk. The cows were oﬀered a single diet (18% crude
+protein, 2·2 Mcal metabolizable energy (ME)/kg dry
+matter) and were assigned a body condition score accord-
+ing to the method of Wildman et al. (1982) (1=thin,
+5=fat).
+Eﬀects of nutrition were also studied in weaned 11 to
+14-week-old Finn/p2Dorset lambs fed a moderate quality
+diet (12% crude protein, 2·17 Mcal ME/kg dry matter) or
+a high quality diet (19% crude protein, 2·76 Mcal ME/kg
+dry matter) available ad libitum (4 rams and 4 ewes per
+treatment). Lambs were housed in ﬂoor pens at 18 /p8C and
+ambient light (11 h light : 13 h darkness). After 6 weeks,
+blood samples were obtained by jugular venipuncture 6 h
+after feeding and processed to plasma. In addition, blood
+from 4 of these lambs was processed to serum, or to plasma
+using K3EDTA (1·7 mg/ml) or sodium heparin (15 IU/
+ml). Finally, blood samples were obtained from 28 adult
+Bovine leptin RIA · R A EHRHARDT and others 521
+www.endocrinology.org Journal of Endocrinology (2000) 166, 519–528
+Karakul ewes by jugular venipuncture to compare esti-
+mates of plasma leptin obtained by the bovine leptin and
+the Multi-Species RIAs.
+Statistics
+The eﬀect of nutrition in calves was analyzed by one-way
+analysis of variance. The relation between plasma leptin
+concentration and fatness (body condition score in lactat-
+ing cows, percentage body fat in calves) was assessed by
+linear regression. Estimates for plasma leptin concentration
+in lambs were analyzed by a model accounting for the
+eﬀects of sex and diet. Leptin concentrations in ovine
+plasma and serum were compared by a model accounting
+for the eﬀects of lamb and sample preparation. The slopes
+of the relationships between logit transformed 125I-labeled
+rbleptinB binding and the log of added sample or standard
+were compared by analysis of variance. All statistics were
+performed using the Statistical Analysis System (SAS,
+Cary, NC, USA).
+Results
+Expression of recombinant bovine leptin
+In the presence of IPTG, E. coli M15 cells transformed
+with plasmid bleptinA overexpressed a protein having an
+apparent molecular mass of 16 kDa (Fig. 1). After metal
+aﬃnity chromatography, this his-tag containing protein
+accounted for more than 95% of total protein by densito-
+metric analysis of SDS-PAGE gels stained with Coomassie
+Brilliant Blue R-250 (Fig. 1). Following refolding, the
+purity of the 16 kDa protein, referred to as rbleptinA,
+remained greater than 95% (Fig. 1). This preparation of
+rbleptinA was used to immunize rabbits.
+We attempted to prepare native bovine leptin from
+rbleptinA by removing the puriﬁcation tag with recom-
+binant bovine enterokinase. Enterokinase was unable to
+cleave the puriﬁcation tag due to the presence of a pro-
+line residue next to the enterokinase digestion site (see
+Materials and Methods). To correct this problem, we
+produced rbleptinB which is devoid of proline residues in
+the puriﬁcation tag and contains an alanine spacer between
+the enterokinase site (DDDDK) and valine 22, the ﬁrst
+amino acid residue of mature bovine leptin. Incubation of
+puriﬁed, refolded rbleptinB with enterokinase reduced its
+apparent molecular mass from 16 to 14·3 kDa, indicating
+removal of the puriﬁcation tag (Fig. 2). Identity of the
+14·3 kDa protein with native bovine leptin was conﬁrmed
+by quantitative amino acid analysis. This refolded
+14·3 kDa protein was used as tracer and standard in the
+RIA and is referred to as rbleptin.
+Figure 1 Expression and puriﬁcation of bovine leptin. Fractions collected during
+puriﬁcation were electrophoresed on a 12% SDS-polyacrylamide gel. Proteins were
+visualized by Coomassie Brilliant Blue R-250 staining. E. coli cells transformed with the
+expression vector bleptinA were grown in the absence (/p1IPTG, lane 2) or presence of
+IPTG (+IPTG, lane 3). Induced cells were lyzed with 6 M guanidinium-HCl and
+incubated with Ni-NTA resin. Other lanes correspond to the ﬂow-through following resin
+loading into a column (Flow through, lane 4), column wash with 6 M guanidinium-HCl
+and 20 mM imidazole (Wash, lane 5), elution with 6 M guanidinium-HCl and 250 mM
+imidazole (Elution, lane 6) and 3 /afii9839g refolded rbleptinA (Refolded, lane 7). Artifacts
+present in lanes 5 and 6 represent cracks created when drying the gel. The molecular
+weight markers are shown in lane 1.
+R A EHRHARDT and others · Bovine leptin RIA522
+www.endocrinology.orgJournal of Endocrinology (2000) 166, 519–528
+Bovine leptin RIA
+After 4 rounds of secondary immunization, an antiserum
+from a single rabbit had acceptable characteristics for use in
+RIA. At a ﬁnal dilution of 1:1800, this antiserum bound
+35–40% of 125I-labeled rbleptin radioactivity in the ab-
+sence of unlabeled rbleptin (B0). Addition of increasing
+amounts of unlabeled rbleptin or recombinant ovine leptin
+inhibited the binding of 125I-labeled rbleptin in a dose-
+dependent manner (Fig. 3, left panel). Logit-transformed
+binding was linearly related to the log of added rbleptin
+between 0·1 and 2·0 ng/tube (R2 >0·99). Non-speciﬁc
+binding of 125I-labeled rbleptin, measured by omission of
+the primary antiserum, was 2·5–3·5% of the total counts
+for standards and unknown samples. In contrast, recom-
+binant mouse or human leptin displaced 125I-labeled
+rbleptin binding poorly, even at the maximal mass of
+12·8 ng.
+To evaluate this RIA further, we measured displace-
+ment of 125I-labeled rbleptin by bovine and ovine plasma
+(Fig. 3, left panel). Serial dilution of cow or ewe plasma
+gave displacement curves that were parallel to those of the
+recombinant bovine or ovine leptin. Recoveries of added
+rbleptin (0·2 and 0·4 ng) were assessed in plasma obtained
+from either 3 pregnant (270–275 days post-insemination)
+or 3 non-pregnant cows (Table 1). Recoveries varied from
+94% to 104%, with no eﬀects of pregnancy status or mass
+of added rbleptin. Recovery of rbleptin was also evaluated
+Figure 2 Removal of the puriﬁcation tag from recombinant bovine
+leptin. Refolded rbleptinB was incubated in the presence (+, lane
+2) or absence (/p1, lane 3) of enterokinase (1 IU/mg protein, 16 h
+at 20 /p8C) and analyzed by electrophoresis on a 15% SDS-
+polyacrylamide gel. Proteins were visualized by staining the gel
+with Coomassie Brilliant Blue R-250. Molecular weight markers are
+shown in lane 1.
+Figure 3 Competitive displacement of rbleptin. Left panel: in the absence of any additions, binding of 125I-labeled rbleptin (B0) was 38%
+of the total tracer and non-speciﬁc binding was 3·0%. 125I-labeled rbleptin was displaced by addition of unlabeled recombinant leptin
+(bovine /p12, ovine /p11, mouse /p19 and human /p15), or by addition of plasma (bovine /p14 and ovine M). For each addition, 125I-labeled rbleptin
+bound to the antisera is expressed as a fraction of B0 (B/B0). Identical displacement curves were obtained with additional plasma obtained
+from non-pregnant ewes (n=2) or non-pregnant (n=2) and late pregnant (day 270–275 post insemination, n=3) dairy cows. Right panel:
+speciﬁcity of the bovine RIA. Competition for 125I-labeled rbleptin binding, expressed as a fraction of B0, is shown for unlabeled rbleptin
+(/p12), serum from various species (chicken /p19,pig/p11, mouse /p14 and human /p15) and bovine milk (M). B0 was 36% and non-speciﬁc binding
+was 2·9% of the total tracer added.
+Bovine leptin RIA · R A EHRHARDT and others 523
+www.endocrinology.org Journal of Endocrinology (2000) 166, 519–528
+in plasma pools obtained from non-pregnant ewes. Again,
+quantitative recoveries ranging from 96% to 98% were
+obtained (Table 1).
+Bovine milk and serum from other species were also
+evaluated for their ability to displace rbleptin tracer
+binding from the antiserum (Fig. 3, right panel). The
+slopes of the relationship between logit transformed 125I-
+labeled rbleptin binding and the log of added bovine milk
+and hen serum were parallel to those of the rbleptin
+standards whereas the slope produced by sow serum was
+not (P<0·05). Human and mouse serum produced little
+dose-dependent displacement of 125I-labeled rbleptin,
+which is consistent with results obtained above with
+recombinant mouse and human leptin (Fig. 3, left panel).
+To determine if the method of sample preparation
+aﬀected the estimation of circulating leptin, a single blood
+sample was obtained from each of 4 lambs and processed to
+serum, to plasma using K3EDTA and to plasma using
+heparin. The concentration of leptin in plasma prepared
+with EDTA (6·8/p50·5 ng/ml) or heparin (7·0/p50·4 ng/
+ml) did not diﬀer. In addition, leptin concentration in
+plasma did not diﬀer from that in serum (7·3/p50·5 ng/ml).
+Overall, these data indicate that this RIA provides
+reliable estimates of leptin in bovine and ovine plasma.
+Under routine use, the sensitivity of this assay, deﬁned as
+the lowest standard mass distinguishable from the zero
+standard, was 50 pg or 0·5 ng/ml. Half-maximal displace-
+ment (ED50) of tracer binding to the antiserum occurred
+at 0·61/p50·03 ng or 6·1/p50·3 ng/ml (mean/p5standard
+error; n=6 standard curves). Finally, intra- and interassay
+coeﬃcients of variation in bovine plasma were less than 4%
+and 10% respectively, and in ovine plasma were less than
+4% and 8% respectively.
+Measurement of leptin in cattle and sheep
+Next, we assessed the ability of the bovine RIA to detect
+changes in plasma leptin related to plane of nutrition and
+body fatness. As expected, calves oﬀered the highest plane
+of nutrition grew the fastest (1200/p5190 vs 597/p563 g/
+day, P<0·05). Plasma leptin concentration was elevated by
+46% in the fast-growing calves compared with the slower-
+growing calves (6·7/p50·5vs4·6/p50·2 ng/ml, P<0·01). In
+Table 1 Bovine leptin is quantitatively recovered in bovine and
+ovine plasma. Recoveries of added rbleptin are expressed as
+recovered/expected/p2100 (mean/p5standard error)
+Leptin2
+(ng) % recovered
+Plasma1
+Sheep 0·298/p53·6
+0·496/p54·2
+Cattle
+Non-pregnant 0·2 104/p56·6
+0·497/p57·0
+Pregnant 0·296/p52·1
+0·494/p53·5
+1Plasma was obtained from four non-pregnant, non-lactating sheep or six
+dairy cows (3 non-lactating cows on day 270–275 post-insemination and 3
+lactating, non-pregnant cows). 2Additions of rbleptin were performed in
+either 50 or 100 µl of plasma. These data were pooled because volume did
+not alter recovery.
+Figure 4 Relationship between plasma leptin concentration and fatness in cattle. Left panel: from day 3 of
+postnatal life, calves were fed a milk replacer at levels sustaining growth rates of 597 (/p11)or1200(/p12)
+g/day. Plasma leptin concentration was measured in samples obtained 4 days before slaughter at 105 kg
+live body weight. Fat content of the empty body was measured by ether extraction. Right panel: plasma
+leptin concentration was measured in dairy cows offered a single diet available ad libitum during late
+lactation (day 261/p516 of lactation), and fatness was estimated by body condition scoring (Wildman et al.
+1982).
+R A EHRHARDT and others · Bovine leptin RIA524
+www.endocrinology.orgJournal of Endocrinology (2000) 166, 519–528
+these animals, plasma leptin was linearly related to the fat
+content of the empty carcass (r=0·91, P<0·001; Fig. 4, left
+panel).
+To evaluate the possibility that circulating leptin and
+fatness are also related in adult cattle, plasma leptin
+concentration was measured in well-fed cows over the last
+third of lactation. All animals were estimated to be in
+positive energy balance at that time (NRC 1988). Body
+condition score, an indirect appraisal of body energy and
+protein reserves, explained 37% of the variation in plasma
+leptin concentration in these animals (P<0·005; Fig. 4,
+right panel).
+Finally, we asked whether nutrition also aﬀected circu-
+lating leptin concentration in growing lambs. Lambs
+consumed similar quantities of a moderate quality or a high
+quality diet (1330/p540 vs 1176/p577 g/day, moderate vs
+high quality). However, lambs receiving the higher qual-
+ity diet grew faster (400/p521 vs 306/p515 g/day, high vs
+moderate, P<0·001) and had plasma leptin concentrations
+that were elevated by 51% (Fig. 5, left panel). In addition,
+concentration of leptin in plasma was higher in ewe lambs
+than in ram lambs regardless of dietary treatment (Fig. 5,
+right panel). This diﬀerence occurred in the absence of
+signiﬁcant sex diﬀerences in dry matter intake (1311/p5
+56 vs 1194/p5118 g/day, rams vs ewes) or in average body
+weight gain (379/p523 vs 328/p529 g/day, rams vs ewes).
+Comparisons to Multi-Species RIA
+Others have used the Multi-Species Leptin RIA to
+measure plasma leptin concentration in sheep and cattle
+(Bocquier et al. 1998, Chilliard et al. 1998). This commer-
+cial RIA is based on an antiserum raised against human
+leptin, and uses human leptin as tracer and standards.
+Estimates obtained with the bovine leptin RIA and the
+commercial RIA were compared for both cattle and sheep.
+In growing cattle (n=10), plasma leptin concentrations
+measured by the bovine RIA were higher (5·4/p50·3 ng/
+ml) than those measured by the Multi-Species RIA
+(2·8/p50·3 ng/ml), but no relationship existed between
+them (results not shown). In adult sheep, the bovine RIA
+measured plasma leptin concentrations that were consist-
+ently greater than those of the commercial assay and
+estimates from both assays were positively correlated
+(r=0·79, P<0·001, Fig. 6).
+Figure 5 Effect of plane of nutrition (left panel) and sex (right panel) on circulating plasma
+leptin in growing lambs. Ram or ewe lambs were fed a diet of moderate or high quality
+available ad libitum for 6 weeks. Plasma leptin concentration was analyzed by the bovine
+leptin RIA. Means/p5standard errors (8 lambs per diet or sex) differ at P<0·005 (a, b) or
+P<0·05 (c, d).
+Figure 6 Relationship between leptin concentration measured by
+the bovine RIA and the Multi-Species RIA in sheep plasma. Plasma
+was obtained from 28 adult sheep. The relationship between
+plasma leptin concentration measured by both assays was
+modestly altered by removing the animal with the highest plasma
+leptin concentration (y=2·88x/p10·71, R2=0·52).
+Bovine leptin RIA · R A EHRHARDT and others 525
+www.endocrinology.org Journal of Endocrinology (2000) 166, 519–528
+Discussion
+The primary objective of this work was to develop an RIA
+for measuring leptin in bovine plasma. This required
+production of rbleptin as a source of antigen and for the
+preparation of radioiodinated tracer and standards. Using
+one of many antisera that we produced, an RIA with
+suﬃcient sensitivity to detect concentrations of circulating
+leptin in plasma was established. Serial dilution of bovine
+plasma and rbleptin produced parallel displacement curves
+indicating that the antiserum recognized recombinant and
+plasma leptin in an identical manner. Moreover, additions
+of rbleptin were quantitatively recovered in plasma. Both
+of these validations were successful with plasma originating
+from pregnant and non-pregnant dairy cows. The eﬀect of
+pregnancy was evaluated because a soluble form of the
+mouse leptin receptor has been shown to be markedly
+elevated in plasma during late pregnancy in the mouse
+(Gavrilova et al. 1997). Our recovery and parallelism
+studies suggest that if this secreted receptor is induced
+during pregnancy in cattle, it does not introduce a
+signiﬁcant bias in estimating leptin concentration in
+bovine plasma.
+Tracer displacement studies suggested additional
+applications for this RIA. First, bovine milk displaced
+tracer binding in a manner parallel to that of rbleptin,
+indicating that our assay detects leptin in milk. This
+ﬁnding is not surprising as leptin has been shown to be
+present in both whole and skimmed human milk
+(Casabiell et al. 1997, Houseknecht et al. 1997) and
+human mammary epithelial cells have been reported to
+synthesize leptin (Smith-Kirwin et al. 1998). Secondly,
+recombinant ovine leptin and ovine plasma yielded
+displacement curves that were essentially identical to
+those of bovine materials. This was expected given the
+near identity of sheep and bovine leptin (144 out of 146
+amino acids; Dyer et al. 1997, GenBank accession
+#U50365). Our results also suggest that the bovine
+antisera could serve to develop an RIA for chicken
+leptin, particularly if recombinant chicken leptin can be
+used as tracer and standard. In contrast, the bovine RIA
+has limited usefulness in the pig, and is unable to
+quantitatively detect mouse and human leptin.
+Using this RIA, we have shown that factors known to
+regulate plasma leptin in rodents and humans have similar
+eﬀects in cattle and sheep. Plasma leptin concentration was
+elevated in growing calves and lambs on a high plane of
+nutrition. Moreover, in the calf study, the concentration of
+leptin in plasma was found to be positively correlated with
+body fatness (R2=0·83, P<0·001). Body composition was
+not determined in the growing lambs, but subjective
+assessment suggested that the better fed lambs were fatter
+when plasma leptin was measured. Because plasma leptin
+was measured after an extended period of treatment in
+both of these studies, both level of nutrition and body
+composition probably inﬂuenced the changes in plasma
+leptin concentration. Others have reported that better
+nutrition and adiposity increase circulating leptin con-
+centration in both rodents (Ahren et al. 1997, Cha &
+Jones 1998, Landt et al. 1998) and humans (Maﬀei et al.
+1995, Considine et al. 1996, Havel et al. 1996). Studies
+in which plasma leptin is measured before body compo-
+sition is signiﬁcantly altered are needed to resolve this
+issue.
+We also demonstrated that circulating leptin and body
+condition score are positively correlated in lactating dairy
+cows. The high producing cows used in this study
+(/p9311 000 kg milk/305 day lactation) were relatively lean,
+with condition scores ranging from 1·75 to 3·75. Accord-
+ing to the prediction equations of Waltner et al. (1994),
+these scores correspond to a range of body fat content of 10
+to 22%. Despite being an indirect measure of fatness, body
+condition score explained 37% of the variation in plasma
+leptin concentration in these lactating cows. These data in
+lactating and growing cattle agree with the variation in
+leptin concentration explained by body fatness (25–78%)
+in populations of lean and obese adult humans (Considine
+et al. 1996, Havel et al. 1996, Hosoda et al. 1996, Kennedy
+et al. 1997, Saad et al. 1997).
+In growing lambs, plasma leptin concentration was
+higher in ewes than in rams regardless of dietary treatment.
+A similar sexual dimorphism in circulating leptin has been
+demonstrated in both adolescent (Roemmich et al. 1998)
+and adult (Kennedy et al. 1997, Saad et al. 1997) humans,
+but is reversed in the rat (Landt et al. 1998). In humans,
+this dimorphism has been attributed to diﬀerences in
+overall adiposity, distribution of WAT, and variation in
+leptin expression across depots (Montague et al. 1997,
+Roemmich et al. 1998). In this study, the lambs were
+approaching puberty when sampled, but the precise
+timing and basis for the sexual dimorphism in plasma
+leptin will require further study.
+Leptin concentrations measured by the Multi-Species
+assay in adult sheep and growing cattle plasma were
+considerably lower than those obtained by the bovine
+RIA. This discrepancy may be explained by the limited
+ability of the antisera used in the Multi-Species assay to
+bind rbleptin (results not shown). Estimates of leptin
+concentrations obtained by both assays were positively
+correlated in adult sheep plasma, but not in cow plasma.
+More importantly, when plasma from growing cattle were
+analyzed for leptin concentration by the Multi-Species
+assay, eﬀects of nutrition were not detected, and circulat-
+ing leptin was not related to body fat (results not shown).
+These ﬁndings suggest that the Multi-Species assay will
+detect diﬀerences only when eﬀects of treatments are large
+and experimental errors are low (Bocquier et al. 1998,
+Chilliard et al. 1998).
+In summary, these results demonstrate that we have
+developed a sensitive RIA for the measurement of leptin
+in both cattle and sheep. This assay measures plasma leptin
+concentration as low as 0·5 ng/ml and is able to detect
+R A EHRHARDT and others · Bovine leptin RIA526
+www.endocrinology.orgJournal of Endocrinology (2000) 166, 519–528
+diﬀerences in plasma leptin caused by nutrition, adiposity
+and gender. This RIA provides an important tool to study
+factors and mechanisms regulating leptin in sheep and
+cattle.
+Acknowledgements
+We gratefully acknowledge P Johnson, D Cherney, R
+Ruiz, S Block, M Partridge and K Roneker for providing
+some of the samples used in this work. This work was
+supported by a grant from the US-Israel Binational Agri-
+cultural Research and Development Fund and the Cornell
+University Agricultural Experiment Station.
+References
+Ahima RS, Dushay J, Flier SN, PrabakaranD&Flier JS 1997 Leptin
+accelerates the onset of puberty in normal female mice. Journal of
+Clinical Investigation 99 391–395.
+Ahren B, Mansson S, Gingerich RL & Havel PJ 1997 Regulation of
+plasma leptin in mice: inﬂuence of age, high-fat diet, and fasting.
+American Journal of Physiology 273 R113–R120.
+Ashwell CM, Czerwinski SM, Brocht DM & McMurtry JP 1999a
+Hormonal regulation of leptin expression in broiler chickens.
+American Journal of Physiology 276 R226–R232.
+Ashwell CM, McMurtry JP, Wang X-H, ZhouY&Vasilatos-
+Younken R 1999b Eﬀects of growth hormone and pair-feeding on
+leptin mRNA expression in liver and adipose tissue. Domestic
+Animal Endocrinology 17 77–84.
+Bidlingmeyer BA, Cohen SA & Tarvin TL 1984 Rapid analysis of
+amino acids using precolumn derivatization. Journal of
+Chromatography 336 93–104.
+Bidwell CA, Ji S, Frank GR, Cornelius SG, Willis GM & Spurlock
+ME 1997 Cloning and expression of the porcine obese gene.
+Animal Biotechnology 8 227–236.
+Bocquier F, Bonnet M, Faulconnier Y, Guerre-Millo M, Martin P &
+Chilliard Y 1998 Eﬀects of photoperiod and feeding level on
+perirenal adipose tissue metabolic activity and leptin synthesis in
+the ovariectomized ewe. Reproduction Nutrition Development 38
+489–498.
+Boisclair YR, Seto D, Hsieh S, Hurst KR & Ooi GT 1996
+Organization and chromosomal localization of the gene encoding
+the mouse acid labile subunit of the insulin-like growth factor
+binding complex. PNAS 93 10028–10033.
+Caro JF, Sinha MK, Kolaczynski JW, Zhang PL & Considine RV
+1996 Leptin: the tale of an obesity gene. Diabetes 45 1455–1462.
+Casabiell Z, Pineiro V, Tome MA, Peino R, DieguezC&Casanueva
+FF 1997 Presence of leptin in colostrum and/or breast milk from
+lactating mothers: a potential role in the regulation of neonatal
+food intake. Journal of Clinical Endocrinology and Metabolism 82
+4270–4273.
+Cha MG & Jones PJH 1998 Dietary fat type and energy restriction
+interactively inﬂuence plasma leptin concentration in rats. Journal of
+Lipid Research 39 1655–1660.
+Chilliard Y, Bocquier F, Delavaud C, Guerre-Millo M, Bonnet M,
+Martin P, FaulconnierY&Ferlay A 1998 Leptin in ruminants:
+eﬀects of species, breeds, adiposity, photoperiod, beta-agonists and
+nutritional status. Proceedings of the 60th Cornell Nutrition Conference
+60 65–74.
+Considine RV, Sinha MK, Heiman ML, Kriauciunas A, Stephens
+TW, Nyce MR, Ohannesian JP, Marco CC, McKee LJ, Bauer TL
+& Caro JF 1996 Serum immunoreactive-leptin concentrations in
+normal-weight and obese humans. New England Journal of Medicine
+334 292–295.
+Cunningham MJ, Clifton DK & Steiner RA 1999 Leptin’s actions on
+the reproductive axis: perspectives and mechanisms. Biology of
+Reproduction 60 216–222.
+Diaz MC, Smith JM & Van Amburgh ME 1998 Nutrient requirements
+and management of the milk fed calf. Proceedings of the 60th Cornell
+Nutrition Conference 60 130–141.
+Dyer CJ, Simmons JM, Matteri RL & Keisler DH 1997 cDNA
+cloning and tissue-speciﬁc gene expression of ovine leptin,
+NYP-Y1 receptor, and NYP-Y2 receptor. Domestic Animal
+Endocrinology 14 295–303.
+Fawzi AB, Zhang H, Van Heek M & Graziano MP 1996 Puriﬁcation
+of milligram quantities of human leptin from recombinant E. coli.
+Hormone and Metabolic Research 28 694–697.
+Finn PD, Cunningham MJ, Pau K-YF, Spies HG, Clifton DK &
+Steiner RA 1998 The stimulatory eﬀect of leptin in the
+neuroendocrine reproductive axis of the monkey. Endocrinology 139
+4652–4662.
+Flier JS 1997 Leptin expression and action: new experimental
+paradigms. PNAS 94 4242–4245.
+Friedman JM & Halaas JL 1998 Leptin and the regulation of body
+weight in mammals. Nature 395 763–770.
+Gavrilova O, Barr V, Marcus-SamuelsB&Reitman M 1997
+Hyperleptinemia of pregnancy associated with the appearance of a
+circulating form of the leptin receptor. Journal of Biological Chemistry
+272 30546–30551.
+Havel PJ, Kasim-Karakas S, Mueller W, Johnson PR, Gingerich RL
+& Stern JS 1996 Relationship of plasma leptin to plasma insulin and
+adiposity in normal weight and overweight women: eﬀects of
+dietary fat content and sustained weight loss. Journal of Clinical
+Endocrinology and Metabolism 81 4406–4413.
+Hosoda K, Masuzaki H, Ogawa Y, Miyawaki T, Hiraoka J, Hanaoka
+I, Yasuno A, Nomura T, Fujisawa Y, Yoshimasa Y, Nishi S,
+YamoriY&Nakao K 1996 Development of radioimmunoassay for
+human leptin. Biochemical and Biophysical Research Communications
+221 234–239.
+Houseknecht KL & Portocarrero CP 1998 Leptin and its receptors:
+regulators of whole-body energy homeostasis. Domestic Animal
+Endocrinology 15 457–475.
+Houseknecht KL, McGuire MK, Portocarrero CP, McGuire MA &
+Beerman K 1997 Leptin is present in human milk and is related to
+maternal plasma leptin concentration and adiposity. Biochemical and
+Biophysical Research Communications 240 742–747.
+Ji S, Willis GM, Scott RR & Spurlock ME 1998 Partial cloning and
+expression of the bovine leptin gene. Animal Biotechnology 9 1–14.
+Kennedy A, Gettys TW, Watson P, Wallace P, Ganaway E, Pan Q &
+Garvey WT 1997 The metabolic signiﬁcance of leptin in humans:
+gender-based diﬀerences in relationship to adiposity, insulin
+sensitivity, and energy expenditure. Journal of Clinical Endocrinology
+and Metabolism 82 1293–1300.
+Landt M, Gingerich RL, Havel PJ, Mueller WM, Schoner B, Hale JE
+& Heiman ML 1998 Radioimmunoassay of rat leptin: sexual
+dimorphism reversed from humans. Clinical Chemistry 44 565–570.
+Lord GM, Matarese G, Howard JK, Baker RJ, Bloom SR & Lechler
+RI 1998 Leptin modulates the T-cell immune response and reverses
+starvation-induced immunosuppression. Nature 394 897–900.
+Ma Z, Gingerich RL, Santiago JV, Klein S, Smith CH & Landt M
+1996 Radioimmunoassay of leptin in human plasma. Clinical
+Chemistry 42 942–946.
+Maﬀei M, Halaas J, Ravussin E, Pratley RE, Lee GH, Zhang Y, Fei
+H, Kim S, Lallone R, Ranganathan S, Kern PA & Friedman JM
+1995 Leptin levels in human and rodent: measurement of plasma
+leptin and ob RNA in obese and weight-reduced subjects. Nature
+Medicine 1 1155–1161.
+Mendiola J, Janzen M, Cruz M & Louis CF 1997 Cloning and tissue
+distribution of leptin mRNA in the pig. Animal Biotechnology 8
+227–236.
+Bovine leptin RIA · R A EHRHARDT and others 527
+www.endocrinology.org Journal of Endocrinology (2000) 166, 519–528
+Montague CT, Prins JB, Sanders L, Digby JE & O’Rahilly S 1997
+Depot- and sex-speciﬁcdiﬀerences in human leptin mRNA
+expression: implications for the control of regional fat distribution.
+Diabetes 46 342–347.
+NRC 1988 Nutrient Requirements of Dairy Cattle (6th rev. ed. update
+1989). Washington, DC: National Academy Press.
+Qian H, Barb CR, Compton MM, Hausman GJ, Azain MJ, Kraeling
+RR & Baile CA 1999 Leptin mRNA expression and serum leptin
+concentrations as inﬂuenced by age, weight, and estradiol in pigs.
+Domestic Animal Endocrinology 16 135–143.
+RamsayTG,YanX&Morrison C 1998 The obesity gene in swine:
+sequence and expression of porcine leptin. Journal of Animal Science
+76 484–490.
+Roemmich JN, Clark PA, Berr SS, Mai Vu, Mantzoros CS, Flier JF,
+WeltmanA&RogolAD1998 Gender diﬀerences in leptin levels
+during puberty are related to the subcutaneous fat depot and sex
+steroids. American Journal of Physiology 275 E543–E551.
+Saad MF, Damani S, Gingerich RL, Riad-Gabriel MG, Khan A,
+Boyadjian R, Jinagouda SD, El-Tawil K, Rude RK & Kamdar V
+1997 Sexual dimorphism in plasma leptin concentration. Journal of
+Clinical Endocrinology and Metabolism 82 579–584.
+Smith-Kirwin SM, O’Connor DM, Johnston J, De Lancey E, Hassink
+SG & Funanage VL 1998 Leptin expression in human mammary
+epithelial cells and breast milk. Journal of Clinical Endocrinology and
+Metabolism 83 1810–1813.
+Spurlock ME, Frank GR, Cornelius SG, Ji S, Willis GM & Bidwell
+CA 1998 Obese gene expression in porcine adipose tissue is
+reduced by food deprivation but not by maintenance or
+submaintenance intake. Journal of Nutrition 128 677–682.
+Taouis M, Chen J-W, Daviaud C, Dupont J, Derouet M & Simon J
+1998 Cloning the chicken leptin gene. Gene 208 239–242.
+Trayhurn P, Duncan JS, Hoggard N & Rayner DV 1998
+Regulation of leptin production: a dominant role for the
+sympathetic nervous system? Proceedings of the Nutrition Society
+57 413–419.
+Waltner SS, McNamara JP, Hillers JK & Brown DL 1994 Validation
+of indirect measures of body fat in lactating cows. Journal of Dairy
+Science 77 2570–2579.
+Wildman EE, Jones GM, Wagner PE, Boman RL, Trout HF Jr &
+Lesch TN 1982 A dairy cow body condition scoring system and its
+relationship to selected production characteristics. Journal of Dairy
+Science 65 495–501.
+Received 6 January 2000
+Accepted 2 May 2000
+R A EHRHARDT and others · Bovine leptin RIA528
+www.endocrinology.orgJournal of Endocrinology (2000) 166, 519–528

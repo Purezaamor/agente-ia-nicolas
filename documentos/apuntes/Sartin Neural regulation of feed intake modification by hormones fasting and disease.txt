@@ -1,0 +1,1449 @@
+=== Fuente: Sartin Neural regulation of feed intake modification by hormones fasting and disease.pdf ===
+
+J. L. Sartin, B. K. Whitlock and J. A. Daniel
+Modification by hormones, fasting, and disease
+TRIENNIAL GROWTH SYMPOSIUM: Neural regulation of feed intake:
+doi: 10.2527/jas.2010-3399 originally published online December 10, 2010
+2011, 89:1991-2003.J ANIM SCI 
+http://www.journalofanimalscience.org/content/89/7/1991
+the World Wide Web at: 
+The online version of this article, along with updated information and services, is located on
+www.asas.org
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from  by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+TRIENNIAL GROWTH SYMPOSIUM: Neural regulation of feed 
+intake: Modification by hormones, fasting, and disease1,2
+J. L. Sartin,*3 B. K. Whitlock,† and J. A. Daniel‡
+*Department of Anatomy, Physiology and Pharmacology, College of Veterinary Medicine, Auburn University, 
+Auburn, AL 36849; †Department of Large Animal Clinical Sciences, College of Veterinary Medicine,  
+University of Tennessee, Knoxville 37996; and ‡Department of Animal Science,  
+Berry College, Mt. Berry, GA 30149
+ABSTRACT: Appetite is a complex process that re-
+sults from the integration of multiple signals at the hy-
+pothalamus. The hypothalamus receives neural signals; 
+hormonal signals such as leptin, cholecystokinin, and 
+ghrelin; and nutrient signals such as glucose, FFA, AA, 
+and VFA. This effect is processed by a specific sequence 
+of neurotransmitters beginning with the arcuate nucle-
+us and orexigenic cells containing neuropeptide Y or 
+agouti-related protein and anorexigenic cells contain-
+ing proopiomelanocortin (yielding the neurotransmitter 
+α-melanocyte-stimulating hormone) or cells expressing 
+cocaine amphetamine-related transcript. These so-
+called first-order neurons act on second-order orexi-
+genic neurons (containing either melanin-concentrating 
+hormone or orexin) or act on anorexigenic neurons 
+(e.g., expressing corticotropin-releasing hormone) to 
+alter feed intake. In addition, satiety signals from the 
+liver and gastrointestinal tract signal through the vagus 
+nerve to the nucleus tractus solitarius to cause meal ter-
+mination, and in combination with the hypothalamus, 
+integrate the various signals to determine the feeding 
+response. The activities of these neuronal pathways are 
+also influenced by numerous factors such as nutrients, 
+fasting, and disease to modify appetite and hence affect 
+growth and reproduction. This review will begin with 
+the central nervous system pathways and then discuss 
+the ways in which hormones and metabolites may alter 
+the process to affect feed intake with emphasis on farm 
+animals.
+Key words:  appetite, cholecystokinin, ghrelin, leptin, neuropeptide Y, satiety
+©2011 American Society of Animal Science. All rights reserved. J. Anim. Sci. 2011. 89:1991–2003 
+ doi:10.2527/jas.2010-3399
+INTRODUCTION
+Feed intake is a critical process for the normal growth 
+and reproduction of mammals. The process leading to 
+alterations in feed intake result from a complicated 
+interplay between a large variety of factors, such as 
+feed availability and quality, circulating concentrations 
+of hormones and metabolites, as well as physical re-
+sponses of the gastrointestinal system, all integrated 
+by the central nervous system (CNS) to yield the final 
+physical act of eating. In addition, there is a critical dif-
+ference between grazing ruminant species where nutri-
+ent delivery is fairly constant and nonruminant species 
+where nutrients are available intermittently. Due to the 
+complexity of appetite control and the complications 
+added by species differences, this review will attempt 
+to overview the major factors regulating feed intake in 
+ruminants with notations to interesting and novel fea-
+tures of nonruminant farm animals.
+CNS MECHANISMS
+Hypothalamus
+The hypothalamus has a central role in the integra-
+tion of the various signals, resulting in activation of 
+feeding or inhibition of feeding responses. Early experi-
+ments in farm animals found that lesions of the ventro-
+medial nucleus (VMN) in pigs caused increased feed-
+ing, whereas lesions of the lateral hypothalamic area 
+(LHA) reduced feeding (Baile and Forbes, 1974). In 
+1 Presented at the Triennial Growth Symposium titled “Dietary 
+Regulation of Growth and Development,” preceding the Joint An-
+nual Meeting, July 11 to 15, 2010, Denver, Colorado. The sympo-
+sium was sponsored, in part, by the European Federation of Animal 
+Science (EAAP, Rome, Italy), Pfizer Animal Health (Kalamazoo, 
+MI), and Elanco Animal Health (Greenfield, IN) with publication 
+sponsored in part by the Journal of Animal Science and the Ameri-
+can Society of Animal Science.
+2 This project was supported by National Research Initiative 
+Competitive Grant No. 2004-35206-14136 from the USDA National 
+Institute of Food and Agriculture (Washington, DC).
+3 Corresponding author: sartijl@auburn.edu
+Received August 5, 2010.
+Accepted December 3, 2010.
+1991
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+support of the early lesioning experiments, electrical 
+stimulation of the VMN of sheep and goats produced 
+a satiety response and stimulation of the LHA in sati-
+ated sheep and goats was reported to increase feeding 
+(Baile and Forbes, 1974). Feeding in sheep will increase 
+c-Fos activation (c-Fos has been used as an indicator 
+of recent neuron activation) in neurons of the supraop-
+tic nucleus (SON), whereas fasting increased c-Fos ex-
+pression in the paraventricular nucleus (PVN), VMN, 
+and dorsomedial nucleus (DMN; Chaillou et al., 2000). 
+These studies produced a foundation for our current 
+understanding of the role of these nuclei in regulating 
+feeding in farm animals and suggested the need for fur-
+ther studies to determine the role of the hypothalamus 
+in appetite regulation in these species.
+A major location for the processing of these appe-
+tite regulatory signals is the arcuate nucleus (ARC ), 
+located at the base of the hypothalamus. Both stimu-
+latory and inhibitory signals originate from the ARC 
+and influence other secondary appetite neurons within 
+the LHA, dorsomedial hypothalamus (DMH), VMN, 
+and PVN and subsequently other areas of the CNS, 
+with those signals emerging from the LHA-DMH being 
+stimulatory to feed intake and those from the VMN 
+and PVN being inhibitory (Table 1; for a review of 
+hypothalamic appetite neurotransmitters, see Sartin 
+et al., 2010). Although this model of first-order and 
+second-order neurons was developed in the rat and pro-
+vides an organization for testing and understanding the 
+control of appetite, recent studies suggest this may not 
+be appropriate for all species, particularly sheep (Qi et 
+al., 2010). In addition to the hypothalamus, the brain 
+stem contains pathways that are thought to control sa-
+tiety or meal termination, such as the nucleus tractus 
+solitarius (NTS). Here, circulating hormones and me-
+tabolites signal either directly or indirectly through af-
+ferent projections from the vagus nerve or sympathetic 
+nerves to the NTS for meal termination. Thus, the hy-
+pothalamus and NTS act in concert to integrate signals 
+(Figure 1) leading to increased or decreased feed intake 
+(for a review of peripheral satiety signals, see Allen et 
+al., 2009).
+Orexigenic Neurotransmitters
+Neuropeptide Y. Neuropeptide Y (NPY) has 
+been demonstrated to be a potent appetite-stimulating 
+neurotransmitter whose site of synthesis was localized 
+to the ARC in sheep (Clarke et al., 2000; Adam et al., 
+2002; Pillon et al., 2003; Polkowska et al., 2006) and cat-
+tle (Bahar and Sweeney, 2008). Expression of the NPY 
+gene was demonstrated to be responsive to short-term 
+fasting or longer term undernutrition, both of which 
+increased NPY gene expression in the ARC (Henry et 
+al., 2000; Polkowska and Gladysz, 2001; Adam et al., 
+2002; Archer et al., 2002). Interestingly, NPY gene ex-
+pression assessed at different times throughout the year 
+indicated that abundance of NPY mRNA correlated to 
+voluntary feed intake (Anukulkitch et al., 2009). The 
+NPY neuron was also found to express leptin recep-
+tors (Williams et al., 1999; Iqbal et al., 2001c), which 
+were shown to mediate leptin suppression of NPY gene 
+expression at the ARC (Qi et al., 2010). The activation 
+of NPY neurons was suggested to stimulate neurons 
+in other appetite-controlling regions of the hypothala-
+mus, such as the DMN and VMN (Chaillou et al., 2002; 
+Polkowska et al., 2006; Qi et al., 2008). The injection of 
+NPY into the lateral cerebroventricle of the brain pro-
+duced a potent effect to increase feed intake in sheep 
+(Miner et al., 1989, 1990; Sartin et al., 2001; El-Haddad 
+et al., 2003) and pigs (Parrott et al., 1986; Barb et al., 
+2006). The effect of NPY to initiate feeding responses 
+was primarily shown to be mediated largely via the 
+NPY-Y1 receptor (Clarke et al., 2005). In addition, 3 
+SNP in the NPY gene were associated with ADG, BW, 
+and feed conversion ratio in cattle [but SNP for cocaine 
+and amphetamine-related transcript (CART), proopi-
+omelanocortin (POMC), corticotrophin-releasing hor-
+mone (CRH), and melanocortin-4 receptor (MC4R) 
+did not show a similar relationship to appetite control], 
+further supporting the critical importance of NPY in 
+the regulation of appetite (Sherman et al., 2008).
+Agouti-Related Protein. Agouti-related protein 
+(AgRP) mRNA and protein were shown to be local-
+ized to neuron cell bodies in the ARC and, further-
+more, were co-localized with NPY neurons (Henry et 
+al., 2001; Adam et al., 2002; Archer et al., 2002; Wag-
+ner et al., 2004). The expression of the AgRP gene was 
+activated by fasting as expected and was accompanied 
+by increased numbers of AgRP-positive cells and an in-
+crease in AgRP neuron activation as indicated by dual 
+labeling with c-Fos (Henry et al., 2001; Adam et al., 
+2002; Archer et al., 2002; Wagner et al., 2004). Injec-
+tion of AgRP into the lateral ventricle was found to 
+increase feed intake in sheep allowed ad libitum con-
+sumption (Wagner et al., 2004) but not in pigs (Barb et 
+al., 2004). The mechanism for AgRP activation of feed 
+Table 1. Summary of the effects of major appetite-
+regulating molecules 
+Factor1 Pig Ruminant
+NPY I2 I
+AgRP NE2 I
+α-MSH D2 ?2
+Orexin I I
+MCH ? I
+Leptin D D
+Ghrelin I I/NE
+CCK D D
+CRH D D
+Glucose D NE
+Lipid D D
+VFA, propionate — D
+1NPY = neuropeptide Y; AgRP = agouti-related protein, α-MSH 
+= α-melanocyte-stimulating hormone; MCH = melanin-concentrating 
+hormone; CCK = cholecystokinin; CRH = corticotrophin-releasing 
+hormone.
+2I = increase; D = decrease; NE = no effect; ? = unknown.
+1992 Sartin et al.
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+intake is primarily through antagonism of the MC4R 
+[see discussion of α-melanocyte-stimulating hormone 
+(α-MSH) for a discussion of this receptor].
+Melanin-Concentrating Hormone. Melanin-
+concentrating hormone (MCH) was described in ro-
+dent models as a second-order neuron, mediating the 
+effects of first-order neurons, such as NPY, on feed in-
+take (Schwartz et al., 2000). The neuron cell bodies 
+expressing MCH were localized to the LHA, although 
+MCH was also found in other brain regions (Tillet et al., 
+1996). The MCH neurons in turn project to higher cen-
+ters as well as to the ARC and VMN (Qi et al., 2008), 
+indicating the complex nature of the neural integration 
+of appetite. Whereas short-term fasting had no effect 
+on MCH expression (Chaillou et al., 2003; Whitlock et 
+al., 2005), MCH gene expression was increased in sheep 
+with thin body condition (Henry et al., 2000), perhaps 
+indicative of a long-term effect of nutrient manipula-
+tion on MCH gene expression. Finally, a single bolus 
+injection of MCH into the lateral ventricle produced 
+the expected increase in feed intake (Whitlock et al., 
+2005), whereas infusion of MCH for 6 h had no effect on 
+feed intake, suggesting that the continuous delivery of 
+MCH resulted in a downregulation of the MCH recep-
+tor (Whitlock et al., 2005). There have been few studies 
+on the MCH receptor in farm animals, although Tan et 
+al. (2002) found evidence in Southern blots for the type 
+1 and 2 receptor in cattle and pigs.
+Orexin. Orexin (ORX) has been cloned in the pig 
+and demonstrated in the hypothalamus of developing 
+pigs (Dyer et al., 1999; Lin et al., 2001). In sheep, ORX 
+was found to be localized to the LHA and DMH (Iqbal 
+et al., 2001b) and these ORX neurons were found to 
+project to higher brain centers as well as reciprocal con-
+Figure 1. Overview of appetite regulatory pathways in the ruminant brain. Neural pathways in the hypothalamus represent reciprocal con-
+nections for both appetite stimulatory and inhibitory signals. The result of this integration of neural, hormonal, and metabolite signals is the 
+stimulation or inhibition of feeding. Specific actions of neurotransmitters regulating feed intake are provided in the manuscript. See Qi et al. 
+(2008), Allen et al. (2009), and Sartin et al. (2010) for additional details. Gastrointestinal (GI), hepatic neural signals as well as hormonal signals 
+are integrated at the nucleus tractus solitarius (NTS). Abbreviations: ARC, arcuate; VMN, ventromedial nucleus; LH, lateral hypothalamus; 
+DMH, dorsomedial hypothalamus; PVN, paraventricular nucleus; CCK, cholecystokinin; −, inhibition of feed intake; +, stimulation of feed intake. 
+Color version available in the online PDF.
+1993Regulation of feed intake
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+nections to the ARC and VMN (Zhang et al., 2005). 
+Nutritional modifications have not demonstrated a 
+change in gene expression for ORX, although there is 
+a negative correlation between orexin and a fat body 
+condition (Anukulkitch et al., 2010). In addition, leptin 
+has been shown to directly as well as to indirectly (via 
+the α-MSH pathways originating in the ARC) inhibit 
+gene expression for ORX (Qi et al., 2010). Intramus-
+cular injection of large doses of ORX in pigs increased 
+cumulative feed intake at 24 h, whereas intracerebro-
+ventricular (ICV) injection of ORX in sheep nearly 
+doubled cumulative feed intake in 4 h (Dyer et al., 
+1999; Sartin et al., 2001). The ORX receptor, ORX1R, 
+has been localized to higher brain centers as well as 
+the ARC, LHA, median eminence, and preoptic area 
+(Zhang et al., 2005).
+Opiates. Opiates have also been implicated in the 
+control of feed intake in rodent species, although this 
+class of molecules has been much less studied in farm 
+animals. The typical molecules regulating hypothalam-
+ic appetite mechanisms would be the endorphins and 
+enkephalins. Enkephalin was localized to the periven-
+tricular nucleus (Pe ), PVN, and the VMN (Henry et 
+al., 2000). Prodynorphin was primarily localized to the 
+SON, PVN, Pe, VMN, and the thalamus and was co-
+localized with orexin in the LHA (Iqbal et al., 2003). 
+Enkephalin expression in the PVN and VMN, both 
+areas involved in satiety, was reduced in thin as com-
+pared with fat ewes (Henry et al., 2000) but long-term 
+undernutrition had no effect on prodynorphin mRNA 
+in sheep (Iqbal et al., 2003). Injection of the opiate 
+antagonist naloxone was found to inhibit feed intake in 
+sheep, suggesting a stimulatory role for opiate receptors 
+in regulating feed intake (Alavi et al., 1991; Obese et 
+al., 2007), though naloxone was ineffective in alteration 
+of feed intake in pigs (Baldwin and Parrot, 1985). This 
+inhibitory effect of naloxone on feed intake was more 
+pronounced in obese sheep (Alavi et al., 1993). Demon-
+stration of the effects of opiates on feed intake in sheep 
+were based on intravenous injection of an opiate recep-
+tor agonist, syndaphyllin (SD33), which produced an 
+increase in feed intake that was detected at 24 h and 
+continued to at least 48 h after injection. Moreover, its 
+effects were blocked by naloxone, indicating the feed in-
+take response was mediated by opiate receptors (Obese 
+et al., 2007). In a recent study in pigs, Kojima et al. 
+(2009) found a small increase in feed intake in pigs 
+treated with SD33 just after weaning. These results in-
+dicate a possible practical application for opiate recep-
+tor agonists in improving feed intake.
+Anorexigenic Neurotransmitters
+α-Melanocyte-Stimulating Hormone. 
+α-Melanocyte-stimulating hormone is an anorexigenic 
+neurotransmitter whose cell bodies were localized to 
+the ARC based on POMC (i.e., the precursor gene for 
+α-MSH) gene expression and α-MSH staining (Henry 
+et al., 2000; Sartin et al., 2008). Short-term nutrient 
+restriction as well as body condition do not correlate 
+with changes in POMC gene expression (Henry et al., 
+2000; Adam et al., 2002; Archer et al., 2002), unless 
+altered photoperiod was added to the experimental de-
+sign (Clarke et al., 2000, 2003; Archer et al., 2004). The 
+role of α-MSH is suggested as that of appetite inhibi-
+tion and is mediated through actions on the melano-
+cortin-3 receptor (MC3R) and MC4R, both cloned for 
+sheep and pigs (Iqbal et al., 2001a; Fan et al., 2008a,b). 
+In sheep, gene expression for the MC3R and the MC4R 
+was not affected by fasting (Iqbal et al., 2001a). In 
+pigs, ICV injection of [Nle4, D-Phe7]-α-MSH (i.e., an 
+α-MSH analog) resulted in suppression of feed intake, 
+whereas AgRP or a pharmacologic antagonist, SHU-
+9119, failed to increase feed intake (Barb et al., 2004). 
+These pigs were heterozygous for a missense mutation 
+in the MC4R receptor, although in other studies (Fan 
+et al., 2008b), this receptor mutation expressed in vitro 
+was able to bind [Nle4, D-Phe7]-α-MSH and AgRP nor-
+mally and activate receptor signaling. Thus the reason 
+for the discrepancy in the in vitro and in vivo signal-
+ing appears unknown (Tao, 2010), although Fan et al. 
+(2009) suggested that interactions between SNP may 
+account for the differences between populations of pigs.
+CART. The CART peptides function as neurotrans-
+mitters in the hypothalamus (Adam et al., 2002) as 
+well as in the enteric nerves in sheep (Arciszewski et 
+al., 2009). The mRNA for CART was localized to the 
+ARC, PVN, VMN, and median eminence (Henry et al., 
+2001; Adam et al., 2002; Archer et al., 2002) and co-
+localized with POMC in the ARC (Adam et al., 2002). 
+In chronically feed-restricted sheep, there was a reduc-
+tion in CART expression in the PVN, DMN, and LHA 
+(Henry et al., 2001), as well as the ARC (Archer et 
+al., 2002). Although CART gene expression correlates 
+with nutritional regulation, more evidence is required 
+to demonstrate its relevance to appetite control in farm 
+animals.
+CRH/Urocortin. Corticotropin-releasing hor-
+mone was localized to the PVN in sheep and CRH gene 
+expression was enhanced by leptin administration (Qi 
+et al., 2010), reflecting the role of the PVN as an in-
+hibitor of feed intake. An SNP was found in the CRH 
+gene that correlated to carcass weight and rib eye area 
+(Buchanan et al., 2005). And importantly, both ICV 
+and intravenous administration of CRH, urocortin, 
+and adrenocorticotropin were found to inhibit feed in-
+take in sheep (Weisinger et al., 2000) and pigs (Parrot, 
+1990; Whitley et al., 2000). These studies underscore 
+the possible importance of the PVN for regulation of 
+appetite inhibition signals in farm animals and suggest 
+further studies of the PVN neurotransmitters should be 
+performed to fully elucidate these appetite inhibitory 
+mechanisms.
+Brain Stem
+The hypothalamus is not the predominant site pro-
+cessing peripheral satiety signals. Satiety signals are 
+1994 Sartin et al.
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+generated from peripheral sources such as the liver and 
+gastrointestinal tract and are integrated at the NTS 
+to initiate meal termination (Schwartz, 2000; Allen et 
+al., 2009). Meal termination in farm animals has been 
+shown to be initiated by factors such as chemical and 
+mechanical signals from the gastrointestinal tract (Al-
+len, 1996, 2000; Forbes, 2007b) or hepatic oxidation of 
+nutrient molecules (Allen et al., 2009). The communi-
+cation from the periphery to the NTS was shown to 
+be transmitted along afferent fibers of the vagus nerve 
+(Anil and Forbes, 1988) or sympathetic nerves (Fig-
+ure 1). In addition, leptin and glucagon-like peptide-1 
+(GLP-1) receptors were found expressed in the brain 
+stem, including the NTS, which suggests the possibility 
+for direct hormonal interactions to elicit satiety (Mer-
+cer et al., 1998). Indeed, a GLP-1 analog was shown to 
+inhibit feed intake in pigs (Raun et al., 2007) and the 
+effects of leptin to inhibit feed intake are well known. 
+A final possibility for regulation of appetite by the 
+NTS was found based on localization of NPY recep-
+tors to the NTS, providing a possible link between the 
+NTS and the mediobasal hypothalamus for integration 
+of satiety (Mercer et al., 1998). Although the specific 
+mechanisms are extrapolated from work in laboratory 
+animals, the data in farm animals for satiety regulation 
+were found to be consistent with this mechanism (see 
+review by Allen et al., 2009).
+PERIPHERAL MECHANISMS
+Although it is the CNS that regulates energy ho-
+meostasis, the CNS is responding in part to signals 
+produced peripherally in proportion to the status of 
+adipose tissue reserves, and in response to the presenta-
+tion and ingestion of feed and the products of digestion.
+Adipose Signals—Leptin
+Plasma concentrations of leptin were highly corre-
+lated with body fat mass in sheep (Blache et al., 2000, 
+Delavaud et al., 2000; Ehrhardt et al., 2000), cattle 
+(Ehrhardt et al., 2000), pigs (Ramsay et al., 1998), and 
+horses (Buff et al., 2002). Circulating concentrations of 
+leptin were also altered by fasting in sheep (Nagatani 
+et al., 2000), cattle (Amstalden et al., 2000), pigs (Barb 
+et al., 2001), and horses (Piccione et al., 2004). Further-
+more, simply altering dietary intake altered circulating 
+concentrations of leptin within 48 h in pregnant ewes 
+(Thomas et al., 2001). Production of leptin in cultured 
+bovine adipocytes has been linked to glucose availabil-
+ity and fatty acid synthesis (Kadokawa et al., 2007). 
+Therefore, an increase in nutrient availability may al-
+ter circulating concentrations of leptin. Indeed, jugular 
+infusion of lipid and glucose increased circulating con-
+centrations of leptin in late-lactation cows (Chelikani 
+et al., 2003). Circulating concentrations of leptin were 
+also increased by glucose infusion in sheep (Archer et 
+al., 2005). However, insulin could be mediating the in-
+crease in leptin in response to glucose administration as 
+insulin has been demonstrated to stimulate increased 
+circulating concentrations of leptin (Asakuma et al., 
+2003). Propionate was not found to be an important 
+regulator of plasma leptin concentration in dairy cattle 
+(Bradford et al., 2006). Thus, circulating concentra-
+tions of leptin in animals serve as a signal of both fat 
+stores and level of energy intake. Moreover, such a sig-
+nal would be expected to regulate feed intake.
+Central administration of leptin suppressed feed in-
+take in pigs (Barb et al., 1998) and ovariectomized ewes 
+(Henry et al., 1999; Morrison et al., 2001). However, 
+ICV administration of leptin did not suppress feed 
+intake in severely nutrient-restricted ovariectomized 
+ewes (Morrison et al., 2001). Bolus injection of leptin 
+into the carotid artery also reduced feed intake in pigs 
+(Ramsay et al., 2004). Moreover, in pigs, suppression of 
+feed intake after ICV injection of leptin was reversed by 
+NPY (Barb et al., 2006).
+One site of action for leptin inhibition of feed intake 
+is the hypothalamus. In sheep, intravenous leptin ad-
+ministration reduced activation of orexigenic neurons 
+expressing NPY in the ARC and expressing ORX in 
+the LHA, as indicated by c-Fos expression (Qi et al., 
+2010). The effect of leptin on ORX neurons was both 
+a direct action on the ORX neuron and an indirect ef-
+fect mediated via the ARC (suggesting the complete 
+dependence of the ARC for second-order neuron control 
+as described for rodent models should be reconsidered 
+for farm animals). In addition, leptin increased activa-
+tion of anorexigenic neurons expressing POMC in the 
+ARC and expressing CRH in the PVN (Qi et al., 2010). 
+Thus, leptin reduced feed intake by inhibition of appe-
+tite-stimulatory processes and activation of appetite-
+inhibitory processes at the hypothalamus. A second site 
+of action in the brain may be at the NTS. The presence 
+of leptin receptors in the NTS suggests a possible direct 
+action by leptin on the NTS to reduce feeding (Mercer 
+et al., 1998).
+If leptin suppresses feed intake and leptin is pro-
+duced in relationship to the amount of adipose tissue, 
+the question often arises of why fat animals continue 
+to eat? One possible explanation is that leptin is more 
+efficiently transported across the blood-brain barrier in 
+thin sheep than fat sheep (Adam et al., 2006; Adam 
+and Findlay, 2010). Interestingly, this only occurs in 
+sheep housed under a long day photoperiod and the 
+impaired transport of leptin across the blood-brain bar-
+rier does not fully normalize after BW loss (Adam and 
+Findlay, 2010). Thus, although leptin can reduce feed 
+intake, the ability of leptin to reach the brain and sup-
+press feed intake appears to be limited in fat animals.
+Another level of regulation between the fat cell and 
+the brain was suggested by morphologic studies that 
+found neurons that arise from the PVN, VMN, AHA, 
+POA, ARC, and SON project to porcine adipose tissue 
+(Czaja et al., 2003). Nearly all of these neurons express 
+the leptin receptor and may represent a novel reciprocal 
+control between the CNS (α-MSH pathways) and the 
+fat tissue. Moreover, ICV injection of an α-MSH analog 
+1995Regulation of feed intake
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+to pigs caused gene expression changes related to ener-
+gy conservation within fat and liver (Barb et al., 2010).
+Physical Factors—Gastrointestinal Tract
+The neural inputs to the NTS have an important role 
+in transient inhibition of feeding responses. Voluntary 
+DM intake of forages by ruminants (Allen et al., 2009) 
+or in pigs (Oresanya et al., 2008) may be limited by dis-
+tention resulting from restricted flow of digesta through 
+the gastrointestinal tract. The reticulorumen is gener-
+ally regarded as the site in the gastrointestinal tract for 
+which distention and retention time limits DMI with 
+high-fill diets (Allen, 1996, 2000; Forbes, 2007a,b). Ten-
+sion receptors in the muscular wall of the rumen and 
+reticulum provide a measure of distension, whereas epi-
+thelial receptors provide information on the fibrousness 
+of the digesta (Forbes and Barrio, 1992). Furthermore, 
+there are mechanoreceptors in the abomasum and duo-
+denum that have been implicated in the control of feed 
+intake (Forbes and Barrio, 1992).
+Gastrointestinal Hormones
+Ghrelin. In communication of nutrient needs, it is 
+important for the gastrointestinal tract to produce one 
+or more signals to enhance feed intake. Ghrelin has been 
+proposed as a signal to stimulate feed intake, likely by 
+actions on areas of the hypothalamus where the blood-
+brain barrier is incomplete (Grouselle et al., 2008). In 
+support of ghrelin as a stimulator of feed intake, sheep 
+and pigs fed on a regular meal schedule have an in-
+crease in circulating ghrelin before the meal (Sugino 
+et al., 2002a,b; Reynolds et al., 2010). However, when 
+animals are allowed ad libitum access to feed, there 
+is no increase in ghrelin associated with feeding. This 
+may be due to other factors causing the animal to eat 
+or to limitations in ability to detect changes in ghrelin 
+to which the animal is sensitive. However, circulating 
+concentrations of ghrelin have been demonstrated to 
+decrease after feeding in sheep (Takahashi et al., 2010), 
+cattle (Hayashida et al., 2001), pigs (Reynolds et al., 
+2010), and horses (Gordon and McKeever, 2006). Fi-
+nally, active immunization against ghrelin in pigs re-
+sulted in reduced feed intake (Vizcarra et al., 2007). 
+Thus, changes in circulating concentrations of ghrelin 
+are consistent with stimulation of feed intake.
+Physiological changes associated with nutrient needs 
+induce changes in circulating concentrations of ghrelin. 
+Intravenous dextrose infusion in horses and glucose in-
+fusion in cattle caused decreased circulating concentra-
+tions of ghrelin (Gordon and McKeever, 2006; Roche et 
+al., 2008). In sheep, intravenous infusion of AA, but not 
+glucose, increased circulating concentrations of ghrelin 
+(Sugino et al., 2010). Similarly in pigs, oral ingestion 
+of tryptophan increased circulating concentrations of 
+ghrelin (Zhang et al., 2007), and dietary supplemen-
+tation with zinc increased feed intake and the circu-
+lating concentration of ghrelin (Yin et al., 2009). De-
+creased rumen fill by removal of the rumen contents 
+also resulted in increased circulating concentrations of 
+ghrelin (Gregorini et al., 2009). Additionally, circulat-
+ing concentrations of ghrelin were increased in short-
+term-fasted animals relative to well-fed animals in both 
+cattle and pigs (Govoni et al., 2005; Wertz-Lutz et al., 
+2006). Circulating concentrations of ghrelin were also 
+increased by prolonged, moderate nutrient restriction 
+in cattle (Wertz-Lutz et al., 2008). Interestingly, in 
+young pigs, circulating concentrations of ghrelin were 
+less after 12 h of fasting then increased 36 and 48 h 
+after the initiation of fasting (Salfen et al., 2003).
+Studies attempting to explore the role of ghrelin ad-
+ministration in the stimulation of feed intake in animals 
+have had mixed results. Some have observed no impact 
+of ghrelin on feed intake in sheep (Iqbal et al., 2006), 
+whereas others have observed a moderate increase in 
+feed intake in sheep and cattle (Melendez et al., 2006; 
+Wertz-Lutz et al., 2006), whereas still others have ob-
+served a strong stimulation in response to ghrelin ad-
+ministration in sheep (Grouselle et al., 2008). Another 
+study in sheep found an effect of ICV ghrelin adminis-
+tration only during long day photoperiod (Harrison et 
+al., 2008). Interestingly, in pigs, repeated intravenous 
+administration of ghrelin resulted in increased BW gain 
+and no increase in feed intake (Salfen et al., 2004). Al-
+though the mechanism for this effect was unknown, en-
+ergy balance could affect the effect of ghrelin on feed in-
+take. Bradford and Allen (2008) observed a preprandial 
+increase in ghrelin in cows in negative energy balance 
+in early lactation but not in cows in positive energy 
+balance in late lactation. Another possible explanation 
+is due to different diets used. Indeed, Takahashi et al. 
+(2008) demonstrated a differential response in circulat-
+ing concentrations of ghrelin in sheep fed concentrate or 
+timothy hay. Although both groups were fed the same 
+amount of energy and CP, the concentrate produced a 
+greater decline in circulating concentrations of ghrelin 
+than sheep fed timothy hay (Takahashi et al., 2008). 
+However, Wertz-Lutz et al. (2010) did not observe any 
+difference in circulating concentrations of ghrelin in 
+steers offered a high concentrate or high roughage at 
+different amounts to achieve a similar energy intake. 
+In pigs, consumption of the nonstarch polysaccharides 
+guar gum and cellulose increased circulating concen-
+trations of ghrelin (Owusu-Asiedu et al., 2006). Thus, 
+ghrelin appears to be a physiological stimulator of feed 
+intake, although its action may be dependent on condi-
+tions that have not yet been fully determined.
+Cholecystokinin. Several satiety signals are pro-
+duced by the intestine including cholecystokinin 
+(CCK), bombesin, glucagon, GLP-1 and GLP-2, apo-
+lipoprotein A-IV, amylin, somatostatin, enterostatin, 
+and peptide YY (3–36). Of these, CCK is the most 
+studied in domestic livestock. In addition to an intes-
+tinal source, CCK was also localized in the suprachi-
+asmatic region and SON of the sheep hypothalamus 
+(Marson et al., 1987). Moreover, CCK concentrations 
+in the anterior hypothalamus were increased in fed 
+1996 Sartin et al.
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+sheep and reduced with fasting (Baile and McLaughlin, 
+1987). In sheep and pigs, intravenous and ICV infusion 
+of CCK reduces feed intake (Grovum, 1981; Baldwin 
+and Sukhchai, 1996). Della-Fera and Baile (1979) dem-
+onstrated that ICV administration of CCK suppressed 
+feed intake in sheep. Moreover, Della-Fera et al. (1981) 
+administered a CCK antibody ICV to sheep, result-
+ing in reduced central CCK and increased feed intake, 
+further establishing CCK as a feed intake regulator. In 
+pigs, active immunization against CCK also resulted in 
+increased feed intake (Pekas and Trout, 1990). Thus, 
+evidence firmly indicates CCK to be a physiological 
+suppressor of feed intake in farm animals. Although 
+there are other satiety molecules from the gastrointesti-
+nal tract, similar evidence in domestic animals to that 
+presented for CCK is needed.
+Nutrients and Metabolites
+Nutrient molecules such as glucose have both di-
+rect and indirect actions on the hypothalamus and on 
+peripheral activation of nerves to the NTS to control 
+appetite in laboratory animals (Schwartz et al., 2000; 
+Minokoshi et al., 2004). The link between the brain and 
+nutrient molecules in the control of appetite in domestic 
+animals is less clearly delineated. Therefore, this review 
+will be primarily limited to molecules that have been 
+demonstrated to have a neural component to regula-
+tion of feed intake. Allen et al. (2009) provides a recent 
+review for more detailed information on the general role 
+of nutrients in regulating feed intake in ruminants.
+The theory that food intake is controlled by a signal 
+from the liver to the brain that is stimulated by oxida-
+tion of a variety of fuels is called the hepatic oxidation 
+theory of the control of food intake and is supported 
+by a large body of work (Forbes, 1988; Langhans, 1996; 
+Friedman, 1998; Allen et al., 2009). The mechanism 
+proposed for this regulatory cascade is based in part 
+on the data demonstrating that glucose infusion into 
+the portal vein of guinea pigs decreased hepatic vagal 
+discharge rates (Niijima, 1982) and severing the vagus 
+nerve in sheep prevented the inhibition of feed intake 
+induced by propionate (Anil and Forbes, 1988). The 
+proposed sequence in ruminants for inhibition of feed 
+intake in response to propionate infusion was that pro-
+pionate oxidation led to increased ATP production and 
+in turn produced hyperpolarization of hepatic cells. 
+This results in reduced firing rates on the vagal afferent 
+fibers and results in integration at the NTS to reduce 
+feed intake (reviewed by Allen et al., 2009).
+Intestinal, intravenous, and intraperitoneal glucose 
+infusions do not decrease energy intake in ruminants 
+(Faverdin, 1999; Allen, 2000). Thus, circulating VFA 
+concentrations (Trenkle, 1970; Leuvenink et al., 1997; 
+DiCostanzo et al., 1999), AA (Kuhara et al., 1991), 
+and lipids (Choi and Palmquist, 1996; Faverdin, 1999; 
+Allen, 2000) are more likely than glucose (Sano et al., 
+1993; Faverdin, 1999) to be the nutrients stimulating 
+regulatory mechanisms in ruminants. In pigs, lipids and 
+glucose reduce feeding (Oresanya et al., 2008; Han et 
+al., 2009). Differences in appetite effects of glucose ob-
+served between ruminants and nonruminants are likely 
+because of differences in hepatic oxidation of glucose 
+(Allen et al., 2005).
+FASTING AND DISEASE
+Fasting represents a lack of feed intake that is ac-
+companied by an increase in appetite but a reduction 
+in metabolic rate to preserve stored fuel molecules. The 
+systems as detailed above act in a concerted fashion to 
+promote hunger and alter endocrine, metabolic, and re-
+productive systems to facilitate survival. When energy 
+intake is reduced, plasma leptin concentrations are re-
+duced (Nagatani et al., 2000), presumably to remove an 
+inhibitory signal to hypothalamic neurons controlling 
+feeding. Fasting would also be accompanied by reduc-
+tions in circulating nutrients, such as propionate, which 
+would alter vagal tone and thus reduce the satiety 
+stimulus to the brain (Allen et al., 2009). This is also 
+accompanied by increases in circulating ghrelin, which 
+should favor a stimulus to appetite (Wertz-Lutz et al., 
+2006). Finally, fasting will directly or indirectly alter 
+the expression of key hypothalamic neurotransmitters: 
+increased NPY and AgRP (Henry et al., 2000, 2001), 
+both potent stimuli to appetite.
+Disease, on the other hand, results in a reduction 
+in appetite but in the face of an increased metabolic 
+rate. Thus the effects of disease represent a more com-
+plex scenario than a singular consequence of reduced 
+feed intake (for a current review, see Grossberg et al., 
+2010). Although there are insufficient data on appetite 
+neurotransmitter changes with disease in farm animals, 
+based on data in laboratory animals, appetite stimula-
+tory neurotransmitters such as NPY are reduced or un-
+changed and the appetite inhibitory neurotransmitters 
+such as POMC are activated with disease. In studies 
+with rat models, increased release of IL-1, tumor ne-
+crosis factor (TNF-α) and IL-6 have been associated 
+with disease responses and these cytokines injected into 
+the lateral ventricle of the brain of laboratory animals 
+were found to produce fever, decreased feed intake, and 
+produce body mass wasting (Grossberg et al., 2010). 
+Although the consequence of long-term disease in farm 
+animals is also a wasting of lean body mass, the mecha-
+nism for this effect on appetite control in farm animals 
+has not been studied in depth.
+In sheep with parasitic infections (Greer et al., 2009; 
+Zaralis et al., 2009), pigs with Salmonella typhimurium 
+infection (Jenkins et al., 2004) and in sheep adminis-
+tered endotoxin [i.e., lipopolysaccharide (LPS); Soli-
+man et al., 2001; Daniel et al., 2003], one hypothesis 
+examined was that the disease-associated reductions in 
+feed intake were the result of increased plasma leptin, 
+which would then decrease feed consumption. In these 
+studies, there was little evidence for an increase in cir-
+1997Regulation of feed intake
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+culating leptin concentrations with these disease mod-
+els (though the possibility of alterations in leptin access 
+to the brain has not been examined).
+Injection of LPS into a jugular vein of fed sheep was 
+found to inhibit feed intake, but when fasted sheep were 
+injected with LPS, feed intake was not different from 
+controls (Sartin et al., 2008). Because fasting increases 
+gene expression for key neurotransmitters regulating 
+fasting, it suggests that either there is an effect of LPS 
+on appetite neurotransmitters or that administration of 
+key neurotransmitters can overcome effects of appetite 
+suppression due to LPS. Indeed, intravenous LPS injec-
+tion increased the production of key cytokines in the 
+hypothalamic appetite control regions in rodent models 
+(Grossberg et al., 2010) as well as IL-1 in the sheep 
+choroid plexus (Vellucci and Parrott, 1996). Moreover, 
+IL-1 injection into the lateral ventricle of the brain in-
+creased body temperature as well as gene expression 
+for CRH in the PVN of sheep (Vellucci et al., 1995). 
+These results implicate CRH as a link to reduced feed 
+intake in disease, though LPS had no effect on PVN 
+expression of CRH in the pig (Vellucci and Parrott, 
+1998). Based on these data with CRH, infusion of an 
+IL-1receptor antagonist should recover feed intake in 
+LPS-treated sheep, but the antagonist had no effect on 
+recovering feed intake. This suggests that IL-1 may not 
+be a major component of the mechanism for appetite 
+suppression due to disease in sheep (McMahon et al., 
+1999).
+Interestingly, ICV infusion of NPY resulted in the 
+recovery of LPS-suppressed appetite, which continued 
+even after the termination of the NPY infusion (Mc-
+Mahon et al., 1999). This result may indicate that LPS 
+treatment reduced NPY production in the hypothala-
+mus or that NPY stimulation of feed intake was of suf-
+ficient magnitude to overcome the suppressive effects of 
+LPS. Moreover, these data suggest that neurotransmit-
+ters may be useful in manipulating feed intake in sick 
+animals.
+The melanocortin system in the hypothalamus has 
+been implicated in disease-associated inappetance and 
+in cancer cachexia in laboratory animals (Grossberg 
+et al., 2010). In rodent models, the disease-associat-
+ed mechanism for reduced feed intake is related to 
+increased POMC gene expression at 4 h after intra-
+peritoneal injection of LPS (Sergeyev et al., 2001). It 
+should be noted that the time frame for the effects of 
+intravenous administration of LPS in the sheep model 
+should be faster than intraperitoneal injections of LPS 
+in rats and the 2 approaches cannot be directly com-
+pared based on time. In sheep, whole hypothalamic 
+POMC mRNA abundance were unchanged at 3 or 6 
+h after intravenous LPS injection. However, there are 
+multiple sources of POMC that are not all related to 
+appetite control and thus this approach cannot ade-
+quately address POMC changes with disease. Whereas 
+AgRP mRNA was unchanged at 3 h after LPS, by 6 
+h AgRP mRNA was increased (Sartin et al., 2008). 
+Further focus at 6 h after LPS indicated that AgRP 
+mRNA was increased and POMC mRNA decreased in 
+the ARC, as assessed by in situ hybridization. In ad-
+dition, dual-label immunohistochemistry for c-Fos and 
+either AgRP or α-MSH supported the mRNA data, 
+indicating AgRP expression and neuron activation was 
+increased, whereas α-MSH was reduced (Sartin et al., 
+2008). The increase in AgRP may result from the pro-
+longed feed intake suppression, which would be expect-
+ed to occur based on fasting studies, though the effects 
+on POMC cannot be similarly explained. Alternatively, 
+these data may represent a mechanism to recover ap-
+petite after feed intake inhibition or may explain the 
+compensatory cumulative feed intake observed at 24 
+to 48 h after LPS suppression of appetite (by this time 
+both LPS and saline-treated animals have similar cu-
+mulative feed intakes). Additional studies are needed to 
+address the issue of whether there is increased POMC 
+expression preceding appetite inhibition and the rel-
+evance of the MC4R to disease suppression of appetite 
+in farm animals.
+Experiments using a different approach to this ques-
+tion found that when AgRP was administered to block 
+the MC4R before injection of LPS, AgRP treatment 
+prevented the reductions in feed intake (Sartin et al., 
+2008). Thus, the effects of disease in ruminants may 
+involve the MC4R as a major mechanism for inhibi-
+tion of appetite, as has been hypothesized for labo-
+ratory animals (Grossberg et al., 2010). Additionally, 
+this study suggests that the development of synthetic 
+MC4R antagonists, which would mimic the effect of 
+AgRP, may have utility in the treatment of disease-
+associated cachexia (Sartin et al., 2008; Grossberg et 
+al., 2010) as well as possible uses in agriculture and 
+veterinary medicine, where an increase in feed intake 
+might be beneficial (Sartin et al., 2005).
+SUMMARY AND CONCLUSIONS
+Physiological and pathological alterations in feed in-
+take are the result of a complex interplay between cir-
+culating nutrient molecules, hormones, and nutrients 
+in the gastrointestinal tract and the final actions of 
+these factors on the brain stem and hypothalamic neu-
+rons culminating in a feeding response. Although there 
+are similarities to the appetite regulatory mechanism 
+for other models, farm animals represent unique chal-
+lenges based on species differences, different digestive 
+systems, and nutritional requirements for production 
+and thus require individual study of each farm animal 
+species to determine the possible mechanisms regulat-
+ing appetite as well as metabolic rate that are specific 
+to each species. Moreover, there are newer molecules 
+hypothesized to regulate appetite in laboratory animals 
+that are just beginning to be studied (such as gastro-
+intestinal hormones, nesfatin-1, and numerous others) 
+in farm animals. The benefit to determining how feed 
+intake is regulated in these diverse animals will improve 
+our understanding of basic energy intake in farm ani-
+mals, improve diet formulations, allow the development 
+1998 Sartin et al.
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+of strategies to manipulate feeding in normal as well 
+as situations where feed intake has been compromised, 
+such as lactation, disease, environmental stressors, and 
+others.
+LITERATURE CITED
+Adam, C. L., Z. A. Archer, P. A. Findlay, L. Thomas, and M. Ma-
+rie. 2002. Hypothalamic gene expression in sheep for cocaine- 
+and amphetamine-regulated transcript, pro-opiomelanocortin, 
+neuropeptide Y, agouti-related peptide and leptin receptor and 
+responses to negative energy balance.  Neuroendocrinology  
+75:250–256.
+Adam, C. L., and P. A. Findlay. 2010. Decreased blood-brain leptin 
+transfer in an ovine model of obesity and weight loss: Resolving 
+the cause of leptin resistance.  Int. J. Obes. (Lond.)  34:980–988.
+Adam, C. L., P. A. Findlay, and D. W. Miller. 2006. Blood-brain 
+leptin transport and appetite and reproductive neuroendocrine 
+responses. to intracerebroventricular leptin injection in sheep: 
+Influence of photoperiod.  Endocrinology  147:4589–4598.
+Alavi, F. K., J. P. McCann, A. Mauromoustakis, and S. Sangiah. 
+1993. Feeding behavior and its responsiveness to naloxone differ 
+in lean and obese sheep.  Physiol. Behav.  53:317–323.
+Alavi, F. K., J. P. McCann, S. Sangiah, and A. Mauromoustakos. 
+1991. Effects of naloxone on ad libitum intake and plasma in-
+sulin, glucose, and free fatty acids in maintenance-fed sheep.  
+Domest. Anim. Endocrinol.  8:109–115.
+Allen, M. S. 1996. Physical constraints on voluntary intake of forages 
+by ruminants.  J. Anim. Sci.  74:3063–3075.
+Allen, M. S. 2000. Effects of diet on short-term regulation of feed 
+intake by lactating dairy cattle.  J. Dairy Sci.  83:1598–1624.
+Allen, M. S., B. J. Bradford, and K. J. Harvatine. 2005. The cow 
+as a model to study food intake regulation.  Annu. Rev. Nutr.  
+25:523–547.
+Allen, M. S., B. J. Bradford, and M. Oba. 2009. Board-Invited Re-
+view: The hepatic oxidation theory of the 174 control of feed 
+intake and its application to ruminants.  J. Anim. Sci.  87:3317–
+3334.
+Amstalden, M., M. R. Garcia, S. W. Williams, R. L. Stanko, S. E. 
+Nizielski, C. D. Morrison, D. H. Keisler, and G. L. Williams. 
+2000. Leptin gene expression, circulating leptin, and luteinizing 
+hormone pulsatility are acutely responsive to short-term fasting 
+in prepubertal heifers: Relationships to circulating insulin and 
+insulin-like growth factor I.  Biol. Reprod.  63:127–133.
+Anil, M. H., and J. M. Forbes. 1988. The roles of hepatic nerves in 
+the reduction of food intake as a consequence of intraportal 
+sodium propionate administration in sheep.  Q. J. Exp. Physiol.  
+73:539–546.
+Anukulkitch, C., A. Rao, F. R. Dunchea, and I. J. Clarke. 2009. A 
+test of the lipostat theory in a seasonal (ovine) model under 
+natural conditions reveals a close relationship between adipos-
+ity and melanin concentrating hormone expression.  Domest. 
+Anim. Endocrinol.  36:138–151.
+Anukulkitch, C., A. Rao, A. Periera, J. McEwan, and I. J. Clarke. 
+2010. Expression of genes for appetite-regulating peptides in 
+the hypothalamus of genetically selected lean and fat sheep.  
+Neuroendocrinology  91:223–238.
+Archer, Z. A., P. A. Findlay, I. S. McMillen, S. M. Rhind, and C. L. 
+Adam. 2004. Effects of nutritional status and gonadal steroids 
+on expression of appetite-regulatory genes in the hypothalamic 
+arcuate nucleus of sheep.  J. Endocrinol.  182:409–419.
+Archer, Z. A., S. M. Rhind, P. A. Findlay, C. E. Kyle, M. C. Barber, 
+and C. L. Adam. 2005. Hypothalamic responses to peripheral 
+glucose infusion in food-restricted sheep are influenced by pho-
+toperiod.  J. Endocrinol.  184:515–525.
+Archer, Z. A., S. M. Rhind, P. A. Findlay, C. E. Kyle, L. Thomas, M. 
+Marie, and C. L. Adam. 2002. Contrasting effects of different 
+levels of food intake and adiposity on LH secretion and hypo-
+thalamic gene expression in sheep.  J. Endocrinol.  175:383–393.
+Arciszewski, M. B., S. Barabasz, C. Skobowiat, W. Maksymow-
+icz, and M. Majewski. 2009. Immunodetection of cocaine- and 
+amphetamine-regulated transcript in the rumen, reticulum, 
+omasum and abomasum of the sheep.  Anat. Histol. Embryol.  
+38:62–67.
+Asakuma, S., H. Morishita, T. Sugino, Y. Kurose, S. Kobayashi, and 
+Y. Terashima. 2003. Circulating leptin response to feeding and 
+exogenous infusion of insulin in sheep exposed to thermoneu-
+tral and cold environments.  Comp. Biochem. Physiol. A Mol. 
+Integr. Physiol.  134:329–335.
+Bahar, B., and T. Sweeney. 2008. Mapping of the transcription start 
+site (TSS) and identification of SNPs in the bovine neuropep-
+tide Y (NPY) gene.  BMC Genet.  9:91–101.
+Baile, C. A., and J. M. Forbes. 1974. Control of feed intake and regu-
+lation of energy balance in ruminants.  Physiol. Rev.  54:160–
+214.
+Baile, C. A., and C. L. McLaughlin. 1987. Mechanisms controlling 
+feed intake in ruminants: A review.  J. Anim. Sci.  64:915–922.
+Baldwin, B. A., and R. F. Parrot. 1985. Effects of intracerebroven-
+tricular injection of naloxone on operant feeding and drinking 
+in pigs.  Pharmacol. Biochem. Behav.  22:37–40.
+Baldwin, B. A., and S. Sukhchai. 1996. Intracerebroventricular in-
+jection of CCK reduces operant sugar intake in pigs.  Physiol. 
+Behav.  60:231–233.
+Barb, C. R., J. B. Barrett, R. R. Kraeling, and G. B. Rampacek. 
+2001. Serum leptin concentrations, luteinizing hormone and 
+growth hormone secretion during feed and metabolic fuel re-
+striction in the prepuberal gilt.  Domest. Anim. Endocrinol.  
+20:47–63.
+Barb, C. R., G. J. Hausman, R. Rekaya, C. A. Lents, S. Lkhagva-
+dorj, L. Qu, W. Cai, O. P. Couture, L. L. Anderson, J. C. M. 
+Dekkers, and C. K. Tuggle. 2010. Gene expression in hypo-
+thalamus, liver and adipose tissues and food intake response 
+to melanocortin-4 receptor (MC4R) agonist in pigs expressing 
+MC4R mutations.  Physiol. Genomics  doi:10.1152/physiolge-
+nomics.00006.2010.
+Barb, C. R., R. R. Kraeling, G. B. Rampacek, and G. J. Hausman. 
+2006. The role of neuropeptide Y and interaction with leptin 
+in regulating feed intake and luteinizing hormone and growth 
+hormone secretion in the pig.  Reproduction  131:1127–1135.
+Barb, C. R., A. S. Robertson, J. B. Barrett, R. R. Kraeling, and K. 
+L. Houseknecht. 2004. The role of melanocortin-3 and -4 recep-
+tor in regulating appetite, energy homeostasis and neuroendo-
+crine function in the pig.  J. Endocrinol.  181:39–52.
+Barb, C. R., X. Yan, M. J. Azain, R. R. Kraeling, G. B. Rampacek, 
+and T. G. Ramsay. 1998. Recombinant porcine leptin reduces 
+feed intake and stimulates growth hormone secretion in swine.  
+Domest. Anim. Endocrinol.  15:77–86.
+Blache, D., R. L. Tellam, L. M. Chagas, M. A. Blackberry, P. E. 
+Vercoe, and G. B. Martin. 2000. Level of nutrition affects leptin 
+concentrations in plasma and cerebrospinal fluid in sheep.  J. 
+Endocrinol.  165:625–637.
+Bradford, B. J., and M. S. Allen. 2008. Negative energy balance 
+increases periprandial ghrelin and growth hormone concen-
+trations in lactating dairy cows.  Domest. Anim. Endocrinol.  
+34:196–203.
+Bradford, B. J., M. Oba, R. A. Ehrhardt, Y. R. Boisclair, and M. 
+S. Allen. 2006. Propionate is not an important regulator of 
+plasma leptin concentration in dairy cattle.  Domest. Anim. 
+Endocrinol.  30:65–75.
+Buchanan, F. C., T. D. Thue, P. Yu, and D. C. Winkelman-Sim. 
+2005. Single nucleotide polymorphisms in the corticotrophin-
+releasing hormone and pro-opiomelancortin genes are associ-
+ated with growth and carcass yield in beef cattle.  Anim. Genet.  
+36:127–131.
+Buff, P. R., A. C. Dodds, C. D. Morrison, N. C. Whitley, E. L. Mc-
+Fadin, J. A. Daniel, J. Djiane, and D. H. Keisler. 2002. Leptin 
+in horses: Tissue localization and relationship between periph-
+eral concentrations of leptin and body condition.  J. Anim. Sci.  
+80:2942–2948.
+1999Regulation of feed intake
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+Chaillou, E., R. Baumont, Y. Chilliard, and Y. Tillet. 2002. Several 
+populations of neuropeptide Y-containing neurons exist in the 
+infundibular nucleus of sheep: An immunohistochemical study 
+if animals on different diets.  J. Comp. Neurol.  444:29–43.
+Chaillou, E., R. Baumont, D. Fellman, G. Tramu, and Y. Tillet. 
+2003. Sensitivity of galanin- and melanin concentrating hor-
+mone-containing neurons to nutritional status: An immunohis-
+tochemical study in the ovariectomized ewe.  J. Neuroendocri-
+nol.  15:459–467.
+Chaillou, E., R. Baumont, G. Tramu, and Y. Tillet. 2000. Effect of 
+feeding on Fos protein expression in sheep hypothalamus with 
+special reference to the supraoptic and paraventricular nuclei: 
+An immunohistochemical study.  Eur. J. Neurosci.  12:4515–
+4524.
+Chelikani, P. K., D. H. Keisler, and J. J. Kennelly. 2003. Response 
+of plasma leptin concentration to jugular infusion of glucose or 
+lipid is dependent on the stage of lactation of Holstein cows.  J. 
+Nutr.  133:4163–4171.
+Choi, B. R., and D. L. Palmquist. 1996. High fat diets increase 
+plasma cholecystokinin and pancreatic polypeptide, and de-
+crease plasma insulin and feed intake in lactating cows.  J. 
+Nutr.  126:2913–2919.
+Clarke, I. J., K. Backholer, and A. J. Tilbrook. 2005. Y2 receptor-se-
+lective agonist delays the estrogen-induced luteinizing hormone 
+surge in ovariectomized ewes, but y1-receptor-selective agonists 
+stimulate voluntary food intake.  Endocrinology  146:769–775.
+Clarke, I. J., A. Rao, Y. Chilliard, C. Delavaud, and G. A. Lincoln. 
+2003. Photoperiod effects on gene expression for hypothalamic 
+appetite-regulating peptides and food intake in the ram.  Am. 
+J. Physiol. Regul. Integr. Comp. Physiol.  284:R101–R115.
+Clarke, I. J., C. J. Scott, A. Rao, S. Pompolo, and M. L. Baker-
+Gibb. 2000. Seasonal changes in the expression of neuropeptide 
+Y and pro-opiomelanocortin mRNA in the arcuate nucleus of 
+the ovariectomized ewe: Relationship to the seasonal appetite 
+and breeding cycles.  J. Neuroendocrinol.  12:1105–1111.
+Czaja, K., R. R. Kraeling, and C. R. Barb. 2003. Are hypothalamic 
+neurons transsynaptically connected to porcine adipose tissue?  
+Biochem. Biophys. Res. Commun.  311:482–485.
+Daniel, J. A., T. H. Elsasser, C. D. Morrison, D. H. Keisler, B. K. 
+Whitlock, B. Steele, D. Pugh, and J. L. Sartin. 2003. Localiza-
+tion of leptin, tumor necrosis factor-α, and CD14 in ovine adi-
+pose and changes in circulating TNF in lean and obese sheep.  
+J. Anim. Sci.  81:2590–2599.
+Delavaud, C., F. Bocquier, Y. Chilliard, D. H. Keisler, A. Gertler, 
+and G. Kann. 2000. Plasma leptin determination in ruminants: 
+Effect of nutritional status and body fatness on plasma leptin 
+concentration assessed by a specific RIA in sheep.  J. Endocri-
+nol.  165:519–526.
+Della-Fera, M. A., and C. A. Baile. 1979. Cholecystokinin octapep-
+tide: Continuous picomole injections into the cerebral ventricles 
+of sheep suppress feeding.  Science  206:471–473.
+Della-Fera, M. A., C. A. Baile, B. S. Schneider, and J. A. Grinker. 
+1981. Cholecystokinin antibody injected in cerebral ventricles 
+stimulates feeding in sheep.  Science  212:687–689.
+DiCostanzo, A., J. E. Williams, and D. H. Keisler. 1999. Effects of 
+short- or long-term infusions of acetate or propionate on lutein-
+izing hormone, insulin, and metabolite concentrations in beef 
+heifers.  J. Anim. Sci.  77:3050–3056.
+Dyer, C. J., K. J. Touchette, J. A. Carroll, G. L. Allee, and R. L. 
+Matteri. 1999. Cloning of porcine prepro-orexin cDNA and ef-
+fects of an intramuscular injection of synthetic porcine orexin-
+B on feed intake in young pigs.  Domest. Anim. Endocrinol.  
+16:145–148.
+Ehrhardt, R. A., R. M. Slepetis, J. Siegal-Willott, M. E. Van Am-
+burgh, A. W. Bell, and Y. R. Boisclair. 2000. Development of a 
+specific radioimmunoassay to measure physiological changes of 
+circulating leptin in cattle and sheep.  J. Endocrinol.  166:519–
+528.
+El-Haddad, M. A., Y. Ismail, C. Guerra, L. Day, and M. G. Ross. 
+2003. Neuropeptide Y administration into cerebral ventricles 
+stimulates sucrose ingestion in the near-term ovine fetus.  Am. 
+J. Obstet. Gynecol.  189:949–952.
+Fan, B., S. K. Onteru, G. S. Plastow, and M. F. Rothschild. 2009. 
+Detailed characterization of the porcine MC4R gene in relation 
+to fatness and growth.  Anim. Genet.  40:401–409.
+Fan, Z.-C., J. L. Sartin, and Y.-X. Tao. 2008a. Molecular cloning 
+and pharmacological characterization of porcine melanocortin-3 
+receptor.  J. Endocrinol.  196:139–148.
+Fan, Z.-C., J. L. Sartin, and Y.-X. Tao. 2008b. Pharmacological 
+analyses of two naturally occurring porcine melanocortin-4 re-
+ceptor mutations in domestic pigs.  Domest. Anim. Endocrinol.  
+34:383–390.
+Faverdin, P. 1999. The effect of nutrients on feed intake in rumi-
+nants.  Proc. Nutr. Soc.  58:523–531.
+Forbes, J. M. 1988. Metabolic aspects of the regulation of voluntary 
+food intake and appetite.  Nutr. Res. Rev.  1:145–168.
+Forbes, J. M. 2007a. A personal view of how ruminant animals con-
+trol their intake and choice of food: Minimal total discomfort.  
+Nutr. Res. Rev.  20:132–146.
+Forbes, J. M. 2007b. Voluntary food intake and diet selection in farm 
+animals. CAB Int., Wallingford, UK.
+Forbes, J. M., and J. P. Barrio. 1992. Abdominal chemo- and mecha-
+nosensitivity in ruminants and its role in the control of food 
+intake.  Exp. Physiol.  77:27–50.
+Friedman, M. I. 1998. Fuel partitioning and food intake.  Am. J. 
+Clin. Nutr.  67:513S–518S.
+Gordon, M. E., and K. H. McKeever. 2006. Oral and intravenous 
+carbohydrate challenges decrease active ghrelin concentrations 
+and alter hormones related to control of energy metabolism in 
+horses.  J. Anim. Sci.  84:1682–1690.
+Govoni, N., R. De lasio, C. Cocco, A. Parmeggiani, G. Galeati, U. 
+Pagotto, C. Brancia, M. Spinaci, C. Tamanini, R. Pasquali, G-
+L. Ferri, and E. Seren. 2005. Gastric immunolocalization and 
+plasma profiles of acyl-ghrelin in fasted and fasted-refed prepu-
+beral gilts.  J. Endocrinol.  186:505–513.
+Greer, A. W., Y. R. Boisclair, M. Stankiewicz, R. W. McAnulty, 
+N. P. Jay, and A. R. Sykes. 2009. Leptin concentrations and 
+the immune-mediated reduction of feed intake in sheep infected 
+with nematode Trichostrongylus colubriformis.  Br. J. Nutr.  
+102:954–957.
+Gregorini, P., K. J. Soder, and R. S. Kensinger. 2009. Effects of 
+rumen fill on short-term ingestive behavior and circulating con-
+centrations of ghrelin, insulin, and glucose of dairy cows forag-
+ing vegetative micro-swards.  J. Dairy Sci.  92:2095–2105.
+Grossberg, A. J., J. M. Scarlett, and D. L. Marks. 2010. Hypotha-
+lamic mechanisms in cachexia.  Physiol. Behav.  100:478–489.
+Grouselle, D., E. Chaillou, A. Caraty, M.-T. Bluet-Pajot, P. Zizzari, 
+Y. Tillet, and J. Epelbaum. 2008. Pulsatile cerebrospinal fluid 
+and plasma ghrelin in relation to growth hormone secretion and 
+food intake in the sheep.  J. Neuroendocrinol.  20:1138–1146.
+Grovum, W. L. 1981. Factors affecting the voluntary intake of food 
+by sheep. 3. The effect of intravenous infusions of gastrin, cho-
+lecystokinin and secretin on motility of the reticulo-rumen and 
+intake.  Br. J. Nutr.  45:183–201.
+Han, Y. K., Q. Wang, J. H. Cho, Y. J. Chen, J. S. Yoo, S. O. Shin, 
+and I. H. Kim. 2009. Effects of dietary glucose level during late 
+gestation on litter performance and glucose concentration in 
+sows.  Anim. Sci. J.  80:57–61.
+Harrison, J. L., D. W. Miller, P. A. Findlay, and C. L. Adam. 2008. 
+Photoperiod influences the central effects of ghrelin on food 
+intake, GH and LH secretion in sheep.  Neuroendocrinology  
+87:182–192.
+Hayashida, T., K. Murakami, K. Mogi, M. Nishihara, M. Haka-
+zato, M. S. Mondal, Y. Horii, M. Kojima, K. Kangawa, and 
+N. Murakami. 2001. Ghrelin in domestic animals: Distribution 
+in stomach and its possible role.  Domest. Anim. Endocrinol.  
+21:17–24.
+Henry, B. A., J. W. Goding, W. S. Alexander, A. J. Tilbrook, B. 
+J. Canny, F. Dunshea, A. Rao, A. Mansell, and I. J. Clarke. 
+1999. Central administration of leptin to ovariectomized ewes 
+2000 Sartin et al.
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+inhibits food intake without affecting the secretion of hormones 
+from the pituitary gland: Evidence for a dissociation of ef-
+fects on appetite and neuroendocrine function.  Endocrinology  
+140:1175–1182.
+Henry, B. A., A. Rao, B. A. Ikenasio, K. G. Mountjoy, A. J. Tilbrook, 
+and I. J. Clarke. 2001. Differential expression of cocaine- and 
+amphetamine-regulated transcript and agouti related-protein in 
+chronically food-restricted sheep.  Brain Res.  918:40–50.
+Henry, B. A., A. J. Tilbrook, F. R. Dunshea, A. Rao, D. Blache, G. 
+B. Martin, and I. J. Clarke. 2000. Long-term alterations in adi-
+posity affect the expression of melanin-concentrating hormone 
+and enkephalin but not proopiomelanocortin in the hypothala-
+mus of ovariectomized ewes.  Endocrinology  141:1506–1514.
+Iqbal, J., B. A. Henry, S. Pompolo, A. Rao, and I. J. Clarke. 2003. 
+Long-term alteration in bodyweight and food restriction does 
+not affect the gene expression of either preproorexin or prodyn-
+orphin in the sheep.  Neuroscience  118:217–226.
+Iqbal, J., Y. Kurose, B. Canny, and I. J. Clarke. 2006. Effects of 
+central infusion of ghrelin on food intake and plasma levels of 
+growth hormone, luteinizing hormone, prolactin, and cortisol 
+secretion in sheep.  Endocrinology  147:510–519.
+Iqbal, J., S. Pompolo, L. M. Dumont, C. S. Wu, K. G. Mountjoy, 
+B. A. Henry, and I. J. Clarke. 2001a. Long-term alterations in 
+body weight do not affect the expression of melanocortin recep-
+tor-3 and -4 mRNA in the ovine hypothalamus.  Neuroscience  
+105:931–940.
+Iqbal, J., S. Pompolo, T. Murakami, E. Grouzmann, T. Sakurai, B. 
+Meister, and I. J. Clarke. 2001c. Immunohistochemical charac-
+terization of localization of long-form leptin receptor (Ob-Rb) 
+in neurochemically defined cells in the ovine hypothalamus.  
+Brain Res.  920:55–64.
+Iqbal, J., S. Pompolo, T. Sakurai, and I. J. Clarke. 2001b. Evidence 
+that orexin-containing neurons provide direct input to gonad-
+otropin-releasing hormone neurons in the ovine hypothalamus.  
+J. Neuroendocrinol.  13:1033–1041.
+Jenkins, N. L., J. L. Turner, S. S. Dritz, S. K. Durham, and J. 
+E. Minton. 2004. Changes in circulating insulin-like growth 
+factor-I, insulin-like growth factor binding proteins, and leptin 
+in weaned pigs infected with Salmonella enterica serovar Ty-
+phimurium.  Domest. Anim. Endocrinol.  26:49–60.
+Kadokawa, H., K. Aikawa, K. Kimura, D. Blache, I. H. Williams, 
+and G. B. Martin. 2007. Links between de novo fatty acid syn-
+thesis and leptin secretion in bovine adipocytes.  J. Vet. Med. 
+Sci.  69:225–231.
+Kojima, C. J., S. J. Jenkins, T. A. Cooper, M. P. Roberts, J. A. Car-
+roll, and H. G. Kattesh. 2009. Effects of syndyphalin-33 on feed 
+intake and circulating measures of growth hormone, cortisol, 
+and immune cell populations in the recently weaned pig.  J. 
+Anim. Sci.  87:3218–3225.
+Kuhara, T., S. Ikeda, A. Ohneda, and Y. Sasaki. 1991. Effects of 
+intravenous infusion of 17 amino acids on the secretion of GH, 
+glucagon, and insulin in sheep.  Am. J. Physiol.  260:E21–E26.
+Langhans, W. 1996. Role of the liver in the metabolic control of 
+eating: What we know—and what we do not know.  Neurosci. 
+Biobehav. Rev.  20:145–153.
+Leuvenink, H. G., E. J. Bleumer, L. J. Bongers, J. van Bruchem, and 
+D. van der Heide. 1997. Effect of short-term propionate infusion 
+on feed intake and blood parameters in sheep.  Am. J. Physiol.  
+272:E997–E1001.
+Lin, J., R. C. Barb, R. R. Kraeling, and G. B. Rampacek. 2001. 
+Developmental changes in the long form leptin receptor and 
+related neuropeptide gene expression in the pig brain.  Biol. 
+Reprod.  64:1614–1618.
+Marson, L., T. J. Lauterio, M.-A. Della-Fera, and C. A. Baile. 1987. 
+Immunohistochemical distribution of cholecystokinin, dynor-
+phin A and Met-enkephalin neurons in sheep hypothalamus.  
+Neurosci. Lett.  81:35–40.
+McMahon, C. D., D. F. Buxton, T. H. Elsasser, D. R. Gunter, L. G. 
+Sanders, B. P. Steele, and J. L. Sartin. 1999. Neuropeptide Y 
+restores appetite and alters concentrations of GH after central 
+administration to endotoxic sheep.  J. Endocrinol.  161:333–339.
+Melendez, P., T. Krueger, J. White, L. Badinga, J. Verstegen, G. 
+A. Donovan, and L. F. Archbald. 2006. Effect of ghrelin in dry 
+matter intake and energy metabolism in prepartum sheep: A 
+preliminary study.  Theriogenology  66:1961–1968.
+Mercer, J. G., K. M. Moar, P. A. Findlay, N. Hoggard, and C. 
+L. Adam. 1998. Association of leptin receptor (OB-Rb), NPY 
+and GLP-1 gene expression in the ovine and murine brainstem.  
+Regul. Pept.  75–76:271–278.
+Miner, J. L., M. A. Della-Fera, and J. A. Paterson. 1990. Blockade of 
+satiety factors by central injection of neuropeptide Y in sheep.  
+J. Anim. Sci.  68:3805–3811.
+Miner, J. L., M. A. Della-Fera, J. A. Paterson, and C. A. Baile. 1989. 
+Lateral cerebroventricular injection of neuropeptide Y stimu-
+lates feeding in sheep.  Am. J. Physiol.  257:R383–R387.
+Minokoshi, Y., T. Alquier, N. Furukawa, Y. B. Kim, A. Lee, B. 
+Xue, J. Mu, F. Foufelle, P. Ferré, M. J. Birnbaum, B. J. Stuck, 
+and B. B. Kahn. 2004. AMP-kinase regulates food intake by 
+responding to hormonal and nutrient signals in the hypothala-
+mus.  Nature  428:569–574.
+Morrison, C. D., J. A. Daniel, B. J. Holmberg, J. Djiane, N. Raver, 
+A. Gertler, and D. H. Keisler. 2001. Central infusion of leptin 
+into well-fed and undernourished ewe lambs: Effects on feed 
+intake and serum concentrations of growth hormone and lutein-
+izing hormone.  J. Endocrinol.  168:317–324.
+Nagatani, S., Y. Zeng, D. H. Keisler, D. L. Foster, and C. A. Jaffe. 
+2000. Leptin regulates pulsatile luteinizing hormone and growth 
+hormone secretion in the sheep.  Endocrinology  141:3965–3975.
+Niijima, A. 1982. Glucose-sensitive afferent nerve fibres in the he-
+patic branch of the vagus nerve in the guinea-pig.  J. Physiol.  
+332:315–323.
+Obese, F. Y., B. K. Whitlock, B. P. Steele, F. C. Buonomo, and J. L. 
+Sartin. 2007. Long-term feed intake regulation in sheep is medi-
+ated by opioid receptors.  J. Anim. Sci.  85:111–117.
+Oresanya, T. F., A. D. Beaulieu, and J. F. Patience. 2008. Investiga-
+tions of energy metabolism in weanling barrows: The interac-
+tion of dietary energy concentration and daily feed (energy) 
+intake.  J. Anim. Sci.  86:348–363.
+Owusu-Asiedu, A., J. F. Patience, B. Laarveld, A. G. Van Kessel, P. 
+H. Simmins, and R. T. Zijlstra. 2006. Effects of guar gum and 
+cellulose on digesta passage rate, ileal microbial populations, 
+energy and protein digestibility, and performance of grower 
+pigs.  J. Anim. Sci.  84:843–852.
+Parrott, R. F. 1990. Central administration of corticotrophin releas-
+ing factor in the pig: Effects on operant feeding, drinking and 
+plasma cortisol.  Physiol. Behav.  47:519–524.
+Parrott, R. F., R. P. Heavens, and B. A. Baldwin. 1986. Stimulation 
+of feeding in the satiated pig by intracerebroventricular injec-
+tion of neuropeptide Y.  Physiol. Behav.  36:523–525.
+Pekas, J. C., and W. E. Trout. 1990. Stimulation of food intake 
+and growth of swine by cholecystokinin immunization.  Growth 
+Dev. Aging  54:51–56.
+Piccione, G., C. Bertolucci, A. Foà, and G. Caola. 2004. Influence of 
+fasting and exercise on the daily rhythm of serum leptin in the 
+horse.  Chronobiol. Int.  21:405–417.
+Pillon, D., A. Caraty, C. Fabre-Nys, and G. Bruneau. 2003. Early de-
+crease of proopiomelanocortin but not neuropeptide Y mRNA 
+expression in the mediobasal hypothalamus of the ewe, during 
+the estradiol-induced preovulatory LH surge.  Gen. Comp. En-
+docrinol.  134:264–272.
+Polkowska, J., and A. Gladysz. 2001. Effect of food manipulation 
+on the neuropeptide Y neuronal system in the diencephalon of 
+ewes.  J. Chem. Neuroanat.  21:149–159.
+Polkowska, J., M. Warkowska, and A. Wojcik-Gladysz. 2006. Ex-
+pression of NPY-immunoreactive neurons in the hypothalamus 
+of the cycling ewe.  Folia Histochem. Cytobiol.  44:13–16.
+Qi, Y., B. A. Henry, B. J. Oldfield, and I. J. Clarke. 2010. The action 
+of leptin on appetite-regulating cells in the ovine hypothalamus: 
+2001Regulation of feed intake
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+Demonstration of direct action in the absence of the arcuate 
+nucleus.  Endocrinology  151:2106–2116.
+Qi, Y., J. Iqbal, B. J. Oldfield, and I. J. Clarke. 2008. Neural con-
+nectivity in the medialbasal hypothalamus of the sheep brain.  
+Neuroendocrinology  87:91–112.
+Ramsay, T. G., J. A. Bush, J. P. McMurtry, M. C. Thivierge, and 
+T. A. Davis. 2004. Peripheral leptin administration alters hor-
+mone and metabolite levels in the young pig.  Comp. Biochem. 
+Physiol. A Mol. Integr. Physiol.  138:17–25.
+Ramsay, T. G., X. Yan, and C. Morrison. 1998. The obesity gene 
+in swine: Sequence and expression of porcine leptin.  J. Anim. 
+Sci.  76:484–490.
+Raun, K., P. von Voss, and L. B. Knudsen. 2007. Liraglutide, a 
+once-daily human glucagon-like peptide-1 analog, minimizes 
+food intake in severely obese minipigs.  Obesity (Silver Spring)  
+15:1710–1716.
+Reynolds, C. B., A. N. Elias, and C. S. Whisnant. 2010. Effects 
+of feeding pattern on ghrelin and insulin secretion in pigs.  
+Domest. Anim. Endocrinol.  39:90–96.
+Roche, J. R., A. J. Sheahan, L. M. Chagas, and R. C. Boston. 
+2008. Short Communication: Change in plasma ghrelin in dairy 
+cows following an intravenous glucose challenge.  J. Dairy Sci.  
+91:1005–1010.
+Salfen, B. E., J. A. Carroll, and D. H. Keisler. 2003. Endocrine 
+responses to short-term feed deprivation in weanling pigs.  J. 
+Endocrinol.  178:541–551.
+Salfen, B. E., J. A. Carroll, D. H. Keisler, and T. A. Strauch. 2004. 
+Effects of exogenous ghrelin on feed intake, weight gain, behav-
+ior, and endocrine responses in weanling pigs.  J. Anim. Sci.  
+82:1957–1966.
+Sano, H. 1993. Plasma insulin and glucagon responses to intrave-
+nous infusion of propionate and 239 their autonomic control in 
+sheep.  J. Anim. Sci.  71:3414–3422.
+Sartin, J. L., J. A. Daniel, B. K. Whitlock, and R. R. Wilborn. 2010. 
+Selected hormonal and neurotransmitter mechanisms regulat-
+ing feed intake in sheep.  Animal  4:1781–1789.
+Sartin, J. L., C. Dyer, R. Matteri, D. Buxton, F. Buonomo, M. 
+Shores, J. Baker, J. A. Osbourne, T. Braden, and B. Steele. 
+2001. Effect of intracerebroventricular orexin-B on food intake 
+in sheep.  J. Anim. Sci.  79:1573–1577.
+Sartin, J. L., D. L. Marks, C. D. McMahon, J. A. Daniel, P. Levas-
+seur, C. G. Wagner, B. K. Whitlock, and B. P. Steele. 2008. 
+Central role of the melanocortin-4 receptors in appetite regula-
+tion after endotoxin.  J. Anim. Sci.  86:2557–2567.
+Sartin, J. L., C. G. Wagner, D. L. Marks, J. A. Daniels, C. D. Mc-
+Mahon, F. Y. Obese, and C. Partridge. 2005. Appetite regula-
+tion in sheep: A potential site for therapeutic intervention in 
+disease models.  Domest. Anim. Endocrinol.  29:446–455.
+Schwartz, G. J. 2000. The role of gastrointestinal vagal afferents 
+in the control of food intake: Current prospects.  Nutrition  
+16:866–873.
+Schwartz, M. W., S. C. Woods, D. Porte Jr., R. J. Seeley, and D. 
+G. Baskin. 2000. Central nervous system control of food intake.  
+Nature  404:661–671.
+Sergeyev, V., C. Broberger, and T. Hökfelt. 2001. Effect of LPS ad-
+ministration on the expression of POMC, NPY, galanin, CART 
+and MCH mRNAs in the rat hypothalamus.  Brain Res. Mol. 
+Brain Res.  90:93–100.
+Sherman, E. L., J. D. Nkrumah, B. M. Murdoch, C. Li, Z. Wang, A. 
+Fu, and S. S. Moore. 2008. Polymorphisms and haplotypes in 
+the bovine neuropeptide Y, growth hormone receptor, ghrelin, 
+insulin-like growth factor 2, and uncoupling proteins 2 and 3 
+and their associations with measures of growth, performance, 
+feed efficiency, and carcass merit in beef cattle.  J. Anim. Sci.  
+86:1–16.
+Soliman, M., S. Abdelhady, I. Fattou, K. Ishioka, H. Kitamura, 
+K. Kimura, and M. Saito. 2001. No alteration in serum leptin 
+levels during acute endotoxemia in sheep.  J. Vet. Med. Sci.  
+63:1143–1145.
+Sugino, T., Y. Hasegawa, Y. Kikkawa, J. Yamaura, M. Yamagi-
+shi, Y. Kurose, M. Kojima, K. Kangawa, and Y. Terashima. 
+2002a. A transient ghrelin surge occurs just before feeding in a 
+scheduled meal-fed sheep.  Biochem. Biophys. Res. Commun.  
+295:255–260.
+Sugino, T., Y. Kawakita, R. Fukumori, Y. Hasegawa, M. Kojima, K. 
+Kangawa, T. Obitsu, and K. Taniguchi. 2010. Effects of glucose 
+and amino acids on ghrelin secretion in sheep.  Anim. Sci. J.  
+81:199–204.
+Sugino, T., J. Yamaura, M. Yamagishi, A. Ogura, R. Hayashi, Y. 
+Kurose, M. Kojima, K. Kangawa, Y. Hasegawa, and Y. Terashi-
+ma. 2002b. A transient surge of ghrelin secretion before feeding 
+is modified by different feeding regimens in sheep.  Biochem. 
+Biophys. Res. Commun.  298:785–788.
+Takahashi, H., Y. Kurose, Y. Suzuki, M. Kojima, T. Yamaguchi, Y. 
+Yoshida, Y. Azuma, T. Sugino, M. Kojima, K. Kangawa, Y. 
+Hasegawa, and S. Kobayashi. 2010. Changes in blood pancre-
+atic and ghrelin concentrations in response to feeding in sheep.  
+J. Anim. Sci.  88:2103–2107.
+Takahashi, T., Y. Kobayashi, S. Hasegawa, E. Touno, Y. Otani, S. 
+Haga, F. Itoh, K. Katoh, and Y. Obara. 2008. Different re-
+sponse in postprandial plasma ghrelin and GH levels induced 
+by concentrate or timothy hay feeding in wethers.  Domest. 
+Anim. Endocrinol.  34:432–439.
+Tan, C. P., H. Sano, H. Iwaasa, J. Pan, A. W. Sailer, D. L. Hreniuk, 
+S. D. Feighner, O. C. Palyha, S. S. Pong, D. J. Figueroa, C. 
+P. Austin, M. M. Jiang, H. Yu, J. Ito, M. Ito, M. Ito, X. M. 
+Guan, D. J. MacNeil, A. Kanatani, L. H. Van der Ploeg, and 
+A. D. Howard. 2002. Melanin-concentrating hormone receptor 
+subtypes 1 and 2: Species-specific gene expression.  Genomics  
+79:785–792.
+Tao, Y.-X. 2010. The melanocortin-4 receptor: Physiology, pharma-
+cology, and pathophysiology.  Endocr. Rev.  31:506–543.
+Thomas, L., J. M. Walace, R. P. Aitken, J. G. Mercer, P. Trayhurn, 
+and N. Hoggard. 2001. Circulating leptin during ovine preg-
+nancy in relation to maternal nutrition, body composition and 
+pregnancy outcome.  J. Endocrinol.  169:465–476.
+Tillet, Y., M. Batailler, and D. Fellman. 1996. Distribution of mel-
+anin-concentrating hormone (MCH)-like immunoreactivity in 
+neurons of the diencephalon of sheep.  J. Chem. Neuroanat.  
+12:135–145.
+Trenkle, A. 1970. Effects of short-chain fatty acids, feeding, fasting 
+and type of diet on plasma insulin levels in sheep.  J. Nutr.  
+100:1323–1330.
+Vellucci, S. V., and R. F. Parrott. 1996. Bacterial endotoxin-induced 
+gene expression in the choroid plexus and paraventricular and 
+supraoptic hypothalamic nuclei of the sheep.  Brain Res. Mol. 
+Brain Res.  43:41–50.
+Vellucci, S. V., and R. F. Parrott. 1998. Expression of mRNAs for 
+vasopressin, oxytocin and corticotrophin releasing hormone in 
+the hypothalamus, and of cyclooxygenases-1 and -2 in the ce-
+rebral vasculature of endotoxin-challenged pigs.  Neuropeptides  
+32:439–446.
+Vellucci, S. V., R. F. Parrott, A. C. da Costa, S. Ohkura, and K. M. 
+Kendrick. 1995. Increased body temperature, cortisol secretion, 
+and hypothalamic expression of c-fos, corticotrophin releasing 
+hormone and interleukin-1 beta mRNAs, following central ad-
+ministration of interleukin-1 beta in the sheep.  Brain Res. Mol. 
+Brain Res.  29:64–70.
+Vizcarra, J. A., J. D. Kirby, S. K. Kim, and M. L. Galyean. 2007. 
+Active immunization against ghrelin decreases weight gain and 
+alters plasma concentrations of growth hormone in growing 
+pigs.  Domest. Anim. Endocrinol.  33:176–189.
+Wagner, C. G., C. D. McMahon, D. L. Marks, J. A. Daniel, B. 
+Steele, and J. L. Sartin. 2004. A role for agouti-related protein 
+in appetite regulation in a species with continuous nutrient de-
+livery.  Neuroendocrinology  80:210–218.
+Weisinger, R. S., J. R. Blair-West, P. Burns, D. A. Denton, M. J. 
+McKinley, B. Purcell, W. Vale, J. Rivier, and K. Sunagawa. 
+2002 Sartin et al.
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+2000. The inhibitory effect of hormones associated with stress 
+on Na appetite of sheep.  Proc. Natl. Acad. Sci. USA  97:2922–
+2927.
+Wertz-Lutz, A. E., J. A. Daniel, J. A. Clapper, A. Trenkle, and D. 
+C. Beitz. 2008. Prolonged, moderate nutrient restriction in beef 
+cattle results in persistently elevated circulating ghrelin concen-
+trations.  J. Anim. Sci.  86:564–575.
+Wertz-Lutz, A. E., J. S. Jennings, and J. A. Clapper. 2010. Plas-
+ma ghrelin concentrations of beef cattle consuming a similar 
+amount of dietary energy supplied by different ingredients.  J. 
+Anim. Sci.  88:2289–2299.
+Wertz-Lutz, A. E., T. J. Knight, R. H. Pritchard, J. A. Daniel, J. A. 
+Clapper, A. J. Smart, A. Trenkle, and D. C. Beitz. 2006. Cir-
+culating ghrelin concentrations fluctuate relative to nutritional 
+status and influence feeding behavior in cattle.  J. Anim. Sci.  
+84:3285–3300.
+Whitley, N. C., C. R. Barb, R. R. Kraeling, J. B. Barrett, G. B. 
+Rampacek, J. A. Carroll, and D. H. Keisler. 2000. Feed intake 
+and serum GH, LH and cortisol in gilts after intracerebroven-
+tricular or intravenous injection of urocortin.  Domest. Anim. 
+Endocrinol.  19:209–221.
+Whitlock, B. K., J. A. Daniel, C. D. McMahon, F. C. Buonomo, C. 
+G. Wagner, B. Steele, and J. L. Sartin. 2005. Intracerebroven-
+tricular melanin-concentrating hormone stimulates food intake 
+in sheep.  Domest. Anim. Endocrinol.  28:224–232.
+Williams, L. M., C. L. Adam, J. G. Mercer, K. M. Moar, D. Slater, 
+L. Hunter, P. A. Findlay, and N. Hoggard. 1999. Leptin recep-
+tor and neuropeptide Y gene expression in the sheep.  J. Neu-
+roendocrinol.  11:165–169.
+Yin, J., X. Li, D. Li, T. Yue, Q. Fang, J. Ni, X. Zhou, and G. Wu. 
+2009. Dietary supplementation with zinc oxide stimulates ghre-
+lin secretion from the stomach of young pigs.  J. Nutr. Biochem.  
+20:783–790.
+Zaralis, K., B. J. Tolkamp, J. G. Houdijk, A. R. Wylie, and I. Kyri-
+azakis. 2009. Consequences of protein supplementation for an-
+orexia, expression of immunity and plasma leptin concentrations 
+in parasitized ewes of two breeds.  Br. J. Nutr.  101:499–509.
+Zhang, H., J. Yin, D. Li, X. Zhou, and X. Li. 2007. Tryptophan 
+enhances ghrelin expression and secretion associated with in-
+creased food intake and weight gain in weanling pigs.  Domest. 
+Anim. Endocrinol.  33:47–61.
+Zhang, S., D. Blache, P. E. Veroe, C. L. Adam, M. A. Blackberry, P. 
+A. Findlay, K. A. Eidne, and G. B. Martin. 2005. Expression of 
+orexin receptors in the brain and peripheral tissues of the male 
+sheep.  Regul. Pept.  124:81–87.
+2003Regulation of feed intake
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+References
+http://www.journalofanimalscience.org/content/89/7/1991#BIBL
+This article cites 148 articles, 51 of which you can access for free at: 
+Citations
+http://www.journalofanimalscience.org/content/89/7/1991#otherarticles
+This article has been cited by 6 HighWire-hosted articles: 
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 

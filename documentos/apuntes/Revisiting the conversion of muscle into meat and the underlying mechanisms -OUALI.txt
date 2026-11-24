@@ -1,0 +1,1593 @@
+=== Fuente: Revisiting the conversion of muscle into meat and the underlying mechanisms -OUALI.pdf ===
+
+Revisiting the conversion of muscle into meat and the
+underlying mechanisms
+Ahmed Ouali a,*, Carlos Hernan Herrera-Mendez a, Gerald Coulis a, Samira Becila b,
+Abdelghani Boudjellal b, Laurent Aubry a, Miguel Angel Sentandreu a,1
+a QuaPA, BPM, INRA de Clermont Ferrand–Theix, 63122 Saint Gene`s Champanelle, France
+b INATAA, Universite´ de Constantine, Route de Aı¨n El Bey, 25000 Constantine, Algeria
+Received 24 February 2006; received in revised form 27 April 2006; accepted 8 May 2006
+Abstract
+The conversion of muscle into meat is a complex process in which all mechanisms responsible for the development of meat qualities
+are very likely interdependent. Colour and ﬂavour are thus both dependent on oxidative mechanisms. Oxidation and proteolysis are
+probably two processes involved in the development of meat tenderness. This paper reviewed the consequences of programmed cell death
+or apoptosis on muscle cells structure and biochemistry and on meat qualities as well. We therefore look at diﬀerent new hypothesis
+susceptible to highlight the meat science ﬁeld and provide new supports for a more dynamic meat research. One of them which would
+have appeared evident for our purpose since a decade, deals with the fact that, after animal bleeding, muscle cells have no other alter-
+native to only enter the programmed cell death procedure or apoptosis. If we introduce an early phase corresponding to apoptosis, taking
+place before the rigor onset and overlapping it, we will see that the known consequences of that process bring forward possible answers to
+still unexplained observations. After an overview of the actual state-of-the-art in meat science, we will introduce the programmed cell
+death and its underlying mechanisms. We then described the strong analogies between the known consequences of apoptosis and the
+postmortem changes aﬀecting a set of diﬀerent muscle characteristics.
+/C211 2006 Elsevier Ltd. All rights reserved.
+Keywords: Meat qualities; Muscle; pH; Calcium; Caspases; Apoptosis; Cell death
+1. Introduction
+Storage of meat at low temperature is a prerequisite for
+the development of the major eating qualities including
+tenderness and ﬂavour. Whether increasing storage length
+will be proﬁtable for tenderness and ﬂavour, it will have
+a rather deleterious eﬀect on juiciness and colour. Hence,
+it will be necessary to ﬁnd out the best compromise
+between these adverse time eﬀects and/or to apply storage
+technologies enabling a preservation of these qualities.
+For decades, consumers considered tenderness as the
+most important quality attribute of meat. In a review of
+factors inﬂuencing consumption, selection and acceptabil-
+ity of meat purchases, Jeremiah (1982) concluded that the
+most common cause of unacceptability in beef was tough-
+ness and that this was a common problem in pork and
+lamb. In contrast to mammals, ﬁsh ﬂesh often undergoes
+very rapid softening rendering it unappealing to consumers
+(Ashie & Simpson, 1997; Crapo, Himelbloom, Pfutzenre-
+uter, & Chong, 1999; Jiang, 2000). Despite some progress,
+this is still an acute problem for meat industry and ﬁsheries.
+Actually, the meat tenderising process is unanimously rec-
+ognized to be enzymatic in nature and the most studied
+proteolytic systems were cathepsins, calpains and, although
+more recently, the 20S proteasome (Sentandreu, Coulis, &
+Ouali, 2002). However, the major peptidases of concern are
+0309-1740/$ - see front matter /C211 2006 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.meatsci.2006.05.010
+* Corresponding author. Tel.: +33 4 73 62 41 63; fax: +33 4 73 62 42 68.
+E-mail address: ouali@clermont.inra.fr (A. Ouali).
+1 Present address: Department of Food Science, Instituto de Agroqui-
+mica y Tecnologia de Alimentos (C.S.I.C.), Apt. 73, 46100 Burjassot,
+Valencia, Spain.
+www.elsevier.com/locate/meatsci
+Meat Science 74 (2006) 44–58
+MEAT
+SCIENCE
+not identiﬁed yet in an unquestionable way and this ques-
+tion is still strongly debated.
+Besides meat tenderness, juiciness and ﬂavour are two
+other organoleptic qualities the consumers are looking
+for when eating meat especially red meats.
+Despite its close relationship to overall meat desirability,
+juiciness has received limited research attention. Variability
+in juiciness is commonly recognized in various meat animal
+species but, to our knowledge, there is still no clear expla-
+nation for this phenomenon. Meat juiciness is assumed to
+be directly related to the progressive intracellular water
+eﬄux occurring during the acidiﬁcation of postmortem
+muscle, a change in good agreement with the parallel
+increase in the extra-cellular space (Guignot, Vignon, &
+Monin, 1993; Monin & Ouali, 1991; Oﬀer & Knight,
+1988a, 1988b). Attempts to ﬁnd out muscle characteristics
+susceptible to explain this biological variability led to
+highly controversial ﬁndings and much remains to be learnt
+about meat juiciness and muscles water holding capacity as
+well, two variables probably inter-related (Ouali, 1991).
+Flavour is an important part of the eating quality of
+foods, including meat, and complaints of blandness are
+often levelled against modern lean meat from most animal
+species. Attempts to improve this quality with enhanced
+nutritional characteristics were therefore carried out (Molo-
+ney, Mooney, Kerry, & Troy, 2001; Wood et al., 1999). Fla-
+vour compounds are highly variable in nature. Peptides
+(Sentandreu et al., 2003), amino acids, lipids derivatives
+are indeed important determinants of meat ﬂavour. On
+the other hand, radical reactions are known to constitute
+a central process in the oxidation of these compounds even
+if the nature and the origin of the radicals remain still
+unclear (Renerre, 1999). In addition, cooking conditions
+are essential in the ﬂavour development through the Mail-
+lard reaction taking place, upon heating, between carbohy-
+drates and proteins and their derivatives (Mottram, 1992).
+Apart from the management of its intensity through modu-
+lating the end-point temperature or the heating length, con-
+trol of the Maillard reaction is diﬃcult to achieve.
+Meat colour is the ﬁrst quality taken into account by
+consumers when purchasing the meat, brown colour being
+synonymous of bad hygienic quality for consumers. Meat
+colour is deﬁned by the extent of myoglobin oxygenation
+and the oxidative status of the haem iron. Oxygenated myo-
+globin gives an appealing light red coloured meat and a
+dark red colour in the absence of oxygen. Oxidation of
+the haem iron from a ferrous (Fe2+) to a ferric (Fe3+) state
+give rise to the brown colour and is often associated to the
+release of oxygen radical (Satoh & Shikama, 1981; Wallace,
+Houtchens, Maxwell, & Caughey, 1982). The concentration
+of residual oxygen and the radical formation are believed to
+be the major cause of colour deterioration in stored meat
+but the underlying mechanisms are still unclear.
+The conversion of muscle into meat as a whole and the
+postmortem development of the eating quality are far from
+being understood. Improvement of our knowledge about
+the underlying mechanisms is particularly faced to the large
+biological variability of these qualities and to the non-iden-
+tiﬁcation of their major determinants.
+Since about a decade, intensive researches have been
+developed on programmed cell death (PCD) (Kerr, Wyllie,
+& Currie, 1972) in relation with important pathologies like
+cancers (cells never died), neurodegenerative disorders
+including Alzheimer disease (cells died before their com-
+plete diﬀerentiation), etc. (Hengartner, 2000; Majino &
+Jons, 1995; Nicholson, 2000; Sandri & Carraro, 1999;
+Shi, 2002; Tews, 2005). The major form of PCD is apopto-
+sis (‘‘suicide’’ program), a process ﬁnely regulated and ini-
+tiated by either the central nervous system or by the target
+cell itself. After animal bleeding, all cells will be in anoxia
+and will receive no more nutriments. In such conditions,
+each cell can decide to die by initiating the apoptotic pro-
+cess. Up to date, the conversion of muscle into meat is
+assumed to occur through three steps: the pre-rigor step
+which is not well deﬁned yet, the rigor step and the tende-
+rising step. If we assumed that postmortem muscle cells will
+commit to suicide, the apoptotic process will start immedi-
+ately and progress as long as the enzymes of concern
+remain active. Apoptosis induced a series of biochemical
+and structural changes in dying cells which will be very
+likely found in postmortem muscle. The extent of these
+changes will be however more limited than in vivo where
+the cell content totally disappear, since the dynamic of
+the process will be faced to unfavourable environmental
+modiﬁcations (pH, ionic strength, low energy availability,
+etc.).
+In this review, we revisited the conversion of muscle into
+meat after the integration of an additional phase before the
+rigor process corresponding to the apoptotic phase. After a
+rapid overview of the state-of-the-art, we will describe the
+mechanisms and the consequences of the programmed cell
+death process and, in the last part of this review paper, we
+will try to see how the known eﬀects of cell death on the
+cellular structures and proteins can constitute a new
+approach to the muscle conversion into meat and provide
+possible original answers to some still unexplained observa-
+tions reported in postmortem muscle.
+2. Current concept of the conversion of muscle into meat
+Animal are slaughtered, dressed, deboned and muscles
+then stored at refrigerated temperature for one week or
+more depending on the current national practice and/or
+regulations before selling. Storage of muscles for a reason-
+able length of time is a perquisite for the development of
+the organoleptic qualities of the ﬁnal product namely meat.
+2.1. Tenderness
+Postmortem improvement in meat tenderness results
+from a softening of the myoﬁbrillar structure by endoge-
+nous peptidases (Ouali, 1992; Sentandreu et al., 2002).
+For several decades, attention of meat scientists has been
+mainly focused on the two best known enzymatic systems,
+A. Ouali et al. / Meat Science 74 (2006) 44–58 45
+i.e. cathepsins and calpains. Three currents ways of think-
+ing about that process however exist:
+– those who are prone to think that calpains are the only
+proteases responsible for meat tenderisation,
+– those who suggest that the two quoted systems take part
+in this process,
+– a third group of researchers, to which we belong, who
+propose a multienzymatic process implying these systems
+and also probably others which function, in postmortem
+muscle, is less clear (proteasomes, caspases, etc.).
+Actually, the meat tenderising process is unanimously
+recognized to be enzymatic in nature and the most studied
+proteolytic systems are:
+– the cathepsins, a system discovered in the years 1950 by
+De Duve, Pressman, Gianetto, Wattiaux, and Appel-
+mans (1955).
+– the calpains which are calcium-dependent peptidases
+highlighted for the ﬁrst time in rat brain by Guroﬀ
+(1964).
+– the proteasomes discovered more recently by Wilk and
+Orlowski (1980).
+The cathepsins were the ﬁrst enzymatic system consid-
+ered in the studies focusing on the mechanisms of meat
+tenderisation. Later, calpains received much more atten-
+tion than cathepsins mainly because of their ability to alter
+the Z-line density, a modiﬁcation often observed postmor-
+tem, even if this change is not correlated with tenderness
+(Taylor, Geesink, Thompson, Koohmaraie, & Goll,
+1995). More recently, several sets of evidence supported a
+potential role of the 20S proteasome in this process. Based
+on diﬀerent approaches, all results reported clearly showed
+that proteasome could contribute to tenderisation of stored
+meat (Dutaud, 1998; Lamare, Taylor, Farouta, Briand, &
+Briand, 2002; Matsuishi & Okitani, 1997; Otsuka et al.,
+1998; Ouali, 1999; Thomas et al., 2004).
+The most current actual concept suggested a major role
+of calpains and more specially of calpain 1 or l-calpain
+(Veiseth and Koohmaraie, 2005). However, this statement
+has never been deﬁnitely proven and the main reason is
+very likely our very limited knowledge about calpains, their
+in situ regulation and their exact biological functions. As
+compared to proteasomes, a proteolytic complex discov-
+ered much more recently, we can aﬃrm that our knowledge
+of the biological function and the operating mode of the
+calpain system in the cell is much less advanced. This state-
+ment is supported by recent ﬁndings indicating that calpain
+1 is concentrated on the N1 and N2 line region of titin and
+this might constitute a reservoir of calpain 1 for the cell
+(Fernandez et al., 2005).This further suggest a special reg-
+ulation of the release of calpain 1 from its binding sites and
+the existence of a ﬁnely regulated equilibrium between the
+amounts of free and bound enzyme. On the other hand,
+calpastatin, the speciﬁc inhibitor of ubiquitous calpains,
+is often considered as a single protein. In fact, as already
+suggested in the 1990s (Ouali & Talmant, 1990), this cal-
+pain inhibitor is a family of at least four diﬀerent isoforms
+(Raynaud et al., 2005) some of which being diﬀerently
+expressed in slow-twitch and fast-twitch skeletal muscles
+(Ouali & Talmant, 1990). Their properties and tissue
+expression are still unknown. Therefore, it must be empha-
+sized that our understanding of the calpain system is actu-
+ally very restricted and most remains to be learned about
+the peptidases themselves, their activity regulation and
+their speciﬁc inhibitor.
+Calpains are inhibited by calpastatin, a highly polymor-
+phic protein. Cathepsins have their own inhibitors designed
+cystatins (Dubin, 2005; Sentandreu et al., 2002). The term
+‘‘cystatin’’ refers to a group of homologous and evolution-
+ary related cysteine peptidase inhibitors (Barrett, 1987;
+Muller-Esterl et al., 1985; Turk et al., 1986) which are inac-
+tive against other classes of peptidases (serine-, aspartyl-
+and metallopeptidases). On the basis of their primary struc-
+ture, there are four distinct families of cysteine peptidase
+inhibitors, which are recognized as belonging to the cysta-
+tin superfamily (Rawlings & Barrett, 1990).
+– Family 1 cystatins, also designated steﬁns, are low
+molecular weight- proteins (10–14 kDa) containing one
+copy of the basic inhibitory structure but no intramolec-
+ular disulﬁde bridges. The most well characterised mem-
+bers of this family are steﬁn A and steﬁn B. As steﬁns
+lack the signal sequence present in secreted proteins,
+they are generally found intracellularly.
+– Family 2 cystatins, also designated cystatins, are low
+molecular weight proteins (10–14 kDa) containing one
+copy of the basic inhibitory structure and at least one
+intramolecular disulﬁde bridge. Cystatins are predomi-
+nantly extracellular. Cystatin C and chicken cystatin
+are the most representative of this cystatin family.
+– Family 3 cystatins, also designated kininogens, are high
+Mr cystatins (>50 kDa) containing generally three cop-
+ies of the basic inhibitory structure and several disulﬁde
+bonds. The kininogen family comprises three subclasses
+referred to as low Mr (LMW), high Mr (HMW) and T-
+kininogens diﬀering by their molecular masses and their
+speciﬁcity towards cysteine peptidases. They are gener-
+ally present in body ﬂuids.
+– Family 4 cystatins are glycosylated protein inhibitors of
+intermediate Mr containing two copies of the basic
+inhibitory structure and several intramolecular disulﬁde
+bridges.
+All members of the cystatin superfamily inhibit cysteine
+peptidases such as papain and the major lysosomal pepti-
+dases including cathepsins B, H and L. In addition, kinino-
+gens have been shown to inhibit the ubiquitous calpains,
+which are calcium dependent cysteine peptidases (Ishiguro
+et al., 1987).
+In muscle tissue, several low Mr cystatin-like proteins
+have been described (Bige, Ouali, & Valin, 1985; Schwartz
+46 A. Ouali et al. / Meat Science 74 (2006) 44–58
+& Bird, 1997) but as no sequence was available, it was and
+is still impossible to certify that these are really members of
+the cystatin superfamily. Indeed, their identiﬁcation as
+cystatin was only based on their closely similar molecular
+mass and inhibitory properties. This statement is true for
+most of the other cysteine peptidase inhibitors isolated
+from skeletal muscles of various animal species (Ouali
+et al., 1995; Zeece, Woods, Keen, & Reville, 1992). Impor-
+tance of cystatins in postmortem and living muscles is sup-
+ported by their identiﬁcation as potent predictor of meat
+tenderness (Barnier, 1995; Shackelford et al., 1991) and
+their possible use as biological markers of diﬀerent pathol-
+ogies in humans (Dubin, 2005; Kos & Lah, 1998; Strojan
+et al., 2000).
+Each one of us will be therefore able to note that, a
+rapid and objective analysis of the literature published to
+date in this ﬁeld clearly indicates that the process of meat
+tenderisation results probably from the synergistic action
+of several endogenous enzymatic systems, even if the major
+peptidases of concern are not identiﬁed yet in an unques-
+tionable way.
+2.2. Juiciness
+When meat is tender, juiciness is the next quality of inter-
+est for consumers especially for red meats, whiter meat cuts
+being generally considered as dry. Decrease in juiciness was
+often associated with water holding (WHC) capacity of
+muscles. However, the ultimate pH which is one of the
+major determinants of WHC seems to have negligible eﬀect
+on meat juiciness (Bouton, Carroll, Fisher, Harris, & Shor-
+those, 1973). Relationship of juiciness with various biolog-
+ical parameters is unclear and data reported often highly
+controversial. Valin, Touraille, Vigneron, and Ashmore
+(1982) thus noted a signiﬁcant correlation between muscle
+type and meat juiciness conﬁrming the empiric thought that
+red meats are more juicy than white meats. No valuable bio-
+logical determinants were however identiﬁed so far. A cor-
+relation with muscle fat content was also mentioned (Owens
+& Gardner, 1999) but, since years this point led to contro-
+versial ﬁndings as already analysed in the 1970s by Purchas
+and Davies (1974). Nevertheless, all scientists agree that
+juiciness strongly depends on the movement of intracellular
+water towards the extracellular space assuming that, as the
+pH becomes more acidic and closer to the pI of myoﬁbrillar
+proteins, these will release their bound water (Bertram,
+Schafer, Rosenvolda, & Andersen, 2004; Lawson, 2004;
+Oﬀer & Knight, 1988a, 1988b).
+By analogy with pork where a mutation of the PRKAG3
+gene encoding the c3 subunit of the AMP dependent kinase
+(AMPK) was responsible for the PSE character of the meat,
+one can thought that mutations of the same gene could be
+responsible for the biological variability in drip loss. The
+AMPK, comprising three subunits (a, b,c), has been pointed
+out as one of the main actors in the regulation of intracellu-
+lar energy metabolism (Carling, 2004). As AMPK is acti-
+vated by a drop in the energy status, it is usually
+considered as a cellular fuel gauge. Its activation switch oﬀ
+energy-using pathways and switch on energy-generating
+pathways, thus helping to restore the energy balance within
+the cell. Numerous mechanisms of AMPK action on lipid
+and carbohydrate metabolism have been proposed (Ferre,
+Azzout-Marniche, & Foufelle, 2003; Hardie, Scott, Pan, &
+Hudson, 2003). The corresponding cattle gene has been
+recently sequenced and was shown to be highly polymorph
+and to exhibit several mutations leading to diﬀerent possible
+alleles (Roux et al., 2006). The consequences of these muta-
+tions on muscle WHC, meat juiciness and drip loss are how-
+ever still unknown. Investigation on the AMPK gene
+function and its polymorphic allelic expression would be
+an alternative way to provide answers to carcasses, muscles
+and meat exudation. In a longer term, these studies would
+probably be also very helpful for the genetic selection of ani-
+mals expressing the most suitable isoform of the corre-
+sponding AMPK subunit. In addition, this gene is very
+likely common to all meat animal species and ﬁndings
+obtained can be therefore extended to any species.
+2.3. Meat ﬂavour and colour
+Although important for the consumers, our purpose will
+not be to overview in detail these qualities, their biological
+variability and the underlying mechanisms. Our objective
+will be just to emphasize the importance of peroxidation
+in the time course evolution of these characteristics.
+Major contributors to meat ﬂavour are lipids peroxida-
+tion together with amino-acids and peptides generated by
+proteolysis (Campo et al., 2006; Gorbatov & Lyaskovs-
+kaya, 1980; Sentandreu et al., 2003). Similarly, colour deg-
+radation during storage related to metmyoglobin
+formation also results from oxidative processes. Metmyo-
+globin indeed is generated by a spontaneous oxidation of
+the haem iron from the ferrous state (Mb–Fe2+) to the fer-
+ric state (Mb–Fe3+) which cannot bind O2 (reviewed by
+Bekhit & Faustman, 2005).
+For both meat qualities and tenderness as well (Warner,
+Dunshea, Ponnampalam, & Cottrell, 2005), oxidation in
+muscle systems is initiated as a free-radical autocatalytic
+chain mechanism in which prooxidants, especially oxygen
+and related radicals will generate free radicals ensuring
+the autocatalytic propagation of the oxidative chain (Kan-
+ner, 1994).
+3. Programmed cell death or apoptosis
+The concept of programmed cell death or apoptosis is
+much older than suggested in most reports. Indeed, accord-
+ing to Clarke and Clarke (1995), naturally occurring cell
+death, including the concept of apoptosis, was a ﬂourishing
+subject at the end of the 19th century. The ﬁrst report that
+cells die naturally in development was published by Carl
+Vogt in 1842 (cited by Clarke & Clarke, 1995).
+Programmed cell death is a physiological mechanism
+naturally occurring in living organisms that eliminates
+A. Ouali et al. / Meat Science 74 (2006) 44–58 47
+excessive, damaged or potentially dangerous cells from an
+organism without damaging surrounding cells (Fidzianska,
+Kaminska, & Glinka, 1991; Kerr et al., 1972). Such system-
+atic cell clearance is necessary for both the normal develop-
+ment of a multicellular organism during embryogenesis and
+the maintenance of tissue homeostasis in adults (Dirks &
+Leeuwenburgh, 2005; Meier, Finch, & Evan, 2000).
+Selective elimination of the cells is ensured by a process
+called apoptosis. The word apoptosis refers to the pro-
+grammed fall of leaves at autumn time: apo for distance
+and ptosis for fall. The very strict regulation of this pro-
+gram is essential to make sure that it is activated only in
+the cell concerned and at the right time. Deregulation of
+the apoptotic process is associated with various pathologies
+such as cancer, auto-immune and degenerative diseases
+(Hengartner, 2000; Kerr et al., 1972; Majino & Jons,
+1995; Nicholson, 2000; Sandri & Carraro, 1999; Shi,
+2002; Tews, 2005).
+Apoptosis is usually mediated by a complex machinery
+which is becoming well-known in humans (Fuentes-Prior
+& Salvesen, 2004; Green & Amarante-Mendes, 1998; Hen-
+gartner, 2000; Zimmermann, Bonzon, & Green, 2001; Zim-
+mermann & Green, 2001). On the other hand, although
+researchers agree that programmed cell death also exists
+in plants, relatively little is known about mediators of the
+process in plants. However, its role in plant development
+and morphogenesis is regarded as essential. It is thus
+admitted that deregulation of apoptosis is very often asso-
+ciated with diverse disturbances in development but also
+with a strong lethality (Sanmartın, Jaroszewski, Raikhel,
+& Rojo, 2005). Apoptosis is mediated by a particular group
+of cysteine peptidases called caspases.
+Apoptosis is an evolutionary highly conserved process
+from monocellular organisms to mammals (Driscoll,
+1996; Yuan, 1996). To illustrate this fact, we must keep
+in mind that the biological function of caspases, the main
+enzymes responsible for programmed cell death, was dis-
+covered in the nematode Caenorhabditis elegans (Yuan,
+Shaham, Ledoux, Ellis, & Horvitz, 1993). It is in this nem-
+atode that the ﬁrst gene responsible for cellular death, the
+gene encoding for CED3, was identiﬁed: CED3 is a cys-
+teine peptidase very homologous with ICE (Interleukin-1
+Converting Enzyme), an enzyme discovered in humans
+shortly before (Cerretti et al., 1992; Thornberry et al.,
+1992). These last ﬁndings constitute the starting point of
+many works developed thereafter on these peptidases and
+their regulators. These extensive investigations led very
+quickly to a better understanding of the apoptotic process.
+3.1. Necrosis and apoptosis
+The concept of apoptosis was introduced in 1972 by
+Kerr et al. to indicate a form of cellular death totally diﬀer-
+ent from necrosis, from both the morphological and bio-
+chemical points of view. Comparative analysis of muscle
+cell death led to the same conclusion (Fidzianska et al.,
+1991).
+Necrosis is regarded as a ‘‘disordered’’ cellular death.
+During necrosis, cells swell up with water to the point
+where lysis of their plasmic membrane occurs. It is a genu-
+ine cellular explosion which leads to the release of the cyto-
+plasmic contents in the surrounding medium. Cellular
+organites also inﬂate and are emptied of their contents.
+The nuclear ADN is degraded in a ‘‘random’’ way by endo-
+nucleases activated in particular by serine peptidases. The
+size of the DNA fragments generated is very heteroge-
+neous. Necrosis of a cell aﬀects other cells by the action
+of the released intracellular enzymes and of blood leuco-
+cytes which come in reinforcement to clear the site (local
+inﬂammation). The result is that a whole area of an organ
+will have to be regenerated after total destruction of the
+damaged cells (Buja, Eigenbrodt, & Eigenbrodt, 1993; Fid-
+zianska et al., 1991; Majino & Jons, 1995).
+In opposition to necrosis, apoptosis is regarded as an
+‘‘ordered’’ cellular death, proceeding through various
+phases (Bratton et al., 1997; Buja et al., 1993; Gavrieli,
+Sherman, & Ben-Sasson, 1992; Majino & Jons, 1995; Mar-
+tin et al., 1995; Matsura et al., 2005; Wyllie, 1980; Youle &
+Karbowski, 2005)
+/C15 ﬁrst of all, cells in apoptosis are isolated by loss of con-
+tacts with neighbouring cells;
+/C15 an important condensation of the nucleus and of the
+cytoplasm induces a signiﬁcant reduction in cellular
+volume;
+/C15 mitochondria of the apoptotic cell undergo several
+major modiﬁcations: release of cytochrome c in the cyto-
+plasm, reduction in the membrane potential and deteri-
+oration of the membrane permeability with opening of
+specialized pores and diﬀusion of diverse proapoptotic
+proteins;
+/C15 after condensation of the nucleus, chromatin is cleaved in
+regular fragments of approximately 180 pairs of bases;
+/C15 sometimes, the plasmic membrane buds and forms
+apoptotic bodies, containing some of the cell cytoplasm;
+/C15 in order to facilitate recognition of the apoptotic bodies
+by phagocytes, the cell signals its apoptotic state by a
+change of localisation of phosphatidylserines molecules,
+from a cytoplasmic orientation to an extracellular
+orientation.
+Programmed cell death is a rapid process (from a few
+minutes to a few hours) (Green, 2005). Compared to necro-
+sis, one of the key properties of apoptosis is that the plas-
+mic membrane is not entirely destructed during the process,
+thereby avoiding discharge of the cellular contents and
+consequent damage inﬂicted to neighbouring cells.
+3.2. The caspases
+Because caspases (structure and functions) and apopto-
+tic regulation will be only succinctly overviewed hereafter,
+readers must refer to the review of Fuentes-Prior and
+Salvesen (2004) for more information.
+48 A. Ouali et al. / Meat Science 74 (2006) 44–58
+3.2.1. Caspases, a new family of peptidases
+Apoptosis-generating peptidases are cysteine peptidases
+with a strict speciﬁcity of cleavage after an aspartic acid
+residue (Asp or D). In a new nomenclature suggested by
+Alnemri et al. (1996), all apoptosis-generating peptidases
+are designated caspase. The ﬁrst letter of the name (C)
+stands for the cysteine of the active site; asp deﬁnes the
+strict speciﬁcity of cleavage after an aspartic acid residue
+and ase is the suﬃx common to all enzymes. ICE, (interleu-
+kin-1b-converting enzyme) which was chronologically the
+ﬁrst caspase characterised, was naturally renamed caspase
+1. To date, 14 caspases have been identiﬁed but there is
+no doubt that this list is not exhaustive (Fig. 1). Some casp-
+ases seem speciﬁc to an animal species. Thus, caspase 11
+was found only in the mouse and the rat whereas caspase
+13 seems to be expressed only in bovines. Caspase 12
+may be present only in the mouse. Structure of those three
+caspases (caspases 11, 12 and 13) is less documented than
+others (caspases 1–10).
+3.2.2. Schematic structure of caspases
+All caspases have a highly conserved structure (Fig. 1)
+including:
+/C15 an N-terminal prodomain, varying in size and having a
+prominent role in protein–protein interactions, in partic-
+ular with regulators of apoptosis,
+/C15 a second domain which will become, after cleavage, the
+large subunit (L for large) carrying the active site of the
+enzyme with a cysteine (C) and a histidine (H) residue,
+/C15 a third domain which will become, after cleavage, the
+small subunit (S for small) with a conformational role.
+Precursor enzymes undergo maturation to the active
+form by N-terminal prodomain elimination and subse-
+quent formation of the heavy and light chains which asso-
+ciate to form one enzyme molecule. Two molecules then
+join to form a dimer having two active sites in head-to-tail
+position. Catalytic sites can become active only when a
+dimer is formed (Fuentes-Prior & Salvesen, 2004).
+3.2.3. Three classes of caspases
+According to Fuentes-Prior and Salvesen (2004), on the
+basis of their potential biological function and their role in
+apoptosis, three diﬀerent groups of caspases can be distin-
+guished (Fig. 1):
+/C15 caspases involved in inﬂammatory processes (caspases 1,
+4, 5). Knowledge on the precise function of these casp-
+ases is less developed than for the two other classes;
+/C15 caspases involved in the phase of apoptosis initiation
+(caspases 8, 9, 10). They are characterised by large
+prodomains often containing essential areas for their
+interactions with other proteins. For example, the
+prodomains of caspases 8 and 10 contain Death Eﬀector
+Domains: DEDs. Such structures allow binding of casp-
+ases to regulatory molecules (activators or inhibitors)
+carrying similar domains, through DED–DED interac-
+tions. Other caspases (caspases 1, 2, 4, 5 and 9) have a
+Caspase Recruitment Domain: CARD. Like DEDs,
+CARDs are responsible for the interaction of caspases
+with a large variety of regulating molecules (activators
+or inhibitors) through CARD–CARD interactions;
+/C15 eﬀector’s caspases disrupting the cell once activated
+(caspases 3, 6 and 7). Compared to initiating caspases,
+those generally have small prodomains.
+3.3. General outline of apoptosis and regulation
+3.3.1. General outline
+Apoptosis proceeds according to a relatively precise pro-
+gram, characterised successively by a phase of initiation,
+implicating initiator caspases (caspases 8, 9 and 10) and
+dependent on the nature of the stimulus and on the type
+of cell, followed by execution via the eﬀector’s caspases
+(caspases 3, 6 and 7).
+Fig. 1. Schematic structure of caspase precursors identiﬁed in humans or
+expressed only in some animal species. Human caspases have been
+grouped on the basis of their similarity of sequence. Homologies of
+sequence divide the caspases 1–10 into three subfamilies, according to their
+physiological function and their implication in the inﬂammatory pro-
+cesses, in the phase of initiation or execution of apoptosis. The caspase 14
+is separated from others because it is expressed only in the skin and
+because it is cleaved at sites not containing a residue aspartate when
+activated. Active caspases are made up of a large (L) and a small (S)
+subunits. Activation of the caspases require cleavages which eliminate N-
+terminal ends and the fragment associating S and L subunits, except for
+caspases 3, 10, 14 and 13. The N-terminal regions of several caspases
+contain various domains essential for the interactions with activator
+complexes at the time of activation (DED, Death Eﬀector Domain and
+CARD, CAspase Recruitment Domain). Numbers correspond to those of
+amino acids from N- to C-terminal ends. (Adapted from Fuentes-Prior
+and Salvesen, 2004).
+A. Ouali et al. / Meat Science 74 (2006) 44–58 49
+The stimulus at the origin of the process of apoptosis
+can be extrinsic, via activation of death receptors, or
+intrinsic in response to critical conditions for cell survival
+(Fig. 2). Initiating caspases are then activated within
+diﬀerent complexes and those in turn activate the eﬀec-
+tor’s caspases which will start the cell disruption phase
+(Fuentes-Prior & Salvesen, 2004).
+3.3.2. Regulation of the apoptotic process
+The regulation mode of apoptosis will depend on the
+nature of the initial stimulus (Fuentes-Prior & Salvesen,
+2004). On this basis, three main pathways of cellular death
+development can be distinguished (Fig. 2).
+/C15 Pathway 1 corresponds to a stimulus involving extracel-
+lular cell death receptors which can bind either activator
+(ligand +) or inhibitor (ligand /C0) eﬀectors. Binding of
+an activator will activate an intracellular complex acti-
+vating initiating caspases (caspases 8 and 10) through
+DEDs interaction (Fig. 2). To control this step, cells will
+synthesise proteins containing DEDs domains which
+will act as a competitive inhibitor of the activator com-
+plex for caspases binding. Excess of such proteins will
+divert the caspases from their complex activator.
+Active caspase 8 or 10 can also be inactivated by IAPs
+(Inhibitors of APoptosis) which are protein inhibitors
+binding close to the caspase active sites and blocking
+therefore its access to protein substrates. If this is not
+the case, the quoted caspases can activate eﬀector’s casp-
+ases (caspases 3 and 7) responsible for cell disruption.
+/C15 Pathway 2 corresponds to particular situations where the
+cell as no other solution but suicide (intrinsic stimulus).
+In this pathway, mitochondria are the central element
+of the process (Kroemer, Dallaporta, & Resche-Rigon,
+1998; Mishra & Kumar, 2005; Mohamad et al., 2005;
+Petit et al., 1997). This process implies a membrane dete-
+rioration of the mitochondria by Bax-type proapoptotic
+proteins. Mitochondria membrane potential is lost, their
+external membrane becomes permeable leading to the
+release of cytochrome c (proapoptotic factor) in the
+cystosol. This alteration results from the binding of a
+complex containing Bax on the mitochondrial mem-
+brane. It should be noted that Bcl2, a protein of the same
+family as Bax has an antiapoptotic activity and will tend
+to preserve the mitochondrial membrane. The concentra-
+tion ratio between the two antagonistic apoptotic pro-
+teins will determine the speed of cytochrome c release
+into the cytosol. Free cytochrome c then will form a com-
+plex called apoptosome, composed, among others, of a
+protein called Apaf-1 (apoptotic protease activating Fac-
+tor-1) and caspase 9. Caspase 9 will be activated within
+the apoptosome and can itself activate the eﬀector’s casp-
+ases (caspases 3 and 7). This activation of caspase 9 can
+be blocked by inhibitors of the IAP family mentioned
+above (Inhibitors of Apoptosis).
+/C15 Particular case of stress (Pathway 3): whatever its nat-
+ure, stress induces synthesis of protective proteins called
+heat shock proteins (HSP), which function is to preserve
+cellular proteins against denaturation and possible loss
+of function (Kultz, 2003).
+The many known Heat Shock Proteins are generally
+classiﬁed in subfamilies on the basis of their size (molec-
+ular weight): Hsp 90, Hsp 70, Hsp 40, Hsp 27, etc. Such
+proteins appear as soon as the cell is in danger. They
+have an essential role since they will contribute to proper
+conformation of proteins and preservation of their bio-
+logical function. One can therefore expect that stress
+proteins will have, at the time of programmed cellular
+death, an antiapoptotic role (Arrigo, 2005; Arrigo
+et al., 2002; Beere, 2001, 2004, 2005; Flower, Chesnok-
+ova, Froelich, Dixon, & Witt, 2005).
+In the apoptotic process, HSPs may therefore have
+diverse antiapoptotic actions which can be summarised
+as follows:
+Fig. 2. Regulation of the apoptotic process. Pathway 1 or extrinsic way:
+after activation of death receptors by their proapoptotic eﬀectors,
+receptors will associate with several proteins to form an intracellular
+membrane complex that can activate the procaspase 8 by speciﬁc
+interactions. The process is controlled by inhibitors carrying the same
+caspase 8-binding motifs as those present on the activating complexes.
+Inhibitors compete with activators to bind procaspases 8 and 10. If the
+initiating caspases are activated, the cell has inhibitors of apoptosis (IAP)
+able to slow down or even interrupt the process by inactivating the caspase
+8. IAP would be also able of inactivating the eﬀector caspases (caspases 3
+and 7). Pathway 2 or intrinsic way: Under the impulse of Bax, a
+proapoptotic protein, a complex is formed and bound on the external
+membrane of mitochondria. This will deteriorate the membrane with a
+concomitant accumulation of calcium in mitochondria and release of
+cytochrome c which will contribute to the formation, with other proteins,
+of a complex responsible for the activation of the procaspase 9. This action
+of Bax can be blocked by Bcl-2, a protein with an antiapoptotic activity. If
+the complex is formed, the process can still be blocked by the inhibitors of
+apoptosis (IAP) which can bind to procapase 9 and prevent its activation.
+Pathway 3 or stress pathway: HSP’s will exhibit their antiapoptotic activity
+through diﬀerent ways aﬀecting initiating and executing capases them-
+selves and their target substrates. Intense stress can also lead to apoptosis
+activation through pathway 2 involving mitochondria and cytochrome c.
+Abbreviations: Apaf-1, APoptose activating factor-1; IAP, inhibitor of
+apoptosis; Bax and Bcl2: two proteins of the same family with opposite
+eﬀects; Activat., complex of activation of the initiating caspases; Cyt c,
+cytochrome c; HSP, heat shock proteins or stress proteins. Thick lines
+ended by a vertical or horizontal T shape are inhibition pathways. Thin
+lines ended by an arrow head correspond to activation pathways.
+50 A. Ouali et al. / Meat Science 74 (2006) 44–58
+– Formation of a complex with active caspases (initia-
+tors or eﬀectors) thus hindering their function.
+– Protection of target proteins (substrates) of eﬀector
+caspases preventing or delaying their degradation
+by these enzymes.
+– Attempt to re-established the initial and active struc-
+ture of proteins having undergone structural damage
+following either the stress itself or the initiation of
+apoptosis.
+Through HSPs, stress will therefore generate actions of
+an antiapoptotic nature. In the case of intense stress, how-
+ever, it can induce cellular death by the mitochondrial
+pathway (pathway 2 previously described).
+4. Cell death and meat qualities
+As for most other aspects of cell biology, skeletal muscle
+tissue is far from being a current model for apoptosis inves-
+tigations. In humans, apoptosis in muscle tissue have been
+mainly studied in relation with either pathologies including
+neuromuscular disorders, myosistis or muscle atrophy
+(Leeuwenburgh, 2003; Liu & Ahearn, 2001; Primeau,
+Adhihetty, & Hood, 2002; Sandri & Carraro, 1999; Sandri,
+2002; Tews, 2002; Tews, 2005; Yuan, Wang, & Murrell,
+2003).
+In all meat animal species and whatever the technology
+of stunning used, the last phase of the slaughter process is
+bleeding. Consequently, all cells and tissues will be irrevers-
+ibly deprived of nutrients and oxygen. Under these very
+harmful environmental conditions, muscular cells will have
+no alternative but engage towards ‘‘suicide’’, with all the
+consequences described above. Under similar conditions,
+such cell behaviour is currently observed in living organ-
+isms. Hence why this would not be the case in postmortem
+tissues and cells?
+All following considerations relate mostly to cattle, but,
+because of the ubiquitous character of apoptosis, the
+reported observations can be extended to all meat animal
+species. The objective will be to consider the main cellular
+changes associated with apoptosis and to establish a link
+with modiﬁcations observed in muscle during meat ageing,
+in relation to organoleptic qualities and more particularly
+tenderness, the major quality attribute for the consumer.
+4.1. Inversion of the membrane polarity
+4.1.1. Rapid overview of the process in vivo
+In vivo, cellular membranes have a well deﬁned polarity
+dependent on the distribution of phospholipids. The elec-
+tronegative phosphatidylserine groups, are on the inner
+leaﬂet of the cellular plasmatic membrane whereas the elec-
+tropositive phosphatidylcholine and phosphatidylethanol-
+amine groups, are on the outer leaﬂet. When the process
+of apoptosis begins, an inversion of the phospholipids dis-
+tribution occurs: phosphatidylserine switching to the exter-
+nal leaﬂet of the membrane by a well-known ﬂip-ﬂop
+process, while the reverse happens for the other phospho-
+lipids (Martin et al., 1995). This change isolates the apop-
+totic cell from surrounding cells and signals its suicide
+status. In apoptotic cells, the membrane remains however
+impermeable to avoid diﬀusion of the intracellular compo-
+nents in the extracellular environment. Transfer of phos-
+phatidylserine groups to the external leaﬂet of the
+membrane constitutes also a sign of recognition by macro-
+phages which will, in vivo, take part in the degradation of
+dying cells. The phospholipids translocation is ensured by
+diﬀerent types of translocases which can be divided into
+three classes: bidirectional ‘‘scramblases’’ and energy-
+dependent transporters that move phospholipids toward
+(‘‘ﬂippases’’) or away (‘‘ﬂoppases’’) from the inner surface
+of the membrane (Bevers, Comfurius, & Zwaal, 1996).
+Among them, the most important active class of translo-
+cases in postmortem muscle will be more likely scramblases
+which are bidirectional translocases with a wide speciﬁcity.
+Scramblases are calcium but not energy dependent (Brat-
+ton et al., 1997).
+Cell death is not coordinated meaning that, each indi-
+vidual cell can initiate apoptosis independently. That is
+particularly true since, within a muscle, ﬁbres are very het-
+erogeneous (Pette & Staron, 1990).
+4.1.2. Consequences on postmortem muscle pH fall
+What are the consequences of this inversion of polarity
+in postmortem muscle? Within the cells, acidic components
+are replaced by others of a rather basic nature. One can
+thus expect a partial neutralization of protons generated
+by glycolysis and, consequently, a deceleration of the acid-
+iﬁcation process. This was what we observed in a recent
+study involving nearly 180 bovine animals of diﬀerent
+age, sex and breed. The experiment was carried out on Lon-
+gissimus muscle. The vast majority of these animals (98%)
+present one or two transient pH stability steps appearing
+quickly after slaughter (within 1–8 h postmortem) and per-
+sisting for a variable time length ranging from 2 to 6 h
+(Fig. 3). Note that a similar polyphasic pH drop has been
+observed in four diﬀerent lamb hindleg muscles (unpub-
+lished data). Similarly to beef, one or two pH stability steps
+were observed in lamb muscles in the time range of 1–6 h
+suggesting that this feature is not dependent on the length
+of the rigor process which is shorter in lamb. Preliminary
+analysis of the bovine data set indicates that Longissimus
+muscle of animals showing two transient steps tends to
+be tougher than those showing only one step. However,
+clariﬁcation of the exact meaning of these transient pH sta-
+bility steps calls for further investigations.
+Selected animals [two 19-month-old Charolais young
+bulls (Mr-CH-19M-1 and 2) and a ﬁve-years-old Charolais
+cull cow] represent the various scenario encountered for
+most animals. Only some rare animals do not present this
+transient pH stability step in the ﬁrst postmortem hours.
+For the three proﬁles presented in Fig. 3, the average rate
+of pH drop over the whole rigor process varies between
+A. Ouali et al. / Meat Science 74 (2006) 44–58 51
+0.065 and 0.21 pHunit/hour (UpH h/C01), the Charolais cull
+cow exhibiting the fastest pH fall. Reﬁned analysis of the
+pH drop proﬁle during the ﬁrst 8 h following slaughter
+(insert Fig. 3) shows a discontinuity in the pH fall, with
+the presence of one (F-CH-54M, Mr.-CH-19M-2) or two
+pH stability steps (Mr.-CH-19M-1). The time length of
+these steps varied between 2 and 5 h. For the ﬁrst Charolais
+young bull (Mr.-CH-19M-1), a ﬁrst pH stability step is
+observed between 1 and 3 h followed by a second between
+4 and 8 h. For the second Charolais young bull (Mr.-CH-
+19M-2), only one pH stability step appears between 4
+and 6 h. For the Charolais cull cow, only one pH stability
+step is observed between 1 and 3 h. Note the very fast pH
+drop in this ﬁrst phase (0–3 h). Unfortunately, in the avail-
+able literature, it was diﬃcult to ﬁnd out a detailed analysis
+of the pH drop in the ﬁrst hours postmortem which limit
+the discussion and the extension of our conclusions to the
+results so far published.
+Postmortem, when phosphocreatine stores are exhausted,
+the required energy is mainly produced through degradation
+of glycogen by glycolysis. The rate of the process depends on
+the type of muscle considered but, in all cases, it persists as
+long as enzymes are not inhibited by acidic pH. Therefore,
+the discontinuity in pH fall observed here cannot be
+explained by a transient reduction in the activity of phospho-
+creatine kinase and other enzymes of the glycolytic pathway
+but rather by a modiﬁcation of either the buﬀering capacity
+and/or the charge distribution within muscle cells. Replace-
+ment of acidic components (phosphatidylserine) by basic
+components (phosphatidylcholine and phosphatidyletha-
+nolamine) in the intracellular compartment, accompanied
+by a redistribution of ions, could explain the existence of
+these transient pH stability steps. Because such transient
+pH stability occurs between 1 and 8 h postmortem, inversion
+of polarity of the plasmic membrane probably take place
+during the ﬁrst 8 h postmortem when pH ranged between
+6.4 and approximately 6.8. This observation is comforted
+by the change observed, in the same pH range, in the conduc-
+tivity of muscle tissue assessed by impedancemetry (Bertram
+et al., 2004; Damez, Lepetit, Desneux, Clerjon, & Favier,
+2002, in press).
+4.1.3. Consequences on muscle thrombin activation
+The large heterogeneity of muscle tissue reﬂects its high
+degree of functional specialization and is the basis of its
+functional plasticity and adaptability (Pette & Staron,
+1990). This plasticity concerned to a similar extent the neu-
+romuscular junction since the synapse must be constantly
+adapted to the contractile properties and the electrical
+activity of each ﬁbre (Glazner et al., 1997). In the 1990s,
+extravascular cellular functions mediated by thrombin in
+the process of neural development have been also identi-
+ﬁed. Since then, thrombin, a serine peptidase extensively
+studied in the vascular system where the enzyme is known
+to play a key role in the maintenance of haemostasis (Fen-
+ton, 1986), the suspected new extravascular functions of
+this peptidase have received much attention. In muscle
+cells, thrombin has been shown to be involved in synapse
+elimination and remodelling at the neuromuscular junction
+(Liu, Fields, Festoﬀ, & Nelson, 1994; Zoubine, Ma, Smir-
+nova, Citron, & Festoﬀ, 1996) as well as in inﬂammatory
+pathologies aﬀecting skeletal muscles (Akaaboune et al.,
+1998; Mbebi, Hantai, Jandrot-Perrus, Doyennette, & Ver-
+diere-Sahuque, 1999). The recruitment of activated throm-
+bin from blood in the absence of vascular injury during
+these events is unlikely. In support of this scenario, the
+expression of prothrombin mRNA has been demonstrated
+in brain and neural cell lines (Dihanich, Kaser, Reinhard,
+Cunningham, & Monard, 1991; Weinstein, Gold, Cunning-
+ham, & Gall, 1995), as well as in rodent skeletal muscle and
+primary skeletal muscle cultures (Glazner et al., 1997; Zou-
+bine et al., 1996). Thrombin has been thus found to be
+located at the neuromuscular junction in the vicinity of
+the plasma membrane (Akaaboune et al., 1998; Mbebi
+et al., 1999). Muscle cells expressed thrombin may be acti-
+vated to act locally (Citron, Smirnova, Zoubine, & Festoﬀ,
+1997; Kim, Buonanno, & Nelson, 1998). As shown in
+Fig. 4, activation of thrombin is facilitated by ﬂip-ﬂop
+exposure of phosphatidylserine on the outer membrane
+leaﬂet (Boon, Lambert, Sisson, Davis, & Smith, 2003).
+The membrane itself is not suﬃcient for thrombin activa-
+tion suggesting that the presence of phosphatidylserine at
+the surface of the membrane is an absolute requirement
+for its activation (Majumder, Weinreb, & Lentz, 2005).
+Postmortem apoptotic induced phosphatidylserine expo-
+sure at the surface of the cell membrane would therefore
+lead to thrombin activation at the neuromuscular junction.
+The consequence will be a rapid alteration of the synapse
+and of the electrical conduction towards the cell. This will
+probably aﬀect also the nerves themselves (Grand, Grab-
+ham, Gallimore, & Gallimore, 1989; Gurwitz & Cunning-
+Fig. 3. pH evolution in the Longissimus muscle of three animals
+(charolais). The three animals are two 19-month-old young bulls (Mr.-
+CH-19M-1 and -2) and a 54 month-old cull cow (F-CH-54M). pH was
+measured every hour during the ﬁrst 8 h after slaughter then at 24, 48 and
+72 h. The pattern is presented for each animal with the average rate of pH
+fall indicated on each curve and expressed in Unit pH per hour
+(UpH h/C01). In the insert, evolution of this parameter during the ﬁrst 8 h
+post-slaughter is presented. Each point is the mean of three independent
+determinations. For each point, the coeﬃcient of variation is generally
+lower than 1%.
+52 A. Ouali et al. / Meat Science 74 (2006) 44–58
+ham, 1988; Jalink & Moolenaar, 1992; Suidan, Stone,
+Hemmings, & Monard, 1992; Tews, 2002).
+Does this can explain the rapid time dependent eﬃciency
+loss of low voltage electrical stimulation which essentially
+uses the nervous system for the electrical ﬁeld conduction?
+It is indeed well recognized that low voltage electrical stim-
+ulation of carcasses is eﬃcient only if applied within few
+minutes following animal stunning and bleeding. As illus-
+trated in Fig. 5, decrease in the rate of pH decline is signif-
+icantly reduced when low voltage stimulation (100 V,
+2 min) is applied 15 min postmortem as compared to the
+eﬀect of similar stimulation applied 2 min postmortem.
+After 2 min, the kinetic of the time course pH drop is
+wholly comparable to the curve obtained upon high volt-
+age stimulation (750 V, 2 min) applied 30 min postmortem.
+4.2. Calcium and meat ageing
+Since the 1960s, we know that injection of calcium in
+meat accelerates the tenderising process (Khan & Kim,
+1975). The action of calcium is generally attributed to an
+activation of calpains, the calcium-dependent peptidases.
+Because of the numerous roles of this cation in cell signal-
+ling pathways, other potential functions of calcium have
+received very few attentions from meat scientists. However,
+if we now consider that, after slaughter, cells have no other
+alternative but engage towards suicide or apoptosis, we
+have to reconsider some of these functions. Calcium is
+indeed a crucial eﬀector for triggering and controlling
+apoptosis (Orrenius, Zhivotovsky, & Nicotera, 2003; Sza-
+badkai & Rizzuto, 2004). In postmortem muscle, calcium
+concentration increases gradually in the cytoplasm during
+the rigor mortis onset while the sarcoplasmic reticulum is
+emptied of its contents (Vignon, Beaulaton, & Ouali, 1989).
+We now know that this cation is a central element of the
+apoptotic process, inducing swelling and extensive alter-
+ation of mitochondria. It contributes also to the release
+of cytochrome c together with other proapoptotic proteins.
+This process ends by the activation of caspase 9 which in
+turn, will activate the eﬀector caspases. Since the process
+of apoptosis is irreversible, once engaged, it continues dur-
+ing all the shelf-life of refrigerated meat. As for other intra-
+cellular peptidases active at neutral pH, one of the major
+limitations to the activity of caspases will be the acidic
+pH. Unfortunately, as no data are so far available on the
+pH eﬀect on caspases activity, this point remains to be
+analysed.
+4.3. Variation of intra- and extracellular spaces in
+postmortem muscle
+Over the past decades, much work was devoted to the
+postmortem evolution of intra- and extracellular spaces in
+relation with water movements in the muscle and with
+water holding capacity (see reviews of Oﬀer & Knight,
+1988a, 1988b). It was generally recognized that the main
+cause of these changes was the distribution, between the
+two compartments, of water which accounts in weight for
+approximately 75% of muscle tissue. Acidiﬁcation of mus-
+cle decreases protein charges and increase their hydropho-
+bicity, thereby reducing water retention. This is conﬁrmed
+by the very high correlation observed between the increase
+in extracellular space and muscle pH (Guignot et al., 1993).
+The only point which remained unexplained was the early
+increase in extracellular space, starting immediately after
+slaughter, whereas pH was still very close to neutrality.
+Events associated with cell death provide an explanation
+since a cell entering in apoptosis is dissociated from others
+and ‘‘shrinks’’. The consequence will be a reduction in
+intracellular space and a parallel increase in extracellular
+space.
+We have shown above that postmortem pH proﬁle was
+polyphasic and presented one or two steps of relative sta-
+bility in the ﬁrst 8 h following slaughter. By analogy, Guig-
+not et al. (1993) showed that extracellular space reached its
+maximum value approximately 10 h postmortem. Thus
+retraction of cells related to cellular death coincides with
+Fig. 4. Thrombin activation needs the translocation of phosphatidylserine
+to the outer leaﬂet of the membrane (adapted from Boon et al., 2003).
+Fig. 5. pH drop proﬁle in the Longissimus muscle friesen cull cows. Open
+circles, control animals; close circles, high-voltage (HV) stimulated animals;
+curves 2, 10 and 15 correspond to low-voltage (LV) stimulated animals 2, 10
+and 15 min postmortem. Sampling times for LV stimulated animals are the
+same than for the control and the HV stimulated animals. Each point is the
+mean for three animals (5–6-years-old friesan cull cows). The horizontal
+dashed line corresponds to the pH limit for prevention of cold shortening,
+i.e. pH 6. The current voltage was 750 and 100 V for HV and LV
+stimulation, respectively. (adapted from Valin, 1986).
+A. Ouali et al. / Meat Science 74 (2006) 44–58 53
+the period of polyphasic pH decrease and with progressive
+increase in extracellular space. All these results would sug-
+gest that cellular retraction and probably also inversion of
+membranes polarity, two major consequences of cellular
+death, reached their ultimate point approximately 8–10 h
+post-slaughter.
+4.4. Deterioration of mitochondria and cellular oxidation
+Mitochondria are a central element in the apoptotic pro-
+cess and this explains the large number of interesting scien-
+tiﬁc reviews published over the last decade on the role of
+this cellular organelle in cell death (Bras, Queenan, &
+Susin, 2005; Gottlieb, 2000; Granville & Gottlieb, 2002;
+Green & Amarante-Mendes, 1998; Gulbins, Dreschers, &
+Bock, 2003; Haeberlein, 2004; Parone, James, & Martinou,
+2002; Ravagnan, Roumier, & Kroemer, 2002). This is par-
+ticularly true as postmortem, the stimulus does not consist
+in an activation of cellular death receptors but rather from
+the cell itself in response in the harmful environmental con-
+ditions. In addition to the respiratory chain losing its
+capacity to oxidize molecular oxygen, the mitochondrial
+external membrane becomes permeable to all protein com-
+pounds localised in the intermembrane space, including
+cytochrome c, a central caspase 9 activator. Other proteins
+with proapoptotic activity are also released in the cytosol
+(Youle & Karbowski, 2005). In parallel, calcium from the
+endoplasmic reticulum is transferred to the mitochondria.
+Mitochondria become overloaded with calcium causing
+an irreversible alteration of their internal membrane.
+Molecular oxygen, not oxidized anymore by the respira-
+tory chain, will form free oxygen radicals able to oxidize
+all cellular compounds (lipids, proteins, etc.).
+As apoptosis will start within few minutes after death,
+the ﬁrst oxygen radicals will be generated by mitochondria
+and this will initiate the autocatalytic process which will go
+on over the whole storage period even at low temperature
+including freezing. This essential initiating phase must be
+taken into account in studies dealing with the identiﬁcation
+of the major determinants of meat ﬂavour and colour
+evolution.
+4.5. Stress and apoptosis
+It is well recognized that stress impairs the meat ageing
+process, leading generally to tougher meat. Probably the
+best illustration of this phenomenon is the case of exsuda-
+tive pig meat.
+Confronted to any type of stress, living organisms react
+by the emission of signals directed to the cells, the ﬁrst
+chronological signals being hormones. If the stress is par-
+ticularly intense (e.g. oxidative stress), the cells receive
+apoptosis-inducing signals via the receptors of cellular
+death. If the stress is not as severe, cells prepare their
+defence as quickly as possible. Among available means,
+the most described is the synthesis of various protective
+proteins known as HSPs (heat shock proteins). These pro-
+teins help in the protection of intracellular components and
+structures against hazards associated with loss of their bio-
+logical functions.
+In relation to the subject of cellular death, we saw that
+HSPs have an anti-apoptotic activity (Beere, 2004). They
+will consequently slow down the process of cellular death
+and will constitute an obstacle to good meat ageing. Once
+again, the concept of apoptosis being the ﬁrst stage of meat
+ageing provides an answer to the question of the relation-
+ship nature between animal stress and unacceptable meat
+tenderisation.
+4.6. Peptidases and proteolysis
+Tenderisation of meats results very likely from the soft-
+ening of the myoﬁbrillar structure by the synergistic action
+of endogenous peptidases including mainly cathepsins, cal-
+pains and proteasome (Sentandreu et al., 2002).
+Up to date, calpains are considered as the major prote-
+olytic system responsible for meat tenderisation and most
+researchers are prone to think that this system explained
+most changes in postmortem muscle (Veiseth & Koohma-
+raie, 2005).
+If we reconsider meat tenderisation through introduc-
+tion of programmed cell death, the ﬁrst active peptidases
+after animal bleeding would be undoubtedly caspases.
+These peptidases are in a better position than others to
+alter cellular structures since this is their primary function
+in vivo (Creagh & Martin, 2001). The common occurrence
+of sequences that match the preferred inherent substrate
+speciﬁcity of caspases in intracellular proteins would sug-
+gest a multitude of substrates in vivo – somewhere in the
+order of several hundred. Indeed, the list of proteins that
+are cleaved by caspases either in vivo or in vitro is ever
+growing (for detailed analysis of caspase substrates, see
+Earnshaw, Martins, & Kaufmann, 1999; Fischer, Ja¨nicke,
+& Schulze-Osthoﬀ, 2003; Nicholson, 1999). However, only
+a few of these proteins have been rigorously established as
+biologically relevant and many of them may represent just
+‘innocent bystanders (Denault & Salvesen, 2002). These
+ﬁndings are comparable to those reported for calpains
+for which a great number of potential muscle protein sub-
+strates have been reported for calpains (Goll, Thompson,
+Li, Wei, & Cong, 2003). Because capases are specialized
+in cell destructuration, they probably ﬁrst degrade the
+key proteins involved in the complex spatial organisation
+of myoﬁbrils within muscle cells and the hydrolysis of cel-
+lular components and organelles will then go on with the
+probable contribution of other proteolytic systems includ-
+ing very likely cathepsins, calpains, proteasomes and else.
+The same process will very likely take place similarly in
+postmortem muscle and, because of the changes in physi-
+cochemical conditions occurring in muscle after animal
+bleeding, the extent of cellular deterioration will be less
+extensive.
+Caspases are neutral cysteine peptidases and their activ-
+ity will be aﬀected by muscle acidiﬁcation to a similar
+54 A. Ouali et al. / Meat Science 74 (2006) 44–58
+extent than calpains and proteasomes (Sentandreu et al.,
+2002). Unfortunately, as no data are available in the liter-
+ature on the eﬀect of pH on the stability and the hydrolytic
+activity of these peptidases, no development in our com-
+ments can be done on this point. Meat scientists would
+have to explore the eﬀect of postmortem physico-chemicals
+conditions on these particular peptidases.
+It is worthy to note that the implication of caspases
+would contribute to explain the often reported assertion
+that the ﬁrst hours following slaughter are essential for a
+satisfactory meat ageing process.
+5. Conclusion
+Programmed cell death, a process investigated in more
+detail and at a molecular level since 1995, is now relatively
+well-known. Although all mediators are not identiﬁed yet,
+knowledge of the mechanisms of apoptosis is suﬃcient to
+be integrated in meat tenderisation studies. This prospec-
+tive review attempted to emphasize that apoptosis can con-
+stitute a new thinking way about the conversion of muscle
+into meat. Entry of muscular cells in apoptosis is indeed
+diﬃcult to dispute, taking into account the environmental
+conditions which exist after animal bleeding. It is the
+unique possible route for cells and tissues of a dead animal
+and for all animal species considered. On the basis of the
+knowledge acquired since 1995 on apoptosis especially in
+humans, analysis of the consequences of apoptosis on cells
+engaged in programmed cell death brings possible answers
+to many questions facing scientists who study the conver-
+sion of muscle into meat. Even if the participation of casp-
+ases does not explain everything, it is probably an essential
+element facilitating the action of other intracellular proteo-
+lytic systems, i.e. cathepsins, calpains, proteasomes and
+may be also other proteolytic enzymes not considered so
+far as potential eﬀector of meat softening.
+It is therefore necessary to integrate the available knowl-
+edge in our future investigations on meat tenderisation,
+including the search of predictive markers of this essential
+quality for the consumer. The search of biological predic-
+tors of tenderness and other qualities of the meat is an
+absolute necessity, in order to enhance valorisation of car-
+casses by directing them shortly after slaughter towards an
+optimal use on the basis of their potential qualities. It is
+further a prerequisite for the introduction of meat quality
+in the genetic selection programs.
+In the traditional view of the conversion of muscle into
+meat, it would be therefore necessary to add a step before
+the rigor mortis (Fig. 6). This step would correspond to the
+setting of cell death and apoptosis, with all the conse-
+quences overviewed above and their impact on the rigor
+and meat tenderising phases.
+This prospective review is the primary step for new con-
+siderations about the meat ageing process and we hope that
+it will incite new experimental approaches in this ﬁeld. This
+hypothesis will very likely trigger intense discussions and
+we are sure that if some of you will support this assump-
+tion, many others will probably suggest that we are in
+the wrong track.
+References
+Akaaboune, M., Hantai, D., Smirnova, I., Lachkar, S., Kapsimali, M.,
+Verdiere-Sahuque, M., et al. (1998). Developmental regulation of the
+serpin, protease nexin I, localization during activity-dependent poly-
+neuronal synapse elimination in mouse skeletal muscle. Journal
+Comparative Neurology, 397, 572–579.
+Alnemri, E. S., Livingston, D. J., Nicholson, D. W., Salvesen, G.,
+Thornberry, N. A., Wong, W. W., et al. (1996). Human ICE/CED-3
+protease nomenclature. Cell, 87, 171.
+Arrigo, A. P. (2005). In search of the molecular mechanism by which small
+stress proteins counteract apoptosis during cellular diﬀerentiation.
+Journal of Cellular Biochemistry, 94, 241–246.
+Arrigo, A. P., Paul, C., Ducasse, C., Manero, F., Kretz-Remy, C., Virot,
+S., et al. (2002). Small stress proteins: novel negative modulators of
+apoptosis induced independently of reactive oxygen species. Progress
+in Molecular and Subcellular Biology, 28, 185–204.
+Ashie, I. N. A., & Simpson, B. K. (1997). Proteolysis in food myosystems
+– a review. Journal of Food Biochemistry, 21, 91–123.
+Barnier, V. M. H. (1995). Determinants and predictors of beef tenderness.
+PhD Thesis, University of Utrrech, The Netherlands.
+Barrett, A. J. (1987). The cystatins: a new class of peptidase inhibitors.
+Trends in Biochemical Sciences, 12, 193–196.
+Beere, H. M. (2001). Stressed to death: regulation of apoptotic signaling
+pathways by the heat shock proteins. Science’s Signal Transduction
+Knowledge Environment, 93, RE1.
+Beere, H. M. (2004). The stress of dying: the role of heat shock proteins in
+the regulation of apoptosis. Journal of Cell Science, 117, 2641–
+2651.
+Beere, H. M. (2005). Death versus survival: functional interaction between
+the apoptotic and stress-inducible heat shock protein pathways.
+Journal of Clinical Investigation, 115, 2633–2639.
+Bekhit, A. E. D., & Faustman, C. (2005). Metmyoglobin reducing activity.
+Meat Science, 71, 407–439.
+Bertram, H. C., Schafer, A., Rosenvolda, K., & Andersen, H. J. (2004).
+Physical changes of signiﬁcance for early post mortem water distribu-
+tion in porcine M. longissimus. Meat Science, 66, 915–924.
+Bevers, E. M., Comfurius, P., & Zwaal, R. F. (1996). Regulatory
+mechanisms in maintenance and modulation of transmembrane lipid
+asymmetry: pathophysiological implications. Lupus, 5(5), 480–
+487.
+Bige, L., Ouali, A., & Valin, C. (1985). Puriﬁcation and characterization of
+a low molecular weight cysteine proteinase inhibitor from bovine
+muscle. Biochimica et Biophysica Acta, 843, 269–275.
+Fig. 6. Diﬀerent phases of the conversion of muscle into meat. In addition
+to the phases of rigor and ageing, it would be necessary to add an earlier
+step corresponding to the phase of initiation of cellular death and its
+biochemical and structural consequences on the cell.
+A. Ouali et al. / Meat Science 74 (2006) 44–58 55
+Boon, J. M., Lambert, T. N., Sisson, A. L., Davis, A. P., & Smith, B. D.
+(2003). Facilitated phosphatidylserine (PS) ﬂip-ﬂop and thrombin
+activation using a synthetic PS scramblase. Journal of the American
+Chemical Society, 125, 8195–8201.
+Bouton, P. E., Carroll, F. D., Fisher, A. L., Harris, P. V., & Shorthose, W.
+R. (1973). Eﬀect of altering ultimate pH on bovine muscle tenderness.
+Journal of Food Science, 38, 816–820.
+Bras, M., Queenan, B., & Susin, S. A. (2005). Programmed cell death via
+mitochondria: diﬀerent modes of dying. Biochemistry (Moscow), 70,
+231–239.
+Bratton, D. L., Fadok, V. A., Richter, D. A., Kailey, J. M., Guthrie, L.
+A., & Henson, P. M. (1997). Appearance of phosphatidylserine on
+apoptotic cells requires calcium-mediated nonspeciﬁc ﬂip-ﬂop and is
+enhanced by loss of the aminophospholipid translocase. Journal of
+Biological Chemistry, 272, 26159–26165.
+Buja, L. M., Eigenbrodt, M. L., & Eigenbrodt, E. H. (1993). Apoptosis
+and necrosis. Basic types and mechanisms of cell death. Archives of
+Pathology and Laboratory Medicine, 117, 1208–1214.
+Campo, M. M., Nute, G. R., Hughes, S. I., Enser, M., Wood, J. D., &
+Richardson, R. I. (2006). Flavour perception of oxidation in beef.
+Meat Science, 72, 303–311.
+Carling, D. (2004). The AMP-activated protein kinase cascade—a
+unifying system for energy control. Trends in Biochemical Science,
+29, 18–24.
+Cerretti, D. P., Kozlosky, C. J., Mosley, B., Nelson, N., Van Ness, K.,
+Greenstreet, T. A., et al. (1992). Molecular cloning of the interleukin-
+1/C24converting enzyme. Science, 256, 97–100.
+Citron, B. A., Smirnova, I. V., Zoubine, M. N., & Festoﬀ, B. W. (1997).
+Quantitative PCR analysis reveals novel expression of prothrombin
+mRNA and regulation of its level in developing mouse muscle.
+Thrombosis Research, 87, 303–313.
+Clarke, P. G. H., & Clarke, S. (1995). Historic apoptosis. Nature, 378, 230.
+Crapo, C., Himelbloom, B., Pfutzenreuter, R., & Chong, L. (1999). Causes
+for soft ﬂesh in giant grenadier (Albatrossia pectoralis) ﬁllets. Journal
+of Aquatic Food Production Technology, 8, 55–68.
+Creagh, E. M., & Martin, S. J. (2001). Caspases: cellular demolition
+experts. Biochemical Society Transactions, 29, 696–702.
+Damez, J. L., Clerjon, S., & Abouelkaram, S., (in press). Mesostructure
+assessed by alternating current spectroscopy during meat ageing. In
+51st international congress of meat science and technology, 2005,
+Baltimore, August 7–12.
+Damez, J. L., Lepetit, J., Desneux, L., Clerjon, S., & Favier, R. (2002).
+Non destructive assessment of meat ageing using electrical impedance
+anisotropy. 48th ICOMST. Rome, Italie, 1, 802–803.
+De Duve, C., Pressman, B. C., Gianetto, R., Wattiaux, R., & Appelmans,
+F. (1955). Tissue fractionation studies. 6. Intracellular distribution
+patterns of enzymes in rat-liver tissue. Biochemical Journal, 60,
+604–617.
+Denault, J. B., & Salvesen, G. S. (2002). Caspases: keys in the ignition of
+cell death. Chemical Reviews, 102, 4489–4500.
+Dihanich, M., Kaser, M., Reinhard, E., Cunningham, D., & Monard, D.
+(1991). Prothrombin mRNA is expressed by cells of the nervous
+system. Neuron, 6, 575–581.
+Dirks, A. J., & Leeuwenburgh, C. (2005). The role of apoptosis in age-
+related skeletal muscle atrophy. Sports Medicine, 35, 473–483.
+Driscoll, M. (1996). Cell death in C. elegans: molecular insights into
+mechanisms conserved between nematodes and mammals. Brain
+Pathology, 6, 411–425.
+Dubin, G. (2005). Proteinaceous cysteine protease inhibitors. Cellular and
+Molecular Life Sciences, 62, 653–669.
+Dutaud, D. (1998). Quantiﬁcation et caracte´risation du proteasome 20 S
+de muscle de bovin en relation avec l’attendrissage de la viande bovine.
+PhD Thesis, Blaise Pascal University, Clermont-Ferrand, France.
+Earnshaw, W. C., Martins, L. M., & Kaufmann, S. H. (1999). Mammalian
+caspases: structure, activation, substrates, and functions during
+apoptosis. Annual Review of Biochemistry, 68, 383–424.
+Fenton, J. W. II, (1986). Thrombin. Annals of the New York Academy of
+Sciences, 485, 5–15.
+Fernandez, E., Raynaud, F., Coulis, G., Aubry, L., Vignon, X., Bleimling,
+N., et al. (2005). Calpain 1–titin interactions concentrate calpain 1 in
+the Z-band edges and in the N2-line region within the skeletal
+myoﬁbril. FEBS Journal, 272, 2578–2590.
+Ferre, P., Azzout-Marniche, D., & Foufelle, F. (2003). AMP activated
+protein kinase and hepatic genes involved in glucose metabolism.
+Biochemical Society Transactions, 31, 220–223.
+Fidzianska, A., Kaminska, A., & Glinka, Z. (1991). Muscle cell death.
+Ultrastructural diﬀerences between muscle cell necrosis and apoptosis.
+Neuropatologia Polska, 29, 19–28.
+Fischer, U., Ja¨nicke, R. U., & Schulze-Osthoﬀ, K. (2003). Many cuts to
+ruin: a comprehensive update of caspase substrates. Cell Death
+Diﬀerentiation, 10, 76–100.
+Flower, T. R., Chesnokova, L. S., Froelich, C. A., Dixon, C., & Witt, S.
+N. (2005). Heat shock prevents alpha-synuclein-induced apoptosis in a
+yeast model of Parkinson’s disease. Molecular Biology, 351,
+1081–1100.
+Fuentes-Prior, P., & Salvesen, G. S. (2004). The protein structures that
+shape caspase-activity, speciﬁcity, activation, and inhibition. Biochem-
+ical Journal, 384, 201–232.
+Gavrieli, Y., Sherman, Y., & Ben-Sasson, S. A. (1992). Identiﬁcation of
+programmed cell death in situ via speciﬁc labeling of nuclear DNA
+fragmentation. Journal of Cell Biology, 119, 493–501.
+Glazner, G. W., Yadav, K., Fitzgerald, S., Coven, E., Brenneman, D. E.,
+& Nelson, P. G. (1997). Cholinergic stimulation increases thrombin
+activity and gene expression in cultured mouse muscle. Developmental
+Brain Research, 99, 148–154.
+Goll, D. E., Thompson, V. F., Li, H., Wei, W., & Cong, J. (2003). The
+calpain system. Physiological Reviews, 83, 731–801.
+Gorbatov, V. M., & Lyaskovskaya, Y. N. (1980). Review of the ﬂavour-
+contributing volatiles and water-soluble non-volatiles in pork meat
+and derived products. Meat Science, 4, 209–225.
+Gottlieb, R. A. (2000). Role of mitochondria in apoptosis. Critical
+Reviews in Eukaryotic Gene Expression, 10, 231–239.
+Grand, R. J., Grabham, P. W., Gallimore, M. J., & Gallimore, P. H.
+(1989). Modulation of morphological diﬀerentiation of human neuro-
+epithelial cells by serine proteases: independence from blood coagu-
+lation. EMBO Journal, 8, 2209–2215.
+Granville, D. J., & Gottlieb, R. A. (2002). Mitochondria: regulators of cell
+death and survival. Scientiﬁc World Journal, 2, 1569–1578.
+Green, D. R. (2005). Apoptotic pathways: ten minutes to dead. Cell, 121,
+671–674.
+Green, D. R., & Amarante-Mendes, G. P. (1998). The point of no return:
+mitochondria, caspases, and the commitment to cell death. Results and
+Problems in Cell Diﬀerentiation, 24, 45–61.
+Guignot, F., Vignon, X., & Monin, G. (1993). Post mortem evolution of
+myoﬁlament spacing and extracellular space in veal muscle. Meat
+Science, 33, 333–347.
+Gulbins, E., Dreschers, S., & Bock, J. (2003). Role of mitochondria in
+apoptosis. Experimental Physiology, 88, 85–90.
+Guroﬀ, G. (1964). A neutral, calcium-activated proteinase from the
+soluble fraction of rat brain. Journal of Biological Chemistry,
+239(January), 149–155.
+Gurwitz, D., & Cunningham, D. D. (1988). Thrombin modulates and
+reverses neuroblastoma neurite outgrowth. Proceedings of the National
+Academy of Sciences of the United States of America, 3440–3444.
+Haeberlein, S. L. (2004). Mitochondrial function in apoptotic neuronal
+cell death. Neurochemical Research, 29, 521–530.
+Hardie, D. G., Scott, J. W., Pan, D. A., & Hudson, E. R. (2003).
+Management of cellular energy by the AMP-activated protein kinase
+system. FEBS Letters, 546, 113–120.
+Hengartner, M. O. (2000). The biochemistry of apoptosis. Nature,
+407(6805), 770–776 (Review).
+Ishiguro, H., Higashiyama, S., Namikawa, C., Kunimatsu, M., Takano,
+E., Tanaka, K., et al. (1987). Interaction of human calpains I and II
+with high molecular weight and low molecular weight kininogens and
+their heavy chain: mechanism of interaction and the role of divalent
+cations. Biochemistry, 26, 2863–2870.
+56 A. Ouali et al. / Meat Science 74 (2006) 44–58
+Jalink, K., & Moolenaar, W. H. (1992). Thrombin receptor activation
+causes rapid neural cell rounding and neurite retraction independent of
+classic second messengers. Journal of Cell Biology, 118, 411–
+419.
+Jeremiah, L. E. (1982). Factors aﬀecting consumption, selection and
+acceptability of meat purchases. Journal of Consumer Studies and
+Home Economics, 6, 137–154.
+Jiang, S. T. (2000). Eﬀect of proteinases on the meat texture and seafood
+quality. Food Science and Agricultural Chemistry, 2, 55–74.
+Kanner, J. (1994). Oxidative processes in meat and meat products: quality
+implications. Meat Science, 36, 169–189.
+Kerr, J. F., Wyllie, A. H., & Currie, A. R. (1972). Apoptosis: a basic
+biological phenomenon with wide-ranging implications in tissue
+kinetics. British Journal of Cancer, 26, 239–257.
+Khan, A. W., & Kim, Y. K. (1975). Eﬀect of calcium on isometric tension,
+glycolysis and tenderness of poultry breast meat. Journal Food Science,
+40, 1119–1121.
+Kim, S., Buonanno, A., & Nelson, P. G. (1998). Regulation of
+prothrombin, thrombin receptor, and protease nexin-1 expression
+during development and after denervation in muscle. Journal of
+Neuroscience Research, 53, 304–311.
+Kos, J., & Lah, T. T. (1998). Cysteine proteinases and their endogenous
+inhibitors: target proteins for prognosis, diagnosis and therapy in
+cancer. Oncology Reports, 5, 1349–1361.
+Kroemer, G., Dallaporta, B., & Resche-Rigon, M. (1998). The mitochon-
+drial death/life regulator in apoptosis and necrosis. Annual Review of
+Physiology, 60, 619–642.
+Kultz, D. (2003). Evolution of the cellular stress proteome: from
+monophyletic origin to ubiquitous function. Journal of Experimental
+Biology, 206, 3119–3124.
+Lamare, M., Taylor, R. G., Farouta, L., Briand, Y., & Briand, M. (2002).
+Changes in proteasome activity during postmortem aging of bovine
+muscle. Meat Science, 61, 199–204.
+Lawson, M. A. (2004). The role of integrin degradation in post-mortem
+drip loss in pork. Meat Science, 68, 559–566.
+Leeuwenburgh, C. (2003). Role of apoptosis in sarcopenia. Journal of
+Gerontology A. Biological Sciences and Medical Sciences, 58, 999–1001.
+Liu, C. C., & Ahearn, J. M. (2001). Apoptosis of skeletal muscle cells and
+the pathogenesis of myositis: a perspective. Current Rheumatology
+Reports, 3, 325–333.
+Liu, Y., Fields, R. D., Festoﬀ, B. W., & Nelson, P. G. (1994). Proteolytic
+action of thrombin is required for electrical activity-dependent synapse
+reduction. Proceedings of the National Academy of Sciences of the
+United States of America, 91, 10300–10304.
+Majino, G., & Jons, I. (1995). Apoptosis, oncosis and necrosis. An
+overview of cell death. American Journal of Pathology, 146, 3–15.
+Majumder, R., Weinreb, G., & Lentz, B. R. (2005). Eﬃcient thrombin
+generation requires molecular phosphatidylserine, not a membrane
+surface. Biochemistry, 44(51), 16998–17006.
+Martin, S. J., Reutelingsperger, C. P., McGahon, A. J., Rader, J. A., van
+Schie, R. C., LaFace, D. M., & Green, D. R. (1995). Early
+redistribution of plasma membrane phosphatidylserine is a general
+feature of apoptosis regardless of the initiating stimulus: inhibition by
+overexpression of Bcl-2 and Abl. Journal of Experimental Medicine,
+182, 1545–1556.
+Matsuishi, M., & Okitani, A. (1997). Proteasome from rabbit skeletal
+muscle: some properties and eﬀects on muscle proteins. Meat Science,
+45, 451–462.
+Matsura, T., Togawa, A., Kai, M., Nishida, T., Nakada, J., Ishibe, Y.,
+et al. (2005). The presence of oxidized phosphatidylserine on Fas-
+mediated apoptotic cell surface. Biochimica et Biophysica Acta, 1736,
+181–188.
+Mbebi, C., Hantai, D., Jandrot-Perrus, M., Doyennette, M. A., &
+Verdiere-Sahuque, M. (1999). Protease nexin I expression is up-
+regulated in human skeletal muscle by injury-related factors. Journal of
+Cellular Physiology, 179, 305–314.
+Meier, P., Finch, A., & Evan, G. (2000). Apoptosis in development.
+Nature, 407, 796–801.
+Mishra, N. C., & Kumar, S. (2005). Apoptosis: a mitochondrial
+perspective on cell death. Indian Journal of Experimental Biology, 43,
+25–34.
+Mohamad, N., Gutierrez, A., Nunez, M., Cocca, C., Martin, G., Cricco,
+G., et al. (2005). Mitochondrial apoptotic pathways. Biocell, 29,
+149–161.
+Moloney, A. P., Mooney, M. T., Kerry, J. P., & Troy, D. J. (2001).
+Producing tender and ﬂavoursome beef with enhanced nutritional
+characteristics. Proceedings of the Nutrition Society, 60, 221–229.
+Monin, G., & Ouali, A. (1991). Muscle diﬀe´rentiation and meat quality.
+Developments in Meat Science, 5, 89–157.
+Mottram, D. S. (1992). Meat ﬂavour. Meat Focus International, June
+issue, 81–92.
+Muller-Esterl, W., Fritz, H., Kellermann, J., Lottspeich, F., Machleidt,
+W., & Turk, V. (1985). Genealogy of mammalian cysteine proteinase
+inhibitors. Common evolutionary origin of steﬁns, cystatins and
+kininogens. FEBS Letters, 191, 221–226.
+Nicholson, D. W. (2000). From bench to clinic with apoptosis-based
+therapeutic agents. Nature, 407, 810–816.
+Nicholson, D. W. (1999). Caspase structure, proteolytic substrates, and
+function during apoptotic cell death. Cell Death Diﬀerentiation, 6,
+1028–1042.
+Oﬀer, G., & Knight, P. (1988a). The structural basis of water-holding in
+meat. I. General principles and water uptake in meat processing.
+Developments in Meat Science, 4, 63–171.
+Oﬀer, G., & Knight, P. (1988b). The structural basis of water-holding in
+meat. II. Drip losses. Developments in Meat Science, 4, 173–243.
+Orrenius, S., Zhivotovsky, B., & Nicotera, P. (2003). Regulation of cell
+death: the calcium-apoptosis link. Nature Reviews Molecular Cell
+Biology, 4, 552–565.
+Otsuka, Y., Homma, N., Shiga, K., Ushiki, J., Ikeuchib, Y., & Suzukib,
+A. (1998). Puriﬁcation and properties of rabbit muscle proteasome,
+and its eﬀect on myoﬁbrillar structure. Meat Science, 49, 365–
+378.
+Ouali, A. (1992). Proteolytic and physicochemical mechanisms involved in
+meat texture development. Biochimie, 74, 251–265.
+Ouali, A. (1991). Sensory quality of meat as aﬀected by muscle
+biochemistry and modern technologies. In L. O. Fiems, B. G. Cottyn,
+& D. I. Demeyer (Eds.), Animal biotechnology and the quality of meat
+production (pp. 85–105). Amsterdam: Elsevier Science Publishers B.V..
+Ouali, A. (1999). Structure and biochemistry of muscle as related to meat
+texture. In Proc. 14th European symposium on the quality of poultry
+meat, Bologna, (Vol. 1, pp. 91–121).
+Ouali, A., & Talmant, A. (1990). Calpains and calpastatin distribution in
+bovine, porcine and ovine skeletal muscles. Meat Science, 28, 331–348.
+Ouali, A., Rouchon, P., Zabari, M., Berri, M., Zamora, F., & Tassy, C.
+(1995). Natural serine and cysteine proteinase inhibitors in bovine
+skeletal muscle. In A. Ouali, D. Demeyer, & F. J. M. Smulders (Eds.),
+Expression of tissue proteinases and regulation of protein de´gradation as
+related to meat quality (pp. 173–198). Utrecht, NL: ECCEAMST.
+Owens, F. N., & Gardner, B. A. (1999). Ruminent nutrition and meat
+quality. Proceedings of the Annual Reciprocal Meat Conference, 52,
+25–36.
+Parone, P. A., James, D., & Martinou, J. C. (2002). Mitochondria:
+regulating the inevitable. Biochimie, 84, 105–111.
+Petit, P. X., Zamzami, N., Vayssiere, J. L., Mignotte, B., Kroemer, G., &
+Castedo, M. (1997). Implication of mitochondria in apoptosis.
+Molecular and Cellular Biochemistry, 174, 185–188.
+Pette, D., & Staron, R. S. (1990). Cellular and molecular diversities of
+mammalian skeletal muscle ﬁbers. Reviews of Physiology Biochemistry
+and Pharmacology, 116, 1–76.
+Primeau, A. J., Adhihetty, P. J., & Hood, D. A. (2002). Apoptosis in heart
+and skeletal muscle. Canadian Journal of Applied Physiology, 27,
+349–395.
+Purchas, R. W., & Davies, L. H. (1974). Meat production of Friesian
+steers: the eﬀect of intramuscular fat on palatability and the eﬀect of
+growth rates on composition changes. Australian Journal of Agricul-
+tural Research, 25, 667–677.
+A. Ouali et al. / Meat Science 74 (2006) 44–58 57
+Ravagnan, L., Roumier, T., & Kroemer, G. (2002). Mitochondria, the
+killer organelles and their weapons. Journal of Cellular Physiology,
+192(2), 131–137.
+Rawlings, N. D., & Barrett, A. J. (1990). Evolution of proteins of the
+cystatin superfamily. Journal of Molecular Evolution, 30, 60–71.
+Raynaud, P., Gillard, M., Parr, T., Bardsley, R., Amarger, V., & Leveziel,
+H. (2005). Correlation between bovine calpastatin mRNA transcripts
+and protein isoforms. Archives of Biochemistry and Biophysics, 440,
+46–53.
+Renerre, M. (1999). Biochemical basis of fresh meat colour. Proceedings of
+the 45th ICoMST. Yokohama, Japan, 2, 344–353.
+Roux, M., Nizou, A., Forestier, L., Ouali, A., Leveziel, H., & Amarger, V.
+(2006). Characterization of the bovine PRKAG3 gene: structure,
+polymorphism, and alternative transcripts. Mammalian Genome, 17,
+83–92.
+Sandri, M., & Carraro, U. (1999). Apoptosis of skeletal muscles during
+development and disease. International Journal of Biochemistry and
+Cell Biology, 31, 1373–1390.
+Sandri, M. (2002). Apoptotic signaling in skeletal muscle ﬁbers during
+atrophy. Current Opinion in Clinical Nutrition and Metabolic Care, 5,
+249–253.
+Sanmartın, M., Jaroszewski, L., Raikhel, N. V., & Rojo, E. (2005).
+Caspases. Regulating death since the origin of life. Plant Physiology,
+137, 841–847.
+Satoh, Y., & Shikama, K. (1981). Autoxidation of oxymyoglobin. A
+nucleophilic displacement mechanism. Journal of Biological Science,
+256, 10272–10275.
+Schwartz, W., & Bird, J. W. C. (1997). Degradation of myoﬁbrillar
+proteins by cathepsins B and D. Biochemical Journal, 167, 811–820.
+Sentandreu, M. A., Coulis, G., & Ouali, A. (2002). Role of muscle
+endopeptidases and their inhibitors in meat tenderness. Trends in Food
+Science and Technology, 13(12), 400–421.
+Sentandreu, M. A., Stoeva, S., Aristoy, M. C., Laib, K., Voelter, W., &
+Toldra, F. (2003). Identiﬁcation of small peptides generated in Spanish
+dry-cured ham. Journal of Food Science, 68, 64–69.
+Shackelford, S. D., Koohmaraie, M., Whipple, G., Wheeler, T. L., Miller,
+M. F., Crouse, J. D., et al. (1991). Predictors of beef tenderness:
+development and veriﬁcation. Journal of Food Science, 56, 1130–1135.
+Shi, Y. (2002). Mechanisms of caspase activation and inhibition during
+apoptosis. Molecular Cell, 9, 459–470.
+Strojan, P., Budihna, M., Smid, L., Svetic, B., Vrhovec, I., Kos, J., &
+Skrk, J. (2000). Prognostic signiﬁcance of cysteine proteinases cathep-
+sins B and L and their endogenous inhibitors steﬁns A and B in
+patients with squamous cell carcinoma of the head and neck. Clinical
+Cancer Research, 6, 1052–1062.
+Suidan, H. S., Stone, S. R., Hemmings, B. A., & Monard, D. (1992).
+Thrombin causes neurite retraction in neuronal cells through activa-
+tion of cell surface receptors. Neuron, 8, 363–375.
+Szabadkai, G., & Rizzuto, R. (2004). Participation of endoplasmic
+reticulum and mitochondrial calcium handling in apoptosis: more
+than just neighbourhood. FEBS Letters, 567, 111–115.
+Taylor, R. G., Geesink, G. H., Thompson, V. F., Koohmaraie, M., &
+Goll, D. E. (1995). Is Z-disk degradation responsible for postmortem
+tenderization? Journal of Animal Science, 73, 1351–1367.
+Tews, D. S. (2002). Apoptosis and muscle ﬁbre loss in neuromuscular
+disorders. Neuromuscular Disorders, 12, 613–622.
+Tews, D. S. (2005). Muscle-ﬁber apoptosis in neuromuscular diseases.
+Muscle and Nerve, 32, 443–458.
+Thomas, A. R., Gondoza, H., Hoﬀman, L. C., Oosthuizen, V., Ryno, J., &
+Naude, A. (2004). The roles of the proteasome, and cathepsins B, L, H
+and D, in ostrich meat tenderisation. Meat Science, 67, 113–
+120.
+Thornberry, N. A., Bull, H. G., Calaycay, J. R., Chapman, K. T.,
+Howard, A. D., Kostura, M. J., et al. (1992). A novel heterodimeric
+cysteine protease is required for interleukin-1/C24 processing in monoc-
+tes. Nature, 356, 768–774.
+Turk, V., Brzin, J., Kotnik, M., Lenarcic, B., Popovic, T., Ritonja, A.,
+et al. (1986). Human cysteine proteinases and their protein inhibitors
+steﬁns, cystatins an kininogens. Biomedica Biochimica Acta, 45,
+1375–1384.
+Valin, C., Touraille, C., Vigneron, P., & Ashmore, R. (1982). Prediction of
+lamb meat quality traits based on muscle biopsy ﬁbre typing. Meat
+Science, 6, 257–263.
+Valin, C. (1986). Caracte´ristiques qualitatives et technologiques des viands
+bovines: inﬂuence des conditions d’abattage et de la technologie. In D.
+Micol (Ed.). Production de Viande Bovine (pp. 85–97). Paris: INRA.
+Veiseth, E. & Koohmaraie, M. (2005). Beef tenderness: signiﬁcance of the
+calpain proteolytic system (pp. 111–126). In Hocquette, J. F., Gigli S.,
+(Eds.), EAAP Publ. 112, Wageningen, The Netherlands: Wageningen
+Academic Publishers.
+Vignon, X., Beaulaton, J., & Ouali, A. (1989). Ultrastructural localization
+of calcium in post-mortem bovine muscle: a cytochemical and X-ray
+microanalytical study. Histochemical Journal, 21, 403–411.
+Wallace, W. J., Houtchens, R. A., Maxwell, J. C., & Caughey, W. S.
+(1982). Mechanism of autooxidation for hemoglobins and myoglobins.
+Promotion of superoxide production by protons and anions. Journal of
+Biological Science, 257, 4966–4977.
+Warner, R. D., Dunshea, F. R., Ponnampalam, E. N., & Cottrell, J. J.
+(2005). Eﬀects of nitric oxide and oxidation in vivo and post-mortem
+on meat tenderness. Meat Science, 71, 205–217.
+Weinstein, J. R., Gold, S. J., Cunningham, D. D., & Gall, C. M. (1995).
+Cellular localization of thrombin receptor mRNA in rat brain:
+expression by mesencephalic dopaminergic neurons and codistribution
+with prothrombin mRNA. Journal of Neuroscience, 15, 2906–2919.
+Wilk, S., & Orlowski, M. (1980). Cation-sensitive neutral endopeptidase:
+isolation and speciﬁcity of the bovine pituitary enzyme. Journal of
+Neurochemistry, 35(5), 1172–1182.
+Wood, J. D., Enser, M., Fisher, A. V., Nute, G. R., Richardson, R. I., &
+Sheard, P. R. (1999). Manipulating meat quality and composition.
+Proceedings of the Nutrition Society, 58, 363–370.
+Wyllie, A. H. (1980). Glucocorticoid-induced thymocyte apoptosis is
+associated with endogenous endonuclease activation. Nature, 284,
+555–556.
+Youle, R. J., & Karbowski, M. (2005). Mitochondrial ﬁssion in apoptosis.
+Nature Reviews Molecular Cell Biology, 6, 657–663.
+Yuan, J., Wang, M. X., & Murrell, G. A. (2003). Cell death and
+tendinopathy. Clinical Sports Medicine, 22, 693–701.
+Yuan, J. (1996). Evolutionary conservation of a genetic pathway of
+programmed cell death. Journal of Cellular Biochemistry, 60, 4–11.
+Yuan, J., Shaham, S., Ledoux, S., Ellis, H. M., & Horvitz, H. M. (1993).
+The C. elegans cell death gene ced-3 encodes a protein similar to
+mammalian interleukin1-converting enzyme. Cell, 75, 641–652.
+Zeece, M. G., Woods, T. L., Keen, M. A., & Reville, W. J. (1992). Role of
+proteinases and inhibitors in postmortem muscle protein degradation.
+Proceedings of the Annual Reciprocal Meat Conference, 45, 51–61.
+Zimmermann, K. C., Bonzon, C., & Green, D. R. (2001). The machinery
+of programmed cell death. Pharmacology Therapy, 92, 57–70.
+Zimmermann, K. C., & Green, D. R. (2001). How cells die: apoptosis
+pathways. Journal of Allergy and Clinical Iummunology, 108(Suppl. 4),
+S99–S103.
+Zoubine, M. N., Ma, J. Y., Smirnova, I. V., Citron, B. A., & Festoﬀ, B.
+W. (1996). A molecular mechanism for synapse elimination: novel
+inhibition of locally generated thrombin delays synapse loss in
+neonatal mouse muscle. Developmental Biology, 179, 447–457.
+58 A. Ouali et al. / Meat Science 74 (2006) 44–58

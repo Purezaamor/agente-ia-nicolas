@@ -1,0 +1,421 @@
+=== Fuente: filmina-Formulacion_de_raciones_AyFR.pdf ===
+
+•1
+Formulación de 
+raciones
+Ing. Agr. Marisa Wawrzkiewicz
+Ing. Agr. Gustavo Jaurena
+Ing Agr. Rocío Martinez
+Ing Agr. Alejandro Palladino
+Departamento Producción Animal
+Facultad de Agronomía - UBA 
+En la formulación de raciones 
+es necesario integrar todos los 
+conocimiento adquiridos sobre 
+nutrición, alimentos y 
+animales.
+Teniendo siempre presente el objetivo 
+de producción propuesto, 
+habitualmente económico-productivo.
+Una ración balanceada debe 
+suministrar todos los nutrientes 
+en las cantidades y 
+proporciones necesarias para 
+nutrir apropiadamente a un 
+animal determinado, por un 
+período de 24 horas.
+Morrison, 1956
+El uso de dietas correctamente 
+balanceadas presenta las 
+siguientes ventajas:
+/ring4 Alcanzar el potencial genético de los 
+animales.
+/ring4 Mejorar el estado de salud de los animales 
+(medicina preventiva)
+/ring4 El uso eficiente de los nutrientes disminuye 
+el costo de producción por unidad de 
+producto.
+/ring4 Lograr un producto de calidad óptima.
+Definiciones:
+/ring4 Dieta: es el alimento o conjunto de 
+ellos que consume un animal.
+/ring4 Ración: es la cantidad de dieta que 
+es consumida diariamente por un 
+animal.
+•2
+Formular raciones es un procedimiento 
+relativamente sencillo. El verdadero 
+problema es lograr que los animales las 
+consuman!!!
+Procedimiento general para la 
+formulación de raciones
+/ring4 Estimación del consumo diario en kg
+MS/animal/día.
+/ring4 Estimación de los requerimientos de los 
+animales.
+/ring4 Listado de los alimentos disponibles para la 
+formulación.
+/ring4 Estimación de la composición de los 
+alimentos a utilizar.
+Técnicas de formulación:
+/ring4 Manuales
+/circle6 Ecuaciones simultáneas
+/circle6 Cuadrado de Pearson
+/circle6 Sustitución
+/circle6 Usando ingredientes en cantidades fijas
+/ring4 Programas de computación
+/circle6 Aproximaciones sucesivas
+/circle6 Mínimo costo
+Ecuaciones simultáneas
+Ejemplo 1 :
+Formular un concentrado para novillos en pastoreo que contenga 
+3.1 Mcal EM/kg MS con los siguientes alimentos:
+Grano de sorgo: 3.40 Mcal EM/kg MS
+Sojilla: 2.72 Mcal EM/kg MS
+Objetivo : averiguar la proporción de cada 
+ingrediente en la composición final
+Siendo,    X = kg MS sorgo                      Y = kg MS sojilla
+X + Y = 1 kg MS complemento
+entonces X = 1 – Y (1)
+3.40 * X + 2.72 * Y = 3.10 Mcal EM/kg MS  (2)
+Sustituyendo (1) en (2):
+3.40 * (1 – Y) + 2.72 * Y = 3.10       operando,
+Y = -0.3 / -0.68 = 0.44
+Como    X = 1 – 0.44 = 0.56
+Resultado : las proporciones son 56% sorgo y 44% 
+sojilla en base seca.
+Modo de cálculo Cuadrado de Pearson
+Ejemplo 2 :
+Utilizo los datos del ejemplo 1 y formular un 
+concentrado de 3.2 Mcal EM/kg MS utilizando 
+grano de sorgo y sojilla
+Objetivo : averiguar las proporciones de sorgo y 
+de sojilla por unidad de peso de complemento.
+•3
+Modo de cálculo
+Sorgo 3.40
+Sojilla 2.72
+3.2
+0.20
+0.48
+0.68
+0.48/0.68 = 0.71
+0.20/0.68 = 0.29
+71%
+29%
+Resultado: el complemento contiene 71% de 
+sorgo y 29% de sojilla en base seca.
+Sustitución
+Ejemplo 3 :
+Supongamos que debo disminuir el 
+contenido energético del grano de maíz de 
+3.4 Mcal EM/kg MS a 3.3 Mcal EM/kg MS 
+utilizando grano de avena que contiene 
+2.85 Mcal EM/kg MS.
+Objetivo : calcular la proporción en la que se 
+debe reemplazar el grano de maíz por el 
+de avena y averiguar las proporciones 
+finales de la mezcla.
+Modo de cálculo
+/ring4 Maíz: 3.40 Mcal EM/kg MS
+/ring4 Avena:     2.85 Mcal EM/kg MS
+Entonces, por cada kg de maíz reemplazado por otro 
+de avena la EM disminuye 0.55 Mcal (3.40 – 2.85) 
+Si debo disminuir 0.1 Mcal EM/kg MS (3.4 – 3.3),
+0.1 Mcal EM  /  0.55 Mcal EM =  0.18 proporción a 
+sustituir
+Finalmente, por cada 100 kg de concentrado 
+habrá 82% maíz y 18% avena.
+Usando ingredientes en 
+cantidades fijas
+Este procedimiento se utiliza cuando en la 
+ración se deben agregar componentes 
+que van en baja proporción, por ejemplo:
+• Minerales (macro y microminerales)
+• Sal (Cloruro de sodio)
+• Aditivos
+• Grasa
+Modo de cálculo
+Ejemplo 4 :
+Concentrado de 3.2 Mcal EM/kg MS y 14% PB
+Núcleo vitamínico y mineral 11%
+Se diluirán la energía y la proteína!!
+Debo formular el complemento como para que la E y la 
+PB estén contenidas en el 89% restante.
+Energía:
+3.2 Mcal /  0.89  =  3.60 Mcal/kg MS
+Proteína:
+14 %  /  0.89  =  15.7% PB
+/square4 La formulación de raciones se realiza en base seca.
+/square4 La humedad de los alimentos utilizados es muy variable.
+/square4 La mezcla de los alimentos para la preparación de dietas y 
+suplementos se realiza con los alimentos tal cual (base 
+húmeda).
+/square4 Al trabajar en MS puedo comparar la composición de los 
+alimentos.
+Conceptos de materia seca y materia hConceptos de materia seca y materia h úúmedameda
+•4
+Conceptos de materia seca y materia Conceptos de materia seca y materia 
+hhúúmedameda
+/ring4 Base húmeda: incluye el agua naturalmente presente 
+en los alimentos
+/ring4 Base seca: excluye el agua de los alimentos.
+Práctica para 
+integración de 
+conceptos
+Problema Feedlot
+Formular una dieta para animales en engorde 
+(novillos AA) a corral con las siguientes 
+características:
+/ring4 Peso inicial: 200 kg
+/ring4 Peso final: 300 kg
+/ring4 Días en engorde: 83
+Alimentos disponibles
+00095Premezcla 
+vit-min (PMX)
+3,38,09189Grano de 
+maíz (GM)
+3,1428691Pellet soja 
+(PS)
+1,58,04287Paja de trigo 
+(PT)
+EM 
+(Mcal/kg MS)
+PB 
+(%bs)
+DMS 
+(%bs)
+MS 
+(%)
+Alimento
+Consumo fijo al 2,5% del CMS total
+Supuestos
+/ring4 CVMS feedlot = 4.54 + 0.0125 x PV inicial
+/ring4 AV = 10%
+/ring4 km = 0.7
+/ring4 ke = 0.55
+Calculo de requerimientos
+Peso promedio = 250 kg
+ENm = 0.077 x 250 0.75 x 1.10 = 5.33 Mcal EN/d
+EMm = 5.33 / 0.7 = 7.61 Mcal EM/d
+Engorde = (300 kg – 200 kg) / 83 días = 1.2 kg/d
+ENp (por tabla) = 4.28 Mcal EN/d
+EMp = 4.28 / 0.55 = 7.78 Mcal EM/d
+EMtotal = 7.61 + 7.78 = 15.39 Mcal EM/d
+•5
+Calculo de requerimientos
+Requerimientos proteicos x tabla
+766 g/d
+PB Mant = 3.8 g PM x 250 075 /0.75 = 
+318 g/d
+Total = 1084 g/d
+Estimación de consumo
+Formula para Feedlot
+CVMS = 4.54 + 0.0125 x 200 kg = 7.04 kg MS/d
+Objetivos de formulación
+EM/kg MS = EMtotal / kg MS consumo
+EM/kg MS = 15.39 / 7.04 = 2.19 Mcal EM/kg MS
+PB (%) = 1.084 / 7.04 = 15.4 %
+Objetivos de formulación
+Si el consumo de PMX es el 2.5% del CMS 
+total entonces,
+CMS PMX = 7.04 x 0.025 = 0.176 kg/d
+Por lo tanto,
+EM/kg MS = 2.19 / 0.975 = 2.25 Mcal/kg MS
+PB (%) = 15.4 / 0.975 = 15.8 %
+Primero formulo por energía
+GM   3.3
+PT      1.5
+2.25
+1.05
+0.75
+1.8
+0.75/1.8 = 0.42
+1.05/1.8 = 0.58
+42%
+58%
+Premezcla 1
+Primero formulo por energía
+PS   3.1
+PT      1.5
+2.25
+0.85
+0.75
+1.6
+0.75/1.6 = 0.47
+0.85/1.6 = 0.53
+47%
+53%
+Premezcla 2
+•6
+Calculo de PB de las 
+premezclas 1 y 2
+/ring4 Premezcla 1 = 8% PB de GM x 0.42 + 8% 
+PB de PT x 0.58 = 8% PB
+/ring4 Premezcla 2 = 42% PB de PS x 0.47 + 8% 
+PB de PT x 0.53 = 24.0% PB
+Formulación por PB
+Premezcla 1 8%
+Premezcla 2  24%
+15.8
+7.8
+8.2
+16
+8.2/16 = 0.51
+7.8/16 = 0.49
+51%
+49%
+Mezcla final
+Formulación final…
+Prem. 2
+Prem. 1
+58*0,51=29.65887PT
+53*0,49=265391PT
+47*0,49=23.0
+49
+4787PS
+42*0,51=21.4
+51
+4289GM
+Mezcla (%bs)Mezcla 
+final (%bs)
+Prem. 
+(%bs)
+MS 
+(%)
+Alimento
+----------
+100 %
+Mezcla final con PMX
+2.6/113.5=2.32.5/0.95=2.62.5PMX
+20.9/0.89=24.0
+22.4/0.91=24.6
+54.2/0.87=62.3
+Mezcla (kg MH)
+24.6/113.5=21.723 x 0.975 = 22.4Pellet de soja
+24.0/113.5=21.121.4 x 0.975 = 20.9Grano de maíz
+62.3/113.5=55.055.6 x 0.975 = 54.2Paja de trigo
+Mezcla (kg MH)Mezcla (kg MS)Alimento
+----------
+100 kg MS
+----------
+113.5 kg MH
+----------
+100 kg MH
+Costo de los ingredientes
+/ring4 Paja de trigo                     150 $ / rollo
+/circle6 500 kg MH / rollo * 87/100 % MS = 435 kg MS
+/circle6 150 $/rollo / 435 kg MS/rollo = 0.345 $/kg MS
+/ring4 Pellet de soja                  1200 $/t MH
+/circle6 1200 $/t MH / (91/100) = 1319 $/t MS = 1.319 $/kg MS
+/ring4 PMX                                 150 $ / 50 kg MH
+/circle6 150 $ / 50 kg / 0.95 = 3.16 $/kg MS
+/ring4 Grano de maíz                 800 $/t MH
+/circle6 800 $/t MH / (89/100) = 899 $/t MS = 0.899 $/kg MS
+Costo de la ración
+(0.345*54.2)=18.754.20.345Paja de 
+trigo
+(0.899*20.9)=18.820.90.899Grano de 
+maíz
+(3.16*2.5)=7.92.53.160
+PMX
+(1.319*19.7)=29.522.41.319Pellet de 
+soja
+Mezcla (kg
+MS)
+Precio 
+($/kg MS)
+Alimento
+----------
+74.9 $/100kg MS
+•7
+Costo del alimento por 
+animal
+74.9 $ / 100 kg MS * 7.04 kg MS/an
+5.27 $ alimento / animal / día
+0.88 * 0.749 = 0.66 $ kg MH
+Ecuaciones para 
+calculo de 
+requerimientos y 
+estimación de CMS
+Estimaciones de consumo 
+para bovinos de carne (1)
+/ring4 Con limitación de calidad de la dieta
+Blaxter, 1966
+CVMS (g MS/kg PV 0.75 ) = (2.33 x DMS (%) ) – 54.2  
+Conrad, 1966
+CVMS (kg MS/día) = 5.4 x PV (kg) / 500 x (1 – DMS (Coef))
+Estimaciones de consumo para 
+bovinos de carne (2) - NRC, 2001
+/ring4 Con limitación de calidad de la dieta
+Machos
+CENm = PV 0.75 x (0.2435 x ENm – 0.0466 x ENm 2 – 0.1128) 
+Novillitos y hembras jóvenes
+CENm = PV 0.75 x (0.2435 x ENm – 0.0466 x ENm 2 – 0.0869) 
+donde, 
+CENm: consumo de ENm (Mcal/d)
+ENm: concentración de energía neta de mantenimiento de la dieta 
+suministrada (Mcal/kg MS)
+Estimaciones de consumo para 
+bovinos de carne (3) - NRC, 2001
+/ring4 Sin limitación por calidad de la dieta
+Feed lot
+CVMS = 4.54 + 0.0125 x PV inicial
+Machos y hembras en crecimiento y terminación
+CVMS = 1.8545 + 0.01937 x PV inicial
+donde,
+CVMS: consumo voluntario de materia seca (kg MS/d)
+PV inicial : peso vivo inicial del período de engorde (kg)
+Estimaciones de consumo 
+para bovinos de leche (1)
+NRC (2001)
+CVMS = (0.372 * LCG + 0.0968 * PV0.75)
+* (1- e(-0.192*(SL + 3.67) )) 
+donde,
+CVMS: consumo voluntario de materia seca (kg MS/d)
+LCG: producción de leche corregida por 4% de grasa 
+butirosa (l)
+LCG = 0.4 x Leche (kg/d) + 15 x Grasa (kg/d)
+SL: semana de lactancia
+
+•8
+Estimaciones de consumo 
+para bovinos de leche (2)
+Melo, Castillo y Danelón (1993)
+CVMS (kg MS / día) = (0.025 * PV) + (X * kg leche/día)
+donde,
+CVMS: consumo voluntario de materia seca (kg MS/d)
+PV: peso vivo (kg)
+X: factor dependiente de la producción diaria de leche 
+x = 0.10 si prod. < ó = 18 l/ día
+x = 0.15 si prod. = 19 - 25 l/ día
+x = 0.22 si prod. > ó = 25 l/ día
+ATENCION!!
+/ring4 No olvidar la consideración de limitaciones 
+adicionales al consumo
+/circle6 Cantidad de fibra CMS (%PV) = 120 / FDN (%)
+/circle6 Contenido de agua de la dieta Capacidad ruminal
+(kg MH/d) = PV (kg) x 0,13
+/circle6 Estado fisiológico 
+• -15% 60-30 días preparto
+• -30% 30-0 días prepartp
+• -20% 0-30 días postparto
+• -10% 30-60 días postparto
+Estimación de los requerimientos 
+de los animales (1)
+/ring4 Modelo factorial para el cálculo
+Req EM TOTAL (Mcal EM/d) = Req EM m + Req EM pord
+donde,
+Req EM pord : producción de carne es EM e y 
+producción de leche es (EM l + EM ∆PV )
+Estimación de los requerimientos 
+de los animales (2)
+/ring4 Cálculo de los requerimientos de mantenimiento
+EMm = (ME + (ME * % AV) ) / km
+ME = 77 kcal * PV 0.75
+Siendo,
+AV = 10 % ME para animales en corral
+AV = 20 % ME para animales en pastoreo con alta
+disponibilidad 
+AV = 30 – 40 % ME para animales en pastoreo con baja
+disponibilidad

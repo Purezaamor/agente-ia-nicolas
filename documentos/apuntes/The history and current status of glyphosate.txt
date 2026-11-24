@@ -1,0 +1,709 @@
+=== Fuente: The history and current status of glyphosate.pdf ===
+
+1027
+Perspective
+Received:3November2016 Revised:9June2017 Acceptedarticlepublished:23June2017 PublishedonlineinWileyOnlineLibrary:11August2017
+(wileyonlinelibrary.com)DOI10.1002/ps.4652
+Thehistoryandcurrentstatusofglyphosate
+StephenODuke*
+Abstract
+Glyphosate is the only herbicide to target the enzyme 5-enolpyruvyl-3-shikimate phosphate synthase (EPSPS). It is a high
+use rate, non-selective herbicide that translocates primarily to metabolic sinks, killing meristematic tissues away from the
+application site. Its phloem-mobile properties and slow action in killing weeds allow the herbicide to move throughout the
+plant to kill all meristems, making it eﬀective for perennial weed control. Since commercialization in 1974, its use has grown
+to dominate the herbicide market. Much of its use is on transgenic, glyphosate-resistant crops (GRCs), which have been the
+dominanttransgeniccropsworldwide.GRCswithglyphosateprovidedthemosteﬀectiveandinexpensiveweedmanagement
+technologyinhistoryforadecadeormore.However,asaconsequenceoftherapidincreaseinglyphosate-resistant(GR)weeds,
+theeﬀectivenessofglyphosateuseinGRCsisdeclining.Criticshaveclaimedthatglyphosate-treatedGRCshavealteredmineral
+nutritionandincreasedsusceptibilitytoplantpathogensbecauseofglyphosate’sabilitytochelatedivalentmetalcations,but
+thecompleteresistanceofGRCstoglyphosateindicatesthatchelatingmetalcationsdonotcontributetotheherbicidalactivity
+or signiﬁcantly aﬀect mineral nutrition. The rates of increases in yields of maize, soybean, and cotton in the USA have been
+unchangedafterhighadoptionratesofGRCs.Glyphosateistoxictosomeplantpathogens,andtherebycanactasafungicidein
+GRCs.Ultra-lowdosesofglyphosatestimulateplantgrowthinglyphosate-susceptibleplantsbyunknownmechanisms.Despite
+rapid and widespread increases in GR weeds, glyphosate use has not decreased. However, as GR weeds increase, adoption of
+alternativetechnologieswilleventuallyleadtodecreaseduse.
+Published2017.ThisarticleisaU.S.GovernmentworkandisinthepublicdomainintheUSA.
+Keywords:glyphosate;5-enolpyruvyl-3-shikimatephosphatesynthase(EPSPS);herbicide-resistantcrop;glyphosateresistance
+1 INTRODUCTION
+Glyphosate is the most successful herbicide in history.1 This
+discussion brieﬂy chronicles how this came to be and provides
+some speculation about its future. Glyphosate was a highly
+successful non-selective herbicide before the introduction of
+glyphosate-resistant crops (GRCs); however, the introduction of
+GRCs greatly increased its use in those countries approving their
+cultivation(e.g.Figs1and2).2 Almost90%ofthelandareacovered
+by transgenic crops worldwide is planted in herbicide-resistant
+crops (HRCs), and almost all of these have been GRCs.3 The
+economic reward to farmers who adopted the GRC technol-
+ogy was the principal driver for the phenomenal success of this
+technology.4–6 All of this has made glyphosate the most used
+pesticideworldwide.1
+Glyphosate has been the focus of intensive scientiﬁc study
+and product innovation. The number of scientiﬁc publica-
+tions and patents involving glyphosate has increased to
+almost 20 000 in the past 40years, with most of them in the
+past 15years (Fig.3). Glyphosate is beginning to rival 2,4-D
+(2,4-dichlorophenoxoyacetic acid) as the most studied herbicide
+inhistory.
+The third decade of the use of GRCs has begun, and the HRC
+scenario is becoming more complex as a consequence of the
+evolution of weed resistance to glyphosate and the introduction
+of new HRCs. After about 10 and 20years of GRC use, I analyzed
+the then current state and potential future of GRCs.7,8 Dramatic
+changesareoccurringintheutilityofglyphosateforGRCusethat
+couldimpactprospectsforitsfuture.Thisperspectivesummarizes
+the history and current status of glyphosate after more than
+two decades of growing GRCs. I discuss the rapidly changing
+aspects of evolution of resistance to glyphosate and competing
+andcomplementaryherbicides,aswellasnewweedmanagement
+technologiesthatmightinﬂuencefutureuseofglyphosate.
+2 PREGLYPHOSATE-RESISTANTCROPS
+Glyphosate was commercialized in 1974, when new herbicide
+modesofactionwerebeingintroducedevery2to3years.9,10 Prior
+to the introduction of GRCs, glyphosate use was similar to that of
+thebipyridiniumherbicides,paraquatanddiquat,whichwereﬁrst
+commercialized over a decade earlier than glyphosate.11 Bipyri-
+diniumsandglyphosatearewidelyusednon-selectiveherbicides
+that are essentially inactive in soil. Glyphosate continues to be
+used in non-crop situations such as on roadsides, on and beside
+railway tracks, and in pre- and post-cropping of ﬁelds, as well as
+for control of vegetation of the understory in trees and orchard
+crops, with care that none drifts on to the green vegetation of
+thecrop.Althoughmoreexpensivethanparaquat,glyphosatehas
+severaladvantages.Unlikeparaquat,whichisarapidlyactingcon-
+tact herbicide, glyphosate is slow acting and readily translocates
+tomeristemsdistantfromthetreatedfoliage.12 Glyphosate’sexcel-
+lentsystemicpropertiesallowtheweedtobekilledbyapplication
+∗ Correspondence to: SO Duke, USDA, ARS, Natural Products Utilization Research
+Unit, Room 1012, Thad Cochran Research Center, University, MS 38677, USA.
+Email: stephen.duke@ars.usda.gov
+United States Department of Agriculture, Agricultural Research Service, Natural
+Products Utilization Research Unit, Thad Cochran Research Center, University,
+MS, USA
+Pest Manag Sci 2018;74:1027–1034 www.soci.org Published2017.ThisarticleisaU.S.Governmentwork
+andisinthepublicdomainintheUSA.
+1028
+www.soci.org SODuke
+Estimated Agricultural Use for Glyphosate, Epest-Low
+1994
+2014 (Preliminary)
+Estimated use on
+agricultural land in
+pounds per square mile
+< 4.52
+4.52 - 21.12
+21.13 - 88.06
+> 88.06
+No estimated use
+Figure1. Geographicdistributionandestimatesofglyphosateusein1994and2014intheUSA.2
+wileyonlinelibrary.com/journal/ps Published2017.ThisarticleisaU.S.Governmentwork Pest Manag Sci 2018;74:1027–1034
+andisinthepublicdomainintheUSA.
+1029
+Historyandcurrentstatusofglyphosate www.soci.org
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Estimated use in million pounds
+0
+50
+100
+150
+200
+250
+Other crops
+Pasture and hay
+Alfalfa
+Orchards and grapes
+Rice
+Vegetables and fruit
+Cotton
+Wheat
+Soybeans
+Corn
+GRC
+Figure2.GlyphosateuseintheUSAbyyearandcrop.ThearrowdenotestheintroductionofGRCs.2
+Year
+1980 1985 19951990 2000 20102005 2015
+0
+1000
+2000
+3000
+4000
+5000
+Citations in previous 5 years
+6000
+7000
+Figure 3. Papers and patents retrieved in SciFinder using the keyword
+‘glyphosate’. Each bar represents the total in that year plus the previous
+4years.
+toonlyasmallpercentageoftheweed’sfoliage.Thus,glyphosateis
+muchmoreeﬀectivethanparaquatinpreventingre-growthfrom
+meristems, and therefore has a tremendous advantage in killing
+perennial weeds. Lastly, the bipyridiniums are probably the most
+acutely toxic herbicides to vertebrates,13 but extensive investiga-
+tions have shown that glyphosate and its degradation product
+aminomethylphosphonic acids (AMPA) have very low acute and
+chronictoxicity,14–17
+Glyphosate is a superior herbicide,1 but glyphosate’s high level
+of phytotoxicity to crops limited its use. Attempts were made
+to use glyphosate in row crops while avoiding contact with the
+cropsbyemployingapplicationdevicesthatdidnotusebroadcast
+spraying,suchasshieldedsprayersandrub-on(e.g.ropewickand
+carpet)applicators,andbyapplyingglyphosateasspottreatments
+toindividualweeds.18,19 However,asaresultofitshighlysystemic
+properties, only a small amount of glyphosate on the crop, as a
+result of drift or direct application, can injure or kill a crop plant.
+Theseapplicationtechnologieswerenotwidelyadoptedbecause
+oftechnicalproblemsingettingtheherbicidestoalloftheweeds
+and frequent, unacceptable levels of crop damage. Making crops
+resistanttoglyphosateviabiotechnologysolvedtheproblem.
+3 THEGOLDENAGEOFWEED
+MANAGEMENT;THEFIRSTTENYEARS
+OFGLYPHOSATE-RESISTANTCROPS
+The ﬁrst commercialized HRCs in 1995, bromoxynil-resistant and
+glufosinate-resistantcanola,hadlittleimpact,buttheintroduction
+in1996oftheﬁrstGRC,glyphosate-resistant(GR)soybean,started
+a weed management revolution.1,7,8,20 Within 10years, adoption
+of GR soybean in the USA was >90%, followed later by >90%
+adoption of GR cotton and maize, with a plateau of all three at
+>90% by 2014 (Fig.4). Adoption of GR soybean in Argentina was
+morerapid,21 andtheadoptionrateinBrazilhasalsobeenhigh.22
+Adoption rates of other GR crops (alfalfa, canola, and sugarbeets)
+in the USA has been high too. In the case of GR sugarbeets in the
+USA,theadoptionratewas95%within3years(commercializedin
+2007).23
+This technology was a boon for farmers, as it simpliﬁed and
+reduced the cost of weed management, while giving bet-
+ter results than the multiple herbicides previously needed to
+give adequate weed management in these crops. The positive
+impact was perhaps even greater for small farmers who had
+neither the expertise nor budget for consultants to generate
+prescription herbicide remedies for speciﬁc weed problems. The
+economic and eﬃcacy reasons for this outstanding success have
+been detailed in many publications.1,4,8,20,21,24–26 Furthermore,
+this technology reduced the environmental impact of weed
+management through reductions in tillage, fossil fuel use, and
+the use of more toxic herbicides, detailed in many previous
+reviews.27–30 It was the golden age of weed management with
+simple, economical, and outstandingly eﬀective weed manage-
+ment with reduced environmental impact, using a herbicide
+active ingredient that was considered to be virtually non-toxic to
+humans.
+Pest Manag Sci 2018;74:1027–1034 Published2017.ThisarticleisaU.S.Governmentwork wileyonlinelibrary.com/journal/ps
+andisinthepublicdomainintheUSA.
+1030
+www.soci.org SODuke
+Year
+199 6 199 7 199 8 199 9 200 0 200 1 200 2 200 3 200 4 200 5 200 6 200 7 200 8 200 9 201 0 201 1 201 2 201 3 201 4 201 5 201 6
+% of cultivated land
+0
+20
+40
+60
+80
+100
+Soybean
+Cotton
+Maize
+Figure4.GRCadoptioninsoybean,maizeandcottonbyyearintheUSA.
+In the USA, use of glyphosate climbed rapidly after the intro-
+duction of GRCs (Figs1 and 2). Concomitantly, use of other her-
+bicides that had been used with these crops plummeted.31 For
+example,useofthemostlysoybeanprotoporphyrinogenoxidase
+inhibitor herbicide aciﬂuorfen was greatly reduced after GR soy-
+beanswereintroducedin1996(Fig.5).Similarreductionsoccurred
+with other herbicides that had been used in the crops that had
+been made glyphosate resistant. The phenomenal success for
+GRCssigniﬁcantlydevaluedthemarketforotherherbicides,lead-
+ingtoreductionsininvestmentinherbicidediscovery,withatleast
+onecompanyabandoningherbicidediscoveryeﬀorts.Thiswasat
+thetimewhentheintroductionofnewherbicidemodesofaction
+hadstopped10 andweedresistancetoexistingherbicides’modes
+of action had begun a logarithmic climb.32 Nevertheless, farmers
+werenotworriedbecausetheyhadbeenassuredearlyonthatthe
+GRC technology was durable.33 Still, some claimed that the tech-
+nology was ﬂawed, not because of looming resistance, but as a
+resultofotherissues.
+4DETRACTORS
+As mentioned above, most analyses of the environmental impact
+of GRCs found an improvement over the multiple herbicides and
+tillagethattheyreplaced.Themostpublicizedclaimsofproblems
+with GRCs have centered around plant disease, mineral nutrition,
+yields, and glyphosate toxicology. Two of these topics, mineral
+nutrition and plant disease as aﬀected by glyphosate, are dealt
+with in other papers in this special issue of Pest Management Sci-
+ence.34,35 Brieﬂy,despiteafewhighlypublicizedpapersindicating
+thatglyphosatealtersplantmineralnutritioninGRCsandthatthis
+andotherGRCcharacteristicsresultinincreasedfungalpathogen
+infestationofGRCs,thepreponderanceofpeer-reviewedliterature
+doesnotsupportthesetheories.34–36
+Another issue has been whether there is a yield reduction
+in GRCs attributable to either the GR transgene(s) used or to
+glyphosate.SomeoftheearlyGRCcultivarsdidnothavethemore
+elite germplasms for yield, and in at least GR cotton, the gene
+for resistance was not expressed highly enough in reproductive
+tissues to always prevent crop damage from glyphosate in the
+ﬁeld.37 Furthermore, under some environmental conditions, tran-
+sient yellowing of soybean leaves by glyphosate application was
+sometimes observed.36,38 This was determined to be a result of
+thetransienteﬀectoftheslightlyphytotoxicdegradationproduct
+ofglyphosate,AMPA.38 Improvedgeneexpressionandmoreelite
+germplasms have ameliorated early problems with this technol-
+ogy. The incremental gain in yield of soybean, maize and cotton
+thatoccurredintheUSAbeforeGRCscontinuedatessentiallythe
+same rate after introduction of GRCs.36 Afterconsidering thislack
+of inﬂuence of glyphosate or the GR trait, a US National Academy
+of Science study suggested that more research should be carried
+outincontrolledenvironmentswithappropriatecontrolstodeter-
+mine if yields are aﬀected by glyphosate or the GR transgene.39
+Such studies carried out recently have found no eﬀects of
+glyphosateuseonGRCsortheGRtransgeneoncropyield.6,34,40
+wileyonlinelibrary.com/journal/ps Published2017.ThisarticleisaU.S.Governmentwork Pest Manag Sci 2018;74:1027–1034
+andisinthepublicdomainintheUSA.
+1031
+Historyandcurrentstatusofglyphosate www.soci.org
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Estimated use in million pounds
+Other crops
+Pasture and hay
+Alfalfa
+Orchards and grapes
+Rice
+Vegetables and fruit
+Cotton
+Wheat
+Soybeans
+Corn
+0.0
+0.5
+1.0
+1.5
+2.0 GR soybean introduction
+Figure5.YearlyuseofaciﬂuorfenintheUSAbycrop.2
+Glyphosate-treated GRC soybeans contain glyphosate and
+AMPA.41 ThisisdocumentedbytheUSDepartmentofAgriculture
+(USDA) Pesticide Data Program, an extensive program that mon-
+itors pesticide residues in many crops.42 However, this program
+reportsneitherglyphosatenorAMPAinharvestedGRmaizeseed,
+aswe(ReddyKN et al.,unpublished)havealsofound.Manystudies
+over decades have found no signiﬁcant acute or chronic toxico-
+logical eﬀects of glyphosate on mammals at realistic potential
+exposure doses,14-17 although there has been controversy based
+on in vitro studies and/or environmentally irrelevant high in vivo
+dosages, especially in Europe. The recent US National Academy
+of Science report on genetically engineered crops came to these
+conclusions:“..thelargenumberofexperimentalstudiesprovided
+reasonableevidencethatanimalswerenotharmedbyeatingfood
+derived from GE crops. …livestock health before and after intro-
+duction of GE crops showed no adverse eﬀects associated with
+GE crops. The committee also examined epidemiological data on
+incidence of cancer and other human health problems over time
+andfoundnosubstantialevidencethatfoodsfromGEcropswere
+less safe…”.39 Recent analyses of potential acute and chronic
+adverse health impacts of glyphosate16,17,43–45 corroborate the
+many past studies that found no signiﬁcant toxicological prob-
+lemswithglyphosate.14,15 Arecentstudyinwhichglyphosateuse
+byfarmerswasanalyzedinamultivariateregressionanalysiswith
+35 health indicators found no eﬀects, whereas changes in blood
+chemistry parameters that suggested possible adverse eﬀects
+on renal function levels of serum folic acid correlated with use of
+other herbicides .46 The authors concluded that changing from
+conventionalcropstoGRCswouldlikelybeneﬁtfarmerhealth.
+A recent analysis of the impact of glyphosate use in GR maize,
+cotton and soybean on the acute and chronic hazard quotients
+attributabletoherbicidesforthesecropsintheUSAindicatedthat
+herbicides other than glyphosate account for most of the hazard
+quotients from herbicide use in these crops.47 In maize, acute
+toxicitydecreaseddramaticallyaftertheintroductionofGRmaize,
+while the chronic hazard quotient increased slightly, but 88% of
+themaizechronichazardquotientwasattributabletoatrazineand
+mesotrione use. In cotton, the acute toxicity hazard was reduced
+dramatically after the introduction of GR cotton; however, the
+chronic herbicide hazard quotient went up, almost entirely as a
+consequenceofdiuronuse.AftermaximumadoptionofGRcotton,
+glyphosateaccountedforonly0.2%ofthechronichazardquotient
+associatedwithherbicideuse.Chronicandacuteherbicidehazard
+quotientsassociatedwithherbicideusedecreasedby78and68%,
+respectively, between 1990 and 2015, during which US farmers
+switched from use of many herbicides to mostly glyphosate use,
+augmentedwithonlyafewotherherbicides.30,31,47
+Toxicologicalissueswithglyphosatemightbecontroversial,but
+an unequivocal major problem with glyphosate use is that of
+evolved herbicide resistance, a decades-long agricultural chal-
+lenge associated with many other important herbicides that is
+foundinbothconventionalcropsandHRCs.
+5 DARWINIANREALITYSPOILSAGOOD
+THING
+The most unequivocal problem for glyphosate and GRC use has
+been the burgeoning evolution of resistance to glyphosate in
+weeds,asaresultofthemassiveselectionpressurecreatedbycon-
+stantandwidespreaduseofthishighlysuccessfultechnology.As
+ofmid2017,37weedspecieswerereportedtohaveevolvedresis-
+tance to glyphosate, and new GR species are being reported at a
+currentrateofmorethantwonewspeciesperyear.48 Muchofthis
+increaseinGRweedshasbeeninGRCs,wherefarmershavealmost
+exclusively used glyphosate year after year.49 However, continu-
+ous use in non-GRC settings (e.g. orchards) accounts for a signif-
+icant fraction of evolved GR weed species. Some weed scientists
+predicted what has happened, but even if farmers believed such
+predictions, the unprecedented ease, economy, and eﬃcacy of
+thisrevolutionarytechnologymadetheprecautionaryuseofmore
+diversiﬁedweedmanagementunacceptabletothem.Themindset
+was to adapt if glyphosate resistance comes. Bonny31 provides a
+detailedanalysisofhowweedscientists,farmers,andagribusiness
+havecopedwithGRweeds.Asglyphosateresistancehasbecome
+Pest Manag Sci 2018;74:1027–1034 Published2017.ThisarticleisaU.S.Governmentwork wileyonlinelibrary.com/journal/ps
+andisinthepublicdomainintheUSA.
+1032
+www.soci.org SODuke
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Estimated use in million pounds
+Other crops
+Pasture and hay
+Alfalfa
+Orchards and grapes
+Rice
+Vegetables and fruit
+Cotton
+Wheat
+Soybeans
+Corn
+0
+1
+2
+3
+4
+5
+6
+7
+Figure6.YearlyuseofglufosinateintheUSAbycrop.2
+morewidespread,adoptionofweedresistancemanagementprac-
+ticesisbecomingmorecommon,50 butthesepracticesarestilltoo
+infrequentlyusedintheabsenceofGRweeds.
+Some of the GR weeds (particularly, Lolium spp., Amaranthus
+spp., and Conyza spp.) have caused severe problems that have
+lowered weed management eﬃcacy and signiﬁcantly increased
+thecostofweedmanagement.50 FarmerswithGRweedproblems
+have reinstituted tillage regimes and the use of additional herbi-
+cidesthatcontrolGRweeds.Forexample,asseeninFig.5,theuse
+of aciﬂuorfen in soybeans, which had plummeted with the adop-
+tion of GR soybeans, began a slow rise in 2013 for this crop. Thus,
+evolutionofGRweedsiserodingwhateverenvironmentalandtox-
+icologicalbeneﬁtshavebeenclaimedtohaveaccruedfromadop-
+tionofGRC/glyphosatetechnology.51
+6 UNEXPECTEDPHENOMENAOF
+GLYPHOSATE
+Two very real, but usually subtle, phenomena have been found
+with glyphosate over the years. The ﬁrst is that, although the
+preponderance of evidence indicates that glyphosate does not
+promote disease in GRCs,35,36 glyphosate can act as a fungicide
+withsomeplantpathogensinGRCs.52,53 Patentshavebeenissued
+for use of glyphosate to control crop pathogens, but this use
+is not on the glyphosate label. This phenomenon has not been
+studied in detail, and the eﬀect is not likely to be recognized in
+the ﬁeld, as the eﬀect is unlikely to be as clear as the eﬀects of
+a commercial fungicide. This understudied eﬀect would only be
+seenwhenthetimingofglyphosateapplicationandtheexposure
+to a glyphosate-sensitive pathogen are synchronized for getting
+adequateamountsofglyphosatetothepathogenforasigniﬁcant
+eﬀect.Consideringtheenormoususeofglyphosateovervastareas
+ofHRCs,theunknownbeneﬁtsofsucheﬀectscouldbesubstantial.
+The second unexpected phenomenon is stimulation of
+glyphosate-sensitive plant growth at ultra low doses, a phe-
+nomenon known as hormesis.54 Herbicide hormesis is not
+exclusive to glyphosate, but it appears to be more pronounced
+and repeatable with glyphosate than with other herbicides.54.
+Brito et al.55 review this topic in this issue of Pest Management
+Science. We do not know the impact of glyphosate hormesis in
+the ﬁeld, but it may be implicated in evolution of GR weeds.55,56
+In contrast, it could sometimes enhance the growth and/or yield
+of GRCs if the application rates used for weed management are
+in the hormetic dose range. To my knowledge, this has not been
+looked for in carefully designed experiments, but occasionally
+there is some evidence that this occurs. For example, Williams
+et al.40 found that a recommended rate of glyphosate increased
+GR sweetcorn ear number and kernel mass, independently of
+weedcontrolbeneﬁts.
+7 THEUNCERTAINFUTUREOFGLYPHOSATE
+Evolution of GR weeds is likely to be the biggest hindrance to
+the use of glyphosate in the near future. One could say that the
+incrediblesuccessofglyphosatewithandwithoutGRCshasbeen
+thesourceofitspotentialdecline,justasthesuccessandoveruse
+ofantibioticshavejeopardizedtheiruse.Still,evenwithGRweeds
+becoming a costly problem in GRCs, farmers continue to use
+glyphosateinGRCsbecausethemajorityofweedspeciesinthese
+cropsarestillsusceptible,andglyphosateistheherbicideofchoice
+formostoftheseweeds.Theadoptionratecontinuestobe >90%
+in cotton, maize and soybean in the USA, even after GR weeds
+became a major problem in GRCs (Fig.4). Glufosinate-resistant
+crops have been available since 1995, but the glufosinate use
+rate in major crops has been relatively low since then, although
+there has been an upward trend in glufosinate use in cotton and
+soybeans, in large part as a result of the availability of HRCs with
+both glyphosate and glufosinate resistance (Fig.6). A short-term
+solution to the GR weed problem will be HRCs made resistant to
+old herbicides to which resistance can evolve more easily than
+to glyphosate.8,51 There seems to be no desire to commercialize
+GR wheat or rice, the two major crops that are still not GR,
+nor is there evidence for introduction of other GR crops in the
+USA in the near future, although GR creeping bentgrass (Agrostis
+wileyonlinelibrary.com/journal/ps Published2017.ThisarticleisaU.S.Governmentwork Pest Manag Sci 2018;74:1027–1034
+andisinthepublicdomainintheUSA.
+1033
+Historyandcurrentstatusofglyphosate www.soci.org
+stolonifera) was recently approved by the USDA for landscape
+and turf use. In Brazil, a very small amount (ca.40ha)ofGR
+eucalyptus is being grown, and GR sugarcane may be introduced
+eventually, but these additions will not have a signiﬁcant impact
+ontheuseofglyphosateworldwide.Intheshortterm,glyphosate
+will continue to be the most used herbicide. Unabated increases
+in GR weed species and the spread of existing GR species are
+likely to eventually reduce glyphosate use. Discovery of a new
+broad-spectrum herbicide with a new mode of action that is as
+eﬀective as glyphosate, along with concomitant introduction of
+complimentary HRCs, would probably greatly reduce glyphosate
+use. If such a highly valuable product were to be introduced, I
+hopethatthelessonslearnedfromthelossofutilityofglyphosate
+by its overuse would cause the agricultural community to adopt
+integrated weed management practices that would prevent or
+slowtheevolutionofwidespreadresistance.
+ACKNOWLEDGEMENTS
+I thank Dr Nancy Baker of the US Geological Survey for her
+assistancewithFigs1,2,5and6.
+REFERENCES
+1 Duke SO and Powles SB, Glyphosate: A once-in-a-century herbicide.
+Pest Manag Sci 64:319-325(2008).
+2 United States Geological Survey, National Water-Quality Assessment
+Program, Pesticide National Synthesis Project. [Online]. Available:
+https://water.usgs.gov/nawqa/pnsp/usage/maps/show_map.php?
+year=1994&map=GLYPHOSATE&hilo=L[9October2016].
+3 JamesC, Global Status of Commercialized Biotech/GM Crops: 2016.ISAAA
+Brief52,ISBN:978-1-892456-66-4(2016).
+4 Brookes G and Barfoot P, Economic impact of GM crops: The global
+incomeandproductioneﬀects1996-2012. GM Crops Food Biotechnol
+Agric Food Chain 5:1,1-11(2014).
+5 Gusta M, Smyth SJ, Belcher K and Phillips PWB, Economic beneﬁts of
+genetically-modiﬁedherbicide-tolerantcanolaforproducers. AgBio-
+Forum 14:1-13(2011).
+6 KlümperWandQaimM,Ameta-analysisoftheimpactsofgenetically
+modiﬁedcrops. PLoS ONE 9:e111619(2014).
+7 Duke SO, Taking stock of herbicide-resistant crops ten years after
+introduction. Pest Manag Sci 61:211-218(2005).
+8 Duke SO, Perspectives on transgenic, herbicide-resistant crops in the
+USA almost 20 years after introduction. Pest Manag Sci 71:652-657
+(2015).
+9 Gerwick BC, Thirty years of herbicide discovery: Surveying the past and
+contemplating the future. Agrow (SilverJubileeEdition):VII-IX(2010).
+10 Duke SO, Why have no new herbicide modes of action appeared in
+recentyears? Pest Manag Sci 68:505-512(2012).
+11 Calderbank A and Slade P, Diquat and paraquat. in Herbicides: Chem-
+istry, Degradation, and Mode of Action, Vol. 2, ed. by Kearney PC and
+Kaufman DD. Marcel Dekker, Inc, New York, NY, Ch. 1, pp. 501-540
+(1976).
+12 Duke SO, Glyphosate, in Herbicides: Chemistry, Degradation, and Mode
+of Action, Vol. 3,ed.byKearneyPCandKaufmanDD.MarcelDekker,
+Inc,NewYork,NY,Ch.1,pp.1-70(1988).
+13 Summers LA, The Bipyridinium Herbicides,AcademicPress,London,
+449pp.(1980).
+14 Geisy JP, Dobson S and Solomon KR, Ecological risk assessment for
+Roundup® herbicide. Rev Environ Contam Toxicol 167:35-120(2000).
+15 Williams GM, Kroes R and Munro IC, Safety evaluation and risk
+assessment of the herbicide Roundup and its active ingredient,
+glyphosate,forhumans. Regul Toxicol Pharmacol 32:117-16(2000).
+16 Williams GM, Aardema M, Acquavella J, Berry C, Brusick D, Burns MM
+et al., A review of the carcinogenic potential of glyphosate by four
+independentexpertpanelsandcomparisontotheIARCassessment.
+Crit Rev Toxicol 46(S1):3-20(2016).
+17 Brusick D, Aardema M, Kier L and Williams GM, Genotoxicity
+expert panel review: weight of evidence evaluation of the
+genotoxicity of glyphosate, glyphosate-based formulations, and
+aminomethylphosphinicacid. Crit Rev Toxicol 46(S1):56-74(2016).
+18 Barrentine WL, Snipes CE and Baker RS, Herbicide application tech-
+nology, in Weeds of Cotton: Characterization and Control,ed.by
+McWhorterDGandAbernathyJR.CottonFoundation,Memphis,TN,
+USA,pp.439-514(1992).
+19 DertingCW,Wiperapplication,in Methods of Applying Herbicides,ed.by
+McWhorterCandGebhardtMR.WeedSci.Soc.Amer.Champaign,IL,
+USA,pp.207-229(1987).
+20 DukeSO,Biotechnology:Herbicideresistance.Chap.218.In Encyclope-
+dia of Agriculture and Food Systems, 2nd Edition, ed. by N Van Alfen.
+Elsevier,pp.94–116(2014).
+21 Duke SO and Powles SB, Glyphosate-resistant crops and weeds: Now
+andinthefuture. AgBioForum 12:346-357(2009).
+22 Carrer H, Barbosa AL and Ramiro DA, Biotechnology in agriculture.
+Estudos Avançados 24:149-163(2010).
+23 Oeschger T, Schweikhardt D and Thornsbury S, Regulation of
+glyphosate-resistant sugar beets: Challenges and uncertainty.
+Choices 26(3):6pp(2011).
+24 Bartlett RK, Weed management in Genuity® Roundup Ready® sug-
+arbeet (2011). Proc. Amer. Soc. Sugarbeet Technologists.[Online].
+Available: http://assbt-proceedings.org/ASSBT2011Proceedings/
+secAAgronomy.htm[6December2016].
+25 Green JM, The beneﬁts of herbicide-resistant crops. Pest Manag Sci
+68:1323-1331(2012).
+26 Gianessi LP, Economic impacts of glyphosate-resistant crops. Pest
+Manag Sci 64:346-352(2008).
+27 Cerdeira AL and Duke SO, The current status and environmental
+impacts of glyphosate-resistant crops: A review. J Environ Qual
+35:1633-1658(2006).
+28 Brookes G and Barfoot P, Global impact of biotech crops:
+Socio-economic and environmental eﬀects of the ﬁrst ten years of
+commercialuse. AgBioForum 9:139–151(2006).
+29 BarfootPandBrookesG,Keyglobalenvironmentalimpactsofgeneti-
+callymodiﬁed(GM)cropuse1996-2012. GM Crops 5:2,1-12(2014).
+30 Bonny S, Herbicide-tolerant transgenic soybean over 15 years of cul-
+tivation:Pesticideuse,weedresistance,andsomeeconomicissues.
+ThecaseoftheUSA. Sustainability 3:1301-1322(2011).
+31 Bonny S, Genetically modiﬁed herbicide-tolerant crops, weeds, and
+herbicides:Overviewandimpact. Envron Manag 57:31-48(2016).
+32 HeapI,Globalperspectiveofherbicide-resistantweeds. Pest Manag Sci
+70:1306-1315 (2014).
+33 Bradshaw LD, Padgette SR, Kimball SL and Wells BH, Perspectives on
+glyphosateresistance. Weed Technol 11:189-198(1997).
+34 Duke SO, Rimando AM, Reddy KN, Cizdziel JV, Bellaloui N, Shaw DR
+et al.,Lackoftransgeneandglyphosateeﬀectsonyieldandmineral
+nutrition and amino acid content of glyphosate-resistant soybean.
+Pest Manag Sci http://doi.org/10.1002/ps.4625(2017).
+35 Hammerschmidt R, How glyphosate aﬀects plant disease develop-
+ment: It is more than enhanced susceptibility. Pest Manag Sci
+http://doi.org/10.1002/ps.4521(2017).
+36 Duke SO, Lydon J, Koskinen WC, Moorman TB, Chaney RL and Ham-
+merschmidt R, Glyphosate eﬀects on plant mineral nutrition, crop
+rhizosphere, microbiota, and plant disease in glyphosate-resistant
+crops. J Agric Food Chem 60:10375-10397(2012).
+37 Pline WA, Viator R, Wilcut JW, Edmisten KL, Thomas J and Wells R,
+Reproductive abnormalities in glyphosate-resistant cotton caused
+by lower CP4-EPSPS levels in male reproductive tissue. Weed Sci
+50:438-447(2002).
+38 ReddyKN,DukeSOandRimando,AM,Aminomethylphosphonicacid,
+a metabolite of glyphosate, causes injury in glyphosate-treated,
+glyphosate-resistant soybean. J Agric Food Chem 52:5139-5143
+(2004).
+39 Gould F, Amasino RM, Brossard D, Buell CR, Dixon RA, Falck-Zepeda
+JB et al., Genetically Engineered Crops: Experiences and Prospects.
+National Academies of Sciences, Natl Acad Press, Washington, DC,
+388pp,(2016).
+40 Williams MM, Bradley CA, Duke SO, Maul JE and Reddy KN. Goss’s
+wiltincidenceinsweetcornisindependentoftransgenictraitsand
+glyphosate. HortScience 50:1791-1794(2015).
+41 Duke SO, Rimando AM, Pace PF, Reddy KN and Smeda RJ, Isoﬂavone,
+glyphosate, and aminomethylphosphonic acid levels in seeds of
+glyphosate-treated, glyphosate-resistant soybean. J Agric Food
+Chem 51:340-344(2003).
+42 United States Depeartement of Agriculture Pesticide Data Pro-
+gram. [Online]. Available: https://www.ams.usda.gov/datasets/pdp
+[4June2017].
+Pest Manag Sci 2018;74:1027–1034 Published2017.ThisarticleisaU.S.Governmentwork wileyonlinelibrary.com/journal/ps
+andisinthepublicdomainintheUSA.
+1034
+www.soci.org SODuke
+43 Acquavella J, Garabrant D, Marsh G, Sorahan T and Weed DL,
+Glyphosate epidemiology expert panel review: a weight of evi-
+dence systematic review of the relationship between glyphosate
+exposure and non-Hodgkin’s lymphoma or multiple myeloma. Crit
+Rev Toxicol 46(S1):28-43(2016).
+44 MinkPJ,MandelJS,LundinJIandSceumanBK,Epidemiologicalstudies
+of glyphosate and non-cancer health outcomes: A review. Regul
+Toxicol Pharmacol 61:171-184(2011).
+45 WilliamsAL,WatsonREandDeSessoJM,Developmentalandreproduc-
+tiveoutcomesinhumansandanimalsafterglyphosateexposure:A
+criticalanalysis. J Toxicol Envron Heath 15B:39-96(2012).
+46 Zhang C, Hu R, Huang J, Huang X, Shi G, Li Y et al.,Healtheﬀectof
+agriculturalpesticideuseinChina:implicationsforthedevelopment
+ofGMcrops. Sci Rep 6:34918(2016).
+47 KnissAR,Long-termtrendsintheintensityandrelativetoxicityofher-
+bicide use. Nature Commun https://doi.org/101037/ncomms14865
+(2017).
+48 Heap I, International Survey of Herbicide Resistant Weeds. [Online].
+Internet.Tuesday,June6,2017.Available:http://www.weedscience
+.org[9May2017].
+49 DukeSOandHeapI,Evolutionofweedresistancetoherbicides.What
+havewelearnedafter70years?In Biology, Physiology and Molecular
+Biology of Weeds, ed. by Jugulam M, CRC Press, Boca Raton, FL,
+pp.63–86(2017).
+50 Livingston M, Fernandez-Cornejo J, Unger J, Osteen C, Schim-
+melpﬁnnig D, Park T et al., The economics of glyphosate resistance
+managementincornandsoybeanproduction.USDA-ERS,ERR-184,
+Washington,DC,54pp(2015).
+51 Green JM, The rise and future of glyphosate and glyphosate-resistant
+crops. Pest Manag Sci http://doi.org/10.1002/ps.4462(2017).
+52 FengPCC,BaleyGJ,ClintonWP,BunkersGJ,AlibhaiMF,PaulitzTC et al.,
+Glyphosateinhibitsrustdiseasesinglyphosate-resistantwheatand
+soybean. Proc Natl Acad Sci USA,102:17290-17295(2005).
+53 Samac DA and Foster-Hartnett D, Eﬀect of glyphosate application on
+foliardiseasesinglyphosate-resistantalfalfa. Plant Dis 96:1104-1110.
+54 Belz RG and Duke SO, Herbicides and plant hormesis. Pest Manag Sci
+70:698-707(2014).
+55 Brito IPFS, Tropaldi L, Carbonari CA and Velini ED, Hormetic eﬀects
+of glyphosate on plants. Pest Manag Sci http://doi.org/10.1002/
+ps.4523(2017).
+56 Belz RG and Sinkkonen A, Selective toxin eﬀects on faster and slower
+growingindividualsintheformationofhormesisatthepopulation
+levels – A case study with Lactuca sativa and PCIB. Sci Total Environ
+566-567:1205-1214(2016).
+wileyonlinelibrary.com/journal/ps Published2017.ThisarticleisaU.S.Governmentwork Pest Manag Sci 2018;74:1027–1034
+andisinthepublicdomainintheUSA.

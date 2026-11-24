@@ -1,0 +1,322 @@
+=== Fuente: 7_Dos_parametros.pdf ===
+
+ 1 
+Pruebas de Hipótesis: Dos Poblaciones 
+ 
+• Prueba de Hipótesis sobre dos Varianzas.  
+1. Se definen las hipótesis H 0 y H 1 (unilaterales o bilaterales) 
+a) H o:   2 1σ  = 2 2σ      H1: 2 1σ  ≠ 2 2σ     (bilateral) 
+b) H o:   2 1σ  = 2 2σ      H1: 2 1σ  >  2 2σ     (unilateral derecha) 
+c) H o:   2 1σ  = 2 2σ      H1: 2 1σ  <  2 2σ     (unilateral izquierda) 
+ 
+2. Se define el nivel de significación  α = αo 
+3. Explicitación de los supuestos y elección del estadístico cuya distribución muestral es 
+conocida: 
+- Muestras aleatorias de poblaciones independientes 
+- Poblaciones normales  
+)1,1(2
+2
+2
+1
+212
+1
+2
+2
+−−∼= σ σ nnFS SF  
+4. Se determina la Región Crítica (RC) 
+ a) RC = { F:  | F| > F1-α/2 }, donde F1-α/2 es el cuantil 1-α/2 de la F(n 1 –1, n 2 -1) 
+ b) RC = { F:   F > F1-α}  donde F1-α es el cuantil 1-α de la F(n 1 –1, n 2 -1) 
+ c) RC = { F:   F < Fα  }  donde Fα es el cuantil α de la F(n 1 –1, n 2 -1) 
+5. Se calcula el estadístico F. 
+6. Se verifica si F cae en la RC o fuera de ella y se concluye acorde. 
+ 
+Ejemplo : Un Ingeniero Químico está investigando la variabilidad de dos tipos de equipos de 
+medición que se usan para controlar la salida de un proceso de producción. Le interesa saber si 
+el equipo 1, el más antiguo,  tiene varianza mayor. Toma dos muestras aleatorias de tamaño    
+n1 = 12 y n 2 = 10, siendo las varianzas muestrales: 2 1S = 14,5 y 2 2S  = 10,8. ¿Con un nivel de 
+significación del 5% qué se puede concluir?. 
+Respuesta : 
+1. H o:   2 1σ  = 2 2σ      H1: 2 1σ  >  2 2σ     
+2. α = 0,05 
+3. Supuestos: 
+ 1.- Se extrajo una muestra aleatoria. 
+ 2.- La variable medida no se aparta de la normalidad. 
+ 2 
+4.  El estadístico es F. 
+     F(11; 9; 0,95) = 3,10 
+5. F = 14,5 / 10,8 = 1,34   
+6. No se Rechaza H 0 , al 5%. Los dos equipos tienen igual variabilidad. 
+ 
+ 
+• Prueba de Hipótesis sobre dos Medias.  
+El objetivo es obtener pruebas de hipótesis relativas a las medias de dos poblaciones. La 
+hipótesis nula que se plantea en estas pruebas es:  H o:  μ1 = μ2  que puede también expresarse 
+como H o:  μ1 - μ2 = 0.  
+Entonces necesitamos conocer la distribución de 21 XX −  para dos poblaciones normales. 
+1.- La media poblacional de la diferencia de medias muestrales es la diferencia entre las 
+medias de ambas poblaciones: 
+          =− )( 21 XXE 2121 )()( μ−μ=− XEXE  
+ 2.- La varianza de la diferencia entre dos medias muestrales,  extraídas de muestras 
+independientes, es la suma de las varianzas de ambas medias muestrales: 
+ 
+2
+2
+21
+2
+12121 //)()()( nnXVarXVarXXVar σ+σ=+=−  
+ 
+ 3.- La distribución de las diferencias de medias muestrales se aproxima a la distribución 
+normal, cuando los tamaños de muestras n1 y n2 crecen. 
+ 
+ 4.- Si las poblaciones de las que se extraen las muestras son normales, las diferencias 
+tienen una distribución normal exacta, cualquiera sea el tamaño de las muestras. 
+ 
+ Resumiendo:  Si   1X  ~  N ( 1 2 11 /; nσμ )   y   2X  ~  N ( 2 2 22 /; nσμ ) 
+ 
+=>  21 XX −  ~  N (  2 2 21 2 121 //; nn σ+σμ−μ )      y 
+ 
+)1;0(~
+//
+)(
+2
+2
+21
+2
+1
+2121 N
+nn
+XX
+σ+σ
+μ−μ−−
+ 
+     
+                         
+Si las varianzas poblacionales son conocidas, es decir, se conocen los valores de 2 1σ  y 2 2σ  el 
+estadístico a emplear es: 
+ 3 
+)1;0(~
+//
+)(
+2
+2
+21
+2
+1
+2121 N
+nn
+XXZ
+σ+σ
+μ−μ−−=  
+Si las varianzas poblacionales son desconocidas  es decir, no se conocen los valores de 2 1σ  y 
+2
+2σ  , sino que hay estimarlos a partir de los datos de las muestras se utiliza el estadístico t. Hay  
+dos versiones del estadístico t, dependiendo de que las varianzas poblacionales son iguales o 
+no, lo que se corrobora a través de una prueba F.  
+ 
+Caso I : 2 1σ  = 2 2σ  
+ 
+211
+2121
+21
+21
+~)( −+
++
+μ−μ−−= nn
+nna
+t
+S
+XXt  
+ 
+donde   Sa  es el desvío estándar amalgamado, o sea, la raíz cuadrada de la varianza 
+amalgamada 2 aS .  Es decir, si no se ha rechazado la hipótesis de igualdad de  2 1σ  y 2 2σ , 
+podemos combinar la información de ambas muestras para obtener un estimador de  σ² = 2 1σ = 
+2
+2σ  
+ El estimador de  σ² es 2 )1()1( 21 2 22 2 112 −+ −+−= nn SnSnS a . Se llama estimador amalgamado de 
+la varianza . Da mayor ponderación al estimador más seguro y se usa para poblaciones que 
+tienen igual varianza pero distinta media. Si n1 = n2 = n , es el promedio simple de las varianzas. 
+ 
+ )1()1( )1()1( 1 22 112 −++− −++−= t tt a nn SnSnS L L  es el estimador para t poblaciones. 
+ 
+ 
+Caso II :  2 1σ  ≠ 2 2σ  
+Se calcula un test t’  aproximado cuando las varianzas no son homogéneas (problema de 
+Behrens-Fisher), y se utiliza la aproximación de Satterthwaite's (1946) para calcular los grados 
+de libertad:   
+λ
++
+μ−μ−−= t
+n
+S
+n
+S
+XXt ~)('
+2
+2
+2
+1
+2
+1
+2121
+ 
+ 
+ 4 
+Entonces, para dos poblaciones con distribución normal y varianzas distintas, t’  sigue 
+aproximadamente una distribución t de Student con λ grados de libertad, los que se calculan a 
+partir de la siguiente fórmula: 
+11 2
+2
+2
+2
+2
+1
+2
+1
+2
+1
+2
+2
+2
+2
+1
+2
+1
+−
+      +−      
+      + =λ
+n
+n
+S
+n
+n
+S
+n
+S
+n
+S
+ 
+ 
+Si el valor de λ no es entero, se redondea al entero mayor más próximo. 
+ 
+Es aconsejable que al conducir una experiencia se haga lo posible por tener el mismo número 
+de repeticiones. Las ventajas son: 
+1.- Atenuar el efecto indeseable de heterogeneidad de varianzas. 
+2.- La varianza de la diferencia entre medias muestrales es mínima.  
+Esto significa que la probabilidad de cometer el Error de Tipo II es menor para n1 = n2, cuando 
+el número total de observaciones y el α permanecen constantes. 
+ 
+Esquema para las pruebas de hipótesis para diferencia de medias . 
+1.- Se definen las hipótesis: 
+ 1.- H o: µ 1 = µ 2     H 1: µ 1 ≠ µ 2  
+ 2.- H o: µ 1 ≤ µ 2     H 1: µ 1 > µ 2 
+   3.- H o: µ 1 ≥ µ 2     H 1: µ 1 < µ 2 
+2.- Supuestos: 
+- Cada muestra se extrae en forma aleatoria de una población normal. 
+- Ambas muestras son independientes entre sí. 
+- Si se puede asumir varianzas homogéneas se acude a una prueba exacta, sino a una 
+aproximada. 
+3.- Se define el nivel de significación. 
+4.- Se determina la RC, que depende de las hipótesis y de la prueba.  
+5.- Se calcula el estadístico adecuado a la prueba elegida. 
+6. Se verifica si el estadístico cae en la RC o fuera de ella y se concluye en forma acorde. 
+ 
+Ejemplo : A 40 novillos AA elegidos al azar de un rodeo con igual historia previa, peso y época 
+de parición, se los dividió en dos grupos de 20 animales cada uno. A los novillos del Grupo 1 se 
+los suplementó con 1,0 kg maíz/animal/día y a los del Grupo 2, con 1,5 kg maíz/animal/día. Las 
+ 5 
+ganancias de peso promedio de ambos grupos después de 45 días de ensayo fueron: 1X = 40,5 
+kg/animal y 2X = 63,0 kg/animal con: 2 1S = 96,04 (kg/animal) 2 y 2 2S  = 148,6 (kg/animal) 2. ¿ 
+Puede afirmarse que la suplementación con 1,5 kg maíz/animal/día produce ganancias de peso 
+significativamente mayores que el Grupo 1, con un nivel de significación del 1% ? 
+Respuesta : 
+1. 3.- H o: µ 1 ≥ µ 2     H 1: µ1 < µ 2 
+2. α = 0,01 
+3. Supuestos: 
+ 1.- Se extrajeron dos muestras aleatorias de dos poblaciones normales. 
+ 2.- Por lo anterior, ambas muestras son independientes entre sí. 
+ 3.- Se ignora si hay homogeneidad de varianzas, en consecuencia se efectuará la 
+prueba Ho: 2 1σ  = 2 2σ    vs.  H 1: 2 1σ  ≠ 2 2σ    con un nivel de significación α0 = 0,01. 
+  F (19; 19; 0,995) = 3,43   y   F (19; 19; 0,005) = 0,29 
+F = 96,04 / 148,6 = 1,34   
+  No se Rechaza H 0 , al 1%. Las dos poblaciones tienen igual variabilidad. 
+4.  El estadístico es t n1 + n2 –2 . 
+     t(38; 0,01) = -2,43 
+5.   Como n1 = n2  ;   2 aS  =  ( 96,04 + 148,6 ) /2 = 122,32     ;   Sa  = 11,0598 
+t = (40,5 – 63,0) / ( 11,0598  20 2  ) = -6,4332   
+6. Se Rechaza H 0 , al 1%. La suplementación con 1,5 kg maíz/animal/día produce ganancias de 
+peso significativamente mayores, al 1%, que con 1,0 kg maíz/animal/día. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 6 
+• Diferencias Apareadas.  
+• Se emplea para mejorar la precisión de algunos experimentos. 
+ 
+ 
+ 
+• Se emplea cuando determinadas fuentes de variación no controladas encubren las 
+diferencias de las poblaciones a medir no permitiendo detectarlas. 
+• Se toman las observaciones de a pares, donde los dos miembros del par son similares 
+entre si, salvo en el aspecto que tratamos de medir. 
+• Al aparear observaciones similares se reduce el error experimental, produciendo 
+pruebas más potentes. 
+• Los distintos pares deben ser heterogéneos entre si, caso contrario se pierden grados 
+de libertad en la prueba (se pierde precisión).  
+• No es necesario suponer que las varianzas de las poblaciones son homogéneas.  
+• Para cada par ( xi, y i ) de una muestra de tamaño n, crea una nueva variable di = xi - y i, 
+se obtienen la media y la varianza muestral d  y S 2 d. 
+1. Se definen las hipótesis H 0 y H 1 (unilaterales o bilaterales) 
+a) H o:   μd = 0  H1:   μd ≠ 0 (bilateral) 
+b) H o:   μd = 0  H1:   μd > 0 (unilateral derecha) 
+c) H o:   μd = 0  H1:   μd < 0 (unilateral izquierda) 
+2. Se define el nivel de significación  α = αo 
+3. Explicitación de los supuestos y elección del estadístico cuya distribución muestral es 
+conocida: 
+- Muestras aleatorias independientes de las poblaciones 
+- Poblaciones normales 
+Población de Unidades Heterogéneas Bloques Homogéneos  
+ 
+ 7 
+1
+*
+−∼= n
+d
+tS dnt  
+4. Se determina la Región Crítica (RC) 
+ a) RC = { t:  | t| > t1-α/2 } donde t1-α/2  es el cuantil 1-α/2 de la  t n - 1 
+ b) RC = { t:   t > t1-α} donde t1-α  es el cuantil 1-α de la  t n - 1 
+ c) RC = { t:   t < tα  } donde tα  es el cuantil α de la  t n - 1 
+5. Se calcula el estadístico t. 
+6. Se verifica si t cae en la RC o fuera de ella y se concluye acorde. 
+ 
+Ejemplo : Se conduce un experimento para determinar el efecto de la fertilización con N en la 
+producción de remolacha. Un campo se divide en 10 bloques de igual tamaño en base a 
+diferentes niveles de fertilidad. Cada bloque se divide en dos parcelas iguales. Se selecciona en 
+forma aleatoria una parcela de cada bloque y se le aplica el N, la otra se usa como control. 
+Interesa saber con un nivel significación del 5% si el N incrementa la producción de remolacha. 
+ 
+Bloque N C Bloque N C 
+1 170,5 140,4 6 201,2 185,0 
+2 207,4 174,7 7 209,9 118,9 
+3 215,9 170,2 8 213,3 169,8 
+4 209,0 174,6 9 184,1 174,7 
+5 171,6 154,5 10 220,4 176,7 
+ 
+Respuesta : 
+1. H o:   μd = 0  H1:   μd > 0  
+2. α = 0,05 
+3. Supuestos: Asignación aleatoria de los tratamientos a las unidades experimentales en los 
+pares (bloques) y aditividad entre tratamientos y bloques. 
+4.  El estadístico es t. 
+     t ( 9; 0,95) = 1,83 
+5.  n Sd   = 7,2558    ;              t = 36,38 / 7,2558 = 5,0138 
+6. Se Rechaza H 0, al 5%. Puede afirmarse, con un nivel significación del 5%, que el N 
+incrementa la producción de remolacha. 

@@ -1,0 +1,906 @@
+=== Fuente: Las_30_preguntas.pdf ===
+
+
+www.mexder.com / www.asigna.com.mxLas 30 preguntas más frecuentes sobre Opciones 1
+Índice 1
+PRÓLOGO
+CONCEPTOS BÁSICOS
+1) ¿Qué es una Opción?
+2) ¿Qué es una Opción Call? 
+3) ¿El comprador de una Opción Call sobre una acción tiene derecho     
+ a los dividendos de esa acción? 
+4) ¿Qué es una Opción Put?
+5) ¿Qué es el Precio de Ejercicio? 
+6) ¿Qué es la prima de una Opción? 
+7) ¿Cómo se calcula la prima de una Opción? 
+8) ¿Una vez que he comprado o vendido una Opción mediante el  
+   pago o cobro de una prima, se puede negociar o hay que esperar a  
+ su vencimiento? 
+9) ¿Cómo me favorece la compra o venta de Opciones Call si el activo  
+ sube o baja de precio? 
+10) ¿Cómo me favorece la compra o venta de Opciones Put si el  activo     
+sube o baja de precio?
+11) ¿Por qué invertir en Opciones? 
+12) ¿Quién puede comprar o vender una Opción y quién es mi   
+ contraparte? 
+13) ¿Cómo comprar o vender Opciones? 
+14) ¿Si  compro o vendo una Opción y me "sale bien", es decir gano  
+ dinero, significa que a la contraparte que vendió o compró le  
+ "salió mal", es decir, pierde dinero?
+15) ¿Qué son las Opciones de estilo " europeo" y las Opciones de estilo  
+ "americano"?
+2
+34
+4
+4
+4
+4
+5
+5
+6
+6
+7
+8
+8
+9
+10
+10
+10
+3
+www.mexder.com / www.asigna.com.mx Las 30 preguntas más frecuentes sobre Opciones2
+1 Índice
+4
+11
+11
+12
+12
+13
+14
+12
+13
+14
+11 CARACTERÍSTICAS DE LAS OPCIONES NEGOCIADAS EN MexDer
+ 
+16)     ¿Cuál es el tamaño del contrato de las Opciones? 
+17 )   ¿Qué es una Opción "in the money" (ITM), "at the money" (ATM) y  
+ "out of the money" (OTM)? 
+18) ¿Cuál es el calendario de negociación de MexDer y cuál es la fecha  
+ de vencimiento de las Opciones?
+19) ¿Cuál es el último día de negociación de las Opciones sobre   
+ acciones y sobre el Futuro de la IPC?
+20) ¿Cómo se asegura MexDer de que el vendedor de la Opción  
+ Call o Put cumpla con su obligación en el caso de que se ejerza  
+ por parte del comprador el derecho a comprar (Call) o el derecho a  
+ vender (Put)?
+21) ¿Cuál es el importe de las Aportaciones?
+22) ¿Con qué activos se pueden constituir Aportaciones Iniciales  
+ Mínimas (AIM´s)? 
+23) ¿Qué significa "posición abierta"? 
+24) ¿Cuánto valen las Opciones en la fecha cercana al vencimiento? 
+EJERCICIO DE OPCIONES
+ 
+25) ¿Qué significa "ejercer" y "ser asignado"? 
+26) ¿Cómo y cuándo se ejerce una Opción anticipadamente? 
+27) ¿Cómo es el ejercicio a vencimiento? 
+28) ¿Qué es el Precio de Cierre? 
+29) ¿Qué es la prórroga para comunicar excepciones al ejercicio y  
+ cuándo se realiza? 
+30) ¿Qué ocurre cuando se ejercen Opciones sobre acciones y no hay  
+ dinero para comprar los títulos o no hay títulos para vender? 
+515
+15
+15
+16
+15
+16
+17
+www.mexder.com / www.asigna.com.mxLas 30 preguntas más frecuentes sobre Opciones 3
+Prólogo 2
+MexDer, Mercado Mexicano de Derivados, amplió la gama de productos que ofrece al público inversionista, 
+al listar Opciones Financieras sobre algunas de las principales acciones listadas en la Bolsa Mexicana 
+de Valores, así como del Índice de Precios y Cotizaciones (IPC) de esa misma Bolsa a partir del 2004. 
+Actualmente, también se encuentran listadas Opciones sobre Exchange Traded Funds (ETF´s) y sobre 
+el Dólar de Estados Unidos.
+ 
+El presente documento está diseñado para resolver en forma rápida y sencilla las principales y más 
+comunes dudas que surgen al participar en un mercado de Opciones. El material se compone de 
+treinta preguntas y sus respuestas. Las preguntas sobre conceptos básicos van desde la 1 a la 15, las 
+preguntas referentes a las características de las Opciones negociadas en MexDer van desde la 16 a la 
+24 y finalmente las preguntas sobre el ejercicio de las Opciones van desde la 25 a la 30. 
+ 
+Es recomendable que este documento sea leído por todo inversionista interesado en comprar y vender 
+Opciones negociadas en MexDer. Al inicio del documento hay un índice de las 30 preguntas donde 
+puede elegir la que desee, sin que sea necesario haber leído las anteriores. 
+ 
+El documento no abarca todos los temas que afectan a las Opciones. El interesado debe tener en cuenta 
+que hay otros muchos factores, como la situación general de la economía, la oferta y demanda en el 
+mercado, las tasas de interés, la volatilidad y la liquidez que afectan al precio de las Opciones. 
+ 
+En el caso de que desee más información no dude en dirigirse a su Intermediario o al teléfono 5342-
+9922 o vía email: mgarcia@mexder.com.mx
+ 
+La intermediación en Opciones es una actividad especializada que requiere conocimientos específicos. Los 
+Intermediarios de MexDer tienen operadores especializados en Opciones. Sus operadores y promotores 
+tienen la obligación de estar certificados por la Asociación Mexicana de Intermediarios Bursátiles (AMIB) 
+y acreditados por esta Bolsa. 
+ 
+Si quiere conocer la relación de Intermediarios consulte la página de Internet en www.mexder.com en la 
+sección “Abrir una cuenta”, en donde podrá elegir la alternativa que más le convenga.
+ 
+La información contenida en esta publicación ha sido elaborada por MexDer con el mayor cuidado y el 
+máximo rigor. Todas las descripciones, ejemplos y cálculos tienen fines informativos y no constituyen 
+asesoría alguna o recomendación de inversión.
+Agradecemos al Mercado Español de Futuros y Opciones Financieros (MEFF) por su colaboración en 
+el contenido de este documento. 
+ 
+MexDer y/o Asigna no asumen responsabilidad alguna derivada del uso de la información contenida en 
+esta publicación para operaciones reales de mercado o cualquier otra utilización. 
+ 
+Toda la información contenida en esta publicación referida al marco regulatorio, está sujeta a cualquier 
+modificación de los Reglamentos y Manuales de MexDer y Asigna, Compensación y Liquidación, a las 
+Condiciones Generales de Contratación, así como a las Reglas y Disposiciones emitidas por la Autoridad 
+competente. 
+www.mexder.com / www.asigna.com.mx Las 30 preguntas más frecuentes sobre Opciones4
+Conceptos
+Básicos3
+2
+¿Qué es una Opción Call?
+Una Opción Call es un contrato que da a su comprador el derecho, pero no la obligación, a comprar un 
+activo subyacente a un precio predeterminado ó Precio de Ejercicio, en o antes de una fecha concreta 
+denominada “Fecha de Vencimiento”. El vendedor de la Opción Call tiene la obligación de vender el 
+activo en el caso de que el comprador ejerza el derecho a comprar (ver pregunta 8).
+1
+¿Qué es una Opción?
+Una Opción es un contrato que da a su comprador 
+el derecho, pero no la obligación, a comprar o 
+vender activos llamados “subyacentes” como 
+acciones, un futuro de índice como el del IPC o 
+divisas, a un precio predeterminado llamado “Precio 
+de Ejercicio”, o Strike en o antes de una fecha 
+concreta denominada “fecha de vencimiento”. 
+Existen dos clases de Opciones: Call y Put. 
+ 
+Actualmente, MexDer tiene listados contratos de 
+Opciones sobre los siguientes subyacentes:
+¿Qué es una Opción Put?
+Una Opción Put da a su comprador el derecho, pero no la obligación, a vender un activo a un precio 
+predeterminado o  Precio de Ejercicio, en o antes de una fecha concreta llamada “Fecha de Vencimiento”. 
+El vendedor de la Opción Put tiene la obligación de comprar el activo en caso que el comprador de la 
+Opción ejerza el derecho a vender el activo (ver pregunta 9).
+4 
+¿El comprador de una Opción Call sobre una acción tiene derecho a los dividendos de esa 
+acción?
+Las Opciones no pagan dividendos a sus tenedores. Para cobrar un dividendo, el ejercicio de un Call  
+tiene que solicitarse a más tardar cuatro días hábiles antes del pago del dividendo. 
+Por ejemplo, si se tiene comprada una Opción de compra o “Call” y la acción paga dividendos un 
+jueves, para recibir los dividendos deberá ejercer el viernes anterior a más tardar, para que la operación 
+de registro en Bolsa se haga el lunes con el cupón incluido, liquidándose el martes y por tanto se tenga 
+derecho al dividendo.
+3
+www.mexder.com / www.asigna.com.mxLas 30 preguntas más frecuentes sobre Opciones 5
+ ¿Qué es la prima de una Opción? 
+La prima es el precio al cual se realiza la operación. Dicho precio es pagado por el comprador de la 
+Opción al vendedor de la misma. 
+ 
+A cambio de recibir la prima, el vendedor de una Opción Call está obligado a vender el activo al comprador 
+si éste la ejerce. 
+A cambio de recibir la prima, el vendedor de una Opción Put está obligado a comprar el activo al 
+comprador si éste la ejerce. 
+El vendedor de la Opción siempre se queda con la prima, se ejerza o no la Opción.
+Las primas de las Opciones sobre acciones se cotizan en pesos y centavos de peso por cada acción, 
+aún cuando el tamaño del contrato sea de 100 acciones. Las primas de las Opciones sobre Futuros del 
+IPC se cotizan en puntos de IPC, valiendo cada punto 10 pesos. Las primas de las Opciones sobre el 
+Dólar de Estados Unidos se cotizan en pesos y centavos de peso (ver pregunta 16).
+LA PRIMA ES REALMENTE EL OBJETO DE NEGOCIACIÓN. Por lo tanto, si usted compra una Opción 
+y paga una prima de 50 pesos, podría querer venderla antes de vencimiento si ésta alcanza en algún 
+momento un precio superior. En cambio, si usted vende una Opción y cobra por ella $ 80 podría querer 
+comprarla antes de vencimiento si ésta alcanza un precio inferior. 
+ 
+Asimismo, y al contrario que otros productos financieros, no es necesario primero comprar y luego 
+vender para generar una utilidad por diferenciales de precios, sino que se puede primero vender y luego 
+comprar si el precio de la Opción baja. Esto agrega un gran valor a las Opciones cuando se quiere tomar 
+posiciones cortas fácilmente.
+6
+¿Qué es el Precio de Ejercicio? 
+El Precio de Ejercicio de una Opción es un precio o valor predeterminado de un activo subyacente, al 
+cual:
+- Puede ser comprado el activo, si el comprador ejerce su derecho a comprar, tratándose de un Call.
+- Puede ser vendido el activo, si el comprador ejerce su derecho a vender, tratándose de un Put.
+5 
+0
+5.5
+11
+22
+55
+210
+* Cifras expresadas en pesos
+5
+10
+20
+50
+200
+En adelante
+0.20
+0.50
+1.00
+2.00
+5.00
+20.00
+Acción Inferior
+Subyacente
+Precio Superior
+Subyacente
+Intervalo en Precio
+de Ejercicio
+Para el caso de las Acciones, los precios de 
+ejercicio distarán uno del otro dependiendo del 
+precio de la Acción que sea el Activo Subyacente 
+y siempre serán múltiplos del intervalo especificado 
+en la siguiente tabla de pujas de la Bolsa Mexicana 
+de Valores:
+Los precios de ejercicio en el caso del Índice se 
+expresarán en puntos enteros del IPC y distarán 
+uno del otro en al menos 50 puntos.
+Los precios del ejercicio del Dólar de EUA se 
+expresarán en pesos de acuerdo al precio del Dólar 
+fecha valor spot y serán múltiplos de 0.05 pesos.
+Por último, los precios de ejercicios de los ETF´s  
+tendrán una variación en múltiplos de 5.00 
+pesos.
+MexDer tendrá abiertos a negociación un rango de 
+precios de ejercicio que cubra las necesidades del 
+mercado. MexDer podrá abrir precios de ejercicio 
+que estén fuera del rango por decisión propia o a 
+petición de los intermediarios.
+www.mexder.com / www.asigna.com.mx Las 30 preguntas más frecuentes sobre Opciones6
+¿Cómo se calcula la prima de una Opción?  
+La prima de una Opción se negocia en función de la ley de oferta y demanda que establece el mercado, 
+como con cualquier otro producto. Su precio está en función de una serie de parámetros, unos conocidos 
+de antemano y otros no: 
+ 
+A)  Precio del activo subyacente: Precio de la acción o  del Dólar o valor del IPC. Este es un dato público 
+y conocido en el que no hay discrepancias. 
+ 
+B) Precio de ejercicio: Se fija al momento de listar el contrato en la Bolsa y es conocido por el comprador 
+y el vendedor, por lo tanto no hay discrepancias. Hay muchos precios de ejercicio que se pueden 
+elegir para negociar (ver pregunta 14). 
+ 
+C) Tasa de interés: La tasa de interés  es la correspondiente al plazo entre el día de negociación y el día 
+de vencimiento; es un dato fácil de estimar y se considera habitualmente a la TIIE llevada al plazo 
+correspondiente. Es un dato público en el que no hay discrepancias y que en cualquier caso afecta 
+muy poco al valor de la prima. 
+D) Dividendos a pagar: Sólo para Opciones sobre acciones. Este dato es el dividendo anunciado a pagar 
+en el futuro o una estimación tanto de la fecha de pago como del importe. En el caso de Opciones 
+sobre índice se deben considerar los dividendos anunciados a pagar en el futuro o las estimaciones 
+correspondientes para las acciones que conforman la muestra del Índice.
+ 
+E) Tiempo a vencimiento: Este dato es el número de días que quedan para el vencimiento de la Opción, 
+es conocido y no hay discrepancias. El paso del tiempo es un dato importante sobre todo en los días 
+cercanos al vencimiento. 
+ 
+F) Volatilidad futura: La volatilidad o variación que se asume que tendrá un activo desde el día de 
+negociación hasta el día de vencimiento es el dato más importante para valuar Opciones. Cuanto 
+más volátil se espera que sea una acción o el índice IPC, más cara será la prima y cuánto menos 
+volátil más barata será la prima.
+Los parámetros A, B, C, D y E son datos en los que no hay discrepancias entre los participantes en 
+el mercado, y si las hay serán mínimas. Se dice que la volatilidad es el dato que realmente produce el 
+valor de la prima de tal manera que se asocia “prima a volatilidad” como “volatilidad a prima” como una 
+correspondencia unívoca por la cual dada una prima existe una “Volatilidad Implícita” única asociada a 
+esa prima.
+¿Es necesario calcular la prima? No necesariamente. Tal y como se ha dicho antes, la prima se negocia 
+en el mercado según la libre oferta y demanda, los Intermediarios especializados en Opciones tienen 
+programas para valuar Opciones produciendo “precios teóricos” que pueden o no coincidir con los 
+del mercado. Se dice que una Opción que cotiza por debajo de su valor teórico está barata y una que 
+cotiza por encima de su valor teórico está cara. El precio teórico es un punto de referencia para la 
+negociación.
+ 
+No obstante todo lo anterior, es importante afirmar que el inversionista habitual que compra o vende 
+Opciones lo hace, en primer lugar, con base a la dirección que llevan los precios de la acción o el IPC y 
+en segundo lugar, con base al nivel que pueden alcanzar los precios o valores de dichos activos antes 
+de vencimiento. Descubre como se revalúa o no la prima con base a los movimientos al alza o a la baja 
+de dichos activos (ver preguntas 8 y 9).
+7
+8
+¿Una vez que he comprado o vendido una Opción mediante el pago o cobro de una prima, se 
+puede negociar o hay que esperar a su vencimiento? 
+www.mexder.com / www.asigna.com.mxLas 30 preguntas más frecuentes sobre Opciones 7
+Una vez que ha comprado o vendido una Opción mediante el pago o cobro de una prima, usted puede 
+negociarla en todo momento y eso es lo normal. Sólo un porcentaje muy pequeño de las operaciones 
+se llevan a vencimiento.
+Si compra Calls o derechos de compra, se verá favorecido si el activo sube de precio, es decir si usted 
+es comprador de Calls generalmente su expectativa es alcista respecto al precio del activo subyacente. 
+Por lo tanto la prima aumenta su valor para el comprador de Calls si el activo sube permitiéndole vender 
+la Opción Call a un precio mayor al de la compra. 
+ 
+Ejemplo: Quiere comprar dentro de un mes acciones de América Móvil L que actualmente cotizan a 
+32.10 pesos. 
+ 
+Supongamos también que no quiere arriesgarse a que dentro de un mes las acciones hayan subido 
+más y tenga que comprarlas a un precio mayor. ¿Qué hacer? Comprar un Call, de esta manera obtiene 
+el derecho a comprar un determinado activo (acciones de América Móvil L) a un precio determinado 
+(precio de ejercicio= 32.00 en este caso), en un período de tiempo determinado,  a cambio del pago 
+de una pequeña cantidad (prima), en este caso 1.20 pesos por acción. La situación a vencimiento será 
+la siguiente:
+Las pérdidas a vencimiento se limitan cómo máximo 
+a la prima pagada (1.20 pesos por acción) y ésta se 
+producirá cuando el precio de la acción se sitúe por 
+debajo del precio de ejercicio (32.00). El punto de 
+equilibrio (ganancia cero) resultará de la suma del 
+precio de ejercicio más la prima, es decir 33.20.
+Si vende Calls o derechos de compra, se verá 
+favorecido si el activo baja de precio o se queda 
+estable, es decir, si usted es vendedor de Calls su 
+¿Cómo me favorece la compra o venta de Opciones Call si el activo sube o baja de precio? 
+9
+35.00
+34.00
+33.20
+33.00
+32.00
+31.00
+* Sin considerar costos por comisiones.
+35.00 - 32.00 - 1.20 = + 1.80
+34.00 - 32.00 - 1.20 = + 0.80
+33.20 - 32.00 - 1.20 = 0
+33.00 - 32.00 - 1.20 = - 0.20
+32.00 - 32.00 - 1.20 = - 1.20
+- 1.20
+Precio de América Móvil L
+a Vencimiento (G1)
+Ganancia o/ Pérdida (pesos)*
+Call Comprada
+expectativa sobre el precio o valor del activo subyacente es bajista o neutral. Por lo tanto, la prima de 
+la Opción vendida disminuye su valor para el vendedor de Calls si el activo baja, permitiéndole comprar 
+la Opción vendida a un precio menor para cancelar la obligación adquirida por la venta inicial de la 
+misma.
+ 
+Ejemplo: Supongamos que la Bolsa se va a mantener estable o va a bajar. ¿Cómo aprovecharse de esta 
+situación? EL IPC cotiza a 31,750 pesos y  cree que ha llegado a su máximo. ¿Qué hacer? Vender un 
+Call de Futuro del IPC a precio de ejercicio de 32,000 pesos, recibiendo una prima de 200 pesos. La 
+situación a vencimiento será la siguiente:
+La pérdida a vencimiento puede ser ilimitada y 
+se producirá siempre que el precio del futuro del 
+IPC, se sitúe por encima del precio de ejercicio 
+(32,000) más la prima (200), es decir a partir de 
+32,200 pesos. 
+34,000
+33,000
+32,200
+32,000
+31,000
+30,000
+* Sin considerar costos por comisiones.
+32,000 - 34,000 + 200 = - 1,800
+32,000 - 33,000 + 200 = - 800
+32,000 - 32,200 + 200 = 0
+32,000 - 32,000 + 200 = + 200
+32,000 - 31,000 + 200 = + 200
++ 200
+Precio del Futuro del IPC
+a Vencimiento (G2)
+Ganancia / o Pérdida (pesos)*
+Call Vendida
+www.mexder.com / www.asigna.com.mx Las 30 preguntas más frecuentes sobre Opciones8
+¿Cómo me favorece la compra o venta de Opciones Put si el activo sube o baja de precio?
+¿Por qué invertir en Opciones?
+Si compra Puts o derechos de venta, se verá favorecido si el activo baja de precio, es decir si usted es 
+comprador de Puts generalmente su expectativa sobre el precio o valor del activo subyacente es bajista. 
+Por lo tanto, la prima de la Opción comprada aumenta su valor para el comprador de Puts si el precio 
+o valor del activo subyacente baja, permitiéndole vender la Opción Put a un precio mayor. 
+Ejemplo: Las acciones de Naftrac 02 cotizan a 31.73 pesos por acción. Si compra un Put de Naftrac 
+02 con precio ejercicio de 31.50 pesos,  asegura que por mucho que la cotización de las acciones de 
+Naftrac 02 baje, podrá vender esas acciones a 31.50 pesos por acción, o también se puede decir que 
+si las acciones de Naftrac 02 se colocan por debajo de 31.50 pesos, esa pérdida será simétricamente 
+compensada por la ganancia de la revaluación del Put. 
+En definitiva, lo que ha hecho es comprar un derecho de venta (compra de Put) por el que ha pagado, 
+por ejemplo, una prima  de $1 peso por acción, para asegurar un precio de Venta determinado. La 
+situación a vencimiento es la siguiente:
+A) Realizar ganancias. El comprador de una Opción puede anticipar un cambio en el precio o valor del 
+activo subyacente. El comprador de un Call se ve favorecido por una subida del activo subyacente y 
+el comprador de un Put por una baja. En ambos casos el inversionista puede generar más ganancias 
+La pérdida a vencimiento se limita como máximo a la 
+prima pagada y ésta se producirá cuando el precio de la 
+acción se sitúe por encima del precio de ejercicio (31.50). 
+El punto de equilibrio resultará de restar la prima (1.00) al 
+precio de ejercicio, es decir, a partir de 30.50 pesos.
+ 
+Si vende Puts o derechos de venta, se verá favorecido 
+si el activo sube de precio o se queda estable, es decir, 
+si usted es vendedor de Puts su expectativa sobre 
+el precio o valor del activo subyacente es alcista o 
+La pérdida a vencimiento puede ser ilimitada y se 
+producirá siempre que el precio del dólar se sitúe por 
+debajo del precio de ejercicio 12.95 menos la prima 0.12, 
+es decir, a partir de 12.83 pesos. 
+10
+11
+29.00
+30.00
+30.50
+31.00
+32.00
+33.00
+* Sin considerar costos por comisiones.
+31.50 - 29.00 - 1 = + 1.5
+31.50 - 30.00 - 1 = + 0.5
+31.50 - 30.50 - 1 = 0
+31.50 - 31.50 - 1 = - 0.5
+31.50 - 32.00 - 1 = - 1.00
+- 1.00
+Precio Naftrac 02
+a Vencimiento (G3)
+Ganancia / Pérdida (pesos)*
+Put Comprada
+neutral. Por lo tanto, la prima de la Opción vendida disminuye su valor para el vendedor de Puts si el activo sube, 
+permitiéndole comprar la Opción vendida a un precio menor para cancelar la obligación adquirida por la venta inicial 
+de la misma. 
+ 
+Ejemplo: El dólar de EUA cotiza a 12.93 pesos por dólar. Si cree que el dólar va a tener una subida 
+moderada, una posible estrategia es vender Opciones Put con precio de ejercicio  de 12.95 pesos. De 
+esta manera recibe una prima de 0.12 pesos por dólar. Veamos la situación a vencimiento:
+12.75
+12.8
+12.83
+12.85
+12.9
+12.95
+13
+* Sin considerar costos por comisiones.
+12.75 - 12.95 + 0.12 = - 0.08
+ 12.8  - 12.95 + 0.12 = - 0.03
+12.83 - 12.95 + 0.12 =   0
+12.85 - 12.95 + 0.12 = + 0.02
+ 12.9  - 12.95 + 0.12 = + 0.07
+12.95 - 12.95 + 0.12 = + 0.12
++ 0.12
+Precio USD
+a Vencimiento (G4)
+Ganancia / Pérdida (pesos)*
+Put Vendida
+www.mexder.com / www.asigna.com.mxLas 30 preguntas más frecuentes sobre Opciones 9
+con la inversión en Opciones que usando la misma cantidad invertida en los activos subyacentes. 
+A esta característica se le llama apalancamiento. En ambos casos la pérdida máxima es la cantidad 
+invertida. 
+ 
+B) Obtener ingresos adicionales. Un inversionista puede decidir vender Opciones Call o Put simplemente 
+porque su expectativa sobre la dirección que seguirá el precio o valor del activo subyacente le sugiere 
+que podrá conservar las primas recibidas producto de la venta de Opciones. Si el inversionista ya tiene 
+los activos y decide vender Opciones Call, la prima recibida le proporciona ingresos adicionales a sus 
+acciones o dólares. Si el Call es ejercido por su comprador, deberá hacer frente a la obligación de 
+venderle el activo. Para las Opciones Put, si el comprador no ejerce su derecho será porque el precio 
+del activo subyacente fue superior al precio de ejercicio y preferirá venderlas a precio de mercado, 
+lo cual le permitirá conservar la prima cobrada. Sin embargo si el comprador de un Put ejerce su 
+derecho a vender, como vendedor de la Opción deberá comprar el activo al precio de ejercicio, en 
+este caso la prima cobrada le permitirá compensar la pérdida generada al comprar activos por arriba 
+del precio de mercado. 
+C) Protección contra movimientos de precios. Comprando Opciones, el inversionista puede protegerse 
+contra un incremento en el precio de los activos en el caso de la compra de Calls, y contra una 
+disminución en el precio de los mismos en el caso de la compra de Puts.
+D) Comprando Opciones se fija el precio de compra o de venta de un activo. La inversión en Opciones se 
+puede usar para fijar anticipadamente el precio al cual comprar el activo en el futuro. Si el inversionista 
+quiere fijar el precio máximo al que estaría dispuesto a comprar un activo debería comprar Calls y un 
+inversionista que quiera fijar el precio mínimo al que vendería el activo debería comprar Puts.
+E) Vendiendo Opciones se puede “vender más caro” o “comprar más barato”. 
+Ejemplo 1: Quiere vender Telmex L por las razones que sea. Telmex L está en 18.70 y usted está 
+dispuesto a vender a 19.00 y si el precio de la acción en el mercado no llega a ese nivel  simplemente 
+no vende; con el fin de ganar un dinero extra usted vende un Call de Telmex L con precio de ejercicio 
+19.00 y recibe 0.60 pesos. Pueden ocurrir varias cosas:
+1) Que Telmex L llegue a 19.00 y el tenedor del Call ejerza el derecho de compra, con lo cual usted 
+debe de entregar su acción, se queda con la prima, y por tanto realmente ha vendido Telmex 
+a 19.60 (19.00 + 0.60). Es decir,  logró vender más caro pues lo hizo por encima del precio de 
+mercado.
+ 
+2) Que Telmex nunca llegue a 19.00 y por lo tanto el comprador del Call no le ejercerá, con lo cual 
+usted gana definitivamente 0.60 pesos manteniendo la posesión de la acción.
+Ejemplo 2: Usted está dispuesto a comprar Walmex V, pero quiere hacerlo a un precio menor que el 
+actual que es 35.50. Con el fin de comprar más barato, usted vende un Put de Walmex V a precio 
+de ejercicio 34.00 y recibe 1.00. Pueden ocurrir dos cosas: 
+ 
+1) Que Walmex V baje hasta 34.00 y el tenedor del Put ejerza su derecho a vender y usted se obliga a 
+comprar a 34.00 pero se queda con la prima, con lo cual usted realmente compra a 33.00 (34.00 
+– 1.00). Es decir, logró comprar más barato pues lo hizo por abajo del precio de mercado. 
+ 
+2) que Walmex V nunca baje hasta 34.00 y por lo tanto el comprador del Put no le ejercerá, con lo 
+cual usted gana definitivamente la prima de 1.00 peso.
+¿Quién puede comprar o vender una Opción y quién es mi contraparte?
+Cualquier persona física o moral puede comprar o vender una Opción. Usted sólo puede comprar si 
+hay alguien dispuesto a vender y viceversa, sólo puede vender si hay alguien dispuesto a comprar. Por 
+12
+www.mexder.com / www.asigna.com.mx Las 30 preguntas más frecuentes sobre Opciones10
+ello, MexDer cuenta con los mecanismos necesarios para reunir a compradores y vendedores, vigilando 
+que las operaciones se realicen en un marco de legalidad y transparencia.
+Cuando se realiza una operación entre comprador y vendedor, Asigna, Compensación y Liquidación, 
+la cual  funge como Cámara de Compensación del Mercado Mexicano de Derivados, se convierte en 
+contraparte de ambos, es decir Asigna se convierte en el comprador para el que vende, y en el vendedor 
+para el que compra. Esto sucede en todas y cada una de las operaciones efectuadas en MexDer. (ver 
+pregunta 20). Para consultar información sobre los Socios Liquidadores del Mercado de Derivados o en 
+general de Asigna comuníquese al 5342-9863 o consulte www.asigna.com.mx
+ 
+Lo anterior brinda gran seguridad al participante, ya que Asigna cuenta con la más alta calidad crediticia 
+(AAA), calificación otorgada por tres de las principales calificadoras por lo que es una contraparte 
+inmejorable.
+¿Cómo comprar o vender Opciones?
+¿Si compro o vendo una Opción y me “sale bien”, es decir gano dinero, significa que a la contraparte 
+que vendió o compró le “salió mal”, es decir, pierde dinero?
+¿Qué son las Opciones de estilo “europeo” y las Opciones de estilo “americano”? 
+Tiene que dirigirse con alguno de los Miembros Operadores de MexDer, quienes cuentan con personal 
+calificado que ha sido acreditado por esta Bolsa para promover y operar estos productos, quienes 
+podrán asesorarle y diseñar con usted la estrategia acorde a sus necesidades. Para seleccionar alguno 
+de ellos, consulte la página de Internet de MexDer en www.mexder.com accesando en la sección “Abrir 
+una cuenta”.
+Cuando compra o vende una Opción y le “sale bien” no significa necesariamente, que al que hizo la 
+operación contraria le “salió mal”. En primer lugar los intereses de compradores y vendedores pueden 
+ser diferentes y en segundo lugar los clientes o participantes que son contraparte de las operaciones 
+pueden cubrirse, de tal manera que es posible que ambas partes les pueda “salir bien” la operación.
+Las Opciones de estilo “europeo” sólo pueden ser ejercidas en el momento del vencimiento. Estas 
+Opciones son las correspondientes a las Opciones sobre el IPC.
+Las Opciones de estilo “americano” pueden ser ejercidas en cualquier momento entre el día de la compra 
+y el día de vencimiento, ambos inclusive. Estas Opciones son las correspondientes a las Opciones sobre 
+Acciones.
+13
+14
+15
+www.mexder.com / www.asigna.com.mxLas 30 preguntas más frecuentes sobre Opciones 11
+Características de las Opciones 
+Negociadas en MexDer 4
+¿Qué es una Opción “in the money” (ITM), “at the money” (ATM) y “out of the money” (OTM)?
+¿Cuál es el tamaño del contrato de las Opciones? 
+Cuando el precio o valor del activo subyacente es igual o muy similar al precio de ejercicio, se dice que 
+es una Opción ATM (“en el dinero”). 
+ 
+Una Opción Call está ITM (“dentro del dinero”) si el precio o valor del activo subyacente está por arriba del 
+precio de ejercicio de la Opción. Ejemplo:   si el precio de Cemex CPO es a 31.10 pesos, las Opciones 
+Call de precio de ejercicio por debajo de 31.10 se dice que están ITM. 
+ 
+Una Opción Call está OTM (“fuera del dinero”) si el precio o valor del activo subyacente está por debajo 
+del precio de ejercicio. 
+Una Opción Put está ITM (“dentro del dinero”) si el precio o  valor del activo subyacente está por debajo 
+del precio de ejercicio.
+Una Opción Put está OTM (“fuera del dinero”) si el precio o  valor del activo subyacente está por arriba 
+del precio de ejercicio.
+El tamaño del contrato de Opciones sobre acciones es de 100 acciones, excepto cuando hay ajustes por 
+decisiones del emisor (exderechos), en cuyo caso dicho tamaño puede aumentar o disminuir (consulte 
+a su Intermediario). Para el caso de las Opciones sobre ETF´s el tamaño del contrato es de 100 títulos 
+referenciados a acciones.
+    
+Siendo el contrato de 100 acciones, quiere decir que, aún cuando la prima se cotiza en pesos con dos 
+decimales por cada acción, la unidad mínima para operar es un contrato ó 100 acciones. No se pueden 
+contratar fracciones de un contrato, por tanto para conocer el valor monetario final de un contrato hay 
+que multiplicar por 100.
+ 
+Ejemplo: La compra de un Call de GMexico B con precio de ejercicio 38.40 pesos con una prima de 1.20 
+pesos por acción da a su comprador el derecho a comprar 100 acciones de GMexico B a 38.40 pesos 
+por acción. Es decir un precio por contrato de 3,840 pesos (38.40 pesos por acción x 100 acciones 
+cada contrato) y un costo total de la prima por contrato de 120 pesos (1.20 pesos por acción x 100 
+acciones por contrato).
+ 
+El tamaño del contrato para las Opciones sobre Futuros del IPC es de 10 pesos por cada punto de 
+IPC. Las primas se cotizan en puntos de IPC, por tanto, para saber su valor monetario final hay que 
+multiplicar por 10 pesos.
+Por último, el tamaño del contrato de Opciones sobre el Dólar de EUA es de 10,000 USD.
+17
+16
+www.mexder.com / www.asigna.com.mx Las 30 preguntas más frecuentes sobre Opciones12
+¿Cuál es el calendario de negociación de MexDer y cuál es la fecha de vencimiento de las 
+Opciones?
+¿Cuál es el último día de negociación de las Opciones listadas en MexDer?
+¿Cómo se asegura MexDer de que el vendedor de la Opción Call o Put cumpla con su obligación en 
+el caso de que se ejerza por parte del comprador el derecho a comprar (Call) o el derecho a vender 
+(Put)?
+Todos los días son hábiles excepto sábados, domingos y aquellos que establezca la Comisión Nacional 
+Bancaria y de Valores (CNBV) como inhábiles bancarios.
+ 
+Todas las Opciones listadas en MexDer tienen vencimientos trimestrales hasta por un año, en los meses 
+de marzo, junio, septiembre y diciembre. Por ejemplo, en un día posterior al vencimiento de marzo de 
+2011, los meses abiertos a negociación serán: junio 11, septiembre 11, diciembre 11 y marzo de 12.
+La fecha de vencimiento de las Opciones sobre acciones, ETF´s y sobre el Futuro del IPC es el tercer 
+viernes del mes de vencimiento y si fuera inhábil sería el día hábil inmediato anterior.
+La fecha de vencimiento de las Opciones sobre el Dólar es el lunes de la semana que corresponde al 
+tercer miércoles del mes de vencimiento y si fuera inhábil sería el día hábil inmediato anterior.
+Para todos los contratos, el último día de negociación es el mismo día de vencimiento, es decir el tercer 
+viernes del mes de vencimiento para las Opciones sobre acciones, ETF´s y sobre el Futuro del IPC y 
+el lunes de la semana correspondiente al tercer miércoles del mes de vencimiento para las Opciones 
+sobre el Dólar.
+En primer lugar, recuerde que los derechos y obligaciones que se derivan de las Opciones son ante 
+Asigna, Compensación y Liquidación, que es su contraparte en todos los casos, y no hay derechos entre 
+comprador y vendedor en términos bilaterales, es decir, el que ejercita el derecho a comprar o vender 
+lo ejercita ante Asigna (ver pregunta 11). 
+ 
+En segundo lugar, el comprador de Opciones sobre cualquier activo subyacente sólo tiene derechos y 
+ninguna obligación, excepto que en el caso de Opciones sobre acciones decida ejercer su derecho. A 
+cambio, paga una prima y sólo el comprador puede decidir si ejerce o no la Opción, o negociarla en el 
+mercado (vender la Opción comprada), en cuyo momento acaban sus derechos. Si el comprador de 
+Opciones sobre acciones Call o Put decide ejercer su derecho, se obliga automáticamente ante Asigna 
+a efectuar la liquidación de ese ejercicio, por lo tanto, Asigna le exigirá Aportaciones para cubrir el riesgo 
+de incumplimiento de dicha liquidación.
+En tercer lugar, el vendedor de Opciones sólo tiene obligaciones y ningún derecho. A cambio, cobra 
+una prima y está a expensas de que el comprador ejerza su derecho, si bien en todo momento puede 
+negociar (comprar la Opción vendida), en cuyo momento cesan sus obligaciones. 
+ 
+Asigna exige Aportaciones Iniciales Mínimas (AIM´s) al vendedor de Opciones Call y/o Put sobre cualquier 
+activo subyacente, mientras las mantenga vendidas; o al comprador si ejerce su derecho sobre las 
+Opciones en acciones que el vendedor le haya vendido, Asigna le exigirá Aportaciones Iniciales Mínimas 
+durante el tiempo que dure el proceso de liquidación en especie de la Opción, con lo que se asegura el 
+cumplimiento de las obligaciones en caso de que el comprador ejerza sus derechos ante Asigna. Estas 
+Aportaciones varían en función de los movimientos de los activos subyacentes (ver pregunta 21).
+18
+19
+20
+www.mexder.com / www.asigna.com.mxLas 30 preguntas más frecuentes sobre Opciones 13
+¿Cuál es el importe de las Aportaciones?
+¿Con qué activos se pueden constituir Aportaciones Iniciales Mínimas (AIM´s)?
+El importe de las Aportaciones es variable. La cantidad a depositar depende de tres factores: la volatilidad 
+del activo, el tiempo que resta al vencimiento y si la Opción está ATM, ITM u OTM (ver pregunta 17). 
+Cuanto más “dentro del dinero” esté una Opción más Aportaciones se piden y cuánto más “fuera del 
+dinero” está dicha Opción, menos Aportaciones se piden. En función de lo anterior las Aportaciones 
+variarán en torno a un 15%-25% del valor nominal del activo sin embargo, en realidad depende de qué 
+tanto esté la Opción “en el dinero”. 
+ 
+En las posiciones opuestas de Opciones (compras y ventas) generalmente no se solicitan Aportaciones 
+Iniciales Mínimas o en el peor de los casos se solicitan Aportaciones Iniciales Mínimas muy reducidas si 
+la posición es netamente compradora de Opciones, y se deberán entregar Aportaciones si la posición 
+es netamente vendedora, aunque realmente dependerá de la combinación de posiciones en el portafolio 
+y de que tan ITM se encuentren las Opciones que lo integran. 
+Las Aportaciones Iniciales Mínimas se constituyen con dinero o con valores. Para este último caso, 
+consulte en www.asigna.com.mx los valores que pueden entregarse como AIM’s y los descuentos 
+correspondientes. 
+21
+22
+Si usted vende Opciones Call sobre cualquier activo subyacente, y si el precio o valor de estos 
+activos:
+- Suben, sus Opciones se verán perjudicadas, es decir, si desea cancelar sus obligaciones las puede 
+comprar más caras y por tanto pierde, en caso contrario si desea mantener sus obligaciones las 
+Aportaciones requeridas aumentarán en la medida en que suban de precio o valor dichos activos. 
+ 
+- Bajan, sus Opciones se verán beneficiadas, es decir, si desea cancelar sus obligaciones las puede 
+comprar más baratas y por tanto gana dinero, y por el contrario, si decide mantener sus obligaciones 
+las Aportaciones requeridas disminuirán en la medida en la que bajen los precios o valores de dichos 
+activos. 
+ 
+Si usted vende Opciones Put sobre cualquier activo subyacente, y si el precio o valor de estos 
+activos: 
+ 
+- Suben, sus Opciones se verán beneficiadas, es decir, si desea cancelar sus obligaciones las pueden 
+comprar más baratas y por tanto gana dinero, en caso contrario si decide mantener sus obligaciones 
+las Aportaciones requeridas disminuirán en la medida en que suban los precios o valores de dichos 
+activos. 
+ 
+- Bajan, sus Opciones se verán perjudicadas, es decir, si desea cancelar sus obligaciones las puede 
+comprar más caras y por tanto pierde dinero, por otro lado si decide mantener sus obligaciones 
+las Aportaciones requeridas aumentarán en la medida en que bajen los precios o valores de dichos 
+activos. 
+ 
+Las Aportaciones Iniciales Mínimas son devueltas en el momento que el vendedor de las Opciones las 
+compre cancelando su posición vendedora. 
+www.mexder.com / www.asigna.com.mx Las 30 preguntas más frecuentes sobre Opciones14
+Se refiere al número de contratos abiertos y no liquidados (“sin cerrar”) de un mismo producto. En el 
+siguiente ejemplo se registrará con un signo positivo las compras efectuadas y con un signo negativo 
+las ventas realizadas. 
+ 
+Ejemplo: El primer día, Juan compra y Pedro vende 6 contratos Call de Televisa CPO con precio de 
+ejercicio 54.50 pesos. Al día siguiente, Pedro compra 2 contratos de los que vendió anteriormente 
+siendo María quién los vende.
+Dos días más tarde. Juan vende 3 contratos (antes los había comprado) y Pedro compra 3 contratos 
+(antes los había vendido).
+El resultado es el siguiente:
+A medida que se acerca el vencimiento se va eliminando progresivamente la incertidumbre del precio 
+final que tendrá el subyacente, el tercer viernes del mes de vencimiento de la Opción, que corresponde 
+al último día de negociación y fecha de vencimiento de la Opción. 
+ 
+La eliminación de la incertidumbre al acercarse el día de vencimiento hace que se conozca, cada día con 
+más seguridad, el valor de las Opciones porque el valor extrínseco o Valor Temporal va desapareciendo 
+y sólo va quedando el “valor intrínseco” de la Opción, que en el caso del Call es el resultado de restar al 
+precio o valor del activo subyacente el precio de ejercicio, y en el caso del Put, es el resultado de restar 
+al precio de ejercicio el precio o valor del activo subyacente. 
+ 
+Ejemplo: Faltando un día para el vencimiento, la cotización de Tlevisa CPO es de 51.00 pesos, el Call con 
+precio de ejercicio 47.00 pesos cotiza a 4.00 (51.00-47.00) es decir, el Call está valuado exactamente 
+a su valor intrínseco.
+Lo que no le debe extrañar es que realmente se cotice por debajo de su valor intrínseco, por ejemplo 
+a  3.90 ó 3.80 pesos ¿Por qué esta diferencia de 10 ó 20 centavos?  
+Típicamente, si usted es el tenedor del Call y quiere cerrarlo antes de vencimiento, deberá pagar un 
+pequeño costo precisamente para evitar llegar a vencimiento con una Opción ITM y no verse en la 
+posibilidad de realizar una operación en la Bolsa Mexicana de Valores, de lo contrario se ejercerá 
+automáticamente su derecho de compra llevando aparejado los costos de comprar acciones y además 
+puede pasar que usted no tenga el dinero para hacerlo (ver pregunta 30). 
+Es decir, la posición abierta indica el número de contratos que representan derechos y obligaciones que 
+no han sido canceladas a través de operaciones en sentido opuesto.
+¿Qué significa “posición abierta”?
+¿Cuánto valen las Opciones en la fecha cercana al vencimiento? 
+23
+24
+Primer día: 
+Juan compra y
+Pedro vende 6 contratos
+Día siguiente: 
+Pedro recompra y 
+María vende 2 contratos
+Dos días más tarde:
+Juan revende y
+Pedro recompra 3 contratos
++6
++6
++6 - 3 = +3-4 + 3 = -1
+-6 + 2 = -4
+-6
+-2
+-2
+-
+3
+6
+6
+Operación Posición
+Juan
+Posición
+Pedro
+Posición
+María
+Posición
+Abierta Total
+www.mexder.com / www.asigna.com.mxLas 30 preguntas más frecuentes sobre Opciones 15
+Ejercicio de
+Opciones 5
+¿Qué significa “ejercer” y “ser asignado”?
+¿Cómo y cuándo se ejerce una Opción anticipadamente? 
+¿Cómo es el ejercicio a vencimiento?
+El comprador de una Opción en acciones o ETF’s tiene tres posibilidades: 
+Ejercerla, venderla antes de vencimiento o dejarla que venza sin valor. 
+ 
+Cuando usted compra una Opción tiene el derecho a comprar (Call) o vender (Put) el activo subyacente 
+a un precio predeterminado (precio de ejercicio). 
+ 
+Cuando usted decide comprar o vender una acción o ETF al precio de ejercicio, se dice que usted “está 
+ejerciendo su derecho”. 
+ 
+Cuando usted vende una Opción tiene la obligación de vender (Call) o comprar (Put) el activo subyacente. 
+Se dice que usted “ha sido asignado” cuando se le requiere que cumpla tal obligación de compra o de 
+venta del activo subyacente.
+ 
+Cuando se trata de Opciones sobre el Futuro del IPC o sobre el Dólar, la Opción se ejercerá automáticamente 
+al vencimiento si tiene valor intrínseco o expirará sin valor. Si se ejerce automáticamente, el vendedor de la 
+Opción resultará asignado y por lo tanto se le requerirá que cumpla con su obligación que en este caso 
+consistirá en entregar el valor intrínseco a Asigna para que ésta a su vez lo entregue al comprador.
+Si usted es tenedor de una Opción Call o Put sobre acciones o ETF´s y quiere ejercer el derecho a comprar 
+o vender por anticipado, lo deberá comunicar expresamente a su Intermediario, el cual se encargará de 
+que Asigna sea notificada a través de sus sistemas electrónicos (las Opciones sobre el IPC y sobre el 
+Dólar no se pueden ejercer anticipadamente, debido a su carácter de Opción europea). 
+ 
+¿Cuándo se puede ejercer anticipadamente? Las Opciones sobre acciones y ETF´s se pueden ejercer 
+desde el mismo momento que se compra el Call o el Put y hasta la fecha de vencimiento inclusive, 
+para ello debe de comunicarlo a su Operador. La asignación de dicho ejercicio lo hará Asigna en forma 
+aleatoria entre las posiciones vendedoras. 
+ 
+La consecuencia del ejercicio anticipado es que al día hábil siguiente se realiza la operación de registro 
+en la Bolsa Mexicana de Valores, al precio de ejercicio establecido, concluyendo el proceso de entrega 
+de las acciones correspondientes o ETF´s, un día hábil posterior a la operación de Registro en la BMV. 
+Es decir, la entrega de las acciones o ETF´s se realizará a las 48 hrs. a través de su Socio Liquidador.
+Al vencimiento, Asigna ejerce automáticamente las Opciones que están “in the money” (ver punto (C) más 
+abajo; ver pregunta 17), salvo que usted haya solicitado lo contrario por así convenir a sus intereses.
+ 
+25
+26
+27
+www.mexder.com / www.asigna.com.mx Las 30 preguntas más frecuentes sobre Opciones16
+¿Qué es el Precio de Liquidación? 
+¿Qué es la prórroga para comunicar excepciones al ejercicio y cuándo se realiza? 
+Es el precio al cual el inversionista en Opciones compra o vende los subyacentes cuando hay ejercicio 
+anticipado o a vencimiento. 
+ 
+Para las Opciones sobre Acciones, la Bolsa Mexicana de Valores calcula el Precio Promedio Ponderado 
+(PPP) en función del volumen y precios negociados por acción al final de cada Sesión de Remate, 
+conforme a los procedimientos y metodología que se especifiquen en el Manual de esa Bolsa, y en su 
+defecto el Último Hecho de la sesión correspondiente y a falta de ambos, el último Precio de Cierre.
+En primer lugar, debe tener presente la norma general de ejercicio a vencimiento: Asigna ejercerá 
+automáticamente todas las Opciones que están ITM. 
+No obstante, una vez conocido el Precio de Cierre del subyacente posterior a las 15:00 horas tiene las 
+siguientes opciones:
+- no ejercer las Opciones que están “in the money” o 
+- ejercer las Opciones que están “at” o “out of the money”,
+Cualquiera de estas alternativas, deberá manifestarloa expresamente para lo cual se habilita un horario 
+de prórroga, que determinará la Cámara de Compensación de acuerdo a su Manuel Operativo.
+28
+29
+Las Opciones sobre acciones dan lugar a una operación de registro que se realizará en Bolsa Mexicana 
+de Valores en la sesión del día hábil siguiente a precio de ejercicio. (ver pregunta 28).
+En Opciones sobre acciones. ¿Qué diferencias hay entre el ejercicio anticipado y el ejercicio a 
+vencimiento?  
+A) Cualquier día hábil en horas de mercado y hasta 15 minutos después del cierre de la sesión de 
+negociación entre la fecha de compra y el día de vencimiento inclusive. 
+ 
+B) El tercer viernes del mes de vencimiento. 
+ 
+C) El ejercicio es automático exclusivamente para las Opciones que están ITM, a no ser que se manifieste 
+expresamente que no se desea ejercer las Opciones ITM o que se manifieste expresamente que se 
+desea ejercer las Opciones que están ATM u OTM (ver pregunta 17). 
+ 
+Independientemente de que el ejercicio se produzca de forma anticipada o al vencimiento, siempre hay 
+una operación de registro en la Bolsa Mexicana de Valores al día hábil siguiente para las Opciones sobre 
+Acciones. Y para las Opciones sobre ETF´s hay una operación de registro en el SIC (Sistema Internacional 
+de Cotizaciones) de la BMV. 
+ 
+Las Opciones sobre el Futuro del IPC se liquidan en forma monetaria por diferencias entre el valor de 
+cierre del IPC el día de vencimiento y el precio de ejercicio de la Opción.  
+Anticipado
+Al vencimiento
+T (A) No hay T + 1PET + 2
+T (B)(C) T + 1PET + 2
+Ejercicio Fecha
+Ejercicio
+Exposiciones
+al ejercicio
+Fecha Operación
+Compra/Venta
+en Bolsa
+Precio
+Operación
+Bursátil
+Liquidación
+Operación
+en Bolsa
+www.mexder.com / www.asigna.com.mxLas 30 preguntas más frecuentes sobre Opciones 17
+• ¿Para qué le sirve esta prerrogativa?
+Son varias las razones que se explican con los siguientes ejemplos: 
+ 
+A) Su Opción ha quedado ITM por una cantidad tal que si ejerce, el dinero a ganar desaparece por las 
+comisiones de la operación de compra/venta de las acciones. Ejemplo: Tiene un Call de Walmex V con 
+precio de ejercicio 39.00 y el Precio de Cierre de Walmex V es 39.30; si Asigna ejerce automáticamente 
+el Call al estar ITM, al día siguiente a través de su Casa de Bolsa agente Asigna realiza con cargo a 
+usted la operación bursátil de compra a 39.00 más la comisión correspondiente por la operación en 
+la Bolsa Mexicana de Valores, supongamos que sea de 0.50% sobre el precio de compra, le resulta 
+entonces la compra de cada acción a 31.1550 y si no sólo le interesa adquirir las acciones sino 
+realmente obtener el valor intrínseco de su opción, tendría que venderlas en 39.1950 y si no sólo 
+de interesa adquirir las acciones si no realmente obtener el valor intrínseco de su Opción, tendría 
+que venderlas en 39.50, lo cual le genera otra comisión por la venta que le significaría un ingreso 
+mermado en $0.1965. Es decir, aunque la Opción está ITM el resultado del ejercicio le produce a 
+usted en realidad una pérdida marginal de $0.0915 por las comisiones pagadas.
+ 
+B) Si no quiere ejercer su derecho porque no tiene el dinero para comprar acciones (ejercicio de Calls 
+ITM) o no tiene las acciones para venderlas y el costo de adquirirlas consume el valor intrínseco 
+(ejercicio de Puts ITM) (ver pregunta 30 para cuando se le olvide comunicar expresamente que no 
+desea ejercer las Opciones ITM).
+C) Otro caso pudiera deberse a que por ejemplo el Precio de Cierre se situó por encima del precio de 
+ejercicio de un Call (por ejemplo Precio de Cierre a 14.20 con precio de ejercicio del Call de 14) pero 
+la Bolsa caía a final de la sesión y usted prevé que el lunes la acción abrirá por debajo del Precio 
+de Cierre y por tanto no quiere verse forzado a comprar algo a un precio más caro del precio que 
+alcanzará en el mercado el lunes. En esta situación no ejerce su derecho notificándolo explícitamente 
+a su Operador.
+D) Si la Opción expira OTM pero sabe que en dos o tres días la acción pagará un dividendo en efectivo 
+suficientemente grande como para cubrir las comisiones de compra/venta, entonces podría solicitar 
+el ejercicio por excepción de sus Opciones de compra.
+¿Qué ocurre cuando se ejercen Opciones sobre acciones y no hay dinero para comprar los títulos 
+o no hay títulos para vender?
+Si Asigna ejerce automáticamente, los Calls ITM, sin que usted haya manifestado expresamente que no 
+los quiere ejercer, se llevará a cabo una operación de compra de las acciones aunque no tenga dinero 
+para comprarlas. Esta operación se lleva a cabo al precio de ejercicio y usted tendrá que afrontar el 
+haber quedado en descubierto con las consecuencias que eso conlleva. 
+ 
+Del mismo modo, si Asigna ejerce automáticamente los Puts ITM sin que usted haya manifestado 
+expresamente que no los quiere ejercer, se llevará a cabo la venta de unas acciones que no tiene, e 
+igual que en el caso anterior, tendrá que afrontar las consecuencias que esto derive.
+• ¿Qué se puede hacer?
+En el primer caso, con independencia de si el movimiento de la acción le favorece o no con respecto 
+al Precio de Cierre, usted debe dar una orden de venta de las acciones en el mismo día en que se ha 
+registrado la operación de compra de las acciones evitando el descubierto pero incurriendo en sus 
+comisiones por la compra al precio de ejercicio y comisiones por la venta al precio de mercado. 
+Por eso es importante que esté pendiente de comunicar excepciones al ejercicio (día y hora definido 
+por la Cámara de Compensación y que podrá consultar con su Operador. Ver pregunta 29), o bien de 
+cerrar la posición (vender la opción comprada) antes de vencimiento (ver pregunta 24).
+30
+www.mexder.com / www.asigna.com.mx Las 30 preguntas más frecuentes sobre Opciones18
+En el segundo caso, con independencia de si la evolución de la acción le favorece o no,  debe dar una 
+orden de compra de las acciones en el mismo día en el que se ha realizado la operación de registro de 
+la venta de acciones, evitando el descubierto pero incurriendo en dos comisiones (ver pregunta 19).
+La información contenida en esta publicación ha sido elaborada con el mayor cuidado posible. No 
+obstante lo anterior, MexDer, Mercado Mexicano de Derivados, S.A. de C.V. y/o Asigna Compensación 
+y Liquidación no asumen responsabilidad alguna por eventuales errores que pudiera contener, ni se 
+hace responsable por el uso o interpretación que terceros pudieran hacer con la información publicada. 
+Las decisiones de compra o venta de productos derivados basadas en la información contenida en 
+las gráficas, textos y cuadros, son responsabilidad exclusiva del lector, por lo que dicha información 
+no debe ser considerada como recomendación de compra o venta de alguno de los instrumentos que 
+aquí se publican.
+ 
+Por último, tome en cuenta que esta información está sujeta a posibles cambios en los contratos listados 
+y características de los mismos, así como a cambios que pudieran existir al marco normativo aplicable 
+a MexDer, Mercado Mexicano de Derivados y / o Asigna, Compensación y Liquidación.
+Notas
+Notas

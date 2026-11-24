@@ -1,0 +1,17 @@
+{
+  "name": "Agente de IA",
+  "short_name": "Agente IA",
+  "description": "Asistente Integral de Gestión y Consulta",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d0b",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/static/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

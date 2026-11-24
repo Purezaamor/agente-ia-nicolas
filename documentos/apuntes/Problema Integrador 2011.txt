@@ -1,0 +1,839 @@
+=== Fuente: Problema Integrador 2011.pdf ===
+
+ 1 
+ 
+ 
+CURSO DE 
+PPPRRROOODDDUUUCCCCCCIIIÓÓÓNNN   DDDEEE   GGGRRRAAANNNOOOSSS 
+ 
+ 
+ 
+CÁTEDRAS DE CEREALES 
+Y  CULTIVOS INDUSTRIALES 
+FACULTAD DE AGRONOMÍA, UBA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PROBLEMA INTEGRADOR 
+ 
+ 
+ 
+ 
+AÑO 2011 
+ 
+ 
+ 
+ 
+  
+ 2 
+ 
+PRODUCCIÓN DE GRANOS 2011 
+ 
+PROBLEMA INTEGRADOR 
+ 
+ 
+Nota: El problema está planteado sobre situaciones semejantes a las que explora una empresa de 
+producción agrícola cercana a la localidad de Junín. 
+ 
+ 
+1- Características generales 
+ 
+Superficie total del establecimiento: 900 has. 
+Cartas de suelo correspondientes: 3560-7 y 8 L. N. Alem - Junín; y 3560-20 Comodoro Py 
+ 
+2- Maquinaria disponible 
+ 
+1 sembradora de grano grueso de 9 cuerpos a 52,5 cm, siembra directa con cajón fertilizador 
+1 sembradora de grano fino con cajón fertilizador, 17 líneas a  17.5 cm 
+1 tractor de 175 HP 
+1tractor de 90 HP 
+1 rastra de doble acción 
+1 rastra excéntrica pesada 
+1 fertilizadora al voleo de doble disco, ancho de trabajo 12 m 
+1 pulverizadora de arrastre de 2000 l 
+ 
+ 
+3- Objetivos de Siembra 
+ 
+El objetivo del productor es sembrar 2/3 de la superficie del establecimiento, asignando el siguiente 
+porcentaje de dicha superficie a cada cultivo durante la presente campaña agrícola: 
+ 
+Trigo: 40% 
+Maíz de primera: 20% 
+Girasol: 15% 
+Soja de primera: 25% 
+ 
+Una parte de la superficie destinada a trigo será sembrada con Soja de segunda, y en la parte restante se 
+sembrará Maíz de segunda.  
+ 
+A continuación se presentan los antecesores, superficie y años de agricultura (AA) de cada uno de los 
+lotes. La situación descripta en la Tabla A corresponde a la información disponible en la última semana del 
+mes de Abril. 
+ 
+ 
+ 
+  
+ 3 
+Tabla A. Superficie, años de agricultura (AA), cultivo antecesor y sus rendimientos en la campaña anterior. 
+ 
+Lote Superficie (ha) AA Antecesor Rendimiento antecesor (qq/ha) Capacidad de uso Ambiente Cultivo a sembrar 
+1 40 - Pastizal  -       
+2 50 2 Maíz 80       
+3 50 - Pastizal  -       
+4 50 2 Soja 30       
+5 40 2 Soja 32       
+6 40 3 Trigo/Soja 40/25       
+7 40 20 Trigo/Soja 28/20       
+8 50 20 Soja 35       
+9 50 15 Trigo/Soja 35/23       
+10 50 2 Trigo/Soja 35/20       
+11 40 10 Soja 28       
+12 40 - Pastizal  -       
+13 40 - Pastizal  -       
+14 50 - Pastizal  -       
+15 50 - Pastizal  -       
+16 50 4 Maíz 90       
+17 50 5 Maíz 100       
+18 40 - Pastizal  -       
+19 40 12 Girasol 22       
+20 40 5 Trigo/Soja2ª 40/20       
+ 
+ 
+Tabla B. Rotaciones. 
+ 
+Lote  
+Año 1 
+ 
+Año 2 
+ 
+Año 3 
+ 
+Año 4 
+ 
+Año 5 
+ 
+I Int 
+1       
+2       
+3       
+4       
+5       
+6       
+7       
+8       
+9       
+10       
+11       
+12       
+13       
+14       
+15       
+16       
+17       
+18       
+19       
+20       
+ 
+No es necesario mantener la proporción de cultivos objetivo del primer año en los siguientes años. 
+ 4 
+4- En relación a la información suministrada, el productor solicita asesoramiento para: 
+ 
+4.1- Decidir a qué lotes asignará cada uno de los cultivos (completar Tabla A), de acuerdo a las superficies 
+propuestas como objetivo. Para ello, tome en cuenta la información de clases de uso de suelo, antecesor, 
+años de agricultura, climática, etc.  
+Importante: Considere que el productor está dispuesto a pasar a un período de descanso (implantación de 
+pastura) alguno de los lotes de mayor historia agrícola. La siguiente tabla muestra los resultados del 
+análisis de suelo, realizado en el mes de Abril, en los lotes 7 y 8. 
+ 
+Muestra Profundidad (cm) PH P Bray y Kurtz 1 (ppm) CO(%) Infiltración básica (cm min-1) 
+Lote 7 0-20 5.9 6.9 1.4 0.03 
+Lote 8 0-20 6.1 7.1 2.3 0.07 
+ 
+ 
+4.2- Tomando como base el cultivo elegido para cada uno de los lotes, proponga una secuencia de 
+rotación para cada uno de ellos (completar Tabla B), de modo de lograr un Índice de Intensificación (I Int) 
+cercano a 1,5. Si usted lo considera, puede proponer I Int mayores o menores a 1,5 en función de la 
+calidad de los ambientes, pero buscando que el promedio del campo esté alrededor de 1,5. Considere 
+que los módulos de rotación pueden ser de 2 a 5 años. 
+ 
+ 
+5-  
+5.1- En función de la maquinaria disponible, calcule la capacidad operativa y los perìodos entre inicio y fin 
+de siembra para cada uno de los cultivos, considerando que durante la ventana de siembra ocurren 2 
+eventos de precipitaciones en el caso del cultivo de trigo (25 mm y 50 mm), y un evento de precipitaciones 
+en el caso de cada uno de los cultivos de grano grueso (70 mm). 
+ 
+5.2- Para el caso del cultivo de Trigo, evalúe el beneficio económico de contratar maquinaria externa (ver 
+precios de referencia en cartelera virtual). 
+ 
+5.3- Planifique aspectos de la estructura de los cultivos: para cada cultivo, seleccione dos lotes según los 
+siguientes criterios: 
+ 
+Trigo: un cultivo que será sembrado en la primera y otro en la última fecha de siembra. 
+Maíz, Girasol y Soja: cultivos en un lote de mayor productividad y un lote de menor productividad. 
+ 
+5.3.1- para los dos lotes de Trigo detalle: fechas de siembra, densidad, y genotipo elegido. 
+  
+5.3.2- para los dos lotes de Maíz detalle: fechas de siembra, densidad, y genotipo elegido.  
+ 
+5.3.3- para los dos lotes de Girasol detalle: fechas de siembra, densidad y genotipo elegido.  
+ 
+5.3.4- para los dos lotes de Soja de primera detalle: fechas de siembra, densidad, espaciamiento, y 
+genotipo. 
+ 
+5.3.5- para los dos lotes de Soja de segunda detalle: fechas de siembra, densidad, espaciamiento, y 
+genotipo. 
+ 
+Para todos los cultivos, detalle, la serie de atributos de los genotipos que considera importantes para cada 
+condición ambiental, sea resistencia a plagas, comportamiento frente a enfermedades, longitud de ciclo, 
+resistencia a herbicidas, etc. 
+ 
+ 
+6- Planifique aspectos de la fertilización nitrogenada de maíz y trigo:  
+ 
+6.1- Para los dos lotes de Trigo seleccionados en 5.3.1 detalle el manejo de la fertilización. ¿Cambiaría su 
+recomendación de fertilización si la condición hídrica inicial fuese: (i.) perfil del suelo en capacidad de 
+campo, o, (ii.) perfil del suelo con baja disponibilidad de agua útil?  Considere una disponibilidad de 40 
+ 5 
+Kg/ha de N en los primeros 60 cm del perfil a la siembra de los cultivos de Trigo. Los resultados del 
+análisis de suelo mostraron niveles de fósforo de 6 ppm (Serie Ortiz de Rosas), 7 ppm (Serie Rojas) y 
+9 ppm (Serie Saforcada) P Bray y Kurtz I. 
+ 
+6.2- Para los dos lotes de Maíz seleccionados en 5.3.2 detalle el manejo de la fertilización. Para el lote de 
+menor productividad, ¿cambiaría su recomendación de fertilización si la condición hídrica inicial fuese: (i.) 
+perfil del suelo en capacidad de campo, o, (ii.) perfil del suelo con baja disponibilidad de agua útil? 
+Considere una disponibilidad de 70 Kg/ha de N en los primeros 60 cm del perfil a la siembra de los 
+cultivos de Maíz. Los resultados del análisis de suelo mostraron niveles de fósforo de 6 ppm (Serie 
+Ortiz de Rosas), 7 ppm (Serie Rojas) y 9 ppm (Serie Saforcada) P Bray y Kurtz I. 
+ 
+ 
+7- 
+7.1- En los lotes destinados a trigo, se le informa que, en los últimos años, se observó una alta infestación 
+de Avena fatua. En el primer lote sembrado con el cultivo se observó la situación de la Foto 1. (a) Que 
+decisión tomaría para manejar el problema en este caso? (b) ¿Como supone que será la situación en el 
+último lote sembrado, podría recomendar otra estrategia de manejo? Utilice la información suministrada en 
+las Figuras 3 y 4. 
+ 
+7.2.1- En el mes de Agosto, usted recorre los lotes que van a ser sembrados con cultivos de Maíz y Soja, y 
+encuentra niveles de enmalezamiento como los que se observan en las Fotos 2a y 2b. Considerando que 
+no tuvo aplicaciones previas de herbicidas para la campaña que se inicia, recomiende el manejo de 
+malezas que realizaría para cada una de las situaciones, (i) si el cultivo a sembrar fuera Maíz, y (ii) si el 
+cultivo a sembrar fuera Soja de primera. 
+7.2.2- Observe la situación de enmalezamiento de la Foto 2c, y sugiera una medida de manejo (Maíz RR). 
+ 
+7.3- Al recorrer los lotes de Trigo en los estados de Zadoks 2.1, 3.9 y 8.3, usted observa en las plantas, las 
+situaciones mostradas en las Fotos 3a, 3b y 3c, respectivamente, en todos los casos con  alta incidencia 
+en el cultivo.  
+7.3.1- Determine las enfermedades presentes en cada momento, y describa el manejo que recomendaría 
+en cada caso. Justifique.  
+7.3.2- Proponga un método para la cuantificación de las enfermedades presentes. 
+ 
+7.4- En uno de los lotes de soja de segunda se observaron síntomas generalizados de Tizón foliar (Foto 
+4a) en hojas del tercio superior (severidad entre 5 y 15%) y de mancha marrón (Foto 4b) en el tercio 
+inferior y medio (severidad 30%). En el momento de la observación, los cultivos se encontraban en R6 
+desde hacía aproximadamente una semana. Evalúe la necesidad de controlar las enfermedades; para ello, 
+puede utilizar toda información que considere confiable, citándola correctamente. 
+ 
+7.5.1- Al recorrer los lotes de Trigo en el estado de Zadoks 1.2, usted observa la plaga que se observa en 
+la Foto 5a. Proponga un método para el reconocimiento y cuantificación de la plaga, y describa el manejo 
+que recomendaría de la adversidad. 
+7.5.2- Al recorrer los lotes de Trigo en el estado de Zadoks 7.1, usted observa la plaga que se muestra en 
+la Foto 5b. Proponga un método para el reconocimiento y cuantificación de la plaga, y describa el manejo 
+que recomendaría de la adversidad. 
+ 
+7.6- A mediados de Enero, se recibe un alerta sobre la presencia de adultos de isoca medidora (R. nu) y 
+oruga de las leguminosas (A. gemmatalis) en trampas de luz. Mediante una recorrida efectuada el 16 de 
+enero, se aprecia alrededor de un 15 % de defoliación en todos los lotes de soja, siendo el daño 
+compatible con el producido por estas plagas. Asimismo, se observan daños producidos por barrenador 
+del brote (E. aporema, en promedio, 30% de los brotes atacados). Para dos de los lotes sembrados con 
+soja (uno de ellos, el que Ud. considere el mejor lote de soja de primera y el otro, el peor de soja de 
+segunda) indique el procedimiento a seguir para evaluar la necesidad de control. En caso de decidir 
+controlar, mencione producto, dosis y justifique. Mencione las fuentes de información utilizadas para basar 
+su recomendación 
+ 
+ 
+ 
+ 
+ 6 
+8-  
+8.1- Discuta la posibilidad de realizar el sistema Maíz/Soja de tercera. Discuta las consideraciones que 
+tendría en cuenta respecto a características de los dos cultivos, características del ambiente en donde se 
+realizaría este sistema. Detalle el manejo de cada uno de los cultivos (densidad, espaciamiento, 
+características salientes de los genotipos, etc.). Utilice la información suministrada, y la que usted 
+considere necesaria. 
+8.2- Similarmente, discuta las cuestiones a considerar para las situaciones en las que se realizó Maíz de 
+segunda. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 7 
+Plano del establecimiento. 
+ 
+ 
+ 
+ 
+ 
+Ambientes agrícolas 
+ 
+SÍMBOLO: Rj. 
+PAISAJE: Lomas planas y extendidas. 
+CAPACIDAD DE USO: I. 
+INDICE DE PRODUCTIVIDAD: 95 (A),  90 (B). 
+ 
+ 
+SÍMBOLO: Sf. 
+PAISAJE: Crestas de lomas y medias lomas. 
+CAPACIDAD DE USO: IV es. 
+INDICE DE PRODUCTIVIDAD: 43,1 (A), 40,9 (B). 
+ 
+ 
+SÍMBOLO: OR.  
+PAISAJE: Loma suavemente ondulada. 
+CAPACIDAD DE USO: II w. 
+INDICE DE PRODUCTIVIDAD: 85,5 (A). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 8 
+Descripción de las series 
+ 
+Serie: Rojas. 
+ARGIUDOL TIPICO, LIMOSA FINA, MIXTA, TERMICA (USDA – Soil Taxonomy V. 2006): 
+ 
+Posición: Loma plana 
+Material Originario: Sedimentos loéssicos. 
+Pendiente: 0 a 1 % 
+Drenaje: Bien drenado. 
+Escurrimiento: Medio. 
+Permeabilidad: Moderada. 
+Vegetación: Cultivo de maíz. 
+Limitaciones de uso: Sin limitaciones ni restricciones para uso agrícola. 
+ 
+Descripción del perfil típico: 
+07/78-C.  MOSAICO 3560-2-1, Carabelas. 
+ 
+Ap1 0-13 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; franco limoso;  granular fina débil; muy 
+friable; no plástico, no adhesivo; raíces abundantes; límite claro, suave. 
+Ap2 13-28 cm; gris muy oscuro (10YR 3/1) en húmedo; franco a franco limoso; bloques angulares medios 
+moderados; muy friable; no plástico, no adhesivo; raíces comunes; límite claro, suave. 
+AB 30-39 cm; pardo oscuro (10YR 3/2) en húmedo; franco a franco limoso; prismas irregulares medios 
+débiles que rompe en bloques medios moderados; friable; ligeramente plástico, ligeramente adhesivo; 
+barnices ("clay skins") escasos; raíces comunes; límite inferior claro, suave. 
+Bts 36-62 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; franco arcilloso; prismas regulares medios 
+moderados que rompe en bloques angulares y subangulares medios; friable; plástico, adhesivo; barnices 
+("clay skins") abundantes, medios; raíces escasas; límite gradual, suave.  
+Bt 62-78 cm; pardo a pardo oscuro (7,5YR 4/2) en húmedo; franco arcilloso; prismas irregulares medios 
+débiles; friable; plástico, adhesivo; barnices ("clay skins") comunes; límite gradual, suave. 
+BC 78-115 cm; pardo a pardo oscuro (7,5YR 4/4) en húmedo; franco;  bloques angulares y subangulares 
+medios débiles; friable; ligeramente plástico, no adhesivo; barnices ("clay skins") escasos, finos y medios; 
+raíces escasas; límite inferior difuso. 
+C 115-235 cm; pardo (7,5YR 5/4) en húmedo; franco; masivo; friable; no plástico, no adhesivo; raíces 
+vestigios; límite inferior difuso. 
+Ck 235-275 a + cm; pardo (7,5YR 5/4) en húmedo; franco limoso; masivo; suelto; no plástico, no adhesivo; 
+moderada cantidad de carbonatos libres en la masa. 
+ 
+Serie: Saforcada. 
+HAPLUDOL ENTICO, FRANCA GRUESA, MIXTA, TERMICA (USDA – Soil Taxonomy V. 2006): 
+ 
+Posición: Crestas de lomas. 
+Material Originario: Sedimentos eólicos. 
+Pendiente: 1-3 % 
+Drenaje: Algo excesivamente drenado. 
+Escurrimiento: Medio. 
+Permeabilidad: Moderadamente rápida. 
+Vegetación: Altamisa, Abrojo, Sorgo de Alepo. 
+Limitaciones de uso: Drenaje excesivo, peligro de erosión. 
+ 
+Descripción del perfil típico: 
+12/1003-C. 
+Ap 0-16 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; pardo grisáceo (10YR 5/2) en seco; areno 
+franco; granular media moderada, que rompe a grano simple; muy friable a suelto; límite inferior abrupto, 
+suave.  
+A 16-38 cm; pardo muy oscuro a pardo grisáceo muy oscuro (10YR 2.5/2) en húmedo; pardo grisáceo a 
+pardo grisáceo oscuro (10YR 4.5/2) en seco; areno franco a franco arenoso; bloques angulares medios 
+débiles que rompe a granular débil y a grano simple; muy friable; límite inferior claro, suave.  
+AC 38-73 cm; pardo oscuro (10YR 3.5/3) en húmedo; pardo (10YR 5/3) en seco; areno franco; bloques 
+subangulares medios débiles que rompe a granular y a grano simple; muy friable a suelto; límite inferior 
+claro, suave.  
+C 73-110 cm; pardo amarillento oscuro (10YR 3.5/4) en húmedo; pardo amarillento claro (10YR 6/4) en 
+seco; areno franco a arenoso; bloques subangulares medios débiles y masivo, que rompen a grano simple; 
+suelto. 
+ 
+ 
+ 9 
+Serie: Ortiz de Rosas. 
+HAPLUDOL THAPTO ARGICO, FRANCA FINA, MIXTA, TERMICA (USDA – Soil Taxonomy V. 2006): 
+ 
+Posición: Loma 
+Material Originario: Sedimentos eólicos (poligenético). 
+Pendiente: 1 % 
+Drenaje: Moderadamente bien drenado. 
+Escurrimiento: Medio. 
+Permeabilidad: Moderadamente lenta. 
+Vegetación: Cultivo de maíz. 
+Limitaciones de uso: Drenaje. 
+ 
+Descripción del perfil típico: 
+23/184-C.  MOSAICO 3560-27-1, Ortiz de Rosas. 
+ 
+Ap 0-23 cm; pardo grisáceo oscuro (10YR 4/2) en seco; franco; bloques subangulares medios moderados; 
+friable; no plástico; no adhesivo; raíces abundantes; límite inferior abrupto y suave.  
+A 23-35 cm; pardo muy oscuro (10YR2/2) en húmedo; pardo grisáceo oscuro (10YR 4/2) en seco; franco; 
+bloques subangulares medios moderados; friable; no plástico; no adhesivo; raíces abundantes; límite 
+inferior claro y suave.  
+AC 35-55 cm; pardo grisáceo muy oscuro (10YR 3/2) en húmedo; pardo (7,5YR 5/2) en seco; franco 
+arenoso; granular; muy friable; no plástico; no adhesivo; moteados comunes; precisos y finos; raíces 
+comunes; límite inferior abrupto y suave.  
+Bts 55-73 cm; pardo oscuro (7,5YR 4/2) en húmedo; franco arcilloso arenoso; prismas medios moderados; 
+firme; plástico y adhesivo; abundantes barnices de arcilla y complejo húmico arcilloso; abundantes 
+concreciones de hierro manganeso; moteados comunes, precisos y medios; raíces comunes; límite inferior 
+claro y suave.  
+BC 73-110 cm; pardo oscuro (7,5YR 5/4) en húmedo; franco arcillo arenosa; bloques subangulares; 
+ligeramente plástico y adhesivo; moteados comunes, precisos y medios; raíces comunes; límite inferior 
+claro y suave. 
+Ck 110-120 cm; pardo (7,5YR 5,5/4) en húmedo; franco; masiva; abundantes concreciones de cálcareo; 
+moteados comunes precisos y medios; raíces escasas; reacción débil a los carbonatos libre. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10 
+ 
+Figura 1. Duración de la etapa emergencia – antesis (°Cd) en función del fotoperíodo medio de la etapa para trigos 
+de ciclo corto y largo. 
+ 
+ 
+Tabla 1. Longitud de diferentes etapas del ciclo de maíces de ciclo corto y ciclo largo.  
+ 
+MAÍZ: 
+Etapa     Tb. (ºC)   TT (ºCd) 
+Siembra –Emergencia    9,8      61 
+  Ciclo corto: 
+Emergencia-Floración    8,0    720 
+Floración-Madurez    8,0    750 
+  Ciclo largo: 
+Emergencia.-Floración    8,0    833 
+Floración- Madurez    8,0    900 
+ 
+ 
+Tabla 2. Longitud de diferentes etapas del ciclo de girasoles de diferente longitud de ciclo.  
+ 
+GIRASOL: 
+Etapa     Tb. (ºC)   TT (ºCd) 
+Siembra –Emergencia    7,9      67 
+Emergencia –Floración 
+Ciclo corto (30 hojas finales)   4,0    800 
+Ciclo medio (35 hojas finales)   4,0    916 
+Ciclo largo (40 hojas finales)   4,0               1032 
+Floración –Madurez fisiológica   4,0    800 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 11 
+ 
+ 
+ 
+Tabla 3. Longitud de diferentes etapas del ciclo de Sojas de diferente grupo de madurez.  
+ 
+SOJA: 
+Etapa     Tb. (ºC)   TT (ºCd) 
+Siembra-Emergencia    10,0    70,5 
+Emergencia-R1:     10,0 
+ 
+  Grupo de madurez 
+Fotoperíodo III IV V VI VIII 
+13.0 302 343 374 454 508 
+13.5 308 367 461 556 646 
+14.0 314 391 501 661 785 
+14.5 320 415 590 766 923 
+15.0 326 439 630 871 1062 
+15,5 332 463 670 976 1201 
+ 
+R1-Madurez fisiológica: 60 a 80 días  
+ 
+Figura 2. Rendimiento simulado de trigos de Ciclo Largo (Klein Escorpión) y Ciclo Corto (Don Enrique) sembrados en 
+diferentes fechas de siembra. Los datos corresponden a cultivos sembrados en un suelo Serie Rojas, con 80% de 
+Agua útil inicial y 130 kg N/ha 0-60 cm (suelo + fertilizante) 
+ 
+ 
+    Días desde el 1º de enero 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rinde vs F Siembra
+y = -4,5589x + 5675,4
+R2 = 0,819
+y = -8,7273x + 6527,4
+R2 = 0,9876
+4550
+4600
+4650
+4700
+4750
+4800
+4850
+4900
+4950
+5000
+5050
+150 160 170 180 190 200 210 220 230
+Rinde (Kg/ha)
+Largo
+Corto
+ 12 
+ 
+ 
+Figura 3. Dinámica poblacional de avena fatua. Curva de germinación. Fuente: INTA Bordenave (Ing.Agr. Ricardo 
+López). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 4. Relación entre la densidad de Avena Fatua y la pérdida de rendimiento del cultivo de Trigo (expresado 
+como % del rendimiento del cultivo libre de malezas). Tomado de Catullo et al., 1984. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+0 100 200 300 400 500
+Densidad de Avena Fatua (pl m2)
+Pérdida de rendimiento (%)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+0 100 200 300 400 500
+Densidad de Avena Fatua (pl m2)
+Pérdida de rendimiento (%)
+        1000 
+900 
+800 
+600 
+700 
+500 
+400 
+300 
+200 
+100 
+Plantas/m² 
+ M  M M MA   A  A AM  M A  MJ   J  J  J   JJ    J J   JA  A  A  A  AS  S S   SO  O  O ON N 
+1980 
+1981 
+1982 
+meses 
+ 13 
+Tabla 4. Matriz de rendimientos de aceite (Kg ha-1) para 9 híbridos de Girasol sembrados en Junín en 10 ambientes 
+de siembras de Octubre y Diciembre. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 5. Regresiones sobre Indice Ambiental según Finlay y Wilkinson (1963) para rendimientos de aceite (Kg ha-1) 
+para 9 híbridos de Girasol sembrados en Junín en 10 ambientes de siembras de Octubre y Diciembre. 
+ 
+ 
+ 
+Hybrid Dic 02 Dic 03 Dic 97 Dic 99 Oct 00 Oct 01 Oct 02 Oct 97 Oct 98 Oct 99
+Contiflor 15 1119 760 901 949 1794 2072 2393 1683 1162 2170
+Aguará 1195 815 1189 969 1678 1917 1856 1469 888 1961
+GV23105 1193 802 1180 1040 1325 1817 2000 1539 944 1939
+GV25086 1252 875 1158 994 1571 2027 2189 1896 1028 1992
+TC 2001 1127 842 841 915 1792 2264 2314 1695 1263 2243
+GV23146 1193 875 1268 1058 1526 2075 2154 1591 1071 2188
+GV22510 1158 749 1229 899 1530 1823 1956 1517 1178 1804
+Contiflor 9 1213 805 736 926 1734 1947 2178 1694 883 2046
+Morgan 734 1166 1023 1039 1089 1501 1758 1990 1518 922 1824
+Mean 1180 838 1060 982 1606 1967 2115 1622 1038 2019
+ 
+900 1050 1200 1350 1500 1650 1800 1950 2100
+500
+700
+900
+1100
+1300
+1500
+1700
+1900
+2100
+2300
+2500
+Contiflor 15
+Aguará
+GV23105
+GV25086
+TC2001
+GV23146
+GV22510
+Contiflor 9
+Morgan 734
+Indice Ambiental (kg aceite/ha)
+Rendimiento (kg aceite/ha)
+ 14 
+ 
+Figura 6. Coeficientes b para los híbridos de los ensayos según el rendimiento promedio de cada uno. 
+ 
+ 
+ 
+ 
+Figura 7. Biplot de rendimiento en aceite para 9 híbridos evaluados en 10 ambientes de la localidad de Junín. Los 
+híbridos se representan como puntos, y los ambientes como vectores. 
+ 
+
+ 15 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ANEXO: 
+INFORMACIÓN CLIMÁTICA 
+Basada en datos del Servicio 
+Meteorológico Nacional para el 
+período 1971-2004. 
+ 
+La Radiación incidente, 
+Temperatura máxima, 
+Temperatura mínima y 
+Temperatura media, se 
+presentan como valores medios 
+históricos de períodos de 11 días 
+centrados en cada fecha. 
+ 
+El fotoperíodo de cada día 
+incluye crepúsculos. 
+ 
+ 
+La fecha de primer helada 
+(2ºC en abrigo) es: 
+en promedio el    2/5 
+1 de 5 años antes del 18/4 
+1 de 10 antes del  15/4 
+ 
+La fecha de última helada es: 
+en promedio el    28/9 
+1 de 5 años después del   5/10 
+1 de 10 después del 12/10 
+ 
+ 
+ 
+ 
+ 
+ 
+Se muestran las Precipitaciones 
+medias mensuales medias, el 
+percentil 20 (1 de 5 años menor 
+que ese valor) y el percentil 80 (1 
+de 5 mayor a ese valor). 
+ 
+La ETp media mensual 
+corresponde a la estimación de 
+Priestley-Taylor modificada por 
+Ritchie (en base a radiación y 
+temperatura)  
+ 
+0
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+1/6 1/8 1/10 1/12 1/2 1/4 1/6
+Temperatura (ºC)
+Máxima 
+media
+Mínima 
+media
+Media
+0
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+1/6 1/8 1/10 1/12 1/2 1/4 1/6
+Temperatura (ºC)
+Máxima 
+media
+Mínima 
+media
+Media
+0
+30
+60
+90
+120
+150
+180
+210
+J J A S O N D E F M A M
+mm/mes
+Etp
+20%
+Pp
+80%
+0
+30
+60
+90
+120
+150
+180
+210
+J J A S O N D E F M A M
+mm/mes
+Etp
+20%
+Pp
+80%
+5
+8
+11
+14
+17
+20
+23
+26
+1/6 1/8 1/10 1/12 1/2 1/4 1/6
+Rad.Inc.(MJ/m2.d)-T.med.(ºC)
+10
+11
+12
+13
+14
+15
+16
+17
+Fotoperíodo (hs)
+R T
+Ft
+5
+8
+11
+14
+17
+20
+23
+26
+1/6 1/8 1/10 1/12 1/2 1/4 1/6
+Rad.Inc.(MJ/m2.d)-T.med.(ºC)
+10
+11
+12
+13
+14
+15
+16
+17
+Fotoperíodo (hs)
+R T
+Ft

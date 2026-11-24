@@ -1,0 +1,218 @@
+=== Fuente: ESTUDIO EXPLORATORIO DE LA LATENCIA EN HIBRIDOS COMERCIALES A TRAVÉS DE ANÁLISIS MULTIVARIADO..pdf ===
+
+1 
+ 
+ESTUDIO EXPLORATORIO DE LA LATENCIA EN HIBRIDOS COMERCIALES A 
+TRAVÉS DE ANÁLISIS MULTIVARIADO. 
+ 
+Pardo P.A.a; Rotundo J.L.b; Gambín B.L.b 
+ 
+aAdvanta Semillas S.A.I.C., Investigación Sorgo, Ruta Nac. No. 33, Km 636, CC 559, 2600 Venado Tuerto, 
+Santa Fe, Argentina. E-mail: pedro.pardo@advantasemillas.com.ar  
+bCONICET, Facultad de Ciencias Agrarias, Universidad Nacional de Rosario, Campo Experimental Villarino CC No 
+14 (S2125ZAA) Zavalla, Santa Fe, Argentina. 
+ 
+Abstract 
+Sorghum is one of the most drought resistant grain crops and an excellent crop model for 
+evaluating mechanisms of drought resistance. At the crop level, adaptation leading to drought 
+resistance is related to mechanisms conferring avoidance or tolerance to stress. Latency in grain 
+sorghum combines these two mechanisms and is defined as the delay in flowering when waters 
+deficits are imposed during pre-flowering stages. The existence of genotypic variability, however, is 
+not clear. The objective of the present study was to analyze a large data base of phenology data in 
+17 hybrids over 21 environments (location and year) from a commercial breeding program to 
+identify genotypic variation in latency. A particular location x year was used as reference of an 
+environment without stress, and latency was estimated as the relative change in days from 
+emergence to anthesis compared to this non-stress environment. A principal component analysis 
+(PCA) was applied to find genotypic variability and grouping genotypes with similar response. The 
+PCA detected two significant (p<0.001) principal components that explained 80% of the variability 
+(CP1 = 62% and CP2 = 18%). Two types of environments were observed based on their similar 
+genotypic discrimination. Genotypes differed in their expression of latency, which in turn showed 
+some association with their maturity: early maturity without latency, medium and medium-late 
+maturity without latency, medium and medium-late maturity with latency and late maturity with 
+large latency. This simple first analysis allowed for the identification of hybrids differing in their 
+phenology plasticity. It will be necessary to test the actual advantages for sorghum crops with 
+latency regarding yield generation and/or yield stability. 
+ 
+Palabras claves: Sorghum bicolor Moench., fenología, interacción genotipo por ambiente, latencia.  
+Key words: Sorghum bicolor Moench., phenology, GxE interaction, latency. 
+ 
+ 
+Importancia del tema 
+     A diferencia de la mayoría de los cultivos de grano, el sorgo tiene la capacidad de 
+atrasar el tiempo a antesis (tanto en días como en tiempo térmico) ante un estrés hídrico 
+en pre-floración del cultivo (Donatelli et al., 1992; Craufurd et al., 1993). Este fenómeno 
+es conocido como “latencia”, y es probablemente un rasgo que contribuye a la particular 
+resistencia a la sequía de esta especie (Rosenow et al., 1983). 
+     La latencia se ha propuesto como un rasgo deseable en ambientes con déficits 
+hídricos intermitentes y de difícil predicción durante la pre-floración del cultivo (Ludlow 
+and Muchow, 1990). Las ventajas del rasgo serían muchos menores en situaciones de 
+sequías terminales donde las lluvias tardías tienen muy baja probabilidad de ocurrencia.    
+     Existen evidencias de que la manifestación de la latencia depende del estado hídrico 
+del cultivo (Donatelli et al., 1992). No está claro, sin embargo, si existe variación 
+genotípica en esta respuesta. Asimismo, la ausencia de su manifestación a campo no 
+implica la ausencia del mecanismo en un genotipo determinado (eg., genotipo no 
+estresado). Identificar la manifestación de la latencia es de vital importancia para el 
+mejoramiento, y actualmente esta información no está disponible en híbridos comerciales 
+de interés.  
+ 
+ 
+Objetivos 
+     Identificar diferencias en la manifestación de la latencia en híbridos comerciales 
+actuales utilizando información disponible de la base de datos de una red de ensayos 
+comparativos de rendimiento (ECR). 
+2 
+ 
+ 
+ 
+Materiales y métodos 
+     Se utilizó una base de datos de días desde emergencia a antesis (DíasE-A) de la red de 
+ECR de sorgo de Advanta Semillas S.A.I.C., conformada por 17 híbridos (Tabla 1) y 22 
+ambientes (Tabla 2). Los híbridos (1 experimental y 16 comerciales modernos) son 
+genotipos de distinto ciclo y año de registro en Argentina (Tabla 1). Los ambientes 
+correspondieron a la combinación de 10 localidades y 3 años (2009 al 2011) en lotes a 
+una distancia máxima de 30 km en cada localidad. Los ambientes fueron definidos con un 
+código para cada localidad más el año de cosecha del ensayo. Por ejemplo, para Arequito 
+2010: AR10. Estos ambientes son representativos de la población de ambientes objetivo 
+para los cuales se busca adaptación específica en el programa de mejoramiento de 
+referencia. 
+ 
+Tabla 1. Lista de híbridos evaluados indicando ciclo y año de registro. Se indica el valor medio de 
+días desde emergencia a antesis (DíasE-A), cantidad de parcelas  evaluadas (N) y la desviación 
+estándar (DE) para el ambiente de Venado Tuerto en 2010 (VT10) usado como referencia. 
+ 
+Denominación Ciclo Año de registro DíasE-A VT10 
+  Promedio N DE 
+ADV114 Corto 2010 69,3 6 2,3 
+ADV123 Corto 2011 71,3 2 1,5 
+DK39T Corto 2001 71,8 8 2,2 
+A9758M Intermedio - Corto 2005 79,0 4 1,8 
+P84G62 Intermedio - Corto 2002 78,3 8 2,2 
+VDH306 Intermedio - Corto 2009 76,8 8 1,3 
+P8419 Intermedio - Corto 1995 77,3 4 1,5 
+DK51 Intermedio 2001 81,0 8 1,4 
+DK61T Intermedio 2001 78,3 8 1,5 
+V02325 Intermedio (a) 75,3 6 2,1 
+A9829R Intermedio 2006 81,8 4 1,0 
+TELEN Intermedio 1994 79,0 4 0,8 
+VDH314 Intermedio 2004 77,0 8 3,8 
+VDH305 Intermedio 2008 77,0 8 2,2 
+MS110 Intermedio 2004 83,0 4 1,8 
+TIMBO Largo 2001 82,7 2 0,8 
+VDH422 Largo 2003 84,3 4 4,8 
+(a) híbrido experimental programa de mejoramiento comercial de Advanta Semillas. 
+      
+    Para cada combinación de genotipo x ambiente se obtuvo el dato medio de DíasE-A de 
+N parcelas (2-9). Con este valor se construyó una matriz 17 x 21 donde la latencia fue 
+estimada utilizando como referencia el ambiente VT10. El ambiente de VT10 fue 
+considerado como referencia de un ambiente sin limitaciones hídricas en base a registros 
+de precipitación desde emergencia a floración de los primeros genotipos (528 mm). Ante 
+estas condiciones, la duración en días desde emergencia a antesis dependería sólo de la 
+temperatura. La latencia se calculó para cada combinación de híbrido y ambiente como 
+(Donatelli et al., 1992):  
+ 
+Latenciaij = (DíasE-A ij – DíasE-A iVT10) / (DíasE-A iVT10) + 1 
+   
+donde DíasE-A ij es el valor promedio del genotipo i en el ambiente j; DíasE-A iVT10 es el 
+promedio del genotipo i en el ambiente VT10. Valores mayores a 1 indicarían la presencia 
+de latencia, mientras que valores de 1 y menores indicarían ausencia de la misma. 
+    Los datos fueron analizados mediante componentes principales (GG biplot V3.5). Para 
+ello, la matriz de datos fue centrada removiendo la media de cada atributo y dividiendo 
+por su por su desvío estándar (Fox y Rossielle, 1982).  
+ 
+ 
+ 
+3 
+ 
+ 
+Tabla 2. Lista de ambientes evaluados (localidad x año) indicando localidad, provincia, fecha de 
+siembra y total de parcelas evaluadas (N) de 17 híbridos de sorgo. Los datos provienen de la red 
+de ECR de Advanta Semillas S.A.I.C.   
+ 
+Ambiente Localidad Provincia Fecha de siembra N 
+ AR09  Arequito Santa Fe 26 Nov, 2008 68 
+ AR11    03 Dic, 2010 31 
+ GA10  Gob. Galvez Santa Fe 06 Nov, 2009 68 
+ GA11    01 Nov, 2010 62 
+ VT09  Venado Tuerto Santa Fe 16 Nov, 2008 96 
+ VT10    04 Nov, 2009 65 
+ VT11    30 Oct, 2010 92 
+ VTR10  Villa Trinidad Santa Fe 20 Nov, 2009 60 
+ VTR11    14 Dic, 2010 31 
+ SG11  San Guillermo Santa Fe 14 Dic, 2010 31 
+ SU11  Suardi Santa Fe 15 Dic, 2010 31 
+ LL09  Laguna Larga Córdoba 11 Nov, 2008 96 
+ LL10    03 Dic, 2009 49 
+ LL11    26 Nov, 2010 46 
+ VA09  Villa Ascasubi Córdoba 12 Nov, 2008 68 
+ VA10    19 Nov, 2009 34 
+ VA11    26 Nov, 2010 31 
+ HE09  Hernando Córdoba 13 Nov, 2008 96 
+ HE10    26 Nov, 2009 49 
+ HE11    29 Nov, 2010 46 
+ SP09  Pcia. R. Saenz Peña Chaco 03 Dic, 2008 34 
+ 
+ 
+Resultados 
+     El análisis de componentes principales (Fig. 1) detectó dos ejes significativos 
+(p<0.001) que explicaron en su conjunto un 80% de la variación observada (62% y 
+18%, para el primer y segundo componente, respectivamente).  
+     Los ambientes analizados (vectores en Fig. 1) tendieron a agruparse en dos grupos 
+de acuerdo a la manera en que discriminaron a los genotipos. Un grupo estuvo formado 
+por AR09, AR11, GA11, VT09, VT11, LL09, LL11, VA11, HE09 y HE11, mientras que el 
+otro grupo agrupó los ambientes GA10, VTR11, SG11, SU11, LL10, VA09, VA10, HE10 y 
+SP09. Aunque ciertos ambientes fueron similares en la manera en que discriminan 
+genotipos (eg. HE09 y VA09), ambos grupos en general no muestran asociación. La 
+separación de ambientes pareció obedecer en mayor medida a diferentes años que 
+localidades, agrupándose los años 2009 y 2011 por un lado y el año 2010 por otro. Esto 
+va de la mano con el comportamiento de año niña durante los primeros y niño durante el 
+segundo. El ambiente VTR10 mostró la menor variabilidad siendo no discriminante para 
+este rasgo.   
+     El análisis del comportamiento de los genotipos en base al eje de mayor importancia 
+(PC1) permitió identificar grupos de híbridos de acuerdo a su latencia. En un extremo se 
+ubicaron híbridos de ciclo intermedio e intermedio-corto como DK51, P8419, A9829R, 
+P84G62 y A9758M, los cuales manifestaron los valores más bajos (menores a 1) en todos 
+los ambientes, por lo que no manifestarían latencia (Fig. 1). En el otro extremo y con los 
+valores más altos se ubicaron híbridos de ciclo intermedio y largo VDH314, V02325, 
+VDH305, VDH422 y Timbo (Fig. 1). Estos genotipos manifestaron latencia en la mayoría 
+de los ambientes. El resto de los genotipos mostró un comportamiento de poca latencia y 
+que a su vez dependería del ambiente. 
+     De la combinación entre ciclo (Tabla 1) y manifestación de latencia (Fig. 1) es posible 
+distinguir 4 grupos de genotipos: ciclo corto sin latencia, ciclo intermedio e intermedio-
+corto sin latencia, ciclo intermedio e intermedio corto con latencia y ciclo largo con 
+latencia. 
+ 
+4 
+ 
+ 
+ 
+Fig. 1. Biplot de componentes principales PC1 y PC2 para latencia de 17 genotipos de sorgo 
+granífero en 21 ambientes (localidad x año). En conjunto, CP 1 y 2 explicaron el 80% de la 
+variación observada.  
+ 
+ 
+Conclusiones 
+     El ajuste de la fenología a la disponibilidad de agua y la plasticidad del desarrollo son 
+atributos importantes a tener en cuenta para el mejoramiento de cultivos para ambientes 
+con limitaciones hídricas. Este primer análisis permitió identificar diferencias genotípicas 
+en la manifestación de la latencia.  
+     La manifestación de la latencia mantuvo cierta asociación con el ciclo. Los ciclos 
+largos manifestarían mayor latencia que ciclos más cortos. En el caso de ciclos 
+intermedios, la manifestación de la latencia tuvo respuesta diferencial según genotipos. 
+     Aunque no fue posible determinar la presencia de estrés en cada combinación de 
+genotipo x ambiente,  los resultados se corresponden con estudios previos que muestran 
+que los ciclos más cortos manifestarían mínima latencia comparado con ciclos más largos 
+ante similar estrés (Donatelli et al., 1992).   
+     Será necesario avanzar en el conocimiento de este atributo y las ventajas que podrían 
+aportar a la generación y/o estabilidad del rendimiento.  
+ 
+ 
+Referencias 
+Borda, M.; Ambrossoni, H.;Correa Urquiza, A.; Grobbeè, E; Mac Guillivray, D.; Noacoo, N.; Ockeki, 
+F.;Steimberg, C.; Stella, E.; White, D. 1977. CREA Cuadernillo de actualización Técnica Nº18 SORGO 
+GRANIFERO.  
+Donatelli M.; Hammer G.L.; Vanderlip, R.L. 1992. Crop Science 32:781-786. 
+Fox, P.N.; Rossielle, A.A. 1982. Crop Science 22:1171-1175.  
+Loomis, R.S.; Connor, D.J.. 1992 Crop ecology. Cambridge University Press, Cambridge.  
+Ludlow M.M., Muchow R.C.. 1990. Advances in Agronomy. Vol. 43. paginas 107-153. 
+Rosenow, D.T.; Quisenberry, J.E.; Wendt, C.E. and Clark, L.E. 1983. Agric. Water Mgmt. 7: 2007-222.  
+ 

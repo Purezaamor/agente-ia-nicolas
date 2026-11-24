@@ -1,0 +1,289 @@
+=== Fuente: Diego de la Puente 2.pdf ===
+
+
+OPCIONES  
+DE  
+FUTUROS 
+ 
+ 
+LAS  OPCIONES 
+- SI NO EXISTE UN CONTRATO DE 
+FUTUROS ,  
+ NO PUEDE HABER UNA OPCION.  
+ 
+YA QUE TODO CONTRATO DE OPCION 
+ESTA HECHO SOBRE UN CONTRATO DE  
+FUTUROS. 
+
+Contrato de Opciones Sobre 
+Futuros 
+ 
+ 
+La Opción es un Contrato a través del 
+cual un actor adquiere el Derecho o 
+cede la Oportunidad  
+de elegir Comprar/Vender un 
+Contrato de Futuro. 
+ 
+  
+CONCEPTO DE OPCION 
+EL COMPRADOR DE UNA OPCION TIENE EL DERECHO NO LA OBLIGACION  
+DE COMPRAR (CALL) O VENDER (PUT) UN CONTRATO A TERMINO  
+A UN PRECIO DE PREDETERMINADO (PRECIO DE EJERCICIO)  
+ 
+EL DERECHO ES VALIDO DURANTE UN PERIODO ESPECIFICO DE TIEMPO 
+(plazo de ejercicio de la opción) 
+PARA OBTENER EL DERECHO SE ABONA UNA PRIMA  
+LA PRIMA ES EL PRECIO DE LA OPCION. 
+ 
+La Prima es la única parte del contrato 
+de la opción que se negocia durante la 
+transacción. 
+ 
+Surge del libre juego de la Oferta y la 
+Demanda. 
+ 
+Los demás términos del contrato están 
+predeterminados. 
+¿COMO SE LIQUIDA UNA OPCION? 
+POR EJERCICIO 
+-Pasar al Mercado de 
+Futuros. 
+-Liquidar por precio  
+De ajuste. 
+REALIZANDO UNA OPERACIÓN INVERSA 
+DEJAR QUE LA OPERACIÓN EXPIRE 
+Liquidación de Opciones 
+ 
+ 
+ 
+ 
+En cualquier momento antes que la Opción expire, el comprador de 
+la misma puede ejercerla siempre y cuando esté “in the money” 
+(convirtiendo la opción en un contrato de futuros). 
+ 
+ 
+En tal caso, la Cámara Compensatoria va a tomar una de las 
+opciones vendidas (al azar) y la va a convertir en un contrato de 
+futuros de signo opuesto al anterior. 
+ 
+ 
+Valor De Las Opciones  
+ 
+Es la cercanía con el valor del futuro, el valor del tiempo, la 
+volatilidad del precio futuro subyacente y la tasa de interés. 
+ 
+ - El valor tiempo refleja el monto de tiempo que resta antes de que 
+la Opción expire. 
+La Prima de la Opción que en la expiración está “out of the 
+money”, tendrá valor CERO. 
+ 
+-En la medida que la volatilidad del Futuro subyacente sea mayor, 
+el valor de las primas tiende a aumentar. 
+ 
+-Las bajas Tasas de Interés, también contribuyen a apreciar las 
+primas. 
+FACTORES QUE INTERVIENEN EN LA  
+DETERMINACIONDEL VALOR DE LA PRIMA 
+-RELACION ENTRE EL PRECIO DE EJERCICIO Y 
+COTIZACION CORRIENTE  
+DE LA POSICION DE FUTUROS 
+TIEMPO REMANENTE HASTA QUE EXPIRE LA OPCION. 
+TASA DE INTERES ESPERADA 
+LAS  OPCIONES 
+OBJETIVO COBERTURA:  
+PUT (opción de venta) (SOJERO) 
+ 
+Da al poseedor el derecho –no la obligación- de ser titular de un 
+contrato de venta de futuros para un determinado grano y posición a 
+un precio de ejercicio elegido. 
+El comprador del put obtiene protección contra la baja de precios, 
+sin renunciar a potenciales subas de los mismos. 
+El Vendedor, al cobrar la PRIMA, asume la obligación de comprar 
+un contrato de futuro, siempre y cuando el comprador haga uso del 
+derecho adquirido. 
+COMPRADOR 
+VENDEDOR 
+Analogía de la compra de un Put con la contratación  
+de un seguro para el auto. 
+El tomador del seguro paga una prima. 
+De esta manera adquiere el derecho (no 
+la obligación) de utilizar el seguro en 
+caso de robo. 
+La compañía aseguradora cobra la 
+prima. De esta manera se compromete 
+a pagar el valor del auto en caso de 
+robo. 
+Por supuesto que lo ideal para ambos es que no ocurra el siniestro.  
+
+CALL (opción de compra) (MOLINERO) 
+Da al poseedor el derecho –no la obligación- de ser titular de un 
+contrato de compra de futuros para un determinado grano y 
+posición a un precio de ejercicio elegido. 
+El comprador del call obtiene protección contra la suba de los 
+precios, sin renunciar a potenciales bajas de los mismos. 
+ 
+El Vendedor, al cobrar la PRIMA, asume la obligación de vender un 
+contrato de futuro, siempre y cuando el comprador haga uso del 
+derecho adquirido. 
+ 
+COMPRADOR 
+VENDEDOR 
+Analogía de la compra de un Call con la seña  
+para comprar una casa. 
+El que paga la seña adquiere el 
+derecho (no la obligación) de comprar 
+la casa al precio acordado. Sin 
+embargo sigue buscando casas 
+mejores y mas baratas. 
+El dueño de la casa recibe la seña y se 
+compromete por un tiempo determinado 
+a vender su casa en un valor acordado. 
+Si el negocio fracasa el que pagó la seña eligió otra casa y el que la recibió se queda 
+con ella. 
+FUTUROS 
+ OPCIONES 
+RIESGO 
+UTILIDAD 
+GARANTIA 
+COMPRADOR Y 
+VENDEDOR 
+VENDEDOR 
+COMPRADOR Y 
+VENDEDOR 
+ILIMITADOS 
+MARGENES Y DIFERENCIAS 
+AMBAS PARTES 
+COMPRADOR: ILIMITADO 
+VENDEDOR: LIMITADO 
+AL VALOR DE LA PRIMA 
+MARGENES Y DIFERENCIAS 
+SOLO VENDEDOR 
+OBJETIVOS FIJAR PRECIO ASEGURA UN PRECIO: MINIMO DE VENTA (PUT) 
+MAXIMO DE COMPRA (CALL) 
+TEMA  
+ESTRATEGIAS 
+OBJETIVO: VINCULAR LA TEORIA CON LA PRACTICA. 
+EJERCITAR COBERTURAS 
+OPCIONES  
+COMBINAR LAS HERRAMIENTAS 
+ENTRE OTRAS  
+ 
+RECORDAR: LA ESTRATEGIA MAS ADECUADA  
+DEPENDE DEL PERFIL Y EL OBJETIVO DE CADA UNO. 
+
+ 
+
+ALGUNOS  CONCEPTOS BASICOS 
+HAY QUE SABER QUE HERRAMIENTA TOMAR EN CADA CASO  
+NO HAY ESTRATEGIA MEJOR QUE OTRA, DEPENDE DE LAS CIRCUNSTANCIAS 
+ESTE TIPO DE HERRAMIENTAS TIENEN COSTOS 
+DEFINICION:  
+PARA ESTAR CUBIERTO, SE DEBE TENER UNA OPERACIÓN INVERSA A LA  
+DISPONIBLE EN EL MERCADO DE FUTUROS. 
+IMPORTANTE: 
+TODO SE RESUME A SEIS OPERACIONES: 
+ 
+ 
+ 
+COMPRAR/VENDER FUTURO 
+ 
+COMPRAR/VENDER CALL 
+ 
+COMPRAR/VENDER CALL 
+ 
+LA COMBINACION DE ELLAS ES INFINITA 
+EJEMPLOS  
+• SI SOY ALCISTA PERO QUIERO 
+CUBRIRME, LA MEJOR ESTRATEGIA 
+ES COMPRAR UN PUT, PORQUE ME 
+PONE EL PISO BAJO, PERO LA 
+PALANCA* MAS CERCA DEL PRECIO. 
+• SI SOY BAJISTA, PUEDO HACER UN 
+PUT SINTETICO: VENDER UN FUTURO 
+O FORWARD Y COMPRAR UN CALL.  
+• ME DA UN PISO MAS ALTO PERO UNA 
+PALANCA MAS ALEJADA. 
+ *posibilidad de acompañar una eventual suba o caída del mercado en relación al precio 
+OPERACIONES BASICAS.
+- VENTA DE FUTUROS.
+- COMPRA DE FUTUROS.
+- COMPRA DE PUTS.
+- COMPRA DE CALLS.
+- VENTA DE PUTS.
+- VENTA DE CALLS.
+OPERACIONES DERIVADAS.
+1- ESTRATEGIAS SINTETICAS.
+- FUTURO SINTETICO.
+- PUT SINTETICO.
+- CALL SINTETICO.
+2- ESTRATEGIAS LIMITADAS.
+- ALCISTAS LIMITADAS: CALL SPREAD Y PUT SPREAD ALCISTA.
+- BAJISTAS LIMITADAS: CALL SPREAD Y PUT SPREAD BAJISTA.
+3- ESTRATEGIAS ABIERTAS.
+- STRADDLE / STRANGLE COMPRADOR.
+- STRADDLE / STRANGLE VENDEDOR.
+4- ESTRATEGIAS COMBINADAS MULTIPLES.
+Nóvitas S.A.
+OPERACIONES BASICAS Y DERIVADAS 
+
+ESTRATEGIAS ANTE EXPECTATIVAS ALCISTAS.
+- COMPRA DE FUTUROS.
+- COMPRA DE CALLS.
+- CALL SINTETICO.
+- VENTA DE PUTS.
+- CALL SPREAD ALCISTA.
+- PUT SPREAD ALCISTA.
+- PERMANECER SIN COBERTURA.
+Nóvitas S.A.
+ESTRATEGIAS EXPEC.ALCISTAS 
+ESTRATEGIAS ANTE EXPECTATIVAS BAJISTAS.
+- VENTA DE FUTUROS.
+- FUTURO SINTETICO (Compra de Puts + Venta de Calls).
+- VENTA DE FUTUROS + COMPRA DE PUTS.
+- VENTA DE CALLS.
+- CALL SPREAD BAJISTA.
+- PUT SPREAD BAJISTA.
+Nóvitas S.A.
+ESTRATEGIAS EXPEC. BAJISTAS 
+ESTRATEGIAS ANTE EXPECTATIVAS INCIERTAS.
+1- PRIVILEGIAR "PRECIO PISO" CON "EFECTO PALANCA".
+- COMPRA PUTS.
+- PUT SINTETICO.
+2- PRIVILEGIAR COTIZACION DEL FUTURO VIGENTE EN EL MAT.
+- VENTA DEL STRADDLE / STRANGLE.
+3- PRIVILEGIAR RANGO DE PRECIOS EXTREMOS RESPECTO DE LA 
+    COTIZACION DEL FUTURO VIGENTE EN EL MAT.
+- COMPRA DEL STRADDLE / STRANGLE.
+Nóvitas S.A.
+ESTRATEGIAS EXPEC. INCIERTAS 
+Delta: es la variable mas comentada. Mide cuanto cambia el valor de 
+la prima frente a un cambio unitario en el precio futuro subyacente. 
+ 
+Gamma: mide la velocidad con que cambia la variable Delta de una 
+opción cuando se observan cambios en los precios de futuros 
+subyacentes. 
+ 
+Theta: mide el ritmo al que el “valor tiempo” de una opción 
+disminuye a través del tiempo. 
+ 
+Vega: mide volatilidad o riesgo del mercado.  
+1.- Margen 
+El margen es una suma fija que los 
+compradores y los vendedores de 
+contratos de futuros deben depositar en 
+sus cuentas para asegurar el cumplimiento 
+del contrato. 
+El margen asciende actualmente a U$S 
+700,- cuando el contrato es de trigo o maíz 
+y a U$S 1000,- cuando el contrato es de 
+soja o girasol. 
+Cuando la operación se cancela el MATba 
+devuelve los márgenes depositados. 
+Se puede depositar los márgenes 
+utilizando los siguientes instrumentos: 
+a) dinero en efectivo 
+b) avales bancarios 
+c) títulos públicos 
+d) plazo fijo transferible endosado a favor 
+del MATba 

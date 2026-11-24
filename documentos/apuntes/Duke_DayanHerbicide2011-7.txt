@@ -1,0 +1,911 @@
+=== Fuente: Duke_DayanHerbicide2011-7.pdf ===
+
+Provided for non-commercial research and educational use.
+Not for reproduction, distribution or commercial use.
+This article was originally published in Comprehensive Biotechnology, Second
+Edition, published by Elsevier, and the attached copy is provided by Elsevier for the
+author's benefit and for the benefit of the author's institution, for non-commercial
+research and educational use including without limitation use in instruction at your
+institution, sending it to specific colleagues who you know, and providing a copy to
+your institution's administrator.
+All other uses, reproduction and distribution, including without limitation
+commercial reprints, selling or licensing copies or access, or posting on open
+internet sites, your personal or institution's website or repository, are prohibited.
+For exceptions, permission may be sought for such use through Elsevier's
+permissions site at:
+http://www.elsevier.com/locate/permissionusematerial
+Duke SO and Dayan FE (2011) Plant Systems | Bioactivity of Herbicides. In: Murray
+Moo-Young (ed.), Comprehensive Biotechnology, Second Edition, volume 4,
+pp. 23–35. Elsevier.
+© 2011 Elsevier B.V. All rights reserved.
+Author's personal copy
+4.03 Bioactivity of Herbicides 
+SO Duke and FE Dayan, Natural Products Utilization Research Unit, University, MS, USA 
+© 2011 Elsevier B.V. All rights reserved. 
+4.03.1 Introduction 23
+ 
+4.03.2 Biochemical Pathways and Physiological Processes Involved with Photosynthesis 24
+ 
+4.03.2.1 Photosynthesis 24
+ 
+4.03.2.1.1 Photosystem II inhibitors 24
+ 
+4.03.2.1.2 Photosystem I electron diverters 26
+ 
+4.03.2.2 Pigment Synthesis Inhibitors 27
+ 
+4.03.2.2.1 Phytoene desaturase 27
+ 
+4.03.2.2.2 Deoxyxylulose-5-phosphate synthase 27
+ 
+4.03.2.2.3 Hydroxyphenylpyruvate dioxygenase 27
+ 
+4.03.2.2.4 Protoporphyrinogen oxidase 28
+ 
+4.03.3 Formation of Biological Building Blocks and Their Assembly into Biopolymers 28
+ 
+4.03.3.1 Cell Wall Synthesis 28
+ 
+4.03.3.2 Lipid Synthesis Inhibitors 29
+ 
+4.03.3.2.1 ACCase 29
+ 
+4.03.3.2.2 Very-long-chain fatty acid elongases 29
+ 
+4.03.3.3 Amino Acid Synthesis Inhibitors 31
+ 
+4.03.3.3.1 5-Enolpyruvylshikimate-3-phospate synthase 31
+ 
+4.03.3.3.2 Acetolactate synthase 31
+ 
+4.03.3.3.3 Glutamine synthetase 32
+ 
+4.03.3.4 Tubulin 32
+ 
+4.03.4 Other Modes of Action 32
+ 
+4.03.4.1 Auxinic Herbicides 32
+ 
+4.03.4.2 Auxin Transport Inhibitors 33
+ 
+4.03.4.3 7,8-Dihydropteroate Synthase 33
+ 
+4.03.4.4 Protein Phosphatase 34
+ 
+4.03.5 Parting Comments 34
+ 
+References 34
+ 
+Relevant Websites 35
+ 
+Glossary phytotoxin A chemical compound that is toxic to 
+hormesis The stimulatory effect of a subtoxic dose of a toxin. plants. 
+mode of action The biochemical and physiological protoxin A nontoxic compound that is metabolically 
+mechanism by which a phytotoxin exerts its biological converted to a toxin. 
+activity. transgenic crop A crop that has had a transgene inserted 
+molecular target site The molecule (usually a protein) that into its genome. 
+must be bound by a toxin for the toxin to have its effect. 
+4.03.1 Introduction 
+Herbicides are small-molecular-weight (generally <500 Da) compounds used to kill plants (weeds) that are unwanted at particular 
+time and place. Just as the physicochemical parameters of most pharmaceuticals fall within a specific range (Lipinski’s rule of five), 
+these properties of herbicides also fall within certain ranges. Most of these properties are very similar to those of pharmaceuticals. In 
+general, their toxicity is strictly regulated to be specific for plants with little or no toxicity toward nontarget organisms, especially 
+mammals. Weed management in most settings has become largely dependent on herbicides because of their high-level efficacy and 
+relatively low cost compared with other weed-control technologies. As a result, they represent a major portion of the pesticides used 
+worldwide. 
+There are hundreds of herbicides formulated into thousands of commercial products throughout the world. The herbicide-active 
+ingredients that are found in different countries are variable because of different regulatory, economic, and agricultural constraints. In this 
+article, we mention only representative members for each of the known molecular target sites that are sold in the United States [16]. 
+23 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+24 Plant Systems 
+We point out that some herbicides are selective, killing only certain plant species and not others, whereas others are broad-spectrum 
+herbicides that are effective on almost all plant species, including crops. The mechanism of selectivity is most often differential 
+detoxification, with the crops being resistant to the herbicide by rapidly inactivating the molecule by metabolically altering the 
+herbicide’s chemical structure. This process often follows the steps of oxidation, conjugation, and compartmentation. However, in 
+some cases, such as the auxinic herbicides and inhibitors of acetyl-coenzyme A carboxylase (ACCase), selectivity is due to differences in 
+target-site sensitivity. Some broad-spectrum herbicides have become much more popular in recent years because certain crops have 
+been genetically engineered to be resistant to them. Thus, a single herbicide can be used to kill almost all weeds associated with such a 
+transgenic crop [6, 10], thereby simplifying the weed management protocols and avoiding problems such as crop injury. 
+Some herbicides are applied as compounds that have no activity at the molecular target site. The target organism must 
+metabolically modify the proherbicide to an active herbicide. The advantage of this approach is in most cases the superior 
+physicochemical properties of the proherbicide for uptake and translocation. Whether lack of conversion of the proherbicide to 
+the active compound contributes to selectivity is poorly understood in most cases. 
+Just as the physicochemical parameters of most pharmaceuticals fall within a specific range (Lipinski’s rule of five), these 
+properties of herbicides also fall within certain ranges defined by Colin Tice. Most of these properties are very similar to those of 
+pharmaceuticals. 
+Herbicides are either contact herbicides that rapidly kill plant tissues to which they are applied or systemic herbicides that are 
+taken up and transported to parts of the plant to which they were not applied, generally acting more slowly and more completely on 
+the plant than contact herbicides. Furthermore, there are soil-applied herbicides that are either applied directly to soil or 
+incorporated into soil to be taken up by weed seeds and seedlings during germination and early plant development. Other 
+herbicides work best applied directly to plant foliage. 
+Most herbicides act only on one molecular target site to kill a plant. Although there are hundreds of compounds sold as 
+herbicides throughout the world, they affect less than 20 molecular target sites. This is surprising, considering the thousands of 
+potential molecular target sites in plant cells. The website of the Herbicide Resistance Action Committee has listed most of these 
+compounds by their mode of action or molecular target site. A vast amount of effort has been expended by the pesticide industry to 
+find new herbicide target sites; however, no herbicides with a truly new molecular target have been introduced in the past 20 years. 
+We will discuss the bioactivity of herbicides by their molecular target sites with some discussion of the physiological and 
+biochemical processes that lead to plant death by inhibiting these target sites. 
+Understanding the mode of action of a herbicide can be useful in understanding the mechanism of evolved resistance, as 
+resistance in many cases is the result of an altered molecular target site. If resistance is due to an altered target site, this information 
+can be useful in predicting cross-resistance and designing resistance management strategies. Applying herbicides with different 
+target sites in alternating growing seasons or mixing herbicides with different target sites will delay evolution of target site-based 
+herbicide resistance. If the chemical structures are sufficiently different for the mixed or alternated herbicide modes of action, the 
+evolution of resistance based on other mechanisms may be delayed. 
+Not all herbicide mixtures are compatible. This can be because of physicochemical properties, use recommendations, or 
+physiological interactions. An example of the latter case is the antagonistic action between a very fast-acting, contact herbicide 
+(e.g., paraquat) and a slower-acting herbicide that must be translocated for full activity (e.g., glyphosate). There are patents and 
+claims of synergism between some herbicides, but, when carefully studied, this has rarely been confirmed. 
+We also briefly mention the status of evolved resistance to the different herbicide classes. In most cases, the basis for evolved 
+resistance has been an altered molecular target site, but changes in weeds that lead to less herbicide reaching the target have also 
+evolved in some species. These evolved mechanisms include reduced uptake and translocation, enhanced metabolic alterations, and 
+sequestration of the herbicide away from the target site. 
+As herbicides are such good inhibitors of certain enzymes and protein functions, they have been used extensively in the study of 
+plant physiology and biochemistry [3] to probe the functioning of plants. Furthermore, at sublethal doses, herbicides sometimes 
+have unintended consequences, such as stimulation of plant growth (hormesis) [8] and increases or decreases in plant resistance to 
+plant pathogens [11]. 
+The literature of biological activity of herbicides is vast. Thus, this short article contains only what we consider to be the most 
+important aspects of the topic. The last comprehensive book on the topic [5] and the most recent detailed review of the entire topic 
+[12] can be consulted for more details. In this article, the herbicides will be divided into three main groups: (1) herbicides that target 
+biochemical pathways and physiological processes involved with photosynthesis; (2) herbicides that inhibit the formation of 
+biological building blocks (i.e., sugars, amino acids, and fatty acids) or their assembly into biopolymers; and (3) herbicides with 
+other modes of action. 
+4.03.2 Biochemical Pathways and Physiological Processes Involved with Photosynthesis 
+4.03.2.1 Photosynthesis 
+4.03.2.1.1 Photosystem II inhibitors 
+Inhibitors of photosynthesis were among the very earliest synthetic herbicides to be commercialized. Splitting of H2O to produce 
+O2 by photosystem II (PSII) is the first step in photosynthesis. This process generates reducing power in the form of electrons from 
+the splitting of H2O. To produce adenosine triphosphate and reduced nicotinamide adenine dinucleotide phosphate (NADPH) 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+Tyrosine 
+4-HPP 
+HPPD 
+Phytoene 
+PDS 
+HGA Photosystem II 
+ζ-Carotene 
+PQ 
+QB-binding 
+site on D1 
+GGPP Carotenoids Electrons 
+ChlorophyllGPP 
+Electron 
+1-DXP Phytol diversion 
+DXS Proto IX Photosystem IGA-3P + Pyruvate 
+Protox 
+Protogen 
+Glutamate 
+Bioactivity of Herbicides 25 
+Figure 1 Schematic showing the relationship between herbicides with modes of action related to photosynthesis. 
+from this process, the electrons are channeled by a photosynthetic electron transport chain that is composed of several proteins 
+which are associated with small redox type molecules such as plastoquinone (PQ). The D1 protein of PSII is part of this electron 
+transport complex. The QB-binding site of D1 normally binds PQ, which is reduced by an electron from water before it is oxidized 
+by moving the electron to the next step. All herbicides that directly inhibit photosynthesis bind the QB-binding site of D1, stopping 
+photosynthetic electron transport (Figure 1). 
+Stopping electron transport at D1 leads to many cellular dysfunctions, including rapid cessation of CO2 fixation, inhibition of 
+turnover of D1, toxic nitrite accumulation in the chloroplast, loss of compounds such as ascorbate and carotenoids that can protect 
+the chloroplast from oxidative damage, and loss of chlorophyll. An immediate and easily measureable effect is a massive increase in 
+fluorescence of chlorophyll, which releases some of the excess energy that would have been captured for photosynthesis. Within 1–2 
+days after treatment, the chloroplast has lost all components of the photosynthetic apparatus and membrane lipid peroxidation has 
+reached the point of no return. In full sunlight, treated leaves generally wilt within a few hours and desiccate to dark brown after a 
+few days. Under lower light, the process is slower with the leaf losing pigmentation, eventually becoming white or necrotic. 
+There are several chemical classes of PSII inhibitors from which there are currently about 40 commercial herbicides. These include 
+the ureas (e.g., diuron), the triazines (e.g., atrazine), the amides (e.g., propanil), and the hydroxybenzonitriles (e.g., bromoxynil) 
+(Figure 2). The large number of diverse compounds that are good PSII inhibitors reflects the large and promiscuous QB-binding site. All 
+PSII-inhibiting herbicides are relatively high-use-rate herbicides. This is because of the very high amount of D1 in green plant tissues 
+compared with the much lower herbicide-binding site concentrations for most other molecular targets of herbicides. All of the PSII 
+inhibitor herbicides are selective, and there are both soil- and foliar-applied examples of these herbicides. The mechanism of selectivity 
+is rapid metabolic detoxification of the herbicide in the crop with which a particular PSII inhibitor is used. 
+Resistance has evolved to most of the PSII inhibitors. There are more than 60 weed species that have evolved resistance to triazine 
+PSII inhibitors, but significantly fewer species have evolved resistance to substituted urea PSII herbicides. In all cases, except a very 
+few in which metabolism is involved, resistance is due to amino acid changes in D1 that result in reduced herbicide binding to the 
+QB-binding site. The binding sites on D1 are different for different PSII inhibitors, and selection pressure with a particular PSII-
+inhibiting herbicide results in amino acids changes that primarily reduce the affinity of that herbicide for the binding site. Thus, 
+different resistant weeds have different spectra of cross-resistance to PSII inhibitors, ranging from cross-resistance to no cross-
+resistance to negative cross-resistance. In the case of negative cross-resistance, an evolved, resistant biotype becomes more 
+susceptible to one or more PSII inhibitors that were not involved in selection of the resistant population. 
+Triazine-resistant commercial canola has been produced by crossing canola (Brassica napus) with evolved, PSII inhibitor-resistant 
+bird’s rape (B. rapa). The gene for the D1 protein is located in the plastid, so it is only maternally inherited. Therefore, the F1 cross is 
+made with crop pollen and weed egg followed by backcrosses to introgress the plastid genes into the crop. Triazine-resistant canola 
+produced in this way has been sold in Canada for more than 20 years; however, its market share has never been very high. 
+The first herbicide-resistant transgenic crop to be grown commercially, bromoxynil-resistant cotton, was introduced in 1995. The 
+transgene used encodes a detoxification enzyme that converts bromoxynil (3,5-dibromo 4-hydroxybenzonitrile) to 3,5-dibromo 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+26 Plant Systems 
+O 
+Cl 
+F3C 
+COOH 
+NO2 
+Acifluorfen 
+N 
+HOOCH2CO 
+Cl 
+Flumiclorac 
+F 
+O 
+O 
+N Cl 
+Oxadiazon 
+O 
+Cl 
+N 
+O 
+N 
+Cl 
+Cl 
+Sulfentrazone 
+H3CO2SHN 
+N 
+N 
+O CHF2 
+CH3 
+Butafenacil 
+N 
+N 
+Cl 
+O 
+O 
+O 
+O 
+CF3 
+O 
+O 
+N 
+N 
+OCl 
+HN 
+DiflufenicanNorflurazon 
+N 
+O 
+HN 
+F 
+F 
+O 
+CF3 
+CF3 CF3 
+Fluridone Flurtamone 
+N 
+O O 
+O 
+HN 
+Clomazone 
+O 
+N 
+O Cl 
+F3C 
+O O 
+OH 
+NO2 
+SO2 
+SO2 
+Mesotrione 
+N 
+N 
+N 
+Cl 
+N 
+H 
+N 
+H 
+Atrazine 
+N 
+O 
+N 
+H 
+Cl 
+Cl 
+Diuron 
+N+ N+ N+ N+ 
+Cl– 
+Cl– 
+Br– Br– 
+Paraquat Diquat 
+O 
+N 
+H 
+Cl 
+Cl 
+Propanil 
+HO 
+Br 
+Br 
+N 
+Bromoxynil 
+O 
+N 
+O 
+CF3 
+Isoxaflutole 
+S 
+O 
+O 
+O 
+Cl 
+Cl 
+O 
+Pyrazolynate 
+HPPD 
+PSII 
+PSI 
+PDS 
+DXS 
+Protox 
+Figure 2 Structures of the various herbicide classes with target sites mentioned in Figure 1. 
+4-hydroxybenzoic acid, a much less phytotoxic compound. Bromoxynil-resistant canola was introduced in 2000, but both crops 
+were later removed from the market, perhaps because of very limited market share. 
+4.03.2.1.2 Photosystem I electron diverters 
+Photosystem I (PSI) of photosynthesis provides reducing power to reduce NADP to NADPH, which is required for carbon fixation 
+and other synthetic processes. Compounds with a redox potential between −300 and −700 mV that can be auto-oxidized by 
+molecular oxygen can be reduced by PSI, and if stable sufficiently long to diffuse far enough to react with O2, they can generate 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+Bioactivity of Herbicides 27 
+superoxide radicals (Figure 1). In daylight, PSI has very strong reducing power, and PSII generates high levels of O2. Under these 
+conditions, a compound as described above can rapidly produce copious quantities of superoxide anion, which, in turn, generates 
+other reactive radicals, including the highly toxic hydroxyl radical, ultimately leading to massive membrane lipid peroxidation. In 
+cell membranes, this process quickly causes membrane dysfunction and cell death. The herbicides paraquat and diquat (Figure 2) 
+both function in the manner described above. 
+These nonselective PSI herbicides are the most rapidly acting foliar-applied herbicides, causing symptoms of severe 
+wilting within an hour or so in full sunlight, soon followed by necrosis. The effects are so rapid that the herbicide does not 
+have time to be translocated to tissues that did not directly receive the spray treatment. As their activity is dependent on 
+O2, when applied simultaneously, PSII-inhibiting herbicides will delay these symptoms. Paraquat and diquat are acutely 
+toxic to mammals because they can also be reduced to reactive radicals in animal cells, where they will generate reactive 
+oxygen species in respiratory tissues. However, both compounds are inactivated by soil and have short environmental 
+half-lives. 
+Many weed species have evolved resistance to paraquat, including 3 species of Conyza and 21 species of dicotyledonous and 
+monocotyledonous weeds. This is surprising because the selection pressure for resistance is short-lived. The literature on the 
+mechanisms of resistance claims both sequestration and enhanced capabilities in dealing with reactive oxygen species, such as 
+higher levels of superoxide dismutase. Plants have transgenically been made resistant to paraquat both by overexpression of genes 
+encoding enzymes that detoxify reactive oxygen species and with other genes that facilitate sequestration. It is unlikely that crops 
+with these modifications will ever be sold because of the toxicity of paraquat to nontarget organisms. 
+4.03.2.2 Pigment Synthesis Inhibitors 
+4.03.2.2.1 Phytoene desaturase 
+Phytoene desaturase (PDS) is necessary for the production of carotenoids, which are required for chloroplast membrane stabiliza­
+tion and quenching of reactive oxygen species in the chloroplast (Figure 1)[1]. Plants without carotenoids do not accumulate 
+chlorophyll in light, resulting in white tissues, incapable of carrying out photosynthesis. The symptom caused by all PDS inhibitors 
+is the production of white new tissues, eventually followed by necrosis. There are several herbicides that inhibit this crucial enzyme, 
+including norflurazon, fluridone, flurtamone, and diflufenican (Figure 2). They are mostly used as preemergence or early 
+postemergence products that work best on developing weed seedlings. Fluridone is used exclusively for aquatic vegetation 
+management. 
+Very few weeds have evolved resistance to PDS inhibitors. This may be because the crucial amino acid changes in the herbicide-
+binding site require two base-pair changes to generate the proper amino acid substitution for resistance. This was not the case with 
+the aquatic weed Hydrilla verticillata, which required only a one base-pair change to obtain several mutations that would provide a 
+highly resistant form of PDS. Several of these mutations occurred in Florida, where fluridone is used extensively for H. verticillata 
+control. Only one terrestrial weed has evolved resistance to PDS inhibitors, wild radish (Raphanus raphanistrum) in Australia. 
+Although the mechanism of resistance of this mutant is unclear, the fact that it is resistant to multiple herbicides with different target 
+sites suggests that it metabolically degrades the PDS inhibitor diflufenican. 
+The paucity of weeds that have evolved resistance to PDS inhibitor would suggest that this class of herbicides would be a good 
+one to which crops might be engineered to be resistant. Patents are pending or in existence for genes encoding resistant form of PDS 
+from both photosynthetic algae and H. verticillata. 
+4.03.2.2.2 Deoxyxylulose-5-phosphate synthase 
+The terpenoid pathway for carotenoids is plastid specific and does not start with mevalonic acid as does the cytosol 
+terpenoid pathway (Figure 1). Both the plastid and cytosolic pathways produce isopentenyl pyrophosphate, the five-carbon 
+building block of terpenoids. This nonmevalonic pathway or methylerythritol-4-phosphate pathway was not discovered until 
+relatively recently, making the discovery of the mode of action of the herbicide clomazone (Figure 2)impossiblebeforethis 
+discovery. Furthermore, the problem in finding clomazone’s target site was confounded by the fact that clomazone is a 
+proherbicide, requiring metabolic conversion to 5-ketoclomazone in order to be active against the nonmevalonic terpenoid 
+pathway enzyme deoxyxylulose-5-phosphate synthase. Clomazone is the only commercial herbicide known to have this 
+target site. 
+The symptoms of clomazone are identical to those of PDS inhibitors. It is generally used as a preemergence or soil incorporated 
+herbicide. It is somewhat volatile and nontarget plants sometimes show symptoms from volatilized clomazone. Late watergrass 
+(Echinochloa phyllopogon) has evolved a low level of resistance to clomazone used in rice in California. This resistance appears to be 
+based on enhanced metabolic degradation of clomazone and/or 5-ketoclomazone. No crops have been genetically engineered for 
+resistance to clomazone. 
+4.03.2.2.3 Hydroxyphenylpyruvate dioxygenase 
+Three chemical classes of herbicides inhibit the enzyme hydroxyphenylpyruvate dioxygenase (HPPD), which is necessary for the 
+synthesis of PQ and tocopherols in plants (Figure 1). PQ is a cofactor for PDS, so its in vivo activity is limited when PQ levels are 
+reduced, as if affected directly by one of the PDS inhibitors (see above). The symptoms of these herbicides are the same as that of 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+28 Plant Systems 
+PDS inhibitors. PQ is also required for electron transport in photosynthesis, so photosynthesis should also be eventually inhibited 
+in mature leaves treated with HPPD inhibitors, an effect not seen with PDS inhibitors. Loss of reactive oxygen species-quenching 
+tocopherols also makes the plant more sensitive to these radicals. 
+The three chemical classes of HPPD inhibitors are the triketones such as mesotrione, the isoxazones such as isoxaflutole, and the 
+benzoylpyrazoles such as pyrazolynate (Figure 2). The isoxazones are proherbicides that must be metabolically converted to active 
+HPPD inhibitors. These herbicides are low-use-rate compounds used for selective pre- and postemergence control of both broadleaf 
+and grass weeds in maize and rice. 
+HPPD was the last herbicide molecular target site for herbicides that was introduced. This was about 20 years ago. At this 
+time, no weeds have evolved resistance to these herbicides. Crops have been made resistant to this class of herbicides by two 
+approaches: (1) overexpression of a resistant bacterial HPPD in plants and (2) overexpression of transgenes for HPPD and for 
+a microbial gene that enhances the production of HPPD substrate [10]. Neither of these herbicide-resistant crops has entered 
+the commercial market. 
+4.03.2.2.4 Protoporphyrinogen oxidase 
+Several chemical classes of herbicides inhibit the enzyme protoporphyrinogen IX oxidase (Protox), an enzyme required for 
+porphyrin synthesis (Figure 1)[2]. These include diphenyl ethers such as acifluorfen, oxadiazoles such as oxadiazon, triazolinones 
+such as sulfentrazone, pyrimidindiones such as butafenacil, and phthalimides such as flumiclorac (Figure 2). All of these 
+compounds possess at least two rings that allow them to bind a pocket of Protox that accepts two rings of the substrate 
+protoporphyrinogen IX (Protogen IX). This binding pocket of Protox is apparently quite promiscuous, considering the large 
+number of good herbicidal inhibitors, both commercialized and experimental. The better Protox-inhibiting herbicides are low-
+use-rate herbicides, providing good efficacy at only a few grams per hectare. Most members of this class of herbicides are used as 
+foliar sprays, although there are some that are soil applied (e.g., sulfentrazone). They are selective herbicides with selectivity based 
+on differential metabolic degradation, with different Protox inhibitors designed for different crops. However, there is some evidence 
+to support the view that at least some crops such as rice owe some of their resistance to their ability to detoxify reactive oxygen 
+species. 
+Porphyrins are needed for both heme and chlorophyll synthesis, and both plastids and mitochondria contain Protox. These 
+herbicides cause rapid burning and necrosis, symptoms that are inconsistent with loss of porphyrins for producing heme and 
+chlorophyll. The mode of action is similar to that caused in humans by genetically dysfunctional Protox, in which case burning of 
+the skin (and other symptoms) can be caused by accumulation of protoporphyrin IX (Proto IX), the enzymatic product of Protox. 
+Proto IX is a reddish photodynamic compound that generates reactive oxygen species in the presence of light and molecular oxygen. 
+So, how does inhibition of Protox lead to accumulation of its toxic product, and how does an organism avoid toxicity of Proto IX 
+when the Protox is not inhibited? Proto IX does not accumulate in plants or animals with normally functioning Protox, apparently 
+because the next enzyme in the pathway rapidly converts Proto IX to the proper intermediates for heme or chlorophyll synthesis. 
+Inhibition of Protox leads to escape of the substrate, Protogen IX, from the porphyrin pathway to cellular sites where it is oxidized to 
+Proto IX either by nonenzymatic means or by nonspecific oxidases (e.g., peroxidases). In plants, this Proto IX accumulates in the 
+plasma membrane, where it can do rapid and considerable damage to the illuminated cell. In fact, cellular leakage begins within a 
+very short time after exposure to light and the herbicide. The accumulation of Proto IX is enhanced by the fact that inhibition of 
+Protox also causes deregulation of the porphyrin pathway, resulting in more carbon flow to Protogen IX to compensate for the lack 
+of Proto IX feeding into the proper pathway. 
+Only five weed species have evolved resistance to Protox inhibitors. The mechanism of resistance is unclear for all of these except 
+one biotype of Amaranthus tuberculatus, which has evolved a herbicide-resistant form of Protox that is resistant because of weaker 
+inhibitor binding due to the loss of an entire amino acid [15]. In other words, the gene has lost an entire codon coding for an amino 
+acid involved in herbicide binding. No transgenic Protox inhibitor-resistant crops are available, but such crops have been developed 
+by insertion of genes encoding resistant forms of Protox [10]. 
+At low doses, Protox inhibitors cause mild oxidative stress, which elicits the production of phytoalexins and other plant defenses 
+against plant pathogens. Lactofen, a commercial diphenyl ether Protox inhibitor herbicide has label directions for use on soybeans 
+to suppress white mold through this mechanism [11]. 
+4.03.3 Formation of Biological Building Blocks and Their Assembly into Biopolymers 
+4.03.3.1 Cell Wall Synthesis 
+Isoxaben and dichlobenil (Figure 3) strongly inhibit incorporation of glucose into the cellulose-containing cell wall 
+fraction of Arabidopsis thaliana. All indications are that isoxaben prevents an early step in the pathway, preventing the 
+conversion of sucrose into UDP-glucose, whereas dichlobenil inhibits cellulose synthase enzyme complex, which cannot be 
+directly assayed in vitro (Figure 4). Inhibition of this enzyme results in inhibition of the in vivo formation of cellulose 
+microfibrils. Lack of cellulose in young cells results in swelling of roots tips and cessation of growth as if treated with a 
+tubulin-binding herbicide. No resistance has been reported to this herbicide class, and no crops have been engineered to be 
+resistant to them. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+Building blocks Assembly
+Biopolymer synthesis 
+Membranes Cell walls and cuticles Cytoskeleton 
+Microtubule 
+assembly 
+Cellulose Lipids Proteins 
+Cellulose 
+synthase 
+Callose Fatty acid Fatty acid Aromatic Branched Glutaminesynthesis synthesis elongation amino acids amino acids 
+Callose ACCase Elongase EPSPS ALS GSsynthase 
+Sugars Fatty acids Amino acids 
+Bioactivity of Herbicides 29 
+Figure 3 Schematic showing the relationship between herbicides with modes of action related to biopolymer biosynthesis. Bottom half represents target 
+sites involved in the synthesis of the various building blocks and top half represents target sites involved in the assembly of these building blocks in 
+complex biopolymers. 
+4.03.3.2 Lipid Synthesis Inhibitors 
+4.03.3.2.1 ACCase 
+The first committed step to fatty acid synthesis is ACCase (Figure 3). Cyclohexanediones such as sethoxydim and 
+aryloxyphenoxypropionates such as diclofop-methyl (Figure 4) are the two major groups of herbicides to inhibit this enzyme. 
+These two groups are sometimes called dims and fops, respectively. ACCase inhibitors are highly selective, killing only grasses at the 
+recommended application rates, although there are some cereals that are sufficiently resistant to some of them for use in those crops. 
+The fops are generally sold as an esterified racemic mixture of two stereoisomers. The ester bond must be metabolized in planta to 
+release the aryloxyphenoxyproprionate enantiomers, only one of which is active on ACCase. The esterified form is used because it is 
+more rapidly taken up by the target weed. These herbicides are generally low-use-rate herbicides. 
+Two forms of ACCase occur in plants, prokaryotic and eukaryotic forms. The prokaryotic from is insensitive to these herbicides 
+and is found only in the plastids of dicotyledonous plants. The eukaryotic form is found in the cytoplasm of all plants and also in 
+the plastids of grasses, in which the plastid-encoded prokaryotic form was lost and replaced by the eukaryotic, nuclear-encoded 
+form with a transit peptide to target it for the plastid. The eukaryotic form is sensitive to ACCase-inhibiting herbicides. Nongrass 
+plants are apparently resistant because they can synthesize lipids with their prokaryotic ACCase. Some grasses such as wheat are 
+resistant to certain ACCase inhibitors (diclofop in the case of wheat) due to rapid metabolic degradation of the herbicide. 
+Apparently, lipids turn over too slowly in mature cells for very rapid effects to occur, but meristematic and very young leaf tissues 
+are severely affected. Grass leaves are formed by intercalary meristems at the base of the leaf. When these cells are killed by an 
+ACCase inhibitor, the rest of the leaf is cutoff from transport both to and from the rest of the plant. This causes buildup of so much 
+starch in mature, photosynthesizing cells that cellular damage results. Furthermore, water flow to these tissues is eventually halted 
+by the collapsed meristem. These processes are often accompanied by accumulation of anthocyanins, followed by necrosis. Root 
+meristems are also severely affected, but older parts of the root are not severely affected like older parts of leaves. 
+Almost 40 grass species have evolved resistance to ACCase inhibitors. The mechanisms of resistance are both enhanced 
+metabolic degradation and alterations of the ACCase-binding site for these herbicides, depending on the resistant species or 
+biotype [4]. All types of cross-resistances occur. ACCase herbicide-resistant crops have been generated by selection of resistance in 
+plant tissue culture, followed by regeneration of plants. However, these crops have not been commercialized. Transgenic crops 
+made resistant to the aryloxyphenoxyproprionate ACCase inhibitor herbicides are being developed. The bacterial transgene 
+imparting herbicide resistance to these crops encodes an α-ketoglutarate-dependent dioxygenase that detoxifies the herbicide. 
+4.03.3.2.2 Very-long-chain fatty acid elongases 
+Very long chain fatty acids (VLCFAs) are used by plants for synthesis of the waxes, cutins, and suberins that are necessary to keep 
+moisture in plant cells and tissues and to keep certain substances out (Figure 3). VLCFAs are also present at low concentrations in 
+plasma membranes. A reduction in the amount of these compounds in cell membranes leads to both arrested cell division and 
+growth. Symptoms of treatment with inhibitors of VLCFA elongases include decreased growth and leaf curling and twisting. Some 
+crops and weeds are insensitive to this class of herbicides due to rapid detoxification. In some cases, chemicals that induce 
+detoxification of herbicides in crops (safeners) are applied to protect the crop from potential herbicide injury. 
+A number of herbicide chemical classes inhibit these little-studied enzymes. They include the chloroacetanilides (e.g., alachlor), 
+the tetrazolinone compound fentrazamide, the thiocarbamates (e.g., EPTC), and the oxyacetamides (e.g., flufenacet) (Figure 4). 
+They are generally high-use-rate herbicides that are used primarily as preemergence herbicides that kill both broadleaf and grass 
+weeds, but the activity on grasses is generally stronger. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+30 Plant Systems 
+N 
+Cl 
+Cl 
+Dichlobenil 
+O 
+HN 
+O 
+O 
+O N 
+Isoxaben 
+Cellulose 
+synthase 
+O 
+OH 
+S 
+N 
+O 
+Sethoxydim 
+O 
+Cl 
+Cl O 
+Diclofop-methyl 
+O 
+O 
+NO 
+O 
+Cl 
+Alachlor 
+Cl 
+N 
+N N 
+N 
+O 
+N 
+O 
+Fentrazamide 
+N N 
+S 
+F3C 
+O 
+N 
+O 
+FFlufenacet 
+S 
+N 
+O 
+EPTC 
+ACCase 
+VLCF 
+H 
+N 
+O 
+OH 
+P 
+O 
+HO 
+OH 
+Glyphosate 
+HO 
+O 
+NH2 
+P 
+O OH 
+Glufosinate 
+S 
+Cl 
+H 
+N 
+O 
+O 
+O 
+H 
+N 
+N 
+N 
+N 
+O 
+Chlorsulfuron 
+N 
+O 
+OH 
+N 
+H 
+N 
+O 
+Imazapyr 
+Cl 
+O 
+O– 
+S 
+O 
+O 
+Na+ 
+Pyrithiobac-sodium 
+ALS 
+EPSPS 
+Glutamine 
+Synthetase 
+Cl Cl 
+ClCl 
+O 
+O O 
+O 
+DCPA 
+CF3 
+NO2O2N 
+N 
+Trifluralin 
+CHF2F3C 
+O 
+OS 
+N 
+Thiazopyr Dithiopyr 
+NF3C CHF2 
+S 
+O 
+S 
+O 
+Tubulin 
+Figure 4 Structures of the various herbicide classes with target sites mentioned in Figure 3. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+Bioactivity of Herbicides 31 
+Only a few weed species have evolved resistance to this category of herbicides. The mechanism of resistance is either unknown or 
+is due to enhanced metabolic degradation of the herbicide. No crops have been engineered to be resistant to these herbicides. 
+4.03.3.3 Amino Acid Synthesis Inhibitors 
+4.03.3.3.1 5-Enolpyruvylshikimate-3-phospate synthase 
+Glyphosate (N-phosphonomethylglycine) (Figure 4) is the most used (by volume and land area treated) herbicide used in the 
+world [9]. This is in large part because almost 80% of the transgenic crops have been made resistant to this broad-spectrum, foliar-
+applied herbicide. Worldwide, large proportions of several major crops are now transgenic. Thus, farmers can control essentially all 
+weeds in such a crop with only one herbicide. Some have argued that glyphosate is the most ideal herbicide yet devised. 
+Glyphosate is commonly sold as an isopropyl amine, sodium, potassium, ammonium, or trimethylsulfonium salt. Even though 
+glyphosate is not a low-use-rate herbicide, it has very low mammalian toxicity, with an acute toxicity less than that of table salt. 
+When sprayed on plants, it is readily taken up and translocated to all plant parts. It is generally not detoxified or detoxified very 
+slowly. It acts relatively slowly, giving the herbicide time to reach almost all tissues of the plant before phytotoxity limits its 
+movement. Furthermore, almost identically to sucrose, it preferentially translocates to metabolic sinks such as meristematic tissues. 
+Thus, the affected plant is unlikely to regrow from unaffected meristems. 
+Glyphosate is the only herbicide that inhibits 5-enolpyruvylshikimate-3-phospate synthase (EPSPS), a shikimic acid pathway 
+enzyme required for the biosynthesis of all three aromatic amino acids (phenylalanine, tyrosine, and tryptophan) (Figure 3). This 
+appears to be the only molecular target site of glyphosate, as evident from the fact that plants transformed with a glyphosate­
+resistant microbial EPSPS are 50-fold more resistant to glyphosate than nontransformed plants. One would assume that the plant 
+dies because it is starved for aromatic amino acids necessary for protein synthesis. But, there is evidence that a more important and 
+more immediate dysfunction caused by inhibition of EPSPS is deregulation of the shikimate pathway, leading to huge levels of 
+shikimate-3-phosphate and shikimic acid and siphoning of carbon and phosphate from other pathways, disrupting more than just 
+the shikimate pathway. Although it is nuclear coded, EPSPS resides in the plastid (chloroplast in green tissues), the site of carbon 
+fixation. Stopping carbon fixation pathways by stealing pathway intermediates can cause more immediate cellular disruption than 
+simply reducing pools of free aromatic amino acids. 
+EPSPS is found in plants, some fungi, and bacteria. The EPSPS of some of the microbes is also sensitive to glyphosate, and 
+glyphosate can be fungicidal to some plant pathogens through its effect on fungal EPSPS. Very low doses of glyphosate stimulate 
+plant growth, especially that of woody plants. Stimulation by a subtoxic exposure to a toxicant is termed hormesis. The phenom­
+enon is common with herbicides [8]. The mechanism for hormesis caused by glyphosate is not understood, but lignin (a cell wall 
+component) synthesis may be preferentially inhibited at low doses, resulting in a longer period for cells to elongate before their cell 
+wall loses it plasticity, stopping growth. 
+Crops have been made resistant to glyphosate through use of a gene encoding a glyphosate-resistant form of EPSPS from the soil 
+microbe Agrobacterium sp., the CP4 gene. Glyphosate-resistant cotton, soybean, maize, canola, sugarbeet, and alfalfa are being 
+commercially grown. In the case of glyphosate-resistant canola, a microbial (Ochrobactrum antropi) gene encoding an enzyme that 
+degrades glyphosate (glyphosate oxidoreductase) is used with the CP4 gene. Some varieties of maize have a maize EPSPS gene that 
+has been altered through site-directed mutagenesis to impart glyphosate resistance. As transgenic, glyphosate-resistant crops have 
+overwhelmingly (almost 80% of the market) been the most successful transgenic crops, more companies with other genes for 
+glyphosate resistance are likely to enter this market in the near future. 
+Glufosinate, like glyphosate, is a broad-spectrum herbicide that has been massive selection pressure on weed populations caused by 
+glyphosate since it was introduced in 1975. This has been especially true with the upsurge of use after introduction of glyphosate­
+resistant crops in 1996. As of 2010, 17 weed species have evolved some level of resistance to glyphosate, despite the fact that a single 
+base-pair mutation of the gene encoding EPSPS will not produce an efficient glyphosate-resistant EPSPS. The evolved mechanisms of 
+resistance include reduced herbicide uptake and translocation, sequestration into vacuoles, gene amplification of the EPSPS gene, and in 
+a very few cases alteration of the EPSPS gene to give a very low resistance level. The level of resistance is generally low (two- to fivefold) 
+compared with evolved resistance to other herbicides, except in the case of gene amplification, in which case it can be more than 10-fold. 
+4.03.3.3.2 Acetolactate synthase 
+One of the largest groups of commercial herbicides inhibit acetolactate synthase (ALS; also called acetohydroxyacid synthase, 
+AHAS), an enzyme in the pathway to the three branched chain amino acids leucine, isoleucine, and valine (Figure 3). Plants treated 
+with these inhibitors stop growing, eventually wilting, and turning red due to the accumulation of stress-induced anthocyanins. 
+These herbicides are selective, with certain crops and weeds being naturally resistant due to rapid degradation of the herbicide. 
+There are commercial ALS inhibitors from several chemical classes, including sulfonylureas (e.g., chlorsulfuron), imidazolinones 
+(e.g., imazapyr), and pyrimidyl(thio)benzoates (e.g., pyrithiobac) (Figure 4). Most of these herbicides are considered low-use-rate 
+herbicides, with good results with some of them at only a few grams per hectare. 
+Inhibiting ALS causes accumulation of one of its precursors, 2-oxybutyrate, and a transamination product of the precursor, 
+2-amino butyrate. At least part of the phytotoxicity appears to be due to the accumulation of these phytotoxic compounds that do 
+not accumulate in healthy plant tissue. This conclusion is supported by the finding that compounds that inhibit the next enzyme in 
+the branched chain amino acid pathway are not good herbicides. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+32 Plant Systems 
+ALS is a relatively plastic enzyme, in that several amino acid changes that alter the binding of various ALS inhibitors to different 
+degrees, depending on the amino acid and the inhibiter, do not cause a loss of enzyme activity that would compromise the plant. 
+Thus, many weed species have evolved resistance ALS inhibitors. As with PSII inhibitors, resistant weeds that have been selected with 
+different inhibitors have different mutations with different cross-resistance patterns. Many different resistance patterns exist with 
+many different resistant species and biotypes. In some cases, only 3 or 4 years of use have resulted in populations of ALS inhibitor-
+resistant weeds. ALS inhibitor-resistant crops have been selected for cell and tissue cultures, and some of these have been 
+commercialized. Crops with transgenes encoding herbicide-resistant forms of ALS are on the verge of being commercialized. 
+4.03.3.3.3 Glutamine synthetase 
+Glufosinate (2-amino-4-(hydroxymethylphosphinyl)butanoic acid) (Figure 4) is a broad-spectrum herbicide that inhibits the 
+enzyme glutamine synthetase (GS; Figure 3)[14]. It is not a low-use-rate herbicide. This commercial product is a synthetic D/L 
+racemic mixture of the natural product L-phosphinothricin, produced by Streptomyces spp. It is sold as ammonium salt. Only the 
+L-stereoisomer of phosphinothricin inhibits GS. No other commercial herbicide affects this target site other than the very minor 
+product bialaphos. Bialaphos is a tripeptide fermentation product of Streptomyces spp. Bialaphos itself has no in vitro effect on GS, so 
+the target plant must degrade it to active L-phosphinothricin for herbicidal activity. A number of other natural GS inhibitors are 
+known. 
+GS resides in the chloroplast and is intimately involved in assimilation of ammonia from light-driven reduction of nitrite. 
+Without GS activity, ammonia toxicity from accumulated ammonium ion causes rapid uncoupling of photophosphorylation, 
+inhibition or photosynthetic carbon fixation, and disruption of amino acid synthesis, upon which photorespiration depends. The 
+effects are much more rapid than those of glyphosate, with symptoms more like those of a photosynthesis inhibitor – leaf wilting, 
+followed by necrosis. 
+As, glufosinate, like glyphosate, is a broad-spectrum herbicide, it has been a candidate for the production of herbicide-resistant 
+crops. The pat and bar genes from two different species of Streptomyces encode enzymes that acylate glufosinate, inactivating it. The 
+bar gene has been used extensively as a selectable marker and is used to produce commercially available glufosinate-resistant maize, 
+cotton, canola, and soybean. These glufosinate-resistant crops have had a much smaller market share than glyphosate-resistant 
+crops because of the higher cost of the herbicide and its usually weaker performance as a broad-spectrum herbicide. However, no 
+weeds have evolved resistance to this herbicide, and it is being used increasingly in fields infested with glyphosate-resistant weeds. 
+4.03.3.4 Tubulin 
+Microtubules are composed of heterodimers of α- and b-tubulin subunits. The microtubule is a dynamic structure that assembles on 
+the one end and disassembles on the other. Plant cell division, elongation, and cell wall formation requires the proper functioning 
+of microtubules (Figure 3). A number of herbicides interfere with mitosis through their effects with the assembly of tubulin 
+subunits into functioning microtubules by either binding tubulin directly or interfering with microtubule-organizing centers or 
+microtubule-associated proteins (MAPs) that are involved in the proper assembly, disassembly, and functioning of microtubules. 
+These structurally diverse herbicides include dinitroanilines such as trifluralin, the pyridine thiazopyr, the substituted amides such 
+as dithiopyr, and the phthalate DCPA (Figure 4). Most of these herbicides are applied as preemergence, often soil incorporated, for 
+control of grass weeds in dicotyledonous crops. 
+The dinitroanilines bind directly to tubulin, the β-subunit, preventing assembly into microtubules. A typical symptom of these 
+herbicides is swelling of root tips. Cell division is arrested at the metaphase stage because microtubules are required to move the 
+condensed chromosomes to the new cell poles. Arrested metaphase results in a large proportion of mitotic cells being in a 
+permanent metaphase configuration. Other mitotic inhibitors cause similar symptoms, but some of these, such as dithiopyr, 
+may act through by binding to a MAP that is required for microtubule stabilization. 
+About 10 weed species have evolved resistance to some of the herbicides that interfere with microtubule formation. The 
+mechanism or resistance in some cases is an altered tubulin subunit and in other cases it is enhanced metabolic degradation. 
+4.03.4 Other Modes of Action 
+4.03.4.1 Auxinic Herbicides 
+The first synthetic herbicides were compounds that mimicked high doses of auxin (indole acetic acid), a natural plant hormone that 
+is required for cell elongation and growth, as well as other processes required for plant growth and development such as floral 
+meristem differentiation and apical dominance. Commercial versions of these compounds include the phenoxycarboxylic acids 
+such as 2,4-D, the benzoic acids such as dicamba, the quinoline carboxylic acids such as quinclorac, and the pyridine carboxylic 
+acids such as picloram (Figure 5). These herbicides are selective, killing only dicotyledonous plants, except in the case of the 
+quinoline carboxylic acids. They are foliarly applied and are translocated to all parts of the plant. Despite being the oldest synthetic 
+herbicides, their molecular target sites have been elusive for more than 60 years. 
+Auxinic herbicides initially cause extremely rapid growth concomitant with elevated metabolism, characterized by stem and leaf 
+curling, tissue swelling, and rapid longitudinal growth. Leaf petioles turn downward (epinasty). Synthesis of ethylene and abscisic 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+Bioactivity of Herbicides 33 
+O 
+OH 
+O 
+Cl Cl 
+2, 4-D 
+N 
+OHO 
+Cl 
+Cl 
+Quinclorac 
+O OH 
+O 
+HN 
+Auxinic-type 
+O 
+C 
+C 
+OH 
+O 
+OH 
+O 
+EndothallNaptalam 
+PicloramDicamba 
+Asulam 
+H2N S NH 
+O 
+O 
+O 
+O 
+F 
+F 
+HN 
+N 
+H O 
+N 
+O 
+HO 
+Cl 
+O 
+O OH 
+Cl 
+N 
+H2N Cl 
+O 
+OH 
+Cl 
+Cl 
+Diflufenzopyr 
+Auxin 
+transport 
+7,8-Dihydropteroate 
+synthase 
+Protein 
+phosphatase 
+Figure 5 Structures of the other herbicide classes mentioned in the text. 
+acid (ABA) is stimulated. This first phase is followed by inhibited growth and metabolism. High ABA levels result in stomatal 
+closure, which inhibits CO2 assimilation, resulting in reactive oxygen species formation. The final phase is senescence and cell 
+death. To be brief, auxinic herbicides deregulate growth processes [13]. 
+The F-box protein transport inhibitor response 1 (TIR1) binds both auxin and auxinic herbicides. This protein is the 
+recognition component of a ubiquitin ligase that is part of the ubiquitin–proteasome pathway for protein degradation. The 
+action of TIR1 in degradation of transcriptional repressor proteins is modulated by auxin. The binding site of auxin on TIR1 is 
+also bound by all auxinic herbicides, although it binds auxin with a higher affinity. All of this leads to transcription of auxin-
+responsive genes. In the case of auxinic herbicides, the system is overwhelmed with TIR1-binding molecules, leading to almost 
+complete derepression of these genes, leading to abnormally high levels of such gene products as ethylene. At this time, the 
+selectivity of auxinic herbicides to broadleaf plants is thought to be due to differences in TIR1 receptor families. There are other 
+auxin-binding proteins (ABPs) such as ABP1 that mediate ion fluxes and cell expansion. Not all auxinic herbicides bind all 
+ABPs. 
+As mentioned above, the quinoline carboxylic acids also kill some grass weeds. The symptoms are not the same as the effects on 
+dicotyledonous plants. The plants stop growing and become chlorotic, wilt, and finally die. This is caused by toxic levels of cyanide 
+accumulating from stimulated ethylene synthesis. 
+Worldwide, almost 30 weed species have evolved resistance to auxinic herbicides. Not much is known about the mechanisms of 
+resistance for most of these. The fact that a significant number of the resistant weed biotypes have multiple resistances to unrelated 
+herbicides suggests that metabolic degradation is a common mechanism of resistance. Mutants with altered TIR1 resistant to auxinic 
+herbicides have been produced in the laboratory, but the resulting phenotypes suggest that they would not be likely to survive in 
+nature. 
+Crops have been made resistant to 2,4-D by use of transgenes-encoding enzymes that degrade the herbicide. A bacterial 
+α-ketoglutarate-dependent dioxygenase that will degrade both 2,4-D and structurally related ACCase inhibitors has apparently 
+been very successful in several crops. These crops are slated to be commercialized in the near future. 
+4.03.4.2 Auxin Transport Inhibitors 
+For essential growth and development processes in plant, auxin must be transported to sites in the plant where it exerts the proper 
+effect. Diflufenzopyr and naptalam (Figure 5) are reported to inhibit auxin transport. They are primarily used for broadleaf weeds, 
+but also control some grasses. Diflufenzopyr apparently increases the activity of some auxinic herbicides on some weed species. 
+They apparently have a plasma membrane-binding site that is involved in intercellular movement of auxin. No weeds have evolved 
+resistance to these herbicides and the mechanism of crop resistance in the case of diflufenzopyr is rapid metabolic degradation. No 
+crops have been made resistant to these herbicides. 
+4.03.4.3 7,8-Dihydropteroate Synthase 
+Only one herbicide, asulam (Figure 5), acts by inhibiting folic acid synthesis. It is an analog of 4-aminobenzoate, one of the 
+substrates of 7,8-dihydropteroate synthase (DHPS), an enzyme in the pathway to folic acid. This target site was proven by both 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+34 Plant Systems 
+in vitro enzyme inhibition and resistance of a plant transformed with a resistant microbial form of DHPS. Asulam is a selective 
+herbicide with selectivity based on differential metabolic degradation. 
+The herbicidal symptoms are slowly developing chlorosis, stunted growth of new tissues, and slow senescence of mature tissues. 
+No weeds have evolved resistance to it, and no transgenic asulam-resistant crops are available. 
+4.03.4.4 Protein Phosphatase 
+Protein phosphatases (PPs) control a large number of signaling processes in plants. Endothall (Figure 5) inhibits one family of PPs, 
+the serine/threonine PPs. Inhibition of these PPs disrupts many cellular processes, leading to cellular death. When used as a foliar 
+spray, visual symptoms are similar to those of chilling injury with defoliation and brown, desiccated tissue. When applied in soil, it 
+inhibits root growth. Endothall is the only PP inhibitor herbicide. No weed has been confirmed to have evolved resistance to 
+endothall. 
+4.03.5 Parting Comments 
+The biological activity of herbicides is a broad topic, of which we have only given the reader a small taste. There are less than 20 
+molecular target sites for commercial herbicides. This seems to be an unusually small number of target sites, because there are 
+thousands of different proteins in plants, presumably conducting thousands of functions. We can only speculate as to why so few of 
+these potential target sites and cellular functions have been targeted. In some cases, such as with inhibitors of nucleic acid and 
+protein synthesis, the potential for mammalian toxicity may be too high. In other cases, there is redundancy in pathways, so that the 
+plant can overcome inhibition of a particular enzyme isozyme by having other isozymes or alternate pathways that will generate the 
+needed metabolite. Many enzymes are involved in secondary metabolic pathways that are useful in the plant’s responses to 
+environmental and biotic factors, but these are not essential in the short term in which farmers expect herbicides to work. Many 
+natural compounds appear to be good herbicides, and a large proportion of those for which the molecular target site is known do 
+not target sites of commercial herbicides. But, in general, these compounds are not suitable for commercialization because of 
+molecular complexity (cost), inadequate half-life in the environment, and/or physicochemical properties that restrict uptake and 
+translocation. Structural modification of the natural phytotoxin to improve its performance as a herbicide or to reduce its 
+complexity is usually not successful. However, the triketone HPPD inhibitors were developed by modification of the natural 
+triketone allelochemical leptospermone. 
+Finally, it is interesting that, in all cases, only one enzyme of each in the various biochemical pathway targeted by herbicides is 
+the target site of a commercial herbicide. In some cases, good inhibitors of other enzymes in the pathway have been discovered, but 
+the compounds are poor herbicides. In the case of GS, Protox, and ALS inhibitors, this may be because inhibition of these, but not 
+other enzymes of their pathways, results in the accumulation of highly toxic natural compounds (ammonia, Proto IX, and 
+2-oxybutyrate, respectively). 
+Molecular biology has given science new powerful tools for discovery of molecular target sites of new herbicides and for 
+determination of whether a particular target site is a viable herbicide target site [7]. For example, knocking out gene expression can 
+not only provide clues as to gene function, but can also suggest whether the inactivation of the gene product with a herbicide would 
+cause sufficient phytotoxicity to justify further research to find a compound that would target this site. Still, no new commercial 
+herbicide target sites have been introduced because these discovery approaches have become available. This may be in part due to 
+the overwhelming success of glyphosate-resistant crops, which has reduced the value of the synthetic herbicide market, making 
+introduction of new products more economically risky. 
+References 
+[1] Dayan FE and Duke SO (2003) Herbicides: Carotenoid biosynthesis inhibitors. In: Plimmer JR, Gammon DW, and Ragsdale NN (eds.) Encyclopedia of Agrochemicals, vol. 2, pp. 
+744–749. New York, NY: Wiley. 
+[2] Dayan FE and Duke SO (2010) Protoporphyrinogen oxidase-inhibiting herbicides. In: Krieger R, Doull J, Hodgson E, et al. (eds.) Haye’s Handbook of Pesticide Toxicology, vol. 2, 
+pp. 1733–1751. San Diego, CA: Academic Press/Elsevier. 
+[3] Dayan FE, Duke SO, and Grossmann K (2010) Herbicides as probes in plant biology. Weed Sci. 58: 340–350. 
+[4] Délye C (2005) Weed resistance to acetyl coenzyme A carboxylase inhibitors: An update. Weed Science 53: 728–746. 
+[5] Devine MD, Duke SO, and Fedtke C (1993) Physiology of Herbicide Action. Englewood Cliffs, NJ: Prentice Hall. 
+[6] Duke SO (1996) Herbicide-Resistant Crops. Boca Raton, FL: CRC Press. 
+[7] Duke SO, Baerson SR, and Gressel J (2009) Genomics and weeds: A synthesis. In: Stewart CN (ed.) Weedy and Invasive Plant Genomics, pp. 221–247. Singapore: Blackwell. 
+[8] Duke SO, Cedergreen N, Velini ED, and Belz RG (2006) Hormesis: Is it an important factor in herbicide use and allelopathy? Outlooks on Pest Management 2: 29–33. 
+[9] Duke SO and Powles SB (2008) Glyphosate: A once in a century herbicide. Pest Management Science 64: 319–325. 
+[10] Duke SO and Ragsdale NN (2005) Herbicide-resistant crops from biotechnology. Pest Management Science 61: 209–325. 
+[11] Duke SO, Wedge DE, Cerdeira AL, and Matallo MB (2007) Interactions of synthetic herbicides with plant disease and microbial herbicides. In: Vurro M and Gressel J (eds.) Novel 
+Biotechnologies for Biocontrol Agent Enhancement and Management, pp. 277–296. Dordrecht: Springer. 
+[12] Fedtke C and Duke SO (2005) Herbicides. In: Hock B and Elstner EF (eds.) Plant Toxicology, pp. 247–330. New York, NY: Dekker. 
+[13] Grossmann K (2010) Auxin herbicides: Current status of mechanism and mode of action. Pest Management Science 66: 113–120. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7
+Author's personal copy
+Bioactivity of Herbicides 35 
+[14] Lydon J and Duke SO (1999) Inhibitors of glutamine synthesis. In: Singh BK (ed.) Plant Amino Acids, pp. 445–464. New York, NY: Dekker. 
+[15] Patzoldt WL, Hager AG, McCormick JS, and Tranel PJ (2006) A codon deletion confers resistance to herbicides inhibiting protoporphyrinogen oxidase. Proceedings of the National 
+Academy of Sciences of the United States of America 103: 12329–12334. 
+[16] Senseman SA (2007) Herbicide Handbook. Lawrence, KS: Weed Science Society of America. 
+Relevant Websites 
+http://www.plantprotection.org – International Association for the Plant Protection Sciences; Classification of Herbicides. 
+http://www.weedscience.org – WeedScience.com. 
+Comprehensive Biotechnology, Second Edition, 2011, Vol. 4, 23-35, DOI: 10.1016/B978-0-08-088504-9.00273-7

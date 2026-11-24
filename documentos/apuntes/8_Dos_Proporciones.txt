@@ -1,0 +1,145 @@
+=== Fuente: 8_Dos_Proporciones.pdf ===
+
+• Prueba de Hipótesis sobre dos Proporciones. 
+ 
+1. Se definen las hipótesis H 0 y H 1 (unilaterales o bilaterales)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. Se define el nivel de significación  α = αo 
+ 
+3. Explicitación de los supuestos y elección del  estadístico cuya distribución muestral 
+es conocida: 
+ 
+- Muestras aleatorias de poblaciones independientes 
+- Poblaciones binomiales  
+- Si los tamaños de muestras son grandes se emplea la aproximación Normal 
+(TCL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Se determina la Región Crítica (RC) 
+ 
+  a) RC = {z:  |z| >  z1-α/2 }    donde z 1-α/2  es el cuantil 1-α/2 de la N(0; 1) 
+ 
+  b) RC = {z:   z > z 1-α}        donde z 1-α es el cuantil 1-α de la N(0; 1) 
+ 
+ c) RC = {z:   z < z α  }   donde z α es el cuantil α de la N(0; 1) 
+ 
+ 
+5. Se calcula el estadístico z. 
+ 
+ 
+6. Se verifica si z cae en la RC o fuera de ella y se concluye acorde. 
+ 
+ 
+)izquierda unilateral(::)
+)derecha unilateral(::)
+)bilateral(::)
+211210
+211210
+211210
+ppHppHc
+ppHppHb
+ppHppHa
+<=
+>=
+≠=
+( )
+( )
+21
+21
+21
+2
+2
+1
+1
+ˆ
+1,0
+11ˆ1ˆ
+nn
+XXp
+N
+nnpp
+n
+X
+n
+X
+z
++
++=
+≈
+      +−
+      − = &
+Ejemplo : En una Universidad un profesor de sociología sospecha que los mujeres 
+recuerdan más que los varones los vistosos anuncios publicitarios de una determinada 
+revista. Toma una muestra aleatoria de 200 varones de los cuales 50 recuerdan los 
+anuncios y de 200 mujeres de las cuales 70 recuerdan los anuncios. Con un nivel de 
+significación del 10% ¿qué conclusiones se obtienen?.   
+ 
+Respuesta : 
+ 
+1. Ho:   p M = p V  H1:   p M > p V  
+ 
+2.   α = 0,10 
+ 
+3. Supuestos: Muestras aleatorias de dos poblaciones independientes (varones y 
+mujeres), variables binomiales. Los tamaños de muestras son grandes y se puede 
+emplear la aproximación Normal (TCL) 
+ 
+4. El estadístico es z. 
+     zα ( 0,10) = 1,2815    
+ 
+ 
+ 
+5. El estadístico z es: 
+ 
+ 
+ 
+ 
+ 
+ 
+6. Se rechaza la hipótesis nula, con un nivel del 10% se concluye que las mujeres 
+recuerdan mejor los anuncios vistosos de cierta revista.  
+ 
+1,2815 
+0,10 
+0 
+z 
+( )
+30,0200200 120ˆ18,2
+200
+1
+200
+130,01*30,0
+200
+50
+200
+70
+=+==
+
+
+
+
+ +−
+
+
+
+
+ −
+= pz

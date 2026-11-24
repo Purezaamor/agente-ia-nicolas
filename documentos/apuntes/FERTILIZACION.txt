@@ -1,0 +1,44 @@
+=== Fuente: fertilizacion.xls ===
+
+--- Hoja: Sheet1 ---
+                                                      Unnamed: 0                  Unnamed: 1            Unnamed: 2                 Unnamed: 3            Unnamed: 4          Unnamed: 5 Unnamed: 6 Unnamed: 7
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+Dosis de fertilizacion nitrogenada y fosforada para Trigo y Maíz                                                                                                                                             
+                                                                                                                                                                                                             
+                                                           TRIGO Contenido hídrico del suelo Requerimiento (Kg. P)    Enrriquecimiento (Kg P)                        Dosis Total Kg PDA                      
+                                                          Lote 9          Capacidad de campo                  25.5                         10                                     177.5                      
+                                                         (Rojas)                        Seco                  19.6                         10                                       148                      
+                                                                                                                                                                                                             
+                                                          Lote 4          Capacidad de campo                  10.7                          5                                      78.5                      
+                                                     (Saforcada)                        Seco                   9.1                          5                                      70.5                      
+                                                                                                                                                                                                             
+                                                            MAÍZ Contenido hídrico del suelo Requerimiento (Kg. P)    Enrriquecimiento (Kg P)                        Dosis Total Kg PDA                      
+                                                          Lote 9          Capacidad de campo                    40                   xxxxxxxx                                       200                      
+                                                         (Rojas)                        Seco                  32.9                   xxxxxxxx                                     164.5                      
+                                                                                                                                                                                                             
+                                                         Lote 19          Capacidad de campo                  37.1                   xxxxxxxx                                     185.5                      
+                                                         (Rojas)                        Seco                  30.2                   xxxxxxxx                                       151                      
+                                                                                                                                                                                                             
+                                                                                                                                                                                                             
+                                                           TRIGO Contenido hídrico del suelo     N objetivo (Kg N) N disp. en el suelo (Kg N) N aportado por el PDA Dosis Total Kg UREA                      
+                                                          Lote 9          Capacidad de campo                   158                         40                  31.9               187.2                      
+                                                         (Rojas)                        Seco                   134                         40                  26.6               146.5                      
+                                                                                                                                                                                                             
+                                                          Lote 4          Capacidad de campo                    81                         40                  14.1                58.5                      
+                                                         (Rojas)                        Seco                    74                         40                  12.7                46.3                      
+                                                                                                                                                                                                             
+                                                            MAÍZ Contenido hídrico del suelo     N objetivo (Kg N) N disp. en el suelo (Kg N) N aportado por el PMA Dosis Total Kg UREA                      
+                                                          Lote 9          Capacidad de campo                   192                         70                    36               186.9                      
+                                                         (Rojas)                        Seco                   173                         70                  29.6               159.5                      
+                                                                                                                                                                                                             
+                                                         Lote 19          Capacidad de campo                   177                         70                  37.1               151.9                      
+                                                         (Rojas)                        Seco                   154                         70                  30.2               116.9                      
+--- Hoja: Sheet2 ---
+Empty DataFrame
+Columns: []
+Index: []
+--- Hoja: Sheet3 ---
+Empty DataFrame
+Columns: []
+Index: []

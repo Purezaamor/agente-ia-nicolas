@@ -1,0 +1,3008 @@
+=== Fuente: EAH Heat Abatement Guide 05232016.pdf ===
+
+HEALTH
+Heat Abatement
+Contributing authors are: 
+ Tom Bailey, DVM, MS, ACT  |  John Sheets  |  David McClary, DVM, MS, ACT 
+ Scott Smith, DVM  |  Allen Bridges, Ph.D.
+ Elanco Dairy Business Unit
+pg 1
+Contents  _____________________________________    1
+Acknowledgments  ____________________________    2
+Consequences of Heat Stress  __________________   3
+Introduction  ____________________________________   4
+Temperature-Humidity Index (THI)  _________________    4
+Dairy Cow Heat Production _______________________   5
+Heat Stress and Cow Body Temperature  ___________    5
+Body Temperature and Respiration Rates  ___________   7
+Consequences of Heat Stress  ____________________    8
+Milk Production Losses  ________________________    8
+Production and Metabolic Losses  _______________    8
+Reproductive Losses  ____________________________ 10
+Lameness and Laminitis  _________________________  12
+Dry Cow Cooling  _______________________________  12
+Cost of Cooling Dairy Cows  ______________________  15
+Mechanisms of Heat Abatement  _______________  17
+Introduction  ____________________________________ 18
+Components of Cow Cooling  _____________________ 18
+Areas for Cow Cooling Intervention  ________________ 18
+Shade Structures  _______________________________ 19
+Free Stall and Bed Pack Barns  ____________________ 19
+Heat Abatement in Pastured Dairy Cattle  ___________  20
+Air Velocity and Fans  ____________________________ 22
+Fan Characteristics  _____________________________  22
+Fan Maintenance  _______________________________  23
+Measuring Static Pressure and Airflow Ratio  ________  24
+Airflow Ratio for Evaluating Fans  __________________  24
+Fan Airstream Width for Effective Cow
+Velocity (ECV)  __________________________________  26
+Air Velocity and Low Volume/Low Speed or High
+Volume/Low Speed Fans  ________________________  27
+Fan Location and Ventilation Systems  ______________ 27
+Feed lane fans  ________________________________ 27
+Free stall fans  ________________________________  28
+Holding pen fans  ______________________________ 28
+Parlor Ventilation  ________________________________ 28
+Positive Pressure Tube Ventilation Systems  _________  29
+General Recommendations for Fan Usage  __________ 30
+Cooling Pads for Low-Profile, Cross-Ventilated (LPCV)
+or Tunnel Barns  ________________________________  30
+Drinking Water  _________________________________  31
+Evaporative Cooling  _____________________________ 32
+High Pressure Misters  ___________________________  34
+Feed Lane Soakers  _____________________________  35
+Feed Lane Soaker Installation  ___________________ 35
+Soaker System Components  _____________________  38
+Filters  _______________________________________ 38
+Electric Solenoid Valves  _______________________   38
+Pressure Reducers  ___________________________   38
+Nozzles and Tips  _____________________________  38
+Feed Lane Soaker Unit Parts  ____________________   39
+TeeJet® Clamp-on Nozzle Body  ________________   39
+TeeJet® Threaded Nozzle Body  ________________   39
+TeeJet® Nozzle Tips  __________________________   39
+Quick TeeJet® Caps with Gaskets  ______________   40
+Installation Tips  ________________________________   40
+Other Considerations  ___________________________   40
+Nozzle Supplies for Soaker System  ________________ 41
+TeeJet® brass nozzle body, check valve,
+and cap  _____________________________________ 41
+TeeJet® Turbo FloodJet® nozzles  _______________   41
+Quick TeeJet® with side diaphragm check valve  ___  41
+Feed Lane Soaker Operation  ____________________   42
+Holding Pen Cooling  ___________________________   43
+Holding Pen Soaker Systems  ____________________   45
+Single row of high capacity soaker nozzles  _______   45
+High Capacity Soaker on Sides of Holding Pen  _____   47
+Grid Soaker System over Holding Pen  ___________  48
+Parlor Exit Cooling  _____________________________   48
+Milking Parlor Platform Cooling  _________________   49
+Suppliers of Parts and Equipment  _____________   50
+Timers, Controllers, Solenoids, Pressure Reducers,
+Tips, and Nozzles  ______________________________  50
+Timers/Controllers  _____________________________   50
+Manufacturers  _________________________________  50
+Soaker Nozzles, Solenoids, Irrigation Parts
+Distributors  ___________________________________   50
+Large solenoid valves ___________________________   50
+References  __________________________________   51
+TABLE OF CONTENTS
+pg 2
+ACKNOWLEDGMENTS
+Technical and sales professionals from Elanco Dairy Business, Cargill, Balchem, 
+and Church and Dwight have made contributions with ideas, photographs, and 
+research. We would like to acknowledge the contributions of: Dr. Jeff Brose, 
+John Miller, Dr. Gene Boomer, Dr. Rick Rodriguez, Jeff Kearnan, and producers 
+too numerous to include that have contributed mechanisms for combating heat 
+stress in the dairy cow. 
+We gratefully acknowledge the dairy teams from Kansas State University (see 
+below), University of Arizona (Dr. Bob Collier, Dennis Armstrong), Dr. Matt Van 
+Baale with Mauw Dairies, Dr. Lance Baumgard with Iowa State University, 
+and University of Florida (Dr. David Bray, Dr. Charles Staples, Dr. Geoff Dahl, 
+and Dr. Pete Hansen) for the research they have conducted to help us better 
+understand and reduce heat stress in dairy cattle. Much of the information and 
+many of the illustrations are from the Kansas State University Dairy Cow Comfort 
+Consortium: J.P. Harner, the late J.F. Smith, M.J. Brouk and J.P. Murphy, 
+Cooperative Extension Service, Kansas State University, Manhattan, Kansas. 
+If we have failed to acknowledge anyone, we apologize and sincerely appreciate 
+the numerous contributions to our knowledge base around heat stress in dairy 
+cattle. We look forward to many more opportunities in the future. 
+Photos of equipment used for heat abatement systems in this article are not 
+endorsements or recommendations of that specific equipment or brand. 
+They are simply examples of equipment that may be used for various heat 
+abatement systems. Contact a local dealer or installer who can address your 
+specific needs for a heat abatement system.
+pg 3
+CONSEQUENCES  
+OF HEAT STRESS
+Photo compliments of Dr. Gordie Jones
+CONSEQUENCES OF HEAT STRESS
+CONSEQUENCES OF HEAT STRESS
+pg 4
+CONSEQUENCES OF HEAT STRESS
+INTRODUCTION
+Dairy cows are among the most sensitive to heat 
+stress of any domestic animal. Heat stress negatively 
+affects dairy cattle during a portion of the year in most 
+dairy-producing countries of the world. Economic 
+losses associated with heat stress incurred by U.S. 
+dairy farmers have been estimated at approximately 
+$900 million per year (St. Pierre et al., 2003). 
+The optimal temperature range for dairy cattle is 40 
+to 60°F. High milk-producing dairy cows can exhibit 
+mild heat stress at ambient temperatures as low as 
+65°F, with heat stress susceptibility directly related 
+to level of milk production and dry matter intake.
+TEMPERATURE-HUMIDITY 
+INDEX (THI)
+In addition to environmental temperature, humidity 
+is also important in determining if a cow may 
+become susceptible to heat stress. As the humidity 
+increases, the ability to cool cows by evaporative 
+cooling is reduced; thus, a combination of 
+temperature and humidity or temperature-humidity 
+index (THI) is an important consideration when 
+evaluating heat stress load. Current standards 
+denote 68 as the typical THI when cows begin to 
+suffer mild heat stress. In high producing cows, that 
+value is lower due to the added metabolic heat that 
+is a by-product of additional feed intake and milk 
+production. Increasing milk production from 77 to  
+99 pounds per day lowers the threshold for heat 
+stress by 9°F (Berman, 2005).
+The THI for dairy cows differs from the heat index (as 
+reported for meteorological purposes) for people due 
+to physical and physiological difference in humans 
+and cattle. Figure C1 on page 6 demonstrates the 
+interaction of ambient temperature and humidity or 
+THI in dairy cattle as well as in humans. This manual 
+will focus solely on the interactions of environmental 
+humidity and temperature in dairy cows. 
+In very low relative humidity environments (10 to 
+20%), such as that commonly seen in the southwest 
+US, cows typically start to experience mild heat 
+stress at 75 to 77°F (THI = 68). In high relative 
+humidity environments (50 to 60%), such as those 
+commonly seen in the Midwest or southeast US, 
+cows typically experience mild heat stress at 72°F. 
+In extremely high relative humidity environments 
+(80 to 90%), cows experience severe heat stress 
+at environmental temperatures in the low 80s. 
+Many areas of the country experience summer 
+temperatures greater than 90°F with high relative 
+humidity; thus, cows experience severe and even 
+dangerous heat stress for portions of the day. The 
+relative degrees of heat stress (Figure C1) are mild 
+(THI = 68), moderate (THI = 72), severe (THI = 80), 
+and dangerous (THI > 90). Combining the metabolic 
+heat produced by a few hundred cows with high 
+environmental temperature and humidity, the 
+opportunity for heat stress becomes quite apparent, 
+especially considering cattle are not very heat 
+tolerant. Even in the evening, when environmental 
+temperatures usually decline, relative humidity 
+Cow(s) standing, perching, and panting to combat heat stress – 
+such actions increase chances of lameness and laminitis
+pg 5
+CONSEQUENCES OF HEAT STRESS
+often increases, meaning the THI may remain above 
+the THI threshold for dairy cattle.
+How do dairy cattle respond to these changes in 
+the heat index? Figure C2 on the following page 
+illustrates the effects of THI on cow body temperature 
+over a 3-day period in a cross-ventilated barn utilizing 
+high-pressure misters to cool cows (Tom Bailey, 
+Elanco Dairy Business, data on file). Cow body 
+temperatures, barn temperatures, and humidity 
+were collected every 5 minutes over the three-day 
+audit period. The red line represents hourly mean 
+cow body temperatures (right vertical axis scale) 
+from 8 cows over the 72-hour audit period while the 
+black line (left vertical axis scale) is the calculated 
+barn THI. The black squares represent milking times 
+over the 72 hours. In this facility at a THI of 79, body 
+temperatures reached 104.5°F or greater. On the 
+second day of the evaluation, the heat index declined 
+from 74 to 64; however, body temperatures remained 
+between 102.8 and 104.5°F. Body temperatures did 
+not return to normal (101.5°F) until the heat index 
+reached 65. The dashed line indicates the body 
+temperature point where embryo loss is possible 
+(102.2°F). Cow body temperatures were well above 
+this mark until the heat index dropped below 65. 
+The threshold for heat stress is even lower for higher 
+producing cows. In an attempt to prevent cows from 
+over-heating, fan and soaker operation should be 
+initiated at a THI of 65-66 in specific groups of cows 
+with higher production, higher dry matter intake, and 
+those cattle eligible for breeding.
+DAIRY COW HEAT PRODUCTION
+In addition to the effects of environmental 
+temperatures and humidity, dairy cows generate a 
+considerable amount of internal heat through the 
+processes of rumination and metabolism. A high-
+producing dairy cow can produce 4,500 to 6,000 
+BTUs per hour, or roughly the equivalent amount of 
+heat produced by a 1,500-watt hair dryer each hour 
+(Harner et al., 2000). Heat production is increased 
+27.3% in cows producing 41 pounds of milk per day 
+and 48.5% in cows producing 70 pounds of milk 
+per day, compared to non-lactating cows (Purwanto 
+et al. 1990). Combining high environmental 
+temperature and humidity with the heat generated 
+by a few hundred cows, the likelihood for heat stress 
+is quite high during warm seasons. 
+HEAT STRESS AND COW BODY 
+TEMPERATURE
+When experiencing moderate, prolonged heat 
+stress, a cow’s body temperature may rise to 
+103 to 104°F. As the THI moves into the severe or 
+dangerous zone, body temperature may rise to 
+105°F or higher. With a prolonged body temperature 
+of greater than 106°F, there is a high probability 
+of death. In warm climates, the environmental 
+temperature and humidity (high THI) may create 
+conditions where severe heat stress can occur 
+through evening hours, preventing a cow’s core 
+body temperature from returning to normal (101.5°F). 
+Figure C3 on page 7 demonstrates the effect 
+of ambient temperature and humidity (THI) on 
+cow body temperature (Tom Bailey, Elanco Dairy 
+Business, data on file). Body temperatures were 
+recorded every 5 minutes in eight cows via an 
+intravaginal temperature monitoring device. Five 
+minute temperature readings were averaged to  
+give hourly temperature readings over 72 hours. 
+Cow body temperatures (solid dark blue line) were 
+above 102.5°F for the majority of the monitoring 
+period and fluctuated over time. Body temperatures 
+pg 6
+CONSEQUENCES OF HEAT STRESS
+Stress threshold for lactating cows. Respiration rate may exceed 60 BPM. Milk losses begin ~ 2.5 lbs/cow/day. Reproductive 
+loses are detectable and rectal temperatures may exceed 102.5°F. Caution for people depending on age, exposure and activity. 
+People may not feel heat stress until 80°F and 40% humidity. 
+Mild to moderate stress for lactating cows. Respiration rates may exceed 75 BPM. Milk losses ~ 6lbs/cow/day. Rectal 
+temperatures will exceed 102.2°F at 72 to 73 THI and may be closer to 103.5°F and above at a 78 to 79 THI. Extreme caution 
+for people depending on age, exposure, and activity. 
+Moderate to severe stress for lactating cows. Respiration rate exceeds 85 BPM. Milk losses ~8.7 lbs/cow/day. Rectal 
+temperate exceeds 104°F. Danger for people depending on age, exposure, and activity. 
+Severe stress! Life threatening conditions for lactating cows. Respiration rates are 120-140 BPM. Rectal temperatures may 
+exceed 106°F. Extreme danger of heat exhaustion and/or heat stroke for people when working in these conditions. 
+Figure C1.  Temperature Humidity Index (THI) is used to predict the thermal stress on dairy cows based on the combination of actual 
+temperature and relative humidity
+Figure C2. Effect of THI on dairy cow body temperature
+Adapted from Reneau, J. 2012
+Temperature Humidity Index (THI)
+101.0
+101.5
+102.0
+102.5
+103.0
+103.5
+104.0
+104.5
+105.0
+55.0
+60.0
+65.0
+70.0
+75.0
+80.0
+85.0
+THI Cow Body Temp Milking Times
+Cow Body Temperature °F
+Minnesota Cross-vent barn1
+North side of Barn 
+June 7 to June 10, 2011
+100 to 200 DIM
+Possible embryonic loss
+Data by Bailey, Elanco Dairy Business
+pg 7
+CONSEQUENCES OF HEAT STRESS
+Data by Bailey, Elanco Dairy Business
+Figure C4.  Impact of temperature, humidity, and time of  
+milking on cow temperature when heat abatement 
+systems are used.
+101. 5
+102. 0
+102. 5
+103. 0
+103. 5
+104. 0
+104. 5
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+12 18 0 6 12 18 0 6 12 18 0 6
+Amb Temp             ENV  %R H                    Cow Temp           M i l k i ng 
+Cow Body Temperature °F
+Environmental Temp and Relative Humidity %
+Hour of Day
+Figure C4. Impact of temperature, humidity, and time of milking on 
+cow temperature when heat abatement systems are used
+Data by Bailey, Elanco Dairy Business
+101.5
+102.0
+102.5
+103.0
+103.5
+104.0
+104.5
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+9 15 21 3 9 15 21 3 9 15 21 3
+Amb Temp Env %RH Cow Temp Milking
+Cow Body Temperature °F
+Environmental Temp and Relative Humidity %
+Hour of Day
+Figure C3. Impact of temperature, humidity, and time of milking on 
+cow temperature when heat abatement systems are not used
+Amb Temp             ENV  %R H                    Cow Temp           M i l k i ng 
+Figure C3.  Impact of temperature, humidity, and time of  
+milking on cow temperature when heat abatement 
+systems are not used.
+increased at each of two daily milkings (red squares), 
+which was likely an effect of heat stress conditions in 
+the holding pen and parlor. Following each milking, 
+body temperatures approached the critical level 
+of 104°F. Figure C4 represents the same herd the 
+following year after heat abatement strategies were 
+implemented. Note that with heat abatement, body 
+temperatures (right axis scale) fluctuated but did not 
+exceed 103°F even though ambient temperatures 
+(left axis scale) were slightly higher than the previous 
+year and cows were being milked 3 times per day 
+versus 2 times per day in the prior year.
+BODY TEMPERATURE AND 
+RESPIRATION RATES
+In cattle, an estimate of body temperature can 
+be made by measuring respiratory rate. Because 
+cows are quite dependent on respiration (expired 
+air) for dissipating body heat, respiratory rates 
+increase with body temperature. Figure C5 on 
+page 9 demonstrates the high correlation between 
+body temperature and respiration rate. As body 
+temperatures increase, respiration rates increase 
+proportionately. Breathing rates can be monitored 
+by observing movements of the flanks or the nostrils 
+as cows respire.
+To estimate a cow’s body temperature based on 
+respiration rate, count respirations for 20 seconds, 
+and multiply by 3 to determine respirations per 
+minute. Apply the respiratory rate to the chart to 
+get an estimate of body temperature. For example, 
+normal respiratory rate for cattle is 40 to 45 times 
+per minute, which equates to a body temperature 
+of 101.5°F. At 60 respirations per minute, cows 
+are in heat stress with a body temperature of 
+approximately 102.5°F. If the respiratory rate is  
+80 breaths per minute, a cow’s body temperature 
+can be estimated at 103.0 to 103.5°F. It is best to 
+determine respiratory rates while cows are at rest 
+and not being moved.
+Cows often experience the most severe heat  
+stress challenge while in the milking parlor  
+holding pen. If heat stress is suspected while 
+pg 8
+CONSEQUENCES OF HEAT STRESS
+cows are in a holding pen, respiration rates can be 
+recorded before cows are moved into the holding 
+pen and again immediately upon exiting the milking 
+parlor. To determine the approximate mean body 
+temperature for cows in a group, obtain rates from 
+10 to 12 cows in each group being monitored.
+The respiration rates of cows can also be monitored 
+late in the evening when ambient temperatures have 
+declined. Even though environmental temperatures 
+may drop, an increase in humidity can cause the  
+THI to be higher in the evening compared to the day. 
+If respiratory rates remain above 60 per minute,  
+heat abatement strategies should continue during 
+the evening hours. Some of the highest body 
+temperatures have been recorded between 11:00 p.m.  
+and 2:00 a.m. In addition to evening hours, cows 
+should be observed in the early morning to determine 
+if core body temperature has returned to normal 
+(101.5°F) during the night hours.
+CONSEQUENCES OF HEAT STRESS
+Heat stress in the dairy cow impacts several body 
+systems, resulting in severe and interrelated effects 
+that can negatively impact a number of physiological 
+and production parameters. The overall impact 
+depends on the severity and duration of heat stress 
+and the resulting elevation in body temperature. 
+Direct effects of heat stress in dairy cows include: 
+• reduced milk production (35 to 50% in non-cooled 
+cows and potentially 10 to 15% in cooled cows) 
+• reduced feed intake (up to 50% in non-cooled 
+cows and 10 to 15% in well cooled cows)
+• rumen acidosis 
+• milk fat depression
+• reduced reproductive efficiency
+• early calving and lower birth weights in calves 
+• laminitis or lameness
+• compromised immune system
+• increased incidence of infectious diseases, 
+including mastitis and metritis 
+• body weight loss and reduced body condition score
+Milk Production Losses
+Summer heat stress impacts milk production. 
+Figure C6 on the following page shows a herd 
+that suffered a significant drop in milk production 
+during summer heat stress periods. For two 
+consecutive years, test day and 150-day milk 
+production declined over 20 pounds per day during 
+warm months compared to production in the cooler 
+months. After fans and feed lane soakers were 
+installed, the decline in summer milk production 
+was less than 10 pounds per cow per day, and 
+production recovered more rapidly as the weather 
+cooled. Cows also tended to produce milk at higher 
+levels in subsequent cooler months.
+Production and Metabolic Losses
+Cows under heat stress commonly undergo various 
+degrees of reduced milk production, with the 
+magnitude related to the severity and duration of 
+the heat stress episode. A decline in milk yield and 
+excessive loss in body weight or body condition are 
+primarily related to reduced feed intake; however, 
+the decrease in milk production cannot be explained 
+completely by reduced feed intake. Rhoads et al. 
+(2009) determined that heat-stressed dairy cattle do 
+not mobilize body fat when dry matter intake declines, 
+as seen in cows during early lactation. In fact, milk 
+production may decline 15 to 20 pounds per day while 
+dry matter intake may only decline 4 to 5 pounds. 
+Furthermore, they demonstrated the decline in dry 
+matter intake accounted for only approximately 50% 
+of the decline in milk production. The other 50% was 
+due to a cow’s body partitioning or diverting glucose 
+(blood sugar used for milk production) away from the 
+pg 9
+CONSEQUENCES OF HEAT STRESS
+Elanco	  customer	  data	  on	  ﬁle.	  Reference	  #2713.	  	  
+Heat	  
+Stress	  
+Heat	  
+Stress	  
+Heat	  
+Stress	  
+Heat	  abatement	  systems	  implemented	  	   Improved	  milk	  produc?on	   associated	  with	  heat	   abatement	  
+Pounds	  of	  milk	  
+0
+20
+40
+60
+80
+100
+120
+101.0 102.0 103.0 104.0 105.0
+Respiration Rate
+(Breaths/ min)
+Body Temperature ( oF )
+R = 0.73, P < 0.001
+Figure C5.  Relationship between respiration rate and body temperature
+Figure C6.  Milk production during summer heat stress before and after heat abatement system implementation
+Smith et al., 2003
+Elanco customer data on file. Reference #2713
+pg 10
+CONSEQUENCES OF HEAT STRESS
+mammary gland for use by other body systems. 
+If glucose is utilized for other body functions, it is 
+less available to the mammary gland for lactose 
+production; thus, milk production is reduced.
+Figure C7 demonstrates the difference in non-
+esterified fatty acids (NEFA) utilization for energy in 
+underfed cattle compared to heat-stressed cattle. 
+Underfed cattle (dry matter intake of underfed 
+cattle equal to intake of heat stressed cattle) 
+not experiencing heat stress will mobilize body 
+fat; hence, the circulating NEFA concentration is 
+increased. On the other hand, a heat-stressed cow 
+will avoid burning fat for energy as mobilizing and 
+burning fat will increase the energy of metabolism 
+and heat increment by 14% compared to using 
+glucose as an energy source. Cattle in a heat-
+stressed environment are often short on available 
+glucose, so they should be fed to increase glucose 
+precursors or propionate. Under severe or prolonged 
+heat stress, cows may utilize body protein sources, 
+breaking down muscle as a source of amino acids 
+for gluconeogenesis (the production of glucose).
+Cows under heat stress may also be susceptible 
+to acidosis for a number of reasons. Because feed 
+intake is reduced during heat stress nutritionists 
+often increase the concentrate to forage ratio to 
+increase ration energy, possibly resulting in lower 
+rumen pH and a more acidotic rumen environment. 
+With less forage in the diet, there is less cud 
+chewing and reduced saliva production, reducing 
+the amount of bicarbonate available to the rumen. 
+Severely heat stressed cows tend to breath with 
+their mouth open resulting in more CO2 being blown 
+off through the respiratory system, increasing the 
+potential for metabolic acidosis. Cows open mouth 
+breathing also have a tendency to lose saliva (rumen 
+buffering capacity) through drooling. Dietary changes 
+and acidosis may also have a negative effect on milk 
+components, especially milk fat. Milk fat is typically 
+lower during summer months. A portion of lower 
+milk fat is likely due to some of the physiological 
+changes associated with heat stress.
+Heat stress may also negatively affect gastrointestinal 
+health and function and induce leaky gut syndrome 
+in the dairy cow (Sanz-Fernandez et al., 2015). Cows 
+with leaky gut have reduced nutrient absorption and 
+increased release and absorption of the endotoxin 
+lipopolysaccharides (LPS) from the gut. The release of 
+LPS into circulation stimulates an immune response 
+and negatively affects liver function. Altered liver 
+function may contribute to ketosis and fatty liver at 
+subsequent calvings.
+REPRODUCTIVE LOSSES
+Heat stress can reduce reproductive efficiency in a 
+number of ways. First, during periods of heat stress, 
+cows are less active and less likely to exhibit estrous 
+activity (show heat). Duration of estrous expression 
+(heat) is reduced in cows experiencing heat stress. 
+Possibly even more critical, in cows that conceive, 
+the bovine embryo is highly susceptible to heat 
+stress during the first six days of embryonic life (see 
+Figure C8). If body temperatures exceeds 102.2°F, 
+0
+100
+200
+300
+400
+500
+600
+1 2 3 4 5 6 7 8 9
+Heat-stressed
+Underfed
+Figure C7. Heat stress and adipose mobilization in dairy cows
+Day
+Non-esterified fatty acids (NEFA;uEq/l)
+Figure C7. Heat stress and adipose mobilization in dairy cows
+Adapted from Wheelock et al., 2006 and Rhoads et al., 2009
+pg 11
+CONSEQUENCES OF HEAT STRESS
+Figure C9. Improvements in pregnancy risk with implementation of 
+improved heat abatement 
+Large dairy in California: Bredsum\RD3000
+Heat abatement 
+strategies improved
+Estimated improvement in  pregnancy 
+rates due to improved heat abatement
+2011                2012                2013                  2014                2015
+Oviduct Uterus
+Day 1 Day 1-2 Day 5 Day 6 - 7 Day 8 Day 9
+Lack of Heat Tolerant Protein
+Susceptibility to embryonic loss 
+when body temperatures 
+rise above normal (102.2°F)
+Day of embryonic development
+Figure C8. Heat stress and embryonic development in dairy cows
+Figure C9.  Improvements in pregnancy risk with  
+implementation of improved heat abatement 
+Figure C8. Heat stress and embryonic development in dairy cows
+the cow is at a greater risk of early pregnancy loss, 
+possibly reducing conception rate by as much as 
+30%. Reproductive losses can occur even with 
+body temperatures less than 102.5°F, (Hansen, 
+2007). Early pregnancy losses from heat stress are 
+not often readily apparent as estrous cycle length 
+may not be altered. The only indication of a problem 
+may be a reduction in reproductive efficiency as 
+measured by lower conception rates or pregnancy 
+rates. Figure C9 shows pregnancy risk data from 
+a large California dairy. Two key observations can 
+be made from this data. First, during summer heat 
+stress, reproductive efficiency decreases, but those 
+losses can be partially mitigated by improved heat 
+abatement strategies. Although a heat abatement 
+program may not restore pregnancy rates to levels 
+achieved during cooler months, improvements in 
+heat abatement lessened the negative impact of 
+summer heat stress on reproductive efficiency. 
+Second, reproductive losses can occur prior to 
+obvious signs of heat stress, and reduced fertility 
+may extend for 60 days after the heat stress period.
+Under severe or prolonged heat stress, an increased 
+incidence of abortion may be seen due to the 
+production of stress hormones such as cortisol. 
+Cows near term may calve early (Dahl et al., 2016), 
+resulting in an increased incidence of weak or still 
+born calves, plus an increased incidence of retained 
+fetal membranes and metritis.
+Data on file with Elanco
+Hansen, P. J. 2007
+pg 12
+CONSEQUENCES OF HEAT STRESS
+LAMENESS AND LAMINITIS
+Cows experiencing heat stress are more susceptible 
+to lameness and laminitis. If cows are suffering 
+some level of rumen acidosis associated with heat 
+stress, they are more prone to laminitis. Because 
+respiration is easier when standing compared to 
+lying down, cows tend to stand more during heat 
+stress, putting additional pressure on feet and legs. 
+Cows housed in free stall barns may perch or stand 
+with all or front feet in stall to ease breathing in  
+times of heat stress.
+DRY COW COOLING
+Dry cow cooling is a critical component of The 
+Vital 90TM Days. The first day of the dry cow period 
+should be considered the first day of the next 
+lactation. During the dry period, the mammary gland 
+is being prepared for the next lactation. Mammary 
+secretory cells are growing and developing in 
+preparation for milk production. Hormonal signals 
+from the calf cause the mammary gland to increase 
+milk secretory cell numbers and milk-producing 
+ability. A cow calves with essentially the maximal 
+number of the secretory cells that she will have 
+for that lactation.1 Nutritional and environmental 
+management of the dry cow period and The Vital 
+90™ Days2 is critical for a successful lactation.
+Researchers at the University of Florida have 
+conducted numerous studies evaluating how 
+cooling dry cows impacts performance during the 
+dry period and subsequent lactation (see Table 1  
+on the following page for citations). In these 
+studies, cows were divided into two groups at dry 
+off, cooled and non-cooled. Cows remained in their 
+assigned group for the full 45- to 46-day planned 
+dry period. Cooled cows were provided feed lane 
+soakers and fans while non-cooled cows received 
+no heat abatement (no fans or soakers). Study 
+cows were monitored through the dry period and 
+calving. Post calving, all study cows (cooled and 
+non-cooled) went into the same lactation group with 
+cooling throughout the subsequent lactation. Milk 
+production and other parameters were monitored 
+from calving through 140 to 294 days of lactation, 
+depending on the study. 
+Figure C10 on the following page illustrates 
+the results of one of the studies (do Amaral et al., 
+2009). Cows that were cooled during the dry period 
+produced significantly more milk beginning at  
+day 70 and continuing through the remainder of 
+lactation. Udder biopsies showed that cooled 
+cows had a larger number of functional mammary 
+secretory cells, contributing to an increased 
+capacity to produce more milk.
+Of the six studies conducted at the University of 
+Florida during the summer months between 2008 
+and 2013 (see Table 1 on the following page), all 
+showed an increase in milk yield in cows cooled 
+during the dry period compared to non-cooled 
+dry period cows. In these studies, the increase in 
+average daily milk production ranged from 5.1 to 
+16.5 pounds in cooled cows compared to non-
+cooled cows. In the study where the difference was 
+5.1 pounds of milk per day, the 3.5% fat corrected 
+milk difference was 10.1 more per day in cooled 
+cows, indicating higher milk fat yield in these cows. 
+In addition to increased milk production, cooled 
+cows consumed more feed at calving (see Figure 
+C11 on page 14). In one study, Tao et al. (2012) 
+showed birth weights of calves from cows cooled 
+during the dry period were increased approximately 
+13 pounds and weaning weights were increased 
+27.7 pounds compared to calves from cows not 
+cooled during the dry period. 
+1  Capuco AV, Wood DL, Baldwin R, Mcleod K, Paape MJ. Mammary cell number, proliferation, and apoptosis during a bovine  
+lactation: Relation to milk production and effect of bST. J Dairy Sci. 2001;84:2177-2187.
+2 The Vital 90 is a trademark owned or licensed by Eli Lilly and Company, its subsidiaries, or affiliates.
+pg 13
+CONSEQUENCES OF HEAT STRESS
+0
+20
+40
+60
+80
+100
+0 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30
+3.5% FCM (Lbs/d)
+Week of lactation
+* * * * * * * * * * * * * * * *
+*P < 0.05Non-cooled Cooled
+Furthermore, non-cooled, dry cows calved on 
+average 2 to 8 days prior to their anticipated calving 
+date and had reduced immune function compared 
+to cooled cows (Thompson et al., 2014). Although all 
+cows have compromised immunity around calving, 
+heat stress further exacerbates immune dysfunction. 
+After calving, non-cooled cow’s neutrophils (white 
+blood cell that helps fight infection) were less able 
+to consume (phagocytosis) and kill (oxidative burst) 
+invading bacteria (see Figure C12 on page 14) 
+compared to cooled cows. Thus, heat-stressed  
+cows are less able to defend against bacterial-
+causing diseases such as mastitis, metritis, and 
+other infections occurring during The Vital 90™ Days. 
+Cooling cows during the dry period and late gestation 
+may influence the subsequent performance of their 
+heifer calves. Dahl et al. (2015) demonstrated that 
+heifer calves from cows not cooled during the dry 
+period had lower pre-pubertal growth rates, had 
+poorer reproductive performance, and produced 
+less milk during their first lactation than heifers from 
+cows that were cooled.
+Study 
+Site
+Cooling 
+Method
+Lactation 
+Period (d)
+Milk Yield (lb) Cooling 
+Advantage 
+(lb)
+P-
+valueCooled Non-Cooled
+Florida1 Fans & Sprinklers 210 74.1 57.6 +16.5 0.04
+Florida2 Fans & Sprinklers 140 75.9 70.8 +5.1 0.09
+Florida3 Fans & Sprinklers 280 74.6 63.6 +11.0 0.03
+Florida4 Fans & Sprinklers 294 74.8 60.9 +13.9 0.01
+Florida5 Fans & Sprinklers 280 74.4 66.0 +8.4 0.10
+1do Amaral et al., 2009              4Tao et al., 2012
+2do Amaral et al., 2011              5Thompson et al., 2014
+3Tao et al., et al., 2011
+Table 1.   Studies summarizing the effect of dry cow cooling on milk production in subsequent lactation
+Figure C10. Cooling cows prepartum and milk production in the subsequent lactation
+do Amaral et al. 2011
+pg 14
+CONSEQUENCES OF HEAT STRESS
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+-42 -28 -14 0 +14 +28 +42
+DMI, % BW
+Time relative to calving, d
+Figure C11. Cooling cows prepartum and dry matter intake (DMI)
+Non-cooled 
+Cooled
+* P < 0.05
+*
+* P < 0.05
+Non-cooled
+Cooled
+* P < 0.05
+Non-cooled
+Cooled
+Neutrophil
+do Amaral et al. 2011
+do Amaral et al. 2011
+Figure C11. Cooling cows prepartum and dry matter intake (DMI)
+Figure C12. Cooling cows prepartum and neutrophil function after calving
+pg 15
+CONSEQUENCES OF HEAT STRESS
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Pounds of Milk per Day 
+Daily Milk Production and Difference 
+(cooled vs. no cooling)
+Fans & soakers Fans only Difference
+-10
+*10-pound average difference for four months
+COST OF COOLING DAIRY COWS
+Installation of an effective cow cooling system, 
+including fans and soaker lines along feed lanes and 
+holding pens, can represent a significant investment. 
+Dairy farmers often ask, “Will I see a return on this 
+investment?” This question is best answered by 
+providing case studies where effective heat abatement 
+systems have been installed. In one such example, 
+milk production was compared before and after 
+addition of feed lane soakers to existing fans in a large, 
+Midwestern freestall dairy farm. Milk production in 
+6,000 cows cooled with fans alone was compared 
+to milk production in 6,000 cows cooled with fans 
+and feed lane soakers. Beginning in late June and 
+continuing through September 2002, cows cooled with 
+fans and soakers produced on average 10 pounds 
+more milk per day compared to cows cooled with fans 
+alone (see Figure C13). This difference represented 
+60,000 additional pounds of milk production per day 
+for approximately four months. 
+Heat abatement provides economic returns to 
+a dairy, regardless of herd size. Other potential 
+benefits include a decrease in lameness, an 
+increase in reproductive efficiency, a decrease in 
+rumen acidosis, a decrease in other health-related 
+events, and a potential decrease in the number of 
+cows leaving the herd prematurely.
+Figure C13. Seasonal milk production in herd with fans or 
+fans and soakers
+Harner, Smith, Brouk, and Murphy. 2002. Unpublished field data from Midwestern Dairy. Kansas State Cow Comfort consortium
+Figure C13. Seasonal milk production in herd with fans or fans and soakers
+pg 16
+CONSEQUENCES OF HEAT STRESS
+MECHANISMS OF  
+HEAT ABATEMENT
+MECHANISMS OF HEAT ABATEMENT
+pg 17
+MECHANISMS OF HEAT ABATEMENT
+pg 18
+MECHANISMS OF HEAT ABATEMENT
+INTRODUCTION
+Heat abatement, or cooling of dairy cows during 
+periods of heat stress, is critical for maintaining 
+production efficiency, reproductive performance, 
+and cow welfare3. This section of the manual 
+addresses the mechanics for cow cooling. The 
+principles and recommendations listed are a 
+compilation of information on heat abatement 
+from numerous sources. Always consult your local 
+experts when installing a new heat abatement 
+system or upgrading an existing systems.
+COMPONENTS OF COW COOLING
+There are four primary components of cow cooling:
+All four of these components are required  
+for effective cow cooling.
+AREAS FOR COW COOLING 
+INTERVENTION
+When implementing cow cooling strategies, start 
+with the area(s) where heat stress is most severe or 
+heat abatement is easiest and most economically 
+implemented. The following order of priority should 
+be considered in most operations:
+• Milking center holding pen: Cows often suffer 
+heat stress when crowded into holding pens, 
+especially during hot weather. This area is often 
+the simplest and least expensive to equip with 
+soakers and fans. 
+• Far-off and close-up dry cows: Extensive 
+research (see Consequences section) has shown 
+that cows cooled with fans and feed lane soakers 
+during the dry period have increased milk yield 
+during the subsequent lactation plus, these cows 
+have improved immune function. Pre-pubertal 
+growth and reproductive performance of heifer 
+calves from cows cooled during the dry period  
+are improved compared to heifer calves from  
+non-cooled cows (Dahl et al., 2016).
+• Maternity pens: Soakers and fans over feed lanes, 
+and fans over free stalls or bed packs are effective 
+cooling methods that will increase dry matter intake.
+• Fresh cow and heifer groups: Feed lane soakers 
+and fans over free stalls or bed packs contribute 
+to increased dry matter intake in early lactation.
+• High production lactating group: Soakers and 
+fans over feed lanes and fans over free stalls or 
+bed packs are recommended for this group of 
+cows (see Consequences section). 
+•  Milk parlor: Effective air velocity will help cool cows, 
+especially if the cows are soaked in the holding pen 
+prior to parlor entry. Air velocity in the parlor also 
+improves the environment for employees during 
+warmer weather.
+•  Milk parlor exit lane: Soakers that thoroughly wet 
+cows prior to the cows returning to pens or lots 
+should be considered if there is limited opportunity 
+to soak cows in other areas. Ample drinking water 
+should be provided in exit lanes. 
+•  Hospital pen: Soakers and fans over feed lanes 
+and fans over free stalls or bed packs should also 
+be incorporated in hospital pens.
+• Work areas: Fans over work areas, such as foot 
+trimming tables, management or palpation rails, 
+and cattle chutes are important for cow and 
+employee comfort. 
+WATER
+ TIME
+SHADE
+ AIR VELOCITY
+3  Elanco Animal Health is dedicated to the welfare of livestock. Heat stress is a major consideration in the welfare of dairy cattle. Management of 
+heat stress is thus a strategy that should be considered by all dairy operations.
+pg 19
+MECHANISMS OF HEAT ABATEMENT
+SHADE STRUCTURES
+Shade structures should be provided for outside 
+cattle. Shade should be placed over feed bunks and 
+utilized in cattle resting areas. Shade cloth should be 
+solid and block 90 to 100% of UV rays. The direction 
+of shade over feed bunks is dependent on the 
+orientation of feed bunks. A north-south orientation 
+of shade structures allows for afternoon drying of 
+the bedding area. If the feed lane shade is orientated 
+north-south, it should be large enough to provide 
+coverage of the bunk and the cow platform throughout 
+the day to maximize feed intake and prevent heating of 
+feed. Shade structures should be tall enough (at least 
+12 feet high) to allow for adequate air flow throughout 
+the day and to allow for equipment access (i.e., feed 
+trucks, vacuum trucks, tractor graders, etc.). 
+Follow these guidelines when constructing shade 
+structures:
+• Open lot and pasture shade recommendations: 
+Shade structures in open lots or pastures should 
+provide coverage of at least 65 square feet per 
+cow. Shade structures should be 12 to 16 feet in 
+height and 20 to 32 feet in width.
+• Feed lane shade recommendations: Feed lane 
+shade structures should be 12 to 16 feet in height 
+and 20 to 32 feet in width.
+• Holding pens shade: Cover the holding pen with 
+solid shade (minimum 90% UV block). 
+FREE STALL AND BED PACK BARNS
+Adequate air velocity can be achieved by normal 
+air movement in naturally ventilated free stall or bed 
+pack barns. Natural air flow can be maximized if 
+the structure is designed and constructed properly. 
+The following are some basic recommendations for 
+design of naturally ventilated barns:
+• Roof pitch of 4:12
+• For every 10 feet of barn width allow 2 inches of 
+ridge opening
+• 14 to 16 feet open sidewall height
+• East to west orientation to minimize morning and 
+afternoon sun exposure in the barn compared to 
+north to south oriented barns (see picture below).
+Feed lane shade for cow cooling
+adapted from Brouk et al., 2001
+adapted from Brouk et al., 2001
+Barn orientation influences sun exposure and shade requirements.
+pg 20
+MECHANISMS OF HEAT ABATEMENT
+If barn is oriented north to south, cloth shade should 
+be added to barn.
+• 90% UV block shade cloth should be used.
+• Perlins between shade arms may be added for 
+additional support.
+• Shade cloth attached to perlins via cables 
+anchored to perlins by eyebolts 
+• Shade cloth should be open at the top (1 foot) and 
+bottom (3 feet above ground) to allow natural airflow.
+• Barns with curtains will need to anchor shade 
+support arms above and below the curtains but 
+keep shade cloth open above (1 foot) and below  
+(3 feet) for ventilation. 
+HEAT ABATEMENT IN PASTURED 
+DAIRY CATTLE
+Dairy cattle on pasture are also subject to heat stress 
+in warm weather. Even in herds where lactating cows 
+are confined, dry cows are often housed in pastures 
+or lots. As previously discussed, cooling the dry 
+cow is one of the top priorities when considering 
+the implementation of a heat abatement system. In 
+pastured dairy cattle, the only source of shade may 
+be natural vegetation. Cows will congregate under 
+trees, causing these areas to become quite muddy 
+and boggy in wet weather. These conditions can 
+result in udder contamination and possibly contribute 
+to mastitis. Extensive congregation around trees may 
+ultimately lead to the death of trees. If shade space is 
+limited or there is an excessive buildup of mud, these 
+areas may have to be fenced off. If shade is limited, 
+shade structures can be constructed in pasture lots 
+as described above.
+In some areas of the country, soaker lines mounted 
+on center pivot irrigation systems can be utilized to 
+cool cattle on pasture. Cattle tend to congregate 
+underneath the spray, so the center pivot needs to be 
+continuously moving or moved occasionally as the area 
+beneath becomes boggy. When the center pivot is 
+Coral shade for cow cooling
+Perlins for attaching shade cloth to north to south oriented barns. 
+Arrows indicate eyebolts for running cables to attach shade cloth.
+Cows on pasture using trees as shade – note mud under tree where 
+cows congregate
+
+pg 21
+MECHANISMS OF HEAT ABATEMENT
+moved, care needs to be taken that cattle are moved 
+from the path of the wheels to prevent serious injury 
+to cows. If the system is moving continuously, cow 
+sensors should be placed in front of the wheels.
+In these systems, water from the spray nozzles on 
+the center pivot soaks the cattle. Natural air flow 
+evaporates the water, thus providing evaporative 
+cooling. On days with little or no wind, these 
+systems may not adequately cool cattle. In addition, 
+cattle are still subject to radiant heating from direct 
+sun exposure. 
+Lack of drinking water near the spray can be a 
+problem with center pivot irrigation systems. One 
+solution is to mount water troughs directly between 
+the wheel assemblies at each center pivot tower.
+Cows on pasture being cooled by center pivot irrigationWater troughs mounted on center pivot
+
+pg 22
+MECHANISMS OF HEAT ABATEMENT
+AIR VELOCITY AND FANS
+Maintaining adequate air velocity is critical to avoid 
+stagnation of air year round and to cool cows during 
+warm periods. Regardless of the barn system, air 
+velocity should be at least 4-6 mph (equal to 360 
+to 540 feet per minute [fpm]) during periods of 
+heat stress (multiply mph by 90 to convert to fpm, ie,  
+1 mph is approximately 90 fpm). This rate of air flow 
+is considered effective cow velocity (ECV) (Dr. 
+Mike Wolf, VES Environmental Solutions, LLC, 
+Chippewa Falls, WI). It is important to maximize 
+both ventilation (air exchange) and air velocity (air 
+speed), to remove stagnant air and provide ECV.
+Fans are used to augment air velocity in naturally 
+ventilated barns or serve as the sole method of air 
+movement in tunnel and cross-ventilated barns. 
+Fans should be arranged over feed lanes and stalls. 
+Positioning of fans is dependent on fan size and 
+capacity. During periods of heat stress or when 
+ambient temperatures are above 65°F, ECV (4 to 6 
+mph; 360 to 540 fpm) should be achieved in resting 
+and feeding areas and in holding pens. Consider 
+variable speed fans for new barns or when replacing 
+older fans. These can be a higher initial investment, 
+however, they will potentially offer significant energy 
+savings over time.
+In tunnel-ventilated barns, fans are placed at the 
+closed end of the barn such that air is pulled the 
+length of the barn. In cross-ventilated barns, fans are 
+placed on one side of the barn with air movement 
+across the barn. If air velocity is not adequate at 
+cow level, baffles or supplemental fans may be 
+needed to assist air movement and provide ECV.
+FAN CHARACTERISTICS
+Fans are typically rated based on capacity to 
+move air as measured in cubic feet at atmospheric 
+pressure per minute (CFM). As a general rule, the 
+larger the fan blade diameter, the higher the CFM 
+capacity. Fan output is a function of fan speed 
+(RPM), blade size, and blade material. If two fans 
+have equal blade diameter and RPM, the fan with 
+the lowest current rating is usually the more efficient; 
+if two fans have equal airflow, but one operates at a 
+slower speed, it is usually quieter and more efficient. 
+Operational costs and efficiency varies widely 
+across brands and generally range between 8.3 to 
+18.6 CFM per watt. 
+Fans properly spaced to provide effective cow velocity to prevent 
+heat stress
+Tunnel and cross ventilated barns can effectively cool cows as long 
+as ECV is met.
+
+pg 23
+MECHANISMS OF HEAT ABATEMENT
+Typical fan airflow outputs are as follows:
+• a 36-inch fan can move 11,000 CFM (with a test 
+range of 6,400 to 13,000 CFM4);
+• a 48-inch fan can move 20,000 CFM (with a test 
+range of 14,100 to 23,000 CFM4);
+• a 50- to 52-inch fan can move 30,000 CFM (with  
+a test range of 15,000 to 36,000 CFM); and
+• a 72-inch fan can move 65,000 CFM (with a test 
+range of 50,000 to 80,000 CFM).
+Several factors need to be taken into consideration 
+when choosing fan size. Larger fans (50 to 72 inches) 
+with exposed blades have both advantages and 
+disadvantages. One advantage is that larger fan 
+capacity means fewer fans are required. Also, fans 
+with variable speed drives and programmable logic 
+controllers improve energy and operation efficiency 
+over a greater temperature range. Larger fans may 
+also have high pressure misters that can be used to 
+lower air temperatures in dry climates with low relative 
+humidity, such as in the Southwest. In climates 
+with higher humidity, misters are not as effective as 
+stand-alone systems for effective heat abatement. 
+An additional advantage is that larger, exposed blade 
+fans are typically more energy efficient than basket 
+fans, reducing energy costs over the long term. A 
+disadvantage of larger fans include the larger size may 
+not be feasible in some facilities, especially those with 
+low ceiling height. In addition, larger fans are more costly 
+to buy and install, but may prove a better investment 
+over time because of their energy costs savings. 
+FAN MAINTENANCE
+Poor maintenance can reduce fan efficiency by more 
+than 40%. The following maintenance procedures 
+must be performed routinely to ensure the lifespan of 
+fans used in heat abatement systems:
+• Check fan operation and conduct routine 
+maintenance before each cooling season. 
+• Clean fan blades and fan grills. Dirt and dust will 
+decrease fan efficiency.
+• If required, oil fans regularly.
+• Repair and replace damaged fans.
+• Check fan alignment and orientation.
+• Check and tighten belts on belt drive fans.
+• Clean and calibrate thermostats.
+• Manage louvres on fans in cross-vent barns and 
+tunnel barns. The bottom louvre (especially if 
+made of aluminum) is prone to freezing in position 
+during the winter. When all louvres are tied 
+together (see photo below), they may be difficult 
+or impossible to open during the winter. It may be 
+preferable to keep the bottom louvre independent 
+of all other louvres, especially during snow or 
+freezing weather, or to use louvre material that is 
+less prone to freezing (see picture).
+Maintaining clean fans is critical for both air velocity (ECV) and efficiency
+Check louvres, especially in cold weather. Decouple bottom louvre 
+during winter because of freezing shut. If freezing occurs, all louvres 
+will be in closed position when fans are turned on. 
+4  Data from Bioenvironmental and Structural Systems Laboratory, University of Illinois, Department of Agriculture and Biological Engineering.  
+Retrieved from www.bess.uiuc.edu 
+Central spindle tying all louvres together
+
+pg 24
+MECHANISMS OF HEAT ABATEMENT
+MEASURING STATIC PRESSURE 
+AND AIRFLOW RATIO
+Static pressure is defined as the difference in air 
+pressure between the inside and outside of an 
+enclosed building (Zulovich et al., 2008). Static 
+pressure should be measured in tunnel and low profile 
+cross-ventilated (LPCV) barns to determine if air inlets 
+are adequate based on the capacity of fans to pull 
+air through the barn. As a fan “pulls” air through a 
+barn, a resistance to that flow is created by friction 
+at points along the sides and obstructions in the 
+barn. This restriction to flow is similar to that of water 
+moving through a pipe due to friction in the pipe wall. 
+Other restriction points are also present in the barn, 
+including cows, structural posts, freestall hardware, 
+water troughs, and partitioning walls. This resistance 
+creates a negative or static pressure. 
+Resistance to air flow is also created by restrictions in 
+the size of the openings along the side or end of a barn, 
+opposite the fans. If these openings are too small, air 
+flow through the barn will be reduced, and added strain 
+will be placed on fans. Evaporative cooling pads at  
+air inlets also restrict air flow across the barn in cross-
+ventilated barns. Airflow in the barn can be affected 
+by wind speed outside the barn when airflow is being 
+directed against the fans. Other restrictions to airflow 
+in these systems include weather-protecting fan cones 
+and any structures or equipment located within several 
+feet of the fan exhaust. 
+Both the number of fans operating within the barn 
+and fan “competition” for airflow across the barn 
+can increase static pressure. Fans are tested to 
+determine the cubic feet per minute of output based 
+on various static pressures. As static pressure in  
+the barn rises above 0.05 inches water (manometer5 
+measurement), fan efficiency of individual fans 
+decrease (i.e. reduced CFM). Every fan operates at 
+different efficiencies based on static pressure within 
+a barn. Tunnel-ventilated and LPCV barns typically 
+operate at a static pressure of 0.10 inches of water 
+or less. Every dairy with cross or tunnel ventilated 
+barns should have a manometer to measure static 
+pressure in barns so fan capacity can be adjusted 
+to maximize efficiency. Otherwise, an excessive 
+number of fans may be operating, reducing 
+individual fan efficiency along with placing extra 
+stress on fan motors and belts. Manometers are 
+inexpensive and are critical for managing the barn 
+for efficient summer and winter ventilation. 
+AIRFLOW RATIO FOR  
+EVALUATING FANS
+An additional consideration for fans in LPCV barns 
+or tunnel-ventilated barns is the airflow ratio. Air flow 
+ratio is defined as the airflow (CFM) at 0.20 inches 
+of static pressure (SP) divided by the airflow (CFM) 
+at 0.05 inches of static pressure (see Table M1 on 
+the following page for BESS performance tests 
+for CFM rating at 0.05 SP and 0.10 SP, the 0.10 
+is noted because this is a typical operating SP 
+within a given barn system). A higher airflow ratio 
+means a specific fan provides fairly constant airflow 
+(CFM) as static pressure increases. Remember 
+as SP increases within a barn, the fan may/will 
+decrease the number of CFMs it is able to move 
+because of the negative pressure exerted within 
+a barn system. The static pressure is indicated 
+for specific fans, however the static pressures 
+presented on Table M1 are noted at 0.05 SP and 
+0.10 SP. For each individual fan and static pressure  
+at 0.20 SP, go to the website for BESS labs and 
+click on your specific fan to find the CFM rating  
+at 0.20 SP. For example, one manufacturer’s fan 
+5 A manometer is an instrument used to measure static pressure, which is reported in inches of water.
+
+pg 25
+MECHANISMS OF HEAT ABATEMENT
+may have a rating at 25,300 CFM at 0.05 inches of 
+static pressure but decrease to 19,000 CFM at 0.20 
+inches of static pressure. This would give an airflow 
+ratio of 0.75, which would be considered a good to 
+average airflow ratio. Table M1 shows 2 highlighted 
+fans, one fan at 55 inches in diameter and an 
+additional fan at 54 inches diameter. The CFM rating 
+for one fan at 0.05 SP is 25,300, at 0.10 SP it has 
+a CFM rating of 23,900 and at 0.20 SP a rating of 
+19,800 CFM (the 0.20 SP rating was obtained by 
+clicking on the individual fan in performance tests for 
+BESS labs and going to “test results”).  By dividing 
+19,800/25,300, an airflow ratio of 0.77 is calculated. 
+An additional fan noted in Table M1  is for a fan with a 
+0.05 SP CFM rating of 26,100, at 0.10 SP the rating 
+is 24,000 CFM, and at 0.20 SP the rating is 19,400 
+CFMs.  This would give an airflow ratio between 
+0.05 SP and 0.20 SP of 0.74. Always check with 
+the BESS labs website for the latest fan ratings, as 
+ratings are constantly changing with manufacturer’s 
+upgrade and BESS lab test results and updates. 
+*These ratings for SP and CFM were obtained from the 
+BESS lab test results website on or about Sept 1, 2015. 
+The first estimation for fan capacity (CFM) should be 
+based on the manufacturer’s rating as determined by 
+testing at an independent, certified laboratory, such 
+as the Bioenvironmental and Structural Systems 
+Laboratory at the University of Illinois5. Most fans 
+are rated either by (1) air volume output in CFM 
+at a specified static pressure (in inches of water) 
+or (2) energy consumed (i.e., wattage of electrical 
+consumption, or watt). Combining these two 
+components provides a comprehensive rating for fan 
+efficiency: X CFM/watt at X inches of static pressure
+For example, a low-efficiency fan will have a rating  
+of 17 CFM per watt at 0.05 inches of static pressure, 
+and a high-efficiency fan will have a rating of 20 CFM 
+per watt at 0.05 inches of static pressure. 
+Table M1. Agricultural Ventilation Fans, Performance, and Efficiencies.5
+Test # Model Size Cone Shutter Air Flow 
+(CFM) 
+0.05” SP
+VER 
+(CFM/W)
+0.05” SP
+Air Flow
+(CFM)
+0.10” SP
+VER
+(CFM/W)
+0.10” SP
+Air Flow 
+Ratio*
+Acmes
+07204 BDR54J 54” Y A 25100 27.7 23500 24.5 0.76
+04274 DDPSV54J-C 54” Y A 25500 25.4 23800 22.1 0.77
+Airstream
+14172 77-0151-IB, 
+77-0163-IB
+54” Y B 26000 26.4 24000 22.7 0.69
+American Coolair
+14216 FGBCDD54L 55” Y B 26400 26.2 23400 22.2 0.61
+10239 MNBCCE54L 55” Y A 25300 29 23300 25.6 0.69
+10252 MNEFC54L 55” Y A 26100 27.7 24000 23.9 0.74
+11400 MNEFDD54L 55” Y B 25900 25.8 23200 21.3 0.68
+14228 NBCXM54L 55” Y B 25900 26.3 23400 23 0.63
+14235 NEFXM54L 55” Y B 24700 27.8 22700 24.1 0.66
+J & D Manufacturing
+12637 VSA55G3C11E 55” Y A 24300 25.3 22300 22.1 0.66
+09061 VSA55G3C11E 55” Y A 25000 22.7 23100 20.2 0.74
+Val-Co
+12243 954335 54” Y A 25200 24.5 23200 21.8 0.73
+6   Information obtained from BESS Lab, Bioenvironmental and Structural Systems Laboratory, Department of Agricultural Engineering, University of Illinois, 
+Urbana-Champaign, Illinois. Retrieved from www.bess.uiuc.edu. Values obtained on September 1, 2015. 
+Table M1.   Agricultural Ventilation Fans, Performance, and Efficiencies.6
+pg 26
+MECHANISMS OF HEAT ABATEMENT
+The following example demonstrates why static 
+pressure, air velocity, and fan efficiency should be  
+evaluated. The airflow inside a LPCV barn was 
+recently evaluated and found to have a static pressure 
+of 0.19 inches. Fans were rated by BESS laboratories 
+to have an output of 24,000 CFM at 0.05 inches of 
+static pressure. There were approximately 172 52-inch 
+diameter fans in the barn. The opening at the baffle 
+was determined, and the number of cubic feet of air 
+provided based on the opening was calculated. It was 
+determined that the operating efficiency in CFM for 
+each of the 172 fans was 16,000 CFM, representing 
+a decrease of 30% in air output. The effective cow 
+velocity was mapped for the 172 fans, and this 
+averaged approximately 400 feet per minute away 
+from or downstream from the baffles within the barn. 
+After air flow evaluation of the barn was completed, 
+52 fans were turned off. Static pressure was reduced 
+to 0.10 inches. With the decrease in static pressure, 
+CFM of each of the remaining 120 fans increased 
+to 23,000, for an improved efficiency of 30%. 
+Effective cow velocity away from the fans remained 
+at an average of 400 feet per minute. Decreasing 
+the number of fans by 30% provided a substantial 
+savings in energy cost and was derived by knowing 
+the operational static pressure and CFM per fan. This 
+provides an example of a company that marketed 
+fans without evaluating the barn for operating 
+static pressure. Furthermore, the company failed 
+to follow up with the customer, and demonstrated 
+no appreciation for the cost of energy. This also 
+underscores the importance of a manometer in the 
+barn for monitoring static pressure and managing  
+air flow in cross-ventilated and tunnel barns. 
+No two LPCV or tunnel barns are built the same. Dairy 
+operators should seek the assistance of an engineer 
+to design their barns, taking into consideration the 
+proper number of fans, baffle height (if included), 
+distance across the barns, air inlet size for both 
+summer and winter ventilation, and correct operation 
+for each specific system. Operators should seek a fan 
+supplier that will assist in the engineering of the barn 
+system, who will conduct follow-up evaluation once 
+heat abatement equipment is installed, and that will 
+be available for on-going maintenance of the system.
+FAN AIRSTREAM WIDTH FOR 
+EFFECTIVE COW VELOCITY (ECV)
+An additional consideration in determining the 
+appropriate fan system is the width of ECV 
+downstream from the fan, and the distance at 
+Air stream velocity (mph1) and air stream cone width (feet)
+Distance from fan 
+(feet) 36 inch fan 48 inch fan
+10 7.1 mph/6.6 ft 9.6 mph/7.6 ft
+15 5.8 mph/7.9 ft 7.9 mph/9.4 ft
+20 5.0 mph/10.2 ft 6.8 mph/11.2 ft
+25 4.5 mph/12 ft 6.1 mph/13 ft
+30 4.1 mph/13.8 ft 5.6 mph/14.8 ft
+35 3.8 mph/15.6 ft 5.1 mph/16.6 ft
+40 3.5 mph/17.4 ft 4.8 mph/18.4 ft
+45 3.3 mph/19.2 ft 4.5 mph/20.2 ft
+50 3.2 mph/21 ft 4.3 mph/22 ft
+1 One mph is approximately 90 feet per minute, thus 4 mph is approximately 360 feet per 
+minute of effective cow velocity (ECV)
+Table M2.   Effective cow velocity and air stream cone width (feet) for 36 and  
+48 inch fans
+pg 27
+MECHANISMS OF HEAT ABATEMENT
+which there is no longer an ECV. Table M2 on the 
+previous page demonstrates that as fan diameter 
+increases, air speed or velocity away from the 
+fan becomes critical for ECV. A 48-inch fan by 
+one manufacturer may have an ECV of 450 feet 
+per minute in a cone that is 16 feet wide, or the 
+approximate width of head-to-head free stalls, at 
+a distance of 35 feet downstream from the fan. 
+Another fan may only have an ECV of 350 feet per 
+minute (100 fpm less) in a cone that is 16 feet wide 
+at the same distance of 35 feet downstream from 
+the fan. An important measure is at what distance 
+from the fan is the airspeed no longer at an ECV 
+of at least 360 fpm. This can vary greatly as fan 
+diameter increases from 36 to 72 inches. 
+AIR VELOCITY AND LOW VOLUME/
+LOW SPEED OR HIGH VOLUME/
+LOW SPEED FANS
+Overhead or ceiling-type fans operate at high 
+volume/low speed (HVLS) or low volume/low speed 
+(LVLS). These fans are generally mounted over a 
+central feed lane, a drive-through feed alley, or a bed 
+pack area. These fans are typically 10 to 20 feet in 
+diameter, moving or driving an air flow pattern down 
+and then outward away from a center point on the 
+floor or the feed alley. Fan spacing is typically based 
+on the size of the air pattern below the fan.
+High volume/low speed or low volume/low speed fans 
+are typically purchased for their “energy-efficiency:” 
+however, research has not shown them to provide an 
+adequate ECV (4-6 mph; 360 to 540 fpm) for cows 
+in free stalls where fans are installed over the central 
+feed alley (Ludington et al., 2004) or immediately 
+under the fan in a bed pack barn. As the air pattern 
+or airflow velocity is projected across the floor, it 
+diminishes as it encounters obstructions like stem 
+walls, headlocks, and cows. Often, air velocity at the 
+free stall level is inadequate to impact heat stressed 
+cattle. Furthermore, cows should spend at least 
+50% of their time lying down and resting; therefore, 
+impactful airflow should be directed where cows 
+spend the majority of the day. 
+One area of heat abatement where the LVLS or 
+HVLS fan may be considered is in the holding pen. 
+These fans will direct air downward into and around 
+cows, maintaining an effective cow velocity for cow 
+cooling if cows are thoroughly soaked. Height of 
+the holding pen, however, may limit the use of these 
+specific fans in this area.
+FAN LOCATION AND VENTILATION 
+SYSTEMS
+Feed lane fans
+Fans, in combination with a soaker line system, are 
+an effective method of cooling cows while at the feed 
+bunk. Air velocity over a cow’s back effectively reduces 
+body temperature by evaporative cooling. Soaking 
+along a feed lane also encourages cows to move to 
+the bunk to eat, thus improving feed intake. Air flow 
+over the cows-side of the feed lanes should achieve 
+ECV (4 to 6 mph; 360 to 540 fpm). Fan diameter will 
+dictate fan spacing and design to maximize airflow 
+over the greatest surface area of the cow.
+Overhead high volume/low speed and low volume/low speed fans 
+may fail to provide adequate ECV. Photo compliments of Dr. Jeffery 
+Bewley, University of Kentucky.
+pg 28
+MECHANISMS OF HEAT ABATEMENT
+Free stall fans
+As with feed lanes, air flow rates are critical for 
+providing ECV over free stalls. Fans should be directed 
+over the center of head-to-head stalls and over the 
+center of outside rows in a three-row configuration. 
+Dairy operators often ask if fans should be mounted 
+side-by-side on a vertical support post over head-
+to-head stalls. To date, there is no data to support 
+a significant increase in ECV with two fans mounted 
+side-by-side on the same vertical post in head-to-head 
+stalls (Brouk et al., 2001); however, the number of fans 
+mounted is dependent on ECV and the width and 
+distance of the ECV cone produced by the respective 
+fan. A common arrangement is to alternate fans on 
+opposite sides of support posts over the center of 
+head-to-head stalls.
+Holding pen fans
+Systems should be designed to generate air velocity 
+over the greatest surface area of the cow and ECV 
+should be achieved (4 to 6 mph; 360 to 540 fpm), 
+targeting the upper range of velocity. If the holding 
+pen has adequate height, fans can be mounted in 
+rows with airflow from the parlor toward the back of 
+holding pen:
+• 36-inch fan rows every 20 to 24 feet with 3 feet 
+between fans (6 feet on center)
+• 48-inch fan rows every 24 to 36 feet with 4 feet 
+between fans (8 feet on center)
+• 50-inch fan rows every 30 feet with 6 feet between 
+fans (12 feet on center)
+• 72-inch fan rows every 60 feet with 9 feet between 
+fans (18 feet on center)
+** These are broadly suggested fan spacing. Fan 
+spacing is always dependent on manufacturer’s 
+suggestions, motor size, blade number and 
+design, RPMs, and dependent on determined 
+airstream width and effective ECV distance 
+downstream from the fan.
+The following tips are important to consider 
+when installing holding pen fans:
+• Consider variable speed fans for new barns or when 
+replacing older fans. These may have a higher initial 
+investment cost; however, they will potentially save 
+substantially in energy cost over time. 
+• Fan height should be as low as possible but at a 
+minimum of 8 feet and out of reach of cows and 
+contact by machinery. Check OSHA requirements 
+for fan height based on fan type.
+• Fans can be mounted higher if using a drop hose 
+soaker system such as an l-wob. In narrow holding 
+pens (less than 24 feet across) or those with low 
+ceilings, fans can be placed along a side wall, but 
+beware of obstructions to air flow outside the barn.
+• Air velocity should be directed toward the rear 
+of the holding pen, with velocity also directed 
+between cows for the largest cow surface area  
+of evaporative cooling. 
+• If possible, take advantage of prevailing winds. 
+Prevailing winds alone are typically variable and 
+not dependable for adequate cooling of cattle as 
+they may be blocked by walls or cattle.
+PARLOR VENTILATION
+The biggest challenge of operating a ventilation 
+system in the milking parlor is balancing cow and 
+employee comfort. Employees may be in the parlor 
+for 8 or more hours per day, so comfortable air 
+flow in the parlor is an important consideration. 
+Employees have an entirely different temperature 
+comfort zone compared to the dairy cow’s comfort 
+zone of 40 to 60°F. All too often, the regulation of 
+airflow and temperature in the parlor is managed by 
+the employees, who adjust to their own comfort at 
+the expense of the cow’s comfort. 
+Ventilation in the parlor can be obtained with positive 
+pressure fans and ventilation tubes that bring 
+
+pg 29
+MECHANISMS OF HEAT ABATEMENT
+outside air into the parlor. A plenum with a fan and 
+extension tubes may be used if it is impossible to 
+install direct fans and tubes. Bringing in fresh air 
+from the outside is always preferable to recirculating 
+stagnant air in the parlor. 
+Air velocity moving through the parlor should be 3.5 
+to 4 mph (315 to 360 fpm) at cow level in the milking 
+parlor, with some air flowing into the parlor pit for 
+employee comfort. Care should be taken that the air 
+flow does not cause teat spray to drift into the faces 
+of the employees. Dairy operators can measure 
+air velocity in this area with a wind meter to ensure 
+adequate ECV. Air velocity generated in the parlor 
+should continue out of the back of the parlor into the 
+holding pen. From here, air flow should continue into 
+the holding pen. Ventilation of the holding pen can 
+be provided by either positive pressure fans or tubes 
+along the length of the holding pen, as long as ECV 
+should be achieved. 
+Some dairies use positive pressure ventilation with 
+high performance fans in the parlor. In these systems, 
+the volume of air in the parlor should be exchanged 
+each minute. To determine the adequate air flow rate 
+for a parlor, the volume of the parlor in cubic feet 
+should be calculated. For example, in a parlor 60 feet 
+wide by 150 feet long by 16 feet in height, the volume 
+of the parlor would be calculated by multiplying  
+60 feet by 150 feet by 16 feet to equal 144,000 cubic 
+feet. This is the minimal amount of air that should be 
+exchanged each minute. Twenty percent should be 
+added to account for any inefficiency in the system 
+and to increase ECV. The total recommended 
+air volume exchanged each minute would be 
+172,800 cubic feet. In a closed parlor system, high 
+performance fans are capable of providing positive 
+pressure airflow of 172,800 CFM, at an air velocity 
+of approximately 350 to 400 feet per minute with 
+air moving down the parlor, over cows, and into the 
+holding pen. In some situations, additional “push 
+fans” may be required to move a large air volume 
+out of the back of the parlor. Dairy operators should 
+check with qualified ventilation experts to determine 
+the specific needs for each barn.
+POSITIVE PRESSURE TUBE 
+VENTILATION SYSTEMS
+Positive pressure tube systems (PPTS) offer the 
+ability to deliver fresh air from the outside to holding 
+areas or where cattle are housed via a fan and 
+collapsible tube system (see photograph). Outside 
+air delivered by these systems generally has a lower 
+temperature and humidity compared to recirculated 
+air. The goal of PPTS is to provide 60 fresh air 
+exchanges per hour. In these systems, fans bring 
+outside air into a series of large-diameter, collapsible 
+tubes, with the air exiting a number of smaller air 
+jets that deliver air onto cattle at air speeds of 400 
+fpm. In addition, air jets onto and between cows in a 
+vertical air stream (porous flow) rather than blowing 
+across the tops of the cows.
+Air speed in PPTS should be 300 to 400 feet per 
+minute at the level of a cow’s back (approximately  
+5 feet above the floor surface). Throw distance, or the 
+distance from a fan with desired air flow, is determined 
+by the diameter of the discharge hole. At a fixed static 
+pressure, a larger hole diameter increases throw 
+Positive pressure tube ventilation system
+pg 30
+MECHANISMS OF HEAT ABATEMENT
+distance. A challenge in a PPTS is achieving an 
+adequate air flow (400 fps) at cow level, so the tubes 
+should be located as close to cows as possible. 
+This can be a challenge in some holding pens with 
+tall crowd gates as the crowd gate has to pass 
+beneath the tubes. In a tube system, cows still need 
+to be soaked to achieve cooling. Soaker nozzles 
+should be installed between air tubes.
+In a PPTS, consistent discharge speed is critical for ECV 
+over a cow’s back. Tubes usually need to be greater 
+than 1.15 times the diameter of the fan. Tubes that are 
+undersized for the fan used will result in excessive air 
+speed near the fan. This moves air rapidly beyond the 
+tube discharge holes with less than adequate airspeed 
+or ECV exiting from holes located near the fan. Always 
+consult with an expert before installing PPTS.
+GENERAL RECOMMENDATIONS 
+FOR FAN USAGE
+The following guidelines should be considered when 
+installing cooling fans:
+• Fans should start operating at 65°F and run 
+continuously. Do not turn fans off during  
+soaking cycles. 
+• Provide ECV (4 to 6 mph or 360 to 540 fpm) over 
+cow beds and feed lanes. 
+• Fan height should be as low as possible but at a 
+minimum of 8 feet above the ground. Fans should 
+be out of reach of cows, people, and above 
+equipment operating zones, especially if fan 
+blades are exposed. Check OSHA requirements.
+• Fan spacing is dependent upon fan diameter and 
+capacity.
+• Angle fans downward, approximately 15 to 30 
+degrees or toward the cow area or base below  
+the “downstream” of next fan. 
+• Airflow from all fans should be in the same 
+direction and in the direction of prevailing winds.
+COOLING PADS FOR LOW-PROFILE, 
+CROSS-VENTILATED (LPCV) OR 
+TUNNEL BARNS
+Cooling pads have been used effectively for years  
+in poultry barn cooling systems. In recent years, they 
+have become more popular in dairy barn systems. 
+Cooling pads are made of a cellulose material 
+and are typically installed along the side of the 
+barn opposite fans in low-profile, cross-ventilated 
+(LPCV) barns. Pads are generally 10 feet in height 
+and come in sections 2 to 5 feet in width. As air is 
+pulled through the cooling pads, water circulating 
+within the pads cools the air as it exits the pad and 
+continues across the LPCV. 
+There are several challenges with cooling pads: (1) 
+as environmental humidity increases, the ability to 
+cool air entering the barn is decreased; (2) pads 
+decrease or restrict ECV across the barn, and (3) 
+pads become dirty and clogged with water minerals 
+and dirt and require replacement on a regular basis 
+(approximately every 3 years). 
+Cool pads and installation cost approximately $60 
+per linear foot. Thus the cost to replace cooling pads 
+in a 1,000 ft barn would be approximately $60,000 
+every three years. After 3 years of use, pads develop 
+a calcium-like substance that impedes air flow 
+through the pad and across the LPCV barn. Because 
+of the impedance of airflow across the barn, fans 
+often operate at a higher static pressure, decreasing 
+fan efficiency (see manual section on Optimal Static 
+Pressure). It is not uncommon to see cool pads 
+replaced with adjustable curtains on the side-walls of 
+the barn to increase air flow and ECV across LPCV 
+barns. Along with side curtains, a soaker system 
+should be installed over the feed lane in the LPCV barn.
+pg 31
+MECHANISMS OF HEAT ABATEMENT
+DRINKING WATER
+Drinking water requirements increase as milk yield 
+and environmental temperatures increase. A cow 
+producing 60 pounds of milk per day requires 
+approximately twice the drinking water compared to 
+a dry cow, regardless of environmental temperature. 
+Using the predictive equation from Murphy et al. 
+(1983), Beade (1994) demonstrated that cows 
+producing 80 pounds of milk per day consumed  
+2.5 gallons more water per day when exposed to  
+an average environmental temperature of 81.3°F  
+versus those exposed to a lower environmental 
+temperature of 56.1°F. Furthermore, cows producing 
+100 pounds of milk per day at the higher temperature 
+consumed over 5 gallons more water than cows 
+producing 60 pounds of milk per day at the same 
+environmental temperature (see Table M3).
+Lactating and dry cows should always have 
+access to adequate clean, fresh drinking water. 
+The following are recommendations for supplying 
+drinking water to dairy cows:
+• Provide at least 3 feet of linear watering space per 
+10 cows or approximately 4 inches per cow in free 
+stall or bed pack barns or corral housing systems. 
+There should be at least two watering areas 
+regardless of group size. Water should be within 
+80 feet (20 free stalls) of any cow in a confined 
+housing system. 
+• If available, a cow will consume greater than 
+10% of her daily water requirement immediately 
+following milking. If possible, water troughs should 
+be placed along milking parlor exit lanes. Water 
+troughs should provide 2 linear feet of water  
+space for each cow exiting the parlor at one time. 
+For example, 80 linear feet of water space would 
+be recommended in a double 40 parallel parlor 
+where one side is released at a time. In rotary 
+parlors where cows are released continuously the 
+number of cows trying to access water at one 
+time is less predictable. In a smaller rotary system 
+(ex. 36 stalls or less) it is recommended that there 
+be two linear feet of water space be available for 
+each stall on the rotary. In larger rotary systems 
+that number could be 75% of the two linear feet 
+per stall or for a 72 stall rotary, 128 feet of linear 
+water space (72*2*0.75=128).
+• Keep water troughs clean for increased water intake. 
+• If possible, offer water in the holding pen.
+• Monitor water flow rates during high water demand.
+• Plumbing for soaker lines should be on a separate 
+system from drinking water.
+• It is recommended that water trough areas  
+are shaded
+Cool Season (Ave. 56.1o F) Warm Season (81.3o F)
+Milk Yield (lb/d) Water Intake (Gal/d) Milk Yield (lb/d) Water Intake (Gal/d)
+0 12.6 0 15.8
+40 20.6 40 24.0
+60 23.9 60 27.0
+80 27.2 80 29.6
+100 30.4 100 32.2
+120 33.6 120 34.8
+Adapted from Beede, 1994: http://dairy.ifas.ufl.edu/dpc/1994/Beede.pdf
+Heat stress increases water requirements and intakes
+Table M3.   Predicted daily water intake for dairy cattle as  
+influenced by milk yield and environmental temperature.
+
+pg 32
+MECHANISMS OF HEAT ABATEMENT
+EVAPORATIVE COOLING
+Evaporative cooling is defined as a reduction in 
+temperature resulting from the evaporation of a 
+liquid from a surface, thus removing latent heat 
+from that surface. The evaporative surface can be 
+air molecules or skin. In low humidity climates, air 
+temperature can be reduced by as much as 20°F by 
+the evaporation of micro droplets (mist) in air. This 
+form of evaporative cooling becomes less effective 
+as the air becomes saturated with increasing 
+relative humidity. As the humidity within the barn 
+environment increases, the ability to evaporate 
+moisture on the surface of the skin decreases.  
+The efficiency of cooling the air through evaporative 
+cooling is markedly reduced when the relative 
+humidity exceeds 55%. 
+Cattle do not perspire as do humans. Cows have 
+large sweat glands on the nose and around the 
+udder, and moisture can accumulate in these areas 
+but, based on body mass, cattle sweat only about 
+10% the volume of humans, (Keown et al., 2005). 
+Therefore, mechanically applying soaking water for 
+evaporation is essential to cooling cows. 
+Evaporative cooling can be accomplished even in 
+humid climates by applying water directly to the skin 
+of the cow. Using a low pressure (15 to 20 psi) water 
+supply line and specially designed nozzles, large 
+droplets of water can be specifically directed over 
+the backs of the cows, thoroughly soaking their skin 
+from the shoulder area to the hooks. Soakers should 
+be on 1- to 1.5-minute wetting cycles, dependent 
+upon nozzle flow rate. The objective is to thoroughly 
+wet the largest surface area along the back and 
+down the sides of the cow. This water can then be 
+evaporated during the “water off” cycle by moving 
+air across the cows with fans, achieving an ECV.
+Brouck et al. (2002) evaluated the effect of evaporative 
+cooling with fans and/or water application at various 
+intervals in cows experiencing heat stress (85°F, 45% 
+humidity; see Figure M1 on the following page). In 
+summary, fans alone were unable to decrease body 
+temperature during periods of heat stress, and soaking 
+alone only produced a modest decrease in body 
+temperature. Soaking, in addition to fans, mitigated 
+heat stress. Shortening the interval between soakings 
+resulted in the most effective cooling and greatest 
+Cleaning water troughs increases water intake
+Provide adequate number of water troughs, especially as cows 
+leave milking parlor - cows consume approximately 10% of daily 
+water requirements immediately after milking. It is always preferable 
+to shade water troughs.
+pg 33
+MECHANISMS OF HEAT ABATEMENT
+decrease in body temperature. Even with the most 
+frequent soaking intervals with fans providing 
+ECV, it required 30 minutes before cooling effects 
+were evident and cow body temperature began to 
+decrease. The lag in decrease of cow temperature 
+following the start of cooling procedures is also 
+demonstrated in Figure M2. In this study by Brouk 
+et al. (2004), cow cooling was measured by vaginal 
+temperature at 5-minute intervals following soaking 
+cows every 10 minutes with fans set at various 
+speeds. As air speed or ECV increased, rate of cow 
+cooling accelerated. In conclusion, both of these 
+studies demonstrated that the best approach to 
+heat abatement was the combined use of soakers 
+and fans, providing an ECV of 300 to 540 fpm.
+If both fans and soakers cannot be installed 
+simultaneously over the feed lane, first install soakers. 
+Fans, however, should be in place over free stalls. 
+Application of water with low-pressure soaking cools 
+cows more efficiently than fans alone over feed lanes.
+Brouck et al., 2002
+Brouck et al., 2004
+101.5
+102
+102.5
+103
+103.5
+104
+104.5
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+Body Temperature, °F 
+5 Minute Periods of Time
+0 – Control, no soaker &  no Fan 0 + Fan, No soaker with Fans
+15 – Soakers, 1 min ON 14 min OFF; no Fan 15 – Soakers, 1 min ON 14 min OFF; + Fa n
+10 – Soakers, 1 min ON and 9 min OFF; no Fan 10 – Soakers, 1 min ON and 9 min OFF; + Fa n
+5 – Soakers, 1 min ON and 4 min OFF; no Fan 5 – Soakers, 1 min ON and 4 min OFF; + Fa n
+Figure M1. Effect of soaker frequency and fan cooling on cow 
+body temperature
+Control: 
+No Fan
+Fan air 
+speed: 
+2.25 mph
+Fan air 
+speed: 
+4.5 mph
+Fan air 
+speed: 
+6.75 mph
+Figure M2. Effect of fan speed on cow body 
+temperature when soaking is usedBody Temperature, °F 
+Figure M1.    Effect of soaker frequency and fan cooling on cow 
+body temperature.
+Figure M2.   Effect of fan speed on cow body temperature when soaking is used
+pg 34
+MECHANISMS OF HEAT ABATEMENT
+HIGH PRESSURE MISTERS
+High-pressure misters should first be differentiated 
+from a low-pressure soaker system. A low pressure 
+soaker system cools the cow with the application of 
+large water droplets for a fixed period of time (1 to 2 
+minutes) with fans providing ECV. Air flow over the 
+cow promotes evaporation of the water from the skin, 
+resulting in evaporative cooling. As water is evaporated 
+from the skin, heat is removed. One pint of water 
+applied to the skin of a cow and allowed to evaporate 
+can release 1,000 BTUs of heat from the cow. 
+High pressure misters provide cooling by a different 
+mechanism. Misters attempt to cool the air around 
+the cow by forcing water through special nozzles at 
+high pressure (100 to 1,000 PSI). The nozzles emit 
+very fine droplets of water that evaporate in the air 
+stream, theoretically cooling the air coming from a 
+circulating fan. This cooled air then flows to the area 
+around the cow. The ability to cool the air is variable 
+and less effective at higher humidity when droplet 
+evaporation is significantly reduced. To humans, 
+this air feels cool, so it is assumed that this system 
+will effectively cool cows under any environmental 
+condition; however, the perception of cool to 
+humans does not always equate to cool cows.
+Air temperature monitoring and monitoring cattle 
+body temperatures with cattle respiratory rate are 
+management tools that can be used to evaluate the 
+cattle comfort zone. Dairy farmers should not rely 
+on the human perception of “cool” as this differs 
+drastically in cattle. Water droplets from the misters 
+do not reach the skin of the cow because of their 
+thick hair-coat, so misters do not provide evaporative 
+cooling from the skin as do soaker systems. 
+The ability to effectively cool the air within a barn 
+is dependent on the barn air temperature and the 
+relative humidity. The greatest challenge to using 
+misters is that humidity in the air will impact the ability 
+to decrease the air temperature. As the humidity 
+increases, the ability to decrease the temperature 
+of the air circulating in a barn decreases. The ability 
+to cool air at various temperature and humidity 
+combinations is a science known as psychrometrics. 
+Using a psychrometric chart, where the atmospheric 
+air temperature is 90°F and relative humidity is 
+10%, theoretically, the temperature should drop 
+approximately 30°F (to an ambient temperature of 
+60°F, which is well below the heat stress temperature 
+for dairy cows). However, in order to achieve a drop 
+of 30°F in barn temperature, air must be saturated 
+by water droplets to a relative humidity of 100%. That 
+would mean the system is also operating at 100% 
+efficiency. It is very unlikely that 100% saturation 
+efficiency can be achieved in a barn system. A more 
+realistic estimate would be 30 to 50% efficiency. 
+For barns in the Upper Midwest, Southeast, and 
+Northeast, misters or cool pads, generally can only 
+decrease the barn air temperature by 10 to 12°F. If 
+the barn temperature is 75°F with a relative humidity 
+of 40%, misters may provide cooling below a 68 
+THI. In general, if THI within the barn increases 
+above 75 or as the respiratory rate of a group of 
+cows exceeds 60 respirations per minute (which 
+equates to a body temperature of 102.5°F), misters 
+will not provide adequate heat abatement. Rather, 
+dairy operators should utilize a soaker system 
+installed over the headlocks. If this switch is to be 
+triggered automatically, this operation would require 
+a sophisticated system for monitoring the THI within 
+the barn to automatically turn off the misters and 
+initiate the soaker system. 
+pg 35
+MECHANISMS OF HEAT ABATEMENT
+Using misters as the primary source of cow cooling 
+may work well in areas where humidity is typically low 
+(i.e., between 10 to 40%, such as in the Southwest). 
+However, in areas with high temperatures and 
+humidity (i.e., around 70% during the day and 100% 
+during the night), misters should not be used as 
+the primary source of cow cooling. Where misters 
+are used, soaker lines should be installed over the 
+headlocks for cooling as the THI reaches 75 and 
+cows experience moderate heat stress.
+FEED LANE SOAKERS
+Typically, when soaker use is indicated they should 
+be turned on from 1 to 1.5 minute periods. Soaker off 
+time varies, with cycles shortened from 15 minutes 
+to 5 minutes as the ambient temperature increases. 
+Soaker cycles should come on automatically at 68°F 
+and possibly a couple of degrees lower in higher milk-
+producing herds or groups.
+Feed Lane Soaker Installation
+Proper placement of nozzles on a feed lane soaker 
+system is critical for thorough wetting of cows and 
+prevention of wetting of feed. Figure M3 on the 
+following page illustrates proper soaker system 
+placement along the feed lane. Table M4 on page 
+37 contains information concerning water line 
+diameter and volume of water delivered, and Table 
+M5 on page 37 outlines maximum distance of water 
+lines when using various nozzles. In addition, the 
+following guidelines should be used when installing  
+a feed lane soaker system:
+• Nozzles should be spaced 7.5 to 8 feet apart 
+along the soaker supply line or at intervals to allow 
+some overlap of the 120-degree spray pattern.
+• Determine the length of the soaker line needed for 
+each feed lane, and divide that length in feet by 7.5 
+to determine the number of nozzles needed for that 
+section. The greater number of nozzles, the more 
+water usage and, thus, the greater the required 
+soaker line size. See Table M4  to determine the 
+PVC pipe size needed for each pen or zone.
+• Mount the soaker line with appropriate-sized angle 
+iron. Secure the soaker line with hose clamps to 
+prevent sagging of the line.
+• Nozzles should be positioned at 1 o’clock or 11 
+o’clock (depending on the direction viewed) on the 
+soaker line to increase the width, spread, or “fan” 
+of water coverage and to ensure adequate cow 
+coverage from the shoulders to the tailhead. (see 
+photographs). Poor nozzle placement results in 
+inadequate cow coverage. Provide soaker water 
+coverage of the largest surface area of the cow. 
+• Line pressure on the soaker line should be 15 to 
+20 psi. If the line pressure is significantly greater 
+than 20 psi, the droplet size from the nozzle will be 
+too small, creating a mist rather than the desired 
+large droplets. If incoming water pressure is high 
+(40 to 60 psi), a pressure-reducing valve will need 
+to be installed in the system.
+• The height of the soaker line affects the angle of 
+nozzles and cow coverage. Place nozzles above 
+the manger rail or headlocks. If cows have a wither 
+height of 58 to 60 inches, install the soaker line at 
+64 to 66 inches above the cow platform. This will 
+reduce spray drift onto the feed bunk.
+• The soaker line mounts need to be sturdy to 
+prevent cow damage; use an angle iron for S80 
+PVC pipe support.
+• Use quick-caps for easy maintenance.
+11 o’clock 
+position
+1 o’clock 
+position
+Example of proper soaker nozzle placement at 11:00 or 1:00 position 
+on the soaker line
+pg 36
+MECHANISMS OF HEAT ABATEMENT
+Appropriate nozzle placement and improper nozzle 
+placement are presented in the photos below. 
+With proper placement, maximal surface area of 
+soaker coverage is accomplished without excessive 
+drift into feed. Adequate cow cooling requires 
+maximal square inches of water coverage. Improper 
+placement, such as placing the soaker too high, can 
+result in wet feed and a possible reduction in dry 
+matter intake.
+Example of proper soaker nozzle placement at 
+feed lane
+Examples of improper soaker nozzle placement at feed lane – both examples are 
+poor angle of spray and not soaking of entire back of cows, neither take into 
+account soaking of the greatest surface area of the cow.  
+Nozzle space 
+7.5’ – 8’
+Figure M3. Diagram of soaker system for feed lane cooling
+Front view
+Top view
+Nozzle space 
+6’ – 8’
+2” x 4” or steel 
+cable
+Soaker line Feed lane
+Figure M3.   Diagram of soaker system for feed lane cooling
+*Mount soaker lines 5 to 6  
+feet above floor, just  
+above neck rail / head gate
+Harner et al., 1999
+pg 37
+MECHANISMS OF HEAT ABATEMENT
+Figure M4. Diagram of soaker system components
+Electric line
+Thermostat
+Timer
+Filter 
+(optional)
+Main water 
+line Solenoid valve Pressure reducer
+Soakers
+Soaker unit
+- Nozzle body
+- Check valve
+- Nozzle tip
+- Cap
+Harner et al., 1999
+Maximum length of soaker line on 8 foot centers1
+Pipe diameter @ 20 PSI 1 inch 1.5 inch 2 inch 2.5 inch
+Blue Tip Nozzles (0.7 gallon/min) 170 ft 340 ft 680 ft 1360 ft
+Green Tip Nozzles (1.0 gallon/min) 120 ft 240 ft 480 ft 960 ft
+Maximum length of soaker line on 7.5 foot centers1
+Pipe diameter @ 20 PSI 1 inch 1.5 inch 2 inch 2.5 inch
+Blue Tip Nozzles (0.7 gallon/min) 150 ft 300 ft 600 ft 1200 ft
+Green Tip Nozzles (1.0 gallon/min) 100 ft 200 ft 400 ft 800 ft
+1 Friction loss is considered in the calculation, leading to a decreasing PSI. As pipe diameter increases, friction loss is decreased.  
+Consider check valves for opening nozzle, typically 10 PSI
+*6 ft centers are too close, a waste of water, and decreases length of soaker line. Water usage increases over 20% with 6 ft
+compared to 7.5 ft centers.
+Figure M4.   Diagram of soaker system components
+Table M5.   Maximum length of soaker lines on 8 foot or 7.5 foot centers with different nozzles
+Table M4.   Pipe diameter and water delivery capacity
+Pipe diameter 
+1 inch 1.5 inch 2 inch 2.5 inch
+Approximate water volume 
+delivered @ 20 PSI
+15 
+gallons 30 gallons 60 gallons 120 gallons
+NOTE:  As the distance between nozzles is decreased the number of nozzles required for a section of soaker 
+line is increased thus decreasing the length of line that can be used for a given pipe diameter. The only time all 
+cows will potentially be at the soaker line is after milking, 2 to 3 times per day.At all other times cows will be 
+intermittently dispersed at the feed bunk.  
+*6 ft centers for nozzles is a waste of water resources. 
+Pipe diameter 
+1 inch 1.5 inch 2 inch 2.5 inch
+Approximate water volume 
+delivered @ 20 PSI
+15 
+gallons 30 gallons 60 gallons 120 gallons
+NOTE:  As the distance between nozzles is decreased the number of nozzles required for a section of soaker 
+line is increased thus decreasing the length of line that can be used for a given pipe diameter. The only time all 
+cows will potentially be at the soaker line is after milking, 2 to 3 times per day. At all other times cows will be 
+intermittently dispersed at the feed bunk.  
+*6 ft centers for nozzles is a waste of water resources. 
+Pipe diameter 
+1 inch 1.5 inch 2 inch 2.5 inch
+Approximate water volume 
+delivered @ 20 PSI
+15 
+gallons 30 gallons 60 gallons 120 gallons
+NOTE:  As the distance between nozzles is decreased the number of nozzles required for a section of soaker 
+line is increased thus decreasing the length of line that can be used for a given pipe diameter. The only time all 
+cows will potentially be at the soaker line is after milking, 2 to 3 times per day. At all other times cows will be 
+intermittently dispersed at the feed bunk.  
+*6 ft centers for nozzles is a waste of water resources. 
+Pipe diameter 
+1 inch 1.5 inch 2 inch 2.5 inch
+Approximate water volume 
+delivered @ 20 PSI
+15 
+gallons 30 gallons 60 gallons 120 gallons
+NOTE:  As the distance between nozzles is decreased the number of nozzles required for a section of soaker 
+line is increased thus decreasing the length of line that can be used for a given pipe diameter. The only time all 
+cows will potentially be at the soaker line is after milking, 2 to 3 times per day. At all other times cows will be 
+intermittently dispersed at the feed bunk.  
+*6 ft centers for nozzles is a waste of water resources. 
+Pipe diameter 
+1 inch 1.5 inch 2 inch 2.5 inch
+Approximate water volume 
+delivered @ 20 PSI
+15 
+gallons 30 gallons 60 gallons 120 gallons
+NOTE:  As the distance between nozzles is decreased the number of nozzles required for a section of soaker 
+line is increased thus decreasing the length of line that can be used for a given pipe diameter. The only time all 
+cows will potentially be at the soaker line is after milking, 2 to 3 times per day. At all other times cows will be 
+intermittently dispersed at the feed bunk.  
+*6 ft centers for nozzles is a waste of water resources. 
+pg 38
+MECHANISMS OF HEAT ABATEMENT
+SOAKER SYSTEM COMPONENTS
+Figure M4 on page 37 illustrates soaker unit 
+components. Timers and thermostats, are some of 
+the most important components of the soaker system. 
+They can be adjusted to control the frequency of spray 
+cycles and cycle durations. The thermostat controls 
+the start of soaker cycles and can be set to control 
+multiple “zones” with solenoids (1 to 4 zones). Some 
+controllers automatically increase soaking frequency 
+as ambient temperature increases. Manual (on/off) 
+water applications is not recommended for holding 
+pen or free stall soaker systems. Workers in the parlor 
+area should NOT turn water on and off. Controllers 
+can also be electrically “connected” to the milk pump 
+so water is only on during the milking process.
+Timers and preset delays for holding pens or freestall 
+barns are optional. They allow the dairy operator to 
+turn water off while cows are away from the freestall 
+barn. Water will automatically come back on at a 
+preset time. A delay switch inactivates the water on 
+cycle for 1 to 80 minutes.
+Filters
+Soaker water line filters can be a challenge to keep clean. 
+In some hard water areas, filters will fill and plug within 
+weeks. In general, filters are not recommended however 
+200-micron filters or higher may be used. If filters clog, 
+select a larger-sized filter. At the current time, we do not 
+typically install filters, as they can be difficult to manage. 
+Electric Solenoid Valves
+Electric solenoid valves must match soaker pipe size 
+and flow rate. Producers can purchase solenoids to 
+be “normally closed,” but they will need to know (1) 
+the flow rate, or gallons per minute, flowing through 
+the solenoid and (2) if the timer control for solenoid is 
+120V, 24V, or 18V. A 24V solenoid with a 120V timer 
+may require a relay or low-volt reducer in the line 
+between the timer or control box and the solenoid.
+Pressure Reducers
+Often water line pressure on dairies is 40 psi or 
+higher. Higher water pressure creates more small 
+droplets or mist while lower water pressure produces 
+a larger water droplet size to soak through the hair 
+and down to the skin of the cow. Using an adjustable 
+or a variable pressure valve reduces line pressure to 
+15 to 20 psi. A variety of pressure reducer valves are 
+available and are based on the size of the “springs” 
+in the brass pressure reducers; six to ten springs 
+are needed for different psi requirements. Operators 
+should use a pressure reducer set at 15 to 20 psi 
+for application of water in holding pens and free stall 
+barns. Adjustable or variable pressure reducers are 
+preferred over fixed pressure reducers because they 
+can be adjusted for desired water droplet size
+Nozzles and Tips
+Nozzle tips should provide 0.5 to 1.0 gallons of 
+water per minute. The nozzle body should have 
+a check valve and a valve cap. Check valves on 
+nozzles are typically set at 10 psi to prevent lines 
+from draining between water cycles.
+The nozzle body is threaded directly into a ¼-inch 
+tapped/threaded hole in the S80 soaker supply line. 
+Producers should only drill and direct tap ¼-inch 
+NPT (pipe thread) into S80 PVC or steel pipe as wall 
+thickness is inadequate for drill and tap in thinner 
+walled pipe such as S40 PVC. Schedule 80 pipe 
+should only be used for the soaker supply line. 
+Soaker Line Controls
+Inline Variable
+Pressure Reducer4 Solenoids 4 Zones
+Supply Line
+pg 39
+MECHANISMS OF HEAT ABATEMENT
+Schedule 40 pipe can be used for other lines to 
+decrease installation cost. Schedule 40 couplers, 
+accessories, and ball valves also can be used with 
+S80 soaker supply line to reduce costs.
+A paddle bit, or a flat bit with a point, is preferable to a 
+round drill bit for drilling into PVC pipe. The point of the 
+paddle bit prevents the bit from “skating” off the pipe. 
+A 7/16-inch bit should be used to drill a hole for the 
+¼-inch tap, checking the first hole drilled and tapped 
+for a tight fit of first nozzle before continuing. If a tight 
+fit exists, pipe dope or Teflon tape is not needed. See 
+the photos below displaying this process.
+When using the tap, only drill to a depth approximately 
+½ to ¾ of the tap shaft. Using the full tap depth  
+may cause the nozzle not to thread or ‘seat’ tightly.  
+Use pipe dope or Teflon tape if needed. The minimum  
+pipe diameter for drill and tap is 1-inch for feed  
+lane soakers.
+Nozzles are available in brass, which is sturdier for 
+low installation, and nozzles with diaphragm check 
+valves prevent line from draining between cycles. 
+Ball and spring check valves and filters are prone 
+to calcium build-up from hard water but can be 
+cleaned using milking system cleaning agents.
+FEED LANE SOAKER UNIT PARTS
+TeeJet® Clamp-on Nozzle Body
+TeeJet® clamp-on nozzle body with a check valve 
+and quick TeeJet® caps (QJ17560A-1-NYB for 1-inch 
+PVC pipes) are recommended for some installations. 
+To attach the sprinkler nozzle body, drill a 3/8-inch 
+hole in the PVC pipe. The diaphragm check valve 
+stops water flow at 10 psi so pipes stay full for the 
+next cycle. 
+TeeJet® Threaded Nozzle Body
+The TeeJet ® threaded nozzle body screws into the 
+tapped ¼-inch hole. Drill and tap ¼-inch national 
+pipe thread (npt) into a 1-inch or larger pipe (S80 
+PVC or galvanized steel is preferred). It is important 
+to note that the minimum pipe diameter is 1 inch. 
+The following are recommended nozzle choices:
+• brass (with internal screen and ball check valve)
+ – CP1322, TeeJet® body DR ¼-inch npt
+ – CP1325 TeeJet® cap, brass
+ – 11750-PP-10, check valve
+• plastic (with side diaphragm check valve).
+ – QJ8360-NYB, TeeJet® body with check valve, 
+¼-inch npt (quick-cap)
+ – 25600-4-NYR, Quick TeeJet® quick –cap, plastic
+ – 8360-NYB, TeeJet® body with check-valve, 
+¼-inch npt (screw-cap)
+ – CP8027-NYB, TeeJet® cap, plastic
+TeeJet® Nozzle Tips
+TeeJet® nozzle tips create a 120-degree spray pattern. 
+The Turbo FloodJet® (TF) is a polymer nozzle that 
+delivers large droplet size and comes in various sizes. 
+The most commonly used are:
+• TF-VP5 - 0.7 gallons per minute at 20 psi  
+(0.5 gallons per minute at 10 psi); and
+• TF-VP7.5 - 1.1 gallons per minute at 20 psi  
+(1.0 gallons per minute at 10 psi).
+Installation of nozzle body into PVC pipe
+
+pg 40
+MECHANISMS OF HEAT ABATEMENT
+Quick TeeJet® Caps with Gaskets
+Quick TeeJet® caps with gaskets are used to secure 
+nozzle tips to the nozzle body without tools. The 
+parts number for this product is 25600-4-NYR.
+INSTALLATION TIPS
+The following tips will aid in the installation of the 
+soaker system:
+• Create a drill bit guide or jig for drilling holes in S80 
+PVC pipe (see photograph).
+• Weld plate steel with an appropriately sized hole  
+to make a 3-sided jig for drilling (see photograph).
+• Secure PVC pipe to angle iron with pipe clamps 
+prior to drilling and tapping.
+• Mark drill holes with felt-tipped marker at 7.5 foot 
+intervals.
+• Snap jig over S80 PVC pipe and angle iron to 
+keep drill holes aligned.
+• Free-hand drilling will “skate” off the PVC pipe, 
+especially if using a round bit. Use a 7/16-inch 
+paddle bit to minimize “skating” off pipe.
+• Nozzle spacing will depend on water supply, water 
+demand (line length), and nozzle volume (0.7- to 
+1-gallon nozzle).
+• Test first nozzle fitting before continuing. 
+• Use pipe dope or Teflon tape on nozzle threads for 
+a watertight seal, if needed.
+• After installing nozzles, loosen pipe clamps and 
+roll PVC such that water is applied evenly between 
+both shoulders and hooks. Lines should be 
+adjusted to allow for maximum water coverage.
+OTHER CONSIDERATIONS
+Use a shim or a spacer between the angle iron  
+and the vertical support of the barn at the feed lane. 
+This prevents water from dripping onto the stem  
+wall of the headlocks and creating water puddles 
+and “soggy-feed” on the stem wall.
+Steel pipe can be used, but it requires special 
+considerations. Steel pipe should be coupled with  
+a radiator hose or reinforced rubber coupling.
+Drill bit jig
+Improper soaker placement results in wet feed. Soaker lines are too 
+high causing water ‘drift’ and poor cow coverage
+Steel pipe coupled with radiator hose
+pg 41
+MECHANISMS OF HEAT ABATEMENT
+NOZZLE SUPPLIES FOR SOAKER SYSTEM
+TeeJet® Clamp on nozzle 
+with check valve
+TeeJet® Quick Cap 
+with gasket
+TeeJet® Turbo FloodJet 
+Nozzle
+TeeJet® threaded  
+nozzle body
+TF-VP5  
+0.7 gallon per minute 
+at 20 psi
+T F-V P7.5 
+1.1 gallon per minute  
+at 20 psi
+TF-VP10 
+1.4 gallon per minute  
+at 20 psi
+Note:
+• Tip selection determined 
+by water supply capacity
+• TF-VP5 or TF-VP7.5 most 
+commonly used
+• Shorter ON cycle time with 
+TF-VP7.5, but water supply 
+is more critical
+TEEJET® TURBO FLOODJET® NOZZLES
+TEEJET® BRASS NOZZLE BODY, CHECK VALVE, AND CAP
+Turbo FloodJet 
+nozzle 
+TF-VP5
+Brass cap 
+CP1325
+Strainer and 
+check valve 
+4193A-5-24
+Nozzle body 
+CP1322
+QUICK TEEJET® WITH SIDE DIAPHRAGM CHECK VALVE
+Turbo FloodJet nozzle 
+TF-VP5
+Quick TeeJet cap  
+and gasket  
+25600-1-NYR
+Nozzle body and 
+check valve 
+QJ8360-NYB
+Quick TeeJet® nozzle body, 
+check valve and cap
+
+pg 42
+MECHANISMS OF HEAT ABATEMENT
+If damage (i.e., skid-steer) to the steel pipe occurs, 
+the rubber coupling can be easily removed and 
+the damaged section of the steel pipe replaced. 
+Second, we suggest a contractor is hired to drill  
+and tap nozzle holes in steel pipe. 
+Use a flex hose or an adjustable union connector  
+for the water supply line, which allows for soaker  
+line rotation and adjustment of nozzle angle  
+after installation.
+Square tubing (see photograph) can be used 
+for the soaker line. A 2-inch square tube has 
+approximately a 75 gallon per minute capacity at 
+15 to 20 psi. When installing the square tubing, 
+consider soaker line length, capacity and number 
+and size of nozzles as a square line has a higher 
+capacity than a corresponding round line will. 
+Calculate the water capacity of the system using 
+length of the line, nozzle volume per minute, and 
+nozzle spacing. If demand for water volume is 
+greater than the carrying capacity of the pipe,  
+there may be inadequate volume of water to soak  
+the cows the entire length of the soaker line.  
+If the water volume is inadequate for the number  
+of nozzles, cows at the end of the system may  
+not get adequately soaked. 
+WARNING: Square tubing can be used for a soaker 
+line, it does however present challenges with proper 
+angle of nozzles and soaking. A 2 inch square tube 
+has a carrying capacity of approximately 75 gallons of 
+water at 20 PSI. This square tubing (see photograph 
+above) had 126 1-gallon nozzles on 6 foot spacings 
+or a demand of 126 gallons of water per minute. 
+The end nozzles of this soaker line did not receive 
+adequate water volume to provide soaking and 
+therefore did not work. Also, this square tube was 
+supplied with a 2 inch round pipe with a water 
+capacity per minute of 60 gallons. Always make sure 
+that the supply line is adequate for water demand to 
+the soaker line and that the soaker line can carry an 
+adequate volume of water to the nozzles.
+FEED LANE SOAKER OPERATION
+Soaker nozzles should deliver 0.5 to 1.0 gallons of 
+water per 1 minute cycle. The “time off” cycle should 
+be reduced as ambient temperatures increase. 
+Approximately 0.7 gallons of water should be 
+delivered per 1 minute cycle; therefore, water on-time 
+is typically 1.2 to 1.4 minutes. An example of a soaker 
+line controller is presented in the photograph on the 
+following page, and the use of zones for soaking 
+cows is presented in Figure M5 on page 44. 
+Flex hose connection for water supply line
+Square tubing can be used for soaker line
+pg 43
+MECHANISMS OF HEAT ABATEMENT
+The following are guidelines for using a feed lane 
+soaker system:
+• Set the feed lane soaker system to initiate a soaking 
+cycle at a temperature of 66 to 68oF (dependent on 
+herd or group production). 
+• Initial settings at lower temperatures (66 to 72oF)  
+are for 1 minute on-times per zone with a 10-minute 
+off cycle. With four operational zones, the period 
+from the start of one cycle in a zone to the start of the 
+next cycle in that same zone would be 14 minutes. 
+Adjustments in soaker on-times should be discussed 
+among the dairy management team. For a thorough 
+soaking cycle, the on-time should not be less than  
+1 minute using 0.7 gpm nozzles.
+• At higher temperatures or humidity (THI), set soakers 
+to come on at shorter intervals. For example, at 82oF 
+or higher, soaker on-time will remain at a 1-minute 
+minimum, but off-time should be reduced to only  
+2 to 3 minutes, such that time between cycles is 
+6 to 7 minutes. In extremely hot conditions, one of 
+the four zones may be running at all times.
+• Some control boxes (Edstrom 440 and 110) have 
+a “SMART” mode that automatically reduces off-
+time intervals as ambient temperatures increase 
+above 68oF. With these systems, set the high 
+temperature point at 82oF.
+• Position nozzles at the 1:00 or 11:00 o’clock position 
+every 7.5 to 8 feet. Spacing nozzles at 6-foot 
+intervals creates a 23% increase in water usage. 
+• Small-diameter pipe (1-inch) can be supported 
+by a tight cable; however, the pipe will twist and 
+the nozzle angle may have to be adjusted (see 
+photograph). To avoid twisting and sagging, mount 
+lines with an appropriately sized angle iron.
+• Larger pipe (1½-inch or greater) should be 
+supported by an angle iron (see photograph).
+• Provide drain valves at each end of the line to 
+drain the line for winter (see photograph).
+HOLDING PEN COOLING
+The milking center holding pen is often the area 
+of most significant heat stress on the dairy cows 
+because of the high concentration of cows in 
+a confined space. Holding pens should not be 
+overcrowded, especially during times of high heat 
+and humidity. Each cow should have at least 
+Controller box with 4 solenoid outlets
+Cable mounted PVC can twist and maintenance is required for 
+nozzle angle adjustment
+Soaker line mounted on angle iron
+pg 44
+MECHANISMS OF HEAT ABATEMENT
+Figure M5. Illustration of ‘4 zone’ soaker system
+Zone 1
+Zone 4
+Zone 2
+Zone 3
+15 square feet of space at maximum capacity, and 
+crowd gates should not overly crowd cows into a small 
+area. Total time in the holding pen should not exceed 
+45 minutes per milking, even for the last cows to enter 
+the milking center. Time in the holding pen is time 
+away from feed and bedding. If cows are spending 
+more than 15 to 20 minutes in holding or waiting areas 
+prior to or after the holding pen or milk parlor, fans and 
+soakers should be considered in these areas. 
+Although the holding pen is often the most hostile 
+environment for heat stress, it is often the easiest 
+and least expensive to equip with a heat abatement 
+system. Fans and soakers can be installed with 
+relative ease in most holding pens, even in older 
+facilities. Holding pen soaking should thoroughly wet 
+the back of the cow but then stop to allow the water 
+to evaporate prior to another cycle beginning. In 
+addition, holding pen soaking, when done correctly, 
+has minimal risk of causing wet udders entering the 
+parlor (see photograph).
+In a study designed to measure the impact of holding 
+pen heat stress, Harner et al. (2000) determined 
+that body temperature decreased by 3.5°F and milk 
+production increased 1.7 pounds per cow per day 
+when cows were cooled in the holding pen.
+Milk production also increased by 5 pounds per day 
+when cows were cooled for 30 minutes, five times 
+per day in the holding pen. 
+For effective heat abatement in the holding pen:
+• Reduce time in holding pen.
+• Prevent overcrowding.
+• Improve ventilation with open ridge caps and open 
+side walls for hot air to escape.
+• Install fans and a soaker system.
+The following guidelines should be applied to 
+holding pen cooling with soakers and fans: 
+• Holding pen fans should be set to come on at 65oF 
+ambient temperature. Between 65 and 68oF, the 
+Outside water supply is routed to the center 
+of the barn. Water is then directed to the  
+4 zones with solenoids. The controller then 
+sends a signal to zone 1 solenoid, water is 
+ON. Water is OFF in all other zones (2, 3, 4). 
+Controller will then switch to zone 2, all other 
+zones are then OFF. Cycling through zones 
+reduces water usage compared to all zones 
+operating simultaneously. Also a smaller 
+soaker line pipe diameter may be used 
+because only one quarter of the system is  
+ON in the barn at one time.
+Zone 
+Controls
+Holding pen soaking should thoroughly wet the cow. Also note that 
+wetting the cow’s back does not cause wet udders entering the parlor.
+Figure M5.   Illustration of ‘4 zone’ soaker system
+pg 45
+MECHANISMS OF HEAT ABATEMENT
+soaker system should come on for 1 to 2 minute 
+cycles with an off or idle period of 10 minutes. 
+• As ambient temperatures increase to 78°F or higher, 
+soakers should continue on for 1 to 2 minutes, but 
+the off time should be reduced to 5 to 6 minutes for 
+a total cycle from the start of one soaking to the start 
+of next soaking of 6.5 to 8 minutes. 
+A system control panel that operates the solenoid 
+allowing water flow can be linked to the milk pump 
+circuitry so water is on only during milking. Another 
+important tip is DO NOT rely on manual on-off 
+valves to control the soaker system. In manual 
+systems, workers often forget to turn the system on. 
+Place the temperature probe from the control box at 
+cow level but away from drifting water from soaking 
+lines. The holding pen control box should be set 
+to turn on at 65oF with a wetting frequency of 1 to 
+1.5 minutes and 10 minutes of downtime. Holding 
+pens are typically 10 to 15 degrees warmer than the 
+ambient temperature when full. Remember, cows 
+may generate 5000 BTUs of heat per hour.    
+HOLDING PEN SOAKER SYSTEMS
+The design of the holding pen soaker system can 
+vary and is dependent upon location and set-up 
+of the holding pen. Following are a few options for 
+holding pen soaking systems.
+Single row of high capacity soaker nozzles
+Dairy operators can install a single row of high 
+capacity soaker nozzles. Options for single row, high 
+capacity soaker systems in the holding pen include 
+the I-wob or the Nelson® D3000 spray head.
+The I-wob system is a single row of high capacity 
+soaker nozzles (see Figure M6 on the following 
+page). The components of the I-wob system are 
+shown in Figure M7 on the following page.
+When using the I-wob system, follow these guidelines:
+• Use a low voltage, 1.5 inch solenoid which is in a 
+normally closed position.
+• Use at least a 1.5-inch diameter central water 
+supply line.
+• Water supply pipe diameter is determined by the 
+number of I-wobs and the output volume.
+• The area 15 to 20 feet from the parlor should not 
+be covered by the soaker zone to allow for a drip-
+dry area.
+• Install the water supply line level and not following 
+the slope of the holding pen floor (see Figure M7).
+• The I-wob drop line must be at least 2 feet in length. 
+Try to maintain the length that comes from the 
+factory. I-wobs should have some “play” or a slight 
+wobble when operating. 
+• The I-wob nozzle should be approximately 12 inches 
+below the bottom of the fans.
+• I-wob nozzles should be at least 9 feet above the 
+cows’ backs or approximately 14 feet or higher 
+above the holding pen floor (see Figure M6). At 
+that height and with adequate water volume and 
+pressure, cows should be soaked within a 40 foot 
+diameter of the I-wob nozzle.
+• I-wobs are placed on 20 to 24 foot centers between 
+each row of fans.
+• I-wobs come with a gooseneck, drop line, 10-pound 
+pressure regulator, and soakers (see Figure M7).
+ – Use a blue tip nozzle with the I-wob that 
+supplies 3.5 gallons of water per minute. 
+• Do not install a check valve between the water 
+supply line and the pressure regulator of the 
+I-wob to avoid damage (blow out) to the pressure 
+regulator. When check valves are installed, they 
+must be placed downstream, on the water supply 
+side of the pressure regulator. 
+pg 46
+MECHANISMS OF HEAT ABATEMENT
+Figure M6. Single row I-wob soaker system for holding pens
+I-wob
+system
+Gooseneck
+No check valve
+Rubber hose
+Pressure regulator
+I-wob (blue nozzle)
+Water supply line 
+diameter is 
+calculated based on 
+# of I-wobs
+9’ above cow 11’ above cow
+• The I-wob supply line should have a crook or 
+gooseneck on top of the supply line in the 12 
+o’clock position, so that when the water shuts off 
+between cycles the entire supply line will not drain. 
+Otherwise, if the water drains from the system, it 
+may take a few minutes to fill the supply line and 
+obtain adequate water volume for soaking cows. 
+The Nelson® D3000 system and spray head is 
+illustrated in Figure M8. This system provides 
+360-degree coverage with a coverage diameter  
+of 28 feet with a water pressure of 20 psi. 
+When using the Nelson® D3000 system, follow 
+these guidelines:
+• Use 3TN nozzles #25 red and #25 gray plate 
+(#9542). Set the system at 4.8 gallons per minute 
+at 20 psi.
+• Use a mini-regulator drain check valve.
+• The pressure reducer (providing 15 to 20 psi 
+at nozzle) may be located in the supply line or 
+distribution lines.
+• Install the system on a 24-foot center and 9 feet 
+above the floor at a minimum of 3 feet above the 
+cows’ backs.
+Nelson 
+D3000 
+Sprayhead
+Figure M7. Components of the I-wob soaker system for holding pens
+Blue tip nozzle
+Gooseneck
+Pressure reducer, 10 psi
+Whole systems, 30” dropline
+Figure M6.   Single row I-wob soaker system for holding pens
+Figure M8.   Nelson® D3000 illustration
+Figure M7.   Components of the I-wob soaker system for  
+holding pens
+pg 47
+MECHANISMS OF HEAT ABATEMENT
+HIGH CAPACITY SOAKER ON 
+SIDES OF HOLDING PEN
+High capacity soakers on the sides of the holding 
+pens (see Figure M9) are an option when the 
+holding pen has a low ceiling and, thus, little room for 
+a central water line and drop hoses. The RainBird® 
+Plastic Impact Sprinkler 2045-PJ low angle nozzle 
+(LAN-1) (part # B46000-10-LA) is an excellent choice 
+for this application (see photograph). RainBird® 
+nozzles provide 3.5 to 4 gallons of water per minute 
+at 25 psi with a 22-foot spray radius. Nozzles can be 
+staggered on each side of the pen or in a single row 
+down one side of the holding area. Install the nozzles 
+in 15- to 20-foot-long intervals, 6 to 7 feet above the 
+floor for adequate coverage. In this system, the water 
+supply line is clamped to a rail on the side of the 
+holding pen (see photographs). Each nozzle  
+has a water demand of 3.5 to 4 gallons per minute, 
+so a 1-inch diameter line is capable of supplying  
+14 gallons of water per minute for up to three 
+RainBird® nozzles on each side of the parlor. 
+High capacity soaker nozzle mounted on the side of holding pen 
+and RainBird low angle nozzle.
+High capacity soaker nozzle on side of holding pen
+Figur e M9. High capacity soakers on side of holding pen
+Parlor entrance
+15’ to 20’ drip-dry 
+area before parlor 
+entry
+Figure M9.   High capacity soakers on side of holding pen
+pg 48
+MECHANISMS OF HEAT ABATEMENT
+Grid Soaker System over Holding Pen
+The grid soaker system in the holding pen (see 
+Figure M10) is also a viable option for cow cooling 
+in wider holding pens (see photographs). With 
+this system, the Senninger Super Spray sprinkler 
+head with a #6 to #12 convex deep groove pad 
+nozzle is a good choice (see Figure M10). This 
+nozzle allows for 360-degree coverage with a 16 
+to 20 foot diameter of coverage. This system will 
+provide over 1.4 gallons per minute at 10 to 15 psi 
+water pressure. When installing the grid system, use 
+a large main water supply line (at least a 1½-inch 
+diameter) with ¾ to 1 inch PVC pipe drop hoses. 
+The soaker should be on 8 to 10 foot centers and 
+positioned 8 to 10 feet above the holding pen floor. 
+PARLOR EXIT COOLING
+Decreasing body temperature in a heat-stressed 
+cow requires significant soaking time. As 
+demonstrated in Figures M1 and M2, time is 
+required for cooling to begin even when adequate 
+heat abatement systems are employed. Once 
+body temperatures are elevated, it typically takes 
+an hour or more of soaking and ECV to reduce 
+body temperature back to normal. An important 
+question is, “Can I soak the cow and decrease body 
+temperature within the time allotted?” The answer 
+is simple: Exit lane soaking should always be used 
+in conjunction with holding pen soaking. Exit lane 
+soaking alone is not adequate to reduce elevated 
+body temperatures. Exit lane soaking has inherent 
+flaws. First, even if a large volume of water is 
+provided, soaking time is often inadequate. Second, 
+water often has to run continuously, wasting water 
+resources (see photographs).
+Exit alley or exit platform cooling should thoroughly 
+wet the cows after milking, cool cows for the return 
+to pen, and always be used in conjunction with 
+holding pen soaking. The following considerations 
+should be noted when installing parlor exit cooling:
+Senninger Super Spray nozzle in the grid soaker system in holding pens
+Grid soaker system in holding pens
+Figure M10. Grid soaker system for holding pen
+Parlor entrance
+15’ to 20’ drip-
+dry area before 
+parlor entry
+Senninger
+Super Spray #6 
+nozzle
+Figure M10.   Grid soaker system for holding pen
+pg 49
+MECHANISMS OF HEAT ABATEMENT
+• Use a system that provides large droplets at low 
+pressure that soaks cows to the skin yet does not 
+cause cows to balk when exposed to the spray.
+• Showerheads and watering wand spray heads 
+work well.
+• Typically 1 to 1.5 minutes of soaking time is adequate.
+• A wand or an electronic eye can be used to turn 
+on the water flow.
+• Trigger a closed solenoid to open and release 
+water for a set time.
+• Control spray time with a timer.
+• Set a trigger so that when cows are under the 
+shower, they don’t hesitate to enter the water stream.
+• Caution: The electronic eye of the trigger can get 
+dirty quickly and fail to operate properly
+Milking Parlor Platform Cooling
+For parlor exit cooling to be effective, cows must be 
+adequately soaked. To accomplish this, nozzles are 
+often placed on 6-foot intervals along the parlor wall. 
+When milking is completed, rapid exit bars rise, and a 
+toggle switch is tripped. Cows exit the milking stalls and 
+stand on the parlor cow platform. After a 10-second 
+delay, a solenoid is triggered and water is sprayed over 
+the cows for one minute. Cows then exit the milking 
+center being completely soaked. The photographs 
+show a double parallel parlor and a side-by-side parlor, 
+both with excellent holding pen soaking systems and 
+fans in addition to the cow platform soaking.
+Exit lane soaking: Large water volume can’t compensate for 
+inadequate soaking time
+Exit lane soaking: In-line single alley spray provides good soaking 
+time but water may be running continuously, wasting water resources
+(Left) Tee-jet nozzles along cow platform in the parlor for soaking 
+after milking. Rapid exit goes up, there is a 10 second delay to allow 
+time for cows to step out, and the soaker line is activated for 1.5 to 
+2 minutes. Soakers are set on 6 foot centers on the cow platform. 
+(Right) Soaker nozzles along cow platform within the parlor  
+
+pg 50
+SUPPLIERS OF PARTS AND EQUIPMENT
+TIMERS, CONTROLLERS, 
+SOLENOIDS, PRESSURE 
+REDUCERS, TIPS, AND NOZZLES
+This list is not intended to endorse 
+or omit specific dealers. It offers 
+a list of U.S. suppliers who have 
+most of the materials discussed in 
+this manual
+TIMERS/CONTROLLERS
+Edstrom Industries 
+819 Bakke Ave. 
+Waterford, Wisconsin 53185 
+800-558-5913 
+www.agselect.com 
+e_service@edstrom.com 
+Products: Edstrom Controller, 
+Solenoids, Filters, Pressure 
+Reducer kits, Times and Preset
+Farmland Irrigation 
+3721 Arch Ave. 
+Grand Island, Nebraska 
+Keith Jardine, Dealer 
+308-381-1509 
+Products: Senninger irrigation 
+nozzles, holding pen soaker 
+nozzles, I-wobs
+Visions Inc. 
+PO Box 278, 201 East St. South 
+Vernon Center, MN 56090 
+800-338-5756, 507-549-3434 
+svriesen@visioninc.us 
+Products: Zone controller 
+(EC120R0), Solenoids
+MANUFACTURERS
+TeeJet Agricultural Spray Nozzles 
+www.teejet.com 
+Products: Soaker nozzles for feed 
+lanes
+Nelson Irrigation Nozzles 
+www.nelsonirrigation.com 
+Products: Soaker nozzles for 
+holding pens
+Senninger Irrigation Nozzles 
+www.senninger.com 
+Products: Soaker nozzles for 
+holding pens; small ¾-inch to 
+1.25-inch pressure regulators
+Rain Bird Irrigation Nozzles 
+www.rainbird.com 
+Products: Soaker nozzles for 
+holding pens
+Dancon Products 
+www.dancon.com 
+Products: Model 191 - Preset 
+timers push-button delay switch 
+80 minute range, 120 bolt 
+PresetTime/preset time 5. 
+(Also available at Edstrom 
+at www.agselect.com.)
+SOAKER NOZZLES, 
+SOLENOIDS, IRRIGATION 
+PARTS DISTRIBUTORS
+Farmland Irrigation 
+3721 Arch Ave. 
+Grand Island, Nebraska 
+Keith Jardine, Dealer 
+308-381-1509 
+Products: Senninger irrigation 
+nozzles, holding pen soaker 
+nozzles, I-wobs
+QC Supply 
+Schuyler, Nebraska 
+68661-0581 
+800-433-6340 
+www.qcsupply.com 
+Products: Edstrom dealer of 
+controllers, solenoids, and filter kits
+Dave Reinecker 
+Reinecker Ag Products 
+7270 Old Harrisburg Rd. 
+York Springs, PA 17372 
+717-528-8428 
+daragprod@supernet.com 
+Products: Edstrom dealer of 
+controllers, solenoids, and filter kits
+Norbco. Inc. 
+Paul Garrett 
+4754 State Route 233 
+PO Box 370 
+Westmoreland, New York 
+13490 
+315-853-3936 
+Products: Edstrom dealer of 
+controllers, solenoids, and filter kits
+Fairbank Equipment 
+5018 South Antelope Dr. 
+Grand Island, Nebraska 
+800-441-7550 or 308-381-4266 
+3700 Jewell St, 
+PO Box 13237 
+Wichita, Kansas 
+316-943-2247 
+www.fairbankequipment.com 
+Products: TeeJet dealer of feed 
+lane soaker nozzles
+Farmer Boy Ag 
+50 West Stover Ave 
+Myerstown, PA 17067 
+www.farmerboyag.com 
+800-845-3374
+Paul B. Zimmerman 
+50 Woodcorner Road 
+Lititz, Pennsylvania 17543 
+717-738-7350 
+Products: TeeJet dealer of feed 
+lane soaker nozzles
+Ag-Chem/AGCO Parts  
+Distribution Center 
+300 Russel Drive 
+Middletown, Pennsylvania 
+800-760-8800 
+Products: TeeJet dealer of feed 
+lane soaker nozzles
+Mid-Atlantic Irrigation Co., Inc. 
+1803 West 3rd Street 
+PO Box L 
+Farmville, Virginia 23901 
+888-442-0240 
+http://www.irrigationparts.com
+NetaFim 
+www.netafim-usalandscape.com 
+Products: Solenoid, pressure 
+regulators
+Bermad 
+International company with dealers 
+in Florida, Texas, and California 
+Tom Gerardi 
+Manager, South East Region 
+Ocala, Florida 
+Office: 352-629-6838 
+Fax: 352-629-3553 
+Mobile: 352-895-1508 
+Email: 428CJ@att.net 
+www.bermad.com
+LARGE SOLENOID VALVES
+Farmland Irrigation 
+3721 Arch Ave. 
+Grand Island, Nebraska 
+Keith Jardine, Dealer 
+308-381-1509 
+Products: Senninger irrigation 
+nozzles, holding pen soaker 
+nozzles, I-wobs
+Grainger 
+http://www.grainger.com
+Schaben Industries 
+Columbus, NE 68601 
+Bakersfield, California 
+1-800-274-1025
+pg 51
+REFERENCES
+Baumgard L, Rhoads R. In: Proceedings from the 2007 Penn State Dairy 
+Cattle Nutrition Workshop; November 13-14, 2007; Grantville, PA: 29-38.
+Beede DK. Water: the most important nutrient for dairy cattle. In: 
+Proceedings from the 31st Florida Dairy Production Conference; April 
+12-13, 1994; Gainesville, FL: 83-98.
+Berman, A. Estimates of heat stress relief needs for Holstein dairy 
+cows. J Anim Sci. 2005;83:1377-1384.
+Brouk MJ, Smith JF, Harner JP III. Heat stress abatement in four-row 
+freestall barns. In: Proceedings of the 5th Western Dairy Management 
+Conference. April 4, 2001; Las Vegas, NV: 161-166.
+Brouk MJ, Smith JF, Harner JP III. Effectiveness of cow cooling 
+strategies under different environmental conditions. In: Proceedings 
+from the Western Dairy Management Conference; March 12-13, 2003; 
+Reno, NV: 141-154.
+Brouk MJ, Harner JP, Smith JF, Miller WF, Cvetkovic B. Reponses of 
+lactating Holstein cows to differing levels and direction of supplemental 
+airflow. In: Proceedings of Dairy Day 2004, Report of Progress 941; 
+2004; Kansas State University, Manhattan, KS: 32-35.
+Dahl GE, S. Tao S, Monteiro APA. Invited review: Effects of late 
+gestation heat stress on immunity and performance of calves. J Dairy 
+Sci. 2013;96(7):4079-4093.
+Dahl GE, Monteiro A, Tao S. Effects of late-gestation heat stress on 
+immunity and performance of calves. J Dairy Sci. 2015;98 (suppl 
+2):276, abstract 215.
+do Amaral BC, Connor EE, Tao S, Hayen J, Bubolz J, Dahl GE. 
+Heat-stress abatement during the dry period: does cooling improve 
+transition into lactation? J Dairy Sci. 2009;92:5988-5999.
+do Amaral BC, Connor EE, Tao S, Hayen J, Bubolz J, Dahl GE. Heat 
+stress abatement during the dry period influences metabolic gene 
+expression and improves immune status in the transition period of 
+dairy cows. J Dairy Sci. 2011;94:86-96.
+Hansen PJ. To be or not to be—determinants of embryonic survival 
+following heat shock. Theriogenology. 2007;68(suppl 1):S40-48.
+Harner JP, Smith JF, M. Brook M, Murphy JP. Sprinkler systems for cooling 
+cows. Extension MF2401. Kansas State Extension Publication. 1999.
+Harner JP, Smith JF, M. Brook M, Murphy JP, Boomer G. Reducing 
+heat stress in the holding pens. 2000 Heart of America Dairy 
+Management Conference. June 21-22, 2000; Washington, DC: 5-12.
+Keown JF, Kononoff PJ, Grant RJ. How to reduce heat stress in 
+dairy cattle. Lincoln, NE: NebGuide University of Nebraska-Lincoln 
+Extension, Publication G1582; 2005.
+Ludington DC, Johnson EL, Kowalski JA, Mage AL. Dairy farm energy 
+management guide. Rosemead, CA: Southern California Edison; 2004. 
+https://www.sce.com/NR/rdonlyres/60CC09E0-2EE1-4087-B46F-
+51527CC0906D/0/CompleteGuide_102005REV.pdf
+Murphy MC, Davis CL, McCoy GC. Factors affecting water consumption 
+by Holstein cows in early lactation. J Dairy Sci. 1983;66:35-38.
+Purwanto BP, Abo Y, Sakamoto R, F. Furumoto F, Yamamoto S. 
+Diurnal patterns of heat production and heart rate under thermoneutral 
+conditions in Holstein Friesian cows differing in milk production.  
+J Agricultural Sci. 1990;114:139-142.
+Reneau J. Easing milking time heat stress. University of Minnesota 
+Extension Web site. http://www.extension.umn.edu/agriculture/dairy/
+health-and-comfort/easing-milking-time-heat-stress/. Published July 
+28, 2012. Accessed February 25, 2016.
+Rhoads ML, Rhoads RP, VanBaale MJ, et al. Effects of heat stress 
+and plane of nutrition on lactating Holstein cows: I. Production, 
+metabolism, and aspects of circulating somatotropin. J Dairy Sci. 
+2009;92(5):1986-1997.
+Smith JF, Brouk MJ, Harner JP. Heat abatement strategies for optimal 
+dairy cattle performance. In: Proceedings of the Four-State Dairy 
+Nutrition and Management Conference; 2003: 99-108.
+Stoakes SK, Sanz-Fernandez MV, Johnson JS, et al. Environmental 
+heat stress and gut integrity. In: Proceedings of the 2013 Minnesota 
+Nutrition Conference; September 17-18, 2013; Prior Lake, MN: 117-132.
+St-Pierre, N. R., B. Cobanov, and G. Schnitkey. Economic losses  
+from heat stress by US livestock industries. J Dairy Sci. 2003;86 
+(suppl E):E52-E77.
+Tao S, Bubolz JW, do Amaral BC, et al. Effect of heat stress during 
+the dry period on mammary gland development. J Dairy Sci. 
+2011;94:5976-5986.
+Tao S, A. P. Monteiro AP, I. M. Thompson IM, M. J. Hayen MJ, Dahl 
+GE. Effect of late-gestation maternal heat stress on growth and 
+immune function of dairy calves. J Dairy Sci. 2012;95:7128-7136.
+Thompson IM, Tao S, Monteiro AP, Jeong KC, Dahl GE. Effect of 
+cooling during the dry period on immune response after Streptococcus 
+uberis intramammary infection challenge of dairy cows. J Dairy Sci. 
+2014;97:7426-7436.
+Wheelock JB, Sanders SR, Shwartz G, et al. Effects of heat stress  
+and rbST on production parameters and glucose homeostasis.  
+J. Dairy Sci. 2006;89(suppl 1):290-291, abstract 394.
+Zulovich L, Harner JP, Smith JF, Pohl S. Fans: Airflow versus 
+static pressure. In: Proceedings of the Dairy Housing of the Future 
+Conference, September 10-11, 2008; Sioux Falls, SD: 35-38.
+Elanco, The Vital 90, and the diagonal bar are trademarks owned or licensed by Eli Lilly and Company,  
+its subsidiaries, or affiliates.   
+© 2016 Eli Lilly and Company, its subsidiaries, or affiliates. USDBUNON01717

@@ -1,0 +1,870 @@
+=== Fuente: 07 Smith Cellular regulation of bovine intrmuscular adipose tissue development and composition.pdf ===
+
+S. B. Smith, H. Kawachi, C. B. Choi, C. W. Choi, G. Wu and J. E. Sawyer
+composition
+Cellular regulation of bovine intramuscular adipose tissue development and
+doi: 10.2527/jas.2008-1340 originally published online November 7, 2008
+2009, 87:E72-E82.J ANIM SCI 
+http://www.journalofanimalscience.org/content/87/14_suppl/E72
+the World Wide Web at: 
+The online version of this article, along with updated information and services, is located on
+www.asas.org
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from  by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+ABSTRACT: It is well documented that grain feeding 
+stimulates adipogenesis in beef cattle, whereas pasture 
+feeding depresses the development of adipose tissues, 
+including intramuscular (i.m.) adipose tissue. Addition-
+ally, production practices that depress adipocyte dif-
+ferentiation also limit the synthesis of MUFA. Marbling 
+scores and MUFA increase in parallel suggesting that 
+stearoyl-coenzyme A desaturase (SCD) gene expression 
+is closely associated with and necessary for marbling 
+adipocyte differentiation. Similarly, marbling scores 
+and fatty acid indices of SCD activity are depressed 
+in response to dietary vitamin A restriction. In bovine 
+preadipocytes, vitamins A and D both decrease glycer-
+ol-3-phosphate dehydrogenase (GPDH) activity, an in-
+dex of adipocyte differentiation, whereas incubation of 
+bovine preadipocytes with l-ascorbic acid-2-phosphate 
+increases GPDH activity. Exposing bovine preadipo-
+cytes to zinc also stimulates adipogenesis, putatively 
+by inhibiting nitric oxide (NO) production. However, 
+incubation of bovine preadipocytes with arginine, a 
+biological precursor of NO, strongly promotes differen-
+tiation in concert with increased SCD expression. This 
+suggests that the effect of either arginine or zinc on 
+adipogenesis is independent of NO synthesis in bovine 
+preadipocytes. Enhanced expression of SCD is associ-
+ated with a greater accumulation of MUFA both in 
+bovine preadipocyte cultures and during development 
+in growing steers. In bovine preadipocytes, trans-10, 
+cis-12 CLA strongly depresses adipocyte differentiation 
+and SCD gene expression, thereby reducing MUFA 
+concentrations. The bovine preadipocyte culture stud-
+ies suggest that any production practice that elevates 
+vitamins A or D or trans-10, cis-12 CLA in bovine adi-
+pose tissue will reduce i.m. adipose tissue development. 
+Conversely, supplementation with vitamin C or zinc 
+may promote the development of i.m. adipose tissue.
+Key words:  adipose tissue, bovine, fatty acid, intramuscular, stearoyl coenzyme A desaturase, vitamin
+©2009 American Society of Animal Science. All rights reserved. J. Anim. Sci. 2009. 87(E. Suppl.):E72–E82 
+ doi:10.2527/jas.2008-1340
+INTRODUCTION
+The United States may lose its competitive advan-
+tage over Australia, South America, and other countries 
+that have specifically targeted Asian countries for the 
+export of high-quality beef. This would incur an eco-
+nomic loss of billions of dollars to the United States. In 
+Japan, US beef was considered superior to Australian 
+beef because 1) Australian producers could not produce 
+beef as highly marbled as that from the United States, 
+even in long-fed cattle; and 2) Australian cattle have 
+harder fat than US cattle. Japanese and Korean con-
+sumers highly value both marbling (but not excess fat 
+trim) and soft fat, but the distinction between US and 
+Australian beef is disappearing.
+There may be a downward trend in cattle that grade 
+USDA Choice (i.e., a decline in the deposition of mar-
+bling adipose tissue) because of the loss of corn and 
+other grains to the production of ethanol. Feeding dis-
+tillers grain byproducts to feedlot cattle may cause an 
+increase in fat hardness because of a reduction in the 
+endogenous synthesis of MUFA in adipose tissues, al-
+though this could be offset by the increased concentra-
+tion of PUFA in distillers grain by-products. Moreover, 
+as the cost of grains for feedlot rations increases, more 
+producers may delay the time at which cattle go into 
+the feedlot. Marbling adipose tissue development ap-
+pears to be especially sensitive to grain finishing early 
+after weaning, and this window of opportunity may be 
+Cellular regulation of bovine intramuscular adipose  
+tissue development and composition1,2
+S. B. Smith,*3 H. Kawachi,† C. B. Choi,‡ C. W. Choi,§ G. Wu,* and J. E. Sawyer*
+*Department of Animal Science, Texas A&M University, College Station 77843-2471;  
+†Kyoto University, Kyoto, Sakyo-ku, Japan; ‡Yeungman University, Gyeongsan, Korea;  
+and §National Institute of Animal Science, Suwon, Korea
+1 This study was supported in part by the funds from the inter-
+national cooperative project of Rural Development Administration, 
+Republic of Korea.
+2 Presented at the Meat Science and Muscle Biology Symposium 
+during the joint annual meeting of the American Society of Animal 
+Science and American Dairy Science Association in Indianapolis, IN, 
+July 7 to 11, 2008.
+3 Corresponding author: sbsmith@tamu.edu
+Received July 25, 2008.
+Accepted October 25, 2008.
+E72
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+lost. Also, hay- or pasture-feeding may lead to the ab-
+sorption of fatty acids or other nutrients that specifi-
+cally depress marbling adipogenesis. This review will 
+address 1) the biology of marbling; 2) a comparison of 
+the effects of hay/pasture and grain feeding on carcass 
+and fat quality; and 3) vitamin supplementation strate-
+gies to promote marbling development in beef cattle.
+BIOLOGY OF MARBLING
+Marbling adipose tissue, also known as interfascicu-
+lar or intramuscular (i.m.) adipose tissue, represents a 
+unique depot. It can be distinguished from other fat de-
+pots by its location within perimysial connective tissues 
+alongside myofibers (Moody and Cassens, 1968; Figure 
+1). Although some scientists have provided evidence for 
+transdifferentiation of satellite cells to preadipocytes 
+(e.g., Teboul et al., 1997; Singh et al., 2007), the lo-
+calization of marbling adipocytes to the perimysium 
+in most breed types would support the argument that 
+marbling arises primarily from fibroblasts associated 
+with perimysial connective tissue.
+Several years ago, it was demonstrated that glucose 
+contributes a greater proportion of acetyl units to fatty 
+acid biosynthesis in i.m. adipose tissue than in subcu-
+taneous (s.c.) adipose tissue (Smith and Crouse, 1984). 
+In i.m. adipose tissue, acetate and lactate contributed 
+less than 20% of the acetyl units to fatty acid biosyn-
+thesis, whereas glucose contributed approximately 70% 
+of the acetyl units. The reverse was seen for s.c. adi-
+pose tissue; under these conditions, glucose contributed 
+less than 5% to total acetyl units. In a more recent 
+investigation (Lunt et al., 2005; Chung et al., 2007), a 
+group of steers was fed a corn-based finishing diet to 
+achieve a growth rate of 1.36 kg/d for 8 mo (short-fed, 
+corn-fed), or were fed a hay-based diet supplemented 
+with the same finishing ration to achieve a growth rate 
+of 0.9 kg/d for 12 mo, with a targeted final BW of 
+approximately 525 kg (short-fed, hay-fed). The corn-
+based diet contained 48% ground corn, 20% ground 
+milo, 6% cottonseed meal, 15% cottonseed hulls, 7.5% 
+molasses, 0.96% limestone, 0.56% trace mineral salt, 
+and 0.08% vitamin premix on a DM basis. A second 
+set of steers was fed the corn- or hay-based diets for 16 
+or 20 mo, respectively, to approximately 650 kg (long-
+fed, corn-fed and long-fed, hay-fed, respectively). In 
+both s.c and i.m. adipose tissue of the long-fed, corn-
+fed steers, fatty acid biosynthesis from acetate declined 
+over 75% between 8 and 16 mo on diet in the corn-fed 
+steers (Figure 2; Chung et al., 2007). Conversely, fatty 
+acid synthesis from acetate increased slightly in both 
+adipose tissue depots between 12 and 20 mo on diet 
+in the hay-fed steers. Thus, in long-fed corn-fed steers, 
+fatty acid biosynthesis from acetate provided a much 
+smaller proportion of the substrate for lipid accumula-
+tion in s.c. and i.m. adipose tissues. Additionally, in 
+both short-fed and long-fed hay-fed steers, fatty acid 
+biosynthesis from acetate never contributed greatly to 
+lipid accumulation in i.m. adipose tissue. Subcutaneous 
+fat thickness and marbling scores increased over time in 
+both the corn- and hay-fed steers (Chung et al., 2007); 
+if lipid synthesis from acetate was depressed in long-fed 
+steers, then what was the primary carbon source for de 
+novo fatty acid biosynthesis in these steers?
+It is likely that glucose replaced acetate as the pri-
+mary substrate for fatty acid biosynthesis as the contri-
+bution of acetate declined in the long-fed steers. This 
+is especially true for i.m. adipose tissue. In s.c. adipose 
+tissue from long-fed corn- or hay-fed steers, rates of glu-
+cose and acetate incorporation into glyceride-fatty acids 
+were similar (Figure 3; Rhoades et al., 2007). However, 
+in i.m. adipose tissue of long-fed, corn- and hay-fed 
+steers, the rate of glucose incorporation into fatty ac-
+ids was more than twice as high as the rate of acetate 
+incorporation. Thus, under conditions in which overall 
+capacity for fatty acid biosynthesis is diminished (e.g., 
+in long-fed cattle or in i.m. adipose tissue at virtually 
+all stages of development), glucose provides a greater 
+proportion of the acetyl units to lipid synthesis than 
+acetate.
+PASTURE VS. GRAIN FEEDING
+In another recent study, steers were adapted at 8 
+mo of age to a corn-based finishing diet (fed as calves, 
+CF), or were allowed to graze native pasture until 12 
+mo of age (fed as yearlings, YF) (M. A. Brooks and 
+S. B. Smith, unpublished data). The corn-based diet 
+was the same as described above. At 10 mo of age the 
+YF steers were supplemented with the same concen-
+trate ration to provide ADG of 0.9 kg/d. Subcutaneous 
+and i.m. adipose tissue were dissected from the fifth 
+to eighth thoracic rib section obtained at slaughter at 
+8, 12, and 16 mo of age. Adipose tissue samples were 
+also obtained from the YF steers at 17.5 mo of age, at 
+which time they had achieved the same BW as the CF 
+steers (530 kg). The fat thickness measured at the 12th 
+Figure 1. Marbling adipocytes located in perimysial seams of con-
+nective tissue. Samples were from the eighth to tenth rib section of the 
+LM. A large blood vessel is seen centrally located in the perimysium. 
+M. A. Brooks and S. B. Smith (unpublished).
+Intramuscular adipose tissue E73
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+thoracic rib increased at a greater rate between 8 and 
+12 mo in the CF steers than in the YF steers, but the 
+YF steers had the same 12th-rib fat thickness by the 
+final sampling time because of the rapid increase in the 
+rate of fat gain between 12 and 17.5 mo of age (i.e., 
+after being full-fed the high-corn finishing diet; Figure 
+4). Marbling scores were also similar between the CF 
+and YF steers, primarily because there was no further 
+increase in marbling scores in the CF steers between 12 
+and 16 mo of age (Figure 5).
+Stearoyl-CoA desaturase (SCD) gene expression 
+was barely detectable in s.c. adipose tissue of 8-mo-old 
+weaned calves (Figure 6; not measured in i.m. adipose 
+tissue at 8 mo of age). In both s.c. and i.m. adipose 
+tissues, SCD gene expression was approximately 8-fold 
+greater in CF steers than in YF steers, which was due 
+to the greater concentrate intake in the CF steers be-
+tween 8 and 12 mo of age. There was a sharp decline in 
+SCD gene expression between 12 and 16 mo of age in 
+s.c. and i.m. adipose tissues of the CF steers, whereas 
+SCD gene expression in the YF steers increased linearly 
+between 12 and 17.5 mo of age.
+The SCD gene encodes ∆9-desaturase, which is re-
+sponsible for synthesizing all MUFA from their respec-
+tive SFA. The MUFA:SFA ratio increased with time 
+on the corn-based diet in CF steers, but there was not 
+a significant increase in the MUFA:SFA ratio in adi-
+pose tissues from the YF steers until after they were 
+placed on the finishing diet (at 12 mo of age). The 
+MUFA:SFA ratio reached a plateau by 12 mo of age 
+in i.m. adipose tissue of the CF steers, and by 16 mo 
+of age in i.m. adipose tissue of the YF steers. These 
+data suggest that, although the MUFA:SFA appears 
+to increase indefinitely in s.c. adipose tissue of feedlot 
+steers, there is a limit to the concentration of MUFA 
+that can accumulate in marbling adipose tissue. This 
+may be related to the ability of cattle to marble, which 
+is addressed below. These data are consistent with our 
+previous reports that i.m. adipose tissue represents a 
+more saturated adipose tissue depot than s.c. adipose 
+tissue in both short- and long-fed, corn-fed cattle (Stur-
+divant et al., 1992; May et al., 1993).
+Relationship of Amount of i.m. Lipid to Fatty 
+Acid Composition
+A final caveat of feeding corn to finishing cattle is that 
+any increase in i.m. lipid (or marbling scores) typically 
+is positively correlated with an accumulation of MUFA 
+(Chung et al., 2006b; reviewed in Smith et al., 2006). 
+An unusual aspect of the data indicated in Figure 5 is 
+that marbling did not increase further between 12 and 
+16 mo of age in the CF steers. We do not know the rea-
+son for this, but the plateau in marbling scores in the 
+CF steers is consistent with the decline in i.m. adipose 
+tissue SCD gene expression (Figure 6) and the plateau 
+in the MUFA:SFA ratio (Figure 7) seen during the same 
+time in the CF steers. Previous research with porcine 
+stromal-vascular preadipocytes (Ding and Mersmann, 
+2001) and porcine i.m. preadipocytes (Sanosaka et al., 
+2008) demonstrated that increasing the concentration 
+of oleic acid in the culture medium promoted lipid filling 
+and PPARγ gene expression. Taken together, the data 
+suggest that grain feeding increases SCD gene expres-
+sion, which elevates intracellular MUFA (and especially 
+oleic acid), which subsequently promotes adipocyte dif-
+ferentiation and increases the concentration of MUFA.
+These studies have demonstrated several factors 
+that are important in producing high quality beef 
+that contains high quality fat (i.e., soft fat enriched 
+in MUFA): 1) corn feeding consistently produces high 
+quality grades and adipose tissue enriched with MUFA; 
+2) feeding pasture and hay depresses SCD gene expres-
+Figure 2. Acetate and incorporation into fatty acids in subcuta-
+neous (s.c.) and intramuscular (i.m.) adipose tissues. Steers were fed 
+a corn-based finishing diet to achieve a growth rate of 1.36 kg/d for 
+16 or 24 mo (circles) or were fed a hay-based diet supplemented with 
+the same finishing ration to achieve a growth rate of 0.9 kg/d for 20 
+or 28 mo (squares). Final BW were approximately 526 kg (at 16 and 
+20 mo) or 650 kg (24 and 28 mo). Subcutaneous (s.c., open symbols) 
+and intramuscular (i.m., filled symbols) adipose tissue samples were 
+collected fresh from the fifth to eighth thoracic rib section, and were 
+incubated for 2 h in Krebs-Henseleit buffer containing 10 mM HEPES 
+buffer (pH 7.4), 10 mM acetate, 10 mM glucose, plus U-14C-labeled 
+acetate. Rates are expressed as nanomoles of acetate incorporated into 
+glyceride-fatty acids per 2 h per 105 adipocytes. Each data point is the 
+mean for 4 steers; pooled SEM are affixed to the symbols. Adapted 
+from Chung et al. (2007).
+Smith et al.E74
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+sion, which is correlated with, but may not be caus-
+ative for, the decreased marbling in pasture- or hay-fed 
+steers; and 3) long-fed, grain-fed cattle produce higher 
+quality carcasses with softer fat than short-fed, grain-
+fed cattle.
+VITAMIN SUPPLEMENTATION  
+IN LONG-FED CATTLE
+Under some production conditions (i.e., in long-fed, 
+grain-fed cattle) restricting or supplementing vitamin 
+intake can enhance marbling deposition. This has been 
+studied in detail in Japanese Black cattle, which typi-
+cally are fed to at least 28 mo of age.
+Vitamin A
+Farmers in Japan are likely to feed low-vitamin-A di-
+ets to beef cattle in Japan because of the improvement 
+of carcass quality, although this may lead to increased 
+incidence of blindness and muscular edema (Oka, 1999). 
+Therefore, studies were conducted to scientifically elu-
+cidate this effect of vitamin A. Torii et al. (1996) and 
+Adachi et al. (1999) reported that serum retinol con-
+centration at the end of the finishing period was nega-
+tively correlated with beef marbling performance (r = 
+−0.71, P < 0.001). Similarly, Gorocica-Buenfil et al. 
+(2007) reported that mild dietary vitamin A restric-
+tion increased marbling scores of beef cattle, which was 
+consistent with an elevation in apparent ∆9-desaturase 
+activity (Siebert et al., 2006). However, the effects of 
+vitamin A restriction on marbling scores and fatty 
+acid ∆9-desaturation have been difficult to reproduce 
+(Gorocica-Buenfil et al., 2007, 2008), possibly because 
+of interaction with other dietary feedstuffs.
+All-trans retinoic acid, the metabolite of retinol, is 
+known to suppress adipocyte differentiation of mouse 
+preadipocyte cell line through its repressive action on 
+the expression of PPARγ (e.g., Ribot et al., 2001; Bran-
+debourg and Hu, 2005). Bovine preadipocytes also ex-
+press PPARγ, and the addition to 400 mg/L of retinol 
+decreases glycerol-3-phosphate dehydrogenase (GPDH) 
+Figure 3. Acetate and glucose incorporation into fatty acids in 
+subcutaneous (s.c.) and intramuscular (i.m.) adipose tissues. Steers 
+were fed a corn-based finishing diet to achieve a growth rate of 1.36 
+kg/d for 16 mo or were fed a hay-based diet supplemented with the 
+same finishing ration to achieve a growth rate of 0.9 kg/d for 20 mo, 
+with a targeted final BW of approximately 650 kg. Adipose tissue 
+samples were collected fresh by dissection from the fifth to eighth tho-
+racic rib section, and were incubated for 2 h in Krebs-Henseleit buffer 
+containing 10 mM HEPES buffer (pH 7.4), 10 mM acetate, 10 mM glu-
+cose, plus their respective U-14C-labeled radioisotopes, and 500 ng/mL 
+insulin. Rates are expressed as nanomoles of precursor incorporated 
+into glyceride-fatty acids per 2 h per 105 adipocytes. Each data point 
+is the mean for 4 steers; pooled SEM are affixed to the symbols.
+Figure 4. Twelfth thoracic rib subcutaneous fat thickness of calf- 
+and yearling-fed steers. At weaning (8 mo of age), steers were adapted 
+to a corn-based finishing diet as calves (calf-fed) or were fed native 
+pasture until 12 mo of age (yearling-fed). Each data point is the mean 
+of 4 or 5 steers; pooled SEM are affixed to the symbols. M. A. Brooks 
+and S. B. Smith (unpublished).
+Intramuscular adipose tissue E75
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+activity (an index of adipocyte differentiation) and the 
+number of lipid-laden cells in a dose-dependent man-
+ner (Ohyama et al., 1998). These results suggest that 
+all-trans retinoic acid, metabolized from retinol during 
+culture, suppresses the differentiation of bovine adipo-
+cytes. The plasma retinol concentration in Japanese 
+finishing cattle is about 300 mg/L, and a vitamin A-
+deficient diet decreased its plasma concentration to less 
+than 90 mg/L. Therefore, retinol present in the blood 
+circulation may act as the inhibitor of adipocyte differ-
+entiation in normal fattening beef cattle, and decreas-
+ing plasma vitamin A may remove its antiadipogenic 
+action. The enhanced development of marbling by vita-
+min A restriction was thought to result from the effects 
+of vitamin A on adipocyte differentiation. Oka et al. 
+(1998) reported that marbling scores were significantly 
+greater in the cattle given a vitamin A-deficient diet 
+from 15 mo of age to final finishing (29 mo of age) than 
+in the cattle given a vitamin A-sufficient diet. However, 
+there was no significant difference in carcass marbling 
+between cattle fed the vitamin A-deficient diet from 
+23 to 29 mo and the cattle fed the vitamin A-sufficient 
+diet. An increase in adipocyte number within muscle 
+occurs between 13 and 19 mo of age (Cianzio et al., 
+1985), and feeding a vitamin A-deficient diet during in 
+this age range stimulated marbling (Oka et al., 1998). 
+This suggests that the effect of vitamin A removal on 
+the marbling development depends on adipocyte differ-
+entiation; removing vitamin A improves beef marbling 
+by stimulating i.m. adipocyte differentiation. Because 
+reducing the dietary concentration of vitamin A also 
+increases fatty acid indices of ∆9-desaturase activity 
+(Siebert et al., 2006; Gorocica-Buenfil et al., 2008), this 
+provides additional evidence that SCD gene expression 
+is closely associated with and necessary for maximal 
+adipocyte differentiation.
+Vitamin C
+Unlike vitamin A, vitamin C has been shown to pro-
+mote adipocyte differentiation of 3T3-L1 cells (Kawada 
+et al., 1990). Domestic animals have not been consid-
+ered to require dietary vitamin C because they can syn-
+thesize a sufficient amount of ascorbic acid in the liver 
+(McDowell, 1989). However, Takahashi et al. (1999) 
+reported that plasma concentrations of vitamin C de-
+creased with advanced fattening in long-fed Japanese 
+Black cattle. This result suggests that there may be 
+a dietary requirement for vitamin C concentrations in 
+long-fed cattle.
+Torii et al. (1998) reported that ascorbic acid en-
+hanced adipocyte differentiation of bovine preadi-
+pocytes in vitro. The addition of l-ascorbic acid-2-
+phosphate into the culture medium increased GPDH 
+activity of the cells at concentrations of 50 to 500 mM 
+in a dose-dependent manner. These concentrations are 
+equivalent to 0.9 to 9 mg/L. Plasma vitamin C concen-
+trations of healthy beef cattle are within the range of 
+2.4 to 4.7 mg/L, but plasma concentrations of vitamin 
+C can decrease to less than 2 mg/L in terminal fatten-
+ing periods. In Japanese long-fed cattle, the greatest 
+concentration of grains is fed during the last 3 to 4 mo 
+of feeding (Zembayashi, 1994), which may affect rumi-
+nal production of vitamin C. These results raise the 
+possibility that physiological vitamin C concentrations 
+regulate bovine adipocyte differentiation. Ohashi et al. 
+(2000) reported that in Japanese Black cattle, dietary 
+supplementation of l-ascorbic acid-2-phosphate during 
+the terminal fattening stage produced greater marbling 
+scores but also fatter carcasses. Further investigation is 
+needed to clarify the availability of vitamin C prepara-
+tions for beef cattle and the most suitable supplemen-
+tation periods for beef marbling, particularly in cattle 
+receiving high-concentrate diets for extended periods.
+Vitamin D
+The liver and plasma concentrations of 1,25-dihy-
+droxyvitamin D3 were substantially less in Bos taurus 
+English breed type cattle than in Bos indicus breed 
+Figure 5. Marbling scores of steers adapted to a corn-based finish-
+ing diet as calves (calf-fed) or fed native pasture until 12 mo of age 
+(yearling-fed). Steers were produced as described in Figure 3. 100 = 
+Practically Devoid; 200 = Trace; 300 = Slight; 400 = Small; 500 = 
+Modest. Each data point is the mean of 4 or 5 steers; pooled SEM are 
+affixed to the symbols. M. A. Brooks and S. B. Smith (unpublished).
+Smith et al.E76
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+type cattle (Montgomery et al., 2004). In the same 
+study, marbling scores were greater in Bos taurus Eng-
+lish cattle than in Bos indicus cattle. This suggests that 
+elevated plasma concentrations of 1,25-dihydroxyvita-
+min D3 may depress marbling scores. Similarly, Torii 
+et al. (1995) reported that 1,25-dihydroxyvitamin D3 
+suppressed ovine adipocyte differentiation. The action 
+of 1,25-dihydroxyvitamin D3 in 3T3-L1 cells is caused 
+by repression of PPARγ gene expression (Hida et al., 
+1998). 1,25-Dihydroxyvitamin D3 plays an important 
+role in maintaining calcium homeostasis and reacts 
+sharply to dietary calcium level. Thus, there is a possi-
+bility that an increase in plasma 1,25-dihydroxyvitamin 
+D3 production caused by decreased calcium intake could 
+repress bovine preadipocyte differentiation, thereby de-
+creasing marbling scores. Reiling and Johnson (2003) 
+indicated no effect of supplemental vitamin D3 on car-
+cass-quality YF steers, but they did not report what 
+form of vitamin D3 was administered, nor did they 
+report plasma or liver (i.e., storage) concentrations of 
+1,25-dihydroxyvitamin D3.
+In general, studies published to date suggest that wa-
+ter-soluble vitamins generally stimulate preadipocyte 
+differentiation, whereas fat-soluble vitamins depress 
+preadipocyte differentiation. This has been confirmed 
+for marbling in animal studies, but only in long-fed cat-
+tle raised in Japan. Furthermore, it may be possible to 
+demonstrate effects of vitamins A, C, and D3 in cattle 
+only after true deficiencies are established. Therefore, it 
+may not be practical to use vitamin supplementation or 
+withholding as a means for increasing the development 
+of marbling in beef cattle.
+NITRIC OXIDE, ARGININE,  
+AND ADIPOSE TISSUE DEVELOPMENT
+There is a growing paradox with respect to the poten-
+tial impact of NO on adipose tissue differentiation. Ni-
+tric oxide is synthesized from l-arginine and O2 by NO 
+synthase (NOS) in almost all mammalian cells. Three 
+Figure 6. Stearoyl-coenzyme A desaturase (SCD) gene expres-
+sion in subcutaneous (s.c.) and intramuscular (i.m.) adipose tissues of 
+steers adapted to a corn-based finishing diet as calves (calf-fed) or fed 
+native pasture until 12 mo of age (yearling-fed). Steers were produced 
+as described in Figure 3. Samples were from s.c. adipose tissue overly-
+ing the eighth to tenth thoracic rib section of the LM and from i.m. 
+adipose tissue dissected from the same thoracic rib section. Each data 
+point is the mean of 4 or 5 steers; pooled SEM are affixed to the sym-
+bols. M. A. Brooks and S. B. Smith (unpublished). GAPDH = glycerol 
+3-phosphate dehydrogenase.
+Figure 7. Ratio of MUFA:SFA of lipids from subcutaneous (s.c.) 
+and intramuscular (i.m.) adipose tissues of steers adapted to a corn-
+based finishing diet as calves (calf-fed) or fed native pasture until 12 
+mo of age (yearling-fed). Samples were taken from s.c. adipose tissue 
+overlying eighth to tenth rib of the LM, and i.m. adipose tissue was 
+dissected from the same muscle thoracic rib section. Each data point 
+is the mean of 4 or 5 steers; pooled SEM are affixed to the symbols. 
+M. A. Brooks and S. B. Smith (unpublished).
+Intramuscular adipose tissue E77
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+isoforms of NOS have been identified: nNOS, iNOS, 
+and eNOS; nNOS was first identified in neuronal tis-
+sue, iNOS was shown to be inducible by cytokines, and 
+eNOS was first identified in vascular endothelial cells. 
+Only small amounts of NO are synthesized by nNOS or 
+eNOS, whereas iNOS can be induced by cytokines to 
+produce large amounts of NO (Meininger et al., 2000; 
+Wu et al., 2001).
+Supplementation of zinc to feedlot diets can increase 
+marbling scores (e.g., Spears and Kegley, 2002), but the 
+mechanism of action of zinc on adiposity is unknown. 
+Zinc stimulates GPDH activity in preadipocytes from 
+i.m. adipose tissue of mature Hanwoo cattle (Oh et 
+al., 2004; Figure 8). Earlier, Hino et al. (2001) dem-
+onstrated an increase in lipid filling in Japanese Black 
+perirenal preadipocytes treated with zinc during the 
+differentiation period. Hino et al. (2001) also report-
+ed that the iNOS inhibitor, N-nitro-l-arginine methyl 
+ester stimulated lipid filling of bovine preadipocytes. 
+Because treatment of Hanwoo preadipocytes with zinc 
+also caused a small reduction in NO (Figure 8), it is 
+possible that zinc promotes preadipocyte differentia-
+tion by inhibiting iNOS activity.
+Fu et al. (2005) demonstrated that dietary supple-
+mentation with arginine, which increased plasma NO 
+concentrations, reduced adiposity in Zucker diabetic fat 
+rats. After 10 wk of dietary arginine supplementation to 
+the Zucker rats, those rats fed arginine (1.5% in drink-
+ing water vs. an alanine control group) had 30% less 
+epididymal fat (P < 0.05) and 45% less abdominal fat. 
+Dietary arginine supplementation increased the expres-
+sion of several genes in rat epididymal adipose tissue, 
+including PPARγ (1.7-fold), phosphofructokinase (1.6-
+fold), and carnitine palmitoyltransferase I (1.5-fold). 
+Paradoxically, increased expression of the first 2 genes 
+should have increased lipid filling or glucose uptake 
+in adipocytes, although carnitine palmitoyltransferase 
+I (the rate-limiting enzyme in fatty acid oxidation) 
+would have promoted lipid depletion of adipocytes. 
+These findings support the hypothesis that supplemen-
+tation with arginine depresses adiposity by increasing 
+the production of NO.
+However, whereas NO donors and dietary arginine 
+supplementation to rats depressed adipocyte differen-
+tiation, treating rat preadipocytes (Yan et al., 2002) or 
+bovine perirenal adipocytes (Chung et al., 2006a) with 
+arginine strongly stimulated lipid filling and adipogenic 
+gene expression (Figure 9). This raises the very real 
+paradox that arginine per se may promote adipogen-
+esis, and that the depression in adiposity caused by 
+dietary arginine in whole-animal studies may not due 
+to direct effects of NO on adipocytes. A recent article 
+(Tan et al., 2008) reported that supplemental dietary 
+arginine had no effect on s.c. adipose tissue amount 
+in pigs, but increased the amount of i.m. lipid in the 
+LM. Similar findings have not yet been reported for 
+beef cattle, probably because of the inherent difficulties 
+associated with ruminal metabolism of supplemental 
+arginine. However, the report by Yan et al. (2002) sug-
+gests that i.m. adipocyte differentiation is enhanced by 
+supplemental dietary arginine, similar to the response 
+seen in rat and bovine preadipocytes exposed to argin-
+ine during culture.
+GOOD VS. BAD CLA
+No current discussion of adipose tissue differentia-
+tion would be complete without some mention of CLA. 
+The 2 primary isomers of CLA, cis-9,trans-11 (c9,t11 
+CLA) and trans-10,cis-12 (t10,c12 CLA) have very 
+different biological effects. Whereas c9,t11 CLA strong-
+ly depresses mutagenesis in cell lines (Pariza et al., 
+2000), t10,c12 CLA reduces adipocyte differentiation 
+(e.g., Brown et al., 2003; Chung et al., 2006a).
+Dietary CLA, especially t10,c12 CLA, has been dem-
+onstrated to reduce carcass adiposity in several studies. 
+Pariza et al. (1996) first reported that mice, rats, and 
+chicks fed diets containing 0.5% CLA for 4 to 8 wk 
+experienced body fat reductions of 57 to 70, 23, and 
+22%, respectively. We subsequently demonstrated that 
+Figure 8. Effect of zinc on glycerol-3-phosphate dehydrogenase 
+(GPDH) activity (filled circles) and nitric oxide (NO2 + NO3, open 
+circles) in adipocytes isolated from intramuscular adipose tissue of 
+Korean (Hanwoo) cattle and induced to differentiate with insulin, dex-
+amethasone, and 1-methyl-3-isobutyl-xanthine for 10 d. Zinc chloride 
+(ZnCl2) was supplemented at the concentrations of 0, 5, 25, 50, and 100 
+μ
+M. Nitric oxide was measured after conversion to NO2 and NO3. Each 
+data point is the mean of 3 preadipocyte culture replications; pooled 
+SEM are affixed to the symbols. Adapted from Oh et al. (2004).
+Smith et al.E78
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+mixed isomers of CLA depressed 3T3-L1 preadipocyte 
+proliferation and [3H]thymidine incorporation into DNA 
+(Satory and Smith, 1999). Dietary supplementation of 
+pigs with CLA depressed [3H]thymidine incorporation 
+into DNA of stromal-vascular cells of weanling pigs fed 
+3% mixed isomers of CLA in diets containing 15% total 
+added fat (corn oil or beef tallow; Adams et al., 2005).
+Although CLA caused only small reductions in adipo-
+cyte volume, it strongly depressed SCD gene expression 
+and catalytic activity (Smith et al., 2002). The t10,c12 
+CLA isomer prevents lipid filling by decreasing PPARγ 
+gene expression in rodent preadipocytes (Brown et al., 
+2003). Differentiation of bovine preadipocytes can be 
+stimulated powerfully by the addition of PPARγ ago-
+nists (such as pioglitizone), insulin, and dexamethasone 
+(Figures 9 and 10). Early differentiation is character-
+ized by the expression of genes such as those encoding 
+SCD. The t10,c12 isomer of CLA strongly depresses 
+SCD gene expression, and thereby decreases the syn-
+thesis of MUFA (Figure 11). This is unusual in light 
+of the fact that t10,c12 CLA is a product of rumen 
+fermentation, and its accumulation would effectively 
+block the conversion of trans-vaccenic acid (a primary 
+product of ruminal fermentation) to c9,t11 CLA.
+The strong depression in hepatic SCD gene expres-
+sion caused by t10,c12 CLA may be responsible for its 
+Figure 9. Stearoyl-coenzyme A desaturase (SCD) and PPARγ gene expression in bovine stromal-vascular preadipocytes incubated in the 
+absence (control) and presence of 5 mM Arg with and without 40 μ
+M CLA. Preadipocytes were differentiated for 5 d in the presence of 5 μ
+M 
+pioglitizone, 10 μ
+g/mL insulin, and Dulbecco’s modified essential medium. Samples were obtained from 3 replicate culture plates. Reprinted with 
+permission from Chung et al. (2006a).
+Figure 10. Stearoyl-coenzyme A desaturase (SCD) gene expression in bovine perirenal preadipocytes. Preadipocytes were differentiated in 
+the presence of 5 μ
+M pioglitizone, 10 μ
+g/mL of insulin, and Dulbecco’s modified essential medium. The RNA from differentiated adipocytes was 
+extracted after 7 d of treatment with differentiation medium, followed by 3 d of treatment with CLA. Reprinted with permission from Chung et 
+al. (2006a).
+Intramuscular adipose tissue E79
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+“antiobesity” effect. Ntambi et al. (2002) demonstrated 
+that SCD1 knockout mice do not express SCD in their 
+livers and do not demonstrate the obese phenotype. 
+However, reducing SCD activity may cause hepatic 
+triglyceride accumulation (Miyazaki et al., 2001), lead-
+ing to fatty liver. It may be prudent to consider c9,t11 
+CLA as “good” CLA but t10,c12 CLA as “bad” CLA. 
+From a production standpoint, clearly any production 
+practice that profoundly increases the formation and 
+absorption of t10,c12 CLA from the digestive system 
+will depress adipogenesis (including i.m. adipose tissue 
+development), and will cause adipose tissue lipids to 
+become more saturated.
+SUMMARY
+Producing well-marbled beef necessitates the feeding 
+of grains to calves ideally shortly after weaning. The 
+longer cattle are fed grain-based diets, the more mar-
+bling they accumulate and the greater the concentra-
+tion of MUFA in their adipose tissues; these 2 responses 
+to grain feeding appear to be tightly linked. Unfortu-
+nately, extended feeding of grain-based finishing diets 
+may become impractical in light of the rising costs and 
+limited availability of corn as grain production is di-
+verted to ethanol production. Under some production 
+conditions, and especially during extended feeding of 
+grain-based diets, supplementation with vitamins A or 
+D may depress the development of i.m. adipose tissue, 
+whereas supplementation with vitamin C may actual-
+ly enhance i.m. adipose tissue development. Although 
+arginine supplementation has been shown to depress 
+carcass adiposity, it may actually enhance the differen-
+tiation of preadipocytes within i.m. adipose tissue beds. 
+Finally, any production practice that elevates t10,c12 
+CLA in bovine adipose tissue likely will reduce i.m. 
+adipose tissue development.
+LITERATURE CITED
+Adachi, K., H. Kawano, K. Tsuno, Y. Nomura, N. Yamamoto, A. 
+Arikawa, A. Tsuji, M. Adachi, T. Onimaru, and K. Ohwada. 
+1999. Relationship between serum biochemical values and 
+marbling scores in Japanese Black steers.  J. Vet. Med. Sci.  
+61:961–964.
+Adams, V. L., C. D. Gilbert, H. J. Mersmann, and S. B. Smith. 
+2005. Conjugated linoleic depresses [3-3H]-thymidine incorpora-
+tion into stromal-vascular cells of adipose tissue from postwean-
+ling pigs.  Adipocytes  1:65–72.
+Brandebourg, T. D., and C. Y. Hu. 2005. Regulation of differentiat-
+ing pig preadipocytes by retinoic acid.  J. Anim. Sci.  83:98–
+107.
+Brown, J. M., M. S. Boysen, S. S. Jensen, R. F. Morrison, J. 
+Storkson, R. Lea-Currie, M. Pariza, S. Mandrup, and M. K. 
+McIntosh. 2003. Isomer-specific regulation of metabolism and 
+PPARγ signaling by CLA in human preadipocytes.  J. Lipid 
+Res.  44:1287–1300.
+Chung, K. Y., C. B. Choi, H. Kawachi, H. Yano, and S. B. Smith. 
+2006a. Trans-10, cis-12 conjugated linoleic acid antagonizes 
+arginine-promoted differentiation of bovine preadipocytes.  Ad-
+ipocytes  2:93–100.
+Chung, K. Y., D. K. Lunt, C. B. Choi, S. H. Chae, R. D. Rhoades, 
+T. L. Adams, B. Booren, and S. B. Smith. 2006b. Lipid char-
+acteristics of subcutaneous adipose tissue and M. longissimus 
+thoracis of Angus and Wagyu steers fed to U.S. and Japanese 
+endpoints.  Meat Sci.  73:432–441.
+Chung, K. Y., D. K. Lunt, H. Kawachi, H. Yano, and S. B. Smith. 
+2007. Lipogenesis and stearoyl-CoA desaturase gene expression 
+and enzyme activity in adipose tissue of short- and long-fed 
+Angus and Wagyu steers fed corn- or hay-based diets.  J. Anim. 
+Sci.  85:380–387.
+Cianzio, D. S., D. G. Topel, G. B. Whitehurst, D. C. Beitz, and H. 
+L. Self. 1985. Adipose tissue growth and cellularity: Changes in 
+bovine adipocyte size and number.  J. Anim. Sci.  60:970–976.
+Ding, S., and H. J. Mersmann. 2001. Fatty acids modulate porcine 
+adipocyte differentiation and transcripts for transcription fac-
+Figure 11. Ratio of MUFA:SFA of lipids from control preadipocytes and preadipocytes treated with 5 μ M or 40 μ M trans-10, cis-12 CLA, or 
+5 μ
+M or 40 μM cis-9, trans-11 CLA. MUFA = 16:1 + 18:1n-9 + cis-9, trans-11 CLA; SFA = 14:0 + 16:0 + 18:0 + 18:1 trans-11. Preadipocytes 
+were differentiated in the presence of 5 μ
+M pioglitizone, 10 μ
+g/mL of insulin, and Dulbecco’s modified essential medium. Lipid from differentiated 
+adipocytes was extracted after 7 d of treatment with differentiation medium, followed by 3 d of treatment with CLA. a,bMeans with common let-
+ters are not different (P > 0.05). Reprinted with permission from Chung et al. (2006a).
+Smith et al.E80
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+tors and adipocyte-characteristic proteins.  J. Nutr. Biochem.  
+12:101–108.
+Fu, W. J., T. E. Haynes, R. Kohli, J. Hu, W. Shi, T. E. Spencer, 
+R. J. Carroll, C. J. Meininger, and G. Wu. 2005. Dietary L-
+arginine supplementation reduces fat mass in Zucker diabetic 
+fatty rats.  J. Nutr.  135:714–721.
+Gorocica-Buenfil, M. A., F. L. Fluharty, T. Bohn, S. J. Schwartz, 
+and S. C. Loerch. 2007. Effect of low vitamin A diets with high-
+moisture or dry corn on marbling and adipose tissue fatty acid 
+composition.  J. Anim. Sci.  85:3355–3366.
+Gorocica-Buenfil, M. A., F. L. Fluharty, and S. C. Loerch. 2008. 
+Effect of vitamin A restriction on carcass characteristics and 
+immune status of steers.  J. Anim. Sci.  86:1609–1616.
+Hida, Y., T. Kawada, S. Kayahashi, T. Ishihara, and T. Fushiki. 
+1998. Counteraction of retinoic acid and 1,25-dihydroxyvitamin 
+D3 on up-regulation of adipocyte differentiation with PPARγ 
+ligand, an antidiabetic thiazolidinedione, in 3T3-L1 cells.  Life 
+Sci.  62:205–211.
+Hino, N., S. Tanaka, T. Matsui, and H. Yano. 2001. Pages 385–389 
+in Reproductive Biotechnology. H. Miyamoto and N. Manabe, 
+ed. Hokuto Shobo, Kyoto, Japan..
+Kawada, T., N. Aoki, Y. Kamei, K. Maeshige, S. Nishiu, and E. 
+Sugimoto. 1990. Comparative investigation of vitamins and 
+their analogues on terminal differentiation, from preadipo-
+cytes to adipocytes, of 3T3–L1 cells.  Comp. Biochem. Physiol.  
+96A:323–326.
+Lunt, D. K., K. Y. Chung, C. B. Choi, and S. B. Smith. 2005. Pro-
+duction characteristics and carcass quality of Angus and Wagyu 
+steers fed to US and Japanese endpoints.  J. Anim. Vet. Adv.  
+4:949–953.
+May, S. G., C. A. Sturdivant, D. K. Lunt, R. K. Miller, and S. B. 
+Smith. 1993. Comparison of sensory characteristics and fatty 
+acid composition between Wagyu crossbred and Angus steers.  
+Meat Sci.  35:289–298.
+McDowell, L. R. 1989. Vitamins in Animal Nutrition. Academic 
+Press, New York, NY.
+Meininger, C. J., K. A. Kelly, H. Li, T. E. Haynes, and G. Wu. 2000. 
+Glucosamine inhibits inducible nitric oxide synthesis.  Biochem. 
+Biophys. Res. Commun.  279:234–239.
+Miyazaki, M., Y.-C. Kim, and J. M. Ntambi. 2001. A lipogenic diet 
+in mice with a disruption of the stearoyl-CoA desaturase 1 gene 
+reveals a stringent requirement of endogenous monounsaturated 
+fatty acids for triglyceride synthesis.  J. Lipid Res.  42:1018–
+1024.
+Montgomery, J. L., J. R. Blanton Jr., R. L. Horst, M. L. Galyean, 
+K. J. Morrow Jr., D. B. Wester, and M. F. Miller. 2004. Effects 
+of biological type of beef steers on vitamin D, calcium, and 
+phosphorus status.  J. Anim. Sci.  82:2043–2049.
+Moody, W. B., and R. G. Cassens. 1968. A quantitative and mor-
+phological study of bovine longissimus fat cells.  J. Food Sci.  
+33:47–55.
+Ntambi, J. M., M. Miyazaki, J. P. Stoehr, H. Lan, C. M. Kendzi-
+orski, B. S. Yandell, Y. Song, P. Cohen, J. M. Friedman, and 
+A. D. Attie. 2002. Loss of stearoyl-CoA desaturase-1 function 
+protects mice against adiposity.  Proc. Natl. Acad. Sci. USA  
+99:11482–11486.
+Oh, Y. S., S. B. Smith, and C. B. Choi. 2004. Zinc increases differen-
+tiation of bovine intramuscular adipocytes by suppressing nitric 
+oxide production.  J. Anim. Sci.  82(Suppl. 1):42. (Abstr.)
+Ohashi, H., H. Takizawa, and M. Matsui. 2000. Effect of vitamin 
+C on the quality of Wagyu beef.  Res. Bull. Aichi Agric. Res. 
+Center  32:207–214.
+Ohyama, M., K. Matsuda, S. Torii, T. Matsui, H. Yano, T. Kawada, 
+and T. Ishihara. 1998. The interaction between vitamin A and 
+thiazolidinedione on bovine adipocyte differentiation in prima-
+ry culture.  J. Anim. Sci.  76:61–65.
+Oka, A. 1999. Vitamin A in feeding of beef cattle.  Proc. Jpn. Soc. 
+Anim. Nutr. Metab.  43:137–144.
+Oka, A., Y. Maruo, T. Miki, T. Yamasaki, and T. Saito. 1998. Influ-
+ence of vitamin A on the quality of beef from the Tajima strain 
+of Japanese Black cattle.  Meat Sci.  48:159–167.
+Pariza, M., Y. Park, M. Cook, K. Albright, and W. Liu. 1996. Con-
+jugated linoleic acid reduces body fat.  FASEB J.  10:A560. 
+(Abstr.) 
+Pariza, M. W., Y. Park, and M. E. Cook. 2000. Mechanisms of 
+action of conjugated linoleic acid: Evidence and speculation.  
+Proc. Soc. Exp. Biol. Med.  223:8–13.
+Reiling, B. A., and D. D. Johnson. 2003. Effects of implant regimens 
+(trenbolone acetate-estradiol administered alone or in combina-
+tion with zeranol) and vitamin D3 on fresh beef color and qual-
+ity.  J. Anim. Sci.  81:135–142.
+Rhoades, R. D., J. E. Sawyer, K. Y. Chung, M. L. Schell, D. K. 
+Lunt, and S. B. Smith. 2007. Effect of dietary energy source on 
+in vitro substrate utilization and insulin sensitivity of muscle 
+and adipose tissues of Angus and Wagyu steers.  J. Anim. Sci.  
+85:1719–1726.
+Ribot, J., F. Felipe, M. L. Bonet, and A. Palou. 2001. Changes in ad-
+iposity in response to vitamin A status correlate with changes 
+of PPAR gamma 2 expression.  Obes. Res.  9:500–509.
+Sanosaka, M., T. Minashima, K. Suzuki, K. Watanabe, S. Ohwada, 
+A. Hagino, M. T. Rose, T. Yamaguchi, and H. Aso. 2008. A 
+combination of octanoate and oleate promotes in vitro differen-
+tiation of porcine intramuscular adipocytes.  Comp. Biochem. 
+Physiol. B  149:285–292.
+Satory, D. L., and S. B. Smith. 1999. Conjugated linoleic acid inhib-
+its proliferation but stimulates lipid filling of murine 3T3–L1 
+preadipocytes.  J. Nutr.  129:92–97.
+Siebert, B. D., Z. A. Kruk, J. Davis, W. S. Pitchford, G. S. Harper, 
+and C. D. Bottema. 2006. Effect of low vitamin A status on fat 
+deposition and fatty acid desaturation in beef cattle.  Lipids  
+41:365–370.
+Singh, N. K., H. S. Chae, I. H. Hwang, Y. M. Yoo, C. N. Ahn, S. H. 
+Lee, H. J. Lee, H. J. Park, and H. Y. Chung. 2007. Transdif-
+ferentiation of porcine satellite cells to adipoblasts with cigliti-
+zone.  J. Anim. Sci.  85:1126–1135.
+Smith, S. B., and J. D. Crouse. 1984. Relative contributions of ac-
+etate, lactate and glucose to lipogenesis in bovine intramuscular 
+and subcutaneous adipose tissue.  J. Nutr.  114:792–800.
+Smith, S. B., T. S. Hively, G. M. Cortese, J. J. Han, K. Y. Chung, 
+P. Casteñada, C. D. Gilbert, V. L. Adams, and H. J. Mers-
+mann. 2002. Conjugated linoleic acid depresses the ∆9 de-
+saturase index and stearoyl coenzyme A desaturase enzyme 
+activity in porcine subcutaneous adipose tissue.  J. Anim. Sci.  
+80:2110–2115.
+Smith, S. B., D. K. Lunt, K. Y. Chung, C. B. Choi, R. K. Tume, 
+and M. Zembayashi. 2006. Review article: Adiposity, fatty acid 
+composition, and delta-9 desaturase activity during growth in 
+beef cattle.  Anim. Sci. J. (Jpn.)  77:478–486.
+Spears, J. W., and E. B. Kegley. 2002. Effect of zinc source (zinc ox-
+ide vs zinc proteate) and level on performance, carcass charac-
+teristics, and immune response of growing and finishing steers.  
+J. Anim. Sci.  80:2747–2752.
+Sturdivant, C. A., D. K. Lunt, and S. B. Smith. 1992. Fatty acid 
+composition of longissimus muscle and subcutaneous and intra-
+muscular adipose tissues of Japanese Wagyu cattle.  Meat Sci.  
+32:449–458.
+Takahashi, E., T. Matsui, S. Wakamatsu, N. Yuri, Y. Shiojiri, R. 
+Matsuyama, H. Murakami, S. Tanaka, S. Torii, and H. Yano. 
+1999. Serum vitamin C concentration in fattening and fattened 
+beef cattle.  Anim. Sci. Technol.  70:119–122.
+Tan, B., Y. Yin, Z. Liu, X. Li, H. Xu, X. Kong, R. Huang, W. Tang, 
+I. Shinzato, S. B. Smith, and G. Wu. 2008. Dietary L-arginine 
+supplementation increases muscle gain and reduces body fat 
+mass in growing-finishing pigs.  Amino Acids  doi:10.1007/
+s00726-008-0148-0 (published online).
+Teboul, L., D. Gaillard, L. Taccini, H. Inadera, E. Z. Amri, and 
+P. A. Grimaldi. 1997. Thiazolidinediones and fatty acids con-
+vert myogenic cells into adipose-like cells.  J. Biol. Chem.  
+270:28183–28187.
+Torii, S., T. Matsui, and H. Yano. 1996. Development of intramuscu-
+lar fat in Wagyu beef cattle depends on adipogenic or antiadi-
+pogenic substances present in serum.  Anim. Sci.  63:73–78.
+Intramuscular adipose tissue E81
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+Torii, S., K. Matsumoto, T. Matsui, and H. Yano. 1995. Effect of 
+vitamin A, C, and D on glycerol-3-phosphate dehydrogenase 
+activity of sheep preadipocytes in primary culture.  Anim. Sci. 
+Technol.  66:1039–1042.
+Torii, S., M. Ohyama, T. Matsui, and H. Yano. 1998. Ascorbic ac-
+id-2-phosphate enhances adipocyte differentiation of cultured 
+stromal vascular cells prepared from bovine perirenal adipose 
+tissue.  Anim. Sci. Technol.  69:439–444.
+Wu, G., T. E. Haynes, H. Li, W. Yan, and C. J. Meininger. 2001. 
+Glutamine metabolism to glucosamine is necessary for glu-
+tamine inhibition of endothelial nitric oxide synthesis.  Bio-
+chem. J.  353:245–252.
+Yan, H., E. Aziz, G. Shillabeer, A. Wong, D. Shanghai, A. Ker-
+mouni, M. Abdel-Hafez, and D. C. W. Lau. 2002. Nitric oxide 
+promotes differentiation of rat white preadipocytes in culture.  
+J. Lipid Res.  43:2123–2129.
+Zembayashi, J. 1994. Beef Production. Yokendo Ltd., Tokyo, Ja-
+pan.
+Smith et al.E82
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 
+References
+http://www.journalofanimalscience.org/content/87/14_suppl/E72#BIBL
+This article cites 47 articles, 20 of which you can access for free at: 
+Citations
+cles
+http://www.journalofanimalscience.org/content/87/14_suppl/E72#otherarti
+This article has been cited by 8 HighWire-hosted articles: 
+ by Nora Fasano de Roig on August 12, 2014www.journalofanimalscience.orgDownloaded from 

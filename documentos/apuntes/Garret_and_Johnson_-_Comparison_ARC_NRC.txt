@@ -1,0 +1,2237 @@
+=== Fuente: Garret_and_Johnson_-_Comparison_ARC_NRC.pdf ===
+
+W. N. Garrett and D. E. Johnson
+Nutritional Energetics of Ruminants
+1983, 57:478-497.J ANIM SCI 
+8
+http://www.journalofanimalscience.org/content/57/Supplement_2/47
+services, is located on the World Wide Web at: 
+The online version of this article, along with updated information and
+www.asas.org
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 
+W. N. Garrett 1 and D. E. Johnson 2 
+University of California, Davis 95616 
+and 
+Colorado State University, Fort Collins 80523 
+Summary 
+Research during the last 25 yr has resulted in 
+several major advancements in knowledge re- 
+garding the nutritional energetics of ruminants. 
+Respiration calorimetry became highly auto- 
+mated. Comparative slaughter techniques were 
+made less tedious and expensive by the use of 
+large capacity grinders and the ability to predict 
+body composition with reasonable accuracy 
+from carcass density. The use of deuterium 
+oxide to estimate body water and, subsequently, 
+body fat and protein may become a reliable 
+technique to estimate energy balance. These 
+technical improvements have led to a clearer 
+understanding of those factors influencing the 
+efficiency of metabolizable energy (ME) utiliza- 
+tion. In general terms, maintenance and lactation 
+are energetically more efficient processes than 
+growth. The net efficiency of ME use by ani- 
+mals gaining fat and protein simultaneously is 
+lower when the gained tissue contains a high 
+proportion of protein. Net efficiency of protein 
+deposition is lower than that of fat and lower 
+than the efficiency of protein synthesis deter- 
+mined from known biochemical pathways (due 
+in part to the energy costs of protein turnover). 
+Several factors influence the metabolizability of 
+a diet and consequently the efficiency of ME 
+utilization-level of intake is important and site 
+of digestion may also play a role. Associative 
+effects are not usual in relation to energy utili- 
+zation of balanced diets but if observed may 
+also be related to intake and site of digestion. 
+Another major advance has been the develop- 
+ment of feeding standards which more com- 
+pletely consider differences in ME utilization. 
+All newer feeding standards are based on net 
+energy concepts although they differ in how 
+the concepts are applied to practical production 
+situations. Much remains to be accomplished. 
+Maintenance energy requirements are large and 
+1 Dept. of Anim. Sci., Univ. of California. 
+2Dept. of Anita. Sci., Colorado State Univ. 
+the components of maintenance need to be 
+clearly defined. Certainly tissue turnover and 
+nutrient transport (ion transport particularly) 
+are important. Why does the source of ME 
+(roughage or grain) have such a marked influence 
+on the efficiency of energy utilization and why 
+is the efficiency of ME use for growth lower 
+when measured by comparative slaughter than 
+by respiration calorimetry? The importance of 
+ion transport as a component of energy metab- 
+olism and the influence of ionophores on 
+energy utilization deserves further study. The 
+impact of the many gut  diet interactions on 
+energy metabolism must be more fully assessed. 
+Feeding standards can be made more precise 
+but the translation of fundamental principals to 
+practically useful production situations is not a 
+simple task. Additional information is needed 
+regarding the composition of animals (gained 
+tissue), feed intake and gut-fill as influenced by 
+environment, diet, species, breed and sex class. 
+(Key Words: Energy Metabolism, Energetic 
+Efficiency, Metabolizable Energy Utilization, 
+Ruminants, Energy Balance.) 
+Introduction 
+Armsby and Fries (1919) commented: "... 
+not only is the utilization or 'Net' energy of a 
+feeding stuff less than its fuel value, or metabo- 
+lizable energy, but the two are not even approxi- 
+mately proportional." Another quotation deals 
+with a then-current belief (as in early publica- 
+tions of Kellner) that ME values represented 
+true values for maintenance. "Were such the 
+case, it is evident that a feeding stuff would 
+have two distinct energy values, or starch 
+values. Of these, the larger, equal to its fuel 
+value or metabolizable energy, would express 
+its value for maintenance, while the smaller, or 
+net energy value, would represent its value for 
+production. Such a dualistic system would 
+introduce most perplexing complications into 
+all comparisons of rations ..." 
+Armsby and Fries were then of the opinion 
+478 
+JOURNAL OF ANIMAL SCIENCE, Vol. 57, Suppl. 2, 1983 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 479 
+that the same net energy values were applicable 
+"without material error" to estimate the 
+value of feedstuffs for both maintenance and 
+fattening, but comment, "certain theoretical 
+considerations might lead one to suppose that 
+it (net energy value for maintenance) would be 
+somewhat greater ..." 
+During the period from the late 1920's to 
+early 1950's, considerable efforts were expended 
+to determine more clearly the extent and nature 
+of those factors (animal and feed) that influence 
+the efficiency of ME use, and to find an accurate 
+means of coping with the "perplexing complica- 
+tions" which had, in fact, been introduced. The 
+contributions of Forbes, Brody, Kleiber, 
+Marston, Mitchell, Ritzman, Benedict and 
+others are not covered by this review (see 
+review articles: Blaxter, 1950, 1956; Reid, 
+1962 and books: Kleiber, 1961; Blaxter, 1962), 
+but had considerable importance in the develop- 
+ment of the modern concepts dealing with 
+ruminant energy metabolism. Research by these 
+investigators did not, however, have an immedi- 
+ate influence on any of the existing feeding 
+standards. 
+It is not possible to select a single paper 
+which signaled a new era of research in the field 
+of energy metabolism. However, many indi- 
+viduals active in this area of research would 
+undoubtedly be comfortable with the suggestion 
+that the First Symposium on Energy Metabolism 
+sponsored by the European Association of 
+Animal Production held in Copenhagen in 
+September 1958 (Thorbek and Aersoe, 1958) 
+was a major milestone. This symposium provided 
+an opportunity for 34 participants from 12 
+nations to discuss the principles and methods of 
+measuring energy metabolism in farm animals. 
+The ninth symposium on energy metabolism 
+was held in September 1982. Proceedings of 
+these international meetings are available and 
+chronicle the research that has occurred over 
+the last 25 yr. 
+Techniques Used to 
+Measure Energy Flux 
+Investigational techniques employed in nu- 
+tritional energetics of ruminants have classically 
+been concerned with the partitioning of die- 
+tary energy into fecal, urinary, methane, heat 
+and recovered or product energy. These tech- 
+niques remain of basic importance, but increased 
+attention has been directed towards establishing 
+the tissue and biochemical origin of the heat 
+production. 
+Proceedings of the first symposium on energy 
+metabolism contained papers describing the ma- 
+jor facilities and equipment which were being 
+used at that time in farm animal energy metab- 
+olism experiments. Most of the papers described 
+respiration calorimetry equipment, largely of 
+the open circuit type. These papers represent a 
+primer of the principles and concerns of animal 
+handling, energy balance, gas flow and gas 
+composition measurements. 
+Indirect respiration calorimetry continues to 
+be an important energetics research tool. Major 
+innovations over the last 25 yr have been 
+development of automatic gas analyzers, 
+principally infrared and paramagnetic, and 
+improved data acquisition and processing 
+systems. Such systems (Moe and Flatt, 1969; 
+Thorbek, 1970; Vermorel et al., 1973; Itoh et 
+al., 1974; DeKay et al., 1976; Haaland et al., 
+1981) have alleviated much of the difficulty 
+and tedium of measuring the heat production of 
+animals. The cumbersome volumetric Haldane 
+gas analysis apparatus (Van Es, 1958), infre- 
+quently used for routine analysis in present day 
+experiments, constitutes the basis of primary 
+standardization of most of the electronic 
+analyzers used for indirect calorimetry studies 
+on farm animals in Europe and the US. 
+Several alternatives to the dry gas meter for 
+the accurate measurement of high volumes of 
+air flow in indirect calorimetry systems for 
+large animals have been described. These 
+include the orifice differential pressure meter 
+(Thorbek and Neergaard, 1970), the venturi 
+flow meter (Vermorel et al., 1973) and the 
+choked supersonic flow meter (Chasteau and 
+Cronje, 1974). The first two of these devices 
+along with acceptance of dry gas meters have 
+largely replaced the inconvenient but extremely 
+accurate mercury pumps (Schiemann, 1958) or 
+large water pipettes (Klieber, 1958). A unique 
+open-dosed respiration calorimetry system 
+(Blaxter et al., 1972), which dispenses with the 
+need to measure flow volume, has also been 
+described. The closed chamber permits gases to 
+accumulate and then periodically the entire 
+chamber is automatically flushed with fresh air. 
+Nonchamber methodology for individual 
+animal calorimetry measurements has been 
+reviewed by Brockway (1978) as part of a 
+symposium on the application of human and 
+animal calorimetry. Mask and hood techniques 
+have and continue to be used extensively in 
+special applications for shorter term measure- 
+ments and tracheal cannulation techniques have 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+480 GARRETT AND JOHNSON 
+also been employed. The carbon dioxide entry 
+rate technique measured by isotope dilution, as 
+described by Corbett et al. (1971) and Engles et 
+al. (1976), has found application in grazing 
+cattle and sheep studies. The use of heart rate 
+as an index of oxygen consumption and energy 
+expenditure (Brockway and McEwan, 1969) 
+may have application to the free ranging 
+animal; however, it appears that the individual 
+animal's relationship between heart rate and 
+oxygen consumption must be calibrated for 
+each situation. 
+A novel approach to determination of the 
+origin and source of heat production by the 
+gastrointestinal tract of ruminants has also been 
+described (Webster and White, 1973). This 
+technique utilizes blood flow, thermal and gas 
+analyses to measure and separate heat generated 
+from the intestines into anerobic and aerobic 
+origins. Techniques to assess tissue energy 
+metabolism from blood flow and substrate flux 
+across the liver (Thompson and Bell, 1976) and 
+the muscle of the hind limb (Thompson et al., 
+1975) have been successfully employed. 
+While heat production measurements have 
+improved dramatically, the tedium and diffi- 
+culty of measuring fecal and urinary losses has 
+changed little during the history of large animal 
+nutrition research. Direct and indirect approach- 
+es to assessment of digestibility and the errors 
+associated with these and other components of 
+balance trials in ruminants have been described 
+(Graham et al., 1958; Blaxter, 1967). Although 
+research on development of indicator techniques 
+continues (Thonney et al., 1979), the laborious 
+conventional 7 to 10 d total collection remains 
+standard. 
+There has been considerable development 
+and use of techniques that provide a more 
+direct measure of body energy and protein 
+stores in the growing animal than are provided 
+by the calorimetry-balance trial approach. 
+These have usually allowed experiments to be 
+conducted at greater feed intakes, rates of 
+performance and more normal ambiency 
+compared to the livestock industry than is 
+commonly obtained in the laboratory. Direct 
+measures of body energy storage must be 
+conducted over a significant portion of the 
+growth phase of the animal to allow an accurate 
+determination of changes that occur between 
+the initial and final experimental groups. Tissue 
+and energy composition and storage have been 
+determined through physical separation and 
+chemical analysis or by inference from carcass 
+specific gravity or body water determined by 
+isotope dilution. 
+The accurate but expensive technique em- 
+ploying whole body grinding and chemical 
+analysis has been used extensively in energetics 
+and development investigations with sheep and 
+cattle, particularly by researchers at Cornell 
+(Reid et al., 1955, 1968; Fortin et al., 1980). 
+Others have used total body chemical analyses 
+primarily as a calibration of other indices of 
+body composition (Garrett and Hinman, 1969; 
+Byers, 1979b). 
+Measurements of carcass density or specific 
+gravity have shown moderate to high statistical 
+relationship to fat and energy composition 
+of the empty body of animals (Garrett 1968, 
+1971; Preston et al., 1974). Although there 
+have been questions concerning air pockets in 
+the carcass and general accuracy, particularly 
+with animals of low fat content, this technique 
+has and continues to be used widely in the US 
+for determination of net energy requirements 
+or feed values, especially in cattle experi- 
+menu. 
+The quest for an inexpensive nondestructive 
+method of measuring the body composition 
+and thus energy retentions of animals in vivo 
+has continued for many yr (Ward and Johnson, 
+1972). Although a number of techniques have 
+been employed, most center on the determina- 
+tion of empty body water by isotope dilution 
+procedures. Extensive Australian data (Searle, 
+1970) illustrate close relationships between 
+body components or energy and tritiated water 
+space. The use of D20 has also received con- 
+siderable attention (Foot and Greenhalgh, 
+1970; Robelin, 1977), particularly with the 
+advent of increased sensitivity in analytical 
+method (Byers, 1979a). Isotope dilution 
+techniques have potential problems with 
+variability in label exhange with other organic 
+hydrogen (McManus et al., 1969), variability in 
+gut water which can amount to over 30% of 
+body water (ARC, 1980) and also questions 
+concerning constancy of the fat free empty 
+body. A method designed to separate the 
+empty body water pool from that of the gut 
+water contents has been proposed recently 
+(Byers, 1979b) and is presently being extensively 
+investigated. 
+Dietary Energy Metabolizability 
+Gross energy (GE) content of a wide range 
+of common ruminant diets will be variable but 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 481 
+average about 4.45 kcal/g of dry matter (DM). 
+GE can be estimated from chemical composi- 
+tion. Example relationships: 
+GE = 5.72 CP + 9.50 CFAT + 4.79 
+CF + 4.03 NFE 
+(Nehring and Haenlein, 1973) 
+GE = 4.80M 
+(Blaxter, 1974 for forages) 
+where GE is expressed as kcal/kg DM and the 
+nutrients crude protein (CP), crude fat (CFAT), 
+crude fiber (CF), nitrogen free extract (NFE), 
+and organic matter (OM) are expressed as g/kg, 
+GM. 
+Conventional measurements of dietary energy 
+metabolizability are computed by subtracting 
+apparent fecal, urinary and gaseous energy losses 
+from the GE content. The remaining diet or feed 
+energy is then expressed either as a fraction of 
+the GE (frequently termed percentage ME and 
+given the symbol q) or as concentration in the 
+dry matter. The largest single component of 
+gross energy loss in utilization of diets for 
+maintenance and production by ruminants is 
+fecal energy loss. Fecal losses from feedstuffs 
+are most importantly related to amount and 
+lignification of the fibrous portion of the feed 
+as illustrated in the summative equation (Van 
+Soest et al., 1966). In this relationship, fecal 
+losses are predicted to be 13% (the metabolic 
+fecal component) plus 2% of the nonstructural 
+components plus from 10 to 90% of the struc- 
+tural components depending on lignification or 
+other factors. This general relationship is 
+reasonable not only for a wide range of forages 
+for which it was developed, but also for cereal 
+grains and for many mixtures of grain and 
+forage, particularly if they are fed at a low 
+intake. The general relationship, for instance, 
+would predict reasonably well the 60% fecal 
+losses observed when feeding soybean straw 
+(Gupta et al., 1978) as well as the 10 and 15% 
+fecal losses observed by feeding all corn diets to 
+sheep (Johnson, 1972) or to steers (Joanning et 
+al., 1981). The relationship can give dissonant 
+results, however, for forages under conditions 
+when high rates of passage occur or when fiber 
+utilization is depressed in high starch diets. 
+Also, the implied 2% fecal losses of noncell wail 
+components can result in a gross underestimation 
+of fecal losses of minimally or unprocessed 
+cereal grains in mixed grain-forage diets particu- 
+larly when fed at high intakes. As much as 67% 
+of the starch was voided in the feces, for 
+example, when whole barley was incorporated 
+into a mixed grain forage diet fed to cows 
+(Morgan and Campling, 1978). 
+The second major factor that impacts on fe- 
+cal energy losses from feedstuffs involves an in- 
+teraction of the animal to the dietary regimen- 
+the rate of passage of the diet through the gas- 
+trointestinal tract. Digestibility is influenced by 
+rate of passage and rate of digestion. This was 
+well illustrated by the experiment of Blaxter et 
+al. (1956) in which decreased hay diet digesti- 
+bilities were related to decreased particle size 
+and increased rates of passage. Determination 
+of rate of passage and rate of digestion has been 
+the subject of a large number of investigations 
+in the last 25 yr. Both aspects, however, are 
+fraught with technical difficulties in the attempt 
+to apply them to the producing animal and, to 
+date, no comprehensive system applicable to 
+commercial conditions exists. More progress has 
+been made concerning these measurements in 
+systems describing forage (Mertens and Ely, 
+1982) and protein (Owens, 1982) utilization. 
+Site of Digestion 
+It is clear that the ruminant digestive process 
+cannot be considered primarily as a ruminal 
+fermentation process with minor digestion 
+occurring in the gastrointestinal tract distal to 
+the rumen. Information from literature surveys 
+indicates that, with some mixed grain-forage 
+diets fed at producing levels, 50% of the starch 
+and 30% of the fiber digestion may occur distal 
+to the rumen (Hoover, 1978; Johnson and 
+Bergen, 1982). Considerable uncertainty resides 
+in these estimates. Errors in marker ratio 
+techniques can easily result in 30% over or 
+under estimations in the amount of organic 
+matter flowing to the abomasum (Faichney, 
+1980). A second limitation is that most esti- 
+mates have been made at low intakes and 
+must be extrapolated up to that of the produc- 
+ing animal. Estimates (table 1) of the fraction 
+of organic matter digestion which occurs distal 
+to the rumen in the producing animal fed 
+mixed diets range from 8 to 10% for ground 
+barley and flaked maize, to 15% for chopped 
+hay to 35 to 45% for a coarsely ground or 
+cracked corn grain. Involvement of the lower 
+gut in the digestive process reflects a multitude 
+of factors influencing rate of digestion and rate 
+of passage. In addition to level of intake, kind 
+of grain and processing of the forage or grain, 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+482 GARRETT AND JOHNSON 
+TABLE 1. ESTIMATES OF ORGANIC MATTER 
+DIGESTION OCCURRING DISTAL TO THE 
+RUMEN IN PRODUCING RUMINANTS 
+FED MIXED DIETS 
+Digestion in 
+lower gut, 
+Feedstuffs % of total 
+Hays, chopped 13-16 
+Hays, pelleted 25 
+Corn or sorghum, cracked 35-40 
+Corn (British flaked) 10 
+Corn (US flaked) 15--40 
+Barley, ground 8 
+the fiber type (Rust and Owens, 1982), a buffer 
+or salt additions (Rogers et al., 1982) or feed 
+additives such as monensin (Muntifering et al., 
+1981) can have an influence. 
+Intake Effects on Metabolizability 
+In a recent synthesis (ARC, 1980) the 
+metabolizability of dietary energy at any feed- 
+ing level (qL) is related to the metabolizability 
+of that diet fed at maintenance (qm) with a 
+correction for feeding level (L is a multiple of 
+maintenance) by the equation: 
+qL = qm + (L -- 1) (.20 [qm -- .6231 ) 
+This relationship is based on a large number of 
+energy balance experiments with cattle and 
+sheep in Scotland and implies that in mixed 
+grain-forage feedlot or dairy cattle diets with 
+ME concentrations greater than about 2.75 
+kcal/g, there is little or no depression in q as 
+feeding level increases. Major decreases in q 
+would occur only with forage diets, particularly 
+those of low quality. 
+The above general synthesis of intake effects 
+on q in ruminant diets is in sharp contrast to 
+that projected by Tyrrell and Moe (1975) for 
+dairy cattle diets and that of Reid et al. (1980) 
+for ruminants in general. The latter syntheses 
+predict little or no depression in digestibility 
+of forage diets with increasing intake unless 
+those forages are finely ground and(or) pelleted. 
+Additionally, marked depressions in digestibil- 
+ity and q are shown for mixed grain-forage 
+diets, particularly with 60 to 75% grain, which 
+are precisely the diets for which the ARC, 1980 
+relationship predicts no depression to occur. 
+This latter scenario is also based on a large 
+number of observations with cattle and sheep 
+and, together with the ARC review, indicate the 
+wide range of variables that must be considered 
+in an appropriate energetics scheme for the 
+producing animal. 
+The sharp contrast between these British and 
+US intake depression syntheses cannot presently 
+be resolved. The lack of depression, how- 
+ever, in the mixed grain forage diets observed in 
+the British data is likely a reflection of the 
+observations being made largely with flaked 
+maize and(or) ground barley. These constituents 
+have relatively high rates of digestion (calculated 
+from data of Jung and Kawashima, 1977; 
+Berger et al., 1981) and are unlikely to result in 
+a depression of starch digestion as reported for 
+nonsteam processed corn (Joanning et al., 
+1981). 
+Associative Effects 
+The existence of associative effects between 
+feedstuffs within nutritionally balanced diets 
+has been argued for much more than the 25 yr 
+period of this review. The discussion continues, 
+but with some hope of resolution. Many 
+extensive sets of data have indicated little 
+deviation from additivity between forages and 
+grains. Blaxter (1974) wrote "as proportions of 
+cereals to roughages change, q changes in direct 
+proportion." Wainman et ai. (1976) in an 
+extensive series of experiments with oats and 
+barley fed in 20% increments or as single feeds 
+along with either dry forage or grass silage, 
+showed no associative effects in the digestibility 
+or metabolizability of these feeds fed at 1.0 or 
+1.5 times maintenance. Garrett (1979) did not 
+find evidence for nonlinearity across a wide 
+range of diets differing in metabolizable energy 
+content. 
+On the other hand, associative effects 
+exhibited as depressed performance of animals 
+fed mixtures of corn grain and corn silage have 
+been reported (Peterson et al., 1973). Marked 
+depressions in digestibility were noted for 
+mixtures of whole corn and corn silage (Byers 
+et al., 1976) and for mixtures of either immature 
+or mature corn silage and cracked corn grain 
+(Joanning et al., 1981). Negative associative 
+effects between grains and forages, if proven to 
+exist, seem most likely to occur with high 
+intakes and when starch and fiber digestibilities 
+are depressed. Kind and physical form of the 
+grain may be involved. There is also the possi- 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 483 
+bility of a depressing effect of certain types of 
+fiber on overall starch digestion (Rust and 
+Owens, 1982) or an amylase function as reported 
+in vitro (Dunaif and Schneeman, 1981). 
+Feed Additive Effects on 
+Digestibility and Metbanogenesis 
+Considerable efforts have been expended in 
+attempts to eliminate or reduce energy losses as 
+methane. Extensive investigations with fatty 
+acids or their analogs (Czerkawski and Brecken- 
+ridge, 1975) and with halogenated methane 
+analogs (Trei et al., 1971) have shown marked 
+depressions in methanogenesis in vitro and in 
+vivo. However, adaptations of the microbial 
+populations to these inhibitors over time 
+(Johnson, 1974) and for various other reasons 
+this research has not led to a compound for 
+use by the livestock industry. Curiously, two of 
+the experiments with methane analog inhibitors 
+have shown improved dry matter digestibility 
+(Sawyer et al., 1971; Johnson, I974). 
+Monesin addition to forage or grain substrate 
+fermentations in vitro has reduced methano- 
+genesis from 33 to 47% (Slyter, 1979; Fuller 
+and Johnson, 1981). In vivo experiments with 
+animals fed 50 to 70% concentrate diets have 
+indicated that monesin decreases methanogene- 
+sis from 15 to 31% below control observations 
+(Joyner et al., 1979; Thornton and Owens, 
+1981; Wedegaermer and Johnson, 1983). 
+Forage diets, however, have resulted in con- 
+siderably less (Benz, 1982) or no effects (Gar- 
+rett, 1982) of monesin or methanogenesis. 
+Monesin effects on diet digestibility by 
+ruminants have been highly variable. Effects on 
+mixed grain-forage diets have ranged from no or 
+slightly negative effects (Utley et al., 1977; 
+Muntifering et al., 1980; Garrett, 1982) to 
+small, but statistically significant, increases in 
+digestibility in the range of 2 to 3% (Joyner et 
+al., 1979; Wedegaertner and Johnson, 1983). 
+Effects on forage, although variable, have not 
+indicated significant monesin effects on digesti- 
+bility (Dinius et al., 1976; Benz, 1982; Garrett, 
+1982). 
+Partial Efficiency of ME Utilization 
+In his opening lecture for the First Energy 
+Symposium (Thorbek and Aersoe, 1958), 
+Professor Mollgaard cites the problem of deter- 
+mining the nutritive value of feeding stuffs and 
+quantitatively expressing this value as a single 
+unit. The difficulty of expressing the energy 
+i 
+0 
+Energy or food intake 
+Figure 1. Representation of the measurement of 
+food energy value by Kellner and Arrnsby (Blaxter, 
+1962). 
+value of a feed as a single unit is a part of the 
+"perplexing complications" mentioned by 
+Armsby. The complications are the result of a 
+complex of factors influencing the partial 
+efficiency of energy (ME) utilization. 
+To determine the partial efficiency of ME 
+use or net energy values requires more than one 
+level of feeding. Because the relationship be- 
+tween energy intake and energy balance is 
+curvilinear over the entire range of food intake, 
+net energy values and partial efficiencies are not 
+constants but are influenced by the intakes over 
+which measurements are made. This helps 
+explain some of the anomalies present when 
+comparing the works of Kellner, Armsby and 
+others. 
+The convention that has been generally ac- 
+cepted, at least for now, measures NE values for 
+a productive function with both levels of 
+feeding above the maintenance requirement of 
+the animal. Net energy for maintenance or the 
+partial efficiency of ME use for: maintenance is 
+determined with the incremental change in 
+feeding between fasting and maintenance. The 
+acceptance of this concept is essentially the 
+merging of the Armsby and Kellner procedures 
+to determine net energy values. As shown in 
+figure 1, the increment of feeding used by 
+Armsby was below maintenance while that of 
+Kellner was above. 
+The concept of using separate partial effi- 
+ciencies for maintenance and productive 
+functions did not become well established until 
+after the second Energy Symposium, held in 
+the Netherlands, in 1961. At this symposium a 
+paper by Blaxter (1961) summarized work 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+484 GARRETT AND JOHNSON 
+which had been conducted on energy metabo- 
+lism of sheep and cattle at the Hannah Dairy 
+Research Institute, United Kingdom during the 
+1950's. This paper had separate discussion 
+sections for the utilization of food energy for 
+maintenance and for lipogenesis. Another paper 
+the same year (Blaxter and Wainman, 1961) 
+specifically defined the net availability of ME 
+for production (bp) as the slope of a linear 
+regression between positive energy retention 
+and corresponding ME intakes. The net avail- 
+ability of ME for maintenance (bin) was the 
+slope of a linear regression between negative 
+energy storage and the associated ME intakes. 
+In later papers, Blaxter and Wainman (1964) 
+and Blaxter et al. (1966) discuss some of the 
+interrelationships between metabolizability and 
+partial efficiencies of energy utilization. In the 
+latter paper, the abbreviations b m and bp were 
+replaced by k m and kg. The curvilinear relation- 
+ship between recovered energy (RE) and ME 
+intake was thus approximated by two linear 
+relationships-a unification, in a sense, of the 
+general principles of Armsby and Kellner. 
+Figure 2 (adapted from Blaxter and Wainman, 
+1964) illustrates the efficiency of ME utilization 
+for maintenance and fattening of mature 
+wethers and nearly mature steers. 
+During this same period (late 1950's and 
+early 1960's) research at the University of Cali- 
+fornia, Davis, using a comparative slaughter pro- 
+cedure with beef and sheep feeding trials (later 
+described by Lofgreen, 1965), also investigated 
+the net energy concept as a means to the 
+establishment of more accurate feeding stand- 
+ards. The publication of results by Garrett et 
+al. (1959) was the first of a series (e.g., Lofgreen 
+et al., 1962, 1963a; Garrett et al., 1964) which 
+led to development of a practical net energy 
+system for use by cattle feeders. The system 
+was first introduced to the cattle industry in 
+1963 (Lofgreen, 1963a,b), and was later revised 
+and published (Lofgreen and Garrett, 1968). 
+This system, which became known as the 
+California net energy system, assigned two net 
+energy values to each feed--NEm, for mainte- 
+nance and NEg, for energy retention. Animal 
+requirements were similarly stated. NE m and 
+NEg are related to k m and kg; NEm = k m ME 
+and NEg = kg ME. The California net energy 
+system was the forerunner, but not the progeni- 
+tor, of several new schemes (all based on net 
+energy principles) for use in feeding standards. 
+Blaxter and Graham (1955) and Blaxter (1962) 
+partially outlined a feeding system which, with 
+80 
+70 
+60 
+50 
+40 
+.Q 
+~- 301 
+20 
+A 
+A ...... 6 .... 
+O 
+Maintenance 
+z~ 
+/ss~) 
+I 
+/ O ," 
+/ Fattening 
+..J'~ o sheep 
+A cattle 
+T | i I i I 
+c 20 40 60 8g |g0 
+C0re in diet, % 
+Figure 2. The effect of diet on efficiency with 
+which metabolizable energy is used for maintenance 
+and for fattening in ruminants (Blaxter and Wainman, 
+1964). 
+modification, was eventually synthesized into a 
+new feeding scheme by a technical committee 
+of the Agricultural Research Council (ARC, 
+1965). 
+Many other laboratories made very significant 
+contributions to our knowledge of ruminant 
+energy metabolism during the decade of the 
+sixties. Particularly notable are contributions 
+from laboratories directing a major interest to 
+the energetics of lactation (Flatt et al., 1965, 
+1969; Van Es et al., 1965; Van Es and Nijkamp, 
+1969) and those concerning energetics and 
+body composition (Graham, 1964a, 1967; 
+Reid et al., 1968; Reid and Robb, 1971). In 
+addition, the Oskar Kellner Institute of Animal 
+Nutrition, Rostock, Germany (DDR)undertook 
+the enormous task of studying energy metabo- 
+lism in five animal species (Nehring and Haen- 
+lein, 1973). Feeding systems that have been de- 
+veloped based on this and other research will be 
+reviewed later. 
+Efficiency of Energy Use and 
+Source of Nutrients 
+The classic experiments of Armstrong and 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 485 
+colleagues (Armstrong and Blaxter, 1957; 
+Armstrong et al., 1958) suggested that there 
+might be a causal relationship between volatile 
+fatty acid (VFA) production in the rumen and 
+efficiency of ME use for maintenance and 
+fattening. Their studies demonstrated that, 
+provided small amounts of propionic acid were 
+present in the rumen, the three major VFA 
+(acetic, propionic and butyric acids) were 
+utilized at approximately equal efficiencies for 
+maintenance. They observed, however, an 
+inefficient utilization of acetic acid compared 
+to propionic or butyric when these VFA were 
+infused into rumens of sheep in positive energy 
+balance. Furthermore when mixtures of VFA 
+(high or low in proportion of acetic acid) were 
+infused, their utilization could be predicted on 
+the basis of the calculated response expected 
+from the infusion of the VFA given singly. 
+These studies, together with observations that 
+ME from diets high in fiber (a rumen fermenta- 
+tion with relatively large amounts of acetate) 
+were used less efficiently than diets low in fiber 
+and high in starch (less acetate and more 
+propionate produced by the tureen fermenta- 
+tion), suggested a causal relationship. Experi- 
+ments by Blaxter and Wainman (1964) sup- 
+ported this suggestion. They found that the 
+linear regression of bp (equivalent to kg) against 
+the molar proportion of acetic acid in the 
+rumen liquor of sheep was highly significant 
+(P<.001) with a relatively low residual standard 
+deviation when various mixtures of hay and 
+maize were fed. 
+Subsequent work reviewed by Orskov (1975) 
+and the elegant experiments of Orskov et al. 
+(1979), in which sheep were sustained entirely 
+by infusion (VFA intraruminal; other nutrients 
+via abomasal catheter), have shown that differ- 
+ences in the proportions of VFA absorbed 
+does not markedly influence the efficiency of 
+energy utilization above maintenance. Thus, the 
+suggestion of a causal relationship between 
+proportions of VFA produced and kg or net 
+energy values for growth implicated by earlier 
+studies has not been completely substantiated. 
+Nevertheless, the basic work of Armstrong and 
+colleagues could easily be credited as providing 
+the foundation for a renewed interest in energy 
+metabolism that took place about that time. 
+Efficiency of ME use for 
+Protein and the Fat Synthesis 
+Interest in utilization of major end products 
+of digestion by the ruminant has led to theo- 
+retical estimates of the efficiency of ME use. 
+These estimates are generally based on known 
+biochemical pathways and the assumption that 
+nutrients replace each other in proportion to 
+their energy yield computed as phosphate bond 
+energy of ATP. 
+The efficiency of ME utilization for protein 
+and fat synthesis according to the early theoret- 
+ical estimates of Blaxter (1962) were about 90 
+and 70%, respectively. Later estimates of the 
+energy cost of protein and fat deposition by 
+Kielanowski (1965), using comparative slaugh- 
+ter and regression methods, as well as the 
+theoretical estimates of synthesis by Baldwin 
+(1968), appeared to confirm the possibility of a 
+higher efficiency of energy deposition as 
+protein than as fat. 
+Synthesis of protein or fat, however, is not 
+synonymous with deposition; deposition is the 
+net result of synthesis and degradation. Evi- 
+dence presented at the fourth Symposium on 
+Energy Metabolism (Kotarbinska and Kielanow- 
+ski, 1969; Thorbek, 1969) indicated that fat de- 
+position may be more efficient than protein 
+deposition. Subsequent work (mostly using 
+regression techniques to partition heat produc- 
+tion) with several species (Orskov and Mc- 
+Donald, 1970; Thorbek, 1970; Rattray et al., 
+1974a; Pullar and Webster, 1974, 1977; Kirch- 
+gessner et al., 1976; Rattray and Jagusch, 1977; 
+Graham, 1980) have confirmed that protein 
+deposition in growing animals is energetically 
+less efficient than fat deposition. In simple- 
+stomached species the energy cost of protein 
+and fat deposition is 12 to 13 kcal/g which 
+corresponds to efficiencies of ME use of 45 to 
+50% and 70 to 77% for protein and fat, respec- 
+tively. In ruminant species the estimated cost of 
+protein and fat synthesis have been more 
+variable. Most estimates of the efficiency of ME 
+use for protein and fat deposition in ruminants 
+are within the ranges of 10 to 40% and 60 to 
+80%, respectively. 
+The theoretical cost of protein synthesis in 
+the ruminant may be about 80% (Van Es, 
+1980). The lower estimates associated with 
+protein deposition obtained in whole animal 
+trials are most likely the result of costs associ- 
+ated with protein turnover (amino acid synthesis 
+and resynthesis) as well as the transport of 
+contributing nutrients and ions. The energetics 
+of protein synthesis, turnover and deposition 
+have recently received considerable attention 
+(Cole et al., 1976; Tamminga, 1977; Buttery 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+486 GARRETT AND JOHNSON 
+and Lindsey, 1980; Byrant and Smith, 1982) 
+and can be expected to improve greatly our 
+understanding of whole animal energetics in the 
+coming decade. It may be, however, that 
+heat production now being ascribed to protein 
+metabolism (by the usual regression techniques 
+currently used to partition ME consumed 
+above maintenance) is actually associated with 
+some general increase in heat production 
+(Millward et al., 1976). 
+One likely source of increased heat produc- 
+tion associated with energy retention or lactation 
+is ion transport, particularly Na +, K+-ATPase 
+activity (Milligan, 1971). Recently, Gregg and 
+Milligan (1982a,b) have suggested that Na +, 
+K+-ATPase accounted for a minimum of 40% 
+of muscle 02 consumption while peptide bond 
+synthesis was estimated to account for less than 
+10% of muscle 02 consumption in cattle and 
+sheep. In addition, it was found that Na +, 
+K+-ATPase activity is responsive to physiolog- 
+ical changes. Lactation, for example, increased 
+ewe skeletal muscle 02 consumption by 32%. 
+Two-thirds of this increase was to sup- 
+port Na +, K+-ATPase activity. It remains 
+to be determined whether these in vitro 
+findings can be extrapolated to the ani- 
+mal. 
+The recognition by Van Es (1980) and 
+Graham (1982) that energy feeding standards 
+might be more effective if they contained a 
+separate term (called "work of growth" by Van 
+Es) may eventually be related, at least in part, 
+to ion transport. This is an important area for 
+increased research, which quite possibly has 
+connecting links with the use of ionophores in 
+cattle diets (Byers, 1980; Garrett, 1982) and 
+with the continuing interest and exploration of 
+the components of basal metabolism and fed 
+animal heat production. 
+Webster (1980) has made a significant 
+contribution to delineating components of the 
+heat increment of feeding. His work indicates 
+the total energy costs of ingestion and digestion 
+(all work done by the gut) in the ruminant are 
+consistently 40 to 45% of the heat increment 
+from forage feeds. Data are not yet available 
+which reveal the extent to which fiberousness 
+of feed increases heat increment, but Webster 
+(1980) suggests muscular work expended by 
+the gut in mixing and propelling indigestible 
+material is trivial compared to energy costs of 
+metabolic and secretory processes associated 
+with digestion. 
+Efficiency of Energy Utilization 
+for Fetal Growth 
+Energy deposition in the conceptus of sheep 
+and beef cattle has been determined in several 
+serial slaughter analysis experiments (sheep: 
+Langlands and Sutherland, 1968; Lodge and 
+Heany, 1973; Rattray et al., 1973, 1974b; 
+McDonald et al., 1979; cattle: Ferrell et al., 
+1976; Prior and Laster, 1979) and estimated 
+from respiration calorimetry trials with sheep 
+by Graham (1964b) and with dairy cows by 
+Moe and Tyrell (1972). 
+The efficiency of energy utilization for 
+conceptus growth is generally defined as energy 
+recovered in concept-us tissues divided by ME 
+available or used for growth (ky) of those 
+tissues. Using this definition the efficiency of 
+ME use for conceptus development has been 
+uniformly low with values generally ranging 
+from .10 to .20. Some of the variation in these 
+estimates is probably of dietary origin. Robinson 
+et aI. (1980) has reviewed ky values obtained 
+with sheep and suggest the evidence would 
+tentatively justify the hypothesis that ME 
+concentration has a relationship to ky similar to 
+the accepted relationships to k m and kg. 
+Robinson et al. (I980) also suggest that ME 
+from diets with less than 2.4 kcal/g is used less 
+efficiently than energy derived from material 
+tissue loss. 
+An average value for ky of .13 seems appro- 
+priate to use in estimating the energy require- 
+ments for pregnancy. This figure is low not be- 
+cause of inefficient metabolic pathways associ- 
+ated with conceptus development but because 
+maintenance of the conceptus is included as an 
+energy cost (Rattray et al., 1974b). 
+Scaling Coefficient for Weigbt 
+Weight raised to .75 power was adopted at 
+the third Symposium on Energy Metabolism 
+(Blaxter, 1965) as the reference base for 
+comparing the metabolism of different species 
+of animals. Analyses of Blaxter (1972) and 
+Thonney et al. (1976) have confirmed that W "Ts 
+is appropriate for interspecies comparisons. 
+More controversial is whether this power 
+function is most suitable for intraspecies 
+comparisons. Blaxter's (1972) analysis suggests 
+that for within species comparisons metabolism 
+varies with a higher power of weight, perhaps 
+W "9 for mature individuals and a lower power 
+of weight during growth, possibly W .6. The 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 487 
+review of the Agricultural Research Council 
+(ARC, 1980) found the fasting metabolism of 
+88 cattle determined in eight laboratories to 
+vary with W "67. Webster et al. (1976) using an 
+iterative procedure and data from respiration 
+calorimetry trials with steers allowed the power 
+functions to vary from .5 to 1.5. His model fit 
+the data most precisely if the exponent of 
+weight was between .7 and .8. The conclusion 
+was that no serious errors would be incurred in 
+their experiment by adopting the conventional 
+W .Ts ' 
+Blaxter et al. (1982) studying the growth of 
+sheep to maturity found the power function to 
+be .74 for rams and .76 for wethers when the 
+exponential equation y = ax b was used to relate 
+fasting metabolism and body weight. Ferrell et 
+al. (1979) using comparative slaughter pro- 
+cedures with ram and ewe lambs obtained a 
+power function of .82 between heat production 
+at maintenance and empty body weight using 
+the same equation. ARC (1980) found no basis 
+for adopting a power function other than .75 as 
+the scaling coefficient for weight in a relation- 
+ship to predict fasting metabolism of sheep. 
+It would seem that w'TS is appropriate to use 
+as a scaling factor in energy metabolism studies 
+with ruminants when comparisons are necessary 
+among species or even within species and 
+among laboratories. Given adequate data a 
+power function can be determined which may 
+be more applicable under specific experimental 
+conditions. 
+Development of Feeding Systems 
+One of the goals of energy metabolism 
+research with ruminants always has been the 
+development of an accurate means for evaluating 
+feedstuffs and stating animal requirements. 
+From a practical view a feeding system must: 
+1) enable the value of feeds to be appraised as 
+substitutes for one antoher, 2) permit deter- 
+mination of the quantity of a feed of given 
+quality to support a particular management 
+goal and 3) enable an estimate to be made of 
+animal performance if feed intake and feed 
+quality are known. 
+Until the California Net Energy System 
+(CNES) was proposed in 1963 (Lofgreen, 
+1963a,b; Lofgreen and Garrett, 1968) feeding 
+standards consisted of a single estimate of the 
+energy value of feedstuffs and an expression of 
+animal requirements in the same terms. The 
+CNES broke with tradition and assigned two 
+energy values to feedstuffs, net energy for 
+maintenance (NE m) and net energy for gain 
+(NEg) and listed animal requirements for 
+energy in similar terms. The system is suffi- 
+ciently simple to permit diet formulation and 
+estimates of animal response to particular 
+feeding regimens to be made by hand calcula- 
+tions. It can also be adopted for manipulation 
+or adjustments, usually by computer, to be 
+useful in animal management models (Brokken, 
+1971; Fox et al., 1982). It is basically an 
+empirical system developed by using compara- 
+tive slaughter feeding trials to determine the net 
+energy requirements of growing ruminants in a 
+manner which separates the energy needs for 
+maintenance from those required for growth. 
+This separation recognizes different efficiences 
+of ME utilization for maintenance and for 
+growth. Requirements for lactation can be 
+listed in terms of NEro because the efficiency 
+of ME use for lactation changes with diet in a 
+manner similar, but not identical, to the effi- 
+ciency of energy use for maintenance (ARC, 
+1965, 1980). The requirements for fetal growth 
+have also been given in NE m equivalents (NRC, 
+1976) based on an efficiency of ME use for 
+fetal growth and maintenance of about 13% 
+(Rattray et al., 1974b; Ferrell et al., 1976). 
+The Agricultural Research Council of the 
+United Kingdom (ARC, 1965) described in 
+detail a system for feeding standards based on 
+the research of Blaxter and colleagues cited 
+earlier. Although described by Moe (1981) as 
+an ME system, the system is based on net 
+energy principles and is very similar, concep- 
+tually, the the CNES. Feed values and animal 
+requirement s are listed in terms of ME, but ME 
+feed values and animal requirements are adjusted 
+by a series of equations to account for changes 
+in ME content of feedstuffs associated with 
+level of intake and for efficiency of ME use for 
+various physiological functions. The proposals 
+of the ARC (1965) were later modified for 
+practical use (MAFF, 1975) because the 
+original form required extensive calculations to 
+prepare a diet or to estimate animal response 
+from a known feed intake. The ARC (1980) has 
+now made further modifications based on 
+advances of knowledge and incorporating 
+suggestions of Blaxter and Boyne (1978). The. 
+ARC system has the advantage that it can be 
+readily modified to accept new information 
+without changing feed values because ME 
+determined at the maintenance level of feed is 
+the basis for the calculation of all requirements. 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+488 GARRETT AND JOHNSON 
+A system based on net energy fat (NEF) was 
+introduced in Germany (DDR) for feed evalua- 
+tion and for expressing nutrient needs of ani- 
+mals (Nehring and Haenlein, 1973). The system 
+predicts NEF of diets from the digestible 
+proximate constituents plus, for ruminants, a 
+correction factor based on digestibility of 
+energy. NEF is equal to 1 kcal of net energy 
+produced in adult animals under standard 
+conditions. For practical use a "energy feed 
+unit" (EF) equal to 2.5 NEF for cattle has been 
+introduced. Animal requirements for various 
+productive functions are stated in terms of EF. 
+At least three other European countries have 
+recently developed feeding systems for rumi- 
+nants. General descriptions of these systems 
+(Netherlands [Van Es, 1978], Switzerland 
+[Bickel and Landis, 1978], and France [INRA, 
+1978; Vermorel, 1978] ) are available. 
+The Netherlands and Switzerland systems 
+are almost identical, basically derived from 
+suggestions of Van Es (1975). In Switzerland, 
+energy values are stated in megajoules or 
+kilojoules; in the Netherlands arbitrary feed 
+units are used (VEVI, one feed-unit-growth, 
+contains net energy for growth approximately 
+equivalent to 1 g of barley, for example). These 
+systems calculate ME from digestible proximate 
+constituents and convert ME to net energy 
+values and feed units using prediction equations 
+which adjust for feeding level, efficiency of ME 
+utilization and energy concentration of the 
+diet. 
+The system adopted in France is similar with 
+some exceptions. ME is derived from gross 
+energy, DE and a DE:ME ratio. Net energy 
+values calculated from ME are expressed in feed 
+units (FU) equivalent to 1 kg standard barley 
+(UFL is feed unit for lactation, UFV is a feed 
+unit for maintenance and meat production at 
+an intake of 1.5 maintenance). Energy allowance 
+for growth and fattening have been estimated 
+from feeding trials conducted in France. 
+Growing animals are broadly classified as slowly 
+growing (breeding females, stockers) or rapidly 
+growing (destined for slaughter). A net energy 
+value for growth (combining NE m and NEg) is 
+calculated based on an average feeding level 
+(APL) for a classification. This procedure is 
+similar in concept to the suggestion of Harkins 
+et al. (1974). 
+All feeding systems developed during the 
+past 25 yr are based on net energy principles. 
+Each system incorporates separate estimates for 
+maintenance and productive functions. All use 
+ME (or digestible proximate constituents) as 
+the starting point for estimation of feed value. 
+The California system lists NE m and NEg values 
+for each feedstuff. Some net energy values have 
+been determined but most are estimated from 
+ME (Lofgreen and Garrett, 1968; Garrett, 
+1980). All systems have some adjustment of 
+feed values for plane of nutrition. The adjust- 
+ments are by constants and equations in some 
+systems and inherent in others. The California 
+system, for example, measures NEg as the slope 
+of the regression line between retained energy 
+and dry matter intake with one level of intake 
+at ad libitum. Some inherent correction for 
+plane of nutrition is therefore present. All 
+systems use a measured or estimated fasting 
+heat production as the basis for estimating net 
+energy requirements for maintenance and 
+retained or recovered energy (RE) as net energy 
+for a productive function. 
+Systems differ in how basic net energy prin- 
+ciples are applied to practical situations and in 
+the methodology used to estimate RE. The 
+California system is based exclusively on long 
+term comparative slaughter trials. ARC and 
+Continental European systems are based 
+primarily on short-term respiration calorimetry 
+experiments. ARC (1980) however, estimates 
+RE of growing animals from a summary of 
+relationships established from published and 
+unpublished slaughter experiments in which 
+body composition was determined by chemical 
+analyses. The continental European systems 
+also incorporate some feeding trial and slaughter 
+analysis information. 
+On the surface it may appear unfortunate 
+that so many countries have adopted different 
+feeding systems. Certainly basic animal biology 
+and metabolic pathways are much the same in 
+aU areas of the world. Dominant animal types, 
+primary feed resources and consumer or eco- 
+nomic pressures, however, differ considerably 
+from one country to the other. Even if all 
+scientists could agree on one "best" feeding 
+system, local adjustments would still be required 
+to translate experimentally determined energy 
+units into practically useful weight units. In the 
+long run it is probably beneficial that experience 
+be gained by using different feeding systems in 
+a variety of practical circumstances. This will 
+provide a much broader base for changes and 
+unifications which are certain to occur. 
+Several important areas remain for research 
+efforts in applying the results of comparative 
+slaughter and respiration calorimetry trials to 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 489 
+practical situations. One troublesome anomaly 
+is the generally lower estimates for the efficiency 
+of ME of growth measured by comparative 
+slaughter compared to respiration calorimetry 
+techniques (table 2). This is apparent in com- 
+parisons of ARC, 1965, 1980 and NRC (1976) 
+and in publications of Bull et al. (1976) and 
+Thomson and Cammell (1980). Another major 
+unsolved problem is how best to relate RE to 
+empty body weight gain, or, more difficult, to 
+live weight gain. These problems are concerned 
+with the composition of the gain and influence 
+of gut flU on gains and body weight. A univer- 
+sally acceptable and applicable solution to these 
+problems cannot be simple, but needs to be 
+found. A means for accurately predicting feed 
+intake is another weak link in application of the 
+findings from energy metabolism research to 
+practical animal management. 
+Dietary Energy Intake 
+The ability to predict energy intake of the 
+ruminant is of prime importance as attempts 
+are made to maximize energetic efficiency. The 
+25 yr period covered by this review followed a 
+decade of research giving rise to various "static" 
+theories regarding the regulation of energy 
+intake, i.e., thermostatic, glucostatic and 
+lipostatic. Much of this earlier work was with 
+nonruminants but probably provided an impetus 
+for research with ruminant species, because 
+none of the "static" hypotheses were in com- 
+plete harmony with what was known about 
+food intake in ruminants. 
+The review of Balch and Campling (1962) 
+provides access to the earlier literature. Reviews 
+by Jones (1972), Baile and Forbes (1974) and 
+Baile and Della-Ferra (1981) consider various 
+aspects of feed intake control in ruminants. 
+Only a few findings which seem especially 
+important with regard to whole animal ener- 
+getics are summarized here. 
+The relationship between dry matter digesti- 
+bility and dry matter intake of lactating cows 
+determined by Conrad et al. (1964) and gen- 
+eralized by Montgomery and Baumgardt (1965) 
+provided an important basis for increased 
+understanding of food intake in ruminants. 
+The general scheme suggests that physical 
+factors (reticulo-rumen distension) are primary 
+regulators of food intake up to some "critical 
+level" of ME (or DE) density in the diet. As 
+diet increases in ME density above a "critical 
+level," food intake decreases but ME intake re- 
+mains reasonably stable in accord with physio- 
+logical demands for substrate(s). Therefore, the 
+"critical level" is not constant but is adjusted 
+after a time to higher or lower levels in response 
+to an animal's changing requirements for 
+energy. The primary regulators of short term 
+food intake when the ME density of the diet is 
+above the critical level may be acetate (lumen 
+side of rumen) and propionate (rumen vein, 
+also in luminal side of the rumen and possibly 
+in the liver [Anti and Forbes, 1980; Baile and 
+Forbes, 1974; Baile and Della-Ferra, 1981]). 
+Glucose is not a key metabolite in the regulation 
+of energy intake in ruminants (Balle and Mayer, 
+1970). Less is known about long-term regulation 
+of food intake in ruminants. Does an animal 
+aspire to some genetically determined target 
+weight, perhaps to some energy ballast, i.e., a 
+particular body composition (a component of 
+the lipostatic theory of Kennedy, 1953, 1961) 
+or is the equilibrium condition obtained by an 
+animal the result of a combination of current 
+and past environmental and nutritional interac- 
+tions which eventually result in energy balance? 
+Much food for thought can he found in the 
+paper of Louis-Sylvestre (1980) which sum- 
+marizes the neuroendocrinology of hyperphagia 
+Level of feeding 
+TABLE 2. EFFICIENCY OF ME UTILIZATION (%) AS DETERMINED 
+BY CALORIMETRIC (ARC, 1980) AND 
+COMPARATIVE SLAUGHTER TECHNIQUES (GARRETT, 1980) 
+ME concentration of diets, kcal/g 
+Technique 2.0 2.25 2.5 2.75 3.0 
+Maintenance 
+Growth and fattening 
+Calorimetric 66.2 68.2 70.2 72.2 74.2 
+Comparative slaughter 57.6 61.5 64.3 66.3 67.7 
+Calorimetric 36.0 40.4 44.8 49.3 53.7 
+Comparative slaughter 29.6 35.7 40.1 43.4 45.8 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+490 GARRETT AND JOHNSON 
+and obesities and the discussion of Blaxter et al. 
+(1982) relative to growth, feed intake and 
+energy balance of sheep to maturity. 
+The concept of physical and physiological 
+(chemical) regulators of feed intake should not 
+imply that two separate mechanisms govern 
+feed intake in ruminants. It is preferable to 
+consider feed intake regulation as an integrated 
+system and several models have been proposed 
+which consider many variables (Baumgardt, 
+1970; Monteiro, 1972; Baile and Forbes, 1974; 
+Forbes, 1980). The integration seems to be in 
+the hypothalamus with various detection 
+mechanisms (physical, metabolic, sensory, 
+environmental and nutritional quality) providing 
+inputs to control feed intake and, therefore, 
+short and long term energy balance. 
+Of major importance to those interested in 
+energy metabolism are the mechanisms which 
+regulate energy balance. This information will 
+also be useful in developing practical feeding 
+programs to maximize the economy and 
+efficiency of livestock production. 
+One of the weaker links in relating current 
+knowledge of energy metabolism to production 
+situations is the inability to predict feed intake 
+accurately. There are general guidelines which 
+relate feed intake to animal weight (or W b) 
+with adjustments for type of diet and productive 
+functions of the animal. Reviews from the 
+United Kingdom (ARC, 1980) and from France 
+(INRA, 1978) have separate chapters devoted 
+to the prediction of intake for use with feeding 
+standards. Owens and Gill (1982) have compared 
+some published equations to predict intake of 
+young, growing ruminants. The state of the art 
+of predicting feed intake for ruminants in 
+production situations is in its infancy but may 
+soon show considerable growth as current 
+information is incorporated into quantitative 
+models (Forbes, 1980)or by using the empirical 
+approach (Song and Dinkel, 1978). 
+Future Researcb 
+Several areas have been identified in which 
+additional research is likely to improve our 
+understanding of animal energetics. 
+Supplying the energy required for mainte- 
+nance is a large component of any animal 
+production enterprise. 
+The definition of maintenance as zero 
+energy balance is straight forward, but many 
+problems are associated with determining and 
+partitioning the energy lost as heat among 
+increment, basal metabolism and environmen- 
+tally induced (broadest sense to include activity) 
+heat production. The inability to assess accur- 
+ately the various components of maintenance 
+has been responsible for considerable ambiguity 
+surrounding the maintenance concept. 
+One example of this equivocal nature of 
+maintenance requirements is the concept of 
+"working maintenance." There is no doubt that 
+increased food intake associated with produc- 
+tion (growth or lactation) results in increased 
+relative weights of vital organs (intestinal tract, 
+liver, kidney, heart) which have heavy energy 
+expenditures per unit mass. Fasting heat 
+production (FHP) of animals adapted to 
+different planes of nutrition has been signifi- 
+cantly correlated to the weight of these meta- 
+bolically active tissues (Koong et al., 1982). It 
+may be a matter of accounting whether this 
+increased FHP is assessed against the mainte- 
+nance or the production function, but a clearer 
+understanding of all components of maintenance 
+is needed to adequately resolve this issue. 
+Another component of maintenance require- 
+ment that warrants further investigation is the 
+influence of animal behavior. This can involve 
+differences in actual physical activity under 
+similar environmental circumstances or qualita- 
+tive differences in "emotional state" of animals. 
+The likely energy costs of these situations need 
+to be assessed in respiration chambers and in 
+more extensive lot or pasture situations. 
+Many other factors have been shown to influ- 
+ence maintenance metabolism (species, age, sex, 
+environment, rate of maturing are examples) 
+and additional research is necessary to determine 
+the cause of variation and account for that 
+variation in practical feeding situations. Research 
+at the cellular and organ level (tissue and 
+substrate turnover along with ion transportion) 
+as well as whole animal studies are needed to 
+increase our understanding of maintenance 
+energy metabolism. It is quite likely that the 
+artificial, but practically useful, separation of 
+the maintenance and productive functions will 
+no longer be the most satisfactory way of 
+expressing animal requirements. 
+The problem of scaling weight for compara- 
+tive studies of energy metabolism of growth 
+and efficiency also needs to be resolved. There 
+may be some advantages to including mature 
+size as a scaling characteristic (Taylor, 1980). 
+Defining mature size, of course, may be as 
+controversial as metabolic body size (wa). The 
+power function 'a' could perhaps be adjusted 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 491 
+by some factor (x) related to age or maturity 
+(i.e., Wa + bx) and thus be more acceptable 
+than a single value. 
+There is no doubt that source of ME is 
+related to efficiency of energy utilization for 
+maintenance or production. The molar propor- 
+tion of VFA produced in the rumen and the 
+work of digestion and the transportation of 
+undigestible components through the gut 
+cannot adequately account for the lower 
+efficiency of ME use from roughages compared 
+to concentrates. Alternative explanations must 
+be sought at the biochemical level in the gut 
+and in the animal. Tissue turnover and ion 
+transport may be important and the utilization 
+of large amounts of acetate by ruminant tissues 
+cannot yet be disregarded (MacRae and Lobley, 
+1982). 
+A troublesome anomaly referred to under 
+the Development of Feeding Systems section is 
+the generally lower estimates for the efficiency 
+of growth as measured by comparative slaughter 
+compared to that estimated by respiration 
+calorimetry. Research is needed to resolve 
+differences between the two techniques. Geay 
+(1983) has recently discussed this problem in 
+some detail. 
+Additional efforts should be expended to 
+develop in vivo techniques to assess empty 
+body composition accurately. Refinement of 
+current techniques (estimation of body compo- 
+sition from body water, for example) may 
+prove adquate for some purposes, but cannot 
+be expected to provide the information neces- 
+sary for short term energy metabolism experi- 
+ments. Continued advancements in computer 
+assisted data gathering and imagining techniques 
+(like tomography) using X-rays, ultra-sound or 
+perhaps naturally occurring radiation may 
+eventually permit daily assessment of body 
+composition and energy balance in animals as 
+they walk through or stand in an instrumented 
+area. Innovations made possible by electronics 
+are almost certain to appear in this and other 
+areas of importance to the study of nutritional 
+energetics. 
+The influence of ionophores on energy 
+metabolism needs further investigation. Is the 
+response of ruminants to oral carboxylic 
+ionophores the result of an antibiotic-like 
+influence on the microbes of the gut, directly 
+on the tissues of the gut and(or) at the level of 
+the cell membrane of certain tissues where 
+nutrient or ion transport might be influenced? 
+Innovative techniques will need to be used by 
+animal scientists along with usual calorimetry 
+and comparative slaughter procedures to 
+advance the science of animal energetics much 
+beyond present limits. 
+Success has been reported in the repartition- 
+ing of energy between adipose tissue and milk 
+fat in the dairy cow (Tyrrell et al., 1982) 
+and between adipose tissue and protein tissue 
+gain in the growing pig (Machlin, 1972) in 
+response to exogenous injections of growth 
+hormone. These findings plus those of increased 
+growth rate and feed efficiency in response to 
+changing photoperiod of sheep (Schanbacher 
+and Crouse, 1980) and cattle (Peters and 
+Tucker, 1978) all indicate controllable produc- 
+tive functions. Hormonal control or hormonal 
+mediated responses coupled with the rDNA 
+technology available for the production of 
+hormones or peptides hint at future possibilities 
+for making dramatic changes in the composi- 
+tion, energy density and(or) rate of product 
+formation by ruminants. 
+Assessment of NE values of normal as well as 
+exotic feedstuffs needs continued attention. Of 
+particular need is an assessment of NE values at 
+production intakes. This may not always be 
+feasible in the general laboratory situation 
+because of problems associated with high 
+rates of consumption and production in the 
+usual metabolism facility. Energy digestibilities 
+of many mixed diets can be 12 to 15 percentage 
+units lower at production levels of intake than 
+they are at maintenance intakes. Sufficient 
+metabolism trials should be conducted at two 
+or more levels of intake to permit extrapolation 
+to production levels. Also, reliable techniques 
+should be developed for use in the production 
+situation. Level of intake variation evokes great 
+uncertainty in feed value assessment as well as 
+in setting production requirements. Because 
+most lactating dairy cattle and feedlot cattle in 
+the US are fed high intakes it is very important 
+to assess values under these circumstances. 
+From a practical viewpoint the very next 
+generation of feeding standards is likely to be 
+similar to the present ones. However, require- 
+ments for maintenance and production will be 
+made more precise and additional variables will 
+be incorporated to improve our ability to 
+predict animal responses and feed values. 
+Increased computer use for diet formulation 
+and predictions of animal production will 
+consider more variables and require more 
+sophisticated estimates of all input and output 
+relationships than presently available. Predicting 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+492 GARRETT AND JOHNSON 
+feed intakes, formulating diets to maximize the 
+digestive potential of the microbial-gut complex 
+and matching nutritional needs to production 
+goals and animal genetic potential will be 
+important short-term goals for those interested 
+in animal energetics. 
+Continued development of the quantitative 
+models of animal metabolism will eventually 
+supercede and make obsolete all feeding stand- 
+ards and feed evaluation schemes as we know 
+them today. 
+Literature Cited 
+Anil, M. H. and J. M. Forbes. 1980. Feeding in sheep 
+during intraportal infusions of short chain fatty 
+acids and the effect of liver denervation: J. 
+Physiol. 298:407. 
+Armsby, H. P. and J. A. Fries. 1919. Net energy values 
+and starch values. J. Agr. Sci. 9:182. 
+Armstrong, D. G. and K. L. Blaxter. 1957. The heat 
+increment of steam-volatile fatty acids in fasting 
+sheep. Brit. J. Nutr. I1:247. 
+Armstrong, D. G., K. L. Blaxter, N. McC. Graham and F. 
+W. Wainman. 1958. The utilization of the energy 
+of two mixtures of steam-volatile fatty acids by 
+fattening sheep. Brit. J. Nutr. 12:177. 
+Agricultural Research Council. 1965. The Nutrient 
+Requirements of Farm Livestock, No. 2, Rumi- 
+nants. Agr. Res. Council London. 
+Agricultural Research Council. 1980. The Nutrient 
+Requirements of Ruminant Livestock, 2nd Ed., 
+Commonwealth Agricultural Bureaux. Farnham 
+Royal. Gresham Press, Surrey. 
+Baile, C. A. and J. Mayer. 1970. Hypothalamic centres: 
+Feedback and receptor sites in the short-term 
+control of feed intake. In: A. T. Phillipson (Ed.) 
+Physiology of Digestion and Metabolism in the 
+Ruminant, pp 254--263. Oriel Press, Newcastle, 
+England. 
+Baile, C. A. and J. M. Forbes. 1974. Control of feed 
+intake and regulation of energy balance in 
+ruminants. Physiol. Rev. 54:160. 
+Baile, C. A. and M. A. Della-Ferra. 1981. Nature of 
+hunger and satiety control systems in ruminants. 
+J. Dairy Sci. 64:1140. 
+Balch, C. C. and R. C. Campling. 1962. Regulation of 
+voluntary food intake in ruminants. Nutr. Abstr. 
+and Rev. 32:669. 
+Baldwin, R. L. 1968. Estimation of theoretical calorific 
+relationships as a teaching technique. A review. J. 
+Dairy Sci. 51:104. 
+Baumgardt, B. R. 1970. Control of feed intake in the 
+regulation of energy balance. In: A. T. Phillipson 
+(Ed.) Physiology of Digestion and Metabolism in 
+the Ruminant, pp 235--253. Oriel Press, New- 
+castle, England. 
+Benz, D. A. 1982. The effect of monensin on energy 
+partitioning by forage fed steers. M.S. Thesis, 
+Colorado State University. 
+Berger, L. L., G. D. Anderson and G. C. Fahey, Jr. 
+1981. Alkali treatment of cereal grains. 1. In situ 
+and in vitro evaluation. J. Anita. Sci. 52:138. 
+Bickel, H. and J. Landis. 1978. Feed evaluation for 
+ruminants. Ill. Proposed application of the new 
+system of energy evaluation in Switzerland. 
+Livestock Prod. Sci. 5:367. 
+Blaxter, K. L. 1950. Energy feeding standards for 
+dairy cattle. Nutr. Abstr. Rev. 20:1. 
+Blaxter, K. L. 1956. The nutritive value of feeds as 
+sources of energy. J. Dairy S ci. 39:1396. 
+Blaxter, K. L. 1961. The utilization of energy of food 
+by ruminants. In: E. Brouwer and A.J.H. Van Es 
+(Ed.) second Symposium on Energy Metabolism. 
+EAAP Pub. No. 10, pp 211--225. 
+Blaxter, K. L. 1962. The Energy Metabolism of 
+Ruminants. Hutchinson, London. 
+Blaxter, K. L. 1965. Energy Metabolism. Proc. Third 
+Symposium on Energy Metabolism. EAAP. Pub. 
+No. 11. Academic Press, London. 
+Blaxter, K. L. 1967. Techniques in energy metabolism 
+studies and their limitations. Proc. Nutr. Soc. 
+26:86. 
+Blaxter, K. L. 1972. Fasting metabolism and the 
+energy required by animals for maintenance. 
+Festkrift til Knut Breirem. Dept. Anim. Nutr. 
+Agr. Univ. of Norway, pp 19--36. 
+Blaxter, K. L. 1974. Metabolizable energy and feeding 
+systems for ruminants. In: H. Swan and D. Lewis 
+(Ed.) Nutrition Conference for Feed Manufac- 
+turers, No. 7, pp 3--26. Butterworths, London. 
+Blaxter, K. L. and N. McC. Graham. 1955. Plane of 
+nutrition and starch equivalents. J. Agr. Sci. 
+(Camb.) 46:292. 
+Blaxter, K. L., N. McC. Graham and F. W. Wainman. 
+1956. Effective level of intake and physical form 
+on digestibility of hay by sheep. Brit. J. Nutr. 
+10:69. 
+Blaxter, K. L. and F. W. Wainman. 1961. The utiliza- 
+tion of food by sheep and cattle. J. Agr. Sci. 
+(Camb.) 57:419. 
+Blaxter, K. L. and F. W. Wainman. 1964. The utiliza- 
+tion of energy of different rations by sheep and 
+cattle for maintenance and for fattening. J. Agr. 
+Sci. (Camb.) 63:113. 
+Blaxter, K. L., J. L. Clapperton and F. W. Wainman. 
+1966. Utilization of the energy and protein of 
+the same diet by cattle of different ages. J. Agr. 
+Sci. (Camb.) 67:67. 
+Blaxter, K. L., J. M. Brockway and A. W. Boyne. 
+1972. A new method for estimating the heat 
+production of animals. Quarterly Exp. Physiol. 
+57:60. 
+Blaxter, K. L. and A. W. Boyne. 1978. The estimation 
+of the nutritive value of feeds as energy sources 
+for ruminants and the derivation of feeding 
+systems. J. Agr. Sci. (Camb.) 90:47. 
+Blaxter, K. L., V. R. Fowler and J. C. Gill. 1982. A 
+study of the growth of sheep to maturity. J. Agr. 
+Sci. (Carnb.) 98:405. 
+Brockway, J. M. 1978. Escape from the chamber: 
+Alternative methods for large animal calorimetry. 
+Proc. Nutr. Soc. 37:13. 
+Brockway, J. M. and E. H. McEwan. 1969. Heart rate 
+versus energy expenditure? J. Physiol. 202:661. 
+Brokken, R. F. 1971. Programming models for use 
+with the Lofgreen-Garrett net energy system in 
+formulating rations for beef cattle. J. Anita. Sci. 
+32:685. 
+Buttery, P. J. and D. B. Lindsay. 1980. Protein Depo- 
+sition in Animals. Butterworths, London. 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 493 
+Bull, L. S,, H. F. Tyrrell and J. T. Reid. 1976. Energy 
+utilization by growing male and female sheep and 
+rats, by comparative slaughter and respiration 
+techniques. In: M. VermoreI (Ed.) Energy Me- 
+tabolism of Farm Animals. EAAP Pub. No. 19. 
+G. de Bussac, Clermont-Ferrand. 
+Byers, F. M. 1979a. Extraction and measurement of 
+deuterium oxide at tracer levels in biological 
+fluids. Analyt. Biochem. 98:208. 
+Byers, F. M. 1979b. Measurement of protein and fat 
+accretion in growing beef cattle to isotope dilu- 
+tion procedures. In: Ohio Beef Cattle Research 
+Report. Ohio Agr. Res. and Development Center 
+79:36. 
+Byers, F. M. 1980. Determining effect of monensin or 
+energy value of corn silage diets for beef cattle by 
+linear or semilog methods. J. Anita. Sci. 51:158. 
+Byers, P. M., D. E. Johnson and J. K. Matsushima. 
+1976. Associative effects between corn and corn 
+silage on energy partitioning by steers. In: M. 
+Vermorel (Ed.) Energy Metabolism of Farm 
+Animals. EAAP Pub. No. 19, pp 253--256. 
+Byrant, D.J.W. and R. W. Smith. 1982. Protein Syn- 
+thesis in muscles of mature sheep. J. Agr. Sci. 
+(Camb.) 98:639. 
+Chasteau, V.A.L. and J. S. Cronje. 1974. An air flow 
+measuring system with high apparent accuracy 
+for use in an open system respiration apparatus 
+for small ruminants. In: K. H. Menke, H. J. 
+Lantzsch and J. R. Reiehl (Ed.) Energy Metabo- 
+lism of Farm Animals. EAAP Pub. No. 14, pp 
+245--248. 
+Cole, D.J.A., K. N. Boorman, P. J. Buttery, D. Lewis, 
+R. J. Neale and H. Swan (Ed.). 1976. Protein 
+Metabolism and Nutrition. EAAP Pub. No. 16. 
+Butterworths, London. 
+Conrad, H. R., A. D. Pratt and J. W. Hibbs. 1964. 
+Regulation of feed intake in dairy cows. I. 
+Change in importance of physical and physio- 
+logical factors with increasing digestibility. J. 
+Dairy Sci. 47:54. 
+Corbett, ~. L., D. J. Farrell, R. A. Leng, G. L. Mc- 
+Clymont and D. A. Young. 1971. Determination 
+of the energy expenditure of penned and grazing 
+sheep from estimates of carbon dioxide entry 
+rate. Brit. J. Nutr. 26:277. 
+Czerkawski, J. W. and G. Breckenridge. 1975. New 
+inhibitors of methane production by rumen 
+microorganisms development and testing of 
+inbibitors in vitro. Brit. J. Nutr. 34:429. 
+Dekay, D. E., G. A. Harlow, L. J. Brown and A. E. 
+Joyner. 1976. An automated indirect calorimetry 
+system. In: M. Vermorel (Ed.) Energy Metabo- 
+lism of Farm Animals. EAAP Pub. No. 19, pp 
+331--334. 
+Dinius, D. A., M. E. Simpson and P. B. Marsh. 1976. 
+Effect of monensin fed with forage on digestion 
+and the ruminal ecosystem of steers. J. Anim. 
+Sci. 42:229. 
+Dunaif, G. and B. O. Schneeman. 1981. The effect of 
+dietary fiber on human pancreatic enzyme 
+activity in vitro. Amer. J. of Clin. Nutr. 34:1034. 
+Engels, E.A.N., M. W. Inskip and J. L. Corbett. 1976. 
+Effect of change in respiratory quotient on the 
+relationship between carbon dioxide entry in 
+sheep and their energy expenditure. In: M. 
+Vermorel (Ed.) Energy Metabolism of Farm 
+Animals. EAAP Pub. No. 19, pp 339-342. 
+Faichney, G. J. 1980. The use of markers to measure 
+digestive flow from the stomach of sheep fed 
+once daily. J. Agr. Sci. (Camb.) 94:313. 
+Ferrell, C. L., W. N. Garrett, N. Hinman and G. 
+Grichting. 1976. Energy utilization by pregnant 
+and non-pregnant heifers. J. Anita. Sci. 42:937. 
+Ferrell, C. L,, J. D. Crouse, R. A. Field and J. L. 
+Chant. 1979. Effects of sex, diet and stage of 
+growth upon energy utilization by lambs. J. 
+Anim. Sei. 49:790. 
+Flatt, W. P., C. E. Coppock and L. A. Moore. 1965. 
+Energy balance studies with lactating, non- 
+pregnant dairy cows consuming rations with 
+varying hay to grain rations. In: K. L. Blaxter 
+(Ed.) Energy Metabolism. EAAP Pub. No. 11, pp 
+121-130. Academic Press, London. 
+Flatt, W. P., P. W. Moe, A. W. Munson and T. Cooper. 
+1969. Energy utilization by high producing dairy 
+cows: I1, Summary of energy balance experiments 
+with lactating cows. In: K. L. Blaxter, J. Kielan- 
+owski and G. Thorbek (Ed.) Energy Metabolism 
+of Farm Animals. EAAP Pub. No. 12, pp 235-- 
+249. Oriel Press, New Castle-Upon-Tyne. 
+Foot, J. Z. and J.F.D. Greenhalgh. 1970. The use of 
+deuterium oxide space to determine the amount 
+of body fat in pregnant blackface ewes. Brit. J. 
+Nutr. 24:815. 
+Forbes, J. M. 1980. A model of the short-term control 
+of feeding in the ruminant: Effect of changing 
+animal or feed characteristics. Appetite 1:21. 
+Fortin, A., S. Simpfendorfer, J. T. Reid, H. J. Ayala, 
+R. Antique and A. F. Kertz. 1980. Effect of level 
+of energy intake and influence of breed and sex 
+on the chemical composition of cattle, J. Anita. 
+Sci. 51:604. 
+Fox, D. G., C. J. Sniffen and P. J. Van Soest. 1982. A 
+net protein system for cattle: Meeting protein 
+requirements of cattle. In: F. N. Owens (Ed.) 
+Protein Requirements for Cattle, MP--109. 
+Oklahoma State Univ., Stillw~ter. 
+Fuller, J. R. and D. E. Johnson. 1981. Monensin and 
+the lasalocid effects on fermentation in vitro. J. 
+Anita. Sci. 53:1574. 
+Garrett, W. N. 1968. Experiences in the use of body 
+density as an estimator of body composition of 
+animals. In: Body Composition in Animals and 
+Man. National Academy of Sciences. 1598:170. 
+Garrett, W. N. 1971. Empty body and carcass composi- 
+tion of cattle. Proc. Western Sec. ASAS 22:273. 
+Garrett, W. N. 1979. Relationships among diet metab- 
+olizable energy utilization and net energy values 
+of feedstuffs. J. Anita. Sci. 49:1403. 
+Garrett, W. N. 1980. Energy utilization by growing 
+cattle as determined in 72 comparative slaughter 
+experiments. In: L. E. Mount (Ed.) Energy 
+metabolism. EAAP Pub. No. 26, pp 3-7. Butter- 
+worths, London. 
+Garrett, W. N. 1982. The influence of monensin on 
+the efficiency of energy utilization by cattle. 
+Proc. 9th Syrup. on Energy Metabolism. EAAP 
+Pub. No. 29, pp 104-107. Sept., Lillehammer, 
+Norway. 
+Garrett, W. N., J. H. Meyer and G. P. Lofgreen. 1959. 
+The comparative energy requirements of sheep 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+494 GARRETT AND JOHNSON 
+and cattle for maintenance and gain. J. Anim. 
+Sci. 18:528. 
+Garrett, W. N., G. P. Lofgreen and J. H. Meyer. 1964. 
+A net energy comparison of barley and milo for 
+fattening cattle. J. Anita. Sci. 23:470. 
+Garrett, W. N. and N. Hinman. 1969. Re-evaluation of 
+the relationship between carcass density and 
+body composition of beef steers. J. Anim. Sci. 
+29:1. 
+Geay, Y. 1983. Energy and protein utilization in 
+growing cattle. J. Anita. Sci. 56: (In press). 
+Graham, N. McC. 1964a. Energetic efficiency of 
+fattening sheep. II. Effects of undernutrition. 
+Australian J. Agr: Res. 15 : 113. 
+Graham, N. McC. 1964b. Energy exchanges of pregnant 
+and lactating ewes. Australian J. Agr. Res. 15:127. 
+Graham, N. McC. 1967. The metabolic rate of fasting 
+sheep in relation to total and lean body weight 
+and the estimation of maintenance requirements. 
+Australian J. Agr. Res. 18:127. 
+Graham, N. McC. 1980. Variation in energy and 
+nitrogen utilization by sheep between weaning 
+and maturity. Australian J. Agr. Res. 31:335. 
+Graham, N. McC. 1982. Energy feeding standards: A 
+methodological problem. Proc. 9th Symp. on 
+Energy Metabolism. EAAP Pub. No. 29, pp 108- 
+111. Sept., Lillehammer, Norway. 
+Graham, N. McC., K. L. Blaxter and D. G. Armstrong. 
+1958. Analytical and other techniques used in 
+respiration calorimetry and their errors. In: G. 
+Thorbek and H. Aersoe (Ed.). Energy metabolism. 
+Principles, Methods and General Aspects. EAAP 
+Pub. No. 8, pp 157--163. 
+Gregg, V. A. and L. P. MiUigan. 1982a. In vitro energy 
+costs of Na +, K +- ATPase activity and protein 
+synthesis in muscle from calves differing in age 
+and breed. Brit. J. Nutr. 48:65. 
+Gregg, V. A. and L. P. Milligan. 1982b. 02 consump- 
+tion and Na +, K + ATPase-dependent respiration 
+in muscle of lambs and lactating and non-lactating 
+ewes. Proceedings ninth Symposium on Energy 
+Metabolism, EAAP Pub. No. 29, pp 66-69. Sept., 
+Lillehammer, Norway. 
+Gupta, B. S., D. E. Johnson and F. C. Hinds. 1978. 
+Soybean straw intake and nutrient digestibility 
+by sheep. J. Anim. Sci. 46:1086. 
+Haaland, G. L., J. K. Matsushima, D. E. Johnson and 
+G. M. Ward. 1981. Nutritive value of protected 
+tallow product fed with hay to beef cattle as 
+assessed by respiration calorimetry. J. Anim. Sci. 
+52:391. 
+Harkins, J., R. A. Edwards and P. McDonald. 1974. A 
+new net energy system for ruminants. Anim. 
+Prod. 19:141. 
+Hoover, W. H. 1978. Digestion and absorption in the 
+hind gut of ruminants. J. Anim. Sci. 46:1789. 
+INRA. 1978. Alimentation des Ruminants. Ed. INRA 
+Publications, 78000 Versailles. 
+Itoh, M., T. Haryu, R. Tano, K. Kameoka and S. 
+Shibuya. 1974. In: K. H. Menke, H. J. Lantzsch 
+and J. R. Reichl (Ed.) Energy Metabolism of 
+Farm Animals. EAAP Pub. No. 14:261--264. 
+Joanning, S. W., D. E. Johnson and B. P. Barry. 1981. 
+Nutrient digestibility depressions in corn silage- 
+corn grain mixtures fed to steers. J. Anita. Sci. 
+53:1095. 
+Johnson, D. E. 1972. Heat increment of acetate and 
+corn and effects of casein infusions with growing 
+lambs. J. Nutr. 102:1093. 
+Johnson, D. E. 1974. Adaptational responses in 
+nitrogen and energy balance of lambs fed a 
+methane inhibitor. J. Anim. Sci. 38:154. 
+Johnson, D. E. and W. G. Bergen. 1982. Fraction of 
+organic matter digestion occurring in the rumen: 
+A partial literature summary. In: F. N. Owens 
+(Ed.) Protein Requirements for Cattle. Oklahoma 
+S rate Univ. MP- 109:113. 
+Jones, G. M. 1972. Chemical factors and their relation 
+to feed intake regulation in ruminants: A review. 
+Can. J. Anim. Sci. 52:207. 
+Joyner, A. E., L. J. Brown, T. J. Fogg and R. T. Rossi. 
+1979. Effect of monensin on growth, feed 
+efficiency and energy metabolism of lambs. 
+J. Anita. Sci. 48:1065. 
+Jung, K. K. and R. Kawashima. 1977. Digestibility of 
+various physical forms of grains in the rumen of 
+cattle. Memoirs Coll. Agr., Kyoto Univ., Kyoto, 
+Japan 109:35. 
+Kennedy, G. C. 1953. The role of depot fat in the 
+hypothalamic control of food intake in the rat. 
+Proc. Roy. Soc. (London) Ser. B 140:578. 
+Kennedy, G. C. 1961. The central nervous regulation 
+of caloric balance. Proc. Brit. Nutr. Soc. 20:58. 
+Kielanowski, J. 1965. Energy cost of protein deposi- 
+tion in growing animals. In: K. L. Blaxter (Ed.) 
+Energy Metabolism. EAAP Pub. No. 11, pp 
+13--20. Academic Press, London. 
+Kirchgessner, M., H. L. Muller and K. R. Neesse. 1976. 
+Energy retention and utilization by the real calf. 
+In: M. Vermorel (Ed.) Energy Metabolism of 
+Farm Animals. EAAP Pub. No. 19, pp 201--204, 
+G. de Bussac, Clermont-Ferrand. 
+Kleiber, M. 1958. Some special features of the Cali- 
+fornia apparatus for respiration trials with large 
+animals. In: G. Thorbek and H. Aersoe (Ed.) 
+Energy Metabolism. EAAP Pub. No. 8, pp 
+19-27. 
+Kleiber, M. 1961. The Fire of Life, An Introduction to 
+Animal Energetics. John Wiley, New York. 
+Koong, L. J., C. L. Ferrell and J. A. Nienaber. 1982. 
+Effects of plane of nutrition on organ size and 
+fasting heat production in swine and sheep. Proc. 
+9th Symp. on Energy Metabolism. EAAP Pub. 
+No. 29, pp 245-248. Sept. Lillehammer, Norway. 
+Kotarbinska, M. and J. Kielanowski. 1969. Energy 
+balance studies with growing pigs by the compar- 
+ative slaughter technique. In: K. L. Blaxter, J. 
+Kielanowski and G. Thorbek (Ed.) Energy 
+Metabolism of Farm Animals. EAAP Pub. No. 
+12, pp 299-310. Oriel Press, Newcastle upon 
+Tyne. 
+Langlands, J. P. and H.A.M. Sutherland. 1968. An 
+estimate of the nutrients utilized for pregnancy 
+by merino sheep. Brit. J. Nutr. 22:217. 
+Lodge, G. A. and D. P. Heaney. 1973. Energy cost of 
+pregnancy in single and twin-bearing ewes. Can. 
+J. Anita. Sci. 53:479. 
+Lofgreen, G. P. 1963a. Net energy value of feedstuffs 
+and their use in cattle feeding. Arizona Cattle 
+Feeders' Day. Univ. of Arizona Agr. Exp. Star. 
+Tucson, pp 48--51. 
+Lofgreen, G. P. 1963b. Some aspects of energy mea- 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 495 
+surement in ruminant nutrition. Proc. Nutrition 
+Council. Amer. Feed Manu. Assoc. December, 
+2--3, Chicago, pp 18-21. 
+Lofgreen, G. P. 1965. A Comparative Slaughter Tech- 
+nique for Determining Net Energy Values with 
+Beef Cattle. In: K. C. Blaxter (Ed.) Energy 
+Metabolism, Proc. Third Symposium. EAAP 
+Pub. No. 11, pp 309-317. Academic Press, 
+London. 
+Lofgreen, G. P., D. L, Bath and V. R. Young. 1962. 
+Determinations of the net energy of dried beet 
+pulp using barley as a reference standard. J. 
+Anim. Sci. 21:766. 
+Lofgreen, G. P. and W. N. Garrett. 1968. A system for 
+expressing net energy requirements and feed 
+values for growing and finishing beef cattle. J. 
+Anim. Sci. 27:793. 
+Louis-Sylvestre. J. 1980. Neuroendocrinology of hy- 
+perphigias and obesities. Reprod. Nutr. Develop. 
+20(53): 1545. 
+MacRae, J. C. and G. E. Lobley. 1982. Some factors 
+which influence thermal energy losses during the 
+metabolism of ruminants. Livestock Prod. Sci. 
+9:447. 
+MAFF. Energy Allowances and Feeding Systems for 
+Ruminants. Minestry of Agriculture and Fisheries 
+and Food, Technical Bull. 33. Her Majesty's 
+Stationery Office, London. 
+Machlin, L. J. 1972. The effect of porcine growth 
+hormone on growth and carcass composition of 
+the pig. J. Anim. Sci. 35:794. 
+McDonald, I., J. J. Robinson, C. Fraser and R. 1. 
+Smart. 1979. Studies on reproduction in prolific 
+ewes. 5. The accretion of nutrients in the foetuses 
+and adnexa. J. Agr. Sci. (Camb.) 92:591. 
+McManus, W. R., R. K. Pritchard, C. Baker, M. V. 
+Petruchenia. 1969. Estimation of water content 
+by tritium dilution of animals subjected to 
+rapid live weight changes. J. Agr. Sci. (Camb.) 
+72:31. 
+Mertens, D. R. and L. O. Ely. 1982. Relationship of 
+rate and extent of digestion to forage utilization- 
+A dynamic model evaluation. J. Anita. Sci. 
+54:895. 
+Milligan, L. P. 1971. Energetic efficiency and metabolic 
+transformations. Fed. Proc. 30:1454. 
+Millward, D. J., P. J. Garlick and P. J. Reeds. 1976. 
+The energy cost of growth. Proc. Nutr. Soc. 
+35:339. 
+Moe, P. W. 1981. Energy metabolism of dairy cattle. J. 
+Dairy Sci. 64:1120. 
+Moe, P. W. and W. P. Flatt. 1969. Automatic data 
+logging equipment for energy metabolism studies 
+with large animals. In: K. L. Blaxter (Ed.) Energy 
+Metabolism of Farm Animals. EAAP Pub. No. 
+12, pp 463-470. 
+Moe, P. W. and H. F. Tyrrell. 1972. Metabolizable 
+energy requirements of pregnant dairy cows. J. 
+Dairy Sci. 55:480. 
+Monteiro, L. S. 1972. The control of appetite in 
+lactating cows. Anita. Prod. 14:263. 
+Montgomery, M. J. and B. R. Baumgardt. 1965. 
+Regulation of food intake in ruminants. 1. 
+Pelleted rations varying in energy concentration. 
+J. Dairy Sci. 48:569. 
+Morgan, C. A. and R. C. Campling. 1978. Digestibility 
+of whole barley and oat grains by cattle of 
+different ages. Anita. Prod. 27: 323. 
+Muntifering, R. B., B. Theurer, R. S. Swingle and W. 
+H. Hale. 1980. Effect of monensin on nitrogen 
+utilization and digestibility of concentrate diets 
+by steers. J. Anita. Sci. 50:930. 
+Muntifering, R. B., B. Theurer and T. H. Noon. 1981. 
+The effects of monensin on site and extent of 
+whole corn digestion and bacterial protein 
+synthesis in beef steers. J. Anita. Sci. 53:1565. 
+Nehring, K. and G.F.W. Haenlein. 1973. Feed evalua- 
+tion and ration calculation based on net energy 
+fat. J. Anim. Sci. 36:949. 
+NRC. 1976. Nutrient Requirements of Domestic 
+Animals, No. 4. Nutrient Requirements of Beef 
+Cattle. National Academy of Sciences--Na- 
+tional Research Council. Washington, DC. 
+Orskov, E. R. and I. McDonald. 1970. The utilization 
+of dietary energy for maintenance and for fat and 
+protein deposition in young growing sheep. In: 
+A. Schurch and C. Wenk (Ed.) Energy Metabolism 
+of Farm Animals. EAAP Pub. No. 13, pp 121-- 
+124. Juris Druck, Zurich. 
+Orskov, E. R. 1975. Manipulation of rumen fermenta- 
+tion for maximum food utilization. World Rev. 
+of Nutr. and Diet. 22:152. 
+Orskov, E. R., D. A. Grubb, J. S. Smith, A.J.F. Webster 
+and W. Corrigall. 1979. Efficiency of utilization 
+of volatile fatty acids for maintenance and energy 
+retention by sheep. Brit. J. Nutr. 41:541. 
+Owens, F. N. (Ed.). 1982. Protein Requirements for 
+Cattle. Oklahoma State Univ. MP--109. 
+Owens, F. N. and D. R. Gill. 1982. Influence of feed 
+intake on site and extent of digestion. Proc. Dist. 
+Feed. Conf. 37:41. 
+Peters, R. R. and H. A. Tucker. 1978. Prolactin and 
+growth hormone responses to photoperiod in 
+heifers. Endocrinology 103:229. 
+Peterson, L. A., E. E. Hatfield and U. S. Garrigus. 
+1973. Influence of concentration of dietary 
+energy on protein needs of growing-finishing 
+cattle. J. Anita. Sci. 36:772. 
+Preston, R. L., R. D. Vance, V. R. Cahill and S. W. 
+Kock. 1974. Specific gravity and carcass compo- 
+sition in cattle and the effect of bone pro- 
+portionality on this relationship. J. Anita. Sci. 
+38:47. 
+Prior, R. L. and D. B. Laster. 1979. Development of 
+the bovine fetus. J. Anim. Sci. 48:1546. 
+Pullar, J. D. and A.J.F. Webster. 1974. Heat loss and 
+energy retention during growth in congenitally 
+obese and lean rats. Brit. J. Nutr. 31:377. 
+Pullar, J. D. and A.J.F. Webster. 1977. The energy 
+cost of fat and protein deposition in the rat. Brit. 
+J. Nutr. 37:355. 
+Rattray, P. V., W. N. Garrett, N. E. East and N. 
+Hinman. 1973. Net energy requirements of ewe 
+lambs for maintenance gain and pregnancy 
+and energy values of feedstuffs for lambs. J. 
+Anim. Sci. 37:853. 
+Rattray, P. V., W. N. Garrett, N. Hinman and N. E. 
+East. 1974a. Energy cost of protein and fat 
+deposition in sheep. J. Anita. Sci. 38:378. 
+Rattray, P. V., W. N. Garrett, N. E. East and N. 
+Hinman. 1974b. Efficiency of utilization of 
+metabolizable energy and the energy require- 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+496 GARRETT AND JOHNSON 
+ments for pregnancy in sheep. J. Anim. Sci. 
+38:383. 
+Rattray, P. V. and K. T. Jagusch. 1977. Energy cost of 
+protein deposition in the pre-ruminant lamb and 
+young ruminant lamb. New Zealand Soc. Anita. 
+Prod. 37:167. 
+Reid, J. T. 1962. Energy value of feeds. Past present 
+and future. Symposium paper. Animal Nutrition's 
+Contributions to Modern Animal Agriculture. 
+Cornell University Agr. Exp. Stat. Ithaca ' NY, pp 
+54-92. 
+Reid, J. T., G. H. Wellington and H. O. Dunn. 1955. 
+Some relationships among the major chemical 
+components of the bovine body and their appli- 
+cation to nutritional investigations. J. Dairy Sci. 
+38:1344. 
+Reid, J. T. and A. Bensadoun, L. S. Bull, J. H. Burton, 
+P. A. Gleeson, I. K. Hart, Y. D. Joo, D. E. John- 
+son, W. R. McManus, O. L. Paladines, J. W. 
+Strout, H. F. Tyrell, B. Van Niekerk and G~ W. 
+Wellington. 1968. Some peculiarities in the body 
+composition of animals. In: Body Composition 
+of Animals and Man. National Acad. Sci. Pub. 
+1598, pp 19-44. 
+Reid, J. T. and J. Robb. 1971. Relationship of body 
+composition to energy intake and energetic 
+efficiency. J. Dairy Sci. 54:553. 
+Reid, J. T., O. D. White, R. Antique, and A. Fortin. 
+1980. Nutritional energetics of livestock: Some 
+present boundaries of knowledge and future 
+research needs. J. Anim. S ci. 51:1593. 
+Robelin, J. 1977. Estimation in vivo de la composition 
+corporelle des agneaux a partir de l'espace de 
+diffusion de l'eau lourde. Ann. Biol. Anim. 
+Biophys. 17:95. 
+Robinson, J. J., I. McDonald, C. Fraser and J. G. 
+Gordon. 1980. Studies on reproduction in 
+prolific ewes. 6. The efficiency of energy utiliza- 
+tion for conceptus growth. J. Agr. Sci. (Camb.) 
+94:331. 
+Rogers, J. A., C. L. Davis and J. H. Clark. 1982. Alter- 
+ation of rumen fermentation, milk fat synthesis 
+and nutrient utilization with mineral salts in 
+dairy cows. J. Dairy Sci. 65:577. 
+Rust, S. R. and F. N. Owens. 1982. Roughage source 
+in feedlot diets. Animal Science Research Report. 
+Oklahoma State University, MP- 112:150. 
+Schanbacher, B. D. and J. D. Crouse. 1980. Growth 
+and performance of growing-finishing lambs 
+exposed to long or short photoperiods. J. Anita. 
+Sci. 51:943. 
+Sawyer, M. S., W. H. Hoover and C. J. Sniffen. 1971. 
+Effects of a methane inhibitor on growth and 
+energy metabolism in sheep. J. Dairy Sci. 54:792 
+(Abstr.). 
+Schiemann, R. 1958. Uber den aufbau yon respiration 
+apparaten fur grosstiere und klientiere im Oskar 
+Kellner-lnstitut fur Tiernahrung, Rostock. In: G. 
+Thorbek and H. Aersoe (Ed.) Energy Metabolism. 
+EAAP, Pub. No. 8, pp 29-42. 
+Searle, T. W. 1970. Body composition in lambs and 
+young sheep and its prediction in ~ir from 
+tritiated water, water space and body weight. 
+J. Agr. Sci. (Camb.) 74:357. 
+Slyter, L. L. 1979. Monensin and dichloroacetamide 
+influences on methane and volatile fatty acid 
+production by rumen bacteria /n vitro. Appl. 
+Environ. Microbiol. 37:283. 
+Song, H. and C. A. Dinkel. 1978. Mathematical models 
+of postweaning-growth, feed intake and carcass 
+composition of beef cattle. 1. Empirical predictive 
+model of voluntary feed intake from weaning to 
+slaughter. J. Anita. Sci. 47:56. 
+Tamminga, S. (Ed.). 1977. Protein Metabolism and Nu- 
+trition. EAAP Pub. No. 22. Pudoc, Wageningen. 
+Taylor, St. C. S. 1980. Live-weight growth from 
+embryo to adult in domesticated animals. Anim. 
+Prod. 31:223. 
+Thomson, D. and S. B. Cammell. 1980. The evaluation 
+of the energy in forage by the comparative 
+slaughter technique. In: L. E. Mount (Ed.) 
+Energy Metabolism. EAAP Pub. No. 26, pp 
+13-15. Butterworths, London. 
+Thompson, G. E., J. W. Gardner and A. W. BeN. 1975. 
+TBF on hind limb metabolite flow. Quarterly J. 
+Exp. Physiol. 60:107. 
+Thompson, G. E. and A. W. Bell. 1976. The energy 
+metabolism of the liver measured in vivo during 
+cold exposure of sheep. In: M. Vermorel (Ed.) 
+Energy Metabolism of Farm Animals. EAAP Pub. 
+No. 19, pp 37-40. 
+Tbonney, M. L., R. W. Touehberry, R. D. Goodrich 
+and J. C. Meiske. 1976. Intraspecies relationship 
+between fasting heat production and body 
+weight: A reevaluation of W 'Ts. J. Anita. Sci. 
+43:692. 
+Thonney, M. L., D. J. Duhaime, P. W. Moe and J. T. 
+Reid. 1979. Acid insoluble ash and permanganate 
+lignin as indicators to determine digestibility of 
+cattle rations. J. Anim. Sci. 49:1112. 
+Thorbek, G. 1969. Studies on energy metabolism of 
+growing pigs. In: K. L. Blaxter, J. Kielanowski 
+and G. Thorbek (Ed.) Energy Metabolism of 
+Farm Animals. EAAP Pub. No. 12, pp 281--289. 
+Oriel Press, Newcastle upon Tyne. 
+Thorbek, G. 1970. The utilization of metabolizable 
+energy for protein and fat gain in growing pigs. 
+In: A. Schurch and C. Wenk (Ed.) Energy Metab- 
+olism of Farm Animals. EAAP Pub. No. 13, pp 
+129--132. Juris Druck, Zurich. 
+Thorbek, G. and H. Aersoe. (Ed.). 1958. Energy Me- 
+tabolism. Principles, Methods and General As- 
+pects. Proc. First Symp. Energy Metabolism. 
+EAAP Pub. No. 8. 
+Thorbek, G. and L. Neergaard. 1970. Construction 
+and function of an open circuit respiration plant 
+for cattle. In: A. Schurch and C. Wenk (Ed.) 
+Energy Metabolism of Farm Animals. No. 13, pp 
+243--246. Juris Druck, Zurich. 
+Thornton, J. H. and F. N. Owens. 1981. Monensin 
+supplementation and in vivo methane production 
+by steers J. Anita. Sci. 52:628. 
+Trei, J. E., R. C. Parish, Y. K. Sing and G. C. Scott. 
+1971. The effect of methane inbibitors on rumen 
+metabolism and feedlot performance of sheep. J. 
+Dairy Sci. 54:536. 
+Tyrrell, H. F., A.C.G. Brown, P. J. Reynolds and G. L. 
+Haaland. 1982. Effect of growth hormone on 
+utilization of energy by lactating Holstein cows. 
+Proc. 9th Symp. on Energy Metabolism. EAAP 
+Pub. No. 29, pp 46-49. Sept., Lillehammer, 
+Norway. 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 
+NUTRITIONAL ENERGETICS OF RUMINANTS 497 
+Tyrrell, H. F. and P. W. Moe. 1975. The effect of 
+intake on digestive efficiency. J. Dairy Sci. 
+58:1151. 
+Utley, T. R., G. L. Newton, D. M. Wilson and W. C. 
+McCormic. 1977. Dry and propionic acid treated- 
+high moisture corn fed with and without 
+monensin to feedlot heifers. J. Anim. Sci. 45: 
+154. 
+Van Es, A.J.H. 1958. Gas analysis in open circuit 
+respiration chambers. In: G. Thorbek and H. 
+Aersoe (Ed.) Energy Metabolism. EAAP Pub. 
+No. 8, pp 132-137. 
+Van Es, A.J.H. 1975. Feed evaluation for dairy cows. 
+Livestock Prod. Sci. 2:95. 
+Van Es, A.J.H. 1978. Feed evaluation for ruminants. I. 
+The systems in use from May 1977 onwards in 
+the Netherlands. Livestock Prod. Sci. 5:331. 
+Van Es, A.J.H. 1980. Net requirements'for mainte- 
+nance as dependent on weight, feeding level, sex 
+and genotype, estimated from balance triais. In: 
+C. Beranger (Ed.) Energy and Protein Feeding 
+Standards Applied to the Rearing and Finishing 
+of Beef Cattle, pp 73-84. Ann. Zootechnie, 29, 
+No. h.s. 
+Van Es, A.J.H., E. Brouwer and H. J. Nijkamp. 1965. 
+The feeding value for maintenance of cows on 
+hay from six parts of the Netherlands. In: K. L. 
+Blaxter (Ed.) Energy Metabolism. EAAP Pub. 
+No. 11, pp 95--109. Academic Press, London. 
+Van Es, A.J.H. and Nijkamp. 1969. Energy, carbon 
+and nitrogen balance experiments with lactating 
+cows. In: K. L. Blaxter, J. Kielanowski and G, 
+Thorbek (Ed.) Energy Metabolism of Farm 
+Animals. EAAP Pub. No. 12, pp 209-212. Oriel 
+Press, Newcastle-upon-Tyne. 
+Van Soest, P. J., R. H. Wine and L. A. Moore. 1966. 
+Estimation of true digestibility of forages by the 
+in ~itro digestion of cell wails. Proc. 10th Inter- 
+national Grasslands Congress, p 438. 
+Vermorel, M. 1978. Feed evaluation for ruminants. II. 
+The new energy systems proposed in France. 
+Livestock Prod. Sci. 5:347. 
+Vermorel, M., J. C. Vouvier, Y. Bonnet and G. Fan- 
+connean. 1973. Construction and function of 
+two respiration chambers of the open circuit type 
+for the young bovine. Ann. Biol. Anita. Bioch. 
+Biophys. 13:659. 
+Wainman, F..W., P.G.S. Dewey and M. S. McDonald. 
+1976. The metabolizable energy of cereals fed 
+with dry fodder or silages. In: M. Vermorel (Ed.) 
+Energy Metabolism of Farm Animals. EAAP 
+Pub. No. 19, pp 229--232. 
+Ward, G. M. and J. E. Johnson. 1972. Nuclear tech- 
+niques for/n 1~vo determination of body compo- 
+sition: A review. In: Isotope Studies on the 
+Physiology of Domestic Animals. International 
+Atomic Energy Agency, p 3. 
+Webster, A.J.F. 1980. Energy costs of digestion and 
+metabolism in the gut. In: Y. Ruckebusch and P. 
+Thivend (Ed:) Digestive Physiology and Metabo- 
+lism in Ruminants, pp 464-484. MTP Press, 
+Lancaster. 
+Webster, A.J.F. and F. White. 1973. Portal blood flow 
+and heat production in the digestive tract of 
+sheep. Brit. J. Nutr. 29:279. 
+Webster, A,J.F., J. S. Smith, R. M. Crabtree and G. S. 
+Maillson. 1976. Prediction of the energy require- 
+ments for growth in beef cattle. 2. Hereford  
+British Friesian steers given dried grass or barley. 
+Anita. Prod. 23:329. 
+Wedegaertner, T. C. and D. E. Johnson. 1983. Monensin 
+effects on digestibility, methenogenesis and heat 
+increment of a cracked corn-silage diet fed to 
+steers. J. Anita. Sci. (In press.) 
+ by guest on July 1, 2013www.journalofanimalscience.orgDownloaded from 

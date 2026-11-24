@@ -1,0 +1,2658 @@
+=== Fuente: sinclair and muchow_advagr1999_Radiation use efficiency.pdf ===
+
+RADMTION USE EFFICIENCY 
+Thomas R. Sinclair' and Russell C. Muchow2 
+'USDA-ARS 
+Agronomy Physiology & Genetics Laboratory 
+University of Florida 
+Gainesville, Florida 3261 1-0965 
+*CSIRO, Tropical Agriculture 
+Cunningham Laboratory 
+Brisbane, Qld. 4067, Australia 
+I. Introduction 
+A. Time-Based Growth Analysis 
+B. Light-Based Growth Analysis 
+C. Terminology 
+A. Initial Analysis of Crop Productivity 
+B. Leaf Photosynthetic Rates and RUE 
+C. Radiation Environment and RUE 
+D. Conclusions from Theoretical Analyses 
+111. Experimental Determination of RUE 
+A. Determination of Crop Mass 
+B. Determination of Solar Energy 
+C. Calculation of RUE 
+A. C+Species 
+B. C, Species 
+V. Sources of Variability in RUE 
+A. Species 
+B. CO, Assimilation Rate 
+C. Seasonal Variation 
+D. Radiation Environment 
+References 
+11. Theoretical Analyses of RUE 
+IV Experimental Measures of RUE 
+VI. Conclusions 
+I. INTRODUCTION 
+Light levels have a profound influence on plant growth, as readily observed in 
+plants in the shady areas of a garden compared with plants in areas of full sunlight. 
+Somewhat surprisingly then, only in recent times has considerable attention been 
+215 
+Adwmmr in Armnomy, Vuhme 65 
+Copyright 0 IW9 by Academic Press. tUI rights of reproduction in any form reserved 
+0065-21 13/90 $30.00 
+2 16 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+given to investigating the quantitative relationship between crop growth and light 
+levels. The influence of light levels on crop photosynthesis and mass accumula- 
+tion was not considered explicitly until the late 1950s (DeWit, 1959). Prior to this 
+time, the focus on classical crop growth analysis seems to have inhibited a more 
+mechanistic appraisal of crop mass accumulation. 
+A. TIME-BASED GROWTH ANALYSIS 
+Early investigators sought to analyze crop growth as a function of time (Black- 
+man, 1919), although it was clear that growth is not dependent on time at all. Con- 
+sequently, the accepted and popular approach of classical crop growth analysis was 
+to describe growth by the change in crop mass (m) as a function of time (f). Crop 
+growth rate (dm/df) could be readily estimated from successive harvests through 
+the growing season. Crop growth rates were calculated and compared for various 
+crops and locations in spite of the fact that these results were confounded by vary- 
+ing amounts of light intercepted by the growing crop as a result of differences in 
+incident light or changing crop leaf area. 
+The misleading approach of expressing crop growth as a function of time was 
+muddled further in crop growth analysis by calculating the derived variables of 
+relative growth rate and net assimilation rate. Relative growth rate (RGR), as de- 
+fined by Watson (1952) in the following equation, was a more generalized ex- 
+pression of the efficiency index proposed by Blackman (1919): 
+RGR = l/m dm/dt. 
+The RGR equation required the additional assumption that crop mass increased as 
+an inverse function of current crop mass. This type of expression is used to de- 
+scribe, for example, the growth of microbes in an environment of unlimited re- 
+sources. Such an assumption in the analysis of crop growth requires, of course, 
+that there is a constant relationship between plant mass and leaf area. Additional- 
+ly, it is implicit that there is no self-shading among leaves. Clearly, the RGR as- 
+sumption can only be approximated during the early stages of plant development. 
+Blackman (1919) recognized for individual plants that RGR declines as plant mass 
+increases. 
+According to Watson (1952), in 1917 Gregory, recognizing light interception as 
+critical in plant growth, developed net assimilation rate (NAR) as an approach to 
+incorporate leaf area (L) explicitly in crop growth analysis: 
+NAR = l/L dm/dt. 
+In addition to the problem of assuming that growth is a function of time, this equa- 
+tion failed to consider the uneven pattern of light interception by leaves in a crop 
+canopy. The NAR calculation assumed a uniform light distribution over leaves. 
+RADHTION USE EFFICIENCY 2 17 
+This assumption grows worse as shading in the leaf canopy increases. In spite of 
+the potential for instability resulting from the assumption of uniform light distri- 
+bution, fairly stable values of NAR were obtained in much of the early research 
+using this approach (Watson, 1952). The basis for this stability is likely traced to 
+the fact that much of the data was from situations where leaf area index was low 
+for much of the season and the amount of shading was not great. In modern crops 
+with high plant densities and rapid development of leaf area, there is a high degree 
+of leaf shading. Calculations of NAR do not offer much mechanistic insight about 
+the development of crop mass and yield. 
+B. LIGHT-BASED GROWTH ANALYSIS 
+Some of the first, cogent analyses of increases in crop mass in response to the 
+amount of light available to a crop were done by DeWit (1959) and by Loomis and 
+Williams (1963). DeWit (1959) assumed a constant efficiency of light use at the 
+leaf level up to a saturating light value and examined the consequences of light 
+distribution in a leaf canopy. Canopy photosynthetic capability was calculated to 
+be proportional to the amount of solar radiation incident to the canopy. Loomis and 
+Williams (1963) advanced this mechanistic perspective by considering the quan- 
+tum nature of light and by attempting to express the efficiency in the use of light 
+in terms of accumulated plant mass. Assuming a maximum value for leaf quantum 
+efficiency of 10 quanta per CO, fixed, they calculated that the limit for crop effi- 
+ciency was 3.34 g CH,O MJ-' solar radiation. 
+Early experimental data also confirmed a close linkage between the amount of 
+light intercepted by a crop and its growth. Shibles and Weber (1965) found a lin- 
+ear relationship between dry matter increase and the fraction of radiation inter- 
+cepted through the entire growing season for soybean. Williams et al. (1965) found 
+for maize that 1.7 1 g of plant mass was produced for each MJ of intercepted solar 
+radiation. 
+During the 1970s, however, several studies analyzed efficiency on the basis of 
+incident radiation rather than intercepted radiation. These estimates were used by 
+ecologists and agronomists to compare plant productivity under different systems 
+of land use and management and in different climates. For example, Cooper (1970) 
+estimated an efficiency in the use of incident radiation by assuming that 45% of 
+the total incoming radiation is in the visible spectrum and available for photosyn- 
+thesis, and that the production of 1 g of dry matter corresponds to the fixation of 
+4250 calories of chemical energy. He calculated that the average efficiency in the 
+use of incident radiation for pasture production of up to 3% was possible over the 
+whole year with up to 5% during the most productive part of the growing season. 
+Cooper also estimated annual dry matter production potential in contrasting cli- 
+matic regions based on differences in annual energy input. Analysis based on in- 
+218 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+cident radiation was also done by Austin et al. (1978), who found that sugarbeet 
+was less efficient than sngarcane. Jong et al. (1982) showed that grain yield of 
+maize in Hawaii was linearly related to incident radiation and this accounted for 
+78.5% of the yield variation. 
+The limitation in relating productivity to incoming solar radiation is that only a 
+proportion of the incident radiation is intercepted by plants during their life cycle 
+and available for photosynthesis (Squire, 1990). Differences in leaf canopy de- 
+velopment among crops and climates can confound comparison of efficiency 
+based only on incident radiation. In fact, Monteith (1972) commented that classi- 
+fying ecosystems on the basis of efficiency in relation to incident radiation is be- 
+coming a popular form of taxonomy but it contributes little to our understanding 
+of how plants respond to their environment. His analysis went a stage further, re- 
+lating efficiencies of dry matter production to the physical and biological factors 
+that determine growth rates such as the fraction of radiation intercepted by a leaf 
+canopy, the irradiance of individual leaves, the diffusion resistance of stomata, and 
+the behavior of the photochemical system. Monteith (1972) concluded that the in- 
+terception efficiency, defined as the ratio of the actual rate of gross photosynthe- 
+sis to the maximum rate estimated for a stand of identical plants with enough leaves 
+to intercept all the incident light, emerges as a major discriminate of dry matter 
+production. This efficiency on the one hand accounts for differences in productiv- 
+ity under different conditions of climate and management and, on the other, for 
+differences between the mean and maximum rates of production within a particu- 
+lar stand. 
+In 1977 John Monteith published a paper that fully established both experi- 
+mental and theoretical grounds for the relationship between accumulated crop dry 
+matter and intercepted solar radiation. He concluded from a composite of experi- 
+mental results obtained under good growth conditions that for most crops approx- 
+imately 1.4 g of crop mass was accumulated per MJ of intercepted solar radiation. 
+Monteith also presented a theoretical curve for the response of radiation use effi- 
+ciency (RUE) to changes in maximum rate of leaf photosynthesis. While RUE was 
+highly sensitive to maximum leaf photosynthesis rates at low rates, the sensitivi- 
+ty of RUE to photosynthetic rates was much less in the usual range of leaf photo- 
+synthetic rates for nonstressed crops. Monteith’s 1977 paper was particularly im- 
+portant in pointing to RUE as a robust and theoretically appropriate approach for 
+describing crop growth. 
+Subsequent to Monteith’s paper, a number of studies incorporated estimates of 
+radiation interception so that RUE could be calculated. Several papers summarized 
+RUE estimates obtained under a range of conditions (Gallagher and Biscoe, 1978; 
+Gosse et al., 1986; Kiniry et al., 1989). Gallagher and Biscoe (1978) compared the 
+growth of cereals under a range of conditions at two locations in the United King- 
+dom. Unfortunately, the amount of intercepted radiation was not measured but es- 
+timated based on crop leaf area. Nevertheless, RUE was essentially stable and 
+RADIATION USE EFFICIENCY 219 
+equivalent for wheat and barley when grown under good conditions. They report- 
+ed that the RUE value was about 3 g MJ-’ of photosynthetically active radiation 
+(PAR; or equivalently, 1.35 g MJ- intercepted solar radiation as discussed in Sec- 
+tion 111). Unfertilized and drought-stressed conditions resulted in a decrease in 
+RUE. 
+In a comparison among various crop species, Gosse et al. (1986) concluded that, 
+in fact, important differences in RUE existed among species. They found that C, 
+species had the highest RUE, followed by nonleguminous species, and leguminous 
+species had the lowest. Variation among species was also reported by Kiniry et al. 
+(1989) in their comparison of five crop species. In their study also, RUE was gen- 
+erally calculated from estimates of light interception based on leaf area. Maize had 
+the highest RUE at 3.5 g MJ-’ of intercepted PAR (or 1.75 g MJ-’ intercepted 
+solar radiation), and sorghum had only 2.8 g MJ- (or 1.4 g MJ- solar radiation) 
+intercepted PAR. The estimates of RUE for sunflower, rice, and wheat were 2.2, 
+2.2, and 2.8 g MJ- ’ intercepted PAR (or 1.1, 1.1, and 1.4 g MJ- ’ solar radiation), 
+respectively. 
+C. TERMINOLOGY 
+“Conversion efficiency” has sometimes been used as the preferred terminology 
+instead of radiation use efficiency (Horie et al., 1997). The concept of solar ener- 
+gy conversion arose from thermodynamic considerations where ecosystems are 
+likened to machines supplied with energy from an external source, that is, solar 
+energy. The available energy input in any environment is determined by the sea- 
+sonal distribution of solar radiation, and provided that water and nutrients are not 
+limiting, this sets the ultimate limit to productivity (Cooper, 1970; Loomis et al., 
+1971; Monteith, 1972). Dividing the useful energy of a thermodynamic process by 
+the total energy involved gives a figure for the efficiency of the process and this 
+procedure has been used to analyze the flow of energy in ecosystems, particularly 
+for pastures that are grown primarily as a source of digestible energy and other nu- 
+trients for the ruminant. This approach was used with grain crops in evaluating per- 
+formance in terms of intercepted radiation (Allen and Scott, 1980; Muchow and 
+Coates, 1986; Marshall and Willey, 1983). 
+The terminology of “radiation conversion efficiency,” however, is inappropri- 
+ate when measuring plant mass accumulated per unit of radiation because it im- 
+plies that there is a process of direct conversion of radiant energy to mass. This is, 
+of course, an erroneous view because photosynthesis and plant mass accumulation 
+involve no direct conversion of energy to plant mass. At the energy levels of solar 
+radiation, it is not even possible to directly condense radiant energy to atoms such 
+as carbon. The actual photosynthetic process involves the absorption of radiant en- 
+ergy by pigments resulting in the establishment of new energy levels in these mol- 
+220 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+ecules. The higher energy states of these pigments are then used to assimilate car- 
+bon dioxide and synthesize plant constituents. Hence, crop mass accumulation rel- 
+ative to light levels is appropriately referred to as radiation use efficiency. 
+II. THEORETICAL ANWYSES OF RUE 
+Before examining in detail the various experimental measures of RUE, those 
+studies that examined theoretically the nature of RUE will be reviewed. These the- 
+oretical studies help to give a background and framework for evaluating potential 
+sources of variation in experimental measures of RUE. Specifically, theoretical 
+studies help to identify variations in the environment and crops that might influ- 
+ence RUE. 
+A. INITIAL ANALYSIS OF CROP PRODUCTMTY 
+As discussed previously, one of the first attempts to estimate theoretically crop 
+productivity based on solar radiation incident to a crop was published by Loomis 
+and Williams (1 963). The basis of their calculation was an assumed quantum effi- 
+ciency for individual leaves of 10 mol per mole of assimilated CO,. Loomis and 
+Williams calculated for the crop that 14 pg CH,O could be assimilated per calo- 
+rie of incident solar radiation. Assuming a 0.7 conversion factor from CH,O to 
+plant mass, then the equivalent RUE on a total solar radiation basis was 2.34 g 
+MJ-’. Because of the essentially optimum value assumed for the quantum effi- 
+ciency, this theoretical estimate offered a maximum limit to RUE. 
+DeWit (1965) expanded substantially on the calculation of Loomis and 
+Williams by considering the geometry of light interception by a leaf canopy. The 
+model of DeWit accounted for variations in solar elevation, leaf angles, and frac- 
+tion of diffuse radiation. Using a Michaelis-Menten equation to express the re- 
+sponse of individual leaves to light level, an approximately linear increase in 
+canopy assimilation was calculated in response to absorbed light by the leaf 
+canopy. In addition, DeWit’s analysis indicated that an increasing diffuse compo- 
+nent in the incident light resulted in increased canopy productivity. Calculations 
+of RUE from the results presented by DeWit (DeWit’s Tables 6 and 7) for daily 
+canopy CO, assimilation gives RUE values that are essentially stable through the 
+growing season (i.e., time of year) and over latitude. Increasing maximum leaf 
+photosynthetic rate resulted in increasing values in calculated RUE. Goudriaan 
+(1982) subsequently expanded DeWit’s analysis on the latitude response and 
+showed little variation in RUE over a wide range of latitudes. 
+Duncan et al. (1 967) also undertook an analysis of canopy photosynthesis based 
+RADIATION USE EFFICIENCY 22 1 
+on the geometry of light interception. Unfortunately no data were presented that 
+allow direct calculations of RUE. They did, however, analyze the importance of 
+leaf angle on daily net photosynthesis. They compared canopies with extreme, uni- 
+form leaf angles of 0 and 80" as compared to the more usual angle of 40". Lower 
+leaf angles were advantageous below a canopy LAI of 3 to 4, and more erect leaf 
+angles were advantageous above this LAI. Overall, there was little difference be- 
+tween canopies of differing leaf angles when LA1 was less than 6. Duncan (197 1) 
+extended this analysis by considering canopies with leaf layers that were either 
+completely horizontal or vertical. An advantage in daily photosynthesis resulting 
+from a hypothetical mixture of leaves with vertical and horizontal leaves occurred 
+only when LAI was greater than 4. For most crop species, these analyses indicat- 
+ed that RUE would not be sensitive to leaf angle even with extreme leaf angles. 
+Overall, these early analyses gave important suggestions about the relative im- 
+portance of individual variables on RUE. A number of variables were indicated to 
+have only a small influence on RUE, including solar altitude, latitude, time of year, 
+and leaf angle. Quantum efficiency and maximum leaf photosynthetic rate ap- 
+peared to have the potential to alter RUE values substantially. 
+B. LEAF PHOTOSYNTHETIC RATES AND RUE 
+As mentioned in the Introduction, Monteith (1 977) presented the first theoreti- 
+cal analysis leading explicitly to predictions of RUE. Although the details of his 
+model were not presented, the input conditions included a leaf quantum efficien- 
+cy of 10 mol PAR per mole CO, fixed, a photorespiration rate equivalent to 0.3 of 
+photosynthesis rate, and a dark respiration rate equal to 0.4 of photosynthesis. Es- 
+sentially a linear relationship was calculated between dry matter accumulation and 
+intercepted solar radiation (Monteith's Fig. 3) for any given maximum leaf pho- 
+tosynthesis rate. A curvilinear response of RUE to maximum leaf photosynthesis 
+rate, as anticipated in the analysis of DeWit (1965), was predicted (Monteith's Fig. 
+4). RUE increased from 0 at 0 g (CH,O) m-* h- leaf photosynthetic rate to about 
+1.6 g MJ-' at 5 (CH,O) mp2 hp' maximum leaf photosynthetic rate. At a leaf 
+photosynthetic rate of 3 g (CH,O) mP2 h- I, RUE was calculated to be 1.4 g MJ-', 
+which was the value Monteith (1977) concluded was generally representative of 
+C, crops. 
+Murata (1981) calculated RUE using a single equation for calculating daily 
+gross canopy CO, assimilation. RUE was calculated based on differing leaf pho- 
+tosynthetic rates of various crop species and varying levels of solar radiation. In a 
+comparison of species, higher rates of leaf photosynthesis for C, species resulted 
+in higher calculated values of RUE (average of 2.48 g mass MJ- solar radiation) 
+than for C, species (average 1.82 g MJ-I). Murata's estimates of RUE, however, 
+seem somewhat inflated because he assumed a very high conversion coefficient 
+222 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+from CO, to plant dry matter (0.61). A more realistic conversion decreases the 
+RUE values to about three-fourths of his original estimates. Considering the con- 
+version of CO, to CH,O is 0.68 (30/44) and that the conversion of CH,O to plant 
+material high in carbohydrate is roughly 0.7 (Sinclair and DeWit, 1975), a more 
+realistic coefficient is approximately 0.48 (= 0.68 X 0.7). Consequently, more 
+realistic estimates of RUE using Murata's results are seemingly 1.95 g MJ- ' for 
+C, species and 1.43 g MJ-' for C, species. 
+Sinclair and Horie (1989) used a model of canopy photosynthesis that calculat- 
+ed separately the CO, assimilation of leaves exposed to direct beam radiation and 
+those in the shade in the canopy. Leaf photosynthetic rates were calculated using 
+an asymptotic exponential equation that was defined by a quantum efficiency of 5 
+g CO, MJ- ' solar radiation, and by the light-saturated CO, assimilation rate. The 
+main intent of this model was to examine the influence of light-saturated photo- 
+synthetic rates and leaf nitrogen contents on RUE. Results of calculations from 
+this model were similar to previous analyses in that RUE was closely linked to leaf 
+carbon exchange rate (Fig. 1). In addition to variations among species as a result 
+of differences in leaf photosynthetic rates, variations in the energy content of the 
+plant products also were calculated to alter RUE. For example, soybean with plant 
+products high in proteins and lipids was calculated to have a lower RUE at equiv- 
+alent leaf photosynthetic rates than cereal crops (Fig. 1). 
+The saturating nature of the RUE response to leaf photosynthetic rate at high 
+leaf photosynthetic rates was concluded to be important in explaining potential sta- 
+CER (mg C02 m-2 d) 
+Figure 1 Calculated RUE as a function of light-saturated leaf photosynthetic rate (Sinclair and 
+Hone, 1989). The cereals, maize and rice, were plotted separately from soybean to account for differ- 
+ences in the energy content of the plant mass. 
+RADIATION USE EFFICIENCY 223 
+bility in RUE. Large variations in leaf photosynthetic rate at the high values were 
+required to result in substantial variations in RUE (Fig. 1). Any factor, however, 
+that decreased leaf photosynthesis to the range of low photosynthetic rates had a 
+direct consequence in lowering RUE. Therefore, low photosynthetic rates result- 
+ing from various stresses were predicted to result in decreased RUE. For example, 
+Sands (1996) calculated that temperature might influence RUE depending on leaf 
+photosynthetic response to temperature. 
+The sensitivity of leaf photosynthetic rates to changes in leaf nitrogen was ex- 
+plored by Sinclair and Hone (1989) as a potentially important source of variation 
+in RUE. In their model, maximum leaf CO, assimilation rate was argued to be a 
+direct function of leaf nitrogen content per unit leaf area. They assumed that the 
+leaf nitrogen content was uniform throughout the leaf canopy. From this model, 
+Sinclair and Horie (1 989) calculated substantial differences among crop species in 
+the relationship between RUE and leaf nitrogen content (Fig. 2). At high leaf ni- 
+trogen contents, the calculated RUE response curves were saturated and there were 
+only small changes in RUE with changes in leaf nitrogen. The maximum values 
+of RUE from this analysis for each species were about 1.8 g MJ-' for maize, 1.5 
+MJ-' for rice, and 1.3 g MJ-' for soybean. At more realistic levels of leaf nitro- 
+gen, the RUE estimates were slightly less than these maximal values. 
+For situations where leaf nitrogen content decreased to lower levels, the esti- 
+mates of RUE became very sensitive to these changes in nitrogen content (Fig. 2). 
+Certainly, under conditions where leaf nitrogen content is fairly low, changes in 
+" 
+00.2 0.6 1.0 1.4 1.8 2.2 2.6 3.0 
+Leaf N (g m-') 
+Figure 2 Calculated RUE as a function of the mean leaf N per unit area for a crop canopy (Sin- 
+clair and Horie, 1989). The differences in crop species result from differences in the energy content of 
+the plant mass and the relationship between leaf photosynthetic rate and leaf N content. 
+224 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+these nitrogen contents were predicted to have the possibility of resulting in large 
+changes in RUE. Both Hammer and Wright (1 994) and Sands (1 996) calculated a 
+similar sensitivity of RUE to leaf nitrogen content. 
+Sinclair and Shiraiwa (1993) expanded the investigation of the sensitivity of 
+RUE to leaf nitrogen content by investigating the sensitivity of RUE to a nonuni- 
+form distribution of nitrogen in the leaf canopy. Commonly, the leaves at the top 
+of the canopy, which are exposed to higher light levels, tend to have the highest 
+leaf nitrogen contents. The calculations of Sinclair and Shiraiwa (1993) showed 
+important increases in RUE as a result of the nonuniform distribution of nitrogen, 
+particularly at low mean leaf nitrogen levels. The analysis of Hammer and Wright 
+(1994) showed a similar improvement in RUE from a nonuniform leaf nitrogen 
+content at low average leaf nitrogen levels. 
+In summary, theoretical analyses have consistently indicated a dependence of 
+RUE on leaf photosynthetic activity. The example presented in Fig. 1 is illustra- 
+tive of most of the calculated relationships between RUE and maximum leaf pho- 
+tosynthesis rates. Increasing leaf photosynthesis at high rates results in only small 
+increases in RUE. For C, species, maximum RUE was generally calculated to be 
+in the range 1.4 to 1.5 g MJ- ' intercepted solar radiation. Depressed leaf photo- 
+synthesis rates, however, were calculated to result in large decreases in RUE. 
+C. RADIATION ENVIRONMENT AND RUE 
+The original calculations of DeWit (1965) indicated that RUE might be sensi- 
+tive to the fraction of the diffuse component in the incident radiation but stable 
+under differing latitudes. Murata (1981) included as a variable in his calculations 
+of RUE the levels of total daily radiation. Decreasing solar radiation resulted in in- 
+creased RUE, particularly at daily radiation levels that are less than half of that on 
+a bright day. 
+Hammer and Wright (1994) provided a detailed analysis of the importance of 
+the radiation environment on RUE. In their model they simulated changes in ra- 
+diation level by altering the atmospheric transmission ratio. They concluded that 
+the atmospheric transmission ratio had the greatest effect on RUE of any abiotic 
+variable they examined. RUE increased by about 0.4 g MJ-' when going from a 
+clear day to a very cloudy day. In a less sophisticated analysis, Sinclair et al. (1992) 
+had previously calculated about the same increase in RUE when the amount of dif- 
+fuse light was held constant and the total amount of incident light was increased 
+by increasing only the direct component. In segregating the influence of the change 
+in proportion of diffuse radiation, Hammer and Wright (1994) concluded that the 
+increasing fraction of diffuse component on the cloudy day accounted for a RUE 
+increase of 0.15 g MJ-I. 
+RADIATION USE EFFICIENCY 225 
+Norman and Arkebauer (199 1) calculated the response of RUE on an hourly ba- 
+sis in response to the changing radiation conditions. When they plotted the calcu- 
+lated RUE values against the diffuse:direct radiation ratio of the incident radiation, 
+they obtained nearly a linear increase in RUE as the diffuse:direct ratio increased. 
+These results were confounded, however, by decreases in total solar radiation as- 
+sociated with an increasing diffuse component. 
+Analyses of the influence of solar elevation, and therefore latitude, on RUE have 
+indicated no substantial influence, consistent with the original analysis of DeWit 
+(1965). The lack of sensitivity of RUE to latitude was noted in the RUE calcula- 
+tions of Sinclair and Horie (1989) and Hammer and Wright (1994). 
+Finally, the sensitivity of RUE to varying LA1 has been examined theoretical- 
+ly. Horie and Sakuratani (1985) showed little response in calculated RUE for rice 
+as a result of varying LAI. Similarly, Sinclair and Horie (1989) found that RUE 
+was stable over a range of LAI, except at LA1 less than 1 .O. At the low LAI, RUE 
+estimates were calculated to decrease. Sands (1 996) also reported a lack of sensi- 
+tivity in RUE to varying LAI. 
+Overall, the radiation environment has been calculated to be important in de- 
+termining RUE but the effects are fairly small. Higher RUE values were estimat- 
+ed for low-radiation, high-diffuse component conditions than for high-radiation, 
+low-diffuse component conditions. These differences in RUE are evident during 
+the diurnal cycle and might be of some significance when comparing RUE across 
+environments. 
+D. CONCLUSIONS FROM THEORETICAL ANALYSES 
+Overall, the various studies of RUE have been consistent in the analysis of RUE 
+sensitivity to various variables. Clearly, maximum leaf photosynthetic capability 
+is the main theoretical variable that influences RUE. Important differences among 
+crop species and locations may well result from differences in leaf photosynthet- 
+ic activity. Theoretical analyses of RUE also indicated that stress resulting in de- 
+creased leaf photosynthetic rate would result in major decreases in RUE. Conse- 
+quently, in reviewing and comparing experimental results, it is likely that the more 
+meaningful comparisons among experiments will be those where the crops were 
+not subjected to stresses. 
+Among the remaining factors that potentially influence RUE, the level of radi- 
+ation was calculated to have an important, albeit a fairly modest influence on RUE. 
+Potential sources of variation in RUE among locations indicated by the theoreti- 
+cal analyses are the level of solar radiation and the fraction of diffuse radiation. 
+Other factors such as latitude and LA1 appear to have only a very minor role in ex- 
+plaining variation in RUE. 
+226 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+III. EXPERIMENTAL DETERMINATION OF RUE 
+RUE is a derived variable based on measurements of the ratio of accumulated 
+crop mass and intercepted radiation. Whereas this definition of RUE seems rather 
+straightforward, there has been a wide range of experimental approaches used to 
+estimate RUE. Similarly, a wide range of units have been used to express RUE. 
+For example, RUE estimates differ because 
+i. some are expressed on a PAR basis while others are expressed on a short- 
+wave radiation basis and the transmission of PAR through canopies differs from 
+that of short-wave radiation (Marshall and Willey, 1983); 
+ii. some are expressed on an intercepted basis while others are on an absorbed 
+basis; 
+iii. some are based on net aboveground dry matter production with variable leaf 
+losses while others are expressed on a total dry matter production basis including 
+roots; 
+iv. some are based on differences between two discrete samplings at different 
+stages of crop growth and are subject to large sampling errors in contrast to those 
+based on the fitted slope from many crop growth samplings. 
+To further complicate measurements of RUE, the various experimental approach- 
+es used in measuring accumulated crop mass and radiation are subject to a num- 
+ber of errors and bias. Therefore, in comparing RUE among experiments, the re- 
+liability in the RUE estimates can vary to a large extent. In the following sections 
+some of the experimental issues associated with measuring the components of 
+RUE are discussed. 
+A. DETERMINATION OF CROP MASS 
+The crop mass used in the calculation of RUE is usually based on net above- 
+ground biomass production. Inclusion of roots will result in higher RUE but it is 
+difficult to estimate root biomass. In cereals, root mass at anthesis is commonly 10 
+to 20% of the total crop mass (Gregory, 1994). A recent study on sugarcane in 
+Hawaii showed that belowground mass decreased from 17% of total crop mass at 
+6 months to 11% from 12 to 24 months (Evensen et al., 1997). Variable losses of 
+mass due to leaf senescence and even shoot death under some stress situations can 
+lead to an underestimate of RUE. In sugarcane, for example loss of trash mater- 
+ial can lead to underestimates of up to 15% in RUE (Muchow et al., 1997), and 
+stalk death associated with lodging further reduces RUE (Muchow et al., 1994). 
+Of more importance in the precision of biomass estimates, however, is field and 
+sampling variability. Given that RUE estimates are based on consecutive field 
+RADIATION USE EFFICIENCY 227 
+samplings, RUE estimates can be highly variable in nonuniform stands especial- 
+ly when based on the difference between two discrete samplings. For well-man- 
+aged crop stands, crop mass can usually be estimated to an accuracy of 5 to 15% 
+(Gallagher and Biscoe, 1978). However, use of small plots and small sampling 
+areas can lead to edge effects and biased estimates. For example, Monteith (1978) 
+found that several reports of high maximum growth rates were associated with sig- 
+nificant amounts of lateral radiation interception in small plots. Laboratory stan- 
+dards such as calibration of balances and care in partitioning biomass samples con- 
+tribute to the rigor in estimates of crop biomass and hence RUE. 
+When comparing different crop species, it is also necessary to consider the en- 
+ergy content of the plant mass. For example, Muchow et al. (1993) adjusted soy- 
+bean biomass upward to take account of the higher energy content of the grain with 
+the energy content of the grain taken as 1.3 times that of the vegetative material 
+(Sinclair and DeWit, 1975; Penning de Vries et al., 1983). In the Muchow et al. 
+(1993) study, energy contents of the vegetative material and of the grain in mung 
+bean and cowpea were assumed the same. Other studies have corrected for the 
+presence of energy-rich substances that accumulate during reproductive growth in 
+several species including peanut (Bell et al., 1992; Wright et al., 1993) and sun- 
+flower (Hall et al., 1995; FlCnet and Kiniry, 1995). The variation in nutrients in 
+plant tissue contributes little to estimates of RUE (Squire, 1990). In summary, the 
+use of crop biomass as the basis of RUE calculation may need special attention in 
+dealing with a productive oil crop. 
+B. DETERMINATION OF SOLAR ENERGY 
+The amount of radiation intercepted as used in the calculation of RUE has two 
+components (i) the input of solar radiation and (ii) the fraction that is intercepted 
+by the leaf canopy. Incoming radiation can be expressed as either total solar (0.4 
+to 3 pm) or that in the wavebands of PAR (0.4 to 0.7 pm). Radiation absorbed by 
+green foliage is sometimes substituted for intercepted radiation. An important con- 
+sideration is how incident and intercepted radiation are measured. 
+1. Incident Radiation 
+Outside the earth’s atmosphere, a surface kept at right angle to the sun’s rays re- 
+ceives energy at a mean rate of 1.36 kJ m-* s-’, a figure known as the solar con- 
+stant (Monteith, 1972). The proportion of this radiant energy received at the earth’s 
+surface is determined by the geometry of the earth’s surface with respect to the sun 
+and depends on latitude and season. The annual average value of this geometrical 
+factor decreases from about 0.3 in the tropics to 0.2 in temperate latitudes (Mon- 
+228 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+teith, 1972). The greatest annual input to solar radiation occurs in subtropical 
+regions in latitudes 20 to 30°, in climates with little cloud cover and corre- 
+spondingly low rainfall (Cooper, 1970). Humid tropical regions show somewhat 
+lower values while temperate Oceanic regions, which currently have the most 
+intensive grassland production, are distinguished by remarkably low radiation 
+input. 
+Solar radiation penetrating the earth's atmosphere is absorbed and scattered by 
+gases, by clouds, and by aerosols in the form of soil and salt particles, smoke, in- 
+sects, and spores. Accordingly, the incident radiation available for crop growth 
+varies from day to day and data are usually obtained from direct measurements us- 
+ing solarimeters or from indirect measurements based on sunshine hours. For a 
+regularly calibrated and well-maintained weather station, the uncertainty in inci- 
+dent radiation will be about 22%. At sites where it is necessary to estimate inci- 
+dent radiation from records of cloudiness or sunshine hours, the uncertainty in 
+monthly averages of incident radiation will be on the order of ? 10% (Monteith, 
+1972). However, given the short crop cycles of many annual crops and the fact that 
+as leaf area develops the proportion of incident radiation that is intercepted in- 
+creases nonlinearly, aberrations in RUE estimates can occur unless reliable daily 
+estimates of incident radiation are obtained from correctly sited and calibrated sen- 
+sors. Attention to incident radiation data is frequently overlooked in many exper- 
+imental measures of RUE. 
+The ratio of PAR to total radiation in the direct solar beam is between 0.44 to 
+0.45 when the sun is more than 30" above the horizon (Moon, 1940) and a figure 
+of 0.45 has often been used by biologists to calculate the receipt of PAR from the 
+flux of total radiation recorded with a solarimeter (Monteith, 1965; Meek et al., 
+1984). This estimate ignores a contribution of diffuse radiation, which is scattered 
+by gas molecules in the atmosphere and which contains a much higher proportion 
+of PAR than the direct beam. When the solar elevation exceeds 40°, the estimated 
+ratio of PAR to total radiation and the diffuse component is about 0.60. Combin- 
+ing the direct and diffuse components in appropriate proportions, the ratio of PAR 
+to total solar radiation is close to 0.5. Monteith (1972) suggests an average of 0.5 
+is probably appropriate in the tropics as well in the temperate latitudes. 
+Chlorophyll absorbs very strongly in the blue and red regions of the spectrum 
+so that the light reflected and transmitted by leaves is predominantly green. Inte- 
+grating over the whole spectrum from 0.4 to 0.7 nm, the fraction of PAR absorbed 
+by leaves is usually between 0.80 to 0.90, the precise figure depending on factors 
+such as the amount of chlorophyll per unit area of lamina. Gallagher and Biscoe 
+(1978) used a figure of 0.90. Using an average figure of 0.85, the fraction of total 
+solar radiation absorbed by green leaves is therefore about 0.5 X 0.85 = 0.425. 
+Accordingly, to convert RUE values to a total solar radiation basis, it is appropri- 
+ate to multiply those estimates based on intercepted PAR by 0.5, and those based 
+on absorbed PAR by 0.425. 
+RADIATION USE EFFICIENCY 229 
+2. Intercepted Radiation 
+The amount of radiation intercepted by the leaf canopy can be determined from 
+the radiation that it receives and transmits. This can be measured using tube so- 
+larimeters beneath the crop canopy compared to a measurement of the incident ra- 
+diation above the canopy (Szeicz et al., 1964; Monteith et al., 1981). The tube so- 
+larimeter is a device for measuring irradiance received by a thermopile that 
+provides an electrical output proportional to the difference between the tempera- 
+ture of black and white segments of its surface. This electrical output can be logged 
+to provide continuous diurnal measurement of the fraction of incoming radiation 
+that is intercepted (4) (Muchow and Davis, 1988). 
+Care must be taken in solarimeter placement to ensure that the portions of the 
+canopy “seen” by a set of replicated instruments are not anomalous. When calcu- 
+lating RUE, it is important that the interception is that from the green leaf canopy 
+and not overestimated due to interception by dead leaves. A good practice is to re- 
+move dead leaves at weekly intervals from areas where tube solarimeters are 
+placed (Muchow and Davis, 1988; Muchow et al., 1993, 1994). Uniform stands 
+are essential to get reliable cost-effective measures of radiation interception using 
+tube solarimeters, but even in a well-managed nonuniform crop such as sugarcane, 
+reliable estimates of intercepted radiation required four solarimeters per plot (Mu- 
+chow et al., 1994). 
+The need for replication, the cost and fragility of tube solarimeters, and the need 
+for continuous data-logging have resulted in many surrogate measurements for the 
+fraction of incident radiation intercepted by the crop canopy q). Commonly, spot 
+measurements are taken below the canopy using a line sensor around solar noon 
+and compared to incident radiation above the canopy (Gallo and Daughtry, 1986). 
+Spot measurements are usually confined to sunny days to avoid measurement dif- 
+ficulties associated with transient clouds. Unfortunately, restricting measurements 
+to sunny days with high fractions of direct radiation results in biased4 estimates 
+that are low. Interpolation between spot measurements also contributes to error in- 
+versely proportional to the frequency of measurement. 
+Monteith (1 994) also highlights the temporal error associated with spot mea- 
+surements when done at one time of the day, usually midday, because4 is a func- 
+tion of time of day. Charles-Edwards and Lawn (1 984) have reported that& is un- 
+derestimated by up to 10% when measurements are taken in the middle of the day 
+instead of being integrated during the day, and FlCnet et al. (1996) found that 
+east-west row orientation minimized time-of-day effects. Muchow (1985) mea- 
+sured diurnal variation inf; in a range of grain legumes and showed that the low- 
+er the value off, at solar noon, the greater its diurnal variation. The underestimate 
+in& based on noon measurement decreased from 40 to 3% when& at solar noon 
+increased from 0.2 to 0.9. RUE estimates based on spot measurements must be ex- 
+amined cautiously. 
+230 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+A second method used for estimating& is based on measuring the reflected ra- 
+diation from the leaf canopy in two spectral bands. These techniques are based on 
+a comparison of the reflected radiation in a red wavelength band (630 to 690 nm) 
+and a near infrared wavelength band (760 to 900 nm). Generally, a normalized dif- 
+ference vegetation index (NDVI) is calculated as the difference in reflectance be- 
+tween these two wavelength bands (near infrared minus red) divided by the sum 
+of the reflectance in these two wavelength bands. Empirical relations between & 
+and NDVI have been obtained for wheat (Garcia et al., 1988) and for maize and 
+soybean (Daughtry et al., 1992). Major et a/. (1991) calculated& for maize from 
+the reflectance data in these two wavelength bands by using a model that consid- 
+ered canopy radiative properties in detail. Unfortunately, Major er al. (1991) of- 
+fered no direct comparison betweenfi calculated using the reflectance data in the 
+model and& obtained directly from radiation interception results. 
+All experiments using spectral reflectance data to estimate fi have focused on 
+essentially cloud-free days near solar noon. Therefore, the problem of one-time, 
+spot measurements also arises with attempts to estimate interception from the 
+spectral composition of reflected radiation (Garcia et al., 1988; Rudorff et al., 
+1996; Major et al., 1992). Extensions of this technique to estimate& with NDVI 
+estimated from satellites are similarly difficult because they are spot measures that 
+are taken at various angles relative to the crop surface (Hanan et al., 1995). 
+A third method of estimatingfi is to estimate the foliage cover by photograph- 
+ing the canopy either from above or looking upward from the soil surface. This is 
+done by fitting a standard camera with a fisheye lens (Anderson, 1971). In addi- 
+tion to being less expensive than tube solarimeters, the technique has the advan- 
+tage that photographs sample a relatively large area, may be taken rapidly in the 
+field, are easily reproducible, and provide a permanent record of the state of the 
+crop. Gregory and Marshall (1980), as cited by Monteith et al. (1981), compared 
+estimates of& using a fisheye lens to the value calculated from tube solarimeters 
+placed above and below canopies of millet and peanut. The hemispherical pho- 
+tographs were taken from the soil surface and the estimates agreed well both in the 
+early and late stages of development. However, there was a discrepancy of about 
+20% during the period when the canopies were developing rapidly, probably as a 
+consequence of the unavoidable positioning of the camera between the rows. 
+Steven et al. (1986) compared foliage cover estimates of& with& estimates from 
+solarimeters in sugarbeet, field beans, and barley with variable results, which were 
+particularly poor for barley. Haverkort et al. (1991) compared several indirect 
+methods for determining&, and observed that ground cover was associated with 
+fewer errors than methods based on leaf area index and extinction coefficient, and 
+on infrared reflectance. These surrogate measures, while useful in some circum- 
+stances, must be treated with caution in calculating RUE given the spatial and tem- 
+poral errors discussed above. 
+RADIATION USE EFFICIENCY 23 1 
+C. CALCULATION OF RUE 
+There are many methods used for estimating the components of RUE with many 
+associated errors. Regularly calibrated and well-sited sensors are required to mea- 
+sure daily incident radiation. Fractional interception is best measured continuously 
+using tube solarimeters in uniform crop stands to avoid temporal errors. Dead leaves 
+should be removed periodically so that interception by green leaves is measured. 
+Similarly biomass needs to be well defined (i.e., shoot plus or minus roots with or 
+without senesced material) and taken from representative areas without edge effects. 
+There are also important issues in how the component data are used to calculate 
+RUE. RUE can be calculated from the difference in biomass between two con- 
+secutive harvests divided by the corresponding amount of radiation intercepted. 
+This method suffers from large errors associated with calculated differences. A 
+more appropriate measure is to fit a linear relationship between cumulative bio- 
+mass accumulation and cumulative radiation interception, with RUE calculated as 
+the slope of the linear relationship. This method has been widely used. This cu- 
+mulative approach has been criticized by Demetriades-Shah et d. (1992) but the 
+criticisms were appropriately refuted by Arkebauer et al. (1994), Kiniry (1994a), 
+and Monteith (1994). Care needs to be taken in obtaining RUE estimates by re- 
+gression, as in some species RUE declines during reproductive growth, even un- 
+der high input conditions (Muchow and Davis, 1988), associated with N mobi- 
+lization to the grain and subsequent reduction in leaf photosynthetic capacity 
+(Muchow and Sinclair, 1994). Perhaps most important is the need for the estab- 
+lishment of good crop stands and good husbandry with well-recorded inputs, as a 
+prerequisite for obtaining reliable estimates of RUE. 
+Given the wide variation in experimental methods used to measure RUE, we 
+now present a case study on calculating RUE over a range of environmental con- 
+ditions. Muchow (1994) reports a study in which maize was grown in both a trop- 
+ical and a subtropical environment at different sowing dates under different N fer- 
+tilizer rates. The same hybrid (Dekalb XL82) was sown with the same row spacing, 
+and identical management inputs with the same sprinkler irrigation regime in all 
+crops. Crops were thinned to the same density and biomass accumulation was de- 
+termined by sampling 2 m2 every 7 to 10 days from thinning to maturity. 
+Radiation interception was measured by placing a tube solarimeter diagonally 
+across the two inner rows of each replicate plot at ground level. These solarime- 
+ters were used to record at 2-min intervals the radiation (0.35 to 2.4 km) trans- 
+mitted through the crop canopy, using the data collection system described by Mu- 
+chow and Davis (1988). Dead leaves (>50% blade area senesced) were removed 
+at about weekly intervals from plants around the tube solarimeters, so that radia- 
+tion transmission through green leaf area only was recorded. Another tube so- 
+larimeter was placed above the crop and the incident radiation was recorded. Dai- 
+232 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+ly totals and individual tube calibration factors were used to calculate the fraction 
+of incident radiation intercepted (&) in each plot. Since the readings from individ- 
+ual solarimeters were found to vary by up to 20% from the nominal calibration, 
+the absolute incident radiation (S) was recorded with a regularly calibrated pyra- 
+nometer. The amount of radiation intercepted (Si) was calculated as the cumula- 
+tive product of the daily& and S. 
+Radiation use efficiency was calculated both as the average value from sowing 
+to maturity and as the maximum value before photosynthetic capacity declined 
+during grain-filling. The average RUE was calculated as the ratio of net above- 
+ground biomass at maturity to cumulative Si from sowing to maturity. The maxi- 
+mum RUE was derived as the fitted slope of the linear relationship between net 
+aboveground biomass and Si (Fig. 3) using a stepwise regression procedure (Mu- 
+chow and Sinclair, 1994). Starting at crop maturity, data points were progressive- 
+ly removed from the fit until no further improvement was gained in the proportion 
+of variance accounted for by the regression. 
+Under high N supply, maximum RUE was relatively stable across sowings and 
+environments, indicating no response to temperature, absolute incident radiation lev- 
+el, or water vapor saturation deficit for the range of conditions experienced (Fig. 3). 
+The difference in biomass production could be largely explained by differences in 
+Si. Where N supply limited yield, the decrease in biomass production was associat- 
+ed with a much larger decrease in RUE than in Si. Under both low and high N sup- 
+“0 600 1200 1800 0 600 1200 1800 
+Intercepted radiation (MJ m-’) Intercepted radiation (MJ m-’) 
+A B 
+Figure 3 Relationship between net aboveground biomass accumulation and radiation interception 
+for maize where 0 and 24 g N m-2 were applied for (A) 29 January 1986 sowing at Katherine and 
+(B) 28 August 1990 sowing at Lawes (Reprinted from Field Crop Res., Vol. 38, R. C. Muchow, “Ef- 
+fect of nitrogen on yield determination in irrigated maize in tropical and subtropical environments,” 
+pp. 1-13, with permission from Elsevier Science). The slope of the fitted linear relationship is the max- 
+imum radiation use efficiency and values are (A) 0.87 g MJ-’ for 0 g N m-2 and 1.65 g MJ- I for 24 
+g N m-2 and (B) 0.52 g MJ-l for 0 g N m-* and 1.64 g MJ-’ for 24 g N m-*. 
+RADIATION USE EFFICIENCY 233 
+ply, the grain demand for N could not be met solely by soil N uptake during grain 
+filling, and there was significant mobilization of vegetative N to grain N. Conse- 
+quently leaf N and RUE declined during grain filling in all situations, highlighting 
+the difference between maximum and seasonal average RUE. 
+W. EXPERIMENTAL MEASURES OF RUE 
+The objective of this section is to compare RUE reported for various species and 
+experiments. The focus is particularly on data collected under optimum, usually 
+control conditions, in order to compare observations on potential RUE from each 
+study. The collection of a baseline of potential RUE data could serve as a useful 
+reference in developing a realistic perspective on the upper limits of RUE that 
+might be reasonably expected for individual crop species. 
+Fortunately, in the past 10 years there has been a large expansion in the number 
+of studies that included estimations of RUE, so there is a large data resource on 
+which to make these comparisons. This large data resource also allows some se- 
+lectivity in the data to be included in the comparison among species. As indicated 
+in the previous section, there are a number of possible sources of error or bias as 
+a result of various methodologies used in estimating RUE. We have established 
+two criteria in selecting data sources to be included in this comparison. Our nar- 
+rowing of the data sources to be included in this comparison does not mean, how- 
+ever, that the excluded data are necessarily in error or biased. We have introduced 
+this selectivity among the published data sources in order to focus on those reports 
+that used more exhaustive methodology in developing estimates of RUE. 
+The two criteria used to select data for this comparison of RUE are based on ex- 
+perimental issues discussed previously. One criterion was that we included only 
+estimates of RUE based on direct measures of canopy radiation interception dur- 
+ing the growing season. Several studies calculated radiation interception based on 
+measures of leaf area index and an assumed radiation extinction coefficient. Er- 
+rors in measuring leaf area index and uncertainty of transferring an extinction co- 
+efficient to a new situation can introduce substantial uncertainty in RUE estimates. 
+The second criterion was that RUE must have been obtained from several period- 
+ic observations through the growing season. RUE values that were calculated 
+based only on the difference between two observations were not included because 
+of the greater level of uncertainty in the RUE estimates when only two measures 
+are made during the growing season. 
+After selecting those data sources that met the two above criteria, there was also 
+a problem in making comparisons among various experiments because of differ- 
+ences in how RUE was expressed. To facilitate comparison of RUE among var- 
+ous sources, an attempt was made to convert estimates of RUE to a common unit. 
+234 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+The common unit selected for comparing RUE was mass (usually shoot only) per 
+unit of intercepted solar radiation. Indeed, most experiments were directly depen- 
+dent on measurements obtained in these units. Deviations in the expression of RUE 
+in many cases resulted from decisions by investigators to convert the measurement 
+units into alternate units. Fortunately, many papers reported the methods used to 
+make these conversions so that it was straightforward to recalculate the units as 
+shoot mass per unit of intercepted solar radiation. In those cases where the con- 
+version technique is not explicitly available in a paper, there were two assumptions 
+that may have been invoked. The first assumption was used to convert those re- 
+ports of RUE based on intercepted PAR into units of total solar radiation. As dis- 
+cussed in the previous section, it was assumed that the level of PAR was 0.5 of to- 
+tal solar radiation. The second assumption was used to convert from absorbed PAR 
+radiation to intercepted PAR radiation. When a conversion was unavailable in the 
+original data source, it was assumed that 0.85 of intercepted PAR radiation was 
+absorbed, as discussed previously. 
+The estimates of RUE were collated by crop species (Table I) because of the im- 
+portant differences that have previously been suggested among species (Gosse et 
+al., 1986; Kiniry et al., 1989). An attempt was made to include some of the key in- 
+formation about each experiment in Table I, and this table is the basis for making 
+comparisons of potential RUE among species. 
+1. Maize 
+There have been extensive reports on RUE in maize. An important considera- 
+tion arising from these data is that maximum RUE occurs during vegetative growth 
+and there is a tendency for RUE to decrease during grain filling associated with 
+mobilization of leaf nitrogen to the grain and consequent reduction in RUE (Mu- 
+chow and Davis, 1988). The maximum value reported was 1.86 g MJ-' by Otegui 
+et al. (1995). However, radiation interception was measured by spot readings 
+around solar noon at 14-day intervals and since the fraction of radiation intercept- 
+ed varied from 0.59 to 0.79 over the 2 years of the study, this may result in an un- 
+derestimate of radiation interception and an overestimate of RUE. A number of 
+studies have shown maximum RUE in the range 1.6 to 1.7 g MJ-' (Table I). In 
+fact, there is a great deal of consistency around these values for a large number of 
+studies. Interestingly, the study of Andrade et al. (1992, 1993) showed lower max- 
+imum RUE associated with the lower temperature environment. Also, Tollenaar 
+and Aguilera (1992) observed higher RUE in new compared with old hybrids. The 
+main outlier in Table I for maize is Bolanos and Edmeades (1993) with a maxi- 
+mum RUE of 1 g MJ-'. The authors noted that while the low RUE values were 
+Table I 
+Summary of Maximum RUE Reported for Various Crop Species, Including an Estimate of These RUE in the Common Units of Plant Mass per 
+Unit of Intercepted Solar Radiation 
+Mas, hdiauon RUE 
+Shoot\ Spot Intercepted PAR Maximum Estimated 
+Expenmental or 01 01 or reported ddjusment 
+Source Lacation variables Samplearea Stage total continuous absorbed solar value (gMJ;;) Comments 
+Maim 
+Muchow and 
+Davis (1988) 
+Tollenaar and 
+Bruulsema 
+(1988) 
+Muchow (1989a) 
+Andrade er al. 
+(1992) 
+Daughvy er 01 
+( 1992) 
+Tollenaar and 
+Aguilera 
+(1992) 
+Andrade er 01. 
+(1993) 
+Bolanos and 
+Edmeades 
+(1993) 
+Katherine, Australia 
+Elora, Canada 
+Katherine, Ausualia 
+Balcarce, Argentina 
+West Lafayette, 
+IN, USA 
+Elora. Canada 
+Balcarce, Argentina 
+Tlaltiapan. Mexico 
+N. species 
+Hybrids. density 
+Sowing date, 
+species 
+Year, CUltiVar 
+Hybrids. density 
+Year. cultivar. 
+sowing date 
+Selection cycles, 
+water regime 
+2 m-? Vegetative. Shoots Continuous Intercepted Solar 1.6Og MJ-' 1.60 
+season I..U)gMJ-' 1.40 
+2.0.2.3, and Vegetative Shoots Continuous Absorbed PAR 3.46gMJ-' 1.47 
+and 2.1 mz 
+2 m2 Vegetative. Shoots Continuous Intercepted Solar 1.59 g MJ-' 1.59 
+season 1.27gMJ-' 1.27 
+10 plants (6.1 Vegetative. Shoots Spot (?) Intercepted PAR 3.03 g MI- ' 1.45 
+to 9.1 plants season 2.96gMJ-' 1.42 
+m-Z) 
+0.54111~ Season Shoots Spot Absorbed PAR 4.26gM.-' 1.81 
+3.4 to 3.6 m2 4-6 weeks Shwts Continuous Absorbed PAR 3.78 g MI-' 1.61 
+(reflected) 
+postsilking 
+10 plants Vegetative Shoots Spot (-15-day Intercepted PAR 3.17 g MJ-' 1.52 
+intervals) 
+2.25 m2 Anthesis, Shoots Spot(10- to 12- Intercepted PAR 1.99gMJ-' 1.00 
+maturity day intervals) 1.48gMJ-' 0.74 
+Reduction in RUE under N stress. 
+Growth rate 30.5 g m-2 day-'. PAR 
+absorbed 4.07 mol photon WZ 
+day-', RUE = 3.46 PAR 
+absorbcd 0.425 = 1.47. 
+RUE during vegetative growth fitted 
+by regression. Decrease In RUE 
+after silkiing; RUE maize higher 
+than for sorghum. 
+Low-temperature study with mean 
+15 to 18°C during vegetative 
+gmwth. 
+Silking to 6 weeks postsilking; 
+higher DM in new cf old hybrid 
+atmbuted to higher RUE. 
+Max RUE ranged from 2.27 to 
+3.17gM.-'PARover5years 
+dependent on temperature; 
+RUE varied with sowing date 
+(temperature). 
+Noted low RUE under well-watered 
+conditionchigh VPD. Water 
+applied only every 10 days. 
+continues 
+Table I-confinued 
+Source 
+Mass Radiation RUE 
+Shoots Spot Intercepted PAR Maximum Estimated 
+Experimental 01 Or or or reported adjustment 
+Lacation variables Sample area Stage total continuous absorbed solar value (g Comments 
+Kiniry (19946) 
+Muchow (1994) 
+Otegui el a/. 
+(1995) 
+Sorghum 
+Sivakumar and 
+Huda (1985) 
+Coates (1986) 
+N w Muchow and 
+m 
+Muchow and 
+Davis (1988) 
+Hammer and 
+Vanderlip 
+(1989) 
+Muchow (1989a) 
+Muchow and 
+Sinclair (1994) 
+Westgate PI a/. 
+(1997) 
+Sugarcane 
+Muchow er al. 
+( 1994) 
+Temple, TX, USA Year, species, 
+competition 
+Katherine & Lawes. Location. year. N 
+Australia 
+Rop. Argentina Hybrids, sowing 
+date 
+ICRISAT. India Year, soil type. 
+Kununurra, Sowing date. 
+hybrids 
+Ausvalia cultivars. row 
+spacing, density 
+Katherine. Australia N. species 
+Manhattan, KS. Greenhouse. 
+USA genotype X 
+temperature 
+Katherine, Austrdlia Sowing date, 
+Katherine & Lawes. 
+species 
+Location. year. N 
+Australia 
+Moms, MN, USA Hybrids, row 
+spacing 
+Ayr. Australia Growth analysis, 
+plant crop 
+-0.3 mz 
+2 m-2 
+1 m2 
+Periodic. 
+3 mL 
+Penodic, 
+I m' 
+Periodic, 
+2 m' 
+15 potc 
+Periodic. 
+2 m2 
+Periodic. 
+2 m2 
+Periodic, 
+1 m2 
+Periodic. 
+15 mz 
+Vegetative 
+Vegetative, 
+season 
+Vegetative. 
+season 
+Season 
+Season 
+Vegetative. 
+season 
+Vegetative 
+Vegetative, 
+Vegetative 
+season 
+Vegetative 
+Season 
+Shoots Spot (I- to 23- Intercepted PAR 3.42 g MJ-' 
+3.75gM1-' 
+(1992) 
+Shoots Continuous Intercepted Solar 1.68 g MI-' 
+1.67 g MI-' 
+Shoots Spot (14-day Intercepted PAR 4.14 g MJ-' 
+day intervals) (1991) 
+intervals) 3.39 g h%-' 
+Shoots Spot (7- to 10- Intercepted PAR 2.74 g MI-' 
+Shoots Spot (7-day Intercepted PAR 2.40 g MJ-' 
+day intervals) 
+intervals) 
+Shoots Continuous Intercepted Solar 1.25 g MI-' 
+I.I2gMJ-' 
+Shoots Continuous Intercepted PAR 4.31 g MI-' 
+at 25°C 
+2.99 g MI-' 
+at 17°C 
+Shoots Continuous Intercepted Solar 1.29 g id-' 
+Shoots Continuous Intercepted Solar 1.26 g MJ-' 
+I.IOgW-' 
+Shoots Spot (7- to 10 Intercepted PAR 3.02 g MJ-' 
+day intervals) 
+Shoots Continuous Intercepted Solar 1.75 g MJ-' 
+1.54 
+1.69 
+1.68 
+1.67 
+1.86 
+1.53 
+1.37 
+1.20 
+I .25 
+1.12 
+2.16 
+I SO 
+1.29 
+1.10 
+1.26 
+1.51 
+1.75 
+Reduction in RUE under N stress. 
+No IoCation effect on max RUE. 
+Fraction PAR intercepted varied 
+from 0.59 to 0.79 over 2 years, 
+4 sowing dates. and 4 hybrids. 
+Decrease in RUE after anthesis. 
+Cultivar difference. 
+Decrease in RUE after anthesis. 
+RUE independent of temperature, 
+solar radiation. and water vapor 
+saturation deficit. 
+If assume 15% underestimate of 
+biomass due to nonrecovery of 
+all trash (Evensen er a/., 1997) 
+then RUE = 2.0 g W-'. 
+Robenson cr a/. 
+(19%) 
+Munchow el al. 
+(1997) 
+Potato 
+Allen and Scott 
+(1980) 
+Burstall and 
+Hams ( 1986) 
+Jeffenes and 
+Mackerron 
+( 1989) 
+Kenaf 
+Muchow (1992) 
+N w 
+Wheat 
+Wilson and 
+lamteson 
+(1985) 
+Green ( 1987) 
+Garcia el a/. 
+(1988) 
+Gregoory er a/ 
+(1992) 
+Fischer (1993) 
+Yunusa er a/ 
+(1993) 
+Gregoory and 
+Ingham. Australia Variety, plant, 
+ratoon crop 
+Kunia. Hawaii, USA; Variety 
+Ingham and Ayr. 
+Australia 
+Sutton Bonnington. NA 
+Sonning-on-Thames, Variety 
+Scotland Water supply 
+UK 
+England 
+Katherine. Australia Water. N 
+Lincoln. New Season, cultivar 
+Zealand 
+Sutton Bonnington. N. year 
+UK 
+Mandan. ND. USA; 
+Manhattan, KS, 
+USA; Lubbock, 
+TX. USA 
+East Beverley. 
+Austmlia 
+Griffith. Australia N 
+N. stage location 
+Penh. Ausrralia Cultivar 
+East Beverley. Season. sowing 
+Eastham (1996) Australia dare 
+Periodic. 
+I5 m2 
+Periodic. 
+18.9 m2 
+and 
+15 m2 
+Periodic, 
+NA 
+Penodic. 
+1.4rn' 
+Periodic, 
+1.08 m2 
+2 m2 
+-0.2 m2 
+12 plants 
+per 
+ueatmenl 
+0.525 m2 
+0.3 m2 
+0.32 m2 
+1.068 m2 
+Season Shoots Continuous Intercepted Solar 1.72 g MI-' 
+plant 
+1.59gM.-' 
+ratoon 
+Season Shoots Contiuous (and Intercepted Solar 1.87 g MI-' 
+calculated Hawaii 
+using k = 0.4) 1.96 g MI ~ ' 
+Australia 
+Season Total Continuous 
+Season Total Continuous 
+Total Continuous 
+Season Shoots Continuous 
+Season Shoots '? 
+Vegetative Total Continuous 
+Vegetative Shoots Spot 
+and (reflected) 
+reproductive 
+Vegetative Shoots Spot(6 occa- 
+Vegetative Shoots Spot (9- to 20- 
+sions) 
+Intercepted Solar I .6 g MI-' 
+Intercepted Solar 1.76 g M.-' 
+Intercepted Solar 1.75 g MI-' 
+Intercepted Solar 1.20 g hW' 
+Intercepted PAR 2.38 g MI-' 
+Absorbed PAR 4.07 mmol 
+Absorbed PAR 3.82 g MI-' 
+hex. mo1-I 
+Intercepted PAR 1.46g MJ-' 
+Absorbed PAR 3.36gM.-' 
+day intervals) 
+Vegetative Shoots Continuous Intercepted PAR 2.93 g MI-' 
+Season Shoots Contmuour Intercepted PAR I .68 g MI-' 
+I .72 
+1.59 
+1.87 
+I .96 
+1.6 
+1.76 
+I75 
+1.20 
+1.19 
+1.28 
+1.62 
+0.73 
+1.51 
+I .46 
+0.84 
+RUE lower during late growth due 
+to winter temperature and biomass 
+loss due to stalk death. ah. 
+Includes estimates of 15% wash loss 
+in biomass estimates for 
+Ausualia: Hawaii measured 
+biomass estimates for 1st-year 
+growth. 
+Varietal differences in RUE. 
+Includes tubers 
+RUE decreased more than RI under 
+water and N stress. 
+All results gave common RUE. 
+RUE decreaed with decreased N 
+No location difference. Decrease = 
+application. 
+1 low N. Decreaye in reproductive 
+stage. 
+Decrease during reproductive pwh. 
+No difference in N treatment 
+identified. RUE increased up to 
+10 days after anthesis. 
+Cultivar and season difference. 
+~~ ~ 
+continues 
+Table I-continued 
+Mass Radiation RUE 
+Shoots Spot Intercepted PAR Maximum Estimated 
+Experimental or 01 Or or reported adjustment 
+Source Lncation variables Samplearea Stage total continuous absorbed solar value (g MJLd,) Comments 
+Calderini era/. 
+(1997) 
+Barley 
+Gregory el al. 
+(1992) 
+Goyne n al 
+(1993) 
+Jamieson el a/. 
+(1995) 
+Rice 
+Hone and 
+Sakuratani 
+(1985) 
+Inhapan and 
+Fukai (1988) 
+N w 
+Q) 
+Sunflower 
+Trapani cr o/. 
+(1992) 
+Gimenez el 01. 
+(1994) 
+Halletal. (1995) 
+Henet and Kiniry 
+(1995) 
+Bange et al. 
+(1997a) 
+Bange et al. 
+Buenos Aires. 
+Argentina 
+East Beverley. 
+Australia 
+Warwick, Australia 
+Lincoln, New 
+Zealand 
+Tsukub4 Japan 
+Redland Bay, 
+Australia 
+Buenos Aires, 
+Argentina 
+Cordoba, Spain 
+Buenos Aires. 
+Argentinia 
+Temple, TX. USA 
+Ganon College, 
+Australia 
+Ganon College. 
+Cultivar 
+CUltiVZS 
+Cultivars, 
+Irrigation 
+irrigation 
+Sowing date, 
+shading 
+cultivar 
+irrigation 
+CUltiVar. 
+Cultivar 
+N. density 
+N. density 
+N 
+N 
+Shading 
+0.075 m2 
+0.525 mz 
+0.36 m2 
+0.1 m2 
+0.15 m2 
+2-3 plants 
+44 plants 
+3-4 plants 
+1.4 m2 
+7 plants 
+7 plants 
+Vegetative Shoots Spot (3- 10 4- Intercepted Solar 1.25 g MI-' 
+and day intervals) I .02 g MI- ' 
+reproductive 
+Vegetative 
+Season 
+Season 
+Season 
+Entire season 
+Vegetative 
+Vegetative 
+Season 
+Season 
+Season 
+Season 
+Shoots Spot (6 wca- Intercepted PAR 1.79 g MJ-' 
+Shoots Spot(-7-day Absorbed PAR 2.9OgMJ-' 
+Shoots Spot (once) Intercepted PAR 2.33 g MJ-' 
+sions) 
+intervals) 
+Shoots Continuous Absorbed PAR 3.28gMJ-' 
+Shoots Spot (-74.9 Intercepted Solar 0.93 g MI-' 
+intervals) 
+Shoots Spot(4- to7- Intercepted PAR 3.13g,,, 
+total 3.26 g_, 
+Shoots Spot (3 occa- Intercepted PAR 2.29 g MI-' 
+and day intervals) MI-' 
+MI-' 
+sions) 
+Total Spot(l0a'ca- Intercepted Solar 1.24gMJ-' 
+Shoots Spot (9 a'ca- Intercepted PAR 1.77 g5,, 
+sions) 
+and sions) MI-' 
+total I .94 &md 
+MJ-' 
+Shoots Continuous Intercepted Solar 1.47 g MJ-' 
+Shoots Continuous Intercepted Solar 1.33 g MJ-' 
+1.25 
+I .02 
+0.90 
+1.30 
+1.16 
+1.39 
+0.93 
+1.56 
+I .63 
+1.14 
+1.24 
+0.88 
+0.97 
+I .47 
+1.33 
+Cultivar variation. RUE decreased 
+post-anthesis. 
+Decrease during reproductive growth. 
+Some cultivar differences 
+Some irrigation differences 
+Shading increased RUE 
+No cultivar difference. RUE 
+decreased for dry. 
+Decreased at emergence and photo 
+synthesis. No cultivar difference. 
+Decreased during early stages. 
+Derreased with low N. No effect 
+of density. 
+Decreased with less N. Decreased 
+late in season. 
+No N difference. 
+Decreased with decreased N 
+treatmentto 1.25gMJ-'. 
+Higher RUE with shading. 
+soybean 
+Nakaseko and 
+Gwth (1983) 
+Leadley ef ol. 
+(1990) 
+Daughuy ef a/. 
+(1992) 
+Muchow et al. 
+(1993) 
+Sinclair and 
+Shiraiwa 
+(1993) 
+Rochette pf a/. 
+(1995) 
+Peanut 
+Bell erol. (1987) 
+N w 
+a 
+Stirling er ol. 
+(1992) 
+Bell erol. (1992) 
+Bennett er n/ 
+(1993) 
+Wright er ol. 
+(1993) 
+Sapporo. Japan 
+Raleigh. NC. USA 
+Beltaville. MD 
+Katherine, Australia 
+Gainesvtlle, FL, 
+USA, Shiga, 
+Japan 
+Ottawa, ON, 
+Canada 
+Kununurra, 
+Australia 
+Hyderabad, India 
+Kingaroy and 
+Bundaberg, 
+Australia 
+Gainesville. FL. 
+USA 
+Kingaroy and 
+Bundaberg, 
+Australia 
+Bell el 01. (1994~) Delhi, Canada 
+Faba bean 
+Fasheun and Reading, UK 
+Slim and Saxena ICARDA. Syria 
+Madeira er ul. Sutton, Bonnington, 
+Dennett (1982) 
+(1992) 
+(1994) UK 
+Species 
+0,. inside open- 
+top chambem 
+Row spacing and 
+direction 
+Season. location 
+CUlt!"ar. location 
+Comparison of 
+biomass harvest 
+density 
+to co2 flux 
+Density 
+Shading 
+Location, cultivar 
+Cultivar 
+N 
+Cultivar, season 
+Faba bean 
+4 plants 
+0.45 or 
+1.9 mL 
+1.70r2rn2 
+0.56 or I rnz 
+0.48 m2 
+6 plants 
+10 plants 
+1.2or1.8rn' 
+1.22 m2 
+1.2 or I .8 rn2 
+0.6 m2 
+3 plants 
+Faba bean. cultivar, 0.225 m2 
+Faba bean disease 10 plants 
+season, density 
+Season Shoots 
+Season Shoots 
+Season Shoots 
+Seaon Shoots 
+Shoots 
+Season Shoots 
+and 
+total 
+Vegetative Total 
+and season 
+Season Total 
+SCaSO" Total 
+Season Total 
+Season Total 
+Season Total 
+Season Shoots 
+Season Shoots 
+Season Shoots 
+Spot (3 occa- 
+sions) 
+Continuous 
+spot 
+Continuous 
+spot (7-daY 
+(reflected) 
+intervals) 
+Continuous 
+Spot (7day 
+intervals) 
+Spot (10 occa. 
+sions) 
+spot (7hY 
+intervals) 
+spot (7-day 
+intervals) 
+Spot (7-day 
+intervals) 
+spot (Fday 
+intervals) 
+Continuous 
+Spot (7-day 
+intervals) 
+Continuous 
+Intercepted PAR I I .8 mg 
+kcal-' 
+Intercepted Solar 0.86 g MJ-I 
+Absorbed PAR 2.34gMJ-' 
+Intercepted Solar 0.86 g MJ-' 
+Intercepted Solar 0.66 g M.-' 
+1.15gMI-l 
+Intercepted PAR 2.04 g<h-t 
+MJ-' 
+MJ-' 
+2.09 g,,, 
+Intercepted PAR 3.04 g M1- I 
+(veg.1 
+2.27 g M.-' 
+(sea.) 
+Intercepted Solar 0.98 g M.-' 
+Intercepted Solar 1.12 g MJ-' 
+Intercepted Solar 1.01 g MJ-' 
+Intercepted Solar 1.07 g MI-' 
+Intercepted Solar 2.24 g MJ-' 
+Absorbed PAR 4.8gMJ-1 
+Intercepted PAR 2.06 g MJ-' 
+Intercepted Solar 1.45 g M1-' 
+1.26 
+0.86 
+0.99 
+0.86 
+0.66 
+1.15 
+1.02 
+I .I4 
+1.37 
+1.02 
+0.98 
+1.12 
+1.01 
+I .07 
+1.12 
+2.04 
+1.03 
+I .45 
+Decreases with increasing 0,. 
+Differences among cultivm. 
+Only small vanation in RUE when 
+w>2 
+No density difference. 
+Increased greatly from shading. 
+No cultivar difference. Location 
+difference. 
+No cultivar difference. 
+RUE sensitive to leaf N content. 
+Small cultivar differences. 
+Difference with sowing date. 
+Cultivar and sowing density 
+Disease decreased RUE. 
+variation. 
+continues 
+Table I-continued 
+Source 
+Mass Radiation RUE 
+Shoots Spot Intercepted PAR Maximum Estimated 
+Experimental or Or or or repofled adjusment 
+Location variables Samplearea Stage total continuous absorbed solar value (gMJ;I) Comments 
+Other legumes 
+Hughes er nl. 
+(1981) 
+Muchow and 
+Charles- 
+Edwards 
+(1982) 
+Nakaseko and 
+Gotoh (1983) 
+Heath and 
+Hebblethwate 
+(1985) 
+Leach and Beech 
+(1988) 
+Singh and Sri 
+Rama (1989) 
+McKenzie and 
+Hill (1991) 
+Muchow et a/. 
+(1993) 
+Gregoty and 
+Eastham 
+(1996) 
+Manin er nl. 
+(1%) 
+Thomson and 
+Siddique (1997) 
+Trinidad 
+ffimbedey, Australia 
+Sapporo, Japan 
+Suuon Bonnmgton, 
+UK 
+Dolby, Australia 
+Hyderabad. India 
+Cunterbury. New 
+Zealand 
+Katherine, Ausualia 
+East Beverley, 
+Austda 
+Madrid, Spain 
+Merredii, Ausualia 
+Pigeon pea 
+Mung bean 
+Phaseolus. Azuki 
+Pa 
+bean 
+Chickpea cultivar. 
+spacing 
+Chickpea 
+Lentil. sowing 
+date. cultivar. 
+irrigation 
+Cowpea. mung 
+bean 
+Lupin, season 
+Pea 
+Various swcies 
+I m' 
+? 
+0.25 m2 
+7 
+0.3 m2 
+0.1 m2 
+1.7 or 2 m2 
+1.068 m2 
+0.3 mz 
+0.5 m2 
+Season 
+Vegetative 
+Season 
+Season 
+Season 
+Season 
+Season 
+Season 
+Season 
+Vegetative 
+Vegetative 
+Shoots Spot(peri0d- Intercepted Solar 1.91% 
+Shoots Spol(7-day Absorbed PAR 2.17 g MJ-' 
+ically) 
+intervals) 
+Shoots Spot (3 occa- Intercepted PAR 9.1 mg 
+Shoots Spot (2- to 3- Intercepted PAR 1.46 g MJ-' 
+sions) kcd- ' 
+day intervals) 
+Shoots Spot (14- to 28- Intercepted PAR 1.53 g hW' 
+Shoots Spot (3- to 4- Intercepted Solar 0.67 g MJ-' 
+Shoots Spot(14day Absorbed PAR 2.14gMJ-' 
+day intervals) 
+day intervals) 
+intervals) 
+Total Continuous Intercepted Solar 1.09 g MJ-' 
+Shoots Continuous Intercepted PAR 1.16 g MJ-' 
+Shoots Spot (7day Intercepted PAR 1.43 g MJ-' 
+Shoots Spot(lCday Intercepted PAR 1.09 g MJ-' 
+intervals) 
+intervals) 
+1.09 
+0.92 
+0.98 
+1.46 
+0.76 
+0.67 
+0.96 
+1.09 
+0.58 
+0.72 
+0.54 
+Variation due to watering. 
+RUE less during @-filling. 
+Species differences. 
+RUE decreased by water shortage 
+at one location. 
+Cultivar variation lower for wide 
+row spacing. 
+Water deficit decreased RUE. 
+Sowing date difference 
+Some differences between species. 
+No difference between two cultivars. 
+Some species differences. 
+Nore. The only experimental reports included were those that (1) measured intercepted radiation and (2) measured plant mass accumulation at several times during the growing season. 
+RADIATION USE EFFICIENCY 241 
+obtained under apparently well-watered conditions, a high saturation deficit may 
+have contributed to water stress where water was applied only every 10 days. 
+There have been a number of published reports with maximum RUE in maize 
+much higher than those shown in Table 1. Jones (198 1) cited by Kiniry et al. (1989) 
+reported 4.5 g MJ-' PAR (or 2.25 g MJ- ' solar) but radiation interception was es- 
+timated from an extinction coefficient and not measured directly. Also, this value 
+was obtained at a density of 6 plants m-*, whereas at 4 plants m--2 RUE was 3.6 
+g MJ-' PAR (or 1.8 g MJ-' solar), which is close to the maximum values report- 
+ed in Table I. Indeed, it is difficult to explain such a marked response with a rela- 
+tively small change in density, especially since the greater effect is more likely on 
+the amount of intercepted radiation. 
+Similarly, Cabelguenne (1987), as cited by Kiniry et al. (1989), and Kiniry 
+(1987), as cited by Kiniry et al. (1989), obtained high RUE values of 2.05 and 1.95 
+g MJ- I, respectively. Here, either the extinction coefficient was estimated or there 
+was high variability in RUE across plant densities where radiation interception was 
+measured with a line sensor only in the middle of the day. Sivakumar and Virmani 
+(1984) measured maximum RUE of 0.82 g per mole and Kiniry et al. (1989) con- 
+verted this to 3.8 g MJ-' PAR. Here PAR interception was measured only at mid- 
+day on noncloudy days and the conversion from PAR to solar was not given. If a 
+conversion of 0.5 is used, this translates into a RUE of 1.9 g MJ-I solar. If a con- 
+version of 0.45 is used, then RUE is 1.7 g MJ-', which is in line with the maxi- 
+mum reported values in Table I. 
+In summary, the maximum RUE for maize is consistent in the range 1.6 to 1.7 
+g MJ-I during vegetative growth and the RUE during reproductive growth de- 
+creases such that the seasonal RUE ranges from 1.3 to 1.7 g MJ-' (Table I). 
+2. Sorghum 
+Fewer studies were available where maximum RUE was measured in grain 
+sorghum. Values seem to be consistently in the range 1.2 to 1.4 g MJ-' during veg- 
+etative growth with seasonal values being slightly lower (Table I). Sivakumar and 
+Huda (1985) reported a maximum value for RUE of 1.37 g MJ-', which may be 
+slightly overestimated because PAR interception was only measured at midday on 
+noncloudy days. An important outlier for sorghum is the study by Hammer and 
+Vanderlip (1989) where a maximum of 2.16 g MJ-' was recorded. However, this 
+study was conducted in a glasshouse and radiation interception was measured us- 
+ing a line sensor at solar noon. Additional reflected radiation that was not mea- 
+sured and an increased proportion of diffuse radiation may have contributed to the 
+high RUE in this study. 
+Several higher maximum RUE values have been reported for sorghum by Kiniry 
+et al. (1989). Again, they cite Sivakumar and Virmani (1984) at 2.9 g MJ-I PAR. 
+At a conversion of PAR to solar of 0.5, this gives a RUE of 1.45 g MJ-'. Other 
+2 42 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+higher values cited by Kiniry et al. (1989) are from studies where radiation inter- 
+ception was estimated based on an extinction coefficient. The exception is Stein- 
+er (1986) where Kiniry et al. (1989) quoted a value of 3.0 g MJ-I but no values 
+are given in the actual paper by Steiner (1986). Rosenthal et al. (1993) also record- 
+ed a maximum RUE of 3.46 g MJ- ' PAR absorbed, or as converted 1.47 g MJ-'. 
+However, here absorbed PAR was estimated from leaf area and there was a high- 
+ly scattered relationship between biomass and absorbed PAR (? = 0.68). 
+In summary, it appears that the maximum RUE for sorghum is in the range 1.2 
+to 1.4 g MJ-', with RUE from sowing to maturity being less. This range of po- 
+tential RUE for sorghum is less than that of maize. In direct comparisons of RUE 
+in sorghum and maize, sorghum had the lower RUE (Muchow and Davis, 1988; 
+Muchow, 1989a; Muchow and Sinclair, 1994). Since sorghum and maize both 
+have the C, photosynthetic pathway and similar potential leaf photosynthetic rates 
+(Muchow and Sinclair, 1994), it is surprising that sorghum has not been commonly 
+observed to have RUE values equivalent to maize. 
+3. Sugarcane 
+Very few studies have measured RUE in sugarcane. Recent work by Muchow 
+et al. (1994) and Robertson et al. (1996) have shown maximum values in the range 
+1.7 g MJ- based on net aboveground biomass. Sugarcane has a very long growth 
+period (1 2 to 36 months) compared to most crops, and loss of mass in the senesced 
+leaves (trash) is a major concern in the determination of RUE. Where all trash has 
+been recovered, the value is closer to 2 g MJ-' (Muchow et al., 1997). Ratoon 
+crops have a lower maximum RUE compared to plant crops (Robertson et al., 
+1996). These studies for sugarcane are particularly interesting given the long 
+growth duration and large standing mass of sugarcane. In the study of Muchow et 
+al. (1994), a maximum RUE of 1.75 g MJ-' was obtained where biomass was lin- 
+early related to intercepted radiation up to a biomass of 72 tons h-l. Not all the 
+trash was recovered in this study and if it is assumed that the trash accounts for 
+15% of the biomass (Evensen et al., 1997), then the RUE is close to 2.0 g MJ-I 
+as estimated for Hawaiian crops by Muchow et al. (1997). 
+The reason that sugarcane has a higher RUE value than does maize has not been 
+fully explored. One possibility, however, is that the ultimate product in sugarcane, 
+sucrose, has a lower energy content than the seeds of maize. Maize seeds contain 
+protein and lipids such that 0.7 1 g seed is produced per gram of photosynthate (Sin- 
+clair and DeWit, 1975). In sugarcane, the storage of sucrose is likely to result in 
+even greater than 0.83 g carbohydrate produced per gram of photosynthate (esti- 
+mated by Penning De Vries, et al., 1974). Therefore, much of the advantage in 
+RUE of sugarcane over maize may simply be a result of the difference in energy 
+content of the plant product of these two species. 
+In all three of the sugarcane studies in Table I, RUE declined during late growth 
+RADIATION USE EFFICIENCY 243 
+due both to lower temperature during winter and to biomass loss associated with 
+stalk death and lodging. Also, for Hawaiian crops, the apparent RUE during the 
+second 24 months of growth was lower and this is likely to be associated with lodg- 
+ing and stalk death. However, it is extremely difficult to accurately measure radi- 
+ation interception in lodged crops, and hence estimates of RUE in large lodged 
+crops must be viewed with caution. 
+In summary, the maximum RUE for sugarcane appears higher than those for 
+maize or grain sorghum with values approaching 2 g MJ-' when the majority of 
+dead leaf is recovered. Consequently, the RUE results from the three C, species 
+indicate a large range among these species in the expression of maximum RUE. 
+1. Potato 
+The several studies that examined RUE in potato have consistently obtained 
+maximum values in the range 1.6 to 1.75 g MJ-' (Table I). These values seem par- 
+ticularly high for a C, species. Similar to comparison between sugarcane and 
+maize, the reason for the high RUE values in potato relative to other C, species 
+may be attributed partly to the biochemical composition of the plant product in 
+potato. The tuber is up to 80% of the total plant weight (Burstall and Harris, 1986; 
+Jefferies and Mackerron, 1989) and the tuber is extremely high in starch content. 
+The conversion of photosynthate to carbohydrate in potato may be higher than 0.83 
+g carbohydrate per gram photosynthate because starch is the main carbohydrate 
+product rather than cellulose (Penning De Vries, 1975). In contrast, seeds of wheat 
+contain approximately 14% protein and have a conversion from photosynthate to 
+seed mass of 0.7 1 (Sinclair and DeWit, 1975). This difference in the photosynthate 
+costs for production of plant mass (17% advantage to potato) is consistent with 
+potato having a high RUE. 
+In contrast to variations in RUE through the season observed in other species, 
+the three reported studies with potato all indicate an essentially constant RUE 
+through the growing season. This may result from the fact that the growth of the 
+tubers begins at an early stage of crop development and continues at essentially a 
+constant fraction of total growth (Allen and Scott, 1980; Burstall and Harris, 1986; 
+Jefferies and Mackerron, 1989). Consequently, there is no strong differentiation 
+between vegetative and reproductive development stages in potato that might im- 
+pose an important influence on the use of assimilate and nutrients within the plant. 
+One study on potato in Hawaii (Manrique et al., 1991) obtained RUE values of 
+only 1.17 g MJ-'. Manrique et al. (1991) suggested that the low RUE was asso- 
+ciated with high vapor pressure deficit and high absolute solar radiation in the 
+Hawaiian environment. However, radiation interception was estimated based on a 
+244 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+fixed extinction coefficient of 0.57 and hence it is difficult to be certain of the RUE 
+values and the associated reasons for the apparent lower RUE. 
+Overall, observed RUE values in potato are very high, with a likely explanation 
+based on the high fraction of starch in the plant mass. As a basis for comparing to 
+grain species, potential RUE for potato appears to be in the range of about 1.45 to 
+1.7 g MJ-'. 
+2. Wheat 
+There are more experimental reports for RUE of wheat than for any other 
+species. Therefore, the range of locations and experimental conditions probably 
+offers the greatest variation in growth conditions of any species. Not surprisingly, 
+there is a wide range in the estimates of RUE (Table I). Two studies in Australia 
+(Gregory et al., 1992; Gregory and Eastham, 1996) reported RUE values that were 
+substantially lower than others, and may not reflect the potential RUE for wheat. 
+Among the six other studies, the mean RUE was 1.38 g MJ-'. The two highest 
+values of RUE were 1.5 1 and 1.62 g MJ- ', but these were based on spot measures 
+of radiation and are likely to be overestimates. The values of 1.46 g MJ-I (Yunusa 
+et al., 1993) based on continuous measures of radiation may more accurately re- 
+flect potential RUE for wheat. 
+A number of factors were found to result in variation in potential RUE. One of 
+the more important variations was the stage of crop development. As discussed later, 
+during early vegetative growth and during reproductive growth, RUE was lower 
+than during the middle and late stages of vegetative growth (Green, 1987; Fisch- 
+er, 1993; Calderini et al., 1997). 
+Cultivar differences in RUE have also been reported. Yunusa et al. (1993) com- 
+pared three cultivars with a wide range of year of release and found that the most 
+recently released cultivar had the greatest RUE. On the other hand, Calderini et al. 
+(1997) compared seven cultivars released over the period from 1920 to 1990 and 
+found no trend in a change in RUE with year of release. 
+3. Barley 
+The three RUE values for barley (Table I) tend to be somewhat lower than those 
+reported for wheat. However, the two reports with the lowest values of RUE for 
+barley (Gregory et al., 1992; Jamieson et al., 1995) both included a comparison 
+with wheat, and the RUE of barley was equivalent to or greater than that of wheat. 
+Therefore, it seems unlikely that the RUE of barley is inherently inferior to that of 
+wheat. The study of Goyne et al. (1993) reported the highest value of RUE for one 
+cultivar of barley of 1.30 g MJ-', which is comparable to several studies with wheat. 
+RUE of barley appeared to be reasonably stable throughout the growing season. 
+No variation in RUE through the growing season was indicated in the study of 
+RADIATION USE EFFICIENCY 245 
+Goyne et af. (1993). On the other hand, Gregory et al. (1992) showed a decrease 
+in RUE after flag leaf emergence as compared to before flag leaf emergence. 
+Little variation in RUE among barley cultivars has been identified. RUE was 
+equivalent among cultivars in the study of Gregory et al. (1992) and in the study 
+of Goyne et af. (1993), except for the superiority of the cultivar Gilbert. 
+4. Rice 
+Only two references could be identified for rice that included both measure- 
+ments of radiation interception and biomass accumulation (Table I). A partial ex- 
+planation for such a limited number of investigations may be the difficulty of mea- 
+suring intercepted radiation in a paddy field. That is, measurement of radiation 
+transmittance under a crop canopy at the water surface in a paddy field is more dif- 
+ficult than positioning an instrument on a soil surface. In any event, the maximum 
+RUE value of 1.39 g MJ- ' reported by Horie and Sakuratani (1985) compares fa- 
+vorably with the RUE values obtained for other cereal crops. There was substan- 
+tial consistency in RUE among cropping seasons in the study of Horie and Saku- 
+ratani (1985), although there was an indication of differences in RUE between 
+genotypes. 
+Kiniry et al. (1989) estimated RUE values for rice from four studies. Excluding 
+the largest value, which was roughly twice the other three, the mean value was 1.1 
+g MJ-I. This estimate is consistent with the two direct measures of RUE. Never- 
+theless, there remains a need to document RUE fully in rice. Despite the difficul- 
+ties of measuring intercepted radiation under paddy conditions, measures of RUE 
+under a range of conditions need to be obtained as have been done in other species. 
+5. Sunflower 
+The mean value of RUE from the six experimental reports for sunflower (Table 
+I) was 1.27 g MJ-I, the highest value being 1.56 g MJ-' measured in Argentina 
+(Trapani et al., 1992) during the period of rapid growth before anthesis. No dif- 
+ference was found among the tested cultivars. Also, Bange et al. (1997a) observed 
+RUE values in sunflower of 1.6 g MJ- or greater in individual replicates. There 
+is no obvious explanation for these high values of RUE obtained during the peri- 
+od of rapid vegetative growth. 
+Considerable variation in RUE for sunflower during the growing season was 
+found in several studies. Trapani et al. (I 992) found-that RUE from emergence to 
+a leaf area index of 1.7 was 45% of that from leaf area index of 1.7 to anthesis. 
+Also, they reported that RUE during the postanthesis phase was 43% of the pre- 
+anthesis stage. Similarly, Gimenez et af. (1994) and Bange et af. (1997a) obtained 
+low RUE during the early periods of sunflower development. The most detailed 
+description of the changes in RUE through the growing season was presented by 
+246 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+Hall et al. (1995). Their data clearly indicated a decreased RUE during crop es- 
+tablishment and during the later stages of seed fill. The high seasonal variation in 
+RUE in sunflower might, consequently, explain some of the variation in RUE re- 
+ported among the various investigations. 
+Nitrogen fertilization of sunflower has also been considered for its influence on 
+RUE. The sensitivity to the application of nitrogen has been variable and may re- 
+flect the original nitrogen status of the soil. Hall et al. (1995) and FlCnet and Kiniry 
+(1995) found little influence of nitrogen application on RUE. On the other hand, 
+Gimenez et al. (1994) and Bange et al. (1997a) found substantially decreased RUE 
+in treatments of no nitrogen fertilization. Nitrogen availability also appears to be 
+an important source of RUE variation among experiments. 
+6. Soybean 
+RUE for soybean (Table I) tends to be lower than that reported for species that 
+have already been reviewed. The mean maximum RUE value in the six studies is 
+1.02 g MJ-'. Curiously, the two highest RUE values (1.26 and 1.15 g MJ- I) were 
+both reported from Japan. 
+The basis for the overall lower RUE values reported for soybean as compared 
+to other C, species seems to result from two factors. First, the energy content of 
+the constituents of the soybean plant, particularly in the seed, necessarily results 
+in a decreased RUE (Fig. 1). The photosynthate costs for nitrogen accumulation 
+by either symbiotic nitrogen fixation or nitrate reduction are high. Second, the 
+maintenance of a high leaf photosynthetic rate in soybean to sustain a high RUE 
+may be difficult because of the high nitrogen requirements in the leaves (Sinclair 
+and Horie, 1989). 
+Within individual studies a fairly high level of stability in RUE throughout the 
+growing season has, however, been found. Plotting cumulative plant mass and ra- 
+diation interception through the season has not indicated large changes in RUE. 
+Only the detailed study of Rochette et al. (1995) indicated that RUE was low ear- 
+ly in the season (LA1 < 2), and then remained fairly stable after that. Interesting- 
+ly, including roots in the estimate of RUE, as in the study by Rochette et al. (1993, 
+increased the seasonal estimate by only 8%. 
+7. Peanut 
+Agreement in seasonal RUE among the six experimental reports for peanut is 
+quite high (Table I). The range of RUE from these experiments is only from 0.98 
+to 1.12 g MJ-' with a mean value of 1.05 g MJ-'. These RUE values are more 
+similar to those reported for soybean than for the other C, species. 
+An especially important factor in evaluating the RUE of peanut is correction of 
+the mass during seed fill for the energy content of the seed. Bell et al. (1 987) and 
+RADIATION USE EFFICIENCY 247 
+Bennett et al. (1993) showed the sharp decrease in RUE during seed fill if the plant 
+mass during this period is not corrected for seed energy content. When a correc- 
+tion is done for energy content, then RUE remains constant through much of the 
+season. 
+Energy content of the plant is also likely to be important in explaining the rela- 
+tively low RUE of peanut. The vegetative component of the peanut plant is high 
+in protein content, which results in a high requirement for assimilate and nitrogen 
+input. The importance of nitrogen accumulation in determining peanut RUE was 
+shown directly in the results of Wright et al. (1993) where RUE in a warm climate 
+was closely linked to the leaf nitrogen content. 
+A great deal of stability in RUE has also been found among peanut cultivars. No 
+differences among cultivars were detected in comparisons of two cultivars (Bell 
+et al., 1992), of three cultivars (Wright et al., 1993), and of four cultivars (Bennett 
+et al., 1993). Bell et al. (1994c), however, did find that the cultivar Chico had a 
+significantly lower RUE than the five other tested cultivars. Plant density also did 
+not result in variation in RUE (Bell et al., 1987). 
+8. FabaBean 
+The three reports of RUE in faba bean give highly divergent results (Table I). 
+The values of 1.03 g MJ-' (Silim and Saxena, 1992) and of 1.45 g MJ- (Madeira 
+et al., 1994) are in the range of RUE values reported for other C, species. In con- 
+trast, the RUE estimate presented by Fasheun and Dennett (1982) converts to 2.04 
+g MJ-'. This extremely high value for RUE was based on plant samples of only 
+three plants, which may have resulted in an overestimation of plant mass per unit 
+area. The calculated crop growth rate of 30 g m-* day-' obtained in this study also 
+seems to be a very high estimate. Clearly, additional data are needed to resolve the 
+potential RUE in faba bean. 
+9. Other Grain Legumes 
+Overall, the values of RUE for a number of grain legumes (Table I) are consis- 
+tent with the range of values obtained in soybean and peanut. The maximum RUE 
+obtained in these additional studies was 1.46 g MJ- ' reported for pea (Heath and 
+Hebblethwaite, 1985), followed by 1.09 g MJ-' reported for pigeon pea (Hughes 
+et al., 1981) and for cowpea (Muchow et al., 1993). In a number of cases, RUE 
+values were reported to be less than 0.8 g MJ-I. Such low estimates of RUE in 
+many of these grain legumes seems inconsistent with the low energy content (i.e., 
+high carbohydrate levels) of their grain (Sinclair and DeWit, 1975). Based on the 
+energy content, it seems many grain legumes should have RUE values that are sub- 
+stantially greater than those of soybean and peanut. 
+The experimental results to date indicate a need for intense studies of RUE in a 
+248 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+number of these grain legumes. Important questions exist concerning whether 
+RUE is inherently low within some of these grain legume species, or whether the 
+cultivars that have been tested or the environment of the experiments limited the 
+expression of a higher RUE. Compared to soybean and peanut, it appears that there 
+is an opportunity to increase the RUE of some of these other grain legume species. 
+V. SOURCES OF VARIABILITY IN RUE 
+Both the theoretical analyses and the experimental results clearly demonstrate 
+that there is not a constant universal RUE value. The theoretical analyses indicate 
+several factors that could be important in causing variation in the RUE that is 
+achieved. In contrast to the conclusion of Demetriades-Shah et al. (1992), the vari- 
+ation in RUE has been found to be quantitatively linked to plant traits and envi- 
+ronmental conditions. The intent of this section is to examine the important fac- 
+tors associated with variability in RUE. 
+A. SPECIES 
+Table I and the discussion in the previous section indicate important variations 
+among crop species. While variations in measured RUE within a species are not- 
+ed, to a great extent there is reasonable consistency in the estimates of RUE with- 
+in a species. C, species tend to have the higher RUE values, with sugarcane being 
+the highest of all species with RUE values approaching 2.0 g MJ-' (Table I). 
+Sugarcane is a good candidate for maximum RUE values because of its use of the 
+C, photosynthetic pathway and its production of sucrose as the final plant prod- 
+uct. Maize has RUE values somewhat lower than those of sugarcane, in the range 
+1.5 to 1.7 g MJ- (Table I). Surprisingly, sorghum has fairly modest RUE values. 
+The reason for the lower values of sorghum within the C, species is unknown, but 
+the theoretical studies indicate the importance of the expression of leaf photosyn- 
+thetic rate on RUE. Muchow and Sinclair (1994) found that the lower value of 
+RUE in sorghum compared to maize was associated with a lower leaf nitrogen con- 
+tent. An important challenge is to understand the low values of RUE obtained for 
+sorghum relative to other C, species. 
+Important differences in experimental measures of RUE also exist among the 
+C, species. Clearly, potato has RUE values substantially greater than any other C, 
+species, in the range 1.6 to 1.75 MJ-' (Table I). As discussed previously, the fact 
+that much of the plant product in potato is starch allows a higher accumulation of 
+plant mass per unit of photosynthate than in most other species. 
+The cereals (wheat, barley, and rice) seem to have similar RUE values in the 
+RADIATION USE EFFICIENCY 2 49 
+range of about 1.3 to 1.5 g MJ-I, as originally proposed by Monteith (1977). One 
+important outcome of this review, however, is the fact that very few experiments 
+with measures of intercepted radiation have reported RUE for rice. Considering 
+its importance, it seems that there is a need for more extensive measurements of 
+RUE in rice. 
+Among those species that produce energy-rich seed components, sunflower has 
+been found to have high RUE values, although the highest reported values for RUE 
+in sunflower are restricted to the vegetative stage of plant development. Trapani et 
+al. (1992) found potential RUE during vegetative growth to be 1.56 g MJ- ', which 
+is equal to or greater than those of the C, cereal crops. Also, Bange et al. (1997a) 
+presented data from individual replicates in which RUE was 1.6 g MJ-' or greater. 
+These high RUE values during vegetative growth for a C, species are particular- 
+ly intriguing. There appears to be no ready explanation for these high RUE values, 
+which indicates a need for more intensive investigation. Over the whole season, 
+however, sunflower is reported to have RUE in the range 1.25 to 1.35 g MJ- ' 
+(Table I). 
+Soybean and peanut have RUE values lower than that of sunflower, approxi- 
+mately 1.05 g MJ-' * 10% (Table I). It is likely that the lower RUE value for 
+soybean and peanut is due to the high energy content of the constituents of both 
+vegetative tissues and seeds. In particular, both of these species are composed of 
+tissues with high protein contents. 
+Grain legumes other than soybean and peanut could be expected to have high- 
+er RUE values than these two species because other grain legumes tend to produce 
+plant material of lower energy content. Surprisingly, this is not the case, with most 
+measures of RUE in these other grain legumes being less than 1 .O g MJ- * (Table 
+I). Only the experiment of Heath and Hebblethwaite (1985) with pea resulted in a 
+large estimate of RUE (1.46 g MJ-') that is comparable to the C, cereals. Over- 
+all, these results indicate a potential for increasing RUE in many of the grain 
+legumes. At the least, additional research would be helpful to document and to de- 
+velop a better understanding of their apparently low RUE values. 
+Only a few experiments have directly compared differences in RUE between C, 
+and C, species. Of course, an inherent difficulty in such species comparisons is the 
+possibility that all species in the comparison may not be fully adapted to the envi- 
+ronmental conditions of the test. As a consequence, a particular species may not 
+be able to fully express its potential RUE. Nevertheless, such comparisons gener- 
+ally have produced results that are consistent with comparisons across experi- 
+ments. 
+Inthapan and Fukai (1988) compared the RUE of rice against that of maize and 
+sorghum. RUE values of maize and sorghum were equivalent, but the RUE value 
+for these two C, species was 42% greater than that of rice. In a comparison of 
+maize and soybean, Daughtry et al. (1992) found that RUE was 1.81 and 0.99 g 
+MJ-I, respectively. While this RUE for maize is a bit higher than that i.n many 
+250 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+studies, this difference between species seems to be fully consistent with other 
+data. Rudorff et al. (1996) compared wheat and maize, but unfortunately the study 
+was done in open-top chambers. Particularly for wheat, the potential for altered ra- 
+diation environment because of the plastic enclosure could have resulted in the 
+measurement of an abnormally high RUE of 1.71 g MJ-' for wheat. Consequent- 
+ly, Rudorff et al. (1996) detected no difference in the RUE between wheat and 
+maize. 
+Only two direct comparisons have been made between species that have plant 
+tissue differing in biochemical compositions. Muchow et al. (1993) compared the 
+RUE of soybean, mung bean, and cowpea and demonstrated the importance of the 
+difference in the energy content of soybean relative to the other two species when 
+comparing the measured RUE values. A comparison of wheat and lupin was done 
+by Gregory and Eastham (1996). While the RUE of both species tended to be low 
+in this particular study, wheat had a maximum RUE that was 45% greater than that 
+of lupin. This difference in RUE between species, however, is larger than expect- 
+ed based on biochemical composition alone. 
+In summary, important differences in RUE have been confirmed among crop 
+species. There is a tendency for potential RUE in C, species to be greater than 
+those in C, species as indicated in the theoretical analyses. There are, however, 
+overlaps between C, and C, species so that the clear distinction as identified by 
+Gosse et al. (1986) has important exceptions. An important contributor to the vari- 
+ation in RUE species is differences in the energy content of the biochemical con- 
+stituents of the plant products. For example, sugarcane and potato have low ener- 
+gy products (sucrose and starch, respectively) that appear to result in exceptionally 
+high RUE compared to other species with the same photosynthetic capabilities. 
+Therefore, it is necessary to define separately a potential RUE for each crop 
+species. 
+B. CO, A~SIMILATION RATE 
+Theoretical analyses have all shown a clear dependence of RUE on leaf CO, as- 
+similation rate (e.g., Fig. 1). Increasing leaf photosynthesis rate is directly linked 
+to increasing RUE, although the response is curvilinear, approaching a maximum 
+RUE at high photosynthesis rates. Due to the difficulty in experimentally relating 
+CO, assimilation to RUE, only a few studies have generated data to examine this 
+relationship. Bennett et al. (1993) measured the leaf CO, exchange rate through 
+the growing season for peanut in conjunction with RUE measures. Both CO, ex- 
+change rate and RUE were found to be essentially constant through the bulk of the 
+growing season. 
+Rochette et al. (1995) did a careful examination of the link between canopy CO, 
+assimilation rate and RUE for a soybean crop. Canopy CO, flux density was mea- 
+RADIATION USE EFFICIENCY 251 
+sured hourly by the eddy correlation technique over 60 days during the growing 
+season. Daily values of net CO, exchange were linear for daily intercepted PAR 
+radiation between 4 and 11 MJ mP2 day-'. Use of the linear relationship over the 
+season introduced only a 4% error compared to use of a nonlinear relationship. 
+Hence, the basic premise of RUE that a linear relationship exists between CO, 
+assimilation and light interception was confirmed. 
+Further, Rochette et al. (1 995) calculated RUE for intervals through the grow- 
+ing season by summing the daily measures of CO, assimilation and light inter- 
+ception, and converting to an estimate of dry weight accumulation. They found 
+that the data obtained by direct plant harvest agreed to within about 10% of the 
+CO, assimilation estimate of RUE over the periods in the season when the LA1 
+was greater than 2. 
+1. Nitrogen Response 
+Interestingly, the more exhaustive examination of the influence of CO, assimi- 
+lation influence on RUE has resulted from the linkage between leaf CO, assimi- 
+lation rate and leaf nitrogen content. In their review, Sinclair and Horie (1989) con- 
+cluded that variation in leaf CO, was commonly associated directly with changes 
+in leaf nitrogen content per unit leaf area. The theoretical study of Hammer and 
+Wright (1994) provided a detailed analysis of the linkage between RUE and leaf 
+nitrogen content. 
+A number of experimental studies have examined the response of RUE to leaf 
+nitrogen content. In soybean, Sinclair and Shiraiwa (1993) found a positive, curvi- 
+linear relationship between RUE and specific leaf nitrogen within each of their two 
+experimental locations. The mean canopy leaf nitrogen content in each case was 
+fairly low (less than 1.6 g mP2). In contrast, in peanut Wright et al. (1993) found 
+little variation in RUE with specific leaf nitrogen except for a nonnodulating line 
+grown in a warm environment. The specific leaf nitrogen content in their study 
+was, however, generally high (greater than about 1.5 g mP2) in those situations 
+where RUE was essentially constant. Therefore, these two contrasting studies are 
+consistent with the theoretical conclusion that there is a saturating response in RUE 
+to increasing leaf nitrogen content (Fig. 2). 
+In sunflower, Gimenez et al. (1994) found that increased soil nitrogen fertility 
+resulted in both an increased specific leaf nitrogen content and increased RUE. In 
+a more detailed study with sunflower, Hall et al. (1995) measured average canopy 
+leaf nitrogen content and RUE for seven periods during the growing season for 
+two levels of soil nitrogen fertility. A curvilinear relationship between RUE and 
+leaf nitrogen content was obtained when using all the data collected through the 
+season, except for the first harvest of the season when RUE values were low. For 
+much of the season RUE was essentially constant, but the last two harvests during 
+seed-fill had both decreased RUE and decreased leaf nitrogen content. Bange et 
+252 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+al. (1997a) undertook a similar study in sunflower with essentially the same re- 
+sults. In the period from bud visible to anthesis, leaf nitrogen content was high 
+(greater than 1.5 g mP2) and RUE was fairly stable. Following anthesis when leaf 
+nitrogen content decreased, RUE was also observed to decrease. The combined 
+data of Bange et al. (1997a) revealed a curvilinear increase in RUE with leaf ni- 
+trogen content. In contrast to the above studies, in sunflower FlCnet and Kiniry 
+(1995) found no changes in RUE among three levels of soil nitrogen applications 
+during most of the growing season. Only during seed growth, when there was no 
+further accumulation of plant mass in the 0 N application treatment, was there a 
+difference in RUE among the treatments. 
+Muchow and Davis (1988) subjected maize and sorghum to a range of nitrogen 
+fertility treatments. During the later stages of vegetative growth, they found a close 
+correlation between RUE and average canopy leaf nitrogen content per unit leaf 
+area. A common linear relationship fitted both species over the range of leaf ni- 
+trogen values observed. Muchow and Sinclair (1994) examined the relationship 
+between RUE and leaf nitrogen content in maize and sorghum over a wider range 
+of leaf nitrogen content per unit leaf area. Their results showed a nonlinear, satu- 
+rating response of RUE to increasing leaf nitrogen. Consistent with these results, 
+Fischer (1993) was able to develop relationships for wheat between RUE and the 
+percent N concentration in the tops of the plants for individual growth periods. 
+Nearly all results, therefore, indicated that RUE achieves a saturated value at 
+high leaf nitrogen contents and decreases curvilinearly with decreasing leaf nitro- 
+gen content below the saturating leaf nitrogen content. It is not surprising then that 
+investigations of RUE under treatments of differing soil nitrogen fertility have 
+shown important variations in RUE (Fig. 3). These observations have been done 
+in a number of species, including wheat (Green, 1987; Garcia et al., 1988; Fisch- 
+er, 1993), sunflower (Gimenez et al., 1994; Hall et al., 1995; Bange et al., 1997a), 
+and maize and sorghum (Muchow and Davis, 1988; Muchow, 1994). 
+2. Drought Response 
+Soil water deficits can have a major influence on leaf photosynthesis, and, con- 
+sequently, it is hypothesized that RUE is also decreased under drought conditions. 
+It seems likely that some of the studies that have reported decreased RUE may 
+have been a result of periods of soil water deficit. A few studies that made direct 
+comparisons of RUE under well-watered and drought-stressed conditions have 
+been reported. 
+Muchow (1985) compared the influence of soil water deficits on RUE measured 
+in several grain legumes. Drought stress in all cases resulted in a decreased RUE 
+relative to the well-watered treatments. The effect of the drought stress was par- 
+ticularly marked in a treatment when the crops were established with irrigation for 
+the first 6 weeks and then received no further irrigation. In all comparison the 
+RADIATION USE EFFICIENCY 253 
+drought-stressed treatments had RUE values that were only one-third or less of the 
+controls. Inthapan and Fukai (1988) measured the RUE of rice, maize, and 
+sorghum subjected to irrigated and water-deficit treatments. All three crops had a 
+sharp decrease in RUE in the water-deficit treatment, with rice having the greatest 
+reduction. 
+Muchow (1989b) compared the RUE of maize, sorghum, and pearl millet in a 
+drought study involving three experiments. Only maize consistently had RUE de- 
+creased in the water-deficit treatment of each experiment. In two of the experi- 
+ments, RUE of sorghum and pearl millet was found not to be statistically decreased 
+by the water-deficit treatments. These contrasting responses in RUE to drought 
+stress were interpreted by Muchow (1989b) to indicate differences in the rate of 
+water use from the soil and the severity of drought that was ultimately imposed on 
+each species. The fact that RUE did not decrease in an experiment even though ir- 
+rigation was withheld was concluded to indicate that a significant soil water deficit 
+had actually not developed. 
+Jamieson et al. (1995) also found that the timing and duration of a drought treat- 
+ment were important in interpreting RUE. They compared the RUE of barley sub- 
+jected to 12 irrigation treatments. RUE was decreased in those treatments with ear- 
+ly drought such that there was a linear decline in RUE with a water deficit 
+calculated from potential evapotranspiration. Those treatments designed to impose 
+drought stress in middle or late periods during the growing season did not exhib- 
+it a decrease in RUE. Unfortunately, soil water content was not measured directly 
+in this experiment so variation in the severity of the soil water deficit could not be 
+compared among the treatments. 
+Singh and Sri Rama (1989), however, did an especially useful RUE experi- 
+ment in which they measured soil water content of irrigated and nonirrigated plots 
+of chickpea. They generated a relationship between RUE and fraction of ex- 
+tractable soil water whereby RUE was independent of fraction of extractable soil 
+water when extractable soil water was greater than about 30%. At fraction of ex- 
+tractable soil water of less than 30%, however, there was a marked decline in RUE 
+that was represented by an exponential equation. These results, therefore, demon- 
+strated that the response of RUE to water deficits was quantitatively dependent on 
+the severity of the soil water deficit. 
+3. Other Environmental Factors 
+RUE seems to be fairly stable across environments under optimal growing con- 
+ditions. For example, Muchow et al. (1993) concluded that the RUE values mea- 
+sured for three grain legumes in two locations were similar in spite of the fact that 
+the environments varied in terms of temperature, solar irradiance, and vapor pres- 
+sure. Nevertheless, there are circumstances where direct influences of the envi- 
+ronment on leaf CO, assimilation rate have been linked to changes in RUE. 
+2 54 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+The effect of temperature on the photosynthetic activity of leaves has the po- 
+tential to result in altered RUE in some species. Andrade et al. (1992) concluded 
+that low RUE values for maize grown at Balcarce, Argentina, were a result of low 
+temperature. In additional experiments with maize using varying sowing dates, 
+Andrade et al. (1993) found a linear decrease in RUE associated with a decrease 
+in mean temperature from 21 to 16°C. They found variation in RUE during vege- 
+tative growth of 1.05 to 1.52 g MJ-' over five years that was associated with year- 
+ly differences in temperature. 
+The influence of temperature on RUE is especially well documented for peanut. 
+The leaf photosynthetic rate of peanut decreases in an approximately linear rela- 
+tionship with night temperature lower than 16°C (Sinclair et al., 1994; Bell et al., 
+1994a,b). This response is consistent with the decrease in RUE associated with 
+minimum daily temperature measured at a number of locations, in that there was 
+a linear relationship between the decrease in RUE and night temperature of less 
+than about 20°C (Bell ef al., 1992). In addition, differences in peanut RUE between 
+two locations in Australia (Wright et al., 1993) and between two years in Canada 
+(Bell et al., 1994c) have been attributed to differences in the night temperature en- 
+vironment. 
+Vapor pressure deficit has been indicated as having the potential for influencing 
+RUE (Stockle and Kiniry, 1990). To the extent that a large vapor pressure deficit 
+may result in decreased photosynthetic rates, then a decrease in RUE would be ex- 
+pected. The influence of vapor pressure deficit on leaf photosynthetic rate tends, 
+however, to develop at fairly high vapor pressure deficits (greater than 2 Wa), but 
+even then the decreases in photosynthetic rate are fairly modest (Fig. lb of Stock- 
+le and Kiniry, 1990). Nevertheless, Stockle and Kiniry (1990) presented regres- 
+sions for sorghum and maize using a number of data sources for RUE showing a 
+decrease in RUE with increasing vapor deficit. Their analysis indicated a large ef- 
+fect that was greater than predicted by leaf behavior. Since decreasing vapor pres- 
+sure deficit is likely to be associated with a number of other environmental vari- 
+ables (e.g., level of solar radiation and fraction of diffuse radiation), a simple 
+regression of RUE against vapor pressure deficit is confounded. 
+In comparing RUE of barley between two seasons, Goyne et al. (1993) reached 
+a conclusion concerning the influence of vapor pressure deficit on RUE similar to 
+Stockle and Kiniry (1990). In one season of 1.06 kPa vapor pressure deficit a RUE 
+of 0.67 g MJ-' was observed, while in another season of 0.68 kPa the RUE was 
+1.30 g MJ-I. Again, the large difference in RUE between seasons was much 
+greater than anticipated response in leaf photosynthesis at these low values of va- 
+por pressure deficit. Other factors seem likely to have contributed to the large dif- 
+ferences in RUE observed between seasons. 
+In contrast to the above, Muchow and Sinclair (1994) found no variation in RUE 
+with vapor pressure deficit for maize and sorghum across six environments of dif- 
+fering vapor pressure deficit. Considering the reasonable stability observed in most 
+RADIATION USE EFFICIENCY 255 
+crops across environments, it seems likely that vapor pressure deficit has only a 
+small influence on RUE in most cropping situations. 
+Other factors that inflict damage on leaves have also been shown to decrease 
+RUE. Infection of faba bean plants with Ascochyta fabae resulted in decreased 
+RUE (Madeira et al., 1994). Exposure of leaves to ozone has been found to be as- 
+sociated with decreases in RUE of soybean (Leadley et al., 1990) and of wheat and 
+maize (Rudorff et al., 1996). 
+C. SEASONAL VARIATION 
+Considering the importance of leaf photosynthetic rates on RUE, variation in 
+photosynthetic capacity through the growing season would be anticipated to have 
+an important influence on variation in RUE. In a number of cases, maximum RUE 
+values are reported for the vegetative period when it is anticipated that the pro- 
+duction of new leaves results in much of the radiation intercepted by young leaves 
+with relatively high photosynthetic capacity. There have been, in fact, several stud- 
+ies that have examined specifically the question of variation in RUE through the 
+growing season. Two periods that potentially may have relatively lower RUE be- 
+cause of diminished leaf photosynthetic capacity are during crop establishment 
+and during seed growth. 
+1. Crop Establishment 
+Early in crop establishment, when the first leaves may have decreased photo- 
+synthetic capacity relative to later leaves, there exists the possibility that RUE may 
+be decreased. This hypothesis is, however, difficult to study experimentally. Sub- 
+stantial errors are possible in measuring radiation interception in crop canopies 
+composed of small plants. The plants can be widely dispersed, and it is difficult to 
+position sensors under the leaf canopy when the leaves are developing near the soil 
+surface. Nevertheless, several studies offer observations on RUE in the early 
+stages of crop development. 
+In a study of wheat RUE, Garcia et al. (1988) found that RUE was lower for the 
+period from double ridge to terminal spikelet than for periods later in the growing 
+season. Similarly, data presented by Fischer (1993) for the wheat cultivars with the 
+highest nitrogen content revealed that growth intervals early in crop development 
+had RUE lower than that achieved later in the season. 
+In sunflower, Trapani et al. (1992) found a lower RUE during the emergence 
+phase than during the period following this period. The point where there was an 
+increase in RUE occurred when LA1 reached about 1.7. They attributed the dif- 
+ference in RUE between the two development periods to differences in leaf pho- 
+tosynthesis capability. Gimenez et al. (1994) also found a lower RUE in sunflower 
+256 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+during the period from 9 to 42 days after sowing compared to that during the peri- 
+ods including 43 to 7 l days after sowing. These results were further confirmed by 
+Hall et al. (1995), who found that the first harvest period for sunflower yielded a 
+RUE lower than that measured in subsequent harvest periods prior to seed growth. 
+Similar to other species, Rochette et al. (1995) found for soybean that during 
+the early stages of crop development when LA1 was less than 2, RUE was lower 
+than that achieved later in growth. They attributed this lowered RUE to a lowered 
+leaf photosynthetic capacity. 
+2. SeedGrowth 
+The dynamic interaction between nitrogen storage in leaves and the develop- 
+ment of seeds commonly leads to a decrease in leaf nitrogen through the seed 
+growth period. The close linkage between leaf nitrogen and photosynthetic ca- 
+pacity, consequently, raises the important possibility that RUE will decrease dur- 
+ing the seed growth period. Fortunately, there have been a number of studies that 
+have segregated RUE data for the vegetative and reproductive growth periods so 
+that the effect of this hypothesis can be examined. 
+Muchow (1985) found that RUE from emergence to 41 days after sowing in six 
+grain legumes was greater than that from 42 days after sowing to maturity. The de- 
+crease in RUE was attributed to a loss in leaf photosynthetic activity during grain 
+fill for each of these crops. On the other hand, the results of Leadley et al. (1990) 
+revealed that RUE of soybean grown in open-top chambers was greater during re- 
+productive development than during vegetative development. 
+Lower RUE during the postanthesis period relative to the rapid growth phase 
+prior to anthesis was observed in sunflower by Trapani et al. (1992). Subsequent- 
+ly, Hall et al. (1 995) also reported for sunflower a dramatically decreased RUE at 
+the end of the seed growth period. Bange et al. (1997a) confirmed these previous 
+observations and related the decrease in RUE during seed growth to a decrease in 
+leaf nitrogen content and decreased leaf photosynthetic activity. 
+In maize and sorghum, there are several studies that clearly demonstrated a de- 
+cline in RUE following anthesis (Muchow and Davis, 1988; Muchow 1989a, 
+1994). This is illustrated in Table I where much higher RUE values are reported 
+for vegetative growth than for seasonal growth. Calderini et al. (1997) found that 
+RUE for the postanthesis period in wheat was substantially lower than RUE mea- 
+sured for the preanthesis period. 
+D. RADIATION ENVIRONMENT 
+Theoretical analyses indicate that differences in RUE may result from differ- 
+ences in the radiation environment. Hammer and Wright (1994) concluded from 
+RADNTION USE EFFICIENCY 257 
+such a theoretical analysis that the radiation level on a cloudy as compared to a 
+clear day could result in a 0.4 g MJ-' increase in RUE. An increasing fraction of 
+diffuse radiation on a cloudy day contributed a 0.15 g MJ- I increase in RUE. 
+There are several experimental studies that offer direct evidence concerning the 
+influence of the radiation environment on RUE. Horie and Sakuratani (1985) im- 
+posed shading treatments on rice that resulted in shading of 46 and 72%. The re- 
+sulting RUE values were 1.26 g MJ-' for the unshaded treatment, 1.66 g MJ-' 
+for the 46% shade, and 1.98 g MJ-' for the 72% shade. In an experiment with 
+peanut, Stirling et al. (1990) positioned bamboo weave over plots to give about a 
+75% shade throughout reproductive development. As a result of this severe shad- 
+ing, the RUE increased from 0.98 g MJ-' in the unshaded treatment to 2.36 g 
+MJ-' for the shaded treatment. Consequently, in experiments with both rice and 
+peanut, severe shading resulted in dramatic increases in RUE. 
+Bange et al. (1997b) placed plastic films over sunflower giving differences in 
+the radiation environment that more realistically matched natural variations in the 
+radiation environment. One of the plastic films resulted in a radiation level that 
+was 86% of incident radiation and an increase in the proportion of diffuse radia- 
+tion relative to unshaded conditions of 14% on clear days. The second plastic re- 
+sulted in a radiation level of 80% of incident radiation and a 13% increase in dif- 
+fuse radiation. In these treatments of fairly modest adjustments in the radiation 
+environment, RUE was increased only by 0.15 and 0.19 g MJ- ' (1 1 and 14%) in 
+the two treatments, respectively. 
+Plants grown in controlled environments have also resulted in unusually high 
+estimates of RUE. Hammer and Vanderlip (1989) measured RUE of sorghum 
+grown in a greenhouse at 2.16 g MJ-I, which substantially exceeded all other 
+sorghum measures (Table I). Similarly, Rudorff et al. (1996) reported a RUE of 
+1.7 1 g MJ- ' for wheat grown in open-top chambers, which is much greater than 
+other measures of RUE for wheat (Table I). The decrease in total radiation and in- 
+crease in the proportion of diffuse radiation resulting from the surrounding green- 
+house or chamber structure are likely to have been important factors in contribut- 
+ing to elevated RUE in these studies. 
+Overall, the theoretical and experimental results indicate that variations in the 
+natural radiation environment can have an important influence on RUE. In partic- 
+ular, substantial decreases in the total radiation level can result in increased RUE 
+values. Since decreased radiation is almost always associated with an increased 
+proportion of diffuse radiation, the increase in RUE is further enhanced. In the nat- 
+ural environment, however, daily variations in irradiance are averaged by the plant 
+over long time periods so that the small daily variations induced in RUE are not 
+apparent. Only when comparing large, sustained differences in irradiance level are 
+there likely to be differences in RUE. This possibility was examined by Sinclair 
+and Shiraiwa (1993) in a comparison of RUE for soybean measured in Japan and 
+in Florida. The lower radiation environment in Japan, and apparently greater dif- 
+258 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+fuse component, compared to Florida was offered as the explanation for the greater 
+RUE measured for soybean in Japan. 
+VI. CONCLUSIONS 
+In little more than 20 years, radiation use efficiency has become an important, 
+if not essential, approach for understanding crop growth and yield. Because crop 
+yield is linked directly to the capacity of the plants to use the intercepted solar en- 
+ergy in the accumulation of crop mass, RUE provides the measure that directly re- 
+flects the efficiency in the use of radiant energy. 
+Considerable confusion has resulted about the RUE concept simply because a 
+number of experimental approaches and units of expression have been presented. 
+As with all experimental results, considerable care is needed to ensure the collec- 
+tion of data with a minimum of error and bias. Among some of the important con- 
+siderations in various experimental approaches are direct measures of radiation in- 
+terception and adequate sampling. considerable caution is needed in considering 
+RUE estimates that are not obtained from primary data. Periodic sampling through 
+the growing season is important so that data are available to do regression analy- 
+ses and that changes in RUE through the growing season can be detected. 
+The results of both theoretical analyses and experiments are consistent about the 
+major factors that influence RUE. Certainly, RUE varies among species because 
+of differences in the biochemical components of the plant products and in photo- 
+synthetic capacity. Among species with similar photosynthetic rates, those plants 
+that produce energy-rich plant products have lower RUE because of the limitation 
+on the production of plant mass. Those species with high leaf photosynthetic ac- 
+tivity, especially species with the C, photosynthetic pathway, tend to have higher 
+RUE. There are, however, important exceptions to a clear distinction in RUE be- 
+tween C, and C, species. Sorghum is commonly found to have RUE that is sub- 
+stantially lower than other C, species, with RUE values in the same range as those 
+for C, cereals. In addition, potato and sunflower during vegetative development 
+have been found to have high RUE that are equivalent to maize. These exceptions 
+to a clear distinction in RUE between C, and C, species may be especially impor- 
+tant in gaining additional insights about factors influencing the expression of RUE. 
+An important use of the RUE concept is to understand those circumstances in 
+which RUE may not match the expected potential RUE value. Certainly, theoret- 
+ical analyses have highlighted the importance of decreased photosynthetic activi- 
+ty resulting in decreased RUE. A number of factors, therefore, result in decreased 
+RUE, including water deficits, lowered leaf nitrogen content, and temperature. 
+Changes in leaf photosynthetic capacity through the life cycle of the crop can have 
+a direct influence on changes in RUE. In addition, the environment can have im- 
+RADIATION USE EFFICIENCY 2 59 
+portant consequences on RUE other than the direct influence on photosynthesis. 
+The radiation environment in particular has been shown to influence RUE. Al- 
+though not usually a major factor, some of the variation in RUE among various lo- 
+cations may be a consequence of differences in the radiation level or the amount 
+of diffuse radiation. 
+In general, RUE is an independent measure that can be used to benchmark crop 
+performance and highlight yield limitations. RUE is a valuable approach for in- 
+terpreting large variations in crop yield from season to season and across locations 
+resulting from climatic variations, particularly cumulative solar radiation incident 
+to a crop. Estimates of RUE can also identify crop management and husbandry 
+limitations and can be used to assess the scope for yield improvement in different 
+cropping systems. 
+An important context in which to assess environmental factors on crop growth 
+and RUE is crop models that are based on RUE. The use of RUE in models offers 
+a relatively simple, mechanistically based description of the key factors influenc- 
+ing the accumulation of crop mass. For example, Sinclair (1986) presented one of 
+the first crop models that was fully based on RUE. The model was designed to sim- 
+ulate soybean development and growth by assuming a constant potential RUE of 
+1.2 g MJ-'. Importantly, the actual RUE in the model was computed daily from 
+potential RUE multiplied by functions that decreased RUE based on simulated leaf 
+N per unit leaf area and soil water content. Hence, the influences of inadequate N 
+or water-deficit stress on RUE were simulated in the model and offered a basis for 
+assessing experimental results (Muchow and Sinclair, 1986). 
+We anticipate that RUE will continue to have increasing importance in the as- 
+sessment of crop performance and will lead to enhanced efficiency in the conduct 
+of field experimentation. Certainly, measurements of RUE can help to resolve 
+whether intercepted radiation is being used by the crop at its potential efficiency, 
+or whether other factors are limiting crop growth. Careful data collection for eval- 
+uations of RUE offers a powerful tool in further understanding of crop growth and 
+yield. 
+ACKNOWLEDGMENTS 
+The assistance of Heidi Vogelsang (CSIRO, Brisbane, Australia) and Annette Prasse (ARS-USDA, 
+Gainesville, FL, USA) in searching the literature and in organizing and preparing this paper are grate- 
+fully acknowledged. 
+REFERENCES 
+Allen, E. J., and Scott, R. K. (1980). An analysis of growth of the potato crop. J. Agric. Sci. Cambridge 
+94.583-606. 
+THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+Anderson, M. C. (1971). Indirect estimates of radiation and stand structure. In “Plant Photosynthetic 
+Production, Manual of Methods’’ (Z. Sestak, J. Catsky, and P. G. Jarvis, eds.), pp. 447-45 1. Junk, 
+The Hague. 
+Andrade, F. H., Uhart, S. A,, Arguissain, G. G., and Ruiz, R. A. (1992). Radiation use efficiency of 
+maize grown in a cool area. Field Crops Res. 28,345-354. 
+Andrade, F. H., Uhart, S. A., and Cirilo, A. (1993). Temperature affects radiation use efficiency in 
+maize. Field Crops Res. 32, 17-25. 
+Arkebauer, T. J., Weiss, A,, Sinclair, T. R., and Blum, A. (1994). Discussion: In defense of radiation use 
+efficiency: A response to Demetriades-Shah et al. (1992). Agric. Foresr Mereorol. 68,221-227. 
+Austin, R. B., Kingston, G., Longden, P. C., and Donovan, P. A. (1978). Gross energy yields and the 
+support energy requirements for the production of sugar from beet and cane: A study of four pro- 
+duction areas. J. Agric. Sci. 91,667-675. 
+Bange, M. P., Hammer, G. L., and Rickert, K. G. (1997a). Effect of specific leaf nitrogen on radiation 
+use efficiency and growth of sunflower. Crop Sci. 37, I20 1 - 1207. 
+Bange, M. P., Hammer, G. L., and Rickert, K. G. (1997b). Effect of radiation environment on radiation 
+use efficiency and growth of sunflower. Crop Sci. 37, 1208-1214. 
+Bell, M. J., Muchow, R. C., and Wilson, G. L. (1987). The effect of plant population on peanuts (Arachis 
+hypogaea) in a monosoonal tropical environment. Field Crops Res. 17,91- 107. 
+Bell, M. J., Wright, G. C., and Hammer, G. L. (1992). Night temperature affects radiation-use efficiency 
+in peanut. Crop Sci. 32, 1329-1335. 
+Bell. M. J., Michaels, T. E., McCullough, D. E., and Tollenaar, M. (1994a). Photosynthetic response to 
+chilling in peanut. Crop Sci. 34, 1014-1023. 
+Bell, M. J., Gillespie, T. J., Roy, R. C., Michaels, T. E., and Tollenaar, M. (1994b). Peanut leaf photo- 
+synthetic activity in cool field environments. Crop Sci. 34, 1023-1029. 
+Bell, M. J., Roy, R. C., Tollenaar, M., and Michaels, T. E. (1994~). Importance of variation in chilling 
+tolerance for peanut genotypic adaptation to cool, short-season environments. Crop Sci. 34, 
+Bennett, J. M., Sinclair, T. R., Ma, L., and Boote, K. J. (1993). Single leaf carbon exchange and canopy 
+Blackman, V. H. (1919). The compound interest law and plant growth. Ann. Bot. 33,353-360. 
+Bolanos, J., and Edmeades, G. 0. (1993). Eight cycles of selection for drought tolerance in lowland 
+tropical maize. I. Responses in grain yield, biomass and radiation utilisation. Field Crops Res. 31, 
+Burstall, L., and Harris, P. M. (1986). The physiological basis for mixing varieties and seed ‘‘ages’’ in 
+potato crops. J. Agric. Sci. Cambridge 106,411-418. 
+Calderini, D. F., Dreccer, M. F., and Slafer, G. A. (1997). Consequences of breeding on biomass, radi- 
+ation interception and radiation-use efficiency in wheat. Field Crops Res. 52,27 1-281. 
+Charles-Edwards, D. A., and Lawn, R. J. (1 984). Light interception by grain legume crops. Plant Cell 
+Environ. 7,247-25 1. 
+Cooper, J. P. (1970). Potential production and energy conversion in temperate and tropical grasses. 
+Herbage Abst,: 40, 1-13. 
+Daughtry, C. S. T., Gallo, K. P., Goward, S. N., Prince, S. D., and Kustas, W. P. (1992). Spectral esti- 
+mates of absorbed radiation and phytomass production in corn and soybean canopies. Remote 
+Sens. Environ. 39, 14 1 - 152. 
+Demetriades-Shah, T. H., Fuchs, M., Kanemasu, E. T., and Flitcroft, I. (1992). A note of caution con- 
+cerning the relationship between cumulated intercepted solar radiation and crop growth. Agric. 
+Forest Mereorol. 58, 193-207. 
+DeWit, C. T. (1959). Potential photosynthesis of crop surfaces. Nerherlands J. Agric. Sci. 7, 141-149. 
+DeWit, C. T. (1965). Photosynthesis of leaf canopies. Agricultural Research Rep. No. 663. Institute for 
+Biological and Chemical Research on Field Crops and Herbs, Wageningen, The Netherlands. 
+1030-1039. 
+radiation use efficiency of four peanut cultivars. Peanut Sci. 20, 1-5. 
+233-252. 
+RADIATION USE EFFICIENCY 261 
+Duncan, W. G. (1971). Leaf angles, leaf area, and canopy photosynthesis. Crop Sci. 11,482-485. 
+Duncan, W. G., Loomis, R. S., Williams, W. A., and Hanau, R. (1967). A model for simulating photo- 
+synthesis in plant communities. Hilgardia 38, 181-205. 
+Evensen, C. I., Muchow, R. C., El-Swaify, S. A., and Osgood, R. V. (1997). Yield accumulation in 
+imgated sugarcane: I. Effect of crop page and cultivar. Agron. J. 89,638-646. 
+Fasheun, A., and Dennett, M. D. (1982). Interception of radiation and growth efficiency in field beans 
+(Vicia jaba L.). Agric. Meteorol. 26,221-229. 
+Fischer, R. A. (1993). Imgated spring wheat and timing and amount of nitrogen fertilizer. 11. Physiol- 
+ogy of grain yield response. Field Crops Res. 33,57-80. 
+FICnet, F., and Kiniry, J. R. (1995). Efficiency of biomass accumulation by sunflower as affected by 
+glucose requirement of biosynthesis and leaf nitrogen content. Field Crops Res. 44, 119-127. 
+FICnet, F., Kiniry, J. R., Board, J. E., Westgate, M. E., and Reicosky, C. (1996). Row spacing effects 
+on light extinction coefficients of com, sorghum, soybean, and sunflower. Agron. J. 88,185- 190. 
+Gallagher, J. N., and Biscoe, P. V. (1978). Radiation absorption, growth and yield of cereals. J. Agric. 
+Sci. Cambridge 91,47-60. 
+Gallo, K. P., and Daughtry, C. S. T. (1986). Techniques for measuring intercepted and absorbed pho- 
+tosynthetically active radiation in corn canopies. Agron. J. 78,752-756. 
+Garcia, R., Kanemasu, E. T., Blad, B. L., Bauer, A,, Hatfield, J. L., Major, D. J., Reginato, R. J., and 
+Hubbard, K. G. (1988). Interception and use efficiency of light in winter wheat under different ni- 
+trogen regimes. Agric. Forest Meteorol. 44, 175- 186. 
+Gimenez, C., Connor, D. J., and Rueda, E (1994). Canopy development, photosynthesis and radiation- 
+use efficiency in sunflower in response to nitrogen. Field Crops Res. 38, 15-27. 
+Gosse, G., Varlet-Grancher, C., Bonhomme, R., Chartier, M., Allirand, J.-M., and Lemaire, G. (1986). 
+Maximum dry matter production and solar radiation intercepted by a canopy. Agronomie 6,47-56. 
+Goudriaan, J. (1982). Potential production processes. In “Simulation of Plant Growth and Crop Pro- 
+duction” (F. w. T. Penning de Vries and H. H. van Lax, eds.), pp. 98-109. Pudoc, Wageningen, 
+The Netherlands. 
+Goyne, P. J., Milroy, S. P., Lilley, J. M., and Hare, J. M. (1993). Radiation interception, radiation use 
+efficiency and growth of barley cultivars. Aust. J. Agric. Rex 44, 1351-1366. 
+Green, C. F. (1987). Nitrogen nutrition and wheat growth in relation to absorbed solar radiation. Agric. 
+Forest Meteorol. 41,207-248. 
+Gregory, P. J. (1994). Root growth and activity. In “Physiology and Determination of Crop Yield” 
+(K. J. Boote et al., eds.), pp. 65-93. Am. SOC. Agron., Madison, WI. 
+Gregory, P. J., and Eastham, J. (1996). Growth of shoots and roots, and interception of radiation by 
+wheat and lupin crops on a shallow, duplex soil in response to time of sowing. Ausr. J. Agric. Res. 
+47,427-447. 
+Gregory, P. J., and Marshall, B. (1980). A study of an intercrop of pearl millet and groundnut with spe- 
+cial reference to the interception of radiation and the growth of root systems, Report No. 3, pp. 
+11 -28. ODA Microclimatology Unit, University of Nottingham School of Agriculture, Notting- 
+ham, UK. 
+Gregory, P. J., Tennant, D., and Belford, R. K. (1992). Root and shoot growth, and water and light use 
+efficiency of barley and wheat crops grown on a shallow duplex soil in a Mediterranean-type en- 
+vironment. Ausr. J. Agric. Res. 43,555-573. 
+Hall, A. J., Connor, D. I., and Sadras, V. 0. (1995). Radiation-use efficiency of sunflower crops: Ef- 
+fects of specific leaf nitrogen and ontogeny. Field Crops Res. 41,65-77. 
+Hammer, G. L., and Vanderlip, R. L. (1989). Genotype-by-environment interaction in grain sorghum. 
+I. Effects of temperature on radiation use efficiency. Crop Sci. 29,370-376. 
+Hammer, G. L., and Wright, G. C. (1994). A theoretical analysis of nitrogen and radiation effects on 
+radiation use efficiency in peanut. Aust. J. Agric. Res. 45,575-589. 
+Hanan, N. P., Prince, S. D., and BCguC, A. (1995). Estimation of absorbed photosynthetically active ra- 
+2 62 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+diation and vegetation net production efficiency using satellite data. Agric. Forest Mereorol. 76, 
+Haverkort, A. J., Uenk, D., Veroude, H., and Van De Waart, M. (1991). Relationships between ground 
+cover, intercepted solar radiation, leaf area index and infrared reflectance of potato crops. Potato 
+Res. 34,113-121. 
+Heath, M. C., and Hebblethwaite, P. D. (1985). Solar radiation interception by leafless, semi-leafless 
+and leafed peas (Pisum sarivum) under contrasting field conditions. J. Appl. Biol. 107,309-318. 
+Hone, T., and Sakuratani, T. (1985). Studies on crop-weather relationship model in rice. (I) Relation 
+between absorbed solar radiation by the crop and the dry matter production. Jpn. Agric. Meteo- 
+Horie, T., Ohnishi, M., Angus, 1. F., Lwein, L. G., Tsukaguchi, T., and Matano, T. (1997). Physiologi- 
+cal characteristics of high-yielding rice inferred from cross-location experiments. Field Crops 
+Res. 52,55-61. 
+Hughes, G., Keatinge, J. D. H., and Scott, S. P. (1981). Pigeon pea as a dry season crop in Trinidad, 
+West Indies. 11. Interception and utilization of solar radiation. Trop. Agric. Trinidad 58, 191-199. 
+Inthapan, P., and Fukai, S. (1988). Growth and yield of rice cultivars under sprinkler irrigation in south- 
+eastern Queensland. 2. Comparison with maize and grain sorghum under wet and dry conditions. 
+Aust. J. Exp. Agric. 28,243-248. 
+Jamieson, P. D., Martin, R. J., Francis, G. S., and Wilson, D. R. (1995). Drought effects on biomass 
+production and radiation-use efficiency in barley. Field Crops Res. 43,77-86. 
+Jefferies, R. A., and Mackerron, D. K. L. (1989). Radiation interception and growth of irrigated and 
+droughted potato (Solanum tubersum). Field Crops Res. 22, 101-1 12. 
+Jong, S. K., Brewbaker, J. L., and Lee, C. H. (1982). Effects of solar radiation on the performance of 
+maize in 41 successive monthly plantings in Hawaii. Crop Sci. 22, 13-18. 
+Kiniry, J. R. (1994a). Discussion: A note of caution concerning the paper by Demetriades-Shah et al. 
+(1992). Agric. Forest Meteoroi. 68,229-230. 
+Kiniry, J. R. (l994b). Radiation-use efficiency and grain yield of maize competing with johnsongrass. 
+Agron. J. 86,554-557. 
+Kiniry, J. R., Jones. C. A,, O’Toole, J. C., Blanchet, R., Cabelguenne, M., and Spanel, D. A. (1989). 
+Radiation-use efficiency in biomass accumulation prior to grain-filling for five grain-crop species. 
+Field Crops Res. 20,5 1-64. 
+Leach, G. J., and Beech, D. F. (1988). Response of chickpea accessions to row spacing and plant den- 
+sity on a vertisol on the Darling Downs, south-eastern Queensland. 2. Radiation interception and 
+water use. Aust. J. Exp. Agric. 28,377-383. 
+Leadley, P. W., Reynolds, J. F., Flagler, R., and Heagle, A. S. (1990). Radiation utilization efficiency 
+and the growth of soybeans exposed to ozone: A comparative analysis. Agric. Forest Meteorol. 
+Loomis, R. S., and Williams, W. A. (1963). Maximum crop productivity: An estimate. Crop Sci. 3, 
+67-12. 
+Loomis, R. S., Williams, W. A,, and Hall, A. E. (1971). Agricultural productivity. In “Annual Review 
+of Plant Physiology” (L. Machlis, W. R. Briggs, and R. B. Park, eds.), pp. 431-441. Annual Re- 
+views, Palo Alto, CA. 
+Madeira, A. C., Clark, J. A., and Rossal, S. (1994). Growth and light interception in field bean (Vicia 
+faba) infected by Ascochyta fabae. J. Agric. Sci. Cambridge 123,225-232. 
+Major, D. J., Beasley, B. W., and Hamilton, R. I. (1991). Effect on maize maturity on radiation-use ef- 
+ficiency. Agron. J. 83, 895-903. 
+Major, D. J., Janzen, H. H., Sadasivaiah, R. S., and Carefoot, J. M. (1992). Morphological character- 
+istics of wheat associated with high productivity. Can J. Plant Sci. 72,689-698. 
+Manrique, L. A., Kiniry, 1. R., Hodges, T., and Axness, D. S. (1991). Dry matter production and radi- 
+ation interception of potato. Crop. Sci. 31, 1044-1049. 
+259-276. 
+1~1.40~331-342. 
+51,293-308. 
+RADIATION USE EFFICIENCY 263 
+Marshall, B., and Willey, R. W. (1983). Radiation interception and growth in an intercrop of pearl mil- 
+letlgroundnut. Field Crops Res. 7, 141 -160. 
+Martin, I., Tenorio, J. L., and Ayerbe, L. (1994). Yield, growth, and water use of conventional and semi- 
+leafless peas in semiarid environments. Crop Sci. 34, 1576-1583. 
+McKenzie, B. A., and Hill, G. D. (1991). Intercepted radiation and yield of lentils (Lens culinaris) in 
+Canterbury, New Zealand. J. Agric. Sci. Cambridge 117,339-346. 
+Meek, D. W., Hatfield, J. L., Howell, T. A,, Idso, S. B., and Reginato, R. J. (1984). A generalized rela- 
+tionship between photosynthetically active radiation and solar radiation. Agron. J. 76,939-945. 
+Monteith, J. L. (1965). Light and crop production. Field Crop Abstr 18,213-219. 
+Monteith, J. L. (1972). Solar radiation and productivity in tropical ecosystems. J. Appl. Ecol. 9, 
+Monteith, J. L. (1977). Climate and the efficiency of crop production in Britain. Philos. Trans. R. Soc. 
+Monteith, J. L. (I 978). Reassessment of maximum growth rates for C, and C, crops. Expl. Agric. 14,l-5. 
+Monteith, J. L. (1994). Discussion: Validity of the correlation between intercepted radiation and bio- 
+Monteith, J. L., Gregory, P. J., Marshall, B., Ong, C. K., Saffell, R. A,, and Squire, G. R. (1981). Phys- 
+Moon, P. (1940). Proposed standard radiation curves. J. Franklin Inst. 230,583-617. 
+Muchow, R. C. (1985). An analysis of the effects of water-deficits on grain legumes grown in a semi- 
+arid tropical environment in terms of radiation interception and its efficiency of use. Field Crops 
+Res. 11,309-323. 
+Muchow, R. C. (1989a). Comparative productivity of maize, sorghum and pearl millet in a semiarid 
+tropical environment. I. Yield potential. Field Crops Res. 20, 191 -205. 
+Muchow, R. C. (1989b). Comparative productivity of maize, sorghum and pearl millet in a semiarid 
+tropical environment. 11. Effect of water-deficits. Field Crops Res. 20,207-219. 
+Muchow, R. C. (1992). Effect of water and nitrogen supply on radiation interception and biomass ac- 
+cumulation of kenaf (Hibiscus cannabinus) in a semi-arid tropical environment. Field Crops Res. 
+28,28 1-293. 
+Muchow, R. C. (1994). Effect of nitrogen on yield determination in irrigated maize in tropical and sub- 
+tropical environments. Field Crops Res. 38, 1-13. 
+Muchow, R. C., and Charles-Edwards, D. A. (1982). An analysis of the growth of mung beans at a range 
+of plant densities in tropical Australia. I. Dry matter production. Ausr. J. Agric. Res. 33,41-51. 
+Muchow, R. C., and Coates, D. B. (1986). An analysis of the environmental limitation to yield of irri- 
+gated grain sorghum during the dry season in tropical Australia using a radiation interception mod- 
+el. Aust. J. Agric. Res. 37, 135-148. 
+Muchow, R. C., and Davis, R. (1988). Effect of nitrogen supply on the comparative productivity of 
+maize and sorghum in a semi-arid tropical environment. 11. Radiation interception and biomass 
+accumulation. Field Crops Res. 18, 17-30. 
+Muchow, R. C., and Sinclair, T. R. (1986). Water and nitrogen limitations in soybean grain production. 
+11. Field and model analyses. Field Crops Res. 15, 143-156. 
+Muchow, R. C., and Sinclair, T. R. (1994). Nitrogen response of leaf photosynthesis and canopy radi- 
+ation use efficiency in field-grown maize and sorghum. Crop Sci. 34,721-727. 
+Muchow, R. C., Robertson, M. J., and Pengelly, B. C. (1993). Radiation-use efficiency of soybean, 
+mung bean and cowpea under different environmental conditions. Field Crops Res. 32, 1-16. 
+Muchow, R. C., Spillman, M. F., Wood, A. W., and Thomas, M. R. (1994). Radiation interception and 
+biomass accumulation in a sugarcane crop grown under irrigated tropical conditions. Aust. J. 
+Agric. Res. 45,37-49. 
+Muchow, R. C., Evensen, C. 1.. Osgood, R. V., and Robertson, M. J. (1997). Yield accumulation in ir- 
+rigated sugarcane: 11. Utilization of intercepted radiation. Agron. J. 89,646-652. 
+747-766. 
+London B 281,277-294. 
+mass. Agric. Forest Meteorol. 68,213-220. 
+ical measurements in crop physiology. I. Growth and gas exchange. Expl. Agric. 17,113-126. 
+2 64 THOMAS R. SINCLAIR AND RUSSELL C. MUCHOW 
+Murata, Y. (1981). Dependence of potential productivity and efficiency for solar energy utilization on 
+leaf photosynthetic capacity in crop species. Jpn. J. Crop Sci. 50,223-232. 
+Nakaseko, K., and Gotoh, K. (1983). Comparative studies on dry matter production, plant type and pro- 
+ductivity in soybean, azuki bean and kidney bean. VII. An analysis of the productivity among the 
+three crops on the basis of radiation absorption and its efficiency for dry matter accumulation. Jpn. 
+J. Crop Sci. 52,49-58. 
+Norman, J. M., and Arkebauer, T. J. (1991). Predicting canopy photosynthesis and light-use efficiency 
+from leaf characteristics. In “Modeling Crop Photosynthesis-From Biochemistry to Canopy,” 
+CSSA Special Publ. No. 19, pp. 75-94. Am. SOC. Agron. Crop Sci. SOC. Am., Madison, WI. 
+Otegui, M. E., Nicolini, M. G., Ruiz, R. A., and Dodds, P. A. (1995). Sowing date effects on grain yield 
+components for different maize genotypes. Agron. J. 87,29-33. 
+Penning De Vries, F. W. T. (1975). Use of assimilates in higher plants. In “Photosynthesis and Pro- 
+ductivity in Different Environments” (J. P. Cooper, ed.), pp. 459-477. Cambridge Univ. Press, 
+London. 
+Penning De Vries, F. W. T., Brunsting, H. M., and van Laar, H. H. (1974). Products, requirements and 
+efficiency of biosynthesis: A quantitative approach. J. Theor Biol. 45, 339-377. 
+Penning De Vries, F. W. T., van Laar, H. H., and Chardon, M. C. M. (1983). Bioenergetics of growth 
+of seeds, fruits and storage organs. In “Proceedings of the Symposium of Potential Productivity 
+of Field Crops under Different Environments,” pp. 37-59. IRRI, Los Banos, The Philippines. 
+Robertson, M. J., Wood, A. W., and Muchow, R. C. (1996). Growth of sugarcane under high input con- 
+ditions in tropical Australia. I. Radiation use, biomass accumulation and partitioning. Field Crops 
+Res. 48, 11-25. 
+Rochette, P., Desjardins, R. L., Pattey, E., and Lessard, R. (1995). Crop net carbon dioxide exchange 
+rate and radiation use efficiency in soybean. Agron. J. 87,22-28. 
+Rosenthal, W. D., Gerik, T. J., and Wade, L. J. (1993). Radiation-use efficiency among grain sorghum 
+cultivars and plant densities. Agron. J. 85,703-705. 
+Rudorff, B. F. T., Mulchi, C. L., Daughtry, C. S. T., and Lee, E. H. (1996). Growth, radiation use effi- 
+ciency, and canopy reflectance of wheat and corn grown under elevated ozone and carbon diox- 
+ide atmospheres. Remote Sensing Environ. 55, 163-173. 
+Sands, P. J. (1996). Modelling canopy production. 111. Canopy light-utilisation efficiency and its sen- 
+sitivity to physiological and environmental variables. Aust. J. Plant Physiol. 23 103-1 14. 
+Shibles, R. M., and Weber, C. R. (1965). Leaf area, solar radiation interception and dry matter pro- 
+duction by soybeans. Crop Sci. 5,575-577. 
+Silim, S. N., and Saxena, M. C. (1992). Comparative performance of some faba bean (viciafaba) cul- 
+tivars of contrasting plant types. 2. Growth and development in relation to yield. J. Agric. Sci. 
+Cambridge 118,333-342. 
+Sinclair, T. R. (1986). Water and nitrogen limitations in soybean grain production. I. Model develop- 
+ment. Field Crops Res. 15, 125-141. 
+Sinclair, T. R., and DeWit, C. T. (1975). Photosynthate and nitrogen requirements for seed production 
+by various crops. Science 189,565-567. 
+Sinclair, T. R., and Horie, T. (1989). Leaf nitrogen, photosynthesis, and crop radiation use efficiency: 
+A review. Crop Sci. 29,90-98. 
+Sinclair, T. R., and Shiraiwa, T. (1993). Soybean radiation-use efficiency as influenced by nonuniform 
+specific leaf nitrogen distribution and diffuse radiation. Crop Sci. 33, 808-812. 
+Sinclair, T. R., Shiraiwa, T., and Hammer, G. L. (1992). Variation in crop radiation-use efficiency with 
+increased diffuse radiation. Crop Sci. 32, 1281-1284. 
+Sinclair, T. R., Bennett, J. M., and Drake, G. M. (1994). Cool night temperature and peanut leaf pho- 
+tosynthetic activity. Proc. Soil Crop Sci. SOC. Florida 53,74-76. 
+Singh, P., and Sri Rama, Y. V. (1989). Influence of water-deficit on transpiration and radiation use ef- 
+ficiency of chickpea (Cicer arietinum L.). Agric. Forest Meteorol. 48,317-330. 
+RADIATION USE EFFICIENCY 265 
+Sivakumar, M. V. K., and Huda, A. K. S. (1985). Solar energy utilisation by tropical sorghums. Agric. 
+Forest Meteorol. 35,4747. 
+Sivakumar, M. V. K., and Virmani, S. M. (1984). Crop productivity in relation to interception of pho- 
+tosynthetically active radiation. Agric. Forest Meteorol. 31, 13 I - I4 I. 
+Squire, G. R. (1990). Dry matter production by interception and conversion of solar radiation. In “The 
+Physiology of Tropical Crop Production,” pp. 71 -102. CAB International, Wallingford, UK. 
+Steiner, J. L. (1986). Dryland grain sorghum water use, light interception, and growth responses to 
+planting geometry. Agron. J. 78,720-726. 
+Steven, M. D.. Biscoe, P. V., Jaggard, K. W., and Paruntu, J. (1986). Foliage cover and radiation inter- 
+ception. Field Crops Res. 13,75-87. 
+Stirling, C. M., Williams, J. H., Black, C. R., and Ong, C. K. (1990). The effect of timing of shade on 
+development, dry matter production and light-use efficiency in groundnut (Aruchis hypogaea L.) 
+under field conditions. Aust. J. Agric. Res. 41,633-644. 
+Stockle, C. 0.. and Kiniry, J. R. (1990). Variability in crop radiation-use efficiency associated with va- 
+por-pressure deficit. Field Crops Res. 25, 17 I - 18 I. 
+Szeicz, G., Monteith, J. L., and dos Santos, J. M. (1964). A tube solarimeter to measure radiation among 
+plants. J. Appl. Ecol. 1, 169-174. 
+Thomson, B. D., and Siddique, K. H. M. (1997). Grain legume species in low rainfall Mediterranean- 
+type environments. 11. Canopy development, radiation interception, and dry-matter production. 
+Field Crops Res. 54, 189-199. 
+Tollenaar, M., and Aguilera, A. (1992). Radiation use efficiency of an old and a new maize hybrid. 
+Agron. J. 84,536-541. 
+Tollenaar, M.. and Bruulsema, T. W. (1988). Efficiency of maize dry matter production during periods 
+of complete leaf area expansion. Agron. J. 80,580-585. 
+Trapani, N., Hall, A. J., Sadras, V. O., and Vilella, F. (1992). Ontogenetic changes in radiation use ef- 
+ficiency of sunflower (Heliunrhus unnuus L.) crops. Field Crops Res. 29,301-316. 
+Watson, D. J. (I 952). The physiological basis of variation in yield. In “Advances in Agronomy” (A. G. 
+Norman, ed.), pp. 101-145. Academic Press, New York. 
+Westgate, M. E., Forcella, F., Reicosky, D. C., and Somsen, J. (1997). Rapid canopy closure for maize 
+production in the northern US corn belt: Radiation-use efficiency and grain yield. Field Crops Res. 
+Williams, W. A., Loomis, R. S., and Lepley, C. R. (1 965). Vegetative growth of corn as affected by pop- 
+ulation density. I. Productivity in relation to interception of solar radiation. Crop Sci. 5,211-219. 
+Wilson, D. R., and Jamieson, P. D. (1985). Models of growth and water use of wheat in New Zealand. 
+In “Wheat Growth and Modelling” (W. Day and R. K. Atkin, eds.), pp. 211-216. Plenum, New 
+York. 
+Wright, G. C., Bell, M. J., and Hammer, G. L. (1993). Leaf nitrogen content and minimum tempera- 
+ture interactions affect radiation-use efficiency in peanut. Crop Sci. 33,476-481. 
+Yunusa, I. A. M., Siddique, K. H. M., Belford, R. K., and Karimi, M. M. (1993). Effect of canopy 
+structure on efficiency of radiation interception and use in spring wheat cultivars during the pre- 
+anthesis period in a Mediterranean-type environment. Field Crops Res. 35, 113-122. 
+47,249-258. 

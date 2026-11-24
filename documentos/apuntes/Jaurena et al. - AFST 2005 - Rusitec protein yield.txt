@@ -1,0 +1,450 @@
+=== Fuente: Jaurena et al. - AFST 2005 - Rusitec protein yield.pdf ===
+
+Animal Feed Science and Technology
+118 (2005) 79–91
+Efﬁciency of microbial protein synthesis on red
+clover and ryegrass silages supplemented with barley
+by rumen simulation technique (RUSITEC)
+G. Jaurena∗, J.M. Moorby, D.R. Davies
+Institute of Grassland and Environmental Research, Aberystwyth, Wales SY23 3EB, UK
+Received 3 October 2003; received in revised form 5 August 2004; accepted 13 September 2004
+Abstract
+Bacterial protein supply from the rumen is frequently low in animals fed on silage-based diets, par-
+tially because of the lack of rumen available sources of energy. An in vitro experiment was designed to
+determine the optimum rate of inclusion of rolled barley to optimise rumen efﬁciency of bacterial pro-
+tein synthesis (EBPS) of diets comprising a typical ryegrass silage (GR; crude protein (CP) = 139 g/kg
+dry matter (DM); water soluble carbohydrates (WSC) = 71 g/kg DM; NH3–N = 133 g/kg N; pH 4.23)
+or red clover silage (RC; CP = 168 g/kg DM; WSC = 28 g/kg DM; NH3–N = 80 g/kg N; pH 4.12). Both
+silages were mixed with increasing proportions of barley grain (0, 150, 300 and 450 g/kg DM). Treat-
+ments were tested using the rumen simulation technique (RUSITEC), replicated in three independent
+10-day incubation periods (blocks). Artiﬁcial saliva was infused at a rate of 0.5 ml/min, and on day
+4 of incubation 15NH4SO4 was added as a microbial marker. Ammonia–N and pH of the efﬂuent
+were above 50 mg/l and 6.6, respectively, in all treatments and at all time points measured. Inclu-
+sion of barley grain reduced the efﬂuent concentrations of acetic, propionic and total volatile fatty
+acids (P ≤ 0.06). Apparent digestibilities of DM (DMAD ) and organic matter (OMAD ) did not differ
+Abbreviations:AA, amino acids; ADF, acid detergent ﬁbre; ADFD, ADF digestibility; BY, bacterial yield;
+CP, crude protein; EBDMS, efﬁciency of bacterial DM synthesis; EBPS, efﬁciency of bacterial protein synthesis;
+DM, dry matter; DMAD , DM apparent digestibility; N, nitrogen; NAD, N apparent digestibility; NDF, neutral
+detergent ﬁbre; NDFD , NDF digestibility; NPN, non-protein N; OMAD , organic matter apparent digestibility;
+RC, red clover; GR, ryegrass; SAB, solid associated bacteria; VFA, volatile fatty acids; WSC, water-soluble
+carbohydrates
+∗ Corresponding author. Present address: Facultad de Agronom´ıa, Universidad de Buenos Aires, Av. San Mart´ın
+4453, Buenos Aires C1417 DSQ, Argentina. Tel.: +54 11 4524 8005; fax: +54 11 4514 8735/37/39.
+E-mail address:gjaurena@agro.uba.ar (G. Jaurena).
+0377-8401/$ – see front matter © 2004 Elsevier B.V. All rights reserved.
+doi:10.1016/j.anifeedsci.2004.09.008
+80 G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91
+between RC or GR silages, but RC had lower (P < 0.001) neutral and acid detergent ﬁbre digestibilities
+than GR silage. The efﬂuent concentrations of acetic, propionic, butyric and total volatile fatty acids
+from GR was higher (P < 0.05) than from RC diets. Inclusion of barley grain linearly (P < 0.06) reduced
+the efﬂuent acetic, propionic and total volatile fatty acid concentrations, but increased DMAD ,OMAD
+and efﬁciency of bacterial dry matter synthesis (EBDMS). However, there was no clear response in EBPS
+from GR silage supplemented with barley, but in RC silage, EBPS increased up to a barley inclusion
+rate of 300 g/kg DM. It is concluded that rumen microorganisms reduced the amount of substrate
+fermented in correspondence with the increment in barley grain. The EBPS increased in RC silage by
+adding barley at rates of up to 300 g/kg DM. Conversely, the addition of barley to GR silage had no
+apparent effect on EBPS.
+© 2004 Elsevier B.V. All rights reserved.
+Keywords: Microbial protein synthesis; Red clover silage; Ryegrass silage; RUSITEC
+1. Introduction
+There is unequivocal evidence that diets containing a high proportion of silage support
+low levels of microbial protein synthesis in the rumen (ARC, 1980; Thomas and Thomas,
+1985; Dewhurst et al., 2000). Despite the lack of a complete explanation for this, the
+poor ATP yield of silage fermentation products (Thomas and Thomas, 1985), the reduced
+availability of rumen degradable carbohydrates, the high proportion of total nitrogen (N)
+present as non-protein N (NPN, Thomas and Thomas, 1985), and the limited supply of
+dietary amino acids (AA, Oh et al., 1999), all contribute to reduce the efﬁciency of N
+utilisation by rumen microorganisms and thus to the whole animal. Silages frequently have
+a poor balance between rapidly rumen-degradable sources of energy and the concentration
+of highly soluble forms of N. Forage legumes typically contain low concentrations of water-
+soluble carbohydrate (WSC) and dry matter (DM), and have a high buffering capacity, which
+makes them particularly susceptible to poor fermentation accompanied by high levels of
+proteolysis during ensilage. Thus, the addition of readily available energy such as sugar or
+starch to diets based on fresh or ensiled grass has positive effects on microbial protein supply
+and N utilisation by ruminants (Chamberlain et al., 1985; Keady et al., 1998; Reynolds
+et al., 2001). With the exceptions of maize and sorghum, more than 90% of the starch in
+cereal grains is normally fermented in the rumen (Castillo, 1999), making cereals good
+supplements to silages in ruminant diets. Hence, carbohydrate availability in the rumen of
+legume silage-fed ruminants has the potential of improving the efﬁciency of N capture by
+rumen microorganisms, reducing not only the requirement of expensive sources of dietary
+protein, but also reducing N excretion from the animal and subsequently reducing the output
+of N to the environment.
+Degradation of plant proteins in the silo results from plant and microbial enzyme activity
+(McDonald et al., 1991). Proteolytic activity can break down an important proportion of
+the original plant protein, but there is a wide variation between species. For example,
+despite similar inherent proteolytic activity in red clover (RC; Trifolium pratense) and
+lucerne (Medicago sativa, Papadopoulos and McKersie, 1983), RC silage usually contains
+signiﬁcantly less NPN than similar silages made from lucerne (Papadopoulos and McKersie,
+1983; Albrecht and Muck, 1991). Polyphenol oxidases present in RC leaves appear to
+G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91 81
+convert phenols into reactive o-quinones that reduce proteolytic activity, and consequently
+the NPN content (Jones et al., 1995). It has also been shown that the supply of rumen by-pass
+AA in RC silages is considerably greater than that of lucerne (Komprda et al., 1996).
+It is therefore hypothesised that an increase of rumen available energy will contribute to
+increased microbial protein yield in grass and legume silages. However, it is expected that
+microbial protein yield from RC would be higher than from grass silages. The aim of this
+experiment was to assess microbial synthesis in the rumen from diets comprising ryegrass
+(GR; Lolium perenne) and RC silages when supplemented with rolled barley as a source of
+rumen degradable energy.
+2. Materials and methods
+2.1. Experimental design
+Two silages (GR and RC) were tested as basal diets, to assess the rumen microbial N
+yield response under increased levels of barley grain inclusion: 0, 150, 300 and 450 g/kg
+DM. Treatments were replicated in three independent 10-day incubation periods (blocks)
+using the rumen simulation technique (RUSITEC, Czerkawski and Breckenridge, 1977).
+Efﬂuents were sampled on day 8 of each period at 0, 1, 2, 3, 4, 6, 8 and 24 h to quantify
+rumen parameters (i.e. pH, volatile fatty acids, VFA and NH3N), and on the last day of each
+period 48-h residues from the ﬁnal set of fermented feed material were used to estimate diet
+digestibility.
+2.2. Production and preparation of feeds for RUSITEC
+The GR silage was a second cut silage made from a perennial ryegrass-dominated sward
+harvested in June 1999, at a target vegetative growth stage of 50% ﬂower-head emergence.
+The RC silage was made from the ﬁrst harvest of a monoculture sward of RC (cv. Merviot)
+cut in May 1999, at a target vegetative stage of late bud/early bloom. Both forages were
+cut and wilted for 48 h before being baled with the aid of an inoculant (Livesystem; Genus
+PLC, Nantwich, UK) applied at a rate of 106 colony-forming units/g fresh matter, followed
+by wrapping with at least six layers of plastic ﬁlm. The barley grain was a commercially
+available rolled barley.
+The silages were stored for 8 months before being sampled, and sufﬁcient silage was
+collected to carry out three incubation periods. Silages were stored cold (4 ◦C) while an
+oven DM estimation (100 ◦C, overnight) was carried out on the barley grain and silages. The
+following day, self-seal plastic bags were ﬁlled with approximately 12 g total DM of silage
+and barley grain in the proportions required for each treatment. Treatment bags were ﬁlled
+sequentially by period, and representative samples of silage for each period were collected
+and frozen for subsequent chemical characterisation. All manipulations were carried out in
+a manner aimed at minimising silage deterioration by reducing the time samples were at
+room temperature. After the bags had been ﬁlled, they were frozen and stored at −18 ◦C
+until required, when their contents were transferred to nylon bags and thawed overnight at
+4 ◦C.
+82 G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91
+2.3. RUSITEC technique
+The study was carried out using RUSITEC apparatus (Czerkawski and Breckenridge,
+1977) consisting of eight airtight vessels with an effective volume of 1 l each, immersed
+in a water bath maintained at 39 ◦C. Rumen liquor (ca. 4.5 l) and solid digesta (ca. 700 g)
+were collected from a rumen ﬁstulated dairy cow fed on ad libitum quantities of GR silage
+and supplemented with 8 kg concentrate per day. Digesta was transported to the laboratory
+within an hour in pre-heated vacuum ﬂasks, and strained through two layers of cheesecloth
+into a CO2-ﬁlled baker. Each vessel was charged with 500 ml of strained rumen liquor,
+200 ml of artiﬁcial saliva (McDougall, 1948, pH 8.23), two nylon bags (40-/H9262m pore size;
+one containing ca. 80 g of rumen digesta solids and the other containing a sample), topped
+up with artiﬁcial saliva, and sealed. Artiﬁcial saliva was supplied to each vessel at a ﬂow
+rate of 0.5 ml/min using a peristaltic pump (model 202U, Watson-Marlow Ltd., Falmouth,
+Cornwall, UK). After 24 h the vessels were opened and the rumen digesta solid bags replaced
+by a new sample bag (ca. 12 g DM), the removed bags were squeezed, washed in artiﬁcial
+saliva and the washing returned to the vessel. Subsequently, each feed bag was replaced by
+a new one after 48 h incubation period.
+On day 4 of each period after replacing the nylon bags containing fresh feed samples,
+70 mg of (15NH4)2SO4 (containing approximately 10 at.% 15N) was added to each incuba-
+tion vessel. (15NH4)2SO4 was also added to the McDougall buffer at a rate of 70 mg/l, which
+was infused until the end of each 10-day incubation period. Efﬂuent collected on day 4 (be-
+fore the addition of 15N) was kept for background analysis of 15N, and then used to calculate
+15N enrichment. From day 5 on, the digested nylon bag feed residues were washed under
+cold running tap water for 3 min, frozen and freeze-dried to estimate DM disappearance.
+Efﬂuent volume and pH were recorded daily throughout the entire experiment.
+On day 8 of each period, liquid from each vessel was sampled at 0, 1, 2, 3, 4, 6, 8,
+and 24 h to analyse for pH, VFA and NH3–N. Samples (3–4 ml) were taken from each
+vessel’s sampling pipe into a sample tube. pH was immediately recorded and samples were
+then decanted into two microcentrifuge tubes for VFA (1.1 ml of efﬂuent plus two drops of
+concentrated orthophosphoric acid), and NH3–N (1 ml of efﬂuent plus 0.1 ml of 2 M HCl)
+analyses.
+From day 9, after replacement of the sample bags, the bottles for efﬂuent collection
+were placed into a 4 ◦C water bath. On day 10, the nylon bags removed from the system
+were squeezed without buffer, and the liquids were returned to the vessels. Solid-associated
+bacteria (SAB) were extracted from the digesta residues left in the nylon bags by extracting
+twice with 150 ml of saline solution (0.9% NaCl) for 5 min each using a Stomacher (Seward
+Ltd., Thetford, UK). Total volumes of efﬂuents and vessel contents (containing the liquid
+associated bacteria), and SAB extracts were recorded, and proportionally subsampled (af-
+ter homogenisation at low speed) to make up 500 ml of composite samples, which were
+preserved at −18 ◦C.
+2.4. Estimation of microbial protein yield
+The (15NH4)2SO4 was used as microbial marker. After thawing for approximately 24 h,
+composite and background samples were gently mixed and 200 ml were transferred into a
+G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91 83
+centrifuge ﬂask. Total bacteria samples were obtained from the samples as follows. Feed
+residues were removed by centrifugation at 1500 × g for 10 min (4 ◦C). The supernatant
+was removed carefully into another centrifuge tube and centrifuged at 30,000 × gfor 15 min
+(4 ◦C) to remove bacteria from suspension. The supernatant from the second centrifugation
+was discarded and the bacterial pellet was resuspended in saline solution, and centrifuged
+at the higher speed as above. This was repeated once, and the resultant pellet was ﬁnally
+resuspended in distilled water. A total solids sample was obtained in the same way, but
+avoiding the ﬁrst 1500 × g centrifugation. The pellets were freeze-dried, weights were
+recorded and the samples were ground with pestle and mortar.
+Bacteria and total solids samples were analysed for total N content and 15N to esti-
+mate microbial N enrichment using a mass spectrometer (ANCA/SL 20/20, PDZ Europe
+Ltd., Crewe, Cheshire, UK). Bacterial protein yield (BPY, mg/day) was estimated as daily
+bacterial yield (BY, g/day) multiplied by the bacterial pellet crude protein (CP) content.
+Efﬁciency of bacterial DM (EBDMS) and protein (EBPS) synthesis per kilogram of organic
+matter apparently digested (OMAD ) were estimated as BY and BPY divided by OMAD in
+a 48-h period, respectively.
+2.5. Estimation of digestibility variables
+Digesta residues were immediately frozen after hand washing or stomaching, and freeze-
+dried. Residues from days 8 and 9 of the incubation period were used to estimate 48-h DM
+apparent digestibility (DMAD ), and were pooled and later analysed to determine residual
+organic matter, N, neutral detergent ﬁbre (NDF), and acid detergent ﬁbre (ADF). Thus,
+apparent (i.e. DMAD ,OMAD and N, NAD ) and true (i.e. NDF, NDFD and ADF, ADFD )
+digestibilities were estimated over a 48-h period.
+2.6. Analytical procedures
+Freeze DM analysis was carried out by drying approximately 40 g of fresh silage in
+a freeze-drier for 48–72 h until a constant weight was achieved. Neutral detergent ﬁbre
+concentration was determined using amylase (Sigma-Aldrich Co. Ltd., Gillingham, UK,
+No. A-1278; using 40 and 290 mg amylase per 5 l batch of neutral detergent solution for
+silage and grain samples, respectively) and 2-ethoxyethanol (Van Soest et al., 1991). Acid
+detergent ﬁbre concentration was determined according to the method of Van Soest and
+Wine (1967) using the Fibretec System equipment (Tecator Ltd., Thornbury, Bristol, UK).
+Both NDF and ADF results took residual ash content into account. All other analyses were
+carried out on feed and residue samples as described by Lee et al. (2003).
+2.7. Statistical analysis
+Data were analysed (GenStat, 2000) according to a complete block design (blocking by
+incubation) with a factorial arrangement (2 × 4) of forage species (GR or RC) and barley
+grain inclusion (0, 150, 300 and 450 g/kg DM). Main effects (forage and barley grain in-
+clusion), and the respective interactions were included in the model. Planned orthogonal
+contrasts (linear and quadratic) were performed to examine the effects of level of grain
+84 G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91
+inclusion and statistical signiﬁcance was declared at P ≤ 0.05. Efﬂuent ammonia–N con-
+centration was regressed on diet CP concentration.
+3. Results
+The chemical composition of the rolled barley grain (Table 1) was within the typical
+range, although its starch concentration was above the expected value (MAFF, 1986). Silage
+chemical composition (Table 1) indicated that GR silage had a moderate fermentation
+(85 g/kg DM total fermentation acids, pH 4.2), with dominance of lactic acid yielding
+organisms (80% lactic acid and a lactic/acetic ratio of 7). Similar characteristics were found
+for RC silage, but considering that RC is a legume, its fermentation was superior to the GR
+silage as evidenced by the ammonia–N concentrations (80 and 130 g/kg DM, respectively).
+Both silages had similar concentrations of propionic acid, and concentrations of butyric
+acid that were higher than is considered to be desirable (Harrison et al., 1994). Inclusion of
+barley at 0, 150, 300 and 450 g/kg DM resulted in decreasing concentrations of CP in the
+whole diet (139, 133, 126 and 120 g CP/kg DM for GR and 167, 156, 146 and 135 g CP/kg
+DM for RC).
+The RUSITEC efﬂuent characteristics were highly inﬂuenced by both silage type and
+inclusion of grain (Table 2; Fig. 1). The efﬂuent of the RC silage had higher minimum
+pH (GR = 5.6, RC = 6.7; P < 0.01), ammonia–N concentrations (GR = 150, RC = 166 mg/l;
+P < 0.01) and minimum ammonia–N concentrations (GR = 104, RC = 122 mg/l; P < 0.01). In
+contrast, the GR silage produced efﬂuents with higher acetic (GR = 55, RC = 51; P < 0.05),
+propionic (GR = 22, RC = 19; P < 0.001), butyric (GR = 11, RC = 9; P < 0.001) and total
+volatile fatty acids (GR = 88, RC = 79; P < 0.01) than RC silage.
+Table 1
+Chemical composition of barley grain, and ryegrass and red clover silages
+Barley grain Silage
+Ryegrass Red clover
+Dry matter (g/kg) 869 312 296
+pH – 4.23 4.12
+Organic matter 919 814 807
+Crude protein 96.2 139 167
+Ammonia–N (g/kg total N) – 130 80
+Starch 697 – –
+Water-soluble carbohydrates 28.571.027.5
+Neutral detergent ﬁbre 185 484 357
+Acid detergent ﬁbre 57 274 275
+Ether extract 24 31 28
+Lactic acid – 68.457.5
+Acetic acid – 9.210.3
+Propionic acid – 1.41.3
+Butyric acid – 5.95.3
+Total fermentation acids – 84.974.4
+Means in g/kg dry matter, unless stated otherwise.
+G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91 85
+Table 2
+RUSITEC efﬂuent characteristics and digestion parameters of ryegrass and red clover silages supplemented with rolled barley grain
+Species Signiﬁcant factors Pa
+Ryegrass silage Red clover silage Sp Grain Sp×Gr
+0 150 300 450 0 150 300 450 S.E.M.b Lin Quad
+RUSITEC efﬂuent characteristics (mM, unless stated otherwise)
+pH, minimum 6.66.66.66.66.86.76.76.70.04 **
+Acetic acid (A) 60 52 55 54 54 51 52 47 2.8*c
+Propionic acid (P) 24 22 22 20 21 19 18 17 0.9 *** ***
+Butyric acid (B) 11 11 12 11 8 8 10 10 0.7 *** c
+Total volatile fatty acids 95 85 90 85 83 79 81 74 4.1**c
+P/(A + B) 0.34 0.34 0.32 0.30 0.33 0.33 0.30 0.30 0.004 *** *** quad*
+Ammonia–N, mean (mg/l) 196 163 137 104 199 184 160 121 7.0 ** ***
+Ammonia–N, minimum (mg/l) 144 119 102 52 144 149 119 78 7.9 ** *** **
+Digestibility (g/g)
+Dry matter 0.78 0.81 0.80 0.84 0.79 0.80 0.83 0.84 0.010 ***
+Organic matter (OM) 0.78 0.81 0.80 0.83 0.79 0.80 0.82 0.84 0.011 ***
+Neutral detergent ﬁbre 0.68 0.69 0.63 0.67 0.60 0.58 0.60 0.57 0.019 ***
+Acid detergent ﬁbre 0.69 0.70 0.69 0.67 0.58 0.56 0.59 0.57 0.015 ***
+Nitrogen 0.82 0.85 0.87 0.87 0.87 0.88 0.89 0.90 0.007 *** *** lin*
+Bacterial yield
+Dry matter (g/day) 2.72.82.43.12.53.13.53.70.14 *** *** d
+Protein (mg/day) 1094 1144 1025 1256 1031 1312 1550 1569 69.4 *** *** d
+a Gr, grain; Sp, species (ryegrass or red clover silage); lin, linear; quad, quadratic.
+b Standard error of the mean, n =3.
+c P ≤ 0.06; *P ≤ 0.05; **P ≤ 0.01; P ≤ 0.001.
+d Sp × Gr lin**, Sp × Gr quad*.
+86 G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91
+Fig. 1. pH (a), total volatile fatty acids (b) and ammonia–N (c) concentrations in the RUSITEC efﬂuent during
+a 24-h period for ryegrass and red clover silages supplemented with 0, 150, 300 and 450 g of barley per kg dry
+matter. Vertical bars equal one pooled standard error of the mean (n = 3).
+G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91 87
+Fig. 2. Association between dietary crude protein concentration (CP, g/kg dry matter, DM) and ammonia–N
+concentration in the efﬂuent for ryegrass (□, – – –) and red clover (▲, —) silages supplemented with 0, 150, 300
+and 450 g of barley per kg DM. Symbols represent mean values from each repeat period, and lines represent
+ﬁtted values. GR, y= −481 (S.E. = 177.3, P = 0.02) + 49 (S.E. = 13.6, P = 0.005) × CP, r2 = 0.56, P = 0.005; RC,
+y= −194 (S.E. = 129.0, P = 0.16) + 24 (S.E. = 8.5, P = 0.018) × CP, r2 = 0.44, P = 0.019.
+Inclusion of rolled barley grain in the silages linearly (P < 0.001) reduced the mean
+ammonia–N concentration in the efﬂuent as a consequence of the reduction in dietary
+CP concentration (Fig. 2), and induced a quadratic reduction (P < 0.01) of the minimum
+ammonia–N concentration. Both silage treatments with the highest rates of barley inclusion
+(450 g barley/kg DM) led to NH3–N concentrations below 100 mg/l by 6 and 8 h of incu-
+bation for GR and RC, respectively. Increasing the proportion of barley in the mixed diets
+reduced linearly (P < 0.06) the efﬂuent acetic, propionic and total VFA concentrations, but
+increased the butyric acid concentration (P < 0.06), which brought about a reduction of the
+glucogenic:lipogenic VFA ratio (propionate/(acetate + butyrate), P < 0.001).
+Red clover silage had lower (P < 0.001) NDF (GR = 0.67, RC = 0.59 g/g) and ADF
+(GR = 0.69; RC = 0.58 g/g) digestibilities than GR silages. In contrast, NAD was higher
+for RC than for GR silages (GR = 0.85, RC = 0.88; P < 0.001). Inclusion of barley grain
+linearly increased (P < 0.001) DMAD ,OMAD and NAD .
+Daily BY and BPY were also associated with barley inclusion (Table 2). Similarly,
+EBDMS was linearly associated (P < 0.05) with the rate of barley inclusion (Fig. 3), but EBPS
+increased linearly only up to the inclusion of 300 g barley/kg DM for RC silage, plateauing
+at this point (P Sp×quad < 0.05). There was no clear response in EBPS to increasing the rate
+of barley inclusion in the GR silage treatments.
+4. Discussion
+The apparent digestibilities of feed DM, OM and N all increased linearly with barley
+grain inclusion because of the addition of a highly digestible concentrate. In contrast, ﬁbre
+fraction digestibilities were not affected by grain inclusion, but there was a difference
+between GR and RC silages as expected (Van Soest, 1994).
+88 G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91
+Fig. 3. Efﬁciency of bacterial dry matter (a, EBDMS) and protein (b, EBPS) synthesis (g/kg organic matter apparently
+digested, OMAD) estimated by the RUSITEC technique as a function of rolled barley grain inclusion on ryegrass
+(©) and red clover (□) silages. Vertical bar equals one standard error of the mean (S.E.M., n = 3).
+Grass silage diets produced slightly more acidic efﬂuents than RC silage diets, and
+despite the wide variation in fermentable carbohydrates available among treatments,
+the drop in pH between the initial state and the minimum value was small, and pH
+was always above the threshold value of 6, below which microbial activity may be
+limited (Dawson and Allison, 1988). In accordance with these results, GR silage led
+to higher total VFA, acetic, propionic and butyric acid concentrations in the efﬂu-
+ent, as well as lower mean and minimum ammonia–N concentrations than RC silage
+treatments, which is in agreement with the lower CP concentrations of the GR silage
+diets.
+Inclusion of barley grain linearly reduced the efﬂuent concentrations of acetic, propi-
+onic and butyric acids, hence reducing the proportion of substrate carbons diverted to-
+wards fermentation products. As the proportion of carbon diverted to gaseous products
+was not expected to vary signiﬁcantly among treatments; these results suggest that in-
+creasing the availability of starch in the substrate induced an increasing accumulation of
+starch by rumen microorganisms. Bacteria accumulating, rather than hydrolysing and fer-
+menting, the starch consequently reduced the glucogenic:lipogenic fatty acid ratio. Ru-
+G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91 89
+men microorganisms have shown the capability of storing large amounts of cytoplasmatic
+polysaccharide storage granules (Russell and Wallace, 1988) and using them when am-
+monia concentrations increase (Van Kessel and Russel, 1997). Furthermore, the addition
+of concentrates to a diet can lead to an increase in the number of rumen protozoa (Hynd
+et al., 1985), which can account for between 20 and 45% of the amylolytic activity in
+the rumen (McAllister and Cheng, 1996). The rumen protozoa population regulates the
+rate of starch digestion (McAllister and Cheng, 1996) and reduces the post-feeding drop
+in pH (Veira et al., 1983) by engulﬁng starch granules (Coleman, 1986) and reducing
+the population of amylolytic bacteria through predation (Kurihara et al., 1968). However,
+both the RUSITEC system and nylon bag pore size have been shown to reduce protozoa
+populations (Carro et al., 1995). Unfortunately, lack of sufﬁcient bacterial sample pre-
+vented us from analysing its starch content in the current study, and we can only speculate
+that rumen bacteria stored a signiﬁcant proportion of the starch supplied by the barley
+grain.
+It appears that EBPS in GR treatments was N-limited as the minimum ammonia–N con-
+centration at the highest rate of barley inclusion was close to the breakpoint (50 mg/l)
+suggested by Satter and Slyter (1974), below which “the efﬁciency of ammonia utilisa-
+tion drops precipitously”. Other authors have also reported positive microbial responses
+to higher rumen ammonia–N concentrations (Odle and Schaefer, 1987; Van Soest, 1994).
+Furthermore, it is apparent that amylolytic bacteria growth is dependent on the availabil-
+ity of preformed AA (Russell et al., 1992). Thus, the lack of response to starch addi-
+tion in GR silage treatments could be associated with the expected low concentrations
+of the remaining AA and peptides in GR silage, as suggested by the silage ammonia–N
+concentration.
+The EBPS for RC silage increased with barley inclusion to a rate of 300 g barley/kg DM,
+which represents a 37% increase. No clear trend in EBPS was observed with increasing rates
+of barley inclusion for GR treatments, although at similar dietary CP concentrations the GR
+mix diets led to higher ammonia–N concentrations in the efﬂuent than the RC counterparts.
+This could be interpreted as a consequence of a reduction in proteolysis of RC proteins as
+reported by Hatﬁeld and Muck (1999), although GR silage had a signiﬁcantly higher NPN
+content than RC silage. Additionally, the autocorrelation between dietary CP and starch
+concentrations prevents the interpretation of changes in the ammonia–N concentration of
+the RUSITEC efﬂuent as an indication of improvement of EBPS (Chamberlain et al., 1993;
+Dhiman and Satter, 1994).
+5. Conclusions
+This study has shown that the efﬁciency of bacterial protein synthesis can be substantially
+increased by supplying rolled barley grain as a source of rumen-degradable carbohydrates
+for RC silages. However, no similar response was observed for diets based on GR silage.
+It also appears that despite a greater availability of rumen-degradable carbohydrates at
+higher rates of barley supplementation, rumen microorganisms reduced the amount fer-
+mented, probably by diverting a higher proportion of the available starch to their own
+reserves.
+90 G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91
+Acknowledgments
+The authors are indebted to Mr. D.K. Leemans for his assistance with the RUSITEC
+procedures and Mrs. S.J. Youell for the analysis of the samples. G. Jaurena is grateful for
+scholarships provided by the British Council and Fundaci´on Antorchas (Argentina).
+References
+Albrecht, K.A., Muck, R.E., 1991. Proteolysis in ensiled forage legumes that vary in tannin concentration. Crop
+Sci. 31, 464–469.
+ARC (Agricultural Research Council), 1980. The nutrient requirements of ruminant livestock. Commonwealth
+Agricultural Bureaux, Slough, UK.
+Carro, M.D., Lebzien, P., Rohr, K., 1995. Effects of pore size of nylon bags and dilution rate on fermentation
+parameters in a semi-continuous artiﬁcial rumen. Small Rumin. Res. 15, 113–119.
+Castillo, A.R., 1999. Improving nitrogen utilisation in dairy cows. Ph.D. Thesis, Reading, UK.
+Chamberlain, D.G., Robertson, S., Choung, J.-J., 1993. Sugar versus starch as supplements to grass silage: effects
+on ruminal fermentation and the supply of microbial protein to the small intestine, estimated from the urinary
+excretion of purine derivatives, in sheep. J. Sci. Food Agric. 63, 189–194.
+Chamberlain, D.G., Thomas, P.C., Wilson, W., Newbold, C.J., Macdonald, A.J., 1985. The effects of carbohydrate
+supplements on ruminal concentrations of ammonia in animals given diets of grass silage. J. Agric. Sci. Camb.
+104, 331–340.
+Coleman, G.S., 1986. The metabolism of rumen ciliate proteozoa. FEMS Microbiol. Rev. 39, 321–344.
+Czerkawski, J.W., Breckenridge, G., 1977. Design and development of long-term rumen simulation technique
+(RUSITEC). Br. J. Nutr. 38, 271–384.
+Dawson, K.A., Allison, M.J., 1988. Digestive disorders and nutritional toxicity. Elsevier, England, London, New
+York.
+Dewhurst, R.J., Davies, D.R., Merry, R.J., 2000. Microbial protein supply from the rumen. Anim. Feed Sci.
+Technol. 85, 1–21.
+Dhiman, T.R., Satter, L.D., 1994. Milk yield and rumen fermentation measurements in cows fed diets containing
+different proportions of alfalfa and corn silage. J. Dairy Sci. 77, 222 (Abstr.).
+GenStat, 2000. Genstat for Windows, 5th ed. VSN International, Oxford.
+Harrison, J.H., Blauwiekel, R., Stokes, M.R., 1994. Fermentation and utilisation of grass silage. J. Dairy Sci. 77,
+3209–3235.
+Hatﬁeld, R.D., Muck, R.E., 1999. Characterising proteolytic inhibition in red clover silage. In: Proceedings of the
+XIIth International Silage Conference, Uppsala, Sweden, pp. 149–150.
+Hynd, P.I., Valentine, S.C., Bartsch, B.D., 1985. Rumen protozoa numbers in dairy cows fed barley or lupins.
+Proc. Nutr. Soc. 10, 147–150.
+Jones, B.A., Muck, R.E., Hatﬁeld, R.D., 1995. Red clover extracts inhibit legume proteolysis. J. Sci. Food Agric.
+67, 329–333.
+Keady, T.W.J., Maine, C.S., Marsden, M., 1998. The effects of concentrate energy source on silage intake and
+animal performance with lactating dairy cows offered a range of grass silages. Anim. Sci. 66, 21–33.
+Komprda, T., Homolka, P., Harazim, J., 1996. Inﬂuence of chemical enzymatic and phytogenic ensiling prepa-
+rations on digestibility, degradability and PDI and NEI content of lucerne and red clover. Anim. Feed Sci.
+Technol. 61, 325–334.
+Kurihara, Y., Eadie, J.M., Hobson, P.N., Mann, S.O., 1968. Relationship between bacteria and ciliate protozoa in
+the sheep rumen. J. Gen. Microbiol. 51, 267–288.
+Lee, M.R.F., et al., 2003. Effect of increasing availability of water-soluble carbohydrates on in vitro rumen
+fermentation. Anim. Feed Sci. Technol. 104, 59–70.
+MAFF (Ministry of Agriculture, Fisheries and Food), 1986. Standing committee on tables of feed composition.
+UK tables of feed composition and nutritive value for ruminants. Chalcombe Publications, Marlow.
+G. Jaurena et al. / Animal Feed Science and Technology 118 (2005) 79–91 91
+McAllister, T.A., Cheng, K.J., 1996. Microbial strategies in the ruminal digestion of cereal grains. Anim. Feed
+Sci. Technol. 62, 29–36.
+McDonald, P., Henderson, N., Mac Gregor, A.W., 1991. Chemical changes and losses during the ensilage of wilted
+grass. J. Sci. Food Agric. 19, 125–132.
+McDougall, E.I., 1948. Studies on ruminant saliva. I. The composition and output of sheep’s saliva. Biochem. J.
+43, 99–109.
+Odle, J., Schaefer, D.M., 1987. Inﬂuence of rumen ammonia concentration on the rumen degradation rates of
+barely and maize. Br. J. Nutr. 57, 127–138.
+Oh, Y.-G., Kim, K.H., Kim, J.-H., Choung, J.-J., Chamberlain, D.G., 1999. The effect of the form of nitrogen in
+the diet on ruminal fermentation and the yield of microbial protein in sheep consuming diets of grass silage
+supplemented with starch or sucrose. Anim. Feed Sci. Technol. 78, 227–237.
+Papadopoulos, Y.A., McKersie, B.D., 1983. A comparison of protein degradation during wilting and ensiling of
+six forage species. Can. J. Plant Sci. 63, 903–908.
+Reynolds, C.K., et al., 2001. Effects of postrumen starch infusion on milk production and energy metabolism in
+dairy cows. J. Dairy Sci. 84, 2250–2259.
+Russell, J., O’Connor, J.D., Fox, D.G., Van Soest, P.J., Sniffen, C.J., 1992. A net carbohydrate and protein system
+for evaluating cattle diets. 1. Ruminal fermentation. J. Anim. Sci. 70, 3551–3561.
+Russell, J.B., Wallace, R.J., 1988. Energy yielding and consuming reactions. Elsevier, England, London, New
+York.
+Satter, L.D., Slyter, L.L., 1974. Effect of ammonia concentration on rumen microbial protein production in vitro.
+Br. J. Nutr. 32, 199–208.
+Thomas, C., Thomas, P.C., 1985. Factors affecting the nutritive value of grass silages. In: Haresign, H., Cole,
+D.J.A. (Eds.), Recent Advances in Animal Nutrition. Butterworths, London, pp. 223–256.
+Van Kessel, J.S., Russel, J.B., 1997. The endogenous polysaccharide utilisation rate of mixed ruminal bacteria
+and the effect on ruminal fermentation rates. J. Dairy Sci. 80, 2442–2448.
+Van Soest, P.J., 1994. Nutritional Ecology of the Ruminant, 2nd ed. Comstock Publishing Associates, Cornell
+University Press, Ithaca, London.
+Van Soest, P.J., Robertson, J.B., Lewis, B.A., 1991. Methods for dietary ﬁber, neutral detergent ﬁber, and nonstarch
+polysaccharides in relation to animal nutrition. J. Dairy Sci. 74, 3568–3597.
+Van Soest, P.J., Wine, R.H., 1967. Use of detergent in the analysis of ﬁbrous feeds. IV. Determination of plant cell
+wall constituents. J. Assoc. Off. Anal. Chem. 50, 50–55.
+Veira, D.M., Ivan, M., Jui, P.Y., 1983. Rumen ciliate protozoa: effects on digestion in the stomach of sheep. J.
+Dairy Sci. 66, 1015–1022.

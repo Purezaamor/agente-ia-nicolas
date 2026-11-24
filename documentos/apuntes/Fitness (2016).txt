@@ -1,0 +1,773 @@
+=== Fuente: Fitness (2016).pdf ===
+
+Glyphosate Resistance in Perennial Ryegrass (Lolium perenne L.) is Associated
+with a Fitness Penalty
+Marcos Yanniccari, Martín Vila-Aiub, Carolina Istilart, Horacio Acciaresi, and Ana M. Castro*
+The net selection effect of herbicides on herbicide-resistance traits in weeds is conditioned by the
+fitness benefits and costs associated with resistance alleles. Fitness costs play an important
+evolutionary role preventing the fixation of adaptive alleles and contributing to the maintenance of
+genetic polymorphisms within populations. Glyphosate is widely used in world agriculture, which
+has led to the evolution of widespread glyphosate resistance in many weed species. The fitness of
+glyphosate-resistant and -susceptible perennial ryegrass plants selected from within a single
+population were studied in two field experiments conducted during 2011 and 2012 under different
+soil water availability. Glyphosate-resistant plants showed a reduction in height of 12 and 16%, leaf
+blade area of 16 and 33%, shoot biomass of 45 and 55%, seed number of 33 and 53%, and total
+seed mass of 16 and 5% compared to glyphosate-susceptible plants in 2011 and 2012, respectively.
+The reduction in seed number per plant resulted in a 40% fitness cost associated with the
+glyphosate-resistance trait in perennial ryegrass. Fitness costs of glyphosate-resistant plants were
+expressed under both conditions of water availability. These results could be useful for designing
+management strategies and exploiting the reduced glyphosate-resistant perennial ryegrass fitness in
+the absence of glyphosate selection.
+Nomenclature: Glyphosate; perennial ryegrass, Lolium perenne L., LOLPE.
+Key words: Fitness trait, genetic background, plant competition, resistance evolution.
+Continuous herbicide selection over genetically
+diverse plant populations often results in herbicide-
+resistance evolution (Powles and Yu 2010). The
+rate of this evolutionary process results from the
+opposing benefit and cost effects associated with
+the adaptive alleles (Baucom and Mauricio 2004).
+The benefits of resistance alleles are clear, as they
+endow survival and reproduction under herbicide
+selection, with the magnitude of the benefit a func-
+tion of the level of protection conferred to the treated
+plants. However, these benefits may be offset in
+herbicide-free environments because of the expres-
+sion of negative pleiotropic effects on fitness (i.e.,
+fitness costs) (Bergelson and Purrington 1996; Roux
+et al. 2004; Tardif et al. 2006; Vila-Aiub et al. 2005b).
+Fitness costs play an important evolutionary role
+in preventing the fixation of adaptive alleles and con-
+tributing to the maintenance of genetic polymorph-
+isms within populations (Antonovics and Thrall
+1994). Herbicide-resistance traits are rare in weed
+populations prior to herbicide selection, and fitness
+costs, together with random genetic drift, are the
+driving ecological factors associated with their net
+frequency in agroecosystems (Preston and Powles
+2002). Fitness costs associated with herbicide-
+resistance alleles are evident, but not universal,
+among plant species (Vila-Aiub et al. 2009). There
+are inherent difficulties in measuring the expression
+and magnitude of fitness costs, and therefore the
+control of genetic background is essential to ascribe
+costs unequivocally to herbicide-resistance alleles
+(Vila-Aiub et al. 2011).
+The adoption of glyphosate-resistant transgenic
+crops, mainly in the Americas, has resulted in gly-
+phosate becoming the most widely used herbicide
+in the world. This has inevitably increased the selec-
+tion intensity for glyphosate-resistance traits in
+agroecosystems (Vila-Aiub et al. 2008). Since the
+first report of glyphosate resistance, the evolution of
+glyphosate-resistant weed populations has rapidly
+escalated (Duke and Powles 2008; Powles et al.
+1998). However, to date there is little understanding
+of the fitness cost associated with glyphosate-
+resistance genes (Vila-Aiub et al. 2009). A recent
+DOI: 10.1614/WS-D-15-00065.1
+* First and fifth authors: Researchers, Plant Physiology Institute
+(Consejo Nacional de Investigaciones Científicas y Técnicas, Uni-
+versidad Nacional de La Plata), La Plata (1900), Argentina; sec-
+ond author: Researcher, Agricultural Plant Physiology and
+Ecology Research Institute (Consejo Nacional de Investigaciones
+Científicas y Técnicas, Universidad de Buenos Aires), Buenos
+Aires (1417), Argentina, and School of Plant Biology, Institute
+of Agriculture, University of Western Australia; third author:
+Researcher, Chacra Experimental Integrada Barrow (MAA-
+INTA), Tres Arroyos (7500), Argentina; fourth author:
+Researcher, Comisión de Investigaciones Científicas Provincia
+de Buenos Aires & INTA, Pergamino (2700), Argentina.
+Corresponding author’s E-mail: marcosyanniccari@conicet.gov.ar
+Weed Science 2016 64:71–79
+Yanniccari et al.: Fitness costs of glyphosate resistance . 71
+report has documented a reduction in the glypho-
+sate-resistance phenotypic frequency over several
+generations in segregating rigid ryegrass (Lolium rigi-
+dum Gaudin) populations exhibiting glyphosate
+vacuolar sequestration as the glyphosate-resistance
+mechanism (Ge et al. 2012; Preston et al. 2009).
+However, the particular fitness traits responsible for
+the reversion of the glyphosate-resistance frequency
+in these populations have not been identified.
+The expression of fitness costs associated with her-
+bicide-resistance alleles is not universal (Vila-Aiub
+et al. 2009). The expression of fitness costs has
+been shown to depend on the particular herbicide-
+resistance gene (Vila-Aiub et al. 2005a) and allele
+(Ashigh and Tardif 2007; Menchari et al. 2008; Pur-
+rington and Bergelson 1999; Vila-Aiub et al. 2015a;
+Yu et al. 2010), the dominance of the fitness cost
+(Roux et al. 2004), the genetic background (Paris
+et al. 2008), and the abiotic and biotic environmen-
+tal conditions. Fitness costs associated with glypho-
+sate resistance have been reported to vary from
+small to negligible. Associated with a glyphosate-
+reduced translocation trait (Preston and Wakelin
+2008), Pedersen et al. (2007) reported a reduction
+(4 to 18%) in seed number associated with resistant
+rigid ryegrassplants when subjected to no or low
+competition from wheat. Recent results from Yu
+et al. (2015) suggest that a significant resistance
+cost would be associated with a double target-site
+mutation in the 5-enolpyruvyl-shikimate-3-phos-
+phate synthase (EPSPS) gene in glyphosate-resistant
+goosegrass [Eleusine indica (L.) Gaertn.]. However,
+no evidence of fitness costs has been found in gly-
+phosate-resistant Palmer amaranth (Amaranthus pal-
+meri S. Wats.) exhibiting higher amplification of
+the EPSPS gene (Giacomini et al. 2014; Vila-Aiub
+et al. 2014).
+Cytochrome P450 enhanced metabolism and par-
+ticular target-site ACCase gene mutations (Asp-2078-
+Gly) are associated with the expression of fitness costs
+in rigid ryegrass (Vila-Aiub et al. 2005a,b, 2009).
+However, rigid ryegrass plants carrying ALS-
+resistance alleles or other particular ACCase mutations
+(Ile-1781-Leu) do not express any reduction in fit‐
+ness traits (Vila-Aiub et al. 2015a; Yu et al. 2010).
+The assessment of fitness costs enables a better
+understanding and prediction of herbicide-resistance
+evolution in weed populations, and therefore, its esti-
+mation has a role in developing better resistance-
+management practices (Jasieniuk et al. 1996; Jordan
+et al. 1999; Menchari et al. 2008; Vila-Aiub et al.
+2009). Given the important value of glyphosate
+in current agriculture worldwide and the rapid
+widespread glyphosate-resistance evolution in many
+weed species, it is significant to quantify the effect
+of glyphosate-resistance traits on plant fitness.
+Lolium species commonly occur as weeds of cereal
+crops (Charmet et al. 1996). In Argentina, natura-
+lized populations of perennial ryegrass are often
+found in disturbed plant communities throughout
+the country, and are present in grasslands of the
+Pampas region (Yanniccari and Acciaresi 2013). Pe‐
+rennial ryegrass is allogamous, allowing some degree
+of self-pollination (Yanniccari et al. 2015), and
+each plant can produce up to 12,000 seeds (Lodovi-
+chi and Yanniccari 2015). Both factors play a key
+role in herbicide-resistance evolution (Powles and
+Yu 2010).
+Glyphosate resistance in perennial ryegrass has
+been recently identified for the first time in agroeco-
+systems (Yanniccari et al. 2012a). In this population,
+a 10.8-fold greater dose of glyphosate was necessary
+to match the control efficiency on the susceptible
+one (Yanniccari et al. 2012a). Results from prelimin-
+ary experiments have shown that glyphosate resis-
+tance in this population is due to higher EPSPS
+activity (M. Yanniccari, unpublished observation)
+and controlled by a single locus with incomplete
+dominance in which maternal effects are unlikely to
+play a major role (Yanniccari et al. 2015). The aim
+of the present study was to assess and quantify the
+effect of glyphosate resistance on growth traits and
+reproductive fitness in glyphosate-free environments.
+Materials and Methods
+Plant Material and Genetic Background Control.
+Perennial ryegrass seeds from a large segregating gly-
+phosate-resistant population were collected in a field
+of the south of Buenos Aires province (37uS, 62uW)
+in 2009. In this area, perennial ryegrass is found over
+an extended area (8,000 ha) in which no landscape
+boundaries for pollen exchange among plants of
+this cross-pollinated species are evident. The fields
+had a history of 12 yr under no-tillage agriculture,
+with weed control based on three applications of
+glyphosate per year at doses ranging from 360 to
+720 g ae ha−1 (Yanniccari et al. 2012a). One hun-
+dred field-collected seeds from 50 randomly chosen
+plants were germinated in Petri dishes containing fil-
+ter paper with distilled water in a growth chamber
+with 75 μmol m−2 s−1 of photosynthetically active
+radiation, in a regime of 12/12 h of light/darkness
+and temperatures of 25 C/15 C day/night. After
+7 d, each seedling was transferred to a pot of
+250 cm3 filled with soil. The plants were grown in
+72 . Weed Science 64, January–March 2016
+a greenhouse and pots were subirrigated daily to field
+capacity. Fertilizer (12 : 10 : 20, NitrofoskaH,
+Compo Argentina) (2 g L−1) was added every 15 d.
+Plants were grown for 8 wk and vegetative clones
+of individual plants were propagated by tiller parti-
+tion in order to obtain four ramets per plant.
+When individual ramets developed three to four til-
+lers, each one was treated with 0, 500, 1,000, or
+2,000 g ha−1 glyphosate (isopropylamine salt of
+glyphosate, RoundupH, 360 g L−1, Monsanto
+Argentina), with the use of a backpack sprayer
+equipped with flat-fan nozzles (TeejetH 11002) and
+calibrated to deliver 150 L ha−1. At 21 d postapplica-
+tion, plants were characterized as glyphosate suscep-
+tible (with no survivors at 500 g ha−1 and higher
+doses) or glyphosate resistant (surviving plants at
+2,000 g ha−1 and lower doses). These contrasting
+phenotypes were expected to be the homozygous
+(RR) glyphosate-susceptible and -resistant (R’R’)
+genotypes, respectively (Yanniccari et al. 2015).
+Plants with intermediate glyphosate resistance (i.e.,
+plants surviving at 500 or 1,000 g ha−1 but not at
+higher rates, likely corresponding to heterozygous
+genotype RR’) were discarded and not included in
+this study. Glyphosate-untreated susceptible and
+resistant clones were used for the field experiments.
+This protocol was chosen to obtain ecologically con-
+trasting phenotypes sharing a common genetic back-
+ground (Vila-Aiub et al. 2011).
+Field Experiments. Field experiments were con-
+ducted in La Plata, Argentina (34uS, 58uW) under
+field conditions during June to December 2011
+and repeated during the same months in 2012. In
+each year, 18 glyphosate-resistant and 18 susceptible
+plants at five- to six-tiller stage were planted in win-
+ter and grown in experimental plots with plants
+spaced at 30 cm in a square planting pattern in a
+completely randomized design with 18 replicates
+per phenotype.
+The soil was a typical Argiudoll with the following
+characteristics in the upper 25 cm: loamy, 4.2%
+organic matter, 0.24% N, 23 ppm P (Bray Kurtz),
+and pH of 6.8. The field history was 3 and 4 yr of
+pastures in 2011 and 2012, respectively (no herbi-
+cide was applied in the pasture). Prior to the experi-
+ments, soil was tilled with the use of a motocultor
+(ER-75, Kubota, Osaka, Japan). In the 2011 experi-
+ment, irrigation (35 mm weekly, with a total of
+840 mm in the growing season) was used to comple-
+ment rainfall (303 mm in the growing season). In
+the 2012 experiment, glyphosate-resistant and -sus-
+ceptible plants competed under rain-fed conditions
+(543 mm in the growing season). Manual weeding
+was performed weekly in both experiments.
+Assessment of Plant Fitness Traits. Growth habit
+(prostrate or erect); plant height (from the tiller
+base to the apex of most distant organ—leaf or spike)
+at 60, 120, and 150 d after planting (DAP); leaf
+blade area (n 5 10 per plant) at heading stage (fol-
+lowing the nondestructive method of Pandey and
+Singh 2011); shoot biomass at maturity stage; seed
+mass (i.e., 1,000 seed weight with 12% of humidity)
+and number; and harvest index (seed mass to total
+aboveground biomass ratio) per plant were measured
+in both years. Harvested plants were dried in a circu-
+lating air oven at 60 C to constant moisture content.
+In the 2012 experiment, the number of spikes per
+plant, spikelets per spike, and seeds per spikelets
+were recorded. The numbers of days required to visi-
+ble first node of stem, heading stage, and harvest
+maturity were recorded on a weekly basis.
+The magnitude (%) of the fitness cost associated
+with glyphosate resistance was estimated as ([1–
+(resistant fitness/susceptible fitness)] 6 100) based
+on the number of seeds produced per plant (May-
+nard Smith 1998).
+Glyphosate-Resistance Profile in the Selected S
+and R Phenotypes: Progeny Bioassay. Glyphosate-
+resistance assessment of the selected discrete glypho-
+sate-resistant and -susceptible plants was conducted
+by examining the resistance profile of their progeny.
+In a greenhouse, clones of the selected plants were
+grown in 3-L pots with soil. In order to ensure cross
+pollination within resistant or susceptible pheno-
+types, the glyphosate-resistant and -susceptible plants
+were isolated in pollen-proof enclosures at the repro-
+ductive stage. At maturity, seeds were collected and
+stored under laboratory conditions (room tempera-
+ture, ranging between 20 and 25 C). Glyphosate
+resistance was estimated by measuring coleoptile
+growth of 50 seeds per treatment incubated in Petri
+dishes containing filter paper and 10 ml of 0, 10,
+20, 40, 80, 160, 320, and 640 mg glyphosate L−1
+(Yanniccari et al. 2012a).
+Seeds were incubated in a growth chamber for 7 d
+with 75 mmol m−2 s−1 of photosynthetically active
+radiation, 12-h photoperiod, and 25 C/15 C day/
+night fluctuating temperature, with three repli‐
+cates per herbicide treatment. This experiment was
+repeated twice.
+Yanniccari et al.: Fitness costs of glyphosate resistance . 73
+Statistical Analysis. Coleoptile length was analyzed
+by nonlinear log-logistic regression as described by
+Streibig et al. (1993):
+y ¼ C þ D /C0 CðÞ
+1 þ x GR50
+/C16/C17
+b
+where y is the coleoptile length at the herbicide con-
+centration x, C is the lower asymptote, D is the upper
+asymptote, b is the slope of the line, and GR50 is the
+glyphosate concentration required to inhibit 50% of
+coleoptile growth. To assess the accuracy of the
+model, F test for model significance, residual variance
+analysis and coefficient of determination (R2) were
+estimated. The independence of the models for pro-
+genies from both resistant and susceptible pheno-
+types was evaluated with the use of an F test. GR50
+parameters of both data sets were compared.
+A chi-square test (χ2) for independence of glypho-
+sate sensitivity and growth habit was performed. All
+other data were analyzed by one-way or multifactor-
+ial analysis of variance (ANOVA) according to the
+number of sources of variation considered: pheno-
+type (glyphosate resistant and susceptible), year
+(2011 and 2012), DAP (60, 120, and 150), and
+their interactions. Residual plots indicated that the
+variances were normally distributed and Bartlett’s
+test was used to determine variance homogeneity.
+Means were compared with the use of Fisher’s
+LSD test (P , 0.05).
+Results and Discussion
+In the initial selection tests with the field-collected
+perennial ryegrass population, a total of 90 and 93
+plants were characterized according to their response
+to glyphosate sensitivity in the 2011 and 2012
+experiments, respectively. About 20% of the plants
+survived at 2,000 g ha−1, 30% of the individuals
+were controlled at 500 g ha−1, and the remainder
+of the plants showed intermediate glyphosate resis-
+tance. These results are in agreement with those
+reported previously from this perennial ryegrass
+population (Yanniccari et al. 2012a). The glypho-
+sate-susceptible and -resistant plants identified from
+within the perennial ryegrass population served as
+the phenotypic lines for the fitness studies.
+Glyphosate-Resistance Bioassay. A significant dif-
+ference in coleoptile length was evident between the
+glyphosate-resistant and -susceptible germinated
+seeds in the presence of glyphosate. Coleoptile
+growth in the susceptible seeds was more inhibited
+by glyphosate compared to that of resistant seeds
+(Figure 1). Estimated glyphosate concentrations to
+inhibit 50% coleoptile growth (GR50) for the sus-
+ceptible and resistant phenotypes were 38 and 143
+mg L−1, respectively (Figure 1), making the glypho-
+sate-resistant phenotype within the population four-
+fold resistant to glyphosate.
+Phenology and Growth Habit. No significant dif-
+ferences were recorded in the length of vegetative
+and reproductive stages between the glyphosate-
+resistant and -susceptible plants (P 5 0.79). On
+average, the reproductive period started at 60 DAP.
+Similarly, the number of days from planting to spike
+emergence (i.e., heading) stage showed no differ-
+ences between phenotypes (P 5 0.39) (Table 1).
+These results were similar in both years (P 5 0.25).
+Glyphosate-resistant and -susceptible phenotypes
+showed both prostrate and erect growth habits being
+equally represented (P 5 0.65), within each pheno-
+type at 55 and 45% erect and prostrate plants,
+respectively.
+Fitness Traits: Vegetative Growth. Significant
+interactions of phenotype ∗ DAP and year ∗ DAP
+were found for plant height of glyphosate-resistant
+and -susceptible phenotype (Table 2). This indicates
+that plant height was different between phenotypes
+depending on the elapsed days after planting and dif-
+ferences in height were also found between years
+regardless of the phenotype (Table 2). This differen-
+tial plant height between phenotypes was evident in
+Figure 1. Coleoptile length (mm) in glyphosate-resistant (
+?
+)
+and -susceptible (
+˚
+) Perennial ryegrass seedlings 7 d after seed
+germination in response to increasing glyphosate rates. Lines are
+predicted values derived from nonlinear regression analysis (P
+value for model signiﬁcance and R2 are shown). Symbols denote
+mean (n 5 3) ¡ standard error of the mean.
+74 . Weed Science 64, January–March 2016
+both 2011 and 2012 (Table 2), with individuals from
+the glyphosate-resistant phenotype being shorter
+(14% on average), compared to plants from the gly-
+phosate-susceptible phenotype (Figure 2). Differ-
+ences in plant height were apparent during the
+reproductive stage (120 and 150 DAP) when glypho-
+sate-resistant plants were 11.8 and 10.7 cm shorter
+than susceptible plants in 2011 and 2012, respec-
+tively (Figure 2).
+Leaf blade area was significantly different (P ,
+0.001) between biotypes in both years and between
+years with leaf blade area larger in 2011 than 2012
+(Table 2, Figure 3A), but showed no significant inter-
+action of phenotype ∗ year (P 5 0.83). Plants of the
+glyphosate-resistant phenotype showed, on average,
+a 24.5% lower leaf blade area compared to plants of
+the susceptible phenotype (Figure 3A).
+The results of this study show that despite no appar-
+ent variations in phenological traits and growth habits
+between the glyphosate-resistant and -susceptible per-
+ennial ryegrass phenotypes, resistant individuals express
+differences in fitness traits. At the reproductive stage,
+individuals of the resistant phenotype were consistently
+shorter than plants of the susceptible phenotype. This
+differential plant height is likely to influence the
+amount of light intercepted by plants, which has
+important implications for the potential competitive
+ability (Falster and Westoby, 2003). Plants with a
+greater leaf area index concentrated in the upper
+canopy have also been shown to display a competitive
+advantage for light (Grahan et al. 1998).
+Total shoot biomass produced per plant was dif-
+ferent between phenotypes (P , 0.001). Although
+year had a significant effect on the production of
+Table 1. Phenological development of glyphosate-resistant and -susceptible perennial ryegrass phenotypes.a
+Phenotype Days to first node of stem visible Days to heading stage Days to harvest maturity
+Susceptible 60.0 ¡ 1.8 132.0 ¡ 1.2 196.4 ¡ 1.6
+Resistant 60.8 ¡ 2.4 133.8 ¡ 1.7 194.2 ¡ 2.1
+a Days were counted from transplanting until the corresponding developmental stage. Means values of the 2011 and 2012 experiments ¡
+standard error of the mean are shown (n 5 36).
+Table 2. Summary of ANOVA: mean-square (MS), degrees of freedom (df), and probability values (P) for the effect of Lolium perenne
+phenotype,a year of experiment,b days after planting (DAP),c and their interaction on vegetative and reproductive growth parameters.
+Source of variation Plant height Leaf blade area Shoot biomass Seed number Seed weightd Harvest index
+Phenotype MS 5 2,707 MS 5 235 MS 5 44,858 MS 5 1.2 109 MS 5 1.16 MS 5 0.0016
+df 5 1df5 1df5 1df5 1df5 1df5 1
+P , 0.001 P , 0.001 P , 0.001 P , 0.001 P 5 0.044 P 5 0.32
+Year MS 5 10,117 MS 5 1,396 MS 5 64,710 MS 5 1.8 108 MS 5 2.38 MS 5 0.0003
+df 5 1df5 1df5 1df5 1df5 1df5 1
+P , 0.001 P , 0.001 P , 0.001 P , 0.001 P 5 0.004 P 5 0.64
+DAP MS 5 41,943
+df 5 2
+P , 0.001
+Phenotype ∗ Year MS 5 13 MS 5 0.4 MS 5 3,633 MS 5 1.2 106 MS 5 0.32 MS 5 0.0017
+df 5 1df5 1df5 1df5 1df5 1df5 1
+P 5 0.3 P 5 0.83 P 5 0.17 P 5 0.66 P 5 0.28 P 5 0.3
+Phenotype ∗ DAP MS 5 329
+df 5 2
+P 5 0.026
+Year ∗ DAP MS 5 1,022
+df 5 2
+P , 0.001
+Phenotype ∗ Year ∗
+DAP
+MS 5 28
+df 5 2
+P 5 0.73
+Error MS 5 89 MS 5 9.7 MS 5 1,926 MS 5 6.6 106 MS 5 0.27 MS 5 0.0016
+df 5 204 df 5 68 df 5 68 df 5 68 df 5 68 df 5 68
+a Glyphosate-resistant and -susceptible phenotypes.
+b 2011 and 2012.
+c 60, 120, and 150 DAP.
+d n 5 1,000.
+Yanniccari et al.: Fitness costs of glyphosate resistance . 75
+shoot biomass (P , 0.001), this was likely attributed
+to different water availability conditions. In the 2011
+experiment, irrigation was used to complement rain-
+fall, leading to about twice as much water availabil-
+ity, and shoot biomass production was twice that
+measured in 2012. Despite these differences in the
+amount of water available for plants between
+experiments, the phenotype effect on shoot biomass
+persisted between years. Total shoot biomass pro-
+duced by glyphosate-resistant plants was approxi-
+mately one half of that of susceptible plants
+(Figure 3B).
+The differences in plant height between both phe-
+notypes were likely linked to the aerial plant biomass
+at maturity stage. However, the relative difference in
+total shoot biomass (50%) was higher than the rela-
+tive differences in height (14%) and the leaf blade
+area (24.5%). These size comparisons indicate that
+glyphosate-resistant plants were smaller than sus‐
+ceptible plants in all resource competition compo-
+nents (Goldberg 1990). Smaller plants usually show
+weaker competitive responses and effects on neigh-
+bor plants (Goldberg 1990).
+Fitness Traits: Seed Yield Components. Glypho-
+sate-resistant and -susceptible phenotypes showed dif-
+ferences in the number of spikes produced per plant
+(P 5 0.005), spikelets per spike (P 5 0.003), and
+seeds per spikelet (P 5 0.03) (Figure 4). Glyphosate-
+resistant plants had 25% fewer spikes, 10% fewer spi-
+kelets per spike, and fewer seeds per spikelet than
+glyphosate-susceptible plants (Figure 4). In 2011,
+regardless of the phenotype, seed production was
+approximately twofold higher than that in 2012
+(Figure 5A). This, again, was likely due to the extra
+water availability in 2011. Overall, glyphosate-resis-
+tant plants producing 40% less seed than glyphosate-
+susceptible plants in both years (Figure 5A).
+The number of progeny is a key fecundity trait
+contributing to absolute fitness at the population
+level (Maynard Smith 1998; Vila-Aiub et al.
+2009, 2015b). The reduced seed production of gly-
+phosate-resistant individuals was mainly due to
+reproductive tillers, spikelets per plant, and seeds
+Figure 3. Leaf area (A) and total shoot biomass (B) produced
+per plant from glyphosate-resistant (gray bars) and -susceptible
+(white bars) Perennial ryegrass phenotypes in 2011 and 2012.
+Values are mean (n 5 18) and vertical bars represent ¡ 1
+standard errors. Phenotype effect: P , 0.001 (see Table 2).
+Figure 2. Plant height of glyphosate-resistant (
+?
+) and -susceptible (
+˚
+) Perennial ryegrass phenotypes at 60, 120, and 150 d after
+planting in (A) 2011 and (B) 2012. Values represent mean (n 5 18) and vertical bars denote ¡ 1 standard errors. Phenotype effect: P ,
+0.001 (see Table 2).
+76 . Weed Science 64, January–March 2016
+per spikelet. The reduced fecundity associated with
+glyphosate resistance in this perennial ryegrass phe-
+notype cannot be explained by differences in net
+carbon assimilation and transportation of assimi-
+lated carbon (Yanniccari et al. 2012b,c). These
+results are similar to those described by Pedersen
+et al. (2007), who reported a reduction in seed
+number of glyphosate-resistant perennial ryegrass
+when competing with wheat.
+In both years thousand-seed weight in the glypho-
+sate-resistant plants was lower (10% on average) than
+that of susceptible plants (Table 2, Figure 5B).
+Although the number and weight of seeds produced
+were different between susceptible and resistant
+plants, the ratio of seed weight to total plant weight
+was not significantly affected by the source of varia-
+tions: phenotype, year nor phenotype ∗ year interaction
+(Table 2), with a harvest index of 12.6% (¡0.4%
+standard error). Resource allocation to reproduction
+(i.e., harvest index) was similar between both glypho-
+sate-resistant and -susceptible phenotypes highlight-
+ing that, whereas the smaller glyphosate-resistant
+plants showed lower reproductive output compared
+to the larger glyphosate-susceptible individuals, all
+plants maximized their reproductive output and rela-
+tive allocation to reproduction was a constant trait
+across all sizes (Bonser and Aarssen 2009).
+Provided that all other life-history traits remain
+similar, the observed differences in seed production
+between the glyphosate-resistant and -susceptible
+perennial ryegrass plants is likely to determine their
+persistence and frequency in populations in the
+absence of glyphosate selection (Vila-Aiub et al.
+Figure 4. Reproductive traits of glyphosate-resistant and -sus-
+ceptible Perennial ryegrass plants. (A) Number of spikes produced
+per plant, (B) number of spikelets produced per spike, and (C)
+number of seeds produced per spikelet. Values are mean (n 5 18)
+and vertical bars represent ¡ 1 standard error. Letters above the
+bars indicate statistical signiﬁcance (P , 0.05).
+Figure 5. Seed number (A) and mass (n 5 1,000) (B) estimated
+in glyphosate-resistant (gray bars) and -susceptible (white bars)
+perennial ryegrass plants in 2011 and 2012. Values are mean (n 5
+18) and vertical bars represent ¡ 1 standard error. Phenotype
+effects: (A) P , 0.001 and (B) P 5 0.044 (see Table 2).
+Yanniccari et al.: Fitness costs of glyphosate resistance . 77
+2009). Therefore, it is likely a decline in the fre-
+quency of glyphosate-resistant individuals would
+occur once glyphosate selection is removed from
+the environment. Similarly, a reduction in the phe-
+notypic level of glyphosate resistance over time has
+been observed in various perennial ryegrass popula-
+tions (Preston et al. 2009). Although the specific
+perennial ryegrass fitness trait driving this glypho-
+sate-resistance decline has not been determined,
+fitness costs in these populations likely originate
+from a resistance mechanism that impairs glyphosate
+translocation within the plants (Ge et al. 2012). It is
+clear that fitness costs associated with herbicide resis-
+tance are dependent on the particular resistance gene
+and mechanism selected in plants (Vila-Aiub et al.
+2009). The fitness costs observed in our study are
+not associated with a target-site mutation in the
+EPSPS perennial ryegrass gene but a higher EPSPS
+activity (M. Yanniccari, unpublished observation).
+Recent evidence shows that constitutive amplifica-
+tion of the EPSPS gene resulting in up to 160 gene
+copy numbers in Palmer amaranth does not attract
+negative pleiotropic effects on plant growth and
+reproductive variables (Giacomini et al. 2014; Vila-
+Aiub et al. 2014). These results demonstrate that fit-
+ness costs associated with glyphosate resistance are
+not universal.
+Fitness costs may be more evident when plants are
+growing under more extreme, stressful environmen-
+tal conditions, although this prediction is not always
+true (Vila-Aiub et al. 2009). In the present study,
+the differential vegetative and reproductive traits
+observed between the glyphosate-resistant and
+-susceptible phenotypes were expressed in environ-
+ments characterized by different soil water availabil-
+ity conditions. The fitness cost quantified in terms
+of seed number was 33 and 53% in the 2011 and
+2012 experiments, respectively. Considering that
+available water is an important factor determining
+seed yield, these findings reflect the stability of the
+fitness-cost expression in this glyphosate-resistant
+perennial ryegrass population.
+Quantification of fitness costs associated with her-
+bicide-resistance genes is helpful to parametrize her-
+bicide-resistance modeling (Gressel and Segel 1990;
+Maxwell et al. 1990) and provide an evolutionary
+framework for answering fundamental questions
+about the cost of adaptation in plants (Vila-Aiub et al.
+2009, 2015b). Further research is required to deter-
+mine whether the fitness cost associated with glypho-
+sate resistance in perennial ryegrass may be exploited
+in weed management strategies to prevent, delay, or
+reverse its evolution.
+Acknowledgments
+This research was partially supported by Consejo Nacio-
+nal de Investigaciones Científicas y Técnicas (CONICET,
+National Research Council of Argentina) and Instituto
+Nacional de Tecnología Agropecuaria (INTA).
+Literature Cited
+Antonovics J, Thrall P (1994) The cost of resistance and the
+maintenance of genetic polymorphism in host–pathogen sys-
+tems. Proc R Soc London Ser B 257:105–110
+Ashigh J, Tardif F (2007) An Ala205Val substitution in acetohy-
+droxy-acid synthase of Eastern black nightshade (Solanum pty-
+chanthum) reduces sensitivity to herbicides and feedback
+inhibition. Weed Sci 55:558–565
+Baucom RS, Mauricio R (2004) Fitness costs and benefits of
+novel herbicide tolerance in a noxious weed. Proc Natl Acad
+Sci USA 101:13386–13390
+Bonser SP, Aarssen LW (2009) Interpreting reproductive allome-
+try: individual strategies of allocation explain size-dependent
+reproduction in plant populations. Perspect Plant Ecol 11:
+31–40
+Charmet G, Balfourier F, Chatard V (1996) Taxonomic relation-
+ships and interspecific hybridization in the genus Lolium
+(grasses). Genet Resour Crop Evol 43:319–327
+Duke SO, Powles SB (2008) Glyphosate: a once-in-a-century her-
+bicide. Pest Manag Sci 325:319–325
+Falster DS, Westoby M (2003) Plant height and evolutionary
+games. Trends Ecol Evol 18:337–343
+Ge X, D’Avignon DA, Ackerman JJH, Collavo A, Sattin M,
+Ostrander EL, Hall EL, Sammons RD, Preston C. (2012)
+Vacuolar glyphosate-sequestration correlates with glyphosate
+resistance in ryegrass (Lolium spp.) from Australia, South Amer-
+ica, and Europe: a 31P NMR investigation. J Agric Food Chem
+60:1243–1250
+Giacomini D, Westra P, Ward SM (2014) Impact of genetic
+background in fitness cost studies: an example from glypho-
+sate-resistant palmer amaranth. Weed Sci 62:29–37
+Goldberg DE (1990) Components of resource competition in
+plant communities. Pages 27–49 in Grace JB, Tilman, D,
+eds. Perspectives in Plant Competition. San Diego, CA: Aca-
+demic Press
+Grahan PL, Steiner JL, Wiese AF (1998) Light absorption and
+competition in mixed sorghum–pigweed communities. Agron
+J 80:415–418
+Gressel J, Segel LA (1990) Modelling the effectiveness of herbi-
+cide rotations and mixtures as strategies to delay or preclude
+resistance. Weed Technol 4:186–198
+Jasieniuk M, Brûlé-babel AL, Morrison IN (1996) The evolution
+and genetics of herbicide resistance in weeds. Weed Sci 44:
+176–193
+Jordan N, Kelrick M, Brooks J, Kinerk W (1999) Biorational
+management tactics to select against triazine-resistant Amar-
+anthus hybridus: a field trial. J Appl Ecol 36:123–132
+Lodovichi M, Yanniccari M (2015) Raigrás perenne (Lolium
+perenne) como maleza en Argentina. In Fernández O, Leguiza-
+món E, Acciaresi H, eds. Malezas e Invasoras de la Argentina.
+Tomo III. Bahía Blanca: Edi UNS. In press
+78 . Weed Science 64, January–March 2016
+Maxwell BD, Roush ML, Radosevich SR (1990) Predicting the
+evolution and dynamics of herbicide resistance in weed popula-
+tions. Weed Technol 4:2–13
+Maynard Smith J (1998) Evolutionary Genetics. Oxford, United
+Kingdom: Oxford Univerisity Press. 330 p
+Menchari Y, Chauvel B, Darmency H, Delye C (2008) Fitness
+costs associated with three mutant acetyl-coenzyme A carboxy-
+lase alleles endowing herbicide resistance in black-grass Alope-
+curus myosuroides. J Appl Ecol 45:939–947
+Pandey SK, Singh H (2011) A simple, cost-effective method for
+leaf area estimation. J Bot 2011:1–6
+Paris M, Roux F, Berard A, Reboud X (2008) The effects of the
+genetic background on herbicide resistance fitness cost and its
+associated dominance in Arabidopsis thaliana. Heredity 101:
+499–506
+Pedersen BP, Neve P, Andreasen C, Powles S (2007) Ecological
+fitness of a glyphosate-resistant Lolium rigidum population:
+growth and seed production along a competition gradient.
+Basic Appl Ecol 8:258–268
+Powles SB, Lorraine-Colwill DF, Dellow JJ (1998) Evolved resis-
+tance to glyphosate in rigid ryegrass (Lolium rigidum) in Austra-
+lia. Weed Sci 46:604–607
+Powles SB, Yu Q (2010) Evolution in action: plants resistant to
+herbicides. Annu Rev Plant Biol 61:317–347
+Preston C, Powles S (2002) Evolution of herbicide resistance in
+weeds: initial frequency of target site-based resistance to aceto-
+lactate synthase-inhibiting herbicides in Lolium rigidum. Her-
+edity 88:8–13
+Preston C, Wakelin AM (2008) Resistance to glyphosate from
+altered herbicide translocation patterns. Pest Manag Sci 64:
+372–376
+Preston C, Wakelin AM, Dolman FC, Bostamam Y, Boutsalis P
+(2009) A decade of glyphosate-resistant Lolium around the
+world: mechanisms, genes, fitness, and agronomic manage-
+ment. Weed Sci 57:435–441
+Roux F, Gasquez J, Reboud X (2004) The dominance of the her-
+bicide resistance cost in several Arabidopsis thaliana mutant
+lines. Genetics 166:449–460
+Salas R, Dayan F, Pan Z, Watson S, Dickson J, Scott R, Burgos N
+(2012) EPSPS gene amplification in glyphosate-resistant Italian
+ryegrass (Lolium perenne ssp. multiflorum) from Arkansas. Pest
+Manag Sci 68:1223–1230
+Streibig JC, Rudemo M, Jensen JE (1993) Dose–response curves
+and statistical models. Pages 29–55 in Streibig JC, Kudsk P,
+eds. Herbicide Bioassays. Boca Raton: CRC Press
+Tardif FJ, Rajcan I, Costea M (2006) A mutation in the herbicide
+target site acetohydroxyacid synthase produces morphological
+and structural alterations and reduces fitness in Amaranthus
+powellii. New Phytol 169:251–264
+Vila-Aiub M, Goh S, Gaines T, Han H, Busi R, Yu Q, Powles S
+(2014) No fitness cost of glyphosate resistance endowed by
+massive EPSPS gene amplification in Amaranthus palmeri.
+Planta 239:793–801
+Vila-Aiub MM, Gundel PE, Preston C (2015b) Experimental
+methods for estimation of plant fitness costs associated with
+herbicide-resistance genes. Weed Sci 63:203–216
+Vila-Aiub MM, Neve P, Powles SB (2005a) Resistance cost of a
+cytochrome P450 herbicide metabolism mechanism but not
+an ACCase target site mutation in a multiple resistant Lolium
+rigidum population. New Phytol 167:787–796
+Vila-Aiub MM, Neve P, Powles SB (2009) Fitness costs associated
+with evolved herbicide resistance alleles in plants. New Phytol
+184:751–767
+Vila-Aiub MM, Neve P, Roux F (2011) A unified approach to the
+estimation and interpretation of resistance costs in plants. Her-
+edity 107:386–394
+Vila-Aiub MM, Neve P, Steadman KJ, Powles SB (2005b) Ecolo-
+gical fitness of a multiple herbicide-resistant Lolium rigidum
+population: dynamics of seed germination and seedling emer-
+gence of resistant and susceptible phenotypes. J Appl Ecol
+42:288–298
+Vila-Aiub MM, Vidal AR, Balbi MC, Gundel PE, Trucco F,
+Ghersa CM (2008) Glyphosate-resistant weeds of South Amer-
+ican cropping systems: an overview. Pest Manag Sci 64:
+366–371
+Vila-Aiub MM, Yu Q, Han H, Powles SB (2015) Effect of herbi-
+cide resistance endowing Ile-1781-Leu and Asp-2078-Gly
+ACCase gene mutations on ACCase kinetics and growth traits
+in Lolium rigidum. J Exp Bot. DOI: 10.1093/jxb/erv248
+Yanniccari M, Istilart C, Giménez DO, Castro AM (2012a) Gly-
+phosate resistance in perennial ryegrass (Lolium perenne L.)
+from Argentina. Crop Prot 32:12–16
+Yanniccari M, Istilart C, Giménez DO, Castro AM (2015) Inheri-
+tance of glyphosate resistance in Lolium perenne and hybrids
+with Lolium multiflorum. Crop Prot 71:72–78
+Yanniccari ME, Acciaresi HA (2013) Perennial weeds in Argenti-
+nean crop systems: biological and ecological characteristics
+and basis for a rational weed management. Pages 43–62 in Gor-
+awala P, Mandhatri S, eds. Agricultural Research Updates. Vol.
+5. New York, NY: Nova Science Publishers
+Yanniccari ME, Istilart C, Giménez DO, Castro AM (2012b)
+Effects of glyphosate on the movement of assimilates of two
+Lolium perenne L. populations with differential herbicide sensi-
+tivity. Environ Exp Bot 82:14–19
+Yanniccari ME, Tambussi E, Istilart C, Castro AM (2012c) Gly-
+phosate effects on gas exchange and chlorophyll fluorescence
+responses of two Lolium perenne L. biotypes with differential
+herbicide sensitivity. Plant Physiol Biochem 57:210–217
+Yu Q, Han H, Vila-Aiub MM, Powles SB (2010) AHAS herbi-
+cide resistance endowing mutations: effect on AHAS function-
+ality and plant growth. J Exp Bot 61:3925–3934
+Yu Q, Jalaludin A, Han H, Chen M, Sammons RD, Powles SB
+(2015) Evolution of a double amino acid substitution in the
+5-enolpyruvylshikimate-3-phosphate synthase in Eleusine
+indica conferring high-level glyphosate resistance. Plant Physiol
+167:1440–1447
+Received April 17, 2015, and approved August 17, 2015.
+Associate Editor for this paper: Chris Preston, University of
+Adelaide.
+Yanniccari et al.: Fitness costs of glyphosate resistance . 79

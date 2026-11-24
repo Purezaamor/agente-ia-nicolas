@@ -1,0 +1,436 @@
+=== Fuente: 11_Diseno_de_investigaciones.pdf ===
+
+ 1 
+Diseño de investigaciones 
+ 
+Si la estructura es razonable, el estudio funcionará de manera adecuada y se 
+obtendrá la información para la que fue diseñado. Si la estructura tiene fallas, el 
+estudio no funcionará bien y presentará información incompleta o errónea. 
+ 
+Planeamiento de la investigación 
+ 
+Un proyecto de investigación es un esfuerzo organizado de un científico para 
+adquirir conocimientos sobre un proceso natural o artificial. 
+ 
+No es posible exagerar la importancia de desarrollar un plan por escrito. La 
+consulta frecuente de un documento previene las omisiones graves; también será 
+útil para insertar notas y cualquier alteración relacionada con los detalles 
+específicos del plan original. 
+ 
+Al iniciar el estudio, el investigador debe desarrollar una lista de verificación de 
+aspectos concretos: 
+ 
+• Objetivos específicos del experimento. 
+• Identificación de los factores que influyen y cuáles de ellos varían y cuáles 
+permanecen constantes. 
+• Características a medir. 
+• Procedimientos particulares para realizar las pruebas o medir las 
+características  
+• Número de repeticiones del experimento básico a realizar. 
+• Recursos y materiales disponibles. 
+ 
+Preguntas sencillas para enfocar actividades 
+ 
+Las preguntas que centran nuestra atención a través del proceso de diseño 
+incluyen:  
+• ¿Cuál es mi objetivo? 
+• ¿Qué quiero saber?  y ¿Por qué quiero saberlo? 
+Las preguntas de seguimiento productivo para cada actividad del proceso: 
+¿Cómo voy a realizar esta tarea? 
+• ¿Por qué hago esta tarea? 
+ 
+Experimento, tratamientos y unidades experimentales 
+ 
+FACTOR : es una variable independiente. 
+ 
+NIVEL DE FACTOR : es una forma particular del factor. 
+ 
+ESTUDIO UNIFACTORIAL : aquel en el que se estudia un único factor. 
+ 
+ 2 
+ESTUDIO MULTIFACTORIAL : aquel en el que se estudia más de un factor 
+simultáneamente. 
+ 
+FACTOR CUALITATIVO : aquel en el cual los niveles se diferencian por ciertos 
+atributos cualitativos. 
+ 
+FACTOR CUANTITATIVO : aquel en el cual cada nivel se describe como una 
+cantidad numérica. 
+ 
+TRATAMIENTO : En los estudios unifactoriales un tratamiento corresponde a un 
+nivel del factor. 
+En estudios multifactoriales un tratamiento corresponde a la combinación de 
+niveles de los factores. 
+ 
+Tratamiento control : 
+Un tratamiento control consiste en la aplicación de los procedimientos idénticos a 
+las unidades experimentales que se usan con los otros tratamientos excepto para 
+el efecto bajo estudio.  
+ 
+Unidad experimental  (UE): Es la subunidad más pequeña del material 
+experimental tal que cualesquiera 2 UE diferentes pueden recibir diferentes 
+tratamientos. La unidad experimental una vez expuesta al tratamiento, constituye 
+una sola réplica del tratamiento. 
+ 
+El error experimental describe la variación entre las unidades experimentales 
+tratadas de manera idéntica e independiente. Los distintos orígenes del error 
+experimental son: 
+1) La variación natural entre unidades experimentales. 
+2) La variabilidad en la medición de la respuesta. 
+3) La imposibilidad de reproducir las condiciones del tratamiento con exactitud de 
+una unidad a otra. 
+4) La interacción de los tratamientos con las unidades experimentales. 
+5) Cualquier otro factor externo que influya en las características medidas. 
+ 
+La hipótesis de investigación genera el diseño de los tratamientos 
+ 
+Cuando se eligen los tratamientos adecuados en respuesta a una hipótesis de 
+investigación, es posible comprender mejor los mecanismos fundamentales, ya 
+sean físicos, químicos biológicos o fisiológicos. En algunos casos puede ser elegir 
+“el ganador” para encontrar un tratamiento que proporcione la respuesta deseada; 
+en otros casos, el experimento se usa para aclarar los mecanismos básicos 
+asociados con los tratamientos, en términos de su influencia sobre las variables 
+medidas. 
+ 
+Es forzoso que el investigador se asegure de que los tratamientos elegidos 
+concuerden con la hipótesis de investigación. Puede ser suficiente y más sencillo 
+diseñar un estudio sólo para descubrir al mejor tratamiento. Sin embargo con poco 
+ 3 
+esfuerzo adicional puede obtenerse aún más información fundamental del 
+experimento en respuesta a la hipótesis de investigación. 
+ 
+Experimentos multifactoriales 
+ 
+Fisher (1926) observó que el proverbio más repetido respecto a los experimentos 
+de campo era el que decía: 
+ 
+Debemos hacer algunas preguntas a la naturaleza, y de preferencia, una a la vez. 
+ 
+Fisher estaba convencido de que se trataba de un punto de vista equivocado. A 
+este respecto escribió : “la naturaleza... responderá mejor a un cuestionario 
+concebido lógica y cuidadosamente; en realidad, si le planteamos una sola 
+pregunta, se rehusará a responder hasta que se analice algún otro tema”. 
+ 
+Él entendía que en los sistemas naturales no se sabe si la influencia de un factor 
+es independiente de otra o si su influencia se relaciona con la variación de otros 
+factores. En consecuencia las condiciones en las que se comparan los factores 
+pueden ser aspectos importantes del diseño. 
+ 
+Por ejemplo, en un estudio de la cantidad de nitrógeno que la bacteria Rhizobium 
+fija en el suelo, una comparación interesante fue la cantidad de nitrógeno 
+producido en suelos salinos, sódicos y normales. Sin embargo se sabía que las 
+condiciones de temperatura y humedad bien podrían llegar a ser diferentes para 
+cada tipo de suelo. En consecuencia, el experimento se estableció para examinar 
+la producción de nitrógeno a varias temperaturas, combinadas con distintas 
+condiciones de humedad para cada suelo.  Los tratamientos como combinaciones 
+de los niveles del factor temperatura y factor tipo de suelo permiten evaluar la 
+producción de nitrógeno en cada tipo de suelo y determinar la influencia de las 
+condiciones de temperatura en la producción relativa por tipo de suelo. Además es 
+posible evaluar por separado la influencia de la temperatura en la producción de 
+nitrógeno. 
+ 
+Control local de errores experimentales 
+ 
+Los principales objetivos de la mayoría de los experimentos son las 
+comparaciones claras y exactas entre tratamientos a través de un conjunto 
+apropiado de condiciones. Estos objetivos requieren estimaciones precisas de las 
+medias y poderosas pruebas estadísticas; al reducir la variancia del error 
+experimental aumenta la posibilidad de lograrlos. El control local describe las 
+acciones que emplea un investigador para reducir o controlar el error 
+experimental, incrementar la exactitud de las observaciones y establecer la base 
+de la inferencia de un estudio. 
+ 
+El investigador controla: 
+• Técnica. 
+• Selección de unidades experimentales. 
+ 4 
+• Bloquización o aseguramiento de la uniformidad de información en todos los 
+tratamientos. 
+• Selección del diseño experimental propiamente dicho. 
+• Medición de covariables.  
+ 
+Técnica: 
+ 
+Si las tareas se realizan sin una planeación cuidadosa, las observaciones 
+mostrarán un incremento de la variación. Las técnicas incluyen tareas sencillas 
+como una medición exacta, a preparación de los medios, obtención de soluciones 
+o calibración de instrumentos.  
+ 
+Cuando la técnica tiene un efecto adverso en la precisión, las variancias 
+estimadas del error se incrementan de manera innecesaria.  
+ 
+Las técnicas pobres afectan la exactitud de las observaciones y sesgan los 
+resultados. Más aún, la variación introducida en las observaciones por técnicas 
+pobres, no necesariamente es aleatoria y por lo tanto, no está sujeta a las mismas 
+leyes de probabilidad  que se asocian con la inferencia estadística. 
+ 
+Selección de las unidades experimentales 
+ 
+Las UE heterogéneas producen valores grandes en la variancia del error 
+experimental. Sin embargo, una selección demasiado restringida puede producir 
+condiciones de uniformidad artificiales. Entonces, para asegurar una confiabilidad 
+razonable de las condiciones del experimento, es deseable que las unidades 
+representen una variedad suficiente de condiciones, sin que aumente 
+innecesariamente la heterogeneidad de las unidades experimentales. 
+ 
+Bloques para reducir la variación del error experimental 
+ 
+El bloquización proporciona control local del ambiente para reducir el error 
+experimental. Las unidades experimentales se agrupan de manera que su 
+variabilidad dentro de los grupos sea menor que entre las unidades antes de 
+agruparlas. En el análisis estadístico es posible separar el error experimental de la 
+variabilidad asociada con las diferencias del entorno entre los grupos de unidades. 
+ 
+Criterios para bloquear: 
+ 
+1) Proximidad : parcelas cercanas en campos de cultivo se parecen más que 
+las separadas por mayores distancias. 
+ 
+2) Características físicas  de las plantas (altura, edad del árbol). 
+ 
+3) Tiempo : el bloqueo se usa para dividir el experimento en unidades de 
+tamaño razonable y administrar de manera uniforme el tiempo o las tareas.  
+ 5 
+ 
+4) Administración de tareas en el experimento : los técnicos pueden servir 
+como unidades de bloqueo para evitar confundir la variabilidad del 
+observador o técnico con la de los tratamientos. 
+ 
+Reducción  de la variancia mediante bloquización 
+ 
+Una prueba de uniformidad muestra la posible efectividad que puede tener la 
+bloquización en la reducción de la variancia dentro de un estudio de investigación. 
+En esencia, la prueba de uniformidad es un experimento en el que las Ue se 
+miden sin someterlas a un tratamiento. Por ejemplo, una prueba de uniformidad 
+clásica en agricultura es un campo de trigo de la misma variedad, dividido en 
+parcelas con las mismas dimensiones. Se mide la cosecha de trigo en cada 
+parcela. Como la variación en los campos agrícolas normalmente ocurre en 
+gradientes, se determina que grupo de parcelas adyacentes tienen la menor 
+variancia. En los experimentos de los años siguientes es posible asignar los 
+tratamientos en grupos de parcelas similares, según los resultados de la prueba 
+de uniformidad. 
+ 
+Supongamos que en una prueba de uniformidad se tienen observaciones de 10 
+unidades: 43, 72, 46, 66, 49, 68, 50, 76, 42, y 69. La media y la variancia de las 
+observaciones son 58 y 175, respectivamente. Al agrupar las unidades en dos 
+bloques se tiene: 
+ 
+ 
+Mientras que la variancia total entre las 10 unidades era 175, en cada bloque se 
+redujo a 12.5 y 15.2, respectivamente. El componente de error eliminado por la 
+bloquización se reflejará en la variancia entre las medias de los dos bloques, 46 y 
+70. 
+ 
+El diseño experimental es el arreglo de las unidades experimentales utilizado para 
+controlar el error experimental, a la vez que acomoda los tratamientos. Existe en la 
+literatura una amplia variedad de arreglos diseñados para controlar el error 
+experimental y se observa una tendencia natural a diseñar los experimentos de 
+acuerdo a diseños ya existentes. 
+ 
+El logro de la máxima información, precisión y exactitud en los resultados junto 
+con el uso más eficiente de los recursos existentes, es un principio a seguir en la 
+elección del diseño adecuado del experimento. 
+ 
+Covariables para el control estadístico de la variación . 
+ 
+Las covariables son variables relacionadas con la variable respuesta que nos 
+interesa. La información de las covariables se usa para establecer un control 
+2.157069,76,68,66,72:2
+5.124642,50,49,46,43:1
+2
+2
+==
+==
+SxBloque
+SxBloque
+ 6 
+estadístico sobre la variancia del error experimental, mediante el procedimiento 
+conocido como análisis de covariancia. Ejemplo de covariables son la fertilidad de 
+las parcelas, la cosecha del año anterior en siembras perennes o la pureza de la 
+materia prima en un proceso químico. Cualquier atributo medible y que pueda 
+tener una relación con la variable de interés primario, es un candidatao para el 
+ajuste covariado. 
+ 
+El primer requisito es que el tratamiento no afecte a la covariable. En la práctica 
+las covariables se miden antes de aplicar los tratamientos, antes de que se tenga 
+tiempo de provocar una respuesta en la unidad, o cuando se supone que el 
+tratamiento nunca tiene efectos sobre la covariable. 
+ 
+Réplicas 
+ 
+La réplica implica una repetición independiente del experimento básico. Dicho de 
+manera más específica, cada tratamiento se aplica de manera independiente a 
+dos o más unidades experimentales. 
+ 
+La unidad de observación puede no ser equivalente a la unidad experimental. La 
+primera puede ser una muestra de la última como muestras individuales de 
+plantas de una parcela. 
+ 
+La variancia en las observaciones de las unidades experimentales es la variancia 
+del error experimental; es una medida válida de la variación entre las unidades 
+experimentales que recibieron tratamiento de manera independiente. 
+ 
+Muchas veces la variancia entre las observaciones múltiples de la misma unidad 
+experimental se usa equivocadamente como medida del error experimental para 
+comparar los tratamientos. 
+   
+Ejemplo de varias plantas en una maceta o explantos en un medio de cultivo. La 
+estimación de la variancia del error experimental calculada como la variancia entre 
+las medias de las macetas dentro de cada tratamiento es la variancia adecuada 
+para la prueba t de Student o el análisis de variancia. La variancia entre las 
+plantas de cada maceta es una medida de la variabilidad en las unidades en 
+observación dentro de las réplicas de macetas. 
+ 
+¿Cuántas réplicas? 
+ 
+El número de réplicas en un estudio de investigación afecta la precisión de las 
+estimaciones de las medias de los tratamientos y la potencia de las pruebas 
+estadísticas para detectar diferencias entre medias de tratamientos. Sin embargo, 
+el costo de conducir estudios de investigación restringe las réplicas a un número 
+razonable. Entonces, el número de réplicas está determinado por las restricciones 
+prácticas que se pueden asignar al problema. 
+Número de réplicas para la prueba de hipótesis 
+ 
+ 7 
+El número de réplicas necesario está influido primordialmente por: 
+ 
+• La variancia. 
+• El tamaño de la diferencia entre las medias ( δ). 
+• El nivel de significancia de la prueba o probabilidad de error tipo I ( α). 
+• La potencia de la prueba o la probabilidad de detectar δ, (1-β). 
+ 
+En el caso de la comparación de dos tratamientos, el número de replicas 
+necesario para cada tratamiento, r, para alternativas bilaterales se estima 
+mediante: 
+ 
+Donde z α/2  es una variable normal estándar excedida con probabilidad α/2 y z β 
+está excedida con probabilidad β. 
+ 
+Es posible estimar el número de réplicas si se conoce el coeficiente de variación 
+porcentual, %CV. El %CV se sustituye por σ en la ecuación, donde %CV= 
+100( σ/μ). La diferencia δ debe expresarse como porcentaje de la media global 
+esperada del experimento, % δ= 100( δ/μ), en la ecuación. 
+ 
+El número de réplicas necesario generalmente aumenta si: 
+ 
+• La variancia, %CV, o σ2, aumenta. 
+• El tamaño de la diferencia entre dos medias, % δ o δ, disminuye. 
+• El nivel de significancia, α, de la prueba disminuye. 
+• La potencia de la prueba, 1-β, aumenta. 
+  
+ 
+Los valores calculados para el número de réplicas necesario son estimaciones y 
+aproximaciones. Con frecuencia se determinan con base en las estimaciones de la 
+variancia asociadas a estudios previos. 
+ 
+Si el objetivo fundamental es la estimación en lugar de la prueba de hipótesis el 
+número de unidades a observar está dado por: 
+ 
+Donde n es el número de unidades a observar, y ε es el error de estimación 
+máximo requerido. 
+ 
+ 
+ 
+ 
+( )
+2
+2
+2/2     +≥ δ σ βα zzr
+2
+22
+2/
+ε
+σαzn =
+ 8 
+Aleatorización 
+ 
+Fisher (1926) señaló que la sola aleatorización proporciona estimaciones válidas 
+de la variancia del error para los métodos de inferencia estadística justificados 
+para la estimación y pruebas de hipótesis en el experimento. La aleatorización es 
+la asignación aleatoria de tratamientos a las unidades experimentales. 
+ 
+Fisher (1935) mostró que la aleatorización proporciona una referencia de 
+poblaciones adecuada para la inferencia estadística libre de suposiciones sobre la 
+distribución de las observaciones. Demostró que las pruebas de significancia se 
+pueden basar en la distribución creada por la aleatorización y que las pruebas 
+teóricas normales ofrecen aproximaciones razonables para estos resultados. 
+ 
+Prueba de aleatorización 
+ 
+La aleatorización crea una población de experimentos que pueden haberse 
+realizado, aunque sólo se haya elegido un arreglo al azar para el experimento real. 
+ 
+La prueba de aleatorización evalúa al estadístico de prueba para todos los 
+arreglos posibles de tratamiento en las unidades experimentales. La distribución 
+de la aleatorización es la de aquellos valores que se obtendrían con la hipótesis 
+nula de que los tratamientos no tienen efectos. 
+ 
+Ejemplo: 
+ 
+Consideremos un experimento en el que se asignan dos tratamientos al azar a 
+siete unidades experimentales. Cuatro unidades reciben el tratamiento A y tres el 
+tratamiento B, con el siguiente conjunto de respuestas: 
+ 
+Unidad 1 2 3 4 5 6 7 
+Tratamiento  B B A A B A A 
+Respuesta 14 16 19 17 15 13 17 
+ 
+Si no hay diferencias en los efectos de los tratamientos A y B, entonces estos son 
+sólo etiquetas en las unidades experimentales y no afectan los resultados. Por 
+ejemplo, si la hipótesis nula es cierta, la respuesta de la unidad 1 será 14 sin 
+importar qué tratamiento se aplicó. Lo mismo se cumple para las otras unidades 
+bajo la hipótesis nula. Las etiquetas A y B (4 con A y 3 con B) se pueden asignar a 
+las 7 unidades experimentales en 7!/4!3! = 35 arreglos posibles. Estos son los 35 
+experimentos posibles al asignar de manera aleatoria los tratamientos a las 
+unidades. 
+ 
+ 
+ 
+ 
+ 
+ 9 
+ 
+Unidad 1 2 3 4 5 6 7  Arreglo  
+Respuesta 14 16 19 17 15 13 17 yA-yB 
+1  A A B B A A B -3.17 
+2  A B B A A A B -2.58 
+3  A B B B A A A -2.58 
+4  A A B A B A B -2.00 
+5  A A B B B A A -2.00 
+6  A B A B A A B -1.42 
+7  A B B A B A A -1.42 
+8  B A B A A A B -1.42 
+9  B A B B A A A -1.42 
+10  A A A B B A B -0.83 
+11  A A B A A B B -0.83 
+12  A A B B A B A -0.83 
+13  B B B A A A A -0.83 
+14  A B A A B A B -0.25 
+15  A B A B B A A -0.25 
+16  A B B A A B A -0.25 
+17  B A A B A A B -0.25 
+18  B A B A B A A -0.25 
+19  A A A B A B B  0.33 
+20  A A B A B B A  0.33 
+21  B B A A A A B  0.33 
+22  B B A B A A A  0.33 
+23  A B A A A B B  0.92 
+24  A B A B A B A  0.92 
+25  B A A A B A B  0.92 
+26  B A A B B A A  0.92 
+27  B A B A A B A  0.92 
+28  A A A A B B B  1.50 
+29  A A A B B B A  1.50 
+30  B B A A B A A  1.50 
+31  A B A A B B A  2.08 
+32  B A A A A B B  2.08 
+33  B A A B A B A  2.08 
+34  B B A A A B A  2.67 
+35  B A A A B B A  3.25 
+Considerando ahora una hipótesis alternativa Ha: μA-μB ≠ 0 a la hipótesis nula    
+H0: μA-μB = 0. El arreglo del experimento real es el 30, con diferencia de medias 
+yA-yB= 1.50. Puede darse una diferencia absoluta de 1.50 o mayor en 13 
+arreglos. Con la hipótesis nula se da una diferencia de medias absoluta de 1.50 o 
+mayor con una frecuencia de 13/35, que conduce a un nivel de significación de 
+0.37. Con base en los resultados observados no hay razón para rechazar la 
+hipótesis nula.   

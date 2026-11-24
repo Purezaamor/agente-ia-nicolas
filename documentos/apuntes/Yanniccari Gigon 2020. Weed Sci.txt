@@ -1,0 +1,774 @@
+=== Fuente: Yanniccari Gigon 2020. Weed Sci.pdf ===
+
+Weed Science
+www.cambridge.org/wsc
+Research Article
+Cite this article: Yanniccari M and Gig´on R
+(2020) Cross-resistance to acetyl-CoA
+carboxylase–inhibiting herbicides conferred by
+a target-site mutation in perennial ryegrass
+(Lolium perenne) from Argentina. Weed Sci.
+doi: 10.1017/wsc.2020.1
+Received: 12 September 2019
+Revised: 18 November 2019
+Accepted: 10 December 2019
+Associate Editor:
+Franck E. Dayan, Colorado State University
+Keywords:
+Asp-2078-Gly; clethodim; LOLPE; perennial
+ryegrass; pinoxaden; quizalofop; viable seed
+production
+Author for correspondence:
+Marcos Yanniccari, Consejo Nacional de
+Investigaciones Científicas y Técnicas, Chacra
+Experimental Integrada Barrow (MAA-INTA),
+RN 3 km 487, Tres Arroyos (7500), Argentina.
+(Email: marcosyanniccari@conicet.gov.ar)
+© Weed Science Society of America, 2020.
+Cross-resistance to acetyl-CoA carboxylase–
+inhibiting herbicides conferred by a
+target-site mutation in perennial ryegrass
+(Lolium perenne) from Argentina
+Marcos Yanniccari1 and Ram´on Gig´on2
+1Researcher, Consejo Nacional de Investigaciones Científicas y Técnicas, Laboratory of Biotechnology and Plant
+Genetics, Chacra Experimental Integrada Barrow (MAA-INTA), Tres Arroyos, Argentina and 2Private Consultant in
+Weed Control, Tres Arroyos, Argentina
+Abstract
+In Argentina, Lolium spp. occur in 40% of winter cereal crops from the Pampas. Several years
+ago, cases of glyphosate-resistant perennial ryegrass (Lolium perenne L.) were detected, and the
+use of acetyl-CoA carboxylase (ACCase)-inhibiting herbicides to eradicate these plants has
+been considered. The aim of this study was to evaluate the sensitivity of a putative pinoxaden-
+resistant L. perenne population to ACCase-inhibiting herbicides. Around 80% of plants from
+the putative resistant population survived at a recommended dose of pinoxaden, and
+they produced viable seeds. The resistance indices (RIs) to pinoxaden were 5.1 and 2.8 for plant
+survival and seed production, respectively. A single point mutation that conferred a Asp-2078-Gly
+substitution in ACCase was the source of the resistance. To match the plant control achieved in
+the susceptible population, the resistant population required 5.4- and 10.4-fold greater doses of
+clethodim and quizalofop, respectively. RIs for viable seed production when treated with cletho-
+dim and quizalofop were 3.3 and 6.6, respectively. The Asp-2078-Gly mutation endowed signifi-
+cant levels of resistance to pinoxaden, clethodim, and quizalofop. For three herbicides, the level of
+resistance of a pinoxaden-resistant L. perenne population to ACCase inhibitors was evaluated,
+based on an evaluation of dose response for plant survival and seed production. The RIs were
+higher for plant survival than for seed production. In Argentina, the selection pressure associated
+with clethodim and haloxifop preplant application and pinoxaden use on wheat (Triticum
+aestivum L.) and barley (Hordeum vulgare L.) crops, would have favored the propagation of
+the Asp-2078-Gly mutation with its associated resistance.
+Introduction
+The evolution of herbicide-resistant weeds has been highlighted as a major challenge for agri-
+culture (Baucom 2019). Since the first case of herbicide-resistant rigid ryegrass (Lolium rigidum
+Gaudin) reported in 1982 (Heap and Knight 1982), Lolium species have evolved resistance to
+active compounds with more than 10 sites of action (Heap 2019).
+Lolium spp. are a major weed problem in winter cereal crops from five continents, and they
+leads to wheat (Triticum aestivum L.) yield losses of up to 55% (Bararpour et al. 2018; De Prado
+et al. 2005; Lemerle et al. 1995; Mahmood et al. 2016; Sabet Zangeneh et al. 2018; Scursoni et al.
+2012; Smit et al. 1999; Zhang et al. 2017). In Argentina, L. perenne and Italian ryegrass [Lolium
+perenne (L.) ssp. multiflorum (Lam.) Husnot] occur in 40% of wheat and barley (Hordeum
+vulgare L.) crops from the Pampas (Istilart and Yanniccari 2012; Scursoni et al. 2014).
+Chemical weed management has been based on glyphosate treatments during fallow periods
+before winter crop planting and acetyl-CoA carboxylase (ACCase)- or acetohydroxyacid
+synthase–inhibiting herbicides applied POST in wheat or barley crops.
+In response to that management regime, cases of glyphosate-resistant L. perenne have been
+detected over large areas where glyphosate exerts a strong selection pressure on weeds
+(Yanniccari et al. 2012). ACCase-inhibiting herbicides have been used to control glyphosate-
+resistant plants; specifically, clethodim or haloxifop have been applied early preplant and
+pinoxaden or clodinafop later on wheat crops (Yanniccari et al. 2012). However, the evolution
+of ACCase herbicide–resistant Lolium spp. has been demonstrated in several countries
+(De Prado et al. 2005; Kaundun 2013a; Yu et al. 2007), and putative ACCase-resistant popula-
+tions of Lolium spp. have been detected in Argentina (Gig´on and Yanniccari 2018).
+The biochemical basis of ACCase-herbicide resistance could mainly be either through
+enhanced rates of herbicide metabolism or molecular mutations in the ACCase gene, endowing
+target site–based herbicide resistance (Powles and Yu 2010; Yu et al. 2007). In the first case,
+herbicides are metabolized to products with reduced phytotoxicity by cytochrome P450
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.1
+Downloaded from https://www.cambridge.org/core. IP address: 190.216.64.214, on 10 Feb 2020 at 13:43:49, subject to the Cambridge Core terms of use, available at
+monooxygenases (Yu and Powles 2014). Since the first case of
+resistance to diclofop-methyl in L. rigidum, endowed by enhanced
+detoxification, several Lolium spp. populations have shown resis-
+tance to a large number of herbicides with several different modes
+of action (Preston 2004; Preston et al. 1996; Vila-Aiub et al. 2005).
+Three classes of commercially available herbicides, aryloxyphe-
+noxy propionates (FOPs), cyclohexanediones (DIMs), and phenyl-
+pyrazolines (DEN), target the carboxyltransferase (CT) activity of
+ACCase; however, 14 spontaneous mutations in the CT domain
+of this enzyme have been shown to confer herbicide resistance:
+Ile-1781-Leu, Ile-1781-Val, Ile-1781-Arg, Ile-1781-Thr, Trp-
+1999-Cys, Trp-1999-Leu, Trp-1999-Ser, Trp-2027-Cys, Ile-2041-
+Asn, Ile-2041-Val, Asp-2078-Gly, Cys-2088-Arg, Gly-2096-Ala,
+and Gly-2096-Ser (amino acid residues correspond to the native
+blackgrass [Alopecurus myosuroides Huds.] ACCase sequence)
+(Jang et al. 2013; Kaundun et al. 2013a, 2013b; Yu et al. 2007,
+2010). Target site–based herbicide resistance can also be associated
+with major mutations underlying adaptive phenotypes (Baucom,
+2019). In general terms, Asp-2078-Gly and Cys-2088-Arg muta-
+tions confer resistance to FOPs, DIMs, and DEN (Kukorelli
+et al. 2013). The remaining mutations confer different levels of
+resistance to these herbicides, depending on specific amino
+acid changes, the number of resistant alleles, weed species, plant
+growth stage, and recommended field rates for the herbicides
+(Kaundun 2014).
+While a resistance gene increases its frequency depending on
+the herbicides used, operational and biological factors (Powles
+and Yu 2010) and knowledge of the mechanism of resistance
+can support an appropriate management strategy (Evans et al.
+2016). That might mean an adequate rotation of herbicides with
+different sites of action (Scarabel et al. 2007) or that are detoxified
+by different metabolic pathways, for example, cytochrome P450
+monooxygenases and glutathione S-transferase (Busi 2018); the
+correct mixture of specific herbicides (Beckie and Reboud 2009);
+the possibility of exploiting fitness costs(Keshtkar et al. 2019);
+and an assessment of the capacity for resistance spread within
+and among populations (Mithila and Godar 2013).
+As indicated earlier, because of the importance of ACCase-
+inhibiting herbicides in controlling glyphosate-resistant Lolium
+spp. plants during both fallow and POST periods, a putative
+pinoxaden-resistant L. perenne population threatens to undermine
+the efficacy of these herbicides. As such, this study evaluated the
+sensitivity of a putative pinoxaden-resistant L. perenne population
+from Argentina to ACCase-inhibiting herbicides. In addition,
+the cause of the poor plant control achieved by pinoxaden in this
+population was determined.
+Materials and Methods
+Experimental Site and Plant Material
+Experiments were carried out in Chacra Experimental Integrada
+Barrow (38.32°S, 60.23°W) from 2017 to 2019. Each experiment
+was repeated twice.
+In December 2016, seeds were sampled from a putative
+pinoxaden-resistant L. perenne population that had arisen in a
+wheat field (38.32°S, 60.47°W), where the crop rotation involved
+wheat–soybean [Glycine max (L.) Merr.] and barley–soybean.
+In this system, weed control had been based on recurring applica-
+tions of glyphosate and clethodim or haloxyfop during fallow;
+pinoxaden, dicamba, 2,4-D, and metsulfuron in wheat and barley
+crops; and glyphosate in soybean crop. In addition to the putative
+pinoxaden-resistant population, seeds were sampled from a neigh-
+boring population susceptible to ACCase-inhibiting herbicides
+established as weeds in a wheat field (38.43°S, 60.97°W) (without
+application of ACCase-inhibiting herbicides in the last 5 yr). Thirty
+plants of each population were chosen at random from wheat fields
+and were stored under laboratory conditions at 20 to 25 C before
+being used in the current study.
+Dose–Response Assays
+Herbicide sensitivities of progeny obtained from both populations
+were compared using the assessments outlined in the following
+sections.
+Germination Test
+Seed germination percentage and plumule growth were evaluated
+under different pinoxaden concentrations following the metho-
+dology described by Murray et al. (1996) with modifications.
+Fifty seeds were placed in petri dishes containing filter paper and
+10 ml of the following: pinoxaden (Axial®, pinoxaden [50 g ai L−1]
+plus cloquintocet-mexyl [12.5 g L−1]; Syngenta Agro S.A., Av. Del
+Libertador 1855, Vicente L´opez, Argentina) media (each pinoxaden
+concentration included cloquintocet-mexyl in a 4:1 ratio, respec-
+tively): 0, 0.01, 0.1, 1, 10, 100, and 1,000 μM. For each treatment, there
+were four replicate petri dishes in a completely randomized design.
+The seeds were incubated in a growth chamber with 75 mmol m−2 s−1
+of photosynthetically active radiationina12-hlight/12-hdarkness
+regime and temperatures of 25 and 20 C for day and night, respec-
+tively. After 7 d, the number of germinated seeds for which the radicle
+protruded from the seed coat ≥ 0.5 mm was recorded. In addition,
+plumule length was measured from the point of attachment to the
+seed to the tip of the coleoptile.
+Plant Survival and Seed Production
+In August 2017 and 2018, seeds of each population were sown in
+2-L pots filled with soil. Seedlings on emerging were thinned to
+four to five per pot. The plants were grown in a greenhouse at
+21 C (average temperature) in a completely randomized design
+and were irrigated at least every 2 d. Pinoxaden, clethodim,
+or quizalofop-P-tefuryl was applied to plants with 1 to 2 tillers
+using a laboratory belt sprayer calibrated to deliver 200 l ha−1.
+The herbicides were applied at the following doses: pinoxaden
+(Axial®, pinoxaden [50 g ai L−1] plus cloquintocet-mexyl
+[12.5 g L−1]; Syngenta Agro S.A.) at 0, 12.5, 25, 50, 100, and
+200 g ai ha−1 (recommended dose: 30 to 40 g ai ha−1); clethodim
+(Select®, clethodim 240 g ai L−1; Bayer S.A., Ricardo Gutierrez
+3652, Munro, Argentina) at 0, 32.5, 65, 130, 260, and 520 g ai ha−1
+(recommended dose: 110 to 280 g ai ha−1); and quizalofop
+(Rango® GR, quizalofop-P-tefuryl 120 g ai L−1; Arysta Lifescience
+Argentina S.A., Enciso 1463, Tigre, Argentina) at 0, 21.8, 43.7, 87.5,
+175, and 350 g ai ha−1 (recommended dose: 35 to 112 g ai ha−1).
+Following the manufacturers’ recommendations, 0.2% v/v ethoxylated
+alcohol was used as surfactant for clethodimandquizalofopspraying.
+For each treatment, there were five replicates in a completely random-
+ized design, wherein each pot was a sampling unit.
+At 45 d post herbicide application, plant survival was evaluated
+by recording the number of dead and live plants. Plants with severe
+visual injury (chlorosis of newly emerged leaves, general browning,
+and severe growth reduction) were recorded as “dead” plants, while
+“surviving” plants showed no differences in their growth or color of
+their leaves compared with control plants. These data were used to
+2 Yanniccari and Gig´on: Cross-resistance in L. perenne
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.1
+Downloaded from https://www.cambridge.org/core. IP address: 190.216.64.214, on 10 Feb 2020 at 13:43:49, subject to the Cambridge Core terms of use, available at
+calculate the percentage of surviving plants per sampling unit (the
+number of surviving plants was divided by the total number of
+plants per pot and multiplied by 100).
+At the end of the plant life cycle, all plants were harvested
+and manually threshed. After seeds were separated from the
+residual inflorescences, the number of seeds produced per plant
+was determined using a seed counter (Pfeuffer GMBH, Kitzingen,
+Germany).
+The seeds obtained were stored at room temperature for 3 mo
+(time required to terminate seed dormancy). The viability of the
+seeds obtained from surviving plants was evaluated by incubating
+seeds in petri dishes containing filter paper and 10 ml of water and
+determining the germination percentage. One hundred seeds per
+treatment were evaluated. This test was carried out in a growth
+chamber under the conditions previously described.
+Peroxidase Activity under Pinoxaden Treatment
+Plants obtained from seeds of the susceptible and putative
+pinoxaden-resistant populations were grown in a greenhouse fol-
+lowing the methodology and using the materials described earlier.
+When plants had developed 1 to 2 tillers, four individuals from
+each population were treated with 0 or 50 g ha−1 pinoxaden.
+The last expanded leaf of each plant was sampled at 10 d after
+application of the herbicide. Immediately, 0.3 g fresh weight
+of these samples were ground in nitrogen liquid and placed in
+1.5-ml tubes containing 1 ml 50 mM potassium phosphate buffer
+(pH 6.5) and 10% (v/v) glycerol at 4 C. The tubes were then
+centrifuged at 400 × g for 5 min at 4 C. Peroxidase activity was
+determined for an aliquot of each supernatant, based on the
+oxidation of pyrogallol to purpuro-galline (ε = 2.47 mM−1 cm−1)
+(Puntarulo et al. 1988). The reaction mixtures consisted of
+50 mM potassium phosphate buffer (pH 6.5), 45 mM pyrogallol,
+and 8 mM H2O2 at 25 C. Absorbance was measured on a spectro-
+photometer at 430 nm, and peroxidase activity was expressed in terms
+of the amount of purpuro-galline produced (mmol min−1 g−1 fresh
+weight of leaf).
+Test of the Inhibition of Pinoxaden Detoxification through
+Cytochrome P450 Monooxygenases
+The inhibition of pinoxaden detoxification had been performed
+using malathion as a cytochrome P450 monooxygenase inhibitor
+(Keith et al. 2015; Matzrafi et al. 2014). Based on this, the interac-
+tion between pinoxaden and malathion was evaluated on plumule
+growth. The susceptible and putative pinoxaden-resistant popula-
+tions were tested in this assessment; however, another pinoxaden-
+resistant L. perenne population was also included in the evaluation
+as a positive control, as this was known to undergo detoxification
+through cytochrome P450 monooxygenases (Yanniccari et al. 2018).
+Three hundred seeds of each population were incubated in
+petri dishes containing a wet filter paper in a growth chamber, with
+75 mmol m−2 s−1 of photosynthetically active radiation, in a 12-h
+light/12-h dark regime, at temperatures of 25 and 20 C for day and
+night, respectively. After 48 h, germinated seeds with a radicle
+length of ≥ 0.2 mm were transferred to 10-ml glass test tubes
+(4 seeds per tube) containing cotton and 1 ml of one of the follow-
+ing four treatments: 1 μM pinoxaden, 10 ppm malathion, 1 μM
+pinoxaden plus 10 ppm malathion, and deionized water (control).
+Ten tubes were used as replicates for each population and
+treatment. After incubation for 5 d in a growth chamber under the
+conditions described above, the plumule length was measured
+from the point of attachment to the seed to the tip of the coleoptile.
+Partial Sequencing of ACCase
+Total DNA was extracted from leaf tissue of six plants of the sus-
+ceptible and resistant populations by the cetyltrimethylammonium
+bromide protocol of Doyle and Doyle (1990). DNA yield and qual-
+ity were evaluated spectrophotometrically. The DNA was used as a
+template to amplify two regions of the ACCase gene sequence, using
+primer pairs, ACCase A (F 5 0-GGCTCAGCTATGTTCCTGCT-3 0
+and R 5 0-CAAGCCTACCCATGCATTCT-3 0) and ACCase B (F 5 0-
+GGCTCAGCTATGTTCCTGCT-30 and R 5 0-CAAGCCTACCCA
+TGCATTCT-30), according to Matzrafi et al. (2014). The amplified
+sequences encompassed the positions of all the known mutations
+described earlier. Polymerase chain reaction (PCR) products were
+purified by ethanol precipitation at −20 C. The samples were then
+centrifuged at 32,000 × g for 20 min at 4 C. The resulting pellets were
+washed three times with 70% ethanol and then resuspended in
+ultrapure water. Nucleotide sequences were obtained for the PCR
+fragments in these DNA preparations. The sequence data obtained
+were cleaned, aligned, translated, and compared at the Ile-1781,
+Trp-1999, Trp-2027, Ile-2041, Asp-2078, Cys-2088, and Gly-2096
+codons.
+Statistical Analysis
+Dose–response data were used to build dose–response curves with
+a nonlinear log-logistic regression model:
+y ¼ D= 1 þ x=I50ðÞb/C0/C1 [1]
+where y represents the response at herbicide dose x, D is the upper
+asymptote, I50 is the herbicide dose required to achieve 50% of the
+maximum response, and b is the slope of the line at I50. To assess
+the accuracy of the model, F-tests for model significance, coeffi-
+cient of determination (R2), and residual variance analysis were
+calculated. Models obtained were compared with the extra
+sum-of-squares F-test using GraphPad Prism® v. 6.01 (GraphPad
+Software, San Diego, CA, USA). Based on this analysis, population
+data from replicated experiments were pooled when P > 0.05 and
+model parameters were recalculated using the combined evidence.
+Finally, the I50 values from susceptible and resistant populations were
+compared with the F-test (P < 0.05) (GraphPad Software). Resistance
+indices (RI) were calculated as the ratio of I50 of the pinoxaden-
+resistant population compared with the susceptible population.
+Data from peroxidase activity assays and tests for inhibition
+of pinoxaden detoxification were analyzed by multifactorial
+analysis of variance (ANOVA). Data from replicated experiments
+were pooled when no significant differences between data sets
+were detected (P > 0.05). In all cases, residual plots indicated that
+variances were normally distributed and homogenous. When
+ANOVA indicated significant effects, means were compared using
+Fisher’s protected least significant difference test (P < 0.05).
+Results and Discussion
+Pinoxaden Resistance
+At a pinoxaden dose of 50 g ai ha−1 (25% higher than the recom-
+mended dose of 30 to 40 g ha−1; Syngenta Agro S.A.) approxi-
+mately 80% of plants from the putative resistant population
+survived, while only 7% of plants remained alive in the susceptible
+population (Figure 1A). However, only surviving plants from
+the pinoxaden-resistant population produced seeds at this dose
+(Figure 1B). When 200 g ai ha−1 of pinoxaden (the maximum dose
+Weed Science 3
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.1
+Downloaded from https://www.cambridge.org/core. IP address: 190.216.64.214, on 10 Feb 2020 at 13:43:49, subject to the Cambridge Core terms of use, available at
+evaluated) was applied, pinoxaden-resistant plants produced
+around 15% of the seeds obtained from untreated control plants
+(Figure 1B).
+Regression models of plant survival and seed production for both
+populations were compared, and I50 parameters differed significantly
+between susceptible and pinoxaden-resistant populations. RIs for
+plant survival and seed production were 5.1 and 2.8, respectively
+(Table 1).
+When peroxidase activity was evaluated, ANOVA results
+showed a significant interaction between population (susceptible or
+resistant) and treatment (with or without pinoxaden) (P = 0.04),
+but differences between replicated experiments were not statistically
+significant (P > 0.05). After pinoxaden treatment, the susceptible
+plants showed indications of oxidative stress, with an increase in
+peroxidase activity of about 70% compared with controls not treated
+with herbicide (Figure 2). ACCase-inhibiting herbicides induce
+oxidative stress in grasses, resulting in enhanced lipid peroxidation
+and membrane damage (Lukatkin et al. 2013). Nevertheless, the puta-
+tive pinoxaden-resistant plants showed no significant difference in
+peroxidase activity between the untreated control and those treated
+with pinoxaden (Figure 2). The putative pinoxaden-resistant plants
+also did not exhibit stress symptoms associated with the herbicide
+application and completed their life cycles, producing viable progeny,
+Figure 1. Effect of pinoxaden doses on plant survival (A) and seed production (B) in a resistant and a susceptible Lolium perenne population. Black and white symbols represent
+mean values from experiments conducted during 2017 and 2018, respectively, and bars indicate ±1 standard error of the mean. The predicted responses are shown by lines
+according to the adjusted models (y = D/(1 þ (x/I50)b).
+Table 1. Variables measured in dose–response assays and parameter estimates from the nonlinear log-logistic regression
+model (y = D/(1 þ (x/I50)b) of resistant and susceptible Lolium perenne populations treated with pinoxaden (data from two
+replicated experiments).a
+Variable Population DbI50 R2 P-value
+% g ai ha−1
+Plant survival Susceptible 101.1 4.7 21.1 0.96 P < 0.001
+Resistant 99.6 1.0 108.1* 0.76 P < 0.001
+RI = 5.1
+seeds plant−1 gaiha−1
+Seed production Susceptible 206.4 1.5 9.2 0.92 P < 0.001
+Resistant 205.0 0.8 26.2* 0.85 P < 0.001
+RI = 2.8
+% μM
+Germination Susceptible 59.7 1.0 0.6 0.87 P < 0.001
+Resistant 67.4 1.0 16.2* 0.80 P < 0.001
+RI = 27.0
+mm μM
+Length of plumule Susceptible 47.0 1.0 0.3 0.94 P < 0.001
+Resistant 53.9 1.0 8.8* 0.90 P < 0.001
+RI = 29.0
+aAsterisks indicate significant differences between herbicide doses required to achieve 50% of the maximum response calculated on susceptible
+and resistant populations. Resistance indices (RI) are shown.
+Figure 2. Peroxidase activity of susceptible and resistant Lolium perenne plants.
+Purpuro-galline produced by peroxidase at 10 d post application of pinoxaden com-
+pared with untreated control plants. Columns represent mean values, and vertical
+bars indicate the standard error of the mean (pooled data from replicated experi-
+ments). Asterisk indicates significant differences (P < 0.05) between a treatment
+and the control in the same population.
+4 Yanniccari and Gig´on: Cross-resistance in L. perenne
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.1
+Downloaded from https://www.cambridge.org/core. IP address: 190.216.64.214, on 10 Feb 2020 at 13:43:49, subject to the Cambridge Core terms of use, available at
+showing an average percentage germination of 77% (SD ±5%). As this
+result included seed from surviving plants of the susceptible popula-
+tion treated with pinoxaden, it illustrated the capacity of this species
+for perpetuation.
+The results supported an inherited ability of plants from
+the putative resistant population to survive and reproduce after
+a normally lethal dose of pinoxaden. This population had a 5-fold
+lower sensitivity to pinoxaden than the susceptible population
+(Table 1). Interestingly, this level of resistance, relative to the
+susceptible population, seemed to change through the life cycle
+when RI values were compared. When the effects of pinoxaden on
+germination and plumule growth were evaluated, the resistant
+population showed RI values of 27.0 and 29.0, respectively (Table 1).
+The low pinoxaden sensitivity of the resistant population was
+expressed from germination (Figure 3A and B). ACCase-inhibiting
+herbicides primarily cause the inhibition of fatty-acid biosynthesis,
+triggering reduction in growth (Cob and Reade 2010; Kukorelli
+et al. 2013). Fatty-acid synthesis is required for the early stages
+of cell growth, playing an important role during the processes of
+germination and seedling growth (Ghosh and Sen-Mandi 2018;
+Sasaki and Nagano 2004). The germination and plumule growth
+percentages for the susceptible population were reduced by
+half at pinoxaden concentrations of 0.6 and 0.3 μM, respectively,
+in comparison to controls without herbicide treatment (I50;
+Table 1). However, those concentrations of pinoxaden did not affect
+the germination or plumule growth of the pinoxaden-resistant
+population (Figure 3A and B). These seedlings could adequately
+carry out fatty-acid biosynthesis at pinoxaden treatments ≤ 1 μM
+(Figure 3A and B).
+As was discussed in a previous report, the contrasting behavior
+of susceptible and resistant plants on the germination test
+could not be explained by differential transport of the herbicide
+(Yanniccari et al. 2012). Imbibing embryos with pinoxaden
+ensured that all tissues were exposed to the herbicide, therefore,
+eliminating the consequences of any differential transport between
+populations.
+Mechanism of Resistance
+Frequently, the development of resistance to ACCase-inhibiting
+herbicides has been associated with elevated levels of cytochrome
+P450 monooxygenase activity, suggesting a mechanism of detoxi-
+fication (Powles and Yu 2010; Siminszky 2006). In the current
+work, malathion was used as an inhibitor of cytochrome P450.
+Only the non–target site resistance (NTSR) population with its
+known pinoxaden detoxification responded to the inhibitor,
+neutralizing its mechanism of resistance. ANOVA results showed
+no differences between replicated experiments (P > 0.05), but a
+significant interaction between population (susceptible, resistant,
+and NTSR) and treatment (malathion,pinoxaden,pinoxadenþ
+malathion, and control without herbicide) was detected (P < 0.001).
+The pinoxaden treatment did not significantly inhibit plumule growth
+of the NTSR population; however, the combination of pinoxaden þ
+malathion reduced growth to the same level as the susceptible
+Figure 4. Effect of cytochrome P450 inhibition. Plumule growth of the susceptible and resistant Lolium perenne populations compared with an L. perenne population with
+cytochrome P450–mediated pinoxaden resistance (non–target site resistance [NTSR] as positive control), treated with 1 μM pinoxaden, 10 ppm malathion, 1 μM pinoxaden
+þ 10 ppm malathion, and distilled water (control). Columns represent mean values, and vertical bars indicate the standard error of the mean (pooled data from replicated
+experiments). Asterisks indicate significant differences (P < 0.05) between a treatment and the control in the same population.
+Figure 3. Effect of pinoxaden concentrations on germination (A) and plumule growth (B) in a resistant and a susceptible Lolium perenne population. Black and white symbols
+represent mean values from replicated experiments, and bars indicate ±1 standard error of the mean. The predicted responses are shown by lines according to the adjusted
+models (y = D/(1 þ (x/I50)b).
+Weed Science 5
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.1
+Downloaded from https://www.cambridge.org/core. IP address: 190.216.64.214, on 10 Feb 2020 at 13:43:49, subject to the Cambridge Core terms of use, available at
+population treated with the herbicide (Figure 4). By contrast, no sig-
+nificant differences were detected in plumule growth of the pinoxaden-
+resistant population treated with pinoxaden, pinoxaden þ malathion,
+and the control without herbicide (Figure 4). As a result, there was
+no evidence of pinoxaden detoxification mediated by cytochrome
+P450 monooxygenase in this population.
+When potential target-site mechanisms of resistance were
+explored, a single-point mutation from adenine to guanine was
+detected, indicating a Asp-2078-Gly substitution in ACCase as the
+source of the phenotype in the pinoxaden-resistant population
+(Figure 5). It is known that a Asp-2078-Gly mutation confers resis-
+tance to pinoxaden and/or other ACCase-inhibiting herbicides in A.
+myosuroides,wildoat(Avena fatua L.), sterile oat (Avena sterilis L.),
+goosegrass [Eleusine indica (L.) Gaertn.], L. perenne ssp. multiflorum,
+L. rigidum, littleseed canarygrass (Phalaris minor Retz.), and
+hood canarygrass (Phalaris paradoxa L.) (Beckie et al. 2012;
+Cruz-Hipolito et al. 2011, 2015; Délye 2005; Gherekhloo et al.
+2012;Hochbergetal.2009; Liu et al. 2007;Osunaetal.2012;
+Petitetal.2010;Yuetal.2007). Although the D2078 residue is
+not part of either herbicide-binding site, a Asp-2078-Gly mutation
+would introduce large conformational changes in the binding site
+for the ACCase inhibitors, contributing to a low affinity for several
+herbicides (Jang et al. 2013;Yuetal.2010).
+Cross-resistance
+The sensitivity of the populations to clethodim and quizalofop was
+also examined. While the recommended dose of clethodim ranged
+from 110 to 280 g ai ha−1 (Senseman 2007), there was 85% and 63%
+plant survival in the resistant population at 130 and 260 g ha−1,
+respectively (Figure 6A). Moreover, around 40% of the plants
+survived at 520 g ha−1, the highest dose of clethodim assayed
+Figure 5. Sequence of the ACCase gene obtained from the pinoxaden-resistant (R) and pinoxaden-susceptible (S) plants and the conceptual translation of the amino acid
+sequence. The resistance-conferring codon is show in the box. Numbers refer to amino acid positions of full-length ACCase in Alopecurus myosuroides.
+Figure 6. Dose response of a resistant and a susceptible population of Lolium perenne treated with clethodim, for plant survival (A) and seed production (B), and with quizalofop,
+for plant survival (C) and seed production (D). Black and white symbols represent mean values from experiments conducted during 2017 and 2018, respectively, and bars indicate
+±1 standard error of the mean. The predicted responses are shown by lines according to the adjusted models (y = D/(1 þ (x/I50)b).
+6 Yanniccari and Gig´on: Cross-resistance in L. perenne
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.1
+Downloaded from https://www.cambridge.org/core. IP address: 190.216.64.214, on 10 Feb 2020 at 13:43:49, subject to the Cambridge Core terms of use, available at
+(Figure 6A). At this dose, seed production was 45% that of control
+plants (without herbicide; Figure 6B). The seeds produced showed
+an average percentage of germination of 81% (SD ±7%), including
+all plants resistant to clethodim, indicating their capacity for
+perpetuation.
+The I50 parameters calculated for plant survival and seed
+production were significantly different between the resistant and
+susceptible populations (Table 2). In the resistant population, a
+5.4-fold greater dose of clethodim was necessary to match the level
+of plant death achieved in the susceptible population (RI; Table 2).
+The RI for seed production was 3.3 when comparing the effects of
+clethodim on the resistant and susceptible populations (Table 2).
+The Asp-2078-Gly mutation endowed a significant level of resis-
+tance to clethodim at the field rate of application, consistent with
+the findings of Yu et al. (2007). In addition, the RI values for
+plant survival and seed production on treatment with pinoxaden
+(5.1 and 2.8, respectively; Table 1) were similar to the RIs obtained
+for clethodim (5.4 and 3.3, respectively; Table 2). Therefore, the
+resistance conferred by the Asp-2078-Gly mutation resulted in
+the same level of insensitivity to both pinoxaden and clethodim.
+Quizalofop application is recommended at doses of 35 to
+112 g ha−1, with the lowest dose sprayed on soybean crops and
+the highest dose applied to non-crop areas (Senseman 2007).
+However, at 43.7 and 87.5 g ha−1, around 80% of the plants from
+the resistant population survived in the current study (Figure 6C),
+and they produced more than 50 seeds per plant (Figure 6D). At
+the highest dose sprayed (350 g ai ha−1), plant survival was around
+40% and every plant produced an average of 41 seeds (Figure 6D).
+The seeds produced showed an average percentage germination
+of 71% (SD ±6%) for all surviving plants treated with quizalofop.
+For plant survival and seed production, the resistant populations
+showed the highest RI values after quizalofop application com-
+pared with pinoxaden and clethodim treatments (Table 2). The
+Asp-2078-Gly mutation confers resistance to all three classes of
+herbicide. The effect of this mutation on the level of sensitivity
+of ACCase to several herbicides representing the three chemical
+classes (but not including clethodim) was studied by Jang et al.
+(2013), and they found that it provoked higher levels of resistance
+to quizalofop than pinoxaden.
+The level of resistance to different ACCase-inhibiting herbi-
+cides depends on the specific mutation, weed species, plant growth
+stage, and recommended field rates of herbicides. In the case of
+Asp-2078-Gly and Cys-2088-Arg, both confer broad resistance
+to all ACCase-inhibiting herbicides currently tested (Kaundun
+2014). However, the advantages provided to the plant by
+Asp-2078-Gly seem not be the general rule, as Vila-Aiub et al.
+(2015) found that this mutation was associated with constraints
+in ACCase activity. These constraints included significant reduc-
+tions in the specific activity and the maximal reaction velocity
+of this enzyme, which may lead to a shortage of lipids available
+for rapid growth, correlated with detrimental effects in the growth
+of L. rigidum plants homozygous for this mutation. Similarly,
+A. myosuroides plants have displayed a reduction of around 40%
+in biomass and seed production associated with the Asp-2078-
+Gly mutation in the homozygous state (Menchari et al. 2008).
+Nevertheless, despite the fitness cost, Asp-2078-Gly has been the
+most frequently found ACCase mutation, being detected in nine
+of 54 L. multiflorum populations sampled from the United
+Kingdom (Alarc´on-Reverte et al. 2013). The frequency of this
+mutation appeared to be governed by the herbicide selection pres-
+sure applied by FOPs and DIMs (Kaundun 2014). In Argentina,
+the selection pressure associated with the use of clethodim and
+haloxifop in preplant applications and pinoxaden on wheat and
+barley crops would also have favored the resistance mediated by
+the Asp-2078-Gly mutation in the L. perenne population studied.
+The inherited ability of plants from the resistant population to
+survive and reproduce after a normally lethal dose of ACCase-
+inhibiting herbicides was demonstrated. Pinoxaden-, clethodim-,
+or quizalofop-treated L. perenne plants completed their life cycle,
+producing viable seeds.
+The level of resistance to these ACCase inhibitors was assessed
+by dose–response evaluation of plant survival or seed production,
+and RIs were higher for plant survival than seed production. While
+growth or survival comparisons between susceptible and resistant
+plants gave an approximation about the relative sensitivity to
+an herbicide, considering these results, viable seed production
+should also be a variable taken into account in evaluating herbicide
+resistance.
+The resistant L. perenne population would evolve under a
+high use of ACCase inhibitors in order to control glyphosate resist-
+ant plants. In this context, nonchemical methods of weed man-
+agement (seedbank control, crop rotation, and competitive crops,
+Table 2. Results of dose–response assays using clethodim and quizalofop showing variables measured and parameter estimates from
+the nonlinear log-logistic regression model (y = D/(1 þ (x/I50)b) of resistant and susceptible Lolium perenne populations (data from two
+replicated experiments).a
+Herbicide Variable Population Db I50 R2 P-value
+% g ai ha−1
+Clethodim Plant survival Susceptible 99.5 3.7 76.6 0.98 P < 0.001
+Resistant 95.6 1.4 413.8* 0.81 P < 0.001
+RI = 5.4
+seeds pl−1 gaiha−1
+Seed production Susceptible 205.9 1.5 30.2 0.91 P < 0.001
+Resistant 207.2 0.5 99.8* 0.83 P < 0.001
+RI = 3.3
+% g ai ha−1
+Quizalofop Plant survival Susceptible 100.0 4.2 20.3 0.96 P < 0.001
+Resistant 97.4 1.2 211.6* 0.78 P < 0.001
+RI = 10.4
+seeds pl−1 gaiha−1
+Seed production Susceptible 206.7 2.6 9.6 0.98 P < 0.001
+Resistant 207.7 1.0 63.4* 0.84 P < 0.001
+RI = 6.6
+aAsterisks indicate significant differences between herbicide doses required to achieve 50% of the maximum response calculated on susceptible and
+resistant populations. Resistance indices (RI) are shown.
+Weed Science 7
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.1
+Downloaded from https://www.cambridge.org/core. IP address: 190.216.64.214, on 10 Feb 2020 at 13:43:49, subject to the Cambridge Core terms of use, available at
+among others) (Jabran and Chauhan 2018) and use of herbicide
+mixtures (Diggle et al. 2003) and herbicide rotations, taking into
+account the possible mechanisms of resistance (target-site resis-
+tance or detoxification, mainly), should be implemented to delay
+the evolution of herbicide resistance and prevent Asp-2078-Gly
+gene flow.
+Acknowledgments. This research was partially supported by Consejo
+Nacional de Investigaciones Científicas y Técnicas and Instituto Nacional de
+Tecnología Agropecuaria (2019-PE-E4-I086-001). We sincerely thank four
+anonymous reviewers for their insightful comments that substantially improved
+the article. No conflicts of interest have been declared.
+References
+Alarc´on-Reverte R, Shanley S, Kaundun S, Karp A, Moss S (2013) A SNaPshot
+assay for the rapid and simple detection of known point mutations confer-
+ring resistance to ACCase-inhibiting herbicides in Lolium spp. Weed Res
+53:12–20
+Bararpour T, Korres NE, Burgos NR, Hale RR, Tseng TP (2018) Performance
+of pinoxaden on the control of diclofop-resistant Italian ryegrass (Lolium
+perenne L. ssp. multiflorum) in winter wheat. Agriculture 8:114
+Baucom RS (2019) Evolutionary and ecological insights from herbicide-
+resistant weeds: what have we learned about plant adaptation, and what is
+left to uncover? New Phytol 223:68–82
+Beckie H, Warwick S, Sauder C (2012) Basis of resistance in Canadian
+populations of wild oat (Avena fatua). Weed Sci 60:10–18
+Beckie HJ, Reboud X (2009) Selecting for weed resistance: herbicide rotation
+and mixture. Weed Technol 23:363–370
+Busi R (2018) Herbicide resistance management: a 10-year case study and a look
+into the future. Pages 24–26 in Proceedings of the II Congreso Argentino de
+Malezas. Rosario, Argentina: Asociaci´on Argentina de Ciencia de las Malezas
+Cob AH, Reade JPH (2010) Inhibitors of lipid biosynthesis. Pages 157–175 in
+Cob AH, Reade JPH, eds. Herbicide and Plant Physiology. Chichester, UK:
+Wiley-Blackwell
+Cruz-Hipolito H, Fernandez P, Alcantara P, Gherekhloo J, Osuna MD, De
+Prado R (2015) Ile-1781-Leu and Asp-2078-Gly mutations in ACCase gene,
+endow cross-resistance to APP, CHD, and PPZ in Phalaris minor from
+Mexico. Int J Mol Sci 16:21363–21377
+Cruz-Hipolito H, Osuna MD, Domínguez-Valenzuela JA, Espinoza N,
+De Prado R (2011) Mechanism of resistance to ACCase-inhibiting herbicides
+in wild oat (Avena fatua) from Latin America. J Agric Food Chem 59:
+7261–7267
+Délye C (2005) Weed resistance to acetyl coenzyme A carboxylase inhibitors: an
+update. Weed Sci 53:728–746
+De Prado JL, Osuna MD, Heredia A, De Prado R (2005) Lolium rigidum, a pool
+of resistance mechanisms to ACCase inhibitor herbicides. J Agric Food
+Chem 53:2185–2191
+Diggle AJ, Neve PB, Smith FP (2003) Herbicides used in combination can
+reduce the probability of herbicide resistance in finite weed populations.
+Weed Res 43:371–382
+Doyle J, Doyle L (1990) Isolation of plant DNA from fresh tissue. Focus 12:
+13–15
+Evans JA, Tranel PJ, Hager AG, Schutte B, Wu C, Chatham LA, Davis AS (2016)
+Managing the evolution of herbicide resistance. Pest Manag Sci 72:74–80
+Gherekhloo J, Osuna MD, De Prado R (2012) Biochemical and molecular
+basis of resistance to ACCase-inhibiting herbicides in Iranian Phalaris minor
+populations. Weed Res 52:367–372
+Ghosh S, Sen-Mandi S (2018) Methylation status of ACCase promoter affects
+seed vigor-viability trait in Oryza sativa L. Trop Plant Res 5:1–7
+Gig´on R, Yanniccari M (2018) Evaluaci´on de sensibilidad a diferentes herbici-
+das en poblaciones de Lolium spp. del centro sur de la provincia de Buenos
+Aires. Page 69 in Proceedings of II Congreso Argentino de Malezas. Rosario,
+Argentina: ASACIM
+Heap I (2019) The International Survey of Herbicide Resistant Weeds. http://
+www.weedscience.org. Accessed: February 7, 2019
+Heap IM, Knight R (1982) A population of ryegrass tolerant to the herbicide
+diclofop-methyl. J Aust Inst Agric Sci 48:156–157
+Hochberg O, Sibony M, Rubin B (2009) The response of ACCase-resistant
+Phalaris paradoxa populations involves two different target site mutations.
+Weed Res 49:37–46
+Istilart C, Yanniccari M (2012) Análisis de la evoluci´on de malezas en cereales de
+invierno durante 27 a˜nos en la zona sur de la pampa húmeda argentina.
+Revista Técnica Aapresid 2012(Malezas problema):47–50
+Jabran K, Chauhan BS (2018) Overview and significance of non-chemical weed
+control. Pages 1–8 in Jabran K, Chauhan BS, eds. Non-chemical Weed
+Control. London: Elsevier
+Jang S, Marjanovic J, Gornicki P (2013) Resistance to herbicides caused by single
+amino acid mutations in acetyl-CoA carboxylase in resistant populations of
+grassy weeds. New Phytol 197:1110–1116
+Kaundun SS (2014) Resistance to acetyl-CoA carboxylase-inhibiting herbicides.
+Pest Manag Sci 70:1405–1417
+Kaundun SS, Bailly GC, Dale RP, Hutchings S-J, McIndoe E (2013a) A novel
+W1999S mutation and non-target site resistance impact on acetyl-CoA
+carboxylase inhibiting herbicides to varying degrees in a UK Lolium
+multiflorum population. PLoS ONE 8:e58012
+Kaundun SS, Hutchings S, Dale RP, McIndoe E (2013b) Role of a novel I1781T
+mutation and other mechanisms in conferring resistance to acetyl-CoA car-
+boxylase inhibiting herbicides in a black grass population. PLoS ONE 8:
+e69568
+Keith BK, Lehnhoff EA, Burns EE, Menalled FD, Dyer WE (2015)
+Characterisation of Avena fatua populations with resistance to multiple
+herbicides. Weed Res 55:621–630
+Keshtkar E, Abdolshahi R, Sasanfar H, Zand E, Beffa R, Dayan FE, Kudsk P
+(2019) Assessing fitness costs from a herbicide-resistance management
+perspective: a review and insight. Weed Sci 67:137–148
+Kukorelli G, Reisinger P, Pinke G (2013) ACCase inhibitor herbicide—selectivity,
+weed resistance and fitness cost: a review. Int J Pest Manag 59:165–173
+Lemerle D, Verbeek B, Combes NE (1995) Losses in grain yield of winter crops
+from Lolium rigidum competition depend on crop species, cultivar and
+season. Weed Res 35:503–509
+Liu W, Harrison DK, Chalupska D, Gornicki P, O’Donnell CC, Adkins SW,
+Haselkorn R, Williams RR (2007) Single-site mutations in the carboxyltrans-
+ferase domain of plastid acetyl-CoA carboxylase confer resistance to grass-
+specific herbicides. Proc Natl Acad Sci USA 104:3627–3632
+Lukatkin AS, Gar’kova AN, Bochkarjova AS, Nushtaeva OV, Teixeira da Silva
+JA (2013) Treatment with the herbicide TOPIK induces oxidative stress in
+cereal leaves. Pest Biochem Physiol 105:44–49
+Mahmood K, Mathiassen SK, Kristensen M, Kudsk P (2016) Multiple herbicide
+resistance in Lolium multiflorum and Identification of conserved regulatory
+elements of herbicide resistance genes. Front Plant Sci 7:1160
+Matzrafi M, Gadri Y, Frenkel E, Rubin B, Peleg Z (2014) Evolution of herbicide
+resistance mechanisms in grass weeds. Plant Sci 229:43–52
+Menchari Y, Chauvel B, Darmency H, Délye C (2008) Fitness costs associated
+with three mutant acetyl-coenzyme A carboxylase alleles endowing herbicide
+resistance in black-grass Alopecurus myosuroides. J Appl Ecol 45:939–947
+Mithila J, Godar AS (2013) Understanding genetics of herbicide resistance in
+weeds: implications for weed management. Adv Crop Sci Tech 1:1–4
+Murray BG, Friesen LF, Beaulieu KJ, Morrison IN (1996) A seed bioassay to
+identify acetyl-CoA carboxylase inhibitor resistant wild oat (Avena fatua)
+populations. Weed Tech 10:85–89
+Osuna MD, Goulart ICGR, Vidal RA, Kalsing A, Ruiz Santaella JP, De Prado R
+(2012) Resistance to ACCase inhibitors in Eleusine indica from Brazil
+involves a target site mutation. Planta Daninha 30:675–681
+Petit C, Bay G, Pernin F, Délye C (2010) Prevalence of cross- or multiple resis-
+tance to the acetyl-coenzyme A carboxylase inhibitors fenoxaprop, clodina-
+fop and pinoxaden in black-grass (Alopecurus myosuroides Huds.) in France.
+Pest Manag Sci 66:168–177
+Powles S, Yu Q (2010) Evolution in action: plants resistant to herbicides. Annu
+Rev Plant Biol 61:317–347
+Preston C (2004) Herbicide resistance in weeds endowed by enhanced detoxi-
+fication: complications for management. Weed Sci 52:448–453
+Preston C, Tardif EJ, Christopher JT, Powles SB (1996) Multiple resistance to
+dissimilar herbicide chemistries in a biotype of Lolium rigidum due to
+8 Yanniccari and Gig´on: Cross-resistance in L. perenne
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.1
+Downloaded from https://www.cambridge.org/core. IP address: 190.216.64.214, on 10 Feb 2020 at 13:43:49, subject to the Cambridge Core terms of use, available at
+enhanced activity of several herbicide degrading enzymes. Pestic Biochem
+Physiol 54:123–134
+Puntarulo S, Sánchez R, Boveris A (1988) Hydrogen peroxide metabolism in soy-
+bean embryonic axes at the onset of germination. Plant Physiol 86:626–630
+Sabet Zangeneh H, Mohammaddust Chamanabad HR, Zand E, Alcántara-de la
+Cruz R, Travlos IS, De Prado R, Alebrahim MT (2018) Clodinafop-propargyl
+resistance genes in Lolium rigidum Guad. populations are associated with
+fitness costs. Agronomy 8:106
+Sasaki Y, Nagano Y (2004) Plant acetyl-CoA carboxylase: structure, biosynthesis,
+regulation, and gene manipulation for plant breeding. Biosci Biotechnol
+Biochem 68:1175–1184
+Scarabel L, Varotto S, Sattin M (2007) A European biotype of Amaranthus
+retroflexus cross-resistant to ALS inhibitors and response to alternative
+herbicides. Weed Res 47:527–533
+Scursoni J, Gig´on R, Martin A, Vigna M, Leguizam´on E, Istilart C, L´opez R
+(2014) Changes in weed communities of spring wheat crops of Buenos
+Aires province of Argentina. Weed Sci 62:51–62
+Scursoni JA, Palmano M, De Notta A, Delfino D (2012) Italian ryegrass (Lolium
+multiflorum Lam.) density and N fertilization on wheat (Triticum aestivum L.)
+yield in Argentina. Crop Prot 32:36–40
+Senseman S, ed (2007) Herbicide Handbook. 9th ed. Lawrence, MA: Weed
+Science Society of America. 458 p
+Siminszky B (2006) Plant cytochrome P450-mediated herbicide metabolism.
+Phytochem Rev 5:445–458
+Smit JJ, Smit HA, de Villiers BL (1999) Differential efficacy of tralkoxydim and
+diclofop-methyl on a suspected resistant ryegrass (Lolium rigidum Gaud.)
+biotype. S Afr J Plant Soil 16:169–172
+Vila-Aiub MM, Neve P, Powles SB (2005) Resistance cost of a cytochrome
+P450 herbicide metabolism mechanism but not an ACCase target site
+mutation in a multiple resistant Lolium rigidum population. New Phytol
+167:787–796
+Vila-Aiub MM, Yu Q, Han H, Powles SB (2015) Effect of herbicide resistance
+endowing Ile-1781-Leu and Asp-2078-Gly ACCase gene mutations on ACCase
+kinetics and growth traits in Lolium rigidum. J Exp Bot 66:4711–4718
+Yanniccari M, Gig´on R, Istilart C, Castro AM (2018) Mecanismos de resistencia
+a múltiples herbicidas en poblaciones de Lolium spp. del sur de la provincia
+de Buenos Aires. Page 242 in Proceedings of the II Congreso Argentino
+de Malezas. Rosario, Argentina: Asociaci´on Argentina de Ciencia de las
+Malezas
+Yanniccari M, Istilart C, Giménez DO, Castro AM (2012) Glyphosate resistance
+in perennial ryegrass (Lolium perenne L.) from Argentina. Crop Prot 32:
+12–16
+Yu LPC, Kim YS, Tong L (2010) Mechanism for the inhibition of the carboxyl-
+transferase domain of acetyl-coenzyme A carboxylase by pinoxaden. Proc
+Natl Acad Sci USA 107:22072–22077
+Yu Q, Collavo A, Zheng MQ, Owen M, Sattin M, Powles SB (2007) Diversity of
+acetyl-coenzyme A carboxylase mutations in resistant Lolium populations:
+evaluation using clethodim. Plant Physiol 145:547–548
+Yu Q, Powles S (2014) Metabolism-based herbicide resistance and cross-
+resistance in crop weeds: a threat to herbicide sustainability and global crop
+production. Plant Physiol 166:1106–1118
+Zhang P, Wu H, Xu H, Gao Y, Zhang W (2017) Dong L, Mechanism of
+Fenoxaprop-P-ethyl Resistance in Italian Ryegrass (Lolium perenne ssp.
+multiflorum) from China. Weed Sci 65:1–8
+Weed Science 9
+https://www.cambridge.org/core/terms. https://doi.org/10.1017/wsc.2020.1
+Downloaded from https://www.cambridge.org/core. IP address: 190.216.64.214, on 10 Feb 2020 at 13:43:49, subject to the Cambridge Core terms of use, available at

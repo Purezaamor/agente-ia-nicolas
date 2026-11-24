@@ -1,0 +1,463 @@
+=== Fuente: Rogberg-Muñoz Longitudinal analysis of the effects of igf1 snabi genotypes on the growth curve of angus bull calves.pdf ===
+
+This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/authorsrights
+
+Author's personal copy
+Longitudinal analysis of the effects of IGF1-SnaBI genotypes
+on the growth curve of Angus bull calves
+Andrés Rogberg-Muñoz 1,a,b,n, Rodolfo J.C. Cantet b,c,1, María Elena Fernández a,
+Juan Pedro Lirón a, Alberto Prando d, Ana Nélida Birchmeier c,
+María Verónica Ripoli a, Guillermo Giovambattista a
+a Instituto de Genética Veterinaria (IGEVET), CCT La Plata – CONICET – Facultad de Ciencias Veterinarias, Universidad Nacional de La Plata,
+La Plata, Argentina
+b Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET), Argentina
+c Departamento de Producción Animal, Facultad de Agronomía, Universidad de Buenos Aires, Ciudad Autónoma de Buenos Aires, Argentina
+d Departamento de Producción Animal, Facultad de Ciencias Veterinarias, Universidad Nacional de La Plata, La Plata, Argentina
+article info
+Article history:
+Received 30 August 2012
+Received in revised form
+14 March 2013
+Accepted 15 March 2013
+Keywords:
+Insulin Growth Factor 1
+Growth
+Cattle
+DNA
+Bull calves
+abstract
+The Insulin Growth Factor 1 (IGF1) has been proposed as a candidate gene for growth
+related traits as it plays a central role in growth and development of mammals.
+A relationship between serum IGF1 concentration and different growth traits in cattle
+has been documented. Furthermore, the IGF1-SnaBI SNP in the gene promoter region
+influences gene expression and IGF1 blood level. The current research was conducted to
+perform a genetic analysis of longitudinal data for growth curves through the evaluation
+of the influence of IGF1-SnaBI genotypes on the growth curve of beef cattle during highly
+anabolic stages. Data were taken on 275 Angus bull calves on two consecutive years, in
+two commercial cow–calf operations. Calves were weighed at birth, at weaning, and at 3
+to 4 times before the year of age. A random regression animal model was employed for the
+analysis. Fixed effects were age of dam, herd-year, and age of calf (linear and quadratic
+terms nested within IGF1-SnaBI genotype). Random effects were age at measure (linear
+and a quadratic terms nested within animal). The analysis showed significant differences
+(Po 0.01) in the growth curves at ages in between 66 and 291 days for the IGF1-SnaBI
+genotypes. At 210 days of age, the effect of substituting a T by a C was estimated to be
+5.21 kg. These results suggest that the effect of IGF1-SnaBI over growth in cattle take place
+mostly before puberty.
+& 2013 Elsevier B.V. All rights reserved.
+1. Introduction
+The Insulin Growth Factor 1 (IGF1) has been proposed
+as a candidate gene for growth related traits in cattle and
+other farm animal species (Parmentier et al., 1999), as it
+plays a central role in growth and development of
+mammals. Associated with the Growth Hormone (GH),
+IGF1 participates in hormonal regulation of many anabolic
+processes like glucose and lipid metabolism, myogenesis,
+and in the development of puberty (Werner et al., 1994).
+Furthermore, a relationship has been demonstrated
+between serum IGF1 concentration and different growth
+traits in cattle (Anderson et al., 1988; Graml et al., 1994;
+Kitagawa et al., 2001). In this regard, Te Pas et al. (2004)
+indicated that the relationship between growth rate and
+IGF1 is mainly at the expression level. Noteworthy, Maj
+et al. (2008) have recently reported that a SNP (SnaBI)in
+Contents lists available at SciVerse ScienceDirect
+journal homepage: www.elsevier.com/locate/livsci
+Livestock Science
+1871-1413/$ - see front matter & 2013 Elsevier B.V. All rights reserved.
+http://dx.doi.org/10.1016/j.livsci.2013.03.016
+n Corresponding author. Tel./fax: +54 221 4211799.
+E-mail address: arogberg@fcv.edu.ar (A. Rogberg-Muñoz).
+1 Both authors contribute equally to the present work.
+Livestock Science 154 (2013) 55–59
+Author's personal copy
+the promoter region of the IGF1 gene influences gene
+expression in cattle. They have also observed a significant
+association between the IGF1 genotype and IGF1 blood
+level, and suggested that the polymorphism introduces a
+putative binding site (TCCA) for the Nuclear Factor I (NFI)
+transcription factor. Casas et al. (2003), Li et al. (2002), and
+McClure et al. (2010) have detected quantitative trait loci
+(QTLs) associated with growth traits in the region of BTA5
+between 55 and 80 cM, where IGF1 gene is located. Two
+polymorphisms have been described in the promoter
+region of the IGF1 gene: a microsatellite (Kirkpatrick,
+1992), and a SNP, identified as a C/T transition at position
+−472 (Ge et al., 2001). The microsatellite has been asso-
+ciated with birth and weaning weight (Andrade et al.,
+2008; Moody et al., 1996; Rogberg-Muñoz et al., 2011).
+A nearby SNP (named IGF1-SnaBI) was reported to affect
+animal growth rate and meat performance in Angus,
+Beefbooster, Holstein-Friesian and Charolais cattle (De la
+Rosa Reyna et al., 2010; Ge et al., 2001; Li et al., 2004;
+Siadkowska et al., 2006), even though these studies are not
+consistent in the period where the marker is associated.
+Genetic evaluation programs for beef cattle employ
+three or four weight measurements as indicators of animal
+growth, and those usually are the weights at birth, at
+weaning (between 200 and 210 days), at 15 months
+(or 400 days) and at 18 months (or 600 days). Therefore,
+most of QTL detection and marker association tests on
+growth traits are performed at these particular ages
+(see QTL Data Base, 2012). Fitting growth models on different
+body weight data and extracting the relevant growth para-
+meters provides a way to combine phenotypic information
+from multiple measurements into a biologically meaningful
+manner (Hadjipavlou and Bishop, 2009). There are several
+studies of genotype association with growth curves (or its
+parameters) in pigs, sheep or chickens (Buitenhuis et al.,
+2004; Hadjipavlou and Bishop, 2009; Podisi, 2011; Varona
+et al., 2005), and also in humans (Podolsky et al., 2007).
+Moreover, growth curve is affected by breed genotype
+(Lambe et al., 2006) and can be modified by selection
+(Köhn et al., 2008). However, little has been researched in
+cattle (Lusk, 2007). As the period between birth to 18 months
+includes different physiological stages, an analysis of the
+growth curve could be more informative in explaining the
+influence of the IGF1 gene for animal growth than analyzing
+the data at individual ages.
+The most apt approach to the genetic analysis of long-
+itudinal data for growth curves is random regression—
+repeated measures by means of mixed models (Little et al.,
+1998). In words of (Diggle et al. 1994) the analysis is
+characterized by “its effectiveness for studying change”.
+This is due to: (1) all information is used to produce tests
+of hypothesis at given time points; (2) the number of
+degrees of freedom for the error term in hypothesis testing
+greatly increases. This is even true after correcting degrees
+of freedom for the lack of independence of error terms
+and/or random effects (Kenward and Rogers, 1997); and
+(3) estimable functions of fixed effects are Best Linear
+Unbiased Estimators (BLUE), which is not the case with the
+analysis at individual time points. Therefore, the goal of
+this research was to estimate the additive and dominance
+effects of IGF1-SnaBI genotypes on the growth curve of
+Angus bull calves by a random regression animal model for
+longitudinal data. Animals were fed on a pasture based
+system during highly anabolic stages.
+2. Materials and methods
+The experimental population consisted of 275 Angus
+bull calves belonging to two herds located in Buenos Aires
+Province, Argentina. Groups of half-sib calves sired by
+24 related bulls, which were born between July and
+September of 2008 and 2009. The animals were bred in
+an extensive pasture system with ad libitum access to
+cultivated grass. The average daily gain in the whole period
+(birth to year) was 0.739 kg/day; with a maximum value
+of 1003 kg/day and a minimum of 0439 kg/day. Calves
+were weighed at birth; at weaning (range of age¼170 to
+240 days); and at 3 to 4 additional times before one year
+of age. DNA was extracted from blood samples using Wizard
+Genomic kit following manufacturer instructions (Promega,
+Madison, WI, USA). The IGF1-SnaBI promoter SNP, previously
+reported by Ge et al. (2001), was genotyped by the pyrose-
+quencing technique (Lirón et al., 2012;seeSupplementary
+materials—Appendix A,forfurtherdetail).
+The trait analyzed was weight gain between birth up to
+one year of age. A random regression animal model for
+repeated measures using either 5 or 6 weights per animal
+was employed for the analysis. Fixed effects were the
+classification variables of age of dam (4 levels: 2–3 years
+old, 4 years old, 5–7 years old and more than 8 years old),
+and herd-year (3 levels), and linear and quadratic effects of
+the covariate age of calf nested within IGF1-SnaBI genotype
+(CC, CT, and TT). Random effects were the covariate age at
+measure, with a linear and a quadratic term, nested within
+animal. Let A be the additive relative matrix of order
+275 /C2 1, and H be the 2 /C2 2 matrix:
+H ¼
+Varð ^βLiÞ Covð ^βLi; ^βQiÞ
+Covð ^βQi; ^βLiÞ Varð ^βQiÞ
+2
+4
+3
+5
+where ^βLi and ^βQi are the linear and quadratic random
+regressions of growth on age for animal I, respectively.
+Then, the variance of age effects for all animals was equal
+to H⊗A.
+To detect the age at which the maximum value of the
+additive effect was observed, the contrast CC vs. TT was
+formed, the first derivative of the resulting function was
+set to 0, and the value was solved for. Other appropriate
+linear contrasts were used to test for differences between
+genotypes and to estimate additive and dominance effects
+(Falconer and Mackay, 1996) at the usual average age at
+weaning of 210 days. To this purpose, allelic frequencies
+were calculated as suggested by McPeek et al. (2004),to
+avoid the effects of genetic drift and non-random mating
+on the gene frequency across generations. Let s be a vector
+of order 275 /C2 1, with element si being equal to 1, 0.5, or 0,
+if the genotype of individual i is CC, CT, or TT, respectively.
+Then, the allelic frequency for C was calculated as
+f C ¼ðs′AsÞ=ð2nÞ where n¼275.
+The A matrix was calculated using PROC INBREED, and
+the covariance components were estimated by Restricted
+Maximum Likelihood (REML) using PROC MIXED. Both
+A. Rogberg-Muñoz et al. / Livestock Science 154 (2013) 55–5956
+Author's personal copy
+procedures are built into SAS 9.3 (SAS, 2012). The α-level
+for all tests of significance was set equal to 0.01, and
+degrees of freedom were corrected by the method of
+Kenward and Roger (1997).
+3. Results and discussion
+The association between IGF1-SnaBI (SNP in the 5′-non-
+coding region of the IGF1 gene) and gain of weight was
+tested in Angus bull calves. The rough estimate of allelic
+frequencies gave a value of 0.55 for C and 0.45 for the T allele.
+After adjusting for non-random mating and genetic drift
+(McPeek et al., 2004), the corresponding frequencies of C and
+T for the Angus resource population used herein were 0.52
+and 0.48, respectively. In a previous work, Ge et al. (2001)
+had found rough estimates of frequencies for the C allele
+equal to 0.52 and 0.75, in two divergent Angus populations.
+Underwood et al. (1994) demonstrated that nutritional
+restrictions affect the expression and the action of the IGF1
+gene and hormone. In our experiment, animals were
+constantly gaining weight: the ADGs were 0.740, 0.739
+and 0.735 kg/day, for the genotypes CC, CT and TT, respec-
+tively. Using a longitudinal (multivariate) mixed animal
+model for analyzing the effects of change, differences
+among linear functions of estimated fixed effects for the
+three genotypes were deemed significant for weight gain
+(third column in Table 1). Estimated weight gain at 210
+days was larger for CC than for CT, and the latter was larger
+than TT. At 210 days, the estimated difference between the
+genotypes CC and TT was 10.47 kg (Po0.01). This is
+displayed by the growth curves in Fig. 1. The magnitude
+of the estimated effects suggests that growth of these
+calves was mostly linearly related with age. Age of dam
+and herd-year were also significant (Po0.01). The additive
+effect (a, Falconer and Mackay, 1996) for CC at 210 days of
+Table 1
+Predicted average weight for each IGF1-SnaBI genotype at 210 days age, and the contrast between them, are presented. Additive (a), dominant (d) and
+substitution (α) effects for each age calculated as suggested by Falconer and Mackay (1996) are also showed.
+Genotype (N) Weight at 210 days (kg) Genotype contrast (kg) a (kg) d (kg) Substitution effect α (kg)
+CC (50) 197.3873.06 CC vs. TT 10.4773.50**
+5.2471.75** 0.1372.38 5.21CT (141) 192.27 72.43 CT vs. TT 5.3673.20
+TT (80) 186.91 73.39 CC vs. CT 5.1172.67
+nn Po0.01.
+Fig. 1. Growth curves (weight-age) for the three IGF1-SnaBI genotypes (CC, CT and TT). The obtained quadratic regression equation for each genotype is
+presented in the plot on the right. The graph in the left is an enlargement from the first graph showing the period between 190 and 250 days.
+A. Rogberg-Muñoz et al. / Livestock Science 154 (2013) 55–59 57
+Author's personal copy
+age was equal to 5.24 kg (Po0.01), whereas the estimated
+value of d was equal to 0.13 kg and non-significant. There-
+fore, the substitution effect was equal to 5.21 kg. These
+results agree with those of Maj et al. (2008) who found
+increased blood IGF1 concentration with the number of C
+alleles, in a gene expression analysis of Holstein-Friesian
+cattle.
+In a different analysis using the same Angus calves that
+were employed in the current study, Lirón et al. (2012)
+found that the average age at puberty was 290 days. In the
+current study the differences between homozygous geno-
+types were significant between 66 and 291 days of age, a
+period of high anabolism in mammals. The observation
+that IGF1-SnaBI mostly affects early stages of growth in bull
+calves (i.e. the period before and closely after weaning),
+whereas later on differences between IGF1-SnaBI genotypes
+become smaller and eventually vanish, is consistent with the
+findings in mice of Lupu et al. (2001). These authors found
+that after weaning and few days after reaching puberty the
+contribution of the GH/IGF1 system to growth was practi-
+callyterminated.Inthesamedirection,Curi et al. (2005)
+compared the growth of cattle with CC and CT after 110 days
+of confinement. They found that CC genotype animals have a
+superior final (1 year old) weight, but the same daily weight
+gain during the test period. They observed that CC genotype
+animals had entered confinement (240 days age) with a
+larger body weight, indicating that animals would have been
+heavier at weaning. The fact that the effect of IGF1-SnaBI was
+significant, and hence detectable, in a restricted period
+before weaning and little after puberty could support those
+findings. Furthermore, the present results expand the ones
+obtained in the previous association tests of IGF1-SnaBI
+genotypes with growth traits in different beef cattle breeds.
+Ge et al. (2001) detected a significant additive effect between
+genotypes in the growth rate 20 days after weaning. Inter-
+estingly, the effect was detected in an Angus herd selected
+for a low concentration of circulating IGF1, but no effect was
+observed in a herd selected for a high concentration of
+circulating IGF1. Furthermore differences in growth were
+not significant in both herds in the off-test weight.
+Siadkowska et al. (2006) found that the daily weight gain
+during the 8th month (post-weaning) was superior in
+CC genotype Holstein young bulls and heifers, but there
+was no difference in the weight at 15 months between
+genotypes. In both studies, differences in the period close to
+weaning were detected but no effect was detected in the
+post year weight.
+4. Conclusions
+The analysis of longitudinal data detected a possible
+effect of the marker IGF1-SnaBI on the early growth of
+cattle. The substitution effect at 210 days of age of a C by a
+T in the SNP IGF1-SnaBI was estimated to be 5.21 kg, in
+Angus bull calves. The effect was significant at about the
+time of weaning whereas it vanished later: the maximum
+difference was detected around 217 days of age, and it
+became not significant 74 days after. These results suggest
+that the effect of IGF1-SnaBI over growth in cattle takes
+place mostly before puberty.
+Conﬂict of interest statement
+None of the authors of this paper has a financial or
+personal relationship with other people or organizations
+that could inappropriately influence or bias the content of
+the paper.
+Acknowledgments
+We are grateful to Flores Chicas de Areco and La
+Trinidad de Pertino studs for their collaboration. We also
+want to thanks the reviewers and editor for their com-
+ments, as they help us to improve the article. This research
+was supported by ANPCYT, CONICET, CICBA, UBA and
+UNLP.
+Appendix A. Supplementary materials
+Supplementary data associated with this article can be
+found in the online version at http://dx.doi.org/10.1016/
+j.livsci.2013.03.016.
+References
+Anderson, P.T., Bergen, W.G., Merkel, R.A., Enright, W.J., Zinn, S.A., Refsal,
+K.R., Hawkins, D.R., 1988. The relationship between composition of
+gain and circulating hormones in growing beef bulls fed three dietary
+crude protein levels. J. Anim. Sci. 66, 3059–3067.
+Andrade, P.C., Grossi, D.A., Paz, C.C.P., Alencar, M.M., Regitano, L.C.A.,
+Munari, D.P., 2008. Association of an insulin-like growth factor 1 gene
+microsatellite with phenotypic variation and estimated breeding
+values of growth traits in Canchim cattle. Anim. Genet. 39, 480–485.
+Buitenhuis, A.J., Lund M.S., Labouriau R., Petersen A.H., Madsen L.B.,
+Panitz F., Bendixen, C., 2004. Comparing body weight measured as
+single time point versus modelled as a longitudinal trait for QTL
+detection in pigs. In: Proceedings of the 55th Annual Meeting of the
+EAAP, Session: PG6.9. September 5th–9th 2004, Bled, Slovenia.
+Casas, E., Keele, J.W., Shackelford, S.D., Koohmaraie, M., Stone, R.T., 2003.
+Identification of quantitative trait loci for growth and carcass com-
+position in cattle. Anim. Genet. 35, 2–6.
+Curi, R.A., de Oliveira, H.N., Silveira, A.C., Lopes, C.R., 2005. Association
+between IGF-I, IGF-IR and GHRH gene polymorphisms and growth
+and carcass traits in beef cattle. Livest. Sci. 94, 159–167.
+De la Rosa Reyna, X.F., Montoya, H.M., Castrellón, V.V., Rincón, A.M.S.,
+Bracamonte, M.P., Vera, W.A., 2010. Polymorphisms in the IGF1 gene
+and their effect on growth traits in Mexican beef cattle. Genet. Mol.
+Res. 9, 875–883.
+Diggle, P.J., Liang, K.-Y., Zeger, S.L., (1994). The Analysis of Longitudinal
+Data. Oxford: Clarendon Press. p. 17.
+Falconer D.S., MacKay T.F.C. 1996. Introduction to quantitative genetics.
+4th edition. Longman Scientific & Technical, Burnt Mill, Harlow,
+United Kingdom.
+Ge, W., Davis, M.E., Hines, H.C., Irvin, K.M., Simmen, R.C., 2001. Associa-
+tion of a genetic marker with blood serum insulin-like growth factor-
+I concentration and growth traits in Angus cattle. J. Anim. Sci. 79,
+1757–1762.
+Graml, R., Olbrich-Bludau, A., Schwab, M., Schallenberger, E., Schams, D.,
+Pirchner, F., 1994. Relationship between plasma hormone and meta-
+bolite levels and breeding values of bulls. J. Anim. Breed. Genet. 112,
+313–326.
+Hadjipavlou, G., Bishop, S.C., 2009. Age-dependent quantitative trait loci
+affecting growth traits in Scottish Blackface sheep. Anim. Genet. 40,
+165–175.
+Kenward, M.G., Roger, J.H., 1997. Small sample inference for fixed effects
+from restricted maximum likelihood. Biometrics 53, 983–997.
+Kirkpatrick, B.W., 1992. Identification of a conserved microsatellite site in
+the porcine and bovine insulin-like growth factor-I gene 5′ flank.
+Anim. Genet. 23, 543–548.
+Kitagawa, H., Kitoh, K., Ito, T., Ohba, Y., Nishii, N., Katoh, K., Obara, Y.,
+Motoi, Y., Sasaki, Y., 2001. Serum growth hormone and insulin-like
+A. Rogberg-Muñoz et al. / Livestock Science 154 (2013) 55–5958
+Author's personal copy
+growth factor-1 concentrations in Japanese black cattle with growth
+retardation. J. Vet. Med. Sci. 63, 167–170.
+Köhn, F., Sharifi, A.R., Täubert, H., Malovrh, Š., Simianer, H., 2008.
+Breeding for low body weight in Gottingen minipigs. J. Anim. Breed.
+Genet. 125, 20–28.
+Lambe, N.R., Navajas, E.A., Simm, G., Bunger, L., 2006. A genetic investiga-
+tion of various growth models to describe growth of lambs of two
+contrasting breeds. J. Anim. Sci. 84, 2642–2654.
+Li, C., Basarab, J., Snelling, W.M., Benkel, B., Murdoch, B., Hansen, C.,
+Moore, S.S., 2004. Assessment of positional candidate genes myf5 and
+IGF1 for growth on bovine chromosome 5 in commercial lines of Bos
+Taurus. J. Anim. Sci. 82, 1–7.
+Li, C., Basarab, J., Snelling, W.M., Benkel, B., Murdoch, B., Moore, S.S., 2002.
+The identification of common haplotypes on bovine chromosome 5
+within commercial lines of Bos taurus and their associations with
+growth traits. J. Anim. Sci. 80, 1187–119 4 .
+Lirón, J.P., Prando, A.J., Fernández, M.E., Ripoli, M.V., Rogberg-Muñoz, A.,
+Goszczynski, D.E., Posik, D.M., Peral-García, P., Baldo, A., Giovambat-
+tista, G., 2012. Association between GNRHR, LHR and IGF1 polymorph-
+isms and timing of puberty in male Angus cattle. BMC Genet. 5 (13),
+26.
+Littell R.C., Henry R.C. Ammerman, C.B., Statistical analysis of repeated
+measures data using SAS procedures. J. Anim. Sci. 76, 1998, 1216–
+1231.
+Lupu, F., Terwilliger, J.D., Lee, K., Segre, G.V., Efstratiadis, A., 2001. Roles of
+growth hormone and insulin-like growth factor 1 in mouse postnatal
+growth. Dev. Biol. 229, 141–162.
+Lusk, J.L., 2007. Association of single nucleotide polymorphisms in the
+leptin gene with body weight and backfat growth curve parameters
+for beef cattle. J. Anim. Sci. 85, 1865–1872.
+Maj, A., Snochowski, M., Siadkowska, E., Rowinska, B., Lisowski, P.,
+Robakowska-Hyzorek, D., Oprzadek, J., Grochowska, R., Kochman, K.,
+Zwierzchowski, L., 2008. Polymorphism in genes of growth hormone
+receptor (GHR) and insulin-like growth factor-1 (IGF1) and its
+association with both the IGF1 expression in liver and its level in
+blood. Neuroendocrinol. Lett. 29, 981–989.
+McClure, M.C., Morsci, N.S., Schnabel, R.D., Kim, J.W., Yao, P., Rolf, M.M.,
+McKay, S.D., Gregg, S.J., Chapple, R.H., Northcutt, S.L., Taylor, J.F., 2010.
+A genome scan for quantitative trait loci influencing carcass, post-
+natal growth and reproductive traits in commercial Angus cattle.
+Anim. Genet. 41, 597–607.
+McPeek, S., Wu, X., Ober, C., 2004. Best linear unbiased allele-frequency
+estimation in complex pedigrees. Biometrics 60, 359–367.
+Moody, D.E., Pomp, D., Newman, S., MacNeil, M.D., 1996. Characterization
+of DNA polymorphisms in three populations of Hereford cattle and
+their associations with growth and maternal EPD in line 1 Herefords.
+J. Anim. Sci. 74, 1784–1793.
+Parmentier, I., Portetelle, D., Gengler, N., Prandi, A., Bertozzi, C., Vleurick,
+L., Gilson, R., Renaville, R., 1999. Candidate gene markers associated
+with somatotropic axis and milk selection. Dom. Anim. Endocrinol.
+17, 139–148.
+Podisi, B.K., 2011. Quantitative Trait Loci Mapping of Sexual Maturity
+Traits Applied to Chicken Breeding. Ph.D. Thesis. University of
+Edinburg. 〈http://www.era.lib.ed.ac.uk/bitstream/1842/5561/2/
+Podisi2011.pdf〉 (accessed 17.2.11).
+Podolsky, R.H., Barbeau, P., Kang, H-S., Zhu, H., Treiber, F.A., Snieder, H.,
+2007. Candidate genes and growth curves for adiposity in African-
+and European-American youth. Int. J. Obesity 31, 1491–1499.
+QTL Data Base. 〈http://www.animalgenome.org/cgi-bin/QTLdb/BT/index〉
+(accessed 07.08.2012).
+Rogberg-Muñoz, A., Melucci, L., Prando, A., Villegas-Castagnasso, E.E.,
+Ripoli, M.V., Peral-García, P., Baldo, A., Añon, M.C., Giovambattista, G.,
+2011. Association of bovine chromosome 5 markers with birth and
+weaning weight in Hereford cattle raised under extensive conditions.
+Livest. Sci. 135, 124–130.
+SAS, 2012. SAS/STAT 9.3 User's Guide. The MIXED Procedure (Book
+Excerpt). SAS Institute Inc., Cary, NC.
+Siadkowska, E., Zwierzchowski, L., Oprzadek, J., Strzalkowska, N., Bag-
+nicka, E., Krzyżewski, J., 2006. Effect of polymorphism in IGF-1 gene
+on production traits in Polish Holstein-Friesian cattle. Anim. Sci. Pap.
+Rep. 24, 225–237.
+Te Pas, M.F., Visscher, A.H., de Greef, K.H., 2004. Molecular genetic and
+physiologic background of the growth hormone-IGF-I axis in relation
+to breeding for growth rate and leanness in pigs. Dom. Anim.
+Endocrinol. 27, 287–301.
+Underwood, L.E., Thesen, J.P., Lemozy, S., Ketelslegers, J.-M., Clemmons, D.
+R., 1994. Hormonal and nutritional regulation of IGF-I and its binding
+proteins. Horm. Res. 42, 145–151.
+Varona, L., Gòmez-Raya, L., Rauw, W.M., Ovilo, C., Clop, A., Noguera, J.L.,
+2005. The value of prior information for detection of QTL affecting
+longitudinal traits: an example using Von Bertalanffy growth func-
+tion. J. Anim. Breed. Genet. 122, 37–48.
+Werner, H., Adamo, M., Roberts Jr., C.T., LeRoith, D., 1994. Molecular and
+cellular aspects of insulin-like growth factor action. Vit. Horm. 48,
+1–58.
+A. Rogberg-Muñoz et al. / Livestock Science 154 (2013) 55–59 59

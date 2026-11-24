@@ -1,0 +1,1081 @@
+=== Fuente: Bergen Measuring in vivo intracellular protein degradation rates in animal systems.pdf ===
+
+W. G. Bergen
+Measuring in vivo intracellular protein degradation rates in animal systems
+doi: 10.2527/jas.2007-0430 originally published online September 4, 2007
+2008, 86:E3-E12.J ANIM SCI 
+http://www.journalofanimalscience.org/content/86/14_suppl/E3
+the World Wide Web at: 
+The online version of this article, along with updated information and services, is located on
+www.asas.org
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from  by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+Measuring in vivo intracellular protein degradation rates in animal systems1
+W. G. Bergen2
+Program in Cellular and Molecular Biosciences, Department of Animal Sciences,
+Auburn University, Auburn 36849-5415
+ABSTRACT: Continual synthesis and breakdown or
+remodeling of proteins (also called protein turnover) is
+a principal characteristic of protein metabolism. During
+animal production, the net differences between synthe-
+sis and breakdown represent the actual marketable
+muscle foods. Because protein synthesis is a highly end-
+ergonic and protein breakdown is metabolic energy de-
+pendent, efﬁciency of production can be markedly en-
+hanced by lower muscle protein breakdown rates.
+Herein, various methodological approaches to studying
+protein breakdown, with particular emphasis toward
+food-producing animals, are presented. These include
+whole-animal tracer AA infusions in vivo, quantifying
+marker AA release from muscle proteins, and in vitro
+AA release-based methodologies. From such methods,
+Key words: marker amino acid, proteolysis, protein synthesis, tracer methodology,
+transcriptional and translational control, ubiquitin-proteasome
+©2008 American Society of Animal Science. All rights reserved. J. Anim. Sci. 2008. 86(E. Suppl.):E3–E12
+doi:10.2527/jas.2007-0430
+INTRODUCTION
+The protein component of lean mass (operationally
+deﬁned as water plus protein) in the whole body, irre-
+spective of tissue or anatomical location, undergoes a
+process of remodeling characterized by continual pro-
+tein synthesis, breakdown, and resynthesis (Schoen-
+heimer, 1942). This overall process, often referred to as
+protein turnover, is driven by 2 separate but concerted
+bioprocesses, de novo protein synthesis (i.e., transla-
+tion; Hershey, 1991) and protein breakdown (Schimke,
+1970). Growth or protein accretion of an animal de-
+pends on the rate of protein synthesis exceeding that
+of protein breakdown (Zak et al., 1979; Waterlow, 2006).
+1Presented at the Nonruminant Nutrition symposium “Under-
+standing protein synthesis and protein degradation and their path-
+way regulations for improving monogastric production efﬁciency and
+product quality”, at the annual meeting of the American Society of
+Animal Science, San Antonio, TX, July 8 to 12, 2007.
+2Corresponding author: bergewg@auburn.edu
+Received July 17, 2007.
+Accepted August 29, 2007.
+E3
+protein synthesis rates and protein breakdown rates
+(mass units/time) may be obtained. The applications
+of such methods and innovations based on traditional
+methods are discussed. Whole-animal in vivo ap-
+proaches are resource intensive and often not easily
+applied to high-throughput metabolic screening. Over
+the last 25 yr, biochemical mechanisms and molecular
+regulation of protein biosynthesis and protein break-
+down have been extensively documented. Proteolysis is
+dependent in part on the extent of expression of genes
+for components of cellular proteolytic machinery during
+skeletal muscle atrophy. It is proposed that high-
+throughput methods, based on emerging understand-
+ing about protein breakdown, may be useful in enhanc-
+ing production efﬁciency.
+In mature humans and animals, body protein mass is
+more or less constant but aging is accompanied by a
+slow loss of protein mass in particular skeletal muscle
+protein mass (Solomon and Bouloux, 2006). Farm ani-
+mals in production situations, however, are rarely in
+a negative N equilibrium except for females in early
+lactation or all animals during periods of insufﬁcient
+feed intake usually related to strategies of limit feeding/
+compensatory growth or lack of feedstuffs related to
+weather and economics. In general, however, periods
+of negative N equilibrium result in lowered perfor-
+mance by animals and, as such, are not deemed as
+contributing to food production and sustainability of
+animal agriculture. During disease states or in periods
+when energy and AA are overtly lacking, both protein
+biosynthesis and protein breakdown are regulated to
+maintain as much of the cellular and tissue infrastruc-
+ture as possible and to contribute to critical metabolic
+needs of the organism (Waterlow, 2006).
+ROLE OF PROTEIN TURNOVER
+IN ANIMAL PRODUCTION
+Although early workers recognized that body protein
+mass in growing animals was a net product of protein
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+BergenE4
+biosynthesis and breakdown, the process of protein bio-
+synthesis was elucidated in detail earlier than were
+the processes involved in protein breakdown (Bergen,
+2007). The continual process of body protein breakdown
+and resynthesis requires both metabolic energy and
+amino acids. Both of these are provided from feed and
+represent the primary cost input into animal produc-
+tion. The energetic costs of protein biosynthesis include
+the formation of the initiation ternary complex, activa-
+tion of all amino acids and ligation to transfer RNA
+(tRNA), placing the correct tRNA-AA into the ribo-
+somal acceptor site to match the genetic code in the
+mRNA, and the translocation of the growing peptide
+from the A (aminoacyl) to the P (peptidyl) site after
+peptide bond formation, and ﬁnally, termination. The
+energetic costs for initiation and termination of an aver-
+age-size protein are small compared with the costs of
+AA activation (i.e., 2 ATP/mole equivalent of an amino
+acid) and energy costs related to function of each eukar-
+yotic elongation factor (eEF1 and eEF2) at 1 ATP per
+peptide bond. Total minimal energetic costs of transla-
+tion are then 4 ATP/mole equivalent peptide bond
+formed. This minimal value is often not achieved be-
+cause the eEF-1–mediated placement of tRNA-AA into
+the A site is not always efﬁcient, and up to 1 extra mole
+of ATP may be required for the formation of a peptide
+bond (Rodnina and Wintermeyer, 1995). This is a net
+increase of 20 to 25% in energy expenditures. The actual
+energy costs at the molecular level for protein degrada-
+tion are less well established, but it takes energy to ﬁrst
+synthesize the components of intracellular degradation
+systems and at least 1 of these components needs meta-
+bolic energy to function. The net outcome is that when-
+ever breakdown of protein can be avoided there is a net
+saving in metabolic energy costs (Bergen and Merkel,
+1991a).
+The extent of continual protein remodeling appears
+to vary among farm animal species; this situation has
+direct consequences on the efﬁciency of protein deposi-
+tion. The theoretical energetic efﬁciency of protein syn-
+thesis is about 80% (Pullar and Webster, 1977), but
+efﬁciencies may as low as 35% (Bergen and Merkel,
+1991a). Work over the years has shown that the ratio
+of protein synthesis cycles to protein accretion (PS/PA)
+can range from a low of 2 to 4 to up to almost 10 in food-
+producing animals [from data summarized by Golian
+(1984) and Bergen and Merkel (1991a)]. As depicted in
+Figure 1, chickens and pigs exhibit a PS/PA of 2 to 4,
+whereas in sheep and cattle this ratio ranges from 7 to
+9. Thus, costs of muscle deposition from a net energy
+cost perspective seem to be greater in ruminants than
+in nonruminants. This may be related to the principal
+types of muscle ﬁbers present between these species;
+however this is not a well established concept. From
+the data in Figure 1 it may be reasoned that in species
+with generally higher proportion of type 2 intermediate
+and 2B ﬁbers (white-glycolytic ﬁbers; i.e., in chicken
+and pigs), the extent of protein remodeling during the
+growth period may be lower than in animals with a
+Figure 1. The ratio of protein synthesis rate to protein
+accretion rate in broilers, pigs, sheep, and beef steers.
+preponderance of type 1 and 2A muscle ﬁbers (oxidative
+ﬁbers; i.e., ruminants). Although there are no unequivo-
+cal data on the role of muscle ﬁber types on protein
+remodeling in growing food animals, during experimen-
+tal fast-twitch (2X, 2B) ﬁber to slow-twitch (1A, 2A)
+ﬁber transitions in humans and rabbits, a putative in-
+crease in proteolytic capacity (based on increased abun-
+dance of mRNA for proteolytic genes) was noted (Sultan
+et al., 2001; Yang et al., 2006). Work is clearly needed
+to rigorously test this hypothesis supported by the data
+in Figure 1. Work over the last 25 yr with cattle and
+swine has, however, clearly shown that a diminution
+of protein breakdown (as a result of β-agonist use in
+pigs and use of hormonal implants, such as trenbolone
+acetate and estrogen implant combinations) can greatly
+improve production efﬁciency by affecting protein turn-
+over (Buttery, 1983; Bergen and Merkel, 1991a,b; Hay-
+den et al., 1992).
+A remaining frontier of animal production research
+relates to delineating molecular mechanisms that may
+affect metabolic efﬁciencies. Clearly, some biological
+processes have a ﬁxed thermodynamic efﬁciency, but
+many such processes in combination may exhibit varia-
+tions across animals. If this is true, overall metabolic
+efﬁciencies may be amenable to genetic selection (Nkru-
+mah et al., 2007).
+TRACER KINETICS IN MEASURING
+PROTEIN SYNTHESIS AND BREAKDOWN
+Overall quantitative aspects of protein breakdown
+and synthesis can be determined with isotope-tracer
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+Protein degradation methodology E5
+Table 1. Glossary of symbols and terms
+Symbol Deﬁnition
+B Protein mass or pool
+C Total tracer activity/enrichment in skeletal muscle (B times SAB)
+SAI Speciﬁc activity/enrichment of free amino acid
+SAB Speciﬁc activity/enrichment of incorporated amino acid
+RS Rate of protein synthesis (mass per unit time) in B
+RB Rate of breakdown of protein (mass per unit time)
+T Total radioactivity or enrichment within a deﬁned B
+kS Fractional protein synthesis rate (FSR)
+kD Fractional protein breakdown rate (FBR)
+kA Fractional protein accretion (net) rate (FAR)
+kinetics methodologies. Net gain or accretion of body
+protein may be determined with tissue protein analyses
+from serial slaughter samples or with serial measures,
+regression-based approaches, and dye or deuterium di-
+lutions (Byers, 1979; Anderson et al., 1988; Castro-
+Bulle et al., 2007). For work in human nutrition, whole-
+body protein turnover has been of interest to relate to
+AA needs, whereas in animal agriculture applications,
+the focus is more often on synthesis and degradation
+in tissues, particularly in skeletal muscles containing
+desirable cuts of meat (Bergen, 2007). Additionally, in
+human exercise and skeletal muscle atrophy-related
+research, protein synthesis and degradation are being
+studied intensely at the tissue level.
+Basic Principles of Tracer Kinetics for Protein
+Synthesis and Breakdown
+It is most convenient to deﬁne components and sym-
+bols and terms used in describing tracer kinetics; there-
+fore, an appropriate glossary is provided in Table 1.
+Total protein mass in the whole body, tissues, or cells
+is a consequence of 2 independent bioprocesses, protein
+synthesis and protein breakdown such that change in
+protein mass = synthesis − breakdown (Waterlow et al.,
+1978; Zak et al., 1979).
+Although total protein mass in an animal can be de-
+termined analytically, and daily changes in nitrogen
+status can be determined via an N balance study, such
+approaches do not sufﬁce to determine protein synthe-
+sis and breakdown rates in tissues. Thus, Zak et al.
+(1979) deﬁne the relationship that (using designations
+from the glossary, Table 1) dB/dt = RS − RB, where dB/
+dt represents the net change in B, either as accretion
+when RS is greater than RB or loss when RB is greater
+than RS. In steady state, when dB/dt = 0, RS =RB.
+The rate of change in B can be determined with tracer
+kinetics (i.e., precursor-product relationship; Zilvers-
+mit, 1960) using 14C, 13C, 15N, 2H, or even 35S amino acid
+tracers with single dose (pulse) or continuous infusion
+experiments. For discussion purposes, the single-dose
+tracer administration technique can be used to demon-
+strate the principles of tracer AA kinetics in protein
+synthesis studies. Upon a single tracer dose, speciﬁc
+activity of the tracee will increase very rapidly in
+plasma and tissue free AA pools, and then also decline
+rapidly (Zilversmit, 1960; Zak et al., 1979; Figure 2).
+At the same time, some tracer is incorporated into the
+protein and the speciﬁc activity of that tracee AA will
+increase, and once peak labeling has been achieved,
+will decline. Then, SAB/dt = k [∫t o SAI dt −∫t o SAB dt].
+Upon integration, this yields dSAB/dt = k (SAI − SAB)or
+a standard precursor-product relationship (Zilversmit,
+1960). These results also indicate that an increase in
+Figure 2. Changes in speciﬁc activity (or enrichment),
+after a single (pulse-dose) tracer amino acid injection, in
+the plasma or tissue free amino acid pools and the protein
+pool. The speciﬁc activity in plasma or tissue free amino
+acid pools is SAi, whereas SAB is the speciﬁc activity of
+amino acid in the bound (B) or protein pool (Bergen et
+al., 1987). The arrow on the x-axis denotes start of injec-
+tion/infusion.
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+BergenE6
+protein-speciﬁc activity is a consequence of de novo syn-
+thesis. In steady state, thenk=kS or kD.
+Assuming near steady state early in a tracer isotope
+experiment, SAB is much less than SAI and kD = 0, then
+dSAB/dt=kSSAI. Solving this equation for fractional
+protein synthesis rate (kS, Table 1), kS equals SAB/SAI
+× t (Waterlow et al., 1978; Zak et al., 1979; Garlick et
+al., 1980; Reeds, 1992). The standard precursor-product
+relationship implies 2 ways of calculating k. During a
+period when the SAI is much greater than SAB,kS can
+be calculated from the SAB, provided that precursor
+pool SAI is also measured. This is precisely the approach
+of the ﬂooding and continuous infusion methods (Gar-
+lick et al., 1973, 1980; Waterlow et al., 1978; Zhang et
+al., 2002). Further, in a single-pulse setup, when SAI
+is much less than SAB and dB/dt = 0, in theory kD may
+be determined from the decline in natural log of SAB
+after isotope administration has ceased.
+Use of Rate Constant Designations in Protein
+Tracer Kinetics
+It has been well documented that the rate of protein
+synthesis (RS) is not dependent on protein mass or prod-
+uct, nor kinetically inﬂuenced by substrate concentra-
+tions (AA); thus, protein synthesis has been likened to
+a constant amount process (an adaptation of a zero-
+order rate constant; Waterlow et al., 1978). The rate
+constant designation kS has been assigned, which is
+expressed as a decimal or a fraction of units/t or the
+fractional synthesis rate (FSR).
+In contrast, protein breakdown is dependent on the
+protein mass (Schimke, 1970) and is, thus, a constant
+rate process similar to a ﬁrst-order rate process or kD.
+This constant may also be expressed as a decimal or
+fraction called the fractional breakdown rate (FBR).
+Similarly, net protein deposition rate (net deposited per
+unit time) can be expressed as a percentage of the whole
+protein mass and, therefore, as a fractional constant
+kA or fractional accretion rate (FAR). In combination,
+these rate designations can be combined into the rela-
+tionship kA =kS − kD or FAR = FSR − FBR.
+Although protein synthesis rate is not a function of
+protein mass or substrate concentration, the use of kS
+as a rate constant for mathematical purposes is valid
+in protein synthesis studies (Waterlow et al., 1978; Zak
+et al., 1979). During steady state, if C (or B ×SAB) equals
+amount of isotope in the total protein pool B, then dC/dt
+is the rate of incorporation of isotope from the precursor
+pool or Rs × SAI (protein synthesis, zero order, constant
+amount process) minus loss by breakdown or kD × total
+isotope activity in protein pool B (here designated as
+C). Early in a tracer infusion experiment, tracer incor-
+poration into protein will be negligible whereas RB is
+not affected by tracer infusions. Then to express Rs as
+a fractional rate constant (kS), both sides of the equation
+dC/dt = (Rs × SAI − kDC) may be divided by protein
+mass or B, resulting in dSAB/dt = (synthesis rate [Rs/
+B] − breakdown rate [kDC] (Waterlow et al., 1978).
+But Rs/B is the fractional rate of synthesis and can
+be likened to kS. Because in steady state kS =kD, this
+equation can be rewritten as dSAB/dt = kS (SAI − SAB),
+the standard precursor-product relationship (Zilvers-
+mit, 1960). For a more in-depth exploration of these
+kinetics, especially for application to growing (non-
+steady-state) animals, readers are encouraged to con-
+sult Atkins (1969), Steele (1971), Shipley and Clark
+(1972), Garlick et al. (1973, 1980), Waterlow et al.
+(1978), Zak et al. (1979), Bergen et al. (1987), Nissen
+(1992), Wolfe (1992), and Waterlow (2006).
+Determination of FSR, FAR, and FBR in Muscle
+Foods Species: General Approach and Utility
+In research with animals, it is often desirable to de-
+termine FBR, FSR, and FAR after a speciﬁc treatment
+or during differing physiological and dietary states.
+Generally speaking, FSR of all or individual proteins
+within a tissue can be determined using infusions of AA
+isotopes. To this end, a continuous infusion approach
+(Garlick et al., 1973), a ﬂooding dose approach (excess
+tracee with tracer; Garlick et al., 1980), and a pulse
+dose approach (Zhang et al., 2002) to determine protein
+synthesis have been developed and are widely utilized.
+In many respects, the latter 2 methods are similar ex-
+cept that excess tracee AA are not used in the pulse-
+dose system of Zhang et al. (2002). In the continuous
+infusion approach, because SAI will take some time to
+plateau (or reach SAI max), such infusions may require
+greater time intervals and thus, the speciﬁc activity
+of the initial labeled tracee will be much lower before
+SAImax has been achieved. This may result in a signiﬁ-
+cant error in the obtained value for kS for short-time
+tracer infusion studies. Garlick et al. (1973) developed
+appropriate mathematical formulas and procedures to
+overcome this deﬁciency. If continuous infusions are
+continued sufﬁciently long then a ﬁnal tissue protein
+SAB can be divided by the SAImax × t to obtain kS
+or FSR as customary for the ﬂooding dose approach
+(Garlick et al., 1980). Long-term continuous infusion
+experiments require signiﬁcant resources when applied
+to food animal studies; therefore, this procedure has
+been applied infrequently in food animal studies partic-
+ularly with large, near-harvest animals (Garlick et al.,
+1976; Mulvaney et al., 1985; Bergen et al., 1987, 1989;
+Lobley et al., 1990; Rivera-Ferre et al., 2005). To obtain
+reliable FSR values, it is critical to accurately measure
+the applicable SAI or devise an experimental strategy
+such that the SAI remains nearly the same over the
+period of tracer incorporation into proteins. Again, this
+concept forms the basis of the ﬂooding dose technique
+and this procedure has been applied by numerous work-
+ers across many laboratories. In most cases FSR values
+obtained by continuous infusion vs. a ﬂooding dose are
+essentially identical (Caso et al., 2006).
+The FAR of total protein in a given tissue or speciﬁc
+proteins within tissues may be determined by dye or
+deuterium dilutions in vivo to measure total body water
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+Protein degradation methodology E7
+and derived body protein content, by serial animal har-
+vests, muscle sampling and analysis or with a regres-
+sion approach (Byers, 1979; McCarthy et al., 1983;
+Reeds et al., 1986; Anderson et al., 1988; Castro Bulle
+et al., 2007). As microanalytical techniques and new in
+vivo methods (such as imaging or dual-energy x-ray
+absorptiometry) to measure body composition become
+more available (Ellis, 1992, 2007; Mitchell, 2007), serial
+biopsies and direct muscle protein estimates may re-
+place serial slaughter approaches to determine FAR.
+In the relationship FAR = FSR − FBR, determining
+2 of the rates enables calculation of the third rate. This
+“2-out-of-3” approach has been applied differently to
+swine vs. cattle. Urinary excretion of a skeletal muscle
+protein marker amino acid, N-τ-methyl-histidine
+(NMH), may be used to determine FBR (Young and
+Munro, 1978). This approach (the urinary excretion of
+NMH) cannot be applied to pigs and some other species
+(Harris, 1981; Bergen et al., 1987), but can used with
+cattle (Bergen et al., 1987), as well as humans and
+rodents (Young and Munro, 1978), and yields FBR val-
+ues for individual animals (McCarthy et al., 1983; Hay-
+den et al., 1992; Castro-Bulle et al., 2007). When study-
+ing how hormones and exogenous agents may inﬂuence
+protein turnover, researchers have often implemented
+a 2-out-of-3 approach in animal production-related re-
+search (Mulvaney et al., 1985; Reeds et al., 1986; Hay-
+den et al., 1992; Castro-Bulle et al., 2007). For example,
+in our work with pigs we determined FSR and FAR
+and estimated FBR for skeletal muscle (Mulvaney et
+al., 1985; Bergen et al., 1989); whereas, with cattle
+we determined FBR and FAR and estimated FSR for
+skeletal muscle (McCarthy et al., 1983; Hayden et al.,
+1992). Any problems in obtaining the 2 experimentally
+determined values will be reﬂected in the calculated
+FBR or FSR. When using the FAR-FSR-FBR approach,
+such values reﬂect an overall composite rate for synthe-
+sis, breakdown, and accretion of all the mixed proteins
+in the applicable tissue and not of any individual classes
+of proteins (except for the NMH-based direct technique,
+which relates mostly to myoﬁbrillar proteins in skeletal
+muscle). In this author’s view, these fractional rate val-
+ues derived by difference need to be critically scruti-
+nized as to whether excessive variations in FAR and
+FSR or FBR values have occurred. This may invalidate
+values (FBR or FSR) obtained by difference calcula-
+tions. Other potential problems affecting fractional rate
+estimates may include estimation of tissue protein con-
+tent and total body protein mass. Moreover, experimen-
+tal approaches to obtain FAR, FBR, and FSR values
+really differ and while combined into a useful mathe-
+matical relationship, it should be realized that each of
+the fractional rates measured, as discussed previously,
+are not based on the same underlying assumptions. In
+addition, these constants should not be construed as
+reaction velocity constants (Waterlow, 2006). For exam-
+ple, FAR values are based on serial assessment of
+changes in whole body or individual tissue protein mass
+over days or months, FBR (in cattle) are based on NMH
+excretion for 1 or more days, whereas FSR values are
+based on tracer infusions of individual animals with
+short intervals, in which a “quasi” steady state (with
+respect to muscle protein mass) can be assumed. Addi-
+tional isotopic tracer infusion approaches to directly
+measure FBR have been developed more recently where
+a quasi steady state may also be assumed (Rathmacher
+and Nissen, 1998; Zhang et al., 2002).
+Whole-Body Amino Acid Kinetics
+Infusions of isotopes can also be used to estimate an
+overall entry rate or ﬂux (Q) of an amino acid in the
+whole animal from which protein synthesis and break-
+down can be estimated. Such a strategy will reﬂect all
+tissues and protein pools, but skeletal muscle contains
+most of the protein mass in large animals. Liver and
+the gastrointestinal tract could also be major contribu-
+tors to the data obtained. A 2-pool stochastic model of
+protein metabolism was initially proposed (for example,
+by Picou and Taylor-Roberts, 1969) and later, multiple
+pools and compartmental analyses were applied to
+whole human or large tissue (such as arm or leg muscle)
+pool AA kinetics (Wolfe, 1992). A 2-pool model is pre-
+sented here to illustrate basic principles (Figure 3).
+After a tracer essential amino acid has been continu-
+ously infused and its plasma speciﬁc activity plateaus
+(frequent blood sampling required; Figure 3), then Flux
+(Q) is as follows: Q (moles AA/unit time) = [Infusion
+rate (mole/t) of tracer AA (dpm/mole)]/[Plateau speciﬁc
+activity (dpm/mole)]. Then, from the metabolic pool
+(Figure 3a), Q (ﬂux) = all out (synthesis, S + excretion,
+E) = all in (breakdown, D + intake, I).
+In the postabsorptive state, Q equals breakdown of
+the whole-body protein pool. Instead of sampling the
+circulation, Q may also be based on speciﬁc activity
+analysis of urinary end products of an infused tracer
+AA (Duggleby and Waterlow, 2005).
+DIRECT MEASURES OF TISSUE
+PROTEIN BREAKDOWN
+Tischler (1992) noted that tissue proteolysis may be
+measured directly in vitro with nonisotopic AA release
+in studies using incubated tissue preparations, by
+pulse-chase labeling in studies using isolated cells in
+culture, and by dilution of perfusate isotopic AA speciﬁc
+activities in perfused organs. Experiments with incu-
+bated tissues have been applied frequently to study
+comparative rates of protein breakdown in vitro with
+isolated strips of muscle. This in vitro strategy was
+extensively applied to study the effect of hormones and
+many other variables on tissue protein breakdown us-
+ing phenylalanine or NMH release into the incubation
+medium (Goldberg et al., 1980; Skjaerlund et al., 1988,
+Tischler, 1992). Muscle strip incubations may also be
+used to measure protein synthesis; but irrespective of
+whether such strips arise from animals with a high
+FSR, RS would almost always be less than the observed
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+BergenE8
+Figure 3. A 2-pool model of whole-body protein metab-
+olism (panel a) and plasma speciﬁc activity, SAi, upon
+continuous injection of a tracer AA vs. time (panel b). In
+panel a, the model includes a metabolic (entry or exit)
+pool, A, and a whole-body protein pool, B. Components
+entering the pool are AA arising from protein breakdown,
+D, and dietary intake, I. Components leaving the meta-
+bolic pool are AA incorporated into the protein pool, B
+(synthesis, S) and catabolism of AA and urinary excretion
+(irreversible loss, E). The rate of entry and exit of a given
+AA, or ﬂux, Q, into the metabolic pool, can be assessed
+from a continuous infusion of tracer (panel b) when SAi
+reaches a plateau. Then Q (in moles of AA/time) equals
+moles of AA that enters (I, D) and amounts of AA that
+leaves (S, E) the metabolic pool, such that: Q = S+E=
+D + I. Because I and E of an AA can be measured, both
+S and D can be calculated (Bergen et al., 1987). The arrow
+on the x-axis denotes start of injection/infusion.
+RB because tissue preparations are usually in a net
+catabolic state (Bergen et al., 1987; Skjaerlund et al.,
+1988). Although many variations of muscle strip incu-
+bations in vitro have been published, such data would
+either indicate more or less protein breakdown than
+in controls. Such directional values cannot be used to
+calculate total tissue protein breakdown for an in vivo
+quantitative type of result.
+Protein breakdown rate may be estimated in vivo
+directly from the rate of loss of total isotopic label from
+equilibrium prelabeled protein or a mixture of proteins
+in an animal by measuring the rate of isotope release
+from the tissue proteins (Schimke, 1970; Reeds, 1992).
+For application in vivo, serial biopsies of desired muscle
+targets may be obtained after stopping isotope adminis-
+tration (or sampling of muscles after serial slaughter
+of animals), protein fractions may be isolated, isotope
+enrichment or speciﬁc activity quantiﬁed, and kD deter-
+mined according to the formula Tt /T0 =e−kdt (Koch,
+1962; Waterlow et al., 1978; Bergen et al., 1987), where
+T is the total protein tracer-label content of the whole
+applicable tissue. There are 2 major limitations of this
+approach. First, the inability to counteract the effect of
+recycling of the tracer isotope in animal systems (even
+when so-called nonrecycled labels are used to counter-
+act the effect of recycling of the tracer isotope) leads to
+signiﬁcant overestimates of t1/2 and underestimates of
+the rate of breakdown. Second, it cannot be assumed
+that the kinetics of label decay for mixed tissue proteins
+are described by a single rate constant. If only short
+experimental periods are used, then decay of short t1/2
+proteins in mixed proteins may disproportionately in-
+ﬂuence the results even if they only represent a small
+fraction of total mixed proteins. Thus decay measures
+need to be continued for a sufﬁciently long timeframe
+to also include the slowest-decaying components. Other
+issues that make the procedure impractical include the
+number of animals required during the decay period,
+isotope expenses, and difﬁculties in measuring protein
+pool sizes over the experimental period. All these vari-
+ables, which may be well controlled or measured in a
+muscle cell tissue culture system (Clark and Zak, 1981),
+severely curtail a general application of this approach to
+directly determine skeletal muscle protein breakdown
+rates in food-animal species.
+Wolfe’s laboratory (Zhang et al., 2002) has recently
+proposed an improved isotope tracer infusion method
+to determine FBR. This procedure is based on pulse
+injection of 3 stable isotopes of a nonmetabolizable in-
+dispensable AA for muscle (usually phenylalanine) at
+0, 30, and 55 min, respectively, in rabbits. Multiple
+arterial blood samples were obtained at intervals from
+5 to 115 min after the injection of the ﬁrst tracer and
+muscle biopsies were obtained at 5, 30, and 60 min
+(Zhang et al., 2002). The physiological basis of this ap-
+proach will be described here, but detailed mathemati-
+cal relationships and proofs are presented in Zhang et
+al. (2002). These researchers reasoned that the precur-
+sor-product relationship is usually only applied to
+movement of tracer from the tissue (muscle) free AA
+pool to the bound (protein) pool for determinations of
+FSR. However, the movement of tracee from the bound
+to the intracellular pool, in principle, is a precursor-
+product relationship (Zilversmit, 1960) useful to deter-
+mine FBR. These workers further reasoned that in a
+physiological steady state, intracellular protein break-
+down and movement of the tracee AA will result in an
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+Protein degradation methodology E9
+enrichment gradient (during tracer infusion) between
+arterial blood and the intracellular pool. In a tracer
+study, it can be shown that in the absence of intracellu-
+lar protein breakdown, enrichment in the intracellular
+free AA pool will be equal to the tracer enrichment in
+the arterial blood when an AA that is not metabolized
+in skeletal muscle (such as L-phenylalanine) is used
+as tracer. When the transport tracer/tracee from the
+arterial blood into the intracellular free AA pool is con-
+stant, dilution of enrichment of the tracer AA in the
+intracellular pool is strictly a function of intracellular
+protein breakdown (i.e., FBR). From here, Zhang et al.
+(2002) developed a set of equations to determine FBR
+and FSR. Importantly, this procedure does not require
+a tracer enrichment plateau nor precursor pool enrich-
+ments (the latter a requirement for the ﬂooding dose
+procedure), which are more or less stable during the
+period of tracer incorporation. Additionally, blood ﬂow
+measures often needed for compartmental kinetic ap-
+proaches are not required. Zhang et al. (2002) measured
+arterial and intracellular enrichments in arterial blood
+and muscle biopsy samples, which sufﬁced for FBR cal-
+culations when the ratio of intracellular free tracee con-
+tent to protein bound tracee content is known. For FSR,
+the enrichment of the bound pool was also required.
+Results for FBR and FSR were similar to estimates
+based on a previously validated 3-pool compartmental
+AA kinetics model (Zhang et al., 2002) and the FSR
+is comparable to FSR obtained from the ﬂooding dose
+procedure. At this time, the Zhang et al. (2002) proce-
+dure has not been used in food animal research
+(Chinkes, 2005).
+Skeletal muscle is a major tissue in whole-body pro-
+tein metabolism. This is especially true in large animals
+(i.e., livestock) and humans compared with rodents. A
+novel AA, NMH, was isolated from actin and myosin
+(reviewed by Bergen et al., 1987) and it was reported
+subsequently that this AA arises upon posttransla-
+tional methylation of speciﬁc histidine residues in both
+major myoﬁbrillar proteins (reviewed by Young and
+Munro, 1978; Bergen et al., 1987). Early work showed
+that NMH was released by intracellular proteolysis and
+excreted mostly unchanged in human urine (Bergen
+et al., 1987). Young and Munro (1978) recognized the
+potential of urinary NMH excretion as an index of mus-
+cle protein proteolysis, but with humans it is necessary
+to avoid all dietary sources of NMH (muscle foods) for
+urinary NMH excretion data to be valid. Furthermore,
+because creatinine excretion is a function of total mus-
+cle activity and mass, a urinary NMH to creatinine
+ratio could be used to express proteolysis as a fraction
+of protein mass. Three criteria were developed for the
+application of this marker AA as an index of protein
+catabolism: 1) NMH is present exclusively in skeletal
+muscle at a constant amount; 2) NMH released upon
+proteolysis is neither recycled into proteins nor metabo-
+lized, and 3) NMH is rapidly and quantitatively ex-
+creted in the urine (Young and Munro, 1978). Up to
+20% of total urinary NMH excretion may be contributed
+from nonmuscle myoﬁbrillar protein; however, over
+90% of all body NMH is found in skeletal muscle (Afting
+et al., 1981; Harris, 1981; Bergen et al., 1987). In some
+species (e.g., pigs and sheep), NMH excretion does not
+follow muscle proteolysis because NMH is sequestered
+in the nonexcreted NMH-containing dipeptide balen-
+ine, whereas in chickens and mice, NMH seems to be
+metabolized before ﬁnal excretion (reviewed in Bergen
+et al., 1987). To be able to obtain FBR, skeletal muscle
+protein pool size and NMH concentration in protein
+must also be determined or known (Bergen et al., 1987).
+Total daily NMH excretion may additionally be cor-
+rected by assuming that 20% of urinary NMH is from
+nonmuscle sources (at least in humans; Afting et al.,
+1981). Fractional breakdown rate is then calculated
+as daily NMH excretion × (total skeletal muscle NMH
+pool)−1 (Bergen et al., 1987).
+Because of the chronic balenine problem in pigs (Har-
+ris, 1981), Rathmacher et al. (1996) and Rathmacher
+and Nissen (1998) developed a NMH tracer infusion
+compartmental analysis approach to determine NMH
+release from muscle protein that is applicable to hu-
+mans, pigs, lambs, and cattle. The determined NMH
+release (typically micromoles/day) is then divided by
+whole-body skeletal muscle or myoﬁbrillar protein pool
+for FBR estimates. The Rathmacher et al. (1996) ap-
+proach does require serial blood samples to develop the
+exponential curve of NMH enrichment decline vs. time.
+This procedure has been used in some pig protein break-
+down studies in recent years (Jones and Stahly, 1999;
+Yang et al., 2000). To date, no other molecules suitable
+as a marker for proteolysis that adhere to the criteria
+set by Young and Munro (1978) have emerged
+(Chinkes, 2005).
+APPLICATION OF CONTEMPORARY
+GENOMIC REGULATION STRATEGIES
+TO STUDYING PROTEIN BREAKDOWN
+IN SKELETAL MUSCLES OF FOOD ANIMALS
+Uses of classical approaches, discussed previously, to
+assess protein synthesis and breakdown in food animals
+are expensive (e.g., reagents, isotopes, and animals),
+and require suitable experimental animal facilities and
+skilled technical human resources. Thus, any of the
+classical isotope and marker AA-based approaches to
+follow protein breakdown do not lend themselves to
+studies with the very large numbers of animals required
+to assess a) genotype variations in protein metabolism
+efﬁciency for selection purposes and b) genotype by per-
+formance enhancer interactions in growth trials.
+During the last 25 yr, knowledge about protein syn-
+thesis (Hershey, 1991; Proud, 2007) and degradation
+mechanisms have increased substantially (Goll et al.,
+2003; Reinstein and Ciechanover, 2006). Based on cur-
+rent understanding, calcium-activated proteases, the
+ubiquitin-proteasome system (UPS), lysosomes (to a
+limited extent), and other mechanisms such as autoph-
+agy are responsible for intracellular protein breakdown
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+BergenE10
+in skeletal muscle (Costelli et al., 2005; Finn and Dice,
+2006). It has been well recognized that overall capacity
+of protein synthesis is a function of cellular ribosome
+content (Proud, 2007). Control of translation, however,
+appears to be principally accomplished by posttransla-
+tional mechanisms via endocrine and signaling cas-
+cades that mediate phosphorylation or dephosphoryla-
+tion of initiation and elongation factors and (or) associ-
+ated binding proteins of the ribosome-based protein
+synthesis system (Proud, 2007). The regulation of prote-
+olysis in muscle appears more complex and is both de-
+pendent on transcription of genes for the proteolytic
+mechanism (Reinstein and Ciechanover, 2006) and on
+the inhibition and activation of cellular calpains and
+components of UPS (Goll et al., 2003, 2008). It has
+been suggested that capacity for proteolysis in cells
+is sufﬁcient to result in rapid, total tissue dissolution
+unless proteolysis is restrained by inhibitory mecha-
+nisms (Goll et al., 2008). Contrariwise, during skeletal
+muscle atrophy and sepsis, expression of genes for the
+components of the intracellular protein breakdown
+mechanism is elevated (Lecker et al., 2004; Sacheck et
+al., 2007). It is not altogether clear why, during onset
+of muscle wasting with a putative substantial tissue
+stored proteolytic capacity (Goll et al., 2008), gene ex-
+pression for UPS components is rapidly elevated unless
+the turnover rate of ubiquitin-proteasomal constituents
+is itself elevated during rapid phases of protein break-
+down. Upon induction of sepsis or muscle atrophy, a
+parallel increase in gene regulation of inﬂammation-
+related transcription factors and expression of several
+genes associated with proteolytic mechanisms has been
+noted, but a direct relationship between up-regulation
+of these genes and increased proteolytic activity has
+not been demonstrated (Hasselgren et al., 2005).
+Researchers trying to delineate induction mecha-
+nisms of disease-induced skeletal muscle protein atro-
+phy have shown a clear up-regulation of gene expres-
+sion of UPS components with respect to cancer, renal
+failure, fasting or anorexia, and diabetes (type II)-re-
+lated muscle protein wasting (Price, 2003; Lecker et
+al., 2004; Cao et al., 2005; Eley and Tisdale, 2007). From
+such studies, there is agreement that up-regulated ex-
+pression and activity of UPS is involved in development
+of muscle atrophy (Price et al., 1996; Hasselgren et al.,
+2005; Nakashima et al., 2005; Wang et al., 2006; Wyke
+and Tisdale 2006; Sadiq et al., 2007).
+Although there is universal agreement that tran-
+scription is a primary regulator of UPS components
+during disease-induced muscle proteolysis, the degree
+to which transcriptional regulation of muscle proteoly-
+sis is involved in skeletal muscle protein accretion in
+healthy, fast-growing, food-producing animals has not
+been widely explored and is not well understood. The
+work of Clowes et al. (2005) and Harper et al. (1999)
+demonstrates that transcription of UPS components is
+a factor in lactation-related muscle protein breakdown
+and is also possibly related to growth rate in poultry.
+Genomic tools are becoming more available and speciﬁc
+swine and beef cDNA microarrays have been developed
+and validated (Collier et al., 2006; Tuggle et al., 2007).
+Although transcriptional proﬁling is experimentally
+well deﬁned, changes in mRNA abundance for any gene
+do not necessarily imply regulation at the level of gene
+expression but reﬂect potential capacity for synthesis
+of a given protein (Carey and Smale, 2000).
+Application of proteomics may also be useful in study-
+ing proteolytic mechanisms in food animals. One ap-
+proach would be to study abundance of components of
+cellular protein breakdown systems using electrophore-
+sis and mass spectrometry (Cummins et al., 2004; Xu
+and Peng, 2006). Assessing products of protein degrada-
+tion (i.e., the degradome) is another proteomic approach
+(Schilling and Overall, 2007) that may be fruitful in
+quantifying degradation rates in food animals. Proteo-
+mic approaches are resource intensive and have not
+been widely used or validated to evaluate protein turn-
+over in skeletal muscle. Clearly, new data and revela-
+tions on regulatory and quantitative aspects of protein
+breakdown may be expected in the future. The combina-
+tion of muscle biopsies and laboratory assessment of
+protein synthesis and breakdown status will be a strat-
+egy to explore many unanswered questions in food ani-
+mal protein metabolism.
+SUMMARY
+Traditional isotopic tracer and marker AA-based
+methods to quantify protein breakdown, synthesis, and
+accretion applicable to food-producing animals have
+been enumerated. Newer, well-developed methods
+based on modiﬁcations of traditional approaches have
+emerged during the last 10 yr but have not been widely
+applied to food animal research. Because protein break-
+down and synthesis are energy-dependent processes,
+these processes are directly related to animal produc-
+tion costs. High-throughput methods are needed to
+study molecular regulation of protein turnover, and
+such understanding must be applied to regulate protein
+turnover during animal production. It is proposed that
+both transcriptional proﬁling and proteomic assess-
+ments should be applied to study molecular regulation
+of proteolysis to strengthen the livestock industry’s con-
+tinued quest to enhance efﬁciency of muscle growth.
+LITERATURE CITED
+Afting, E. G., W. Berhardt, R. W. C. Jantzen, and R. J. Roethig. 1981.
+Quantitative importance of non-skeletal muscle N-τ-methylhis-
+tidine and creatinine in human urine. Biochem. J. 200:449–452.
+Anderson, P. T., D. R. Hawkins, W. G. Bergen, and R. A. Merkel.
+1988. A note on dry-matter intake and composition of gain of
+Simmental bulls and steers fed to the same weight or age. Anim.
+Prod. 47:493–496.
+Atkins, G. L. 1969. Multicompartment Models for Biological Systems.
+Methuen, London, UK.
+Bergen, W. G. 2007. Contribution of research with farm animals to
+protein metabolism concepts: A historical perspective. J. Nutr.
+137:706–710.
+Bergen, W. G., S. E. Johnson, D. M. Skjaerlund, A. S. Babiker, N.
+K. Ames, R. A. Merkel, and D. B. Anderson. 1989. Muscle protein
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+Protein degradation methodology E11
+metabolism in ﬁnishing pigs fed ractopamine. J. Anim. Sci.
+67:2255–2262.
+Bergen, W. G., and R. A. Merkel. 1991a. Protein accretion. Pages
+169–202 in Growth Regulation in Farm Animals. A. M. Pearson
+and T. R. Dutson, ed. Elsevier Applied Science, London, UK.
+Bergen, W. G., and R. A. Merkel. 1991b. Body composition of animals
+treated with partitioning agents: Implications for human health.
+FASEB J. 5:2951–2957.
+Bergen, W. G., D. R. Mulvaney, D. M. Skjaerlund, S. E. Johnson,
+and R. A. Merkel. 1987. In vivo and in vitro measurements of
+protein turnover. J. Anim. Sci. 65(Suppl. 2):88–106.
+Buttery, P. J. 1983. Hormonal control of protein deposition in animals.
+Proc. Nutr. Soc. 42:137–148.
+Byers, F. M. 1979. Extraction and measurement of deuterium oxide
+at tracer levels in biological ﬂuids. Anal. Biochem. 98:208–213.
+Cao, P. R., J. J. Kim, and S. H. Lecker. 2005. Ubiquitin-protein ligases
+in muscle wasting. Int. J. Biochem. Cell Biol. 37:2088–2097.
+Carey, S., and S. T. Smale. 2000. Transcriptional regulation in eu-
+karyotes. Cold Spring Harbor Laboratory Press, Cold Spring
+Harbor, NY.
+Caso, G., P. J. Garlick, L. M. Ballou, J. A. Vosswinkel, M. C. Gelato,
+and M. A. McNurlan. 2006. The increase in human muscle pro-
+tein synthesis induced by food intake is similar when assessed
+with the constant infusion and ﬂooding techniques. J. Nutr.
+136:1504–1510.
+Castro Bulle, F. C. P., P. V. Paulina, A. C. Sanches, and R. D. Sainz.
+2007. Growth, carcass quality, and protein and energy metabo-
+lism in beef cattle with different growth potentials and residual
+feed intakes. J. Anim. Sci. 85:928–936.
+Chinkes, D. L. 2005. Methods for measuring tissue protein breakdown
+rate in vivo. Curr. Opin. Clin. Nutr. Metab. Care 8:534–537.
+Clark, W. A., and R. Zak. 1981. Assessment of fractional rates of
+protein synthesis in cardiac muscle cultures after equilibrium
+labeling. J. Biol. Chem. 256:4863–4870.
+Clowes, E. J., F. X. Aherne, and V. E. Baracos. 2005. Skeletal muscle
+protein mobilization during the progression of lactation. Am. J.
+Physiol. Endocrinol. Metab. 228:564–572.
+Collier, R. J., C. M. Stiening, B. D. Pollard, M. J. VanBaale, L. H.
+Baumgard, P. C. Gentry, and P. M. Coussens. 2006. Use of gene
+expression microarrays for evaluating environmental stress tol-
+erance at the cellular level in cattle. J. Anim. Sci. 84(E Sup-
+pl.):E1–E13.
+Costelli, P., P. Reffo, F. Penna, R. Autelli, G. Bonelli, and F. M.
+Baccino. 2005. Ca (2+)-dependent proteolysis in muscle wasting.
+Int. J. Biochem. Cell Biol. 37:2134–2146.
+Cummins, K. A., S. M. Lonergan and E. Huff-Lonergan. 2004. Short
+communication: Effect of dietary protein depletion and repletion
+on skeletal muscle calpastatin during early lactation. J. Dairy
+Sci. 87: 1428–1431.
+Duggleby, S. L., and J. C. Waterlow. 2005. The end-product method
+of measuring whole-body protein turnover: A review of published
+results and a comparison with those obtained by leucine infusion.
+Br. J. Nutr. 94:141–153.
+Eley, H. L., and M. J. Tisdale. 2007. Skeletal muscle atrophy, a
+link between depression of protein synthesis and increase in
+degradation. J. Biol. Chem. 282:7087–7097.
+Ellis, K. 1992. Measurement of whole-body protein content in vivo.
+Pages 195–224 in Modern Methods in Protein Nutrition and
+Metabolism. S. Nissen, ed. Academic Press Inc., San Diego, CA.
+Ellis, K. J. 2007. Evaluation of body composition in neonates and
+infants. Semin. Fetal Neonatal Med. 12:87–91.
+Finn, P. F., and J. F. Dice. 2006. Proteolytic and lipolytic responses
+to starvation. Nutrition 22:830–844.
+Garlick, P. J., T. L. Burk, and R. W. Swick. 1976. Protein synthesis
+and RNA in tissues of the pig. Am. J. Physiol. 230:1108–1112.
+Garlick, P. J., M. A. McNurlan, and V. R. Preedy. 1980. A rapid and
+convenient technique for measuring the rate of protein synthesis
+in tissues by injection of 3H-phenylalanine. Biochem. J.
+192:719–723.
+Garlick, P. J., D. J. Millward, and W. P. T. James. 1973. The diurnal
+response of muscle and liver protein synthesis in vivo in meal
+fed rats. Biochem. J. 136:935–945.
+Goldberg, A. L., M. Tischler, G. Demartino, and G. Grifﬁn. 1980.
+Hormonal regulation of protein degradation and synthesis in
+skeletal muscle. Fed. Proc. 39:31–36.
+Golian, A. 1984. Effect of aging on whole body composition, protein
+synthesis and degradation rate of breast and leg muscles in
+meat-and egg-type chickens. PhD Diss. Michigan State Univer-
+sity, East Lansing.
+Goll, D. E., G. Neti, S. M. Mares, and V. F. Thompson. 2008. Myoﬁbril-
+lar protein turnover: The proteasome and the calpains. J. Anim.
+Sci. 86(E Suppl.):E19–E35.
+Goll, D. E., V. F. Thompson, H. Li, W. Wei, and J. Cong. 2003. The
+calpain system. Physiol. Rev. 83:731–801.
+Harper, J. M. M., M. P. Mee, J. E. Arnold, K. N. Boorman, R. J.
+Mayer, and P. J. Buttery. 1999. Ubiquitin gene expression and
+ubiquitin conjugation in chicken muscle do not reﬂect differences
+in growth rate between broiler and layer birds. J. Anim. Sci.
+77:1702–1709.
+Harris, C. I. 1981. Reappraisal of the quantitative importance of
+non-skeletal muscle sources of Nτ methylhistidine in the urine.
+Biochem. J. 194:1011–1014.
+Hasselgren, P. O., M. J. Menconi, M. U. Fareed, H. Yang, W. Wei,
+and A. Evenson. 2005. Novel aspects on the regulation of muscle
+wasting in sepsis. Int. J. Biochem. Cell Biol. 37:2156–2168.
+Hayden, J. M., W. G. Bergen, and R. A. Merkel. 1992. Skeletal muscle
+protein metabolism and serum growth hormone, insulin, and
+cortisol concentrations in growing steers implanted with estra-
+diol-17 beta, trenbolone acetate, or estradiol-17 beta plus trenbo-
+lone acetate. J. Anim. Sci. 70:2109–2119.
+Hershey, J. W. 1991. Translational control in mammalian cells. Annu.
+Rev. Biochem. 60:717–755.
+Jones, D. B., and T. S. Stahly. 1999. Impact of amino acid nutrition
+during lactation on body nutrient mobilization and milk nutrient
+output in primiparous sows. J. Anim. Sci. 77:1513–1522.
+Koch, A. L. 1962. The evaluation of the rates of biological processes
+from tracer kinetic data. 1. The inﬂuence of labile metabolic
+pools. J. Theoret. Biol. 3:283–303.
+Lecker, S. H., R. T. Jagoe, A. Gilbert, M. Gomes, V. Baracos, J. Bailey,
+S. R. Price, W. E. Mitch, and A. L. Goldberg. 2004. Multiple
+types of skeletal muscle atrophy involve a common program of
+changes in gene expression. FASEB J. 18:39–51.
+Lobley, G. E., A. Connell, E. Milne, V. Buchan, A. G. Calder, S.
+E. Anderson, and H. Vint. 1990. Muscle protein synthesis in
+response to testosterone administration in wether lambs. Br. J.
+Nutr. 64:691–704.
+Mitchell, A. D. 2007. Impact of research with cattle, pigs, and sheep
+on nutritional concepts: Body composition and growth. J. Nutr.
+137:711–714.
+McCarthy, F. D., W. G. Bergen, and D. R. Hawkins. 1983. Muscle
+protein turnover in cattle of different genetic backgrounds as
+measured by urinary N τ-methyl histidine excretion. J. Nutr.
+133:2455–2463.
+Mulvaney, D. R., R. A. Merkel, and W. G. Bergen. 1985. Skeletal
+muscle protein turnover in young male pigs. J. Nutr.
+115:1057–1064.
+Nakashima, K., A. Ishida, M. Yamazaki, and H. Abe. 2005. Leucine
+suppresses myoﬁbrillar proteolysis by down-regulating ubiqui-
+tin-proteasome pathway in chick skeletal muscles. Biochem. Bio-
+phys. Res. Commun. 336:660–666.
+Nissen, S. 1992. Modern Methods in Protein Nutrition and Metabo-
+lism. Academic Press Inc., San Diego, CA.
+Nkrumah, J. D., J. A. Basarab, Z. Wang, C. Li, M. A. Price, E. K.
+Okine, D. H. Crews Jr., and S. S. Moore. 2007. Genetic and
+phenotypic relationships of feed intake and different measures
+of feed efﬁciency with growth and carcass merit of beef cattle.
+J. Anim. Sci. 85:2711–2720.
+Picou, D., and T. Taylor-Roberts. 1969. The measurement of total
+protein synthesis and catabolism and nitrogen turnover in in-
+fants in different nutritional states receiving different amounts
+of dietary protein. Clin. Sci. 36:283–296.
+Price, S. R. 2003. Increased transcription of ubiquitin-proteasome
+system components: Molecular responses associated with muscle
+atrophy. Int. J. Biochem. Cell Biol. 35:617–628.
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+BergenE12
+Price, S. R., J. L. Bailey, X. Wang, C. Jurkovitz, B. K. England, X.
+Ding, L. S. Phillips, and W. E. Mitch. 1996. Muscle wasting in
+insulinopenic rats results from activation of the ATP-dependent,
+ubiquitin-proteasome proteolytic pathway by a mechanism in-
+cluding gene transcription. J. Clin. Invest. 98:1703–1708.
+Proud, C. G. 2007. Signalling to translation: How signal transduction
+pathways control the protein synthetic machinery. Biochem. J.
+403:217–234.
+Pullar, J. D., and A. J. F. Webster. 1977. The energy cost of fat and
+protein deposition in the rat. Br. J. Nutr. 37:355–363.
+Rathmacher, J. A., and S. L. Nissen. 1998. Development and applica-
+tion of a compartmental model of 3-methylhistidine metabolism
+in humans and domestic animals. Adv. Exp. Med. Biol.
+445:303–324.
+Rathmacher, J. A., S. L. Nissen, R. E. Paxton, and D. B. Anderson.
+1996. Estimation of 3-methylhistidine production in pigs by com-
+partmental analysis. J. Anim. Sci. 74:45–56.
+Reeds, P. J. 1992. Isotopic estimation of protein synthesis and proteol-
+ysis in vivo. Pages 249–273 in Modern Methods in Protein Nutri-
+tion and Metabolism. S. Nissen, ed. Academic Press Inc., San
+Diego, CA.
+Reeds, P. J., S. M. Hay, P. M. Dorwood, and R. M. Palmer. 1986.
+Stimulation of muscle growth by clenbuterol: Lack of effect on
+muscle protein biosynthesis. Br. J. Nutr. 56:249–258.
+Reinstein, E., and A. Ciechanover. 2006. Narrative Review: Protein
+degradation and human diseases: The ubiquitin connection.
+Ann. Intern. Med. 145:676–684.
+Rivera-Ferre, M. E., J. F. Aguilera, and R. Nieto. 2005. Muscle frac-
+tional protein synthesis is higher in Iberian than in Landrace
+growing pigs fed adequate or lysine-deﬁcient diets. J. Nutr.
+135:469–478.
+Rodnina, M. V., and W. Wintermeyer. 1995. GTP consumption of
+elongation factor Tu during translation of heteropolymeric
+mRNAs. Proc. Natl. Acad. Sci. USA 92:1945–1949.
+Sacheck, J. M., J. P. K. Hyatt, A. Raffaello, R. T. Jagoe, R. R. Roy,
+V. R. Edgerton, S. H. Lecker, and A. L. Goldberg. 2007. Rapid
+disuse and denervation atrophy involve transcriptional changes
+similar to those of muscle wasting during systemic diseases.
+FASEB J. 21:140–155.
+Sadiq, F., D. G. Hazlerigg, and M. A. Lomax. 2007. Amino acids and
+insulin act additively to regulate components of the ubiquitin-
+proteasome pathway in C2C12 myotubes. BMC Mol. Biol.
+8:1471–2199.
+Schimke, R. T. 1970. Regulation of protein degradation in mammalian
+tissues. Pages 177–228 in Mammalian Protein Metabolism Vol.
+IV. H. N. Munro, ed. Academic Press, New York, NY.
+Schoenheimer, R. 1942. The Dynamic State of Body Constituents.
+Harvard University Press, Cambridge, MA.
+Schilling, O., and C. M. Overall. 2007. Proteomic discovery of protease
+substrates. Curr. Opin. Chem. Biol. 11:36–45.
+Shipley, R. A., and R. E. Clark. 1972. Tracer Methods for In Vivo
+Kinetics. Academic Press, New York, NY.
+Skjaerlund, D. M., D. R. Mulvaney, R. H. Mars, A. L. Schroeder, M.
+A. Stachiw, W. G. Bergen, and R. A. Merkel. 1988. Measurement
+of protein turnover in skeletal muscle strips. J. Anim. Sci.
+66:687–698.
+Solomon, A. M., and P. M. Bouloux. 2006. Modifying muscle mass–
+the endocrine perspective. J. Endocrinol. 191:349–360.
+Steele, R. 1971. Tracer Probes in Steady State Systems. C. C. Thomas,
+Springﬁeld, IL.
+Sultan, K. R., B. T. Dittrich, E. Leisner, N. Paul, and D. Pette. 2001.
+Fiber type-speciﬁc expression of major proteolytic systems in
+fast- to slow-transforming rabbit muscle. Am. J. Physiol. Cell
+Physiol. 280:239–247.
+Tischler, M. E. 1992. Estimation of protein synthesis and proteolysis
+in vitro. Pages 225–248 in Modern Methods in Protein Nutrition
+and Metabolism. S. Nissen, ed. Academic Press Inc., San
+Diego, CA.
+Tuggle, C. K., Y. Wang, and O. Couture. 2007. Advances in swine
+transcriptomics. Int. J. Biol. Sci. 3:132–152.
+Wang, X., Z. Hu, J. Hu, J. Du, and W. E. Mitch. 2006. Insulin resis-
+tance accelerates muscle protein degradation: Activation of the
+ubiquitin-proteasome pathway by defects in muscle cell signal-
+ing. Endocrinology 147:4160–4168.
+Waterlow, J. C. 2006. Protein Turnover. CABI Publishing, Cam-
+bridge, MA.
+Waterlow, J. C., D. J. Millward, and P. J. Garlick. 1978. Protein
+Turnover in Mammalian Tissues and in the Whole Body. North-
+Holland, Amsterdam, the Netherlands.
+Wolfe, R. R. 1992. Radioactive and Stable Isotope Tracers in Biomedi-
+cine. Wiley-Liss, New York, NY.
+Wyke, S. M., and M. J. Tisdale. 2006. Induction of protein degradation
+in skeletal muscle by a phorbol ester involves upregulation of
+the ubiquitin-proteasome proteolytic pathway. J. Life Sci.
+78:2898–2910.
+Xu, P., and J. Peng. 2006. Dissecting the ubiquitin pathway by mass
+spectrometry. Biochim. Biophys. Acta 1764:1940–1947.
+Yang, H., J. E. Pettigrew, L. J. Johnston, G. D. Shurson, J. E.
+Wheaton, M. E. White, Y. Koketsu, A. F. Sower, and J. A. Rath-
+macher. 2000. Effects of dietary lysine intake during lactation
+on blood metabolites, hormones, and reproductive performance
+in primiparous sows. J. Anim. Sci. 78:1001–1009.
+Yang, Y., B. Jemiolo, and S. Trappe. 2006. Proteolytic mRNA expres-
+sion in response to acute resistance exercise in human single
+skeletal muscle ﬁbers. J. Appl. Physiol. 101:1442–1450.
+Young, V. R., and H. N. Munro. 1978. Nτ methylhistidine (3-methyl-
+histidine) and muscle protein turnover: An overview. Fed. Proc.
+37:2291–2300.
+Zak, R., A. F. Martin, and R. Blough. 1979. Assessment of protein
+turnover by use of radioisotopic tracers. Physiol. Rev. 59:407–
+447.
+Zhang, X., D. L. Chinkes, and R. R. Wolfe. 2002. Measurement of
+muscle protein fractional synthesis and breakdown rates from
+a pulse tracer injection. Am. J. Physiol. Endocrinol. Metab.
+283:E753–E764.
+Zilversmit, D. B. 1960. The design and analysis of isotope experi-
+ments. Am. J. Med. 29:832–848.
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 
+References
+http://www.journalofanimalscience.org/content/86/14_suppl/E3#BIBL
+This article cites 68 articles, 28 of which you can access for free at: 
+Citations
+les
+http://www.journalofanimalscience.org/content/86/14_suppl/E3#otherartic
+This article has been cited by 2 HighWire-hosted articles: 
+ by Nora Fasano de Roig on August 13, 2014www.journalofanimalscience.orgDownloaded from 

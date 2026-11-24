@@ -1,0 +1,782 @@
+=== Fuente: Hocquette et al 2006.pdf ===
+
+173
+Animal Science Papers and Reports vol. 24 (2006) no. 3, 173-189 
+Institute of Genetics and Animal Breeding, Jastrzębiec, Poland
+The potential benefits of genetics and genomics  
+to improve beef quality – a review 
+Jean-François Hocquette1*, Gilles Renand2, Hubert Levéziel3,  
+Brigitte Picard1, Isabelle Cassar-Malek1
+1 Herbivore Research Unit, Theix, INRA, France
+2 Quantitative Genetics Unit, Jouy-en-Josas, INRA, France
+3 Molecular Animal Genetics Unit, Limoges INRA, France 
+(Received June 27,2006; accepted September 18, 2006)
+Intrinsic quality attributes of beef, and especially its tenderness, depend not only on post-mortem 
+factors associated with meat ageing, but also on muscle characteristics of live animals, which 
+themselves depend on genetic, nutritional and rearing factors. Different breeds or different genotypes 
+of the same breed mainly differ by the characteristics of their connective tissue (content and solubility 
+of collagen), content and composition of intramuscular fat and/or the characteristics of their muscle 
+fibres (slow-oxidative, fast-oxidoglycolytic and fast glycolytic). These differences induce mainly 
+differences in meat colour and cooking losses and, to a lesser extent, in flavour and tenderness 
+of beef. Mutation in the myostatin gene induces generalized hypertrophy of muscles, promotes a 
+glycolytic muscle fibre metabolism, and leads to decreased collagen and intramuscular fat contents 
+which favour tenderness and dietary attributes. Simultaneously, however,  lower intramuscular 
+fat content is detrimental for flavour. The genetic variability is quite high for intramuscular fat 
+content (marbling), moderate for tenderness and low for flavour and juiciness. The identification 
+of polymorphisms in some key genes which determine characteristics of connective tissue or of 
+muscle fibres has been reported because of their association with beef quality traits. Gene or protein 
+expression profiling thanks to the advent of functional genomics has also allowed the identification 
+of new molecular indicators of tenderness or marbling. Generally, genetic selection in favour of high 
+muscle development and low fat deposition induces an orientation of muscle fibres towards the fast-
+glycolytic type as demonstrated by biochemical and functional genomic studies.
+Cited are 64 references.
+Key woRDS: beef / cattle / genetics / genomics / muscle
+*hocquet@clermont.inra.fr
+174
+Quality is a complex concept. It has been defined by the French Association for 
+Normalization (AFNOR) as “the overall properties of a product (or a service) which 
+confer on it the capacity to satisfy expressed or implicit needs” of end-users (especially 
+consumers in the case of food products). It thus includes intrinsic and extrinsic 
+quality attributes. The first refer to the characteristics of the product itself, while the 
+latter to traits more or less associated with the product such as, for beef, production 
+system characteristics and marketing variables (brand name, labelling, traceability, 
+etc). Intrinsic quality attributes of beef include safety, nutritional, technological and 
+sensory aspects. In this paper, we will mainly consider sensory attributes such as 
+tenderness, flavour and juiciness, but also marbling and dietary attributes. Marbling 
+is an important meat quality trait in North America, Asia and Australia. It refers to 
+the appearance of white flecks or streaks of adipose tissue between the bundles of 
+muscle fibres. It is thus closely linked to intramuscular fat content. Dietary aspects are 
+clearly associated with a low intramuscular fat content, a low proportion of saturated 
+and a high proportion of polyunsaturated fatty acids (SFA and PUFA, respectively) 
+in beef, all these factors being supposed to decrease the incidence of obesity and 
+cardiovascular diseases.
+ It is well-known that intrinsic quality attributes of beef, and especially its 
+tenderness, depend to a great extent on post mortem factors (temperature, pH, 
+proteolysis which degrades muscle proteins during the post-mortem ageing of beef). 
+But meat characteristics depend also directly on the muscle biology of live animals, 
+which is regulated by genetic, nutritional and rearing factors [Geay et al. 2001, 
+Maltin et al. 2003]. Among the latter, the genetic factors are of prime importance 
+because genetic improvement is permanent and cumulative when inherited by the 
+next generations. 
+The importance of genetic factors can be demonstrated by comparing different 
+breeds or different genotypes of the same breed, by investigating the effects of major 
+genes or by studying the polygenic inheritance of beef quality. The advent of high-
+throughput DNA-sequencing techniques, array technology and protein analysis have 
+increased the efficiency of research in bovine muscle physiology, with the ultimate 
+objective to improve beef quality by either breeding or rearing factors. For genetic 
+purposes, the discovery of new polymorphisms in some key genes has been reported 
+because of their association with beef quality traits. The sequencing of the bovine 
+genome will dramatically increase the number of available gene polymorphisms. 
+For rearing purposes, global gene expression profiling at the mRNA or protein level 
+has already showed that previously unsuspected genes may play a role in muscle 
+development or growth, and new molecular indicators of tenderness or marbling have 
+been or will be reported. 
+Jean-François Hocquette et al.
+175
+Breed effects on beef quality
+It is well-known that different cattle breeds or genotypes differ in muscle 
+characteristics due to marked differences in their physiology. Consequently, beef may 
+differ in quality depending on the animal genotype. For instance, meat from Bos indicus 
+cattle is less tender than that from Bos taurus breeds. The lower tenderness is due to 
+reduced proteolysis of myofibrillar proteins in muscles from B. indicus, associated 
+with greater activity of calcium-dependent protease inhibitor [Whipple et al. 1990b]. 
+It was also demonstrated that beef breeds (Blonde d’Aquitaine and Limousin) were 
+characterized by lower collagen content, and compression and shear force in raw 
+and cooked meat, respectively, compared to dairy (Holstein) or dual purpose (Brown 
+Swiss) breeds. However, texture differences between animals and breeds were shown 
+to decrease with ageing time during storage of beef at 4°C after slaughtering [Monson 
+et al. 2004]. In another study comparing two French local breeds (Aubrac, Salers) and 
+two French beef breeds (Limousin, Charolais) no significant differences were found 
+in eating quality due to much higher variation within breeds than between breeds. 
+Slightly higher eating quality was, however, observed in Limousin and Aubrac cattle. 
+Inter-breed differences in beef quality are often less pronounced than those identified 
+within breeds and are overridden by larger differences between muscles or cuts 
+[Dransfield et al. 2003].
+It is also well known that late-maturing beef breeds (Belgian Blue, Limousin and 
+Blonde d’Aquitaine) deposit more muscles and less fat compared to dairy breeds or 
+early-maturing beef breeds (Angus and Japanese Black cattle). Less intramuscular 
+fat may be detrimental to beef flavour, especially in young animals such as bulls 
+slaughtered at 15-18 months of age. Breed differences reported in the literature are 
+thus often confounded with differences in somatic maturation time, and hence fatness. 
+This prompted some authors to compare quality of beef from steers of four breeds 
+(Angus, Simmental, Charolais and Limousin) showing the same level of intramuscular 
+fat. Under those  conditions, meat from Angus and Charolais steers was found pale 
+and with low haem iron content. Beef from Angus and Limousin was more tender. The 
+flavour was similar among breeds while juiciness was the highest in Limousin and the 
+lowest in Angus cattle. The juiciest beef showed the highest drip losses and the lowest 
+cooking losses [Chambaz  et al. 2003]. 
+Another comparative study was recently carried out on 243 young bulls from 
+eight European beef breeds from Spain, Italy and France. The breeds with higher 
+fattening performance (e.g. Piedmontese) had a lower thawed meat pH after 10 days 
+of ageing, while the local breeds (e.g. Asturiana de la Montaña, Avileña) had higher 
+pH, lower drip losses and, in terms of meat colour, less lightness and yellowness, but 
+greater redness. The highest shear force values were observed for the Spanish local 
+breeds and the Charolais breed on raw meat, but for Marchigiana and Piedmontese on 
+cooked meat. Compression at 20% of maximum compression force stress, which may 
+be related to myofibrillar resistance, did not discriminate breeds, unlike compression 
+Genetics and genomics in improving beef quality
+176
+tests at 80% of maximum stress, which is associated with connective tissue resistance. 
+The highest values were observed for the two Spanish local and the Charolais breed, 
+while the lowest for the Piedmonteses [Failla et al. 2004]. The two local breeds were 
+also characterized by a more oxidative muscle metabolism and a higher proportion of 
+fast oxido-glycolytic fibres [Jurie et al. 2004]. This clearly explains the differences in 
+colour, and probably in pH and in drip losses. However, the differences in toughness 
+are less clear and more complicated to explain since more parametres related to fibre 
+type, proteolysis rate during ageing and collagen characteristics are involved. Another 
+recent study has confirmed that the beef quality of different breeds is mainly related to 
+fat content, cooking losses, and colour (luminosity, redness) due to different muscle 
+fibre types related to the breed [Cuvelier et al. 2006].
+From a nutritional point of view, a key issue is to increase the proportion of 
+polyunsaturated fatty acids (PUFA) and CLA (conjugated linoleic acid) in beef. 
+The leanest breeds are characterized by a higher PUFA percentage, and CLA 
+content is proportional to intramuscular fat content. Japanese Black cattle are also 
+genetically predisposed to produce lipids with higher monounsaturated fatty acids 
+(MUFA) concentration. However, although significant, these differences are probably 
+nutritionally meaningless due to the low contribution of beef fat to the human diet 
+[reviewed by De Smet et al. 2004].
+Monogenic inheritance of beef quality: the double-muscling character
+The double-muscling phenotype (DM) is characterized by general hypertrophy 
+of muscles (+25%). Simultaneously, DM cattle display reduction in the size of the 
+other organs (-40%) and have less fat and bone than conventional ones. DM is also 
+characterized by increased stress susceptibility, reduced fertility, severe calving 
+difficulties (dystocia), and low calf viability [reviewed by Bellinge et al. 2005]. 
+The overall increase in muscle mass, which is due to an increase in the number of 
+muscle fibres (hyperplasia) and to a lesser extent to fibre enlargement (hypertrophy), 
+differs between muscles. DM animals show a higher proportion of lean meat than 
+conventional cattle. Their meat is pale and tender, mainly due to an elevated proportion 
+of white fast-twitch glycolytic fibres and lower collagen content. The meat of DM 
+animals shows reduced flavour due to much lower content of intramuscular fat. Lastly, 
+in DM cattle hormonal and metabolic status related to lower plasma concentrations 
+of triiodothyronine, insulin and glucose is different from that of conventional cattle 
+[Hocquette et al. 1999]. 
+The DM phenotype is controlled by the mh (muscle hypertrophy) gene, mapped to 
+the centromeric end of Bos taurus chromosome (BTA) 2. Grobet et al. [1997] showed 
+that the myostatin gene maps to the mh locus. Mice with knocked-out myostatin 
+(GDF-8) gene  exhibit double-muscling. Myostatin is known to be a growth factor that 
+inhibits myoblast proliferation and hence regulates muscle development and growth 
+[reviewed by Kambadur et al. 2004 and Bellinge et al. 2005]. Mutations disrupting 
+Jean-François Hocquette et al. 
+177
+myostatin lead to the DM phenotype in cattle and can be explained by a higher rate of 
+myoblast proliferation. However, DM in European cattle breeds is characterized by 
+allelic heterogeneity and many independent mutations have been observed. Several 
+loss-of-function mutations have been identified within the three exons of the coding 
+region of myostatin [Grobet et al. 1997]. They include either (i) deletions such as the 
+11-bp deletion of nucleotides in exon 3 referred to nt821(del11) in Belgian Blue DM 
+[Grobet et al. 1997] or (ii) amino acid changes such as the C313Y mutation within 
+exon 3 in Piedmontese and Gasconne breeds or (iii) the Q204X mutation in Charolais 
+[reviewed by Kambadur et al. 2004]. The mutations result in the production of either 
+an out-of-frame truncated or a full-length inactive myostatin protein. Interestingly, 
+Blonde d’Aquitaine cattle do not display any of these mutations, but do show 
+characteristics similar to DM cattle [Listrat et al. 2001]. 
+The features of muscles of DM cattle already appear during their foetal 
+development. Indeed, it was recently shown that myostatin promotes the differentiation 
+of multipotent mesenchymal cells into the adipogenic lineage and inhibits myogenesis 
+[Artaza et al. 2005], which explains why double muscled cattle show a greater muscle 
+mass and less intramuscular fat than normal ones. Myostatin expression is detectable 
+from day 16 of pregnancy in bovine embryos [reviewed by Kambadur et al. 2004] 
+and is regulated throughout gestation [Deveaux et al. 2003]. At day 100 of foetal 
+life, homozygous DM foetuses display enlarged muscles [Deveaux et al. 2001] and 
+an increased total number of muscle fibres. This is due to increased proliferation of 
+myoblasts as observed in primary cells cultured from DM foetuses [Picard et al. 1998, 
+Deveaux et al. 2001]. The higher proportion of fast-twitch glycolytic fibres (type IIX) 
+results from higher proliferation rates of the second generation of myoblasts [Deveaux 
+et al. 2001]. Accordingly, myostatin expression was found in the latest differentiating 
+cells from the second generation [Deveaux et al. 2003]. In addition, muscle contractile 
+and metabolic differentiation of DM foetuses is delayed compared to that of normal 
+animals [Gagnière et al. 1997] since DM muscles express fewer mature myosin heavy 
+chains at the same gestation age during the first two-thirds of foetal life [Picard et 
+al. 1995]. More precise studies were conducted in order to understand the molecular 
+mechanisms by which myostatin affects muscle growth and differentiation. It was 
+found that a higher expression of the growth hormone receptor (which regulates IGF 
+I and IGF II expression) – Listrat et al. [2005] – and a higher level of IGF-II mRNA 
+level in skeletal muscles at the end of gestation – Listrat et al. [1999] – occurred in 
+DM foetuses compared to normal animals.
+DM cattle are thus a very interesting model to study the effects of one major gene 
+in interaction with other gene(s), and to understand how increased muscular mass may 
+be associated with lower intramuscular fat and collagen contents.
+Genetics and genomics in improving beef quality
+178
+Polygenic inheritance of beef quality 
+Comprehensive research was initiated in the early nineties by the US Meat 
+Animal Research Center, Nebraska, taking advantage of their extensive Germ Plasm 
+Evaluation project. The systematic measurement of beef production traits and beef 
+quality simultaneously provided the first estimates of genetic parametres on a large 
+sample of animals. Complementary results have been obtained in US Universities 
+of Colorado, Texas, Louisiana and Florida (reviewed by Burrow et al. [2001]) while 
+other reports were published by Kim et al. [1998] and Riley et al. [2003]. The animals 
+were mainly steers intensively fattened in feedlots and slaughtered at the mean age of 
+15 months. A wide diversity of breeds was analysed, including Bos indicus crosses. 
+Another set of novel results was obtained by the Cooperative Research Center for 
+the cattle and beef industry, in Australia [Reverter et al. 2000, 2003, Johnston et al. 
+2003]. Temperate and tropically adapted breeds were studied in different finishing 
+conditions, feedlot or pasture, temperate or tropical zone. Steers and heifers were 
+slaughtered at the age of 20 to 30 months, due to a long growing period on pasture 
+before fattening, especially in the tropics. 
+The meat quality attributes were measured by panels scoring tenderness, juiciness 
+and flavour of cooked meat. Steaks were grilled to an internal temperature of 70°C. 
+Genetic variation was estimated in 10 publications. The mean heritability coefficient 
+(h²) for the tenderness score was 0.24, while for juiciness and flavour scores as low as 
+0.11 and 0.09, respectively. However, the genetic correlation coefficients (rG) between 
+the three scores appeared very high (0.84 to 0.91 on average) suggesting the panel 
+could not really be used to discriminate between the quality attributes. A larger number 
+of studies included shear force, that is a mechanical measure of the texture of cooked 
+(70°C) meat, either grilled (US) or cooked in water bath (Australia). Moreover, the 
+mean h² appeared high (0.26, n = 14) as well as the mean rG with tenderness score (-
+0.84). Shear force appeared therefore as an objective alternative for measuring of and 
+selecting for meat tenderness. 
+However, other predictors of meat quality were sought for an indirect selection 
+for meat quality genetic merit. Nine studies included the measurement of fat content. 
+It was shown that intramuscular fat content heritability is much higher (h² = 0.49), 
+and that intramuscular fat content is on average positively correlated with tenderness 
+(rG = 0.41, n = 4) or negatively with shear force (rG = -0.50, n = 5). As marbling score 
+in these animals was genetically highly correlated with lipid content (rG = 0.91, n = 
+4), selection based on the former may lead to a correlated improvement in tenderness 
+(rG = 0.46, n = 7) or a decrease in toughness (rG = -0.50 with shear force, n = 8). This 
+relationship drives most of the efforts dedicated to improving meat quality in the USA 
+and Australia. Currently, research has been directed towards the development of live 
+scanning for fat content as a selection tool [Reverter et al. 2000, Hassen et al. 2001, 
+Sapp et al. 2002]. However, marbling is positively correlated to the carcass fatness (rG 
+= 0.36, n = 6, as reviewed by Koots et al. [1994])  and the indirect improvement of 
+Jean-François Hocquette et al. 
+179
+tenderness through selection on the basis of intramuscular fat content or marbling will 
+have counterproductive effects on carcass quality. 
+As calpastatin, a major regulator of calpain proteolytic activity during ageing 
+when beef is stored at 4°C after slaughtering, was shown to account for a significant 
+proportion of variation in beef tenderness [Whipple et al., 1990a], its activity was 
+measured in four studies. There is high mean heritability (h² = 0.44), and significant 
+genetic correlation with tenderness (rG  = -0.61) and shear force (rG = 0.48). However, 
+this activity is not easy to measure and is unreliable for selection. So, research is 
+directed towards seeking molecular polymorphisms in the calpastatin or calpain genes 
+related to tenderness variability.
+Only few investigations have been conducted upon the genetic variation of beef 
+colour measurement [Aass 1996, Johnston et al. 2003]. The parametres of lightness 
+(L*) and redness (a*) are moderately heritable (h²  =  0.22 and 0.15, respectively).
+In France, a study was conducted to estimate the predictive value of different 
+muscle characteristics on the phenotypic variability of meat quality attributes of 
+young Charolais bulls slaughtered at 17 months of age [Renand et al. 2001]. With this 
+type of animal and a low cooking temperature (55°C), it was shown that tenderness 
+depends mainly on muscle fibre size and collagen characteristics and is poorly related 
+to intramuscular fat content. Genetic parametres of these muscle characteristics were 
+estimated [Youssao et al. 2004] to be of a moderate heritability (h² = 0.17 to 0.34). 
+Genetic correlations with carcass traits were also estimated showing that selection 
+seeking leaner carcasses will decrease fat and pigment contents, decrease the 
+muscle fibre size and improve collagen solubility. As a consequence, we may expect 
+improved tenderness, but colour and flavour may be affected negatively. Indeed, from 
+a biochemical point of view, genetic selection for muscle growth capacity induced a 
+lower intramuscular fat content and a lower activity/expression level of some indicators 
+of muscle oxidative metabolism (e.g. mitochondrial enzymes), especially in oxidative 
+muscles. However, Hocquette et al. [2004] showed a muscle-specific response of 
+metabolic characteristics to the selection process. Positive correlations between carcass 
+fatness, muscle triglyceride content, and a marker of adipocyte differentiation (the 
+expression of the A-FABP gene) were shown [Hocquette et al., 2004]. 
+Genetic markers of beef quality
+With regard to beef quality, information on genetic markers is still very limited. 
+Indeed, genetic variation has been proved to be rather high for these traits and should 
+enable genetic markers to be detected and then used to increase beef quality through 
+marker-assisted selection (MAS). During the past ten years, considerable efforts have 
+been engaged to detect QTLs for beef quality especially in the USA or in Canada, 
+and several studies   on this topic have also been performed in Australia, Europe and 
+Japan. These were recently reviewed by Kühn et al. [2005] and were mainly focused 
+on tenderness and on the amount and the composition of intramuscular fat. Several 
+Genetics and genomics in improving beef quality
+180
+of them investigated meat quality in Bos taurus x Bos indicus crosses, where a very 
+marked difference in meat quality traits, particularly toughness, is known to exist. 
+Tenderness 
+Several studies independently identified a QTL on BTA29 with an effect on 
+tenderness, either in Bos taurus and Bos indicus crosses or in crosses between Bos 
+taurus breeds [Schmutz et al. 2000, Casas et al. 2005; reviewed by Kühn et al. 2005]. 
+Page et al. [2002] suggested that genetic variants of the calpain 1 (CAPN1) gene, 
+which is located in the same chromosomal region, are the functional background of 
+this QTL because two SNPs – in exons 9 and 14 – were associated with variations in 
+tenderness measured by a shear force test on Longissimus dorsi. It should be noted 
+that these two polymorphisms correspond to amino acid substitutions A316G and 
+I530V, and that three combinations (alleles or haplotypes) have been described. Other 
+QTLs with impact on beef tenderness traits were identified on BTA4, 5, 9, 11, 15, 
+and 20, but have not been confirmed in independent studies nor is there evidence for 
+a gene within the QTL region that could be considered as a strong candidate. On the 
+contrary, polymorphisms in two genes – CAST (calpastatin) and LOX (lysyl oxidase) 
+– both located on BTA7, where no QTL for tenderness has been reported, have been 
+associated with an effect on the beef tenderness trait [Barendse 2002a]. For CAST, two 
+SNPs located in the 3’UTR region and a microsatellite located in the 5’ region were 
+reported (reviewed by Kühn et al. 2005): only two haplotypes have been shown to be 
+associated with improved tenderness and it was suggested that the known markers are 
+in linkage disequilibrium with a causative mutation that has not yet been identified. 
+Marbling 
+As reviewed by Kühn et al. [2005], several QTLs for marbling were reported and 
+located on BTA2, BTA3 and BTA27. Interestingly, the myostatin gene lies on BTA2 
+where the QTL was detected [Casas et al. 1998]. However, it seems unlikely that this 
+gene is involved in the variation shown in all studies because some of these did not 
+include breeds known to be carriers of double muscling. Other QTLs on BTA5, 8, 
+9, 10, 14, 16, 17, 23, and 29 were also reported, but have not yet been confirmed. In 
+contrast to the galore of studies investigating the amount of intramuscular fat, there is 
+only one report describing loci with impact on the composition of the intramuscular 
+fat [Taylor et al. 1998], but the study was restricted to the investigation of a single 
+chromosome (BTA19) and to the comparison of Bos taurus and Bos indicus alleles. 
+Genetic markers associated with intramuscular fat deposition or marbling were 
+reported, and are located on chromosomes BTA5 and BTA14, where QTLs for these 
+traits were suggested elsewhere. On BTA5, the polymorphic microsatellite loci – 
+CSSM34 and ETH10 – which are 20 cM apart, are associated with marbling scores 
+in the Angus, Shorthorn, and Wagyu cattle [Barendse 2002b]. The diacylglycerol-O-
+acyltransferase 1 (DGAT1) and the thyroglobulin (TG) genes are both located in the 
+centromeric region of BTA14. An Ala232Lys polymorphism of the DGAT1 gene has 
+Jean-François Hocquette et al. 
+181
+been shown to have an effect on intramuscular fat deposition in German Holstein and 
+Charolais cattle [Thaller et al. 2003] and an association between one TG haplotype, 
+based on two SNPs, and marbling has been reported [Barendse 2002b]. No association 
+between both markers and carcass composition was found, however, in Bos indicus 
+cattle by Casas et al. [2005]. It seems that the markers have independent effects, 
+because no statistically significant linkage disequilibrium was detected. Several SNPs 
+in the leptin (LEP) gene have been described, and two of them located in exon 2 
+were reported to affect fat content of carcass [Buchanan et al. 2002] and feed intake 
+[Lagonigro et al. 2003]. The fatty acid composition of beef has generally an impact 
+on the softness of the fat and/or on its flavour. In Wagyu cattle, Taniguchi et al. [2004] 
+identified an association between a polymorphism in the stearoyl-CoA desaturase 
+(SCD) gene and the monounsaturated fatty acid content as well as the melting point 
+of intramuscular fat.
+SNP identification 
+Other efforts are being devoted to the identification of SNPs in a large set of 
+candidate genes with a view to evaluating their association with meat quality data 
+measured across a wide range of genetically divergent breeds. Within the context of 
+an EU-funded project (GeMQual, www.gemqual.org), a list of about 500 candidate 
+genes that may be expected to affect muscle development, composition, metabolism 
+or meat ageing and hence the quality of meat has been established based on knowledge 
+of their physiological role. Coding and non-coding regions from about 400 of these 
+candidates have been sequenced to reveal polymorphisms [Levéziel et al. 2003]. So 
+far, a total of about 375 SNPs identified in 156 genes have been genotyped in 450 bulls 
+that have been studied for meat characteristics in the project. The expected results 
+should provide an indication of the genes that may have an effect on meat quality 
+traits and that will be targets for further studies.
+The potential benefits of genomics
+Scientists used to study one gene at a time, in isolation from the broader context of 
+other genes. Nowadays, they have access to gene networks and interaction thanks to 
+the development of transcriptomics and proteomics which allow the high-throughput 
+detection of genes and proteins differentially expressed between breeds and genotypes. 
+A great number of studies dealing with functional genomics in cattle have been 
+published so far (reviewed by Hocquette et al. 2005 and Lehnert et al. 2006]. All those 
+related to the genetic effects on beef meat quality will be reported here. 
+Differentially expressed genes associated with marbling
+Differential-display polymerase chain reaction has allowed the identification 
+of a known gene (NAT1, a translational suppressor) by comparing muscles with 
+different intramuscular fat contents from different finishing periods on high-grain 
+Genetics and genomics in improving beef quality
+182
+feeding [Childs et al. 2002]. NAT1 was not previously suspected to play a role in fat 
+deposition. Putative functional genes were found to be differentially expressed (e.g. 
+ATP citrate lyase) or, surprisingly, not differentially expressed (e.g. PPARγ) between 
+extreme animals [Childs et al. 2002]. Transcriptomic studies identified some genes 
+(e.g. 12-lipoxygenase, prostaglandin D synthase) as key candidates involved in the 
+control of fat accumulation in ruminants [Cho et al. 2002]. Wang et al. [2005] showed 
+that the genes which are more expressed in muscles from Japanese Black cattle (which 
+produce marbled beef) compared to Holsteins are associated with the thyroid hormone 
+pathway, unsaturated fatty acid synthesis and fat deposition, including previously 
+identified A-FABP [Hocquette et al. 2004].
+The double-muscling character 
+Potts et al. [2003] compared gene expression in DM and normal 31-33 day-old 
+bovine embryos by using suppressive subtractive hybridization. They identified genes 
+encoding transcription factors, modulators of protein synthesis and degradation, 
+proliferation or metabolism, and three of the differentially-expressed genes were 
+physically mapped to BTA5, very close to the Warner Bratzler shear force at day 14 
+post mortem interacting QTL peak. This is a first step towards understanding the link 
+between muscle hypertrophy and the superior tenderness of beef produced by double-
+muscled animals. Another study was conducted in order to compare the expression 
+profile of muscle genes in the semitendinosus of double-muscled vs non-double-muscled 
+260-days-old foetuses using muscle-dedicated oligochips. Differential expression of 
+several gene categories was found. Genes involved in slow contractile properties (e.g. 
+TNNC1, TPM3, MYH7), extracellular matrix (e.g. collagen I and III) and ribosomal 
+proteins (e.g. RPL3, RPL23, RPS24, RPS20) were found to be under-expressed in the 
+double-muscled foetuses, thus explaining why muscles of double-muscled animals 
+are faster and less oxidative and contain less collagen than muscles of normal animals. 
+On the other hand, genes related to cell cycle regulation (e.g. p21cip1, E2F1, CTBP1), 
+DNA metabolism and  regulation of transcription (e.g. HMGB1, mcm6, HDAC4, 
+MEF2A, MyoD), and protease (e.g. furin, TIMP4) were found to be over-expressed in 
+the double-muscled foetuses. Interestingly, the expression of three differential genes 
+(C1QTNF3, SIX3 and FOXC2) was also found in double-muscled cows, suggesting the 
+putative involvement of these genes in the maintenance of muscle hypertrophy. Further 
+work is needed to understand their physiological implication in the development and 
+modulation of muscle mass [Cassar-Malek et al. 2006]. The orientation towards fast 
+glycolytic type muscles in DM cattle was confirmed by Bouley et al. [2005] who 
+compared the proteome of semitendinosus muscle of DM and normal animals. In that 
+muscle, the expression of proteins was affected including proteins belonging to other 
+pathways than contraction and metabolism, or of unknown function such as sarcosin, 
+SR53G, and heat shock protein p20. 
+Jean-François Hocquette et al. 
+183
+Polygenetic inheritance of muscle growth potential
+A recent study compared gene expression in muscles from Charolais bulls 
+divergently selected for muscle growth. Besides known genes (encoding mitochondrial 
+enzymes and A-FABP), other novel genes such as LEU5 (a tumour suppressor), sarcosin 
+(a muscle-specific gene involved in human hypertrophic cardiomyopathy) and a heat 
+shock protein have been demonstrated to be less expressed in muscles from animals 
+with a high than with a low muscle growth potential [Sudre et al. 2005]. Some of 
+these genes were also previously detected as being differentially expressed throughout 
+muscle development [Sudre et al. 2003]. In addition, other recent transcriptomic 
+studies confirmed that selection conducted in favour of higher muscle growth potential 
+induces a higher expression of genes involved in muscle traits related to glycolytic 
+metabolism (e.g. lactate dehydrogenase A) or fast contraction (e.g. tropomyosin beta 
+and myosin heavy chain 2x) – Cassar-Malek et al. [2005]. As for DM cattle [Bouley 
+et al. 2005], proteomic studies have also demonstrated the under-expression of slow 
+troponin T isoforms and the over-expression of fast troponin T isoforms as well as of 
+other proteins abundantly expressed in fast glycolytic muscles [Picard et al. 2005].
+Advantages and limitations of  genomics
+As already described, functional genomics is nowadays providing catalogues of 
+muscle genes regulated by various factors, but sometimes without any real information 
+about gene function. A reasonable approach is thus to consider a microarray experiment 
+as exploratory data analysis, with a view to identifying potentially interesting genes 
+which are worthy of further studies. We must, however, bear in mind that gene 
+expression differs markedly between muscle types [Cassar-Malek et al. 2005]. This 
+may be due, among other factors, to the fact that the muscle tissue is a composition 
+of many cell types (including myofibres, connective tissue fibroblasts and adipocytes) 
+which differ in their proportions between individual muscles. So, we do not know 
+which cell population is responsible for the observed changes. Another problem is 
+that genomics simply scores mRNA or protein levels. In fact, it is quite difficult to 
+identify the causal genes, which are also called master controllers (and which regulate 
+the expression of groups of genes). Unfortunately, as transcription factors and cell 
+regulators are often expressed at low levels, they cannot be detected easily with 
+genomic approaches. A final problem is that arrays do not have universal genome 
+coverage in cattle, which is a major limitation for the discovery of new genes. Despite 
+these limitations, genomics may help to identify genes, especially those which show 
+significant changes in expression in different environments, suggesting that their 
+expression level depends mainly on genetic factors. Furthermore, the tremendous 
+progress in animal models (from yeasts to laboratory rodents) will help in identifying 
+master controllers. This is comparative genomics currently changing the face of 
+biology. A cost-benefit analysis should be seriously considered, however, before any 
+practical application is introduced [Walsh and Henderson 2004].
+Genetics and genomics in improving beef quality
+184
+Conclusions
+Genetic selection in some countries (e.g. in France or Belgium) was applied in 
+favour of high muscle and low fat deposition to produce leaner meat. Indeed, this has 
+been successful in increasing growth rate of beef cattle. However, this type of genetic 
+selection has clearly induced an orientation towards the fast-glycolytic muscle type as 
+has recently been shown by biochemical, transcriptomic and proteomic approaches in 
+both double-muscled cattle and divergently selected Charolais bulls. This is important 
+because nowadays, consumers seek meat of high and consistent quality and the 
+concept of quality includes now not only eating quality, but also nutritive and dietary 
+value as well as any other consideration important for consumers. In this context, the 
+orientation of the muscle type towards the fast-glycolytic type may favour tenderness 
+and dietary quality, being simultaneously detrimental for flavour due to a reduction in 
+intramuscular fat content. In addition, increasing knowledge in muscle biochemistry 
+has shown that breeds differ in connective tissue and fibre characteristics with potential 
+consequences on both tenderness and flavour. 
+The advent of genomics will undoubtedly increase our knowledge of the genes 
+involved in determining beef quality. The major outcomes are (i) the development 
+of DNA tests to improve beef quality by genetic selection, and (ii) the identification 
+of molecular markers to predict the ability of animals to produce beef with quality 
+traits desirable for the consumers. It is, however, important to emphasize that most, 
+if not all of the results published so far need to be confirmed and widen before the 
+markers reported are used in practice, because the associations have been observed on 
+a limited number of individuals, breeds and breeding systems [Renand et al. 2003]. 
+Undoubtedly, further progress will be made in the future since the entire bovine 
+genome sequence is now available (http://www.hgsc.bcm.tmc.edu/projects/bovine/) 
+and SNP markers at high density are being identified. Future efforts will have to be 
+made to collect phenotypic data on large numbers of animals, especially for traits 
+which are not currently routinely measured.  Then, as the availability of SNP markers 
+increases, the genotyping costs decrease and functional genomics develops, clear 
+evidence will be obtained of useful molecular markers. 
+ReFeReNCeS
+AASS  L., 1996 - Variation in carcass and meat quality traits and their relations to growth in dual 
+purpose cattle. Livestock Production Science 46, 1-12.
+ARTAzA J.N., BHASIN S., MAGEE T.R., REISz-PORSzASz S., SHEN R., GROOME N.P., 
+FAREEz M.M., GONzALEz-CADAVID N.F., 2005 - Myostatin inhibits myogenesis and promotes 
+adipogenesis in C3H 10T(1/2) mesenchymal multipotent cells. Endocrinoloy 146, 3547-3557.
+BARENDSE  W., 2002a - DNA markers for meat tenderness. Patent WO02064820.
+BARENDSE  W., 2002b - Assessing lipid metabolism. Patent WO9923248.
+BELLINGE  R.H.S., LIBERLES  D.A., IASCHI  S.P.A., O’BRIEN  P.A., TAY  G.K., 2005 - 
+Myostatin and its implications on animal breeding: a review. Animal Genetics 36, 1-6.
+BOULEY  J., MEUNIER  B., CHAMBON  C., DE SMET  S., HOCQUETTE  J.F., PICARD  B., 
+2005 - Proteomic analysis of bovine skeletal muscle hypertrophy. Proteomics 5, 490-500.
+1.
+2.
+3.
+4.
+5.
+6.
+Jean-François Hocquette et al. 
+185
+BUCHANAN  F.C., FITzSIMMONS  C.J., VAN KESSEL  A.G., THUE  T.D., WINKELMAN  SIM 
+D.C., SCHMUTz  S., 2002 - Association of a missense mutation in the bovine leptin gene with 
+carcass fat content and leptin mRNA levels. Génétique, Sélection, Evolution 34, 105-116.
+BURROW H.M., MOORE S.S., JOHNSTON D.J., BARENSE W., BINDON B.M., 2001 - 
+Quantitative and molecular genetic influences on properties of beef: a review. Australian Journal of 
+Experimental Agriculture 41, 893-919.
+CASAS  E.,  KEELE  J.W.,  SHACKELFORD  S.D.,  KOOHMARAIE  M., SONSTEGARD  T.S., 
+SMITH  T.P.,  KAPPES  S.M., STONE  R.T.,  1998 – Association of the muscle hypertrophy locus 
+with carcass traits in beef cattle. Journal of Animal Science 76, 468-473. 
+CASAS E., WHITE S.N., RILEY D.G., SMITH T.P.L., BRENNEMAN R.A., OLSON T.A., 
+JOHNSON D.D., COLEMAN S.W., BENNETT G.L., CHASE C.C., 2005 - Assessment of single 
+nucleotide polymorphisms in genes residing on chromosomes 14 and 29 for association with carcass 
+composition traits in Bos indicus cattle. Journal of Animal Science 83, 13-19. 
+CASSAR-MALEK  I., PASSELAIGUE  F., BERNARD  C., GAUTIER  P., HOCQUETTE  J.F., 2006 
+- Target genes of myostatin loss-of-function in bovine foetuses. COST action 925 “The importance 
+of prenatal events for postnatal muscle growth in relation to the quality of muscle based foods”. 2nd 
+Work Group Meeting, 28-29 September 2005, Volos, Greece. Archives of Animal Breeding 49, 
+Special Issue. p 109. 
+CASSAR-MALEK  I., UEDA  Y., BERNARD  C., JURIE  C., SUDRE  K., LISTRAT  A., BARNOLA 
+I., GENTèS  G., LEROUX  C., RENAND  G., MARTIN  P., HOCQUETTE  J.F., 2005 - Molecular 
+and biochemical muscle characteristics of Charolais bulls divergently selected for muscle growth. 
+In: Indicators of milk and beef quality (J.F. Hocquette and S. Gigli, eds,) EAAP Publ. No. 112, 
+Wageningen Academic Publishers, Wageningen, The Netherlands, pp. 371-377.  
+CHAMBAz  A., SCHEEDER  M.R.L., KREUzER  M., DUFER  P.-A., 2003 - Meat quality of 
+Angus, Simmental, Charolais and Limousin steers compared at the same level of intramuscular fat. 
+Meat Science 63, 491-500.
+CHILDS  K.D., GOAD  D.W., ALLAN  M.F., POMP  D., KREHBIEL  C., GEISERT  R.D., 
+MORGAN  J.B., MALAYER  J.R., 2002 - Differential expression of NAT1 translational repressor 
+during development of bovine intramuscular adipocytes. Physiological Genomics 10, 49-56.
+CHO  K.K., HAN  K.H., KANG  S.K., LEE  S.H., CHOI  Y.J., 2002 - Applications of cDNA 
+microarray in ruminants. The 4th Korea-Japan Joint Symposium on Rumen Metabolism and 
+Physiology, May 21-24, Jeju, Korea.
+CUVELIER  C., CABARAUX  J.F., DUFRASNE  I., CLINQUART  A., HOCQUETTE  J.F., 
+ISTASSE  L., HORNICK  J.L., 2006 - Performance, slaughter characteristics and meat quality of 
+young bulls from Belgian Blue, Limousin and Aberdeen Angus breeds fattened with a sugar-beet 
+pulp or a cereal-based diet. Animal Science 82, 125-132.
+DE SMET  S., RAES  K., DEMEYER  D., 2004 - Meat fatty acid composition as affected by fatness 
+and genetic factors: a review. Animal Research 53, 81-98.
+DEVEAUX  V., CASSAR-MALEK  I., PICARD  P., 2001 - Comparison of contractile characteristics 
+of muscle from Holstein and Double-Muscled Belgian Blue foetuses. Comparative Biochemistry 
+and Physiology 131, 21-29.
+DEVEAUX  V., PICARD  B., BOULEY  J., CASSAR-MALEK  I., 2003 - Location of myostatin 
+expression during bovine myogenesis in vivo and in vitro. Reproduction, Nutrition, Development 
+43, 527-542. 
+DRANSFIELD  E., MARTIN  J.F., BAUCHART  D., ABOUELKARAM  S., LEPETIT  J., CULIOLI 
+J., JURIE  C., PICARD  B., 2003 - Meat quality and composition of three muscles from French cull 
+cows and young bulls. Animal Science 76, 387-399. 
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+Genetics and genomics in improving beef quality
+186
+FAILLA  S., GIGLI  S., GADDINI  A. , SIGNORELLI  F., SAÑUDO  C., PANEA  B., OLLETA  J.L., 
+MONSÓN  F., HOCQUETTE  J.F., JAILLER  R., ALBERTÍ  P., ERTBJERG  P., CHRISTIANSEN 
+M., NUTE G.R., WILLIAMS J.L., 2004 - Physical quality of several European beef breeds: 
+preliminary results. Proceedings of the 50th International Congress of Meat Science and Technology, 
+August 8-13, Helsinki, Finland. 22.
+GAGNIèRE H., PICARD B., JURIE C., GEAY Y., 1997 - Comparative study of metabolic 
+differentiation of foetal muscle in normal and double-muscled cattle. Meat Science 45, 145-152. 
+GEAY Y., BAUCHART D., HOCQUETTE J.F., CULIOLI J., 2001 - Effect of nutritional factors 
+on biochemical, structural and metabolic characteristics of muscles in ruminants; consequences on 
+dietetic value and sensorial qualities of meat. Reproduction, Nutrition, Development 41, 1-26 and 
+41, 377. 
+GROBET L., MARTIN L.J., PONCELET D., PIROTTIN D., BROUWERS B., RIQUET J., 
+SCHOEBERLEIN A., DUNNER S., MENISSIER F., MASSABANDA J., FRIES R., HANSET R., 
+GEORGES M., 1997 - A deletion in the bovine myostatin gene causes the double-muscled phenotype 
+in cattle. Nature Genetics 17, 71-74.
+HASSEN  A., WILSON  D.E., AMIN  V.R., ROUSE  G.H., HAYS  C.L., 2001 - Predicting percentage 
+of intramuscular fat using two types of real-time ultrasound equipment. Journal of Animal Science 
+79, 11-18.
+HOCQUETTE  J.F., BARNOLA  I., JURIE  C., CASSAR-MALEK  I., BAUCHART  D., PICARD 
+B., RENAND  G., 2004 - Relationships between intramuscular fat content and different indicators 
+of muscle fiber types in young Charolais bulls selected for muscle growth potential. Rencontres 
+Recherches Ruminants 11, 91-95.
+ HOCQUETTE  J.F., BAS  P., BAUCHART  D., VERMOREL  M., GEAY  Y., 1999 - Fat partitioning 
+and biochemical characteristics of fatty tissues in relation to plasma metabolites and hormones in 
+normal and double-muscled young growing bulls. Comparative Biochemistry and Physiology A 
+122, 127-138 and 123, 311-312. 
+.HOCQUETTE  J.F., CASSAR-MALEK  I., LISTRAT  A., PICARD  B., 2005 - Current genomics 
+in cattle and application to beef quality. In: Indicators of milk and beef quality (J.F. Hocquette and S. 
+Gigli, eds), EAAP Publ. No.112, Wageningen Academic Publishers, Wageningen, The Netherlands, 
+pp. 65-79. 
+JOHNSTON  D.J., REVERTER  A., FERGUSON  D.M., THOMPSON  J.M., BURROW  H.M., 2003 
+- Genetic and phenotypic characterisation of animal, carcass, and meat quality traits from temperate 
+and tropically adapted beef breeds. 3. Meat quality traits. Australian Journal of Agricultural 
+Research 54, 135-147. 
+JURIE C., PICARD B., GIGLI S., ALBERTI P., SAÑUDO C., LEVézIEL H., WILLIAMS J., 
+HOCQUETTE J.F., 2004 - Metabolic and contractile characteristics of Longissimus thoracis muscle 
+of young bulls from 8 European breeds. Rencontres Recherches Ruminants 11, 121.
+KAMBADUR  R., BISHOP  A., SALERNO  M.S., MCCROSKERY  S., SHARMA  M., 2004 - Role 
+of myostatin in muscle growth. In: Muscle development of livestock animals (M.F.W. te Pas, M.E. 
+Everts and H.P. Haagsman, eds.) CAB International, pp. 297-316.
+KIM  J.J., DAVIS  S.K., SANDERS  J.O., TURNER  J.W., MILLER  R.K., SAVELL  J.W., SMITH 
+S.B., TAYLOR  J.F., 1998 - Estimation of genetic parameters for carcass and palatability traits in Bos 
+indicus/Bos taurus cattle. Proceedings of the 6th WCGALP, vol. 25, 173-176. 
+KOOTS  K.R., GIBSON  J.P., WILTON  J.W., 1994 - Analyses of published genetic parameter 
+estimates for beef production traits. 2. Phenotypic and genetic correlations. Animal Breeding 
+Abstracts 62, 825-853.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+Jean-François Hocquette et al. 
+187
+KüHN  CH., LEVEzIEL  H., RENAND  G., GOLDAMMER  T., SCHWERIN  M., WILLIAMS  
+J., 2005 - Genetic markers for beef quality. In: Indicators of milk and beef quality,  (J.F. Hocquette 
+and S. Gigli, eds.), EAAP Publ. No.112, Wageningen Academic Publishers, Wageningen, The 
+Netherlands, pp. 23-32.
+LAGONIGRO  R., WIENER  P., PILL A. F., WOOLLIAMS  J.A., WILLIAMS  J.L., 2003 - A new 
+mutation in the coding region of the bovine leptin gene associated with feed intake. Animal Genetics 
+34, 371-374.
+LEHNERT  S.A., WANG  Y.H., TAN  S.H., REVERTER  A., 2006 - Gene expression-based 
+approaches to beef quality research. Australian Journal of Experimental Agriculture 46, 165-172.
+LEVézIEL H., AMARGER V., CHECA M.L., CRISÀ A., DELOURME D., DUNNER S., 
+GRANDJEAN F., MARCHITELLI C., MIRANDA M.E., RAzzAQ N., VALENTINI A., 
+WILLIAMS  J.L., 2003 - Identification of SNPs in candidate genes which may affect meat quality in 
+cattle. Proceedings of the 54th  Annual Meeting of the EAAP, August 31- September 3, Roma, Italy. 
+Book of Abstracts,  p. 94. 
+LISTRAT  A., BELAIR  L., PICARD  B., BOULLE  N., GEAY  Y., DJIANE  J., JAMMES  H., 1999 
+- Insulin-like growth factor II (IGF-II) mRNA expression during skeletal muscle development of 
+double-muscled and normal bovine foetuses. Reproduction, Nutrition, Development 39, 113-124. 
+LISTRAT  A., HOCQUETTE  J.F., PICARD  B., MéNISSIER  F., DJIANE  J., JAMMES  H., 2005 - 
+Growth hormone receptor gene expression in skeletal muscle of normal and double-muscled bovine 
+during foetal development. Reproduction, Nutrition, Development 45, 393-403.
+LISTRAT  A., PICARD  B., JAILLER  R., HERVé  C., PECCATTE  J.-R., MICOL  D., GEAY  Y., 
+DOzIAS  D., 2001 - Grass valorisation and muscular characteristics of blond d’Aquitaine steers. 
+Animal Research 50, 105-118.
+MALTIN  C., BALCERzAK  D., TILLEY  R., DELDAY  M., 2003 - Determinants of meat quality. 
+Proceedings of the Nutrition Society 62, 337-347.
+MONSÓN  F., SAÑUDO  C., SIERRA  I., 2004 - Influence of cattle breed and ageing time on 
+textural meat quality. Meat Science 68, 595-602. 
+PAGE B.T., CASAS E., HEATON M.P., CULLEN N.G., HYNDMAN D.L., MORRIS C.A., 
+CRAWFORD  A.M., WHEELER  T.L., KOOHMARAIE  M., KEELE  J.W., SMITH  T.P.L., 2002 
+- Evaluation of single-nucleotide polymorphisms in CAPN1 for association with meat tenderness in 
+cattle. Journal of Animal Science 80, 3077-3085.
+PICARD B., BOULEY J., CASSAR-MALEK I., BERNARD  C., RENAND G., HOCQUETTE 
+J.F., 2005 - Proteomics applied to the analysis of bovine muscle hypertrophy. In: Indicators of milk 
+and beef quality (J.F. Hocquette and S. Gigli eds.), EAAP Publ. No. 112, Wageningen Academic 
+Publishers, Wageningen, The Netherlands, pp. 379-384.  
+PICARD  B., DEPREUX  F., GEAY  Y., 1998 - Muscle differentiation of normal and double-muscled 
+bovine foetal myoblasts in primary culture Basic Applied Myology 8, 197-203.
+PICARD  B., GAGNIèRE  H., ROBELIN  J., GEAY  Y., 1995 - Comparison of the foetal development 
+of muscle in normal and double-muscled cattle. Journal of Muscle Research and Cell Motility 16, 
+629-639. 47. 
+POTTS  J.K, ECHTERNKAMP  S.E., SMITH  T.P., REECY  J.M., 2003 - Characterization of gene 
+expression in double-muscled and normal-muscled bovine embryos. Animal Genetics 34, 438-444. 
+RENAND  G., LARzUL  C., LE BIHAN-DUVAL  E., LEROY  P., 2003 - L’amélioration génétique 
+de la qualité de la viande dans les différentes espèces : situation actuelle et perspectives à court et 
+moyen terme. INRA Productions Animales 16, 159-173.
+RENAND  G., PICARD  B., TOURAILLE  C., BERGE  P., LEPETIT  J., 2001 - Relationships 
+between muscle characteristics and meat quality traits of young Charolais bulls. Meat Science 59, 
+49-60.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+Genetics and genomics in improving beef quality
+188
+REVERTER  A., JOHNSTON  D.J., FERGUSON D.M., PERRY D., GODDARD M.E., BURROW  
+H.M., ODDY  V.H., THOMPSON J.M., BINDON B.M., 2003 - Genetic and phenotypic 
+characterisation of animal, carcass, and meat quality traits from temperate and tropically adapted 
+beef breeds. 4. Correlations among animal, carcass, and meat quality traits. Australian Journal of 
+Agricultural Research 54, 149-158.
+REVERTER  A., JOHNSTON  D.J., GRASER  H.U., WOLCOTT  M.L., UPTON  W.H., 2000 
+- Genetic analyses of live-animal ultrasound and abattoir carcass traits in Australian Angus and 
+Hereford cattle. Journal of Animal Science 78, 1786-1795.
+RILEY D.G., CHASE C.C., HAMMOND A.C., WEST R.L., JOHNSON D.D., OLSON T.A., 
+COLEMAN S.W. 2003 - Estimated genetic parameters for palatability of steaks from Brahman 
+cattle. Journal of Animal Science 81, 54-60.
+SAPP R.L., BERTRAND J.K., PRINGLE T.D., WILSON D.E., 2002 - Effects of selection for 
+ultrasound intramuscular fat percentage in Angus bulls on carcass traits of progeny. Journal of 
+Animal Science 80, 2017-2022.
+SCHMUTz  S.M., BUCHANAN  F.C., PLANTE  Y., WINKELMAN-SIM  D.C., AALHUS  J.L., 
+BOLES  J.A., MOKER  J.S., 2000 - Mapping collagenase and a QTL to beef tenderness to cattle 
+chromosome 29. Proceedings of VIII Plant and Animal Genome  Conference, San Diego, USA.
+SUDRE  K., CASSAR-MALEK  I., LISTRAT  A., UEDA  Y., LEROUX  C., AUFFRAY C., 
+RENAND  R., MARTIN  P., HOCQUETTE  J.F., 2005 - Biochemical and transcriptomic analyses of 
+two bovine skeletal muscles in Charolais bulls divergently selected for muscle growth. Meat Science 
+70, 267-277.
+SUDRE  K., LEROUX  C., PIéTU  G., CASSAR-MALEK  I., PETIT  E., LISTRAT  A., AUFFRAY 
+C., PICARD  B., MARTIN  P., HOCQUETTE  J.F., 2003 - Transcriptome analysis of two bovine 
+muscles during ontogenesis. Journal of Biochemistry 133, 745-756. 
+TANIGUCHI  M., UTSUGI  T., OYAMA  K., MANNEN  H., KOBAYASHI  M., TANABE  Y., 
+OGINO  A., TSUJI  S., 2004 - Genotype of stearoyl-CoA desaturase is associated with fatty acid 
+composition in Japanese Black cattle. Mammalian Genome 15, 142-148.
+TAYLOR  J.F., COUTINHO  L.L., HERRING  K.L., GALLAGHER  D.S., BRENNEMAN  R.A., 
+BURNEY  N., SANDERS  J.O., TURNER  R.V., SMITH  S.B., MILLER  R.K., SAVELL  J.W., 
+DAVIS  S.K., 1998 - Candidate gene analysis of GH1 for effects on growth and carcass composition 
+of cattle. Animal Genetics 29, 194-201.
+THALLER  G., KüHN  C., WINTER  A., EWALD  G., BELLMANN  O., WEGNER  J., züHLKE 
+H., FRIES  R., 2003 - DGAT1, a new positional and functional candidate gene for intramuscular fat 
+deposition in cattle. Animal Genetics 34, 354-357.
+WALSH  B., HENDERSON  D., 2004 - Microarrays and beyond: What potential do current and 
+future genomics tools have for breeders? Journal of Animal Science 82, Supplement E, E292-
+E299.
+WANG  Y.-H., BYRNE  K.A., REVERTER  A., HARPER  G.S., TANIGUCHI  M., MCWILLIAM 
+S.M., MANNEN  H., OYAMA  K., LEHNERT  S.A., 2005 - Transcriptional profiling of skeletal 
+muscle tissue from two breeds of cattle. Mammalian Genome, 16, 201-10.
+WHIPPLE  G., KOOHMARAIE  M., DIKEMAN  M.E., CROUSE  J.D., 1990a - Predicting beef-
+longissimus tenderness from various biochemical and histological muscle traits. Journal of Animal 
+Science 68, 4193-4199.
+WHIPPLE  G., KOOHMARAIE  M., DIKEMAN M.E., CROUSE J.D., HUNT M.C., KLEMM 
+R.D., 1990b - Evaluation of attributes that affect longissimus muscle tenderness in Bos taurus and 
+Bos indicus cattle. Journal of Animal Science 68, 2716-2728. 
+YOUSSAO  A.K.I., RENAND  G., PICARD  B., JURIE  C., BERGE  P., 2004 - Variabilité génétique 
+de caractéristiques biologiques du muscle chez des taurillons Charolais. Viandes et Produits Carnés, 
+hors série 29-30.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+Jean-François Hocquette et al. 
+189
+Jean-Francois Hocquette, Gilles Renand, Hubert Levéziel,  
+Brigitte Picard, Isabelle Cassar-Malek 
+Genetyka i genomika jako czynniki doskonalenia wołowiny
+S t r e s z c z e n i e 
+zasadnicze cechy jakości wołowiny, a zwłaszcza jej kruchość, zależą nie tylko od czynników 
+oddziałujących po uboju, związanych z przechowywaniem  mięsa, ale także od cech  przyżyciowych.  Te 
+ostatnie determinowane są czynnikami genetycznymi, a także żywieniem i innymi warunkami  wychowu i 
+opasania. Poszczególne rasy bydła bądź genotypy w obrębie rasy odbiegają od siebie właściwościami tkanki 
+łącznej (zawartość i rozpuszczalność kolagenu) oraz poziomem i składem tłuszczu śródmięśniowego, 
+jak również proporcją między poszczególnymi typami włókien mięśniowych (wolno kurczących się 
+- oksydatywnych, szybko kurczących się - oksydatywno-glikolitycznych i szybko kurczących się - 
+glikolitycznych). Różnice te są źródłem zróżnicowania barwy mięsa i strat, do jakich dochodzi podczas 
+jego przyrządzania (obróbka termiczna), a w mniejszym stopniu decydują także o smaku i kruchości 
+mięsa. Mutacja w genie miostatyny determinuje hipertofię (przerost) mięśni i wzrost ich glikolitycznego 
+metabolizmu, prowadząc także do spadku poziomu w nich kolagenu i tłuszczu śródmięśniowego. zwiększa 
+się przy tym kruchość i ulegają poprawie właściwości dietetyczne mięsa. Jednocześnie jednak zmniejszenie 
+zawartości tłuszczu śródmięśniowego wpływa ujemnie na smakowitość mięsa. zmienność genetyczna 
+zawartości tłuszczu śródmięśniowego (marmurkowatości) jest znaczna, podczas gdy umiarkowana 
+charakteryzuje kruchość, a niewielka - smak i soczystość mięsa. z cechami jakości wołowiny wiąże się 
+polimorfizm genów kluczowych z punktu widzenia cech tkanki łącznej i proporcji ilościowych między 
+poszczególnymi typami włókien. Badania z zakresu genomiki funkcjonalnej umożliwiły profilowanie 
+ekspresji genów lub białek, a nadto pozwoliły na zidentyfikowanie nowych molekularnych wskaźników 
+kruchości i marmurkowatości mięsa. Jak wykazały badania z zakresu biochemii i genetyki funkcjonalnej, 
+selekcja bydła, zmierzająca w kierunku zwiększenia mięsności i zmniejszenia zawartości tłuszczu w tuszy 
+zmienia metabolizm włókien mięśniowych w kierunku zwiększenia metabolizmu glikolitycznego. 
+Wykorzystano 64 pozycje piśmiennictwa.

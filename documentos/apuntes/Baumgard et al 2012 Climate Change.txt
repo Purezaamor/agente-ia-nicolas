@@ -1,0 +1,2322 @@
+=== Fuente: Baumgard et al 2012 Climate Change.pdf ===
+
+Chapter 15
+Impact of Climate Change on Livestock
+Production
+Lance H. Baumgard, Robert P. Rhoads, Michelle L. Rhoads,
+Nicholas K. Gabler, Jason W. Ross, Aileen F. Keating,
+Rebbeca L. Boddicker, Sangeeta Lenka and Veerasamy Sejian
+Abstract Livestock production is the world’s dominant land use, covering about
+45% of the Earth’s land surface, and much of it in harsh and variable environments
+that are unsuitable for other purposes. Climate change (CC) can impact the amount
+and quality of produce, reliability of production, and the natural resource base on
+which livestock production depends. Climate is an important factor of agricultural
+productivity and CC is expected to severely impact livestock production systems.
+Furthermore, global demand for animal protein will rise as populations become
+more afﬂuent and eating habits change. Therefore, animal production plays (and
+will continue to do so) a key role in the food supply chain. While the increasing
+demand for livestock products offers market opportunities and income for small,
+marginal, and landless farmers, livestock production globally faces increasing
+pressure because of negative environmental implications, particularly because of
+greenhouse gas (GHG) emissions. Agriculture is one sector which is important to
+consider as it both impacts CC as well as is inﬂuenced by CC. Higher tempera-
+tures, potentially caused by GHG, would likely result in a decline in dairy pro-
+duction, reduced animal weight gain, reproduction, and lower feed-conversion
+efﬁciency in warm regions. Incidence of diseases among livestock and other
+L. H. Baumgard (&) /C1 N. K. Gabler /C1 J. W. Ross /C1 A. F. Keating /C1 R. L. Boddicker
+Department of Animal Science, Iowa State University, Ames, IA 50011, USA
+e-mail: baumgard@iastate.edu
+R. P. Rhoads /C1 M. L. Rhoads
+Department of Animal Science, Virginia Tech, Blacksburg, VA 24061, USA
+S. Lenka
+Division of Soil Physics, Indian Institute of Soil Science, Nabibagh, Berasia Road,
+Bhopal, Madhya Pradesh 462038, India
+V. Sejian
+Division of Physiology and Biochemistry, Central Sheep and Wool Research Institute,
+Avikanagar, Jaipur, Rajasthan 304501, India
+V. Sejian et al. (eds.), Environmental Stress and Amelioration
+in Livestock Production, DOI: 10.1007/978-3-642-29205-7_15,
+/C211 Springer-Verlag Berlin Heidelberg 2012
+413
+animals are likely to be affected by CC, since most diseases are transmitted by
+vectors such as ticks and ﬂies (development stages of ticks and ﬂies are often
+dependent on ambient temperature). Cattle, goat, horses, and sheep are also
+vulnerable to an extensive range of nematode worm infections, most of which
+have their development stages inﬂuenced by climatic conditions. CC will have
+far-reaching consequences for dairy, meat, and wool production systems that
+rely primarily on grass and rangelands and this will likely detrimentally affect vul-
+nerable pastoral communities which are engaged in extensive livestock production
+systems in drylands. Although the direct effects of CC on animals are likely to be
+small (as long as temperature increases do not exceed 3/C176C), CC will affect animals
+indirectly through physiological stress and thermoregulatory control, nutrition, and
+disease stress. Because livestock products are an incredibly important human food,
+and because animal farming is a signiﬁcant source of income for millions of farmers,
+it is necessary to identify CC mitigation strategies and solutions.
+Keywords Heat stress /C1 Metabolism /C1 Disease /C1 Epigenetics
+Contents
+15.1 Introduction................................................................................................................... 415
+15.2 Animal Production........................................................................................................ 416
+15.2.1 Lactation.......................................................................................................... 416
+15.2.2 Growth............................................................................................................. 417
+15.3 Reproduction................................................................................................................. 418
+15.3.1 Swine............................................................................................................... 418
+15.3.2 Ruminant ......................................................................................................... 421
+15.3.3 Plasma Urea Nitrogen and Fertility ............................................................... 423
+15.3.4 Heat Stress, Reproduction, and Heat Shock Proteins ................................... 424
+15.4 Epigenetics.................................................................................................................... 426
+15.4.1 DNA Methylation ........................................................................................... 427
+15.4.2 Histone Modifications..................................................................................... 427
+15.4.3 Chromatin State .............................................................................................. 428
+15.4.4 miRNA ............................................................................................................ 428
+15.4.5 Genomic Imprinting........................................................................................ 428
+15.4.6 Epigenetic Response to Heat Stress............................................................... 429
+15.4.7 Evidence of Epigenetically Programmed Response to Maternal Stress....... 429
+15.4.8 Species-Specific Evidence of Maternal Stress-Induced
+Epigenetic Imprinting ..................................................................................... 430
+15.5 Gastrointestinal Tract ................................................................................................... 431
+15.5.1 Barrier Function and Integrity........................................................................ 431
+15.5.2 Appetite, Digestibility, and Nutrient Transport............................................. 434
+15.6 Impact of Climate Change on Disease occurrence in Livestock ............................... 436
+15.6.1 Effects of Climate Change on Livestock Diseases ....................................... 438
+15.6.2 Relationship Between Climate Change and Disease Susceptibility ............. 440
+15.6.3 Climate Change and Types of Disease Outbreaks ........................................ 442
+15.7 Environmental Stress and Pasture/Forage Availability............................................... 444
+15.7.1 Climate Change and Related Environmental Stress...................................... 444
+414 L. H. Baumgard et al.
+15.7.2 Different Environmental Stresses and Its Effect on Pasture Availability .... 446
+15.8 Conclusions................................................................................................................... 452
+References................................................................................................................................ 453
+15.1 Introduction
+Animal productivity is optimized within narrow environmental conditions. When
+the temperature is either below or above the threshold values for peak animal
+production, efﬁciency is compromised because nutrients are diverted to maintain
+euthermia as a means of maintaining body temperature which invariably takes
+priority over product synthesis such as milk, meat, fetus, etc. Heat stress negatively
+impacts a variety of productive parameters including milk yield, growth, repro-
+duction, and carcass traits. In addition, heat load increases healthcare costs and
+animals can succumb to severe thermal stress (especially lactating cows and sows).
+Therefore, environmental heat stress is a signiﬁcant ﬁnancial burden to the
+industry given that about $900 million/year for dairy and over $300 million/year
+each in beef and swine are lost to heat stress in the U.S. alone (St. Pierre et al.
+2003; Pollmann 2010). Advances in management (i.e., cooling systems, barn
+construction) have alleviated some negative impacts of thermal stress on animal
+agriculture (Armstrong 1994; Burgos et al. 2007; Stowell et al. 2009) although
+production is still compromised during the summer.
+The detrimental effects of environmental heat stress on animal welfare and
+production will likely become more of an issue in the future if the Earth’s climate
+continues to warm as some predict (IPCC 2007; Bernabucci et al. 2010). In
+addition, the human population continues to increase, especially in the tropical and
+subtropical areas of the globe (Roush 1994). Consequently animal agriculture in
+these warm areas will need to expand (Renaudeau et al. 2008) to keep pace with
+the global appetite for high quality protein. However, many countries in these
+geographical areas are still developing and may lack facilities and resources
+required for effective heat abatement strategies. Consequently, heat stress is likely
+one of the primary (if not the principal) factors limiting efﬁcient animal protein
+production and may continue to compromise food security in developing countries.
+Basal/metabolic heat production increases with enhanced production [i.e.,
+enhanced milk yield (Spiers et al. 2004) and lean tissue accretion (Brown-Brandl
+et al. 2004)]. Therefore, genetic selection based upon traditional production traits
+may increase susceptibility of animals to thermal stress. Consequently, an animal or
+a breed’s annual productivity needs consideration before introducing novel genetics
+into a particular geography. Understanding the biology and mechanisms of how
+heat stress jeopardizes animal performance, therefore, is critical in developing
+compatible approaches (i.e., genetic, managerial, nutritional, and pharmaceutical)
+to ameliorate current challenges facing animal production and future mitigating
+strategies to improve animal well-being, performance, and economics.
+15 Impact of Climate Change on Livestock Production 415
+15.2 Animal Production
+15.2.1 Lactation
+Milk synthesis appears to be more sensitive (compared to growth models) to
+thermal stress as decreased yields of up to 35–40% are common (West 1999).
+Detailed description of how cows accumulate and dissipate heat and how, when,
+and where cows become heat stressed has already been published elsewhere
+(Berman 2003, 2004, 2005). It was traditionally thought that lactating cows
+become heat stressed when conditions exceed a temperature humidity index (THI)
+of 72 (Armstrong 1994). However, recent climate controlled experiments indicate
+that milk yield starts to decrease at a THI of 68 (Zimbleman et al. 2009) which is
+supported by ﬁeld observations that evaluated the THI when cow standing time
+(a classic response to a thermal load) increases (Cook et al. 2007). The lower THI
+at which cows are thought to become heat stressed is consistent with the
+hypothesis that higher producing cows are more susceptible to a thermal load.
+Heat stressed animals reduce feed intake and this is presumably a survival
+strategy as digesting (especially in ruminants) and metabolizing nutrients gener-
+ates heat (i.e., thermic effect of feed). A popular opinion contends that inadequate
+feed intake caused by the thermal load was responsible for decreased milk pro-
+duction (Fuquay 1981; Beede and Collier 1986; Silanikove 2000; West 1999;
+Fig. 15.1 Effects of heat
+stress (HS) or pair-feeding
+(PF)ona DMI and b milk
+yield in lactating Holstein
+cows. Solid lines with
+diamonds represent PF cows
+and dashed lines with squares
+represent HS cows. The mean
+value from day 1 to 9 of the
+TN ad libitum period (P1)
+was used as a covariate and is
+represented by P1 on the X
+axis. The day 1–9 results are
+from P2 when cows were
+exposed to HS or exposed to
+TN conditions and PF with
+the HS cows. Adapted from
+Rhoads et al. 2009
+416 L. H. Baumgard et al.
+DeShazer et al. 2009). However, our recent experiment demonstrated disparate
+slopes in feed intake and milk yield responses to a cyclical heat load pattern
+(Shwartz et al. 2009). This led us to hypothesize that heat stress reduces milk
+synthesis by both direct and indirect (via reduced feed intake) mechanisms
+(Baumgard and Rhoads 2012). To examine this theory, we designed a series of
+pair-feeding experiments enabling us to evaluate thermal stress while eliminating
+the confounding effects of dissimilar nutrient intake. Employing this type of
+approach is required to differentiate between direct and indirect effects (e.g.,
+reduced intake) of environmentally induced hyperthermia because both heat
+stressed and malnourished animals share common responses (i.e., reduced milk
+yield, growth, etc.). Our experiments demonstrate that reduced feed intake only
+explains approximately 35–50% of the decreased milk yield during environmental-
+induced hyperthermia (Fig. 15.1, Rhoads et al. 2009; Wheelock et al. 2010). These
+results agree with previous data (Bianca 1965), and suggest that when overall heat
+stress (extent and duration) exceeds a given threshold (as of yet unidentiﬁed) the
+cumulative thermal load disrupts the nutrient intake:milk production relationship
+and milk yield declines beyond expected levels.
+15.2.2 Growth
+15.2.2.1 Beef
+In general, heat stress-induced production losses in beef cattle are not as severe as
+those for the dairy industry. It is not entirely clear why growing cattle tolerate higher
+THI conditions and exhibit a greater heat strain threshold than lactating dairy cows,
+but likely possibilities may involve: (1) increased surface area to mass ratio, (2)
+reduced rumen heat production (because of the mostly grain diet), and (3) reduced
+overall metabolic heat production (on a body weight basis). In addition, beef cattle
+will often experience compensatory gain after mild or short periods of heat stress
+(Mitlöhner et al. 2001). The combination of these factors translate into heat-related
+reduced gain that is typically less than 10 kg, which amounts to *7 extra days on
+feed (St. Pierre et al. 2003). Furthermore, the impact of heat stress on reproductive
+indices is typically not as severe in beef cattle as in dairy cattle due to the seasonal
+nature of breeding programs (often occurring during the spring in the US).
+15.2.2.2 Swine
+Although accurately estimating the heat-induced economic loss is challenging, a
+recent assessment suggests poor sow performance alone (not including reduced
+growth, carcass quality, etc.) costs the US swine industry $330 million annually
+(Pollmann 2010). Even if optimal heat stress abatement strategies were imple-
+mented by all pig producers at all stages of production, losses to heat stress would
+15 Impact of Climate Change on Livestock Production 417
+still cost the American pig industry about $300 million annually (St. Pierre et al.
+2003). The economic losses caused by a sustained thermal load include reduced
+growth and efﬁciency, increased healthcare costs, decreased carcass value
+(increased lipid and decreased protein), and increased mortality (especially sows
+and market hogs) and this typically coincides with the time of year that has the best
+market prices. Interestingly, the fact that pigs reared in heat stress conditions have
+reduced muscle mass and increased adipose tissue has been documented frequently
+over the past 40 years (Close et al. 1971; Verstegem et al. 1978; Stahly et al. 1979;
+Heath 1983, 1989; Bridges et al. 1998; Collin et al. 2001). This phenomenon is not
+unique to pigs, as heat stress also alters carcass composition similarly in rodents
+(Schmidt and Widdowson 1967; Katsumata et al. 1990) and growing poultry
+(Baziz et al. 1996; Geraert et al. 1996; Yunianto et al. 1997; Lu et al. 2007).
+A dramatic reduction in feed intake (up to 50%) is an obvious sign of heat stress
+and is thought to be primarily responsible for the negative effects heat stress has on
+pig performance (Collin et al. 2001). It is counter-intuitive that heat stress stim-
+ulates a decrease in nutrient intake and depresses growth, yet increases carcass
+lipid accretion and decreases carcass nitrogen content. In thermal neutral (TN)
+conditions, pigs consuming a restricted diet will deposit protein at the expense of
+lipid accretion (i.e., the carcass lipid to protein ratio decreases, meaning the car-
+cass becomes leaner) and the quantity of lipid deposited per unit of energy con-
+sumed decreases (Le Dividich et al. 1980; Van Milgen and Noblet 2003; Oresanya
+et al. 2008). The hallmark of heat stress in swine, therefore, is increased lipid
+deposition at the expense of protein. Hence, the reduced feed intake to body
+composition relationship is exactly opposite in pigs reared in heat stress conditions
+and is independent of plane of nutrition. Surprisingly, despite the enormous eco-
+nomic impact of heat stress on swine, little is known about how heat stress directly
+(not mediated by reduced nutrient intake) and indirectly alters metabolism and
+nutrient partitioning in pigs.
+15.3 Reproduction
+15.3.1 Swine
+The swine industry suffers considerably due to impaired reproductive performance
+during periods of seasonal infertility, particularly during late summer and early
+autumn months (Pollmann 2010). The impact is quite visible in the US with day 28
+pregnancy rates reaching their lowest levels in August to October and reduced
+farrowing rates in November and December. This phenomenon is not limited to
+speciﬁc regions and occurs internationally (Auvigne et al. 2010; Pollmann 2010).
+Several factors such as photoperiod and temperature can contribute to seasonal
+infertility and deciphering the precise contribution of each factor on swine
+reproductive performance is challenging. Despite that, heat stress has been
+418 L. H. Baumgard et al.
+repeatedly demonstrated to negatively impact reproductive efﬁciency in pigs by
+affecting germ cell development, pregnancy establishment, maintenance of ges-
+tation, and lactation performance.
+15.3.1.1 Heat Stress During Oogenesis and Early Embryo
+Development in Pigs
+The impact of heat stress during oocyte maturation and early embryonic devel-
+opment is evidenced in sows that are exposed to heat stress for 5 days following
+breeding have a reduced (38%) number of viable embryos after day 27 of gestation
+(Tompkins et al. 1967). In a related study, heat stress was administered following
+breeding, which generally occurs prior to ovulation and complete oocyte matu-
+ration, as pigs typically ovulate in the mid to latter half of estrus (Soede et al.
+1992).
+Difﬁcult to study in vivo, characterization of heat stress during oocyte growth
+and maturation and early embryonic development in pigs has been demonstrated in
+in vitro oocyte maturation and embryo culture systems. Some evidence of in vitro
+heat stress models during the transition between germinal vesicle breakdown
+(GVBD) and the 4-cell stage of development demonstrates the susceptibility of
+this stage to heat stress. A 9 h culture of pig embryos at 42/C176C following porcine in
+vitro fertilization reduced blastocyst formation rate from 20/C16to8/C18% (Isom et al.
+2007) and heat shock of 41/C15/C176C for 4 h following in vitro maturation also reduced
+the developmental ability of parthenogenetically activated oocytes (Tseng et al.
+2006). However, it has also been demonstrated that parthenogenetically activated
+pig oocytes that are exposed to 9 h of heat shock at 42/C176C following activation have
+accelerated MAPK dephosphorylation and improved developmental competency
+in vitro (Isom et al. 2009a, b).
+The impact of in vitro heat stress during oocyte maturation and developmental
+competency has also been demonstrated (Wright and Ross, unpublished). Oocytes
+exposed to heat stress (41/C176C) during the ﬁrst half (21 h) or complete duration
+(42–44 h) of maturation process in vitro demonstrated impaired ability to reach
+metaphase II arrest while oocytes exposed to heat stress during the second half
+(21 h) of in vitro maturation experienced normal maturation rate (Wright and
+Ross, unpublished data). In addition, following in vitro heat stress, metaphase II
+arrested oocytes had impaired developmental competency compared to oocytes
+matured at 39/C176C. We have subsequently used this model to demonstrate differ-
+ences in gene expression in developing 4- to 8-cell embryos as a result of heat
+stress conditions during in vitro maturation (Wright and Ross, unpublished data).
+15.3.1.2 Gestation
+The effect of heat stress during pregnancy in pigs is variable, as different stages of
+gestation can be more severely affected than others. This is demonstrated by a
+15 Impact of Climate Change on Livestock Production 419
+study conducted by Omtvedt et al. (1971) as they exposed pregnant gilts to heat
+stress for 8 days during different stages of gestation. In this study, compared to
+sows in TN conditions, heat stress beginning either on day 0 or day 8 of gestation
+reduced the number of viable embryos at day 30 of gestation. Interestingly, the
+same conditions on days 53–61 did not affect farrowing performance while heat
+stress during late gestation (days 102–110) reduced the number of piglets born
+alive (Omtvedt et al. 1971). However, a more moderate, cyclic heat stress on bred
+gilts beginning on day 3 and extended to either day 24 or day 30 of gestation did
+not impact embryo survival (Liao and Veum 1994).
+15.3.1.3 Lactation
+Heat stress during lactation can also have a profound impact on production. Tem-
+peratures exceeding the evaporative critical temperature (ECT) during lactation
+reduces feed intake, and consequently, decreases milk production (Black et al. 1993).
+It was hypothesized that elevated core body temperature results in the redirection of
+blood ﬂow from the mammary gland toward the skin in an effort to facilitate heat
+dissipation. In response, lactation and piglet growth during lactation are signiﬁcantly
+reduced (McGlone et al. 1988; Black et al. 1993; Johnston et al. 1999). It is of interest
+to determine whether heat stress alters post-absorptive metabolism and lactation
+parameters similarly in pigs as it does cows (Wheelock et al. 2010). In addition to
+reduced lactation performance, heat stress during lactation can also reduce the
+number of sows returning to estrus within 15 days post weaning (Johnston
+et al. 1999).
+15.3.1.4 Semen Quality
+While the effects of heat stress on pig reproduction is notable, it is not clear
+whether heat stress affects boars differently from the way it does sows. Whereas it
+is clear that reproductive parameters in gilts and sows are negatively affected by
+heat stress. Exposure of boars to elevated ambient temperatures can also be det-
+rimental to swine reproduction through impaired semen quality. Boars subjected to
+heat stress for 90 days had reduced motility and increased percentage of abnormal
+sperm within 2 weeks from the initiation of heat stress (Wettemann et al. 1976).
+Utilizing semen from heat stressed boars reduced the number of embryos on day
+30 post insemination when compared to TN boars (Wettemann et al. 1976;
+Cameron and Blackshaw 1980).
+420 L. H. Baumgard et al.
+15.3.2 Ruminant
+The physiological effects of heat stress on productivity are ﬁnancially devastating
+to animal production systems. During heat stress, dry matter intake (DMI)
+decreases and maintenance requirements increase as livestock attempt to dissipate
+excess heat load (West 1999). In addition, changes in blood ﬂow and the
+production of various hormones ultimately result in decreased reproductive per-
+formance. During summer months, conception rates can decline 20–30% (Rensis
+and Scaramuzzi 2003). This reduced fertility is attributed to several factors,
+including a reduction in estrus detection rates, early embryonic death, inhibition of
+follicular dominance, and reduced ovarian steroidogenic output (Putney et al.
+1988a, b; Wolfenson et al. 2000; Rensis and Scaramuzzi 2003). Thus, heat stress
+has a wide range of reproductive effects beginning with the development of follicle
+through early embryonic development. The biological mechanisms that mediate
+these effects, however, are not completely understood.
+15.3.2.1 Reproductive Cycle
+Inevitably, the decrease in DMI that occurs during periods of heat stress is accom-
+panied by changes in circulating concentrations of several metabolic hormones.
+Consequently, these metabolic adaptations alter the production and secretion of the
+hormones controlling the reproductive cycle (Wolfenson et al. 2000). Such conse-
+quences are far-reaching and may involve detrimental effects on ovarian follicular
+development, oocyte competence, early embryonic development, and the maternal
+recognition of pregnancy.
+During heat stress, the development of the dominant ovarian follicle is attenuated
+and circulating concentrations of estradiol are reduced. In addition, the luteal phase
+of heat stressed cattle is extended and follicular wave dynamics are altered (Wilson
+et al. 1998). These changes in ovarian function appear to be the result of decreased
+pulse amplitude of luteinizing hormone (LH) (Gilad et al. 1993). LH is directly
+involved in the processes of follicular growth, estradiol production, ovulation, and
+progesterone production. These changes in LH pulsatility during heat stress may
+simply be a consequence of inadequate nutrient consumption as decreased feed
+intake is associated with changes in circulating insulin, leptin, and ghrelin, all of
+which affect LH pulsatility in several species (Szymanski et al. 2007).
+These heat stress-induced changes in ovarian dynamics ultimately result in the
+production of substandard oocytes and pose unique challenges in reproductive
+management. Many producers now rely on timed artiﬁcial insemination (AI)
+programs during periods of heat stress because estrus detection rates decrease
+signiﬁcantly during the warm summer months. Indeed, mounting activity declines
+by nearly half and is likely the result of lower circulating estradiol concentrations
+(Hansen and Aréchiga 1999). Extended luteal phases during heat stress also make
+it more difﬁcult to predict when individual animals will come into estrus. Use of
+15 Impact of Climate Change on Livestock Production 421
+timed protocols alleviates these challenges by allowing the producer to control the
+time of ovulation (de la Sota et al. 1998; de Rensis et al. 2002).
+15.3.2.2 Oocyte and Embryo
+The detrimental effects of heat stress on oocyte quality are not easily mitigated.
+Preovulatory oocytes can be damaged directly by heat stress, and indirectly by
+prolonged estrous cycles. These longer estrous cycles presumably result in the
+ovulation of an aged oocyte that has reduced potential for developmental com-
+petence. Oocytes contained within antral follicles appear to be the most susceptible
+to the damaging effects of heat stress (Roth 2008). As a result, conception rates
+remain depressed well into the fall as the oocytes that were damaged during the
+summer heat stress are cleared from the ovary via ovulation or degradation.
+In particular, one management technique has shown promise for overcoming
+the oocyte-speciﬁc problems associated with heat stress. Conception rates are
+markedly increased by transferring fresh in vitro-produced embryos into heat
+stressed cattle (Al-Katanani et al. 2002; Stewart et al. 2011). This allows the
+producer to completely bypass the challenges associated with substandard oocyte
+quality. However, the advantage is only evident with the use of fresh embryos.
+Utilizing frozen embryos during heat stress yields conception rates similar to timed
+AI. This presents a logistical challenge since few producers have access and
+technical know-how for effective use of fresh in vitro-produced embryos. The
+source of the oocytes is also a concern if the offspring is needed as replacement
+animals. Two sources of oocytes which are readily available are genetically
+superior donor females (housed in a cool environment) and indiscriminate
+collection of oocytes from ovaries at the slaughterhouse. Depending on the
+geographical region, animals sent to the slaughterhouse vary widely in breed and
+genetics, and therefore would not be desirable as replacement animals. Future
+advances in in vitro embryo production and freezing will make this technique a
+viable alternative for use during periods of heat stress.
+Clearly the effects of heat stress on reproduction are not limited to the estrous
+cycle and oocyte. Even with the use of timed embryo transfer, conception rates
+during periods of heat stress still lag behind herd averages during the cooler seasons.
+Most other effects of heat stress on fertility are attributed to a compromised uterine
+environment. Effects of temperature, blood ﬂow, and hormone concentrations on
+uterine environment have been previously investigated (Lewis et al. 1984; Biggers
+et al. 1987; Putney et al. 1988a, 1988b). Each of these factors is capable of causing
+embryonic death and certainly lethal to the embryo when combined.
+15.3.2.3 Semen Quality
+Male fertility also suffers during periods of heat stress. Bull sperm concentration,
+motility, and morphology are all affected by increased testicular temperatures.
+422 L. H. Baumgard et al.
+Morphological defects include various maladies affecting both the head and tail
+regions of the spermatozoa. The observed decrease in quality of the ejaculate
+occurs irrespective of testosterone concentrations, as both circulating and testicular
+concentrations of testosterone are unaffected by heat stress (Minton et al. 1981;
+Barth and Bowman 1994). The observed decrease in semen quality is, however,
+associated with an increase in the production of reactive oxygen species (ROS)
+during periods of heat stress (Nichi et al. 2006).
+15.3.3 Plasma Urea Nitrogen and Fertility
+Although poorly understood, heat stress increases circulating plasma urea nitrogen
+(PUN) concentrations (Shwartz et al. 2009; Rhoads et al. 2009). This phenomenon
+may be a consequence of increased skeletal muscle breakdown rather than sub-
+optimal rumen nitrogen efﬁciency. A better indicator of muscle catabolism is
+3-methyl-histidine, which is reported to increase in heat stressed poultry and is not
+caused by heat-induced reduced DMI (Yunianto et al. 1997). Direct effects of heat
+stress on muscle breakdown (3-methyl-histidine or creatine) have been reported in
+exercising men (Febbraio 2001), rabbits (Marder et al. 1990), and lactating cows
+(Schneider et al. 1988; Kamiya et al. 2006). Other factors that may contribute to
+increased PUN are increased digestibility of the diet (due to decreased passage
+rate; West 1999) and decreased blood ﬂow to the kidneys for urea excretion
+(Kenney and Musch 2004; Lee et al. 2005). The end result of these physiological
+changes is elevated PUN concentrations in heat stressed cows, irrespective of
+changes in diet formulation or declining DMI.
+The conception rates of both dairy cows and heifers plummet dramatically in
+response to elevated PUN concentrations (Ferguson et al. 1988, 1993; Elrod and
+Butler 1993; Butler et al. 1996). Reproductive processes that are likely to be affected
+by excess PUN concentrations include follicular, luteal, and embryonic develop-
+ment. Circulating urea concentrations equilibrate within reproductive ﬂuids and
+increase proportionally with increasing concentrations of PUN (Leroy et al. 2004;
+Hammon et al. 2005). Elevated urea concentrations within the uterus may affect
+embryonic development and survival by altering the uterine environment (especially
+secretory activity). For example, uterine luminal pH on day 7 after estrus is slightly
+lower in cows with high PUN concentrations (Elrod and Butler 1993; Elrod et al.
+1993; Rhoads et al. 2004) During embryo culture, lowering the pH of the culture
+media to similar levels reduced cleavage rates and almost completely inhibited the
+development of embryos to the blastocyst stage (Ocon and Hansen 2003). When
+embryos were ﬂushed from donor cows consuming high or low protein diets, no
+quantitative or qualitative differences were observed (Garcia-Bojalil et al. 1994;
+Rhoads et al. 2006). However, appearances can be deceiving: when those embryos
+were transferred, those collected from the high PUN donors resulted in fewer
+pregnancies than the embryos collected from moderate PUN donors (11 vs. 35%
+pregnancy rate). Interestingly, there were no differences in pregnancy rate based on
+15 Impact of Climate Change on Livestock Production 423
+the PUN concentrations of the recipient animals (Rhoads et al. 2006). Since preg-
+nancy rates were only affected by the PUN concentrations of the donor animals, we
+can conclude that either the oocyte or embryo is damaged by high PUN concentra-
+tions on or before day 7 of pregnancy (the day that embryos were collected from
+donors), resulting in decreased long-term viability. Similar effects on embryonic
+development have been reported in ewes (Bishonga et al. 1996). Mechanistically, the
+embryos from ewes fed with high urea diets used more glucose and experienced up to
+a 2.8-fold increase in metabolic rate compared to embryos from ewes fed with low
+urea diets (McEvoy et al. 1997). The availability of nutrients to the embryo that
+would be needed to support such an accelerated metabolic rate may be a factor
+contributing to the observed decrease in embryo survival.
+15.3.4 Heat Stress, Reproduction, and Heat Shock Proteins
+The impact of increased environmental temperature on mammalian reproduction are
+well recognized and include detrimental effects on oogenesis (Putney et al. 1989),
+spermatogenesis (Kunavongkrit et al. 2005), puberty suppression (Kurowicka et al.
+2006), ovulation (Rozenboim et al. 2007), conception (Christenson 1980; Putney
+et al. 1989), and embryogenesis (Putney et al. 1989; Hansen 2009). This section will
+highlight impacts of hyperthermia on signaling mechanisms and speciﬁcally
+heat shock proteins (HSP) in reproductive tissues. It is also important to mention
+detrimental effects of elevated body temperature on male reproductive function.
+The testis is located in a scrotal sacral pouch which is designed to maintain the
+temperature at a lower temperature than the body *34–35/C176C. This reduced tem-
+perature is vital for spermatogenesis to occur (Martti 1967) because elevated body
+temperatures can have detrimental effects on male reproductive function. Damage to
+spermatocytes and spermatids occurs at temperatures of 43/C176C for 15 min, while a
+further two degree increase results in widespread damage and germ cell apoptosis
+(Jegou et al. 1984). Recovery of spermatogenesis takes approximately 50 days after
+thermal stress (Setchell 1998); however, if the primary germ cells are destroyed, the
+damage can be permanent. Hyperthermia can also impact male hormone production
+(Kuhn-Velten 1996).
+It is proposed that ghrelin is thought to play a role in counteracting hyper-
+thermia-induced testicular damage. For example, ghrelin is hypothesized to act as
+an endogenous antioxidant by increasing antioxidant enzyme activity and to
+reduce lipid peroxidation in the testis and ovary (Kheradmand et al. 2009a, b, c,
+2010). In addition, ghrelin partially reverses the negative effects of heat stress on
+testicular and epididymal mass, testicular germ cells, and mitotic activity of
+seminiferous tubules (Kheradmand et al. 2011).
+The heat shock response that mediates the detrimental effects of hyperthermia
+can also be activated in response to other stressors, such as chemical exposures.
+HSP are the central mediators in the heat shock response and have been classiﬁed
+into seven groups based on their functional role: (1) the molecular chaperones
+424 L. H. Baumgard et al.
+(Ellis et al. 1989), (2) proteolytic enzymes, (3) DNA and RNA modifying enzymes
+alterations (Jantschitsch and Trautinger 2003), (4) metabolic enzymes (Voit and
+Radivoyevitch 2000; Malmendal et al. 2006), (5) regulatory proteins (Al Refaii
+and Alix 2009), (6) cellular structural proteins, e.g., cytoskeletal proteins, and (7)
+transport, detoxifying, membrane-modulating proteins (Welker et al. 2010).
+Across species, approximately 50–200 of these proteins are upregulated in
+response to thermal stress (Richter et al. 2010). The HSP genes that were upreg-
+ulated are classiﬁed into the seven HSP groups described above. It is noteworthy
+that no genes involved in DNA/RNA repair were altered. It is also worth noting
+that these cells were a transformed lymphoma cell line, and therefore results may
+not accurately represent changes to HPS’s that occur in normal, non-diseased cells.
+Additionally, this was a mild heat stress for a short period of time; however, it is
+notable that there were changes in 104 genes, and that many of these genes have a
+known function in mediating the heat shock response (Tabuchi et al. 2008). This
+family of proteins, which include several subgroups, is classiﬁed based on their
+molecular weights. A transcription factor, heat shock factor (Hsf1), is a critical
+regulator of the heat shock response (Wu 1984; Wu et al. 1986). Hsf1 binds to the
+heat shock element in target genes to initiate transcription.
+15.3.4.1 Role of Heat Shock Protein in Reproduction
+Hsp90: In Drosophila, HSP90 mutant alleles have a variety of ovarian defects,
+including blocked egg chambers, problems in transfer of nurse cell cytoplasm into
+the developing oocytes, decreased nuclear degeneration at end of dumping pro-
+cess, and smaller size of mature eggs (Pisa et al. 2009). HSP90 is thought to
+regulate the estrogen receptor (ER) (Ruden et al. 2005) and has been demonstrated
+to inhibit aromatase expression in bovine dominant follicles (Driancourt et al.
+1999). Since aromatase is a critical enzyme in Estradiol synthesis, HSP90 may
+play a role in ovarian steroidogenesis. A role for auto-antibodies in HSP90 in
+premature ovarian failure (POF) patients has recently been demonstrated (Pires
+and Khole 2009). In cows, HSP90 has a widespread ovarian distribution (Velaz-
+quez et al. 2010), and has been shown to be unaffected by thermal stress in bovine
+follicular ﬂuid (Guzeloglu et al. 2001). HSP90, therefore, is known to be important
+for ovarian function although the effect of thermal stress on its expression and
+activity remains unclear.
+Hsp70: HSP70 plays an important function in refolding misfolded proteins and
+directing those misfolded proteins that are beyond repair toward apoptosis (Weber
+and Janz 2001). Conversely, HSP70 has an anti-apoptotic role (Mallouk et al.
+1999; Beere 2004) and is increased in ovarian tertiary follicles relative to primary
+and secondary follicles (Velazquez et al. 2010). Bovine cystic follicles have
+increased expression of HSP70 relative to healthy follicles (Velazquez et al. 2010),
+and HSP70 was increased in heat shocked rat (Narayansingh et al. 2004) and quail
+(Sahin et al. 2009). In porcine ovaries, HSP70 protein is expressed in granulosa
+cells and is elevated in response to high temperatures (Sirotkin and Bauer 2011).
+15 Impact of Climate Change on Livestock Production 425
+Further, thermal stress increases the stability of Hsp70 mRNA (Theodorakis and
+Morimoto 1987), and may represent a protective event in the ovary. In contrast to a
+protective ovarian role, elevated HSP70 is associated with complications during
+pregnancy (Molvarec et al. 2010). Increased circulating HSP70 is found in human
+patients with pre-eclampsia (Padmini and Lavanya 2011) and in those who
+experience preterm labor (Molvarec et al. 2010).
+Mutation of the gene encoding HSP70 leads to defects in spermatogenesis and
+causes arrest at prophase I phase of meiosis, resulting in loss of spermatocytes by
+apoptosis (Mori et al. 1997). Also, loss of DNAJA1, which is a co-chaperone of
+HSP70, causes severe spermatogenesis defects (Terada et al. 2005).
+Hsp60: HSP60 is localized to the human uterus and fallopian tube (Lachance
+et al. 2007). Additionally, the role of HSP60 in placental steroidogenesis has been
+determined (Olvera-Sanchez et al. 2011). In Drosophila, Hsp60C is expressed
+during oogenesis and lack of Hsp60C results in severe oogenesis defects and
+female sterility (Sarkar and Lakhotia 2008). In mice, lack of Hsp60 is embryon-
+ically lethal (Christensen et al. 2010), while heterozygosity for the mutant allele
+results in increased numbers of male offspring due to altered genotype of sper-
+matogonia (Christensen et al. 2010).
+In males, HSP60 is located in spermatogonia in the seminiferous tubule,
+interstitial cells, and in the mid-piece region of sperm cells (indicating a mito-
+chondrial location) (Lachance et al. 2010). Interestingly, LPS/endotoxin exposure
+increases testicular HSP60 expression (Metukuri et al. 2010).
+Small heat shock proteins (sHSPs): sHSPs including HSP27 have been studied
+in female reproductive tissues and is highly expressed in the corpus luteum during
+pregnancy in rats (Maizels et al. 1998). In the ovary, HSP27 is localized to the
+oocyte cytoplasm and nucleus. During oocyte maturation, HSP27 increases dra-
+matically, and injection of HSP27 into mouse oocytes increased the rate of GVBD
+(Liu et al. 2010). Similar to HSP70, expression of HSP27 is increased in placentas
+from pre-eclamptic women (Alterovitz et al. 2010), and may have a pathogenic
+role during pregnancy.
+HSPA4 is detected in many adult tissues with highest expression level in the
+spleen, testis, and ovary (Kaneko et al. 1997). Lack of Hspa4 results in impaired
+male fertility (Held et al. 2011) with reduced spermatozoa and testicular defects.
+It is clear that a number of proteins in the HSP family play important roles in
+reproduction, regardless of hyperthermia. The role of individual HSPs during
+hyperthermia exposure remains to be clearly delineated.
+15.4 Epigenetics
+Literally translated to mean ‘‘above the genome’’, the study of epigenetics is the
+study of DNA modiﬁcations capable of impacting gene expression, and subse-
+quently the cellular phenotype that is not a result of differences in DNA base pair
+sequence. Modiﬁcations which impact the ‘epigenetic code’ include DNA
+426 L. H. Baumgard et al.
+methylation, histone regulation, chromatin state, miRNA expression, etc. Prenatal
+and postnatal environmental factors can alter the epigenetic proﬁle thereby altering
+future cell-speciﬁc responses to environmental stimuli and metabolic conditions.
+These changes may be transient or static and can be heritable for multiple gen-
+erations. The type of epigenetic modiﬁcation determines the duration and nature of
+the epigenetic response.
+15.4.1 DNA Methylation
+Methylation is a stable, long-lasting DNA modiﬁcation that can be inherited by
+offspring or acquired throughout an animal’s lifetime. DNA is methylated by the
+enzymatic transfer of a methyl group from the methyl donor, S-adenosyl methio-
+nine, through the action of DNA methyltransferases (DNMTs). Methylation often
+occurs by addition of a methyl group to the cytosine of CpG dinucleotides,
+the cytosine- and guanine-rich regions located upstream of gene promoters.
+Hypermethylation of CpG islands in promoter regions of genes typically suppresses
+gene expression through recruitment of DNA binding proteins that result in inter-
+ference of transcription factors causing transcriptional repression. Alternatively,
+non-CpG methylation of DNA can confer more variable regulation patterns. Two
+classes of DNMTs exist with the distinct purposes of de novo or maintenance
+methylation (Klose and Bird 2006). Maintenance methylation is essential for
+copying existing methylation patterns during replication and development. De novo
+methylation, in contrast, introduces new methylation patterns to previously unme-
+thylated DNA. De novo methylation may occur in response to environmental stress
+and is therefore a possible mechanism for potentiating a long-term or imprinted
+response to stress.
+15.4.2 Histone Modiﬁcations
+Histone modiﬁcations alter gene expression through regulation of histone inter-
+actions with DNA and control of histone structure. Histones modiﬁcations, unlike
+DNA methylation, can be reversible or static (Turner 2007). The primary post-
+translational modiﬁcations of histones are acetylation, methylation, and phos-
+phorylation. Acetylation is catalyzed by histone acyltransferases (HATs) and
+generally acts to weaken the histone-DNA bond thereby promoting transcription.
+Acetylation primarily targets lysine residues and can be reversed, or deacetylated,
+by histone deacetylases (HDACs). HDACs restore the interaction between DNA
+and histones causing repression of transcription. Phosphorylation of histones tar-
+gets serine and threonine residues and is controlled by the opposing action of
+kinases and phosphatases. It is currently unknown how phosphorylation alters
+histone function. Histone methylation of lysine and arginine is reversibly regulated
+15 Impact of Climate Change on Livestock Production 427
+by methyltransferases and demethylases. Methylated residues can be mono, di, or
+trimethylated. Less common histone modiﬁcations also modify histone function
+including ubiquitylation, sumoylation, and ADP ribosylation. Histone modiﬁca-
+tions can impact histone-DNA binding and regulate further histone modiﬁcations.
+15.4.3 Chromatin State
+The regulation of histone structure by the covalent modiﬁcations described above
+has a direct impact on chromatin state. Typically, chromatin exists in one of two
+states: the restricted state, heterochromatin or the relaxed state, euchromatin. While
+distinct associations have not been made between speciﬁc histone modiﬁcations and
+chromatin state, it is clear that chromatin state impacts gene expression.
+15.4.4 miRNA
+miRNA are 18–25 nucleotide non-coding RNAs that confer post-transcriptional
+gene regulation (PTGR) following binding with speciﬁc regions on the target mRNA
+which results primarily in mRNA degradation and/or translational repression.
+Although miRNA is not classically considered in an epigenetic event, miRNA is able
+to participate in epigenetic regulation through a feedback loop with the epigenetic
+regulators, DNMTs and HDACs (Sato et al. 2011). In this regulatory circuit, the
+expression of miRNAs is regulated epigenetically by DNMTs and HDACs. Subse-
+quently, miRNAs regulate transcript expression of DNMTs and HDACs.
+15.4.5 Genomic Imprinting
+Following fertilization, both paternal and maternal genomes undergo global
+demethylation yielding a one cell totipotent zygote. As development progresses
+through a series of holoblastic cleavages, cells begin differentiation leading them
+toward speciﬁc cell lineages (Reik 2007). The mechanism controlling the
+molecular programming of these cells is not well understood but is largely
+attributed to differences in DNA methylation of CpG islands as well as alterations
+in histone methylation and acetylation patterns (Kelly and Trasler 2004).
+Continued differentiation and programming of cells during prenatal development
+is largely the result of continued modiﬁcations of DNA methylation patterns.
+During cellular differentiation, epigenetic modiﬁcations can be altered while
+others remain more permanent, such is the basis of numerous disease statuses as
+the result of abnormal epigenetic imprints. Functionally, epigenetic modiﬁcations
+can improve the plasticity of the genome to improve responses to speciﬁc
+428 L. H. Baumgard et al.
+environmental conditions. We hypothesize that epigenetic modiﬁcations estab-
+lished in utero in response to maternal heat stress can inﬂuence the postnatal
+development.
+15.4.6 Epigenetic Response to Heat Stress
+Heat stress during early postnatal development has been shown to cause histone
+modiﬁcations that extend into adulthood. This epigenetic conditioning then results
+in thermotolerance to heat stress later in life. This phenomenon has been best
+demonstrated in chickens, where heat stress at 3 days of age conferred protection
+against acute heat stress-related mortality during adulthood (Yahav and McMurtry
+2001). This protective effect has been characterized by analysis of histone modi-
+ﬁcations and resulting epigenetic memory (Kisliouk et al. 2010). In chickens that
+were acutely heat stressed 3 days post hatching and again 1 week later, increases
+in H3K9 acetylation and H3K9 dimethylation were observed during heat stress
+exposure at developmental stage. Histone modiﬁcations in response to chronic heat
+stress have also been reported in rodents (Tetievsky and Horowitz 2010). In this
+study, histone H3 phosphorylation and subsequent H4 acetylation occurred in the
+promoters of Hsp-70 and Hsp-90 after heat acclimation. This resulted in a cyto-
+protective effect that was mediated through constitutively elevated expression
+of HSP-70 and increased HSP-90 protein in response to heat acclimation and
+reacclimation. This cytoprotective response to heat stress has been replicated in
+cell culture where a conditioning heat load increased survival of mouse ﬁbroblasts
+in response to a lethal heat load (Luft et al. 2001).
+15.4.7 Evidence of Epigenetically Programmed Response
+to Maternal Stress
+15.4.7.1 Intrauterine Growth Restriction
+Intrauterine growth restriction (IUGR) is caused by insufﬁcient fetal nutrient and
+oxygen supply and placental development and has been associated with low birth
+weight and numerous adverse outcomes in affected offspring. The epigenetic
+programming that occurs in IUGR has been studied primarily in rodent models.
+Characterization of experimental-induced IUGR in rodents revealed global
+genome-wide hypomethylation and respective perturbations in methyl group
+metabolism in the liver (MacLennan et al. 2004). In pancreatic islets, experi-
+mentally induced IUGR caused alterations in the methylation proﬁle and
+histone modiﬁcation of genes responsible for insulin and glucose regulation
+(Raychaudhuri et al. 2008; Thompson et al. 2010). Many metabolic consequences
+have been reported in response to IUGR in rodents, humans, and agricultural
+15 Impact of Climate Change on Livestock Production 429
+species. IUGR and nutrient malnutrition prior to weaning caused impaired beta
+cell development in rats which is retained into adult life (Garofano et al. 1998). At
+9 months of age, the effects of IUGR resulted in upregulation of hepatic lipogenic
+transcription factors and enzymes as well as upregulation of hepatic CRP
+expression in rats (Magee et al. 2008).
+15.4.7.2 Metabolic and Hormonal Imprinting
+Similar to IUGR, metabolic imprinting describes a lasting epigenetic imprint in
+response to the prenatal metabolic environment (Waterland and Garza 1999). This
+imprint is characterized by changes in organ and tissue structure, cell number, and
+differentiation. The phenomenon of metabolic imprinting is best illustrated by
+Csaba et al. (1984). In this study, the injection of parental rats with insulin altered
+the offspring’s response to insulin. Metabolic and hormonal imprinting has since
+been demonstrated through the study of obesity-prone offspring born from diabetic
+mothers in rodents and humans (Poston 2011).
+15.4.7.3 Maternal Heat Stress
+Epigenetic programming and hormonal changes in IUGR animals is somewhat
+similar to that observed in animals exposed to prenatal heat stress. This change is
+likely a result of alterations in metabolism, uterine blood ﬂow, and reproduction
+caused by heat stress. The effects of maternal heat stress on offspring may range from
+developmental deﬁcits to an altered response to heat stress later in life. In mice and
+guinea pigs, prenatal exposure to heat stress resulted in reduced postnatal weight
+gain and smaller brain weights that lasted into maturation (Jonson et al. 1976;
+Shiota and Kayamura 1989). The cause of suboptimal postnatal performance in mice
+exposed to prenatal heat stress has been suggested to be due to interference with
+establishment of the hypothalamic pituitary axis. In mouse embryos, a gene-speciﬁc
+DNA methylation imprint of heat was observed following heat stress (Zhu et al.
+2008). As we continue to expand our knowledge of the effects of maternal heat stress
+and its imprint on future generations, epigenetic regulation will likely be a major
+contributor.
+15.4.8 Species-Speciﬁc Evidence of Maternal Stress-Induced
+Epigenetic Imprinting
+In agricultural species, the postnatal effects of prenatal stresses have not been well
+characterized. The majority of research on epigenetic regulation in response to
+maternal stressors has been done in pigs and sheep. Although there is little direct
+evidence suggesting that heat stress in utero confers an epigenetically mediated
+430 L. H. Baumgard et al.
+response to heat in later life, there is ample evidence of stress-induced epigenetic
+changes in these species.
+15.4.8.1 Swine
+Heat stress in swine has signiﬁcant impact on reproductive performance.
+In addition to decreased fertility, prenatal stress can also result in IUGR that can
+result in further losses as piglets born during periods of maternal stress have
+diminished performance in postnatal life.
+The concept of IUGR impacting both fetal and postnatal development in pigs
+has been studied by Foxcroft et al. IUGR in pigs has lasting effects on growth
+potential and carcass quality (Foxcroft et al. 2006, 2009). In addition to IUGR,
+maternal diet has been demonstrated to impact postnatal performance of piglets.
+Supplementing gestating sow diets with omega three fatty acids improved glucose
+uptake in offspring (Gabler et al. 2009). Moreover, maternal stress may also result
+in an imprint on immune response. Exposure to maternal restraint stress caused a
+greater inﬂammatory response to endotoxin challenge in offspring (Collier et al.
+2011).
+15.4.8.2 Sheep
+IUGR has also been studied in sheep, and it has been demonstrated that IUGR by
+nutrient restriction alters the offspring’s response to similar undernutrition during
+gestation later in life (Kiani et al. 2008). Speciﬁcally, ewes that experienced IUGR
+in fetal life have an impaired ability to adjust energy expenditure in response to
+energy restriction during gestation. An impact of maternal heat stress has also been
+reported in sheep. Prenatal heat stress in lambs caused reduced uterine blood ﬂow
+and resulted in decreased birth weights and tissue weights (Dreiling et al. 1991).
+In addition, seasonal differences in tissue development have been observed
+between lambs born in the spring vs. autumn (McCoard et al. 1997).
+15.5 Gastrointestinal Tract
+15.5.1 Barrier Function and Integrity
+The main functions of the gastrointestinal tract (GIT) are to facilitate digestion and
+absorption of water and nutrients as well as maintain barrier integrity and
+immunity. The GIT achieves this by maintaining critical epithelial barriers which
+normally prevent passage of unwanted luminal contents and pathogens from
+entering the body, while allowing passage of ions, nutrients, and water. Thus, the
+intestines form a major physical barrier to prevent pathogens and toxic compounds
+15 Impact of Climate Change on Livestock Production 431
+from entering the mucosa and circulation, while simultaneously activating the
+acquired and innate immune systems. This is largely dependent on junction
+complexes connecting enterocytes together via well-organized intercellular array
+of tight junctions, adhesion junctions, and desmosomes surrounding the apical
+region of epithelial cells. Cell to cell adhesion and tight junctions are regulated by
+the membrane spanning proteins claudin, occluding, zonula occudens-1 and 2
+(ZO-1, ZO-2) and cingulin (Oswald 2006; Shen et al. 2011). Additionally, adhe-
+sion junction proteins such as E-cadherin, also contribute to gut integrity. Inter-
+estingly, these tight junctions undergo constant remodeling and are dynamic in
+nature (Shen et al. 2008).
+Little is known about the direct or indirect effects of heat stress on tight junction
+complexes and barrier integrity in livestock. However, one of the most consistent
+effects of heat stress on livestock is the rapid damage and death of the intestinal
+epithelial surface and sloughing of the epithelial layer (Liu et al. 2009; Yu et al.
+2010). As a result, heat stress is associated with leaky epithelial barrier and
+increased intestinal permeability, especially endotoxin or lipopolysaccharides
+(LPS) (Lambert 2004, 2009). Furthermore, as a result of epithelial damage,
+intestinal morphology is altered during heat stress with villi and crypts being
+shortened (Table 15.1). Mechanistically, in vitro studies in Caco-2 cells indicated
+that heat stress directly alters tight junction protein expression and localization,
+leading to increased barrier dysfunction (Dokladny et al. 2006, 2008). The increase
+in occludin expression was blunted when cells were heated and given a HSP
+inhibitor. Furthermore, the decrease in barrier integrity and increased permeability
+may be explained by the upregulation of myosin light chain kinase (MLCK) (Yang
+et al. 2007). MLCK directly phosphorylates the regulatory light chain of type 2
+myosin (MLC) resulting in the contraction of the actin cytoskeleton in the tight
+junction complex (Turner 2006). As actin ﬁlaments regulate tight junction adhe-
+sion, contraction of these ﬁlaments ultimately leads to tight junction openings,
+aiding in paracellular ﬂux (Yang et al. 2007). Therefore, it is hypothesized that
+heat stress activates MLCK and phosphorylates MLC resulting in the opening of
+tight junctions and intestinal permeability.
+Further evidence suggest that during heat stress there is reduced blood ﬂow to
+the GIT causing tissue hypoxia, ATP depletion, intracellular acidosis, and altered
+Table 15.1 Effects of heat stress on intestinal morphology measures in various species
+Species Villous height Crypt depth References
+Pigs Decreased Decreased Yu et al. (2010)
+Pigs Decreased Decreased Liu et al. (2009)
+Broilers No change No change Quinteiro-Filho et al. (2010)
+Broilers No change Decrease Burkholder et al. (2008)
+Broilers Decrease – Garriga et al. (2006)
+Quail Decrease Decrease Sandkc et al. (2004)
+Fowl Decrease – Mitchell and Carlisle (1992)
+432 L. H. Baumgard et al.
+ion pump activity (Hall et al. 1999). Depletion of ATP and intracellular acidosis
+jeopardizes tight junctions of the intestinal epithelium and this can result in
+bacterial and LPS translocation from the lumen into circulation. In addition, sepsis
+(Li et al. 2009; Zhang et al. 2010a, b), LPS (Albin et al. 2007; Chakravortty and
+Kumar 1999), hypoxia (Qi et al. 2011), and metabolic stress (Keller et al. 1992;
+Lewis and McKay 2009; Muckter et al. 1987) have all been shown to compromise
+intestinal epithelial barrier function via decreased transepithelial electrical resis-
+tance (TER), intestinal integrity, or junction protein reorganization. Interestingly,
+all of these factors are commonly found in animals undergoing heat stress or heat
+stroke and signiﬁcantly contribute to altered intestinal function and integrity
+(Fig. 15.2).
+Luminal bacteria present in the GIT serve as a major source of LPS/endotoxin
+(Ravin et al. 1960; Schweinburg and Fine 1960; Wiznitzer et al. 1960). As such,
+increased intestinal permeability due to heat stress augments circulating endo-
+toxin concentrations in a variety of species (DuBose et al. 1983; Hall et al. 1999;
+Singleton and Wischmeyer 2006; Lambert 2008, 2009). However, little is known
+about whether heat stress increases circulating LPS in livestock species, but the
+consequences of LPS/endotoxin on animal performance and health is well
+documented. LPS is a potent immune stimulator (Frost and Lang 2002; Webel
+et al. 1997) that is recognized by the pattern recognition receptor, toll-like
+receptor 4 (TLR4), and the other proteins such as LPS binding protein (LBP),
+Fig. 15.2 Response of the gastrointestinal tract (GIT) to heat stress in livestock and events that
+lead to reduced production, performance, and health
+15 Impact of Climate Change on Livestock Production 433
+CD14, and MD-2 (Hornef et al. 2003; Neal et al. 2006). Once recognized, LPS
+activates the immune system, leading to inﬂammation, septicemia, and eventu-
+ally death (if severe enough; Zweifach and Janoff 1965; Rice et al. 2003). For
+livestock, an activated immune system negatively affects productivity because
+energy and other nutrients are partitioned and utilized to support the immune
+modulation rather than anabolic processes (Johnson 1997; Spurlock 1997; Gabler
+and Spurlock 2008).
+15.5.2 Appetite, Digestibility, and Nutrient Transport
+The negative impact of voluntary feed intake in livestock subjected to high
+environmental heat loads is well established (Bhattacharya and Hussain 1974;
+Dale and Fuller 1980; Mohammed and Johnson 1985; McGuire et al. 1989; Collin
+et al. 2001; Renaudeau and Noblet 2001; Patience et al. 2005; O’Brien et al. 2010).
+Heat stressed livestock reduce their feed intake in order to maintain homeothermy
+since the process of digestion, absorption, and metabolism of feed produces
+metabolic heat. The decrease in feed intake may partially explain a proportion of
+the weight loss or lack of body weight gain, reduced milk production, and decline
+in other performance parameters observed in thermally challenged livestock
+(Baumgard and Rhoads 2012). Feed intake is inﬂuenced by a number of factors
+and is very sensitive to environmental conditions. With the selection for more
+efﬁcient and higher yielding genotypes, increasing nutrient intake to support
+high levels of production may render animals more sensitive to environmental
+conditions.
+Compared to TN-housed pigs, apparent total track digestibility coefﬁcients for
+energy, nitrogen, and dry matter are increased in pigs reared at 33/C176C (Collin et al.
+2001). However, if corrected for equal feed intake (heat-stressed animals ate less)
+there was no effect of climate on digestibility. This is in agreement with
+other species in which no differences were observed in total track digestibility
+coefﬁcients (once corrected for feed intake; laying hens, Koelkebeck et al. 1998;
+quail, Sahin and Kucuk 2003; dairy, Kim et al. 2010; beef, White et al. 1992)
+during heat stress. On the contrary, heat stressed sheep have reduced digesta
+passage rates, neutral detergent ﬁber (NDF), acid detergent ﬁber, and non-struc-
+tural carbohydrates digestibility coefﬁcients (Bernabucci et al. 2009). This may be
+due to changes in the cellulolytic and amylolytic rumen bacterial populations
+following exposure to climatic stress.
+The GIT is the major site of nutrient uptake and intestinal nutrient absorption is
+highly susceptible to modiﬁcation following exposure to environmental stress.
+Glucose and fructose are the major sugars present in the gut lumen. Glucose
+transport in the jejunum occurs via the apical sodium-dependent glucose
+co-transporter (SGLT1) and the basolateral glucose transporter (GLUT) 2, whereas
+fructose is absorbed from the lumen by the way of GLUT5 (Kellett 2001; Kellett
+and Brot-Laroche 2005). Similar to many amino acid transporters, SGLT1 is an
+434 L. H. Baumgard et al.
+active transporter that requires Na+ cation gradient to transport glucose (Ray et al.
+2002). Na+/K+ ATPase pumps on the basolateral membrane restores and main-
+tains these Na+ gradient and disruption of intestinal Na+/K+ ATPase can inhibit
+sugar absorption and glucose transporter mRNA in rodents (Ai et al. 2004).
+Interestingly, intestinal Na+/K+ ATPase activities are either unchanged (Garriga
+et al. 2006) or increased (Chen et al. 1994) due to heat stress in broilers. Heat stress
+may have two effects on an animal’s GIT. Firstly, increased ion pump activity
+helps to maintain cellular osmolality and homeostasis. Secondly, increased ion
+pump activity helps to maintain membrane potential and active nutrient transport.
+Garriga et al. (2006) reported that heat stress increased intestinal glucose transport
+kinetics in broilers. The fact that they did not observe this in a pair-fed control
+group indicates this was mainly due to the thermal effect of feeding and not feed
+restriction. Additionally, the increase in SGLT-1 protein expression partially
+explains this phenomenon.
+The nutrient transport function of the GIT decreases when the intestine is under
+inﬂammatory or metabolic stress. Studies show that glucose, lysine, arginine, and
+glutamine transport is reduced under LPS challenge in pigs and culture, respec-
+tively (Meng et al. 2005; Albin et al. 2007). While the animal is trying to ﬁght the
+cause of the stress, the GIT reduces its ability to transport the necessary nutrients
+to mount an effective immune response. In turn there is increased skeletal muscle
+degradation and an upregulation of catabolic processes that are required to fuel the
+immune response (Webel et al. 1998). There are two proposed mechanisms
+through which the nutrient transport under an inﬂammatory stress might be con-
+trolled. First, the inﬂammatory cytokines secreted following immune challenge
+prevents food intake and nutrient transport by acting on the growth hormone axis
+(Johnson 1997, 1998). Second, LPS and other TLR4 ligands such as saturated fatty
+acids activate the enteroendocrine cells which act as a nutrient sensor in the
+intestine. This leads to the secretion of appetite regulating peptides such as CCK
+and GLP-1 from the enteroendocrine cells which acts on the satiety centers in the
+hypothalamus which ultimately results in reduced nutrient absorption from the
+intestine (Bogunovic et al. 2007; de Lartigue et al. 2011). While this increase in
+satiety peptide secretion has been shown in the cell lines, further research is
+needed to prove this theory in vivo. Apart from the direct damage to the intestinal
+epithelium, heat stress can lead to an increase in intracellular calcium ([Ca2+]i) in
+myocytes (Chen et al. 2010). Importantly, and plausibly, an increase in Ca2+i leads
+to activation of different signaling cascades and cellular processes leading
+to augmented secretion of intestinal peptides such as glucagon-like peptide 1
+(GLP-1), peptide YY (PYY), gastric inhibitory polypeptide (GIP), and cholecys-
+tokinin (CCK) (Chen et al. 2006; Sternini et al. 2008). Increased secretion of these
+peptides is associated with decreased gastric emptying, intestinal motility, and
+suppressed appetite. Therefore, the large rise in the rate of potassium ﬂux due to
+hyperthermia could depolarize the cell and cause increased porosome secretion of
+appetite regulatory peptides. This could partially explain the reduction in feed
+intake in livestock species subjected to heat stress.
+15 Impact of Climate Change on Livestock Production 435
+15.6 Impact of Climate Change on Disease occurrence
+in Livestock
+The livestock sector accounts for 40% of the world’s agricultural Gross Domestic
+Product (GDP) and 1.3 billion people depend upon livestock husbandry for their
+livelihood (FAO 2006). Moreover, global demand for foods of animal origin is
+steadily growing and it is apparent that the livestock sector will continue to expand
+accordingly (FAO 2009). Livestock productivity is heavily inﬂuenced by the
+animal’s environment. Climate change (CC) impacts agricultural production
+because climate provides essential inputs (water, solar radiation, and temperature)
+needed for plant and animal growth. CC is a major threat to the survival of many
+species, ecosystems, and the sustainability of livestock production systems (Moss
+et al. 2000). The majority of animal species presumably prefer to be in their natural
+habitat so that they minimize the energy expense during the process of adaptation
+to harsh climatic conditions. The Intergovernmental Panel on Climate Change
+(IPCC) has declared that global warming is responsible for many environmental
+changes such as drought, ﬂood, crop and animal farming, food production, health
+hazards, etc. CC affects livestock productivity by the following (1) price and
+availability of grain (2) production and quality of forage and pastures (3) changing
+patterns of livestock diseases, and (4) direct effect of weather on livestock health
+(Smit et al. 1996).
+Global CC alters ecological construction which causes both the geographical
+and phonological shifts (Van den Bossche and Coetzer 2008; Slenning 2010).
+These shifts affect the efﬁciency and transmission pattern of the pathogen and
+increase their spectrum in the hosts (Brooks and Hoberg 2007). Increased spectrum
+of pathogen increase the disease susceptibility of the animal and thus CC supports
+the pathogenicity of the causative agent. Heavy rainfall causes ﬂood and increases
+atmospheric humidity which results in favorable condition for the proliferation of
+pathogen, ticks, ﬂies, and mosquitoes. These pathogens and insects may serve as
+vector or invader for the transmission of diseases in humans and livestock. Recent
+disease outbreaks are consistent with model projections that warmer and wetter
+conditions lead to greater transmission potential even at high altitudes and eleva-
+tions. Mosquito-borne diseases are now reported at higher elevations than in the past
+at sites in Asia, Central Africa, and Latin America (Epstein et al. 1998). Environ-
+mental changes caused either by natural phenomenon or anthropogenic interference
+changes the ecological balance and context within which disease hosts or vectors
+and parasites breed, develop, and transmit disease (Patz et al. 2000). CC affects the
+occurrence and spread of disease by impacting the population size and range of hosts
+and pathogens, the length of the transmission season, and the timing and intensity of
+outbreaks (Epstein et al. 1998; Epstein 1999). Pathogens from terrestrial and marine
+texa are sensitive to hot temperature, heavy rainfall, and humidity. Climate warming
+can increase pathogen development and survival rates, disease transmission, and
+host susceptibility (Harvell et al. 2002). Understanding the spatial scale and tem-
+poral pattern of disease incidence is a fundamental prerequisite for the development
+436 L. H. Baumgard et al.
+of appropriate management and intervention strategies (Ward and Carpenter 2000;
+Koopmans et al. 2007; Rose et al. 2009). It is particularly important given the need
+to understand the elevated risks linked to CC (Rose and Wall 2011).
+Fig. 15.3 Strategies to minimize CC effect on disease occurrences in livestock
+15 Impact of Climate Change on Livestock Production 437
+15.6.1 Effects of Climate Change on Livestock Diseases
+CC inﬂuences several factors that cause livestock disease outbreaks. These factors
+are mainly associated with temperature rise, host pathogen interaction, farming
+practice, number of vectors/host/reservoirs, environmental factors and microhab-
+itats. Figure 15.3 describes various strategies that could be implemented to reduce
+the effect of changing climate on disease ocuurence.
+15.6.1.1 Climate Change and Disease Occurrence in Livestock
+Global warming, CC, and extreme weather events have an adverse effect on
+biodiversity, distribution of animals, and microﬂora, all of which may increase the
+likelihood of emerging zoonotic agents and infectious disease outbreaks (Sachan
+Fig. 15.4 Microbiological agents impacted by CC
+438 L. H. Baumgard et al.
+and Singh 2010). CC is expected to cause an increase in weather-related disasters
+and extreme weather events, such as droughts, heat waves, storms, desertiﬁcation,
+and increases in insect infestations. Long-term changes in climate will jeopardize
+the future of all animals. CC may be responsible for the emergence and prolif-
+eration of many disease such as malaria and zoonotic parasitic diseases including
+Leishmaniasis, cryptosporidiosis, giardiasis, trypanosomiasis, schistosomiasis,
+ﬁlariasis, onchocerciasis, and loiasis (Patz et al. 2000). The most sensitive diseases
+are those that are indirectly transmitted especially those that require vehicle for
+transfer from host to host (water- and food-borne disease) or an intermediate host
+or vector as part of its life cycle.
+Global CC predictions suggest that far-ranging effects might occur in the
+population dynamics and distributions of livestock parasites, provoking fears of
+widespread increases in disease incidence and production loss (Morgan and Wall
+2009). Livestock are sensitive to temperature variations and it is the major of cause
+of economic loss due to CC (Reilly et al. 2003). Increased temperature is the major
+cause of reduction in livestock productivity. Economic losses per year in USA
+have been estimated to be $2.4 billion with minimal heat stress abatement. Cli-
+matic restrictions on vectors, environmental habitats, and disease causing agents
+are important for understanding the outbreak of several animal diseases (Stem
+et al. 1989). Changes in temperature and precipitation regimes may result in spread
+of disease and parasites in new regions or produce high incidence of diseases with
+concomitant decrease in animal productivity and increase in mortality (Baker and
+Viglizzo 1998). Baylis and Githeko (2006) evaluated the effect of CC on parasites,
+pathogens, disease hosts, and disease vectors on domestic livestock. The potential
+clearly exists for increased rate of development of pathogens and parasites due to
+early arrival of spring and warmer winters and such seasonal change allows greater
+proliferation and survivability of these organisms. Warming and changes in
+rainfall distribution may lead to changes in spatial or temporal distributions of
+diseases such as anthrax, blackleg, hemorrhagic septicemia, and vector-borne
+diseases (VBD) that thrive in the presence of moisture. Figure 15.4 gives the
+representation of different types of bacterial, viral, and parasitic organisms that
+gets affected due to CC.
+15.6.1.2 Temperature and Rainfall
+Variations in temperature and rainfall are the two most signiﬁcant climatic vari-
+ables affecting livestock disease outbreaks. Increase in temperature and ﬂuctua-
+tions in rainfall patterns impact prevalence, proﬁles, and sustenance of disease
+pathogenic bacteria, viruses, parasites, and fungi (Tirado et al. 2010). Such
+changes also have an impact on microbial ecology and growth, plant and animal
+physiology, and host susceptibility which may result in the emergence, redistri-
+bution, and changes in the incidence and intensity of pest infestations, plant and
+animal diseases (FAO 2008). Warm temperatures tend to favor proliferation of
+exogenous bacteria and parasites whose survival and development depends on
+15 Impact of Climate Change on Livestock Production 439
+atmospheric temperature. Warmer temperatures tend to promote survivability,
+shorter development rates, and transmission better than colder temperatures.
+Insects such as mosquitoes and ticks that transmit disease agents may also beneﬁt
+from CC (Bradley et al. 2005; Randolph et al. 2008; Sumilo et al. 2009). Recently,
+Wall and Ellse (2011) contended that ‘‘a generally warmer environment will result
+in higher parasite abundance and increased disease incidence’’. This argument is
+reasonable given that insects such as biting ﬂies and ticks that transmit pathogenic
+microorganisms are more likely to survive a mild winter rather than a harsh one.
+15.6.2 Relationship Between Climate Change
+and Disease Susceptibility
+CC, in the present scenario, is an important driver for the emergence of infectious
+diseases in humans and animals (Wolfe et al. 2005; Chomel et al. 2007; Wool-
+house and Gaunt 2007; Jones et al. 2008; Reperant 2010). Warmer global tem-
+peratures will allow expansion of geographic range within which mosquitoes and
+parasites could survive with sufﬁcient abundance for sustained transmission.
+Model predictions indicate that a 3/C176C global temperature rise by 2100 could
+increase the number of annual malaria cases by 50–80 million (Martens et al.
+1995). CC is widening viral disease among farm animals, expanding the spread of
+some microbes that are pathogenic to humans. According to OIE, several countries
+are indicating that CC has been responsible for at least one emerging or
+re-emerging disease occurring in their territory. Little data exist to evaluate the
+effects of CC on infectious diseases in animals. However, some data exist from
+other parts of the world (Khasnis and Nettleman 2005; Epstein 2001a; Kutz et al.
+2005), and a recent report from the World Organization for Animal Health (OIE)
+addresses the impact of CC on the epidemiology and control of animal diseases
+(OIE 2008).
+Sensitivity of vectors to CC could change the range, season, and incidence of
+many zoonotic diseases (CDC 2008). Some example are: (1) Increased night
+temperature could increase the ﬂight activity of the vector for example malaria
+(Purse et al. 2005); (2) Night temperature could increase the replication and
+transmission cycle of viral pathogen (Baylis and Githeko 2006); (3) Cycle of
+massive humidity followed by drought provides breeding site of vector and
+pathogen facilitating them for disease outbreaks (Baylis and Githeko 2006); (4)
+Alteration in the precipitation range could help in the migration of arthropod
+vector to different landslides and convert the disease outbreaks from endemic to
+epidemic (Trape et al. 1996).
+440 L. H. Baumgard et al.
+Table 15.2 List of VBD of animals
+VBD Occurrence Vector Hosts
+African horse sickness Africa, Middle East, Europe Culicoides imicola and
+C.bolitinos
+Equine
+African swine fever Sub-Saharan Africa, Europe Ornithodoros tick species Swine
+Bluetongue Worldwide Culicoides midges Ruminants
+Crimean Congo-hemorrhagic fever Africa, Europe, Balkans, South Africa, and
+Asia
+Argasid ixodid ticks Wild and domestic animals
+(zoonosis)
+Equine encephalomyelitis (eastern and
+Western)
+Canada, Caribbean, North, South, and Central
+America
+Mosquito Equine, birds (zoonosis)
+Equine infecriousanaemia Worldwide Biting ﬂies, mosquitoes Equine
+Japanese encephalitis Asia, Australia, India Culex mosquito Pigs, birds (zoonosis)
+Lumpky skin disease Africa, South and North Africa, Isreal Arthopods Cattle, zebus, giraffe, impala
+Nairobi sheep disease East Africa Rhipicephalus ticks Sheep and Goats
+Rift valley fever Africa Mosquito Multiple species(zoonosis)
+Venezuelan equine encephalomyelitis North, Central, and South America Mosquito Equine (zoonosis)
+Vesicular stomatitis United States, Europe, South Africa Arthropods Mammals (zoonosis)
+West Nile fever Worldwide Mosquito Multiple species (zoonosis)
+Bovine anaplamosis Worldwide Tick species Cattle
+Bovine babesiosis Worldwide Tick species Cattle
+Tularemia North America, Europe, and Asia Arthropods Rodents, rabbits, hares
+Equine piroplasmosis Worldwide Ixodid Equine
+Heartwater Africa, West Indies Amblyomma tick species Ruminants
+Leishmaniosis Worldwide Phlebotomus and Lutzomyia
+sandﬂies
+Dogs, rodents, opossum
+(zoonosis)
+Surra (Trypanosoma evansi) Asia, Africa and South America Tabanus spp. (biting ﬂies) Multiple species
+Theileriois Worldwide Ixodid ticks Bovidae and ruminants
+Trypanosomosis Africa, South, and Central America Glossina spp. (tse–tse) Cattle (zoonosis)
+15 Impact of Climate Change on Livestock Production 441
+15.6.3 Climate Change and Types of Disease Outbreaks
+CC is considered a major threat to human health and well-being due to increasing
+association of emerging infectious diseases to CC (Dufour et al. 2006; Gale et al.
+Fig. 15.5 Effect of climate on VBD. Changing climate has both direct and indirect effect on VBD
+Table 15.3 Common
+livestock diseases due to CC Sl. no Type of disease 1 VBD
+2 Bluetongue virus
+3 Rift valley Fever
+4 West Nile Virus
+5 African horse sickness
+6 Lumpy skin disease
+7 Leishmaniasis
+8 Epizootic haemorrhagic disease
+9 Tick-borne diseases
+10 Parasitic diseases (excluding tick-borne)
+11 Pasteurellosis
+12 Avian inﬂuenza
+13 Anthrax
+14 Blackleg
+15 Rabies
+16 Tuberculosis
+442 L. H. Baumgard et al.
+2009). Outbreaks of diseases such as foot and mouth disease (FMD) or Avian
+Inﬂuenza affect very large numbers of animals and contribute to further degra-
+dation of the environment and surrounding communities’ health and livelihood.
+15.6.3.1 Vector-Borne Diseases
+Table 15.2 describes the different VBD of domestic livestock. CC impacts the
+distribution and abundance of arthropod vectors and interaction between the virus
+and its vector. CC can promote the spread of contagious diseases through
+increased contact between animals, or increased survival or availability of the
+agent or its intermediate host. The effect of CC on the distribution and prevalence
+of VBD is signiﬁcant. In the context of increase in temperature and changes in
+other climatic variables are likely to have profound effects on the prevalence and
+transmission of VBD. Vectors are cold blooded and are inﬂuenced by climatic
+variables, especially temperature and humidity. The transmission of VBD depends
+upon three stages namely (1) Infectious agent (2) the Vector (3) the host. World
+Organization for Animal Health (OIE) categorized 66 diseases that affect ovine,
+equine, bovine, swine, and caprine of which 22 are considered to be VBDs. Effect
+of climate on VBD is depicted in Fig. 15.5.
+15.6.3.2 Tick Borne Diseases
+Tick born Encephalitis (TBE) is caused by an arbovirus of the family Flaviviridae
+and is transmitted by ticks, Ixodes ricinus, that act as both vector and reservoir.
+Similar to VBD this disease is also accelerated by the climatic changes mainly
+with increased day and night temperature. A common example of TBE is FMD.
+There are seven distinct types of FMD virus that are distributed in various geo-
+graphical areas of the world. Common animal diseases which are caused or
+aggravated by CC are listed in Table 15.3.
+15.6.3.3 Parasitic Diseases
+Climatic variables are able to affect the prevalence, intensity, and geographical
+distribution of zoonotic helminthes. These climatic variables can inﬂuence
+free-living larval stages, other invertebrates, and vertebrate hosts. Fascioliasis,
+Schistosomiasis, and cercarial dermatitis caused by avian schistosomes have
+been most important (Singh 2010). Alveolar echinococcosis is currently the only
+cestode disease affected by CC. Nematodiases, including heterakiasis, different
+trichostrongyliases and protostrongyliases, anchylostomiases, and diroﬁlariases are
+the helminth disease most intensively analyzed with regard to CC.
+15 Impact of Climate Change on Livestock Production 443
+15.7 Environmental Stress and Pasture/Forage Availability
+Stress reduces crop growth (Solh 1993) and severely limits agricultural produc-
+tivity (Boyer 1982). Perennial forages are grown in different environments and
+must endure stresses not normally encountered by annual crops. Most prominent of
+such stresses include repeated defoliation by machines and extremes in seasonal
+climatic conditions. Forage crops account for 60–90% of feedstuff input in animal
+production systems (Barnes and Baylor 1994).
+Environmental stress which limit pasture and forage availability to livestock
+can be due to drought, high/low temperature, ozone, elevated carbon dioxide, soil
+water logging, and salinity. Perennial forages are grown commonly on degraded
+and barren soils with limited fertility, low water-holding capacity or infrequent
+irrigation, or high salt content. Furthermore, forages must endure subzero tem-
+peratures during winter or, in the case of tropical and subtropical forages, with-
+stand chilling or infrequent frosts, and periodic defoliation (e.g., machine harvest).
+Collectively, stresses may reduce the harvested forage yield, alter its nutritive
+value, and change species composition of the sward. With the current societal
+emphasis on CC and its related impact on forage crop production, knowledge of
+how abiotic or environmental stresses limit forage production and the ability to
+mitigate negative impacts of these stresses are becoming increasingly important.
+15.7.1 Climate Change and Related Environmental Stress
+CC is expected to increase global temperature and alter precipitation regime and
+levels of atmospheric CO2 concentrations. The overall effect of future CCs on
+pasture production is uncertain and likely to vary regionally, depending on the
+combination of changes in temperature, rainfall, and plant responses to elevated
+atmospheric CO2 concentrations (Harle et al. 2007; Howden et al. 2008; McKeon
+et al. 2009). The direction and magnitude of the impacts will also depend on the
+speciﬁc cropping system as well as on regional conditions. CC impacts and
+adaptation in grasslands are of particular importance because grasslands are a
+major contributor to global food production, covering about 70% of the world’s
+agricultural area (Soussana and Luscher 2007).
+CC–induced increases in the coefﬁcients of variation of grassland yields are in
+the range of 21 and 50%. This ﬁnding underpins that additional risk management
+strategies are needed to cope with CC impacts on grassland production (Finger and
+Calanca 2011). It is predicted that global CCs would signiﬁcantly affect temperate
+grassland ecosystems, including their productivity, composition, and carbon
+exchange. This is because rainfall and seasonality would be altered and evapo-
+transpiration would increase as a consequence of possible changes in temperature
+and water availability under doubled atmospheric CO2 equilibrium conditions.
+444 L. H. Baumgard et al.
+For example, Wang et al. (2007) reported that in Leymus chinensis meadow
+steppe (LCMS) net primary production (NPP) and soil organic carbon (SOC) are
+sensitive to climatic change and elevated CO2. In the next 100 years and with an
+estimated doubled CO2 concentration, if temperature increases from 2.7 to 3.9/C176C
+and precipitation increases by 10%, NPP and SOC will increase by 7–21% and
+5–6%, respectively. However, if temperature increases by 7.5–7.8/C176C and precip-
+itation increases by only 10%, NPP and SOC would decrease by 24 and 8%,
+respectively. Therefore, changes in the NPP and SOC of any production system are
+attributed mainly to the amount of temperature and precipitation change and
+the atmospheric CO2 concentration in the future. Further the success of milk
+production in an out-of-doors grazing system depends largely on climatic condi-
+tions and other factors affecting pasture quality and growth. It is important to note
+that pasture characteristics inﬂuence the cost of production, the level and seasonal
+pattern of output. Seasonal variations in pasture growth lead to enforced use of dry
+herbage (composed of plants that have completed their life cycle or have become
+dormant) during certain period of the year. This herbage is usually fed to
+replacement stock and cows that are in non-lactating or dry period. Hence annual
+Fig. 15.6 Effect of CC on pasture availability. CC leads to different environmental stresses such
+as elevated CO2, temperature stress, salt stress, drought stress, and ozone stress. All these stresses
+affect pasture availability by altering the different stages of growth of pastures
+15 Impact of Climate Change on Livestock Production 445
+variations in pasture production can have negative impact on dairy farms.
+Figure 15.6 describes impact of environmental stresses on pasture availability.
+15.7.2 Different Environmental Stresses and Its Effect
+on Pasture Availability
+15.7.2.1 Elevated CO2
+In addition to changes in temperature and soil moisture, plant production will be
+inﬂuenced by elevated atmospheric CO2 concentrations through increased pho-
+tosynthetic and water use efﬁciencies (e.g. Ainsworth and Long 2005), resulting in
+increased biomass production (Long et al. 2004). The magnitude of the plant
+production response to elevated CO2 concentrations will be determined by inter-
+actions among pasture type, soil moisture, and soil nutrient availability (Stokes and
+Ash 2007). Across the Australian rangelands, McKeon et al. (2009) demonstrated
+that elevated CO2 levels could enhance the positive effect of higher rainfall future
+climate scenarios on forage production and mitigate the effect of reduced pro-
+duction in lower rainfall conditions. Howden et al. (2008) suggested that increased
+production from elevated CO2 would be offset by a 10% rainfall reduction.
+In the absence of other CCs, mean annual pasture production at an elevated CO2
+concentration of 550 ppm was predicted to be 24–29% higher than at 380 ppm
+CO2 in temperate (C3) species-dominant pastures in southern Australia, with lower
+mean responses in a mixed C3/C4 pasture at Barraba in northern New South Wales
+(17%) and in a C4 pasture at Mutdapilly in south-eastern Queensland (9%). In the
+future climate scenarios at the Barraba and Mutdapilly sites in subtropical and
+subhumid climates, respectively, where climate projections indicated warming of
+up to 4.4/C176C, with little change in annual rainfall, the model predicted increased
+pasture production and a shift toward C4 species dominance.
+The stimulatory effect of double ambient CO2 on grassland above-ground
+ecosystem production averages about +17% in ecosystem-based experiments,
+although responses for particular systems and seasonal conditions can vary widely.
+There is a coupling between the stimulatory effect of CO2 on growth and
+accompanying long-term changes in soil carbon, nitrogen and water availability
+resulting from elevated CO2 (Lutze and Gifford 1998; Cannell and Thornley 1998;
+Campbell and Hunt 2000; Williams et al. 2000).
+For water-limited systems, elevated CO2 can result in greater water availability
+for longer in the growing season, especially if there is no increase in leaf tran-
+spiration surface per unit of ground area (Field et al. 1997; Owensby et al. 1997).
+These experiments suggest that the hydrological consequences of elevated CO2 in
+water-limited systems can be as signiﬁcant as the direct CO2 fertilization effect on
+photosynthesis.
+446 L. H. Baumgard et al.
+From the limited analyses that have been conducted to date in relation to
+temperature, it appears that warmer temperatures will increase the CO2 response in
+warm-season grassland systems such as short grass steppe and tall grass prairie
+(Coughenour and Chen 1997). However, in temperate grasslands, a 3–4/C176C increase
+in temperature may either counterbalance the effect of CO2 on productivity (Jones
+and Jongen 1996), or reduce productivity in summer but increase it in early spring
+and late autumn (Casella et al. 1996). In the latter case, a supplemental 3/C176C
+elevation in temperature with elevated CO2 mitigated changes in the soil N cycle,
+without diminishing the sequestration of below-ground carbon (Casella and
+Soussana 1997). Apparently, this was due to a reduction in soil water content,
+which partly counterbalanced the positive effect of an increased air temperature on
+soil organic matter decomposition.
+Therefore an increase in forage supply is expected to occur due to increase in
+atmospheric CO2, with a greater increase in intensively managed farm systems.
+Reductions in forage supply are anticipated in drier or supra-optimal regions.
+Conversely, increases in forage supply are predicted if rainfall and temperature
+favor increased production. Other factors may constrain absolute changes
+(Campbell 2000). If atmospheric CO2 increases, there will be a positive effect on
+pasture/forage yield and water use efﬁciency (WUE) although there could be a
+decrease in protein content. This boosting effect from higher CO2 levels is stronger
+for temperate species than for sub-tropical species.
+15.7.2.2 Temperature
+Mean global temperature has increased by 0.76/C176C since 1850 owing to the
+emission of greenhouse gases (GHGs) and is predicted to rise by 1.8–4.0/C176C
+between 1990 and 2100 (IPCC 2007). Temperature is a crucial environmental
+factor that directly inﬂuences the growth and development of plants. Research has
+shown that effects of global warming can vary according to the temperature
+changes in different seasons and regions (Aber and Melillo 1991; Lamber et al.
+1998; Shaver et al. 2000; Rustad et al. 2001; Rustad and Norby 2002; Post et al.
+2008). Spring warming advances the phenophase of plants through accelerated leaf
+emergence and unfolding, while autumn warming lengthens the growing season by
+delaying leaf senescence; resulting in an increase in biomass production(Houghton
+et al. 2001; Wilmking et al. 2004). Summer plays an important role in biomass
+production by plants, because summer temperature is near the optimal range for
+normal plant growth and development (Lamber et al. 1998; Baldocchi et al. 2001).
+However, summer warming could potentially increase the risk of certain plants
+being exposed to their upper thermal limit. Some previous studies have shown that
+summer warming stimulates biomass production in high mountain or Arctic
+habitats (Post and Pedersen 2008); however, other studies conducted in temperate
+grasslands dominated by perennial grasses show a negative correlation between
+the aboveground net primary productivity (ANPP) and the mean summer tem-
+perature (Wan et al. 2009). Interestingly, belowground biomass accumulation
+15 Impact of Climate Change on Livestock Production 447
+responds to seasonal warming, decreasing during spring or autumn warming
+(Pedersen 2009), but changing unpredictably during summer warming (Chaves
+et al. 2002; De Boeck et al. 2007). In the northern steppe zone of China, and many
+other grassland types around the world, the plant community is dominated by
+rhizomatous, perennial grasses. These plants produce new shoots principally
+through vegetative propagation, by rhizomes or other perennial organs (Bond and
+Midgley 2001; Rogers and Hartnett 2001). The aboveground biomass of these
+species is determined by the contribution of the parent shoot and its daughter
+shoots which are regulated by the belowground bud bank dynamics (Harper 1977;
+Benson et al. 2004; Benson and Hartnett 2006). The belowground bud bank
+(meristem) has the potential to inﬂuence the pattern of NPP in grassland ecosys-
+tems (Knapp and Smith 2001). It has been predicted that the ANPP of the northern
+grassland ecosystem in China, which is dominated by L. chinensis, is especially
+sensitive to global warming (Gao et al. 1997; Piao et al. 2003). Both a ﬁeld
+experiment manipulating ambient temperatures and wider observational data have
+shown that summer warming signiﬁcantly or marginally decreases gross ecosys-
+tem productivity and the total aboveground grass biomass (Niu et al. 2008), and
+also decreases the ratio of grass to forb biomass (Xia et al. 2009).
+Summer warming signiﬁcantly decreased the biomass of both parent and
+daughter shoots in L. Chinensis, slightly increased the belowground biomass, and
+lead to a signiﬁcant increase in root :shoot ratio. Warming signiﬁcantly increased
+the total belowground bud number and decreased the daughter shoot number.
+Importantly, the proportions of each type of bud changed; vertical apical rhizome
+buds decreased, while horizontal rhizome buds increased in number (Wang et al.
+2010). If temperatures increase, then there is likely to be more heat stress on cows
+(and pastures/crops) over summer, and perhaps more of the low quality subtropical
+grasses (such as paspalum and kikuyu) in pastures, but pasture growth in winter
+and early spring is likely to increase in response to warmer conditions.
+Changes in temperature cause a pronounced effect on plant growth and pro-
+ductivity. Most temperate species are exposed to temperatures below the optimum
+for growth during winter months, and freezing or low temperatures limit persis-
+tence of tropical plants in northern latitudes or high altitudes. Plants that grow in
+suboptimum temperatures and acquire increased tolerance to freezing are ‘‘hard-
+ened.’’ The hardening process takes several weeks to reach a maximum in many
+perennial forages. Different levels of freeze tolerance may develop depending on
+the genotype and hardening conditions. Dehardening may take less than one week
+and occurs without subsequent lowering of temperature or on reintroduction to
+warm temperatures. Low temperature constraints on pasture growth exist in small
+areas of the Eastern Highlands of China. Pastures here are dominated by temperate
+species, such as perennial ryegrass (Lolium perenne) and white clover (Trifolium
+repens) and dairying is limited to supplying local markets. And therefore dairying
+which means rearing of animals for milk production and products made out of milk
+is limited to supplying local markets.
+448 L. H. Baumgard et al.
+15.7.2.3 Drought Stress
+Drought is an environmental stress which is characterized by periods of limited or
+no water during the growing season and results in decrease in forage production
+for grazing and haymaking. Prolonged drought forces livestock and hay producers
+to better manage their ﬁelds to minimize recovery after the drought ends. To
+assimilate atmospheric CO2 plants must encounter evapotranspirational water loss
+and some level of water stress. Some forages escape water stress by completing
+their life cycle prior to water becoming limiting {e.g, crested wheatgrass
+[Agropryron cristutum (L.) Beauv. ssp. pectinarum (Bieb.) Tzvel.]}. Most
+perennial forages resist water stress with a combination of avoidance and tolerance
+mechanisms. Plants employ avoidance mechanisms by making alterations in
+morphology that reduce evapotranspiration and conserve water. These may include
+deeper roots, leaf surface modiﬁcations (wax and pubescence), leaf orientation,
+and leaf senescence (Chaves 1991; Hsiao 1973; Jones and Corlett 1992).
+Dehydration avoidance in tall fescue and cocksfoot and summer dormancy in
+cocksfoot were the main strategies contributing to persistence under summer
+drought. Grasses such as Chloris gayana is one of the major tropical forage grasses
+that have vigorous root system that go up to 4.7 m down the Earth which confers
+reasonable drought resistance to the plant (Skerman and Riveros 1990).
+Tolerance mechanisms enable plants to protect the water status of critical
+tissues, such as the apical meristem, and mainly include osmotic adjustment.
+Osmotic adjustment is the ability of the plant to accumulate solute molecules that
+reduce osmotic potential of the cell sap, and is an important physiological
+mechanism for dealing with water stress. Mutualistic relationships between plants
+and microbes modify the physiology of stress resistance in forages. Infection of
+tall fescue with an endophytic fungus (Acremonium coenophialum) reduces the
+weight gain and disrupts the metabolism of livestock feeding on the infected
+forage (Joost 1995). Ironically, infection with the fungus also confers resistance to
+several biotic and abiotic stresses to the plant and enables fescue to persist for
+many years.
+When water is limiting, the efﬁciency with which water is used for agricultural
+production must be maximized, and in this context perennial forage species have a
+number of advantages when compared to annuals. Perennials can utilize water
+from autumn to spring, while annuals need to be planted from the seed bank
+annually. In addition, perennials can utilize water throughout the year and may
+improve soil macroporosity which could be beneﬁcial to subsequent crops. Further
+restores soil fertility and enhance forage production, thereby contributing to reduce
+rangeland degradation and to increase sustainability of rainfed agricultural systems
+in southern European countries and North Africa (Lelievre and Volaire 2009). In
+addition, perennials can utilize water throughout the year and may improve soil
+macroporosity which could be beneﬁcial to subsequent crops, could restore soil
+fertility, and enhance forage production, thereby contributing to reduce rangeland
+degradation and to increase sustainability of rainfed agricultural systems in
+southern European countries and North Africa (Lelievre and Volaire 2009).
+15 Impact of Climate Change on Livestock Production 449
+In Mediterranean areas, WUE is mainly increased by maximizing crop growth
+during the rainy seasons. Under Mediterranean annual rainfall pattern, perennial
+plants must grow from autumn to spring and survive under summer aridity. WUE
+in autumn is highly correlated with sward recovery after drought. Seasonal and
+total WUE are also highly correlated with biomass production over the same
+period and with depth and density of the root system (Lelievre et al. 2011).
+Water deﬁcit frequently reduces forage yields; however, because the total value
+of a forage crop also depends on its quality, effects of water deﬁcit stress on forage
+quality are of interest. Drought has been shown to reduce ﬁber concentrations and
+increase the digestibility of legumes and grasses. When plants encounter water
+deﬁcit, there is a decline in photosynthesis. This may be due to reductions in C
+ﬁxation per unit leaf area as stomata close or as photo-oxidation damages the
+photosynthetic mechanisms (Bruce et al. 2002). Forage produced during drought
+periods may be so stressed that it is unﬁt for livestock consumption. Several
+strategies have been employed to maintain healthy perennial pastures, hayﬁelds,
+reduce loss of livestock to drought stressed forage consumption, and recovery
+practices following drought period. Repeated and severe drought, especially dur-
+ing summer, and limited precipitation limit forage production in the southern Great
+Plains. Gaps in forage availability exist in late autumn (prior to grazing of dual-
+purpose wheat) and early spring (grazing termination on wheat). Pitta et al. (2005)
+suggested that grazing willow fodder blocks can be used to maintain ewes, and is a
+useful supplementary feed under drought conditions.
+In many regions of the world, despite generally favorable regional precipitation,
+periodic drought is the greatest obstacle to optimal uniform forage production
+throughout the growing season. With the adoption of intensive grazing systems,
+long-term pasture productivity is dependent on improved management systems.
+Improper management during drought can jeopardize the survival of desirable
+forage species and can allow ‘weedy’ invasions. Pasture characteristics and vari-
+eties differ in ﬁeld crop agriculture because pasture plants are generally perennial.
+During severe drought, leaves senesce and new growth ceases until the arrival of
+precipitation. The period of active growth of pasture plants is longest in the wetter
+coastal areas where most dairy cattle are found, and least in the dry western parts
+of the State, where only xerophytic grasses survive and dairying is not undertaken.
+15.7.2.4 Salt Stress
+Scarcity of fresh water, competition for fresh water, and soil salinization have
+resulted in a need for grasses and legumes with increased salt tolerance, especially
+in irrigated regions of the world. Salts lower the solute potential of the external
+solution, presenting the plant with increased water potential gradients to overcome.
+Salinity reduces seed germination, stand establishment, and yield in forage grasses
+and legumes, but susceptibility of plants to salinity stress at different develop-
+mental stages varies among species. Increasing levels of salinity generally reduce
+seed germination and seedling emergence. Signiﬁcant differences in germination
+450 L. H. Baumgard et al.
+over several saline solutions have been reported in perennial ryegrass (Horst
+and Dunning 1989), subterranean clover (Shannon and Noble 1995), and alfalfa
+(Al-Niemi et al. 1992). Plants cope with salinity stress by accumulating (primarily
+in tissues removed from meristems), extruding, or diluting ions, and by selective
+ion absorption (e.g., absorbing K in the presence of high Na).
+Grasses and legumes vary within and among species for growth responses to
+salinity, often showing increased dry weight with moderate increases in Na levels
+(Shannon and Noble 1995). Panicum coloratum var. Bambatsi was more tolerant
+to salt than several tropical legumes; it sustained a 50% yield reduction at
+16.4 dS m-1, whereas the best tropical legume had a 50% yield reduction at
+10.6 dS m-1 (Keating et al. 1986). Rhodesgrass, a halophytic forage grass, shows
+stimulated growth of single roots under NaCl concentrations that inhibit growth of
+the whole plant (Waisel 1985).
+Grasses such as C. gayana, Leptochloa fusca, Pennisetum clandestinum,
+P. coloratum, Cynodon dactylon, Sporobolus genus are reported to be tolerant to
+saline conditions while the other grasses such as Cenchrus ciliaris, Digitaria
+decumbens, Sorghum almum, Panicum maximum are only moderately tolerant
+(Russell 1976; Maas and Hoffman 1977; Ahmad and Ismail 1992; Truog and
+Roberts 1992; Kumar 1998; Qureshi and Barrett-Lenard 1998). Saline ground
+water can also increase productivity of Panicum laevifolium and Panicum maxi-
+mum if irrigation facilities are available in semi-arid regions of India (Tomar et al.
+2003).
+15.7.2.5 Ozone Stress
+Tropospheric ozone concentrations have increased in the last decade and are
+predicted to remain at higher level. Tropospheric ozone is an air pollutant which is
+of most concern to agricultural crops, forests, and seminatural grasslands as well
+and is also a signiﬁcant GHG. Ozone is an air pollutant which is of most concern to
+agricultural crops, forests, and seminatural grasslands as well as a signiﬁcant
+GHG. Troposheric factors that favor climatic change may also favor ozone
+formation and ozone effects on vegetation and increase plant predisposition to
+climatic stressors. The relationship between ozone and CC are thus topical. Carbon
+assimilation, translocation, nutrient acquisition, and other physiological processes
+are inhibited by ozone exposure which may ultimately lead to suppressed plant
+growth and yield. The most detrimental effects of ozone probably occur after
+ozone enters the leaf through stomata and involve reactions in the gas and liquid
+phases. Most crops in developed and developing countries are grown in summer
+when O3 concentrations are elevated and frequently are sufﬁciently high to reduce
+yields. Moderately elevated O3 level reduces the productivity of intact grasslands
+by 23% during a 5-year exposure under real ﬁeld conditions (Volk et al. 2006).
+Ozone (O3) is known to reduce the yield of clover more than the yield of grass
+species, inhibit nitrogen ﬁxation of clover, shiftsthe grass/clover yield ratio in
+favor of the grass, and, by implication, speed the loss of clover from grass-clover
+15 Impact of Climate Change on Livestock Production 451
+pastures. Ozone also reduces %N and % estimated digestibility of clover (Blum
+et al. 1983; Fernandez et al. 2008). Forage quality may be changed because of
+ozone effects on leaf chemistry. Long-term ozone exposure can lead to increased
+levels of phenolic acids, ﬂavonoids, and related compounds in what forages
+(Booker and Miller 1998) that may negatively affect ruminant microorganisms and
+enzyme systems. One of the most common effects of ozone is to promote leaf
+senescence. Thus, in pastures or other types of grasslands exposed to ozone, the
+fraction of senescing tissue may be increased. Because of increased ligniﬁcation,
+and a decreased leaf/stem ratio, forage digestibility would decline. Quantiﬁcation
+of effects, however, is lacking, and the consequences for animal nutrition need to
+be studied in more detail. In grass-clover forage, white clover (T. repens L.) leaf in
+vitro dry matter disappearance (IVDMD) and N were decreased, and NDF
+increased by ambient ozone (50 nl l-1) compared with charcoal-ﬁltered air (Burns
+et al. 1997). Changes in forage quality may result from shifts in species compo-
+sition. Differential ozone sensitivities between grasses and legumes have been
+found to cause a shift in the grass/legume ratio in favor of grasses, and, hence,
+in protein concentration and other quality traits relevant for animal nutrition
+(Rebbeck et al. 1988; Fuhrer 1997).
+15.8 Conclusions
+Global warming has generated intense speculation about how CC may adversely
+affect the livestock industry and how this will ultimately impact the production
+of high quality protein for human consumption. It is clear that CC and speciﬁcally
+heat stress will both directly and indirectly inﬂuence animal welfare and
+productivity. Recent discoveries indicate that heat stress directly alters post-
+absorptive metabolism, nutrient portioning, and eventually production. However,
+the indirect effects of heat stress on animal agriculture are numerous and probably
+far-outweigh the direct effects. Indirect effects of CC on animal productivity
+include reduced feed intake, altered immune systems, reduced feed, water avail-
+ability, and quality, and increased environmental interaction with disease causing
+parasites and vectors.
+The negative effects of CC on the livestock industry will increase if global
+warming continues. Furthermore, heat stress is already likely the largest impedi-
+ment to efﬁcient animal production in agriculturally rich regions and certainly one
+of the biggest obstacles to animal agriculture in the tropical and subtropical por-
+tions of the globe. Consequently, CC is a serious threat to food sustainability and
+this is especially apparent in many developing countries.
+452 L. H. Baumgard et al.
+References
+Aber JD, Melillo JM (1991) Terrestrial ecosystems. Saunders College Publishing, Philadelphia
+Ahmad R, Ismail S (1992) Studies on selection of salt tolerant plants for food, fodder and fuel
+from world ﬂora. In: Lieth H, Masoom Al (eds) Towards the rational use of high salinity
+tolerant plants. Agriculture and forestry under marginal soil water conditions, vol 2.
+Academic Publishers, Doedraft, The Netherlands, Kluwer, pp 295–304, 447
+Ai J, Du J, Wang N et al (2004) Inhibition of small-intestinal sugar absorption mediated
+by sodium orthovanadate Na3VO4 in rats and its mechanisms. World J Gastroenterol
+10:3612–3615
+Ainsworth EA, Long SP (2005) What have we learned from 15 years of free air CO2 enrichment
+(FACE)? Ameta-analytical review of the responses of photosynthesis, canopy properties
+and plant production to rising CO2. New Phytol 165:351–372
+Dufour B et al (2006) A method to rank the risks of infectious diseases development linked
+to global warming. In: Proceedings of the 11th international symposium on veterinary
+epidemiology and economics (www.sciquest.org. nz). Cairns, Australia, 6–11 Aug 2006
+Al-Katanani YM, Drost M, Monson RL, Rutledge JJ, Krininger CE 3rd, Block J, Thatcher WW,
+Hansen PJ (2002) Pregnancy rates following timed embryo transfer with fresh or vitriﬁed in
+vitro produced embryos in lactating dairy cows under heat stress conditions. Theriogenology
+58:171–182
+Al Refaii A, Alix JH (2009) Ribosome biogenesis is temperature-dependent and delayed in
+Escherichia coli lacking the chaperones DnaK or DnaJ. Mol Microbiol 71:748–762
+Albin DM, Wubben JE, Rowlett JM et al (2007) Changes in small intestinal nutrient transport
+and barrier function after lipopolysaccharide exposure in two pig breeds. J Anim Sci 85:
+2517–2523
+Al-Niemi TS, Campbell WF, Rumbaugh MD (1992) Response of alfalfa cultivars to salinity
+during germination and post-germination growth. Crop Sci 32:976–980
+Alterovitz G, Xiang M et al (2010) Ontology engineering. Nat Biotechnol 28:128–130
+Armstrong DV (1994) Heat stress interaction with shade and cooling. J Dairy Sci 77:2044–2050
+Auvigne V, Leneveu P, Jehannin C, Peltoniemi O, Salle E (2010) Seasonal infertility in sows:
+a ﬁve year ﬁeld study to analyze the relative roles of heat stress and photoperiod.
+Theriogenology 74:60–66
+Baker B, Viglizzo JF (1998) Chapter 9: Rangelands and livestock. In: Feenstra JF, Burton I,
+Smith JB, Tol RSJ (eds) Handbook of methods for climate change impact assessment
+and adaptation strategies. IVM/UNEP Version 2.0. http://130.37.129.100/ivm/pdf/handbook_
+range.pdf. Accessed 22 Sept 2002
+Baldocchi DD, Falge E, Gu L, Olson R, Hollinger D, Running S, Anthoni P, Bernhofer C, Davis
+K, Evans R, Fuentes J, Goldstein A, Katul G, Law B, Lee X, Malhi Y, Meyers T, Munger W,
+Oechel W, Paw UKT, Pilegaard K, Schmid HP, Valentini R, Verma S, Vesala T, Wilson K,
+Wofsy S (2001) Fluxnet: a new tool to study the temporal and spatial variability of the
+ecosystem-scale carbon dioxide, water vapor, and energy ﬂux densities. Bull Am Meteorol
+Soc 82:2415–2434
+Barnes RF, Baylor J (1994) Forages in a changing world. In: Forages. An introduction to
+grassland agriculture, vol 1. Iowa State University Press, Ames, pp 3–13
+Barth AD, Bowman PA (1994) The sequential appearance of sperm abnormalities after scrotal
+insulation or dexamethasone treatment in bulls. Can Vet J 35:93–102
+Baumgard LH, Rhoads RP (2012) Chapter 6: Effects of environment on metabolism. In: Collier
+RJ, Collier JL (eds) Environmental physiology of livestock. Wiley, Inc., Ames, pp 81–100
+Baylis N, Githeko AK (2006) The effects of climate change on infectious diseases of animals.
+T 7.3. Foresight. Infectious disease. Preparing for the future. Ofﬁce and science and
+innovation. (www.foresight.gov.uk)
+Baziz HA, Geraert PA et al (1996) Chronic heat exposure enhances fat deposition and modiﬁes
+muscle and fat partition in broiler carcasses. Poult Sci 75:505–513
+15 Impact of Climate Change on Livestock Production 453
+Beede DK, Collier RJ (1986) Potential nutritional strategies for intensively managed cattle during
+thermal stress. J Anim Sci 62:543–554
+Beere HM (2004) the stress of dying: the role of heat shock proteins in the regulation
+of apoptosis. J Cell Sci 117:2641–2651
+Benson EJ, Hartnett DC (2006) The role of seed and vegetative reproduction in plant recruitment
+and demography in tallgrass prairie. Plant Ecol 187:163–178
+Benson EJ, Hartnett DC, Mann KH (2004) Below ground bud banks and meristem limitation
+in tallgrass prairie plant populations. Am J Bot 91:416–421
+Berman A (2003) Effects of body surface area estimates on predicted energy requirements
+and heat stress. J Dairy Sci 86:3605–3610
+Berman A (2004) Tissue and external insulation estimates and their effects on prediction
+of energy requirements and of heat stress. J Dairy Sci 87:1400–1412
+Berman A (2005) Estimates of heat stress relief needs for holstein dairy cows. J Anim Sci
+83:1377–1384
+Bernabucci U et al (2009) Inﬂuence of different periods of exposure to hot environment on rumen
+function and diet digestibility in sheep. Int J Biometeorol 53:387–395
+Bernabucci U, Lacetera N et al (2010) Metabolic and hormonal adaptations to heat stress
+in ruminants. Animal 4:1167–1183
+Bhattacharya AN, Hussain F (1974) Intake and utilization of nutrients in sheep fed different
+levels of roughage under heat stress. J Anim Sci 38:877–886
+Bianca W (1965) Reviews of the progress of dairy science. Physiology. Cattle in hot
+environment. J Dairy Sci 32:291–328
+Biggers BG, Geisert RD, Wetteman RP, Buchanan DS (1987) Effect of heat stress on early
+embryonic development in the beef cow. J Anim Sci 64:1512–1518
+Bishonga C, Robinson JJ et al (1996) Excess dietary urea intake in ewes and its effect on
+ovulation rate and embryo development. Jpn J Vet Res 44:139–151
+Black JL, Mullan BP, Lorschy ML, Giles LR (1993) Lactation in the sow during heat stress.
+Livest Prod Sci 35:18
+Blum U, Allen SH, Burns JC, Linthurst RA (1983) The effects of ozone on fescue-clover forage:
+regrowth, yield and quality. Environ Exp Bot 23:121–132
+Bogunovic M et al (2007) Enteroendocrine cells express functional toll-like receptors. Am
+J Physiol Gastrointest Liver Physiol 292:G1770–G1783
+Bond WJ, Midgley JJ (2001) Ecology of sprouting in woody plants: the persistence niche.
+Trends Ecol Evol 16:45–51
+Booker FL, Miller JE (1998) Phenylpropanoid metabolism and phenolic composition of soybean
+[Glycine max (L.) Merr.] leaves following exposure to ozone. J Exp Bot 49:1191–1202
+Boyer JS (1982) Plant productivity and environment. Science (Washington DC) 218:43–448
+Bradley MJ, Kutz SJ, Jenkins E, O’Hara TM (2005) The potential impact of climate change
+on infectious diseases of arctic fauna. Int J Cir Health 64:468–477
+Bridges TC, Turner LW, Gates RS (1998) Economic evaluation of misting-cooling systems for
+growing/ﬁnishing swine through modelling. Appl Eng Agric 14:425–430
+Brooks DR, Hoberg EP (2007) How will global climate change affect parasite–host assemblages?
+Trends Prasitol 23:571–574
+Brown-Brandl TM, Nienaber JA, Zin H, Gates S (2004) A literature review of swine heat
+production. Trans ASAE 47:259–270
+Bruce WB, Emeades GO, Barker TC (2002) Molecular and physiological approaches to maize
+improvement for drought tolerance. J Exp Bot 53:13–25
+Burgos R, Odens LJ et al (2007) Evaluation of different cooling systems in lactating heat stressed
+dairy cows in a semi-arid environment. Prof Anim Sci 23:546–555
+Burkholder KM, Thompson KL et al (2008) Inﬂuence of stressors on normal intestinal
+microbiota, intestinal morphology, and susceptibility to Salmonella enteritidis colonization
+in broilers. Poult Sci 87:1734–1741
+Burns JC, Heagle AS, Fisher DS (1997) Nutritive value of ozone sensitive and resistant ladino
+white clover clones after chronic ozone and carbon dioxide exposure. Advances in carbon
+454 L. H. Baumgard et al.
+dioxide effects research. ASA Spec Publ, vol 61. American Society of Agronomy, Madison,
+pp 153–67
+Butler WR, Calaman JJ et al (1996) Plasma and milk urea nitrogen in relation to pregnancy rate
+in lactating dairy cattle. J Anim Sci 74:858–865
+Cameron RD, Blackshaw AW (1980) The effect of elevated ambient temperature on
+spermatogenesis in the boar. J Reprod Fertil 59:173–179
+Campbell BD (2000) A synthesis of recent global change research on pasture and rangeland
+production: reduced uncertainties and their management implications. Agric Ecosyst Environ
+82:39–55
+Campbell BD, Hunt DY (2000) Global climate change effects on competition and succession
+in pastures. In: Tow P, Lazenby A (eds) Competition and succession in pastures. CAB
+International, Wallingford (in press)
+Cannell MGR, Thornley JHM (1998) N-poor ecosystems may respond more to elevated [CO2]
+than N-rich ones in the long term. A model analysis of grassland. Glob Change Biol
+4:431–442
+Casella E, Soussana JF (1997) Long-term effects of CO2 enrichment and temperature increase on
+the carbon balance of a temperate grass sward. J Exp Bot 48:1309–1321
+Casella E, Soussana JF, Loiseau P (1996) Long-term effects of CO2 enrichment and temperature
+increase on a temperate grass sward. I. Productivity and water use. Plant Soil 182:83–99
+CDC (2008) Congressional testimony. Select committee on energy independence and global
+warming United States house of representatives climate change and public health. Statement
+of Howard Frumkin MD, Dr. Charron PH, Thomas MK, Waltner-Toews D, Armini JJ, Edge
+T, Kent RA, Maarouf AR, Wilson J (2004) Vulnerability of waterborne diseases to climate
+change in Canada. A review. J toxi Env Health 67: 1667–1677
+Chakravortty D, Kumar KS (1999) Modulation of barrier function of small intestinal epithelial
+cells by lamina propria ﬁbroblasts in response to lipopolysaccharide: possible role in
+TNFalpha in inducing barrier dysfunction. Microbiol Immunol 43:527–533
+Chaves MM (1991) Effects of water deﬁcits on carbon assimilation. J Exp Bot 42:1–16
+Chaves MM, Pereira JS, Maroco J, Rodrigues ML, Ricardo CPP, Osorio ML, Carvalho I, Faria T,
+Pinheiro C (2002) How plants cope with water stress in the ﬁeld? Photosynthesis and growth.
+Ann Bot 89:907–916
+Chen CL, Sangiah S, Chen H et al (1994) Effects of heat stress on Na+, K(+)-ATPase, Mg(2+)-
+activated ATPase, and Na(+)-ATPase activities of broiler chickens vital organs. J Toxicol
+Environ health 41:345–356
+Chen MC, Wu SV et al (2006) Bitter stimuli induce Ca2+ signaling and CCK release in
+enteroendocrine STC-1 cells: role of L-type voltage-sensitive Ca2+ channels. Am J Physiol
+Cell Physiol 291:C726–C739
+Chen YC et al (2010) Heat stress responses modulate calcium regulations and electrophysio-
+logical characteristics in atrial myocytes. J Mol Cell Cardiol 48:781–788
+Chomel BB, Belotto A, Meslin FX (2007) Wildlife, exotic pets and emerging zoonoses. Emerg
+Infect Dis 13:6–11
+Christensen JH, Nielsen MN et al (2010) Inactivation of the hereditary spastic paraplegia-
+associated Hspd1 gene encoding the Hsp60 chaperone results in early embryonic lethality
+in mice. Cell Stress Chaperones 15:851–863
+Christenson RK (1980) Environmental inﬂuences on the postpartum animal. J Anim Sci 51(Suppl
+2):53–67
+Close WH, Mount LE, Start IB (1971) The inﬂuence of environmental temperature and plane
+of nutrition on heat losses from groups of growing pigs. Anim Prod 13:285–294
+Collier CT, Williams PN, Carroll JA, Welsh TH Jr, Laurenz JC (2011) Effect of maternal restraint
+stress during gestation on temporal lipopolysaccharide-induced neuroendocrine and immune
+responses of progeny. Domest Anim Endocrinol 40:40–50
+Collin A, van Milgen J, Dubois S, Noblet J (2001) Effect of high temperature and feeding level
+on energy utilization in piglets. J Anim Sci 79:1849–1857
+15 Impact of Climate Change on Livestock Production 455
+Cook NB, Mentink RL, Bennett TB, Burgi K (2007) The effect of heat stress and lameness
+on time budgets of lactating dairy cows. J Dairy Sci 90:1674–1682
+Coughenour MB, Chen DX (1997) Assessment of grassland ecosystem responses to atmospheric
+change using linked plant–soil process models. Ecol Appl 7:802–827
+Csaba G, Inczeﬁ-Gonda A, O. Dobozy O (1984) Hereditary transmission to the F1-generation
+of hormonal imprinting (receptor memory) induced in rats by neonatal exposure to insulin
+Acta Physiol Hung 63:93–99
+Dale NM, Fuller HL (1980) Effect of diet composition on feed intake and growth of chicks under
+heat stress. II. Constant vs. cycling temperatures. Poult Sci 59:1434–1441
+De Boeck HJ, Lemmens CMHM, Gielen B, Malchair S, Carnol M, Merckx R, Van den Berge J,
+Ceulemans R, Nijs I (2007) Biomass production in experimental grasslands of different
+species richness during three years of climate warming. Biogeosciences Discuss 4:4605–4629
+de la Sota RL, Burke JM, Risco CA, Moreira F, DeLorenzo MA, Thatcher WW (1998)
+Evaluation of timed insemination during summer heat stress in lactating dairy cattle.
+Theriogenology 49:761–770
+de Lartigue G, de La Serre CB, Raybould HE (2011) Vagal afferent neurons in high fat diet-
+induced obesity; intestinal microﬂora, gut inﬂammation and cholecystokinin. Physiol Behav,
+Corrected Proof (in press)
+de Rensis F, Marconi P, Capelli T, Gatti F, Facciolongo F, Franzini S, Scaramuzzi RJ (2002)
+Fertility in postpartum dairy cows in winter or summer following estrus synchronization and
+ﬁxed time AI after the induction of an LH surge with GnRH or hCG. Theriogenology
+58:1675–1687
+DeShazer JA, Hahn GL, Xin H (2009) Chapter 1: Basic principals of the thermal environment
+and livestock energetics. In: DeShazer JA (ed) Livestock energetics and thermal environment
+management. ASABE, St. Joseph, MI
+Dokladny K, Moseley PL, Ma TY (2006) Physiologically relevant increase in temperature causes
+an increase in intestinal epithelial tight junction permeability. Am J Physiol Gastrointest Liver
+Physiol 290:G204–G212
+Dokladny K, Ye D et al (2008) Cellular and molecular mechanisms of heat stress-induced
+up-regulation of occludin protein expression: regulatory role of heat shock factor-1. Am
+J Pathol 172:659–670
+Dreiling CE, Carman FS 3rd, Brown DE (1991) Maternal endocrine and fetal metabolic
+responses to heat stress. J Dairy Sci 74:312–327
+Driancourt MA, Guet P et al (1999) Presence of an aromatase inhibitor, possibly heat shock
+protein 90, in dominant follicles of cattle. J Reprod Fertil 115:45–58
+DuBose DA, Basamania K, Maglione L, Rowlands J (1983) Role of bacterial endotoxins
+of intestinal origin in rat heat stress mortality. J Appl Physiol 54:31–36
+Ellis RJ, van der Vies SM et al (1989) The molecular chaperone concept. Biochem Soc Symp
+55:145–153
+Elrod CC, Butler WR (1993) Reduction of fertility and alteration of uterine pH in heifers fed
+excess ruminally degradable protein. J Anim Sci 71:694–701
+Elrod CC, Van Amburgh M et al (1993) Alterations of pH in response to increased dietary protein
+in cattle are unique to the uterus. J Anim Sci 71:702–706
+Epstein PR (1999) Climate and health. Science 285:347–348
+Epstein PR (2001) Climate change and emerging infectious diseases. Microbes Infect 3:747–754
+Epstein P, Diaz H, Elias S, Grabherr G, Graham N, Martens W, Thompson EM, Susskind J
+(1998) Biological and physical signs of climate change, focus on mosquito borne diseases.
+Bull Am Meteorol Soc 79:409–417
+FAO (Food and Agricultural Organization of the United Nations) (2006) Livestock a major threat
+to the environment. Remedies urgently needed. Retrieved from http://www.fao.org/
+newsroom/en/news/2006/1000448/index.html
+FAO (Food and Agriculture Organization of the United Nations) (2008) FAOSTAT
+456 L. H. Baumgard et al.
+FAO (Food and Agriculture Organization of the United Nations) (2009) Submission to UNFCCC
+AWG LCA. Enabling agriculture to contribute to climate change. Available at http://
+unfccc.int/resource/docs/2008/smsn/igo/036.pdf
+Febbraio MA (2001) Alterations in energy metabolism during exercise and heat stress. Sports
+Med 31:47–59
+Ferguson JD, Blanchard T et al (1988) Infertility in dairy cattle fed a high percentage of protein
+degradable in the rumen. JAVMA 192:659–662
+Ferguson JD, Galligan DT et al (1993) Serum urea nitrogen and conception rate: the usefulness
+of test information. J Dairy Sci 76:3742–3746
+Fernandez IG, Bass D, Muntifering R, Mills G, Barnes J (2008) Impacts of ozone pollution
+on productivity and forage quality of grass clover swards. Atmos Environ 42:8755–8769
+Field CB, Lund CP, Chiarello NR, Mortimer BE (1997) CO2 effects on the water budget
+of grassland microcosm communities. Glob Clim Change 3:197–206
+Finger R, Calanca P (2011) Risk management strategies to cope with climate change in grassland
+production: an illustrative case study for the Swiss plateau. Reg Environ Change 11:1–15
+Foxcroft GR, Dixon WT, Novak S, Putman CT, Town SC et al (2006) The biological basis for
+prenatal programming of postnatal performance in pigs. J Anim Sci 84(Suppl):E105–E112
+Foxcroft GR, Dixon WT, Dyck MK, Novak S, Harding JC et al (2009) Prenatal programming of
+postnatal development in the pig. Soc Reprod Fertil Suppl 66:213–231
+Frost RA, Lang CH (2002) Lipopolysaccharide regulates proinﬂammatory cytokine expression in
+mouse myoblasts and skeletal muscle. Am J Physiol Regul Integr Comp Physiol 283:698–709
+Fuhrer J (1997) Ozone sensitivity of managed pasture. In: Cheremisinoff PN (ed) Ecological
+advances and environmental impact assessment. Adv Environ Control Technol Ser. Gulf Publ,
+Houston (TX), pp 681–706
+Fuquay JW (1981) Heat stress as it affects animal production. J Anim Sci 52:164–174
+Gabler NK, Spurlock ME (2008) Integrating the immune system with the regulation of growth
+and efﬁciency. J Anim Sci 86:E64–E74
+Gabler NK, Radcliffe JS, Spencer JD, Webel DM, Spurlock ME (2009) Feeding long-chain n-3
+polyunsaturated fatty acids during gestation increases intestinal glucose absorption potentially
+via the acute activation of AMPK. J Nutr Biochem 20:17–25
+Gale P et al (2009) The effect of climate change on the occurrence and prevalence of livestock
+diseases in Great Britain. A review. J Appl Microbiol 106:1409–1423
+Gao Q, Yu M, Zhang XS, Guan F (1997) Dynamic modeling of northeast China transect
+responses to global change—a regional vegetation model driven by remote sensing
+information. Acta Bot Sinica 39:800–810
+Garcia-Bojalil CM, Staples CR et al (1994) Protein intake and development of ovarian follicles
+and embryos of superovulated nonlactating dairy cows. J Dairy Sci 77:2537–2548
+Garofano A, Czernichow P, Breant B (1998) Beta-cell mass and proliferation following late fetal
+and early postnatal malnutrition in the rat. Diabetologia 41:1114–1120
+Garriga C et al (2006) Heat stress increases apical glucose transport in the chicken jejunum. Am J
+Physiol Regul Integr Comp Physiol 290:R195–R201
+Geraert PA, Padilha JC, Guillaumin S (1996) Metabolic and endocrine changes induced by
+chronic heat exposure in broiler chickens: growth performance, body composition and energy
+retention. Br J Nutr 75:195–204
+Gilad E, Meidan R, Berman A, Graber Y, Wolfenson D (1993) Effect of heat stress on tonic and
+GnRH-induced gonadotrophin secretion in relation to concentration of oestradiol in plasma
+of cyclic cows. J Reprod Fertil 99:315-321.
+Guzeloglu A, Ambrose JD et al (2001) Long-term follicular dynamics and biochemical
+characteristics of dominant follicles in dairy cows subjected to acute heat stress. Anim Reprod
+Sci 66:15–34
+Hall DM, Baumgardner KR, Oberley TD, Gisolﬁ CV (1999) Splanchnic tissues undergo hypoxic
+stress during whole body hyperthermia. Am J Physiol 276:G1195–G1203
+15 Impact of Climate Change on Livestock Production 457
+Hammon DS, Holyoak GR et al (2005) Association between blood plasma urea nitrogen levels
+and reproductive ﬂuid urea nitrogen and ammonia concentrations in early lactation dairy
+cows. Anim Reprod Sci 86:195–204
+Hansen PJ (2009) Effects of heat stress on mammalian reproduction. Philos Trans R Soc Lond B
+Biol Sci 364:3341–3350
+Hansen PJ, Aréchiga CF (1999) Strategies for managing reproduction in the heat-stressed dairy
+cow. J Anim Sci 77(Suppl 2):36–50
+Harle KJ, Howden SM, Hunt LP, Dunlop M (2007) The potential impact of climate change on the
+Australian wool industry by 2030. Agric Syst 93:61–89
+Harper JL (1977) Population biology of plants. Academic, London
+Harvell CD, Mitchell CE, Ward JR et al (2002) Climate warming and disease risks or terrestrial
+and marine biota. Science 296:2158–2162
+Heath ME (1983) The effects of rearing-temperature on body composition in young pigs. Comp
+Biochem Physiol 76:363–366
+Heath ME (1989) Effects of rearing temperature and level of food intake on organ size and tissue
+composition in piglets. Can J Physiol Pharmacol 67:526–532
+Held T, Barakat AZ et al (2011) Heat-shock protein HSPA4 is required for progression
+of spermatogenesis. Reproduction 142:133–144
+Hornef MW, Normark BH, Vandewalle A, Normark S (2003) Intracellular recognition
+of lipopolysaccharide by toll-like receptor 4 in intestinal epithelial cells. J Exp Med 198:
+1225–1235
+Horst GL, Dunning NB (1989) Germination and seedling growth of perennial ryegrass in soluble
+salts. J Am Soc Hort Sci 114:338–342
+Houghton JT, Ding Y, Griggs DJ, Noguer M, Vander Linden PJ, Dai X, Maskell K, Johnson CA
+(2001) Climate Change 2001: the scientiﬁc basis. Cambridge University Press, New York
+Howden SM, Crimp SJ, Stokes CJ (2008) Climate change and Australian livestock systems:
+impacts, research and policy issues. Aust J Exp Agric 48:780–788
+Hsiao TC (1973) Plant responses to water stress. Annu Rev Plant Physiol 24:519–570
+IPCC (2007) IPCC WGI fourth assessment report. Climatic change: the physical science basis.
+Intergovernmental Panel on Climate Change, Geneva
+Isom SC, Prather RS, Rucker EB 3rd (2007) Heat stress-induced apoptosis in porcine in vitro
+fertilized and parthenogenetic preimplantation-stage embryos. Mol Reprod Dev 74:574–581
+Isom SC, Lai L, Prather RS, Rucker EB 3rd (2009a) Heat shock of porcine zygotes immediately
+after oocyte activation increases viability. Mol Reprod Dev 76:548–554
+Isom SC, Prather RS, Rucker Iii EB (2009b) Enhanced developmental potential of heat-shocked
+porcine parthenogenetic embryos is related to accelerated mitogen-activated protein kinase
+dephosphorylation. Reprod Fertil Dev 21:892–900
+Jantschitsch C, Trautinger F (2003) Heat shock and UV-B-induced DNA damage and
+mutagenesis in skin. Photochem Photobiol Sci 2:899–903
+Jegou B, Laws AO et al (1984) Changes in testicular function induced by short-term exposure
+of the rat testis to heat: further evidence for interaction of germ cells, sertoli cells and leydig
+cells. Int J Androl 7:244–257
+Johnson RW (1997) Inhibition of growth by pro-inﬂammatory cytokines: an integrated view.
+J Anim Sci 75:1244–1255
+Johnson RW (1998) Immune and endocrine regulation of food intake in sick animals. Domest
+Anim Endocrinol 15:309–319
+Johnston LJ, Ellis M, Libal GW, Mayrose VB, Weldon WC (1999) Effect of room temperature
+and dietary amino acid concentration on performance of lactating sows. NCR-89 committee
+on swine management. J Anim Sci 77:1638–1644
+Jones HG, Corlett JE (1992) Current topics in drought physiology. J Agric Sci (Cambridge)
+119:291–296
+Jones M, Jongen M (1996) Sensitivity of temperate grasslands to elevated CO2 and the interaction
+with temperature and water stress. Agric Food Sci Finland 5:271–283
+458 L. H. Baumgard et al.
+Jones KE, Patel NG, Levy MA, Storeygard A, Balk D, Gittleman JL, Daszak P (2008) Global
+trends in emerging infectious diseases. Nature 451:990–993
+Jonson KM, Lyle JG, Edwards MJ, Penny RH (1976) Effect of prenatal heat stress on brain
+growth and serial discrimination reversal learning in the guinea pig. Brain Res Bull 1:133–150
+Joost RE (1995) Acremonium in fescue and ryegrass: boon or bane? A review. J Anim Sci
+73:881–888
+Kamiya M, Kamiya Y et al (2006) Effects of high ambient temperature and restricted feed intake
+on urinary and plasma 3-methylhistidine in lactating holstein cows. Anim Sci J 77:201–207
+Kaneko Y, Kimura T et al (1997) Cloning of apg-2 encoding a novel member of heat shock
+protein 110 family. Gene 189:19–24
+Katsumata M, Yano H et al (1990) Inﬂuence of a high ambient temperature and administration
+of clenbuterol on body composition in rats. J Nutr Sci Vitaminol 36:569–578
+Keating BA, Strickland RW, Fisher MJ (1986) Salt tolerance of some tropical pasture legumes
+with potential adaptation to cracking clay soils. Aust J Exp Agric 26:181–186
+Keller G, Ben-Shaul Y, Bacher A (1992) Inﬂuence of metabolic inhibitors on the degradation of
+tight junctions in HT29 cells. Exp Cell Res 200:16–25
+Kellett GL (2001) The facilitated component of intestinal glucose absorption. J Physiol
+531:585–595
+Kellett GL, Brot-Laroche E (2005) Apical GLUT2: a major pathway of intestinal sugar
+absorption. Diabetes 54:3056–3062
+Kelly TL, Trasler JM (2004) Reproductive epigenetics. Clin Genet 65:247–260
+Kenney MJ, Musch TI (2004) Senescence alters blood ﬂow responses to acute heat stress. Am J
+Physiol Heart Circ Physiol 286:H1480–H1485
+Khasnis AA, Nettleman MD (2005) Global warming and infectious disease. Arch Med Res
+36:689–696
+Kheradmand A, Alirezaei M et al (2009a) Antioxidant enzyme activity and MDA level in the rat
+testis following chronic administration of ghrelin. Andrologia 41:335–340
+Kheradmand A, Roshangar L et al (2009b) The role of ghrelin on the morphometry and
+intracellular changes in the rat testis. Tissue Cell 41:105–111
+Kheradmand A, Taati M, Babaei H (2009c) The effects of chronic administration of ghrelin on
+rat sperm quality and membrane integrity. Anim Biol 59:159–168
+Kheradmand A, Alirezaei M et al (2010) Ghrelin promotes antioxidant enzyme activity
+and reduces lipid peroxidation in the rat ovary. Regul Pept 162(1–3):84–89
+Kheradmand A, Dezfoulian O et al (2011) Ghrelin attenuates heat-induced degenerative effects
+in the rat testis. Regul Pept 167:97–104
+Kiani A, Chwalibog A, Tygesen MP, Nielsen MO (2008) Effect of undernutrition in foetal life
+on energy expenditure during gestation in ewes. Arch Anim Nutr 62:117–126
+Kim KH et al (2010) Productivity and energy partition of late lactation dairy cows during heat
+exposure. Anim Sci J = Nihon chikusan Gakkaiho 81:58–62
+Kisliouk T, Ziv M, Meiri N (2010) Epigenetic control of translation regulation: alterations in
+histone H3 lysine 9 post-translation modiﬁcations are correlated with the expression of the
+translation initiation factor 2B (Eif2b5) during thermal control establishment. Dev Neurobiol
+70:100–113
+Klose RJ, Bird AP (2006) Genomic DNA methylation: the mark and its mediators. Trends
+Biochem Sci 31:89–97
+Knapp AK, Smith MD (2001) Variation among biomes in temporal dynamics of aboveground
+primary production. Science 291:481–484
+Koelkebeck KW, Parsons CM, Wang X (1998) Effect of acute heat stress on amino acid
+digestibility in laying hens. Poult Sci 77:1393–1396
+Koopmans MMM, Reusken C, van Maanen K (2007) West Nile virus in Europe: waiting for the
+start of the epidemic. In: Takken W, Knols BGJ (eds) Emerging pests and vector-borne
+diseases in Europe. Wageningen Academic Publishers, Wageningen, pp 123–151
+15 Impact of Climate Change on Livestock Production 459
+Kuhn-Velten WN (1996) Rapid down-regulation of testicular androgen biosynthesis at increased
+environmental temperature is due to cytochrome P450c17 (CYP17) thermolability in leydig
+cells, but not in endoplasmic reticulum membranes. Exp Clin Endocrinol Diab 104:243–249
+Kumar A (1998) Growing forages in salt-affected soils. In: Tyagi NK, Minhas PS (eds)
+Agricultural salinity management in India. CSSRI, Karnal, India, pp 489–498, 526
+Kunavongkrit A, Suriyasomboon A et al (2005) Management and sperm production of boars
+under differing environmental conditions. Theriogenology 63:657–667
+Kurowicka B, Gajewska A et al (2006) Effect of early thermal experience on pituitary-gonadal
+axis in female rats. Reprod Biol 6:63–77
+Kutz SJ, Hoberg EP, Polley L, Jenkins EJ (2005) Global warming is changing the dynamics
+of Arctic host-parasite systems. Proc R Soc Lond B Biol Sci 272:2571–2576
+Lachance C, Bailey JL et al (2007) Expression of Hsp60 and Grp78 in the human endometrium
+and oviduct, and their effect on sperm functions. Hum Reprod 22:2606–2614
+Lachance C, Fortier M et al (2010) Localization of Hsp60 and Grp78 in the human testis,
+epididymis and mature spermatozoa. Int J Androl 33:33–44
+Lamber H, Chapin FS, Pons TL (1998) Plant physiological ecology. Springer, New York
+Lambert GP (2004) Role of gastrointestinal permeability in exertional heatstroke. Exerc Sport Sci
+Rev 32:185–190
+Lambert GP (2008) Intestinal barrier dysfunction, endotoxemia, and gastrointestinal symptoms:
+the ‘canary in the coal mine’ during exercise-heat stress? Med Sport Sci 53:61–73
+Lambert GP (2009) Stress-induced gastrointestinal barrier dysfunction and its inﬂammatory
+effects. J Anim Sci 87:E101–E108
+Le Dividich J, Vermorel M et al (1980) Effects of environmental temperature on heat production,
+energy retention, protein and fat gain in early weaned piglets. Br J Nutr 44:313–323
+Lee IY, Lee CC et al (2005) Sheng mai san, a Chinese herbal medicine, protects against renal
+ischaemic injury during heat stroke in the rat. Clin Exp Pharmacol Physiol 32:742–748
+Lelievre F, Volaire F (2009) Current and potential development of perennial grasses in rainfed
+Mediterranean farming systems. Crop Sci 49:2371–2378
+Lelievre F, Seddaiu G, Ledda L, Porqueddu C, Volaire F (2011) Water use efﬁciency and drought
+survival in Mediterranean perennial forage grasses. Field Crops Res 121:333–342
+Leroy JL, Vanholder T et al (2004) Metabolic changes in follicular ﬂuid of the dominant follicle
+in high-yielding dairy cows early postpartum. Theriogenology 62:1131–1143
+Lewis K, McKay DM (2009) Metabolic stress evokes decreases in epithelial barrier function.
+Ann N Y Acad Sci 1165:327–337
+Lewis GS, Thatcher WW, Bliss EL, Drost M, Collier RJ (1984) Effects of heat stress during
+pregnancy on postpartum reproductive changes in holstein cows. J Anim Sci 58:174–186
+Li Q et al (2009) Disruption of tight junctions during polymicrobial sepsis in vivo. J Pathol
+218:210–221
+Liao CW, Veum TL (1994) Effects of dietary energy intake by gilts and heat stress from days 3 to
+24 or 30 after mating on embryo survival and nitrogen and energy balance. J Anim Sci
+72:2369–2377
+Liu F et al (2009) Heat-stress-induced damage to porcine small intestinal epithelium associated
+with downregulation of epithelial growth factor signaling. J Anim Sci 87:1941–1949
+Liu JJ, Ma X et al (2010) Downregulation of both gene expression and activity of Hsp27
+improved maturation of mouse oocyte in vitro. Reprod Biol Endocrinol 8:47
+Long SP, Ainsworth EA, Rogers A, Ort DR (2004) Rising atmospheric carbon dioxide: plants
+FACE the future. Annu Rev Plant Biol 55:591–628
+Lu Q, Wen J, Zhang H (2007) Effect of chronic heat exposure on fat deposition and meat quality
+in two genetic types of chicken. Poult Sci 86:1059–1064
+Luft JC, Benjamin IJ, Mestril R, Dix DJ (2001) Heat shock factor 1-mediated thermotolerance
+prevents cell death and results in G2/M cell cycle arrest. Cell Stress Chaperones 6:326–336
+Lutze LJ, Gifford RM (1998) Carbon accumulation and water use of D. richarsonii swards in
+response to CO2 and nitrogen supply over four years growth. Glob Change Biol 4:851–861
+460 L. H. Baumgard et al.
+Maas EV, Hoffman GJ (1977) Crop salt tolerance current assessment. J Irrig Drain Div
+174:115–134
+MacLennan NK, James SJ, Melnyk S, Piroozi A, Jernigan S et al (2004) Uteroplacental
+insufﬁciency alters DNA methylation, one-carbon metabolism, and histone acetylation in
+IUGR rats. Physiol Genomics 18:43–50
+Magee TR, Han G, Cherian B, Khorram O, Ross MG et al (2008) Down-regulation of
+transcription factor peroxisome proliferator-activated receptor in programmed hepatic lipid
+dysregulation and inﬂammation in intrauterine growth-restricted offspring. Am J Obstet
+Gynecol 199(271):e271–e275
+Maizels ET, Peters CA et al (1998) Heat-shock protein-25/27 phosphorylation by the delta
+isoform of protein kinase C. Biochem J 332:703–712
+Mallouk Y, Vayssier-Taussat M et al (1999) Heat shock protein 70 and ATP as partners in cell
+homeostasis (review). Int J Mol Med 4:463–474
+Malmendal A, Overgaard J et al (2006) Metabolomic proﬁling of heat stress: hardening
+and recovery of homeostasis in Drosophila. Am J Physiol Regul Integr Comp Physiol 291:
+R205–R212
+Marder J, Eylath U et al (1990) The effect of heat exposure on blood chemistry of the
+hyperthermic rabbit. Comp Biochem Physiol A 97:245–247
+Martens WJM, Jetten TH, Rotmans J, Niessen LW (1995) Climate change and vector-borne
+diseases: a global modelling perspective. Glob Environ Change 5:195–209
+Martti K (1967) Development of rectum-testis temperature difference in the post-natal rat.
+J Reprod Fertil 14:427–437
+McCoard SA, Peterson SW, McNabb WC, Harris PM, McCutcheon SN (1997) Maternal
+constraint inﬂuences muscle ﬁbre development in fetal lambs. Reprod Fertil Dev 9:675–681
+McEvoy TG, Robinson JJ et al (1997) Dietary excesses of urea inﬂuence the viability and
+metabolism of preimplantation sheep embryos and may affect fetal growth among survivors.
+Anim Reprod Sci 47:71–90
+McGlone JJ, Stansbury WF, Tribble LF, Morrow JL (1988) Photoperiod and heat stress inﬂuence
+on lactating sow performance and photoperiod effects on nursery pig performance. J Anim Sci
+66:1915–1919
+McGuire MA et al (1989) Effects of thermal stress and level of feed intake on portal plasma ﬂow
+and net ﬂuxes of metabolites in lactating holstein cows. J Anim Sci 67:1050–1060
+McKeon GM, Stone GS, Syktus JI, Carter JO, Flood NR, Ahrens DG, Bruget DN, Chilcott CR,
+Cobon DH, Cowley RA, Crimp SJ, Fraser GW, Howden SM, Johnston PW, Ryan JG, Stokes
+CJ, Day KA (2009) Climate change impacts on northern Australian rangeland livestock
+carrying capacity: a review of issues. Rangeland J 31:1–29
+Meng Q et al (2005) Regulation of amino acid arginine transport by lipopolysaccharide and nitric
+oxide in intestinal epithelial IEC-6 cells. J Gastrointest Surg Off J Soc Surg Aliment Tract
+9:1276–1285 (discussion 1285)
+Metukuri MR, Reddy CM et al (2010) Bacterial LPS-mediated acute inﬂammation-induced
+spermatogenic failure in rats: role of stress response proteins and mitochondrial dysfunction.
+Inﬂammation 33:235–243
+Minton JE, Wettemann RP, Meyerhoeffer DC, Hintz RL, Turman EJ (1981) Serum luteinizing
+hormone and testosterone in bulls during exposure to elevated ambient temperature. J Anim
+Sci 53:1551–1558
+Mitchell MA, Carlisle AJ (1992) The effects of chronic exposure to elevated environmental
+temperature on intestinal morphology and nutrient absorption in the domestic fowl (Gallus
+domesticus). Comp Biochem Physiol A: Comp Physiol 101:137–142
+Mitlöhner FM, Morrow JL et al (2001) Shade and water misting effects on behavior, physiology,
+performance, and carcass traits of heat-stressed feedlot cattle. J Anim Sci 79:2327–2335
+Mohammed ME, Johnson HD (1985) Effect of growth hormone on milk yields and related
+physiological functions of holstein cows exposed to heat stress. J Dairy Sci 68:1123–1133
+Molvarec A, Tamasi L et al (2010) Circulating heat shock protein 70 (HSPA1A) in normal and
+pathological pregnancies. Cell Stress Chaperones 15:237–247
+15 Impact of Climate Change on Livestock Production 461
+Morgan ER, Wall R (2009) Climate change and parasitic disease, farmer mitigation? Trends
+Parasitol 25:308–313
+Mori C, Nakamura N et al (1997) Morphological analysis of germ cell apoptosis during postnatal
+testis development in normal and Hsp 70–2 knockout mice. Dev Dyn 208:125–136
+Moss AR, Jounany JP, Neevbold J (2000) Methane production by ruminants. Its contribution
+to global warming. Ann Zootech 49:231–253
+Muckter H, Ben-Shaul Y, Bacher A (1987) ATP requirement for induced tight junction formation
+in HT 29 adenocarcinoma cells. Eur J Cell Biol 44:258–264
+Narayansingh RM, Senchyna M et al (2004) Expression of prostaglandin G/H synthase (PGHS)
+and heat shock protein-70 (HSP-70) in the corpus luteum (CL) of prostaglandin F2 alpha-
+treated immature superovulated rats. Can J Physiol Pharmacol 82:363–371
+Neal MD et al (2006) Enterocyte TLR4 mediates phagocytosis and translocation of bacteria
+across the intestinal barrier. J Immunol 176:3070–3079
+Nichi M, Bols PE, Züge RM, Barnabe VH, Goovaerts IG, Barnabe RC, Cortada CN (2006)
+Seasonal variation in semen quality in Bos indicus and Bos taurus bulls raised under tropical
+conditions. Theriogenology 66:822–828
+Niu SL, Wu MY, Han Y, Xia JY, Li LH, Wan SQ (2008) Water-mediated responses of ecosystem
+carbon ﬂuxes to climatic change in a temperate steppe. New Phytol 177:209–219
+O’Brien MD, Rhoads RP et al (2010) Metabolic adaptations to heat stress in growing cattle.
+Domest Anim Endocrinol 38:86–94
+Ocon OM, Hansen PJ (2003) Disruption of bovine oocytes and preimplantation embryos by urea
+and acidic pH. J Dairy Sci 86:1194–1200
+OIE (2008) Climate change, impact on epidemiology and control of animal diseases. www.oie.int
+Olvera-Sanchez S, Espinosa-Garcia MT et al (2011) Mitochondrial heat shock protein
+participates in placental steroidogenesis. Placenta 32:222–229
+Omtvedt IT, Nelson RE, Edwards RL, Stephens DF, Turman EJ (1971) Inﬂuence of heat stress
+during early, mid and late pregnancy of gilts. J Anim Sci 32:312–317
+Oresanya TF, Beaulieu AD, Patience JF (2008) Investigations of energy metabolism in weanling
+barrows: the interaction of dietary energy concentration and daily feed (energy) intake.
+J Anim Sci 86:348–363
+Oswald IP (2006) Role of intestinal epithelial cells in the innate immune defence of the pig
+intestine. Vet Res 37:359–368
+Owensby CE, Ham JM, Knapp AK, Bremer D, Auen LM (1997) Water vapour ﬂuxes and their
+impact under elevated CO2 in a C4-tallgrass prairie. Glob Clim Change 3:189–195
+Padmini E, Lavanya S (2011) Over expression of HSP70 and HSF1 in endothelial cells during
+pre-eclamptic placental stress. Aust N Z J Obstet Gynaecol 51:47–52
+Patience JF, Umboh JF et al (2005) Nutritional and physiological responses of growing pigs
+exposed to a diurnal pattern of heat stress. Livest Prod Sci 96:205–214
+Patz JA, Graczyk TK, Geller N, Vitto YA (2000) Effects of environmental change on emerging
+parasitic diseases. Int J Parasitol 30:1395–1405
+Pedersen JK (2009) Above and belowground phenology in a heathland during future climate
+change. In: Climate change: global risks, challenges and decisions. IOP conference series,
+IOP publishing. Earth and environmental science, p 31
+Piao SL, Fang JY, Chen AP (2003) Seasonal dynamics of terrestrial net primary production in
+response to climatic changes in China. Acta Bot Sinica 45:269–275
+Pires ES, Khole VV (2009) A block in the road to fertility: autoantibodies to heat-shock protein
+90-beta in human ovarian autoimmunity. Fertil Steril 92:1395–1409
+Pisa V, Cozzolino M et al (2009) The molecular chaperone Hsp90 is a component of the
+cap-binding complex and interacts with the translational repressor cup during Drosophila
+oogenesis. Gene 432:67–74
+Pitta DW, Barry TN, L0opez-Villalobos N, Kemp PD (2005) Effects on ewe reproduction
+of grazing willow fodder blocks during drought. Anim Feed Sci Technol 120:217–234
+Pollmann DS (2010) Seasonal effects on sow herds: Industry experience and management
+strategies. Midwest American Society of Animal Science, Des Moines
+462 L. H. Baumgard et al.
+Post E, Pedersen C (2008) Opposing plant community responses to warming with and without
+herbivores. Proc Nat Acad Sci USA 105:12353–12358
+Post E, Pedersen C, Wilmers CC, Forchhammer MC (2008) Phenological sequences reveal
+aggregate life history response to climate. Ecology 89:363–370
+Poston L (2011) Intergenerational transmission of insulin resistance and type 2 diabetes. Prog
+Biophys Mol Biol 106:315–322
+Purse BV, Mellor PS, Rogers DJ, Samuel AR, Mertens PPC, Baylis M (2005) Climate change
+and the recent emergence of bluetongue in Europe. Nat Rev Microbiol 3:171–182
+Putney DJ, Drost M et al (1988a) Embryonic development in superovulated dairy cattle exposed
+to elevated ambient temperatures between days 1 to 7 post insemination. Theriogenology
+30:195–209
+Putney DJ, Gross TS, Thatcher WW (1988b) Prostaglandin secretion by endometrium of pregnant
+and cyclic cattle at day 17 after oestrus in response to in vitro heat stress. J Reprod Fertil
+84:475–483
+Putney DJ, Drost M et al (1989) Inﬂuence of summer heat stress on pregnancy rates of lactating
+dairy cattle following embryo transfer or artiﬁcial insemination. Theriogenology 31:765–778
+Qi H et al (2011) Involvement of HIF-1alpha in MLCK-dependent endothelial barrier
+dysfunction in hypoxia. Cell Physiol Biochem: Int J Exp Cell Physiol Biochem Pharmacol
+27:251–262
+Quinteiro-Filho WM et al (2010) Heat stress impairs performance parameters, induces intestinal
+injury, and decreases macrophage activity in broiler chickens. Poult Sci 89:1905–1914
+Qureshi RH, Barrett-Lenard EG (1998) Saline agriculture for irrigated land in Pakistan:
+a handbook, monograph, vol 50. ACIAR, Canberra, p 142
+Randolph SE, Asokliene L, Avsic-Zupanc T, Bormane A, Burri C, Gern L, Golovljova I, Hubalek
+Z, Knap N, Kondrusik M, Kupca A, Pejcoch M, Vasilenko V, Ygutiene M (2008) Variable
+spikes in tick-borne encephalitis incidence in 2006 independent of variable tick abundance but
+related to weather. Parasites Vectors 1: 10.1186/1756-3305-1-44
+Ravin HA, Rowley D, Jenkins C, Fine J (1960) On the absorption of bacterial endotoxin from the
+gastro-intestinal tract of the normal and shocked animal. J Exp Med 112:783–792
+Ray EC, Avissar NE, Sax HC (2002) Growth factor regulation of enterocyte nutrient transport
+during intestinal adaptation. Am J Surg 183:361–371
+Raychaudhuri N, Raychaudhuri S, Thamotharan M, Devaskar SU (2008) Histone code
+modiﬁcations repress glucose transporter 4 expression in the intrauterine growth-restricted
+offspring. J Biol Chem 283:13611–13626
+Rebbeck J, Blum U, Heagle AS (1988) Effects of ozone on the regrowth and energy reserves of
+a ladino clover tall fescue pasture. J Appl Ecol 25:659–681
+Reik W (2007) Stability and ﬂexibility of epigenetic gene regulation in mammalian development.
+Nature 447:425–432
+Reilly J, Tubiello F, Mccarl B, Abler D, Darwin R, Fuglie K, Hollinger S, Izaurralde C, Jagtap S,
+Jones J, Mearns L, Ojima D, Paul E, Paustian K, Riha S, Rosenberg N, Rosenzweig C (2003)
+U.S. agriculture and climate change. New results. Clim Change 57:43–69
+Renaudeau D, Noblet J (2001) Effects of exposure to high ambient temperature and dietary
+protein level on sow milk production and performance of piglets. J Anim Sci 79:1540–1548
+Renaudeau D, Gourdine JL, Silva BAN, Noblet J (2008) Nutritional routes to attenuate heat stress
+in pigs. In: Rowlinson P, Steele M, Nefzaoui A (eds) Livestock and global change. Cambridge
+University Press, Cambridge
+Rensis FD, Scaramuzzi RJ (2003) Heat stress and seasonal effects on reproduction in the dairy
+cow-a review. Theriogenology 60:1139–1151
+Reperant LA (2010) Applying the theory of island biogeography to emerging pathogens, toward
+predicting the sources of future emerging zoonotic and vector-borne diseases. Vector Borne
+Zoonotic Dis 10:105–110
+Rhoads ML, Gilbert RO et al (2004) Effects of urea infusion on the uterine luminal environment
+of dairy cows. J Dairy Sci 87:2896–2901
+15 Impact of Climate Change on Livestock Production 463
+Rhoads ML, Rhoads RP et al (2006) Detrimental effects of high plasma urea nitrogen levels
+on viability of embryos from lactating dairy cows. Anim Reprod Sci 91:1–10
+Rhoads ML, Rhoads RP et al (2009) Effects of heat stress and plane of nutrition on lactating
+holstein cows: I. production, metabolism and aspects of circulating somatotropin. J Dairy Sci
+92:1986–1997
+Rice JB et al (2003) Low-level endotoxin induces potent inﬂammatory activation of human blood
+vessels: inhibition by statins. Arterioscler Thromb Vasc Biol 23:1576–1582
+Richter K, Haslbeck M et al (2010) The heat shock response: life on the verge of death. Mol Cell
+40:253–266
+Rogers WE, Hartnett DC (2001) Temporal vegetation dynamics and recolonization mechanisms
+on different-sized soil disturbances in tall grass prairie. Am J Bot 88:1634–1642
+Rose H, Wall R (2011) Modelling the impact of climate change on spatial patterns of disease risk,
+sheep blowﬂy strike by Lucilia sericata in Great Britain. Int J Parasitol 41:739–746
+Rose H, Learmount J, Taylor M, Wall R (2009) Mapping risk foci for endemic sheep scab.
+Vet Parasitol 165:112–118
+Roth Z (2008) Heat stress, the follicle, and its enclosed oocyte: mechanisms and potential
+strategies to improve fertility in dairy cows. Reprod Domest Anim 43(Suppl 2):238–244
+Roush W (1994) Population—the view from Cairo. Science 265:1164–1167
+Rozenboim I, Tako E et al (2007) The effect of heat stress on ovarian function of laying hens.
+Poult Sci 86:1760–1765
+Ruden DM, Xiao L et al (2005) Hsp90 and environmental impacts on epigenetic states: a model
+for the trans-generational effects of diethylstibesterol on uterine development and cancer.
+Hum Mol Genet 14 Spec No 1: R149–155
+Russell JS (1976) Comparative salt tolerance of some tropical and temperate legumes and tropical
+grasses. Aust J Exp Agric Anim Husb 16:103–109
+Rustad LE, Norby RJ (2002) Temperature increase: effects on terrestrial ecosystems. In: Mooney
+HA, Canadell JG (eds) The earth system: biological and ecological dimensions of global
+environmental change. Encyclopedia of global environmental change, vol 2. Wiley,
+Chichester, pp 575–581
+Rustad LE, Campbell JL, Marion GM, Norby RJ, Mitchell MJ, Hartley AE, Cornelissen JHC,
+Gurevitch J (2001) A meta-analysis of the response of soil respiration, net nitrogen
+mineralization, and aboveground plant growth to experimental ecosystem warming.
+Oecologia 126:543–562
+Sachan N, Singh VP (2010) Effect of climatic changes on the prevalence of zoonotic diseases.
+Vet World 13:519–522
+Sahin K, Kucuk O (2003) Zinc supplementation alleviates heat stress in laying Japanese quail.
+J Nutr 133:2808–2811
+Sahin N, Tuzcu M et al (2009) The effects of vitamin C and E supplementation on heat shock
+protein 70 response of ovary and brain in heat-stressed quail. Br Poult Sci 50:259–265
+Sandkc M, Eren U, Onol AG, Kum S (2004) The effect of heat stress and the use of
+Saccharomyces cerevisiae or (and) bacitracin zinc against heat stress on the intestinal mucosa
+in quails. Rev Med Vet 155:552–556
+Sarkar S, Lakhotia SC (2008) Hsp60C is required in follicle as well as germline cells during
+oogenesis in Drosophila melanogaster. Dev Dyn 237:1334–1347
+Sato F, Tsuchiya S, Meltzer SJ, Shimizu K (2011) MicroRNAs and epigenetics. FEBS
+J 278:1598–1609
+Schmidt P, Widdowson EM (1967) The effect of a low-protein diet and a cold environment
+on calorie intake and body composition in the rat. Br J Nutr 21:457–465
+Schneider PL, Beede DK et al (1988) Nycterohemeral patterns of acid-base status, mineral
+concentrations and digestive function of lactating cows in natural or chamber heat stress
+environments. J Anim Sci 66:112–125
+Schweinburg FB, Fine J (1960) Evidence for a lethal endotoxemia as the fundamental feature
+of irreversibility in three types of traumatic shock. J Exp Med 112:793–800
+Setchell BP (1998) The parkes lecture. Heat and the testis. J Reprod Fertil 114:179–194
+464 L. H. Baumgard et al.
+Shannon MC, Noble CL (1995) Variation in salt tolerance and ion accumulation among
+subterranean clover cultivars. Crop Sci 35:798–804
+Shaver GR, Canadell J, Chapin FS III, Gurevitch J, Henry JHG, Ineson P, Jonasson S, Melillo J,
+Pitelka L, Rustad L (2000) Global warming and terrestrial ecosystems: a conceptual
+framework for analysis. Bioscience 50:871–882
+Shen L, Weber CR, Turner JR (2008) The tight junction protein complex undergoes rapid and
+continuous molecular remodeling at steady state. J Cell Biol 181:683–695
+Shen L, Weber CR et al (2011) Tight junction pore and leak pathways: a dynamic duo. Annu Rev
+Physiol 73:283–309
+Shiota K, Kayamura T (1989) Effects of prenatal heat stress on postnatal growth, behavior
+and learning capacity in mice. Biol Neonate 56:6–14
+Shwartz G, Rhoads ML et al (2009) Effects of a supplemental yeast culture on heat-stressed
+lactating holstein cows. J Dairy Sci 92:935–942
+Silanikove N (2000) Effects of heat stress on the welfare of extensively managed domestic
+ruminants. Livest Prod Sci 67:1–18
+Singh RK (2010) Impact of climate change on pattern of zoonotic diseases occurance and spread
+in livestock, In: Compendium on national symposium on climate change and livestock
+productivity in India, NDRI, Karnal, Haryana, India pp 38–46
+Singleton KD, Wischmeyer PE (2006) Oral glutamine enhances heat shock protein expression
+and improves survival following hyperthermia. Shock 25:295–299
+Sirotkin AV, Bauer M (2011) Heat shock proteins in porcine ovary: synthesis, accumulation
+and regulation by stress and hormones. Cell Stress Chaperones 16:379–387
+Skerman PJ, Riveros F (1990) Tropical grasses. FAO plant production and protection series no.
+23. FAO, Rome
+Slenning BD (2010) Global climate change and implications for disease emergence. Vet Path
+47:28–33
+Smit B, McNabb D, Smithers J (1996) Agricultural adaptation to climatic change. Clim Change
+33:7–29
+Soede NM, Noordhuizen JP, Kemp B (1992) The duration of ovulation in pigs, studied by
+transrectal ultrasonography, is not related to early embryonic diversity. Theriogenology
+38:653–666
+Solh MB (1993) New approaches to breeding for stress environments-discussion. Int Crop Sci
+1:579–581
+Soussana JF, Luscher A (2007) Temperate grasslands and global atmospheric change: a review.
+Grass Forage Sci 62:127–134
+Spiers DE, Spain JN, Sampson JD, Rhoads RP (2004) Use of physiological parameters to predict
+milk yield and feed intake in heat-stressed dairy cows. J Therm Biol 29:759–764
+Spurlock ME (1997) Regulation of metabolism and growth during immune challenge:
+an overview of cytokine function. J Anim Sci 75:1773–1783
+St. Pierre NR, Cobanov B, Schnitkey G (2003) Economic losses from heat stress by US livestock
+industries. J Dairy Sci 86:E52–E77
+Stahly TS, Cromwell GI, Aviotti P (1979) The effect of environmental temperature and dietary
+lysine source and level on the performance and carcass characteristics of growing swine.
+J Anim Sci 49:1242–1250
+Stem E, Mertz GA, Stryker JD, Huppi M (1989) Changing animal disease patterns induced by the
+greenhouse effect. In: Smith J, Tirpack DA (eds) The potential effects of global change on
+theUnited States. Appendix C—Agriculture, vol 2.0. US Environmental Protection Agency,
+Washington, D.C., pp 11–38
+Sternini C, Anselmi L, Rozengurt E (2008) Enteroendocrine cells: a site of ‘taste’ in
+gastrointestinal chemosensing. Curr Opin Endocrinol Diabetes Obes 15:73–78
+Stewart BM, Block J, Morelli P, Navarette AE, Amstalden M, Bonilla L, Hansen PJ, Bilby TR
+(2011) Efﬁcacy of embryo transfer in lactating dairy cows during summer using fresh
+or vitriﬁed embryos produced in vitro with sex-sorted semen. J Dairy Sci 94:3437–3445
+15 Impact of Climate Change on Livestock Production 465
+Stokes C, Ash A (2007) Impacts of climate change on marginal tropical animal production
+systems. In: Newton PCD, Carran RA, Edwards GR, Niklaus PA (eds) Agroecosystems in
+a changing climate. CRC Press, Boca Raton, FL, pp 323–328. Subterranean clover.
+In: Proceedings of the XVIII international grasslands congress, pp 9.21–9.22
+Stowell RR, Mader TR, Gaughan JB (2009) Chapter 8: Environmental management. In: JA
+DeShazer (ed) Livestock Energetics and Thermal Environment Management, ASABE, St.
+Joseph, MI.
+Sumilo D, Bormane A, Vasilenko V, Golovljova I, Asokliene L, Zygutiene M, Randolph S (2009)
+Upsurge of tick-borne encephalitis in the Baltic States at the time of political transition,
+independent of changes in public health practices. Clin Microbiol Infect 15:75–80
+Szymanski LA, Schneider JE et al (2007) Changes in insulin, glucose and ketone bodies, but not
+leptin or body fat content precede restoration of luteinising hormone secretion in ewes.
+J Neuroendocrinol 19:449–460
+Tabuchi Y, Takasaki I et al (2008) Genes and genetic networks responsive to mild hyperthermia
+in human lymphoma U937 cells. Int J Hyperth 24:613–622
+Terada K, Yomogida K et al (2005) A type I DnaJ homolog, DjA1, regulates androgen receptor
+signaling and spermatogenesis. EMBO J 24:611–622
+Tetievsky A, Horowitz M (2010) Posttranslational modiﬁcations in histones underlie heat
+acclimation-mediated cytoprotective memory. J Appl Physiol 109:1552–1561
+Theodorakis NG, Morimoto RI (1987) Posttranscriptional regulation of hsp70 expression in
+human cells: effects of heat shock, inhibition of protein synthesis, and adenovirus infection on
+translation and mRNA stability. Mol Cell Biol 7:4357–4368
+Thompson RF, Fazzari MJ, Niu H, Barzilai N, Simmons RA et al (2010) Experimental
+intrauterine growth restriction induces alterations in DNA methylation and gene expression in
+pancreatic islets of rats. J Biol Chem 285:15111–15118
+Tirado MC, Clarke R, Jaykus LA, McQuatters-Gollop A, Frank JM (2010) Climate change and
+food safety, a review. Food Res Int 43:1745–1765
+Tomar OS, Minhas PS, Sharma VK, Gupta Raj K (2003) Response of nine forage grasses to
+saline irrigation and its schedules in a semi-arid climate of north-west India. J Arid Environ
+55:533–544
+Tompkins EC, Heidenreich CJ et al (1967) Effects of post-breeding thermal stress on embryonic
+mortality in swine. J Anim Sci 26:4
+Trape JF et al (1996) The spread of tick-borne borreliosis in West Africa and its relationship
+to sub-Saharan drought. Am J Trop Med Hyg 54:289–293
+Truog PN, Roberts MH (1992) Salt tolerance of some tropical and subtropical grass species
+grown in Queensland. In: Proceedings of National workshop on productive use of saline land.
+Proceeding no 42, ACIAR, Perth, Western Australia, 1–14 May, pp 36–44
+Tseng JK, Tang PC, Ju JC (2006) In vitro thermal stress induces apoptosis and reduces
+development of porcine parthenotes. Theriogenology 66:1073–1082
+Turner JR (2006) Molecular basis of epithelial barrier regulation: from basic mechanisms
+to clinical application. Am J Pathol 169:1901–1909
+Turner BM (2007) Deﬁning an epigenetic code. Nat Cell Biol 9:2–6
+Van den Bossche P, Coetzer JA (2008) Climate change and animal health in Africa. Rev Sci Tech
+27:551–562
+Van Milgen J, Noblet J (2003) Partitioning of energy intake to heat, protein, and fat in growing
+pigs. J Anim Sci 81:E86–E93
+Velazquez MM, Alfaro NS et al (2010) Heat shock protein patterns in the bovine ovary and
+relation with cystic ovarian disease. Anim Reprod Sci 118:201–209
+Verstegem MWA, Brascamp EW, Van Der Hel W (1978) Growing and fattening of pigs
+in relation to temperature of housing and feeding level. Can J Anim Sci 58:1–13
+Voit EO, Radivoyevitch T (2000) Biochemical systems analysis of genome-wide expression data.
+Bioinformatics 16:1023–1037
+Volk M, Bungener P, Contat F, Montani M, Fuhrer J (2006) Grassland yield declined by aquater
+in 5 years of free air ozone fumigation. Glob Change Biol 12:74–83
+466 L. H. Baumgard et al.
+Waisel Y (1985) The stimulating effects of NaCl on root growth of rhodes grass (Chloris
+gayana). Physiol Plant 64:519–522
+Wall R, Ellse LS (2011) Climate change and livestock parasites: integrated management of sheep
+blowﬂy strike in a warmer environment. Glob Clim Change 17:1770–1777
+Wan SQ, Xia JY, Liu WX, Niu SL (2009) Photosynthetic overcompensation under nocturnal
+warming enhances grassland carbon sequestration. Ecology 90:2700–2710
+Wang Y, Zhou G, Wang Y (2007) Modeling responses of the meadow steppe dominated
+by Leymus chinensis to climate change. Clim Change 82:437–452
+Wang J-F, Gao S, Lin J-X, Mu Y-G, Mu C-S (2010) Summer warming effects on biomass
+production and clonal growth of Leymus chinensis. Crop Pasture 61:670–676
+Ward MP, Carpenter TE (2000) Analysis of time space clustering in veterinary epidemiology.
+Prev Vet Med 43:225–237
+Waterland RA, Garza C (1999) Potential mechanisms of metabolic imprinting that lead to chronic
+disease. Am J Clin Nutr 69:179–197
+Webel DM, Finck BN, Baker DH, Johnson RW (1997) Time course of increased plasma
+cytokines, cortisol, and urea nitrogen in pigs following intraperitoneal injection of
+lipopolysaccharide. J Anim Sci 75:1514–1520
+Webel DM, Johnson RW, Baker DH (1998) Lipopolysaccharide-induced reductions in food
+intake do not decrease the efﬁciency of lysine and threonine utilization for protein accretion in
+chickens. J Nutr 128:1760–1766
+Weber LP, Janz DM (2001) Effect of beta-naphthoﬂavone and dimethylbenz[a]anthracene on
+apoptosis and HSP70 expression in juvenile channel catﬁsh (Ictalurus punctatus) ovary.
+Aquat Toxicol 54:39–50
+Welker S, Rudolph B et al (2010) Hsp12 is an intrinsically unstructured stress protein that folds
+upon membrane association and modulates membrane function. Mol Cell 39:507–520
+West JW (1999) Nutritional strategies for managing the heat-stressed dairy cow. J Anim Sci
+77(Suppl 2):21–35
+Wettemann RP, Wells ME, Omtvedt IT, Pope CE, Turman EJ (1976) Inﬂuence of elevated
+ambient temperature on reproductive performance of boars. J Anim Sci 42:664–669
+Wheelock JB, Rhoads RP et al (2010) Effects of heat stress on energetic metabolism in lactating
+holstein cows. J Dairy Sci 93:644–655
+White TW, Bunting LD et al (1992) Inﬂuence of ﬁsh meal and supplemental fat on performance
+of ﬁnishing steers exposed to moderate or high ambient temperatures. J Anim Sci
+70:3286–3292
+Williams MA, Rice CW, Owensby CE (2000) Carbon and nitrogen dynamics and microbial
+activity in tallgrass prairie exposed to elevated CO2 for 8 years. Plant Soil (in press)
+Wilmking M, Juday GP, Barber VA, Zald HSJ (2004) Recent climate warming forces contrasting
+growth responses of white spruce at tree line in Alaska through temperature thresholds. Glob
+Change Biol 10:1724–1736
+Wilson SJ, Marion RS et al (1998) Effects of controlled heat stress on ovarian function of dairy
+cattle. J Dairy Sci 81:2124–2131
+Wiznitzer T, Schweinburg FB, Atkins N, Fine J (1960) On the relation of the size of the
+intraintestinal pool of endotoxin to the development of irreversibility in hemorrhagic shock.
+J Exp Med 112:1167–1171
+Wolfe ND, Daszak P, Kilpatrick AM, Burke DS (2005) Bushmeat hunting, deforestation, and
+prediction of zoonotic disease emergence. Emerg Infect Dis 11:1822–1827
+Wolfenson D, Roth Z et al (2000) Impaired reproduction in heat-stressed cattle: basic and applied
+aspects. Anim Reprod Sci 60–61:535–547
+Woolhouse M, Gaunt E (2007) Ecological origins of novel pathogens. Crit Rev Microbiol 33:231
+Wu C (1984) Two protein-binding sites in chromatin implicated in the activation of heat-shock
+genes. Nature 309:229–234
+Wu BJ, Kingston RE et al (1986) Human HSP70 promoter contains at least two distinct
+regulatory domains. Proc Nat Acad Sci USA 83:629–633
+15 Impact of Climate Change on Livestock Production 467
+Xia JY, Niu SL, Wan SQ (2009) Response of ecosystem carbon exchange to warming and
+nitrogen addition during two hydrologically contrasting growing seasons in a temperate
+steppe. Glob Change Biol 15:1544–1556
+Yahav S, McMurtry JP (2001) Thermotolerance acquisition in broiler chickens by temperature
+conditioning early in life–the effect of timing and ambient temperature. Poult Sci 80:
+1662–1666
+Yang PC, He SH, Zheng PY (2007) Investigation into the signal transduction pathway via which
+heat stress impairs intestinal epithelial barrier function. J Gastroenterol Hepatol 22:1823–1831
+Yu J et al (2010) Effect of heat stress on the porcine small intestine: a morphological and gene
+expression study. Comp Biochem Physiol A: Mol Integr Physiol 156:119–128
+Yunianto VD, Hayashi K et al (1997) Effect of environmental temperature on muscle protein
+turnover and heat production in tube-fed broiler chickens. Br J Nutr 77:897–909
+Zhang Q, Li Q et al (2010a) Redistribution of tight junction proteins during EPEC infection
+in vivo. Inﬂammation 35:23–32
+Zhang Q et al (2010b) Enteropathogenic Escherichia coli changes distribution of occludin
+and ZO-1 in tight junction membrane microdomains in vivo. Microb Pathog 48:28–34
+Zhu JQ, Liu JH, Liang XW, Xu BZ, Hou Y et al (2008) Heat stress causes aberrant DNA
+methylation of H19 and Igf-2r in mouse blastocysts. Mol Cells 25:211–215
+Zimbleman RB, Rhoads RP, Baumgard LH, Collier RJ (2009) Revised temperature humidity
+index (THI) for high producing dairy cows. J Dairy Sci 92(E-Suppl 1):347
+Zweifach BW, Janoff A (1965) Bacterial endotoxemia. Annu Rev Med 16:201–220
+468 L. H. Baumgard et al.

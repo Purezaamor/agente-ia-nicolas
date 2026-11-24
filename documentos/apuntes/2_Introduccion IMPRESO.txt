@@ -1,0 +1,103 @@
+=== Fuente: 2_Introduccion IMPRESO.pdf ===
+
+1
+EstadEstad íísticastica
+“Arte de torturar los datos hasta que confiesen”
+En Estadística interesa la presentación e interpretación de 
+resultados aleatorios que se producen desde un estudio planeado 
+o desde el muestreo de una población.
+El objetivo de la Estadística es hacer inferencia (estimaciones, 
+predicciones, toma de decisiones) sobre la población (o 
+poblaciones) basándose en la información contenida en una 
+muestra (aleatoria). 
+POBLACION
+MUESTRA MUESTRA MUESTRA MUESTRA
+2
+Inferencia EstadInferencia Estad íísticastica
+Procedimiento por el cual se llega a obtener conclusiones sobre la 
+población en base a los resultados de una muestra extraída de esa 
+población. Va de lo particular a lo general.
+POBLACIÓN DISTRIBUCIÓN DE PROBABILIDAD CON
+PARÁMETROS DESCONOCIDOS
+ESTIMACIÓN DE PARÁMETROS PUNTUAL
+MUESTRA POR  I. C.
+PRUEBAS DE HIPÓTESIS
+3
+Algunas definicionesAlgunas definiciones
+Población: conjunto completo de personas u objetos de interés 
+sobre el cual se miden características o atributos (variables) de 
+interés. 
+Parámetro : valor representativo de una población o valor que 
+caracteriza en algún aspecto a la población.
+Pueden examinarse varias características, siendo las más comunes: 
+ La tendencia central de 
+los datos. 
+ La dispersión o variación 
+con respecto a este centro. 
+ Los datos que ocupan 
+ciertas posiciones . 
+ La simetría de los datos. 4
+Algunas definiciones Algunas definiciones (cont.)
+Muestra : parte o subconjunto de la población. Debe ser 
+representativa de ésta, si el fin es obtener inferencias válidas. 
+Muestra representativa : si sus integrantes tienden a tener las 
+mismas características que la población de la que se extrae.
+Estadístico : medida característica de la muestra . Puede ser de 
+tendencia central (media, mediana, proporción, etc.) o de 
+dispersión (rango, varianza, desvío estándar, etc.)
+5
+Tipos de variables y escalas de mediciTipos de variables y escalas de medici óónn
+Proposiciones como “el número de botones florales es de 108" o “la 
+altura de la planta de crisantemo es de 18 cm" se refieren a 
+características que no son constantes. Las características que 
+presentan variabilidad se llaman variables aleatorias (v.a.) .
+Cualitativa : las observaciones no se pueden ordenar 
+o medir en forma natural, sólo se pueden clasificar en 
+categorías. Las escalas pueden ser nominal (Ej: sexo) 
+u ordinal (sólo usa números como un medio de 
+diferenciar clases o categorías).
+Cuantitativa : nos permiten determinar cuanto de algo 
+se posee. Las observaciones pueden medirse 
+mediante al menos una escala ordinal, por intervalos 
+o por razón.
+V.A.
+6
+Tipos de variables y escalas de mediciTipos de variables y escalas de medici óón n (cont.)
+Cuantitativas
+Discretas : no pueden tomar todos los valores 
+posibles en una escala continua. Sí naturales, 
+enteros o racionales. Ej: número de viveros.
+Continuas : pueden presentar cualquier valor 
+dentro de cierto intervalo. Ej: peso, altura de 
+plantas (la limitación depende del aparato de 
+medición, no de la v.a.).
+7
+Escalas de mediciEscalas de medici óónn
+Medir una variable equivale a hacer corresponder a cada individuo 
+una modalidad o valor .
+Existen 4 escalas de medición: 
+Escala nominal : se establecen relaciones de identificación o de 
+pertenencia a una clase no ordenada
+• Simetría: derecha, izquierda
+• Variedades de soja : RA 409 , Natalia 49, Rafaela 58, 
+NA66, Rosario 65, NM70, RA 701, A 8000, A 8100,
+Escala ordinal : existe una relación de orden entre los datos 
+recolectados, que permite comparar las modalidades.
+• Tamaño de los predios: Pequeño, Mediano, Grande
+• Calidad del agua: Mala , Regular , Buena
+8
+Escala de intervalo : permiten comparar diferencias entre 
+parámetros asociados a variables con escala cuantitativa. Hay una 
+selección arbitraria de una unidad de medición y de un origen.
+• Temperatura: medida en escalas Farenheit y Celsius 
+(el punto de congelamiento del agua difiere en cada 
+sistema 32ºF y 0ºC). No se puede afirmar que 100ºC 
+es el doble de caliente que 50ºC.
+Escala de razón o proporción: permite comparar diferencias, 
+definir razones equivalentes y posee un origen natural. El cero 
+absoluto se asigna a la ausencia de la característica que se está
+midiendo.
+• Edad de una planta en meses
+• Costos en $
+• Número de clientes
+Escalas de mediciEscalas de medici óón n (cont.)

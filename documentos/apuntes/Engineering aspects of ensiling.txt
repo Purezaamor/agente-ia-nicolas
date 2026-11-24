@@ -1,0 +1,666 @@
+=== Fuente: Engineering aspects of ensiling.PDF ===
+
+Biochemical Engineering Journal 13 (2003) 181–188
+Engineering aspects of ensiling/H22845
+Z.G. Weinberg∗, G. Ashbell
+Forage Preservation and By-Products Research Unit, The Volcani Center, Agricultural Research Organization, Bet Dagan 50250, Israel
+Received 12 November 2001; accepted after revision 24 July 2002
+Abstract
+Ensiling is a preservation method for moist forage crops, based on a lactic acid solid-state fermentation. Air is detrimental to silage
+because it enables the reactivation of detrimental aerobic microorganisms. The present review describes some of the major engineering and
+physical aspects of ensiling—silo types and the ensiling process—step by step. Issues considered include harvest and chopping, degree of
+consolidation, permeability to air ingress, sealing, additive application and unloading. Mathematical models that have been developed to
+simulate the ensiling process are mentioned. Experimentation methods are also described.
+© 2002 Elsevier Science B.V. All rights reserved.
+Keywords: Anaerobic processes; Food engineering; Forage preservation; Modeling; Silage; Solid-state fermentation
+1. Introduction
+In modern dairy husbandry forage crops are harvested
+at a stage when yields and nutritional value are maximal;
+they are then preserved in order to ensure a continuous and
+consistent supply throughout the year. The major goal of
+preservation is to retain the highest possible proportion of
+the original nutritional value of the feed during storage. In
+the food industry many preservation methods are available:
+cooling and freezing, preservation by heat (blanching, pas-
+teurizing, and commercial sterilization), drying, modiﬁed
+atmospheres, pickling and use of preservatives [1]. For eco-
+nomic and technical reasons, many of these methods are not
+applicable for forage crop preservation. Forage crops are
+preserved either by hay making (ﬁeld drying) or by ensil-
+ing. Hay is preserved because its low water activity inhibits
+detrimental microbial activity. Hay making is restricted to
+crops that can dry quickly and uniformly, and to areas with
+little or no rainfall during harvest.
+Ensiling is a preservation method for moist forage crops.
+It is based on solid-state lactic acid fermentation under
+anaerobic conditions whereby lactic acid bacteria (LAB)
+convert water-soluble sugars into organic acids, mainly to
+lactic acid. As a result the pH decreases, and the moist crop
+is preserved. Air is detrimental to silage because it enables
+/H22845 Contribution from the Agricultural Research Organization, The Volcani
+Center, Bet Dagan, Israel, No. 420/02, 2001 Series.
+∗ Corresponding author. Tel.: +972-3-968-3549; fax: +972-3-960-4428.
+E-mail address: zgw@volcani.agri.gov.il (Z.G. Weinberg).
+plant respiration and the activity of aerobic spoilage microor-
+ganisms such as yeasts and moulds [2]. Therefore, many
+practices applied during ensiling, storage and feeding are
+intended to exclude air from the silage. Other practices that
+promote successful ensiling include the application of silage
+additives.
+It is possible to ensile almost any plant material including
+plant by-products. The most important crops for ensiling
+worldwide are whole-crop corn, alfalfa and various grasses.
+Other crops include whole-crop wheat, sorghum and various
+legumes. Ensiling is a sophisticated and costly operation
+which is mainly used in developed counties. It is estimated
+that 200 million tonnes of dry matter (DM) are ensiled
+worldwide annually at a production cost between US$
+100 and 150 per tonne of DM. This cost comprises: land
+and cultivation (about 50%), harvesting and polyethylene
+(30%), silo (13%) and additives (9%) [3].
+The ensiling process involves many steps that should be
+timed and controlled carefully in order to ensure successful
+ensiling with minimal losses. The present paper summarizes
+and reviews some of the major engineering and physical
+aspects of ensiling.
+2. Brief description of the ensiling process
+The ensiling operation consists the following steps: har-
+vesting the crop at the optimal stage of maturity, wilting (if
+possible) to ensure adequate DM content depending on crop
+for a solid-state lactic acid fermentation, chopping, loading
+1369-703X/02/$ – see front matter © 2002 Elsevier Science B.V. All rights reserved.
+PII: S1369-703X(02)00130-4
+182 Z.G. Weinberg, G. Ashbell / Biochemical Engineering Journal 13 (2003) 181–188
+into a silo, compacting and sealing to exclude air, storing
+and ﬁnally unloading for feeding to the animals. Additives
+can be applied during the chopping or loading steps.
+The biochemical and microbiological events that occur
+during ensiling can be divided into four distinct stages:
+1. Aerobic processes during ﬁlling and immediately after
+sealing while air is still present between the plant parti-
+cles and the pH is 6.0–6.5. In this stage plant respiration
+continues as well as plant proteolysis and the activity of
+aerobic microorganisms such as enterobacteria, fungi and
+yeasts.
+2. Fermentation, which is carried out by a dynamic succes-
+sion of LAB which change according to the conditions
+prevailing in the silage, starting with Enterococcus and
+Leuconostoc, followed by Lactobacillus and Pediococ-
+cus species [4]. Lactic acid and organic acids accumulate,
+and the pH decreases to below 5.0, depending on plant
+composition and buffering capacity.
+3. Storage, during which the silage is sealed, little air pen-
+etrates, and only few changes occur.
+4. Unloading for feeding, during which the silage is reex-
+posed to air, reactivating aerobic microorganisms, mainly
+yeasts and moulds, that may spoil the silage.
+It is desirable to accelerate the fermentation step as much
+as possible in order to minimize the activity of detrimental
+microorganisms and to stabilize the silage. It is also impor-
+tant to minimize the exposure of the silage to air during
+storage and unloading. Many of the engineering aspects of
+ensiling are intended to help to achieve these goals and to
+obtain high-quality silage with minimal losses.
+Fig. 1. Silos for storing silage: (A) tower silos; (B) compaction silage in a bunker silo; (C) silage bales; (D) silage in a plastic sleeve.
+2.1. Silo types
+Silos are the facilities in which the crops are fermented to
+silage and are stored until used for feeding. There are vari-
+ous types of silos, which are selected according to operator
+preference and feeding circumstances (Fig. 1). Silo capacity
+should be determined according to feeding needs (herd size
+and rations), and the dimensions should be calculated to re-
+move an adequate depth of silage from the silo face daily to
+minimize silage exposure to air. The appropriate depth will
+be discussed later under the unloading section. The most
+abundant silo types include stack (clamp) without retaining
+walls, tower silo, bunker silo, horizontal plastic sleeve and
+big bale [5,6] (Fig. 1).
+Stack silage consists a heap of chopped crop (typically
+2–3 m high) which is compacted on bare ground or on con-
+crete ﬂoor, with or without plastic sheeting at bottom, and
+sealed with plastic sheeting. It is used most often for rel-
+atively small quantities of silage in extensive farming, but
+maybe used on large intensive farms as well.
+Tower silos are built of concrete or metal and maybe de-
+signed to be unloaded from the top or from the bottom. With
+this type of silo there is minimal exposure of the silage to
+air. The pressure exerted on the bottom of the walls by the
+weight of the herbage can cause serious problem of efﬂuent
+ﬂow and even damage the structure of the silo. Therefore,
+walls of concrete tower silos should be coated with a sealant,
+especially at the lower part of the silo where lateral and fric-
+tional forces exerted by the silage mass against the walls
+are highest. To avoid efﬂuent, DM content of crops ensiled
+in tower silos should be higher than in bunker silos. The
+Z.G. Weinberg, G. Ashbell / Biochemical Engineering Journal 13 (2003) 181–188 183
+minimal DM content to prevent efﬂuent ﬂow from tower si-
+los depends on silo height and diameter. DM losses depend
+on silo wall permeability and on silage bulk density: the
+higher the density is, the lower the DM losses [7].
+Horizontal bunker silos exist in various sizes and store
+large volumes of silage. They are made of concrete walls
+and ﬂoor. Their storage capacity depends on silo dimen-
+sions, DM content and forage type. Data on silo storage
+capacity have been compiled by Harrison and Fransen [8].
+Bunker silos must be carefully managed in order to avoid
+exposure to air and consequent losses. Because of silage
+acids the iron reinforcement in the concrete is susceptible
+to rust and corrosion. Therefore, the walls should be treated
+periodically with tar and other coating materials such as
+epoxy. O’Donnell et al. [9] studied the characteristics of con-
+crete that affect its corrosion by the acidic silage efﬂuent.
+They exposed prisms of concrete prepared with various wa-
+ter:cement ratios to silage efﬂuent for 28 days and measured
+the corrosion. A minimum cement content of 350 kg m−3
+was needed to withstand corrosion. The seams between the
+concrete slabs should be tightly sealed in order to prevent
+air penetration. The top, shoulders and parts of the silage
+adjacent to the walls are most susceptible to air penetration
+and deterioration, and DM losses have been found to range
+between 3 and 10% in the center of the silage and 25–68%
+at the shoulders [10]. Deep silos have relatively less surface
+spoilage, and narrow silos have less face spoilage because a
+thicker layer is removed each day.
+A comparison between the DM losses in bunker and tower
+silos is presented in Fig. 2 [11].
+Plastics sleeves, called pressed bags in the US come in a
+variety of sizes, 1.8–3.6 m in diameter and length of 30, 60
+and 90 m. They are ﬁlled by a portable bagging machine.
+They can also be partially ﬁlled, but should be tightly closed
+to prevent air pumping by billowing plastics.
+Fig. 2. Predicted DM losses in bunker and tower silos (from [9]).
+Bales facilitate ﬂexible use and can be brought individ-
+ually to pasture sites according to need. Bales are made
+by wrapping individual units with four to eight layers of
+stretch polyethylene ﬁlm, wrapped in a row with such ﬁlm,
+or placed in a row indside a plastic sleeve like bagged silage.
+The bales vary in size but usually weigh 0.5–0.75 t (on wet
+basis). Baling of wilted crops is advantageous over direct
+cut crops: they result in better quality silages, their DM den-
+sity is higher and therefore require less plastic and lower
+number of bales for a given mass of crop. There are two
+types of baling machines: ﬁxed and variable ﬁlling cham-
+bers. In the former, the volume is constant so that the crop
+is subjected only to a rolling action and consequently, the
+core of the bale is less dense than the outer layers. In the
+variable chamber belt systems that cause the bale to rotate
+follow and compress the green mass as it enters, therefore,
+the bale density is more uniform. Square balers are also
+available. Bales are prepared from plants that were not sub-
+jected to chopping (usually grasses), and because of their
+high surface-to-volume ratio, bale silage is especially prone
+to aerobic deterioration. Bales should be handled with care
+in order to avoid tears in the wrapping.
+Recently Ashbell et al. [12] showed that is possible to
+ensile forage in small plastic bags (10–20 kg) which can
+be used by small holder cattle owners in Africa. It was
+hypothesized that although such bags are not air-tight, the
+volatile fatty acids (e.g., acetic acid) that result from the
+fermentation accumulate in the bags and so inhibit aerobic
+deterioration.
+Silage can be part of a feeding center that provides to-
+tal mixed rations (TMR) and also stores concentrates and
+various feed supplements. Such a center is equipped with
+grinding mills, stationary mixers and conveyors. In Israel
+large regional feeding centers serve several thousand head
+of cattle on neighboring farms.
+184 Z.G. Weinberg, G. Ashbell / Biochemical Engineering Journal 13 (2003) 181–188
+2.2. Efﬂuent
+If the DM content of the forage at ensiling is too low,
+efﬂuent will result from the silage through which losses of
+nutritive matter occur. The volume of efﬂuent maybe con-
+siderable depending on DM content, silo type, the degree of
+consolidation, the chopping length, bruising of the plants and
+the presence of acidic additives. Efﬂuent is undesirable also
+because silo corrosion is enhanced; in addition, the very high
+BOD values of silage efﬂuents (up to 50,000 mg O2 l−1 as
+compared with 500 of domestic sewage [7]) may cause envi-
+ronmental problems and pollution of water sources. There-
+fore, efﬂuent should be drained into a manure pit or spread
+carefully in the ﬁelds. Efﬂuent is produced if the DM con-
+tent of the crop is below 30% in bunker and stack silos and
+at even higher DM contents in tower silos, because of the
+high pressure exerted by the weight of the silage. Efﬂuent
+volumes from tower silos depend also on the height and di-
+ameter of the silo. The following examples demonstrate the
+effect of some parameters on efﬂuent production: maize en-
+siled at 20% DM produced 53 and 27 l of efﬂuent per tonne,
+at chopping length of 6 and 32 mm, respectively [5]. Direct
+cut grass (15% DM) and grass wilted to 25% DM resulted
+in 200 and 20 l efﬂuent per tonne in bunker silo, with sub-
+sequent DM loss of 7.2 and 0.4%, respectively. At 30% DM
+no seepage was produced [7].
+2.3. Harvesting
+Different crops have differing harvesting practices. Wheat
+for example is harvested at the milk-dough maturation stage
+at 300 g kg−1 DM and is subjected to a short wilting period
+before pick-up. This practice is intended to ensure the best
+nutritional quality and optimal ensiling properties. In ad-
+dition, simultaneous harvesting and chopping would slow
+down the expensive harvesting process considerably, and
+would result in appreciable grain loss because of the ag-
+gressive rotating action of the discs. Small-grain cereals are
+susceptible to large grain losses because their differing ﬂow
+characteristics lead to separation of the grains from the veg-
+etative parts at each handling step [13]. Legumes are wilted
+more intensively to make haylage in order to overcome
+problems associated with their high buffering capacity and
+subsequent effects promoting a butyric acid fermentation
+by clostridia if ensiled wet. It is not possible to wilt corn
+because of its thick stem; in arid areas its DM content is
+determined by the timing of the last irrigation, but in cold,
+moist areas it is determined by climate conditions when the
+crop is killed after the ﬁrst frost. Combines for corn silage
+are equipped with a crushing device that damages the dry
+grains in order to increase their digestibility in the rumen.
+In some cases (wet grasses and legumes primarily) it
+is recommended to wilt the crop in the ﬁeld to obtain an
+adequate DM content (300–400 g kg−1) necessary for the
+desired fermentation and in order to prevent efﬂuent loss.
+Wilting depends mainly on solar radiation, and for rapid
+wilting it is recommended to spread the biomass in wide
+windrows in order to increase the surface area exposed to
+the sun and decrease the thickness of the crop. In rainy ar-
+eas such as in northern Europe the wilting of moist grasses
+might be damaged by rain; if such moist grasses are not
+wilted, losses might occur through seepage production and
+undesirable clostridial secondary fermentation. Therefore,
+in such areas harvesting is planned for a sunny morning
+and pick-up of the wilted crop takes place in the afternoon.
+Sometimes plants are conditioned to enhance their loss of
+moisture; they are passed typically between intermeshing
+rubber or steel rolls of the mower-conditioner that bruise
+their waxy cuticle. Other machinery used in wilting include
+rakes, tedders and swath inverters. Losses during wilting
+arise from continuing plant respiration and the activity of
+aerobic microorganisms, and the extent of losses during this
+stage depends on the temperature during wilting and the
+initial DM content. Mechanical losses depend on the plant,
+the number of turning treatments and the DM content: the
+drier the crop the greater the losses. Legumes are of special
+concern because of their thin leaves, which dry out faster
+than the stems, become brittle and fall off during handling.
+This represents high nutritional losses. Respiration losses
+increase as the ambient temperature rises [14].
+There is a wide variety of forage harvesters that include
+tractor-drawn, tractor mounted or self-propelled units. The
+usual power of modern harvesting combines is 200–225 kW
+and they consist of a basic modular unit to which can be
+added various units such as window pick-up for wilted crops,
+row crop mowers for direct chopping, choppers or sprayers
+to distribute additives [15]. The various chopper designs in-
+clude sickle-bar and drum mowers; their capacity can be
+lesser or greater than 1 ha h−1. Mowing is done with drum
+or ﬂail mowers. With drum mowers, the forage is cut as it
+passes between a shear bar and knives mounted on a rotating
+cylinder head. The ﬂail-type harvester consists of a series
+of cutting knives rotating at a high speed on a shaft. In the
+blower there is a second set of chopping knives. The har-
+vester should be adjusted to the appropriate height in order
+to avoid mixing dirt and soil with the crop. Soil, rocks and
+debris can damage the knives. Soil also lowers the nutri-
+tional quality of the crop and increases its buffering capacity
+which interferes with the ensiling fermentation. In addition,
+the lower parts of the plants are usually inferior in qual-
+ity, and therefore higher cuts are recommended. Harvesting
+should be timed to the optimal stage of maturity of the crop
+when yields, quality and ensiling characteristics are at their
+peak.
+The recommended chopping length (1–2 cm) can be ob-
+tained by adjusting the number of knives on the chopping
+drum or by changing the speed gears of the feeding wheels.
+A short chopping length is useful for effective consolidation
+of the biomass, but some animal nutritionists feel that if the
+particles are too short, the silage loses its ﬁbrous roughage
+properties that are necessary for good rumen function. More-
+over, very short chopping may result in excessive efﬂuent.
+Z.G. Weinberg, G. Ashbell / Biochemical Engineering Journal 13 (2003) 181–188 185
+2.4. Transport
+The chopped crop can be transported from the ﬁeld to the
+silo by a variety of trucks and wagons of various sizes. The
+ﬁlling and unloading time depends on truck size, and the
+duration of the trip, i.e., on the distance from ﬁeld to silo.
+Transportation capacity is affected by the number of vehicles
+used. Although transportation is a simple operation, it adds
+much to the cost of ensiling because of the high moisture
+content and the low density of the chopped crop.
+2.5. Filling the silo
+Filling should be as fast as possible in order to exclude air
+from the crop quickly and to minimize the losses that result
+from plant respiration and the activity of aerobic microor-
+ganisms. In bunker silos, the silo is generally ﬁlled in a series
+of wedges which are laid on top of one another so that the
+back of the silo reaches its capacity ﬁrst. The silage is sloped
+in order to facilitate the drainage of rain and reduce the sur-
+face area exposed to air. Compaction in bunker and stack
+silos is accomplished by tractors which roll slowly back and
+forth continuously during ﬁlling. High speciﬁc pressure on
+thin forage layers is the most important factor which deter-
+mines the degree of consolidation, and the speciﬁc pressure
+depends on the tractor characteristics (weight and whether it
+has single or dual wheels) and speed. The depth of the effect
+of rolling tractor is 20–40 cm from the surface [16,17], and
+it should be noted that the bunker should be at least twice as
+wide as the tractor to ensure that every strip along the silage
+can be compacted.
+It is estimated that in a bunker silo the DM density
+of a well-compacted wheat silage at 350 g kg−1 DM is
+230 kg m−3 [15]. The DM density of barley and grass
+silages has been found to be 232 and 260 kg m−3, respec-
+tively [18]. DM densities of alfalfa and corn silages in a
+Wisconsin study varied between 106 and 434 kg−3 [17],
+and the density was correlated with the thickness of crop
+layer being consolidated, tractor weight, packing time and
+DM content [17]. The higher the DM content and the longer
+the chopping length, the more difﬁcult is the compaction
+because the crop is more resilient. Wheat at higher DM
+content is more difﬁcult to compact because its hollow stem
+which is full of air. The lower the silage density in the silo
+is, the higher the DM losses [19]. Wall pressures in bunker
+silos are affected by wall slope, friction between silage and
+wall, the way in which the silage is piled above the top and
+the compaction method. Zhao and Jofriet [20,21] measured
+wall pressures during ﬁlling, compaction and after 3 months
+storage, and their results indicated that the wall loading ex-
+erted by the silage increases with depth from the surface at
+a rate of 5–7 kPa m−1. The maximal wall pressure resulting
+from the weight of a 21 t bulldozer was 10 kPa near the
+silage surface, i.e., 15% of the pressure under the bulldozer
+tracks. Wall pressures during compaction are a function of
+the tractor load and the distance of the vehicle from the
+Table 1
+Silage DM densities for tower silo at 30% DM (adapted from [7])a
+Silage depth (m) Density (kg m−3)
+11 217
+14 252
+18 283
+22 308
+26 333
+a A correction factor is given for different silage moisture contents.
+wall. The effect of compaction becomes negligible at 2 m
+depth below silage surface.
+In tower silos the consolidation is achieved by the weight
+of the forage itself. The density of the silage in a tower silo
+depends on the silage depth, DM content, crop characteris-
+tics and silo dimensions. Table 1 gives DM density as af-
+fected by silage depth [7].
+The DM density of stack silage is similar to that of bunker
+silo and depends on crop DM content. At 25 and 35% DM
+content the DM density was 170 and 220 kg DM m−3, re-
+spectively [22].
+The DM density in bale silage is strongly affected by
+the crop DM content. At 30 and 50% DM, the bale density
+is 100–150 and 150–200 kg DM m−3, respectively [23].As
+mentioned before, DM density of bales made by ﬁxed cham-
+ber balers is less uniform, and lower at the core of the bale.
+2.6. Sealing
+Sealing of bunker and stack silos is usually done with
+plastic sheeting, usually polyethylene of various thickness
+(0.1–0.2 mm). The plastic is anchored to the silage with used
+tyres, paper pulp or other materials that keep it from ﬂap-
+ping. The plastic protects the surface of the silage against
+air penetration, and the thicker it is, the less oxygen per-
+meable it is. The ﬁlm should be UV resistant in order to
+withstand prolonged exposure to sunlight. Dickerson et al.
+[24] showed that in the top 250 mm, silage losses were 78
+and 8% in uncovered and covered bunkers, respectively.
+Savoie [25] showed that the longer the storage period of
+the silage, the thicker the plastic needed to balance losses
+against the cost of the plastic. The thicker the plastic and the
+more densely placed the tyres, the fewer the physical tears
+caused by birds or rodents, and the smaller the resulting top
+losses [26].
+Bale silage is wrapped with several layers of pre-stretched
+polyethylene ﬁlm. For round bales, rotating table or rotating
+arm bale wrappers are available. When the number of layers
+of ﬁlm increased from 2 to 6 silage quality improved sig-
+niﬁcantly, with slower air penetration and much less mould
+development; ﬁlm color (black, clear, green, light green and
+white) did not affect any of the ensiling parameters mea-
+sured [27]. This is in contrast to the general belief that bales
+wrapped in black ﬁlm might heat more than in white ﬁlm
+due to light absorption/reﬂection properties.
+186 Z.G. Weinberg, G. Ashbell / Biochemical Engineering Journal 13 (2003) 181–188
+Fig. 3. Silage scraper with vertical and horizontal mixing wagon (Lachish Industries, Israel).
+2.7. Unloading
+Losses during unloading depend on the duration of the
+exposure of the silage to air, the ambient temperature and
+the aerobic stability of the silage. Since air ingress into the
+silage from the unloading face depends on the silage density,
+the consolidation of the silage should be maintained during
+unloading, and the technology used for unloading affects
+this factor to a great extent: unloading with a front-mounted
+bucket tractor tends to produce a rough silage face which is
+more porous and offers a larger surface area and is therefore
+more susceptible to air penetration and increased DM loss
+than the smooth face left by a scraper type of unloader. Fig. 3
+shows horizontal and vertical self-propelled silage scraper
+connected to a mixing wagon via a conveyer. Block cutters
+leave the unloaded silage compact; therefore, the blocks they
+cut can be stored for several days. Studies of gas composition
+within bunker silo indicate that air penetration into normally
+compacted silage is 1–2 m from the face [16,28]. In order to
+minimize the exposure of silage to air during feed-out it is
+recommended to renew the face often. The modeling work of
+Pitt and Muck [29] indicated that higher silage densities and
+faster removal rates for the exposed face predict substantially
+smaller aerobic losses.
+2.8. Air penetration
+Gas exchange in the silage depends on the ﬂow caused
+by the pressure differences between the fermentation gas
+(usually CO2) and air; this pressure difference is primarily
+caused by the difference in speciﬁc gravity between CO2 and
+air. The ﬂow intensity depends on the porosity of the silage
+(i.e., on the extent of compaction) and on leaks through the
+wall and sealing plastic. Reduction of the silage DM density
+by 20 kg m−3 might double the gas ﬂow rate [16]. The per-
+meability, porosity and density of the silage are interrelated
+properties, and are strongly affected by the moisture con-
+tent [30]. A technique to measure the permeability of silage
+has been developed; it involves raising the pressure of an air
+reservoir, passing this air through the silage and measuring
+the exponential decay curve of the pressure [30]. The phe-
+nomena associated with gas ﬂow and porosity of silage have
+been studied and modeled [19,31].
+2.9. Silage additives
+Silage additives can serve various purposes, and they
+are classiﬁed according to their function: fermentation
+stimulants, fermentation inhibitors, aerobic deterioration in-
+hibitors, nutrients and absorbents [5]. There is a long list of
+available additives [32] which come in a variety of forms:
+liquid, powders or suspensions. Additives can be applied
+during the harvesting/chopping operation or during ﬁlling
+of the silo. For application of an additive suspension during
+chopping (bacterial inoculant for example), a special device
+should be mounted on the combine. It consists of a storage
+tank, a pump, tubing and a spray nozzle. The application
+rate is calculated according to the harvesting rate. Some
+powders or grainy materials are applied manually on top
+of every truck load and are mixed as soon as the tractor
+spreads the chopped forage into the silo.
+3. Mathematical models of ensiling
+Many mathematical models of the ensiling process have
+been developed. They take into account as many parameters
+as possible which might affect ensiling and express their
+Z.G. Weinberg, G. Ashbell / Biochemical Engineering Journal 13 (2003) 181–188 187
+relative contribution to the changes which occur during en-
+siling in mathematical terms. These parameters include bio-
+chemical, microbiological and physical factors. Validation
+is an important step of the modeling process. Such models
+can be used to predict the ensiling process under various
+plant and ensiling conditions. Pitt et al. [33] designed such
+a model for mixtures of grasses, legumes and whole-plant
+corn. Parameters of the model were derived from published
+silage experiments and pure-culture bacterial studies. The
+model indicated the importance of initial LAB counts for
+the speed of the pH decline during ensiling. Another ex-
+ample is a model of silage consolidation and efﬂuent ﬂow
+[34], in which silage is modeled as a porous deformable
+medium containing a ﬂuid. This model has been used to
+predict the importance of DM content and silo geometry
+in determining efﬂuent production; it predicts that increas-
+ing the height/diameter ratio increases the time from initial
+drainage to the peak ﬂow of efﬂuent. Courtin and Spoelstra
+[35] presented a model that predicts the time-course of aer-
+obic deterioration of grass and maize silage.
+4. Silage research
+Silage research addresses the various agronomical, bio-
+chemical, microbiological, nutritional and engineering as-
+pects of the process. Much of silage research is performed
+to understand the complex processes that take place during
+ensiling in order to gain better control and higher quality of
+the preserved feed. Applied experiments for example may
+study the ensiling characteristics of newly introduced crops
+(e.g. Hedysarum coronarium, safﬂower) or of new cultivars
+of common crops or test the efﬁcacy of various silage addi-
+tives and new machinery. Ensiling experiments can be done
+under laboratory conditions in mini-silos in air-tight jars, or
+in on-farm conditions. Laboratory experiments enable the
+researcher to ﬁll many jars and to sample successive jars for
+time-course studies of the fermentation process under var-
+ious conditions. However, silages in mini-silos differ from
+commercial silages in their degree of consolidation and their
+gas exchange and heat transfer properties. In experiments
+under farm conditions, permeable nylon-mesh bags, con-
+taining control and treated forage and to which thermocou-
+ples and plastic tubing for gas sampling can be connected,
+can be buried in a farm-scale silo on the day of ensiling [28].
+When the unloading front reaches the bags, they are ana-
+lyzed in the laboratory. Experiments in which whole silos
+are treated require a similar control silo; such experiments
+are much more expensive but can be combined with animal
+feeding trials.
+Silage quality is assessed according to sensory appraisal
+(appearance, smell, and texture), DM losses, pH, fermen-
+tation end products (lactic acid and volatile fatty acid
+proﬁles), protein breakdown and microbiological examina-
+tion. Tests to assess the aerobic stability of silages include
+measurements of temperature increase during exposure to
+Fig. 4. “Bottle” system for the silage aerobic stability test.
+air or of CO2 production. A simple system constructed of
+recycled plastic soft drink bottles was developed by Ashbell
+et al. [36]: a silage sample weighing about 250 g is placed
+in the upper part of the system and a concentrated alkaline
+solution in the lower part. CO2 produced during aerobic
+exposure sinks and is measured along with pH, yeasts,
+moulds and visual appraisal (Fig. 4).
+5. Future research neeeds
+Ensiling is a preservation method for moist forage crops,
+whereby the crop is kept anaerobic and is fermented by LAB
+to attain a low pH (<5.0). Ensiling is a complex operation
+which requires careful management at all stages of silage
+making and use in order to obtain high-quality of preserved
+forage with minimal losses. The ensiling process involves
+many physical and engineering aspects. In the ﬁeld of en-
+gineering in silage more research is needed: to improve the
+machinery used for harvesting, crushing and chopping, and
+to elucidate the ﬂow properties of silage at different chop-
+ping lengths in the ration mixing wagon. The latter is espe-
+cially important with inhomogeneous silage such as maize.
+Sealing technology and additive application also require im-
+provement. Engineering aspects of forage hygiene especially
+in areas when manure is applied or where sewage irrigation
+is practiced, should be addressed.
+References
+[1] N.N. Potter, Deterioration factors and their control, in: Food Science,
+AVI Publishing Company, Inc., Westport, CT, 1978, Chapter 7,
+pp. 146–174.
+[2] M.K. Woolford, The detrimental effects of air on silage, J. Appl.
+Bacteriol. 68 (1990) 101–116.
+188 Z.G. Weinberg, G. Ashbell / Biochemical Engineering Journal 13 (2003) 181–188
+[3] R.J. Wilkins, L. Syrjala-Qvist, K.K. Bolsen, The future role of silage
+in sustainable animal production, in: T. Pauly (Ed.), Proceedings of
+the 12th International Silage Conference, Uppsala, Sweden, 5–7 July
+1999, pp. 23–40.
+[4] M.K. Woolford, The microbiology of silage, in: The Silage
+Fermentation, Marcel Dekker, New York, NY, 1984, pp. 23–59.
+[5] P. McDonald, A.R. Henderson, S.J.E. Heron, The Biochemistry of
+Silage, 2nd ed., Chalcombe Publications, Aberystwyth, UK, 1991,
+pp. 9–19, 167–183.
+[6] Silage storage, in: Beef Housing and Equipment Handbook, 4th
+ed., Midwest Plan Service, Iowa State University, Ames, IA, 1987,
+pp. 8.3–8.9.
+[7] R.E. Pitt, Silage and hay preservation, Cornell University Cooperative
+Extension, Bulletin No. NRAES-5, 1993, pp. 1–20.
+[8] J.H. Harrison, S. Fransen, Silage management in North America,
+in: K.K. Bolsen, J.E. Baylor, M.E. McCullough (Eds.), Field Guide
+for Hay and Silage Management in North America, National Feed
+Ingredients Association, 1991, pp. 33–66.
+[9] C. O’Donnell, V.A. Dodd, P. O’Kiely, M. Richardson, Characteristics
+of concrete affecting its corrosion by silage efﬂuent, in: P. O’Kiely, M.
+O’Connell, J. Murphy (Eds.), Proceedings of the 10th International
+Conference on Silage Research, Dublin, Ireland, 6–8 September
+1993, pp. 10–11.
+[10] G. Ashbell, Y. Kashanchi, In-silo losses from wheat ensiled in bunker
+silos in a subtropical climate, J. Sci. Food Agric. 40 (1987) 95–103.
+[11] D.R. Buckmeister, C.A. Rotz, R.E. Muck, A comprehensive model
+of forage changes in the silo, Trans. ASAE 32 (1989) 1143–1152.
+[12] G. Ashbell, T. Kipnis, M. Titterton, Y. Hen, A. Azrieli, Z.G.
+Weinberg, Examination of a technology for silage making in plastic
+bags, Anim. Feed Sci. Technol. 91 (2001) 213–222.
+[13] P.L. Redman, A.C. Knight, Machinery for whole-crop cereals, in:
+B.A. Stark, J.M. Wilkinson (Eds.), Whole-Crop Cereals, Chalcombe
+Publications, Aberystwyth, UK, 1992, pp. 97–106.
+[14] H. Honig, Mechanical and respiration losses during pre-wilting of
+grass, in: C. Thomas (Ed.), Forage Conservation in the 1980s,
+Occasional Symposium No. 11, British Grassland Society, Brighton,
+UK, 1980, pp. 201–204.
+[15] G. Shefet, Z. Zamir, Silage preparation, in: Y.M. Margalit (Ed.), Food
+Technology for Animals, Israeli Field Crop Association, Tel-Aviv,
+Israel, 1987, pp. 84–88 (in Hebrew).
+[16] H. Honig, Reducing losses during storage and unloading of silage,
+in: G. Pahlow, H. Honig (Eds.), Proceedings of the Conference on
+Forage Conservation Towards 2000, Landbauforschung Volkenrode,
+Germany, 23–25 January 1991, pp. 116–128.
+[17] R.E. Muck, B.J. Holmes, Factors affecting bunker silo densities,
+Appl. Eng. Agric. 16 (2000) 613–619.
+[18] D.E. Darby, J.C. Jofriet, Density of silage in horizontal silos, Can.
+Agric. Eng. 35 (1993) 275–280.
+[19] R.E. Pitt, Dry matter losses due to oxygen inﬁltration in silos, J.
+Agric. Eng. Res. 35 (1986) 193–205.
+[20] Q. Zhao, J.C. Jofriet, Structural loads on bunker silo walls:
+experimental study, J. Agric. Eng. Res. 50 (1991) 273–290.
+[21] Q. Zhao, J.C. Jofriet, Wall loads on bunker silos due to compaction,
+Can. Agric. Eng. 34 (1992) 83–94.
+[22] J. Moran, Making Quality Silage and Hay in Australia, in: Forage
+Conservation, Agmedia, Agricultural Victoria, 1996, pp. 65–112.
+[23] The Balewrapping Handbook, Trioplast AB, Sweden, 1995, pp. 1–50.
+[24] J.T. Dickerson, K.K. Bolsen, B.E. Brent, C. Lin, G. Ashbell,
+Y. Niwa, Rate and extent of top spoilage losses of alfalfa
+silage stored in horizontal silos, in: G. Pahlow, H. Honig (Eds.),
+Proceedings of the Conference on Forage Conservation Towards
+2000, Landbauforschung Volkenrode, Germany, 23–25 January 1991,
+pp. 356–359.
+[25] P. Savoie, Optimization of plastic cover for stack silage, J. Agric.
+Eng. Res. 41 (1988) 65–73.
+[26] G. Ashbell, Z.G. Weinberg, Top silage losses in horizontal silos,
+Can. Agric. Eng. 34 (1992) 171–175.
+[27] P.D. Forristal, P. O’Kiely, J.J. Lenehan, The inﬂuence of the number
+of layers of ﬁlm cover and ﬁlm color on silage preservation, gas
+composition and mold growth on big bale silage, in: T. Pauly (Ed.),
+Proceedings of the 12th International Silage Conference, Uppsala,
+Sweden, 5–7 July 1999, pp. 305–306.
+[28] Z.G. Weinberg, G. Ashbell, Changes in gas composition in corn
+silages in bunker silos during storage and feedout, Can. Agric. Eng.
+36 (1994) 155–158.
+[29] R.E. Pitt, R.E. Muck, A diffusion model of aerobic deterioration
+at the exposed face of bunker silos, J. Agric. Eng. Res. 55 (1993)
+11–26.
+[30] A.G. Williams, The permeability and porosity of grass silage as
+affected by dry matter, J. Agric. Eng. Res. 59 (1994) 133–140.
+[31] D.J. Parsons, R.P. Hoxey, A technique for measuring the permeability
+of silage at low pressure gradients, J. Agric. Eng. Res. 40 (1988)
+303–307.
+[32] K.K. Bolsen, J.L. Heidker, Silage Additives USA, Chalcombe
+Publication, Canterbury, Kent, UK, 1985.
+[33] R.E. Pitt, R.E. Muck, R.Y. Leibensberger, A quantitative model of
+the ensiling process in lactate silages, Grass For. Sci. 40 (1985)
+279–303.
+[34] A.M. Reynolds, A.G. Williams, A model of silage consolidation and
+efﬂuent ﬂow, J. Agric. Eng. Res. 61 (1995) 173–182.
+[35] M.G. Courtin, S.F. Spoelstra, A simulation model of the
+microbiological and chemical changes accompanying the initial stage
+of aerobic deterioration of silage, Grass For. Sci. 45 (1990) 153–165.
+[36] G. Ashbell, Z.G. Weinberg, A. Azrieli, Y. Hen, B. Horev, A simple
+system to study the aerobic deterioration of silages, Can. Agric. Eng.
+33 (1991) 391–394.

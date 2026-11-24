@@ -1,0 +1,695 @@
+=== Fuente: EL AGUA Y LA TEMPERATURA NEA Mercau.pdf ===
+
+EL AGUA Y LA TEMPERATURA COMO LIMITANTES DEL 
+RENDIMIENTO DE GIRASOL BAJO PLANTEOS DE ALTA 
+TECNOLOGÍA EN EL NEA.
+Evaluación basada en series climáticas y un modelo de simulación 
+Ing. Agr. MSc. Jorge L. Mercau 
+Grupo de Estudios Ambientales, UNSL.
+Cuadernillo Informativo N° 17
+Julio /2010
+2000 ejemplares
+Distribución gratuita
+17
+EL AGUA Y LA TEMPERATURA COMO LIMITANTES DEL RENDIMIENTO 
+DE GIRASOL BAJO PLANTEOS DE ALTA TECNOLOGÍA EN EL NEA.
+Evaluación basada en series climáticas y un modelo de simulación 
+Ing. Agr. MSc. Jorge L. Mercau 
+Grupo de Estudios Ambientales, UNSL.
+CONTENIDO
+6. El rendimiento potencial, su variación estacional y las restricciones térmicas 
+8. El rendimiento alcanzable en secano y su dependencia del agua almacenada a la siembra
+9. Ingeniería del sistema de producción
+12. Un ejemplo de interacción compleja
+14. Conclusiones
+16. Agradecimientos
+16. Bibliografía
+
+ASAGIR – Asociación Argentina de Girasol
+Av. Corrientes 119
+C1043AAB 
+Ciudad de Buenos Aires  - Argentina
+(54) 11 - 4312 - 7105
+info@asagir.org.ar
+www.asagir.org.ar
+Cuadernillo Informativo N° 17
+Julio /2010
+Edición: 2000 ejemplares
+Distribución gratuita
+Realización y diseño:
+www.saviacomunicacion.com.ar
+ISBN 978-987-21423-2-2
+Reservados todos los derechos. Ninguna parte de esta publicación puede ser reproducida bajo ningún 
+medio, electrónico o mecánico, sin autorización escrita de los editores.
+2
+Mercau, Jorge L.
+    El agua y la temperatura como limitantes del rendimiento de girasol bajo planteos 
+de alta tecnología en el NEA : cuadernillo 17 . - 1a ed. - Buenos Aires : Asagir, 2010.
+    20 p. ; 27x19 cm. 
+    ISBN 978-987-21423-2-2          
+    1. Girasol. 2.  Investigación Agropecuaria. I. Título
+    CDD 664.7
+Presidente
+Ing. Ricardo Negri (El Mallín)
+Vicepresidente Primero
+Ing. Orlando Vellaz (Advanta Semillas)
+Vicepresidente Segundo
+Ing. Guillermo Pozzi
+Tesorero
+Ramiro Costa (Bolsa de Cereales)
+Secretario
+Ing. Juan Carlos Arana (Oleaginosa Moreno)
+Prosecretario
+Carlos Sosa (Pannar)
+Protesorero
+Ing. Jorge Domínguez (Molinos Río de la Plata)
+Vocales Titulares 
+Norma Huguet 
+Ing. Fernando Negri (AACREA) 
+Alicia Ruppel (Bolsa de Cereales de Bahía Blanca)
+ 
+Vocales Suplentes 
+Ing. Pablo Bergadá (Nidera Semillas) 
+Ing. Raúl Tomá (SRA) 
+Marcelo Morini (ArgenSun) 
+Armando Casalins (Federación de Acopiadores) 
+Ing. Antonio Hall
+COMISIÓN REVISORA DE CUENTAS 
+Vocales Titulares 
+Ing. Ing. Fernando Cozzi (Cargill) 
+Ing. Horacio Urpi 
+Vocales Suplentes 
+Hernan Busch (Banco Galicia) 
+Ing. Luis Arias (Cazenave y Asoc.)
+ 
+Coordinación Técnica: Ing. Carlos Feoli
+Asistente Técnica: Valeria P. Zivec
+Administración: Constanza Palacios
+Auditoría Externa: AUREN
+3
+CONSEJO DIRECTIVO 2009-2010
+El cultivo de girasol constituye una alternativa 
+de producción interesante en la región noreste 
+(NEA), donde las restricciones a su producción 
+han sido poco estudiadas. ASAGIR (2009) cuan-
+tificó una brecha de rendimiento entre valores 
+medios de 1.6 tn/ha logrados en lotes comercia-
+les y 2.2 tn/ha alcanzados en los ensayos com-
+parativos de híbridos. Los efectos negativos de 
+las restricciones regionales más importantes, las 
+temperaturas extremas y la variabilidad y escasez 
+de oferta hídrica en algunos períodos, podrían 
+ser mitigados por diversas tecnologías de mane-
+jo. Sin embargo, hay poca información regional 
+sobre el efecto de la fecha de siembra en el ren-
+dimiento, sobre los condicionantes para el esta-
+blecimiento del cultivo, sobre el valor de producir 
+rastrojos y mejorar la estructura superficial del 
+suelo para el mejor aprovechamiento del agua, y 
+sobre las interacciones entre el girasol y los otros 
+integrantes del sistema de producción. Avanzar 
+hacia la formulación de reglas de decisión basa-
+das en conocimientos sobre la variabilidad am-
+biental interanual y geográfica resulta importante 
+aún bajo planteos regionales de alta tecnología, 
+que evitan la monocultura, realizan fertilización 
+y eventualmente protegen al cultivo de malezas, 
+enfermedades y plagas.
+Comprender cómo moderar los efectos de las res-
+tricciones hídricas y térmicas requiere de iniciar 
+ensayos que pongan a prueba hipótesis sobre el 
+funcionamiento del cultivo en la región. Como 
+las condiciones climáticas son variables entre 
+campañas y sitios, los ensayos a campo deben 
+ser repetidos para cuantificar adecuadamente los 
+efectos. La utilización de modelos funcionales 
+complementa al trabajo experimental, aumenta 
+El agua y la temperatura como limitantes del rendimiento de girasol bajo planteos 
+de alta tecnología en el NEA.
+Evaluación basada en series climáticas y un modelo de simulación
+ASOCIACIÓN ARGENTINA DE GIRASOL
+Ing. Agr. MSc. Jorge L. Mercau 
+Grupo de Estudios Ambientales, UNSL.
+Este trabajo es una versión expandida de la presentación efectuada por J. L. Mercau y Antonio Hall 
+en la Jornada de Actualización Técnica organizada por ASAGIR en Charata el 1/10/09.
+4
+su eficiencia y la velocidad para obtener las pri-
+meras respuestas. La estructura de los modelos 
+funcionales se basa en el conocimiento de la eco-
+fisiología del cultivo y simplifica varios procesos a 
+través de variables empíricas que han demostra-
+do ser robustas en rangos ambientales amplios. 
+Eso permite obtener estimaciones razonables de 
+rendimiento bajo un gran número de escenarios 
+climáticos, parámetros edáficos, de genética y de 
+manejo. 
+En el presente trabajo se utilizó Oilcrop-Sun (OS, 
+Villalobos et al. 1996), combinado con registros 
+climáticos de 37 campañas (1971-2008) para si-
+mular cultivos creciendo sin restricciones nutricio-
+nales en dos ambientes diferentes representativos 
+de la región NEA: Las Breñas (LB: -27.1 -61.1, Cha-
+co, menor precipitación y un suelo con menos res-
+tricciones a la exploración radical) y Reconquista  
+(RE: -29.25, -59.75, Santa Fe, mayor precipitación 
+y desde más temprano en primavera y un suelo 
+donde gran parte del perfil es muy arcillosa y res-
+tringe la exploración radical). Éste trabajo apunta a 
+ejemplificar el uso del modelo como herramienta 
+para explorar el comportamiento del cultivo en re-
+lación a una serie de interrogantes (especialmente 
+aquellos ligados a los efectos de la disponibilidad 
+hídrica y la temperatura) potencialmente impor-
+tantes para una adecuada comprensión de estos 
+sistemas de cultivo que han recibido poca aten-
+ción en materia de experimentación sistemática. 
+Esa comprensión es necesaria para hacer una in-
+geniería que permita diseñar sistemas de produc-
+ción más adecuados para la región.
+5
+ASOCIACIÓN ARGENTINA DE GIRASOL
+El rendimiento potencial, su variación estacional y las restricciones térmicas
+Un primer paso hacia la comprensión del ajuste 
+entre el rendimiento de un cultivo y la oferta am-
+biental de una zona es examinar el patrón esta-
+cional de su rendimiento potencial (es decir, sin 
+limitaciones hídricas, nutricionales o por adversi-
+dades bióticas). El rendimiento potencial simu-
+lado del girasol sembrado en agosto es de 3.2 y 
+3.5 tn/ha en LB y RE (promedio de 37 campañas, 
+desvío interanual 0.37 tn/ha). Esos rendimientos 
+casi duplican a los promedios regionales obteni-
+dos por los productores en la última década y son 
+similares a los obtenidos en ensayos comparati-
+vos de rendimiento con los híbridos más desta-
+cados (ASAGIR 2009) en años con patrones de 
+lluvia muy favorables para el cultivo. Esa simili-
+tud, sin constituir una prueba definitiva, aumen-
+ta la confianza en el modelo como herramienta 
+para examinar la respuesta del cultivo a las con-
+diciones ambientales. Al evaluar la variación del 
+rendimiento potencial con la fecha de siembra, 
+la simulación mostró que las siembras de julio 
+y agosto eran similares y que el potencial cae al 
+sembrar a comienzos de octubre (datos no mos-
+trados). Sin embargo, el modelo no simula los 
+efectos de heladas y de las muy altas temperatu-
+ras, que tienen mayor incidencia en las siembras 
+tempranas y tardías respectivamente.
+Para evaluar el efecto de las heladas tardías sobre 
+el cultivo de girasol se exploró en forma directa 
+los registros climáticos. Las heladas (temperatu-
+ra mínima menor a 2°C en abrigo) tienen un efec-
+to que puede ser muy severo cuando el girasol ya 
+diferenció el capítulo. Se calculó a partir de qué 
+fecha de siembra el riesgo de heladas posterio-
+res a la fecha en que el cultivo alcanza el estado 
+de capítulo diferenciado es suficientemente bajo 
+(menos de una vez cada cinco años). Suponiendo 
+que con buena disponibilidad de agua a la siem-
+bra un cultivo emerge y llega a unas 10 hojas  (ya 
+habría diferenciado el capítulo), en 460 °Cd (Tb 
+4°C), ese nivel de riesgo aceptable se alcanzaría 
+con siembras posteriores al 1/8 en RE y al 5/8 
+en LB. En ambas localidades las heladas tardías 
+tienen una fecha media del 29/8 y uno de cada 
+cinco años hay heladas después del 9/9. En LB 
+el riesgo de daño por helada es mayor que en RE 
+porque las temperaturas medias de agosto son 
+2°C más altas en LB que RE (15,5 y 17,5 °C), acele-
+rando el desarrollo de los cultivos en LB.
+El atraso de la siembra para evitar la exposición a 
+heladas tardías aumenta la exposición del llenado 
+de los granos a temperaturas altas que reducen 
+el rendimiento. Se utilizó una ecuación que suma 
+los efectos negativos de temperaturas medias 
+diarias por sobre 18°C (-0.027/°Cd), y de horas 
+con temperaturas por sobre 30°C (-0.0003°Ch) 
+para todo el llenado efectivo de granos (en base a 
+Rondanini 2006). En LB las temperaturas en lle-
+nado de los cultivos florecidos a mediados de no-
+viembre (siembras de agosto), harían que el peso 
+de los granos logre un 73% de su valor bajo un 
+régimen térmico óptimo (Figura 1). Las condicio-
+6
+altas temperaturas en el llenado no solo reducen 
+el peso de los granos sino también su % de grasa 
+(Rondanini 2006), los efectos descriptos serían 
+aún más graves al comercializar el grano.
+nes térmicas más moderadas de RE permitirían 
+un 79% del peso. Para siembras de octubre, que 
+florecen a mediados de diciembre, las altas tem-
+peraturas reducen los pesos a un 61% del óptimo 
+en LB, y al 72% en RE (Figura 1). Como las muy 
+Figura 1. Efecto de la temperatura durante el llenado sobre el peso de los granos. Se muestra el peso relativo al de 
+condiciones térmicas óptimas, para distintas fechas de floración en Reconquista (negro) y Las Breñas (azul).  
+Las líneas gruesas son el promedio de 37 campañas y las finas el percentil 20 (inferior) y 80 (superior) de los pesos  
+en las mismas.
+1.0
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+1/11 11/11 21/11 1/12 11/12 21/12 31/12 10/1
+FECHA DE FLORACIÓN
+PROPORCIÓN DE PESO DEL GRANO
+BAJO TEMPERATURAS ÓPTIMAS
+RE
+LB
+7
+son mayores en RE (506±183 mm), que en LB 
+(367±132mm), los suelos más pesados caracte-
+rísticos de RE, con menor capacidad de infiltra-
+ción y mayor impedancia a las raíces, dificultan 
+tanto la captura de las lluvias como la capacidad 
+del cultivo de utilizar agua en los estratos pro-
+fundos. Los rendimientos simulados, que son 
+similares al promedio registrado en los ensayos 
+comparativos de rendimiento (ASAGIR 2009), 
+muestran que aún sembrando temprano con el 
+suelo a capacidad de campo, la disponibilidad 
+Como todos los cultivos de primavera en el NEA, 
+el girasol está sujeto a episodios de déficit hídri-
+co durante gran parte de su ciclo. En consecuen-
+cia, el agua almacenada en el suelo a la siembra 
+juega un papel importante en la determinación 
+del rendimiento. Para cultivos sembrados en 
+agosto sobre un suelo a capacidad de campo 
+y sujetos al régimen pluviométrico propio de 
+cada año, el rendimiento medio simulado con 
+OS fue de 2.2±0.5 tn/ha en LB y 2.1±0.6 tn/ha 
+en RE. Aunque las lluvias de agosto a diciembre 
+ASOCIACIÓN ARGENTINA DE GIRASOL
+El rendimiento alcanzable en secano y su dependencia del agua almacenada a la siembra
+Figura 2. Efecto de la disponibilidad de agua útil almacenada en el suelo al 1/5 (mm, en 2.5 mts) sobre el rendimiento 
+simulado (kg/ha) para siembras fijas del 10/8 en Reconquista (negro) y Las Breñas (azul). Las líneas gruesas son el 
+promedio de 37 campañas y las finas el percentil 20 (inferior) y 80 (superior) de los rendimientos en las mismas. La 
+línea punteada es un ajuste lineal a los niveles simulados y se muestran los valores de la pendiente de esas regresiones.
+RE: y=3.3x LB: y=6.9x3000
+2250
+1500
+750
+50 100 150 200 250 300
+AGUA ÚTIL EN EL SUELO AL 1/5 (mm, en 2.5 m)
+RENDIMIENTO (kg/ha)
+8
+9
+hídrica limita el rendimiento en más de 1 tn/ha 
+respecto al potencial.
+En los sistemas de producción del NEA pocos 
+cultivos de girasol se siembran sobre un perfil 
+completamente cargado de agua. La simulación 
+del efecto de la reserva de agua en el suelo una 
+vez que ha finalizado el cultivo precedente (se 
+asumió el 1/5) pone de manifiesto la importancia 
+de esa recarga (Fig. 2). Si solo se han almacenado 
+125 mm al 1/5, el rendimiento alcanzado en se-
+cano se reduce a 1.1±0.7 tn/ha en LB y a 1.6±0.7 
+tn/ha en RE. La caída del rendimiento medio 
+(respecto del máximo de ca. 2.1 tn/ha) por una 
+pobre recarga del perfil es de 6.9 kg/ha.mm en 
+LB y de 3.3 kg/ha.mm en RE, reflejando la mayor 
+dependencia del cultivo de la reserva de agua del 
+suelo (menos lluvias) y un mejor uso del mismo 
+(suelo menos restrictivo para las raíces) en LB. 
+Estos resultados resaltan la necesidad de evaluar 
+prácticas de manejo capaces de alterar la canti-
+dad de agua que tendrá disponible en el suelo el 
+cultivo de girasol. 
+El diseño del sistema de producción, del que el 
+girasol es parte, tiene efectos sobre la economía 
+del agua del cultivo que repercuten en los ren-
+dimientos. En un diseño, que es frecuente en la 
+superficie de girasol sembrada en el Chaco, el 
+cultivo se realiza bajo labranza convencional y, de 
+ser necesario, siembras tipo “lister”. Una labran-
+za oportuna, avanzado el otoño, permite reducir 
+las pérdidas por evaporación del largo barbecho 
+invernal y una siembra lister permite colocar la 
+semilla en suelo húmedo y desplazar el suelo su-
+perficial seco para que no interfiera con la emer-
+gencia de la plántula. Esa estrategia, si bien logra 
+alta seguridad de implantación, frecuentemente 
+se asocia a un importante deterioro de la estruc-
+tura del suelo y no es abordada en este trabajo. El 
+sistema de producción de granos más frecuente 
+en la región es una secuencia poco intensificada 
+bajo siembra directa, donde la soja es el cultivo 
+dominante y la proporción de gramíneas, como 
+cultivos o coberturas, es baja a nula. En este am-
+biente, que suele tener una pobre estructura su-
+perficial y escasa cobertura de rastrojos, el girasol 
+participa como un cultivo de carácter oportunis-
+ta, asociado a tener una buena recarga del perfil 
+en otoño y a la ocurrencia de lluvias a la salida 
+del invierno que permitan disponer de humedad 
+para realizar una siembra en directa.
+En el ensamble entre dos módulos de una se-
+cuencia, el manejo del antecesor del girasol tiene 
+un efecto directo sobre la recarga de agua en el 
+perfil del suelo. Frecuentemente se debe sembrar 
+el cultivo sobre un antecesor soja. Sobre soja 
+tardía, sembrada a principios de enero, el agua 
+útil que se almacena al 1/5, simulando el sistema 
+desde un año antes, es de 165±56 mm en LB y 
+de 165±55 mm en RE (para efectuar estas estima-
+ciones se utilizó el modelo funcional para soja 
+Ingeniería del sistema de producción: cambios en el almacenamiento de agua,  
+en la posibilidad de siembra y en las ventajas de la siembra temprana
+frecuencia de éxito en la implantación temprana 
+del girasol. Se usó OS para evaluar la factibilidad 
+de siembra entre el 20/7 y el 10/10 de cada año, 
+asumiendo que para que una siembra efectuada 
+en directa tenga éxito se requiere tener el 70% de 
+agua útil en los primeros 45 cm del perfil y que al 
+1/5 la recarga esperable para este estrato es del 
+40% del agua útil. En un ambiente pobre en ras-
+trojos y estructura, el patrón de lluvias en RE per-
+mite lograr siembras antes del 15 de septiembre 
+en el 70% de los años, mientras que la frecuencia 
+de éxito en LB baja al 30% (Figura 3). Cuando se 
+mejora la estructura y hay cobertura de rastrojos, 
+la probabilidad de siembra temprana llega al 80% 
+en RE y al 58 % en LB. Duplicar la posibilidad de 
+sembrar temprano en LB mejorará además el re-
+sultado de cultivos de “tercera”, como se denomi-
+na en el norte a un cultivo de segunda sembrado 
+sobre un cultivo de verano. Un módulo girasol/
+maíz en el sistema de producción podría tener un 
+resultado muy positivo en el objetivo de conse-
+guir y mantener cobertura de rastrojos y estabili-
+dad estructural del suelo.
+La factibilidad de siembra es uno de los condicio-
+nantes al crecimiento de la superficie de girasol 
+en el NEA. La Figura 3 muestra lo variable que 
+puede resultar la siembra en la región, llegando a 
+no poder sembrar en varios años. Por contraste, 
+en otras regiones, la siembra en una fecha obje-
+tivo es un proceso más seguro. Para un objetivo 
+de siembra del 10/10 en Balcarce (región sudeste 
+de Buenos Aires), el modelo simula que se logra 
+sembrar en el 60% de los años ese día, en el 90% 
+de los mismos hasta como máximo una semana 
+después, y para fin de ese mes no hay años en los 
+que no se haya podido sembrar. El hecho que re-
+sulta difícil o imposible sembrar girasol en directa 
+en algunos años reduce el área de girasol. Ade-
+CROPGRO, ver Mercau 2003). Si la siembra de 
+la soja se adelanta tanto como hasta noviembre, 
+la leguminosa aprovecha una mayor proporción 
+del agua de la estación y la recarga disponible al 
+1/5 para el girasol baja a 109±46 mm en LB y a 
+129±49 mm en RE. Sobre la base de las regre-
+siones de la Figura 2, el costo del adelanto tan 
+grande de la siembra de soja es de 0.4 tn/ha de 
+girasol en LB y de 0.1 tn/ha en RE. Aunque no se 
+explora aquí, existe además cierto margen para 
+aumentar el agua para el girasol reduciendo el 
+largo de ciclo en las siembras tardías.
+Ya a escala del sistema de producción, y varias 
+campañas, es posible mejorar la estabilidad es-
+tructural del primer horizonte del suelo y man-
+tener cobertura de rastrojos con una secuencia 
+de cultivos más intensificada, que tenga mayor 
+participación de gramíneas bajo siembra directa 
+y un manejo cuidadoso de las pendientes, el tran-
+sito, el pastoreo, etc. Si se logra mejorar la con-
+dición ambiental respecto a la situación también 
+en directa pero más dominada por el cultivo de 
+soja, se reduce la escorrentía y la evaporación en 
+el agro-sistema, lo que sube la recarga simulada 
+al 1/5 sobre una soja tardía a 237±67 mm en LB 
+y a 244±60 mm en RE. Por esa mayor recarga se 
+cosecharían, en promedio, 0.5 tn/ha más de gira-
+sol en LB y 0.3 tn/ha más en RE. A ese beneficio 
+se agrega el aumento del rendimiento por un me-
+jor uso del agua caída durante el ciclo del girasol, 
+que, para 175 mm de recarga inicial, es de 0.4 tn/
+ha en LB y 0.3 tn/ha en RE. Entonces, hacia el 
+oeste de la región, el cambio de ambiente obrado 
+por un sistema de producción aumentaría el ren-
+dimiento de girasol en casi 1 tn/ha.
+La reducción en las pérdidas por escorrentía y 
+evaporación bajo un sistema de producción inten-
+sificado y con más gramíneas también aumenta la 
+10
+Figura 3. Efectos del patrón de precipitación y la condición del suelo sobre la posibilidad de siembra en Reconquista (negro) y Las 
+Breñas (azul) entre el 20/7 al 10/10. Se muestra la probabilidad acumulada de sembrar en o antes de cada fecha indicada en abscisas.  
+Se considera que una siembra es posible si la cantidad de agua útil en los primeros 45 cm supera el 70%, y se asume que esa parte del 
+perfil contenía 40% de agua útil al 1/5. Las líneas gruesas y finas representan la condición buena y pobre del suelo respectivamente.
+21/7
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+10/8 30/8
+FECHA DE SIEMBRA
+PROBABILIDAD ACUMULADA DE SEMBRAR 
+EN O ANTES DE CADA FECHA
+19/9 9/10
+más, el retraso de la siembra desplaza la floración 
+hacia el verano y aumenta el riesgo de una fuerte 
+reducción del rendimiento por altas temperaturas 
+(Figura 1), lo que también desalienta la siembra.
+La magnitud y forma del cambio de rendimien-
+to con e0l atraso de la siembra se modifica bajo 
+distintas ofertas de agua. Con buena recarga oto-
+ñal del perfil, el rendimiento medio en siembras 
+tempranas es mayor y más seguro (percentil 20) 
+que en siembras tardías en RE y LB (Figura 4). 
+En RE, bajo cualquier nivel de recarga inicial, la 
+siembra del 10/8 rinde en promedio 0.2 tn/ha 
+más que la siembra del 20/9 y son más segu-
+ras. En LB, en cambio, las siembras tempranas 
+pierden su ventaja en la medida que el suelo está 
+menos recargado. Según la simulación, la siem-
+bra del 20/9 bajo condiciones de mala recarga 
+se destaca respecto a la temprana por mejorar 
+el techo de rendimiento al aprovechar mejor las 
+primaveras húmedas. En base al promedio sería 
+conveniente retrasar un poco la siembra si el per-
+fil tiene menos del 200 mm el 1/5. Sin embargo, 
+la siembra temprana mantiene una ventaja en el 
+piso de rendimientos, define en condiciones de 
+menor demanda aprovechando mejor la escasa 
+recarga del suelo, hasta una recarga que supere 
+los 150 mm aproximadamente. Los lotes insertos 
+en un sistema de producción que les permita te-
+ner buena estabilidad estructural y cobertura de 
+rastrojos no solo tendrán una mayor recarga y un 
+mejor uso de las lluvias en la estación, sino que 
+tendrán una ventaja adicional al poder con mayor 
+frecuencia sembrar temprano para aprovechar 
+esa condición.
+11
+Un ejemplo de interacción compleja: reserva de agua en el suelo/fecha 
+de siembra/localidad/Fase del ENSO
+escenarios de recarga al 1/5, 250 y 125 mm se eva-
+luó la ventaja de sembrar temprano en las distin-
+tas fases (Figura 5). En RE con ambas recargas 
+es conveniente sembrar temprano independien-
+temente de la fase. En LB con 250 mm de recarga 
+es claro el aumento del promedio y la seguridad 
+sembrando temprano en años Niña, y con menos 
+claridad también en los Neutros. Aunque en los 
+Niños la ventaja se pierde, estos escenarios más 
+húmedos son proclives a otros problemas, como 
+Figura 4. Efecto de la disponibilidad de agua útil almacenada en el suelo al 1/5 (mm, en 2.5 mts) sobre el rendimiento simulado 
+(kg/ha) para Reconquista (derecha) y Las Breñas (izquierda) en siembras fijas del 10/8 (negro) y del 15/9 (azul). Las líneas 
+gruesas son el promedio de 37 campañas y las finas el percentil 20 (inferior) y 80 (superior) de los rendimientos en las mismas.
+LB RE
+0
+750
+1500
+2250
+3000
+Percentil Media
+10-Ago
+20-Sep
+20%
+20%
+Percentil
+80%
+80%
+10050 50150 200 250 300 100 150 200 250 300
+AGUA ÚTIL EN EL SUELO AL 1/5 (mm, en 2.5 m)AGUA ÚTIL EN EL SUELO AL 1/5 (mm, en 2.5 m)
+RENDIMIENTO (kg/ha)
+La fase del ENSO (El Niño, Oscilación del Sur) 
+tiene efectos sobre la variabilidad climática que 
+pueden o no traducirse en diferencias de rendi-
+mientos. Los modelos de simulación permiten 
+explorar los efectos sobre distintos planteos de 
+producción y evaluar las decisiones más conve-
+nientes (Messina et al. 1999). El ENSO brinda 
+una oportunidad de tomar decisiones porque al 
+comienzo de la estación de cultivo se cuenta con 
+un pronóstico confiable de la fase. Tomando dos 
+12
+LB
+RE
+RENDIMIENTO (kg/ha)RENDIMIENTO (kg/ha)
+0
+500
+1000
+1500
+2000
+2500
+0
+500
+1000
+1500
+2000
+Niña Niño TodoNeutro Niña Niño TodoNeutro
+2500
+Fase del ENSO Fase del ENSO
+10-Ago 15-Sep 10-Ago 15-Sep
+Figura 5. Efecto de las fases ENSO sobre el rendimiento simulado (kg/ha) para Reconquista (RE, abajo) y Las Breñas (LB, 
+arriba) en siembras del 10/8 (columnas azules) y del 15/9 (columnas celestes) con una recarga inicial de 250 mm (izquierda) 
+y de 125 mm (derecha) al 1/5. Las columnas indican el promedio de 8 campañas Niña, 21 neutras y 8 Niño, 37 en total y las 
+barras negras van desde el percentil 20 (inferior) al 80 (superior) de los rendimientos en esas campañas.
+las enfermedades y los anegamientos tempora-
+rios, que se agravan en siembras tardías (Chap-
+man y de la Vega 2002). Si la recarga es de 125 
+mm, es clara la ventaja de sembrar más tarde 
+en los Niños y también en los neutros, aprove-
+chando la ventaja de los años húmedos. En RE 
+y especialmente en LB, los rendimientos simula-
+dos cuando el suelo está pobremente recargado 
+y el año es Niña son muy bajos y hacen necesario 
+evaluar la conveniencia de sembrar, o de pasar a 
+un cultivo de verano.
+13
+CONCLUSIONES
+ASOCIACIÓN ARGENTINA DE GIRASOL
+Los ejemplos aquí presentados de uso de un mo-
+delo de simulación, alimentado con información 
+climática y de suelos, para explorar interrogantes 
+acerca del funcionamiento de los sistemas de 
+producción del NEA sirven para ilustrar la poten-
+cia de este abordaje. El mismo mejora la aprecia-
+ción de las múltiples interacciones que rigen el 
+rendimiento, permite el diseño de hipótesis ex-
+perimentales, y sirve de base para el diseño de 
+reglas de decisión que pueden disminuir el riesgo 
+de fracaso y aumentar el rendimiento promedio. 
+Más allá de las eventuales debilidades e incerti-
+dumbres acerca del modelo y su funcionamien-
+to, las hipótesis y apreciaciones surgidas de este 
+estudio son casi imposibles de lograr a través de 
+la experimentación sistemática por razones de 
+envergadura, recursos y costos.
+El valor de esta herramienta aumenta en condi-
+ciones de una pobre base experimental y rápidos 
+cambios en tecnología de producción, situación 
+imperante en el NEA. La evaluación realizada des-
+taca a las siembras de agosto por su rendimiento 
+potencial, aceptable riesgo de heladas y un régi-
+men térmico no tan severo en el llenado. En seca-
+no, la disponibilidad de agua en el suelo previo a la 
+siembra tiene un fuerte impacto en el rendimien-
+to, especialmente cuando las lluvias de primavera 
+son menores y el suelo no ofrece restricciones a la 
+exploración radical. El diseño de sistemas de pro-
+ducción que aumenten la estabilidad del suelo en 
+superficie y mantengan cobertura de rastrojos me-
+jorará el resultado del girasol en el NEA. Respecto 
+a una situación más pobre, con alta preponderan-
+cia del cultivo de soja en la rotación, esos cam-
+bios aumentan la cantidad de agua almacenada 
+para hacer girasol, la posibilidad de siembras en 
+fechas tempranas y la eficiencia del uso de agua 
+de las lluvias durante el cultivo. Hacia el oeste de 
+la región, estas prácticas podrían subir en 1tn/ha 
+el rendimiento de girasol y duplicar la cantidad de 
+años con siembras tempranas. Si el pronóstico del 
+ENSO indica una fase Niña, podría ser convenien-
+te no sembrar el cultivo en la región NEA en aque-
+llos ambientes con muy mala recarga del perfil.
+Queda claro que los ejemplos presentados no 
+agotan el cúmulo de importantes interrogantes 
+14
+ño del grano) y a los anegamientos transitorios 
+(más frecuentes en suelos pesados y en años 
+Niño). Este trabajo procuró avanzar en ese senti-
+do, cuantificando el efecto que la todavía escasa 
+información fisiológica de base permite sugerir. 
+Otra tarea que debe ser abordada es poner a 
+prueba el modelo contra casos de observación 
+concretos en el NEA, cosa que permitiría avanzar 
+desde la actual prueba de concepto a la adop-
+ción, con mucha mayor confianza de lo que se 
+puede tener ahora, basados en alentadoras, pero 
+no concluyentes, comparaciones entre los resul-
+tados simulados y los datos surgidos del análi-
+sis de brechas efectuado por ASAGIR. El trabajo 
+experimental y la evaluación de las decisiones 
+tomadas por quienes manejan los cultivos, debe 
+complementar la aproximación para que al po-
+tenciarse permitan mejorar los rendimientos del 
+cultivo del girasol en el NEA.  
+que se podrían abordar en relación con los sis-
+temas de producción del NEA. Surge claramente 
+que sería útil usar el mismo abordaje para evaluar 
+los sistemas de producción “tradicional” (labo-
+reo convencional, siembra con lister) del NEA. La 
+aproximación podría servir también para ayudar a 
+definir un manejo de la nutrición nitrogenada que 
+reconozca la variación de la oferta hídrica. Pero tal 
+vez, la mayor potencia y valor diferencial del uso 
+de modelos funcionales se logre al avanzar sobre 
+el estudio integral de todos los elementos del sis-
+tema de producción (p.ej., secuencias adaptables 
+basadas en Girasol/Maíz-Soja), permitiendo una 
+apreciación más acabada del conjunto, en vez de 
+focalizar un cultivo o las interacciones entre culti-
+vos precedente/subsiguiente. 
+Todo modelo es una simplificación de la realidad 
+y resulta, por lo tanto, limitado en sus alcances. 
+Para una mejor exploración de los condicionan-
+tes del girasol en el NEA sería conveniente in-
+corporar al modelo respuestas del cultivo a las 
+muy altas temperaturas (que entre otras cosas 
+reducen el rendimiento vía la reducción del tama-
+15
+AGRADECIMIENTOS
+A ASAGIR por la invitación a escribir este trabajo 
+y por haber generado un espacio donde discutirlo 
+con tomadores de decisión en el NEA. A Anto-
+nio J. Hall, que es la brújula que señaló el norte a 
+este trabajo desde sus orígenes para realizar una 
+presentación en Charata. Antonio es además una 
+de las personas fundamentales para que hoy me 
+apasione indagar integralmente el funcionamien-
+to de los sistemas de producción.
+BIBLIOGRAFÍA
+ASAGIR 2009. Proyecto Brechas de rendimiento 
+en Girasol.
+Chapman, S.C. y A.J. de la Vega. 2002. Spatial 
+and seasonal effects confounding  interpretation 
+of sunflower yields in Argentina. Field Crop Re-
+search, 73:107-120.
+Mercau, J.L. 2003. Modelos de simulación y 
+aplicación de herramientas informáticas para el 
+manejo del cultivo. En “El Libro de la Soja”. Cua-
+derno de actualización técnica 66. AACREA. E.H. 
+Satorre (ed.).
+Messina, C.D., Hansen, J.W., Hall, A.J., 1999. 
+Land allocation conditioned on El Niño-Southern 
+Oscillation phases in the Pampas of Argentina. 
+Agricultural System, 60: 197–212.
+Rondanini, D., A. Mantese, R. Savín y A.J. Hall. 
+2006. Responses of sunflower yield and grain 
+quality to alternating day/night high temperatu-
+re regimes during grain filling: Effects of timing, 
+duration and intensity of exposure to stress. Field 
+Crop Research 96: 48-62.
+Villalobos F.J., A.J. Hall, J.T. Ritchie, F. Orgaz. 
+1996. OILCROP-SUN: a development, growth 
+and yield model of the sunflower crop. Agronomy 
+Journal, 88: 403-415.
+ASOCIACIÓN ARGENTINA DE GIRASOL
+16

@@ -1,0 +1,683 @@
+=== Fuente: Piccardi_impacto_factores_en_prenez_tambo.pdf ===
+
+RESUMEN
+El propósito de este estudio fue estimar, a través de una regresión logística 
+múltiple, la contribución relativa de factores que afectan la probabilidad de 
+preñez a los 100 días en lactancia en rodeos lecheros argentinos. Los factores 
+analizados fueron: nivel productivo, estación de parto, número de lactancia, 
+tipo de servicio utilizado inseminación artificial (IA), natural o combinación 
+de ambas y la interacción del nivel productivo y el tipo de servicio. Los 291 
+tambos (162.116 lactancias) son usuarios del software Dairy Comp305, del 
+cual se obtiene la producción estimada que se espera alcance la vaca adulta 
+(305 equivalente maduro). Todos los factores resultaron estadísticamente 
+significativos. Las vacas con bajo nivel productivo tuvieron mayores chances de 
+preñarse que vacas con niveles productivos mayores. Las vacas con parición 
+en estaciones más frías tuvieron mayores chances de preñarse a los 100 días. 
+La relación resultó cuadrática entre la probabilidad de preñarse a los 100 días y 
+el número de lactancia. Los bovinos que recibieron servicio natural presentaron 
+mayor tasa de preñez acumulada; sin embargo, la IA estuvo asociada a 
+niveles productivos mayores. Los resultados sugieren la necesidad de diseños 
+alternativos y evaluación del manejo reproductivo según niveles productivos 
+específicos, como herramienta para incrementar la eficiencia reproductiva 
+global.
+Palabras clave: controles lecheros, 305EM, indicadores reproductivos, 
+inseminación artificial
+Piccardi, M; A. Capitaine Funes, G.A. Bó and M. Balzarini, 2011. Impact 
+of the production level, calving season and type of service on the 
+100-day cumulative pregnancy rate of dairy cows in  Argentina. 
+Agriscientia XXVIII (2): 127-135
+SUMMARY
+The aim of this study was to estimate using a multiple logistic regression the relative 
+contribution of factors affecting the probability of getting pregnant at the first 100 
+Impacto del nivel de producción, estación 
+de parto y el tipo de servicio sobre la tasa 
+de preñez acumulada a 100 días en vacas 
+lecheras en la Argentina
+Piccardi, M; A. Capitaine Funes, G.A. Bó y M. Balzarini
+Fecha de recepción: 18/04/11; fecha de aceptación: 02/12/11
+agriscientia, 2011, vol. x
+xviii
+ (2): 127-135
+128 agriscientia
+ponderado de los 17 o 18 ciclos que tiene un año 
+(Capitaine Funes, 2005). La TP es función de la 
+tasa de detección de celos (TDC) y de la tasa de 
+concepción (TC). La TDC es la proporción de va-
+cas que se detectan en celo en un ciclo estral (21 
+días), mientras que la TC es la proporción de los 
+servicios dados que originan preñeces. La TP acu-
+mulada es la proporción de vacas preñadas a un 
+momento dado y es función de la TP. La TP acumu-
+lada a 100 días en lactancia indica la proporción 
+de vacas que se preñan antes de los 100 días. Si 
+se considera una espera voluntaria de 40 días, es 
+la proporción acumulada de preñeces que se lo-
+gran en tres ciclos estrales (60 días en servicio) 
+(Capitaine Funes et al., 2004). Numerosos factores 
+pueden afectar la TP, y la contribución relativa de 
+éstos puede variar tanto temporal como geográfi-
+camente debido a cambios en el manejo del rodeo.
+Las tres provincias que aportan el 75% de 
+la producción nacional de leche son Córdoba 
+(2.732.435.268 litros), Santa Fe (2.703.514.917 
+litros) y Buenos Aires (2.169.674.135 litros), que 
+acumulan un total de 7.605.624.320 litros de la 
+producción anual de la Argentina (Indicadores 
+Lácteos, 2009). Existe gran diversidad entre los 
+rendimientos según la provincia que se conside-
+INTRODUCCIÓN
+Los rodeos lecheros demandan prácticas de 
+manejo reproductivo eficaces para mejorar la ren-
+tabilidad y sustentabilidad de los establecimientos. 
+Aunque los sistemas de manejo de los rodeos co-
+merciales varían ampliamente, el objetivo repro-
+ductivo principal es preñar a las vacas lecheras lo 
+más rápido posible después del parto (Ferguson 
+& Galligan, 1993). Los indicadores más utilizados 
+para reflejar el comportamiento reproductivo de ro-
+deos lecheros han cambiado en los últimos años. 
+Indicadores clásicos como el intervalo parto-parto 
+o el intervalo parto-concepción, que equivale a los 
+días abiertos (“days open”), no se reconocen ac-
+tualmente como suficientes. 
+En las cuencas lecheras argentinas un indica-
+dor frecuentemente utilizado para diagnosticar el 
+comportamiento reproductivo global de un esta-
+blecimiento lechero es la tasa de preñez (TP). Ésta 
+refleja en forma objetiva la velocidad con que se 
+preñan las vacas (Capitaine Funes, 2002). La tasa 
+de preñez se mide cada 21 días (un ciclo estral) y 
+representa la proporción de vacas elegibles que 
+se preñan en un ciclo. Cuando se habla de tasa 
+de preñez anual se hace referencia al promedio 
+days of milk production in Argentine dairy herds. The factors considered 
+were milk production level, lactation number, calving season, type of 
+service used, artificial insemination (AI), natural breeding, or combined, 
+and the interaction between type of service and level of production. The 
+291 Dairy farms (162.116 lactations) are users of the software Dairy Comp 
+305 herd-management. This software has a production estimator called 
+305 mature equivalent to standardize records from different lactation 
+numbers. The analyzed variables in the model were statistically significant. 
+Cows of lower milk production have more chances to get pregnant than 
+those with higher milk production. Cows that calves in colder seasons have 
+more probabilities to get pregnant than those calves in hottest seasons. The 
+relation was quadratic between the probability of getting pregnant at 100 
+days in milk and the number of lactation. The cumulative pregnancy rate at 
+100 days was greater with natural service, compared to AI but, the AI was 
+related with greater levels of milk production. Therefore, the results suggest 
+that new reproductive management designs specifically developed for 
+given productive levels could increase the overall reproductive efficiency.
+Key words: milk analysis, 305ME, reproductive indicators, artificial 
+insemination.
+M. Piccardi y M. Balzarini (CONICET). Cátedra de Estadística y 
+Biometría, Facultad de Ciencias Agropecuarias, Universidad 
+Nacional de  Córdoba. C.C. 509, 5000 Córdoba, Argentina. A. 
+Capitaine Funes. DAIRYTECH S.R.L. G.A. Bó. IRAC e Instituto de 
+Ciencias Básicas, Carrera de Medicina Veterinaria, Universidad 
+Nacional de Villa Maria, Villa del Rosario, Córdoba, Argentina. 
+Correspondencia a: monicapiccardi@gmail.com
+129Impacto del nivel de producción, estación de parto y el tipo de servicio sobre la tasa...
+día=125 litros). Luego, se clasificaron a las lactan-
+cias por el nivel productivo; para ello se utilizó la 
+variable 305 equivalente maduro (305EM), la cual 
+normaliza registros provenientes de distintas lac-
+tancias tanto en número como duración.
+Para la clasificación de las lactancias se calculó 
+el percentil 33 (P33) y 66 (P66) de la producción 
+por lactancia para cada tambo; así lactancias de 
+un mismo tambo con valores de 305EM menores 
+al P33 conformaron el grupo de baja producción 
+(BP), las lactancias con valores de 305EM mayores 
+al P33 y menores al P66 conformaron el grupo de 
+media producción (MP) y las lactancias con valores 
+mayores al P66 conformaron el grupo de alta pro-
+ducción (AP). De esta manera se controló el efecto 
+tambo mediante la agrupación de las lactancias 
+marginales dentro cada tambo. Para clasificar el 
+tipo de servicio, se lo consideró de IA cuando tenía 
+el código de IA, natural cuando el código era de 
+toro y combinado si había sido inseminado una a 
+tres veces y luego se repasaba con el toro. Todos 
+los servicios fueron aplicados posteriormente a la 
+detección de celos. No se pudo controlar el perio-
+do de espera voluntario, ya que cada tambo usa 
+su propio criterio, y por esto se calculó el número 
+de servicios dados hasta los 100 DEL y los DEL 
+al primer servicio para cada nivel de producción, 
+a fin de ver el comportamiento. Con respecto a la 
+estación del parto, las lactancias que comenzaron 
+entre los meses de diciembre a febrero se las cla-
+sificó como provenientes de partos de verano; las 
+de marzo a mayo, de otoño; las de junio a agosto, 
+de invierno; por último, a las lactancias comenza-
+das entre septiembre y noviembre se las agrupó 
+en primavera.
+Análisis estadístico
+Inicialmente se realizó un análisis estadístico 
+exploratorio de la variable TP acumulada a los 
+100 días de lactancia y 305EM para cada grupo 
+de producción, en función de cuatro factores: nivel 
+productivo (alta, media y bajo), estación de parto 
+(verano, otoño, invierno y primavera), número de 
+lactancia (1, 2, 3 y ≥4) y tipo de servicio utiliza-
+do (natural, combinada e IA). También, se midió 
+el número de servicios dados hasta los 100 DEL 
+promedios y los DEL promedio al primer servicio 
+para cada nivel productivo. Se obtuvieron curvas 
+de sobrevida para comparar a través de los DEL 
+la TP acumulada. Las curvas se calcularon según 
+el algoritmo de Kaplan y Meier para cada una de 
+las categorías de la variable 305EM, y se comparó 
+la igualdad de dos o más curvas de sobrevida con 
+el estadístico Log Rank (Kaplan & Meier, 1958). Un 
+valor alto de Log Rank se corresponde a un valor 
+re y también entre zonas de una misma provincia. 
+Se observa además una gran variabilidad entre los 
+animales; así se encuentran vacas de alta produc-
+ción con más de 35 litros/día y a la vez vacas que 
+no llegan a los 15 litros/día. Por otra parte, existen 
+trabajos que han demostrado que la disminución 
+en la fertilidad (celos más cortos y menos intensos) 
+se encuentra asociada al aumento de la produc-
+ción de leche (Dematawewa & Berger, 1998; Lucy, 
+2001; Price & Harris, 2004).  La fertilidad decrece 
+por una menor concentración plasmática de es-
+trógenos debida a la metabolización en el hígado 
+de esta hormona  (Lopez et al., 2004). A su vez, 
+la TC muestra una importante variación estacional, 
+y la mayor concentración se da en los estaciones 
+más frías (Lucy, 2001; Jordan, 2003; López-Gatius, 
+2003; De Vries & Risco, 2005). El número lactan-
+cia es también un factor conocido que afecta los 
+indicadores reproductivos (Weigel, 2004; Winding 
+et al., 2005). Otra fuente de variación en los indica-
+dores reproductivos es el tipo de servicio utilizado 
+(Williamson et al., 1978; De Vries et al., 2005; Olynk 
+& Wolf, 2008; Lima et al. 2009; Lima et al., 2010), 
+no obstante existen pocos estudios que estudian la 
+interacción de dicho factor con el nivel productivo 
+a escala de rodeo lechero no experimental. 
+El objetivo de este trabajo fue estimar la contri-
+bución relativa en la determinación de la probabili-
+dad de preñez a los 100 días de lactancia (DEL) de 
+los siguientes factores: nivel productivo (NP), esta-
+ción del parto (EP), número de lactancia (# Lact), 
+tipo de servicio (TS) (inseminación artificial —IA—, 
+combinado o natural) y por último, la interacción 
+del nivel productivo y el tipo de servicio. 
+MATERIALES Y MÉTODOS
+Base de datos
+Se trabajó con una base de datos de 162.116 
+lactancias pertenecientes a 291 tambos monitorea-
+dos durante dos años consecutivos (enero de 2007 
+a diciembre de 2008), fundamentalmente de la zona 
+centro y sur de Santa Fe y provincia de Córdoba, 
+ya que algunos tambos pertenecen a la provincia 
+de Buenos Aires. Todos los tambos son usuarios 
+del programa reproductivo Dairy Comp305 ®. Se 
+acondicionó la base de datos original de acuerdo a 
+los objetivos de este trabajo, por lo que se descar-
+taron las lactancias que tenían algún dato faltante 
+de días en lactancia o para 305EM. Asimismo, se 
+eliminaron las lactancias cuya duración era menor 
+a 25 días y consecuentemente las lactancias en 
+donde había una acumulación de litros menor a 
+125 a los 25 días de lactancia (25 días x 5 litros/
+130 agriscientia
+dos hasta los 100 DEL para las lactancias de alta 
+producción fue de 63 DEL y 1,46 servicios, 62 DEL 
+y 1,44 servicios para las de media producción y 
+por último 60 DEL y 1,43 servicios para las lactan-
+cias de baja producción (Tabla 2). En la Figura 2 se 
+puede observar que los valores de la TP acumula-
+da a los 100 DEL son mayores en las estaciones 
+frescas que en las estaciones calurosas, y presen-
+ta los valores más altos de la TP acumulada la esta-
+ción de invierno. En cuanto a los valores promedios 
+de 305EM también fueron mayores en la estación 
+de invierno (Tabla 1). Respecto al factor número de 
+lactancia, la mayor TP acumulada correspondió a 
+la primera y segunda lactancia, disminuyendo el 
+porcentaje a medida que aumenta el número de 
+lactancia (Figura 3). La misma tendencia se repi-
+“p” (probabilidad de que las curvas sean diferen-
+tes sólo por azar) pequeño; valores p<0,05 fueron 
+usados como indicadores de diferencias estadísti-
+camente significativas entre las curvas de sobre-
+vida que en este trabajo sugieren la probabilidad 
+de que un animal siga sin preñarse condicional 
+al tiempo transcurrido desde el último parto has-
+ta los 100 días de lactancia. Por último, se ajus-
+tó una regresión logística múltiple con el software 
+JMP® versión 9.0.1 (JMP®, 2010). En el modelo se 
+incluyeron como variables independientes el nivel 
+productivo, la estación del parto, el número de lac-
+tancia al que pertenecía la lactancia bajo estudio 
+y el tipo de servicio utilizado. Como salida de este 
+modelo se obtuvieron los coeficientes de regresión 
+y las razones de chances (Odds Ratios) que indi-
+can cómo las variables independientes introducen 
+cambios en la probabilidad de la ocurrencia de un 
+suceso, la preñez.
+RESULTADOS Y DISCUSIÓN
+Análisis estadístico exploratorio
+En la Figura 1 se aprecia que los valores de la 
+TP acumulada a los 100 DEL son mayores en las 
+lactancias con un nivel productivo menor. El valor 
+promedio de 305EM para las lactancias de alta 
+fue de 9050 litros/lactancia, 7311 litros/lactancia 
+para las de media y por último, 5473 litros/lactan-
+cia para las lactancias clasificadas como de baja 
+producción (Tabla 1). El promedio de DEL al primer 
+servicio y el promedio de número de servicios da-
+Figura 1. Distribución de la tasa de preñez (TP) acumulada a los 
+100 días en lactancia en función del nivel de producción.
+Tabla 1. Media ± E.E. de la variable producción de leche 305EM1 
+(litros/lactancia) para cada factor: nivel de producción, estación 
+de parto, número de lactancia y tipo de servicio aplicado.
+Factor n
+Media
+(litros/
+lactancia)
+E.E.
+Nivel de 
+producción (NP)
+   Baja 53.754 5.473,40 6,30
+   Media 54.855 7.311,20 6,30
+   Alta 53.507 9.050,40 8,80
+Estación del 
+parto (EP)
+   Verano 28.728 6.969,30 12,80
+   Otoño 51.361 7.263,90  9,70
+   Invierno 48.898 7.587,50 10,40
+   Primavera 33.129 7.100,10 11,90
+Número de la 
+lactancia (# Lact)
+   1era 49.450 7.483,50 10,50
+   2da 39.747 7.464,50 11,20
+   3era 29.453 7.280,00 12,50
+   4ta ó > 43.466 6.864,20 10,00
+Tipo de servicio 
+(TS)
+   Natural   7.304 5.460,30 17,00
+   Combinado  18.279 5.798,90 12,90
+   Inseminación  artificial 136.533 7.570,70  5,90
+1 305EM es la producción estimada que se espera alcance la 
+vaca al ser adulta en 305 días de lactancia (305 equivalente 
+maduro; 305EM).
+Tabla 2. Media ± E.E. de la variable número de servicios dados 
+hasta los 100 DEL (NServ.) y días a primer servicio (D1S) para 
+cada nivel de producción.
+Factor NServ. D1S
+Nivel de producción (NP)
+Baja 1,43 ± 0,00 60,40 ± 0,10
+Media 1,44 ± 0.00 62,30 ± 0,09
+Alta 1,46 ± 0.00 63,60 ± 0,09
+131Impacto del nivel de producción, estación de parto y el tipo de servicio sobre la tasa...
+tió con la variable 305EM (Figura 4) (Tabla 1). Por 
+último, en la Figura 5 se presenta la TP acumula-
+da según el tipo de servicio aplicado en donde se 
+aprecia que la mayor TP acumulada es cuando se 
+utiliza como tipo de servicio al servicio natural. Sin 
+embargo, aquí cabe destacar que los promedios 
+del 305EM asociados con cada tipo de servicio 
+utilizado difieren de manera considerable entre sí, 
+con un promedio de 305EM para la natural de 5460 
+litros/lactancia y 7571 litros/lactancia para la IA (Ta-
+bla 1). En la Figura 6 se observa que para todos los 
+niveles productivos con el servicio natural se obtu-
+vieron los mayores valores de TP acumuladas a los 
+100 DEL. Así también, los resultados sugieren que 
+la diferencia en porcentaje de la TP entre los nive-
+les productivos es mucho mayor dentro del tipo de 
+servicio natural que los alcanzados con la IA.
+Análisis de sobrevida
+En la Figura 7 se muestran las curvas de sobre-
+viva construidas según particiones de las lactan-
+cias dadas por el nivel de producción de leche. 
+Se observa nuevamente que las lactancias de alta 
+producción se asocian a valores menores de pre-
+ñez acumulada. A los 100 días desde el parto, las 
+lactancias de alta producción se correspondieron 
+con un 27% de animales preñados, mientras que 
+las lactancias de baja producción se correspon-
+dieron con un 33% de animales preñados. Las tres 
+curvas de sobrevida, que indican el porcentaje de 
+animales que se van preñando en función del tiem-
+po transcurrido desde el inicio de la lactancia has-
+ta los 100 DEL, mostraron diferencias estadística-
+mente significativas (p < 0,0001). Tal vez estos re-
+sultados se encuentran sesgados por el efecto del 
+periodo de espera voluntario, que como se aclaró 
+Figura 5. Distribución de la tasa de preñez (TP) acumulada a los 
+100 días en lactancia en función del tipo de servicio.
+Figura 2. Distribución de la tasa de preñez (TP) acumulada a los 
+100 días en lactancia  en función de la estación del parto. 
+Figura 3. Distribución de la tasa de preñez (TP) acumulada a los 
+100 días en lactancia en función del número de lactancia.
+Figura 4. Gráfico de puntos de los valores promedios (L/lactancia) 
+de la producción estimada que se espera alcance la vaca al ser 
+adulta en 305 días de lactancia (305 equivalente maduro; 305EM) 
+para cada número de lactancia.
+132 agriscientia
+no se pudo controlar en este estudio, pero por ello 
+se calculó el número de servicios (oportunidades) 
+promedio que tuvieron hasta los 100 DEL y los DEL 
+promedio en que se realizó el primer servicio para 
+cada nivel productivo. Si bien hay una diferencia 
+de 3 días en los días al primer servicio entre las 
+lactancias de alta y baja producción, el número 
+de oportunidades promedio dados hasta los 100 
+DEL fue mayor en las lactancias de alta produc-
+ción (1,46 veces versus 1,43 veces) (Tabla 2). En 
+la Figura 8 se aprecian las curvas de sobrevida re-
+sultantes de la interacción nivel productivo y tipo 
+de servicio utilizado, en donde se evidencia con 
+claridad que las diferencias de la TP acumulada 
+entre los distintos niveles productivos son menores 
+cuando se utilizó IA como técnica (b) que cuando 
+se utilizó servicio natural (a).
+Regresión logística
+Todas los factores propuestos en el mode-
+lo resultaron estadísticamente significativos (P < 
+0,0001) (Tabla 3).
+Tabla 3. Likelihood Ratio Test para cada factor analizado en la 
+regresión logística múltiple.
+Factor L-R ChiSquare P>ChiSq
+Nivel de producción 556,20 <0 ,0001
+Estación de parto 2.151,80 <0 ,0001
+Número de lactancia 625,50 <0 ,0001
+Tipo de servicio 1.004,30 <0 ,0001
+Interacción NP*TS 45,20 <0 ,0001
+Con respecto al nivel productivo, los resultados 
+sugieren que afecta la probabilidad de la ocurren-
+cia de la preñez (Tabla 4). Los valores de las razo-
+nes de chances indican que las vacas con un nivel 
+productivo bajo tienen mayores chances de pre-
+ñarse antes de los 100 DEL con respecto al nivel 
+productivo tanto medio como alto, con valores de 
+1,12 y 1,71 respectivamente (Tabla 5). La alta pro-
+ducción de leche fue asociada con una concen-
+tración baja de estrógenos en plasma debido a su 
+alta metabolización en el hígado (Lopez et al, 2004; 
+Wiltbank et al, 2006). Por otra parte, numerosos es-
+tudios han asociado la disminución en la fertilidad 
+de las vacas en los tambos con el aumento signifi-
+cativo de la producción de leche en los últimos 50 
+años (Dematawewa et al., 1998; Butler, 2000; Pryce 
+& Harris, 2004). Estos resultados no coinciden con 
+los reportados por Bello et al. (2010), quienes es-
+tudiaron la relación entre la producción de leche y 
+el desempeño reproductivo en vacas de primera 
+parición de Michigan (EEUU), y concluyeron que 
+la relación es heterogénea a través de los tambos, 
+ya que en algunos no se encontró una relación an-
+tagónica, sino, por el contrario, sinérgica. Le Blanc 
+(2010) ha sugerido que otros factores de manejo, 
+como el nutricional y las condiciones de confort, 
+deben tomarse en consideración y sostiene que si 
+se encuentran cubiertos, no debería existir una re-
+lación antagónica entre la producción de leche y el 
+desempeño reproductivo.
+Los resultados sugieren que la estación en que 
+se produce el parto, por lo tanto el comienzo de 
+una nueva lactancia, afecta a la probabilidad de la 
+ocurrencia de la preñez (Tabla 4). Las razones de 
+Figura 6. Distribución de la tasa de preñez (TP) acumulada a los 
+100 días en lactancia en función del tipo de servicio y nivel de 
+producción.
+Figura 7. Curva de sobrevida de Kaplan-Meier. Días en lactancia 
+que transcurren hasta lograr la preñez para lactancias con 
+distintos niveles productivos. Estadístico Chi-cuadrado para 
+media vs. baja: 13.275 (p=0,0002); estadístico chi-cuadrado para 
+media vs. alta: 539,0 (p<0,0001) y estadístico chi-cuadrado para 
+baja vs. alta: 702.080 (p<0,0001).
+133Impacto del nivel de producción, estación de parto y el tipo de servicio sobre la tasa...
+chances fueron: otoño versus primavera: 1,42 ve-
+ces mayor; otoño versus verano: 1,87 veces mayor; 
+invierno versus primavera: 1,49; invierno versus 
+verano: 1,96 (Tabla 5) (Melendez & Pinedo, 2007; 
+Huang et al., 2009). Capitaine Funes et al. (2004) 
+demostraron que en la estación de otoño e invierno 
+los animales tienen mayor fertilidad que en las esta-
+ciones de primavera y verano. Estos resultados son 
+de esperarse, ya que las vacas que paren en estas 
+estaciones pasan la mayor parte o la totalidad de 
+sus primeros 100 DEL en estas mismas estacio-
+nes, por lo tanto, se esperaría un mayor valor de 
+TP acumulada si paren en las estaciones más frías. 
+Además, los animales que paren en situaciones de 
+stress calórico se ven afectados y se refleja en el 
+resultado de los servicios al tacto de confirmación 
+(Brouk et al., 2007; Morton et al., 2007). 
+Los coeficientes para la variable número de 
+lactancias en el que se encuentra el bovino fueron 
+estadísticamente significativos (p<0,001), con una 
+tendencia cuadrática (Tabla 4). Según lo observa-
+do, las vacas de segunda lactancia son las que 
+tienen mayor probabilidad de lograr la preñez a los 
+100 DEL. Las chances de preñez a los 100 DEL 
+de los bovinos que se encuentran en su primera 
+lactancia fueron de 0,97, 1,02 y 1,36 veces con 
+respecto a los bovinos de la segunda, tercera y 
+cuarta lactancia respectivamente. Estos resultados 
+aseveran la hipótesis de la mayor fertilidad que po-
+seen los animales más jóvenes con respecto a va-
+cas más viejas (Weigel, 2004; Windig et al., 2005; 
+Melendez et al., 2007; Santos et al., 2009).
+Con respecto al tipo de servicio utilizado y cen-
+Tabla 4. Parámetros estimados de la regresión para las variables explicativas del modelo de regresión logística múltiple.
+Variable explicativa1 Coeficiente de regresión Error Estándar Chi-cuadrado P>Chi2
+Nivel de producción (NP)
+Produccion[Media] 0,10 0,01 54,52 <0,0001*
+Produccion[Alta] -0,32 0,01 527,50 <0,0001
+Estación del parto (EP)
+EP [Otoño] 0,23 0,01 701,19 <0,0001
+EP[Invierno] 0,28 0,01 992,37 <0,0001
+EP[Primavera] -0,12 0,01 130,29 <0,0001
+Número de la lactancia (# Lact)
+#Lact [1era] 0,07 0,01 70,50 <0,0001
+#Lact [2da] 0,10 0,01 116,28 <0,0001
+#Lact [3era] 0,06 0,01 28,94 <0,0001
+Tipo de Servicio (TS)
+TS [Combinado] 0,00 0,01 0,10 0,7533
+TS[IA] -0,33 0,01 1.028,02 <0,0001
+Interacción  (NP*TS)
+[Combinado]*[Alta] -0,01 0,02 0,33 0,5646
+[Combinado]*[Media] 0,01 0,02 0,28 0,5949
+[IA]*[Alta] 0,09 0,01 41,92 <0,0001
+[IA]*[Media] -0,02 0,01 2,81 0,0939
+*Valores p < 0,05 indican diferencias estadísticamente significativas entre la clase especificada y la clase de referencia para el factor 
+en estudio.
+1 La variable explicativa que no tiene valores de los parámetros estimados, es la referencia para las comparaciones estadísticas.
+Tabla 5. Razón de chances (OR) e intervalo de confianza al 
+95% (LI: límite Inferior y LS: límite superior) para comparaciones 
+entre las clases de nivel productivo (NP), estación del parto 
+(EP), número de lactancia (#Lact) y tipo se servicio (TS) para 
+especificar su efecto sobre tasa de preñez (TP) acumulada a los 
+100 días en lactancia.  
+Factores1 OR LI 95%LS 95% P>Chi2
+NP [Baja vs. Alta] 1,71 1,63 1,79 <0,0001*
+NP [Baja vs. Media] 1,12 1,07 1,18 <0,0001
+EP [Otoño vs. Primavera] 1,42 1,37 1,46 <0,0001
+EP [Otoño vs. Verano] 1,87 1,80 1,93 <0,0001
+EP [Invierno vs. Primavera] 1,49 1,44 1,53 <0,0001
+EP [Invierno vs. Verano] 1,96 1,89 2,03 <0,0001
+#Lact. [1era vs. 2da] 0,97 0,94 1,00 0,0574
+#Lact. [1era vs. 3era] 1,01 0,98 1,05 0,2680
+#Lact. [1era vs. 4ta ó >] 1,36 1,32 1,39 <0,0001
+TS [Natural vs. IA] 1,95 1,85 2,04 <0,0001
+*Valores p < 0,05 indican diferencias estadísticamente 
+significativas entre la clase especificada y la clase de referencia 
+para el factor en estudio.
+1 La variable explicativa que no tiene valores de los parámetros 
+estimados, es la referencia para las comparaciones estadísticas.
+134 agriscientia
+cio natural generalmente se lo asocia con niveles 
+productivos bajos, y la IA con niveles productivos 
+altos, como se detectó en la exploración de los 
+datos de controles lecheros de este estudio (Ta-
+bla 1) (Capitaine Funes, 2002; Capitaine Funes et 
+al., 2003). Los resultados sugieren la necesidad de 
+combinar datos productivos y reproductivos para 
+determinar la eficiencia económica de un animal. 
+Además, el impacto del mes del parto es un factor 
+importante para diseñar modelos productivos que 
+aumenten la rentabilidad de manera sustentable.
+CONCLUSIONES
+La tasa de preñez acumulada a los 100 días en 
+lactancia se ve afectada por: el nivel productivo, a 
+mayor producción menores son la chances para 
+preñarse a los 100 DEL; la estación de parto, a 
+estaciones más frías mayores son las chances de 
+preñarse a los 100 DEL; el número de lactancia, 
+la relación resultó cuadrática; el tipo de servicio 
+empleado, las chances de preñarse a los 100 DEL 
+utilizando servicio natural son mayores; y por últi-
+mo, la interacción entre el nivel productivo y tipo de 
+servicio, en donde hay que destacar que aunque 
+con IA no se detectó mayor tasa de preñez acumu-
+lada a los 100 días en lactancia, respecto al servi-
+cio natural, se observó que la IA estuvo asociada a 
+niveles productivos mayores para todos los grupos 
+marginales de producción (baja, media y alta).
+Por lo tanto, los resultados sugieren la necesi-
+dad de diseños alternativos y evaluación del ma-
+nejo reproductivo según niveles productivos es-
+pecíficos como herramienta para incrementar la 
+eficiencia reproductiva global y la rentabilidad del 
+sistema. 
+BIBLIOGRAFÍA
+Bello, N.M.; J.P. Steibel and R.J. Tempelman, 2010. Hie-
+rarchical Bayesian modeling of radom and residual va-
+riance-covariance matrices in bivariate mixed effects 
+models. Biometrical Journal 52(3): 297-313.
+Butler, W.R. 2000. Nutritional interactions with reproduc-
+tive performance in dairy cattle. Animal Reproduction 
+Science 60:449-457.
+Brouk, M.J.; J.P. Harner; J.F. Smith and D.V. Armstrong, 
+2007. Environmental modifications to address heat 
+stress. J. Dairy Sci. 90(Suppl. 1):624. (Abstr.)
+Capitaine Funes, A. 2002. Monitoreo de la eficacia repro-
+ductiva de rodeos lecheros. Primeras jornadas Taurus 
+de Reproducción Bovina. Buenos Aires, Argentina.
+Capitaine Funes, A. 2005. Factores q afectan la tasa de 
+preñez en rodeos lecheros en Argentina. 2005. VI Sim-
+trándose en la comparación entre la IA y el servicio 
+natural, los resultados sugieren que las vacas que 
+recibieron servicio natural tuvieron mayor chance 
+de preñarse que las que recibieron IA o servicio 
+combinado con un OR de 1,94 y 1,38, respectiva-
+mente (Tabla 5). Sin embargo, cuando se particio-
+nó el análisis según los niveles productivos de las 
+lactancias se encontró que, como ya observó en 
+la Figura 8, la diferencia en la TP acumulada es 
+menor con el uso de IA que con el servicio natural 
+a los 100 DEL entre los distintos niveles producti-
+vos. Varios trabajos han reportado sobre la conve-
+niencia de la utilización de IA a tiempo fijo y otras 
+técnicas para situaciones de alta producción de 
+leche en donde la detección del celo se dificulta 
+(De Vries et al., 2005;  Olynk & Wolf, 2008; Lima et 
+al. 2009; Lima et al., 2010).
+Figura 8. Curvas de sobrevida de Kaplan-Meier. Días en lactancia 
+que transcurren hasta lograr la preñez para lactancias con 
+distintos niveles productivos dentro del tipo de servicio natural 
+(a) (estadístico chi-cuadrado= 152.890; p<0,0001) e IA (b) 
+(estadístico chi-cuadrado= 535.720; p<0,0001).
+Es necesario notar en este trabajo que al servi-
+135Impacto del nivel de producción, estación de parto y el tipo de servicio sobre la tasa...
+posio internacional de reproducción animal. Pag.179-
+196. 
+Capitaine Funes, A.; A. Vater y N. Acosta, 2003. Análisis 
+reproductivo de rodeos lecheros usuarios del Dairy 
+Comp305. Revista Taurus Año 5 Nº17 abril 2003. 14-
+28.
+Capitaine Funes, A.; M.I. Oyarzabal; G.A. Bo and A. Vater, 
+2004. Factors affecting conception rate in Argentinian 
+dairy herds. 15 th International Congress on Animal 
+Reproduction, 2004, Abstract Volume 2. Page 289.
+De Vries, A. and C.A. Risco, 2005. Trends and seasonality 
+of reproductive performance in Florida and Georgia 
+dairy herds from 1976 to 2002. J. Dairy Sci. 88:3155–
+3165.
+De Vries, A.; C. Steenholdt and C.A Risco, 2005. Pregnan-
+cy rates and milk production in natural service and ar-
+tificial indeminated dairy herds in florida and Georgia. 
+J.Dairy Sci. 88: 948-956.
+Dematawewa, C.M.B. and P.J. Berger, 1998. Genetic and 
+phenotypic parameters for 305-day yield, fertility, and 
+survival in Holsteins. J. Dairy Sci. 81:2700–2709.
+Ferguson, S.D. and D.T. Galligan, 1993. Reproductive 
+programs in dairy herds. Proc. Centr. Vet. Conf. 161-
+178.
+Huang, C.; S. Tsuruta; J.K. Bertrand; I. Misztal; T.J. Lawlor 
+and J.S. Clay, 2009. Trends for conception rate of 
+Holstein over time in the southeastern United States. 
+J. Dairy Sci. 92: 4641-4647.
+Indicadores Lácteos. 2009. Convenio Lechería - S.A.G.P. 
+y A.- C.I.L. - F.I.E.L; Elaboración: Lácteos - Dirección 
+de Industria Alimentaria - S.A.G.P. y A  Link: http://www.
+alimentosargentinos.gov.ar/lacteos/docs/02_Nacio-
+nal/indica/Indica09_07.hm  Consultado 15/01/2011.
+JMP ® 9.0.1 Copyright©. 2010. SAS Institute Inc. Soft-
+ware for Windows. Cary, NC, USA.
+Jordan, E.R. 2003. Effects of heat stress on reproduction. 
+J.Dairy Sci. 86: (E. Suppl.): E104-E114.
+Kaplan, E.L. and P. Meier, 1958. Nonparametric estima-
+tion from incomplete observations. J. Amer. Statist. 
+Assn. 53:457–481.
+Leblanc, S. 2010. Assesing the association of the level 
+of milk production with reproductive performance in 
+dairy cattle. J.Reprod Dev S1-S7.
+Lima F.S.; C.A. Risco; M.J. Thatcher; M.E. Benzaquen; 
+L.F. Archbald; J.E.P. Santos and W.W. Thatcher, 2009. 
+Comparison of reproductive performance in lactating 
+cows bred by natural service or timed artificial insemi-
+nation. J. Dairy Sci. 92:5456-5466. 
+Lima F.S.; A. De Vries; C.A. Risco; J.E.P. Santos and W.W. 
+Thatcher, 2010. Economic comparison of natural servi-
+ce and timed artificial insemination breeding programs 
+in dairy cattle. J.Dairy Sci. 93: 4404-4413.
+Lopez, H.; L.D. Satter and M. Wiltbank, 2004. Relations-
+hip between level of milk production and estrous be-
+haviour of lactating dairy cows. Animal Reproductive 
+Science, 81: 209-223.
+López-Gatius, F., 2003. Is fertility declining in dairy cattle? 
+A retrospective study in northeastern Spain. Therioge-
+nology 60:89–99.
+Lucy, M. C. 2001. Reproductive loss in high-producing 
+dairy cattle: Where will it end? J. Dairy Sci. 84:1277–
+1293.
+Melendez, P. and P. Pinedo, 2007. The Association bet-
+ween reproductive performance and milk yield in Chi-
+lean Holstein cattle. J. Dairy Sci. 90:184–192. 
+Morton, J.M.; W.P. Tranter; D.G. Mayer and N.N. Jonsson, 
+2007. Effects of environmental heat on conception ra-
+tes in lactating dairy cows: Critical periods of exposu-
+re. J. Dairy Sci. 90:2271–2278.
+Olynk, N.J. and C.A. Wolf, 2008. Economic Analysis of re-
+productive management strategies on US commercial 
+dairy farms. J. Dairy Sci. 91: 4082-4091. 
+Pryce, J.E. and B.L. Harris. 2004. Genetic and economic 
+evaluation of dairy cow body condition score in New 
+Zealand. Interbull Bull. 32:82–85.
+Santos, J.E.P; H.M. Rutigliano and M.F. Sá Filho, 2009. 
+Risk factors for resumption of postpartum cyclicity and 
+embryonic survival in lactating dairy cows. Anim. Re-
+prod. Sci. 110:207–221.
+Weigel, K.A, 2004. Improving the reproductive efficiency 
+of dairy cattle through genetic selection. J. Dairy Sci. 
+87(E Suppl.): E86–E92.
+Williamson, N.B; R.S. Morris and G.A. Anderson, 1978. 
+Pregnancy rates and non return rates following artifi-
+cial and natural breeding in dairy herds. Aust. Vet. J. 
+54:111–120.
+Wiltbank, M.; H. Lopez; R. Sartori; S. Sangsritavong and 
+A. Gümen, 2006. Changes in reproductive physiology 
+of lactating dairy cows due to elevated steroid meta-
+bolism. Theriogenology 65:17-29.
+Windig, J.J.; M.P.L Calus and R.F. Veerkamp, 2005. In-
+fluence of herd environment on health and fertility and 
+their relationship with milk production. J. Dairy Sci. 
+85:335–347.

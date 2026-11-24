@@ -1,0 +1,1494 @@
+=== Fuente: Kadzere et al. - Heat stress in lactating - LPSci (2002).pdf ===
+
+Livestock Production Science 77 (2002) 59–91
+www.elsevier.com/locate/livprodsci
+H eat stress in lactating dairy cows: a review
+aa, bb*C.T. Kadzere , M.R. Murphy , N. Silanikove , E. Maltz
+a
+Department of Animal Sciences, University of Illinois at Urbana-Champaign, Urbana, IL 61801, USA
+b
+Agricultural Research Organization, The Volcani Center, P.O. Box 6, Bet Dagan 50 250, Israel
+Received 1 September 1999; accepted 6 December 2001
+Abstract
+Our objective was to provide a review of factors inﬂuencing heat stress in lactating dairy cows and how it affects milk
+production. In warmer parts of the world, during summer months in the United States, and in other temperate regions,
+reduced milk production resulting from heat stress counteracts tremendous genetic progress achieved in increasing milk
+production. Genetic progress in milk production is closely related to increased feed intake. High feed intake results in raised
+metabolic heat increment. High metabolic heat increment requires effective thermoregulatory mechanisms to maintain body
+temperature in a thermoneutral zone and in physiological homeostasis. Cows can succumb to hyperthermia if they fail to
+maintain thermoneutrality. Accurate measurement of when cows enter heat stress is complicated because the responses to
+heat stress affect not only the energy balance, but also water, sodium, potassium and chlorine metabolism. Water, sodium,
+potassium and chlorine are important constituents of sweat, and sweating is a major, if not the most important,
+thermoregulatory mechanism used to dissipate excess body heat. Due to high metabolic heat increment, and especially in the
+warmer months, high-producing dairy cows may enter heat stress much earlier than their lower-producing counterparts and
+than currently thought, or extra heat has been accommodated by physiological adaptations. Should this be the case, then
+strategies to reduce heat stress must be developed to enable cows to express their full genetic potential. The thermoneutral
+zone, heat production and heat gain, heat dissipation mechanisms, and how the lactating cow responds to heat stress are
+discussed.
+   2002 Elsevier Science B.V. All rights reserved.
+Keywords: Heat stress; Responses; Lactating cows; Dairy cattle
+1 . Introduction and justiﬁcation cattle research has tended to concentrate on genetic
+improvements to increase milk production and on
+The thermal environment is a major factor that can nutrient supply to the cow during early lactation.
+negatively affect milk production of dairy cows, Little attention has been paid to the thermoregulatory
+especially in animals of high genetic merit. Dairy ability of the modern cow as her capacity to produce
+milk has increased.
+The question arises whether the temperature at*Corresponding author. Tel.: 11-217-333-0093; fax: 11-217-
+which cows currently start experiencing heat stress333-7088.
+E-mail address: mrmurphy@uiuc.edu (M.R. Murphy). has shifted to a lower point, considering that in-
+0301-6226/02/$ – see front matter    2002 Elsevier Science B.V. All rights reserved.
+PII: S0301-6226(01)00330-X
+60 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+Table 1creased milk production is positively correlated to
+Abbreviationsboth feed intake and metabolic heat production. The
+Symbol Descriptionmetabolism of an animal is always in a state of
+dynamic equilibrium in which the inﬂux of nutrients ARC Agricultural Research Council
+is balanced by the production of energy in catabolic BMR Basal metabolic rate
+BW Body weightand anabolic processes. Cows require nutrients for,
+DCAB Dietary cation–anion balanceamong other things, maintenance of biological pro- DM Dry mattercesses, reproduction, and lactation. The separation of DMI Dry matter intake
+metabolism into maintenance and production is FCM Fat corrected milk
+somewhat artiﬁcial because energy metabolism is FI Feed intake
+GE Gross energyaffected by complex interrelationships among all
+H Heat of fermentationfphysiological processes. Early research to measure Hg Mercuryheat and moisture production/loss from animals had HI Heat increment
+been based on the standard metabolic rate (SMR) HP Heat production
+(Gordon et al., 1968), or basal metabolic rate (BMR) HR Heart rate
+ICBA Israel Cattle Breeders Association(Hayssen and Lacy, 1985). (Abbreviations used in
+J Joulethis paper are listed in Table 1.) The concept of 0.75
+kg Metabolic body sizeBMR (or fasting heat production) originates from the kJ Kilojoule
+works of Kleiber (1932) and Brody (1945) which k Efﬁciency of energy utilization for milk productionl
+related it to the metabolic body size (body weight k Efﬁciency of energy utilization for maintenancem
+LCT Lower critical temperature(BW) in the form of a power function in an inter-
+ME Metabolizable energyspecies comparison of mature animals). The concept meq Milliequivalentsof metabolic body size has been used as a basis for NE Net energy
+scaling other physiological/metabolic parameters, NE Net energy lactationl
+such as food intake and drug metabolism, thereby NE Net energy maintenancem
+NRC National Research Councilremoving the effects of body size. To attain SMR or
+p Partial pressure of carbon dioxideCO2BMR, an animal must be post-absorptive, awake, at p Partial pressure of oxygenO2rest, and in a thermo-neutral environment (Gordon et PROD Production
+al., 1968); however, cows under commercial pro- RH Relative humidity
+duction conditions do not meet these constraints. SMR Standard metabolic rate
+SODIN Sodium intakeHeat production at BMR has already been reviewed
+T Triiodothyronine3(Brody, 1945; Hayssen and Lacy, 1985) and will not T Thyroxine4
+be discussed further. T Average dry bulb temperatured
+Nutrient intake by high-producing cows is closely THI Temperature–humidity index
+related to the amount of milk produced. The process TMIN Weekly minimum temperature (8C)
+TNZ Thermoneutral zoneof metabolizing nutrients generates heat, which
+T Rectal temperaturercontributes to maintaining body temperature in a UCT Upper critical temperaturecold environment. In a warm climate this heat has to USDA United States Department of Agriculture
+be dissipated if thermal neutrality, a prerequisite for VFA Volatile fatty acids
+normal physiological function, is to be maintained. WI Water intake
+This complex interplay of physical and environmen-
+tal effects inﬂuences the physiological functions of
+the cow and affects not only milk production but also Atmospheric Administration) for the mean number
+the efﬁciency and proﬁtability of dairy enterprises. of days per year with maximum temperatures of
+We estimated the amount of heat stress encountered 32.2 8C or higher and the mean number of cooling
+by dairy cows in the United States using records degree-days (base 18.3 8C) per year for weather
+from the National Climatic Data Center (part of the stations across the country. Cooling degree-days are
+Department of Commerce, National Oceanic and used to estimate the amount of energy required to
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 61
+maintain comfortable indoor temperatures and are the USDA reveal a 338% increase in average milk
+computed from each day’s mean temperature production per cow per 300-day lactation between
+[(minimum 1 maximum)/2] by accumulating the 1940 and 1995, from 2096 kg (2090 kg of 4% FCM)
+difference between the mean temperature and to 7462 kg (7080 kg 4% of FCM) (Table 2). In
+18.3 8C for days that it exceeded this temperature. A Israel the average milk production per year has
+weighted average for these variables was then calcu- increased from 3690 kg (3516 kg of 4% FCM) to
+lated for the 100 counties in United States with the 10,447 (9293.8 kg of FCM) between 1934 and 1997
+most dairy cows in 1997. The top 100 counties had (Table 3). The average milk production per cow per
+from 19,368 to 277,922 cows and accounted for 4.3 300-day lactation is higher now and is projected to
+million (48%) of the 9.1 million dairy cows in the increase further in the future.
+country. The average dairy cow experienced 47 days The lactating cow uses metabolizable energy
+when the maximum temperature was 32.2 8C or (ME) for milk production at an average efﬁciency
+higher and 625 cooling degree (Celsius)-days per (q) of 65% (Moe et al., 1970). It should be men-
+year. Temperature data alone do not tell the whole tioned that heat increment (HI) during milk synthesis
+story; however, similar information for the heat is also dependent on the quality and quantity of feed
+index in the US is not available. that the animal consumes. The quality of dairy cattle
+For the | 110,000 dairy cows in Israel, heat stress feed has changed enormously between 1940 and
+was quantiﬁed in a similar manner. Temperature and 1995. Using this information and the fact that the
+relative humidity data, based on a temperature gross energy (GE) content of 4% FCM is 3.14
+humidity index (Kibler, 1964), for 17 locations were MJ/kg, we calculated the HI. The classical work on
+used (Gat et al., 1999). Heat units, positive differ- heat stress (Brody, 1945) was done close to when
+ences between the index and 22 units, were accumu- dairy record keeping started in the US (1940) and is
+lated daily from May through October. Total heat used as a point of departure. Against this back-
+units for each location were then combined with milk ground, we calculated the average HI between 1940
+production data (Israel Cattle Breeders Association, and 1995, in the US, at four efﬁciencies of milk
+1997) for the corresponding districts in 1996 to production, q 5 50, 60, 65 and 70% (Table 4; and
+calculate a weighted average. The average cow in for 1934 to 1997 in Israel, Table 5), to estimate the
+Israel was exposed to 196 heat units during the impact that changes in efﬁciency would have on HI.
+6-month period. The results indicated that increased milk production
+We hypothesized that the thermal regulatory is related to elevated HI. Total milk production and
+physiology of the cow may have changed in response HI have increased over time; however, the rate of
+to genetic selection for increased milk production. increase of HI has been slower than of milk pro-
+This hypothesis is justiﬁed by the fact that data from duction (Fig. 1, US; Fig. 2, Israel).
+Table 2
+Average milk production per cow per 300-day lactation from 1940 to 1995 in the US
+a
+Year Milk Milk 4% FCM 4% FCM Fat Fat Fat
+(kg/year) (kg/day) (kg/year) (kg/day) (kg/year) (kg/day) (%)
+1940 2096 7 2090 7 83.5 0.28 3.97
+1950 2410 8 2393 8 95.3 0.32 3.96
+1960 3188 10.6 3072 10.2 119.8 0.4 3.76
+1970 4423 14.7 4198 14 161.9 0.54 3.66
+1975 4699 15.7 4472 14 172.8 0.58 3.68
+1980 5394 18 5117 17.1 197.3 0.66 3.65
+1985 5908 19.7 5615 18.7 216.8 0.72 3.67
+1990 6705 23.4 6349 21.2 244.5 0.81 3.65
+1995 7462 24.9 7080 23.6 273.1 0.91 3.66
+a
+4% fat-corrected-milk or FCM is milk corrected to 4% fat, and is expressed in the formula FCM 5 0.4M 1 15F, where M is the weight
+of milk and F is the weight of fat, with milk and fat all being in the same units.
+62 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+Table 3
+Average annual milk production per Holstein cow from 1934 to 1997 in Israel
+a
+Year Milk Milk 4% FCM 4% FCM Fat Fat
+(kg/year) (kg/day) (kg/year) (kg/day) (kg/year) (kg/day)
+1934 3690 10.1 3516 9.6 136 0.37
+1944 4227 11.6 3940.8 10.8 150 0.41
+1954 4197 11.5 3913.8 10.7 149 0.41
+1964 5694 15.6 5067.6 13.9 186 0.51
+1974 6833 18.7 6033.2 16.5 220 0.60
+1984 8734 23.9 7798.6 21.4 287 0.79
+1994 9748 26.7 8429.2 23.1 302 0.83
+1997 10 447 28.6 9293.8 25.5 341 0.93
+a
+4% fat-corrected-milk or FCM is milk corrected to 4% fat, and is expressed in the formula FCM 5 0.4M 1 15F, where M is the weight
+of milk and F is the weight of fat, with milk and fat all being in the same units.
+Table 4
+Average daily heat increment of dairy cows from 1940 to 1995 at four efﬁciencies of milk production in the US; (a) q 5 50%; (b) q 5 60%;
+(c) q 5 65%; (d) q 5 70%
+ab
+Year 4% FCM MJ HI/day MJ HI/day MJ HI/day MJ HI/day
+(kg/year) (q 5 50%) (q 5 60%) (q 5 65%) (q 5 70%)
+1940 2090 21.9 14.6 11.8 9.4
+1950 2393 25 16.7 13.5 10.7
+1960 3072 32.1 21.4 17.3 13.8
+1970 4198 43.9 29.3 23.7 18.8
+1975 4472 46.8 31.2 25.2 20.1
+1980 5117 53.5 35.7 28.8 22.9
+1985 5615 58.7 39.2 31.6 25.2
+1990 6349 66.4 44.2 35.8 28.5
+1995 7080 74.1 49.4 38.9 31.7
+a
+4% fat-corrected-milk or FCM is milk corrected to 4% fat, and is expressed in the formula FCM 5 0.4M 1 15F, where M is the weight
+of milk and F is the weight of fat, with milk and fat all being in the same units.
+b
+MJ HI/day is heat increment in megajoules per day, calculated from milk production data from the National Agricultural Statistics
+Service, USDA.
+Table 5
+Average daily heat increment of Holstein cows from 1934 to 1997 at four efﬁciencies of milk production in Israel; (a) q 5 50%; (b)
+q 5 60%; (c) q 5 65%; (d) q 5 70%
+ab
+Year 4% FCM MJ HI/day MJ HI/day MJ HI/day MJ HI/day
+(kg/year) (q 5 50%) (q 5 60%) (q 5 65%) (q 5 70%)
+1934 3516 30.2 20.1 16.3 12.9
+1944 3940.8 33.9 22.6 18.3 14.5
+1954 3913.8 33.7 22.5 18.1 14.4
+1964 5067.6 43.6 29.1 23.5 18.7
+1974 6033.2 51.9 34.6 27.9 22.2
+1984 7798.6 67.1 44.7 36.1 28.8
+1994 8429.2 72.5 48.3 39.0 31.1
+1997 9293.8 80.0 53.3 43.1 34.3
+a
+4% fat-corrected-milk or FCM is milk corrected to 4% fat, and is expressed in the formula FCM 5 0.4M 1 15F, where M is the weight
+of milk and F is the weight of fat, with milk and fat all being in the same units.
+b
+MJ HI/day is the heat increment in megajoules per day, calculated from milk production data (Israel Cattle Breeders Association, 1997).
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 63
+Fig. 1. Milk energy and heat increment of lactating cows in the US from 1940 to 1995 calculated from USDA annual milk production data.
+Conversion of ME into milk energy at an average efﬁciency of 65% was assumed.
+Furthermore, the average BW of dairy cows has heat dissipation mechanisms, as well as how the
+increased over time as cows have been selected to lactating cow responds to heat stress are reviewed.
+produce more milk (Fig. 3). Data from Ragsdale
+(1934), Davis and Hathaway (1956) and Heinrichs
+and Hargrove (1987) suggest that, over time, the size 2 . Heat stress in dairy cows
+of 24-month-old Holstein heifers has increased by 46
+kg (or about 10%) from 485 to 531 kg. Larger cows Yousef (1985) deﬁned stress as the magnitude of
+have larger gastrointestinal tracts that allow them to forces external to the body which tend to displace its
+consume and digest more feed. This in turn provides systems from their resting or ground state. In this
+more substrates for milk synthesis. light, heat stress for the dairy cow can be understood
+There is an apparent lack of realization that to indicate all high temperature-related forces that
+changes in the physical and genetic constitution of induce adjustments occurring from the sub-cellular to
+cows may have affected their thermoregulatory the whole animal level to help the cow avoid
+capability as well as how they cope with heat stress. physiological dysfunction and for it to better ﬁt its
+The objective of our review was to focus on re- environment. The endeavor by homeotherms to
+sponses of high-producing dairy cows to heat stress. stabilize body temperature within fairly narrow limits
+The literature on this particular topic is scant and is essential to control biochemical reactions and
+does not provide a holistic view of factors that physiological processes associated with normal me-
+inﬂuence the incidence of heat stress in high-produc- tabolism (Shearer and Beede, 1990). In order to
+ing dairy cows, especially during early lactation. The maintain homeothermy, an animal must be in ther-
+thermoneutral zone, heat production and heat gain, mal equilibrium with its environment, which in-
+64 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+Fig. 2. Milk energy and heat increment of lactating Holstein cows in Israel from 1934 to 1997 calculated from average annual milk
+production data (Israel Cattle Breeders Association, 1997). Conversion of ME into milk energy at an average efﬁciency of 65% was
+assumed.
+cludes radiation, air temperature, air movement and wet and dry bulb air temperatures for a particular day
+humidity. according to the following:
+Lactating dairy cows prefer ambient temperatures
+of between 5 and 25 8C, the ‘thermoneutral’ zone THI 5 0.72(W 1 D) 1 40.6 (2.1)(TNZ) (Roenfeldt, 1998). At ambient temperatures
+above 26 8C, the cow reaches a point where she can
+no longer cool herself adequately and enters heat where W is wet bulb and D is dry bulb temperature
+stress. Body temperature is usually maintained by in 8C.
+thermoregulatory systems within 1 8C of normal Temperature–humidity index values of 70 or less
+under ambient conditions that do not impose severe are considered comfortable, 75–78 stressful, and
+heat stress (Bligh, 1973). Thermal stress and thermal values greater than 78 cause extreme distress with
+relief have been assessed by measuring body tem- lactating cows being unable to maintain ther-
+perature (Fuquay et al., 1979). Body temperature of moregulatory mechanisms or normal body tempera-
+dairy cattle shows great susceptibility to hot weather tures. Lemerle and Goddard (1986) reported that,
+(Akari et al., 1984); therefore, it is a sensitive although rectal temperature only increased when THI
+indicator of thermal stress. McDowell et al. (1976) was greater than 80, the respiration rate would begin
+also suggested that the temperature–humidity index to increase above a THI value of about 73 and would
+(THI) could be used as an indicator of thermal probably increase steeply at THI values .80. This
+climatic conditions. The THI is calculated from the ﬁnding suggests that homeostatic mechanisms, in-
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 65
+Fig. 3. Bodyweight of Holstein heifers at 24 months of age between 1934 and 1987 in the US (Ragsdale, 1934; Davis and Hathaway, 1956;
+Heinrichs and Hargrove, 1987).
+cluding increased respiration, can prevent a rise in to reductions in proportions of acetate in the rumen
+rectal temperature until the THI reaches 80. This is contents and to a small reduction in ruminal pH at
+similar to the critical THI level of 78 quoted by 30 8C. Protein percentage in the milk decreased in all
+McDowell et al. (1976). When environmental tem- cows during the treatment period, with decreases
+perature exceeds the zone of thermoneutrality, milk being greater in cows at 30 8C than in cows at 15 8C
+composition changes and production declines (Cop- (P,0.01 a.m.; P,0.05 p.m.). Temperature did not
+pock, 1978). affect milk production (P.0.10) and the lactose
+Working with two pairs of Jersey cows exposed to percentage (5.32–5.48%) in milk in these studies.
+either 15 or 30 8C air temperature, Bandaranayaka Heat stress is characterized by elevated respiration
+and Holmes (1976) found that the fat and protein rates and rectal temperatures, and has been impli-
+contents of milk decreased (P,0.05) at 30 8C when cated in impaired metabolism (Bandaranayaka and
+intake was kept equal at both temperatures. Ban- Holmes, 1976), and in poor reproductive perform-
+daranayaka and Holmes (1976) also reported that the ance (Ingraham et al., 1974) in dairy cattle in-
+proportion of shorter-chain fatty acids (C –C ) in dependent of any effects on feed intake. Although614
+milk fat decreased (P,0.05) at 30 8C. On the other speciﬁc temperatures were not listed, Coppock et al.
+hand, the proportions of long-chain fatty acids (1982) concluded that high-producing cows are
+increased (P,0.05) at 30 8C for C alone, but affected more than low-producing cows because the18:0
+only tended to increase (P,0.10) for the acids C , zone of thermal neutrality shifts to lower tempera-18:0
+C , C and C combined. The decrease in tures as milk production, feed intake, and metabolic18:1 18:2 18:3
+milk fat and protein content was positively correlated heat production increase.
+66 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+3 . Thermoneutral zone (1992) measured the highest milk production in
+Holstein cows under a desert environment during
+The TNZ can be understood as the zone of optimal thermal neutral periods that were character-
+minimal heat production at normal rectal tempera- ized by ambient temperatures below 21 8C through-
+ture. Within the TNZ (Fig. 4), minimal physiological out the day. McArthur and Clark (1988) concluded
+costs and maximum productivity are normally that the TNZ was related to the heat and water
+achieved (Johnson, 1987). Generally, the TNZ range balances of animals. The farther an animal moves
+(from lower critical temperature (LCT) to upper away from its preferred body temperature, the more
+critical temperature (UCT)) depends on age, species, detrimental temperature becomes to productive pro-
+breed, feed intake, diet composition, previous state cesses. McDowell et al. (1976) reported that even
+of temperature acclimation or acclimatization, pro- small upward shifts in core temperature have
+duction, speciﬁc housing and pen conditions, tissue profound effects on tissue and endocrine function
+insulation (fat, skin), external insulation (coat), and that, in turn, can reduce fertility, growth, lactation,
+behavior of an animal (Yousef, 1985). Igono et al. and the ability to work. A stable body temperature in
+Fig. 4. Schematic relationship of the animal’s body core temperature, heat production and environmental temperature (adapted from Curtis,
+1981). LCT, lower critical temperature; UCT, upper critical temperature.
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 67
+the TNZ is a prerequisite for maximal productivity in an increase in body temperature negatively inﬂu-
+dairy cattle (Fig. 4). ences performance, reducing milk production and
+changing milk composition, and the cow enters heat
+3 .1. Lower critical temperature stress.
+The UCT can be inferred from thermoregulatory
+The ambient temperature below which the rate of functions like increased sweating and respiratory
+heat production (HP) of a resting homeotherm must water loss, and increased body temperature (Berman
+increase to maintain thermal balance is the LCT (Fig. et al., 1985). Evaporative water loss from the skin
+4). This implies that the rate of HP is dependent increases at air temperatures above 20 8C (Berman,
+upon ambient thermal demand below the LCT 1968). Igono and Johnson (1990) found high-
+(Yousef, 1985). At environmental temperatures producing cows in early lactation to be more sensi-
+above the LCT, body temperature is maintained until tive to heat stress, and milk production declined
+the UCT (Alexander, 1974). The estimate of LCT for signiﬁcantly when rectal temperatures exceeded
+cows producing 30 kg of FCM/day is given as a 39 8C for more than 16 h. In addition, Purwanto et al.
+range from 216 to 237 8C (Hamada, 1971). Non- (1990) found cows at high (31.6 kg/day) and
+evaporative heat loss declines as ambient tempera- medium (18.5 kg/day) milk productions generated
+tures rise above the LCT making the animals more 48.5 and 27.3% more heat, respectively, than dry
+dependent on peripheral vasodilatation and water cows. This, they attributed to high milk production
+evaporation to enhance heat loss and to prevent a rise coupled with large nutrient intake and concomitant
+in body temperature. greater heat production.
+Maltz et al. (1984), working with goats, as well as
+3 .2. Upper critical temperature Frisch and Vercoe (1977) working with cattle,
+suggested that breeds of ruminants which are well
+The UCT (Fig. 4) is the air temperature at which adapted to desert environments have a greater capa-
+the animal increases heat production as a conse- bility than non-desert breeds to counter the stressful
+quence of a rise in body temperature resulting from effects induced by high heat loads.
+inadequate evaporative heat loss (Yousef, 1985).
+Estimates of UCT have been obtained from studies 3 .3. Adaptations
+in which dairy cows were exposed for short periods
+to constant temperatures in climatic chambers The ability to regulate temperature is an evolution-
+(Kibler, 1964). When the thermal load exceeds the ary adaptation that allows homeotherms to function
+evaporative heat loss capacity, body temperature in spite of variation in ambient temperature (Bitman
+rises and, if unchecked, the animal dies from hy- et al., 1984); this ability also allows temperature to
+perthermia. In hot climates, the potential for non- be used as a signal to control physiological pro-
+evaporative heat loss is reduced and animals rely on cesses. The fact that the highest milk productions
+the evaporation of water to dissipate any excess heat have been achieved in temperate climates and that
+generated by metabolism (McArthur and Clark, high genetic potential cows transferred to tropical
+1988). environments have failed to realize their theoretical
+The UCT is given as 25–26 8C for dairy cows, production capacity underscores the interaction of
+irrespective of previous acclimatization or of their the animal and the environment.
+milk production (Berman et al., 1985). The estima- Mullick (1960) found buffalo to be better adapted
+tion of the UCT and its speciﬁcation as 25–26 8C, to hot tropics than cattle because of their heat
+irrespective of previous acclimatization or of milk tolerance and resistance to certain diseases and pests.
+production, contradicts the conclusion of Yousef Also, within a species, different breeds show varying
+(1985) that the TNZ varies with physiological state levels of adaptation to thermal stress. It is also
+and other environmental conditions. At or below the generally accepted that Bos taurus-type cattle are
+UCT and above the LCT, Holstein cattle may less adapted to tropical and subtropical hot, and at
+maintain a stable body temperature. Above the UCT, times also humid, environments than are B. indicus-
+68 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+and Zebu-type cattle. Yousef (1985) attributed the Berman et al. (1985) calculated a slope of 20.29
+2
+heat adaptability of tropical cattle to, among other to 20.38 MJ/m /24 h/ 8C adaptive changes of tissue
+factors, their low feed intakes and metabolic rates. In and hair conductance relating the non-evaporative
+addition, heat loss is increased by a greater surface heat loss of dairy cows to air temperature. This was
+area, particularly in the region of the dewlap, a larger similar for mature steers of British breeds (Blaxter
+number of sweat glands, short hair, and fat dis- and Wainman, 1964), crossbred beef heifers in
+tribution such that it is inter-muscular or in the hump Canada (Webster et al., 1976), and lactating Holstein
+as in the case of Zebu cattle. These adaptations assist and dry Guernsey cows in Missouri (Kibler and
+the conductance of heat from the body core to and Brody, 1952). Berman (1968) reported reductions in
+away from the skin (Ledger, 1959). Comparing B. metabolic rate from winter to summer of about 20%,
+taurus cattle, Sharma et al. (1983) reported that which were unassociated with lower productivity in
+Jerseys were more resistant to heat stress effects on Israeli-Holstein lactating cows and mature heifers
+milk production than Holsteins. Sharma et al. (1983) exposed to a near natural subtropical climate. This
+also found reductions in the coefﬁcient of variation ﬁnding suggests that under normal production con-
+of production to be greater in Holsteins than Jerseys, ditions, metabolic and insulative adaptations to warm
+and this ranged from 2.6% units in daily milk climates and their seasonal changes may be sufﬁcient
+production to 6.3% units in daily protein production to maintain normal productivity in warm climates
+for Holsteins. (Webster et al., 1976; Weldy et al., 1964). Pheno-
+Investigations on the effects of varying ambient typic, physiological, and biochemical adaptation
+temperatures on dairy cows are often limited to mechanisms are explained in Yousef (1985).
+studies in which animals were exposed for short Because animals can adapt to hot environmental
+periods to constant temperatures in climatic cham- conditions by gradual acclimation (Prosser and
+bers (e.g. Kibler, 1964). With prolonged exposures, Brown, 1969), it appears logical to assume that
+adaptations that reduced the effect of a given tem- high-producing dairy cows acclimate to gradual
+perature stress were shown (Kamal et al., 1962). warming-up during normal summer months. How-
+However, Kibler (1964) could not attain complete ever, if hot conditions are sudden and prolonged, as
+adaptation to constant high temperatures for 9 weeks is often the case in the Mediterranean areas and in
+in lactating dairy cows. Weldy et al. (1964) con- some regions of the United States, cows are less
+cluded that the season in which animals are ﬁrst likely to acclimatize. Signiﬁcant decreases in feed
+brought into the climatic chamber inﬂuenced their intake and resultant drops in milk production punctu-
+responses to heat stress. ate such heat stress conditions.
+For lactating cows under commercial production
+conditions, the effects of heat stress that may be
+experienced during high day ambient temperatures 4 . Heat production and heat gain
+appear to be ameliorated when night temperatures
+fall (Akari et al., 1987), thus suggesting short-term Heat production of an animal must of necessity be
+tolerance of heat stress. Bitman et al. (1984) proved varied to balance heat dissipation if the animal is to
+this phenomenon by showing a diphasic circadian maintain normal body temperature. Within the lactat-
+pattern characterized by a high body temperature ing dairy cow, metabolic processes yield energy to
+from midnight to early morning, a decline in mid- sustain life, for synthesis of body tissues, for lac-
+morning, a rise in afternoon until evening, and a togenesis and milk secretion; energy is also lost in
+second trough until a rise about midnight. However, the form of methane, heat in respiratory gases, in
+Bitman et al. (1984) could not explain the causes of feces, and in urine. Yousef (1985) deﬁnes HP as a
+this daily variation of body temperature in the cow. measure of the sum total of energy transformations
+On the other hand, Igono et al. (1992) observed that happening in the animal per unit time. Heat pro-
+the lack of a cool night ambient temperature com- duction is directly controlled by the nervous system
+ponent removes the safety margin that minimizes the (Hammel, 1968), by the endocrine system, through
+negative effects of hot environments. modiﬁcation of appetite and digestive processes, and
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 69
+indirectly by alterations of the activity of respiratory Moe et al. (1972) identiﬁed the relationship between
+enzymes and protein synthesis (Yousef, 1985). The diet quality and efﬁciency of milk production, and
+inﬂuence of environmental temperature on feed expressed dietary energy as net energy (NE) for
+intake, production, and thermoregulation in the ani- lactation (NE ). Maintenance requirements werel
+mal greatly affects the rate of heat production estimated to be 29.2 and 26.6 kJ of ME or 18.9 and
+0.75
+(Brody, 1945). Because of their effect on the rate of 16.2 kJ of NE /kg , depending on whether MEl
+metabolism, the concentrations of hormones such as intake or milk output was the dependent variable.
+thyroxine, triiodothyronine, growth hormone, and Flatt et al. (1965) measured the average fasting
+glucocorticoids, are closely related to heat product- HP of non-lactating, non-pregnant dairy cows to be
+0.75
+ion (Yousef and Johnson, 1966). Other factors 17.6 kJ/kg following a period of maintenance
+inﬂuencing heat production in mammals include: feeding and concluded that the amount of energy
+body size (Brody, 1945), the environment (Salem et required for maintenance of lactating cows could be
+0.75
+al., 1982), animal species and breed, and the availa- described as 17.4 kJ of NE /kg , and thus sug-l
+bility of feed and water (Graham et al., 1959). Kibler gested that a separate NE term for maintenance
+and Brody (1954a,b) noted breed differences be- (NE ) was unnecessary. However, Taylor et al.m
+tween Jersey and Holstein cows in the rate of heat (1986) suggested that individuals and breeds vary in
+production and dissipation which may be attributed the efﬁciency with which nutrients (energy) are used
+to differences in body size. The temperature gradient for maintenance processes. Ion transport is a major
+between internal organs and external environment is contributor to maintenance energy costs (Milligan
+steeper in the smaller Jerseys than in the larger and Summers, 1986). Ion transport has been found to
+Holstein cows. be enhanced in the duodenal mucosa of lactating
+compared to non-lactating cows, although this may
+4 .1. Net energy of maintenance be as much the result of altered food consumption as
+a direct reﬂection of changed physiological state
+After summarizing results from calorimetric (McBride and Milligan, 1984). Conventional esti-
+studies with diets ranging from poor quality forage to mates of the maintenance energy requirements of
+all concentrate diets, Blaxter (1961) concluded that lactating cows are assumed to be a function of
+the efﬁciency of use of ME for maintenance was metabolic body size and energy density of the diet,
+fairly constant. However, the Agricultural Research although the Agricultural Research Council (1980)
+Council (1980) described variation in the efﬁciency noted that the metabolic rate of milking cows is
+of use of energy for maintenance (k ) as a function higher than that of dry animals. This keeps open them
+of the percentage of ME in the diet (Q ) as: k 5 possibility that there is indeed variability betweenmm
+54.6 1 0.30Q . In other studies, Van Es and Nijkamp individuals in maintenance energy needs.m
+(1969) concluded that ME was used for milk pro- Although it is impossible to measure separately
+duction at an efﬁciency of (k ) 54–58% and that the maintenance energy requirements and the energyl
+2.4–2.8 kJ of ME were required for the maintenance cost of milk production in a lactating animal, Maltz
+0.75
+of a 500-kg cow (22.9–26.5 kJ of ME/kg ). et al. (1982) examined the energy balance of lactat-
+Further, Moe et al. (1970, 1971) used multiple ing and non-lactating Bedouin goats in relation to
+regression analyses to derive partial efﬁciencies of maintenance energy during lactation. Maltz et al.
+ME use for milk production and BW gain in lactating (1982) concluded that either the net energetic cost of
+cows of 64 and 75%, and an efﬁciency of maternal milk production varies with the level of production
+body gain in non-lactating cows of 60%. Moe et al. or that the energy cost of maintenance increases with
+(1971, 1972) estimated the efﬁciency of use of body increasing milk production or a combination of both.
+tissue energy for milk production by cows in early Furthermore, they reported that the goat is a rumin-
+lactation to be 82%. This was after comparing partial ant that neither mobilizes body tissue for milk
+regression coefﬁcients representing the amount of production at peak production nor deposits tissue
+ME required for milk production and the amount of energy as lactation declines. This ﬁnding appears to
+dietary ME spared by body tissue loss. In addition, validate the linear regression equations used to
+70 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+extrapolate energy requirements to zero production alone. Lee’s (1965) compilation included (a) en-
+and comparison of the results with measured values. vironmental variables: temperature, humidity, air
+movement, radiation, and precipitation; (b) animal
+4 .2. Heat increment characteristics: species, age, sex, breed, metabolic
+state, coat, acclimatization, nutrition and hydration,
+Under warm to hot (ambient temperatures of 15 disease, and individual variability; and (c) criteria of
+and .25 8C, respectively) conditions, the cow gains effect: productivity, growth, reproduction, physiolog-
+heat from solar radiation and from the usual metabol- ical response, and pathological patterns. This illus-
+ic processes (NE and HI). If heat gain exceeds heat trates the complexity of describing and predicting them
+loss from radiation, convection, evaporation and impact of environmental effects on dairy cattle.
+conduction, heat is stored and the body temperature However, most metabolic research has been con-
+rises (Finch, 1986); the animal becomes heat- ducted under conditions of ‘thermal neutrality’ so
+stressed. At night, when ambient temperatures de- that environmental effects must be considered in
+crease, heat ﬂow may reverse direction, with stored applying such data to extreme conditions, e.g. to
+heat being dissipated from the animal back to the animals in thermal stress.
+environment and the body temperature may fall. Every interaction that the animal has with its
+Webster et al. (1976) discussed other heat generation thermal environment involves at least heat exchange.
+mechanisms including the cost of eating and The rate of exchange depends on the ability of the
+ruminating, heat produced by fermentation in the environment to accept heat and water vapor. The
+rumen (H ), and the increased heat produced by the ﬂow reverses if ambient temperature is greater thanf
+tissues of the liver and the gut as the HI. Webster et body temperature. This relationship between the
+al. (1975) cited a range in energy costs of eating, 11 animal and its environment determines the degree to
+J/kJ of ME for grass pellets and 151 J/kJ of ME for which an animal remains in thermal equilibrium with
+fresh grass, and concluded that the energy cost of its environment (Finch, 1976). The thermal load of
+ruminating could be discounted as a contribution to an animal is affected by, among other factors, the
+HI. animal housing system, shaded or exposed, ventila-
+Furthermore, Webster et al. (1975) found no tion, the location of the animal, its social rank, and
+differences in HI due to diet source and estimated the by changes in position of the dominant animals
+H in sheep to be 285 J/kJ of digestible energy from (Berman et al., 1985). In order for a cow to maintainf
+forage diets; however, heat production increased homeothermy in the environment, the amount of heat
+exponentially with increasing ME intake. At an she produces or gains from the environment should
+0.75
+intake of 34 kJ of ME/kg , heat production in equal the heat lost to the environment as expressed
+0.75
+tissues of the gut was 7 kJ/kg per 24 h. Fasting by the equation:
+0.75
+heat production of gut tissues was 4 kJ/kg .
+M 56K6C6R 1 E (4.3.1)Therefore, HI due to feeding in the gut was 2.9
+0.75
+kJ/kg , of which 1.7 kJ was fermentation heat and
+where M is the metabolic heat production; K is the1.2 kJ was aerobic metabolism in gut tissues. Webs-
+heat exchanged by conduction; C is heat exchangedter et al. (1976) concluded that the processes of
+by convection; R is heat exchanged by radiation andingestion and digestion account for about 25–30% of
+E is heat exchanged by evaporation.total HI. Armstrong and Blaxter (1957) ascribed
+most of the variation in total HI to the nature of
+substrates made available for metabolism.
+5 . Heat dissipation mechanisms
+4 .3. Environment
+To understand the heat dissipation mechanisms of
+Environmental temperature inﬂuences total energy animals, it is important to note that body temperature
+use in several ways. Young (1976) emphasized that is relatively constant because of the balance that
+heat stress is described too frequently as temperature exists between heat production and heat loss. Heat
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 71
+gain can be expressed as: (heat gained5mass3 for about one-third of the total heat load (Finch,
+speciﬁc heat3temperature change). Factors that in- 1976), and the ability of animals to remove metabol-
+crease heat production over BMR include: exercise ic heat efﬁciently is important for maintenance of
+or shivering, imperceptible tensing of muscles, steady body temperature. The mechanisms of heat
+chemical increase of metabolic rate, heat increment transfer from the body core to the periphery of cattle
+and disease (fever). Factors decreasing heat loss are and its dissipation, including breed differences, have
+an internal shift in blood distribution, a decrease in been described (Finch, 1986).
+tissue conductance, or reduction of counter-current
+heat exchange. On the other hand, heat loss from the 5 .1. Radiationanimal is enhanced by sweating, panting, a cooler
+environment, increased skin circulation (vasodilat- The amount of radiant heat absorbed by an objectation), shorter fur insulation, increased sensible water depends not only on the temperature of the object,loss, increased radiating surface, and increased air but also on its color and texture, with dark surfacesmovement or convection. radiating and absorbing more heat than light coloredThe animal loses heat by conduction, convection, surfaces at the same temperature. An animal with aradiation, evaporation of water, and through expired black coat will, therefore, have an absorbance of 1;air. Heat dissipation is shifted from radiation and whereas, a white-coated one will have an absorbanceconvection at lower environmental temperatures to of 0.37 and one with red fur has an absorbance ofvaporization at higher temperatures. Heat lost by the 0.65 (Cena and Monteith, 1975). Dmi’el et al.skin depends partly on the temperature gradient (1979) found that direct solar radiation triggeredbetween the skin, air and solid objects. Non-evapora- sweating in black Bedouin goats. Furthermore,tive heat loss declines as ambient temperatures rise Dmi’el et al. (1980) reported that the black color ofabove the LCT making cows more dependent upon the Bedouin goats was an advantage during coldperipheral vasodilatation and water evaporation to desert winter mornings. The coat color allows theenhance heat loss and prevent a rise in body tem- goat to exploit radiant heat in maintaining bodyperature (Berman et al., 1985). Peripheral vasodilat- temperature that otherwise would have to be main-ation, however, is unlikely to be a major method of tained by metabolic energy during a season whenincreasing heat dissipation in cattle because of their pasture is scarce. The disadvantage of the black coatlarge body mass. Berman et al. (1985) reported that color during the hot summer months is alleviated bythe maximal rate of water evaporation in lactating insulative properties of the hair as well as by othercows was 1.5 kg/h, which translates to 4.3 kJ/day. physiological adaptations to maintain water balance.This rate of heat loss is close to the heat production Radiant heat transfer between bodies takes placeof a dry, non-pregnant 600-kg cow but only about in both directions, and if the bodies are at differenthalf that produced by a cow producing 30 kg of milk temperatures there is a net transfer of heat from thea day. This may explain the low sensitivity of dry warmer to the cooler body (Esmay, 1969). This netcows to high ambient temperatures. The importance heat transfer involves the loss or gain of heat by theof water as a medium for ridding the body of excess animal through absorption or emission of infraredheat through sweating and respiration greatly in- radiation. Esmay (1969) expressed the net rate ofcreases as the ambient temperature rises (Richards, radiant heat transfer (q ) from one surface at T tor11985). another surface at T as:2In cattle under heat load, about 15% of the
+endogenous heat is lost directly from the body core 44
+q 5 dAFF(T 2 T ) (5.1.1)via the respiratory tract (McDowell et al., 1976). The r1AE12
+remainder of the metabolic heat must be transferred
+to the skin, where it is dissipated either non-evapora- where q is the rate of radiant heat transfer; d is ar 2
+tively by radiation, convection and conduction, or constant; A is the surface area in cm ; F and F1EA
+evaporatively by sweating. For beef cattle standing are dimensionless factors to account for the emission
+in a hot radiant environment, metabolism accounts and absorption characteristics of the two surfaces; T1
+72 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+and T are the temperatures of the surfaces in where Q is evaporative heat transfer; k is the2 ee
+degrees Celsius. evaporative constant; A is the effective evaporativeen
+Eq. (5.1.1) may be rewritten to include the (wet) area; V is the air velocity to some power n; ps
+numerical value of the Stephan–Boltzmann constant is the vapor pressure of water on the animal’s
+as follows: surface; p is the vapor pressure of water in the air.a
+It is important to note that evaporative and con-44
+q 5 0.173AFF[(T /100) 2 (T /100) ]. (5.1.2)r1AE1 2 vective effects on heat loss are not easily separable.
+As indicated in Eq. (5.2.1), air velocity is one of the
+important factors inﬂuencing evaporative heat trans-In experiments using artiﬁcial radiant heat loads,
+fer. Ittner et al. (1951) reduced skin and bodyStewart and Brody (1954) and Kibler and Brody
+temperatures by increasing the air velocities over(1954a) found that cows did not respond to radiation
+pigs and cattle subjected to high ambient tempera-at an ambient temperature of 7.2 8C. However, at
+tures. These ﬁndings were pivotal to the develop-temperatures of 21.1 and 26.7 8C, Jersey cows had a
+ment of modern forms of air ventilation to amelioratemean heat production rate 12–14% lower with
+heat stress in domestic animals.maximum radiation load. On the other hand, Holstein
+cows showed heat production decreases of 26% at
+21.1 8C and of 9% at 26.7 8C. In the same experi- 5 .3. Convection
+ments, Stewart and Brody (1954) and Kibler and
+Brody (1954a,b) found that Brahman cows showed When cool air comes in contact with a warm
+little response to radiation insofar as heat production body, a layer of air surrounding the surface of the
+was concerned. The authors concluded that the lack body is heated and rises moving away from the
+of response by Brahman cows was due to their low body, carrying with it heat, and thereby cooling the
+heat production rate; therefore, their heat dissipation body through the process of convection. On the
+requirement was not more than half that of the contrary, if air temperature is greater than skin
+lactating Jerseys and Holsteins. temperature, then air movement will promote the
+movement of heat into the animal until air tempera-
+ture equals skin temperature when transfer of heat5 .2. Evaporation
+ceases. The transfer of heat during respiration is a
+form of convective heat transfer. Inspired air isEvaporative cooling from the outer surface of
+adjusted to the body temperature by the time itcattle is signiﬁcant. This method of heat dissipation
+reaches the trachea (Yousef, 1985). The velocity ofis most efﬁcient in environments where there are low
+air movement affects the rate of convection andwet-bulb and high dry-bulb temperatures, in other
+anything that resists air movement such as fur inwords, hot and dry conditions. The proportion of
+cattle will decrease the rate of heat transfer bymetabolic heat that is dissipated from an animal’s
+convection. The rate of convective heat exchange isbody by evaporation increases with rising environ-
+described by ASHRAE (1966) as:mental temperatures and a decreasing temperature
+gradient between animal and air. Johnson (1976) n
+q 5 hA V (t 2 t ) (5.3.1)ev ev s ashowed that differences in the ratio of evaporative
+cooling to total heat loss (heat produced) is species- where q is convective heat loss; h is the heatev
+variable and that the evaporative ratio of cattle transfer coefﬁcient; A is the effective convectiveevnbegins to increase markedly at 16.6–18.3 8C. Under surface area; V is air velocity to some exponent;
+thermal stress, cattle increase evaporative heat loss t 2 t is the difference between the animal’s surfacesa
+by both panting and sweating, with sweating being temperature and the environmental air temperature.
+quantitatively superior to panting (McLean, 1963). Esmay (1969) included the velocity factor in the
+Heat transfer by evaporation is described by the convective coefﬁcient, along with many other phys-
+equation: ical factors in the equation:
+n
+Q 5 kAV( p 2 p ) (5.2.1) q 5 hA(t 2 t ). (5.3.2)eee sa evev12
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 73
+Detailed physical relationships on convection as a because of the presence of a layer of air against the
+way of heat transfer between an animal and its skin, which means that most of the heat transfer from
+environment are described by Esmay (1969). the animal takes place to air, and air has a poor
+thermal conductivity (Yousef, 1985). Furthermore, in
+a standing animal, transfer of heat to the ground only5 .4. Conduction
+takes place through the feet with a very small area of
+contact and, in cows, the distance between the bloodThe heat ﬂow between two media or bodies in
+vessels and the surface is much greater in the feetdirect contact is described as conductive heat ex-
+than it is in the skin. On the other hand, an animalchange. For dairy cattle, conductive heat exchange is
+lying on a cool wet surface will have greaterbetween the animal and its surrounding air environ-
+conductive heat transfer depending on the thermalment, and between the animal and any other media,
+conductance of the substrate as well as the tempera-solid or otherwise that the animal may be in direct
+ture gradient and magnitude of the area of contactcontact with. When the other media with which the
+relative to the total surface area (Eq. (5.4.1)). If airanimal is in contact with are either gases or liquid,
+temperature or temperature of the ground on whichthe conductive heat exchange is further complicated
+the animal is lying is greater than skin temperature,by heat exchange through convection in these media.
+then the animal will gain heat by conduction, addingThe ﬂow of heat by conduction depends on the
+to the metabolic heat load.temperature difference, the conductance (or inversely
+the resistivity) of the medium, and the area of
+contact (Schmidt-Nielsen, 1964). Esmay (1969)
+6 . Responses to heat stressreported a proportional relationship between the bulk
+density of materials and their conductivity, thus the
+Life processes of homeotherms, including dairymore dense the material the greater the conductivity
+cows, are adapted for optimum function in theiror inversely the less the resistance to heat ﬂow. The
+respective thermal neutral environments. Any changeconductive heat transfer was described by Yousef
+in the environmental conditions, as is the case during(1985) in a simple diffusion equation as:
+heat stress, threatens the normal metabolic balance
+and usually produces a positive feedback once theK 5 Ah (t 2 t ) (5.4.1)cs a
+temperature is above the UCT. In dairy cattle, as
+where K is conductive heat exchange; A is surface milk production increases, metabolic heat production
+area; h is thermal conductivity of the material in rises with the metabolism of large amounts ofc
+contact with the skin; t is mean skin temperature; t nutrients, which makes the high-producing cow moresa
+is air temperature. vulnerable to high ambient temperatures and humidi-
+For the high producing dairy cow it is important to ty than animals that are less active metabolically.
+know that the magnitude of conductive heat transfer ‘Metabolism and productivity run parallel’ (Brody,
+depends on the nature of material in contact with its 1945). High-producing cows are affected more than
+skin, in particular its thermal conductivity. To allevi- low-producing cows because the TNZ shifts down-
+ate heat stress, utilization of bedding materials with ward as milk production, feed intake, and heat
+high conductance may facilitate cooling of the production increase (Coppock et al., 1982), assuming
+animals. From experiments with different bedding that the heat dissipation mechanisms of both types of
+materials (wood shavings, sand, ground limestone, cows are similar. Continued genetic progress sug-
+shredded paper and rubber mats), Cummins (1998) gests that milk production will increase and so will
+found that cows had highest preference for ground the detrimental effects of heat stress on the modern
+limestone which had the lowest temperature of dairy cow. Heat stress increases loss of body ﬂuid
+25.9 8C at 25 mm below the surface. This under- due to sweating and panting. If this continues
+scores the importance of bedding material selection unchecked, the ﬂuid loss can reach a critical level,
+as part of heat stress abatement strategies. In the becoming a threat to thermoregulation and car-
+standing animal, conductive heat loss is minimal diovascular function (Silanikove, 1994).
+74 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+The general homeostatic responses to thermal from the cow by evaporation increases with rising
+stress in mammals include reduction in fecal and environmental temperatures and a decreasing tem-
+urinary water losses, reduction in feed intake and perature gradient between the animal and air. The
+production, and increased sweating, as well as initial morphology and functioning of the apocrine sweat
+increases in respiratory rates and heart rates, which glands of cattle during hot climatic conditions has
+would slow down if heat stress persists. In response been extensively investigated (Montgomery et al.,
+to stress, the dairy cow sets physical, biochemical, 1984). Blazquez et al. (1994) reported that increased
+and physiological processes into play to try and blood ﬂow to the skin is positively correlated to the
+counteract the negative effects of heat stress and sweating rate.
+maintain thermal equilibrium. Most of the adjust- Earlier, Kibler and Brody (1952) found similar
+ments made by the cow involve dissipating heat to sweating rates for B. taurus and B. indicus breeds;
+the environment and reducing the production of however, Allen (1962) showed that B. indicus and
+metabolic heat. Zebu cattle had signiﬁcantly higher sweating rates
+than breeds from temperate regions. Ferguson and
+6 .1. Physical responses Dowling (1955) and Allen (1962) ascribed elevated
+sweating rates of B. indicus and Zebu cattle to their
+Responses of the cow to temperatures above the higher density of sweat glands. Schmidt-Nielsen
+TNZ are varied. These include raised respiration (1964) reported that as the environmental tempera-
+rates and rectal temperature (Omar et al., 1996), ture rose, B. taurus cattle showed an appreciable
+panting, drooling, reduced heart rates, and profuse increase in evaporation between 15 and 20 8C, with a
+sweating (Blazquez et al., 1994), decreased feed maximum rate of evaporation being reached before
+intake (National Research Council, 1989) as well as 30 8C. On the contrary, Brahman cows (B. indicus)
+reduced milk production (Abdel-Bary et al., 1992). had initially lower evaporation rates, but rapid
+Physical responses to heat stress in dairy cows evaporation rates occurred when temperatures were
+appear to be breed-speciﬁc (Finch, 1986), with the B. between 25 and 30 8C, and continued rising up to
+indicus and other tropical breeds being less respon- 40 8C. Cattle in temperate and tropical regions
+sive to thermal stress than B. taurus cattle. The possess the same type of sweat glands, one to each
+differences in response to heat stress between cattle hair follicle (Findlay and Yang, 1950). However,
+breeds are attributed to varying levels of adaptability tropical breeds have a higher density of hair follicles
+2
+to hot environments. Sharma et al. (1983) showed (1698/cm for Zebu) than is the case in B. taurus
+2
+that, within B. taurus dairy cattle breeds, the Jersey breeds (1064/cm for Shorthorn) (Dowling, 1955).
+was less sensitive to thermal stress than the Holstein- Furthermore, Dowling (1955) reported that Zebu
+Friesian. have sweat glands that are located much closer to the
+skin surface than is the case in temperate breeds of
+6 .1.1. Sweating cattle. Blazquez et al. (1994) did not attach signiﬁ-
+In dairy cows, there are two types of sweating that cance to the number of sweat glands per unit area or
+occur: both are appreciably involved in heat dissipa- to their individual size, but more to the product that
+tion. The ﬁrst type is insensible sweating or perspira- these sweat glands produce.
+tion that leaves the body at all times, unless the The measurement of sweating rate is difﬁcult and
+relative humidity is 100%. Another type, thermal results have been varied. Robertshaw and Vercoe
+sweating, occurs as the principle evaporative cooling (1980) reported a twofold increase in the rate of skin
+2
+mechanism of the cow when ambient temperatures moisture loss (up to 77 g/m /h) from the scrotum
+rise. The heat required to convert water into vapor is after exposure to a temperature of 40 8C. Blazquez et
+referred to as the latent heat of vaporization. The al. (1994) measured a ﬁvefold increase in the rate of
+2
+vaporization of 1 ml of water requires 2.43 J and this skin moisture loss (up to 279 g/m /h) from the
+is the amount of heat lost when 1 ml of sweat scrotum at 36.2 8C. Finch (1986) found that the
+evaporates from the skin. sweating rates of B. indicus increased exponentially
+The proportion of metabolic heat that is dissipated with rises in body temperature; whereas, in B.
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 75
+taurus, the sweating rates tended to plateau after an (P , 0.01)). They also reported negative relation-
+ships between feed intake (FI, in kilograms per day)initial increase. Within B. taurus breeds, Singh and
+and both average THI and average dry bulb tempera-Newton (1978) found higher (P,0.05) sweating
+2
+ture (T , in degrees Celsius): FI510125.4THI, r 5rates in Ayrshire calves than in Guernsey calves and d 2
+20.66 (P,0.05), and FI557.325.7T , r 520.66suggested that Ayrshire calves were more capable of d
+(P,0.05), respectively, in non-lactating Holsteinacclimation to hot weather than Guernsey calves.
+dairy cows. These results suggested that night cool-
+ing might be an effective natural method to alleviate6 .1.2. Rectal temperature
+thermoregulatory limitations of a hot climate onRectal temperature is an indicator of thermal
+optimal animal performance.balance and may be used to assess the adversity of
+It appears that there are notable differences be-the thermal environment which can affect the
+tween breeds in their abilities to regulate rectalgrowth, lactation, and reproduction of dairy cows
+temperature: the mean rectal temperature is higher in(Johnson, 1980). A rise of 1 8C or less in rectal
+B. taurus than in B. indicus cattle (Finch, 1986) and,temperature is enough to reduce performance in most
+as a result, B. taurus cattle are more sensitive to heatlivestock species (McDowell et al., 1976), which
+stress than their B. indicus counterparts.makes body temperature a sensitive indicator of
+physiological response to heat stress in the cow
+6 .1.3. Blood gasesbecause it is nearly constant under normal con-
+The maintenance of blood pH is high on the list ofditions. Shalit et al. (1991) recorded rectal tempera-
+homeostatic priorities and pH depends primarily ontures of lactating cows as 0.9 8C higher than in
+the relative concentrations of carbonic acid and basepre-partum cows, although environmental conditions
+bicarbonate in blood (Coppock et al., 1982). From awere similar. Their explanation was that lactating
+physiological standpoint, Coppock et al. (1982)dairy cows appeared to be more thermo-labile than
+measured body temperature and respiration rate, milknon-lactating ones because of a reduced capacity of
+production and composition, and blood componentslactating cows to stabilize their plasma volume and
+that reﬂect the acid–base balance and found thatconcentration within a narrow range.
+cows fed NaHCO and no supplemental NaCl hadFurthermore, Berman et al. (1985) conﬁrmed the 3
+lower body temperatures than the other groups.ﬁndings of Gonsalez et al. (1978) for humans, Young
+Under heat stress, four conditions may result.et al. (1959) for dogs and Wilson et al. (1978) for
+Metabolic acidosis and metabolic alkalosis involverats, that during thermal equilibrium the rectal tem-
+bicarbonate; respiratory acidosis and respiratory al-perature of high-producing dairy cows is independent
+kalosis are related to the partial pressure of carbonof air temperature, but related to energy metabolism.
+dioxide ( p ) (Dale and Brody, 1954). A pH belowBianca (1964) showed that the ingestion of 51 l of CO2
+7.4 stimulates respiration (Diven, 1975); whereas, a14 8C water decreased rectal, skin, and subcutaneous
+higher pH decreases it. A p greater than 40temperatures 1.7 8C in oxen exposed to 40 8Cina CO2
+climatic chamber. In feeding experiments, Hormer et mmHg stimulates respiration; whereas, a lower pCO2
+al. (1954) measured slightly lower rectal tempera- inhibits it.
+tures for fasted cattle than for the same animal when In chamber experiments, cows subjected to heat
+normally fed. In studies on diurnal temperature stress had a higher blood pH during hot hours
+cycles and feed intake of Holstein dairy cows, Scott compared to those in a thermal neutral environment
+et al. (1983) concluded that the initiation of night (Schneider et al., 1988). Bianca and Findlay (1962),
+cooling of the animals at a time when their rectal described reduced blood CO combining capacity2
+temperature was highest was most beneﬁcial to the and the resultant higher blood pH as respiratory
+maintenance of a thermal neutral plasma T level. alkalosis. Schneider et al. (1988) reported an appar-4
+Scott et al. (1983) found a negative relationship ent renal compensation to the alkalosis during heat
+between average plasma T concentration (T , in ng stress which was indicated by increased urine pH of44
+per ml) and average rectal temperature (T , in cows in hot environments compared to when ther2
+degrees Celsius: T 5 278.42 2 5.37T , r 5 0.67 cows were in a cooler environment. Bianca (1965)4r
+76 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+attributed the increased urine pH to increased bicar- drinking 10 8Cor288C water, respiratory frequency
+2
+bonate (HCO ) excretion into the urine and showed of lactating Holstein cows decreased from 17 to 38.63
+that urine pH increased even during mild heat stress. breaths/min and from 3.4 to 52.4 breaths/min (P,
+2
+Masero and Siegel (1977) described the HCO 0.05), respectively. Milam et al. (1985) also mea-32
+buffering mechanism, in which HCO and p are sured the respiratory frequency before watering (88.93CO2
+relatively constant at a ratio of 20:1, as the most and 87.7) and after watering (81.2 and 83.8); how-
+important buffering system in blood. Thermally ever, decreases in respiration rates (7.6 and 4.0) were
+induced hyperventilation decreases p and, to similar (P.0.05) at the same water temperatures ofCO2
+maintain the ratio at 20:1 and counter alkalosis, 10 and 28 8C.
+2
+HCO is secreted by the kidney. This results in3 2
+decreased blood HCO and raised urine pH. Correc- 6 .1.5. Heart rate3
+tion for the urinary alkalosis is effected by renal Kibler and Brody (1951) showed that the pulse
+1
+excretion of H , which results in resorption of rate decreased in B. taurus cattle subjected to
+2
+HCO into the blood (Masero and Siegel, 1977). In chronic, moderate heat stress. Singh and Newton3
+addition, heat stress raises the partial pressure of (1978) reported a decline in the heart rate (HR) of
+blood oxygen ( p ) due to increased alveolar venti- 2–3-month-old male B. taurus calves when theO2
+lation (Hales and Findlay, 1968) and raises mean temperatures were raised from 18 to 40.5 8Cat50%
+plasma (Schneider et al., 1988) as well as urine RH. The mean HR of 114.5/min fell to 110.5/min
+creatinine concentrations (Thompson, 1973), sug- on day 1 in the climate chamber, and continued to
+gesting muscle catabolism. fall to 95/min by day 14 of exposure. Contrary to
+expectations, Richards (1985) measured an increase
+6 .1.4. Respiration rate of the HR (P,0.01) of lactating Friesian cows after
+There is no evidence of breed differences in the a diurnal exposure of the cows to high ambient
+respiratory response to low temperatures, but at high temperature (38 8C at an RH of 80% for up to 7
+temperatures, Kibler and Brody (1954a) showed that h/day) for 3 weeks. This treatment was subsequent
+Jersey cows had much higher respiration rates than to a 3-week period of normal temperatures (14–
+Holsteins, which they attributed to the Jersey’s better 21 8C and RH 60–70%) for 17 h/day.
+ability to dissipate heat compared to Holsteins. High A reduced HR is more typical in heat-stressed
+ambient temperatures induce physiological adjust- cows as it is associated with a reduced rate of HP as
+ments, including increased respiration rate (Coppock a response to high environmental temperatures.
+et al., 1982). Johnston et al. (1959) reported in- Richards (1985) explained this deviation as being
+creases from 20 breaths/min under cool conditions attributed to the fact that the cows were not acclimat-
+to 100 breaths or more per minute at 32 8C and ized to tropical conditions and they were exposed to
+above. In studies involving high-producing dairy daily acute bouts of heat stress for the ﬁrst time, and
+cows in a subtropical environment, Berman et al. that increased HR was consistent with a stress
+(1985) found that the respiratory frequency started response. This was in agreement with the report of
+rising above 50–60 breaths/min at ambient tempera- Bianca (1959) that, in cattle, the HR increases during
+tures higher than 25 8C. short-term exposure to heat and decreases with long-
+The importance of relative humidity in the study term exposure. Huhnke and Monty (1976) did not
+of heat stress was demonstrated by a decline in milk ﬁnd any signiﬁcant variation in the HR of pre- and
+production between 32 8C with 20% relative humidi- post-parturient Holstein-Friesian cows during the
+ty (RH) and 32 8C with 45% RH (Johnson and cool and hot weather seasons in Arizona. Singh and
+Vanjonack, 1976). This difference in RH reduced Bhattacharyya (1990) concluded that the pulse rate
+respiratory and surface evaporation, which resulted of livestock was very variable at different test
+in a rise in rectal temperature, reducing feed intake temperatures and among different genetic groups.
+and milk production. Newer data indicate that heat stress can cause either
+Lanham et al. (1986) showed that 20 min after dilution, concentration, or have no effect on blood
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 77
+plasma volume, and the effect of heat stress on blood in response to heat stress, which they attributed to
+volume affects steroid hormone concentrations in attempts to reduce metabolic heat production in the
+blood (Johnson et al., 1991; Elvinger et al., 1992). cow. Earlier, Alvarez and Johnson (1973) attributed
+Muller and Botha (1993) compared the effect of higher concentrations of epinephrine and norepineph-
+summer climatic conditions in South Africa on rine in blood plasma to heat stress in dairy cows. The
+different heat tolerance indicators in primiparous literature suggests that cows respond to heat stress by
+Friesian and Jersey cows. They reported higher (P, engaging homeostatic processes to maintain
+0.05) HR for Friesians than for Jerseys at 15:00 and homeothermy.
+17:00 h measurements. Muller and Botha (1993)
+concluded that HR was not inﬂuenced to the same 6 .2.1. Mineral metabolism
+extent as rectal temperature and respiratory rate by Leach (1979) used the term cation–anion balance
+increasing ambient temperatures. to refer to physiologic interrelationships among Na,
+Huhnke and Monty (1976) noted that the average K, and Cl, whose importance had been recognized by
+HR of post-parturient cows during cool weather poultry nutritionists. The role of sulfate in the
+(74.5/min, minimal rate; 79.2/min, maximal rate) cation–anion balance must also be recognized. In-
+was lower (P,0.01) than the rates of pre-parturient sufﬁcient quantities of dietary sulfur limit the syn-
+cows during cool weather (92.3/min, minimal rate; thesis of sulfur-containing amino acids (e.g.
+98.5/min maximal rate). The signiﬁcantly higher HR methionine, cysteine) and that way reduce milk
+of pre-parturient cows exposed to cool weather when production (Clark et al., 1978). Bouchard and Con-
+compared to HR of post-parturient cows under rad (1973) found increased dry matter (DM) di-
+similar climatic conditions could be explained by the gestibility from 67% in the basal diet to 69.4% after
+cardiovascular stress of pregnancy because of in- adding potassium, sodium, or magnesium sulfate to
+creased blood ﬂow through the placenta. This in- diets of lactating cows. Furthermore, Bouchard and
+crease was masked during hot weather. Conrad (1973, 1974) reported maximal DM diges-
+tibility by cows when dietary sulfur was 0.15% on a
+6 .2. Metabolic responses DM basis (53 mg/kg of BW/day), and suggested
+that cows consuming less than maximum feed intake
+Christopherson and Kennedy (1983) and Lu would beneﬁt from raised dietary sulfur levels of
+(1989) reported reduced metabolism in cattle under 0.18, 0.19, and 0.20% for cows consuming 90, 80,
+heat stress, which they found to be associated with and 70% of their maximum feed intake, respectively.
+reduced thyroid hormone secretion and gut motility, Heat stress reduces feed intake in lactating dairy
+resulting in increased gut ﬁll. Mitra et al. (1972) cows, and therefore, increased dietary sulfur should
+found plasma growth hormone concentration and raise DM digestibility and provide sufﬁcient sulfur
+growth hormone secretion rate to decline with hot for microbial synthesis of the otherwise milk pro-
+temperatures (35 8C). Igono et al. (1988) showed duction-limiting sulfur-containing amino acids.
+that the concentrations of growth hormone in the Leach (1979) reported that the main adverse effect
+milks of low-, medium-, and high-producing cows of an acid–base imbalance comes from the
+declined when the THI exceeded 70 and suggested a acidogenic action of excess Cl. This effect could,
+suppressed production of growth hormone in order to however, be reversed by the alkalogenic nature of Na
+lower metabolic heat production. McGuire et al. and K, and these three elements are instrumental in
+(1991) found that plasma growth hormone reduc- maintaining acid–base balance. In the posterior
+tions that occurred with heat stressed cows did not segment of the intestine and in the kidney, Cl is
+occur in thermoneutral conditions for cows fed absorbed in excess of Na with a simultaneous
+amounts that were similar to those consumed during secretion of bicarbonate (Coppock et al., 1982).
+heat stress. Also working with lactating cows, John- Metabolic acidosis may occur if available Na in
+son et al. (1988) measured declines in thyroid these regions is reduced, possibly increasing Cl
+2
+hormones triiodothyronine (T ) and thyroxine (T ) absorption, draining HCO and increasing Cl in the34 3
+78 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+plasma. Metabolic alkalosis may result from a re- ment group, water intake was higher (82.2 vs. 70.2
+11 l/day; P,0.01), and the rumen ﬂuid dilution ratesciprocal process. Another possibility is a H –Na
+22 1 were faster (P,0.01). In the same experiment,and Cl –HCO exchange. Excess Na may cause a31 Schneider et al. (1988) found that ruminal ﬂuid fromgreater H depletion in plasma leading to alkalosis;
+22cows consuming a high mineral diet had lowerwhereas, excess Cl has a negative effect on HCO3
+concentrations of volatile fatty acids (VFA) (P,leading to acidosis. Further alterations in renal
+2 0.05), with trends towards higher molar percentagesabsorption of Na and HCO from dietary changes3
+of acetate, lower molar percentages of propionateare other possible explanations of changes in blood
+and a higher acetate to propionate ratio. These resultsacid–base balance (Coppock et al., 1982).
+agreed with Rogers et al. (1982), that Na and K exertThe effects of dietary Na, K, and Cl balance on
+alkalogenic effects and Cl an acidogenic effect onacid–base physiology and production in lactating
+the acid–base balance (Cohen et al., 1972).dairy cows was investigated by Tucker et al. (1988).
+Escobosa et al. (1984) fed dairy cows a dietThe DM intake (DMI) and the pH of rumen ﬂuid,
+containing 1.67% Cl during moderate heat stress andblood, and urine increased linearly with increasing
+reported lowered blood pH, p and urine pHdietary cation–anion balance [Na1K–Cl, (DCAB)], CO2
+suggesting a beneﬁcial effect from feeding a cationic compared with a control diet (0.34% Cl), which is
+diet during lactation. Tucker et al. (1988) used diets consistent with Schneider et al. (1988). Furthermore,
+formulated to provide DCAB of 210, 0, 110, or Schneider et al. (1988) measured higher concen-
+120 meq/kg of DM. Electrolyte concentrations, in trations of K in the rumen, but Na concentrations
+particular Na and K, are reduced in the rumen ﬂuid were not increased by a diet high in minerals. This is
+of heat-stressed dairy cattle because of the increased consistent with the observations of Greene et al.
+loss of Na in urine and K in sweat. Schneider et al. (1983). Requirements for speciﬁc nutrients for milk
+(1988) reported an increased secretion of K in the production, such as Na and K, appear to differ during
+sweat of heat-stressed dairy cows. Shalit et al. thermal stress compared to thermal neutral condi-
+(1991), Maltz and Silanikove (1996) and Silanikove tions (Beede et al., 1985). It appears necessary to
+et al. (1997) found that the retention mechanisms for establish prediction equations for nutrient require-
+11 2
+Na , K and Cl , the main ions involved in sweat, ments especially of Na, K, and Cl fed to high-
+were more efﬁcient in summer than in winter. These producing dairy cows in different productive phases,
+researchers concluded that the greater part of the but more importantly in early lactation, and at
+elevated summer milk-free water balance (about 20 varying degrees of thermal stress. This is seen in the
+kg/day) is devoted to evaporative water loss. Irre- light of the ﬁnding in poultry nutrition (Mongin,
+spective of this fact, cows that calve in summer do 1980) that plasma bicarbonate concentration was
+11 2
+not maintain plasma Na , K and Cl homeostasis linearly related to the sum of Na1K–Cl meq/100 g
+and plasma volume (Maltz et al., 1994). of air-dry diet. In addition, Mongin (1980) demon-
+El-Nouty et al. (1980) noted that urinary Na strated a marked dependence of blood pH on dietary
+output increased during heat stress. Several studies chloride and suggested that ideally Na1K–Cl should
+have shown signiﬁcant increases in the milk pro- equal 250630 meq/kg of air dry diet for growing
+duction of heat-stressed dairy cows when fed higher poultry. Analogous calculations for the DCAB of
+than recommended (National Research Council, dairy cows can be found in Tucker et al. (1988) and
+1989) concentrations of Na and K through dietary Waterman et al. (1991).
+addition of NaHCO and KCl (Silanikove et al., The addition of NaHCO to the diet of dairy cows3 3
+1997). Schneider et al. (1988), however, found no increased ruminal pH, altered rumen fermentation
+differences in DMI (21.3 vs. 21.0 kg/day) or milk and, in proper amounts, alleviated the low-fat milk
+production (18.3 vs. 17.4 kg/day). In addition, these syndrome, that often occurs in lactating dairy cows
+authors found no differences in solid turnover rates consuming high concentrate diets (Muller and
+for cows consuming the high mineral diet (average K Kilmer, 1979). It was found that NaHCO acts by3
+intake of 411 g/day; average Cl intake of 394 increasing ruminal pH, which in turn increases the
+g/day) compared with the basal diet. For the treat- ratio of acetate to propionate (Esdale and Satter,
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 79
+1972). Furthermore, it appears that sodium bicarbon- evaporative water loss of cows today (46 kg/day)
+ate and mineral salts with no buffering capacity, such exceeds the total amount of milk-free water balance
+as NaCl, increase the fractional dilution rate of (39.5 kg/day) available for metabolic and evapora-
+rumen ﬂuid. This in turn increases the molar per- tive processes in the cows studied by Flatt et al.
+centage of acetate and decreases the molar per- (1969).
+centage of propionate in cows fed a high concentrate After allowing for fecal water loss, the high-
+diet (Rogers and Davis, 1980). Sodium bicarbonate producing dairy cow at peak production in a temper-
+also increases ruminal pH, thereby establishing a ate environment with water turnover of 135 kg/day
+more favorable environment for ﬁber digestion (Ro- is left with 99 kg of water/day circulating through its
+gers et al., 1982). The literature shows that mineral body to satisfy metabolic and thermoregulatory
+salts inﬂuence several aspects of nutrient digestion, processes (Silanikove et al., 1997). This water
+rumen fermentation patterns, and several physiologi- reaches various tissues and organs as it circulates
+cal processes, whether the cows are under thermal through the plasma volume. Assuming a plasma
+stress or not. volume of 7% of BW, a plasma volume of 38.5 l is
+calculated for the cow (Woodford et al., 1984). This
+6 .2.2. Water metabolism means that water circulating through the plasma
+The total body water is estimated to range between volume is over 2.5 times its total volume, implying
+75 and 81% of BW for lactating dairy cows. Among that the plasma volume is exchanged 2.5 times daily
+environmental factors considered to be important in as compared to 1.7 times per day for cows producing
+controlling water intake in lactating dairy cows are 25.7 kg of milk/day as described by Woodford et al.
+temperature, humidity, DMI, nature of the diet, and (1984). The calculation reveals a problem of main-
+milk production (Murphy et al., 1982). High produc- taining a steady plasma volume in the cow and
+ing cows consume more DM than low producing suggests that either the efﬁciency of water transfer
+ones, with DMI and water consumption being posi- through the biological membranes has increased
+tively correlated (MacFarlane and Howard, 1972). dramatically (by about 50%) or the plasma volume
+Heat stress simultaneously inﬂuences both energy has been raised, or both. Either of these possibilities
+and water metabolism (Silanikove, 1992), and in- has a signiﬁcant thermoregulatory advantage.
+creases plasma and extracellular ﬂuid volume in Water loss from an animal is a continuous process;
+proportion to the thermoregulatory requirement of taking place all the time and increasing during heat
+the stressed cow. Cows under thermal stress tend to stress because of additional evaporative water loss.
+have increased water content in the rumen as a result In contrast, water intake by the animal is episodic. In
+of an accelerated water turnover rate (Silanikove, order to maintain volume homeostasis of body water
+1989). This agrees with the ﬁnding that sheep compartments, there must be a ‘water reservoir’ from
+exposed to a hot environment ingested a volume of which water is continuously withdrawn to compen-
+water far above the minimal needed for intermediate sate for losses in other compartments. Work with
+metabolism and for evaporation (Blaxter et al., desert ruminants that drank water once per day
+1959). More data on the factors affecting water suggests that the gastrointestinal tract is this water
+absorption through the ruminal epithelium can be reservoir (Shkolnik et al., 1980).
+found in Dobson (1984), and the interrelationships Water intake remains fairly stable during the pre-
+between food intake, osmolality, salivation and water calving period and maintains blood plasma elec-
+balance in the rumen have also been reviewed trolyte concentrations constant (Maltz et al., 1994).
+(Carter and Grovum, 1990). Water intake of a high producing dairy cow under
+Today, the water intakes of cows producing 41.5 heat stress doubles at the second week post-partum
+kg of milk/day under thermoneutral conditions are (Shalit et al., 1991). In the seventh week post-
+about 135 kg/day. This is more than double that partum, the amount of water ingested increases only
+ingested by a cow in early lactation producing 29.4 slightly; however, the drinking pattern changes
+kg/day of milk of a comparable composition 30 drastically. Large ﬂuctuations in drinking volumes
+years ago (Flatt et al., 1969). In addition, the throughout day and night, thus challenging the
+80 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+physiological ability of the animal to maintain the In ruminants, digesta ﬁll contributes up to one-
+gastrointestinal tract homeostasis of volume and quarter of the BW, most of it in the rumen where the
+solutes, are seen. During this period, substantial ratio between DM and water is about 1:10
+ﬂuctuations in blood plasma electrolyte concentra- (Silanikove, 1994). Heat stress in highly productive
+tions and volume were recorded, suggesting one of cattle appears to be partially related to an increase in
+two possibilities. Either the regulatory mechanisms gut ﬁll (Miller et al., 1974).
+to maintain gastrointestinal volume and solutes Kelly et al. (1967) observed that heat stress
+stability collapsed because of the need to transfer reduced the concentration of VFA in the rumen of
+water between compartments or the cow developed a cattle, a response which would not be expected to
+resistance to blood plasma ﬂuctuations in concen- cause the inhibition of reticulo-rumen motility asso-
+trations and volume, thereby removing the need to ciated with heat stress. There is no clarity on the
+regulate the stability of the water reservoir. Both involvement of gastrointestinal hormones and pep-
+possibilities have signiﬁcant thermoregulatory conse- tidergic neurons in mediating the effect of tempera-
+quences. The former possibility is supported by the ture on gastrointestinal motility. Grovum (1981)
+fact that milk production declined slightly during the noted that some of the gastrointestinal hormones that
+latter period when ﬂuctuations in water intake inﬂuence motility also affect feed intake in rumin-
+occurred and blood plasma homeostatic capacity ants. The large number of biologically active com-
+improved through electrolyte supplementation during pounds produced in the gut that may inﬂuence
+this period (Silanikove et al., 1998). motility and passage makes this area very complex
+(Bloom, 1978).
+6 .2.3. Digestive tract The fractional rate of digesta passage in the
+High environmental temperatures may affect the gastrointestinal tract of heat-stressed animals is
+rumen microorganisms that synthesize the B-vita- slower than that of animals in a thermal neutral
+mins, amino acids, and fatty acids on which the environment, which reﬂects reduced intake, ruminal
+nutrition of ruminants largely depends. Available activity and motility (Silanikove, 1992).
+data suggest that rumination is depressed during Schneider et al. (1988) reported faster fractional
+dehydration and heat stress (Aganga et al., 1990). dilution (10.9 vs. 8.6%/h) and passage (3.6 vs.
+Also during heat stress, blood ﬂow to rumen epi- 2.8%/h) rates in thermal neutral compared with heat-
+thelium is depressed (Hales et al., 1984). Heat stress stressed lactating cows, respectively. However,
+decreased reticular motility and rumination (Atten- Croom et al. (1982) showed that the salts of saliva,
+berry and Johnson, 1968); whereas, the volume of mainly NaHCO , and mineral salts increased ruminal3
+digesta in the rumen of beef cows, Bedouin goats ﬂuid dilution rates and feed intake in steers and dairy
+(Silanikove and Tadmore, 1989) and swamp buffalo cows. When the dilution rate increases, the growth
+(Chiaiyabutr et al., 1987) increased. Silanikove rate of ruminal-microbes increases and the fraction
+(1992) postulated that heat stress increased the water of fermented substrate needed for microbial mainte-
+content of digesta in the rumen and its volume, nance decreases (Isaacson et al., 1975). This in-
+thereby increasing its capacity to serve as a water creases the efﬁciency of fermentation. Increased
+reservoir to counterbalance the effect of heat stress passage of digesta in heat-stressed cows fed greater
+on rumen motility. quantities of mineral salts may increase feed con-
+Mishra et al. (1970) measured higher concen- sumption and milk production, thus alleviating the
+trations of lactic acid and lower ruminal pH in major negative production-related responses to heat
+heat-stressed cattle, which may imply that a high stress. Increased milk production by heat-stressed
+lactic acid concentration and lower ruminal pH might cows fed higher than recommended (National Re-
+be involved in inhibiting rumen motility during heat search Council, 1989) concentrations of dietary Na
+stress. Beede and Collier (1986) concluded that and K have been widely reported (West et al., 1987).
+rumen function during heat stress may be altered by During heat stress, the VFA concentration would
+pituitary effects on basal metabolism, such as via be reduced, decreasing inhibition of the gastric
+reduced somatotropin and thyroid hormones. center and increasing the motility of the reticulo-
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 81
+rumen. After holding feed intake constant in hot and intake. Warren et al. (1974) found increased feed
+thermal neutral environments, Niles et al. (1980) digestibility as a result of heat stress.
+measured lower ruminal VFA concentrations in the The inﬂuence of animal insulation on the response
+hot environment, as well as reduced amplitude and to temperature would suggest that digestibility may
+frequency of ruminal contractions. This agreed with be related to metabolism. In experiments where
+the results of Schneider et al. (1988) working with sheep were fed 1420 g of bromegrass pellet DM/day
+lactating cows in natural and chamber heat-stressed and were exposed to cold temperatures or subjected
+environments. The fractional rates of ruminal ﬂuid to alterations in thyroid status by thyroidectomy,
+dilution and solid digesta passage, and total VFA treatment with exogenous T , or both, Christopher-3
+concentrations were lower in the heat-stressed cows son (1976) found an inverse relationship between
+compared to cows in a thermal neutral environment. oxygen consumption and digestibility. Although a
+positive relationship between digestibility, especially
+6 .2.4. Nutrient digestibility of ﬁber components, and ambient temperatures has
+Changes in the thermal environment can induce been reported (Lu, 1989), high temperatures had
+alterations in the activity and function of the diges- little effect on diet digestibility in dairy cows
+tive system, which are independent of changes in (McDowell et al., 1976) and goats (Lu, 1989). An
+feed intake (Christopherson and Kennedy, 1983). In evaluation of available information shows that there
+heat-stressed animals, National Research Council is an increase in digestibility in response to high
+(1989) noted that the digestibility of feed com- temperature that may be explained by reduced DMI
+ponents increased due to reduced intake. Graham et and a prolonged retention of feed in the gastrointesti-
+al. (1959) working with sheep and Blaxter and nal tract.
+Wainman (1961) experimenting with steers reported
+a positive relationship between environmental tem- 6 .3. Production responses
+perature and energy digestibility. Further studies
+conﬁrmed the inﬂuence of environmental tempera- Thermal stress can negatively impact the per-
+ture on digestibility in sheep and cattle (Christ- formance of intensively managed livestock in the
+opherson, 1976). In contrast, Guerrini (1981) found southern US and in other subtropical and tropical
+conﬂicting results that may be attributed to tempera- regions of the world (Beede and Collier, 1986). For
+ture treatments with variations in feed intake and the lactating dairy cows, ambient temperatures above
+possible selective refusal of some diet components, 25 8C are associated with lower feed intake, drops in
+all of which can introduce variability into digestion daily milk production, and reduced metabolic rate
+experiments. Information on the exact nature of the (Berman, 1968), and decreased conception rate
+relationship between temperature and digestion is (McDowell et al., 1976). These adjustments are
+scant. strategies to maintain normal body temperature
+Robertshaw (1981) suggested that a slower rate of (Beede and Collier, 1986).
+digesta passage and longer mean retention time Physical protection, genetic development, and
+accounted for slightly higher digestibility coefﬁcients nutritional dietary manipulation are three fundamen-
+during heat stress. Wiestra and Christopherson tal management practices that have been proposed to
+(1976) agreed that the digestibility of DM in the ameliorate the effects of heat stress. Extensive data
+whole tract was directly related to the total mean on the effect of heat stress on production responses,
+retention time. The slower rate of digesta passage in physiology, and general health of dairy cattle have
+animals exposed to heat loads is a result of depressed been reported (Beede and Collier, 1986). Although
+feed intake. Warren et al. (1974) reported a mean the magnitude may vary depending on the cows used
+retention time 18% greater at 32 vs. 18 8C, when and other experimental procedures, the available data
+feed intake was kept equal among steers by feeding show a general trend of responses to heat stress by
+through the rumen ﬁstula. In contrast, studies in hot lactating cattle. Heat-stressed dairy cows in chamber
+environments have not conﬁrmed depressed fraction- experiments consumed less feed (13.6 vs. 18.4 kg/
+al passage rate or rumen activity via control of feed day; P,0.01), more water (86.0 vs. 81.9 l/day;
+82 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+P,0.01) and produced less milk (16.5 vs. 20.0 (1986). Adjusted mean water consumptions in the
+kg/day; P,0.01) than cows in a thermal neutral study of Milam et al. (1985) were 10.5 and 16.1
+environment (Schneider et al., 1988). l/day for 10 and 28 8C water, respectively. This was
+much lower than the 24.8 and 31.0 l/day with the
+6 .3.1. Water intake same temperatures reported by Lanham et al. (1986).
+Water and macro-mineral needs, inﬂuenced heavi- Murphy et al. (1982) restricted a multiple regres-
+ly by demands to maintain homeostasis and sion analysis to the two variables identiﬁed by Little
+homeothermy, are altered for lactating dairy cows and Shaw (1978), and obtained the relationship WI5
+during heat stress (Beede and Collier, 1986). Milk is 22.9612.38 (standard error 0.275)3DMI10.64
+about 87% water, and contains large concentrations (0.179)3PROD (P,0.0001). In this equation, WI is
+of the electrolytes Na, K, and Cl; therefore, lactating water intake in l/day, DMI in kg/day, and PROD is
+dairy cows have large turnover of water and these milk production in kg/day. Furthermore, Murphy et
+electrolytes (Shalit et al., 1991). High-producing al. (1982) calculated through stepwise regression of
+dairy cows have increased water intakes and, in heat all independent variables the equation that: WI5
+stress, consume even more water. This is so because 15.9911.58 (0.271)3DMI10.90 (0.157)3PROD1
+highly productive animals have faster dehydration 0.05 (0.023)3SODIN11.20 (0.106)3TMIN (P,
+rates (Maltz et al., 1984), brought about by higher 0.0001). In this equation, TMIN is the weekly mean
+rates of water turnover. Richards (1985) observed a minimum temperature in degrees Celsius; SODIN is
+transitory increase in BW when lactating Friesian sodium intake in grams per day and the other factors
+cows were exposed to high daytime temperatures and are similar to the ﬁrst equation. Little and Shaw
+interpreted this as a temporary rapid ingestion of (1978) found that the daily water intake was corre-
+water to increase total body water. This increase in lated (P,0.001) to daily DMI (r50.58) and to milk
+body water is useful because the high speciﬁc heat of production (r50.50), but not to the DM content of
+water allows the cow to store a great deal of heat the feed, BW, or mean air temperature. The relation-
+during the day and dissipate it during the cool night, ship between DM and water intakes was found to
+much like the camel (Schmidt-Nielsen, 1964). vary with the composition of the diet, in particular
+Thompson et al. (1949) showed that the water the protein, Na, and K content (Agricultural Re-
+intakes of individual cows varied considerably when search Council, 1980). In addition, Silanikove and
+they were exposed to temperatures above 22 8C; Tadmore (1989) restricted water availability to beef
+however, many studies show signiﬁcant positive cows to once every 24, 48, or 72 h, and measured
+correlation between water intake and ambient tem- reductions in resting salivary ﬂow rate as well as in
+perature (National Research Council, 1989). Further- voluntary feed intake of 40, 60, and 80%, respective-
+more, it is apparent that the temperature of drinking ly. These results underscore the relationship between
+water may inﬂuence the quantities drunk and milk water intake and voluntary feed intake. Variations in
+production (Anderson, 1985). Anderson (1985) ob- feed or water intake led to proportional changes in
+served the highest water intakes and milk product- the other variable and reduced feed intakes decrease
+ions from dairy cows when 17 8C water was offered. metabolic rate and, consequently, lower water losses
+Close to the ﬁnding of Anderson (1985) in Sweden, (More and Siebert, 1983). It is important to note that
+Ittner et al. (1951) in the Imperial Valley of Califor- the amount of saliva secreted appears to depend on
+nia reported that beef cattle increased weight gains the quality and quantity of feed consumed (Brosh et
+when given 18.3 8C drinking water compared with al., 1988). Detailed interrelationships among water
+31.2 8C water in summer. intake, other feed constituents, and heat stress have
+In contrast, Anderson (1985) offered chilled been reviewed (Murphy, 1992; Silanikove, 1992).
+(10 8C) and ambient temperature water (28 8C) dur-
+ing heat stress and found that drinking water tem- 6 .3.2. Feed intake
+perature did not affect (P.0.05) water consumption, Feed intake in lactating cows begins to decline at
+although Holstein cows drank less chilled water, ambient temperatures of 25–26 8C and drops more
+which is consistent with the data of Lanham et al. rapidly above 30 8C (National Research Council,
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 83
+1989). At 40 8C, dietary intake may decline by as Thatcher (1974) and Johnson (1976), however,
+much as 40% (National Research Council, 1989). reported declines in the productions of milk and fat
+Heat stress causes the rostral cooling center of the as a direct result of high environmental temperatures.
+hypothalamus to stimulate the medial satiety center This may be because heat stress has negative effects
+which inhibits the lateral appetite center, resulting in on the secretory function of the udder (Silanikove,
+reduced dietary intake and consequently lower milk 1992). McDowell et al. (1976) suggested that milk
+production (Albright and Alliston, 1972). Animals in production is reduced 15%, accompanied by a 35%
+a highly productive state, such as high-producing decrease in the efﬁciency of energy utilization for
+dairy cows, have feed intakes and metabolic rates productive purposes, when a lactating Holstein cow
+that may be two to four times higher than at is transferred from an air temperature of 18 to 30 8C.
+maintenance (National Research Council, 1989). Milk fat, solids-not-fat, and milk protein percentage
+Heat stress in such high producing lactating dairy decreased 39.7, 18.9 and 16.9%. In addition, Johnson
+cows results in dramatic reductions in roughage (1976) attributed 3–10% of the variance in lactation
+intake and rumination (Collier et al., 1982). The milk production to climatic factors. Differences in
+reduction in appetite under heat stress is a result of the physiological responses of cattle to the form and
+elevated body temperature and may be related to gut duration of heat stress have been reported and
+ﬁll (Silanikove, 1992). Decreased roughage intake differences have also been noted in productive
+contributes to decreased VFA production and may responses. Bianca (1965) measured a 33% reduction
+lead to alterations in the ratio of acetate and propion- in milk production by breeds of cows from temperate
+ate. In addition, rumen pH is depressed during heat climates exposed continuously to high (35 8C) am-
+stress (Collier et al., 1982). In contrast, ruminants bient temperatures. However, cows maintained under
+adapted to hot environments are able to maintain similar temperatures during the day but at ,25 8Cat
+their appetite under heat stress at near maintenance night did not decrease milk production beyond that
+or during moderate growth (Brosh et al., 1988). In normally expected under temperate conditions (Rich-
+chamber experiments, Schneider et al. (1988) found ards, 1985).
+that heat-stressed cows changed their feeding pattern The point on the lactation curve at which the cow
+and ate when temperatures were cooler. In tempera- experiences heat stress is also important for the total
+ture stress experiments with lactating cows, Wayman lactation yield. Cows are less able to cope with heat
+et al. (1962) showed that the major decrease in milk stress during early lactation. Heat stress at the
+production at high ambient temperatures is a result of initiation of lactation negatively impacts the total
+reduced feed intake. Using rumen-ﬁstulated lactating milk production. Furthermore, Sharma et al. (1983)
+cows, Wayman et al. (1962) demonstrated that the concluded that climatic conditions appeared to have
+drop in milk production due to heat stress could be maximum inﬂuence during the ﬁrst 60 days of
+reduced by placing feed rejected due to thermal lactation. This early lactation period is when high-
+stress directly into the rumen. A decrease (P,0.05) producing cows are in negative energy balance and
+in the efﬁciency of energy utilization for milk make up for the deﬁcit by mobilizing body reserves.
+production when cows were under heat stress was Catabolic processes are associated with metabolic
+reported. heat production over and above that already induced
+by high nutrient intake.
+6 .3.3. Milk production Under Mediterranean climatic conditions, summer
+Climatic factors such as air temperature, solar calvers produce less milk per lactation than winter
+radiation, relative humidity, air ﬂow and their inter- calvers (Barash et al., 1996). Summer temperatures
+actions, often limit animal performance (Sharma et in the Mediterranean region generally are above the
+al., 1983). Quantifying direct environmental effects TNZ of dairy cows and result in heat stress.
+on milk production is difﬁcult as milk production is
+also strongly affected by other factors such as 6 .3.4. Health
+nutritional management (Fuquay, 1981), that may or For a variety of reasons, the incidence of health
+may not be directly linked to environmental factors. problems in livestock, including dairy cows, in-
+84 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+creases during warm summer months. Vectors and al., 1981). Berman et al. (1985) reported reductions
+other disease-causing agents thrive better under in thermoregulatory ability in the face of heat stress
+warm to hot and humid environmental conditions. In as a result of selection for milk production, which
+tropical locations, tick and internal parasite popula- magniﬁes the seasonal depression in fertility caused
+tions explode during summer, forcing farmers to dip by heat stress (Al-Katanani et al., 1998). Nebel et al.
+and drench their livestock more frequently than (1997) found that Holsteins in estrus during the
+during the cool winter months. Other than parasitic summer have 4.5 mounts per estrus versus 8.6 for
+problems during warm months, it is apparent that those in winter. Wilson et al. (1998) indicated that
+heat stress itself can directly and adversely affect the heat stress caused a reduction in the peripheral
+health of the dairy cow. concentrations of estradiol-17b at estrus. On the
+Using data from dairy herds, DuBois and Williams other hand, Wolfenson et al. (1995) reported that
+(1980) calculated that 24% of cows (79 parturitions) heat stress caused an increase in peripheral con-
+that calved during the warm season of May through centrations of estradiol-17b between day 1 and 4 of
+September had retained placenta and developed the estrus cycle and a reduction from day 4 through 8
+postpartum metritis, compared to 12% (98 paturi- and 11 through 21 of the estrus cycle.
+tions) for the rest of the year when temperatures were Badinga et al. (1993) found that heat stress
+lower. This difference (P,0.05) was wholly attribu- beginning on the day of ovulation reduced the
+ted to the effects of heat stress on the dairy cows diameter and volume of the dominant follicle on day
+during the warm months. Furthermore, DuBois and 8 of the estrus cycle. Wolfenson et al. (1997) found
+Williams (1980) found a difference (P,0.0005) in that heat stress from day 3 to 5 of the estrus cycle
+the gestation length (273 vs. 279 days) of cows increased androstenedione and reduced estradiol-17b
+having retained placenta and postpartum metritis concentrations in the follicular ﬂuid of the dominant
+than of cows not exhibiting these symptoms. Re- follicle collected. Hansen and Arechiga (1999) as-
+tained placenta and postpartum metritis occur with cribed the physical lethargy produced by heat stress
+early parturition (Wagner et al., 1974) and are of and poor detection of estrus as major reasons for
+major economic signiﬁcance for dairy producers. reduced expression of estrus on one hand and
+Collins and Weiner (1968) reported that heat stress reduced numbers of cows eligible for embryo trans-
+caused a variety of neuroendocrine changes that may fer on the other. In addition, Hansen (1997) reported
+contribute to the shortening of the gestation period. that the deterioration of bull fertility caused by heat
+Pavlicek et al. (1989) reported that dairy cows stress was another cause of reduced fertility during
+developed 11% more ketosis during hot summer summer in hot regions.
+months than in the cooler season; they attributed this In artiﬁcial insemination studies, Stott et al.
+to the negative inﬂuence of heat stress on dairy (1972) identiﬁed the ﬁrst 4–6 days post-insemination
+cows. Although literature on the effects of heat stress as the most critical. However, Ingraham et al. (1974)
+on the health of dairy cows is scant, it seems logical claimed that for optimal conception rate, heat stress
+to postulate that the inﬂuence of thermal stress on the must be minimized at least 12 days prior to breeding.
+physiological functions of the high producing cow Heat stress also adversely affected the ovum and
+may trigger clinical or sub-clinical health conditions. sperm in the reproductive tract and early embryo
+development (Burfening and Ulberg, 1968), and may
+6 .3.5. Reproduction alter the hormonal balance of the dam (Stott et al.,
+Cavestany et al. (1985) determined the relation- 1972; Thatcher, 1974). Sugiyama (1999) reported
+ship between ambient temperature and breeding that heat shock of maturing bovine oocytes in culture
+efﬁciency and demonstrated that seasonal high en- can lead to reduced protein synthesis, fertilization
+vironmental temperatures were associated with low rate, and subsequent developmental competence.
+breeding efﬁciency due to a variety of factors. High Furthermore, Sugiyama (1999) found that exposure
+summer temperature above the thermoneutral zone of of bovine embryos ﬂushed from superovulated heif-
+cattle drastically reduced conception rate and pre- ers at day 6 or 7 of pregnancy to heat shock in
+sumably increased embryonic loss (Gwazdauskas et culture reduced cell number.
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 85
+7 . Conclusions R eferences
+Hot weather reduces milk production in cows with Abdel-Bary, H.H., Mahmoud, M.M., Zaky, H.I., Mohamed, A.A.,
+1992. Effects of season and month of calving on estroushigh genetic merit for milk production. Strategies to
+performance, services conception and milk yield of Friesianalleviate metabolic and environmental heat loads in cows in Egypt. Egypt. J. Anim. Prod. 29 (2), 229–253.early lactation need to be researched and developed. Aganga, A.H., Umna, N.N., Oyendipe, E.O., Okoh, P.N., Aduku,
+Earlier studies showed that diets with high concen- A.O., 1990. Response to water deprivation by Yankasa ewes
+trate and minimum ﬁber reduced heat stress in under different physiological states. Small Rumin. Res. 3,
+109–115.lactating dairy cows because the ME from high
+Agricultural Research Council, 1980. Nutrient Requirements ofconcentrate diets is used with greater efﬁciency (less Ruminant Livestock. Commonwealth Agricultural Bureaux,HI) than the ME from high forage diets. Recent Farnham Royal.
+advances in animal nutrition, including the feeding Akari, C.T., Nakamura, R.M., Kam, L.W.G., Clarke, N., 1984. The
+of ruminally-protected fats and protected proteins are effect of level of lactation diurnal temperature patterns of dairy
+cattle in hot environments. J. Dairy Sci. 67, 1752–1760.among other endeavors to reduce metabolic heat
+Akari, C.T., Nakamura, R.M., Kam, L.W.G., 1987. Diurnalproduction and supply the correct proﬁle of nutrients temperature sensitivity of dairy cattle in a naturally cyclingto high producing cows in early lactation. An environment. J. Therm. Biol. 12 (1), 23–26.
+adequate supply of nutrients must also include well- Albright, J.L., Alliston, C.W., 1972. Effects of varying the
+balanced mixture of dietary minerals, especially of environment upon performance of dairy cattle. J. Anim. Sci.
+22 32, 566–577.Na, K, Cl, and SO . These play a pivotal role in the4
+Alexander, G., 1974. Heat loss from sheep. In: Monteith, J.L.,thermal physiology of the cow. Analysis of milk Mount, L.E. (Eds.), Heat Loss From Animals and Man.production data from the last 55 years reveals that Butterworth, London, pp. 187–188.
+milk production per cow has increased over Al-Katanani, Y.M., Webb, D.W., Hansen, P.J., 1998. Factors
+threefold. This is in response to advances in animal affecting seasonal variation in non-return of lactating dairy
+cows. J. Dairy Sci. 81 (Suppl), 217, Abstract.nutrition, in technology, and in biotechnology as well
+Allen, T.E., 1962. Responses of Zebu, Jersey and Zebu and Jerseyas genetic progress for milk production. Using these crossbred heifers to rising temperatures with particular refer-facts as a basis, it is apparent that genetic selection ence to sweating. Aust. J. Agric. Res. 13, 165–179.
+and other variables enhancing milk production may Alvarez, M.B., Johnson, H.D., 1973. Environmental heat exposure
+have resulted in adjustments in factors important to on cattle plasma catecholamine and glucocorticoids. J. Dairy
+Sci. 56, 189–194.lactation and nutritional physiology of the dairy cow.
+Anderson, M., 1985. Effects of drinking water temperature onOne such factor, important especially in hot environ- water intake and milk yield of tied up dairy cows. Livest. Prod.ments, is the thermoregulatory ability and capacity of Sci. 12, 329–338.
+modern cows. It is important to quantify ther- Armstrong, D.G., Blaxter, K.L., 1957. The heat increment of
+moregulatory capabilities, and the physiological ef- steam-volatile fatty acids in fasting sheep. Br. J. Nutr. 11,
+247–273.fects of heat stress on high-producing cows in
+ASHRAE, 1966. Fundamentals and Equipment. ASHRAE Guidemodern dairies. Such empirical data are prerequisites and Data Book. ASHRAE, New York.for improving nutrition, ﬁne tuning nutrient supply, Attenberry, J.T., Johnson, H.D., 1968. Effect of environmental
+and adjusting the management of high merit cows, so temperature, controlled feeding and fasting on rumen motility.
+that they can express their true genetic potential for J. Anim. Sci. 29, 734–737.
+Badinga, L., Thatcher, W.W., Diaz, T., Drost, M., Wolfenson, D.,milk production.
+1993. Effect of environmental heat stress on follicular develop-
+ment and steroidogenesis in lactating Holstein cows.
+Theriogenology 39, 797–810.
+A cknowledgements Bandaranayaka, D.D., Holmes, C.W., 1976. Changes in the
+composition of milk and rumen contents in cows exposed to a
+high ambient temperature with controlled feeding. Trop. Anim.The University of Fort Hare is thanked for grant-
+Health Prod. 8, 38–46.ing Dr. C.T. Kadzere sabbatical leave, part of which Barash, H., Silanikove, N., Weller, J.I., 1996. Effect of season ofenabled this manuscript to be prepared. We are birth on milk, fat, and protein production of Israeli Holsteins. J.
+grateful to Dr. Z. Shabi for translating Hebrew Dairy Sci. 79, 1016–1020.
+literature sources into English. Beede, D.K., Collier, R.J., 1986. Potential nutritional strategies for
+86 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+intensively managed cattle during thermal stress. J. Anim. Sci. Physiochemical conditions in the rumen of Bedouin goats:
+62, 543–554. effect of drinking, food quality and feeding time. J. Agric. Sci.
+Beede, D.K., Collier, R.J., Wilcox, C.J., Thatcher, W.W., 1985. (Camb.) 111, 147–157.
+Effects of warm climates on milk yield and composition Burfening, P.J., Ulberg, L.C., 1968. Embryonic survival sub-
+(short-term effects). In: Smith, A.J. (Ed.), Milk Production in sequent to culture of rabbit spermatozoa at 38 and 40 8C. J.
+Developing Countries. University of Edinburgh, Scotland, pp. Reprod. Fertil. 15, 87–92.
+322–347. Carter, R.R., Grovum, W.L., 1990. A review of the physiological
+Berman, A., 1968. Nychthermeral and seasonal patterns of ther- signiﬁcance of hypertonic body ﬂuids on feed intake andmoregulation in cattle. Aust. J. Agric. Res. 19, 181–188. ruminal function salivation, motility and microbes. J. Anim.Berman, A., Folman, Y.M., Kaim, M., Mamen, Z., Herz, D., Sci. 68, 2811–2832.Wolfenson, A., Graber, Y., 1985. Upper critical temperatures Cavestany, D., El-Wishy, A.B., Foote, R.H., 1985. Effect ofand forced ventilation effects for high-yielding dairy cows in a season and high environmental temperature on fertility oftropical climate. J. Dairy Sci. 68, 488–495. Holstein cattle. J. Dairy Sci. 68, 1471–1478.Bianca, W., 1959. Acclimatization of calves to hot, humid
+Cena, K., Monteith, K., 1975. Transfer processes in animal coats.environment. J. Agric. Sci. 52, 305–312.
+1. Radiative transfer. Proc. R. Soc. Lond. B 188, 377.Bianca, W., 1964. Thermoregulatory responses of the dehydrated
+Chiaiyabutr, N., Burassakurl, C., Moanbchurogen, V., Loypetjra,ox to drinking cold and warm water in a warm environment.
+P., Pichaichrnatong, A., 1987. Effect of acute heat stress onRes. Vet. Sci. 5, 75–80.
+changes in the rate of liquid ﬂow from the rumen and turnoverBianca, W., 1965. Reviews of the progress in dairy science. Cattle
+of swamp buffalo. J. Agric. (Camb.) 108, 549–553.in hot environment. J. Dairy Res. 32, 291–345.
+Christopherson, R.J., 1976. Effects of prolonged cold and theBianca, W., Findlay, J.D., 1962. The effect of thermally-induced
+outdoor winter environment on apparent digestibility in sheephyperpenea on the acid–base status of the blood of calves. Res.
+and cattle. Can. J. Anim. Sci. 56, 201–212.Vet. Sci. 3, 38–49.
+Christopherson, R.J., Kennedy, P.M., 1983. Effect of thermalBitman, J.A., Lefcourt, D.L., Stroud, B., 1984. Circadian and
+environment on digestion in ruminants. Can. J. Anim. Sci. 63,ultradian temperature rhythms of lactating dairy cows. J. Dairy
+Sci. 67 (5), 1014–1023. 447–496.
+Blaxter, K.L., 1961. The utilization of the energy of foods by Clark, J.H., Spires, H.R., Davis, C.L., 1978. Uptake and metabo-
+ruminants. In: Proceedings 2nd Symposium Energy Metabo- lism of nitrogenous components by the lactating mammary
+lism. EAAP Publication No. 10, p. 211. gland. Fed. Proc. 37, 1233–1238.
+Blaxter, K.L., Wainman, F.W., 1961. Environmental temperature Cohen, I., Hurwitz, S., Bar, A., 1972. Acid–base balance and
+and the energy metabolism and heat emission of steers. J. sodium chloride ratios in diets of laying hens. J. Nutr. 102,
+Agric. Sci. (Camb.) 46, 81–90. 1–108.
+Blaxter, K.L., Wainman, F.W., 1964. The effect of increased air Collier, R.J., Beede, D.K., Thatcher, W.W., Israel, L.A., Wilcox,
+movement on the heat production and emission of steers. J. C.J., 1982. Inﬂuences of environment and its modiﬁcation on
+Agric. Sci. (Camb.) 62, 207–211. dairy animal health and production. J. Dairy Sci. 65, 2213–
+Blaxter, K.L., Graham, N., Wainman, F.W., Armstrong, D.G., 2227.
+1959. Environmental temperature, energy metabolism and heat Collins, K.J., Weiner, J.S., 1968. Endocrinological aspects of
+regulation in sheep. II. The partition of heat losses in closely exposure to high environmental temperature. Physiol. Rev. 48,
+clipped sheep. J. Agric. Sci. (Camb.) 52, 25–40. 785–839.
+Blazquez, N.B., Long, S.E., Mayhew, T.M., Perry, G.C., Prescott, Coppock, C.E., 1978. Feeding energy to dairy cattle. In: Coppock,
+N.J., Wathes, C.M., 1994. Rate of discharge and morphology of C.E. (Ed.), Large Dairy Management. University Presses of
+sweat glands in the perineal, lumbodorsal and scrotal skin of Florida, Gainesville, pp. 265–268.
+cattle. Res. Vet. Sci. 57, 277–284. Coppock, C.E., Grant, P.A., Portzer, S.J., Charles, D.A., Escobosa,
+Bligh, J., 1973. In: Bligh, J. (Ed.), Temperature Regulation in A., 1982. Lactating dairy cow responses to dietary sodium,
+Mammals and Other Vertebrates. North Holland, Amsterdam, chloride, and bicarbonate during hot weather. J. Dairy Sci. 65,
+pp. 351–354. 566–576.
+Bloom, S.R., 1978. Gut hormones. Proc. Nutr. Soc. 37, 259–271. Croom, Jr. W.J., Harvey, R.W., Linnerud, A.C., Froetschel, M.,
+Bouchard, R., Conrad, H.R., 1973. Sulfur requirement of lactating 1982. High levels of NaCl in beef cattle diets. Can. J. Anim.
+dairy cows. I. Sulfur balance and dietary supplementation. J. Sci. 62, 217–227.
+Dairy Sci. 56, 1276–1282. Cummins, K., 1998. Bedding plays role in heat abatement. Dairy
+Bouchard, R., Conrad, H.R., 1974. Sulfur metabolism and nutri- Herd Manage. 35 (6), 20.
+tional changes in lactating cows associated with supplemental Curtis, S.E., 1981. Environmental Management in Animal Ag-
+sulfate and methionine hydroxy analog. Can. J. Anim. Sci. 54, riculture. Iowa State University Press, Ames, IA.
+587–593. Dale, H.E., Brody, S., 1954. Thermal stress and acid–base balance
+Brody, S., 1945. Bioenergetics and Growth: With Special Refer- in dairy cattle. Missouri Agric. Exp. Stat. Res. Bull. No. 562.
+ence to the Efﬁciency Complex in Domestic Animals. Reinhold Davis, H.P., Hathaway, I.L., 1956. Comparative measurements of
+Publishing Corporation, Waverly Press, Baltimore, MD. Holsteins, Ayrshire, Guernsey, and Jersey females from birth to
+Brosh, A., Chosniak, I., Tadmore, A., Shkolnik, A., 1988. 7 years. Nebraska Agric. Exp. Stat. Res. Bull. No. 179.
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 87
+Diven, R.H., 1975. Bicarbonate in ruminant nutrition and physi- Gat, Z., Zamel, Z., Horowitz, T., Flamenbaum, I., Ezra, E., 1999.
+ology. Part I. In: Feedstuffs, p. 21, August 4. Characterization of Heat Stress for Cattle (THI) in Different
+Dmi’el, R., Prevulotzky, A., Shkolnik, A., 1980. Is the black coat Locations in Israel. Ministry of Agriculture and Rural Develop-
+in the desert a means of saving metabolic energy. Nature 283, ment, External Service, Tel Aviv, in Hebrew.
+761–762. Gonsalez, R.R., Berglund, L.G., Gagge, A.P., 1978. Indices of
+Dmi’el, R., Robertshaw, D., Choshniak, I., 1979. Sweat gland thermoregulatory strain for moderate exercise in the heat. J.
+secretion in the black Bedouin goat. Physiol. Zool. 52, 558– Appl. Physiol. 44, 889–899.
+564. Gordon, M.S., Bartholomew, G.A., Grinnell, A.D., Jorgenson,
+Dobson, A., 1984. Blood ﬂow and absorption from the rumen. Q. C.B., White, F.D., 1968. Animal Function: Principles and
+J. Exp. Physiol. 69, 599–606. Adaptations. Macmillan Co, New York.
+Dowling, D.F., 1955. The hair follicle and apocrine gland popula- Graham, N.Mc., Wainman, F.W., Blaxter, K.L., Armstrong, D.G.,
+tions of Zebu (Bos indicus L.) and Shorthorn (Bos taurus L.) 1959. Environmental temperature, energy metabolism and heat
+cattle skin. Aust. J. Agric. Res. 6, 645–654. regulation in sheep. I. Energy metabolism in closely clipped
+DuBois, P.R., Williams, D.J., 1980. Increased incidence of retained sheep. J. Agric. Sci. (Camb.) 52, 13–24.
+placenta associated with heat stress in dairy cows. Theriogenol- Greene, L.W., Fontenot, J.P., Webb, Jr. K.E., 1983. Effect of
+ogy 13, 115–121. dietary potassium on absorption of magnesium and other
+El-Nouty, F.D., Elbanna, I.M., Davis, T.P., Johnson, H.D., 1980. macro-elements in sheep fed different levels of magnesium. J.
+Aldosterone and ADH response to heat and dehydration in Anim. Sci. 56, 1208–1213.
+cattle. J. Appl. Physiol. 48, 249–255. Grovum, W.L., 1981. Factors affecting the voluntary intake of
+Elvinger, F., Natzke, R.P., Hansen, P.J., 1992. Interactions of heat food by sheep. 3. The effect of intravenous infusions of gastrin,
+stress and bovine somatotropin affecting physiology and immu- cholecystokinin and secretin on motility of the reticulo-rumen
+nology of lactating cows. J. Dairy Sci. 75, 449–462. intake. Br. J. Nutr. 45, 183–201.
+Escobosa, A., Coppock, C.E., Rowe, Jr. L.D., Jenkins, W.L., Guerrini, V.H., 1981. Food intake of sheep exposed to hot humid,
+Gates, C.E., 1984. Effects of dietary sodium bicarbonate and hot dry and cool humid environments. Am. J. Vet. Res. 42,
+calcium chloride in physiological responses of lactating dairy 658–661.
+cows in hot weather. J. Dairy Sci. 67, 574–584. Gwazdauskas, F.C., Lineweaver, J.A., Vinson, W.E., 1981. Rates
+Esdale, W.J., Satter, L.D., 1972. Manipulation of rumen fermen- of conception by artiﬁcial insemination of dairy cattle. J. Dairy
+tation. IV. Effect of altering ruminal pH on volatile fatty acid Sci. 64, 358–362.
+production. J. Dairy Sci. 55, 964–970. Hales, J.R.S., Bell, A.W., Fawcett, A.A., King, R.B., 1984.
+Esmay, M.L., 1969. Principles of Animal Environment. AVI, Redistribution of cardiac output and skin AVA activity in sheep
+Westport, CT. during exercise and heat stress. J. Therm. Biol. 9, 113–116.
+Ferguson, K.A., Dowling, D.F., 1955. The functions of cattle Hales, J.R.S., Findlay, J.D., 1968. The oxygen cost of thermally-
+sweat glands. Aust. J. Agric. Res. 6, 640–644. induced and CO -induced hyperventilation in the ox. Respir.2
+Finch, V.A., 1976. An assessment of the energy budget of Boran Physiol. 4, 353–356.
+cattle. J. Therm. Biol. 1, 143–148. Hamada, T., 1971. Estimation of lower critical temperatures for
+Finch, V.A., 1986. Body temperature in beef cattle: its control and dry and lactating dairy cows. J. Dairy Sci. 54, 1704–1705.
+relevance to production in the tropics. J. Anim. Sci. 62, Hammel, H.T., 1968. Regulation of internal body temperature.
+531–542. Annu. Rev. Physiol. 30, 641–646.
+Findlay, J.D., Yang, S.H., 1950. The sweat glands and Ayrshire Hansen, P.J., 1997. Effects of environment on bovine reproduc-
+cattle. J. Agric. Sci. 40, 126–133. tion. In: Youngquist, R.S. (Ed.), Current Therapy in Large
+Flatt, W.P., Coppock, C.E., Moore, L.A., 1965. Energy balance Animal Theriogenology. W.B. Saunders, Philadelphia, pp. 403–
+studies with dry, non-lactating dairy cows consuming pelleted 415.
+forages. In: Proceedings 3rd Symposium Energy Metabolism Hansen, P.J., Arechiga, C.F., 1999. Strategies for managing
+EAAP Publication 11, p. 131. reproduction in heat-stressed dairy cows. J. Dairy. Sci. 82
+Flatt, W.P., Moe, P.W., Moore, L.A., Hooven, N.W., Lehman, R.P., (Suppl.), 36–50.
+Orskov, E.R., 1969. Energy utilization by high producing dairy Hayssen, V., Lacy, R.C., 1985. Basal metabolic rates in mammals:
+cows. I. Experimental design, ration composition, digestibility taxonomic differences in the allometry of BMR and body mass.
+data, and animal performance during energy balance trial. In: Comp. Biochem. Physiol. 81A, 741–754.
+EAAP Publication No. 12. Heinrichs, A.J., Hargrove, G.L., 1987. Standards of weight and
+Frisch, J.E., Vercoe, J.E., 1977. Food intake, eating rate, weight height for Holstein heifers. J. Dairy Sci. 70, 653–660.
+gains, metabolic rates and efﬁciency of feed utilization in Bos Hormer, E., Robert, E.S., Brody, S., 1954. Rumen temperature. I.
+taurus and Bos indicus cross-breed cattle. Anim. Prod. 25, Temperature gradients during feeding and fasting. Cornell Vet.
+353–358. J. 44, 368–374.
+Fuquay, J.W., 1981. Heat stress as it affects animal production. J. Huhnke, M.R., Monty, Jr. D.E., 1976. Physiologic responses of
+Anim. Sci. 32, 164–174. preparturient and postparturient Holstein-Friesian cows to
+Fuquay, J.W., Zook, A.B., Daniel, J.W., Brown, W.H., Poe, W.E., summer heat stress in Arizona. Am. J. Vet. Res. 37, 1301–
+1979. Modiﬁcations in free stall housing for dairy cows during 1304.
+summer. J. Dairy. Sci. 62, 566–577. Igono, M.O., Bjotvedt, G., Sanford-Crane, H.T., 1992. Environ-
+88 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+mental proﬁle and critical temperature effects on milk pro- increasing temperature on heat production and cardiorespirat-
+duction of Holstein cows in desert climate. Int. J. Biometeorol. ory activities in Brown Swiss and Brahman cows and heifers.
+36, 77–87. Univ. Missouri Agric. Exp. Stat. Res. Bull. No. 475.
+Igono, M.O., Johnson, H.D., 1990. Physiological stress index of Kibler, H.H., Brody, S., 1952. Relative efﬁciency of surface
+lactating dairy cows based on diurnal pattern of rectal tempera- evaporative, respiratory evaporative and non-evaporative cool-
+ture. J. Interdiscip. Cycle Res. 21, 303–320. ing in relation to heat production in Jersey, Holstein, Brown
+Igono, M.O., Johnson, H.D., Steevens, B.J., Hainen, W.A., Shan- Swiss and Brahman cattle, 50 to 105 8F. Univ. Missouri Agric.
+klin, M.D., 1988. Effect of season on milk temperature, milk Exp. Stat. Res. Bull. No. 497.
+growth hormone, prolactin, and somatic cell counts of lactating Kibler, H.H., Brody, S., 1954a. Effects of temperature, 50 to 105
+cattle. Int. J. Biometeorol. 32, 194–200. 8F and 50 to 90 8F on heat production and cardiorespiratory
+Ingraham, R.H., Gillette, D.D., Wagner, W.D., 1974. Relationship activities in Brahman, Jersey and Holstein cows. Univ. Mis-
+of temperature and humidity to conception of Holstein cows in souri Agric. Exp. Stat. Res. Bull. No. 464.
+tropical climate. J. Dairy Sci. 54, 476–481. Kibler, H.H., Brody, S., 1954b. Inﬂuence of radiation intensity on
+Isaacson, H.R., Hinds, F., Byrant, M.P., Owens, F.N., 1975. evaporative cooling, heat production and cardio-respiratory
+Efﬁciency of energy utilization by mixed rumen bacteria in activities in Jersey, Holstein and Brahman cows. Univ. Mis-
+continuous culture. J. Dairy Sci. 58, 1645–1659. souri Agric. Exp. Stat. Res. Bull. No. 574.
+Israel Cattle Breeders Association, 1997. Israeli Holstein Her- Kleiber, M., 1932. Body size and metabolism. Hilgardia 6, 315–
+dbook. Hidekel Press, Tel Aviv. 353.
+Ittner, N.R., Kelly, C.F., Guilbert, H.R., 1951. Water consumption Lanham, J.K., Coppock, C.E., Milam, K.Z., LaBore, J.M., Nave,
+of Hereford and Brahman cattle and the effect of cooled D.H., Stermer, R.A., Brasington, C.F., 1986. Effects of drink-
+drinking water in a hot climate. J. Anim. Sci. 10, 742–751. ing water temperature on physiological responses of lactating
+Johnson, H.D., 1976. World climate and milk production. Holstein cows in summer. J. Dairy Sci. 69, 1004–1012.
+Biometeorology 6, 171–175. Leach, R.M., 1979. Dietary electrolytes: story with many facets.
+Johnson, H.D., 1980. Depressed chemical thermogenesis and In: Feedstuffs, p. 19, April 30.
+hormonal functions in heat. In: Environmental Physiology: Ledger, H.P., 1959. A possible explanation for part of the heat
+Aging, Heat, and Altitude. Elsevier/North Holland, New York, tolerance exhibited by Bos taurus and Bos indicus beef cattle.
+pp. 3–9. Nature (Lond.) 184, 405.
+Johnson, H.D., Katti, P.S., Hahn, L., Shanklin, M.D., 1988. Short- Lee, D.H.K., 1965. Climatic stress indices for domestic animals.
+term heat acclimation effects on hormonal proﬁle of lactating Int. J. Biometeorol. 9, 29–35.
+cows. In: Research Bulletin No. 1061. University of Missouri, Lemerle, C., Goddard, M.E., 1986. Assessment of heat stress in
+Columbia. dairy cattle in Papua New Guinea. Trop. Anim. Health Prod.
+Johnson, H.D., Li, R., Manalu, W., Spencer-Johnson, K.J., 1991. 18, 232–242.
+Effects of somatotropin on milk yield and physiological Little, W., Shaw, S.R., 1978. A note on the individuality of the
+responses during summer farm and hot laboratory conditions. J. intake of drinking water by dairy cows. Anim. Prod. 26,
+Dairy Sci. 74, 1250–1262. 225–227.
+Johnson, H.D., 1987. Bioclimate effects on growth, reproduction Lu, C.D., 1989. Effect of heat stress on goat production. Small.
+and milk production. In: Johnson, H.D. (Ed.), Bioclimatology Rumin. Res. 2, 151–162.
+and the Adaptation of Livestock. Elsevier, Amsterdam, pp. MacFarlane, W.V., Howard, B., 1972. Comparative water and
+35–57. energy economy of wild and domestic mammals. Symp. Zool.
+Johnson, H.D., Vanjonack, W.J., 1976. Effects of environmental Soc. Lond. 31, 261–296.
+and other stressors on blood hormone patterns in lactating Maltz, E., Silanikove, N., 1996. Kidney function and nitrogen
+animals. J. Dairy Sci. 59, 1603–1617. balance of high-yielding dairy cows at the onset of lactation. J.
+Johnston, J.E., McDowell, R.E., Shrode, R.R., Legates, J.E., 1959. Dairy Sci. 79, 1621–1626.
+Summer climate and its effect on dairy cattle in the Southern Maltz, E., Olsson, K., Glick, S.M., Fyhrquist, F., Silanikove, N.,
+region. In: Southern Cooperative Series Bulletin No. 63. Chosniak, I., Shkolnik, A., 1984. Homeostatic response to
+Kamal, T.H., Johnson, H.D., Ragsdale, A.C., 1962. Metabolic water deprivation or hemorrhage in lactating and non lacating
+reactions during thermal stress in dairy animals acclimated to Bedouin goats. Comp. Biochem. Physiol. 77A, 79–84.
+50 and 80 8F. Univ. Missouri Agric. Exp. Stat. Res. Bull. No. Maltz, E., Silanikove, N., Berman, A., Shalit, U., 1994. Diurnal
+785. ﬂuctuations in plasma ions and water intake of dairy cows as
+Kelly, R.O., Martz, F.A., Johnson, H.D., 1967. Effect of en- affected by lactation in warm weather. J. Dairy Sci. 77,
+vironmental temperature on ruminal VFA levels with con- 2630–2639.
+trolled feed intake. J. Dairy Sci. 50, 531–533. Maltz, E., Silanikove, N., Shkolnik, A., 1982. Energy cost and
+Kibler, H.H., 1964. Thermal effects of various temperature– water requirement of black Bedouin goats at different levels of
+humidity combinations on Holstein cattle as measured by eight production. J. Agric. Sci. Camb. 98, 499–504.
+physiological responses. Univ. Missouri Agric. Exp. Stat. Res. Masero, E.J., Siegel, P.D., 1977. In: 2nd Edition. Acid–Base
+Bull. No. 862. Regulation: Its Physiology and Pathophysiology and the Inter-
+Kibler, H.H., Brody, S., 1951. Environmental physiology with pretation of Blood-Gas Analysis. W.B. Saunders, Philadelphia,
+special reference to domestic animals. XVIII. Inﬂuence of PA.
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 89
+McArthur, A.J., Clark, J.A., 1988. Body temperature of Muller, L.D., Kilmer, L.H., 1979. Sodium Bicarbonate in Dairy
+homeotherms and the conservation of energy and water. J. Nutrition. National Feed Ingredients Association, Des Moines,
+Therm. Biol. 3, 9–13. IA.
+McBride, B.W., Milligan, L.P., 1984. The effect of lactation on Mullick, D.N., 1960. Effect of humidity and exposure to sun on
+ouabain-sensitive respiration of duodenal mucosa of cows. the pulse rate, respiration rate, rectal temperature and haemo-
+Can. J. Anim. Sci. 64, 817–824. globin level in different sexes of cattle and buffalo. J. Agric.
+McDowell, R.E., Hooven, N.W., Camoens, J.K., 1976. Effects of Sci. 54, 391–402.
+climate on performance of Holsteins in ﬁrst lactation. J. Dairy Murphy, M.R., 1992. Water metabolism of dairy cattle. J. Dairy
+Sci. 59, 965–973. Sci. 75, 326–333.
+McGuire, M.A., Beede, D.K., Collier, R.J., Buonomo, F.C., Murphy, M.R., Davis, C.L., McCoy, G.C., 1982. Factors affecting
+DeLorenzo, M.A., Wolcox, C.J., Huntington, G.B., Reynolds, water consumption by Holstein cows in early lactation. J. Dairy
+C.K., 1991. Effects of acute thermal stress and amount of feed Sci. 66, 35–38.
+intake on concentrations of somatotropin, insulin-like growth National Research Council, 1989. In: 6th Revised Edition Update.
+factor (IGF)-I and IGF-II, and thyroid hormones in plasma of Nutrient Requirements of Dairy Cattle. National Academy
+lactating Holstein cows. J. Anim. Sci. 69, 2050–2056. Press, Washington, DC.
+McLean, J.A., 1963. The partition of insensible losses of body Nebel, R.L., Jobst, S.M., Dransﬁeld, M.B.G., Pandolﬁ, S.M.,
+weight and heat from cattle under various climatic conditions. Bailey, T.L., 1997. Use of a radio frequency data communica-
+
+J. Physiol. (Lond.) 167, 427–434. tion system, HeatWatch , to describe behavioral estrus in dairy
+Milam, K.Z., Coppock, C.E., West, J.W., Lanham, J.K., Nave, cattle. J. Dairy Sci. 80 (Suppl.), 179, Abstract.
+D.H., LaBore, J.M., 1985. Effects of drinking water tempera- Niles, M.A., Collier, R.J., Croom, W.J., 1980. Effects of heat stress
+ture on production responses in lactating Holstein cows in on rumen and plasma metabolites and plasma hormone con-
+summer. J. Dairy Sci. 69, 1013–1019. centrations of Holstein cows. J. Anim. Sci. 51 (Suppl. 1), 152,
+Miller, J.K., Swanson, E.W., Lyke, W.A., Moss, B.R., Byrne, W.F., Abstract.
+1974. Effect of thyroid status on digestive tract ﬁll and ﬂow Omar, E.A., Kirrella, A.K., Soheir, A., Fawzy, A., El-Keraby, F.,
+rate of undigested residues in cattle. J. Dairy Sci. 57, 193–197. 1996. Effect of water spray followed by forced ventilation on
+Milligan, L.P., Summers, M., 1986. The biological basis of some physiological status and milk production of post calving
+maintenance and its relevance to assessing responses to nu- Friesian cows. Alex. J. Agric. Res. 4, 71–81.
+trients. Proc. Nutr. Soc. 45 (2), 185–193. Pavlicek, A., Misljenovic, Z., Misic, M., 1989. Uticaj visokih
+Mishra, M., Martz, F.A., Stanley, R.W., Johnson, H.D., Campbell, ljetnjih temperatura na proizvodnju mlijeka, zdravlje krava 1
+J.R., Hildebrand, E., 1970. Effect of diet and ambient tempera- plodnost. Vet. Glasnik 43, 397–400.
+ture–humidity and ruminal pH, oxidation–reduction potential, Prosser, C.L., Brown, F.A., 1969. Comparative Animal Physi-
+ammonia and lactic acid in lactating cows. J. Anim. Sci. 31, ology. Saunders Co, London.
+1023–1028. Purwanto, B.P., Abo, Y., Sakamoto, R., Furumoto, F., Yamamoto,
+Mitra, R.G., Christison, G.I., Johnson, H.D., 1972. Effect of S., 1990. Diurnal patterns of heat production and HR under
+prolonged thermal exposure on growth hormone (GH) secre- thermoneutral conditions in Holstein Friesian cows differing in
+tion in cattle. J. Anim. Sci. 34, 776–779. milk production. J. Agric. Sci. (Camb.) 114, 139–142.
+Moe, P.W., Tyrrell, H.F., Flatt, W.P., 1970. Partial efﬁciency of Ragsdale, A.C., 1934. Growth standards for dairy cattle. In: Univ.
+energy use for maintenance, lactation, body gain and gestation Missouri Agric. Exp. Stat. Bull. No. 336.
+in the dairy cow. In: Proceedings 4th Symposium Energy Richards, J.I., 1985. Milk production of Friesian cows subjected to
+Metabolism EAAP Publication 13, p. 65. high daytime temperatures when allowed food either ad lib or
+Moe, P.W., Tyrrell, H.F., Flatt, W.P., 1971. Energetics of body at nighttime only. Trop. Anim. Health Prod. 17, 141–152.
+tissue mobilization. J. Dairy Sci. 54, 548–553. Robertshaw, D., 1981. The environmental physiology of animal
+Moe, P.W., Flatt, W.P., Tyrrell, H.F., 1972. Net energy value of production. In: Clark, J.A. (Ed.), Environmental Aspects of
+feeds for dairy cattle. J. Dairy Sci. 55, 945–958. Housing for Animal Production. Butterworths, London, pp.
+Mongin, P., 1980. Electrolytes in nutrition: review of basic 3–17.
+principles and practical application in poultry and swine. In: Robertshaw, D., Vercoe, J.E., 1980. Scrotal thermoregulation of
+Proceedings Third Annual International Mineral Conference, the bull (Bos spp.). Aust. J. Agric. Res. 31, 401–407.
+Orlando, Florida, pp. 1–15. Roenfeldt, S., 1998. You can’t afford to ignore heat stress. Dairy
+Montgomery, I., Jenkinson, D.M., Elder, H.Y., Czarnecki, D., Manage. 35 (5), 6–12.
+Mackie, R.M., 1984. The effects of thermal stimulation on the Rogers, J.A., Davis, C.L., 1980. Effects of increasing rumen ﬂuid
+ultra-structure of the human atrichial sweat gland. 1. The dilution rate with mineral salts on water consumption, ruminal
+fundus. Br. J. Dermatol. 110, 319–320. degradation of dry matter and production of volatile fatty acids.
+More, T.B.H., Siebert, B.D., 1983. Effect of level of water intake J. Dairy Sci. 63 (Suppl. 1), 147, Abstract.
+on water, energy and nitrogen balance and thyroxine secretion Rogers, J.A., Davis, C.L., Clark, J.H., 1982. Alteration of rumen
+in sheep and goat. Aust. J. Agric. Res. 34, 441–446. fermentation, milk fat synthesis and nutrient utilization with
+Muller, C.J.C., Botha, J.A., 1993. Effect of summer climatic mineral salts in dairy cows. J. Dairy Sci. 65, 577–586.
+conditions on different heat tolerance indicators in primiparous Salem, M.H., Yousef, M.K., El-Sherbiny, A.A., Khalili, M.H.,
+Friesian and Jersey cows. S. Afr. J. Anim. Sci. 23, 98–103. 1982. Physiology of sheep and goats in the tropics. In: Yousef,
+90 C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91
+M.K. (Ed.), Animal Production in the Tropics. Praeger, New Stott, G.H., Wiersma, F., Woods, J.M., 1972. Reproductive health
+York, pp. 148–157. program for cattle subjected to high environmental tempera-
+Schmidt-Nielsen, K., 1964. Desert Animals: Physiological Prob- tures. J. Am. Vet. Med. Assoc. 16, 1339–1344.
+lems of Heat and Water. Clarendon Press, Oxford. Sugiyama, S., 1999. Development of a Model to Study the Direct
+Schneider, P.L., Beede, D.K., Wilcox, C.J., 1988. Nycterohemeral Effects of Hyperthermia on Bovine Ovum and Embryo De-
+patterns of acid–base status, mineral concentrations and diges- velopment. University of Queensland, Brisbane, Australia,
+tive function of lactating cows in natural or chamber heat stress Ph.D. Thesis.
+environments. J. Anim. Sci. 66, 112–125. Taylor, S.C.S., Thiessen, R.S., Murray, J., 1986. Inter-breed
+Scott, I.M., Johnson, H.D., Hahn, G.L., 1983. Effect of pro- relationship of maintenance efﬁciency to milk yield in cattle.
+grammed diurnal temperature cycles on plasma thyroxine level, Anim. Prod. 43, 37–62.
+body temperature, and feed intake of Holstein dairy cows. Int. Thatcher, W.W., 1974. Effects of season, climate and temperature
+J. Biometeorol. 27, 47–62. on reproduction and lactation. J. Dairy Sci. 57, 360–368.
+Shalit, O., Maltz, E., Silanikove, N., Berman, A., 1991. Water, Na, Thompson, G.E., 1973. Review of the progress of dairy science:
+K, and Cl metabolism of dairy cows at onset of lactation in hot climate physiology of cattle. J. Dairy Res. 40, 441–473.
+weather. J. Dairy Sci. 74, 1874–1883. Thompson, H.J., Worstell, D.M., Brody, S., 1949. Inﬂuence of
+Sharma, A.K., Rodriguez, L.A., Mekonnen, G., Wilcox, C.J., temperature, 50 to 105 8F, on water consumption in dairy
+Bachman, K.C., Collier, R.J., 1983. Climatological and genetic cattle. In: Res. Bull. Missouri Agric. Exp. Stat. No. 436.
+effects on milk composition and yield. J. Dairy Sci. 66, Tucker, W.B., Harrison, G.A., Hemken, R.W., 1988. Inﬂuence of
+119–126. dietary cation–anion balance on milk, blood, urine and rumen
+Shearer, J.K., Beede, D.K., 1990. Thermoregulation and physio- ﬂuid in lactating dairy cattle. J. Dairy Sci. 71, 346–354.
+logical responses of dairy cattle in hot weather. Agri-Practice Van Es, A.J.H., Nijkamp, H.J., 1969. Energy, carbon and nitrogen
+11, 5–17. balance experiments with lactating cows. In: Proceedings 3rd
+Shkolnik, A., Maltz, E., Choshniak, I., 1980. The role of the Symposium Energy Metabolism EAAP Publication No. 11, p.
+ruminant’s digestive tract as a water reservoir. In: Ruckebush, 209.
+Y., Thivend, P. (Eds.), Digestive Physiology and Metabolism in Wagner, W.C., Willham, R.L., Evans, L.E., 1974. Controlled
+Ruminants. AVI, Westport, CT, pp. 731–742. parturition in cattle. J. Anim. Sci. 38, 485–489.
+Silanikove, N., 1989. Role of the rumen and saliva in the Warren, W.P., Martz, F.A., Asay, K.H., Hilderbrand, E.S., Payne,
+homeostatic response to rapid re-hydration in cattle. Am. J. C.G., Vogt, J.R., 1974. Digestibility and rate of passage by
+Physiol. 256, R816–R821. steers fed tall fescue, alfalfa and orchard grass hay in 18 and 32
+Silanikove, N., 1992. Effects of water scarcity and hot environ- 8C ambient temperature. J. Anim. Sci. 39, 93–96.
+ment on appetite and digestion in ruminants: a review. Livest. Waterman, D.F., Swenson, T.S., Tucker, W.B., Hemken, R.W.,
+Prod. Sci. 30, 175–194. 1991. Nutrition, feeding and calves: role of magnesium in the
+Silanikove, N., 1994. The struggle to maintain hydration and DCAB equation for ruminants. J. Dairy Sci. 74, 1866–1873.
+osmoregulation in animals experiencing severe dehydration and Wayman, O., Johnson, H.D., Merilan, C.P., Berry, I.L., 1962.
+rapid rehydration: the story of ruminants. Exp. Physiol. 79, Effect of ad libitum or force-feeding of two rations on lactating
+281–300. dairy cows subject to temperature stress. J. Dairy Sci. 45,
+Silanikove, N., Tadmore, A., 1989. Rumen volume, saliva ﬂow 1472–1478.
+rate and systemic ﬂuid homeostasis in dehydrated cattle. Am. J. Webster, A.J.F., Osuji, P.O., Weekes, T.E.C., 1976. Origins of the
+Physiol. 256, R809–R815. heat increment of feeding in sheep. In: Proceedings 7th
+Silanikove, N., Maltz, E., Halevi, A., Shinder, D., 1997. Water, Symposium Energy Metabolism, EAAP Publication 19, pp.
+Na, K and Cl metabolism in high yielding dairy cows at the 45–53.
+onset of lactation. J. Dairy Sci. 80, 949–956. Webster, A.J.F., Osuji, P.O., White, F., Ingram, J.F., 1975. The
+Silanikove, N., Maltz, E., Shinder, D., Bogin, E., Bastholm, T., inﬂuence of food intake on portal blood ﬂow and heat
+Christensen, N.J., Noggarrd, P., 1998. Metabolic and prod- production in the digestive tract of sheep. Br. J. Nutr. 34,
+uctive response of dairy cows to increased ion supplementation 125–139.
+at early lactation in hot weather. J. Dairy Sci. Res. 65, 529– Weldy, J.R., McDowell, R.E., Bond, J., Van Soest, P.J., 1964.
+543. Responses of winter-conditioned heifers under prolonged heat
+Singh, K., Bhattacharyya, N.K., 1990. Cardio-respiratory activity stress. J. Dairy Sci. 47, 691–692.
+in Zebu and their F crosses with European breeds of dairy West, J.W., Coppock, C.E., Milam, K.Z., Nave, D.H., LaBore,1
+cattle at different ambient temperatures. Livest. Prod. Sci. 24, J.M., Rowe, Jr. L.D., 1987. Potassium carbonate as a potassium
+119–128. source and dietary buffer for lactating cows during heat stress.
+Singh, S.P., Newton, W.M., 1978. Acclimatization of young calves J. Dairy Sci. 70, 309–320.
+to high temperatures: physiological responses. Am. J. Vet. Res. Wiestra, R., Christopherson, R.J., 1976. Effects of cold on
+39, 795–797. digestibility, retention time digesta, reticulum motility and
+Stewart, R.E., Brody, S., 1954. Effect of radiation intensity on hair thyroid hormones in sheep. Can. J. Anim. Sci. 56, 699–708.
+and skin temperatures and on respiration rates of Holstein, Wilson, N.C., Gisolﬁ, C.V., Ferber, J., Hinricks, H.K., 1978.
+Jersey and Brahman cattle at air temperatures 45, 70 and 80 8F. Colonic and tail-skin temperature responses of the rat at
+In: Univ. Missouri Agric. Exp. Stat. Res. Bull. No. 561. selected running speeds. J. Appl. Physiol. 44, 571–575.
+C.T. Kadzere et al. / Livestock Production Science 77 (2002) 59–91 91
+Wilson, S.J., Kirby, C.J., Koeningsﬁeld, A.T., Keisler, D.H., Lucy, Young, B.A., 1976. Effects of cold environments on nutrient
+M.C., 1998. Effects of controlled heat stress on ovarian requirements of ruminants. In: Fonnesbeck, P.V., Harris, L.E.,
+function of dairy cattle. 2. Heifers. J. Dairy Sci. 81, 2132– Kearl, L.C. (Eds.), 1st International Symposium Feed Com-
+2138. position, Animal Nutrient Requirements, and Computerization
+Wolfenson, D., Lew, B.J., Thatcher, W.W., Graber, Y., Meidan, R., of Diets. Utah State University, Logan, pp. 491–496.
+1997. Seasonal and acute heat stress effects on steroid pro- Young, D.R., Mosher, R., Erve, P., Spector, H., 1959. Body
+duction by dominant follicles in cows. Anim. Reprod. Sci. 47, temperature and heat exchange during treadmill running in
+9–19. dogs. J. Appl. Physiol. 14, 839–843.
+Wolfenson, D., Thatcher, W.W., Badinga, L., Savio, J.D., Meidan, Yousef, M.K., 1985. In: Basic Principles. Stress Physiology in
+R., Lew, B.J., Braw-Tal, R., Berman, A., 1995. Effect of heat Livestock, Vol. 1. CRC Press, Boca Raton, FL.
+stress on follicular development during estrus cycle in lactating Yousef, M.K., Johnson, H.D., 1966. Calorigenesis of dairy cattle
+dairy cattle. Biol. Reprod. 52, 1106–1113. as inﬂuenced by thyroxine and environmental temperature. J.
+Woodford, S.T., Murphy, M.R., Davis, C.L., 1984. Water dy- Anim. Sci. 25, 150–156.
+namics of dairy cattle as by the initiation of lactation and feed
+intake. J. Dairy Sci. 67, 2336–2343.

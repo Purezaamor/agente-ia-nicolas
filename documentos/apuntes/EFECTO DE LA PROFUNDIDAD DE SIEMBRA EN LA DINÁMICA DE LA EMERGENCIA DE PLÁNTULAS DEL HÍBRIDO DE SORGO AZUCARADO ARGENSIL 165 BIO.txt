@@ -1,0 +1,225 @@
+=== Fuente: EFECTO DE LA PROFUNDIDAD DE SIEMBRA EN LA DINÁMICA DE LA EMERGENCIA DE PLÁNTULAS DEL HÍBRIDO DE SORGO AZUCARADO ARGENSIL 165 BIO.pdf ===
+
+ 1 
+EFECTO DE LA PROFUNDIDAD DE SIEMBRA EN LA DINÁMICA DE LA 
+EMERGENCIA DE PLÁNTULAS DEL HIBRIDO DE SORGO AZUCARADO ARGENSIL 
+165 BIO 
+Medina, M.; Romero, E.; Tonatto, J.; Sánchez Ducca,  A.; Fernández González, P.; y Casen, S.  
+ESTACIÓN EXPERIMENTAL AGROINDUSTRIAL OBISPO COLOMBRES. Casilla Nº9 - (4101) Las Talitas-Tucumán 
+(R. Argentina). E-mail: agronomia@eeaoc.org.ar 
+ 
+ABSTRACT 
+Sweet sorghum is one of the suitable species for biofuels production. At the planting time of a crop 
+there are many factors that can interfere with seedling emergence, planting depth among them. 
+The aim of this study was to evaluate, under natural conditions, the planting depth effects on the 
+emergence dynamics of sweet sorghum seedlings. The hybrid Argensil 165 Bio was planted at 2 
+cm, 4 cm and 7 cm. The number of seedlings emerged per day was evaluated. The emergence 
+dynamic was characterized through: maximum emergence, time and emergence at the point of 
+inflection, and average rate of emergence. The results showed that when sowing at 2 cm depth 
+emergence starts and ends earlier than sowing at 4 cm with an emergence percentage of 76% and 
+78% respectively. At 7 cm depth a significant increase in emergence time was observed, reaching 
+an emergence percentage of 35%. In conclusion, planting depth has a significant influence on 
+seedling emergence and establishment of the studied hybrid. The optimum planting depth range 
+for this hybrid is between 2 cm and 4 cm depth, which is consistent with the recommendations for 
+grain sorghum.   
+ 
+Palabras clave: sorghum bicolor, profundidad de siembra, emergencia de plántulas. 
+Key words: sorghum bicolor, planting depth, seedling emergence. 
+ 
+INTRODUCCIÓN  
+ 
+Entre las especies aptas para la producción de biocombustibles se encuentra el sorgo 
+azucarado (Sorghum bicolor (L.) Moench), el cual se caracteriza por poseer tallos con 
+jugos ricos en azúcares que pueden utilizarse para la producción de bioetanol a partir de 
+su fermentación (Romero, et al, 2012). 
+Al momento de la implantación de un cultivo son muchos los factores que pueden 
+interferir en la emergencia de las plántulas. Entre ellos, el nivel de labranza, los 
+agregados del suelo, distribución de las semillas en la cama de siembra, vigor de las 
+plántulas, sanidad de la semilla y la profundidad de siembra son los principales 
+determinantes de la emergencia y del establecimiento del cultivo (McCloy, 1980).  
+    Por ser el sorgo una semilla pequeña, no deben realizarse siembras profundas. Se 
+recomienda colocar la semilla entre 2 y 4 cm de profundidad, en la capa de mayor 
+humedad, procurando una buena distribución en la hilera de siembra, con lo que se 
+obtendrá una buena uniformidad del cultivo (Foresin, et al, 1997). 
+Cabe destacar que de la bibliografía consultada no se encontraron antecedentes 
+respecto de los efectos de la profundidad de siembra en la emergencia de sorgo 
+azucarado.  
+El objetivo del presente trabajo fue evaluar en condiciones naturales, el efecto de la 
+profundidad de siembra sobre la dinámica de la emergencia de plántulas del híbrido de 
+sorgo azucarado Argensil 165 Bio. 
+ 
+MATERIALES Y MÉTODOS 
+ 
+El ensayo se realizó en las instalaciones de la Estación Experimental Agroindustrial 
+Obispo Colombres, ubicado en la localidad de Las Talitas, Departamento Tafí Viejo, 
+Tucumán – Argentina.  
+Se trabajó con el híbrido de sorgo azucarado Argensil 165 Bio perteneciente a la 
+Empresa Argenetics Semillas, material que se encuentra inscripto para su 
+comercialización por sus aptitudes alcoholígenas.  Las profundidades de siembra fueron: 
+- Siembra a 2 cm de profundidad, 
+- Siembra a 4 cm de profundidad y 
+- Siembra a 7 cm de profundidad. 
+El diseño experimental fue completamente aleatorizado con cinco repeticiones. 
+ 2 
+La siembra se realizó el 6 de Enero de 2012, en macetas plásticas de 2,5  litros de 
+capacidad que contenían un sustrato compuesto por tierra y arena en una relación de 
+2:1. Utilizando un punzón graduado con las tres profundidades, se realizaron los alveolos 
+donde posteriormente se colocaron las semillas. Previo a la siembra se realizó un análisis 
+de Poder Germinativo con resultado superior a 85 %. Se sembró una semilla por alveolo, 
+totalizando 15 semillas por maceta y se procedió al tapado. Luego de la siembra se 
+procedió al tapado de las semillas hasta el nivel de superficie.  Las macetas fueron 
+regadas con una regadera de flor fina con bajo caudal y colocadas a temperatura 
+ambiente. La temperatura media durante el ensayo fue de 26,7ºC, con una temperatura 
+mínima media de 22,4ºC y una máxima media de 31,4ºC, temperaturas que resultan 
+adecuadas para la germinación y emergencia en sorgo azucarado (Foresin, O. et al, 
+1997). 
+Las evaluaciones se realizaron diariamente desde la siembra hasta el décimo día, 
+momento en el que se produjo la estabilización de la población de plántulas. El 
+parámetro evaluado fue el número de plántulas emergidas por día. 
+La metodología empleada para el procesamiento de la información fue de ajustes de 
+funciones propuesta por Gan, Y. et al, en emergencia de plántulas de trigo (1992)  y por 
+Romero, E. en emergencia y crecimiento inicial en caña de azúcar (2002).  Se trabajó 
+con el programa Jandel Scientific TblCurve versión 3.10 (1992) AINS Software. Para el 
+ajuste de las curvas de emergencia, se empleó el modelo Gompertz que es una función 
+sigmoide asimétrica (doble exponencial), cuya expresión matemática es la siguiente:                
+                            Y= A*EXP (-B*EXP (-C*X))          
+   Los parámetros del modelo representan: 
+A: asíntota de la curva 
+B: constante  
+C: tasa media de emergencia 
+La caracterización de la dinámica de la emergencia en función del tiempo,  se realizó a 
+través de las siguientes variables, deducidas a partir del modelo doble exponencial de 
+Gompertz: emergencia máxima (A), tiempo y emergencia al punto de inflexión (ti= LN 
+(B)/C) y (Eti= A/2,71828183) respectivamente, y tasa media de emergencia (C).  
+Al no cumplirse los supuestos necesarios para realizar un ANOVA, se realizó un 
+Análisis de la varianza no paramétrico con la prueba de Kruskal Wallis, con un nivel de 
+significación del 5%. El paquete estadístico empleado fue Infostat (Versión 2009). 
+ 
+RESULTADOS 
+ 
+La Figura 1 muestra la dinámica de la emergencia de plántulas del sorgo azucarado 
+evaluado en las tres profundidades estudiadas. A 2 cm de profundidad la emergencia se 
+inicia y finaliza antes que en la siembra a 4 cm, con un porcentaje de emergencia del 
+76% y 78% respectivamente. En la siembra a 7 cm de profundidad se observa un 
+aumento considerable en el tiempo para que la emergencia ocurra, alcanzando un 
+porcentaje de emergencia del 35%. 
+ 
+ 
+Figura 1. Dinámica de la emergencia de plántulas del híbrido Argensil 165 Bio, sembrado 
+a 2 cm, 4 cm y 7 cm de profundidad. Tucumán – Argentina. 
+ 3 
+ 
+    La tabla 1 muestra los valores de las variables deducidas que caracterizan la dinámica 
+de la emergencia de plántulas del híbrido azucarado Argensil 165 Bio en diferentes 
+profundidades de siembra. 
+ 
+Tabla 1. Valores medios de la emergencia máxima, el tiempo en días y emergencia al 
+punto de inflexión, y la tasa media de emergencia a tres profundidades. Híbrido Argensil 
+165 Bio. Tucumán – Argentina. Se indica las diferencias según test no paramétrico. 
+ 
+Prof. de siembra 
+A 
+(Nº de plántulas 
+emergidas) 
+ti 
+(Días al punto de 
+inflexión) 
+Eti 
+(Nº de plántulas 
+emergidas al punto de 
+inflexión) 
+C 
+(Tasa media de 
+plántulas 
+emergidas/día) 
+             2cm +   11,32  - 3,10  +  4,16  +  3,52 
+             4cm +   11,63  - 3,61 +  4,28  +  1,48 
+   7cm  -     5,19         +    5,74              -   1,91         -   0,53 
+Signos distintos indican diferencias significativas (p=<0,05). 
+ 
+El análisis de la varianza no paramétrico mostró que la emergencia máxima (A) se ve 
+afectada por la profundidad de siembra, no encontrándose diferencia significativa entre 2 
+y 4 cm. Sin embargo, se destaca diferencia para ambas respecto de la siembra a 7 cm.  
+Analizando el tiempo y la emergencia al punto de inflexión de la curva (ti y Eti) los 
+valores obtenidos a 2 y 4 cm no difieren estadísticamente entre sí, pero sí entre estos y 
+la siembra a 7 cm. 
+Al considerar la tasa media de emergencia (C), se observa que si bien 
+estadísticamente no existen diferencias significativas entre las siembras a 2 y 4 cm de 
+profundidad, existió una ligera tendencia a ser más rápida en la siembra a 2 cm. Sí se 
+encontró diferencia significativa de 2 y 4 cm con respecto a la siembra a 7 cm, con una 
+demora sustancial de la emergencia, afectando también la velocidad de emergencia de 
+ésta última. 
+En la Figura 2A), B) y C) se observan las plántulas del híbrido azucarado Argensil 165 
+Bio evaluado a tres profundidades. En la Figura 2C)  se observa que a mayor profundidad 
+de tapado, existe una severa disminución del número de plántulas emergidas. Se 
+observa también que el mesocotilo se encuentra más afectado, con porciones etioladas y 
+con una disposición helicoidal. Además, aumenta su elongación por efecto de la 
+profundidad de siembra mostrando sensibilidad a la misma. 
+ Según Malik, S. et al, (2007) la profundidad de siembra debe estar dentro de la 
+capacidad física de extensión del mesocotilo, provista por los reservas de las semillas. 
+Considerando que la semilla de sorgo es pequeña y con pocas reservas, esto evidenciaría 
+la falta de capacidad que posee éste tipo de semilla para elongarse y alcanzar la luz, 
+cuando la profundidad de tapado es superior a 4 cm.  
+     Maiti, R. K. (1986), encontró que la elongación del mesocótilo en sorgo sembrado a 
+grandes profundidades se correlaciona con la capacidad de emergencia y con el vigor de 
+las plántulas; asimismo, encontró que genotipos con mesocótilos largos producen 
+menores cantidades de etileno, pero incrementan la síntesis de giberelinas, las que al 
+parecer favorecen la elongación del mesocótilo, aunque es necesario investigar el papel 
+de otras hormonas, componentes bioquímicos y reservas de la semilla. 
+     De acuerdo con Mohammad R. A. (2011), la comprensión de las razones biológicas 
+del efecto de la profundidad de siembra, es todavía desconocida. Pero problemas como la 
+falta de luz, reducido intercambio gaseoso, presencia de CO2 producido por la actividad 
+biológica y alto consumo de las reservas reducen notablemente el depósito de semillas 
+en el suelo. 
+ 
+ 4 
+ 
+  
+  
+ 
+Figura 2. Efecto de la profundidad de siembra en plántulas del híbrido Argensil 165 Bio. 
+A) 2cm de profundidad, B) 4 cm de profundidad y C) 7 cm de profundidad. Tucumán – 
+Argentina. 
+ 
+CONCLUSIONES 
+ 
+Los resultados obtenidos destacan que: 
+ La profundidad de siembra influye significativamente en la emergencia de plántulas y 
+en el establecimiento del híbrido estudiado.  
+ Su manejo y el control de la preparación del suelo, es un factor fundamental para 
+asegurar el establecimiento efectivo del cultivo. 
+ Una profundidad de siembra mayor a 4 cm provoca una reducción significativa de la 
+emergencia y una demora de la misma. 
+ El rango óptimo de tapado de la semilla de este híbrido se encuentra entre 2 cm y 4 
+cm de profundidad, lo que coincide con lo recomendado para sorgo granífero. 
+ La emergencia en la siembra a 2 cm mostró una tendencia a ser más rápida. Sin 
+embargo se observa un porcentaje de plántulas emergidas similar al de 4 cm. 
+ Además, la profundidad de siembra es un factor clave para asegurar el 
+aprovechamiento del poder germinativo de las semillas. 
+ 
+ 
+BIBLIOGRAFIA 
+ 
+Gan,Y.; Stobbe, E.H. and Moes, J.  1992. Relative date of wheat seedling emergence and its impact on grain 
+yield. Crop Sci Nº 32: 1275-1281. 
+Foresin, O.; Domanski, C. y Giorda, L.M. 1997. Tecnología de siembra. Sorgo granífero.  Cuadernillo de 
+sorgo nº XIV. Centro Regional Córdoba. E.E.A. INTA. pp 8. 
+Maiti, R. K. 1986. Morfología, crecimiento y desarrollo del sorgo. Universidad Autónoma de Nuevo León, 
+Facultad de Agronomía. Marín, Nuevo León, México. 419 p. 
+Malik,S. A.; Younis,U.; Dasti,a. a.; Akram, M.  and Saima, S. 2007. Effect of planting depths on emergence 
+and seedling morphology of praecitriulus fistulosus (stocks) pangalo and pennisetum typhoides (burm.f) stapf. 
+Institute of pure and applied biology and department of statistics. Bahaud-din-Zakariya University, Multan, 
+Pakistan. 
+McCloy, B.L.1980.A review of wheat growing techniques.MAF. Bulletin.14p. 
+Mohammad R. A. (2011). Effects of planting depth on germination and the emergence of field bindweed 
+(Convolvulus arvensis l) College of Agriculture, University of Zabol, Zabol, Iran. pp 459. 
+Romero, E. 2002. Dinámica de la brotación, emergencia y crecimiento inicial de la caña de azúcar. Efecto del 
+genotipo, factores ambientales y manejo. Tesis para optar al grado de Dr. en Agronomía. FAZ. UNT.  pp. 203. 
+Romero, E.; Cárdenas, G.; Ruiz, M.; Casen, S.; Fernández González, P.; Sánchez Ducca, A.; Zossi, S.; 
+De Boeck, G.; Gusil, C.;   Tonatto, J.; Medina, M.; Caro, R. y Scandaliaris, J. 2012.  Integración del sorgo 
+azucarado a la cadena de aprovechamiento bioenergético de la caña de azúcar. Revista Avance Agroindustrial. 
+En prensa. 
+ 
+ 
+ 
+ 

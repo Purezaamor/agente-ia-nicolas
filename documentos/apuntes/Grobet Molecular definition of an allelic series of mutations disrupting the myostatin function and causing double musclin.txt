@@ -1,0 +1,386 @@
+=== Fuente: Grobet Molecular definition of an allelic series of mutations disrupting the myostatin function and causing double musclin.pdf ===
+
+Molecular definition of an allelic series of mutations disrupting the
+myostatin function and causing double-muscling in cattle
+Luc Grobet,1,* Dominique Poncelet,1,* Luis Jose´ Royo,2 Benoit Brouwers,1 Dimitri Pirottin,1 Charles Michaux,1
+Franc¸ois Me´nissier,3 Marta Zanotti,4 Susana Dunner,2 Michel Georges1
+1Department of Genetics, Faculty of Veterinary Medicine, University of Lie`ge (B43), 20 Bd de Colonster, 4000-Lie`ge, Belgium
+2Laboratorio de Genetica, Dpto. de Produccion Animal, Universidad Complutense, 28040 Madrid, Spain
+3Station de Ge´ne´tique Quantitative et Applique´e. I.N.R.A., 78352 Jouy-en-Josas, France
+4Istituto di Zootecnia, facolta di Medicina Veterinaria, Universita degli Studi di Milano, 20133 Milano, Italy
+Received: 20 September 1997 / Accepted: 11 October 1997
+Abstract. We have determined the entire myostatin coding se-
+quence for 32 double-muscled cattle sampled from ten European
+cattle breeds. Seven DNA sequence polymorphisms were identi-
+fied, of which five would be predicted to disrupt the function of the
+protein, one is a conservative amino acid substitution, and one a
+silent DNA sequence variant. Four additional DNA sequence poly-
+morphisms were identified in myostatin intronic sequences. In all
+but two breeds, all double-muscled animals were either homozy-
+gous or compound heterozygotes for one of the five loss-of-
+function mutations. The absence of obvious loss-of-function mu-
+tations in the coding sequence of the two remaining breeds points
+either towards additional mutations in unexplored segments of the
+gene, or towards locus heterogeneity of double-muscling.
+Introduction
+The occurrence of individuals characterized by an inherited, ex-
+ceptional muscularity—commonly referred to as double-
+muscling—has been reported in several cattle breeds (Culley
+1807). The calving difficulties associated with double-muscling
+have led several breeding organizations to treat this condition as a
+genetic defect that needs to be eliminated. In specific economic
+contexts, however, the gains in feed conversion ratio, dressing out
+percentage, and meat quality (increased lean and tenderness) have
+outweighed the costs of dystocia, leading either to a systematic
+selection for double-muscled animals or their use in cross-breeding
+(Hanset 1991).
+While the hereditary nature of this condition was recognized
+early on, the precise mode of inheritance has remained controver-
+sial. Contradictory inheritance models, including autosomal mono-
+genic (dominant and recessive), oligogenic and polygenic, have
+been described (Me´nissier 1982). It is at present unclear whether
+this reflects genuine genetic heterogeneity for this trait in different
+populations or whether it results from the difficulty to correctly
+classify animals for a trait that is in many respects a continuously
+distributed phenotype rather than a discrete affection status.
+In the Belgian Blue Cattle Breed (BBB), segregation analysis
+performed both in experimental crosses and in the outbred popu-
+lation suggested an autosomal recessive inheritance (Hanset and
+Michaux, 1985a, & 1985b). This hypothesis was confirmed when
+the postulated mh locus (muscular hypertrophy) was unambigu-
+ously mapped in this breed to the centromeric tip of bovine Chro-
+mosome (Chr) 2 under a recessive model (Charlier et al., 1995).
+The same chromosomal region was subsequently shown to account
+for the recessive inheritance of the double-muscling condition in at
+least two other breeds: Asturiana (Dunner et al. 1997) and Maine-
+Anjou (Grobet et al. unpublished). Its role in the determinism of
+double-muscling in other populations, however, remained to be
+demonstrated.
+Recently, it was shown that an 11-bp deletion (nt821(del11)) in
+the myostatin gene, resulting in a truncation of the bioactive car-
+boxyterminal domain of the protein, was causing double-muscling
+in BBB (Grobet et al. 1997). The same nt821(del11) mutation was
+shown to be responsible for double-muscling in Asturiana as well.
+In the Maine-Anjou breed, however, in which the involvement of
+the same mh locus was demonstrated by linkage analysis, the
+nt821(del11) deletion proved to be absent among double-muscled
+animals (Grobet et al. 1997). This observation, therefore, pointed
+towards allelic heterogeneity for the myostatin gene. This pre-
+sumption was confirmed with the recent identification of a distinct
+cysteine to tyrosine substitution (C313Y) in double-muscled Pied-
+montese animals (Kambadur et al. 1997).
+To further clarify the issue of locus and allelic heterogeneity of
+double-muscled cattle, we have determined the entire coding se-
+quence of the myostatin gene in double-muscled individuals from
+ten European cattle breeds. In so doing, we have identified a series
+of mutations that are predicted to disrupt the myostatin function,
+demonstrating and characterizing the allelic heterogeneity of the
+double-muscled condition in cattle.
+Materials and methods
+Pedigree material. In total, 32 animals with extreme muscular devel-
+opment were sampled from ten European beef cattle breeds in which
+double-muscled animals are acknowledged to occur at high to moderate
+frequency: (i) Belgium: Belgian Blue (4); (ii) France: Blonde d’Aquitaine
+(5), Charolais (2), Gasconne (2), Limousin (5), Maine-Anjou (4), Parthe-
+naise (3); (iii) Spain: Asturiana (2), Rubia Gallega (2); (iv) Italy: Pied-
+montese (2). The determination of the double-muscled phenotype of the
+sampled animals was performed visually by experienced observers.
+Four animals with conventional phenotype sampled from the Holstein-
+Friesian (2) and Jersey (2) dairy populations were analyzed as controls.
+Development of a primer set allowing for PCR amplification of the
+complete myostatin coding sequence from genomic DNA. In order
+to facilitate the study of the myostatin coding sequence from genomic
+DNA, we determined the sequences of the exon-intron boundaries of the
+bovine gene. In mice, the myostatin gene is known to be interrupted by two
+introns, respectively ≈1.5 and 2.4 kb long (McPherron & Lee, 1997). We
+designed two primer pairs, respectively in bovine exons 1 and 2, exons 2
+and 3, that were predicted to flank the two introns, assuming conservation
+of gene organization between mouse and cattle (Fig. 1 and Table 1). With
+* Both authors have contributed equally to this work.
+Correspondence to: M. Georges
+Mammalian Genome 9, 210–213 (1998).
+© Springer-Verlag New York Inc. 1998
+Incorporating Mouse Genome
+these primer sets, two PCR products, respectively 2 kb and 3.5 kb long,
+were generated from a YAC clone (179A3) containing the bovine myo-
+statin gene (Grobet et al., 1997). The PCR products were purified with
+QiaQuick PCR Purification kit (Qiagen) and partially sequenced with Dye
+terminator Cycle Sequencing Ready Reaction (Perkin Elmer) and an
+ABI373 automatic sequencer Alignment with the bovine cDNA sequence
+identified the four predicted exon-intron boundaries. Based on the available
+exonic and intronic sequences of the bovine myostatin gene, we subse-
+quently designed three primer pairs that jointly allow for convenient am-
+plification of the entire coding sequence from genomic DNA. The position
+of the corresponding primers is shown in Fig. 1, and the corresponding
+sequences are reported in Table 1.
+Sequence determination of myostatin alleles. After PCR amplifica-
+tion of the entire coding sequence from genomic DNA in the three de-
+scribed fragments, these were purified with QiaQuick PCR Purification kit
+(Qiagen) and sequenced with Dye terminator Cycle Sequencing Ready
+Reaction (Perkin Elmer) and an ABI373 automatic sequencer, using the
+primers used for amplification as well as a series of nested primers (Fig. 1
+and Table 1). Chromat files produced with the ABI373 sequencer were
+analyzed with the Polyphred application (D. Nickerson, personal commu-
+nication), which is part of a series of sequence analysis programs including
+Phred (B. Ewing, & P Green, unpublished). Phrap (P. Green, unpublished)
+and Consed (D. Gordon, unpublished).
+Results
+Identification of an allelic series of loss-of-function mutations in
+the bovine myostatin gene. The coding sequence of the four con-
+trol Holstein-Friesian and Jersey individuals was identical to the
+previously described wild-type allele (Grobet et al. 1997), indicat-
+ing that we were indeed more than likely amplifying the genuine
+myostatin coding sequence and not dealing with a non-functional
+pseudogene.
+Among the 32 double-muscled animals, on the contrary, we
+identified seven DNA sequence variants within the coding region,
+as summarized in Fig. 1.
+In addition to the previously described nt821(del11) mutation
+in the third exon, deleting 11 base pairs at position 821 after the
+initiation codon and revealing a premature stop codon, we identi-
+fied four new mutations that would be predicted to disrupt the
+myostatin function. An insertion/deletion at position 419 counting
+from the initiation codon, replacing 7 base pairs (bp) with an
+apparently unrelated stretch of 10 bp, reveals a premature stop
+codon in the N-terminal latency-associated peptide at amino acid
+position 140. This mutation is referred to as nt419(del7-ins10).
+Two bp substitutions in the second exon, a C → T transition at
+Fig. 1. Schematic representation of the bovine myostatin gene with posi-
+tion and definition of the identified DNA sequence polymorphisms. The
+gray boxes correspond to the untranslated leader and trailer sequences
+(large diameter), and the intronic sequences (small diameter) respectively.
+The blue, pink and green boxes correspond to the sequences coding for the
+leader peptide, N-terminal latency-associated peptide, and bioactive car-
+boxyterminal domain of the protein respectively. Small green, red, and
+pink arrows point towards the positions of the primers used for intron
+amplification, exon amplification and sequencing, and exon sequencing
+respectively; the corresponding primer sequences are reported in Table 1.
+The positions of the identified DNA sequence polymorphisms are shown as
+green, blue, or red lines on the myostatin gene for silent, conservative, and
+disrupting mutations respectively. Each mutation is connected via an arrow
+with a box reporting the details of the corresponding DNA sequence and
+eventually encoded peptide sequence. In each box, the variant sequence is
+compared with the control Holstein-Friesian sequence, and differences are
+highlighted in color.
+Table 1. Primers used for PCR amplification and cycle sequencing.
+Intron1-58 5*-GAAGACGATGACTACCACGCCAGGACG-3* Intron1-38 5*-CTAGTTTATTGTATTGTATCTTAGAGC-3*
+Intron2-58 5*-AGACTCCTACAACAGTGTTTGT-3* Intron2-38 5*-ATACTCWAGGCCTAYAGCCTGTGGT-3*
+Exon1-58 5*-ATTCACTGGTGTGGCAAGTTGTCTCTCAGA-3* Exon1-38 5*-CCCTCCTCCTTACATACAAGCCAGCAG-3*
+Exon2-58 5*-GTTCATAGATTGATATGGAGGTGTTCG-3* Exon2-38 5*-ATAAGCACAGGAAACTGGTAGTTATT-3*
+Exon3-58 5*-GAAATGTGACATAAGCAAAATGATTAG-3* Exon3-38 5*-ATACTCWAGGCCTAYAGCCTGTGGT-3*
+Exon1-Seq1 5*-TTGAGGATGTAGTGTTTTCC-3* Exon1-Seq2 5*-GCCATAAAAATCCAAATCCTCAG-3*
+Exon2-Seq1 5*-CATTTATAGCTGATCTTCTAACGCAAG-3* Exon2-Seq2 5*-TGTCGCAGGAGTCTTGACAGGCCTCAG-3*
+Exon2-Seq3 5*-GTACAAGGTATACTGGAATCCGATCTC-3*
+Exon3-Seq1 5*-AGCAGGGGCCGGCTGAACCTCTGGG-3* Exon3-Seq2 5*-CCCCAGAGGTTCAGCCGGCCCCTGC-3*
+L. Grobet et al.: Myostatin function in cattle 211
+nucleotide position 610 and a G → T transversion at nucleotide
+position 676, each yield a premature stop codon in the same N-
+terminal latency-associated peptide at amino-acid positions 204
+and 226 respectively. These mutations are called Q204X and
+E226X respectively. Finally, a G → A transition at nucleotide po-
+sition 938 results in the substitution of a cysteine by a tyrosine.
+This mutation is referred to as C313Y. This cysteine is the fifth of
+nine highly conserved cysteine residues typical of the members of
+the TGF-b superfamily and shared in particular by TGF-b1, -b2
+and -b3, and inhibin-bA and -bB (McPherron and Lee 1996). It is
+thought to be involved in an intramolecular disulfide bridge sta-
+bilizing the three-dimensional conformation of the bioactive car-
+boxyterminal peptide. Its substitution is, therefore, likely to affect
+the structure and function of the protein. This C313Y has recently
+also been described by Kambadur and associates (1997).
+We also identified a conservative phenylalanine-to-leucine
+substitution at amino acid position 94 in the first exon, owing to a
+C → A transversion at nucleotide position 282 of the myostatin
+gene. Given the conservative nature of the amino acid substitution,
+its location in the less conserved N-terminal latency-associated
+peptide, and as this mutation was observed at the homozygous
+condition in animals that were not showing any sign of exceptional
+muscular development, we predict that this mutation does not in-
+terfere drastically with the myostatic function of the encoded pro-
+tein, if at all. This mutation is referred to as F94L. Note that the
+murine protein is characterized by a tyrosine at the corresponding
+amino acid position.
+Finally, we identified a silent C → T transition at the third
+position of the 138th cytosine codon in the second exon, referred
+to as nt414(C-T).
+In addition to these DNA sequence polymorphisms detected in
+the coding region of the myostatin gene, we identified four DNA
+sequence variants in intronic sequences that are probably neutral
+polymorphisms and that have been assigned the following sym-
+bols: nt374-51(T-C), nt374-50(G-A), nt374-16(del1) in intron 1,
+and nt748-78(del1) in intron 2 (Fig. 1).
+Distribution of myostatin haplotypes in different cattle breeds.
+Figure 2 reports the observed myostatin haplotypes as well as their
+distribution in the analyzed sample sorted by breed.
+For the majority of the studied breeds, the analyzed double-
+muscled animals were homozygous for one of the five described
+mutations predicted to disrupt the myostatin function or compound
+heterozygotes for two distinct of these mutations. This is compat-
+ible with the hypothesis that the double-muscled condition has a
+recessive mode of inheritance in all these breeds.
+Only in Limousin and Blonde d’Aquitaine could we not dem-
+onstrate clear evidence for the role of myostatin loss-of-function
+mutations in the determinism of the observed muscular hypertro-
+phy. Most Limousin animals were homozygous for the conserva-
+tive F94L substitution which is unlikely to cause the muscular
+hypertrophy characterizing these animals for the reasons cited
+above. Two Limousin animals proved to be heterozygous for this
+mutation, the other allele being either the nt821(del11)orQ204X
+mutation. All Blonde d’Aquitaine animals but one were homozy-
+gous wild-type, the latter carrying the nt821(del11) mutation.
+These data indicate either that the myostatin gene is not involved
+in the double-muscled condition characterizing these two breeds,
+or that there are additional myostatin mutations outside of the
+coding region. It should be noted that the double-muscling condi-
+tion is often considered to be less pronounced in Limousin animals
+than in other breeds; this may point towards a phenocopy with a
+distinct determinism in this breed.
+Although the analyzed sample is very limited so far, our data
+indicate that some mutations, such as the nt821del(11) and C313Y,
+are shared by several breeds, which points towards gene migration
+between the corresponding populations, while others seem to be
+confined to specific breeds. Moreover, while some breeds (the
+Belgian Blue breed in particular) seem to be essentially genetically
+homogeneous, others show clear evidence for allelic heterogeneity
+(for example, Maine-Anjou).
+Figure 2 also depicts a preliminary maximum parsimony
+cladogram predicting the evolutionary relationships between the
+identified haplotypes. The tree was rooted based on the observa-
+tion that the ovine myostatin sequence exhibited the nt374-50(G-
+A), nt374-16(del1) and nt748-78(del1) variants. It can be seen
+from this figure that the nt419(del7-ins10) and Q204X mutations,
+encountered respectively in the French breeds Maine-Anjou and
+Charolais/Limousin, appear to have occurred in the same ‘‘ances-
+tral’’ myostatin haplotype characterized by the nt374-50(G-A),
+nt374-16(del1), nt748-78(del1), and nt414(C-T) neutral variants
+(the former three being shared with the ovine haplotype). Like-
+Fig. 2. Distribution of myostatin haplotypes by
+breed. The order and color of the myostatin
+mutations in the description of the observed
+haplotypes correspond to Fig. 1. All analyzed
+animals were double-muscled except for the two
+Holstein-Friesian and two Jerseys used as
+controls (column 1). A maximum parsimony
+cladogram connecting the different haplotypes is
+shown adjacent to the table. The rooting of the
+tree was based on the ovine myostatin sequence
+(data not shown).
+L. Grobet et al.: Myostatin function in cattle212
+wise, the E226X and nt821(del11) mutations seem to have oc-
+curred in a common, more recently evolved haplotype, character-
+ized by the nt374-51(T-C) variant.
+Discussion
+We demonstrate in this work that the double-muscling phenotype
+is genetically heterogeneous in cattle, involving at least five dif-
+ferent mutations in the bovine myostatin gene.
+The observation of allelic heterogeneity contradicts the classi-
+cal view that a single mh mutation spread through the European
+continent in the beginning of the 19th century with the dissemi-
+nation of the Shorthorn breed from the British Isles (Me´nissier,
+1984). Two of the mutations, at least, are shared by more than one
+breed, indicating some degree of gene migration, but definitely not
+from a single origin.
+While the observed level of allelic heterogeneity might reflect
+a particularly high mutation rate for this gene, we are inclined to
+believe that it results from the long-standing history of artificial
+selection for meaty animals, which must have favored such muta-
+tions and maintained them in the corresponding populations. In the
+BBB, evidence has been gathered in favor of a modest but signifi-
+cant superiority of muscular development in heterozygous
+(nt82I(del11)/+) over homozygous (+/+) normal individuals, re-
+flecting some degree of haploinsufficiency (Hanset and Michaux,
+1985a, 1985b). A similar tendency was apparent from the weight
+and carcass analysis of myostatin knock-out mice (McPherron et
+al. 1997). Even a modest expression in heterozygotes may consid-
+erably have increased the selective advantage of the bovine myo-
+statin loss-of-function alleles and therefore their population fre-
+quency.
+The observation that in at least eight of the ten studied breeds
+double-muscling involves five independent myostatin mutations
+indicates that the number of genes susceptible to affect muscular
+development in a comparable way is likely to be limited in cattle.
+It is tempting, therefore, to anticipate that myostatin similarly
+plays a key role in other species as well. To the best of our
+knowledge, however, no evidence is available to date of muscular
+hypertrophies involving this gene in livestock species other than
+cattle. The exceptional muscularity characterizing callipyge sheep
+involves a gene located on sheep Chr 18, which is orthologous to
+bovine Chr 21 (Cockett et al. 1994, 1996). The meatiness typical
+of Pie´train pigs is determined, at least to some degree, by the CRC
+or a tightly linked gene on pig Chr 6 (Fuji et al. 1991). The CRC
+gene has been mapped to Chr BTA18q23-24 in cattle. In contra-
+diction to double-muscling in cattle, which from an histological
+point of view is a hyperplasia, the enhanced muscular development
+of callipyge sheep and Pie´train pigs involves a true hypertrophy of
+the muscle fibers, that is, an increase in their individual diameter.
+In mice, in addition to the in vitro generated myostatin knock-
+out mice (McPherron and Lee 1997), the compact mutation could
+be due to a naturally occurring mutation at the myostatin gene. The
+compact locus has indeed been mapped to the D1Mit375–D1Mit21
+interval on mouse Chr 1 known to be orthologous to HSA2q31-32
+and BTA2q12-22 (Varga et al. 1997).
+From an applied point of view, the characterization of a panel
+of mutations in the myostatin gene associated with double-
+muscling will contribute to the establishment of a diagnostic
+screening system allowing for marker-assisted selection for or
+against this condition in cattle. The observed high level of genetic
+heterogeneity of double-muscling forces one to carefully evaluate
+the relevance of the already identified mutations in each popula-
+tion and eventually to seek other causative mutations.
+Acknowledgments. This work was supported by a grant from the Belgian
+Ministe`re de l’ Agriculture et des Classes Moyennes (D1/2-5744A). LJR
+was funded by a grant from the CYCIT(GAN95-0853). We are very grate-
+ful to Deborah Nickerson, David Gordon, and Phil Green for providing us
+the Polyphred application. We sincerely thank Professor Pascal Leroy for
+his continuous support and interest in our work.
+References
+Charlier C, Coppieters W, Farnir F, Grobet L, Leroy P, Michaux C, Mni M,
+Schwers A, Vanmanshoven P, Hanset R, Georges M (1995) The mh
+gene causing double-muscling in cattle maps to bovine chromosome 2.
+Mammalian Genome, 6, 788–792
+Cockett NE, Jackson SP, Shay TD, Nielsen D, Green RD, Georges M
+(1994) Chromosomal localization of the callipyge gene in sheep (Ovis
+aries) using bovine DNA markers. Proc Nat Acad Sci USA 91, 3019–
+3023
+Cockett NE, Jackson SP, Shay TD, Farnir F, Berghmans S, Snowder G,
+Nielsen D, Georges M (1996) Polar overdominance at the ovine calli-
+pyge locus. Science 273, 236–238
+Culley G (1807) Observations of Livestock, 4th ed. (London: G. Woodfall)
+Dunner S, Charlier C, Farnir F, Brouwers B, Canon J, Georges M (1997)
+Towards interbreed IBD fine mapping of the mh locus: double-muscling
+in the Asturiana de los Valles breed involves the same locus as in the
+Belgian Blue cattle breed. Mamm Genome 8, 430–435
+Fuji J, Otsu K, Zorzato F, Deleon S, Khanna VK, Weiler JE, O’Brien PJ,
+MacLennan DH (1991) Identification of a mutation in the porcine rya-
+nodine receptor associated with malignant hyperthermia. Science 253,
+448–451
+Georges M, Andersson L (1996) Livestock genomics comes of age. Ge-
+nome Res, in press
+Grobet L, Royo Martin LJ, Poncelet D, Pirottin D, Brouwers B, Riquet J,
+Schoeberlein A, Dunner S, Menissier F, Massabanda J, Fries R, Hanset
+R, Georges M (1997) A deletion in the myostatin gene causes double-
+muscling in cattle. Nature Genet 17, 71–74
+Hanset R (1991) The major gene of muscular hypertrophy in the Belgian
+Blue Cattle breed. In Breeding for Disease Resistance in Farm Animals,
+JB Owen, RFE Axford (eds.) ( : CAB International), pp 476–478
+Hanset R, Michaux C (1985a) On the genetic determinism of muscular
+hypertrophy in the Belgian White and Blue cattle breed. I. Experimental
+data. Genet Sel Evol (Paris) 17, 359–368
+Hanset R, Michaux C (1985b) On the genetic determinism of muscular
+hypertrophy in the Belgian White and Blue cattle breed. II. Population
+data. Genet Sel Evol (Paris) 17:369–386
+Kambadur R, Sharma M, Smith TPL, Bass JJ (1997) Mutations in myo-
+statin (GDF8) in double-muscled Belgian Blue Cattle. Genome Res 7,
+910–916
+McPherron AC, Lee S-J (1996) The transforming growth factor b super-
+family. In Growth Factors and Cytokines in Health and Disease, Vol
+1B. ( : JAI Press Inc.), pp 357–393
+McPherron AC, Lawler AM, Lee S-J (1997) Regulation of skeletal muscle
+mass in mice by a new TGFb superfamily member. Nature 387, 83–90
+Me´nissier F (1982) Present state of knowledge about the genetic determi-
+nation of muscular hypertrophy or the double muscled trait in cattle. In
+Curr Top Vet Med Anim Sci 16, 387–428
+Varga L, Szabo G, Darvasi A, Mu¨ller G, Sass M, Soller M (1997) Inher-
+itance and mapping of compact (Cmpt), a new mutation causing hyper-
+muscularity in mice. Genetics, in press
+L. Grobet et al.: Myostatin function in cattle 213

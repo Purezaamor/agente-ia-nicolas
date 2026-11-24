@@ -1,0 +1,98 @@
+=== Fuente: VERIFICATION, VALIDATION, AND CONFIRMATION OF NUMERICAL.pptx ===
+
+--- Diapositiva 1 ---
+VERIFICATION, VALIDATION, AND CONFIRMATION OF NUMERICAL MODELS IN THE EARTH SCIENCES
+Naomi Oreskes, Kristin Shrader-Frechette, Kenneth Belitz.
+--- Diapositiva 2 ---
+Hubo un aumento en el uso de modelos de simulación numéricos en el terreno de las ciencias, como un medio para evaluar procesos de gran escala o procesos físicos complejos, y también en cuestiones de política pública.
+
+
+¿Es posible verificar, validar y confirmar estos modelos?
+
+
+--- Diapositiva 3 ---
+VERIFICACIÓN
+Decir que un modelo está verificado, equivale a decir que su verdad ha sido demostrada.
+Sin embargo, esto sólo es posible en sistemas cerrados.
+Un modelo numérico puede contener componentes matemáticos cerrados que pueden ser verificados, pero el modelo no va a ser un sistema cerrado.
+
+
+--- Diapositiva 4 ---
+¿Por que no un sistema cerrado?
+Por que requiere de parámetros que no son completamente conocidos.
+Por la ampliación de propiedades no aditivas.
+Por que las observaciones y mediciones están cargadas de supuestos ó inferencias.
+
+ HIPOTESIS  AUXILIARES
+--- Diapositiva 5 ---
+PROBLEMA
+Si la verificación del modelo falla, no hay forma simple de saber si fallo la hipótesis principal o alguna de las auxiliares. 
+Normalmente se continua trabajando en el modelo hasta obtener un ajuste.
+Pero si esto sucede, mas de un modelo produce el mismo resultado.
+Modelo indeterminado, equivalente.
+--- Diapositiva 6 ---
+OTRO PROBLEMA
+Dos o mas hipótesis auxiliares incorrectas se pueden cancelar entre si, y no habría manera de darse cuenta.
+Consecuencia: Un modelo defectuoso puede parecer correcto.
+--- Diapositiva 7 ---
+Primer conclusión
+La VERIFICACIÓN es solamente posible en sistemas cerrados en los cuales todos los componentes están establecidos independientemente y se saben son correctos.
+En modelos de sistemas naturales, el término verificación es muy engañoso.
+--- Diapositiva 8 ---
+VALIDACIÓN
+Un modelos que no tiene defectos conocidos o detectables y que es internamente consistente puede ser considerado valido.
+Konikow y Bredehoeft demostraron que el término se usa con al menos dos significados distintos.
+Ambos incorrectos
+
+--- Diapositiva 9 ---
+Indistintamente con el término verificación.
+
+
+Para sugerir que el modelo es un presentación precisa de la realidad física. Lo que implica que el modelo válido nos diría como es el mundo en realidad.
+
+--- Diapositiva 10 ---
+P.A. Davis, et al. Sugieren que el método mas común de validación implica la comparación de los resultados medidos en ensayos, con los resultados de modelos computacionales que incorporan los supuestos del modelo que esta siendo testeado.
+VALIDACIÓN DENTRO DE ESTE CONTEXTO SIGNIFICA COHERENCIA DENTRO DE UN SISTEMA O ENTRE SISTEMAS.
+--- Diapositiva 11 ---
+CALIBRACIÓN DE MODELOS NUMERICOS
+La información disponible de la variable dependiente se divide en dos partes.
+Los parámetros independientes del modelo se ajustan para reproducir la primera parte de la información. 
+El modelo es corrido y los resultados se comparan con la segunda parte de la información.
+--- Diapositiva 12 ---
+Bas van Fraasen: 
+     El objetivo de las teorías científicas no es la verdad (por que es inalcanzable), sino la adecuación empírica.
+
+Se puede decir que un modelo calibrado, es empíricamente adecuado.
+--- Diapositiva 13 ---
+Sin embargo
+Que los resultados de un modelo sean consistentes con el presente y el pasado, no implica que lo sean con el futuro.
+
+Pequeños errores en los datos de entrada.
+Nada garantiza que en el futuro las condiciones sean iguales.
+--- Diapositiva 14 ---
+CONFIRMACIÓN
+Afirmar que un modelo está verificado por la información empírica coincide con los resultados, es cometer la falacia de afirmar el consecuente.
+Popper: Argumenta que en principio es posble probar una teoría falsa, pero que no es posible ni siquiera en principio probar una teoría verdadera.
+--- Diapositiva 15 ---
+Teoría de la confirmación
+Desarrollada por los filósofos, fundada en la noción de ciencia como actividad hipotético-deductiva.
+Los científicos requieren que las observaciones sean enmarcadas como una consecuencia deductiva de una teoría general.
+Si se demuestra que esas observaciones son verdaderas, entonces la teoría es confirmada.
+Pero confirmar observaciones no demuestra la veracidad de un modelo o hipótesis, sólo RESPALDA SU PROBABILIDAD.
+--- Diapositiva 16 ---
+
+
+
+ENTONCES, 
+¿DE QUE SIRVEN LOS MODELOS?
+--- Diapositiva 17 ---
+Pueden corroborar una hipótesis ofreciendo pruebas para fortalecer lo que puede ser en parte ya establecido por otros medios.
+Pueden dilucidar discrepancias entre modelos.
+Pueden ser usados para análisis de sensibilidad.
+El valor principal es heurístico; son representaciones útiles para orientar un estudio mas pero no pueden probarse.
+--- Diapositiva 18 ---
+CONCLUSIÓNES
+La verificación y validación de los modelos numéricos de sistemas naturales es imposible. Por que nunca son cerrados y nunca son únicos.
+Pueden ser confirmados, pero solo parcialmente. Debido a la falacia de afirmar el consecuente y a que se tiene acceso incompleto a los fenómenos naturales.
+Los modelos pueden ser sólo evaluados en términos relativos, y su valor predictivo esta siempre abierto a cuestionamientos.
+Su valor principal es heurístico.

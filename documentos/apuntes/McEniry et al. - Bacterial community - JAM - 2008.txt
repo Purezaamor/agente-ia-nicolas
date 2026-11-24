@@ -1,0 +1,1239 @@
+=== Fuente: McEniry et al. - Bacterial community - JAM - 2008.pdf ===
+
+ORIGINAL ARTICLE
+Bacterial community dynamics during the ensilage of
+wilted grass
+J. McEniry1,2, P. O’Kiely2, N.J.W. Clipson1, P.D. Forristal3 and E.M. Doyle1
+1 UCD School of Biology and Environmental Science, University College Dublin, Belﬁeld, Dublin 4, Ireland
+2 Teagasc, Grange Beef Research Centre, Dunsany, Co. Meath, Ireland
+3 Teagasc, Crops Research Centre, Oak Park, Co. Carlow, Ireland
+Introduction
+Silage is the predominant form of ruminant feed on
+many farms during winter (Wilkinson 2005). It is the
+product formed when forages of sufﬁciently high mois-
+ture content and liable to spoilage by aerobic micro-
+organisms are stored anaerobically (Whittenbury 1968).
+Thus, once a crop is sealed from the air, plant and micro-
+bial respiration consumes the trapped oxygen (McDonald
+et al. 1991) and the subsequent anaerobic environment
+terminates plant respiration, inhibits the growth of aero-
+bic micro-organisms and creates favourable conditions for
+the growth and development of epiphytic lactic acid
+bacteria (Pitt et al. 1985), which convert sugars into
+mainly lactic acid, thereby reducing pH (McDonald et al.
+1991). The conditions created are inhibitory to the sub-
+sequent activity of deleterious micro-organisms such as
+Clostridia and Enterobacteria.
+The two most commonly employed methods of ensil-
+ing are conventional precision-chop silage stored in large
+silos and individual bales of silage (300–800 kg) wrapped
+in polythene stretch-ﬁlm (O’Kiely et al. 2000). Although
+the principles controlling conservation and nutritive value
+are the same for both systems, baled silage composition
+frequently differs from that of comparable conventional
+silage (Ohlsson 1998; Fychan et al. 2002). Consequently,
+the environment created within the bale may be less
+inhibitory to the activities of undesirable micro-organisms
+Keywords
+bacterial community, baled silage,
+fermentation, grass silage, precision-chop
+silage.
+Correspondence
+Padraig O’Kiely, Teagasc, Grange Beef
+Research Centre, Dunsany, Co. Meath,
+Ireland.
+E-mail: padraig.okiely@teagasc.ie
+2007 ⁄ 1381: received 28 August 2007, revised
+21 December 2007 and accepted 4 January
+2008
+doi:10.1111/j.1365-2672.2008.03802.x
+Abstract
+Aims: Grass silage is the product formed by a natural lactic acid bacterial fer-
+mentation when grass is stored under anaerobic conditions, and represents an
+important ruminant feedstuff on farms during winter. Of the two commonly
+employed methods of ensiling forage, baled silage composition frequently dif-
+fers from that of comparable precision-chop silage reﬂecting a different ensiling
+environment. The aim of this study was to investigate the dynamics of the
+silage fermentation in wilted grass and between ensiling systems.
+Methods and Results: Fermentation dynamics were examined using traditional
+methods of silage analyses, including microbial enumeration and analysis of
+fermentation products, and culture-independent terminal restriction fragment
+length polymorphism (T-RFLP). A successful fermentation was achieved in
+both systems, with the fermentation (increase in lactic acid bacteria and lactic
+acid concentration, decrease in pH) proceeding rapidly once the herbage was
+ensiled.
+Conclusions: Under controlled conditions, little difference in silage quality and
+microbial composition were observed between ensiling systems and this was
+further reﬂected in the T-RFLP community analysis.
+Signiﬁcance and Impact of the Study: T-RFLP proved a potentially useful tool
+to study the ensilage process and could provide valid support to traditional
+methods, or a viable alternative to these methods, for investigating the dynam-
+ics of the bacterial community over the course of the fermentation.
+Journal of Applied Microbiology ISSN 1364-5072
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371 359
+such as Clostridia, Enterobacteria, Bacilli, yeast and mould
+(O’Brien et al. 2005; McEniry et al. 2006), leading to
+losses in nutritive value and animal production potential.
+Of the many factors that can affect the silage fermenta-
+tion, the type of micro-organisms that dominate the pro-
+cess often dictates the quality of the silage produced
+(Ennahar et al. 2003). Hence, the ensilage process has
+been investigated by measuring changes in the chemical
+and microbiological composition of the forage while in
+the silo. However, traditional, culture-based microbiology
+assays can be biased by the growth characteristics of the
+microbes studied and detect culturable cells only (Giraffa
+and Neviani 2001). Furthermore, it has been estimated
+that in microbial ecology studies considerably <10% of
+the microbial diversity present is culturable and as a
+result, the use of selective media can lead to a nonrepre-
+sentative assessment of the extent of the microbial com-
+munity structure (Liu et al. 1997; Ranjard et al. 2000).
+Ampe et al. (1999) reported that this was also true for
+fermented foods where most micro-organisms were
+thought to be culturable.
+Advances in molecular biology have led to the develop-
+ment of DNA-based community proﬁling techniques [e.g.
+denaturing gradient gel electrophoresis (DGGE), auto-
+mated ribosomal intergenic spacer analysis and terminal
+restriction fragment length polymorphism (T-RFLP)] that
+remove the biases associated with culturing. These tech-
+niques have been widely applied across a range of systems
+including soil (Kennedy et al. 2004), bioreactors (Fernan-
+dez et al. 2000), salt marsh (Buchan et al. 2003), marine
+plankton (Moeseneder et al. 1999) and cheese (Rade-
+maker et al. 2005). However, few studies to date have
+employed these approaches to study the ensilage process.
+Brusetti et al. (2006) described the use of length hetero-
+geneity PCR to monitor lactic acid bacteria succession
+during the ensilage of maize. May et al. (2001) and Yang
+et al. (2006) employed DGGE to investigate the fungal
+communities in whole plant corn silage and the bacterial
+communities in wheat straw silage, respectively. Rade-
+maker et al. (2002) employed T-RFLP to demonstrate the
+relative dominance of Lactobacillus-based silage inoculants
+during ensiling.
+This study describes the bacterial proﬁle of wilted
+herbage ensiled as baled and precision-chop silage using
+traditional culture-based techniques and culture-indepen-
+dent T-RFLP combined with robust statistical analysis.
+T-RFLP is a rapid and sensitive molecular approach that
+can provide an insight into the structure of microbial
+communities (Marsh 1999), combining selective PCR
+ampliﬁcation of target genes with restriction enzyme
+digestion, high resolution electrophoresis and ﬂuorescent
+detection (Rademaker et al. 2006). This enables the char-
+acterization of complex microbial communities and
+comparative community analysis (Liu et al. 1997). The
+results of this study may not only provide information
+concerning the bacterial community dynamics of the
+fermentation process but may also aid in our under-
+standing of why the conservation characteristics of
+individually wrapped bales often differ from those of
+conventional silages.
+Materials and methods
+The forage treatments were organized in a 2 (ensiling
+system) · 6 (stage of ensiling) factorial arrangement.
+Herbage (303 ± 30Æ2 dry matter kg)1) was ensiled after a
+24 h wilting period in cylindrical bales or as precision-
+chopped grass in laboratory silos. Three replicates of each
+treatment were sampled after 0, 2, 6, 14, 35 and 98 days
+of ensiling. Speciﬁc bacteria and yeast were enumerated
+and fermentation variables were assessed at each sampling
+time. Total silage bacterial DNA was extracted and
+T-RFLP was applied to the herbage samples to generate a
+community ﬁngerprint.
+Ensiling
+An homogenous plot of Lolium perenne (inﬂorescence
+emergence growth stage of the primary growth) was
+mown, wilted in the ﬁeld for 24 h, following which rep-
+resentative samples of the herbage were baled with a
+round baler (Claas 250 Rotacut, chopping knifes disen-
+gaged) into 15 1Æ2 m wide · 1Æ2 m diameter cylindrical
+bales and wrapped in six layers of polythene stretch-ﬁlm
+(750 mm wide, 0Æ025 mm thickness prestretching, 1Æ70
+stretch). The wrapped bales were stored outdoors under
+protection from wildlife. At the time of baling, 15 repre-
+sentative samples of wilted herbage were obtained from
+across the ﬁeld, from the same swaths used for baling.
+These samples were precision-chopped (Mex VI, Pottin-
+ger; 19 mm nominal chop length) and ensiled in units
+of 4Æ7 kg chopped herbage in 15 plastic pipe silos
+(height = 0Æ75 m, internal diameter = 0Æ152 m, internal
+volume = 13Æ6 l; O’Kiely and Wilson 1991). Laboratory
+silos were stored at a room temperature of 15/C176C prior
+to sampling.
+Grass and silage sampling
+Three representative samples of herbage were taken after
+ﬁeld wilting to characterize the grass prior to ensiling (day
+0). Triplicate bales and laboratory silos were destructively
+sampled after 2, 6, 14, 35 and 98 days ensilage. Bales were
+aseptically sampled, at eight representative points around
+the bale using an electrically powered cylindrical core bit
+(length = 65 cm, internal diameter = 3Æ5 cm) and these
+Silage bacterial community dynamics J. McEniry et al.
+360 Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371
+ª 2008 The Authors
+eight core samples were composited to produce one
+sample per bale (McEniry et al. 2006). Laboratory silos
+were opened and, after thorough aseptic mixing, one
+sample per silo was taken. Grass and silage samples were
+stored at 4/C176C prior to microbiological analyses and at
+)18/C176C prior to chemical and molecular analyses.
+Herbage chemical analysis
+Samples were dried at 40/C176C for 48 h and milled (Wiley
+mill) through a 1 mm screen prior to analysis for water-
+soluble carbohydrate concentration (WSC). Aqueous
+extracts from samples were used to determine pH, and
+lactic acid, volatile fatty acid (acetic acid, butyric acid and
+propionic acid) ethanol and ammonia-N (NH3-N) con-
+centrations, as described previously by McEniry et al.
+(2006).
+Herbage conventional microbiological analysis
+Samples were processed for microbial enumeration within
+3 h of sample collection. De Man, Rogosa and Sharpe
+(Oxoid, CM 361) nystatin (100 000 U l)1; Sigma, N1638)
+agar, violet red bile glucose (Oxoid, CM 485) agar,
+reinforced Clostridia (Oxoid, CM151) agar and malt
+extract (Oxoid, CM59) agar with both streptomycin
+(100 mg ml)1; Sigma) and chloramphenicol (100 mg ml)1;
+Sigma) were used for the enumeration of lactic acid
+bacteria, Enterobacteria, Clostridia and yeast, respectively,
+as described previously by McEniry et al. (2006). The
+colony forming units (CFU) on each plate were enumer-
+ated and the number of micro-organisms g)1 herbage
+expressed as log10.
+Total herbage DNA extraction and puriﬁcation
+Total DNA was extracted from herbage samples based on
+the method described by Brodie et al. (2002). Brieﬂy,
+0Æ3 g of aseptically chopped grass or silage (0Æ5–1 mm
+length) was added to a 2 ml polyethylene microcentrifuge
+tube containing 0Æ5 g of sterile 0Æ1 mm glass beads and
+0Æ5 g of sterile 0Æ5 mm zirconia beads, to which 0Æ5mlof
+modiﬁed hexadecyltrimethylammonium bromide (CTAB)
+extraction buffer (equal volumes of 10% CTAB in
+0Æ7 mol l)1 NaCl with 240 mmol l)1 potassium phosphate
+buffer, pH 8Æ0) was added. After centrifugation at 3000 g
+for 10 s, the tubes were incubated at 70/C176C for 10 min.
+About 0Æ5 ml of phenol : chloroform : isoamylalcohol
+(25 : 24 : 1) was then added to the tubes and the tubes
+were shaken in a Hybaid Ribolyser (Savant FP120 Fast-
+prep) at 5Æ5ms)1 for 30 s. Following bead-beating, herb-
+age refuse and beads were removed by centrifugation at
+14 000 g for 5 min at 4/C176C. The supernatant was removed
+and extracted twice with chloroform : isoamylalcohol
+(24 : 1). The resultant nucleic acids were puriﬁed using a
+High Pure PCR Product Clean Up Kit according to the
+manufacturer’s instructions (Roche Diagnostics GmbH,
+Penzberg, Germany) and DNA was eluted in a ﬁnal vol-
+ume of 50 ll. DNA purity was assessed by UV spectro-
+photometry and DNA was consistently suitable for PCR
+ampliﬁcation without further treatment.
+Bacterial community ﬁngerprinting by T-RFLP analysis
+To investigate bacterial community dynamics during fer-
+mentation, samples from days 0, 2, 6, 14, 35 and 98 of
+ensiling were analysed using T-RFLP. Terminal restriction
+fragment (TRFs) lengths were determined using a modiﬁ-
+cation of the method of Liu et al. (1997). The bacterial 16S
+small subunit rRNA genes were ampliﬁed (PX2 Thermo-
+Hybaid, Thermo Scientiﬁc) from extracted DNA using
+primer set F27 (5¢-AGAGTTTGATC(C ⁄ A)TGGCTCAG-3¢)
+and R1492 (5¢-TACGG(C ⁄ T)TACCTTGTTACGACT-3¢,
+Lane 1991). The forward primer, F27, was labelled at the 5¢
+end with a Beckman Coulter D4 ﬂuorescent dye.
+PCR reactions were performed in 50 ll volumes contain-
+ing 5 ll of the forward and reverse primers (0Æ3 lmol l)1
+50 ll)1), 5 ll10· Mg-free PCR buffer (Sigma), 5 llof
+bovine serum albumin, 2Æ5 ll MgCl2 (25 mmol l)1;
+Sigma), 1 ll dNTPs (10 mmol l)1 of each; Sigma), 25Æ25 ll
+distilled sterile H2O, 2Æ5UTaq DNA polymerase (Sigma)
+and approx. 10 ng extracted DNA. Thermocycling condi-
+tions were as follows: a hot start at 94/C176C for 3 min
+(1 cycle); 94/C176C for 1 min, 55/C176C for 2 min, 72/C176C for 2 min
+(26 cycles) and ﬁnal annealing at 72/C176C for 5 min. PCR
+products were visualized on a 1% agarose gel and subse-
+quently puriﬁed using a High Pure PCR Product Cleanup
+Kit as per manufacturer’s instructions (Roche Diagnostics).
+Puriﬁed PCR products were quantiﬁed on a 1Æ2% aga-
+rose gel with an appropriate molecular weight marker.
+Approximately 50 ng of each PCR product was digested
+with 20 U of the restriction endonuclease MspI (New
+England Biolabs Inc., Herts, UK) and 2Æ0 ll of the corre-
+sponding 10· NEBuffer 2, in a ﬁnal volume of 20 ll, at
+37/C176C for 12 h. Digested products were de-salted and 1 ll
+aliquots were mixed with 38Æ75 ll of sample loading solu-
+tion (GenomeLab, Beckman Coulter, Galway, Ireland)
+and 0Æ25 ll of size standard 600 (GenomeLab, Beckman
+Coulter).
+Terminal restriction fragment lengths were determined
+by electrophoresis using a Beckman Coulter (CEQ 8000,
+Genetic Analyser System, Beckman Coulter, Galway, Ire-
+land) automated sequencer, and fragment analysis was
+performed using the Beckman Coulter fragment analysis
+package v.4Æ0. Only fragments with ﬂuorescence >1% of
+the total ﬂuorescence were included in the analyses. A
+J. McEniry et al. Silage bacterial community dynamics
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371 361
+quartic polynomial model was used for size standard cali-
+bration in order to improve correlation between expected
+and actual size standard fragment sizes, particularly for
+fragments in the range 400–600 bp (Brodie et al. 2002).
+TRFs that differed by <0Æ5 bp in size between replicate
+proﬁles were considered identical and only TRFs that
+occurred in at least two of the three replicate samples
+were included in the analyses (Dunbar et al. 2001). Each
+individual TRF was designated as a putative ribotype, and
+the mean TRF or ribotype number in each sample was
+determined.
+Putative phylogenetic identities were assigned using the
+TAP-TRFLP database on the RDP II Web site (http://
+rdp.cme.msu.edu/html/TAP-trﬂp.html#program), which
+performed a simulated (in silico) restriction digest of
+sequences in the prokaryotic 16S rRNA database.
+Cloning and sequencing
+Bacterial 16S rRNA replicate PCR products obtained
+from baled silage on days 2 and 6 of ensiling were
+pooled for each time point and subsequently puriﬁed
+using a Wizard SV PCR clean-up system (Promega,
+Madison, WI, USA). Puriﬁed PCR products were then
+cloned into Escherichia coli JM109 cells using the pGem
+T-Easy Vector Cloning Kit (Promega). Clones were
+selected randomly, on the basis of blue-white screening,
+and checked for correct insert size by vector-targeted
+PCR [M13f (5¢-GTTTTCCCAGTCACGAC-3¢) and M13r
+(5¢-CAGGAAACAGCTATGAC-3¢) primers; Promega]
+and agarose gel electrophoresis. Positive clones were
+digested as above, but with 20 U of endonucleases MspI
+and HhaI (New England Biolabs Inc.) included. Clones
+displaying different banding patterns were selected for
+sequencing by single extension using an API 9730xl
+DNA analyser (Macrogen, Korea). Sequence similarity
+searches were performed in the NCBI GenBank data
+library using the blast programme (http://www.
+ncbi.nlm.nih.gov/BLAST/) and putative identities were
+assigned based on sequence similarities. The New
+England BioLabs NEB cutter V2Æ0 on-line DNA sequenc-
+ing tool (http://tools.neb.com/NEBcutter2/index.php) was
+used to analyse sequences of interest for MspI restriction
+sites.
+Statistical analyses
+Herbage chemical composition and microbial count data
+were analysed by a two-way analysis of variance (anova)
+for a 2 · 6 factorial arrangement of treatments using the
+general linear models procedures of SAS, Version 8.2
+(SAS 2000), and the Bonferroni t-test was used to com-
+pare treatments.
+Multivariate statistical analyses were performed on
+T-RFLP community proﬁles using Primer Software
+(Primer-E Ltd, Ivybridge, UK), Genstat Version 8.0 and
+Canoco for MS-Windows version 4.5. Genstat was used to
+calculate the overall abundance of each individual TRF for
+all samples (and within individual ensiling systems) and to
+perform a two-way factorial anova for effect of ensiling
+system, stage of ensiling and their interaction on bacterial
+ribotypes. The TRFs were subsequently ranked according
+to overall abundance and assigned rankings were used to
+select TRFs for inclusion in further multivariate analyses.
+The gross similarity of ribotype proﬁles for each treat-
+ment was examined using the Bray–Curtis index as a
+measure of similarity. Bacterial community proﬁles were
+analysed using Primer software, and used to create non-
+metric multidimensional scaling (MDS) plots for the data
+set. MDS is an ordination technique that represents the
+relationship inherent in multivariate data sets and
+attempts to preserve the ranked order of the similarity of
+any two communities as an inverse function of the dis-
+tance between the points representing those communities
+on the plot (Kruskal 1964). Therefore, sample communi-
+ties with the highest similarity in the data set are repre-
+sented by points on the plot that are plotted closest
+together, and those with the lowest similarity with points
+furthest apart (Rooney et al. 2006). The degree to which
+the plot matches the similarity matrix can be judged by
+examining the stress value (Kruskal’s stress). The MDS
+plot described here was used to visualize the relationship
+between bacterial communities (as determined by ribo-
+type proﬁles) in both ensiling systems over the course of
+the silage fermentation. MDS was performed using 25
+random starting conﬁgurations of sample points and a
+two-dimensional solution is presented.
+Redundancy analysis (RDA) using Canoco, was used to
+analyse the T-RFLP data after initial analysis by detrended
+correspondence analysis revealed that the data exhibited
+a linear, rather than a unimodal, response to ensilage
+variables (e.g. stage of ensiling, ensiling system, pH). The
+resulting ordination biplot approximated the weighted
+average of each species (i.e. relative abundance of each
+ribotype) with respect to each of the ensilage variables. A
+Monte Carlo permutation test based on 199 random
+permutations was used to test the null hypothesis that
+bacterial proﬁles were unrelated to ensilage variables.
+Results
+Conventional indices of silage fermentation
+Silage pH (P <0Æ05), propionic acid concentration
+(P <0Æ01) and WSC (P <0Æ01) were all lower, while lac-
+tic acid bacterial numbers were higher (P <0Æ01) in the
+Silage bacterial community dynamics J. McEniry et al.
+362 Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371
+ª 2008 The Authors
+precision-chop silage compared to the baled silage
+(Table 1). Herbage pH and WSC decreased (P <0Æ001),
+while the concentration of fermentation products and
+NH3-N all increased (P <0Æ001), over the course of fer-
+mentation in both ensiling systems. The greatest increase
+in lactic acid, acetic acid, propionic acid and ethanol
+occurred during the ﬁrst 2 days of ensilage. Butyric acid
+concentration was low, only increasing (P >0Æ05) towards
+the end of the sampling period.
+Stage of ensiling had a signiﬁcant effect on herbage
+microbial composition as determined by enumeration
+using culture-based approaches (Table 1). The numbers
+of lactic acid bacteria increased (P <0Æ001) rapidly in
+both systems after ensiling with the highest numbers
+observed on day 14 of ensiling, and then decreasing
+through to day 98. Enterobacteria numbers peaked on day
+2 and then declined (P <0Æ001) over the remainder of
+the sampling period, and were not detected on day 98
+of ensilage. Yeast numbers were also greatest on day 2 of
+ensiling before declining (P <0Æ001), but with numbers
+increasing again towards the end of the storage period.
+Numbers of Clostridia increased (P <0Æ01) at a low level
+from day 6 onward.
+The interaction of ensiling system and stage of ensiling
+had little signiﬁcant effect on the variables measured
+(Table 1). Lactic acid bacteria numbers peaked on day 14
+in precision-chop silage at a higher level (P <0Æ05) than
+in baled silage. Changes in propionic acid concentration,
+although statistically signiﬁcantly (P <0Æ05), were rela-
+tively minor as the concentration was relatively low
+(<2Æ5gkg)1 dry matter) in all silages.
+Molecular community analysis
+T-RFLP was used to investigate the dynamics of the
+microbial community during fermentation, and for each
+sample a proﬁle was obtained consisting of a range of
+TRFs present and their relative abundances. A total of 78
+distinct TRFs were detected after analyses of all samples.
+Fifty-three distinct TRFs were detected in the baled silages
+over the course of the fermentation compared to 73 for
+the precision-chop silages, with ﬁve TRFs unique to the
+baled silages and 25 TRFs unique to the precision-chop
+silages. However, total mean ribotype numbers did not
+vary markedly between ensiling systems over the
+course of the fermentation, ranging from 15Æ0±9Æ0to
+Table 1 Interactions between ensiling system and stage of ensiling – differences in silage pH, fermentation products (g kg)1 dry matter, unless
+otherwise stated), water-soluble carbohydrate concentration (g kg)1 dry matter) and microbial composition (log10 CFU g)1 herbage)
+Treatment
+pH
+Fermentation products
+WSC
+Microbial composition
+Ensiling system
+Stage of
+ensiling
+(days) LA AA Eth BA PA
+NH3-N
+(g kg)1 N) LAB Enterobacteria Clostridia Yeast
+BS 0 6Æ35 2 2 1 0Æ40Æ3 13 176 4Æ03Æ11Æ21Æ8
+BS 2 5Æ65 50 14 10 0Æ21Æ9 20 125 7Æ95Æ81Æ43Æ2
+BS 6 4Æ79 44 7 13 0Æ61Æ430 71 8Æ04Æ51Æ30
+BS 14 4Æ58 55 9 17 0Æ72Æ443 33 8Æ22Æ12Æ50Æ1
+BS 35 4Æ28 61 13 13 0Æ71Æ343 20 7Æ70Æ31Æ91Æ5
+BS 98 4Æ03 72 12 12 1Æ40Æ760 26 5Æ90 2Æ42Æ3
+PS 0 6Æ29 3 2 1 0Æ50Æ3 11 179 4Æ62Æ81Æ31Æ9
+PS 2 5Æ40 48 15 8 1Æ11Æ6 18 101 8Æ15Æ71Æ04Æ0
+PS 6 4Æ67 46 9 11 0 0Æ828 41 8Æ13Æ21Æ40Æ5
+PS 14 4Æ42 52 8 13 0Æ31Æ137 18 9Æ40Æ71Æ70Æ8
+PS 35 4Æ23 47 10 13 1Æ91Æ437 14 7Æ80Æ92Æ21Æ9
+PS 98 3Æ98 67 14 11 2Æ60Æ656 12 6Æ00 2Æ21Æ4
+SEM/C160
+0Æ065 5Æ11Æ31Æ50Æ71 0Æ22 5Æ16Æ90Æ18 0Æ56 0Æ34 0Æ29
+Levels of signiﬁcance
+Ensiling system * NS NS NS NS ** NS ** ** NS NS NS
+Stage of ensiling *** *** *** *** NS *** *** *** *** *** ** ***
+Ensiling system · stage
+of ensiling/C160
+NS NS NS NS NS * NS NS * NS NS NS
+BS, baled silage; PS, precision-chop silage; LA, lactic acid; AA, acetic acid; Eth, ethanol; BA, butyric acid; PA, propionic acid; NH3-N, ammonia-N;
+WSC, water-soluble carbohydrate; LAB, lactic acid bacteria; NS, not signiﬁcant.
+*P <0Æ05; **P <0Æ01; ***P <0Æ001. Note: plates containing >30 and <300 CFU were used to calculate microbial numbers. Replicates below
+detectable limits were taken as 0 and included in the calculations.
+/C160SEM relates to the interaction between ensiling system and stage of ensiling.
+J. McEniry et al. Silage bacterial community dynamics
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371 363
+20Æ3±13Æ7 for the baled and precision-chop silages at
+each time point, respectively.
+Changes in percentage relative abundance of the ﬁve
+most abundant ribotypes over the course of the fermenta-
+tion in baled and precision-chop silages are illustrated in
+Fig. 1a,b. Although, the top ﬁve most abundant TRFs dif-
+fered for each ensiling system, there were three TRFs
+common to both systems (TRF 554, TRF 71 and TRF
+493). In both systems, TRF 554 rapidly became the most
+abundant ribotype after ensiling, while in contrast TRF
+493 decreased in relative abundance. In baled silage, TRF
+577 also increased in relative abundance after ensiling,
+peaking on day 6, while an increase in abundance was
+observed for TRFs 71 and 72 to day 35 before a decrease
+occurred. In the precision-chop silage an increase in rela-
+tive abundance was observed for TRFs 71 and 580 to day
+35 followed by a decrease to day 98. Also between these
+two latter stages of ensiling, TRF 574 became the most
+abundant TRF in the precision-chop silage in contrast to
+TRF 554 for baled silage.
+An MDS ordination plot was used to compare and
+visualize gross differences in bacterial community struc-
+ture between ensiling systems over the course of the
+fermentation, for the top 20 most abundant TRFs which
+represented 89Æ6% of overall abundance (Fig. 2). Similar-
+ity between samples is presented as distance measures on
+an MDS ordination plot, so that ordinations are typically
+interpreted based on the distance between ordinate
+points. Thus, where sample points or treatments (e.g.
+triplicates for a particular silage sampling time) appear
+close together, these can be regarded as having a similar
+bacterial community composition. The stress value (0Æ11)
+indicated that the MDS ordination plot was a reliable
+spatial representation of the differences within the data.
+The largest difference in community composition typi-
+cally occurred between day 0 samples and those from day
+98. However, while the plot revealed a marked shift in
+community structure over the course of the fermentation
+(visualized as a left to right gradation across the plot),
+there was relatively little difference between the two
+ensiling systems. In both ensiling systems, community
+structure changed after ensiling (from day 0) as the
+fermentation progressed, remaining similar for days 2, 6,
+14 and 35 of ensilage, but with a ﬁnal shift in the
+community structure with extended storage to day 98.
+While MDS analysis gives a broad view of treatment
+effects on bacterial community composition, a further
+multivariate statistical approach was carried out in order
+to elucidate the effects of the main ensilage factors on
+community composition. As the top 20 most abundant
+TRFs accounted for the majority of the variance in the
+data set only these TRFs were used for subsequent anal-
+yses. Figure 3 shows a RDA ordination plot of the top
+20 most abundant TRFs in relation to ensiling system,
+stage of ensiling, the interaction between ensiling system
+(system) and stage of ensiling (stage), lactic and acetic
+acid concentrations, pH, NH3-N and WSC. Axes 1
+(P <0Æ01) and 2 were found to explain 35Æ3% and 6Æ6%
+of the overall variance within the TRF data, respectively,
+accounting for 42% of the total variance. The cumula-
+tive species–environment relation for axes 1 and 2 was
+85%, indicating that these axes accounted for the bulk
+of the variance in the TRF data that could be attributed
+to ensilage factors (e.g. stage of ensiling, ensiling system
+and pH). Species–environment correlations for both axes
+were above 0Æ68, indicating that the TRF data were
+strongly correlated with ensilage parameters. Canonical
+coefﬁcients and intraset correlations for the ensilage fac-
+tors for each axis indicated that axis 1 was primarily a
+Stage of ensiling (d) 
+Relative abundance (%) Relative abundance (%) 
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+35(a)
+(b)
+0 2 6 14 35 98 
+Stage of ensiling (d) 
+0 
+10 
+20 
+30 
+0 2 6 14 35 98 
+Figure 1 Changes in the relative abundance of the top ﬁve most
+abundant terminal restriction fragments (TRFs) over the course of the
+sampling period in baled and precision-chop silages. (a) Baled silage.
+( ) TRF 554; ( ) TRF 71; ( ) TRF 493; ( ) TRF 577; ( ) TRF 72. (b)
+Precision-chop silage. ( ) TRF 554; ( ) TRF 71; ( ) TRF 580; ( ) TRF
+493; ( ) TRF 574.
+Silage bacterial community dynamics J. McEniry et al.
+364 Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371
+ª 2008 The Authors
+lactic acid gradient and axis 2 a NH3-N gradient. Monte
+Carlo signiﬁcance tests indicated that both axes
+explained a signiﬁcant proportion (P <0Æ01) of the vari-
+ation in the data.
+In general on the RDA ordination plot, the direction of
+the arrows for individual ensilage factors indicates an
+increasing concentration of that factor and the magnitude
+of the arrows determines the relative importance of that
+factor or interaction. The position of the ribotypes in
+relation to the factor arrows indicates how a particular
+ribotype is inﬂuenced and correlates to a given ensilage
+factor ⁄ interaction. These data indicate that the stage of
+ensiling, the concentrations of lactic acid, WSC and NH3-
+N and pH all inﬂuenced microbial community structure.
+As an example, the position of TRFs 493 and 480, located
+in the same direction as the arrow for pH and in the
+opposite direction to the arrow for lactic acid concentra-
+tion, indicates that these fragments were negatively corre-
+lated with increasing lactic acid concentration and
+positively correlated with increasing pH. This indicates
+that these TRFs decrease in abundance over the course of
+the fermentation as lactic acid concentration increases
+and pH decreases. The ordination plot also suggests that
+two potentially different groups of putative lactic acid
+bacteria exist in the community. The larger group, repre-
+sented by TRFs 554 and 577, appear to be inﬂuenced
+strongly by all the ensilage factors as their positions are
+located away from these factors on the ordination plot.
+This may reﬂect changes in their relative abundances over
+the course of the fermentation in response to chemical
+changes. The second group, represented by TRFs 574 and
+584, are positively correlated with stage of ensiling reﬂect-
+ing their increase in abundance late in the ensilage period
+independently of other factors such as pH and lactic acid
+concentration.
+TRF data was analysed further by anova, which indi-
+cated the effect of the main factors (ensiling system, stage
+of ensiling) on speciﬁc individual ribotypes in the top 20
+most abundant TRFs across all samples (Table 2). TRF 554
+was the most abundant ribotype detected, followed by
+TRFs 71 and 493. These three ribotypes were present in the
+top ﬁve most abundant ribotypes detected in both ensiling
+systems. The stage of ensiling (and associated chemical
+changes) had the greatest signiﬁcant effect on the top 20
+TRFs, while the ensiling system had a signiﬁcant effect on
+only four of the top 20 TRFs (TRFs 580, 586, 581 and 75).
+TRFs 580 and 586 were more abundant (P <0Æ001) in the
+precision-chop silage, while the opposite was the case for
+TRFs 581 and 75. Stage of ensiling had a positive effect on
+TRFs 554, 71, 577, 574, 581 and 612 with the ribotype
+abundance increasing (P <0Æ001) after ensiling or at some
+stage during the fermentation. In contrast, one of the most
+abundant ribotypes, TRF 493, decreased (P <0Æ001) in
+abundance over the course of fermentation, as mentioned
+previously. Several trends indicated by the RDA ordination
+plot are supported by the anova results. For example, the
+stage of ensiling and associated chemical changes had a
+signiﬁcant positive effect on TRF 574 and a signiﬁcant
+negative effect on the abundance of TRF 493.
+TAP-TRFLP database and cloning
+The TAP-TRFLP database was used to assign putative
+phylogenetic identities based on TRF size after an in silico
+2D Stress: 0·11
+Figure 2 Multidimensional scaling (MDS)
+ordination diagram of terminal restriction fra-
+gment length polymorphism (T-RFLP) data
+(top 20 most abundant TRFs) on days 0 ( ), 2
+(
+ ), 6 (d), 14 (.), 35 (*) and 98 (r) of ensil-
+ing in baled (red symbols) and precision-chop
+(black symbols) silages. Gross similarity bet-
+ween the samples is represented as a function
+of the distance between the samples on the
+plot (i.e. similar sample communities are
+plotted closest together). Note: symbols may
+overlap if sample community composition is
+similar.
+J. McEniry et al. Silage bacterial community dynamics
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371 365
+digest with restriction enzyme MspI. The database sug-
+gested a number of possible identities for each TRF. TRF
+554 could possibly represent a group containing lactic
+acid bacteria species including Streptococcus sp., Lactoba-
+cillus sp., Leuconostoc sp. and also Bacilli sp. TRF 493 was
+a possible match for a larger group (132 possible identi-
+ties) containing mainly Enterobacteria sp. including
+Klebsiella sp., Escherichia sp. and Erwinia sp. TRFs 71 and
+72 were represented as mainly uncultured organisms in
+the database but did include Streptococcus sp., Enterococ-
+cus sp. and Clostridia sp. Other ribotypes from the top 10
+most abundant TRFs, including TRFs 577, 580, 574, 584
+and 581 could have possible matches with Lactobacillus
+sp. and Pediococcus sp., while TRF 586 was present as an
+uncultured organism.
+All the clones sequenced from days 2 and 6 of ensiling
+from the baled silage system belonged to the lactic acid
+bacteria group (Table 3). After 2 days ensiling, the most
+readily identiﬁed bacteria (>98% homology) included
+Leuconostoc mesenteroides, Leuc. carnosum, Lactobacillus
+sakei and uncultured Lactobacillus sp. with terminal frag-
+ments (based on a simulated digest using restriction
+enzyme MspI) of 555 and 612, 555, 578 and 578 bp,
+respectively. The Leuc. carnosum and Lact. sakei sequences
+were common to samples from day 2 and day 6 of ensil-
+ing. Further sequences, obtained from samples on day 6
+of ensiling, identiﬁed Lactobacillus graminis and another
+Leuc. mesenteroides strain with two terminal fragments of
+555 and 612 bp for the latter sequence and one fragment
+of 555 bp for the former.
+Discussion
+Conventional indices of silage fermentation
+A successful silage fermentation is a complex solid state
+process whereby a minority community of lactic acid bac-
+teria should become the predominant microbial ﬂora
+(Daeschel et al. 1987). The fermentation is not a fully
+controlled process under farm conditions and hence most
+components of a planned ensilage contribute to stacking
+the probabilities in favour of a lactic acid dominant
+fermentation (O’Kiely and Muck 1998). As conditions
+become favourable in the silo or bale, lactic acid bacteria
+become dominant and produce acid (mainly lactic acid)
+until the available sugar is exhausted or until the pH
+becomes unfavourable for further growth (Langston and
+Bouma 1960a; Pahlow et al. 2003).
+In the current experiment, a successful lactic acid dom-
+inant fermentation was achieved with both baled and pre-
+cision-chop silage systems. Silage fermentation proceeded
+rapidly in both ensiling systems once the herbage was
+ensiled, with the greatest increase in fermentation prod-
+ucts and consequently the greatest decrease in silage pH
+occurring by day 2 of ensilage. At this stage of ensiling, it
+is likely that anaerobic conditions prevailed in both the
+bales and laboratory silos, and that plant cells had lysed
+with the liberation of plant juices promoting the rapid
+development of lactic acid bacteria (Greenhill 1964; Seale
+et al. 1982). With the development of a lactic acid bacte-
+rial fermentation an increase in lactic and acetic acid
+concentrations, and a decrease in herbage WSC and pH.
+Epiphytic Enterobacteria and yeast species could also
+beneﬁt from the increase in readily available substrate
+after ensiling and this was indicated with their numbers
+peaking at day 2 of ensilage. However, the rapid develop-
+ment of lactic acid bacteria and the decreasing pH
+proved inhibitory to the activity of the latter undesirable
+–0·4 0·8
+–1·0
+1·0
+TRF554 
+TRF71 TRF493 
+TRF577 
+TRF72 
+TRF580 
+TRF574  TRF586 
+TRF584
+TRF581 TRF612 
+TRF75 
+TRF578 
+TRF561 TRF520 
+TRF500 
+TRF540 
+TRF480 
+TRF320 TRF420 
+Stage  
+System 
+pH 
+Lactic acid 
+NH3-N
+Acetic acid 
+WSC 
+Stage*System 
+Figure 3 Redundancy analysis (RDA) ordination diagram of terminal
+restriction fragment length polymorphism (T-RFLP) data, with explana-
+tory (e.g. ensiling system, lactic acid concentration) variables repre-
+sented as large arrows and TRFs as small triangles. TRFs are labelled
+according to fragment size (bp). TRFs representing lactic acid bacteria
+species, based on putative identiﬁcation using the TAP-TRFLP data-
+base, are presented in red. Stage, stage of ensiling; system, ensiling
+system; WSC, water-soluble carbohydrate concentration; NH3-N,
+ammonia–N concentration.
+Silage bacterial community dynamics J. McEniry et al.
+366 Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371
+ª 2008 The Authors
+micro-organisms (McDonald et al. 1991). The slight
+increase in the numbers of yeast and Clostridia towards
+the end of the storage period, accompanied by a slight
+increase in butyric acid concentration could be a result of
+these micro-organisms taking advantage of the decline in
+the activity of the dominant lactic acid bacteria.
+While on average, the pH and WSC were lower and
+lactic acid bacteria numbers were higher in the precision-
+chop silage compared to the baled silage, little signiﬁcant
+difference was observed in the fermentation variables
+measured. Overall in both systems, the relative concentra-
+tions of lactic and acetic acids, the low pH, the low
+concentration of butyric acid and the restriction in the
+breakdown of protein to NH3-N were indicative of a
+satisfactory preservation, using the thresholds described
+by Haigh and Parker (1985). Furthermore, the changes in
+lactic acid bacteria numbers and the rate of decline of
+Enterobacteria, often an indicator of an effective ensilage,
+were suggestive of a successful fermentation (Lindgren
+1991; Fenlon and Wilson 1996).
+Molecular community analyses
+Substantial changes in bacterial community structure
+occurred during ensilage as the micro-organisms respon-
+sible for fermentation became dominant. Numerous stud-
+ies have investigated the changes in bacterial composition,
+using traditional culturing methods (Keddie 1959; Lang-
+ston and Bouma 1960a,b; Gibson 1965; Ostling and
+Lindgren 1995) and described a general change in the
+Table 2 ANOVA results for the top 20 terminal
+restriction fragments (TRFs) in the T-RFLP
+data, as ranked by abundance
+TRF size
+(bp)
+Abundance
+rank % Abundance
+Cumulative %
+abundance
+P-values
+Ensiling
+system
+Stage of
+ensiling
+Ensiling
+system · stage
+of ensiling
+554 1 29Æ329Æ30Æ952 <0Æ001+ 0Æ536
+71 2 11Æ640Æ90Æ145 <0Æ001+ 0Æ420
+493 3 8Æ649Æ50Æ524 0Æ002) 0Æ968
+577 4 6Æ355Æ80Æ242 <0Æ001+ 0Æ144
+72 5 5Æ761Æ40Æ286 <0Æ001 0Æ021
+580 6 5Æ566Æ90Æ006+PS <0Æ001) <0Æ001
+574 7 5Æ272Æ10Æ508 <0Æ001+ 0Æ808
+586 8 3Æ375Æ4 <0Æ001+PS <0Æ001 <0Æ001
+584 9 3Æ178Æ50Æ485 <0Æ001 0Æ770
+581 10 2Æ380Æ8 <0Æ001+BS <0Æ001+ <0Æ001
+612 11 1Æ882Æ60Æ276 <0Æ001+ 0Æ474
+75 12 1Æ383Æ90Æ011+BS 0Æ007) 0Æ239
+578 13 1Æ185Æ00Æ166 0Æ109 0Æ109
+561 14 0Æ985Æ90Æ903 <0Æ001) 0Æ510
+520 15 0Æ786Æ60Æ781 <0Æ001) 0Æ457
+500 16 0Æ687Æ20Æ987 <0Æ001) 0Æ531
+540 17 0Æ687Æ80Æ340 <0Æ001) 0Æ217
+480 18 0Æ688Æ40Æ561 <0Æ001) 0Æ306
+320 19 0Æ689Æ00Æ327 0Æ020 0Æ004
+420 20 0Æ689Æ60Æ369 0Æ477 0Æ450
+Bold indicates a signiﬁcant effect (P <0Æ001); +, positive effect on TRF abundance; ), negative
+effect on TRF abundance; PS, precision-chop silage; BS, baled silage.
+Table 3 Identities of clones obtained by
+sequencing and BLAST analysis from day 2
+and day 6 baled silages
+Stage of
+ensiling
+(days) Closest relative (accession number)
+% Similarity to
+closest relative
+Terminal fragment
+size (bp) after simulated
+digest (MspI)
+2 Leuconostoc mesenteroides (CP000414Æ1) 99 555, 612
+2, 6 Leuconostoc carnosum (AB022925Æ1) 98 555
+2, 6 Lactobacillus sakei (CR936503Æ1) 99 578
+2 Lactobacillus sp. (FF590122Æ1) 99 578
+6 Lactobacillus graminus (AM113778Æ1) 99 555, 612
+6 Leuconostoc mesenteroides (EF068254Æ1) 99 555
+J. McEniry et al. Silage bacterial community dynamics
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371 367
+dominant species over the course of the fermentation.
+Langston et al. (1962) found that Streptococcus sp., Leuco-
+nostoc sp. and Gram-negative bacteria are prominent in
+the early stages of ensiling. Silages undergoing a desirable
+fermentation then generally demonstrate a typical
+sequence in that the latter groups give way to homofer-
+mentative Lactobacilli and Pediococci sp. Heterofermenta-
+tive acid-tolerant Lactobacilli sp. ﬁnally dominate under
+low pH conditions (Seale 1986). However, traditional cul-
+ture-based methods can prove laborious, time-consuming
+and they need to be performed shortly after sampling
+(Rademaker et al. 2006). Of greater importance is the fact
+that these methods generally only enumerate a small
+proportion of total micro-organisms (relative to some
+molecular techniques), with the consequent risk of the
+micro-organisms identiﬁed not being representative of the
+total bacterial population (Giraffa and Neviani 2001).
+This inability to cultivate more than 90% of the members
+of many communities shows the need for culture-inde-
+pendent analysis (Hugenholtz et al. 1998).
+Although some molecular-based methods have been
+applied to study different aspects of the ensilage process,
+to the best of the author’s knowledge, the current study is
+one of the ﬁrst applications of a sophisticated molecular
+community approach to study bacterial community
+dynamics during a grass silage fermentation. This study
+has demonstrated that it is possible to follow the changes
+in bacterial community composition over the course of
+the fermentation using culture-independent T-RFLP.
+Apart from monitoring the presence or absence of mem-
+bers of the population, shifts in the relative presence of
+members at different time points during ensiling could be
+followed (Osborn et al. 2000). T-RFLP is a rapid and
+sensitive method ideal for characterization and compari-
+son of microbial community structure, and has a number
+of advantages over other techniques including high
+resolution, a digital output and the ability to reference a
+database allowing tentative identiﬁcation (Marsh 1999;
+Rademaker et al. 2005).
+The substantial change in bacterial community compo-
+sition during ensiling was evident on the MDS ordination
+plot, with a left-to-right gradation across the plot regard-
+less of ensiling system. This coincided with the develop-
+ment of the lactic acid bacterial population once
+anaerobic conditions were established and substrate
+became available, resulting in changes in pH, fermenta-
+tion products and WSC. These vast changes in the envi-
+ronment within the silos and bales probably resulted in
+the inhibition of undesirable aerobic and anaerobic
+micro-organisms with all these factors contributing to
+determining community composition. With extended
+storage (day 98), a ﬁnal shift in community structure
+was observed corresponding to the end of the primary
+fermentation and a decline in the numbers of the micro-
+organisms responsible for that fermentation under acidic
+conditions.
+A total of 78 distinct TRFs were detected across all
+herbage samples, with TRF 554 representing 29Æ3% of the
+abundance. These results were further supported by a
+total of 58 distinct TRFs being detected for the same
+samples when restriction endonuclease HhaI was used to
+generate a T-RFLP proﬁle (data not shown). Within the
+HhaI T-RFLP proﬁle the dominant fragment represented
+28Æ6% of the total abundance. In general, T-RFLP data
+reﬂected the changes in microbial numbers, measured by
+plate counting, during ensiling. As numbers of lactic acid
+bacteria increased rapidly after ensiling so too did the
+relative abundance of TRF 554, and to a lesser extent
+TRFs 577, 581, 580 and 586 (all putatively identiﬁed as
+lactic acid bacteria). The numbers of lactic acid bacteria,
+as measured by the standard plate count, peaked on day
+14 of ensiling and then gradually declined under acidic
+conditions, and this was generally reﬂected in the changes
+in the relative abundance of TRF 554, in particular. It is
+possible that the most abundant TRF (TRF 554) could
+represent a number of related lactic acid bacteria species,
+with the species clustering due to the same restriction site
+(Buchan et al. 2003). The decline in Enterobacteria num-
+bers with decreasing pH could also be reﬂected in the
+decrease in the abundance of TRF 493. TRF 493 was the
+dominant ribotype at the onset of ensiling but declined
+over the course of the fermentation and was not detected
+after 98 days. In addition, some TRFs such as TRF 574
+and 584 only appeared late in the storage period when
+acid conditions prevailed and possibly reﬂects the consen-
+sus that acid-tolerant Lactobacilli sp. ﬁnally dominate
+under low pH conditions (Seale 1986). This is in agree-
+ment with Rademaker et al. (2006) who reported that
+T-RFLP analysis of yoghurt was partly supported by plate
+counting. Cocolin et al. (2000) also reported an excellent
+agreement between plating data and the presence or
+absence of a cognate DGGE band when proﬁling yeast
+dynamics in wine fermentations.
+The general changes in T-RFLP proﬁles were reﬂected
+in the cloning data where the bacteria identiﬁed from day
+2 and day 6 of ensilage had terminal fragments of 555,
+576, 578 and 612 bp, respectively. The distribution of
+strains of Lactobacillus sp. and Leuconostoc sp., identiﬁed
+by sequencing, in fermenting plant material has been
+well-documented (Daeschel et al. 1987; Pahlow et al.
+2003). The presence of Leuconostoc sp. in the early stages
+of ensilage was previously reported by Langston et al.
+(1962). Furthermore, Ennahar et al. (2003) reported that
+most of the lactic acid bacteria characterized from paddy
+rice silage belonged to the genera Lactobacillus, Lactococ-
+cus and Leuconostoc. While this study presents a broad
+Silage bacterial community dynamics J. McEniry et al.
+368 Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371
+ª 2008 The Authors
+picture of bacterial community changes during ensiling,
+additional research may involve the application of more
+species-speciﬁc molecular techniques.
+Although T-RFLP has great potential in microbial com-
+munity analysis, as with any community ﬁngerprinting
+method problems exist in the introduction of experimen-
+tal biases and the interpretation of the complex data
+generated. Community ﬁngerprints generated from this
+method must be interpreted with caution, because of
+species differences in rRNA gene copy number, biases
+resulting from extraction and PCR ampliﬁcation, and the
+difﬁculty in standardizing the amount of DNA analysed
+in each replicate (Crosby and Criddle 2003; Egert and
+Friedrich 2003). However, as all samples in this study
+were subject to the same biases throughout all experi-
+mental procedures it is still possible to compare between
+samples on a relative basis. Furthermore, data generated
+in this study were analysed and interpreted using a
+number of robust multivariate approaches to explore the
+relationship between community structure and ensilage
+parameters.
+While RDA revealed that no one environmental ⁄ ensi-
+lage factor alone inﬂuenced the bacterial community,
+stage of ensiling (based on anova) appeared to be the
+dominant factor affecting bacterial community structure.
+This is probably because, overall, it represents the signiﬁ-
+cant chemical changes occurring in the silo during
+fermentation. Numerous TRFs were negatively correlated
+with increasing lactic acid concentration and decreasing
+pH, perhaps being indicative of the decrease in acid sensi-
+tive, undesirable aerobic and anaerobic micro-organisms,
+with the development of lactic acid bacteria. For example,
+TRFs 493, 480, 500 and 520 were all negatively correlated
+with increasing lactic acid concentration and decreasing
+pH. In contrast, TRFs 574, 586 and 584 were all positively
+correlated with stage of ensiling, with their abundances
+generally increasing as the ensilage progressed, reﬂecting
+the changes in the microbial community in response to
+chemical changes in the environment in the silo or bale.
+With the exception of four TRFs (TRF 580, 586, 581
+and 75), ensiling system had little effect on the overall
+community composition, although small differences in
+the most abundant fragments were detected. TRF 493 was
+more abundant in the baled silage system and TRF 574
+became the dominant TRF after 98 days ensilage in the
+precision-chop silage. Tentatively, taking TRF 493 to
+represent Enterobacteria sp., this is in accord with
+McEniry et al. (2007) who reported that the decrease in
+Enterobacteria numbers in baled silage is slower than that
+in precision-chop silage. The dominance of TRF 574 at
+the end of ensilage could agree with Seale (1986) who
+suggested that heterofermentative acid-tolerant Lacto-
+bacilli sp. dominate the ﬁnal stages of ensiling.
+In this experiment, good quality silages were produced
+under controlled conditions and little difference in silage
+quality and microbial composition were observed between
+ensilage systems. T-RFLP proved a potentially useful tool
+to study the ensilage process and for following the
+dynamics of bacterial community changes over the course
+of the fermentation, and generally agreed with ﬁndings
+from conventional analyses. In such a copiotrophic envi-
+ronment, where a restricted group of micro-organisms
+are responsible for community changes, it is possible that
+culture-based approaches are adequate tools to study the
+changes in microbial composition. However, the use of
+culture-independent approaches could potentially result
+in the analysis of a greater extent of the community (e.g.
+uncultured Lactobacillus sp. were detected by cloning).
+Allied to this the range of methods available and the abil-
+ity to target different microbial groups using speciﬁc
+primers, shows the great potential of DNA-based methods
+in the analysis of complex microbial systems. Further-
+more, a signiﬁcant beneﬁt of the T-RFLP method is that
+an overview of the whole bacterial population can be
+obtained in one assay. As a result, T-RFLP offers a new
+method to study the ensilage process and offers a viable
+alternative to culture-dependent methods.
+Acknowledgements
+The authors thank Mr J. Hamill for his technical assis-
+tance, Grange farm staff (especially Mr J. Lynch for assis-
+tance in silage making, storing and sampling) and the
+staff of Grange laboratories who undertook some of the
+chemical assays. We also acknowledge valuable discus-
+sions with Deirdre Rooney. A Teagasc Walsh Fellowship
+Research Scholarship awarded to J. McEniry supported
+this study.
+References
+Ampe, F., Ben Omar, N., Moizan, C., Wacher, C. and Guyot,
+J.P. (1999) Polyphasic study of the spatial distribution of
+microorganisms in Mexican pozol, a fermented maize
+dough, demonstrates the need for cultivation-independent
+methods to investigate traditional fermentations. Appl
+Environ Microbiol 65, 5464–5473.
+Brodie, E., Edwards, S. and Clipson, N. (2002) Bacterial com-
+munity dynamics across a ﬂoristic gradient in a temperate
+upland grassland ecosystem. Microb Ecol 44, 260–270.
+Brusetti, L., Borin, S., Mora, D., Rizzi, A., Raddadi, N., Sorlini,
+C. and Daffonchio, D. (2006) Usefulness of length hetero-
+geneity-PCR for monitoring lactic acid bacteria succession
+during maize ensiling. FEMS Microbiol Ecol 56, 154–164.
+Buchan, A., Newell, S.Y., Butler, M., Biers, E.J., Hollibaugh,
+J.T. and Moran, M.A. (2003) Dynamics of bacterial and
+J. McEniry et al. Silage bacterial community dynamics
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371 369
+fungal communities on decaying salt marsh grass. Appl
+Environ Microbiol 69, 6676–6687.
+Cocolin, L., Bisson, L.F. and Mills, D.A. (2000) Direct proﬁling
+of the yeast dynamics in wine fermentations. FEMS Micro-
+biol Lett 189, 81–87.
+Crosby, L.D. and Criddle, C.S. (2003) Understanding bias in
+microbial community analysis techniques due to rrn
+operon copy number heterogeneity. Biotechniques 34, 790–
+794.
+Daeschel, M.A., Andersson, R.E. and Fleming, H.P. (1987)
+Microbial ecology of fermenting plant materials. FEMS
+Microbiol Rev 46, 357–367.
+Dunbar, J., Ticknor, L.O. and Kuske, C.R. (2001) Phylogenetic
+speciﬁcity and reproducibility and new method for analysis
+of terminal restriction fragment proﬁles of 16S rRNA
+genes from bacterial communities. Appl Environ Microbiol
+67, 190–197.
+Egert, M. and Friedrich, M.W. (2003) Formation of pseudo-
+terminal restriction fragments, a PCR-related bias affecting
+terminal restriction fragment length polymorphism analysis
+of microbial community structure. Appl Environ Microbiol
+69, 2555–2562.
+Ennahar, S., Cai, Y. and Fujita, Y. (2003) Phylogenetic diver-
+sity of lactic acid bacteria associated with paddy rice silage
+as determined by 16S ribosomal DNA analysis. Appl Envi-
+ron Microbiol 69, 444–451.
+Fenlon, D.R. and Wilson, J. (1996) Enterobacteria as indicators
+of poor fermentation and Listeria contamination of silage.
+In Proceedings of the XIth International Silage Conference
+ed. Jones, D.I.H., Jones, R., Dewhurst, R., Merry, R. and
+Haigh, P.M. pp. 102–104. Aberystwyth, Wales: IGER.
+Fernandez, A.S., Hashsham, S.A., Dollhopf, S.L., Raskin, L.,
+Glagoleva, O., Dazzo, F.B., Hickey, R.F., Criddle, C.S. et al.
+(2000) Flexible community structure correlates with stable
+community function in methanogenic bioreactor commu-
+nities perturbed by glucose. Appl Environ Microbiol 66,
+4058–4067.
+Fychan, R., Fraser, M.D. and Jones, R. (2002) Effect of ensiling
+method on the quality of red clover and lucerne silage. In
+Proceedings of the XIIIth International Silage Conference ed.
+Gechie, L.M. and Thomas, C. pp. 104–105. Ayr, Scotland:
+Scottish Agricultural College (SAC).
+Gibson, T. (1965) Clostridia in silage. J Appl Bacteriol 28, 56–
+62.
+Giraffa, G. and Neviani, E. (2001) DNA-based, culture-inde-
+pendent strategies for evaluating microbial communities
+in food-associated ecosystems. Int J Food Microbiol 67,
+19–34.
+Greenhill, W.L. (1964) Plant juices in relation to silage fermen-
+tation. III. Effect of water activity of juice. J Br Grassl Soc
+19, 336–339.
+Haigh, P.M. and Parker, J.W.G. (1985) Effects of silage addi-
+tives and wilting on silage fermentation, digestibility and
+intake, and on liveweight change of young cattle. Grass
+Forage Sci 40, 429–436.
+Hugenholtz, P., Goebel, B.M. and Pace, N.R. (1998) Impact of
+culture-independent studies on the emerging phylogenetic
+view of bacterial diversity. Am Soc Microbiol 180, 4765–
+4774.
+Keddie, R.M. (1959) The properties and classiﬁcation of Lacto-
+bacilli isolated from grass and silage. J Appl Bacteriol 22,
+403–416.
+Kennedy, N., Brodie, E., Connolly, J. and Clipson, N. (2004)
+Impact of lime, nitrogen and plant species on bacterial
+community structure in grassland microcosms. Environ
+Microbiol 6, 1070–1080.
+Kruskal, J.B. (1964) Multidimensional scaling by optimizing
+goodness of ﬁt to a non-metric hypothesis. Psychometrika
+29, 1–27.
+Lane, D.J. (1991) 16S ⁄ 23S rRNA sequencing. In Nucleic Acid
+Techniques in Bacterial Systematics ed. Stackebrandt, E. and
+Goodfellow, M. pp. 115–175. Chichester, UK: John Wiley
+& Sons.
+Langston, C.W. and Bouma, C. (1960a) A study of the micro-
+organisms from grass silage. I. The Cocci. Appl Microbiol
+8, 212–222.
+Langston, C.W. and Bouma, C. (1960b) A study of the micro-
+organisms from grass silage. II. The Lactobacilli. Appl
+Microbiol 8, 223–234.
+Langston, C.W., Bouma, C. and Connor, R.M. (1962) Chemi-
+cal and bacteriological changes in grass silage during the
+early stages of fermentation. II. Bacteriological changes.
+J Dairy Sci 45, 618–624.
+Lindgren, S. (1991) Microbial dynamics during silage fermen-
+tation. In Grass and Forage Reports (Proceedings of the
+Eurobac Conference 1986) pp. 135–145. ed. Lindgren, S.
+and Pettersson, K.L. Uppsala, Sweden: Swedish University
+of Agricultural Sciences.
+Liu, W.T., Marsh, T.L., Cheng, H. and Forney, L.J. (1997)
+Characterization of microbial diversity by determining ter-
+minal restriction fragment length polymorphisms of genes
+encoding 16s rRNA. Appl Environ Microbiol 63, 4516–4522.
+Marsh, T.L. (1999) Terminal restriction fragment length poly-
+morphism (T-RFLP): an emerging method for characteriz-
+ing diversity among homologous populations of
+ampliﬁcation products. Curr Opin Microbiol 2, 323–327.
+May, L.A., Smiley, B. and Schmidt, M.G. (2001) Comparative
+denaturing gradient gel electrophoresis analysis of fungal
+communities associated with whole plant corn silage. Can
+J Microbiol 47, 829–844.
+McDonald, P., Henderson, N. and Heron, S. (1991) The Bio-
+chemistry of Silage. Marlow, Bucks, UK: Chalchombe
+Publications.
+McEniry, J., O’Kiely, P., Clipson, N.J.W., Forristal, P.D. and
+Doyle, E.M. (2006) The microbiological and chemical
+composition of baled and precision-chop silages on a
+sample of farms in County Meath. Ir J Agric Food Res 45,
+73–83.
+McEniry, J., O’Kiely, P., Clipson, N.J.W., Forristal, P.D. and
+Doyle, E. (2007) The relative impacts of wilting, chopping,
+Silage bacterial community dynamics J. McEniry et al.
+370 Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371
+ª 2008 The Authors
+compaction and air inﬁltration on the conservation char-
+acteristics of ensiled grass. Grass Forage Sci 62, 470–484.
+Moeseneder, M., Arrieta, J.M., Muyzer, G., Winter, C. and
+Herndl, G.J. (1999) Optimization of terminal-restriction
+fragment length polymorphism analysis for complex mar-
+ine bacterioplankton communities and comparison with
+denaturing gradient gel electrophoresis. Appl Environ
+Microbiol 65, 3518–3525.
+O’Brien, M., O’Kiely, P., Forristal, P.D. and Fuller, H.T.
+(2005) Fungi isolated from contaminated baled grass silage
+on farms in the Irish midlands. FEMS Microbiol Lett 247,
+131–135.
+O’Kiely, P. and Muck, R.E. (1998) Grass silage. In Grass for
+Dairy Cattle ed. Cherney, J.H. and Cherney, D.J.R. pp.
+223–251. Wallingford, UK: CAB International Publishing.
+O’Kiely, P. and Wilson, R.K. (1991) Comparison of three silo
+types used to study in-silo processes. Ir J Agric Res 30, 53–
+60.
+O’Kiely, P., McNamara, K., Forristal, P.D. and Lenehan, J.J.
+(2000) Grass silage in Ireland. Farm Food 10, 33–38.
+Ohlsson, C. (1998) Grass baleage. In Grass for Dairy Cattle ed.
+Cherney, J.H. and Cherney, D.J.R. pp. 253–282. Oxford-
+shire, UK: CAB International Publishing.
+Osborn, A.M., Moore, E.R.B. and Timmis, K.N. (2000) An
+evaluation of terminal-restriction fragment length poly-
+morphism (T-RFLP) analysis for the study of microbial
+community structure and dynamics. Environ Microbiol 2,
+39–50.
+Ostling, C. and Lindgren, S. (1995) Inﬂuence of Enterobacteria
+on the fermentation and aerobic stability of grass silage.
+Grass Forage Sci 50, 41–47.
+Pahlow, G., Muck, R.E., Driehuis, F., Oude Elferink, S.J.W.H.
+and Spoelstra, S.F. (2003) Microbiology of ensiling. In
+Silage Science and Technology (Agronomy Series No. 42) ed.
+Buxton, D.R., Muck, R.E. and Harrison, J.H. pp. 31–93.
+Madison, WI: American Society of Agronomy.
+Pitt, R.E., Muck, R.E. and Leibensperger, R.Y. (1985) A quan-
+titative model of the ensilage process in lactate silages.
+Grass Forage Sci 40, 279–303.
+Rademaker, J.L.W., Driehuis, F., Tegiffel, M.C., Vanwikselaar,
+P.G. and Becker, P.M. (2002) Measurement of microbial
+population dynamics of silages by T-RFLP DNA ﬁnger-
+prints. In Proceedings of the XIIIth International Silage
+Conference ed. Gechie, L.M. and Thomas, C. pp. 376–377.
+Ayr, Scotland: The Scottish Agricultural College (SAC).
+Rademaker, J.L.W., Peinhopf, M., Rijnen, L., Bockelmann, W.
+and Noordman, W.H. (2005) The surface microﬂora
+dynamics of bacterial smear-ripened Tilsit cheese deter-
+mined by T-RFLP DNA population ﬁngerprint analysis.
+Int Dairy J 15, 785–794.
+Rademaker, J.L.W., Hoolwerf, J.D., Wagendorp, A.A. and
+Tegiffel, M.C. (2006) Assessment of microbial population
+dynamics during yoghurt and hard cheese fermentation
+and ripening by DNA population ﬁngerprinting. Int Dairy
+J 16, 457–466.
+Ranjard, L., Poly, F. and Nazaret, S. (2000) Monitoring com-
+plex bacterial communities using culture-independent
+molecular techniques: application to the soil environment.
+Res Microbiol 151, 167–177.
+Rooney, D., Kennedy, N., Deering, L., Gleeson, D. and Clip-
+son, N. (2006) Effect of sheep urine deposition on the bac-
+terial community structure in an acidic upland grassland
+soil. Appl Environ Microbiol 72, 7231–7237.
+SAS (2000) SAS Version 8.02. Cary, NC: SAS Institute Inc.
+Seale, D.R. (1986) Bacterial inoculants as silage additives.
+J Appl Bacteriol 61(Suppl.), 9s–26s.
+Seale, D.R., Quinn, C.M., Whittaker, P.A. and Wilson, R.K.
+(1982) Microbiological and chemical changes during the
+ensilage of long, chopped and minced grass. Ir J Agric Res
+21, 147–158.
+Whittenbury, R. (1968) Microbiology of grass silage. Process
+Biochem 3, 27–31.
+Wilkinson, J.M. (2005) Silage. Lincoln, UK: Chalchombe Pub-
+lications.
+Yang, H.Y., Wang, X.F., Liu, J.B., Gao, L.J., Ishii, M., Igarashi,
+Y. and Cui, Z.J. (2006) Effects of water-soluble carbo-
+hydrate content on silage fermentation of wheat straw.
+J Biosci Bioeng 101, 232–237.
+J. McEniry et al. Silage bacterial community dynamics
+ª 2008 The Authors
+Journal compilation ª 2008 The Society for Applied Microbiology, Journal of Applied Microbiology 105 (2008) 359–371 371

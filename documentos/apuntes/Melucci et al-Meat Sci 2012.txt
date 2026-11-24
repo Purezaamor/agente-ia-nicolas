@@ -1,0 +1,775 @@
+=== Fuente: Melucci et al-Meat Sci 2012.pdf ===
+
+Genetic and management factors affecting beef quality in grazing Hereford steers
+L.M. Melucci a, e, M. Panarace b, P. Feula b, E.L. Villarreal a, G. Grigioni c, F. Carduza c, L.A. Soria d,
+C.A. Mezzadra a, M.E. Arceo d, J. Papaleo Mazzucco a, P.M. Corva e, M. Irurueta c,
+A. Rogberg-Muñoz f, M.C. Miquel d,⁎
+a Área de Investigación en Producción Animal, Estación Experimental Agropecuaria Balcarce, Instituto Nacional de Tecnología Agropecuaria, Ruta Nac. 226 km 73.5, (7620) Balcarce,
+Buenos Aires, Argentina
+b Biotechnology Area, Goyaike S.A.A.C.I Y F., Dra Martha C. Velazco 2150, (1625) Escobar, Buenos Aires, Argentina
+c Instituto Tecnología de Alimentos, Centro de Investigación de Agroindustria, Instituto Nacional de Tecnología Agropecuaria, CC 77 (B1708WAB) Morón, Buenos Aires, Argentina
+d Área Genética, Facultad de Ciencias Veterinarias, Universidad de Buenos Aires, Av. Chorroarín 280, (C1427CWO) Ciudad de Buenos Aires, Argentina
+e Departamento de Producción Animal, Facultad de Ciencias Agrarias, Universidad Nacional de Mar del Plata, Ruta Nac. 226 km 73.5, (7620) Balcarce, Buenos Aires, Argentina
+f Instituto de Genética Veterinaria (IGEVET) CCT La Plata, Facultad Cs. Veterinarias, Universidad Nacional de La Plata, Avenida 60 y 118 s/n, La Plata, Buenos Aires, Argentina
+abstractarticle info
+Article history:
+Received 12 October 2011
+Received in revised form 22 June 2012
+Accepted 25 June 2012
+Keywords:
+Grazing
+Steers
+Growth
+Beef quality
+Molecular markers
+Attributes contributing to differences in beef quality of 206 Hereford steers ﬁnished on pasture were
+assessed. Beef quality traits evaluated were: Warner–Bratzler meat tenderness and muscle and fat color at
+one and seven days after slaughter and trained sensory panel traits (tenderness, juiciness, ﬂavor, and
+marbling) at seven days. Molecular markers were CAPN1 316 and an SNP in exon 2 on the leptin gene
+(E2FB). Average daily live weight gain, ultrasound monthly backfat thickness gain and rib-eye area gain
+were estimated. Molecular markers effects on meat quality traits were analyzed by mixed models. Association
+of meat quality with post weaning growth traits was analyzed by canonical correlations. Muscle color and
+marbling were affected by CAPN1 316 and E2FB and Warner–Bratzler meat tenderness by the former. The
+results conﬁrm that marker assisted selection for tenderness is advisable only when beef aging is a common
+practice. The most important sources of variation in tenderness and color of meat remained unaccounted
+for.
+© 2012 Elsevier Ltd. All rights reserved.
+1. Introduction
+One of the objectives of beef producers is to offer a product that
+fulﬁlls the requirement of high quality by consumers. There are several
+factors affecting the ﬁnal quality of beef. Genetic variation in quality
+attributes, among and within breeds, has been well documented
+(Marshall, 1999). Aside from the genetic background of the animals
+other non genetic factors, especially feeding regime, highly inﬂuence
+meat quality. Pre-slaughter handling and slaughter and processing
+procedures (Belk, Scanga, Smith, & Grandin, 2002)alsoplayavery
+important role in deﬁning the ﬁnal quality of carcasses. Most reported
+experiments evaluating the effect of these factors on meat quality
+apply to feedlot cattle (Eilers, Tatum, Morgan, & Smith, 1996; Jiang et
+al., 2010; Monsón, Sañudo, & Sierra, 2005; Wheeler, Savell, Cross,
+Lunt, & Smith, 1990). However, there could be a differential response
+of beef quality traits to those same factors in more extensive systems.
+A good example are grazing systems, which are recognized for produc-
+ing beef with less fat and with beneﬁcial properties for human health,
+when compared to more intensive production systems (Wood et al.,
+2003).
+Beef color and marbling mostly deﬁne the preferences of beef buyers.
+Meat color, including fat color, is usually associated with freshness and
+quality, but it has also been associated with tenderness (Wulf, O'Connor,
+Tatum, & Smith, 1997). Furthermore, color could be the main single factor
+used by consumers to determine whether they will purchase a meat cut
+(Kropf, 1980). On the other hand, tenderness, juiciness, connective tissue
+content and ﬂavor of meat are quality attributes evaluated at the time of
+consumption which is between 1 and 5 days after slaughter in Argentina.
+Even though being subjective sensations, sensory panels and objective
+measurements provide objective information to establish the inﬂuence
+of the different factors. According to Caine, Aalhus, Best, Dugan, and
+Jeremiah (2003), the mean correlations of WBSF with sensory assessment
+of beef tenderness are in the range of −0.75 to −0.77, but the variability
+acrossexperimentsishigh.
+The discovery of molecular markers, accounting for a signiﬁcant
+proportion of additive genetic variance in economic traits, provided
+an additional tool to animal breeders. Traits like tenderness and
+meat color, which are difﬁcult to measure under commercial condi-
+tions or previous to slaughter, have become of special interest for
+researchers due to the possibility of identifying molecular markers
+that would be used as an aid to selection (Van der Werf & Kinghorn,
+1999). In live animals, calpains participate in the protein breakdown,
+and after slaughter are responsible for the maturation process. Single
+Meat Science 92 (2012) 768–774
+⁎ Corresponding author. Tel.: +54 11 4831 6610.
+E-mail address: clsaubidet@ﬁbertel.com.ar (M.C. Miquel).
+0309-1740/$ – see front matter © 2012 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.meatsci.2012.06.036
+Contents lists available at SciVerse ScienceDirect
+Meat Science
+journal homepage: www.elsevier.com/locate/meatsci
+nucleotide polymorphisms (SNPs) on the μ-calpain gene (CAPN1)
+have been associated with meat tenderness (Page et al., 2004), but
+also with different growth traits (Miquel et al., 2009). Leptin is in-
+volved in the regulation of energy balance. Plasma concentration
+and molecular markers on the gene have also been associated with
+several growth and carcass traits that could have an inﬂuence on
+beef quality (Altmann & Von Borell, 2007; Schenkel et al., 2005).
+However, Johnston and Graser (2010) observed that markers should
+be evaluated in the populations that they are intended to be used.
+The objective of this research was to identify attributes of the animal
+that contribute to differences in beef quality for Hereford cattle ﬁn-
+ished on pastures.
+2. Materials and methods
+2.1. Animals and phenotypic information
+Animal handling and experimental procedures were in accordance
+with the Handbook of Procedures for Animal Welfare of the National Ser-
+vice of Animal Health (Servicio Nacional de Sanidad Animal, SENASA) of
+Argentina. The study was conducted on 206 Hereford steers that were fat-
+tened on perennial, fertilized pastures. The experiment started in April,
+2006 when the steers were 8 to 10 months old, and it ended in October,
+2008. All the steers were kept and fed in the same ﬁeld throughout the
+whole period of the trial. Pasture was a mix of different types of legumes
+and grasses, including alfalfa, white clover, perennial ray grass, fescue and
+orchard grass. The steers were weighed monthly, and scanned by
+utrasound for backfat thickness and rib-eye area over the 12th–13th
+rib interval, every 3 months. The experiment was planned in order to
+slaughter the steers by the end of fall (June) 2008, with at least 6 mm
+of backfat thickness. Several unexpected complications, including a se-
+vere drought, made it impossible to reach that target end point. There-
+fore, from May 2008 on the frequency of ultrasound measurements was
+increased (monthly) in order to slaughter steers as soon as they reached
+the speciﬁed backfat thickness. By October 2008 it was decided to ﬁnish
+the experiment, sending to slaughter only those steers with known sire
+that carried the least frequent marker genotypes and were closest to
+the target backfat thickness. In this way, slaughter took place on ﬁve
+different occasions between March and October 2008. In total, 162
+steers of known age, with complete carcass evaluation and sired by 15
+bulls were slaughtered (Table 1).
+2.2. Molecular analyses
+One SNP on the CAPN1 gene (CAPN1 316) and another on the
+Leptin gene (E2FB) were analyzed. These two SNPs were the ﬁrst com-
+mercial markers for beef quality traits (tenderness and body fatness,
+respectively). The CAPN1 316 is a G/C SNP in exon 9 of CAPN1 gene
+(Page et al., 2002) and E2FB is a C/T transition in exon 2 of the Leptin
+gene (Buchanan et al., 2002). DNA was extracted from 300 μl of blood
+using Illustra GFX™ Genomic Blood DNA Puriﬁcation Kit (GE
+Healthcare, Buckinghamshire, UK). Marker CAPN1 316 was analyzed
+by PCR-RFLP method using the following primers: 5′-ccagggccagatgg
+tgaa-3′ (forward) and 5′-cgtcgggtgtcaggttgc-3′(reverse) and BtgI
+restriction enzyme. Marker E2FB was genotyped with tetra-primer
+ARMS-PCR method (Ye, Dhillon, Ke, Collins, & Day, 2001) using two
+sets of primer pairs (outer and inner primers). The outer primer pair
+was: 5′-gacgatgtgccacgtgtggtttcttctgt-3′ (forward) and 5′-cggttctacct
+cgtctcccagtccctcc-3′ (reverse). The inner primer pair was: 5′-tgtcttac
+gtggaggctgtgcccagct-3′ (forward) and 5′-agggttttggtgtcatcctggacctttc
+g-3′ (reverse).
+Among the 15 bulls identiﬁed as sires of steers, there were 1 CC, 2
+CG and 12 GG, according to their CAPN1 316 genotypes; and 2 CC, 7
+CT and 6 TT sires according to the E2FB marker.
+Genotypic frequencies of the initial sample of steers (n = 206) for
+CAPN1 316 were 1, 13 and 86% for CC, CG and GG, respectively. Geno-
+typic frequencies for E2FB were 7, 40 and 53% for CC, CT and TT,
+respectively.
+For the sample of slaughtered steers (n = 162) genotypic frequen-
+cies were 1 CC, 16 CG and 83 GG (CAPN1 316 marker) and 9 CC, 42 CT
+and 49 TT (E2FB marker).
+2.3. Meat sampling and physical determinations
+Steers were slaughtered at a private abattoir after resting for 24 h
+in paddocks with available water, according to SENASA regulations.
+At slaughter, left carcass sides were electro stimulated applying
+21 V and 0.25 A during 5 s and placed in a chiller at 1–5 °C for 24 h.
+Carcass pH and temperature were measured at 1, 3, 6, 9 and 24 h
+post-mortem in the longissimus muscle, at a point located over the
+interval between ribs 12th and 13th. A block of steaks corresponding
+to the 8th to 13th ribs was removed from each left half carcass. The
+block was divided into two pieces that were vacuum-packed. The frac-
+tion between 8th and 10th ribs was frozen at − 18 ± 1 °C (1 day aging
+treatment) and the rest was aged for 7 days at 3 ± 1 °C (7 day aging
+treatment), and then frozen at − 18 ± 1 °C. Prior to being thawed,
+each block was subsampled using an electric saw in steaks of 2.5 cm
+width, vacuum packaged and kept at − 18 °C.
+The following analytical determinations in meat samples were
+performed at the Instituto de Tecnología de Alimentos, Instituto Nacional
+de Tecnología Agropecuaria (INTA) in Castelar, Buenos Aires.
+2.4. Warner–Bratzler shear force (WBSF)
+WBSF was measured in steaks corresponding to the 10th and 13th
+ribs. Once thawed, under refrigerated conditions (4–7°C), they were
+boned, weighed and placed in a pre-heated shell style electric grill for
+10 min, until internal temperature reached 71 °C (AMSA, 1995). Cooked
+steaks were weighed and cooled to b 10 °C. Eight 1.3 cm-diameter cores
+were extracted from each steak parallel to the muscle ﬁber orientation
+Table 1
+Means and standard errors for ﬁnal weight (FW), average daily gain (ADG), ﬁnal backfat thickness (BFT), average monthly backfat thickness gain (AMBFTG), ﬁnal rib-eye area
+(REA), average monthly rib-eye area gain (AMREAG) and age at slaughter (AGE) for each slaughter group (SG).
+Trait Slaughter group (date of slaughter) (n)
+SG1 (04/17) (37) SG2 (07/03) (34) SG3 (07/10)(34) SG4 (09/11)(33) SG5 (10/30)(24)
+Mean SE Mean SE Mean SE Mean SE Mean SE
+FW (kg) 447 27.4 514 37.99 520 42.91 513 42.54 560 51.84
+ADG (g/day) 697 51 717 52 727 59 648 51 645 62
+BFT (mm) 6.74 0.87 6.58 0.69 6.92 0.89 5.78 1.08 5.95 1.50
+AMBFTG (mm/30 days) 0.321 0.081 0.270 0.051 0.289 0.055 0.205 0.048 0.171 0.043
+REA (cm2) 56.66 6.93 56.46 6.39 57.73 6.73 58.65 7.17 58.84 6.64
+AMREAG (cm2/30 days) 1.78 0.48 1.70 0.34 1.86 0.32 1.53 0.34 1.47 0.32
+AGE (day) 596 13.9 669 14.7 679 14.6 740 14.1 784 17.4
+769L.M. Melucci et al. / Meat Science 92 (2012) 768–774
+and sheared once across the middle using a Warner–Bratzler shear
+machine (model 3000; G-R Manufacturing CO., Manhattan, Kansas, USA).
+2.5. Muscle and fat color
+Color and pH were determined in steaks from the 8th and 11th
+ribs on 1 day and 7 day aged samples respectively. Color was mea-
+sured with a portable reﬂectance spectrocolorimeter BYK Gardner
+45° Gloss following the guidelines of AMSA (1991) with 10° observer
+and illuminant D65. Before measurement, a blooming time of 45 min
+at 5 ± 1 °C was allowed for an adequate color development. Results
+were expressed according to the CIELab system. Muscle pH and tem-
+perature were measured between the 10th and 11th rib using a Testo
+pH meter (model number 205, Testo, Ciudad Autónoma de Buenos
+Aires, BA, Argentina) equipped with a glass pH electrode and a tem-
+perature probe, with 4.0 and 7.0 buffers for calibration.
+2.6. Sensory panel analysis
+Laboratory facilities allowed the analysis of about 100 samples. So,
+analyses were performed on 7 day aged meat coming from steers in
+every slaughter groups, trying to include animals carrying the least
+frequent genotypes for both genetic markers and sired by bulls
+having progeny sizes as large as possible as to provide reliable results.
+Thus, 114 steers were chosen for these analyses. Number of steers in
+each genotype class within marker is shown in Table 3. Steaks were
+obtained from the 12th rib, and then they were thawed, deboned
+and cooked in the same way as described for WBSF. After cooking,
+each steak was deboned and trimmed of fat and the longissimus
+muscle was sliced into 1 cm × 1 cm cooked steak thickness cubes
+that were immediately served to an eight-member trained sensory
+panel. Each panel member (Cross, Moen, & Stanﬁeld, 1978) evaluated
+two cubes taken at random from each steak in a cabin built according
+to ISO 8589:1998 under green light. Each member was provided with
+an evaluation form, a salt-free cracker and a glass of distilled water
+for rinsing. The samples were evaluated using a nine-point scale for
+juiciness, initial and sustained tenderness, beef ﬂavor intensity and
+amount of connective tissue (1 = extremely dry, extremely tough,
+extremely bland and very much to 9 = extremely juicy, extremely
+tender, extremely intense and nothing respectively). Raw slices of
+longissimuss dorsi muscle were compared with USDA scales for
+Marbling by a panel of 5 members (1 = traces to 8 = abundant;
+Romans, Jones, Costello, & Carlson, 1985).
+2.7. Statistical analyses
+Monthly weight and ultrasound measurements were used to
+calculate individual average daily gain (ADG), average monthly back-
+fat thickness gain (AMBFTG) and average monthly rib-eye area gain
+(AMREAG) by regression. Final weight (FW), backfat thickness
+(BFT) and rib-eye area (REA) correspond to the last recorded mea-
+surement of each trait before slaughter. Traits were analyzed by
+mixed models, using PROC MIXED of SAS (1998). Fixed effects and co-
+variates included in the models differed according to the trait. Prelim-
+inary analyses showed that neither BFT, FW nor age at slaughter
+(AGE) had signiﬁcant effects on the variables studied. An analysis of
+another data set (Papaleo Mazzucco et al., 2010) has suggested a pos-
+sible interaction between genotype and length of aging period for WBSF.
+In the present paper, the inclusion of a Genotype× AT interaction term in
+the WBSF model of analysis would have produced an unbalanced design
+matrix, given the low numbers in some genotype groups. Hence, it was
+decided to analyze separately the WBSF 1 day and WBSF 7 day data sets,
+which was not the case for muscle and fat color. Included ﬁxed effects
+for the analysis of WBSF in 1 day and in 7 day aged samples were
+slaughter group (SG), CAPN1 316 genotype and SG × CAPN1 316 interac-
+tions. The natural logarithm of 24-hour postmortem pH (lnpH) was
+included as a covariate. Meat and fat color were analyzed with a
+model that included CAPN1 316, E2FB, SG, aging treatment (AT) and
+SG × AT as ﬁxed effects. For the analyses of the sensory panel traits the
+terms included in the models were chosen according to Caine et al.
+(2003). Tenderness and ﬂavor were analyzed with a model including
+CAPN1 316, E2FB and SG as ﬁxed effects and juiciness, lnpH as covari-
+ates. The model for juiciness included CAPN1 316, E2FB, SG as ﬁxed ef-
+fects and connective tissue and lnpH as covariates. The model for
+marbling included CAPN1 316, E2FB, SG as ﬁxed effects and connective
+tissue and BFT as covariates. Differences in SG are expected to include
+differences in environmental conditions, including differences in avail-
+ability and quality of pastures and handling of animals and carcasses.
+The sire was included as random effect in all the analyses. Least
+squares means were compared with a Bonferroni-adjusted test to
+take into account multiple comparisons. A canonical correlation anal-
+ysis was performed to test the association among traits measured
+during fattening with WBSF of 1 day and 7 day aged samples, meat
+color and fat color of 1 day aged samples. The proportion of variance
+explained by canonical variables was calculated according to Hair,
+Anderson, Tatham, and Black (1999). For all the analyses P = 0.05
+was considered.
+3. Results and discussion
+3.1. Phenotypic information
+Number of records, mean and standard deviation of each recorded
+trait are presented in Table 1. FW, REA and age increased with days
+on fattening. Lower values for ADG and AMBFTG in SG 4 and 5 are
+the consequence of decay in quality and quantity of forage along
+the year.
+3.2. Genetic markers
+Frequencies found among the 15 bulls identiﬁed as sires of steers
+were 0.13 (C) and 0.87 (G) for the CAPN1 316 alleles; and 0.37 (C)
+and 0.63 (T) for the E2FB marker alleles. Allele frequencies in the ini-
+tial sample of steers (n = 206) for CAPN1 316 were 0.076 and 0.923
+for C and G, respectively. Allelic frequencies vary among breeds
+(Van Eenennaam et al., 2007). A very low frequency of the C allele
+seems to be a common feature of the Hereford breed (Corva et al.,
+2007; Page et al., 2004). For E2FB allele frequencies were 0.271 and
+0.729 for C and T respectively. Chi Square on both markers indicated
+that samples were in Hardy–Weinberg equilibrium (P > 0.05). These
+allele frequencies differ from the 50:50 reported elsewhere for the
+allele frequencies ratio in British and Continental European cattle
+(Schenkel et al., 2005; Kononoff, Deobald, Stewart, Laycock, &
+Marquess, 2005).
+3.3. Association of WBSF with growth traits
+A canonical correlation analysis between WBSF of 1 day aged and
+WBSF of 7 day aged samples (WBSF set) and a group of variables
+measured during the fattening period (G set: ADG, FW, BFT, REA,
+AMBFTG, AMREAG and AGE) was conducted. Only the ﬁrst canonical
+correlation was signiﬁcant (P b 0.05), with a value of 0.46. The canon-
+ical variable of the G set explained 20.86% (square canonical correla-
+tion) of the variance in the canonical variable of the WBSF set. The
+ﬁrst canonical correlation accounted for 83% of the association be-
+tween the canonical variables of the sets, and the canonical variables
+in the G set were able to predict 9.6% of the variance in the individual
+original WBSF variables. The contribution of each variable to the asso-
+ciation was studied through the observation of the correlations be-
+tween them and the canonical variable of the other set (Table 2).
+The correlation between WBSF of 1 day aged and WBSF of 7 day
+aged samples with the canonical variables of the G set were − 0.44
+770 L.M. Melucci et al. / Meat Science 92 (2012) 768–774
+and − 0.007 showing that the contribution of WBSF of 7 day aged
+samples to the association between the sets is negligible. The correla-
+tions of growth variables with their canonical variables show that
+ADG was the most important in the association, followed by
+AMREAG, FW and BFT. The magnitude of the correlations as well as
+the proportion of variance in WBSF explained by canonical variables
+of the G set, indicate a moderate degree of association between both
+sets. The low coefﬁcient for AGE showed that its contribution to the
+association was weak.
+Considered overall, these results suggest that traits recorded during
+the growing period are associated with WBSF of 1 day but not 7 day
+aged meat. In this association, growth rate was more relevant than
+live weight at slaughter. According to these results and since the corre-
+lation of WBSF of 1 day aged meat with the canonical variable of the
+G set was negative, higher ADG led to lower WBSF, probably because
+steers were younger at slaughter. Purchas, Burnham, and Morris
+(2002) found that fast growing animals produced more tender meat
+than slow growing ones. AMREAG followed this same trend. The contri-
+bution of FW and of BFT, each of which may be thought as representing
+the degree of maturity of steers, was lower than that of growth rate.
+3.4. The effects of CAPN1 316 on WBSF
+Since there were only two animals with the CC genotype for
+CAPN1 316, they were excluded from the analysis. CAPN1 316 and
+the CAPN1 316 × SG interaction had no effect on WBSF of 1 day
+aged meat, whereas SG and lnpH were statistically signiﬁcant
+(P b 0.05). Least squares means for GC and GG were 5.19 ± 0.27 kg
+and 5.44 ± 0.12 kg respectively. Corva et al. (2007) for CAPN1 316
+genotypes, in 1 day aged samples of a Bos taurus crossbred population
+found higher WBSF values than those observed in the present study:
+CC: 7.86 ± 0.65 kg; CG: 8.73 ± 0.51 kg; GG: 9.21 ± 0.54 kg. In their
+study, CC and GG were statistically different (P b 0.05). These authors
+reported that both the lack of an aging period and the cooking method
+could have contributed to obtaining such high values.
+The effects of CAPN1 316 and the SG× CAPN1 316 interaction were
+statistically signiﬁcant (Pb 0.05) for 7 days aged samples only,
+suggesting that the differential effect of CAPN1 alleles depends on the
+existence of an aging period and of other undetermined factors associ-
+ated with the slaughter group. Despite the existence of a SG × CAPN1
+316 interaction, there were no differences between genotypes within
+SG after the Bonferroni adjustment. Least-squares means for genotypes
+were: CG 3.87 ± 0.28 kg and GG 4.50 ± 0.14 kg which are consistent
+with previous results reporting C as the favorable allele for tenderness
+(Page et al., 2004; Van Eenennaam et al., 2007). The low frequency of
+the C allele prevented the comparison of the extreme homozygote
+genotypes. Also, the CG class was in a very low frequency and the stan-
+dard error of its mean was high. Assuming no dominance effects (d=
+0), the CAPN1 316 marker explained only 3.08% of the variability
+(Falconer & Mackay, 1996).
+Curi et al. (2010) in a population of males and females of Nellore
+and Nellore × B. Taurus bred in feedlot, Papaleo Mazzucco et al. (2010)
+in Brangus steers ﬁnished on pasture and White et al. (2005) in a pop-
+ulation that included germplasm from B. taurus and Bos indicus,found
+differences between CG and GG slightly lower than those found in this
+study (−0.36 kg, −0.38 and −0.18 kg, respectively).
+The effect of connective tissue on WBSF of samples aged for 7 day
+was analyzed on the samples that were submitted to the sensory
+panel. Two models were ﬁtted: model 1 included sire as a random
+effect and CAPN1 316, SG, SG × CAPN1 as ﬁxed effects and connective
+tissue and lnpH as covariates. Model 2 included the same sources of
+variation except connective tissue. With Model 1, connective tissue
+was statistically signiﬁcant (β1 = 0.39 ± 0.07, P b 0.0001) as well as
+CAPN1 316 (P b 0.03) and SG × CAPN1 (P b 0.001). As connective tissue
+increased in the samples, meat tenderness measured through WBSF,
+decreased. With Model 2, CAPN1 316 was close to signiﬁcance (P =
+0.056) and SG, SG × CAPN1 316 were statistically signiﬁcant. SG was
+not statistically signiﬁcant when connective tissue was included in
+the analysis, suggesting that some of the differences in SG may be
+explained by differences in the amount of connective tissue. CAPN1
+316 least squares means were: Model 1: CG: 3.85 ± 0.34 kg and GG:
+4.59 ± 0.18 kg; Model 2: CG: 3.73 ± 0.38 kg and GG: 4.48 ± 0.19 kg,
+although the statistically signiﬁcant interaction with both models
+indicated that CAPN1 316 effect depended on SG.
+Slaughter group inﬂuenced WBSF in 1 day and 7 day aged samples.
+Growth rate inﬂuenced mainly tenderness meat that was aged for
+1 day and CAPN1 316 was associated with 7 day aged meat. This result
+is consistent with the fact that μ-calpain is a protease that degrades
+muscle structure post mortem (Koohmaraie, 1996).
+Meat tenderness, as measured by WBSF, was largely affected by
+environmental conditions during growth, handling of meat and CAPN1
+316, although marker effects were somewhat lower than those reported
+in the literature. The proportion of variance explained by the factors
+considered in this study was low. Warner,Greenwood,Pethick,and
+Ferguson (2010) concluded that besides pre- and post-slaughter factors
+able to be controlled, there are unidentiﬁed animal or environmental
+factors that contribute to the variation in tenderness.
+3.5. Sensory panel results
+3.5.1. CAPN1 316 and E2FB SNP effects on trained sensory panel attributes
+and marbling
+Results on initial and sustained tenderness, ﬂavor, juiciness and
+marbling obtained by the panel for each CAPN1 316 genotype are
+shown in Table 3. The panel evaluated a limited number of 7 day
+aged samples as explained in Materials and methods. There were
+not signiﬁcant differences between genotypes of CAPN1 316 for any
+of the attributes evaluated by the sensory panel, despite the already
+mentioned signiﬁcant difference in WBSF between CAPN1 316 geno-
+types (P b 0.05). Marbling showed signiﬁcant differences between
+genotypes, with CG having 19% higher marbling values than GG.
+According to Caine et al. (2003), reported correlations between
+WBSF and sensory assessment of beef tenderness are highly variable.
+Correlations of initial and sustained tenderness with WBSF in the pre-
+sent study were −0.46 and −0.42, respectively. These estimates are
+lower than the correlation of −0.77 found by Shackelford, Wheeler,
+and Koohmaraie (1999), but within the range (−0.32 and −0.94)
+cited by Szczesniak (1968),accordingtoCaine et al. (2003). Destefanis,
+Brugiapaglia, Barge, and Dal Molin (2008) found that consumer evalua-
+tion of tenderness has a correlation of −0.72 with sensory panel evalu-
+ations, and that consumers can only discriminate tender, intermediate
+and tough beef. Miller et al. (1995) found that consumers can detect a
+difference in WBSF of about 1 kg if meat tasting occurs in a restaurant,
+whereas it is about 0.5 kg if tasting occurs at home. All these results
+show a variable correlation between sensory and instrumental assess-
+ment of beef tenderness. Sullivan and Calkins (2007) indicated that
+there is variability in tenderness of muscle, depending in the location
+of the meat where the samples are taken. Therefore, differences in the
+WBSF and panel tenderness evaluations might be explained, in part,
+by the differences in contribution of connective tissue and muscle ﬁber
+Table 2
+Correlations of growth traits and the ﬁrst canonical variable of the WBSF set.
+Correlations with FWa ADG BFT REA AMBFTG AMREAG AGE
+WBSF variablesb 0.24 0.35 0.24 0.13 0.18 0.27 −0.05
+a FW: ﬁnal weight; ADG: average daily gain; BFT: ﬁnal backfat thickness; REA: ﬁnal
+rib-eye area; AMBFTG: average monthly backfat thickness gain; AMREAG: average
+monthly rib-eye area gain; AGE: age at slaughter.
+b Correlations between the growth variables and the ﬁrst canonical variable of the
+WBSF variables.
+771L.M. Melucci et al. / Meat Science 92 (2012) 768–774
+tenderness to WBSF and sensory tenderness evaluations due to different
+location of samples, caused by the method for extracting samples for
+evaluation by WBSF and by sensory panel.
+According to the present results, 1 day aged meat would not show
+differences in tenderness among CAPN1 316 genotypes. Therefore, if
+meat is consumed soon after slaughter, selecting animals based on
+their CAPN1 316 genotype would not be advantageous. There are
+probably other genetic markers associated with differences in tender-
+ness that do not depend on the aging of meat. Moreover, in this case
+the sensory panel did not discriminate between genotypes as WBFS
+did, but this could be a consequence of genotype distribution. After
+studying different cuts and evaluating tenderness through households
+who used different methods of cooking, Lorenzen et al. (2003) con-
+cluded that it is difﬁcult to predict from objective data how consumers
+will rate meat at home.
+E2FB had a statistically signiﬁcant effect for marbling only
+(Table 3). The covariates, as well as SG, were statistically signiﬁcant
+(P b 0.05). Animals with the TT genotype had more marbling than
+those individuals carrying CT and CC genotypes. These results are in
+agreement with those obtained by Kononoff et al. (2005) in B. taurus
+crossbreeds.
+Flavor was affected by juiciness but it was the only attribute for
+which SG was not statistically signiﬁcant. Differences between SG
+could be a consequence of feeding conditions and/or age. In this
+sense, previous work has established a lack of association between
+juiciness and ﬂavor and maturity of the animal on an age basis
+(Moon, Yang, Park, & Joo, 2006). SG and connective tissue were statis-
+tically signiﬁcant in the analysis of juiciness.
+3.6. Muscle color
+3.6.1. Association of muscle color with growth traits
+A canonical correlation was calculated between parameters L*, a*
+and b* of muscle color on 1 day aged samples and the G set of traits.
+The ﬁrst (P b 0.0004) and second (P b 0.02) correlations were statisti-
+cally signiﬁcant. The ﬁrst canonical correlation between the sets was
+0.39 and the ﬁrst canonical variable of the G set explained 15% of
+the variation in the ﬁrst canonical variable of the muscle color param-
+eters set. The ﬁrst canonical variable of the G set was able to predict
+9.54% of the variance in the original variables of the color of muscle
+set. Correlations of L*, a* and b* with the ﬁrst canonical variable of
+the G set were 0.39, 0.22 and 0.30 respectively and − 0.05, − 0.01
+and 0.11 with the second. Correlations of ADG and AMREAG with
+the 1st canonical variable of the muscle color set were the highest
+(Table 4): animals that grow faster produced lighter muscle. These
+ﬁndings could be associated with those obtained by Allingham,
+Harper, and Hunter (1998) in Brahman cross steers. They found that
+animals with a compensatory growth (high ADG) after a low ADG
+period produce lighter meat than animals with a constant body weight
+gain. Higher age at slaughter has been correlated with darker color of
+meat (Moon et al., 2006). In this sense, correlation between AGE and
+the 1st canonical variable was also important and negative. Treatment
+mediated differences in carcass fatness have been suggested as
+responsible for differences in meat color and lightness due to the
+increased fat content in muscle (Fiems et al., 2000), and to a slower
+cooling rate that corresponds to a faster pH decline (Young, Priolo,
+Simmons, & West, 1999). This was not totally reﬂected in the present
+study because the correlation between the 1st (and 2nd) canonical
+variables with BFT was small.
+The second canonical correlation between the sets was 0.32, the
+second canonical variable of the G set explained 10% of the variation
+in the second canonical variable of the muscle color parameters set.
+The second canonical variable of the G set was able to predict only
+0.5% of the variance in the original variables of the color of muscle
+set because correlations of muscle parameters with the second
+canonical variable were very low (Table 4).
+3.6.2. CAPN1 316 and E2FB SNP effect on muscle color
+Table 5 shows the least-squares means and standard errors for
+muscle and fat color according to CAPN1 316 and E2FB genotypes.
+The effect of CAPN1 316 genotypes was statistically signiﬁcant for
+L*, a* and b* of muscle. Animals with CG genotype had higher L*, a*
+and b* values than animals with GG genotype (P b 0.05). Since it is
+expected from CG genotypes to be more tender than GG, more tender
+genotypes would have higher values of L*, a* and b*, an observation
+that agrees with Wulf et al. (1997). They have found negative corre-
+lations between parameters of color and shear force. In Brangus,
+Papaleo Mazzucco et al. (2010) found differences in L* (CG was higher
+than GG) but not in a* or b*, although the means followed the same
+trend as in the present study. Furthermore, recently Reardon, Mullen,
+Sweeney, and Hamill (2010) found an association between calpastatin
+genotypes and the three CIELAB parameters. As calpastatin is an inhib-
+itor of calpains, these two results together suggest an important effect of
+the calpain/calpastatin system on meat color. This effect could be
+explained by two mechanisms: i) the proteolytic activity of the calpains
+could affect the proteins responsible for the color (myoglobin and
+others), and/or ii) the effect of the calpain activity on the redox state
+of the myocytes, that can affect the color stability.
+Table 3
+Least squares means and standard errors for the effect of CAPN1 316 and E2FB genotypes on beef quality traits evaluated by a sensory panel.
+Trait Genetic marker genotype
+CAPN1 316 (n) E2FB (n)
+CG (19) GG (95) CC (9) CT (45) TT (60)
+Initial tenderness 5.24 ± 0.18 a 5.17 ± 0.11 a 5.46 ± 0.25 a 5.02 ± 0.13 a 5.13 ± 0.12 a
+Sustained tenderness 5.50 ± 0.16 a 5.60 ± 0.09 a 5.65 ± 0.24 a 5.46 ± 0.11 a 5.55 ± 0.10 a
+Flavor 5.43 ± 0.12 a 5.66 ± 0.07 a 5.44 ± 0.18 a 5.67 ± 0.09 a 5.52 ± 0.07 a
+Juiciness 5.44 ± 0.19 a 5.07 ± 0.10 a 5.48 ± 0.29 a 5.17 ± 0.14 a 5.12 ± 0.12 a
+Marbling 2.26 ± 0.16 a 1.90 ± 0.09 b 1.85 ± 0.23 ab 2.06 ± 0.12 b 2.32 ± 0.10 a
+a, b: Within genetic marker, means not sharing a common letter in the same row differ (P b 0.05).
+Table 4
+Correlations of the original variables of the G set with the ﬁrst and second canonical
+variable of the color of muscle set.
+Correlations with FWa ADG BFT REA AMBFTG AMREAG AGE
+1st canonical variable of
+Color of muscle
+setb
+−0.04 0.32 0.12 −0.003 0.17 0.27 −0.26
+2nd canonical
+variable of Color
+of muscle setc
+0.23 0.07 −0.05 0.20 −0.13 0.14 0.20
+a FW: ﬁnal weight; ADG: average daily gain; BFT: ﬁnal backfat thickness; REA: ﬁnal
+rib-eye area; AMBFTG: average monthly backfat thickness gain; AMREAG: average
+monthly rib-eye area gain; AGE: age at slaughter.
+b Correlations between the growth variables and the ﬁrst canonical variable of the
+color of muscle set.
+c Correlations between the growth variables and the second canonical variable of the
+color of muscle set.
+772 L.M. Melucci et al. / Meat Science 92 (2012) 768–774
+The E2FB genotype CC was different from CT and TT for a*
+(Table 5). Since this marker has been associated with differences in
+meat composition, it would also be expected that differences in the
+color of the meat be found. Moreover, in this study E2FB genotypes
+were also associated with marbling and the different fat content in
+muscle could be inﬂuencing a*. It was observed that SG and SG × AT
+were statistically signiﬁcant for a* and b*, but only SG × AT was signif-
+icant for L*. The differences in SG and interactions found indicate an
+important effect of environmental conditions on meat color.
+3.7. Fat color
+3.7.1. Association of fat color with growth traits
+A canonical correlation was estimated between parameters of
+fat color on 1 day aged samples and the G set of variables. The ﬁrst
+correlation was the only statistically signiﬁcant (P b 0.05). The ﬁrst
+canonical correlation between the sets was 0.45; the ﬁrst canonical
+variable of the G set explained 20% of the variability from the ﬁrst
+canonical variable of the parameter set for fat color. The ﬁrst canonical
+variable of the G set was able to predict 10% of the variance in the orig-
+inal variables of the color of fat set. The color parameter b* had the
+highest correlation with the ﬁrst canonical variable of fat color traits
+(0.41), while the correlations of the other color parameters were
+lower (− 0.18 and 0.31 for L* and a*, respectively). The correlation of
+0.45 was mainly explained by the association of b* with age and, to a
+lesser extent, by the negative association with AMBFTG, ADG,
+AMREAG and BFT, all of them weighting very similarly in the associa-
+tion (Table 6).
+3.7.2. CAPN1 316 and E2FB SNP effect on fat color
+Table 5 shows that the effect of CAPN1 316 genotype was statisti-
+cally signiﬁcant (P b 0.05) only for L*, the larger value for CG implying
+a brighter fat for this genotype. Meanwhile, E2FB was statistically sig-
+niﬁcant only for a*: fat from CC steers had a higher score for redness
+than fat of TT steers. Results from analyses of variance indicated that
+SG and SG × AT were statistically signiﬁcant for L*, a* and b* while AT
+was statistically signiﬁcant only for a*, showing a large inﬂuence of
+environmental conditions on fat color as expected.
+4. Conclusions
+Growth rate of grazing steers was associated with tenderness
+estimated as WBSF and also with fat and meat color of 1 day aged
+meat. In all cases, post weaning growth and carcass traits accounted
+for about 10% of the variance of the meat quality traits that were eval-
+uated. CAPN1 316 was associated with WBSF of 7 days but not of
+1 day aged beef. Connective tissue may have contributed to differ-
+ences in meat tenderness as measured by WBSF. There was no differ-
+ence between genotypes of CAPN1 316 in tenderness, juiciness and
+ﬂavor as evaluated by a trained sensory panel. Differences among
+E2FB genotypes were found for traits associated with composition
+of meat such as marbling, and parameter a* of muscle and fat color.
+Although signiﬁcant efforts were made in the design and manage-
+ment of the present experiment, the most important sources of
+variation in tenderness and color of meat remained unaccounted
+for. Those sources of variation must be identiﬁed and controlled in
+order to produce consistently high quality beef.
+These results conﬁrm that marker assisted selection for beef
+tenderness is advisable only in those situations in which aging is a
+common practice for meat produced in grazing systems. We expect
+that they highlight genetic and management aspects that must be
+considered by those responsible for ﬁnishing cattle on pastures and
+aiming to improve the quality of meat.
+Acknowledgments
+Funding for this research was provided by grants of Goyaike S.A.A.C.I Y
+F. The authors thank Dr. Cantet, R.J.C. for statistical assistance and opera-
+tion employees of DELTACAR slaughterhouse.
+References
+Allingham, P. G., Harper, G. S., & Hunter, R. A. (1998). Effect of growth path on the
+tenderness of the semitendinosus muscle of Brahman-cross steers. Meat Science,
+48,65–73.
+Altmann, M., & Von Borell, E. (2007). Leptin as an indicator for carcass composition in
+farm animals. Animal Science Journal, 78, 449–459.
+AMSA (1991). American Meat Science Association. Guidelines for meat color evaluation.
+Illinois: Published by the American Meat Science Association. www.meatscience.org.
+AMSA (1995). American Meat Science Association. Research guidelines for cookery, sensory
+evaluation and instrumental tenderness measurements of fresh meat. Illinois: Published
+by American Meat Science Association in cooperation with National Livestock and Meat
+Board 48 pp.
+Belk, K. E., Scanga, J. A., Smith, G. C., & Grandin, T. (2002). The relationship between good
+handling/stunning and meat quality in beef, pork, and lamb. American Meat Institute
+Foundation, Animal Handling and Stunning Conference on February 21–22.
+Buchanan, F. C., Fitzsimmons, C. J., Van Kessel, A. G., Thue, T. D., Winkelman-Sim, D. C.,
+& Schmutz, S. M. (2002). Association of a missense mutation in the bovine
+Table 5
+Least-squares means and standard errors for the effect of CAPN1 316 and E2FB genotypes on muscle and fat color.
+Color parametera Genetic marker genotype
+CAPN1 316 E2FB
+CG GG CC CT TT
+Muscle
+L* 32.22 ± 0.69 a 30.51 ± 0.36 b 31.90 ± 0.87 a 31.14 ± 0.47 a 31.06 ± 0.42 a
+a* 12.16 ± 0.44 a 10.79 ± 0.29 b 12.54 ± 0.52 a 10.84 ± 0.34 b 11.04 ± 0.32 b
+b* 11.58 ± 0.36 a 10.51 ± 0.20 b 11.54 ± 0.44 a 10.76 ± 0.25 a 10.83 ± 0.23 a
+Fat
+L* 73.65 ± 0.95 a 69.36 ± 0.60 b 72.60 ± 1.13 a 71.03 ± 0.71 a 70.89 ± 1.06 a
+a* 3.01 ± 0.36 a 3.31 ± 0.19 a 3.81 ± 0.44 a 2.97 ± 0.25 ab 2.70 ± 0.22 b
+b* 18.92 ± 0.50 a 19.46 ± 0.26 a 19.39 ± 0.63 a 19.34 ± 0.34 a 18.83 ± 0.31 a
+a, b: Within genetic marker, means not sharing a common letter in the same row differ (P b 0.05).
+a L* luminance, a* redness, b* yellowness.
+Table 6
+Correlations of the original variables of the G set with the ﬁrst canonical variable of the
+color of fat set.
+Correlations with FWa ADG BFT REA AMBFTG AMREAG AGE
+1st canonical variable
+of color of fat setb
+0.14 −0.29 −0.23 −0.01 −0.31 −0.25 0.39
+a FW: ﬁnal weight; ADG: average daily gain; BFT: ﬁnal backfat thickness; REA: ﬁnal
+rib-eye area; AMBFTG: average monthly backfat thickness gain; AMREAG: average
+monthly rib-eye area gain; AGE: age at slaughter.
+b Correlations between the growth variables and the ﬁrst canonical variable of the
+color of fat set.
+773L.M. Melucci et al. / Meat Science 92 (2012) 768–774
+leptin gene with carcass fat content and leptin mRNA levels. Genetics and Selection
+Evolution, 34, 105–116.
+Caine, W. R., Aalhus, J. L., Best, D. R., Dugan, M. E. R., & Jeremiah, L. E. (2003). Relationship of
+texture proﬁle analysis and Warner–Bratzler shear force with sensory characteristics of
+beef rib steaks. Meat Science, 64, 333–339.
+Corva, P. M., Soria, L. A., Villarreal, E. L., Schor, A., Perez Cenci, M., Motter, M., et al. (2007).
+Association of polymorphisms on the CAPN1 and CAST genes with meat tenderness
+in beef cattle of Argentina. Genetics and Molecular Biology, 30(4), 1064–1069.
+Cross, H. R., Moen, R., & Stanﬁeld, M. S. (1978). Training and testing of judges for sensory
+analysis of meat quality. Food Technology, 37,48–54.
+Curi, R. A., Chardulo, L. A. L., Giusti, J., Silveira, A. C., Martins, C. L., & de Oliveira, H. N. (2010).
+Assessment of GH1, CAPN1 and CAST polymorphisms as markers of carcass and meat
+traits in Bos indicus and Bos taurus–Bos indicus cross beef cattle. Meat Science, 86,
+915–920.
+Destefanis, G., Brugiapaglia, A., Barge, M. T., & Dal Molin, E. (2008). Relationship between
+beef consumer tenderness perception and Warner–Bratzler shear force. Meat Science,
+78, 153–156.
+Eilers,J.D.,Tatum,J.D.,Morgan,J.B.,&Smith,G.C.(1996).Modiﬁcation of early-
+postmortem muscle pH and use of postmortem aging to improve beef tenderness.
+Journal of Animal Science, 74, 790–798.
+Falconer, D. S., & Mackay, T. F. C. (1996). Introduction to quantitative genetics. Essex, England:
+Longman Group Limited 365 pp.
+Fiems, L. O., De Campeneere, S., De Smet, S., Van de Voorde, G., Vanacker, J. M., &
+Boucqué, Ch. V. (2000). Relationship between fat depots in carcasses of beef
+bulls and effect on meat colour and tenderness. Meat Science, 56,41–47.
+Hair, J. F., Anderson, R. E., Tatham, R. L., & Black, W. C. (1999). Análisis multivariante (5a
+ed.). Madrid: Prentice Hall Iberia 799 pp.
+Jiang,T.,Busboom,J.R.,Nelson,M.L.,O'Fallon,J.,Ringkob,T.P.,Rogers-Klette,K.R.,etal.
+(2010). The inﬂuenceofforagedietsandagingonbeefpalatability.Meat Science, 86,
+642–650.
+Johnston, D. J., & Graser, H. -U. (2010). Estimated gene frequencies of GeneSTAR
+markers and their size of effects on meat tenderness, marbling and feed efﬁciency
+in temperate and tropical beef cattle breeds across a range of production systems.
+Journal of Animal Science, 88, 1917–1935.
+Kononoff, P. J., Deobald, H. M., Stewart, E. L., Laycock, A. D., & Marquess, F. L. S. (2005).
+The effect of a single leptin nucleotide polymorphism on quality grade, yield grade,
+and carcass weight of beef cattle. Journal of Animal Science, 83, 927–932.
+Koohmaraie, M. (1996). Biochemical factors regulating the toughening and tenderization
+processes of meat. Meat Science, 43, S193–S201.
+Kropf, D. H. (1980). Effects of retail display conditions on meat color. Proc. 33rd Recip.
+Meat Conf. Am. Meat Sci. Assoc., Champaign, IL (pp. 15–32).
+Lorenzen,C.L.,Miller,R.K.,Taylor,J.F.,Neely,T.R.,Tatum,J.D.,Wise,J.W.,etal.(2003).Beef
+customer satisfaction: Trained sensory panel ratings and Warner–Bratzler shear force
+values. Journal of Animal Science, 81, 143–149.
+Marshall, D. M. (1999). Genetics of meat quality. In R. Fries, & A. Ruvinsky (Eds.), The
+genetics of cattle (pp. 605–636). Oxon: CABI Publishing.
+Miller, M. F., Hoover, L. C., Cook, K. D., Guerra, A. L., Huffman, K. L., Tinney, K. S., et al. (1995).
+Consumer acceptability of beef steak tenderness in the home and restaurant. Journal of
+Food Science, 60,963–965.
+Miquel, M. C., Villarreal, E. L., Mezzadra, C., Melucci, L., Soria, L. A., Corva, P., et al.
+(2009). The association of CAPN1 316 marker genotypes with growth and meat
+quality traits of steers ﬁnished on pasture. Genetics and Molecular Biology, 32(3),
+491–496.
+Monsón, F., Sañudo, C., & Sierra, I. (2005). Inﬂuence of breed and ageing time on the
+sensory meat quality and consumer acceptability in intensively reared beef. Meat
+Science, 71, 471–479.
+Moon, S. S., Yang, H. S., Park, G. B., & Joo, S. T. (2006). The relationship of physiological
+maturity and marbling judged according to Korean grading system to meat quality
+traits of Hanwoo beef females. Meat Science, 74, 516–521.
+Page, B. T., Casas, E., Heaton, M. P., Cullen, N. G., Hyndman, D. L., Morris, C. A., et al.
+(2002). Evaluation of single-nucleotide polymorphisms in CAPN1 for association
+with meat tenderness in cattle. Journal of Animal Science, 80, 3077–3085.
+Page, B. T., Casas, E., Quaas, R. L., Thallman, R. M., Wheeler, T. L., Shackelford, S. D., et al.
+(2004). Association of markers in the bovine CAPN1 gene with meat tenderness in
+large crossbred populations that sample inﬂuential industry sires. Journal of Animal
+Science, 82, 3474–3481.
+Papaleo Mazzucco, J., Melucci, L. M., Villarreal, E. L., Mezzadra, C. A., Soria, L., Corva, P.,
+et al. (2010). Effect of ageing and μ-calpain markers on meat quality from Brangus
+steers ﬁnished on pasture. Meat Science, 86, 878–882.
+Purchas, R. W., Burnham, D. L., & Morris, S. T. (2002). Effects of growth potential and growth
+path on tenderness of beef longissimus muscle from bulls and steers. Journal of Animal
+Science, 80, 3211–3221.
+Reardon, W., Mullen, A. M., Sweeney, T., & Hamill, R. M. (2010). Association of polymor-
+phisms in candidate genes with colour, water-holding capacity, and composition traits
+in bovine M. longissimus and M. semimembranosus. Meat Science, 86, 270–275.
+Romans, J. R., Jones, K. W., Costello, W. J., & Carlson, C. W. (1985). The meat we eat. South
+Dakota State University. Danville, Illinois: The Interstate Printers & Publishers, Inc.
+SAS (1998). The SAS system for Windows. Version 8. Cary, NC. USA: SAS Institute Inc.
+Schenkel, F. S., Miller, S. P., Ye, X., Moore, S. S., Nkrumah, J. D., Li, C., et al. (2005). Association
+of single nucleotide polymorphisms in the leptin gene with carcass and meat quality
+traits of beef cattle. Journal of Animal Science, 83, 2009–2020.
+Shackelford, S. D., Wheeler, T. L., & Koohmaraie, M. (1999). Relationship between shear force
+and trained sensory panel tenderness ratings of 10 major muscles from Bos indicus and
+Bos taurus cattle. Journal of Animal Science, 73, 3333–3340.
+Sullivan, G. A., & Calkins, C. R. (2007). Ranking beef muscles for Warner–Bratzler shear
+force and trained sensory panel ratings. Nebraska Beef Cattle Reports. Lincoln,
+Nebraska: Animal Science Department, University of Nebraska-Lincoln.
+http://digitalcommons.unl.edu/animalscinber/90.
+Szczesniak, A. S. (1968). Correlations between objective and sensory texture measure-
+ments. Food Technology, 22, 981–986.
+Van Eenennaam, A. L., Thallman, R. M., Quaas, R. L., Dikeman, M. E., Gill, C. A., Franke, D.
+E., et al. (2007). Validation of commercial DNA tests for quantitative beef quality
+traits. Journal of Animal Science, 85, 891–900.
+Van der Werf, J., & Kinghorn, B. (1999). Beef breeding technologies 3. Marker
+assisted selection. DPI&F Note. : Tropical Beef Centre Queensland Australia.
+http://www2.dpi.qld.gov.au/beef/2240.html Accession date: 11/Oct/2007.
+Warner, R. D., Greenwood, P. L., Pethick, D. W., & Ferguson, D. M. (2010). Genetic and
+environmental effects on meat quality. Meat Science, 86, 171–183.
+Wheeler, T. L., Savell, J. W., Cross, H. R., Lunt, D. K., & Smith, S. B. (1990). Effect of post-
+mortem treatments on the tenderness of meat from Hereford, Brahman and
+Brahman-cross beef cattle. Journal of Animal Science, 68, 3677–3686.
+White, S. N., Casas, E., Wheeler, T. L., Shackelford, S. D., Koohmaraie, M., Riley, D. G., et al.
+(2005). A new single nucleotide polymorphism in CAPN1 extends the current
+tenderness marker test to include cattle of Bos indicus, Bos taurus and crossbred
+descent. Journal of Animal Science, 83, 2001–2008.
+Wood, J. D., Richardson, R. I., Nute, G. R., Fisher, A. V., Campo, M. M., Kasapidou, E., et al.
+(2003). Effects of fatty acids on meat quality: A review. Meat Science, 66,21–32.
+Wulf, D. M., O'Connor, S. F., Tatum, J. D., & Smith, G. C. (1997). Using objective measures
+of muscle color to predict beef Longissimus tenderness. Journal of Animal Science,
+75, 684–692.
+Ye, S., Dhillon, S., Ke, X., Collins, A. R., & Day, I. N. M. (2001). An efﬁcient procedure for
+genotyping single nucleotide polymorphisms. Nucleic Acids Research, 29, E88.
+Young, O. A., Priolo, A., Simmons, N. J., & West, J. (1999). Effects of rigor attainment
+temperature on meat blooming and colour on display. Meat Science, 52,47–56.
+774 L.M. Melucci et al. / Meat Science 92 (2012) 768–774

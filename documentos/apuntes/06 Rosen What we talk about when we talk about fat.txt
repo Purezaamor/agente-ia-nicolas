@@ -1,0 +1,2688 @@
+=== Fuente: 06 Rosen What we talk about when we talk about fat.pdf ===
+
+Leading Edge
+Review
+What We Talk About
+When We Talk About Fat
+Evan D. Rosen1,2,3,* and Bruce M. Spiegelman2,4,*
+1Division of Endocrinology, Beth Israel Deaconess Medical Center, Boston, MA 02215, USA
+2Departments of Genetics and Cell Biology, Harvard Medical School, Boston, MA 02215, USA
+3Broad Institute of Harvard and MIT, Cambridge, MA 02142, USA
+4Department of Cancer Biology, Dana-Farber Cancer Institute, Boston, MA 02115, USA
+*Correspondence: erosen@bidmc.harvard.edu (E.D.R.), bruce_spiegelman@dfci.harvard.edu (B.M.S.)
+http://dx.doi.org/10.1016/j.cell.2013.12.012
+There has been an upsurge of interest in the adipocyte coincident with the onset of the obesity
+epidemic and the realization that adipose tissue plays a major role in the regulation of metabolic
+function. The past few years, in particular, have seen signiﬁcant changes in the way that we classify
+adipocytes and how we view adipose development and differentiation. We have new perspective
+on the roles played by adipocytes in a variety of homeostatic processes and on the mechanisms
+used by adipocytes to communicate with other tissues. Finally, there has been signiﬁcant progress
+in understanding how these relationships are altered during metabolic disease and how they might
+be manipulated to restore metabolic health.
+Introduction
+Adipose tissue is a remarkably complex organ with profound
+effects on physiology and pathophysiology, but it has not
+always been viewed in this light. Until the late 1940s, adipose
+tissue was characterized as a form of connective tissue that
+happened to contain lipid droplets, without linking this fact to
+the metabolism of the organism in any meaningful way
+(Figure 1). This gradually began to change with the realization
+that adipose tissue plays a major role in nutrient homeostasis,
+serving as the site of calorie storage after feeding and as the
+source of circulating free fatty acids during fasting. In the late
+1980s to mid 1990s came the discovery of adipose-derived
+serum factors like adipsin, TNF-a, and leptin. Suddenly, adi-
+pose tissue had to be regarded as an endocrine organ at the
+center of energy homeostasis. From this point forward, studies
+on the developmental, functional, and pathophysiological
+aspects of adipose tissue have expanded markedly. The
+renewed interest in fat has occurred simultaneously with a
+tremendous increase in global rates of obesity and type dia-
+betes; this is not coincidence, of course. We have reached
+the inﬂection point at which the global burden of suffering
+due to overnutrition outpaces that due to undernutrition for
+the ﬁrst time in human history, with 1.7 billion people classiﬁed
+as obese (Haslam and James, 2005). Given its central role in
+energy and glucose homeostasis, interest in ‘‘solving’’ the
+adipocyte has never been higher and shows no sign of abate-
+ment.
+This Review will focus on topics in adipose biology that
+are evolving quickly and that shed light on areas of particular
+importance in metabolic health and disease. Such an endeavor
+can never be truly comprehensive, but our goal is to provide a
+sense of the ‘‘state of the ﬁeld’’ for readers both inside and out
+of the adipose community.
+Functions of Fat
+All eukaryotes from yeast to man are able to store calories in
+the form of lipid droplets, but only vertebrates have specialized
+cells that are recognizable as adipocytes (Ottaviani et al.,
+2011). It is unclear whether the lipid-storing cells of lower organ-
+isms, such as the Drosophila larval fat body or intestinal cells of
+C. elegans, represent structures that are truly homologous to
+adipocytes or whether they simply reﬂect convergent evolution
+to solve the problems associated with storing potentially toxic
+lipid molecules. At the molecular level, one can ﬁnd orthologous
+lipid storage genes performing similar functions in worms, ﬂies,
+and mammals, but there are also many exceptions (Young and
+Zechner, 2013).
+Because of the association with metabolic disease, not to
+mention the cosmetic and psychological burden of excess
+body fat, adipocytes are perhaps the most viliﬁed nonmalignant
+cell type in the body. Given that context, it has been easy to over-
+look the many beneﬁts provided by healthy adipose tissue.
+Energy homeostasis and reproduction are arguably the two
+most important biological functions of any organism, and adi-
+pose tissue is inextricably entwined with both. The relationship
+between adiposity and reproduction is quite complex, with fat
+providing nutrients and hormonal signals that regulate the hypo-
+thalamic-pituitary-gonadal axis in both males and females;
+conversely, blocking reproduction increases adiposity in many
+species (Michalakis et al., 2013).
+Adipose tissue also has important mechanical properties,
+serving to protect delicate organs (the eye, for example, is sur-
+rounded by fat in a manner analogous to the way one might
+pack a teacup in bubble wrap) and to cushion body parts
+exposed to high levels of mechanical stress (the heel and toe
+pads, for example, are ﬁlled with fat). Additionally, fat plays an
+important role in streamlining aquatic mammals and in providing
+20 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+insulation; the role of adipose tissue in the latter may be over-
+blown, however, as arctic and tropical mammals display a similar
+distribution of subcutaneous and visceral fat (Pond, 1992). Fatty
+tissues are also used as displays for sexual selection, such as
+the cheek pads of the male orangutan and (in some cultures)
+the human female buttocks (Singleton, 2008).
+By far, however, the most important function of adipose tissue
+is as a master regulator of energy balance and nutritional homeo-
+stasis; how these critical processes are coordinated locally and
+systemically by adipose tissue is a major theme of this Review.
+Adipocytes Are Not All the Same: White, Brown, and
+Beige
+Traditionally, adipocytes have been divided into two types: uni-
+locular white adipocytes make up the bulk of fatty tissue in
+most animals, marbling our steaks and expanding around our
+midsections. Brown adipocytes, on the other hand, are highly
+specialized cells that dissipate stored chemical energy in the
+form of heat. They do this through the actions of uncoupling pro-
+tein-1 (UCP-1), a brown adipose tissue (BAT)-speciﬁc protein
+located within the mitochondria, which are densely packed in
+these cells. UCP-1 catalyzes a proton leak across the inner mito-
+chondrial membrane, thus ‘‘uncoupling’’ fuel oxidation from ATP
+synthesis. Although many models have been proposed to
+explain how UCP-1 works, recent studies suggest that it acts
+as a long-chain fatty acid/H+ symporter (Fedorenko et al.,
+2012). Classic brown adipocytes cluster as speciﬁc depots
+located in the interscapular and perirenal regions of rodents
+and are richly innervated and vascularized (Bartness et al.,
+2010b).
+Evolutionarily, brown adipocytes appear in eutherian
+(placental) mammals; all other vertebrates, including marsupials
+and monotremes, possess only white fat (Hayward and Lisson,
+1992). Interestingly, ‘‘protoendothermic’’ mammals, which
+have body temperatures that track with ambient temperature,
+also have brown adipose tissue, which enables them to maintain
+endothermy selectively while pregnant and caring for their young
+(Oelkrug et al., 2013). Human babies have signiﬁcant brown fat
+depots, presumably to provide heat in the cold environment
+encountered at birth. Adult humans, however, were felt to be
+largely devoid of brown fat unless speciﬁcally challenged by
+chronic cold (as experienced by Scandinavian outdoor workers)
+or by states of catecholaminergic excess (as seen in pheochro-
+mocytoma) (English et al., 1973; Huttunen et al., 1981). The
+existence of signiﬁcant depots of genuine brown fat in adult
+humans, however, was recently proven based upon radiological
+observations of symmetrical [18F]-2-ﬂuoro-D-2-deoxy-D-
+glucose (FDG) positron emission tomography (PET)-positive
+Figure 1. Interest in Adipose Biology Has Risen Over Time
+Papers were identiﬁed in PubMed using the term ‘‘adipose’’ for each year from 1900 to 2012 and are expressed as total number of adipose papers (blue) and
+adipose papers as a percentage of all papers (red). Important events in adipose biology research are indicated by publication date. We are now in the midst of the
+second surge of interest in adipose biology in the last century.
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 21
+loci in the supraclavicular and spinal regions of patients getting
+such scans for cancer diagnosis or staging. These regions
+were subsequently proven by biopsy to contain bona ﬁde
+UCP-1+ adipose tissue consistent with brown fat (Cypess
+et al., 2009; van Marken Lichtenbelt et al., 2009; Virtanen et al.,
+2009).
+In rodents, prolonged cold exposure or adrenergic signaling
+can provoke the appearance of clusters of UCP-1+ cells with a
+brown fat-like morphology within white fat depots. For decades,
+these cells were poorly characterized and were simply called
+brown adipocytes. Their abundance varies dramatically between
+depots, with the highest numbers found in inguinal and retroper-
+itoneal fat and much lower numbers seen in perigonadal fat.
+There are also signiﬁcant strain-speciﬁc differences in the
+number of these cells, which correlates positively with resistance
+to diet-induced obesity (Xue et al., 2007). These inducible cells
+have been called ‘‘beige’’ or ‘‘brite’’ adipocytes and have an
+overlapping but distinct gene expression pattern compared to
+classic brown adipocytes. Both express a core program of ther-
+mogenic and mitochondrial genes, including Ucp1, and murine
+beige (but not classic brown) cells also express the surface
+markers Cd137 and Tmem26 (Wu et al., 2012). Other genes,
+like Zic1, appear to mark classic brown adipocytes, but not beige
+cells (Walde´ n et al., 2012). Are the UCP-1+ cells in humans equiv-
+alent to rodent brown adipocytes, or are they more similar to
+beige cells? Several groups have tackled this issue and have
+come to different conclusions based on the relative expression
+of these and other marker genes. The interscapular brown fat
+Figure 2. Activators of Beige/Brown Fat
+Development and Function
+Many inducers of browning and enhanced ther-
+mogenesis have been discovered. Some of these
+agents appear to work primarily by inducing the
+formation of new beige (e.g., irisin) or brown (e.g.,
+BMP7) adipocytes, whereas others may act on
+both recruitment and enhancement of thermo-
+genic potential.
+of human infants shares extensive simi-
+larity with classic brown fat in rodents
+(Lidell et al., 2013). In adult humans, the
+answer may depend on the speciﬁc
+depot sampled, as cells with both brown
+and beige attributes have been identiﬁed,
+with the brown:beige ratio increasing as
+one moves deeper within the neck and
+back (Cypess et al., 2013; Jespersen
+et al., 2013; Lidell et al., 2013; Sharp
+et al., 2012; Wu et al., 2012).
+We are still early in the process of
+understanding the similarities and differ-
+ences between brown and beige adipose
+cells, and we do not yet have a clear pic-
+ture of their relative importance in energy
+homeostasis. Bioenergetic analysis of
+BAT and WAT that has been rendered
+more brown by exposure to a b-adren-
+ergic compound suggest that both are
+truly thermogenic, with a large fraction of their respiration un-
+coupled. Comparing pure clonal brown and beige cells, it
+appears that the classical brown fat cells have a higher basal
+UCP1 expression and elevated uncoupled respiration (relative
+to white or beige cells) before hormonal stimulation. Beige cells,
+on the other hand, have low basal UCP1 expression and
+uncoupled respiration, comparable to white cells. However,
+stimulation with a b-adrenergic agonist elevates UCP1 to levels
+seen in brown fat cells. This suggests that beige cells are
+uniquely programmed to be bifunctional—suited for energy
+storage in the absence of thermogenic stimuli but fully capable
+of turning on heat production when appropriate signals are
+received (Wu et al., 2012). Interestingly, selective loss of classic
+brown fat (by ablation of the type IA BMP receptor) causes
+compensatory induction of beige fat, restoring both body tem-
+perature and resistance to diet-induced obesity, suggesting sig-
+niﬁcant overlap in function (Schulz et al., 2013).
+One area of particularly rapid growth concerns the physiolog-
+ical activators of thermogenesis in brown and beige cells
+(Figure 2). The role of the sympathetic nervous system (SNS)
+has been long appreciated here, with several hypothalamic
+and extrahypothalamic areas serving as integrators of the cold
+response (Chechi et al., 2013). The SNS does not exert a mono-
+lithic response to central activation but, rather, distributes sig-
+nals to white or brown adipose depots according to need so
+that the effect of food deprivation on SNS input to adipose tissue
+is qualitatively different than the effect of cold exposure (Brito
+et al., 2008). Cold may also have effects on BAT function that
+22 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+do not depend on SNS signaling. For example, white and beige
+(but not brown) adipocytes can directly sense temperature. Mice
+lacking all b-adrenergic receptors show diminished thermogenic
+gene induction in interscapular BAT after cold exposure but still
+demonstrate browning of white fat. This can be replicated by
+placing white or beige cells at 30/C14C in vitro, an effect indepen-
+dent of the traditional cAMP-CREB pathway (Ye et al., 2013).
+The superﬁcial location of subcutaneous white fat may be ideal
+for it to serve as a thermal sensor, although the contribution of
+this pathway to total energy expenditure is still unclear.
+Numerous circulating hormones have been implicated in
+BAT activation in addition to catecholamines, such as triiodothy-
+ronine (T3), which is generated from serum thyroxine in large
+quantities by deiodinase activity within brown and beige adipo-
+cytes. Hepatic bile acids and FGF21 have also been shown to
+enhance browning, as have cardiac hormones like atrial and
+ventricular natriuretic peptides (ANP and BNP) and cardio-
+trophin-1 (Villarroya and Vidal-Puig, 2013). Irisin, a hormone pro-
+duced by skeletal muscle in response to exercise, is also a
+potent inducer of browning (Bostro¨ m et al., 2012). These agents
+act through their respective receptors to induce browning by
+various overlapping mechanisms. Bile acids, for example, acti-
+vate the TGR5 receptor, which in turn induces the deiodionase
+enzyme that promotes intracellular T3 formation (Watanabe
+et al., 2006). Thyroid hormone and catecholamines both induce
+the local formation of BMP8b, which sensitizes the brown adipo-
+cyte to further adrenergic signaling. BMP8b also acts in the brain
+to direct SNS signaling speciﬁcally to BAT (Whittle et al., 2012).
+Various retinoids have also been implicated in brown adipocyte
+activation, at least in part through direct transcriptional effects on
+the Ucp1 gene (Alvarez et al., 1995; Kiefer et al., 2012).
+The vast amount of information that has emerged in the
+past few years on brown and beige fat physiology presents a
+simple question: Why do so many things cause browning?
+Browning in response to a thermal challenge seems obvious
+enough, but why should it have evolved as a response to volume
+overload of the heart or exercise? Perhaps the thermogenic
+response to exercise is a ‘‘tag-along’’ effect, a by-product of
+the ability to promote thermogenesis in response to nonsyn-
+chronous muscle contraction (i.e., shivering) that was neither
+selected for nor against.
+Distinctions among White Fat Depots: Location,
+Location, Location!
+Adipose tissues develop in multiple discrete locations, with
+larger accumulations recognized as speciﬁc depots. The most
+common classiﬁcation scheme distinguishes between subcu-
+taneous and visceral fat, in large part because the latter depot
+has a well-known association with metabolic disease, whereas
+the former does not (or may even be inversely correlated with
+disease risk) (Lee et al., 2013). In fact, the visceral versus subcu-
+taneous scheme is oversimpliﬁed, as there appear to be clear
+distinctions between nominally visceral depots like the perigona-
+dal, mesenteric, and retroperitoneal fat pads, among others.
+Importantly, many depots in humans have no precise correlates
+in mice, and vice versa; for example, a large percentage of
+visceral fat in humans is contained in the omentum, which is
+barely present in rodents. Conversely, the large epididymal fat
+pads of male mice, which are frequently sampled as representa-
+tive of visceral fat, do not exist in men.
+Regardless of these distinctions, there are clearly important
+regional differences in such aspects of adipocyte behavior as
+adipokine secretion and rates of lipolysis and triglyceride syn-
+thesis (Tchkonia et al., 2013). Two hypotheses have been sug-
+gested to explain this phenomenon: either (1) different depots
+have unique innervation and speciﬁc relationships with the circu-
+lation (for example, the venous drainage of visceral fat empties
+into the portal circulation, thus bathing the liver in the by-prod-
+ucts of fat metabolism and adipokines) or (2) cell-autonomous
+mechanisms dictate depot-speciﬁc differences in adipocyte
+physiology. These notions are not mutually exclusive, of course,
+but signiﬁcant evidence has emerged in support of cell-autono-
+mous differences. For example, preadipocytes express gene
+signatures that are speciﬁc for their depot of origin, and they
+continue to behave distinctly even after isolation and prolonged
+passage under identical conditions (Macotela et al., 2012;
+Tchkonia et al., 2013). Transplantation studies have put this to
+the direct test; placing visceral fat into a subcutaneous position
+has very little effect, but transplanting subcutaneous fat to the
+visceral compartment leads to reduced adiposity and improve-
+ment in glucose homeostasis (Tran and Kahn, 2010). These
+results indicate that there are intrinsic differences between
+depots and also imply that subcutaneous fat may have beneﬁcial
+effects on metabolism.
+Interestingly, many diseases that affect adipose tissue show
+depot-speciﬁc effects. For example, glucocorticoid excess due
+to either endogenous overproduction or pharmacological
+therapy is associated with redistribution of fat to visceral stores
+with relative wasting of subcutaneous fat. A similar pattern is
+seen in the acquired lipodystrophy associated with certain HIV
+treatment regimens. Congenital lipodystrophy can also preferen-
+tially affect speciﬁc depots, with different patterns of fat loss
+associated with distinct genetic lesions. Thus, although muta-
+tions in BSCL2 cause loss of fat in all depots, mutations in
+CAV1, AGPAT2, and PTRF are associated with the absence of
+metabolically active depots, but not mechanical sites like the
+palm, sole, and retro-orbital depots; patients with LMNA muta-
+tions lose subcutaneous fat preferentially from the trunk and
+extremities, but not the face and neck (Garg, 2011). The patho-
+physiological mechanisms that account for these patterns
+remain elusive.
+The Developmental Origins of Adipose Tissue: A Bloody
+Mess
+The developmental timing of adipose tissue formation varies
+somewhat between species. In rodents, white adipose tissue
+appears largely after birth, although using sensitive reporters,
+one can see expression of adipose-speciﬁc markers in the
+subcutaneous region as early as embryonic days 16.5–17.5,
+and lipid-ﬁlled subdermal adipocytes can be detected 1 day
+after that (Birsoy et al., 2011; Greenwood and Hirsch, 1974).
+Visceral fat develops later, becoming visible by postnatal day
+7; committed precursor cells are not even found in the nascent
+epididymal pad until postnatal day 4 (Han et al., 2011). Similarly,
+zebraﬁsh do not develop adipocytes or discernible precursor
+cells until after the larval stage (Flynn et al., 2009). In humans,
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 23
+however, one sees obvious white fat development by the 14th
+week of gestation, although the precise timing may depend to
+some degree on fetal size, with larger fetuses developing identiﬁ-
+able adipocytes earlier than smaller ones (Poissonnet et al.,
+1983, 1984). Proliferation tends to diminish late in gestation,
+and adiposity increases primarily by ﬁlling of predetermined
+cells until age 10 or so, followed by a period of increased cellu-
+larity that lasts through adolescence. This period sets the total
+number of adipocytes that the individual will have as an adult,
+although new cells are constantly being created and destroyed
+throughout life (Knittle et al., 1979). In humans, roughly 8% of
+adipocytes are turned over approximately every year, whereas
+in mice, 0.6% of adipocytes are renewed each day (Rigamonti
+et al., 2011; Spalding et al., 2008).
+From a cellular perspective, adipocytes develop from pre-
+adipocytes, which themselves derive from precursor cells, which
+carry a bewildering array of names in the burgeoning literature
+(Cawthorn et al., 2012). In general, the so-called stromal-
+vascular fraction (SVF) is separated from mature adipocytes by
+collagenase digestion and low-speed centrifugation. When the
+SVF is cultured ex vivo, blood cells, endothelial cells, and other
+nonﬁbroblastic cells do not attach to the dish. What remains
+can be almost completely differentiated using a hormonal cock-
+tail that typically includes insulin, a glucocorticoid, a phosphodi-
+esterase inhibitor, and often a PPARg agonist. This does not
+allow, however, for identiﬁcation of the speciﬁc cell type within
+the SVF that populates the mature adipocyte fraction in vivo,
+and this has spurred a number of studies involving selective
+ﬂow sorting using antibodies against various cell surface
+markers. Most of these studies have shown that mesenchymal
+and stem cell markers such as CD34 and Sca-1 strongly enrich
+for adipogenic precursors (Cawthorn et al., 2012). Additional
+insight was gained when CD45–;CD31–;Ter119–;CD29+;
+CD34+;Sca-1+ cells were separated based on their CD24 status.
+Both CD24+ and CD24– cells could be converted to adipocytes in
+a dish, but only the former could reconstitute a functional fat pad
+when transplanted into a lipodystrophic mouse, and only when
+placed in an appropriate microenvironment (Rodeheffer et al.,
+2008).
+Adipocytes develop from mesenchyme, which is primarily of
+mesodermal origin. In the cephalic region, however, mesen-
+chyme derives from the neurectoderm, and thus adipocytes in
+this part of the body are ectodermal (Billon et al., 2007). The
+earliest recognizable structure that will become a fat pad is a
+cluster of blood vessels originally called a ‘‘primitive organ’’;
+these structures have been identiﬁed in creatures as diverse as
+reptiles, chickens, mice, and humans (Wassermann, 1965).
+This observation, when combined with ultrastructural data
+suggesting tight apposition of the vasculature and the devel-
+oping fat pad and other studies suggesting a functional link
+between adipogenesis and angiogenesis (Cinti et al., 1984;
+Fukumura et al., 2003), led to suspicions that adipocytes might
+derive from cells associated with blood vessels. Several line-
+age-tracing experiments have strongly supported this idea. For
+example, early adipose progenitors within the fat pads of young
+mice express PPARg; these cells are physically associated with
+the walls of intra-adipose blood vessels. PDGFRb marks cells of
+the mural compartment of the blood vessel, and can be used to
+enrich for cells with adipogenic potential. In these studies, all
+adipose progenitors were marked with PDGFRb, but not all
+PDGFRb+ cells had adipogenic potential (Tang et al., 2008). In
+another study, cells were ﬂuorescently labeled using a Zfp423
+driver, a critical transcriptional regulator in adipose lineage
+commitment. These cells, which have high potential for adipo-
+genic conversion, are also contained within the perivascular
+compartment (Gupta et al., 2012). Interestingly, this study further
+suggested that a subpopulation of endothelial cells might also
+give rise to adipocytes, a notion supported by a separate line-
+age-tracing study using Cre recombinase driven by the VE-
+cadherin promoter (Tran et al., 2012). It should be pointed out,
+however, that knocking out PPARg with a different endothelial
+Cre line (Tie2-Cre) does not affect adipose development or
+PPARg expression within adipocytes (Kanda et al., 2009). Simi-
+larly, a recent lineage-tracing study failed to detect an adipose
+progenitor population located within either the endothelial or
+perivascular compartments; instead, this study identiﬁed a com-
+mon PDGFRa+ precursor for all white adipocytes that was
+distinct from PDGFRa+ cells found within the vessel wall (Berry
+and Rodeheffer, 2013).
+It has been proposed that some adipocytes derive from
+hematopoietic precursors. This notion was originally suggested
+60 years ago (McCullough, 1944) and has regained currency
+through the use of sophisticated imaging and bone marrow
+transfer techniques (Majka et al., 2010). Others, however, have
+failed to conﬁrm these results (Berry and Rodeheffer, 2013;
+Koh et al., 2007), and though we cannot rule out the possibility
+that some adipocytes may derive from hematopoietic origins, it
+appears that this is not a major pathway for adipocyte develop-
+ment.
+Brown fat has a different developmental pattern than white fat.
+So-called altricial mammals, which have a short gestation period
+and are born with an immature hypothalamic-pituitary-adrenal
+(HPA) axis (e.g., mice and rats), stay warm in the extrauterine
+environment by huddling in the nest and not by using nonshiver-
+ing thermogenesis. Thus, although interscapular BAT can be
+identiﬁed during rodent embryogenesis, it does not express
+signiﬁcant amounts of UCP-1 until it matures during the post-
+natal period. In contrast, precocial mammals have a long gesta-
+tion; such species, which include sheep and humans, are able to
+rapidly switch on nonshivering thermogenesis at birth. UCP-1
+expression peaks at birth and then slowly diminishes as brown
+adipocytes are replaced by white fat cells (Symonds, 2013).
+For quite some time, it was assumed that brown and white
+adipocytes share a common precursor—a reasonable con-
+clusion, given the numerous similarities between the two cell
+types. Surprisingly, however, data obtained over the last few
+years have shown unambiguously that muscle and classical
+brown fat derive from the same or very similar precursors. This
+notion took ﬂight with the identiﬁcation of the transcriptional
+cofactor PRD1-BF-1-RIZ1 homologous domain-containing
+protein-16 (PRDM16) as a dominant regulator of the brown fat
+program (Seale et al., 2007). When PRDM16 is knocked down
+in primary brown fat cultures, a phenotypic switch to skeletal
+muscle is seen, while expression of PRDM16 in myoblasts
+switches them to brown fat (Seale et al., 2008). Additionally,
+lineage-tracing studies using the muscle-selective Myf5-Cre
+24 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+showed that skeletal muscle and classical brown fat share a
+common precursor (Seale et al., 2008), with the divergence
+occurring between days 9.5 and 12.5 of mouse gestation (Lep-
+per and Fan, 2010). These ﬁndings helped to explain gene
+expression studies showing that brown preadipocytes express
+some myogenic genes not seen in white preadipocytes (Tim-
+mons et al., 2007). It should be noted that one study has
+concluded that Myf5+ precursors give rise to some white adipo-
+cytes (Sanchez-Gurmaches et al., 2012); generally speaking,
+however, most evidence suggests that white and brown adipo-
+cytes take different developmental paths (Figure 3).
+Beige adipocytes do not derive from the same Pax7+Myf5+
+precursor cells that give rise to classic interscapular BAT (Seale
+et al., 2008); indeed, this is the major evidence that these are
+distinct cell types. Two major theories have been proposed for
+the origin of these cells. One school of thought holds that these
+cells derive from transdifferentiation of existing mature white
+adipocytes. This idea emerges from observations that cold
+exposure or treatment with a b3 agonist does not induce cellular
+proliferation in the newly browned fat pad. Furthermore, cells
+with the morphological appearance of a transition form between
+white and brown fat can be identiﬁed (Himms-Hagen et al., 2000;
+Vitali et al., 2012). Others, however, have proposed that beige
+adipocytes derive from unique precursor cells within the white
+fat pad; such cells can, in fact, be identiﬁed using sorting and/
+or cloning by limiting dilution (Lee et al., 2012; Schulz et al.,
+2011; Vegiopoulos et al., 2010; Wu et al., 2012). Two genetic-
+tracing studies have shed light on this issue. In one, the appear-
+ance of beige adipocytes upon cold exposure was shown to
+require new adipogenesis (Wang et al., 2013). The second study
+used different markers to demonstrate that the beige adipocytes
+appearing in response to an initial period of cold exposure take
+on the morphology and gene expression pattern of a typical
+white adipocyte after reintroduction to warm conditions (Rose-
+Figure 3. Different Origins for Distinct
+Types of Adipocyte
+White and beige adipocytes derive from Pax7–/
+Myf5– cells via distinct precursor cells. Beige adi-
+pocytes differentiate following activation by cold
+or other inducers. After cold challenge is removed,
+these cells become inactive, taking on the
+morphology of a ‘‘white’’ adipocyte. Classic brown
+fat, in contrast, comes from a Pax7+/Myf5+ lineage
+shared with skeletal muscle.
+nwald et al., 2013). Furthermore, upon
+placement in the cold for a second time,
+many of these cells reinduce the thermo-
+genic program. One may thus postulate a
+unifying model in which a dedicated
+precursor cell differentiates into a beige
+adipocyte (without a requirement for pro-
+liferation) when conditions require it to do
+so, followed by conversion back to an
+energy-storing ‘‘white’’ adipocyte when
+heat generation is no longer a priority.
+This subpopulation of white adipocytes
+then forms a pool of potentially thermo-
+genic cells that can be called upon if environmental conditions
+change. It should be noted that this is not the ﬁrst example of
+such malleability in adipose biology; mammary adipocytes of
+virgin female mice are converted to secretory epithelial cells
+during pregnancy and lactation, followed by reconversion to
+adipocytes during mammary involution (Morroni et al., 2004).
+Collectively, these studies demonstrate that certain adipose
+populations show extraordinary plasticity when physiological
+conditions change.
+We are now in a period during which new information on the
+developmental origins of adipose tissue is being accumulated
+rapidly. At present, it is difﬁcult to reconcile all of the published
+data into a coherent framework. Some of this is certainly due
+to experimental variability, with questions arising about the
+ﬁdelity of different transgenic Cre lines and the speciﬁcity of
+antibodies used for sorting and staining, among other technical
+issues. We believe, however, that there is likely a strong compo-
+nent of natural variability, with different depots and different
+mouse strains displaying heterogeneity that underlies the
+extraordinary plasticity of this cell type.
+Additional Developments in Adipocyte Development:
+Epigenomic and Transcriptional Clues
+At the cellular level, adipogenesis can be thought of as occurring
+in two phases: determination and terminal differentiation. During
+determination, possible alternate fates of an adipose precursor
+cell become progressively restricted such that it becomes
+‘‘committed’’ to the adipose lineage and becomes a preadipo-
+cyte. Terminal differentiation, on the other hand, describes the
+process by which the preadipocyte acquires the characteristics
+of the mature adipocyte. Because most of the cellular models
+that have been employed to study adipogenesis are already
+committed to the adipose lineage (e.g., 3T3-L1, 3T3-F442A),
+we know much more about the process of terminal differentiation
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 25
+than we do about determination. Furthermore, we know very
+little about mechanisms of adipogenesis in vivo, as the means
+of studying this are mostly indirect.
+Several well-studied signaling pathways help to direct multi-
+potent cells to decide between adipogenic and nonadipogenic
+fates. Most of these studies have been performed using bone-
+marrow-derived mesenchymal cells, and thus the ‘‘bone-fat
+switch’’ is the most commonly described fate choice. The Wnt
+and hedgehog pathways, for example, tend to promote osteo-
+genesis and inhibit adipogenesis in both committed and uncom-
+mitted precursor cells (Rosen and MacDougald, 2006). These
+pathways utilize different signaling intermediates, but both
+have been reported to converge on the transcription factor
+COUP-TFII, which inhibits proadipogenic transcription factors
+like PPARg and C/EBPa (Okamura et al., 2009; Xu et al., 2008).
+Interestingly, noncanonical signaling via Wnt5b tends to promote
+adipogenesis, at least in part by blocking b-catenin-mediated
+signals from classic Wnt signals (Kanazawa et al., 2005).
+Conversely, IGF/insulin signaling is strongly proadipogenic
+(Garten et al., 2012). For many other pathways, it has been difﬁ-
+cult to draw general conclusions because results depend on the
+speciﬁc ligand, cell type, stage of differentiation, or other exper-
+imental conditions. The TGFb/BMP superfamily provides an
+instructive example. TGFb and its downstream effector Smad3
+have been shown to exert both pro- and anti-adipogenic actions
+in different in vitro and ex vivo models (Choy et al., 2000; Yadav
+et al., 2011). Among the BMPs, BMP2 and BMP4 have been
+shown to increase both osteogenesis and adipogenesis, de-
+pending upon other components of the differentiation cocktail,
+whereas BMP7 promotes brown adipogenesis speciﬁcally
+(Zamani and Brown, 2011). Still other members of the superfam-
+ily, like the activins, have also been reported to have disparate
+effects on adipogenesis and adiposity (Dani, 2013). Similarly,
+the ﬁbroblast growth factor (FGF) and Notch-signaling pathways
+have been reported to have complex effects on adipogenesis
+(Rosen and MacDougald, 2006).
+The transcriptional cascade that promotes adipogenesis has
+also been studied at length, and again, the most detailed infor-
+mation concerns the factors and pathways that promote and
+repress terminal differentiation. The ‘‘master regulator’’ of fat
+cell formation is PPARg, as it is both necessary and sufﬁcient
+for adipogenesis; PPARg is so potent an adipogenic factor that
+it can drive nonadipogenic cells like ﬁbroblasts and myoblasts
+to become adipocytes (Hu et al., 1995; Tontonoz et al., 1994).
+Consistent with murine studies, humans with rare loss-of-func-
+tion mutations in PPARg have lipodystrophy and severe insulin
+resistance. The bZIP factors C/EBPa, C/EBPb, and C/EBPd
+are also important inducers of adipogenesis, with C/EBPb and
+d acting early in terminal differentiation. Differentiation is ‘‘locked
+in’’ by a positive feedback loop between PPARg and C/EBPa
+(Rosen et al., 2002; Wu et al., 1999); a second positive feedback
+loop between PPARg and C/EBPb reinforces the decision to
+differentiate (Park et al., 2012). Many of these factors bind at
+common genomic ‘‘hot ‘‘spots,’’ with early factors establishing
+chromatin accessibility at the same locations that will later be
+bound by downstream factors (Siersbaek et al., 2012). In the
+years since this core pathway was uncovered, many other tran-
+scription factors have been identiﬁed that promote or inhibit adi-
+pogenesis; most of these exert their actions at least in part by
+inducing or repressing expression of PPARg (Cristancho and
+Lazar, 2011; Rosen and MacDougald, 2006). PPARg, in turn,
+directly binds to and regulates a huge number of genes that
+control virtually all aspects of adipocyte metabolism. Interest-
+ingly, genome-wide localization analysis shows that a surpris-
+ingly low number of PPARg-binding sites are conserved
+between mouse and human; the speciﬁc genes and gene sets
+that are regulated by PPARg, however, are highly concordant
+(Mikkelsen et al., 2010; Schmidt et al., 2011; Soccio et al., 2011).
+There has been recent progress in identifying transcription
+factors involved in adipose determination. An expression screen
+in embryonic ﬁbroblasts with and without adipogenic potential
+identiﬁed Zfp423 as a transcriptional determinant of the adipose
+lineage (Gupta et al., 2010). Zfp423 induces adipose lineage
+commitment by amplifying the effects of BMPs via a SMAD-
+interaction domain. Zfp423 expression in the developing adi-
+pocyte is repressed by the highly related factor Zfp521, which
+promotes osteogenesis and inhibits adipogenesis through inter-
+actions with Ebf1, another transcription factor required for early
+adipose commitment (Festa et al., 2011; Kang et al., 2012).
+Tcf7l1 also regulates adipogenic lineage commitment, although
+it acts in a very different manner by responding to conﬂuency and
+mediating changes in structural proteins that regulate differenti-
+ation (Cristancho et al., 2011).
+The core elements of the adipogenic transcriptional cascade
+appear to be shared by most adipose depots, although details
+can differ. For example, mice lacking C/EBPa are generally
+lipodystrophic but still have mammary fat and brown adipose
+tissue (Linhart et al., 2001). Similarly, animals lacking Ebf1 are
+lipodystrophic except in the bone marrow, where the adipocytes
+are quite hypertrophic (Hesslein et al., 2009). How these special-
+ized depots compensate for the loss of these otherwise critical
+factors is unknown but may involve the selective use of related
+transcription factors like C/EBPb and Ebf2. Ebf2 seems to be
+particularly important for brown fat development, as it recruits
+PPARg to unique sites that determine brown adipocyte identity
+(Rajakumari et al., 2013).
+Interestingly, much of the specialized function of brown adi-
+pocytes is controlled by transcriptional cofactors, which do not
+bind DNA directly but which determine which targets are bound
+and activated by transcription factors. The best-studied of these
+is PGC-1a, which is a dominant regulator of mitochondrial
+biogenesis, oxidative metabolism, and thermogenesis in brown
+fat (Puigserver and Spiegelman, 2003). PGC-1a exerts its
+actions on mitochondria and oxidation via interactions with tran-
+scription factors like ERRa, Nrf-2, PPARa, and PPARg (Gigue` re,
+2008; Puigserver and Spiegelman, 2003); the transcription factor
+partners of PGC-1a that control thermogenesis are still un-
+known. Interestingly, though ablation of PGC-1a reduces the
+expression of many thermogenic genes, other brown fat-selec-
+tive genes remain unaffected. This suggests that other factors
+might also be important in brown fat identity, which led to the
+identiﬁcation of PRDM16, another coregulator (Seale et al.,
+2007). PRDM16 binds C/EBPb (and presumably other transcrip-
+tion factors) and recruits the corepressor proteins CtBP1 and
+CtBP2 to prevent gene expression associated with either white
+fat or muscle (Kajimura et al., 2009; Kajimura et al., 2008). Other
+26 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+cofactors, such as RIP140, SRC-1/2/3, TRIP-Br2, and the
+pocket proteins pRb and p107, also exert important effects on
+brown fat development and function (Liew et al., 2013; Seale
+et al., 2009). TLE3 is a particularly interesting cofactor in that it
+competes with PRDM16 for PPARg binding, blocking thermo-
+genesis in favor of genes more indicative of white adipose tissue.
+Animals that overexpress TLE3 in fat display impaired brown fat
+function, while adipose-speciﬁc knockouts have the opposite
+phenotype (Villanueva et al., 2013).
+Finally, there has been signiﬁcant attention paid to the role
+of noncoding RNAs in adipose differentiation. MicroRNA
+(miRNA) in particular has been studied in this regard; at least
+20 miRNA species have now been shown to affect adipogenesis,
+though some are not speciﬁc for fat and appear to be required for
+mesenchymal cell differentiation generally (Oskowitz et al.,
+2008). Some miRNAs affecting adipogenesis target transcription
+factors like PPARg and C/EBPa directly, whereas others regu-
+late important signaling pathways like insulin-Akt, TGFb, and
+Wnt (Chen et al., 2013b). Other miRNAs have a preferential effect
+on brown and/or beige adipocyte formation and function,
+including some that target PRDM16 and C/EBPb (Trajkovski
+and Lodish, 2013). Several long noncoding RNAs (lncRNAs)
+have also been shown to be regulated by PPARg and C/EBPa
+and to affect to adipocyte differentiation (Sun et al., 2013b),
+though the mechanisms must still be worked out.
+Adipose Tissue Expansion in Obesity: Go Big versus Go
+Forth and Multiply!
+One of the unique attributes of adipose tissue is its incredible
+capacity to change its dimensions; no other nonneoplastic tissue
+shares this feature to the same degree. In principle, this can be
+accomplished by increasing the size of individual cells (hyper-
+trophy) or by recruiting new adipocytes from the resident pool
+of progenitors (hyperplasia). In the face of overnutrition, adipose
+depots expand ﬁrst by hypertrophy until a critical threshold is
+reached (/C240.7–0.8 ug/cell), upon which signals are released
+that induce the proliferation and/or differentiation of preadipo-
+cytes (Krotkiewski et al., 1983). In humans, overfeeding for
+several months causes increases in cell size but not cell number
+(Salans et al., 1971); a more recent version of this study suggests
+that overnutrition induces hypertrophy in upper-body sub-
+cutaneous fat but hyperplasia in depots below the waist (Tchou-
+kalova et al., 2010). More recently, stable isotope labeling from
+midcentury nuclear weapons testing was exploited to suggest
+that adipocyte number becomes ﬁxed during childhood and
+early adulthood, with obese people achieving a higher ‘‘plateau’’
+(Spalding et al., 2008).
+Interestingly, once adipocytes are gained, they are hard to
+lose, as even signiﬁcant weight loss is associated with a reduc-
+tion in adipocyte volume, but not overall number (Bjo¨ rntorp
+et al., 1975; Kral et al., 1977). This is not to say that adipocytes
+never die, as /C248% of human subcutaneous adipocytes turn
+over each year, with birth and death rates matched to result in
+little change in total cell number (Spalding et al., 2008). Adipo-
+cytes may die via necrosis or apoptosis, although the relative
+contribution of each process is debated (Cinti et al., 2005). Ro-
+dent studies suggest that there is a sharp, depot-speciﬁc in-
+crease in the death rate of adipocytes in obesity, with up to
+80% of epididymal adipocytes dying after a few months of
+high-fat feeding, while only 3% of inguinal adipocytes met the
+same fate (Strissel et al., 2007). This is matched by high prolif-
+eration and differentiation rates so that overall fat mass con-
+tinues to increase as obesity progresses. This adds a layer of
+complexity to the model discussed above, such that hypertro-
+phy is followed by cell death and, ﬁnally, by the appearance
+of new adipocytes. This notion is supported by serial analysis
+of individual Zucker fatty rats, which appear to cycle between
+hypertrophy and hyperplasia as obesity progresses (MacKellar
+et al., 2010). Other recent data also support a role for both
+hyperplasia and hypertrophy upon high-fat feeding (Wang
+et al., 2013). Macrophages play an integral role in this process,
+with a possible role for both M1 and M2 subtypes (Strissel et al.,
+2007).
+The observation that obesity can be associated with adipocyte
+hyperplasia, in rodents at least, has contributed to a popular
+though false notion: that adipogenesis per se can cause obesity.
+This idea has been bolstered by data showing that manipulation
+of many genes can cause obesity in vivo while also causing
+increased adipogenesis when tested in vitro. It is important to
+remember, however, that increased adipogenesis is not the
+primary driver of obesity in these models. The energy balance
+equation tells us that overnutrition (or reduced energy expendi-
+ture) is the culprit and that the increase in adipogenesis is driven
+by the need to store excess calories. Sensibly, the same molec-
+ular effectors that provoke increased food intake or reduced
+energy expenditure also promote the formation of new cells
+adapted to handling the increased calories safely.
+Adipose Tissue Remodeling during Obesity: Are We Too
+Fat or Not Fat Enough?
+The ability of the adipose depot to change its size dramatically in
+response to nutritional demands requires a unique capacity to
+remodel, the mechanisms of which are now being elucidated.
+Signiﬁcant attention has focused on the role of hypoxia, with
+numerous parallels being drawn to tumor biology, another
+example of a tissue that expands rapidly. As with cancer, adi-
+pose tissue has the potential to outgrow its blood supply. The
+ability of adipose tissue to promote its own vascularization and
+the possibility of exploiting this as a metabolic therapy are dis-
+cussed in greater detail below. Despite efforts to recruit new
+blood vessels during adipose tissue expansion, however, hypox-
+ia may develop, though some studies have shown normal or
+even elevated oxygen tension in fat pads of obese subjects
+(Trayhurn, 2013). These discrepancies may be based on tech-
+nical variables and the difﬁculty of measuring oxygen tension
+in living tissues. Nonetheless, the oxygen-sensitive transcription
+factor HIF-1a does become activated in obese adipocytes
+(Krishnan et al., 2012). Overexpression of HIF-1a in adipose
+tissue in vivo causes metabolic dysfunction, whereas adipose-
+selective ablation of HIF-1a has the opposite effect (Sun et al.,
+2013a). Several mechanisms have been postulated to account
+for the actions of HIF-1a, including suppression of b-oxidation
+via transcriptional repression of Sirt1, which deacetylates (and
+thus activates) PGC-1a (Krishnan et al., 2012); reduction of adi-
+ponectin (Jiang et al., 2013); and promotion of ﬁbrosis and
+inﬂammation (Halberg et al., 2009).
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 27
+Fibrosis is an additional key element in determining the health
+of the fat pad (Figure 4). Adipocytes can be likened to ‘‘grapes in
+a mesh bag,’’ with elements of the extracellular matrix serving as
+the mesh. Fat cells express a wide variety of matrix proteins as
+well as the enzymes required to break them down, and the
+expression of these genes is highly regulated by changes in
+nutrient availability (Maquoi et al., 2002). Current thinking holds
+that relaxation of the matrix allows healthy expansion of the fat
+pad; if the matrix is too rigid, then adipocytes become limited
+in their ability to store excess nutrients, and this leads to patho-
+logical features that include activation of stress-related path-
+ways, inﬂammation, and ectopic lipid deposition in other tissues
+(Sun et al., 2013a). Collagen VI, for example, is the predominant
+form of collagen produced by adipocytes. When the Col6a1
+gene is disrupted in leptin-deﬁcient ob mice, they develop
+much larger adipocytes than wild-type littermates (but smaller
+fat pads overall, for unclear reasons), coupled with reduced
+inﬂammation and improved glycemic and lipid parameters
+(Khan et al., 2009). More recently, ﬁbroblast growth factor 1
+(FGF1) was shown to be a critical mediator of adipose remodel-
+ing, such that Fgf1/C0//C0 mice display dramatically altered adipose
+morphology upon chronic overfeeding or fasting, accompanied
+by insulin resistance and dysglycemia (Jonker et al., 2012).
+The Col6a1-deﬁcient model and others with similar features
+have been likened to a subgroup of human subjects called the
+‘‘metabolically healthy obese’’ (MHO). These individuals tend
+to have reduced visceral adiposity, increased adiponectin levels,
+reduced ﬁbrosis and inﬂammation, and improved glucose and
+lipid homeostasis relative to other equally obese subjects (Denis
+and Obin, 2013). Importantly, however, the human MHO popula-
+tion tends to have smaller adipocytes than other obese people
+(Klo¨ ting et al., 2010), suggesting that increased expansibility
+may not account for the improved metabolic proﬁle of these
+patients. An alternative hypothesis is that increased adipogene-
+sis, resulting in numerous, smaller adipocytes with excellent
+Figure 4. Adipocyte-Matrix Interactions
+Play a Role in the Pathology of Obesity
+Adipocytes secrete numerous matrix proteins that
+maintain the structure of the depot. During over-
+nutrition, adipocytes increase in size until further
+expansion becomes limited by the matrix, which
+undergoes ﬁbrotic changes. This triggers changes
+that include hypoxia, inﬂammation, and cell death,
+all of which contribute to insulin resistance.
+glucose uptake and a healthy adipokine
+proﬁle, may account for the improved
+metabolic health of some obese patients.
+This is consistent with other lines of evi-
+dence demonstrating that thiazolidine-
+dione treatment improves metabolic
+parameters despite increasing adipocyte
+cell number and total adiposity (Tang
+et al., 2011; Yamauchi et al., 2001), as
+well as ﬁndings that metabolically un-
+healthy obese patients have a diminished
+preadipocyte pool (Gustafson et al.,
+2013). Whether increased expansibility
+or increased adipogenesis accounts for the phenotype of the
+MHO individual, it certainly raises the paradox that the health
+of the obese population might be improved if we made them
+even more obese. We do not, however, expect that this will
+become a high priority for the pharmaceutical industry.
+Adipocyte-Immune Cell Interactions: Come Over to My
+Pad!
+In addition to a matrix of extracellular proteins, adipocytes
+are surrounded by a wide variety of cells that includes endo-
+thelium, immune cells, ﬁbroblasts, preadipocytes, and stem
+cells. Overall, mature lipid-laden adipocytes are believed to
+make up only 20%–40% or so of the cellular content of a fat
+pad (although they account for >90% of fat pad volume); every
+gram of adipose tissue contains 1–2 million adipocytes but 4–6
+million stromal-vascular cells, of which more than half are leuko-
+cytes (Kanneganti and Dixit, 2012). Immune cells have been
+known to populate the fat pad for decades (Hellman et al.,
+1963), but it was not clear until recently that these cells play a
+central role in adipose biology (Figure 5). This realization began
+with the observation that adipose tissue is an important source
+of TNF-a and other cytokines, an effect magniﬁed by overnutri-
+tion (Hotamisligil et al., 1993). These proinﬂammatory cytokines
+signiﬁcantly impair the insulin sensitivity of local adipocytes and
+also liver and muscle. Later work showed that many of these
+cytokines are produced by macrophages within the fat pad
+rather than the adipocytes themselves (Weisberg et al., 2003;
+Xu et al., 2003). These macrophages can be observed histolog-
+ically as ‘‘crown-like structures’’ surrounding adipocytes, partic-
+ularly in obese visceral fat; their uneven distribution has been
+attributed to clustering around dead or dying adipocytes (Cinti
+et al., 2005). Phenotypically, macrophages exist along a
+spectrum, the poles of which have been designated M1 (or
+‘‘classically activated’’) and M2 (or ‘‘alternatively activated’’).
+M1 macrophages have a proinﬂammatory phenotype; they
+28 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+express the surface marker CD11c and cytokines like TNF-a,
+IL-6, and IL-1b in response to LPS and IFN-g. M2 macrophages,
+on the other hand, express the surface markers CD206 and
+CD301; they play a role in tissue remodeling and wound healing
+and respond to IL-4 and IL-13 by secreting anti-inﬂammatory
+cytokines like IL-10 and IL-1 receptor antagonist. In lean animals,
+M2 macrophages dominate the adipose tissue resident popula-
+tion. As obesity progresses, however, more M1 macrophages
+inﬁltrate the fat pad, causing insulin resistance (Oh et al.,
+2012). It is worth noting that adipose M2 macrophage numbers
+do not diminish in obesity and, in fact, may increase; but there
+is a major shift in the M1/M2 ratio favoring a proinﬂammatory
+state (Lumeng et al., 2007a, 2007b).
+Other innate and adaptive immune cells also play a signiﬁcant
+role in setting the inﬂammatory tone of the obese fat pad; in fact,
+virtually all known classes of immune cell have been implicated
+in this process. Neutrophils, mast cells, B lymphocytes, and
+various classes of T lymphocyte (e.g., CD8+ and CD4+ Th1 cells)
+all increase in abundance in the obese fat pad, and all exert
+negative effects on insulin sensitivity (Mathis, 2013). Conversely,
+eosinophils and innate lymphoid (ILC2) cells act to reduce
+inﬂammation and thus restore insulin sensitivity (Molofsky
+et al., 2013; Wu et al., 2011). Regulatory T cells (Tregs) are
+CD4+Foxp3+ immune cells that play a key role in controlling other
+immune cells, including macrophages. Tregs are enriched in
+normal rodent visceral fat but are strongly decreased upon the
+development of obesity (Feuerer et al., 2009). Furthermore,
+experimental depletion of adipose Tregs promotes insulin resis-
+tance, with enhancement of Treg numbers showing the opposite
+effect; these attributes are not shared by lymphoid Tregs (Eller
+et al., 2011; Ilan et al., 2010). The special properties of Tregs
+from visceral adipose tissue are due to the fact that they express
+PPARg (Cipolletta et al., 2012). Interestingly, M2 macrophages
+also express PPARg (Odegaard et al., 2007), aligning nicely
+with long-time reports that PPARg can promote insulin sensi-
+Figure 5. Immune Cells Are Integral Com-
+ponents of the Fat Pad in Leanness and
+Obesity
+The lean fat depot contains many types of immune
+cells, dominated by resident M2 macrophages,
+eosinophils, and Tregs. In the setting of over-
+nutrition, there is accumulation of proinﬂammatory
+cells, including M1 macrophages, mast cells, and
+various T lymphocyte classes.
+tivity through multiple tissues (Tontonoz
+and Spiegelman, 2008). NKT cells have
+also been implicated in insulin resistance
+and intra-adipose inﬂammation, but the
+data from different groups are highly
+contradictory (Mathis, 2013). In fact,
+caution must be used in interpreting
+much of the literature on adipose-
+immune cell interactions, as many exper-
+imental manipulations affect more than
+one cell type. Furthermore, some ap-
+proaches affect body weight, which
+could imply primary actions in other tissues (e.g., the gut or brain)
+that secondarily affect adipose function.
+The precise temporal sequence of inﬂammatory cell inﬁltration
+into adipose tissue is still unclear. Similarly, we do not fully
+understand the full range and interconnectedness of the initiating
+events that link overnutrition to inﬂammation. Adipocyte ‘‘stress’’
+due to overnutrition has been linked to oxidative stress, endo-
+plasmic reticulum stress, and Toll-like receptor activation due
+to fatty acids and/or lipopolysaccharide (LPS), which may be
+elevated in the serum of obese subjects (Cani et al., 2007; Hota-
+misligil, 2010; Houstis et al., 2006; Shi et al., 2006). Ultimately,
+these insults cause upregulation of various chemokines in adipo-
+cytes, which recruit immune cells to the fat pad. These chemo-
+kines include MCP-1, Ccl5, and others (Ota, 2013). Two recent
+studies suggest that adipocytes may act as the antigen-present-
+ing cells (APCs) that activate resident T cells shortly after the initi-
+ation of high-fat diet (Deng et al., 2013; Huh et al., 2013), though
+others suggest that adipose tissue macrophages are the relevant
+APCs (Morris et al., 2013). Notably, the speciﬁc antigens that
+signal the overnourished state and trigger T cell activation are
+still undeﬁned.
+Classic inﬂammation is characterized by rubor (redness),
+tumor (swelling), dolor (pain), and calor (heat). Clearly, when
+we overeat or become overweight, our adipose tissue does not
+become hot and painful like an inﬂamed wound or an arthritic
+joint. It is not entirely clear how inﬂammation is regulated during
+overnutrition so that a chronic, low-grade state of immune cell
+activation and cytokine elaboration is maintained without
+causing the full-blown spectrum seen in other inﬂamed condi-
+tions. Some of this may involve the numbers and types of
+immune cells that inhabit the obese fat pad. For example, M2
+macrophages likely keep their M1 counterparts in check in the
+obese fat pad; loss of the transcription factor IRF4, required for
+M2 polarization and function, causes worsened inﬂammation
+and insulin resistance in the setting of high-fat feeding (Eguchi
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 29
+et al., 2013). Treg cells are another cell type that is likely to play
+a ‘‘braking’’ function on inﬂammation in obesity. Endogenous
+pathways within the adipocyte and/or adipose-resident immune
+cells may also play a role, as has been suggested for the trans-
+membrane protein STAMP2, which is induced by feeding and
+obesity in adipocytes and which suppresses cytokine synthesis
+and metabolic dysfunction (Wellen et al., 2007).
+Finally, one should not assume that the sole role of immune
+cells in adipose tissue is to cause trouble in the context of
+obesity. During fasting and weight loss, macrophages become
+recruited to the fat pad by the products of lipolysis, where they
+are responsible for taking up the newly available lipids (Granne-
+man et al., 2005; Kosteli et al., 2010). This buffers the animal and,
+speciﬁcally, the local adipose microenvironment from the effects
+of high levels of free fatty acids. Another intriguing example of
+adipose-macrophage crosstalk is the newly discovered role of
+M2 macrophages to promote browning of white adipose tissue.
+Cold exposure was found to polarize macrophages toward the
+alternatively activated form in an IL-4-dependent manner, lead-
+ing to the formation and secretion of catecholamines (Nguyen
+et al., 2011).
+Figure 6. Adipose Crosstalk with Other
+Tissues
+Adipocytes store and release calories to the body
+generally, but numerous examples have emerged
+that demonstrate additional roles of fat in a wide
+array of biological processes. These examples
+given here are illustrative and not exhaustive.
+Adipose Crosstalk with Other Cell
+Types
+In addition to immune-adipose crosstalk,
+there is a burgeoning awareness that
+adipocytes exert a profound inﬂuence
+on neighboring cells and tissues; this
+appears to be particularly true for some
+of the smaller and less well-known de-
+pots (Figure 6). For example, adipogene-
+sis within the dermis waxes and wanes in
+concert with the hair cycle. Furthermore,
+adipocyte progenitor cells (deﬁned as
+Lin–/ CD34+/CD29+/Sca1+) promote hair
+growth in mice through the elaboration
+of platelet-derived growth factor a
+(PDGFa), which induces stem cell activa-
+tion in the hair follicle (Festa et al., 2011).
+Subsequent studies have delineated a
+role for dermal adipocytes in wound heal-
+ing, although the mechanism is still un-
+clear (Schmidt and Horsley, 2013).
+Another oft-overlooked depot is the
+epicardial fat pad, which may have an
+outsized effect on cardiomyocyte func-
+tion and the risk of coronary atheroscle-
+rosis despite representing a relatively
+small fraction of overall visceral fat.
+Several studies have identiﬁed an
+anatomic relationship between the speciﬁc segments of the
+coronary vasculature that are prone to plaque formation and
+the presence of epicardial fat (Cherian et al., 2012).
+Adipocytes and skeletal muscle are intertwined in several
+interesting ways. Both derive from mesenchymal cells, and, as
+described earlier, there is a shared lineage between skeletal
+muscle and brown fat through a Myf5+ precursor. Inducible
+brown precursor cells can be isolated from muscle, and muscle
+and brown fat share overlapping gene expression patterns
+(Schulz et al., 2011; Timmons et al., 2007). Interestingly, muscle
+contains numerous so-called ‘‘ﬁbro-adipogenic precursor’’
+(FAP) cells that can differentiate into white adipocytes under
+certain conditions, such as in muscular dystrophy, obesity, and
+age-related sarcopenia (Natarajan et al., 2010). These cells can
+be distinguished from myogenic satellite cells by the expression
+of PDGFRa, and they arise from a different developmental
+lineage than the surrounding muscle (Joe et al., 2010; Uezumi
+et al., 2010). Although intramuscular adipocyte accumulation
+can disrupt muscle function, undifferentiated FAPs play an
+important role in normal physiology. When muscle is damaged,
+FAPs respond to local cytokine production by proliferating,
+30 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+clearing necrotic debris, and supporting myogenesis (Heredia
+et al., 2013; Joe et al., 2010). Additionally, of course, muscle is
+a direct and indirect target of several circulating adipokines
+that regulate metabolism, and conversely, myokines like irisin
+can affect adipose function.
+There is also an interesting and well-established relationship
+between adipocytes and the lymphatic system (Rosen, 2002).
+Lymph nodes are invariably encased by fat; interestingly, these
+depots do not change in size with fasting and feeding but instead
+respond to immune stimulation, thus acting as privileged
+storehouses for the immune system (Pond and Mattacks,
+2002). Other complex relationships between adipose tissue
+and lymph nodes have been described. For example, adipose
+progenitor cells may contribute to the stroma of the node itself,
+as cells destined for the adipose lineage can be reprogrammed
+into lymphoid organizer cells by lymphotoxin-b (Be´ ne´ zech
+et al., 2012). Additionally, lymphatic ﬂuid itself has a strong
+pro-adipogenic effect, which can be demonstrated in dramatic
+fashion by the massive proliferation of adipose tissue seen in
+chronic lymphedema (Rockson, 2010).
+Finally, bone marrow is increasingly being recognized as a
+unique depot with important local functions. In children, bone
+marrow is ﬁlled largely with osteogenic and hematopoietic
+precursors, but as we age, the percentage of adipocytes in
+marrow rises signiﬁcantly. Marrow adipocytes tend to be
+smaller than those in other depots and to have somewhat
+different lipid constituents (Grifﬁth et al., 2009). Interestingly,
+although marrow adipocytes are fully capable of lipolysis, they
+do not respond to caloric restriction (Bathija et al., 1979; Devlin
+et al., 2010), similar to peri-lymphatic adipose depots. In fact,
+patients with anorexia nervosa often have increased marrow
+fat in the setting of severe adipose wasting in other depots, an
+observation corroborated in some, but not all, rodent models
+(Fazeli et al., 2013). The marrow adipogenic progenitor cell is
+usually considered to be a type of multipotent mesenchymal
+stem cell (Pittenger et al., 1999), and there is evidence that
+some cell surface markers that characterize adipose progenitor
+cells in other depots (e.g., CD24) are not expressed in marrow
+stroma (Fazeli et al., 2013). The multipotent nature of the marrow
+stromal cell has been put forward as a key factor in the patho-
+genesis of osteoporosis; reduced bone mass is believed to
+result, in part, from common precursor cells that make the deci-
+sion to become fat rather than bone. In fact, the relationship
+between marrow fat and bone density is more complex than is
+encompassed in this simple paradigm. For example, there are
+situations (such as in human puberty) in which one sees
+increased marrow fat and bone at the same time. Furthermore,
+PPARg agonists promote adipogenesis and inhibit osteogene-
+sis in mesenchymal stem cells and have been associated with
+increased marrow fat and diminished bone density in some,
+but not all, studies (Fazeli et al., 2013). Does bone marrow fat
+affect hematopoiesis? One might speculate that the reason
+that we store nutrients in marrow would be to provision this
+energy-intensive differentiative process. Despite the attractive-
+ness of this idea, marrow fat seems to have a negative impact
+on hematopoiesis. There is an inverse relationship between
+the number of fat cells and the number of hematopoietic precur-
+sors, and elimination of marrow fat by genetic or pharmacologic
+means enhances the rate of engraftment following radioablation
+(Naveiras et al., 2009).
+Fat and Cancer: Dancing with the Devil
+The ability of adipose tissue to change the behavior of nearby
+cells is not restricted to normal cell types, as both mature
+adipocytes and adipose progenitor cells affect the growth and
+metastasis of cancer cells. There are strong epidemiological
+associations between fat mass and the incidence (and mortality)
+of a variety of malignancies, including breast, colon, renal,
+esophageal, and pancreatic cancer, as well as some lymphomas
+and leukemias, and obesity is now considered a major modiﬁ-
+able risk factor for cancer (Park et al., 2011). More directly, sur-
+gical removal of parametrial fat pads inhibits carcinogenesis in a
+UVB-irradiation mouse model (Lu et al., 2012).
+Several mechanisms have been proposed for this association,
+including the antiapoptotic effects of obesity-associated hyper-
+insulinemia, enhanced aromatization of sex steroids (particularly
+relevant for breast and endometrial cancer) in adipose tissue,
+and the elaboration of paracrine and endocrine factors that
+promote either tumorigenesis or angiogenesis directly from
+adipocytes and stromal cells within fat pads (Khandekar et al.,
+2011; Park et al., 2011). One such factor is endotrophin, a cleav-
+age product of collagen type VI, which promotes tumorigenesis
+through matrix/stromal interactions (Park and Scherer, 2012).
+The enhanced inﬂammatory milieu of the obese fat pad has
+also been associated with tumor growth, likely through the
+secretion of cytokines. Inﬂammatory factors also promote hom-
+ing of metastases to adipose depots, which then serve to provi-
+sion the cancer cells with the massive amounts of lipid that are
+required to support rapid cell division (Nieman et al., 2011).
+Based on these data, there has been signiﬁcant interest in target-
+ing the adipocyte for cancer prevention as well as treatment.
+How Do Adipocytes Communicate with Other Cell
+Types?
+Cross-talk between fat cells and their environment is typically
+mediated in three ways: nutritional mechanisms, neural
+pathways, and via the elaboration of autocrine, paracrine, and
+endocrine agents, collectively termed adipokines. Nutritional
+mechanisms are the simplest to understand: adipocytes
+evolved, in large part, to safely store excess calories during
+periods of nutritional afﬂuence and to release them during
+periods of nutritional deprivation. These calories come in the
+form of free fatty acids, which are liberated by lipolysis during
+fasting and are released into the circulation, where they are
+utilized by skeletal muscle and other tissues. By enabling these
+tissues to switch to a lipid-oxidizing economy during fasting,
+glucose is spared for the central nervous system and red blood
+cells.
+Adipose tissue is richly innervated by both sympathetic and
+parasympathetic ﬁbers, with the former driving lipolysis during
+fasting and cold exposure and the latter promoting lipid accumu-
+lation after feeding (Bartness et al., 2010a; Kreier et al., 2002).
+Central neuronal signals also regulate adipose tissue growth
+and cellularity in a depot-speciﬁc manner (Bowers et al., 2004;
+Foster and Bartness, 2006). Neurally mediated communication
+is not all one way, however; adipocytes can communicate
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 31
+information about nutritional status to the brain via afferent
+nerves. The introduction of UCP-1 into white fat, for example,
+improves leptin sensitivity in mice, an effect that is lost following
+denervation (Yamada et al., 2006). Indeed, some actions of the
+adipokines discussed below may actually be dependent on stim-
+ulation of local nerve endings within the adipose depot and not
+solely on systemic distribution via the circulation (Murphy
+et al., 2013).
+By and large, however, most of the excitement in this area
+has come from advances in our understanding of adipokine
+biology. Early examples of adipose-derived secreted products
+include immunological proteins like the complement factor adip-
+sin and TNF-a, but the discovery of leptin was an inﬂection point
+for the ﬁeld, serving notice that adipocytes are active endocrine
+cells, identifying a speciﬁc biological cause of obesity (at least in
+mice), and giving hope for a rational drug therapy. Though small
+amounts may be produced by other tissues in speciﬁc contexts
+(Considine, 2001; Maymo´ et al., 2011), the lion’s share of leptin
+comes from adipocytes, and serum levels are tightly associated
+with fat mass. Many factors regulate leptin expression and
+secretion, including nutrients, steroid and thyroid hormones,
+and cytokines (Moon et al., 2013). The transcriptional control of
+Lep expression is also complex, with C/EBPa and PPARg
+playing opposing roles (Hollenberg et al., 1997; Kallen and Lazar,
+1996); the transcription factor Fosl2 is also required for the differ-
+entiation-dependent expression of Lep in adipocytes (Wrann
+et al., 2012).
+Leptin exerts its effects via speciﬁc receptors in the central
+nervous system and in the periphery. An example of the latter
+is in the immune system, where leptin promotes inﬂammation
+by enhancing cytokine production, macrophage function, and
+the CD4+ T helper response (Carbone et al., 2012). The effects
+of leptin to reduce body weight by decreasing food intake and
+increasing energy expenditure are clearly centrally mediated,
+operating through several hypothalamic nuclei (e.g., the arcuate,
+lateral, dorsomedial, and ventromedial nuclei). In addition, there
+are leptin receptors in the nucleus of the solitary tract of the
+hindbrain and in the ventrotegmental area that may affect dopa-
+minergic reward pathways that affect the hedonic experience of
+eating and palatability (Leinninger et al., 2009; Myers et al.,
+2009). It has also been noted that leptin improves glycemic
+control in lipodystrophic animals, an effect that is also centrally
+mediated (Asilmaz et al., 2004). The effect of leptin on bone is
+complex, but it appears to exert anti-osteogenic effects via a
+hypothalamic relay system (primarily affecting the axial skel-
+eton), while it may have direct pro-osteogenic effects at appen-
+dicular sites (Karsenty, 2006).
+The other dominant adipokine is adiponectin, both in terms of
+its serum concentration (2–10 ug/ml) and the number of papers
+that it has engendered since its discovery in the mid 1990s
+(>11,000). Adiponectin expression is highly adipose speciﬁc
+and is constitutively secreted. It circulates in plasma as trimers,
+hexamers, and higher-order structures; these larger complexes
+can be difﬁcult to quantify but likely represent the most biologi-
+cally active forms of the molecule (Turer and Scherer, 2012).
+Two classes of adiponectin receptor have been identiﬁed. The
+dominant signaling forms are encoded by ADIPOR1 and
+ADIPOR2, which are seven-transmembrane receptors with the
+opposite polarity of G-protein-coupled receptors (i.e., the N
+terminus is cytoplasmic) (Yamauchi and Kadowaki, 2013). There
+is also a nonsignaling receptor called T-cadherin that has none-
+theless been shown to be required for some actions of adiponec-
+tin (Denzel et al., 2010). One of the more interesting attributes of
+adiponectin is that its expression and secretion are diminished in
+visceral obesity despite the increased fat mass (Turer et al.,
+2011). Although the mechanism underlying this effect is unclear,
+it has enabled adiponectin to serve as an excellent biomarker for
+insulin resistance and metabolic dysfunction.
+Adiponectin receptors are widespread throughout the body,
+so it is no surprise that adiponectin affects many tissues and
+physiological processes. Many of these effects promote meta-
+bolic health, including inducing fatty acid oxidation in liver, sup-
+pressing hepatic glucose production, improving b cell function,
+and enhancing peripheral insulin sensitivity. Cardiac health is
+enhanced by adiponectin both directly (e.g., through the direct
+stimulation of cardiomyocyte survival after ischemia/reperfusion
+injury) and indirectly (e.g., by improving serum dyslipidemia and
+reducing inﬂammation) (Goldstein et al., 2009). Interestingly, one
+might assume that adiponectin might promote weight loss, but
+this appears not to be the case. In fact, transgenic overexpres-
+sion of adiponectin causes signiﬁcant fat accumulation, and
+when crossed to the ob/ob strain, one obtains the most cor-
+pulent rodent model seen to date (Kim et al., 2007). This may
+be due partly to increased insulin sensitivity and partly to direct
+actions of adiponectin on the hypothalamus to increase food
+intake (Kubota et al., 2007).
+The strength and breadth of adiponectin effects on meta-
+bolism make it an ideal integrator of many different metabolic
+signals. For example, it has long been known that elevated tissue
+iron stores reduce peripheral insulin sensitivity. When adipocyte
+iron levels are high, adiponectin is suppressed, and insulin resis-
+tance ensues. Conversely, reductions of tissue or serum iron
+cause increased adiponectin and improve glucose tolerance
+(Gabrielsen et al., 2012). A similar situation exists for ﬁbroblast
+growth factor 21 (FGF21), a secreted protein made by the liver
+and other tissues (including fat) with a wide range of beneﬁcial
+effects on metabolic function, including weight loss and
+improvements in glucose and lipid homeostasis (Iglesias et al.,
+2012; Potthoff et al., 2012). FGF21 directly increases the produc-
+tion and release of adiponectin by adipose tissue. In the absence
+of adiponectin, FGF21 can still reduce body weight but is no
+longer capable of improving glucose homeostasis, insulin resis-
+tance, hypertriglyceridemia, or hepatic steatosis (Holland et al.,
+2013; Lin et al., 2013). Finally, thiazolidinedione (TZD) agonists
+of PPARg used clinically to treat type 2 diabetes work, at least
+in part, by promoting the synthesis and secretion of adiponectin
+(Nawrocki et al., 2006).
+Resistin is another small protein identiﬁed as an adipokine
+linking obesity to insulin resistance in rodents. Resistin expres-
+sion is highly speciﬁc for white adipose tissue in mice, and it
+circulates in higher concentrations in obese animals (Steppan
+and Lazar, 2004). Elevated resistin causes insulin resistance
+in vitro and in vivo, while reductions have the opposite effect.
+This relationship has been harder to demonstrate in humans,
+however, in whom resistin appears to be secreted primarily by
+circulating monocytes (Savage et al., 2001).
+32 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+Another group of adipokines that has garnered attention lately
+is the lipocalins RBP4 and Lcn2, which are expressed in adipose
+tissue, circulate at higher levels in obesity, and have been exten-
+sively characterized with respect to their effects on glucose
+homeostasis and insulin action. RBP4 is the major vitamin-A-
+transporting protein in serum, where it circulates bound to trans-
+thyretin, which extends its serum half-life (Campos-Sandoval
+et al., 2011). RBP4 is preferentially expressed in visceral adipose
+tissue, and serum levels are strongly associated with insulin
+resistance in rodents and humans (Graham and Kahn, 2007).
+RBP4 has been reported to induce insulin resistance by binding
+to the receptor Stra6 (Berry et al., 2013). Others have suggested
+that RBP4 induces insulin resistance by activating inﬂammatory
+pathways in macrophages in a retinoid-independent fashion via
+a receptor that is not Stra6 (Norseen et al., 2012). Lcn2 is an iron-
+trafﬁcking protein produced by a select number of tissues,
+including white adipose tissue, in response to inﬂammation.
+Lcn2 causes insulin resistance in cultured adipocytes and hepa-
+tocytes (Yan et al., 2007), but the in vivo data are less clear.
+Lcn2/C0//C0 mice have been reported to be lean and insulin sensitive
+(Law et al., 2010), obese and insulin resistant (Guo et al., 2010),
+or to have unaltered adiposity and mild insulin sensitivity (Jun
+et al., 2011); the source of the discordance is unclear.
+Many other adipokines have been identiﬁed, with several novel
+molecules appearing seemingly every year. Chemerin, omentin,
+vaspin, and others are all produced by adipose tissue and exert
+metabolic effects (Bremer and Jialal, 2013). Interestingly, the
+adipocyte fatty-acid-binding protein aP2 (encoded by the
+Fabp4 gene), one of the most highly expressed adipocyte genes,
+has recently been shown to be secreted through an exosomal
+mechanism. Serum aP2 is elevated in obesity and promotes
+hepatic insulin resistance and gluconeogenesis (Cao et al.,
+2013). Although most characterized adipokines are peptides,
+adipose-derived fatty acid derivatives with signaling properties
+have also been described. The earliest of these was mono-
+butyrin, which was described as a pro-angiogenic factor (Dob-
+son et al., 1990). More recently, palmitoleate was identiﬁed as
+an important ‘‘lipokine’’ secreted by adipocytes following de
+novo lipogenesis, which acts on muscle and liver to protect
+against the adverse consequences of dietary lipid ingestion
+(Cao et al., 2008). Given the wealth of lipid substrates and modi-
+fying enzymes found in adipocytes, it seems likely that additional
+‘‘lipokines’’ will be discovered in the near future.
+Does BAT have its own set of adipokines? In general, BAT
+makes the same factors as WAT, although some, like leptin
+and adiponectin, are produced at lower levels (Villarroya et al.,
+2013). Conversely, the active form of thyroid hormone, triiodo-
+thyronine (T3), is produced in sufﬁcient quantities in BAT to affect
+systemic levels due to very high expression of type II 50-deiodi-
+nase (encoded by Dio2)(Silva and Larsen, 1985). Speculation
+that BAT may produce its own unique repertoire of adipokines
+has rested on two observations. First, ablation of BAT has a
+much larger effect on systemic metabolism than does deletion
+of UCP-1, a result that is not fully consistent with the notion
+that all beneﬁts of BAT derive from local uncoupling (Enerba¨ ck
+et al., 1997; Hamann et al., 1996; Lowell et al., 1993). Second,
+direct transplantation studies have shown that as little as
+100 mg of BAT can improve body weight and glucose homeosta-
+sis in obese recipient mice. This latter effect was lost when BAT
+from Il6/C0//C0 animals was used, suggesting that this factor may
+represent a true ‘‘BATokine’’ (Stanford et al., 2013).
+Lipid Trafﬁcking in Adipocytes: Can an Old Dog Teach Us
+New Tricks?
+Adipocytes are ﬁrst and foremost professional lipid-storing cells.
+Although this aspect of fat has been studied for decades, several
+recent advances have brought additional insight. Though most
+of the lipid stored in adipocytes comes from the diet, the fat
+cell is fully capable of synthesizing new lipids from carbohy-
+drates using de novo lipogenesis (DNL). The two major enzymes
+of DNL, fatty acid synthase and acetyl CoA carboxylase, are
+abundantly expressed in fat under the control of sterol-
+response-element-binding protein 1c (SREBP1c) and carbohy-
+drate-response-element-binding protein (ChREBP). Though
+SREBP1c is the dominant regulator of DNL in liver, that role
+belongs to ChREBP in WAT (Herman et al., 2012; Shimano
+et al., 1997). Interestingly, DNL is associated with poor metabolic
+outcomes in liver, but the opposite is true in fat. Several genetic
+manipulations that increase adipose DNL cause improvements
+in insulin sensitivity and glycemic control, whereas loss of
+ChREBP has the opposite effect; this may involve changes in
+adipokine secretion, increased adipose browning, or some other
+mechanism (Herman et al., 2012; Iizuka et al., 2004). Somewhat
+paradoxically, caloric restriction actually increases adipose DNL,
+though it is not clear whether this mediates the beneﬁcial effects
+of this intervention (Bruss et al., 2010).
+Lipolysis is the process that is required for fatty acids to
+be liberated from triglyceride so that they can be oxidized locally
+or by other organs. Classically, we think of lipolysis as being
+driven by b-adrenergic signaling in the adipocyte, but other
+inducers (such as TNF-a) exist and may have physiological
+relevance (Ryde´ n and Arner, 2007). The lipolytic machinery
+consists of at least three major enzymes and associated cofac-
+tors. The primary cleavage of triacylglycerol to diacylglycerols is
+performed by adipose triglyceride lipase (ATGL), a recently
+discovered enzyme whose existence was inferred when genetic
+ablation of the well-studied second enzyme in the pathway, hor-
+mone-sensitive lipase (HSL), was shown to be dispensable for
+lipolysis in vivo. HSL is the major diglyceride lipase in adipocytes,
+and monoglyceride lipase (MGL) completes the process by
+generating glycerol and free fatty acids. Together, these three
+enzymes account for >90% of the lipolytic activity in the adipo-
+cyte (Young and Zechner, 2013). ATGL, in particular, is highly
+regulated at both the transcriptional and posttranscriptional
+levels, including multiple phosphorylation events and transloca-
+tion to the surface of the lipid droplet. It is activated by a protein
+cofactor called CGI-58, which is normally bound in an inactive
+state by the lipid droplet protein perilipin-1 (Plin1). PKA-depen-
+dent phosphorylation of Plin1 releases CGI-58, allowing it to
+bind and activate ATGL (Granneman et al., 2009). Conversely,
+ATGL is inhibited by a protein called G0S2, though its impor-
+tance in vivo is still unclear (Yang et al., 2010).
+Insulin is the major physiological suppressor of lipolysis, a
+process that becomes impaired in obesity even though insulin
+levels are high. Insulin acts in several different ways to block
+lipolysis. First, it activates phosphodiesterase 3b (PDE3b) via
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 33
+Akt-mediated phosphorylation; this has the effect of reducing
+intracellular cAMP levels and blocking PKA activation (Deger-
+man et al., 1998; Kitamura et al., 1999). More recently, a non-
+canonical pathway has been described in which insulin blocks
+activation of PKA selectively on Plin1 through a PI3K-mediated,
+Akt-independent pathway (Choi et al., 2010b). Over a slightly
+longer timescale, insulin also represses lipolysis by transcrip-
+tionally silencing lipase genes via repression of the transcription
+factors FoxO1 and IRF4 (Chakrabarti and Kandror, 2009; Eguchi
+et al., 2011).
+Interestingly, lipolysis is required for the generation of endog-
+enous PPARa ligands, as fatty acids imported from the blood
+or synthesized endogenously cannot activate this nuclear recep-
+tor until they have undergone a cycle of esteriﬁcation and hy-
+drolysis (Haemmerle et al., 2011). Thus, animals lacking ATGL
+in adipocytes show deﬁcient fatty acid oxidation and thermo-
+genesis in BAT, with the acquisition of a WAT-like phenotype
+(Ahmadian et al., 2011). The key point here is that, by generating
+speciﬁc PPARa ligands, lipolysis is coupled to the downstream
+oxidation of freshly released fatty acids.
+The lipid droplet itself is now recognized as a highly dynamic
+organelle with extraordinary conservation of its protein composi-
+tion; more than 200 droplet-associated proteins have been iden-
+tiﬁed in adipocytes, most of which are also found associated with
+droplets in other mammalian tissues as well as in lower organ-
+isms (Konige et al., 2013). In addition to the perilipins previously
+described, other important proteins that are under active inves-
+tigation include the CIDE family and various scaffolding proteins
+such as cavins and caveolins, virtually all of which have been
+linked to lipid handling, insulin sensitivity, and global energy ho-
+meostasis.
+Adipose Tissue as a Therapeutic Target
+Given its central role in metabolic health and disease, it is no
+surprise that adipose tissue has become an important therapeu-
+tic target. Below, we discuss several strategies by which adipose
+biology might be exploited for clinical beneﬁt.
+TZDs/TZD-like Molecules for Selective PPARg
+Activation
+TZDs have a variety of beneﬁcial effects in adipose tissue,
+including insulin sensitization, induction of browning, and anti-
+inﬂammation. Unfortunately, the clinical utility of TZDs has
+been limited by their unfavorable side effect proﬁle, including
+ﬂuid retention, osteoporosis, and (possibly) increased risk of
+cardiovascular events (Ahmadian et al., 2013). Interest in PPARg
+as a therapeutic target was recently revived, however, by the
+realization that partial agonists that are not adipogenic can still
+act as potent insulin sensitizers. This paradox was resolved by
+the demonstration that PPARg can be phosphorylated by
+Cdk5 at Ser273 in rodent and human obesity (Choi et al.,
+2010a). Phosphorylation at this site changes the pattern of
+gene expression driven by PPARg, reducing the expression of
+adiponectin and several other genes without affecting most
+direct targets. This suggested that PPARg might be selectively
+activated by agents that block Cdk5 phosphorylation without
+driving ‘‘classical’’ agonism, a prediction that was borne out
+when such compounds were used to treat animal models of
+insulin resistance without causing ﬂuid retention (Choi et al.,
+2010a; Choi et al., 2011). Furthermore, mice lacking the nuclear
+corepressor NCoR in adipose tissue have an improved meta-
+bolic proﬁle despite obesity, a phenotype that is consistent
+with increased PPARg activity. These animals show reduced
+phosphorylation at Ser273, suggesting that a major effect of
+NCoR may be to facilitate the phosphorylation of PPARg by
+Cdk5 (Li et al., 2011). To date, selective agonists have not
+been found that promote browning over other PPARg-depen-
+dent actions. However, the recent ﬁnding that deacetylation of
+PPARg by SirT1 causes browning suggests that selective
+modulation of PPARg to promote thermogenesis may be achiev-
+able (Qiang et al., 2012). Other posttranslational modiﬁcations,
+such as SUMOylation, are also able to alter PPARg target selec-
+tion and function, opening the door for additional therapeutic ap-
+proaches (Shimizu et al., 2006).
+Lipectomy
+A somewhat simple-minded approach to weight loss is the
+surgical removal of excess adipose tissue; perhaps unsurpris-
+ingly, liposuction is the most common cosmetic surgical pro-
+cedure in the world (http://www.isaps.org). Does cutting out
+adipose tissue ameliorate the effects of overnutrition? In rodents,
+the removal of visceral fat does improve metabolic parameters,
+at least in the short term, whereas removal of subcutaneous fat
+has little effect (Gabriely et al., 2002; Shi et al., 2007). This latter
+result is seen in humans as well, in whom removal of as much as
+20% of total body fat (>40% of subcutaneous fat!) by liposuction
+does not improve insulin sensitivity or other risk factors for car-
+diovascular disease (Klein et al., 2004). There is some debate
+as to whether the lack of efﬁcacy of liposuction reﬂects depot-
+speciﬁc differences between visceral and subcutaneous fat or
+whether it is because the fundamental problem of energy im-
+balance has not been corrected. Certainly, inducing negative
+energy balance can improve metabolic dysfunction long before
+signiﬁcant weight loss occurs (Henry et al., 1985). Over the
+long-term, however, it is now clear that eliminating fat stores
+surgically without correcting energy balance simply causes
+regrowth of fat mass at either the site of excision or (more
+commonly) other depots. In rodents, this takes place within
+weeks to months (Mauer et al., 2001), whereas in humans, the
+process can last a year (Hernandez et al., 2011).
+Brown Fat Induction
+A more elegant approach to reducing body fat might involve
+the preferential induction of brown or beige adipocytes, a strat-
+egy that did not escape the attention of early investigators.
+Based on the metabolic rate of BAT in mice (/C24300 W/kg, approx-
+imately two orders of magnitude higher than any other tissue;
+Cannon and Nedergaard, 2004), it was calculated that 40–50 g
+of BAT could account for 20% of daily energy expenditure (Roth-
+well and Stock, 1979), which would be astonishing given current
+estimates that there may be upward of 100 g of BAT in a normal
+person (van Marken Lichtenbelt et al., 2009). Unfortunately, two
+major assumptions underlying this assertion have not been
+borne out. First, the mouse calculations for BAT were made
+under conditions of maximal activation, which is almost never
+the case in thermoneutrality-seeking humans. Second, mamma-
+lian energy expenditure is inversely correlated with body size,
+such that whole-body BMR is 1–2 W/kg for humans, compared
+to 8 W/kg for mice (van Marken Lichtenbelt and Schrauwen,
+34 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+2011). Even with these caveats, BAT activity has been predicted
+to account for 2.7%–5% of BMR in humans, which could cumu-
+latively promote more than 4 kg of fat loss per year (van Marken
+Lichtenbelt and Schrauwen, 2011; Virtanen et al., 2009). The
+potential beneﬁts of BAT activation extend beyond weight loss,
+as BAT consumes signiﬁcant amounts of lipid and, to a lesser
+but still signiﬁcant extent, glucose (Bartelt et al., 2011; Ouellet
+et al., 2012).
+There has been interest in promoting uncoupling as a weight
+loss strategy since the 1930s, with attention focused on chemi-
+cal agents like dinitrophenol. Experience with this approach
+has been mixed, with some studies reporting excellent results
+and others less sanguine. Side effects, ranging from rash to
+cataracts to hyperpyrexia, have been reported, and there have
+been fatalities (Colman, 2007; Harper et al., 2001). Presumably,
+much of the toxicity of these agents is related to their actions
+in non-BAT tissues, such as muscle or the optic lens, and it is
+thus unclear whether this experience informs us about the safety
+or utility of inducing the development or function of brown adipo-
+cytes, which are adapted to high levels of uncoupling.
+How could BAT be induced or activated in a medicinal
+context? Most of the classical inducers, such as catecholamines
+and thyroid hormone, cannot be delivered in excess without
+causing signiﬁcant morbidity. There was intense interest for
+some time in developing b3-adrenergic receptor-speciﬁc ago-
+nists, which increased thermogenesis in some studies. However,
+absolute b3 selectivity has proven difﬁcult to achieve; the oral
+bioavailability of such compounds is suboptimal, and published
+results from early trials have been uninspiring (Arch, 2002). Some
+investigators have posited that cold itself could be used as ther-
+apy, as one can see signiﬁcant inductions of BAT activity at tem-
+peratures that can be achieved without a cold suit (i.e., 15–19/C14C/
+59–66.2/C14F) (Chen et al., 2013a; van der Lans et al., 2013; Yone-
+shiro et al., 2013). As little as 2 hr a day at 19/C14C for 6 weeks was
+sufﬁcient to reduce fat mass in young, healthy male subjects
+(Yoneshiro et al., 2013). Is this feasible in a world where 27%
+of global warming is predicted to arise from air conditioners by
+2050 (Velders et al., 2012)? In this case, the societal costs may
+well outweigh the beneﬁts to the individual.
+Thiazolidinediones have been reported to increase the brown-
+ing of white fat (Petrovic et al., 2010; Qiang et al., 2012; Teruel
+et al., 2003), but TZD use causes weight gain, not weight loss
+(Ahmadian et al., 2013). Similarly, developmental regulators
+like BMP7 and BMP8b are unlikely pharmaceutical candidates
+given the pleiotropy of their actions. FGF21 is being actively
+explored as a therapeutic (Woo et al., 2013), although it is unclear
+whether its beneﬁcial actions depend on browning. The
+natriuretic peptides (or more precisely, inhibitors of neutral
+endopeptidase, which degrades ANP and BNP) are interesting
+candidates, as they are being developed for hypertension and
+heart failure (Nawarskas et al., 2001); unfortunately, blockade
+of NEP causes weight gain in mice (Becker et al., 2010). Finally,
+cyclooxygenase (COX)-2 mediates some of the effects of
+b-adrenergic signaling on brown fat development and function
+(Vegiopoulos et al., 2010), and COX-2 inhibition is associated
+with weight gain (Fain et al., 2001). Unfortunately, promoting
+global prostaglandin synthesis with a COX-2 activator is an unat-
+tractive strategy, regardless of any potential effects on body
+weight. The a priori uncertainty of these approaches makes it
+imperative that we gain a better understanding of the pathways
+that promote and inhibit brown/beige adipocyte thermogenesis
+in humans so that we can identify an optimal intervention point.
+Disruption or Promotion of Adipose Tissue
+Angiogenesis: Both or Neither?
+The profound growth potential of adipose tissue and its ability
+to foster its own blood supply through the elaboration of vascular
+growth factors led several investigators to draw analogies to
+tumor biology and thus to ask whether angiogenesis inhibitors
+might promote weight loss. Early studies with these agents in
+high-fat-fed and genetically obese mice looked promising, with
+signiﬁcant reductions in body fat achieved by administration of
+anti-angiogenic agents originally developed for cancer therapy
+(Bra˚ kenhielm et al., 2004; Rupnick et al., 2002). Importantly,
+these treatments caused the metabolic proﬁles of the mice to
+improve, with reduced insulin resistance and hyperlipidemia.
+This was recapitulated in a more speciﬁc fashion by coupling a
+pro-apoptotic peptide to a peptide ligand for a protein called
+prohibitin, which is expressed preferentially on intra-adipose
+endothelial cells. This strategy reduces body weight and im-
+proves glucose homeostasis in both rodents and nonhuman
+primates (Barnhart et al., 2011; Kim et al., 2012; Kolonin et al.,
+2004).
+The picture becomes signiﬁcantly murkier, however, when
+VEGF expression is manipulated, with paradoxical results seen
+in most studies (Cao, 2013). Although difﬁcult to reconcile all of
+the data, it does appear that timing is an important issue, with
+different results seen when angiogenesis is affected early in
+overnutrition or after obesity has already been established.
+Furthermore, these angiogenic agents have effects beyond the
+vasculature, with effects on brown fat thermogenesis, macro-
+phage polarization, and food intake, all of which can complicate
+the interpretation of their metabolic actions (Elias et al., 2013;
+Kim et al., 2010; Sun et al., 2012).
+Adipokine-Based Therapy
+When leptin was ﬁrst discovered, it was obvious to propose
+using it to treat obesity in human patients. It was soon discov-
+ered that obese people are not, in fact, leptin deﬁcient. Rather,
+they have elevated levels due to leptin resistance, a complex
+phenomenon involving altered transport across the blood-brain
+barrier as well as intracellular mechanisms that reduce signaling
+efﬁciency (Myers et al., 2012). In principle, this did not neces-
+sarily preclude the successful use of recombinant leptin as an
+anti-obesity agent; after all, insulin-resistant type 2 diabetics
+are often treated with supraphysiological doses of insulin. Never-
+theless, the results of single-agent leptin administration have not
+been encouraging (Heymsﬁeld et al., 1999; Mittendorfer et al.,
+2011). More recent trials have focused on co-administration of
+leptin with other agents that promote weight loss, with the idea
+that reducing leptin resistance would enhance leptin action.
+Some of these agents, like amylin, metformin, FGF21, rimona-
+bant, and exendin-4, have shown promise, although their effects
+have been generally less impressive in humans than in rodents
+(Boustany-Kari et al., 2011; Kim et al., 2006; Muller et al., 2012;
+Ravussin et al., 2009; Roth et al., 2008). An emerging idea under
+study is a role for leptin in maintaining weight loss achieved
+through other means. The only currently approved indication
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 35
+for leptin is on a compassionate use basis in rare cases of
+congenital leptin deﬁciency (Montague et al., 1997), on which it
+is quite efﬁcacious. Patients with congenital lipodystrophy also
+have access to leptin therapy on the same basis. At present, lep-
+tin is not approved for the much larger group of patients with
+acquired (such as HIV-associated) lipodystrophy, but trials are
+ongoing. Other indications for leptin are being explored, such
+as hypothalamic amenorrhea, which is also a hypoleptinemic
+state (Chou et al., 2011).
+The broad beneﬁcial actions of adiponectin make it an attrac-
+tive target for therapeutic manipulation, although its propensity
+to cause weight gain when provided in excess needs to be
+addressed. Unfortunately, direct administration of adiponectin
+is made difﬁcult by the requirement for proper posttranslational
+modiﬁcation to enable multimerization, combined with an unusu-
+ally short serum half-life and high baseline levels. TZDs promote
+the synthesis and secretion of adiponectin from fat, and other
+adiponectin secretagogues have been identiﬁed and are being
+assessed for clinical efﬁcacy (Shetty et al., 2009). Finally, small
+molecule activators of the ADIPOR1/R2 receptors might be of
+signiﬁcant utility (Okada-Iwabu et al., 2013).
+Blocking the effects of negative adipokines is also a worth-
+while strategy. Fenretinide reduces serum RBP4 levels by dis-
+rupting its interaction with transthyretin and thus promoting
+excretion through the urine (Campos-Sandoval et al., 2011).
+Accordingly, fenretinide was tested for its ability to improve insu-
+lin sensitivity and glucose tolerance in obese rodents and was
+found to be efﬁcacious (Yang et al., 2005). However, fenretinide
+achieves this by promoting weight loss, an effect that is still
+present in RBP4 null animals (Preitner et al., 2009). Another
+adipokine that may be amenable to blockade is aP2. A small-
+molecule inhibitor of this fatty-acid-binding protein was found
+to ameliorate both insulin resistance and atherosclerosis in
+rodent models; the fact that these proteins evolved to bind small
+lipophilic ligands makes them particularly promising drug targets
+(Furuhashi and Hotamisligil, 2008).
+Conclusions
+The obesity epidemic has put a spotlight on the adipocyte, and
+new information emerges with each passing week. We have
+endeavored to illustrate several key themes. (1) Adipocytes
+can be divided into different classes, generally denoted as white,
+brown, and beige. These types share numerous attributes but
+also differ in critical ways that include aspects of their gene
+expression proﬁle and secretome, their developmental origin,
+and their therapeutic potential. (2) The developmental pathways
+that give rise to mature adipocytes are still being worked out but
+likely include a perivascular origin with various transition forms
+that can be identiﬁed using cell surface markers. In some phys-
+iological situations, there may be interconversion of adipose
+types or even between adipocytes and nonadipocytes, suggest-
+ing remarkable plasticity. (3) The composition of adipose tissue
+changes dramatically during overnutrition, involving alterations
+in adipocyte size and number, immune cell type and number,
+and extracellular matrix. Ultimately, these events predispose
+to the metabolic dysfunction seen in obesity. (4) Adipose tissue
+performs a wide array of functions that depend upon physical
+location and physiological status. (5) Communication between
+adipocytes and extra-adipose tissues can occur via multiple
+mechanisms but most commonly through the elaboration of
+a growing array of secreted factors collectively termed adipo-
+kines. (6) The complexity of adipose tissue presents numerous
+challenges but also several opportunities for therapeutic inter-
+vention.
+We have learned an extraordinary amount in a short time, and
+it seems certain that we will discover much more about this high-
+ly complex and relatively unloved cell in the very near future.
+ACKNOWLEDGMENTS
+We would like to thank members of our laboratories, past and present, for
+helpful discussions. Leslie Gaffney and Sigrid Knemeyer were of incalculable
+help with the ﬁgures. We also thank Raymond Carver for the inspiration for
+the title. B.M.S. is a founder of and shareholder in Ember Therapeutics, Inc.
+REFERENCES
+Ahmadian, M., Abbott, M.J., Tang, T., Hudak, C.S., Kim, Y., Bruss, M., Heller-
+stein, M.K., Lee, H.Y., Samuel, V.T., Shulman, G.I., et al. (2011). Desnutrin/
+ATGL is regulated by AMPK and is required for a brown adipose phenotype.
+Cell Metab. 13, 739–748.
+Ahmadian, M., Suh, J.M., Hah, N., Liddle, C., Atkins, A.R., Downes, M., and
+Evans, R.M. (2013). PPARg signaling and metabolism: the good, the bad
+and the future. Nat. Med. 19, 557–566.
+Alvarez, R., de Andre´ s, J., Yubero, P., Vin˜ as, O., Mampel, T., Iglesias, R., Giralt,
+M., and Villarroya, F. (1995). A novel regulatory pathway of brown fat thermo-
+genesis. Retinoic acid is a transcriptional activator of the mitochondrial uncou-
+pling protein gene. J. Biol. Chem. 270, 5666–5673.
+Arch, J.R. (2002). beta(3)-Adrenoceptor agonists: potential, pitfalls and prog-
+ress. Eur. J. Pharmacol. 440, 99–107.
+Asilmaz, E., Cohen, P., Miyazaki, M., Dobrzyn, P., Ueki, K., Fayzikhodjaeva, G.,
+Soukas, A.A., Kahn, C.R., Ntambi, J.M., Socci, N.D., and Friedman, J.M.
+(2004). Site and mechanism of leptin action in a rodent form of congenital
+lipodystrophy. J. Clin. Invest. 113, 414–424.
+Barnhart, K.F., Christianson, D.R., Hanley, P.W., Driessen, W.H., Bernacky,
+B.J., Baze, W.B., Wen, S., Tian, M., Ma, J., Kolonin, M.G., et al. (2011). A
+peptidomimetic targeting white fat causes weight loss and improved insulin
+resistance in obese monkeys. Sci. Transl. Med. 3, 108ra112.
+Bartelt, A., Bruns, O.T., Reimer, R., Hohenberg, H., Ittrich, H., Peldschus, K.,
+Kaul, M.G., Tromsdorf, U.I., Weller, H., Waurisch, C., et al. (2011). Brown
+adipose tissue activity controls triglyceride clearance. Nat. Med. 17, 200–205.
+Bartness, T.J., Shrestha, Y.B., Vaughan, C.H., Schwartz, G.J., and Song, C.K.
+(2010a). Sensory and sympathetic nervous system control of white adipose
+tissue lipolysis. Mol. Cell. Endocrinol. 318, 34–43.
+Bartness, T.J., Vaughan, C.H., and Song, C.K. (2010b). Sympathetic and sen-
+sory innervation of brown adipose tissue. Int. J. Obes. (Lond.) 34 (Suppl 1),
+S36–S42.
+Bathija, A., Davis, S., and Trubowitz, S. (1979). Bone marrow adipose tissue:
+response to acute starvation. Am. J. Hematol. 6, 191–198.
+Becker, M., Siems, W.E., Kluge, R., Gembardt, F., Schultheiss, H.P., Schirner,
+M., and Walther, T. (2010). New function for an old enzyme: NEP deﬁcient mice
+develop late-onset obesity. PLoS ONE 5,5.
+Be´ ne´ zech, C., Mader, E., Desanti, G., Khan, M., Nakamura, K., White, A.,
+Ware, C.F., Anderson, G., and Caaman˜ o, J.H. (2012). Lymphotoxin-b receptor
+signaling through NF-kB2-RelB pathway reprograms adipocyte precursors as
+lymph node stromal cells. Immunity 37, 721–734.
+Berry, R., and Rodeheffer, M.S. (2013). Characterization of the adipocyte
+cellular lineage in vivo. Nat. Cell Biol. 15, 302–308.
+Berry, D.C., Jacobs, H., Marwarha, G., Gely-Pernot, A., O’Byrne, S.M., DeSan-
+tis, D., Klopfenstein, M., Feret, B., Dennefeld, C., Blaner, W.S., et al. (2013).
+36 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+The STRA6 receptor is essential for retinol-binding protein-induced insulin
+resistance but not for maintaining vitamin A homeostasis in tissues other
+than the eye. J. Biol. Chem. 288, 24528–24539.
+Billon, N., Iannarelli, P., Monteiro, M.C., Glavieux-Pardanaud, C., Richardson,
+W.D., Kessaris, N., Dani, C., and Dupin, E. (2007). The generation of adipo-
+cytes by the neural crest. Development 134, 2283–2292.
+Birsoy, K., Berry, R., Wang, T., Ceyhan, O., Tavazoie, S., Friedman, J.M., and
+Rodeheffer, M.S. (2011). Analysis of gene networks in white adipose tissue
+development reveals a role for ETS2 in adipogenesis. Development 138,
+4709–4719.
+Bjo¨ rntorp, P., Carlgren, G., Isaksson, B., Krotkiewski, M., Larsson, B., and
+Sjo¨ stro¨ m, L. (1975). Effect of an energy-reduced dietary regimen in relation
+to adipose tissue cellularity in obese women. Am. J. Clin. Nutr. 28, 445–452.
+Bostro¨ m, P., Wu, J., Jedrychowski, M.P., Korde, A., Ye, L., Lo, J.C., Rasbach,
+K.A., Bostro¨ m, E.A., Choi, J.H., Long, J.Z., et al. (2012). A PGC1-a-dependent
+myokine that drives brown-fat-like development of white fat and thermogene-
+sis. Nature 481, 463–468.
+Boustany-Kari, C.M., Jackson, V.M., Gibbons, C.P., and Swick, A.G. (2011).
+Leptin potentiates the anti-obesity effects of rimonabant. Eur. J. Pharmacol.
+658, 270–276.
+Bowers, R.R., Festuccia, W.T., Song, C.K., Shi, H., Migliorini, R.H., and Bart-
+ness, T.J. (2004). Sympathetic innervation of white adipose tissue and its regu-
+lation of fat cell number. Am. J. Physiol. Regul. Integr. Comp. Physiol. 286,
+R1167–R1175.
+Bra˚ kenhielm, E., Cao, R., Gao, B., Angelin, B., Cannon, B., Parini, P., and Cao,
+Y. (2004). Angiogenesis inhibitor, TNP-470, prevents diet-induced and genetic
+obesity in mice. Circ. Res. 94, 1579–1588.
+Bremer, A.A., and Jialal, I. (2013). Adipose tissue dysfunction in nascent meta-
+bolic syndrome. J. Obes. 2013, 393192.
+Brito, N.A., Brito, M.N., and Bartness, T.J. (2008). Differential sympathetic
+drive to adipose tissues after food deprivation, cold exposure or glucopriva-
+tion. Am. J. Physiol. Regul. Integr. Comp. Physiol. 294, R1445–R1452.
+Bruss, M.D., Khambatta, C.F., Ruby, M.A., Aggarwal, I., and Hellerstein, M.K.
+(2010). Calorie restriction increases fatty acid synthesis and whole body fat
+oxidation rates. Am. J. Physiol. Endocrinol. Metab. 298, E108–E116.
+Campos-Sandoval, J.A., Redondo, C., Kinsella, G.K., Pal, A., Jones, G., Eyre,
+G.S., Hirst, S.C., and Findlay, J.B. (2011). Fenretinide derivatives act as
+disrupters of interactions of serum retinol binding protein (sRBP) with trans-
+thyretin and the sRBP receptor. J. Med. Chem. 54, 4378–4387.
+Cani, P.D., Amar, J., Iglesias, M.A., Poggi, M., Knauf, C., Bastelica, D., Neyr-
+inck, A.M., Fava, F., Tuohy, K.M., Chabo, C., et al. (2007). Metabolic endotox-
+emia initiates obesity and insulin resistance. Diabetes 56, 1761–1772.
+Cannon, B., and Nedergaard, J. (2004). Brown adipose tissue: function and
+physiological signiﬁcance. Physiol. Rev. 84, 277–359.
+Cao, Y. (2013). Angiogenesis and vascular functions in modulation of obesity,
+adipose metabolism, and insulin sensitivity. Cell Metab. 18, 478–489.
+Cao, H., Gerhold, K., Mayers, J.R., Wiest, M.M., Watkins, S.M., and Hotamisli-
+gil, G.S. (2008). Identiﬁcation of a lipokine, a lipid hormone linking adipose
+tissue to systemic metabolism. Cell 134, 933–944.
+Cao, H., Sekiya, M., Ertunc, M.E., Burak, M.F., Mayers, J.R., White, A., Inouye,
+K., Rickey, L.M., Ercal, B.C., Furuhashi, M., et al. (2013). Adipocyte lipid chap-
+erone AP2 is a secreted adipokine regulating hepatic glucose production. Cell
+Metab. 17, 768–778.
+Carbone, F., La Rocca, C., and Matarese, G. (2012). Immunological functions
+of leptin and adiponectin. Biochimie 94, 2082–2088.
+Cawthorn, W.P., Scheller, E.L., and MacDougald, O.A. (2012). Adipose tissue
+stem cells meet preadipocyte commitment: going back to the future. J. Lipid
+Res. 53, 227–246.
+Chakrabarti, P., and Kandror, K.V. (2009). FoxO1 controls insulin-dependent
+adipose triglyceride lipase (ATGL) expression and lipolysis in adipocytes.
+J. Biol. Chem. 284, 13296–13300.
+Chechi, K., Carpentier, A.C., and Richard, D. (2013). Understanding the brown
+adipocyte as a contributor to energy homeostasis. Trends Endocrinol. Metab.
+24, 408–420.
+Chen, K.Y., Brychta, R.J., Linderman, J.D., Smith, S., Courville, A.,
+Dieckmann, W., Herscovitch, P., Millo, C.M., Remaley, A., Lee, P., and Celi,
+F.S. (2013a). Brown fat activation mediates cold-induced thermogenesis in
+adult humans in response to a mild decrease in ambient temperature.
+J. Clin. Endocrinol. Metab. 98, E1218–E1223.
+Chen, L., Song, J., Cui, J., Hou, J., Zheng, X., Li, C., and Liu, L. (2013b). micro-
+RNAs regulate adipocyte differentiation. Cell Biol. Int. 37, 533–546.
+Cherian, S., Lopaschuk, G.D., and Carvalho, E. (2012). Cellular cross-talk
+between epicardial adipose tissue and myocardium in relation to the patho-
+genesis of cardiovascular disease. Am. J. Physiol. Endocrinol. Metab. 303,
+E937–E949.
+Choi, J.H., Banks, A.S., Estall, J.L., Kajimura, S., Bostro¨ m, P., Laznik, D., Ruas,
+J.L., Chalmers, M.J., Kamenecka, T.M., Blu¨ her, M., et al. (2010a). Anti-diabetic
+drugs inhibit obesity-linked phosphorylation of PPARgamma by Cdk5. Nature
+466, 451–456.
+Choi, S.M., Tucker, D.F., Gross, D.N., Easton, R.M., DiPilato, L.M., Dean, A.S.,
+Monks, B.R., and Birnbaum, M.J. (2010b). Insulin regulates adipocyte lipolysis
+via an Akt-independent signaling pathway. Mol. Cell. Biol. 30, 5009–5020.
+Choi, J.H., Banks, A.S., Kamenecka, T.M., Busby, S.A., Chalmers, M.J.,
+Kumar, N., Kuruvilla, D.S., Shin, Y., He, Y., Bruning, J.B., et al. (2011). Antidi-
+abetic actions of a non-agonist PPARg ligand blocking Cdk5-mediated phos-
+phorylation. Nature 477, 477–481.
+Chou, S.H., Chamberland, J.P., Liu, X., Matarese, G., Gao, C., Stefanakis, R.,
+Brinkoetter, M.T., Gong, H., Arampatzi, K., and Mantzoros, C.S. (2011). Leptin
+is an effective treatment for hypothalamic amenorrhea. Proc. Natl. Acad. Sci.
+USA 108, 6585–6590.
+Choy, L., Skillington, J., and Derynck, R. (2000). Roles of autocrine TGF-beta
+receptor and Smad signaling in adipocyte differentiation. J. Cell Biol. 149,
+667–682.
+Cinti, S., Cigolini, M., Bosello, O., and Bjo¨ rntorp, P. (1984). A morphological
+study of the adipocyte precursor. J. Submicrosc. Cytol. 16, 243–251.
+Cinti, S., Mitchell, G., Barbatelli, G., Murano, I., Ceresi, E., Faloia, E., Wang, S.,
+Fortier, M., Greenberg, A.S., and Obin, M.S. (2005). Adipocyte death deﬁnes
+macrophage localization and function in adipose tissue of obese mice and
+humans. J. Lipid Res. 46, 2347–2355.
+Cipolletta, D., Feuerer, M., Li, A., Kamei, N., Lee, J., Shoelson, S.E., Benoist,
+C., and Mathis, D. (2012). PPAR-g is a major driver of the accumulation and
+phenotype of adipose tissue Treg cells. Nature 486, 549–553.
+Colman, E. (2007). Dinitrophenol and obesity: an early twentieth-century
+regulatory dilemma. Regul. Toxicol. Pharmacol. 48, 115–117.
+Considine, R.V. (2001). Regulation of leptin production. Rev. Endocr. Metab.
+Disord. 2, 357–363.
+Cristancho, A.G., and Lazar, M.A. (2011). Forming functional fat: a growing un-
+derstanding of adipocyte differentiation. Nat. Rev. Mol. Cell Biol. 12, 722–734.
+Cristancho, A.G., Schupp, M., Lefterova, M.I., Cao, S., Cohen, D.M., Chen,
+C.S., Steger, D.J., and Lazar, M.A. (2011). Repressor transcription factor
+7-like 1 promotes adipogenic competency in precursor cells. Proc. Natl.
+Acad. Sci. USA 108, 16271–16276.
+Cypess, A.M., Lehman, S., Williams, G., Tal, I., Rodman, D., Goldﬁne, A.B.,
+Kuo, F.C., Palmer, E.L., Tseng, Y.H., Doria, A., et al. (2009). Identiﬁcation
+and importance of brown adipose tissue in adult humans. N. Engl. J. Med.
+360, 1509–1517.
+Cypess, A.M., White, A.P., Vernochet, C., Schulz, T.J., Xue, R., Sass, C.A.,
+Huang, T.L., Roberts-Toler, C., Weiner, L.S., Sze, C., et al. (2013). Anatomical
+localization, gene expression proﬁling and functional characterization of adult
+human neck brown fat. Nat. Med. 19, 635–639.
+Dani, C. (2013). Activins in adipogenesis and obesity. Int J Obes (Lond) 37,
+163–166.
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 37
+Degerman, E., Landstro¨ m, T.R., Wijkander, J., Holst, L.S., Ahmad, F., Belfrage,
+P., and Manganiello, V. (1998). Phosphorylation and activation of hormone-
+sensitive adipocyte phosphodiesterase type 3B. Methods 14, 43–53.
+Deng, T., Lyon, C.J., Minze, L.J., Lin, J., Zou, J., Liu, J.Z., Ren, Y., Yin, Z.,
+Hamilton, D.J., Reardon, P.R., et al. (2013). Class II major histocompatibility
+complex plays an essential role in obesity-induced adipose inﬂammation.
+Cell Metab. 17, 411–422.
+Denis, G.V., and Obin, M.S. (2013). ‘Metabolically healthy obesity’: origins and
+implications. Mol. Aspects Med. 34, 59–70.
+Denzel, M.S., Scimia, M.C., Zumstein, P.M., Walsh, K., Ruiz-Lozano, P., and
+Ranscht, B. (2010). T-cadherin is critical for adiponectin-mediated cardiopro-
+tection in mice. J. Clin. Invest. 120, 4342–4352.
+Devlin, M.J., Cloutier, A.M., Thomas, N.A., Panus, D.A., Lotinun, S., Pinz, I.,
+Baron, R., Rosen, C.J., and Bouxsein, M.L. (2010). Caloric restriction leads
+to high marrow adiposity and low bone mass in growing mice. J. Bone Miner.
+Res. 25, 2078–2088.
+Dobson, D.E., Kambe, A., Block, E., Dion, T., Lu, H., Castellot, J.J., Jr., and
+Spiegelman, B.M. (1990). 1-Butyryl-glycerol: a novel angiogenesis factor
+secreted by differentiating adipocytes. Cell 61, 223–230.
+Eguchi, J., Wang, X., Yu, S., Kershaw, E.E., Chiu, P.C., Dushay, J., Estall, J.L.,
+Klein, U., Maratos-Flier, E., and Rosen, E.D. (2011). Transcriptional control of
+adipose lipid handling by IRF4. Cell Metab. 13, 249–259.
+Eguchi, J., Kong, X., Tenta, M., Wang, X., Kang, S., and Rosen, E.D. (2013).
+Interferon regulatory factor 4 regulates obesity-induced inﬂammation through
+regulation of adipose tissue macrophage polarization. Diabetes 62, 3394–
+3403.
+Elias, I., Franckhauser, S., and Bosch, F. (2013). New insights into adipose
+tissue VEGF-A actions in the control of obesity and insulin resistance. Adipo-
+cyte 2, 109–112.
+Eller, K., Kirsch, A., Wolf, A.M., Sopper, S., Tagwerker, A., Stanzl, U., Wolf, D.,
+Patsch, W., Rosenkranz, A.R., and Eller, P. (2011). Potential role of regulatory
+T cells in reversing obesity-linked insulin resistance and diabetic nephropathy.
+Diabetes 60, 2954–2962.
+Enerba¨ ck, S., Jacobsson, A., Simpson, E.M., Guerra, C., Yamashita, H.,
+Harper, M.E., and Kozak, L.P. (1997). Mice lacking mitochondrial uncoupling
+protein are cold-sensitive but not obese. Nature 387, 90–94.
+English, J.T., Patel, S.K., and Flanagan, M.J. (1973). Association of pheochro-
+mocytomas with brown fat tumors. Radiology 107, 279–281.
+Fain, J.N., Ballou, L.R., and Bahouth, S.W. (2001). Obesity is induced in mice
+heterozygous for cyclooxygenase-2. Prostaglandins Other Lipid Mediat. 65,
+199–209.
+Fazeli, P.K., Horowitz, M.C., MacDougald, O.A., Scheller, E.L., Rodeheffer,
+M.S., Rosen, C.J., and Klibanski, A. (2013). Marrow fat and bone—new
+perspectives. J. Clin. Endocrinol. Metab. 98, 935–945.
+Fedorenko, A., Lishko, P.V., and Kirichok, Y. (2012). Mechanism of fatty-acid-
+dependent UCP1 uncoupling in brown fat mitochondria. Cell 151, 400–413.
+Festa, E., Fretz, J., Berry, R., Schmidt, B., Rodeheffer, M., Horowitz, M., and
+Horsley, V. (2011). Adipocyte lineage cells contribute to the skin stem cell niche
+to drive hair cycling. Cell 146, 761–771.
+Feuerer, M., Herrero, L., Cipolletta, D., Naaz, A., Wong, J., Nayer, A., Lee, J.,
+Goldﬁne, A.B., Benoist, C., Shoelson, S., and Mathis, D. (2009). Lean, but
+not obese, fat is enriched for a unique population of regulatory T cells that
+affect metabolic parameters. Nat. Med. 15, 930–939.
+Flynn, E.J., 3rd, Trent, C.M., and Rawls, J.F. (2009). Ontogeny and nutritional
+control of adipogenesis in zebraﬁsh (Danio rerio). J. Lipid Res. 50, 1641–1652.
+Foster, M.T., and Bartness, T.J. (2006). Sympathetic but not sensory denerva-
+tion stimulates white adipocyte proliferation. Am. J. Physiol. Regul. Integr.
+Comp. Physiol. 291, R1630–R1637.
+Fukumura, D., Ushiyama, A., Duda, D.G., Xu, L., Tam, J., Krishna, V., Chatter-
+jee, K., Garkavtsev, I., and Jain, R.K. (2003). Paracrine regulation of angiogen-
+esis and adipocyte differentiation during in vivo adipogenesis. Circ. Res. 93,
+e88–e97.
+Furuhashi, M., and Hotamisligil, G.S. (2008). Fatty acid-binding proteins: role in
+metabolic diseases and potential as drug targets. Nat. Rev. Drug Discov. 7,
+489–503.
+Gabrielsen, J.S., Gao, Y., Simcox, J.A., Huang, J., Thorup, D., Jones, D.,
+Cooksey, R.C., Gabrielsen, D., Adams, T.D., Hunt, S.C., et al. (2012). Adipo-
+cyte iron regulates adiponectin and insulin sensitivity. J. Clin. Invest. 122,
+3529–3540.
+Gabriely, I., Ma, X.H., Yang, X.M., Atzmon, G., Rajala, M.W., Berg, A.H.,
+Scherer, P., Rossetti, L., and Barzilai, N. (2002). Removal of visceral fat
+prevents insulin resistance and glucose intolerance of aging: an adipokine-
+mediated process? Diabetes 51, 2951–2958.
+Garg, A. (2011). Clinical review#: Lipodystrophies: genetic and acquired body
+fat disorders. J. Clin. Endocrinol. Metab. 96, 3313–3325.
+Garten, A., Schuster, S., and Kiess, W. (2012). The insulin-like growth factors
+in adipogenesis and obesity. Endocrinol. Metab. Clin. North Am. 41, 283–295,
+v–vi.
+Gigue` re, V. (2008). Transcriptional control of energy homeostasis by the estro-
+gen-related receptors. Endocr. Rev. 29, 677–696.
+Goldstein, B.J., Scalia, R.G., and Ma, X.L. (2009). Protective vascular and
+myocardial effects of adiponectin. Nat. Clin. Pract. Cardiovasc. Med. 6, 27–35.
+Graham, T.E., and Kahn, B.B. (2007). Tissue-speciﬁc alterations of glucose
+transport and molecular mechanisms of intertissue communication in obesity
+and type 2 diabetes. Horm. Metab. Res. 39, 717–721.
+Granneman, J.G., Li, P., Zhu, Z., and Lu, Y. (2005). Metabolic and cellular plas-
+ticity in white adipose tissue I: effects of beta3-adrenergic receptor activation.
+Am. J. Physiol. Endocrinol. Metab. 289, E608–E616.
+Granneman, J.G., Moore, H.P., Krishnamoorthy, R., and Rathod, M. (2009).
+Perilipin controls lipolysis by regulating the interactions of AB-hydrolase
+containing 5 (Abhd5) and adipose triglyceride lipase (Atgl). J. Biol. Chem.
+284, 34538–34544.
+Greenwood, M.R., and Hirsch, J. (1974). Postnatal development of adipocyte
+cellularity in the normal rat. J. Lipid Res. 15, 474–483.
+Grifﬁth, J.F., Yeung, D.K., Ahuja, A.T., Choy, C.W., Mei, W.Y., Lam, S.S., Lam,
+T.P., Chen, Z.Y., and Leung, P.C. (2009). A study of bone marrow and subcu-
+taneous fatty acid composition in subjects of varying bone mineral density.
+Bone 44, 1092–1096.
+Guo, H., Jin, D., Zhang, Y., Wright, W., Bazuine, M., Brockman, D.A., Bernlohr,
+D.A., and Chen, X. (2010). Lipocalin-2 deﬁciency impairs thermogenesis and
+potentiates diet-induced insulin resistance in mice. Diabetes 59, 1376–1385.
+Gupta, R.K., Arany, Z., Seale, P., Mepani, R.J., Ye, L., Conroe, H.M., Roby,
+Y.A., Kulaga, H., Reed, R.R., and Spiegelman, B.M. (2010). Transcriptional
+control of preadipocyte determination by Zfp423. Nature 464, 619–623.
+Gupta, R.K., Mepani, R.J., Kleiner, S., Lo, J.C., Khandekar, M.J., Cohen, P.,
+Frontini, A., Bhowmick, D.C., Ye, L., Cinti, S., and Spiegelman, B.M. (2012).
+Zfp423 expression identiﬁes committed preadipocytes and localizes to
+adipose endothelial and perivascular cells. Cell Metab. 15, 230–239.
+Gustafson, B., Hammarstedt, A., Hedjazifar, S., and Smith, U. (2013).
+Restricted adipogenesis in hypertrophic obesity: the role of WISP2, WNT,
+and BMP4. Diabetes 62, 2997–3004.
+Haemmerle, G., Moustafa, T., Woelkart, G., Bu¨ ttner, S., Schmidt, A., van de
+Weijer, T., Hesselink, M., Jaeger, D., Kienesberger, P.C., Zierler, K., et al.
+(2011). ATGL-mediated fat catabolism regulates cardiac mitochondrial func-
+tion via PPAR-a and PGC-1. Nat. Med. 17, 1076–1085.
+Halberg, N., Khan, T., Trujillo, M.E., Wernstedt-Asterholm, I., Attie, A.D., Sher-
+wani, S., Wang, Z.V., Landskroner-Eiger, S., Dineen, S., Magalang, U.J., et al.
+(2009). Hypoxia-inducible factor 1alpha induces ﬁbrosis and insulin resistance
+in white adipose tissue. Mol. Cell. Biol. 29, 4467–4483.
+Hamann, A., Flier, J.S., and Lowell, B.B. (1996). Decreased brown fat markedly
+enhances susceptibility to diet-induced obesity, diabetes, and hyperlipidemia.
+Endocrinology 137, 21–29.
+Han, J., Lee, J.E., Jin, J., Lim, J.S., Oh, N., Kim, K., Chang, S.I., Shibuya, M.,
+Kim, H., and Koh, G.Y. (2011). The spatiotemporal development of adipose
+tissue. Development 138, 5027–5037.
+38 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+Harper, J.A., Dickinson, K., and Brand, M.D. (2001). Mitochondrial uncoupling
+as a target for drug development for the treatment of obesity. Obes. Rev. 2,
+255–265.
+Haslam, D.W., and James, W.P. (2005). Obesity. Lancet 366, 1197–1209.
+Hayward, J.S., and Lisson, P.A. (1992). Evolution of brown fat: its absence in
+marsupials and monotremes. Can. J. Zool. 70, 171–179.
+Hellman, B., Larsson, S., and Westman, S. (1963). Mast cell content and fatty
+acid metabolism in the epididymal fat pad of obese mice. Acta Physiol. Scand.
+58, 255–262.
+Henry, R.R., Scheaffer, L., and Olefsky, J.M. (1985). Glycemic effects of inten-
+sive caloric restriction and isocaloric refeeding in noninsulin-dependent
+diabetes mellitus. J. Clin. Endocrinol. Metab. 61, 917–925.
+Heredia, J.E., Mukundan, L., Chen, F.M., Mueller, A.A., Deo, R.C., Locksley,
+R.M., Rando, T.A., and Chawla, A. (2013). Type 2 innate signals stimulate
+ﬁbro/adipogenic progenitors to facilitate muscle regeneration. Cell 153,
+376–388.
+Herman, M.A., Peroni, O.D., Villoria, J., Scho¨ n, M.R., Abumrad, N.A., Blu¨ her,
+M., Klein, S., and Kahn, B.B. (2012). A novel ChREBP isoform in adipose tissue
+regulates systemic glucose metabolism. Nature 484, 333–338.
+Hernandez, T.L., Kittelson, J.M., Law, C.K., Ketch, L.L., Stob, N.R., Lindstrom,
+R.C., Scherzinger, A., Stamm, E.R., and Eckel, R.H. (2011). Fat redistribution
+following suction lipectomy: defense of body fat and patterns of restoration.
+Obesity (Silver Spring) 19, 1388–1395.
+Hesslein, D.G., Fretz, J.A., Xi, Y., Nelson, T., Zhou, S., Lorenzo, J.A., Schatz,
+D.G., and Horowitz, M.C. (2009). Ebf1-dependent control of the osteoblast
+and adipocyte lineages. Bone 44, 537–546.
+Heymsﬁeld, S.B., Greenberg, A.S., Fujioka, K., Dixon, R.M., Kushner, R., Hunt,
+T., Lubina, J.A., Patane, J., Self, B., Hunt, P., et al. (1999). Recombinant leptin
+for weight loss in obese and lean adults: a randomized, controlled, dose-esca-
+lation trial. JAMA 282, 1568–1575.
+Himms-Hagen, J., Melnyk, A., Zingaretti, M.C., Ceresi, E., Barbatelli, G., and
+Cinti, S. (2000). Multilocular fat cells in WAT of CL-316243-treated rats derive
+directly from white adipocytes. Am. J. Physiol. Cell Physiol. 279, C670–C681.
+Holland, W.L., Adams, A.C., Brozinick, J.T., Bui, H.H., Miyauchi, Y., Kusminski,
+C.M., Bauer, S.M., Wade, M., Singhal, E., Cheng, C.C., et al. (2013). An FGF21-
+adiponectin-ceramide axis controls energy expenditure and insulin action in
+mice. Cell Metab. 17, 790–797.
+Hollenberg, A.N., Susulic, V.S., Madura, J.P., Zhang, B., Moller, D.E., Tonto-
+noz, P., Sarraf, P., Spiegelman, B.M., and Lowell, B.B. (1997). Functional
+antagonism between CCAAT/Enhancer binding protein-alpha and peroxisome
+proliferator-activated receptor-gamma on the leptin promoter. J. Biol. Chem.
+272, 5283–5290.
+Hotamisligil, G.S. (2010). Endoplasmic reticulum stress and the inﬂammatory
+basis of metabolic disease. Cell 140, 900–917.
+Hotamisligil, G.S., Shargill, N.S., and Spiegelman, B.M. (1993). Adipose
+expression of tumor necrosis factor-alpha: direct role in obesity-linked insulin
+resistance. Science 259, 87–91.
+Houstis, N., Rosen, E.D., and Lander, E.S. (2006). Reactive oxygen species
+have a causal role in multiple forms of insulin resistance. Nature 440, 944–948.
+Hu, E., Tontonoz, P., and Spiegelman, B.M. (1995). Transdifferentiation of
+myoblasts by the adipogenic transcription factors PPAR gamma and C/EBP
+alpha. Proc. Natl. Acad. Sci. USA 92, 9856–9860.
+Huh, J.Y., Kim, J.I., Park, Y.J., Hwang, I.J., Lee, Y.S., Sohn, J.H., Lee, S.K.,
+Alfadda, A.A., Kim, S.S., Choi, S.H., et al. (2013). A novel function of adipocytes
+in lipid antigen presentation to iNKT cells. Mol. Cell. Biol. 33, 328–339.
+Huttunen, P., Hirvonen, J., and Kinnula, V. (1981). The occurrence of brown
+adipose tissue in outdoor workers. Eur. J. Appl. Physiol. Occup. Physiol. 46,
+339–345.
+Iglesias, P., Selgas, R., Romero, S., and Diez, J.J. (2012). Biological role, clin-
+ical signiﬁcance, and therapeutic possibilities of the recently discovered meta-
+bolic hormone ﬁbroblastic growth factor 21. Eur. J. Endocrinol. 167, 301–309.
+Iizuka, K., Bruick, R.K., Liang, G., Horton, J.D., and Uyeda, K. (2004). Deﬁ-
+ciency of carbohydrate response element-binding protein (ChREBP) reduces
+lipogenesis as well as glycolysis. Proc. Natl. Acad. Sci. USA 101, 7281–7286.
+Ilan, Y., Maron, R., Tukpah, A.M., Maioli, T.U., Murugaiyan, G., Yang, K., Wu,
+H.Y., and Weiner, H.L. (2010). Induction of regulatory T cells decreases
+adipose inﬂammation and alleviates insulin resistance in ob/ob mice. Proc.
+Natl. Acad. Sci. USA 107, 9765–9770.
+Jespersen, N.Z., Larsen, T.J., Peijs, L., Daugaard, S., Homøe, P., Loft, A., de
+Jong, J., Mathur, N., Cannon, B., Nedergaard, J., et al. (2013). A classical
+brown adipose tissue mRNA signature partly overlaps with brite in the supra-
+clavicular region of adult humans. Cell Metab. 17, 798–805.
+Jiang, C., Kim, J.H., Li, F., Qu, A., Gavrilova, O., Shah, Y.M., and Gonzalez, F.J.
+(2013). Hypoxia-inducible factor 1a regulates a SOCS3-STAT3-adiponectin
+signal transduction pathway in adipocytes. J. Biol. Chem. 288, 3844–3857.
+Joe, A.W., Yi, L., Natarajan, A., Le Grand, F., So, L., Wang, J., Rudnicki, M.A.,
+and Rossi, F.M. (2010). Muscle injury activates resident ﬁbro/adipogenic
+progenitors that facilitate myogenesis. Nat. Cell Biol. 12, 153–163.
+Jonker, J.W., Suh, J.M., Atkins, A.R., Ahmadian, M., Li, P., Whyte, J., He, M.,
+Juguilon, H., Yin, Y.Q., Phillips, C.T., et al. (2012). A PPARg-FGF1 axis is
+required for adaptive adipose remodelling and metabolic homeostasis. Nature
+485, 391–394.
+Jun, L.S., Siddall, C.P., and Rosen, E.D. (2011). A minor role for lipocalin 2 in
+high-fat diet-induced glucose intolerance. Am. J. Physiol. Endocrinol. Metab.
+301, E825–E835.
+Kajimura, S., Seale, P., Tomaru, T., Erdjument-Bromage, H., Cooper, M.P.,
+Ruas, J.L., Chin, S., Tempst, P., Lazar, M.A., and Spiegelman, B.M. (2008).
+Regulation of the brown and white fat gene programs through a PRDM16/
+CtBP transcriptional complex. Genes Dev. 22, 1397–1409.
+Kajimura, S., Seale, P., Kubota, K., Lunsford, E., Frangioni, J.V., Gygi, S.P.,
+and Spiegelman, B.M. (2009). Initiation of myoblast to brown fat switch by a
+PRDM16-C/EBP-beta transcriptional complex. Nature 460, 1154–1158.
+Kallen, C.B., and Lazar, M.A. (1996). Antidiabetic thiazolidinediones inhibit
+leptin (ob) gene expression in 3T3-L1 adipocytes. Proc. Natl. Acad. Sci. USA
+93, 5793–5796.
+Kanazawa, A., Tsukada, S., Kamiyama, M., Yanagimoto, T., Nakajima, M., and
+Maeda, S. (2005). Wnt5b partially inhibits canonical Wnt/beta-catenin
+signaling pathway and promotes adipogenesis in 3T3-L1 preadipocytes.
+Biochem. Biophys. Res. Commun. 330, 505–510.
+Kanda, T., Brown, J.D., Orasanu, G., Vogel, S., Gonzalez, F.J., Sartoretto, J.,
+Michel, T., and Plutzky, J. (2009). PPARgamma in the endothelium regulates
+metabolic responses to high-fat diet in mice. J. Clin. Invest. 119, 110–124.
+Kang, S., Akerblad, P., Kiviranta, R., Gupta, R.K., Kajimura, S., Grifﬁn, M.J.,
+Min, J., Baron, R., and Rosen, E.D. (2012). Regulation of early adipose commit-
+ment by Zfp521. PLoS Biol. 10, e1001433.
+Kanneganti, T.D., and Dixit, V.D. (2012). Immunological complications of
+obesity. Nat. Immunol. 13, 707–712.
+Karsenty, G. (2006). Convergence between bone and energy homeostases:
+leptin regulation of bone mass. Cell Metab. 4, 341–348.
+Khan, T., Muise, E.S., Iyengar, P., Wang, Z.V., Chandalia, M., Abate, N., Zhang,
+B.B., Bonaldo, P., Chua, S., and Scherer, P.E. (2009). Metabolic dysregulation
+and adipose tissue ﬁbrosis: role of collagen VI. Mol. Cell. Biol. 29, 1575–1591.
+Khandekar, M.J., Cohen, P., and Spiegelman, B.M. (2011). Molecular mecha-
+nisms of cancer development in obesity. Nat. Rev. Cancer 11, 886–895.
+Kiefer, F.W., Vernochet, C., O’Brien, P., Spoerl, S., Brown, J.D., Nallamshetty,
+S., Zeyda, M., Stulnig, T.M., Cohen, D.E., Kahn, C.R., and Plutzky, J. (2012).
+Retinaldehyde dehydrogenase 1 regulates a thermogenic program in white
+adipose tissue. Nat. Med. 18, 918–925.
+Kim, Y.W., Kim, J.Y., Park, Y.H., Park, S.Y., Won, K.C., Choi, K.H., Huh, J.Y.,
+and Moon, K.H. (2006). Metformin restores leptin sensitivity in high-fat-fed
+obese rats with leptin resistance. Diabetes 55, 716–724.
+Kim, J.Y., van de Wall, E., Laplante, M., Azzara, A., Trujillo, M.E., Hofmann,
+S.M., Schraw, T., Durand, J.L., Li, H., Li, G., et al. (2007). Obesity-associated
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 39
+improvements in metabolic proﬁle through expansion of adipose tissue.
+J. Clin. Invest. 117, 2621–2637.
+Kim, D.H., Woods, S.C., and Seeley, R.J. (2010). Peptide designed to elicit
+apoptosis in adipose tissue endothelium reduces food intake and body weight.
+Diabetes 59, 907–915.
+Kim, D.H., Sartor, M.A., Bain, J.R., Sandoval, D., Stevens, R.D., Medvedovic,
+M., Newgard, C.B., Woods, S.C., and Seeley, R.J. (2012). Rapid and weight-
+independent improvement of glucose tolerance induced by a peptide
+designed to elicit apoptosis in adipose tissue endothelium. Diabetes 61,
+2299–2310.
+Kitamura, T., Kitamura, Y., Kuroda, S., Hino, Y., Ando, M., Kotani, K., Konishi,
+H., Matsuzaki, H., Kikkawa, U., Ogawa, W., and Kasuga, M. (1999). Insulin-
+induced phosphorylation and activation of cyclic nucleotide phosphodies-
+terase 3B by the serine-threonine kinase Akt. Mol. Cell. Biol. 19, 6286–6296.
+Klein, S., Fontana, L., Young, V.L., Coggan, A.R., Kilo, C., Patterson, B.W., and
+Mohammed, B.S. (2004). Absence of an effect of liposuction on insulin action
+and risk factors for coronary heart disease. N. Engl. J. Med. 350, 2549–2557.
+Klo¨ ting, N., Fasshauer, M., Dietrich, A., Kovacs, P., Scho¨ n, M.R., Kern, M.,
+Stumvoll, M., and Blu¨ her, M. (2010). Insulin-sensitive obesity. Am. J. Physiol.
+Endocrinol. Metab. 299, E506–E515.
+Knittle, J.L., Timmers, K., Ginsberg-Fellner, F., Brown, R.E., and Katz, D.P.
+(1979). The growth of adipose tissue in children and adolescents. Cross-
+sectional and longitudinal studies of adipose cell number and size. J. Clin.
+Invest. 63, 239–246.
+Koh, Y.J., Kang, S., Lee, H.J., Choi, T.S., Lee, H.S., Cho, C.H., and Koh, G.Y.
+(2007). Bone marrow-derived circulating progenitor cells fail to transdifferenti-
+ate into adipocytes in adult adipose tissues in mice. J. Clin. Invest. 117, 3684–
+3695.
+Kolonin, M.G., Saha, P.K., Chan, L., Pasqualini, R., and Arap, W. (2004).
+Reversal of obesity by targeted ablation of adipose tissue. Nat. Med. 10,
+625–632.
+Konige, M., Wang, H., and Sztalryd, C. (2013). Role of adipose speciﬁc lipid
+droplet proteins in maintaining whole body energy homeostasis. Biochim.
+Biophys. Acta. Published online May 17, 2013. http://dx.doi.org/10.1016/j.
+bbadis.2013.05.007.
+Kosteli, A., Sugaru, E., Haemmerle, G., Martin, J.F., Lei, J., Zechner, R., and
+Ferrante, A.W., Jr. (2010). Weight loss and lipolysis promote a dynamic
+immune response in murine adipose tissue. J. Clin. Invest. 120, 3466–3479.
+Kral, J.G., Bjo¨ rntorp, P., Scherste´ n, T., and Sjo¨ stro¨ m, L. (1977). Body compo-
+sition and adipose tissue cellularity before and after jejuno-ileostomy in
+severely obese subjects. Eur. J. Clin. Invest. 7, 413–419.
+Kreier, F., Fliers, E., Voshol, P.J., Van Eden, C.G., Havekes, L.M., Kalsbeek, A.,
+Van Heijningen, C.L., Sluiter, A.A., Mettenleiter, T.C., Romijn, J.A., et al. (2002).
+Selective parasympathetic innervation of subcutaneous and intra-abdominal
+fat—functional implications. J. Clin. Invest. 110, 1243–1250.
+Krishnan, J., Danzer, C., Simka, T., Ukropec, J., Walter, K.M., Kumpf, S., Mirt-
+schink, P., Ukropcova, B., Gasperikova, D., Pedrazzini, T., and Krek, W. (2012).
+Dietary obesity-associated Hif1a activation in adipocytes restricts fatty acid
+oxidation and energy expenditure via suppression of the Sirt2-NAD+ system.
+Genes Dev. 26, 259–270.
+Krotkiewski, M., Bjo¨ rntorp, P., Sjo¨ stro¨ m, L., and Smith, U. (1983). Impact of
+obesity on metabolism in men and women. Importance of regional adipose
+tissue distribution. J. Clin. Invest. 72, 1150–1162.
+Kubota, N., Yano, W., Kubota, T., Yamauchi, T., Itoh, S., Kumagai, H., Kozono,
+H., Takamoto, I., Okamoto, S., Shiuchi, T., et al. (2007). Adiponectin stimulates
+AMP-activated protein kinase in the hypothalamus and increases food intake.
+Cell Metab. 6, 55–68.
+Law, I.K., Xu, A., Lam, K.S., Berger, T., Mak, T.W., Vanhoutte, P.M., Liu, J.T.,
+Sweeney, G., Zhou, M., Yang, B., and Wang, Y. (2010). Lipocalin-2 deﬁciency
+attenuates insulin resistance associated with aging and obesity. Diabetes 59,
+872–882.
+Lee, Y.H., Petkova, A.P., Mottillo, E.P., and Granneman, J.G. (2012). In vivo
+identiﬁcation of bipotential adipocyte progenitors recruited by b3-adrenocep-
+tor activation and high-fat feeding. Cell Metab. 15, 480–491.
+Lee, M.J., Wu, Y., and Fried, S.K. (2013). Adipose tissue heterogeneity: impli-
+cation of depot differences in adipose tissue for obesity complications. Mol.
+Aspects Med. 34, 1–11.
+Leinninger, G.M., Jo, Y.H., Leshan, R.L., Louis, G.W., Yang, H., Barrera, J.G.,
+Wilson, H., Opland, D.M., Faouzi, M.A., Gong, Y., et al. (2009). Leptin acts via
+leptin receptor-expressing lateral hypothalamic neurons to modulate the mes-
+olimbic dopamine system and suppress feeding. Cell Metab. 10, 89–98.
+Lepper, C., and Fan, C.M. (2010). Inducible lineage tracing of Pax7-descen-
+dant cells reveals embryonic origin of adult satellite cells. Genesis 48,
+424–436.
+Li, P., Fan, W., Xu, J., Lu, M., Yamamoto, H., Auwerx, J., Sears, D.D., Talukdar,
+S., Oh, D., Chen, A., et al. (2011). Adipocyte NCoR knockout decreases PPARg
+phosphorylation and enhances PPARg activity and insulin sensitivity. Cell 147,
+815–826.
+Lidell, M.E., Betz, M.J., Dahlqvist Leinhard, O., Heglind, M., Elander, L., Slawik,
+M., Mussack, T., Nilsson, D., Romu, T., Nuutila, P., et al. (2013). Evidence for
+two types of brown adipose tissue in humans. Nat. Med. 19, 631–634.
+Liew, C.W., Boucher, J., Cheong, J.K., Vernochet, C., Koh, H.J., Mallol, C.,
+Townsend, K., Langin, D., Kawamori, D., Hu, J., et al. (2013). Ablation of
+TRIP-Br2, a regulator of fat lipolysis, thermogenesis and oxidative metabolism,
+prevents diet-induced obesity and insulin resistance. Nat. Med. 19, 217–226.
+Lin, Z., Tian, H., Lam, K.S., Lin, S., Hoo, R.C., Konishi, M., Itoh, N., Wang, Y.,
+Bornstein, S.R., Xu, A., and Li, X. (2013). Adiponectin mediates the metabolic
+effects of FGF21 on glucose homeostasis and insulin sensitivity in mice. Cell
+Metab. 17, 779–789.
+Linhart, H.G., Ishimura-Oka, K., DeMayo, F., Kibe, T., Repka, D., Poindexter,
+B., Bick, R.J., and Darlington, G.J. (2001). C/EBPalpha is required for differen-
+tiation of white, but not brown, adipose tissue. Proc. Natl. Acad. Sci. USA 98,
+12532–12537.
+Lowell, B.B., S-Susulic, V., Hamann, A., Lawitts, J.A., Himms-Hagen, J.,
+Boyer, B.B., Kozak, L.P., and Flier, J.S. (1993). Development of obesity in
+transgenic mice after genetic ablation of brown adipose tissue. Nature 366,
+740–742.
+Lu, Y.P., Lou, Y.R., Bernard, J.J., Peng, Q.Y., Li, T., Lin, Y., Shih, W.J., Nghiem,
+P., Shapses, S., Wagner, G.C., and Conney, A.H. (2012). Surgical removal of
+the parametrial fat pads stimulates apoptosis and inhibits UVB-induced carci-
+nogenesis in mice fed a high-fat diet. Proc. Natl. Acad. Sci. USA 109, 9065–
+9070.
+Lumeng, C.N., Bodzin, J.L., and Saltiel, A.R. (2007a). Obesity induces a
+phenotypic switch in adipose tissue macrophage polarization. J. Clin. Invest.
+117, 175–184.
+Lumeng, C.N., Deyoung, S.M., Bodzin, J.L., and Saltiel, A.R. (2007b).
+Increased inﬂammatory properties of adipose tissue macrophages recruited
+during diet-induced obesity. Diabetes 56, 16–23.
+MacKellar, J., Cushman, S.W., and Periwal, V. (2010). Waves of adipose tissue
+growth in the genetically obese Zucker fatty rat. PLoS ONE 5, e8197.
+Macotela, Y., Emanuelli, B., Mori, M.A., Gesta, S., Schulz, T.J., Tseng, Y.H.,
+and Kahn, C.R. (2012). Intrinsic differences in adipocyte precursor cells from
+different white fat depots. Diabetes 61, 1691–1699.
+Majka, S.M., Fox, K.E., Psilas, J.C., Helm, K.M., Childs, C.R., Acosta, A.S.,
+Janssen, R.C., Friedman, J.E., Woessner, B.T., Shade, T.R., et al. (2010). De
+novo generation of white adipocytes from the myeloid lineage via mesen-
+chymal intermediates is age, adipose depot, and gender speciﬁc. Proc. Natl.
+Acad. Sci. USA 107, 14781–14786.
+Maquoi, E., Munaut, C., Colige, A., Collen, D., and Lijnen, H.R. (2002). Modu-
+lation of adipose tissue expression of murine matrix metalloproteinases and
+their tissue inhibitors with obesity. Diabetes 51, 1093–1101.
+Mathis, D. (2013). Immunological goings-on in visceral adipose tissue. Cell
+Metab. 17, 851–859.
+40 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+Mauer, M.M., Harris, R.B., and Bartness, T.J. (2001). The regulation of total
+body fat: lessons learned from lipectomy studies. Neurosci. Biobehav. Rev.
+25, 15–28.
+Maymo´ , J.L., Pe´ rez, A.P., Gambino, Y., Calvo, J.C., Sa´ nchez-Margalet, V., and
+Varone, C.L. (2011). Review: Leptin gene expression in the placenta—regula-
+tion of a key hormone in trophoblast proliferation and survival. Placenta 32
+(Suppl 2), S146–S153.
+McCullough, A.W. (1944). Evidence of the macrophagal origin of adipose cells
+in the white rat as shown by studies on straved animals. J. Morphol. 75,
+193–201.
+Michalakis, K., Mintziori, G., Kaprara, A., Tarlatzis, B.C., and Goulis, D.G.
+(2013). The complex interaction between obesity, metabolic syndrome and
+reproductive axis: a narrative review. Metabolism 62, 457–478.
+Mikkelsen, T.S., Xu, Z., Zhang, X., Wang, L., Gimble, J.M., Lander, E.S., and
+Rosen, E.D. (2010). Comparative epigenomic analysis of murine and human
+adipogenesis. Cell 143, 156–169.
+Mittendorfer, B., Horowitz, J.F., DePaoli, A.M., McCamish, M.A., Patterson,
+B.W., and Klein, S. (2011). Recombinant human leptin treatment does not
+improve insulin action in obese subjects with type 2 diabetes. Diabetes 60,
+1474–1477.
+Molofsky, A.B., Nussbaum, J.C., Liang, H.E., Van Dyken, S.J., Cheng, L.E.,
+Mohapatra, A., Chawla, A., and Locksley, R.M. (2013). Innate lymphoid type
+2 cells sustain visceral adipose tissue eosinophils and alternatively activated
+macrophages. J. Exp. Med. 210, 535–549.
+Montague, C.T., Farooqi, I.S., Whitehead, J.P., Soos, M.A., Rau, H., Wareham,
+N.J., Sewter, C.P., Digby, J.E., Mohammed, S.N., Hurst, J.A., et al. (1997).
+Congenital leptin deﬁciency is associated with severe early-onset obesity in
+humans. Nature 387, 903–908.
+Moon, H.S., Dalamaga, M., Kim, S.Y., Polyzos, S.A., Hamnvik, O.P., Magkos,
+F., Paruthi, J., and Mantzoros, C.S. (2013). Leptin’s role in lipodystrophic and
+nonlipodystrophic insulin-resistant and diabetic individuals. Endocr. Rev. 34,
+377–412.
+Morris, D.L., Cho, K.W., Delproposto, J.L., Oatmen, K.E., Geletka, L.M.,
+Martinez-Santibanez, G., Singer, K., and Lumeng, C.N. (2013). Adipose tissue
+macrophages function as antigen-presenting cells and regulate adipose tissue
+CD4+ T cells in mice. Diabetes 62, 2762–2772.
+Morroni, M., Giordano, A., Zingaretti, M.C., Boiani, R., De Matteis, R., Kahn,
+B.B., Nisoli, E., Tonello, C., Pisoschi, C., Luchetti, M.M., et al. (2004). Revers-
+ible transdifferentiation of secretory epithelial cells into adipocytes in the
+mammary gland. Proc. Natl. Acad. Sci. USA 101, 16801–16806.
+Muller, T.D., Sullivan, L.M., Habegger, K., Yi, C.X., Kabra, D., Grant, E.,
+Ottaway, N., Krishna, R., Holland, J., Hembree, J., et al. (2012). Restoration
+of leptin responsiveness in diet-induced obese mice using an optimized leptin
+analog in combination with exendin-4 or FGF21. J. Pept. Sci. 18, 383–393.
+Murphy, K.T., Schwartz, G.J., Nguyen, N.L., Mendez, J.M., Ryu, V., and Bart-
+ness, T.J. (2013). Leptin-sensitive sensory nerves innervate white fat. Am. J.
+Physiol. Endocrinol. Metab. 304, E1338–E1347.
+Myers, M.G., Jr., Mu¨ nzberg, H., Leinninger, G.M., and Leshan, R.L. (2009). The
+geometry of leptin action in the brain: more complicated than a simple ARC.
+Cell Metab. 9, 117–123.
+Myers, M.G., Jr., Heymsﬁeld, S.B., Haft, C., Kahn, B.B., Laughlin, M., Leibel,
+R.L., Tscho¨ p, M.H., and Yanovski, J.A. (2012). Challenges and opportunities
+of deﬁning clinical leptin resistance. Cell Metab. 15, 150–156.
+Natarajan, A., Lemos, D.R., and Rossi, F.M. (2010). Fibro/adipogenic progen-
+itors: a double-edged sword in skeletal muscle regeneration. Cell Cycle 9,
+2045–2046.
+Naveiras, O., Nardi, V., Wenzel, P.L., Hauschka, P.V., Fahey, F., and Daley,
+G.Q. (2009). Bone-marrow adipocytes as negative regulators of the haemato-
+poietic microenvironment. Nature 460, 259–263.
+Nawarskas, J., Rajan, V., and Frishman, W.H. (2001). Vasopeptidase inhibi-
+tors, neutral endopeptidase inhibitors, and dual inhibitors of angiotensin-con-
+verting enzyme and neutral endopeptidase. Heart Dis. 3, 378–385.
+Nawrocki, A.R., Rajala, M.W., Tomas, E., Pajvani, U.B., Saha, A.K., Trumba-
+uer, M.E., Pang, Z., Chen, A.S., Ruderman, N.B., Chen, H., et al. (2006).
+Mice lacking adiponectin show decreased hepatic insulin sensitivity and
+reduced responsiveness to peroxisome proliferator-activated receptor
+gamma agonists. J. Biol. Chem. 281, 2654–2660.
+Nguyen, K.D., Qiu, Y., Cui, X., Goh, Y.P., Mwangi, J., David, T., Mukundan, L.,
+Brombacher, F., Locksley, R.M., and Chawla, A. (2011). Alternatively activated
+macrophages produce catecholamines to sustain adaptive thermogenesis.
+Nature 480, 104–108.
+Nieman, K.M., Kenny, H.A., Penicka, C.V., Ladanyi, A., Buell-Gutbrod, R.,
+Zillhardt, M.R., Romero, I.L., Carey, M.S., Mills, G.B., Hotamisligil, G.S.,
+et al. (2011). Adipocytes promote ovarian cancer metastasis and provide
+energy for rapid tumor growth. Nat. Med. 17, 1498–1503.
+Norseen, J., Hosooka, T., Hammarstedt, A., Yore, M.M., Kant, S., Aryal, P.,
+Kiernan, U.A., Phillips, D.A., Maruyama, H., Kraus, B.J., et al. (2012).
+Retinol-binding protein 4 inhibits insulin signaling in adipocytes by inducing
+proinﬂammatory cytokines in macrophages through a c-Jun N-terminal
+kinase- and toll-like receptor 4-dependent and retinol-independent mecha-
+nism. Mol. Cell. Biol. 32, 2010–2019.
+Odegaard, J.I., Ricardo-Gonzalez, R.R., Goforth, M.H., Morel, C.R., Subrama-
+nian, V., Mukundan, L., Red Eagle, A., Vats, D., Brombacher, F., Ferrante,
+A.W., and Chawla, A. (2007). Macrophage-speciﬁc PPARgamma controls
+alternative activation and improves insulin resistance. Nature 447, 1116–1120.
+Oelkrug, R., Goetze, N., Exner, C., Lee, Y., Ganjam, G.K., Kutschke, M., Muller,
+S., Stohr, S., Tschop, M.H., Crichton, P.G., et al. (2013). Brown fat in a proto-
+endothermic mammal fuels eutherian evolution. Nat. Commun. 4, 2140.
+Oh, D.Y., Morinaga, H., Talukdar, S., Bae, E.J., and Olefsky, J.M. (2012).
+Increased macrophage migration into adipose tissue in obese mice. Diabetes
+61, 346–354.
+Okada-Iwabu, M., Yamauchi, T., Iwabu, M., Honma, T., Hamagami, K.I.,
+Matsuda, K., Yamaguchi, M., Tanabe, H., Kimura-Someya, T., Shirouzu, M.,
+et al. (2013). A small-molecule AdipoR agonist for type 2 diabetes and short
+life in obesity. Nature 503, 493–499.
+Okamura, M., Kudo, H., Wakabayashi, K., Tanaka, T., Nonaka, A., Uchida, A.,
+Tsutsumi, S., Sakakibara, I., Naito, M., Osborne, T.F., et al. (2009). COUP-TFII
+acts downstream of Wnt/beta-catenin signal to silence PPARgamma gene
+expression and repress adipogenesis. Proc. Natl. Acad. Sci. USA 106,
+5819–5824.
+Oskowitz, A.Z., Lu, J., Penfornis, P., Ylostalo, J., McBride, J., Flemington, E.K.,
+Prockop, D.J., and Pochampally, R. (2008). Human multipotent stromal cells
+from bone marrow and microRNA: regulation of differentiation and leukemia
+inhibitory factor expression. Proc. Natl. Acad. Sci. USA 105, 18372–18377.
+Ota, T. (2013). Chemokine systems link obesity to insulin resistance. Diabetes
+Metab. J. 37, 165–172.
+Ottaviani, E., Malagoli, D., and Franceschi, C. (2011). The evolution of the
+adipose tissue: a neglected enigma. Gen. Comp. Endocrinol. 174, 1–4.
+Ouellet, V., Labbe´ , S.M., Blondin, D.P., Phoenix, S., Gue´ rin, B., Haman, F.,
+Turcotte, E.E., Richard, D., and Carpentier, A.C. (2012). Brown adipose tissue
+oxidative metabolism contributes to energy expenditure during acute cold
+exposure in humans. J. Clin. Invest. 122, 545–552.
+Park, J., and Scherer, P.E. (2012). Adipocyte-derived endotrophin promotes
+malignant tumor progression. J. Clin. Invest. 122, 4243–4256.
+Park, J., Euhus, D.M., and Scherer, P.E. (2011). Paracrine and endocrine
+effects of adipose tissue on cancer development and progression. Endocr.
+Rev. 32, 550–570.
+Park, B.O., Ahrends, R., and Teruel, M.N. (2012). Consecutive positive feed-
+back loops create a bistable switch that controls preadipocyte-to-adipocyte
+conversion. Cell Rep. 2, 976–990.
+Petrovic, N., Walden, T.B., Shabalina, I.G., Timmons, J.A., Cannon, B., and
+Nedergaard, J. (2010). Chronic peroxisome proliferator-activated receptor
+gamma (PPARgamma) activation of epididymally derived white adipocyte
+cultures reveals a population of thermogenically competent, UCP1-containing
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 41
+adipocytes molecularly distinct from classic brown adipocytes. J. Biol. Chem.
+285, 7153–7164.
+Pittenger, M.F., Mackay, A.M., Beck, S.C., Jaiswal, R.K., Douglas, R., Mosca,
+J.D., Moorman, M.A., Simonetti, D.W., Craig, S., and Marshak, D.R. (1999).
+Multilineage potential of adult human mesenchymal stem cells. Science 284,
+143–147.
+Poissonnet, C.M., Burdi, A.R., and Bookstein, F.L. (1983). Growth and devel-
+opment of human adipose tissue during early gestation. Early Hum. Dev. 8,
+1–11.
+Poissonnet, C.M., Burdi, A.R., and Garn, S.M. (1984). The chronology of adi-
+pose tissue appearance and distribution in the human fetus. Early Hum.
+Dev. 10, 1–11.
+Pond, C.M. (1992). An evolutionary and functional view of mammalian adipose
+tissue. Proc. Nutr. Soc. 51, 367–377.
+Pond, C.M., and Mattacks, C.A. (2002). The activation of the adipose tissue
+associated with lymph nodes during the early stages of an immune response.
+Cytokine 17, 131–139.
+Potthoff, M.J., Kliewer, S.A., and Mangelsdorf, D.J. (2012). Endocrine ﬁbro-
+blast growth factors 15/19 and 21: from feast to famine. Genes Dev. 26,
+312–324.
+Preitner, F., Mody, N., Graham, T.E., Peroni, O.D., and Kahn, B.B. (2009).
+Long-term Fenretinide treatment prevents high-fat diet-induced obesity, insu-
+lin resistance, and hepatic steatosis. Am. J. Physiol. Endocrinol. Metab. 297,
+E1420–E1429.
+Puigserver, P., and Spiegelman, B.M. (2003). Peroxisome proliferator-acti-
+vated receptor-gamma coactivator 1 alpha (PGC-1 alpha): transcriptional
+coactivator and metabolic regulator. Endocr. Rev. 24, 78–90.
+Qiang, L., Wang, L., Kon, N., Zhao, W., Lee, S., Zhang, Y., Rosenbaum, M.,
+Zhao, Y., Gu, W., Farmer, S.R., and Accili, D. (2012). Brown remodeling of
+white adipose tissue by SirT1-dependent deacetylation of Pparg. Cell 150,
+620–632.
+Rajakumari, S., Wu, J., Ishibashi, J., Lim, H.W., Giang, A.H., Won, K.J., Reed,
+R.R., and Seale, P. (2013). EBF2 determines and maintains brown adipocyte
+identity. Cell Metab. 17, 562–574.
+Ravussin, E., Smith, S.R., Mitchell, J.A., Shringarpure, R., Shan, K., Maier, H.,
+Koda, J.E., and Weyer, C. (2009). Enhanced weight loss with pramlintide/
+metreleptin: an integrated neurohormonal approach to obesity pharmaco-
+therapy. Obesity (Silver Spring) 17, 1736–1743.
+Rigamonti, A., Brennand, K., Lau, F., and Cowan, C.A. (2011). Rapid cellular
+turnover in adipose tissue. PLoS ONE 6, e17637.
+Rockson, S.G. (2010). Causes and consequences of lymphatic disease. Ann.
+N Y Acad. Sci. 1207 (Suppl 1), E2–E6.
+Rodeheffer, M.S., Birsoy, K., and Friedman, J.M. (2008). Identiﬁcation of white
+adipocyte progenitor cells in vivo. Cell 135, 240–249.
+Rosen, E.D. (2002). The molecular control of adipogenesis, with special refer-
+ence to lymphatic pathology. Ann. N Y Acad. Sci. 979, 143–158, discussion
+188–196.
+Rosen, E.D., and MacDougald, O.A. (2006). Adipocyte differentiation from the
+inside out. Nat. Rev. Mol. Cell Biol. 7, 885–896.
+Rosen, E.D., Hsu, C.H., Wang, X., Sakai, S., Freeman, M.W., Gonzalez, F.J.,
+and Spiegelman, B.M. (2002). C/EBPalpha induces adipogenesis through
+PPARgamma: a uniﬁed pathway. Genes Dev. 16, 22–26.
+Rosenwald, M., Perdikari, A., Ru¨ licke, T., and Wolfrum, C. (2013). Bi-direc-
+tional interconversion of brite and white adipocytes. Nat. Cell Biol. 15,
+659–667.
+Roth, J.D., Roland, B.L., Cole, R.L., Trevaskis, J.L., Weyer, C., Koda, J.E.,
+Anderson, C.M., Parkes, D.G., and Baron, A.D. (2008). Leptin responsiveness
+restored by amylin agonism in diet-induced obesity: evidence from nonclinical
+and clinical studies. Proc. Natl. Acad. Sci. USA 105, 7257–7262.
+Rothwell, N.J., and Stock, M.J. (1979). A role for brown adipose tissue in diet-
+induced thermogenesis. Nature 281, 31–35.
+Rupnick, M.A., Panigrahy, D., Zhang, C.Y., Dallabrida, S.M., Lowell, B.B.,
+Langer, R., and Folkman, M.J. (2002). Adipose tissue mass can be regulated
+through the vasculature. Proc. Natl. Acad. Sci. USA 99, 10730–10735.
+Ryde´ n, M., and Arner, P. (2007). Tumour necrosis factor-alpha in human
+adipose tissue — from signalling mechanisms to clinical implications.
+J. Intern. Med. 262, 431–438.
+Salans, L.B., Horton, E.S., and Sims, E.A. (1971). Experimental obesity in man:
+cellular character of the adipose tissue. J. Clin. Invest. 50, 1005–1011.
+Sanchez-Gurmaches, J., Hung, C.M., Sparks, C.A., Tang, Y., Li, H., and Guer-
+tin, D.A. (2012). PTEN loss in the Myf5 lineage redistributes body fat and
+reveals subsets of white adipocytes that arise from Myf5 precursors. Cell
+Metab. 16, 348–362.
+Savage, D.B., Sewter, C.P., Klenk, E.S., Segal, D.G., Vidal-Puig, A., Considine,
+R.V., and O’Rahilly, S. (2001). Resistin / Fizz3 expression in relation to obesity
+and peroxisome proliferator-activated receptor-gamma action in humans.
+Diabetes 50, 2199–2202.
+Schmidt, B.A., and Horsley, V. (2013). Intradermal adipocytes mediate ﬁbro-
+blast recruitment during skin wound healing. Development 140, 1517–1527.
+Schmidt, S.F., Jørgensen, M., Chen, Y., Nielsen, R., Sandelin, A., and
+Mandrup, S. (2011). Cross species comparison of C/EBPa and PPARg proﬁles
+in mouse and human adipocytes reveals interdependent retention of binding
+sites. BMC Genomics 12, 152.
+Schulz, T.J., Huang, T.L., Tran, T.T., Zhang, H., Townsend, K.L., Shadrach,
+J.L., Cerletti, M., McDougall, L.E., Giorgadze, N., Tchkonia, T., et al. (2011).
+Identiﬁcation of inducible brown adipocyte progenitors residing in skeletal
+muscle and white fat. Proc. Natl. Acad. Sci. USA 108, 143–148.
+Schulz, T.J., Huang, P., Huang, T.L., Xue, R., McDougall, L.E., Townsend, K.L.,
+Cypess, A.M., Mishina, Y., Gussoni, E., and Tseng, Y.H. (2013). Brown-fat
+paucity due to impaired BMP signalling induces compensatory browning of
+white fat. Nature 495, 379–383.
+Seale, P., Kajimura, S., Yang, W., Chin, S., Rohas, L.M., Uldry, M., Tavernier,
+G., Langin, D., and Spiegelman, B.M. (2007). Transcriptional control of brown
+fat determination by PRDM16. Cell Metab. 6, 38–54.
+Seale, P., Bjork, B., Yang, W., Kajimura, S., Chin, S., Kuang, S., Scime` , A.,
+Devarakonda, S., Conroe, H.M., Erdjument-Bromage, H., et al. (2008).
+PRDM16 controls a brown fat/skeletal muscle switch. Nature 454, 961–967.
+Seale, P., Kajimura, S., and Spiegelman, B.M. (2009). Transcriptional control of
+brown adipocyte development and physiological function—of mice and men.
+Genes Dev. 23, 788–797.
+Sharp, L.Z., Shinoda, K., Ohno, H., Scheel, D.W., Tomoda, E., Ruiz, L., Hu, H.,
+Wang, L., Pavlova, Z., Gilsanz, V., and Kajimura, S. (2012). Human BAT
+possesses molecular signatures that resemble beige/brite cells. PLoS ONE
+7, e49452.
+Shetty, S., Kusminski, C.M., and Scherer, P.E. (2009). Adiponectin in health
+and disease: evaluation of adiponectin-targeted drug development strategies.
+Trends Pharmacol. Sci. 30, 234–239.
+Shi, H., Kokoeva, M.V., Inouye, K., Tzameli, I., Yin, H., and Flier, J.S. (2006).
+TLR4 links innate immunity and fatty acid-induced insulin resistance. J. Clin.
+Invest. 116, 3015–3025.
+Shi, H., Strader, A.D., Woods, S.C., and Seeley, R.J. (2007). The effect of fat
+removal on glucose tolerance is depot speciﬁc in male and female mice.
+Am. J. Physiol. Endocrinol. Metab. 293, E1012–E1020.
+Shimano, H., Shimomura, I., Hammer, R.E., Herz, J., Goldstein, J.L., Brown,
+M.S., and Horton, J.D. (1997). Elevated levels of SREBP-2 and cholesterol
+synthesis in livers of mice homozygous for a targeted disruption of the
+SREBP-1 gene. J. Clin. Invest. 100, 2115–2124.
+Shimizu, M., Yamashita, D., Yamaguchi, T., Hirose, F., and Osumi, T. (2006).
+Aspects of the regulatory mechanisms of PPAR functions: analysis of a bidi-
+rectional response element and regulation by sumoylation. Mol. Cell. Biochem.
+286, 33–42.
+Siersbaek, R., Nielsen, R., and Mandrup, S. (2012). Transcriptional networks
+and chromatin remodeling controlling adipogenesis. Trends Endocrinol.
+Metab. 23, 56–64.
+42 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
+Silva, J.E., and Larsen, P.R. (1985). Potential of brown adipose tissue type II
+thyroxine 50 -deiodinase as a local and systemic source of triiodothyronine in
+rats. J. Clin. Invest. 76, 2296–2305.
+Singleton, A.J. (2008). Cultural History of the Buttocks. In Cultural Encyclo-
+pedia of the Body, V. Pitts-Taylor, ed. (Westport, CT: ABC-CLIO/Greenwood).
+Soccio, R.E., Tuteja, G., Everett, L.J., Li, Z., Lazar, M.A., and Kaestner, K.H.
+(2011). Species-speciﬁc strategies underlying conserved functions of meta-
+bolic transcription factors. Mol. Endocrinol. 25, 694–706.
+Spalding, K.L., Arner, E., Westermark, P.O., Bernard, S., Buchholz, B.A., Berg-
+mann, O., Blomqvist, L., Hoffstedt, J., Na¨ slund, E., Britton, T., et al. (2008).
+Dynamics of fat cell turnover in humans. Nature 453, 783–787.
+Stanford, K.I., Middelbeek, R.J., Townsend, K.L., An, D., Nygaard, E.B.,
+Hitchcox, K.M., Markan, K.R., Nakano, K., Hirshman, M.F., Tseng, Y.H., and
+Goodyear, L.J. (2013). Brown adipose tissue regulates glucose homeostasis
+and insulin sensitivity. J. Clin. Invest. 123, 215–223.
+Steppan, C.M., and Lazar, M.A. (2004). The current biology of resistin. J. Intern.
+Med. 255, 439–447.
+Strissel, K.J., Stancheva, Z., Miyoshi, H., Perﬁeld, J.W., 2nd, DeFuria, J., Jick,
+Z., Greenberg, A.S., and Obin, M.S. (2007). Adipocyte death, adipose tissue
+remodeling, and obesity complications. Diabetes 56, 2910–2918.
+Sun, K., Wernstedt Asterholm, I., Kusminski, C.M., Bueno, A.C., Wang, Z.V.,
+Pollard, J.W., Brekken, R.A., and Scherer, P.E. (2012). Dichotomous effects
+of VEGF-A on adipose tissue dysfunction. Proc. Natl. Acad. Sci. USA 109,
+5874–5879.
+Sun, K., Tordjman, J., Cle´ ment, K., and Scherer, P.E. (2013a). Fibrosis and
+adipose tissue dysfunction. Cell Metab. 18, 470–477.
+Sun, L., Goff, L.A., Trapnell, C., Alexander, R., Lo, K.A., Hacisuleyman, E.,
+Sauvageau, M., Tazon-Vega, B., Kelley, D.R., Hendrickson, D.G., et al.
+(2013b). Long noncoding RNAs regulate adipogenesis. Proc. Natl. Acad.
+Sci. USA 110, 3387–3392.
+Symonds, M.E. (2013). Brown adipose tissue growth and development. Scien-
+tiﬁca (Cairo) 2013, 305763.
+Tang, W., Zeve, D., Suh, J.M., Bosnakovski, D., Kyba, M., Hammer, R.E.,
+Tallquist, M.D., and Graff, J.M. (2008). White fat progenitor cells reside in the
+adipose vasculature. Science 322, 583–586.
+Tang, W., Zeve, D., Seo, J., Jo, A.Y., and Graff, J.M. (2011). Thiazolidinediones
+regulate adipose lineage dynamics. Cell Metab. 14, 116–122.
+Tchkonia, T., Thomou, T., Zhu, Y., Karagiannides, I., Pothoulakis, C., Jensen,
+M.D., and Kirkland, J.L. (2013). Mechanisms and metabolic implications of
+regional differences among fat depots. Cell Metab. 17, 644–656.
+Tchoukalova, Y.D., Votruba, S.B., Tchkonia, T., Giorgadze, N., Kirkland, J.L.,
+and Jensen, M.D. (2010). Regional differences in cellular mechanisms of
+adipose tissue gain with overfeeding. Proc. Natl. Acad. Sci. USA 107,
+18226–18231.
+Teruel, T., Hernandez, R., Benito, M., and Lorenzo, M. (2003). Rosiglitazone
+and retinoic acid induce uncoupling protein-1 (UCP-1) in a p38 mitogen-acti-
+vated protein kinase-dependent manner in fetal primary brown adipocytes.
+J. Biol. Chem. 278, 263–269.
+Timmons, J.A., Wennmalm, K., Larsson, O., Walden, T.B., Lassmann, T., Pet-
+rovic, N., Hamilton, D.L., Gimeno, R.E., Wahlestedt, C., Baar, K., et al. (2007).
+Myogenic gene expression signature establishes that brown and white adipo-
+cytes originate from distinct cell lineages. Proc. Natl. Acad. Sci. USA 104,
+4401–4406.
+Tontonoz, P., and Spiegelman, B.M. (2008). Fat and beyond: the diverse
+biology of PPARgamma. Annu. Rev. Biochem. 77, 289–312.
+Tontonoz, P., Hu, E., and Spiegelman, B.M. (1994). Stimulation of adipogene-
+sis in ﬁbroblasts by PPAR gamma 2, a lipid-activated transcription factor. Cell
+79, 1147–1156.
+Trajkovski, M., and Lodish, H. (2013). MicroRNA networks regulate develop-
+ment of brown adipocytes. Trends Endocrinol. Metab. 24, 442–450.
+Tran, T.T., and Kahn, C.R. (2010). Transplantation of adipose tissue and stem
+cells: role in metabolism and disease. Nat. Rev. Endocrinol. 6, 195–213.
+Tran, K.V., Gealekman, O., Frontini, A., Zingaretti, M.C., Morroni, M.,
+Giordano, A., Smorlesi, A., Perugini, J., De Matteis, R., Sbarbati, A., et al.
+(2012). The vascular endothelium of the adipose tissue gives rise to both white
+and brown fat cells. Cell Metab. 15, 222–229.
+Trayhurn, P. (2013). Hypoxia and adipose tissue function and dysfunction in
+obesity. Physiol. Rev. 93, 1–21.
+Turer, A.T., and Scherer, P.E. (2012). Adiponectin: mechanistic insights and
+clinical implications. Diabetologia 55, 2319–2326.
+Turer, A.T., Khera, A., Ayers, C.R., Turer, C.B., Grundy, S.M., Vega, G.L., and
+Scherer, P.E. (2011). Adipose tissue mass and location affect circulating
+adiponectin levels. Diabetologia 54, 2515–2524.
+Uezumi, A., Fukada, S., Yamamoto, N., Takeda, S., and Tsuchida, K. (2010).
+Mesenchymal progenitors distinct from satellite cells contribute to ectopic
+fat cell formation in skeletal muscle. Nat. Cell Biol. 12, 143–152.
+van der Lans, A.A., Hoeks, J., Brans, B., Vijgen, G.H., Visser, M.G., Vosselman,
+M.J., Hansen, J., Jo¨ rgensen, J.A., Wu, J., Mottaghy, F.M., et al. (2013). Cold
+acclimation recruits human brown fat and increases nonshivering thermogen-
+esis. J. Clin. Invest. 123, 3395–3403.
+van Marken Lichtenbelt, W.D., and Schrauwen, P. (2011). Implications of
+nonshivering thermogenesis for energy balance regulation in humans. Am. J.
+Physiol. Regul. Integr. Comp. Physiol. 301, R285–R296.
+van Marken Lichtenbelt, W.D., Vanhommerig, J.W., Smulders, N.M., Dros-
+saerts, J.M., Kemerink, G.J., Bouvy, N.D., Schrauwen, P., and Teule, G.J.
+(2009). Cold-activated brown adipose tissue in healthy men. N. Engl. J. Med.
+360, 1500–1508.
+Vegiopoulos, A., Mu¨ ller-Decker, K., Strzoda, D., Schmitt, I., Chichelnitskiy, E.,
+Ostertag, A., Berriel Diaz, M., Rozman, J., Hrabe de Angelis, M., Nu¨ sing, R.M.,
+et al. (2010). Cyclooxygenase-2 controls energy homeostasis in mice by de
+novo recruitment of brown adipocytes. Science 328, 1158–1161.
+Velders, G.J., Ravishankara, A.R., Miller, M.K., Molina, M.J., Alcamo, J.,
+Daniel, J.S., Fahey, D.W., Montzka, S.A., and Reimann, S. (2012). Climate
+change. Preserving Montreal Protocol climate beneﬁts by limiting HFCs.
+Science 335, 922–923.
+Villanueva, C.J., Vergnes, L., Wang, J., Drew, B.G., Hong, C., Tu, Y., Hu, Y.,
+Peng, X., Xu, F., Saez, E., et al. (2013). Adipose subtype-selective recruitment
+of TLE3 or Prdm16 by PPARg speciﬁes lipid storage versus thermogenic gene
+programs. Cell Metab. 17, 423–435.
+Villarroya, F., and Vidal-Puig, A. (2013). Beyond the sympathetic tone: the new
+brown fat activators. Cell Metab. 17, 638–643.
+Villarroya, J., Cereijo, R., and Villarroya, F. (2013). An endocrine role for brown
+adipose tissue? Am. J. Physiol. Endocrinol. Metab. 305, E567–E572.
+Virtanen, K.A., Lidell, M.E., Orava, J., Heglind, M., Westergren, R., Niemi, T.,
+Taittonen, M., Laine, J., Savisto, N.J., Enerba¨ ck, S., and Nuutila, P. (2009).
+Functional brown adipose tissue in healthy adults. N. Engl. J. Med. 360,
+1518–1525.
+Vitali, A., Murano, I., Zingaretti, M.C., Frontini, A., Ricquier, D., and Cinti, S.
+(2012). The adipose organ of obesity-prone C57BL/6J mice is composed of
+mixed white and brown adipocytes. J. Lipid Res. 53, 619–629.
+Walde´ n, T.B., Hansen, I.R., Timmons, J.A., Cannon, B., and Nedergaard, J.
+(2012). Recruited vs. nonrecruited molecular signatures of brown, ‘‘brite,’’
+and white adipose tissues. Am. J. Physiol. Endocrinol. Metab. 302, E19–E31.
+Wang, Q.A., Tao, C., Gupta, R.K., and Scherer, P.E. (2013). Tracking adipo-
+genesis during white adipose tissue development, expansion and regenera-
+tion. Nat. Med. 19, 1338–1344.
+Wassermann, F. (1965). The Development of Adipose Tissue. In Handbook of
+Physiology: Adipose Tissue, A.E. Renold and G.F. Cahill, eds. (Washington,
+DC: American Physiological Society), pp. 87–100.
+Watanabe, M., Houten, S.M., Mataki, C., Christoffolete, M.A., Kim, B.W., Sato,
+H., Messaddeq, N., Harney, J.W., Ezaki, O., Kodama, T., et al. (2006). Bile
+acids induce energy expenditure by promoting intracellular thyroid hormone
+activation. Nature 439, 484–489.
+Cell 156, January 16, 2014 ª2014 Elsevier Inc. 43
+Weisberg, S.P., McCann, D., Desai, M., Rosenbaum, M., Leibel, R.L., and
+Ferrante, A.W., Jr. (2003). Obesity is associated with macrophage accumula-
+tion in adipose tissue. J. Clin. Invest. 112, 1796–1808.
+Wellen, K.E., Fucho, R., Gregor, M.F., Furuhashi, M., Morgan, C., Lindstad, T.,
+Vaillancourt, E., Gorgun, C.Z., Saatcioglu, F., and Hotamisligil, G.S. (2007).
+Coordinated regulation of nutrient and inﬂammatory responses by STAMP2
+is essential for metabolic homeostasis. Cell 129, 537–548.
+Whittle, A.J., Carobbio, S., Martins, L., Slawik, M., Hondares, E., Va´ zquez,
+M.J., Morgan, D., Csikasz, R.I., Gallego, R., Rodriguez-Cuenca, S., et al.
+(2012). BMP8B increases brown adipose tissue thermogenesis through both
+central and peripheral actions. Cell 149, 871–885.
+Woo, Y.C., Xu, A., Wang, Y., and Lam, K.S. (2013). Fibroblast growth factor 21
+as an emerging metabolic regulator: clinical perspectives. Clin. Endocrinol.
+(Oxf.) 78, 489–496.
+Wrann, C.D., Eguchi, J., Bozec, A., Xu, Z., Mikkelsen, T., Gimble, J., Nave, H.,
+Wagner, E.F., Ong, S.E., and Rosen, E.D. (2012). FOSL2 promotes leptin gene
+expression in human and mouse adipocytes. J. Clin. Invest. 122, 1010–1021.
+Wu, Z., Rosen, E.D., Brun, R., Hauser, S., Adelmant, G., Troy, A.E., McKeon,
+C., Darlington, G.J., and Spiegelman, B.M. (1999). Cross-regulation of C/
+EBP alpha and PPAR gamma controls the transcriptional pathway of adipo-
+genesis and insulin sensitivity. Mol. Cell 3, 151–158.
+Wu, D., Molofsky, A.B., Liang, H.E., Ricardo-Gonzalez, R.R., Jouihan, H.A.,
+Bando, J.K., Chawla, A., and Locksley, R.M. (2011). Eosinophils sustain
+adipose alternatively activated macrophages associated with glucose homeo-
+stasis. Science 332, 243–247.
+Wu, J., Bostro¨ m, P., Sparks, L.M., Ye, L., Choi, J.H., Giang, A.H., Khandekar,
+M., Virtanen, K.A., Nuutila, P., Schaart, G., et al. (2012). Beige adipocytes are a
+distinct type of thermogenic fat cell in mouse and human. Cell 150, 366–376.
+Xu, H., Barnes, G.T., Yang, Q., Tan, G., Yang, D., Chou, C.J., Sole, J., Nichols,
+A., Ross, J.S., Tartaglia, L.A., and Chen, H. (2003). Chronic inﬂammation in fat
+plays a crucial role in the development of obesity-related insulin resistance.
+J. Clin. Invest. 112, 1821–1830.
+Xu, Z., Yu, S., Hsu, C.H., Eguchi, J., and Rosen, E.D. (2008). The orphan
+nuclear receptor chicken ovalbumin upstream promoter-transcription factor
+II is a critical regulator of adipogenesis. Proc. Natl. Acad. Sci. USA 105,
+2421–2426.
+Xue, B., Rim, J.S., Hogan, J.C., Coulter, A.A., Koza, R.A., and Kozak, L.P.
+(2007). Genetic variability affects the development of brown adipocytes in
+white fat but not in interscapular brown fat. J. Lipid Res. 48, 41–51.
+Yadav, H., Quijano, C., Kamaraju, A.K., Gavrilova, O., Malek, R., Chen, W.,
+Zerfas, P., Zhigang, D., Wright, E.C., Stuelten, C., et al. (2011). Protection
+from obesity and diabetes by blockade of TGF-b/Smad3 signaling. Cell Metab.
+14, 67–79.
+Yamada, T., Katagiri, H., Ishigaki, Y., Ogihara, T., Imai, J., Uno, K., Hasegawa,
+Y., Gao, J., Ishihara, H., Niijima, A., et al. (2006). Signals from intra-abdominal
+fat modulate insulin and leptin sensitivity through different mechanisms:
+neuronal involvement in food-intake regulation. Cell Metab. 3, 223–229.
+Yamauchi, T., and Kadowaki, T. (2013). Adiponectin receptor as a key player in
+healthy longevity and obesity-related diseases. Cell Metab. 17, 185–196.
+Yamauchi, T., Kamon, J., Waki, H., Murakami, K., Motojima, K., Komeda, K.,
+Ide, T., Kubota, N., Terauchi, Y., Tobe, K., et al. (2001). The mechanisms by
+which both heterozygous peroxisome proliferator-activated receptor gamma
+(PPARgamma) deﬁciency and PPARgamma agonist improve insulin resis-
+tance. J. Biol. Chem. 276, 41245–41254.
+Yan, Q.W., Yang, Q., Mody, N., Graham, T.E., Hsu, C.H., Xu, Z., Houstis, N.E.,
+Kahn, B.B., and Rosen, E.D. (2007). The adipokine lipocalin 2 is regulated by
+obesity and promotes insulin resistance. Diabetes 56, 2533–2540.
+Yang, Q., Graham, T.E., Mody, N., Preitner, F., Peroni, O.D., Zabolotny, J.M.,
+Kotani, K., Quadro, L., and Kahn, B.B. (2005). Serum retinol binding protein 4
+contributes to insulin resistance in obesity and type 2 diabetes. Nature 436,
+356–362.
+Yang, X., Lu, X., Lombe` s, M., Rha, G.B., Chi, Y.I., Guerin, T.M., Smart, E.J., and
+Liu, J. (2010). The G(0)/G(1) switch gene 2 regulates adipose lipolysis through
+association with adipose triglyceride lipase. Cell Metab. 11, 194–205.
+Ye, L., Wu, J., Cohen, P., Kazak, L., Khandekar, M.J., Jedrychowski, M.P.,
+Zeng, X., Gygi, S.P., and Spiegelman, B.M. (2013). Fat cells directly sense
+temperature to activate thermogenesis. Proc. Natl. Acad. Sci. USA 110,
+12480–12485.
+Yoneshiro, T., Aita, S., Matsushita, M., Kayahara, T., Kameya, T., Kawai, Y.,
+Iwanaga, T., and Saito, M. (2013). Recruited brown adipose tissue as an anti-
+obesity agent in humans. J. Clin. Invest. 123, 3404–3408.
+Young, S.G., and Zechner, R. (2013). Biochemistry and pathophysiology of
+intravascular and intracellular lipolysis. Genes Dev. 27, 459–484.
+Zamani, N., and Brown, C.W. (2011). Emerging roles for the transforming
+growth factor-beta superfamily in regulating adiposity and energy expenditure.
+Endocr. Rev. 32, 387–403.
+44 Cell 156, January 16, 2014 ª2014 Elsevier Inc.
